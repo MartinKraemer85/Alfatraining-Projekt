@@ -1,0 +1,6 @@
+###### Requirements without Version Specifiers ######
+Flask-HTTPAuth
+Flask
+sphinx
+sphinx-rtd-theme
+# sphinx-toolbox --user
