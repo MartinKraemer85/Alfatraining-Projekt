@@ -4,4 +4,5 @@ Flask
 docutils
 sphinx
 sphinx-rtd-theme
+mysql-connector-python
 # sphinx-toolbox --user
