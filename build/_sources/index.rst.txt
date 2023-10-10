@@ -11,7 +11,8 @@ Welcome to Plattenfreude's documentation! ;)
    :caption: Contents:
 
    Routes
-   how_to_docu
+   Model
+   HowToDocu
 
 
 Indices and tables

@@ -4,7 +4,7 @@
   <meta charset="utf-8" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>How to - Docu &mdash; Plattenfreude - documentation</title>
+  <title>Model documentation &mdash; Plattenfreude - documentation</title>
       <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
       <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
   <!--[if lt IE 9]>
@@ -20,7 +20,8 @@
     <script src="_static/js/theme.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
-    <link rel="prev" title="Routes: Article" href="Routes/Auth.html" /> 
+    <link rel="next" title="Model: Record" href="Model/Vinyl/Record.html" />
+    <link rel="prev" title="Routes: Auth" href="Routes/Auth.html" /> 
 </head>
 
 <body class="wy-body-for-nav"> 
@@ -40,8 +41,13 @@
         </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
               <p class="caption" role="heading"><span class="caption-text">Contents:</span></p>
 <ul class="current">
-<li class="toctree-l1"><a class="reference internal" href="Routes.html">NFZ invoice Extraction documentation</a></li>
-<li class="toctree-l1 current"><a class="current reference internal" href="#">How to - Docu</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Routes.html">Route documentation</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Model documentation</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="Model/Vinyl/Record.html">Model: Record</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Model/Vinyl/Track.html">Model: Track</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="HowToDocu.html">How to - Docu</a></li>
 </ul>
 
         </div>
@@ -58,9 +64,9 @@
           <div role="navigation" aria-label="Page navigation">
   <ul class="wy-breadcrumbs">
       <li><a href="index.html" class="icon icon-home"></a></li>
-      <li class="breadcrumb-item active">How to - Docu</li>
+      <li class="breadcrumb-item active">Model documentation</li>
       <li class="wy-breadcrumbs-aside">
-            <a href="_sources/how_to_docu.rst.txt" rel="nofollow"> View page source</a>
+            <a href="_sources/Model.rst.txt" rel="nofollow"> View page source</a>
       </li>
   </ul>
   <hr/>
@@ -68,65 +74,39 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
            <div itemprop="articleBody">
              
-  <section id="how-to-docu">
-<h1>How to - Docu<a class="headerlink" href="#how-to-docu" title="Permalink to this heading"></a></h1>
-<ol class="arabic">
-<li><p><strong>installs</strong></p>
-<blockquote>
-<div><ul class="simple">
-<li><p>python -m pip install sphinx</p></li>
-<li><p>pip install sphinx-rtd-theme</p></li>
-<li><p>python(3) -m pip install sphinx-toolbox –user</p></li>
+  <section id="model-documentation">
+<h1>Model documentation<a class="headerlink" href="#model-documentation" title="Permalink to this heading"></a></h1>
+<div class="line-block">
+<div class="line">The different models (i.e. the Vinyl Record).</div>
+</div>
+<div class="toctree-wrapper compound">
+<p class="caption" role="heading"><span class="caption-text">Model</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="Model/Vinyl/Record.html">Model: Record</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="Model/Vinyl/Record.html#Model.Vinyl.Record.Record"><code class="docutils literal notranslate"><span class="pre">Record</span></code></a><ul>
+<li class="toctree-l3"><a class="reference internal" href="Model/Vinyl/Record.html#Model.Vinyl.Record.Record.add_track"><code class="docutils literal notranslate"><span class="pre">Record.add_track()</span></code></a></li>
+<li class="toctree-l3"><a class="reference internal" href="Model/Vinyl/Record.html#Model.Vinyl.Record.Record.dict"><code class="docutils literal notranslate"><span class="pre">Record.dict()</span></code></a></li>
 </ul>
-</div></blockquote>
 </li>
-<li><p><strong>initial setup</strong></p>
-<blockquote>
-<div><ul class="simple">
-<li><p>sphinx-quickstart</p></li>
 </ul>
-</div></blockquote>
 </li>
-<li><p><strong>add extensions</strong></p>
-<blockquote>
-<div><ul class="simple">
-<li><p>extensions = [‘sphinx.ext.todo’, ‘sphinx.ext.viewcode’, ‘sphinx.ext.autodoc’]</p></li>
+<li class="toctree-l1"><a class="reference internal" href="Model/Vinyl/Track.html">Model: Track</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="Model/Vinyl/Track.html#Model.Vinyl.Track.Track"><code class="docutils literal notranslate"><span class="pre">Track</span></code></a><ul>
+<li class="toctree-l3"><a class="reference internal" href="Model/Vinyl/Track.html#Model.Vinyl.Track.Track.dict"><code class="docutils literal notranslate"><span class="pre">Track.dict()</span></code></a></li>
 </ul>
-</div></blockquote>
 </li>
-<li><p><strong>set theme in source/conf.py</strong></p>
-<blockquote>
-<div><ul class="simple">
-<li><p>html_theme = ‘sphinx_rtd_theme’</p></li>
 </ul>
-</div></blockquote>
 </li>
-<li><p><strong>add syspath in source/conf.py (for autodocumentation)</strong></p>
-<blockquote>
-<div><ul class="simple">
-<li><p>import os</p></li>
-<li><p>import sys</p></li>
-<li><p>sys.path.insert(0, os.path.abspath(“../”))</p></li>
 </ul>
-</div></blockquote>
-</li>
-<li><p><strong>build</strong></p>
-<blockquote>
-<div><ul class="simple">
-<li><p>sphinx-build -b html source build</p></li>
-</ul>
-</div></blockquote>
-</li>
-<li><p>documentation example:</p></li>
-</ol>
-<a class="reference internal image-reference" href="_images/docu_example.png"><img alt="_images/docu_example.png" src="_images/docu_example.png" style="width: 600px;" /></a>
+</div>
 </section>
 
 
            </div>
           </div>
           <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
-        <a href="Routes/Auth.html" class="btn btn-neutral float-left" title="Routes: Article" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="Routes/Auth.html" class="btn btn-neutral float-left" title="Routes: Auth" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="Model/Vinyl/Record.html" class="btn btn-neutral float-right" title="Model: Record" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
     </div>
 
   <hr/>

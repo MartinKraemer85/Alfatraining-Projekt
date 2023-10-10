@@ -34,3 +34,7 @@ How to - Docu
 
 .. image:: docu_example.png
     :width: 600
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Docu
