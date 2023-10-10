@@ -1,6 +1,7 @@
 ###### Requirements without Version Specifiers ######
 Flask-HTTPAuth
 Flask
+docutils
 sphinx
 sphinx-rtd-theme
 # sphinx-toolbox --user

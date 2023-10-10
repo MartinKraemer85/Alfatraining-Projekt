@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html class="writer-html5" lang="en" >
 <head>
-  <meta charset="utf-8" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
+  <meta charset="utf-8" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Routes: Article &mdash; Plattenfreude - documentation</title>
@@ -43,7 +43,10 @@
 <ul class="current">
 <li class="toctree-l1 current"><a class="reference internal" href="../Routes.html">NFZ invoice Extraction documentation</a><ul class="current">
 <li class="toctree-l2"><a class="reference internal" href="Article.html">Routes: Article</a></li>
-<li class="toctree-l2 current"><a class="current reference internal" href="#">Routes: Article</a></li>
+<li class="toctree-l2 current"><a class="current reference internal" href="#">Routes: Article</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#Routes.Auth.verify_password"><code class="docutils literal notranslate"><span class="pre">verify_password()</span></code></a></li>
+</ul>
+</li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="../how_to_docu.html">How to - Docu</a></li>
@@ -77,6 +80,23 @@
   <section id="routes-article">
 <h1>Routes: Article<a class="headerlink" href="#routes-article" title="Permalink to this heading"></a></h1>
 <p>A route for authentication purposes.</p>
+<span class="target" id="module-Routes.Auth"></span><dl class="py function">
+<dt class="sig sig-object py" id="Routes.Auth.verify_password">
+<span class="sig-prename descclassname"><span class="pre">Routes.Auth.</span></span><span class="sig-name descname"><span class="pre">verify_password</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">username</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">str</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">password</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">str</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">bool</span></span></span><a class="reference internal" href="../_modules/Routes/Auth.html#verify_password"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#Routes.Auth.verify_password" title="Permalink to this definition"></a></dt>
+<dd><p>Password verification</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><ul class="simple">
+<li><p><strong>username</strong> – Name of the user</p></li>
+<li><p><strong>password</strong> – The actual password</p></li>
+</ul>
+</dd>
+<dt class="field-even">Returns</dt>
+<dd class="field-even"><p>Authentication succeeded or not</p>
+</dd>
+</dl>
+</dd></dl>
+
 </section>
 
 
