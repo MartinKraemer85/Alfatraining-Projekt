@@ -1,8 +1,11 @@
 ###### Requirements without Version Specifiers ######
 Flask-HTTPAuth
-Flask
+Flask~=2.1.2
 docutils
-sphinx
+sphinx~=5.3.0
 sphinx-rtd-theme
-mysql-connector-python
+pyodbc~=5.0.0
+pandas
+python-decouple
 # sphinx-toolbox --user
+dataclasses~=0.6
