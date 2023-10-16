@@ -1,8 +1,11 @@
 from flask import Flask
 from Routes.Article import article
-
+from Routes.mail import mail
 app = Flask(__name__)
+
 app.register_blueprint(article)
+app.register_blueprint(mail)
+
 
 # sphinx-build -b html source build
 # pip freeze > requirements.txt
