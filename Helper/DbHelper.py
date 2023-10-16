@@ -18,6 +18,9 @@ class DbHelper:
                                      database=config("DATABASE"),
                                      trusted_connection='yes').cursor()
 
+    def __del__(self):
+        self.cursor.close()
+
     def select(self, table_name: str, where: str, columns: list) -> str:
         """
         Returns the rows for a query in a list.

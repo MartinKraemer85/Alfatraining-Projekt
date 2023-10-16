@@ -13,3 +13,5 @@ app.register_blueprint(article)
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0')
+
+# TODO: Superclass anlegen
