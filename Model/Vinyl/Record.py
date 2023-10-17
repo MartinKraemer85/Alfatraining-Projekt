@@ -22,7 +22,7 @@ class Record(ModelBase):
                 continue
             # also append the tracklist
             for track in value:
-              <  self.tracks.append(self.generate_classinstance("Track", track))
+                self.tracks.append(self.generate_classinstance("Track", track))
 
     def generate_classinstance(self, name: str, properties: dict) -> any:
         """
