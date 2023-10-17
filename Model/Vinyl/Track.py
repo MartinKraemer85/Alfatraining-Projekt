@@ -1,9 +1,9 @@
-from dataclasses import dataclass, asdict
+from Model.ModelBase import *
 from datetime import time
 
 
 @dataclass()
-class Track:
+class Track(ModelBase):
     """
     A class that holds the Article properties
 
@@ -12,6 +12,17 @@ class Track:
     title: str = None
     # the artist of the vinyl record
     length: time = None
+
+    def set_properties(self, properties: dict) -> None:
+        """
+
+
+        :param properties:
+        :return:
+        """
+        for key, value in properties.items():
+            setattr(self, key, value)
+
 
     def dict(self) -> dict:
         """

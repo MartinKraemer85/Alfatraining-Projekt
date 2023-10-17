@@ -14,4 +14,4 @@ def get_article() -> str:
     """
     # TODO: Filter Kram
     db_helper = DbHelper()
-    return db_helper.select("record", "where artist is not null", ["artist", "title"])
+    return db_helper.select("record", ["artist", "title"], "where artist is not null")
