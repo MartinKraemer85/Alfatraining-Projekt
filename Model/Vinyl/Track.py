@@ -1,5 +1,6 @@
-from Model.ModelBase import *
 from datetime import time
+
+from Model.ModelBase import *
 
 
 @dataclass()

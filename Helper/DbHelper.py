@@ -2,7 +2,9 @@ import json
 from dataclasses import dataclass
 import pyodbc
 from decouple import config
+
 from Helper.GeneralHelper import generate_classinstance
+from Model.ModelBase import ModelBase
 
 @dataclass()
 class DbHelper:
@@ -41,13 +43,14 @@ class DbHelper:
         :param values: dict that reflects the object
         :return: None
         """
-        values = {"objectType": "Record",
+        values = {"objectType": "Model.Vinyl.Record.Record",
                   "object":
                       {"title": "test", "artist": "cameltoe",
-                       "tracks": [
+                       "Model.Vinyl.Track.Track": [
                            {"title": "schnupp", "length": "5:23"},
                            {"title": "schnarr", "length": "4:23"}
                        ]},
                   }
 
-        print(generate_classinstance("Record", values))
+        print(generate_classinstance(values.get("objectType"), values))
+

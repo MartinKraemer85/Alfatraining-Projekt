@@ -1,5 +1,5 @@
-from Model.ModelBase import *
 from .Track import Track
+from ..ModelBase import *
 
 
 @dataclass()
@@ -17,26 +17,12 @@ class Record(ModelBase):
 
     def set_properties(self, properties: dict) -> None:
         for key, value in properties.get("object").items():
-            if key != "tracks":
+            if key != "Model.Vinyl.Track.Track":
                 setattr(self, key, value)
                 continue
             # also append the tracklist
             for track in value:
-                self.tracks.append(self.generate_classinstance("Track", track))
-
-    def generate_classinstance(self, name: str, properties: dict) -> any:
-        """
-        Generates a class instance via name and dictionary for the values.
-
-        :param name: Class name
-        :param properties: Properties
-        :return:
-        """
-        print(properties)
-        reference = globals()[name]
-        instance = reference()
-        instance.set_properties(properties)
-        return instance
+                self.tracks.append(generate_classinstance("Model.Vinyl.Track.Track", track))
 
     def dict(self) -> dict:
         """

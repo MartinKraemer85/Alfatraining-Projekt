@@ -1,16 +1,15 @@
-from Model.Vinyl.Record import Record
-from Model.Vinyl.Track import Track
+from pydoc import locate
 
 
-def generate_classinstance(name: str, properties: dict) -> any:
+def generate_classinstance(class_name: str, properties: dict) -> any:
     """
-    Generates a class instance via name and dictionary for the values.
+    Generates a class instance via dotted path and a dictionary for the properties.
 
-    :param name: Class name
+    :param class_name: Class name
     :param properties: Properties
     :return:
     """
-    reference = globals()[name]
-    instance = reference()
-    instance.set_properties(properties)
-    return instance
+    class_ = locate(class_name)
+    class_instance = class_()
+    class_instance.set_properties(properties)
+    return class_instance
