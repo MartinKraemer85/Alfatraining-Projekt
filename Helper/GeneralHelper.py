@@ -7,9 +7,10 @@ def generate_classinstance(class_name: str, properties: dict) -> any:
 
     :param class_name: Class name
     :param properties: Properties
-    :return:
+    :return: any
     """
     class_ = locate(class_name)
     class_instance = class_()
     class_instance.set_properties(properties)
+
     return class_instance

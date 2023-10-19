@@ -24,6 +24,7 @@ class Record(ModelBase):
             for track in value:
                 self.tracks.append(generate_classinstance("Model.Vinyl.Track.Track", track))
 
+
     def dict(self) -> dict:
         """
         Return the record in a dictionary

@@ -24,7 +24,6 @@ class Track(ModelBase):
         for key, value in properties.items():
             setattr(self, key, value)
 
-
     def dict(self) -> dict:
         """
         Return the record in a dictionary

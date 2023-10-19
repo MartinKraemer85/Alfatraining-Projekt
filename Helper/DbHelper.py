@@ -18,19 +18,21 @@ class DbHelper:
         self.cursor = pyodbc.connect(driver=config("DRIVER"),
                                      server=config("SERVER"),
                                      database=config("DATABASE"),
+                                     user=config("USER"),
+                                     password=config("PWD"),
                                      trusted_connection='yes').cursor()
 
     def __del__(self):
         self.cursor.close()
 
-    def select(self, table_name: str, columns: list, where="") -> str:
+    def select(self, table_name: str, columns: list, where: str = "") -> str:
         """
         Returns the rows for a query in a dictionary string.
 
         :param table_name: Table to query
         :param columns: columns to query
         :param where: where condition if needed
-        :return:
+        :return: None
         """
         query = f'SELECT {",".join(columns)} FROM {table_name} {where};'
         ret = [dict(zip(columns, row)) for row in self.cursor.execute(query).fetchall()]
@@ -53,4 +55,5 @@ class DbHelper:
                   }
 
         print(generate_classinstance(values.get("objectType"), values))
+        return None
 
