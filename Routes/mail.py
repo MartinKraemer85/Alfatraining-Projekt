@@ -18,4 +18,3 @@ def send_mail() -> str:
     test_mail()
     return "Klappt"
 
-send_mail()

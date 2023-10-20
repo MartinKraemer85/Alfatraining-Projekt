@@ -1,19 +1,26 @@
+from sqlalchemy import Integer, String
+
 from .Track import Track
 from ..ModelBase import *
 
 
 @dataclass()
-class Record(ModelBase):
+class Record(Base):
     """
     A class that holds the Article properties
 
     """
+
+    __tablename__ = 'Record'
+    id = Column(Integer, primary_key=True)
     # title of the vinyl record
-    title: str = None
+    title = Column('title', String(100))
     # the artist of the vinyl record
-    artist: str = None
-    # all record tracks
-    tracks: list[Track] = field(default_factory=list)
+    artist = Column('artist', String(100))
+    # a list of all tracks
+    # tracks: list[Track] = field(default_factory=list)
+    # tracks: int = Column('artist', Integer())
+    tracks = relationship("Track")
 
     def set_properties(self, properties: dict) -> None:
         for key, value in properties.get("object").items():
@@ -23,7 +30,6 @@ class Record(ModelBase):
             # also append the tracklist
             for track in value:
                 self.tracks.append(generate_classinstance("Model.Vinyl.Track.Track", track))
-
 
     def dict(self) -> dict:
         """

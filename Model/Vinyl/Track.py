@@ -4,23 +4,20 @@ from Model.ModelBase import *
 
 
 @dataclass()
-class Track(ModelBase):
+class Track(Base):
     """
     A class that holds the Article properties
 
     """
+    __tablename__ = 'Track'
+    id = Column(Integer, primary_key=True)
+    record_id = Column(Integer, ForeignKey("Record.id"), nullable=False)
     # title of the vinyl record
-    title: str = None
+    title = Column('title', String(100))
     # the artist of the vinyl record
-    length: time = None
+    length = Column('length', Time())
 
     def set_properties(self, properties: dict) -> None:
-        """
-
-
-        :param properties:
-        :return:
-        """
         for key, value in properties.items():
             setattr(self, key, value)
 

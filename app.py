@@ -1,12 +1,10 @@
 import math
 import urllib
-
 from flask import Flask
-
-
 from Routes.Article import article
 from Routes.mail import mail
 from decouple import config
+
 app = Flask(__name__)
 
 app.register_blueprint(article)
@@ -18,8 +16,6 @@ sphinx-build -b html source build
 Requirement Kram:
 pip freeze > requirements.txt
 """
-
-
 
 # from Helper.DbHelper import DbHelper
 # dbhelper = DbHelper()
@@ -34,23 +30,26 @@ pip freeze > requirements.txt
 # TODO: Superclass anlegen
 
 import sqlalchemy as db
+from Model.Vinyl.Record import Record
+from sqlalchemy import select
+from sqlalchemy.orm import Session
 
-import pyodbc
-#sal.create_engine(‘dialect+driver://username:password@host:port/database’)
-# https://medium.com/@anushkamehra16/connecting-to-sql-database-using-sqlalchemy-in-python-2be2cf883f85
-# print(f"mssql+pyodbc://{config('USER')}:{config('PWD')}@{config('SERVER')}:{config('PORT')}/{config('DATABASE')}?driver=SQL+Server")
-# parsing the url, so spaces i.e. will be replaced with +
-# params = urllib.parse.quote_plus(f"DRIVER={config('ODBC')};SERVER=\'{config('SERVER')}\';DATABASE=\'{config('DATABASE')}\';UID=\'{config('USER')}\';PWD=\'{config('PWD')}\'")
-
-print(f"mssql://@{config('SERVER')}/{config('DATABASE')}?driver={config('ODBC')}")
 engine = db.create_engine(f"mssql://@{config('SERVER')}/{config('DATABASE')}?driver={config('ODBC')}")
 connection = engine.connect()
-metadata = db.MetaData()
-test = db.Table("record", metadata, autoload_with=engine)
-query = db.select([test])
-ResultProxy = connection.execute(query)
-ResultSet = ResultProxy.fetchall()
-print(ResultSet)
-# sql_query = pd.read_sql_query(‘SELECT * FROM database_name.dbo.tablename’, engine)
+
+session = Session(engine)
+
+stmt = select(Record).where(Record.title.in_(["test", "test2"]))
+# print(stmt)
+for record in session.scalars(stmt):
+    print(record)
+#
 # with engine.connect() as conn:
-#     engine.ex
+#     conn.execute(stmt)
+
+
+def faku(n):
+    return n * faku(n - 1) if n > 1 else 1
+#
+#
+print(faku(6))
