@@ -1,9 +1,11 @@
-import math
-import urllib
 from flask import Flask
+from sqlalchemy.orm import Session
+
+from Model.Vinyl.Record import Record
 from Routes.Article import article
 from Routes.mail import mail
 from decouple import config
+import sqlalchemy as db
 
 app = Flask(__name__)
 
@@ -17,39 +19,31 @@ Requirement Kram:
 pip freeze > requirements.txt
 """
 
-# from Helper.DbHelper import DbHelper
-# dbhelper = DbHelper()
-# dbhelper.insert({})
-# print(dbhelper.select("record", "*"))
-# record = Record(title="Schnarr", artist="Muh")
-# record.add_track(Track(title="Niau", length=time(minute=5, second=23)))
+engine = db.create_engine(f"mssql://@{config('SERVER')}/{config('DATABASE')}?driver={config('ODBC')}")
 
 # if __name__ == '__main__':
 #     app.run(host='0.0.0.0')
 
-# TODO: Superclass anlegen
+#---- testing stuff ------------
+from Helper.DbHelper import DbHelper
+test = DbHelper(engine)
 
-import sqlalchemy as db
-from Model.Vinyl.Record import Record
-from sqlalchemy import select
-from sqlalchemy.orm import Session
-
-engine = db.create_engine(f"mssql://@{config('SERVER')}/{config('DATABASE')}?driver={config('ODBC')}")
-connection = engine.connect()
-
-session = Session(engine)
-
-stmt = select(Record).where(Record.title.in_(["test", "test2"]))
-# print(stmt)
-for record in session.scalars(stmt):
-    print(record)
-#
-# with engine.connect() as conn:
-#     conn.execute(stmt)
+# test.db_update({"objectPath": "Model.Vinyl.Record.Record",
+#                 "attributes": [
+#                     {"id": "13", "title": "updat1", "artist": "addd"},
+#                     {"id": "14", "title": "updat2456", "artist": "schnurr"}
+#                 ]})
 
 
-def faku(n):
-    return n * faku(n - 1) if n > 1 else 1
-#
-#
-print(faku(6))
+test.db_insert({"objectPath": "Model.Vinyl.Record.Record",
+                "attributes":
+                    {"title": "asfdgfsd", "artist": "asd",
+                     "Model.Vinyl.Track.Track": [
+                         {"name": "track1", "length": "5:23"},
+                         {"name": "track2", "length": "5:23"},
+                         {"name": "track3", "length": "5:23"},
+                     ]},
+                })
+
+# print(test.delete({"objectPath": "Model.Vinyl.Record.Record",
+#                    "ids": [i for i in range(20, 100)]}))

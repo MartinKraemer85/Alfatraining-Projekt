@@ -5,31 +5,29 @@ from ..ModelBase import *
 
 
 @dataclass()
-class Record(Base):
+class Record(Base, ModelBase):
     """
     A class that holds the Article properties
 
     """
+    __tablename__ = 'record'
 
-    __tablename__ = 'Record'
-    id = Column(Integer, primary_key=True)
-    # title of the vinyl record
-    title = Column('title', String(100))
-    # the artist of the vinyl record
-    artist = Column('artist', String(100))
-    # a list of all tracks
-    # tracks: list[Track] = field(default_factory=list)
-    # tracks: int = Column('artist', Integer())
-    tracks = relationship("Track")
+    id: Mapped[int] = mapped_column(primary_key=True)
+    title: Mapped[str] = mapped_column(String(100))
+    artist: Mapped[str] = mapped_column(String(100))
+
+    tracks: Mapped[List['Track']] = relationship("Track", cascade="all, delete-orphan")
+
 
     def set_properties(self, properties: dict) -> None:
-        for key, value in properties.get("object").items():
+        for key, value in properties.get("attributes").items():
             if key != "Model.Vinyl.Track.Track":
                 setattr(self, key, value)
                 continue
-            # also append the tracklist
-            for track in value:
-                self.tracks.append(generate_classinstance("Model.Vinyl.Track.Track", track))
+            if key == "Model.Vinyl.Track.Track":
+                # also append the tracklist if exists
+                for track in value:
+                    self.tracks.append(generate_classinstance("Model.Vinyl.Track.Track", track))
 
     def dict(self) -> dict:
         """

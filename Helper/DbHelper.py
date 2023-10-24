@@ -1,10 +1,12 @@
 import json
 from dataclasses import dataclass
-import pyodbc
-from decouple import config
+from sqlalchemy import Engine, text, Connection, update, Table, MetaData, select
+from sqlalchemy.exc import ProgrammingError, InternalError, DataError, IntegrityError, ArgumentError
+from sqlalchemy.orm import Session
+from sqlalchemy.orm.exc import UnmappedInstanceError
+from Helper.GeneralHelper import generate_classinstance, get_class
+from Model.Vinyl.Record import Record
 
-from Helper.GeneralHelper import generate_classinstance
-from Model.ModelBase import ModelBase
 
 @dataclass()
 class DbHelper:
@@ -12,18 +14,9 @@ class DbHelper:
     This class holds all the needed functions to query the database.
 
     """
-    cursor: any = None
-
-    def __init__(self):
-        self.cursor = pyodbc.connect(driver=config("DRIVER"),
-                                     server=config("SERVER"),
-                                     database=config("DATABASE"),
-                                     user=config("USER"),
-                                     password=config("PWD"),
-                                     trusted_connection='yes').cursor()
-
-    def __del__(self):
-        self.cursor.close()
+    engine: Engine
+    __conn: Connection = None
+    __metadata_obj = MetaData()
 
     def select(self, table_name: str, columns: list, where: str = "") -> str:
         """
@@ -32,28 +25,134 @@ class DbHelper:
         :param table_name: Table to query
         :param columns: columns to query
         :param where: where condition if needed
-        :return: None
+        :return: The result as string
         """
         query = f'SELECT {",".join(columns)} FROM {table_name} {where};'
-        ret = [dict(zip(columns, row)) for row in self.cursor.execute(query).fetchall()]
+        conn = self.engine.connect()
+        ret = [dict(zip(columns, row)) for row in conn.execute(text(query)).fetchall()]
         return json.dumps(ret, indent=2)
 
-    def insert(self, values: dict) -> None:
+    def db_update(self, values: dict) -> int:
         """
-        Insert values into the db
+        | Perform an update with a dictionary that holds the list of changes.
+        | I.e.:
+        | {"objectPath": "Model.Vinyl.Record.Record",
+        |        "attributes": [
+        |            {"id": "13", "title": "updat1", "artist": "asddds"},
+        |            {"id": "14", "title": "updat2456", "artist": "schnurr"}
+        |        ]})
+
+        :param values: Update dictionary
+        :return: 1 - success
+                 2 - ProgrammingError
+                 3 - InternalError
+                 4 - DataError
+                 5 - UnmappedInstanceError
+                 6 - IntegrityError
+                 7 - ArgumentError
+        """
+
+        with Session(self.engine) as session:
+            try:
+                session.execute(
+                    update(get_class(values.get("objectPath"))),
+                    values.get("attributes")
+                )
+                session.flush()
+                session.commit()
+            except ProgrammingError:
+                return 2
+            except InternalError:
+                return 3
+            except DataError:
+                return 4
+            except UnmappedInstanceError:
+                return 5
+            except IntegrityError:
+                return 6
+            except ArgumentError:
+                return 7
+
+        return 1
+
+    def db_insert(self, values: dict) -> int:
+        """
+        | Insert a new row with the given dictionary. I.e.:
+        | {"objectType": "Model.Vinyl.Record.Record",
+        |           "object":
+        |               {"title": "test", "artist": "cameltoe",
+        |                "Model.Vinyl.Track.Track": [
+        |                    {"name": "schnupp", "length": "5:23"},
+        |                    {"name": "schnarr", "length": "4:23"}
+        |                ]},
+        |           }
 
         :param values: dict that reflects the object
-        :return: None
+        :return: 1 - success
+                 2 - ProgrammingError
+                 3 - InternalError
+                 4 - DataError
+                 5 - UnmappedInstanceError
+                 6 - IntegrityError
+                 7 - ArgumentError
         """
-        values = {"objectType": "Model.Vinyl.Record.Record",
-                  "object":
-                      {"title": "test", "artist": "cameltoe",
-                       "Model.Vinyl.Track.Track": [
-                           {"title": "schnupp", "length": "5:23"},
-                           {"title": "schnarr", "length": "4:23"}
-                       ]},
-                  }
 
-        print(generate_classinstance(values.get("objectType"), values))
-        return None
+        insert_obj = generate_classinstance(values.get("objectPath"), values)
+        with Session(self.engine) as session:
+            try:
+                session.add(insert_obj)
+                session.flush()
+                session.commit()
+            except ProgrammingError:
+                return 2
+            except InternalError:
+                return 3
+            except DataError:
+                return 4
+            except UnmappedInstanceError:
+                return 5
+            except IntegrityError:
+                return 6
+            except ArgumentError:
+                return 7
+        return 1
 
+    def delete(self, values: dict) -> int:
+        """
+        | Delete record(s) by id.
+        | I.e.:
+        | {"objectPath": "Model.Vinyl.Record.Record",
+        |     "ids": [20, 21, 19]}
+
+        :param values: Dictionary with table object and list to delete
+        :return: 1 - success
+                 2 - ProgrammingError
+                 3 - InternalError
+                 4 - DataError
+                 5 - UnmappedInstanceError
+                 6 - IntegrityError
+                 7 - ArgumentError
+        """
+        with Session(self.engine) as session:
+            delete_obj = get_class(values.get("objectPath"))
+            try:
+                delete_obj = get_class(values.get("objectPath"))
+                for id_ in values.get("ids"):
+                    to_delete = session.scalars(select(delete_obj).filter_by(id=id_)).first()
+                    # make sure the element exists
+                    if to_delete:
+                        session.delete(to_delete)
+                session.commit()
+            except ProgrammingError:
+                return 2
+            except InternalError:
+                return 3
+            except DataError:
+                return 4
+            except UnmappedInstanceError:
+                return 5
+            except IntegrityError:
+                return 6
+            except ArgumentError:
+                return 7
+        return 0
