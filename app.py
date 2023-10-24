@@ -35,15 +35,15 @@ test = DbHelper(engine)
 #                 ]})
 
 
-test.db_insert({"objectPath": "Model.Vinyl.Record.Record",
-                "attributes":
-                    {"title": "asfdgfsd", "artist": "asd",
-                     "Model.Vinyl.Track.Track": [
-                         {"name": "track1", "length": "5:23"},
-                         {"name": "track2", "length": "5:23"},
-                         {"name": "track3", "length": "5:23"},
-                     ]},
-                })
+# test.db_insert({"objectPath": "Model.Vinyl.Record.Record",
+#                 "attributes":
+#                     {"title": "asfdgfsd", "artist": "asd",
+#                      "Model.Vinyl.Track.Track": [
+#                          {"name": "track1", "length": "5:23"},
+#                          {"name": "track2", "length": "5:23"},
+#                          {"name": "track3", "length": "5:23"},
+#                      ]},
+#                 })
 
-# print(test.delete({"objectPath": "Model.Vinyl.Record.Record",
-#                    "ids": [i for i in range(20, 100)]}))
+print(test.delete({"objectPath": "Model.Vinyl.Record.Record",
+                   "ids": [i for i in range(20, 100)]}))

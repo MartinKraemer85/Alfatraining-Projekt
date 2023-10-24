@@ -13,6 +13,7 @@ Welcome to Plattenfreude's documentation! ;)
    Routes
    Model
    HowToDocu
+   Helper
 
 
 Indices and tables

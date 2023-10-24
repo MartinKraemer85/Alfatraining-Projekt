@@ -41,6 +41,7 @@
 <li class="toctree-l1"><a class="reference internal" href="../../Routes.html">Route documentation</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../Model.html">Model documentation</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../HowToDocu.html">How to - Docu</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../Helper.html">Helper Documentation</a></li>
 </ul>
 
         </div>
@@ -68,17 +69,23 @@
            <div itemprop="articleBody">
              
   <h1>Source code for Routes.Article</h1><div class="highlight"><pre>
-<span></span>
+<span></span><span class="kn">from</span> <span class="nn">flask</span> <span class="kn">import</span> <span class="n">Blueprint</span>
+<span class="kn">from</span> <span class="nn">Helper.DbHelper</span> <span class="kn">import</span> <span class="n">DbHelper</span>
 
-<span class="c1">#@app.route(&#39;/article&#39;, methods=[&#39;GET&#39;])</span>
-<div class="viewcode-block" id="get_article"><a class="viewcode-back" href="../../Routes/Article.html#Routes.Article.get_article">[docs]</a><span class="k">def</span> <span class="nf">get_article</span><span class="p">(</span><span class="n">filer</span><span class="p">:</span> <span class="nb">dict</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="nb">dict</span><span class="p">:</span>
+<span class="n">article</span> <span class="o">=</span> <span class="n">Blueprint</span><span class="p">(</span><span class="s1">&#39;article&#39;</span><span class="p">,</span> <span class="vm">__name__</span><span class="p">)</span>
+
+
+<div class="viewcode-block" id="get_article"><a class="viewcode-back" href="../../Routes/Article.html#Routes.Article.get_article">[docs]</a><span class="nd">@article</span><span class="o">.</span><span class="n">route</span><span class="p">(</span><span class="s1">&#39;/article&#39;</span><span class="p">,</span> <span class="n">methods</span><span class="o">=</span><span class="p">[</span><span class="s1">&#39;GET&#39;</span><span class="p">])</span>
+<span class="k">def</span> <span class="nf">get_article</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="nb">str</span><span class="p">:</span>
 <span class="w">    </span><span class="sd">&quot;&quot;&quot;</span>
 <span class="sd">    Get an existing article</span>
 
 <span class="sd">    :return: Article</span>
-<span class="sd">    :rtype: dict</span>
+<span class="sd">    :rtype: str[json]</span>
 <span class="sd">    &quot;&quot;&quot;</span>
-    <span class="k">return</span> <span class="p">{</span><span class="s2">&quot;Schnarr&quot;</span><span class="p">:</span> <span class="s2">&quot;Miau&quot;</span><span class="p">}</span></div>
+    <span class="c1"># TODO: Filter Kram</span>
+    <span class="n">db_helper</span> <span class="o">=</span> <span class="n">DbHelper</span><span class="p">()</span>
+    <span class="k">return</span> <span class="n">db_helper</span><span class="o">.</span><span class="n">select</span><span class="p">(</span><span class="s2">&quot;record&quot;</span><span class="p">,</span> <span class="p">[</span><span class="s2">&quot;artist&quot;</span><span class="p">,</span> <span class="s2">&quot;title&quot;</span><span class="p">],</span> <span class="s2">&quot;where artist is not null&quot;</span><span class="p">)</span></div>
 </pre></div>
 
            </div>

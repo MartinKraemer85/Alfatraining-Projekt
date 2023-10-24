@@ -18,7 +18,6 @@ class Record(Base, ModelBase):
 
     tracks: Mapped[List['Track']] = relationship("Track", cascade="all, delete-orphan")
 
-
     def set_properties(self, properties: dict) -> None:
         for key, value in properties.get("attributes").items():
             if key != "Model.Vinyl.Track.Track":

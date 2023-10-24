@@ -103,6 +103,7 @@ class DbHelper:
                 session.add(insert_obj)
                 session.flush()
                 session.commit()
+                return 1
             except ProgrammingError:
                 return 2
             except InternalError:
@@ -115,7 +116,6 @@ class DbHelper:
                 return 6
             except ArgumentError:
                 return 7
-        return 1
 
     def delete(self, values: dict) -> int:
         """
@@ -134,7 +134,6 @@ class DbHelper:
                  7 - ArgumentError
         """
         with Session(self.engine) as session:
-            delete_obj = get_class(values.get("objectPath"))
             try:
                 delete_obj = get_class(values.get("objectPath"))
                 for id_ in values.get("ids"):
@@ -143,6 +142,7 @@ class DbHelper:
                     if to_delete:
                         session.delete(to_delete)
                 session.commit()
+                return 1
             except ProgrammingError:
                 return 2
             except InternalError:
@@ -155,4 +155,4 @@ class DbHelper:
                 return 6
             except ArgumentError:
                 return 7
-        return 0
+
