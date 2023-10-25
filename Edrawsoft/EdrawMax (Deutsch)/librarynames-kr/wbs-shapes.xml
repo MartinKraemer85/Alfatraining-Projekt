@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="WBS Shapes">
+    <Elem NameU="Task Card" Name="작업 카드"/>
+    <Elem NameU="Task Card 2" Name="작업 카드 2"/>
+    <Elem NameU="Task Card 3" Name="작업 카드 3"/>
+    <Elem NameU="Task Card 4" Name="작업 카드 4"/>
+    <Elem NameU="Task Card 5" Name="작업 카드 5"/>
+    <Elem NameU="Task Bar" Name="작업 바"/>
+    <Elem NameU="Main task" Name="메인 작업"/>
+    <Elem NameU="Main task 2" Name="메인 작업 2"/>
+    <Elem NameU="Main task 3" Name="메인 작업 3"/>
+    <Elem NameU="Main task 4" Name="메인 작업 4"/>
+    <Elem NameU="Main task 5" Name="메인 작업 5"/>
+    <Elem NameU="Right Angle Connector" Name="직각 연결선"/>
+    <Elem NameU="Line Connector" Name="직선 연결선"/>
+    <Elem NameU="Dynamical Connector" Name="다이나믹 연결선"/>
+</Lib>

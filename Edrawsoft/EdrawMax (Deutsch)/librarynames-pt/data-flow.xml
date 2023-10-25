@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Data Flow">
+	<Elem NameU="External Entity" Name="Entidade Externa"/>
+	<Elem NameU="Entity" Name="Entidade"/>
+	<Elem NameU="Process" Name="Processo"/>
+	<Elem NameU="Line Connector" Name="Conector em Linha"/>
+	<Elem NameU="State" Name="Estado"/>
+	<Elem NameU="Object" Name="Objeto"/>
+	<Elem NameU="Data Process" Name="Processo de Dados"/>
+	<Elem NameU="Multiply Process" Name="Processo de Multiplicar"/>
+	<Elem NameU="Start State" Name="Iniciar Estado"/>
+	<Elem NameU="Stop State" Name="Parar Estado"/>
+	<Elem NameU="Data Store" Name="Armazenamento de Dados"/>
+	<Elem NameU="Entity Relationship" Name="Relação de Entidades"/>
+	<Elem NameU="Oval Process" Name="Processo Oval"/>
+	<Elem NameU="Center to Center" Name="Centro para Centro"/>
+	<Elem NameU="Loop on Center" Name="Ciclo no Centro"/>
+	<Elem NameU="Object Callout" Name="Chamada de Objeto"/>
+	<Elem NameU="Curve Connector" Name="Conector Curvo"/>
+</Lib>

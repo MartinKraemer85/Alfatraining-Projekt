@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Circular Charting Shapes">
+    <Elem NameU="Circular Motion" Number="3" Name="원형 모션"/>
+    <Elem NameU="Circle" Number="3" Name="서클"/>
+    <Elem NameU="Trapezoid Ring" Name="사다리꼴"/>
+    <Elem NameU="Basic Loop" Name="기본 순환"/>
+    <Elem NameU="Basic Loop 2" Name="기분 순환 2"/>
+    <Elem NameU="Block Loop" Name="블록 순환"/>
+    <Elem NameU="Circle Arrow Loop" Name="원형 화살표 순환"/>
+    <Elem NameU="Divergent Circle" Name="분기 서클"/>
+    <Elem NameU="Divergent Blocks" Name="분기 블록"/>
+    <Elem NameU="Circle Arrow Loop 2" Name="원형 순환 2"/>
+    <Elem NameU="Divergent Circle 2" Name="원형 분산 2"/>
+    <Elem NameU="Highlight Circle" Name="하이라이트 서클"/>
+    <Elem NameU="Circles" Name="서클"/>
+    <Elem NameU="Stack Circles" Name="스택 서클"/>
+    <Elem NameU="Gradient Circle" Name="그라데이션 서클"/>
+    <Elem NameU="Circle Sector" Name="서클 섹터"/>
+    <Elem NameU="Idea Wheel" Name="아이디어 휠"/>
+    <Elem NameU="Circle Pie" Name="원형 파이"/>
+    <Elem NameU="Circle" Name="서클"/>
+    <Elem NameU="Variable Radian Pie" Name="가변 라디안 파이"/>
+    <Elem NameU="Variable Radian Doughnut" Name="가변 라디안 도넛"/>
+    <Elem NameU="Bevel-style Circle Pie" Name="베벨 스타일 서클"/>
+    <Elem NameU="Bevel-style Circle" Name="베벨 스타일 서클"/>
+    <Elem NameU="Circle 5" Name="원형 5"/>
+    <Elem NameU="Bevel-style Circle 2" Name="베벨 스타일 서클 2"/>
+    <Elem NameU="Circle 6" Name="원형 6"/>
+    <Elem NameU="Circle 7" Name="원형 7"/>
+    <Elem NameU="Bevel-style Circle 3" Name="베벨 스타일 서클 3"/>
+    <Elem NameU="Circle 8" Name="원형 8"/>
+    <Elem NameU="Circle 9" Name="원형 9"/>
+    <Elem NameU="Sector Rings" Name="섹터 링"/>
+    <Elem NameU="Trapezoid Rings" Name="사다리꼴 링"/>
+    <Elem NameU="Venn Cycle" Name="벤 사이클"/>
+    <Elem NameU="Multi-arrow Circle" Name="다중 화살표 원"/>
+    <Elem NameU="Arrow Circle" Name="화살표 서클"/>
+    <Elem NameU="Annulus" Name="환형"/>
+</Lib>

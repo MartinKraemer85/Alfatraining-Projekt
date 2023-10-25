@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Qualifying Symbols">
+	<Elem NameU="Preset, general" Name="Preset, generale"/>
+	<Elem NameU="Temperature dependence" Name="Dipendenza dalla temperatura"/>
+	<Elem NameU="Radiation" Name="Radiazione"/>
+	<Elem NameU="Material" Name="Materiale"/>
+	<Elem NameU="Pulse" Name="Impulso"/>
+	<Elem NameU="Alternating pulse" Name="Impulso alternato"/>
+	<Elem NameU="Step function" Name="Funzione gradino"/>
+	<Elem NameU="Step function 2" Name="Funzione gradino 2"/>
+	<Elem NameU="Square wave" Name="Onda quadra"/>
+	<Elem NameU="Sawtooth" Name="Dente di sega"/>
+	<Elem NameU="Sawtooch 2" Name="Dente di sega 2"/>
+	<Elem NameU="Sine wave" Name="Onda sinusoide"/>
+	<Elem NameU="Chopped square wave" Name="Onda quadra interrotta"/>
+	<Elem NameU="Positive polarity" Name="Polarità positiva"/>
+	<Elem NameU="Negative polarity" Name="Polarità negativa"/>
+	<Elem NameU="Alternating current" Name="Corrente alternata"/>
+	<Elem NameU="Neutral symbol" Name="Simbolo neutro"/>
+	<Elem NameU="Midware symbol" Name="Simbolo intermediario"/>
+	<Elem NameU="Multiple-phase" Name="Multifase"/>
+	<Elem NameU="3 separate windings" Name="3 bobine separate"/>
+	<Elem NameU="2-phase 3-wire" Name="2 fasi 3 cavi"/>
+	<Elem NameU="2-phase 4-wire" Name="2 fasi 4 cavi"/>
+	<Elem NameU="3-phase (V)" Name="3 fasi (V)"/>
+	<Elem NameU="3-Phase (T)" Name="3 fasi (T)"/>
+	<Elem NameU="3-phase Delta 1" Name="3 fasi Delta 1"/>
+	<Elem NameU="3-phase Delta 2" Name="3 fasi Delta 2"/>
+	<Elem NameU="3-phase Delta 3" Name="3 fasi Delta 3"/>
+	<Elem NameU="3-phase Delta 4" Name="3 fasi Delta 4"/>
+	<Elem NameU="3-phase star" Name="Stella 3 fasi"/>
+	<Elem NameU="3-phase zigzag" Name="Zigzag 3 fasi"/>
+	<Elem NameU="3-phase 4-wire" Name="3 fasi 4 cavi"/>
+	<Elem NameU="4-phase" Name="4 fasi"/>
+	<Elem NameU="6-phase double star" Name="6 fasi stella doppia"/>
+	<Elem NameU="6-phase double delta" Name="6 fasi delta doppio"/>
+	<Elem NameU="6-phase hexagonal" Name="6 fasi esagonale"/>
+	<Elem NameU="6-phase fork" Name="6 fasi biforcato"/>
+	<Elem NameU="One-way signal" Name="Segnale a una via"/>
+	<Elem NameU="Either way signal" Name="Segnale a due vie"/>
+	<Elem NameU="Both ways signal" Name="Segnale bidirezionale"/>
+	<Elem NameU="Analog signals" Name="Segnali analogici"/>
+	<Elem NameU="Digital signals" Name="Segnali digitali"/>
+	<Elem NameU="Special connector" Name="Connettore speciale"/>
+	<Elem NameU="Coaxial symbol" Name="Simbolo coassiale"/>
+	<Elem NameU="Electret" Name="Elettrete"/>
+</Lib>

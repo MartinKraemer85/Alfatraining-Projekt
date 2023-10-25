@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Aerospace Technology">
+    <Elem NameU="Astronaut 1" Name="우주 비행사1"/>
+    <Elem NameU="Astronaut 2" Name="우주 비행사2"/>
+    <Elem NameU="Astronaut 3" Name="우주 비행사3"/>
+    <Elem NameU="Astronomical Telescope 1" Name="천체 망원경1"/>
+    <Elem NameU="Astronomical Telescope 2" Name="천체 망원경2"/>
+    <Elem NameU="Rocket" Name="로켓"/>
+    <Elem NameU="Satellite 1" Name="위성1"/>
+    <Elem NameU="Satellite 2" Name="위성2"/>
+    <Elem NameU="Launching Tower" Name="런칭 타워"/>
+    <Elem NameU="Plane" Name="비행기"/>
+    <Elem NameU="Earth" Name="지구"/>
+    <Elem NameU="Fighter Aircraft" Number="7" Name="전투기"/>
+    <Elem NameU="Missle 1" Name="미사일1"/>
+    <Elem NameU="Missle 2" Name="미사일2"/>
+    <Elem NameU="High Speed Rail" Name="고속 철도"/>
+    <Elem NameU="Submarine 1" Name="잠수함1"/>
+    <Elem NameU="Submarine 2" Name="잠수함2"/>
+    <Elem NameU="Submarine 3" Name="잠수함3"/>
+    <Elem NameU="Tank" Name="탱크"/>
+</Lib>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Communication">
+    <Elem NameU="Cellular date package" Name="셀룰러 날짜 패키지"/>
+    <Elem NameU="Message service" Name="메세지 서비스"/>
+    <Elem NameU="Short message service" Name="짧은 메시지 서비스"/>
+    <Elem NameU="Voice message service" Name="음성 메시지 서비스"/>
+</Lib>

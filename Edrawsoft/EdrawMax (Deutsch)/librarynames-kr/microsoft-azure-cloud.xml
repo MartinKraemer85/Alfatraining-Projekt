@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Microsoft Azure Cloud">
+    <Elem NameU="Accounts - Microsoft Account" Name="Microsoft 계정"/>
+    <Elem NameU="Accounts - Work Account" Name="작업 계정"/>
+    <Elem NameU="Azure Advisor" Name="Azure 컨설턴트"/>
+    <Elem NameU="Analysis Service" Name="분석 서비스"/>
+    <Elem NameU="Azure Acitve Directory Access Control" Name="Azure활동 목록 접근 통제"/>
+    <Elem NameU="Azure Active Directory Health Monitoring" Name="Azure 활동 목록 건강 모니터링"/>
+    <Elem NameU="Azure Active Directory" Name="Azure 활동 목록"/>
+    <Elem NameU="Azure API Management" Name="Azure API 관리"/>
+    <Elem NameU="Azure App Service - Mobile App (Was Mobile Services)" Name="Azure 앱 서비스 -모바일 앱 (모바일 서비스)"/>
+    <Elem NameU="Azure App Service - Web App (Was Websites)" Name="Azure 앱 서비스 -앱 (웹사이트)"/>
+    <Elem NameU="Azure App Service - Worker Pools" Name="Azure앱 서비스 -근로자 풀"/>
+    <Elem NameU="Azure App Service" Name="Azure 앱 서비스"/>
+    <Elem NameU="Azure Application Gateway" Name="Azure 앱 게이트웨이"/>
+    <Elem NameU="Azure Application Insights" Name="Azure 앱 인사이트"/>
+    <Elem NameU="Azure Automation - Runbooks" Name="Azure자동 운행 매뉴얼"/>
+    <Elem NameU="Azure Automation" Name="Azure 자동화"/>
+    <Elem NameU="Azure Backup - Backup Agent" Name="Azure 백업 에이전트"/>
+    <Elem NameU="Azure Backup - Recovery Vault" Name="Azure 백업-회복"/>
+    <Elem NameU="Azure Backup" Name="Azure 백업"/>
+    <Elem NameU="Azure Batch" Name="Azure 일괄 처리"/>
+    <Elem NameU="Azure BizTalk Services - Hybrid Connection Manager" Name="Azure BizTalk 서비스 - 하이브리드 연결 관리"/>
+    <Elem NameU="Azure BizTalk Services - Hybrid Connections" Name="Azure BizTalk 서비스 - 하이브리드 연결 관리"/>
+    <Elem NameU="Azure BizTalk Services" Name="Azure BizTalk 서비스"/>
+    <Elem NameU="Azure Bot Services" Name="Azure Bot 서비스"/>
+    <Elem NameU="Azure Cache Including Redis" Name="Azure 캐시"/>
+    <Elem NameU="Azure Cloud Service" Name="Azure 클라우드 서비스"/>
+    <Elem NameU="Azure Cloud Services - Web Role" Name="Azure 클라우드 서비스 지원-네트워크"/>
+    <Elem NameU="Azure Cloud Services - Web Roles" Name="Azure클라우드 서비스 지원-네트워크 역할"/>
+    <Elem NameU="Azure Cloud Services - Worker Role" Name="Azure 클라우드 서비스"/>
+    <Elem NameU="Azure Cloud Services - Worker Roles" Name="Azure클라우드 서비스"/>
+    <Elem NameU="Azure Cognitive Services" Name="Azure 인지 서비스"/>
+    <Elem NameU="Azure Compute - Autoscaling" Name="Azure
+자동 확장"/>
+    <Elem NameU="Azure Container Registry" Name="Azure 컨테이너 등록"/>
+    <Elem NameU="Azure Container Service" Name="Azure 컨테이너 서비스"/>
+    <Elem NameU="Azure Content Delivery Network (CDN)" Name="Azure 콘텐츠 전송 네트워크"/>
+    <Elem NameU="Azure Cortona Management Suite" Name="Azure Cortona Management Suite"/>
+    <Elem NameU="Azure Data Catalog" Name="Azure데이터 목록"/>
+    <Elem NameU="Azure Data Factory" Name="Azure데이터 공장"/>
+    <Elem NameU="Azure Data Lake Analytics" Name="Azure데이터 레이크 분석"/>
+    <Elem NameU="Azure Data Lake Store" Name="Azure데이터 레이크 저장"/>
+    <Elem NameU="Azure Data Lake" Name="Azure데이터 레이크"/>
+    <Elem NameU="Azure Data Warehouse" Name="Azure데이터 창고"/>
+    <Elem NameU="Azure Database General_COLOR" Name="Azure데이터베이스"/>
+    <Elem NameU="Azure DataServices Category Rollup" Name="Azure데이터 서비스 목록"/>
+    <Elem NameU="Azure DevTest Labs" Name="Azure DevTest 실험실"/>
+    <Elem NameU="Azure DNS" Name="Azure DNS"/>
+    <Elem NameU="Azure DocumentDB - Database" Name="Azure DocumentDB - 데이터베이스"/>
+    <Elem NameU="Azure DocumentDB - DocDB Account" Name="Azure DocumentDB - 계정"/>
+    <Elem NameU="Azure DocumentDB - DocDB Collections 1" Name="Azure DocumentDB - 집합1"/>
+    <Elem NameU="Azure DocumentDB - Document 2" Name="Azure DocumentDB - 파일 2"/>
+    <Elem NameU="Azure DocumentDB" Name="Azure DocumentDB"/>
+    <Elem NameU="Azure Event Hubs" Name="Azure 이벤트 허브"/>
+    <Elem NameU="Azure ExpressRoute" Name="개인 클라우드 연결"/>
+    <Elem NameU="Azure Functions" Name="Azure 기능"/>
+    <Elem NameU="Azure HDInsight" Name="Azure HDInsight"/>
+    <Elem NameU="Azure HockeyApp" Name="Azure HockeyApp"/>
+    <Elem NameU="Azure IoT Hub" Name="Azure IoT Hub"/>
+    <Elem NameU="Azure Key Vault" Name="Azure Key Vault"/>
+    <Elem NameU="Azure load Balancer (Automatic)" Name="Azur부하 분산 장치（자동）"/>
+    <Elem NameU="Azure Load Balancer (Feature)" Name="Azure부하 분산 장치(특징)"/>
+    <Elem NameU="Azure Logic Apps" Name="로직 앱 "/>
+    <Elem NameU="Azure Machine Learning" Name="Azure 머신 런닝"/>
+    <Elem NameU="Azure Management Portal" Name="Azure 관리 포털"/>
+    <Elem NameU="Azure Media Services" Name="Azure 미디어 서비스"/>
+    <Elem NameU="Azure Mobile Engagement" Name="Azure모바일 참여"/>
+    <Elem NameU="Azure Monitor" Name="Azure 모니터"/>
+    <Elem NameU="Azure Multi-Factor Authentication" Name="Azure다중 인증"/>
+    <Elem NameU="Azure MySQL ClearDB Database" Name="Azure MySQL ClearDB데이터베이스"/>
+    <Elem NameU="Azure Notification Hubs" Name="Azure알림 센터"/>
+    <Elem NameU="Azure RemoteApp" Name="Azure원격 앱 "/>
+    <Elem NameU="Azure Rights Management (RMS)" Name="Azure권한 관리"/>
+    <Elem NameU="Azure Scheduler" Name="Azure 스케줄러"/>
+    <Elem NameU="Azure SDK" Number="2" Name="Azure SDK"/>
+    <Elem NameU="Azure Search" Name="Azure 검색"/>
+    <Elem NameU="Azure Security Center" Name="Azure보안 센터"/>
+    <Elem NameU="Azure Service Bus" Name="Azure메시지 서비스"/>
+    <Elem NameU="Azure Service Bus Queues" Name="Azure메시지 서비스 열"/>
+    <Elem NameU="Azure Service Bus Relay" Name="Azure메시지 서비스 릴레이"/>
+    <Elem NameU="Azure Service Bus Topics" Name="Azure메시지 서비스 주제"/>
+    <Elem NameU="Azure Service Fabric" Name="Azure 서비스 패브릭"/>
+    <Elem NameU="Azure Site Recovery" Name="Azure 사이트 회복"/>
+    <Elem NameU="Azure SQL Database (Generic)" Name="Azure SQL기초 데이터베이스"/>
+    <Elem NameU="Azure SQL Database Premium" Name="Azure SQL 프리미엄 데이터베이스"/>
+    <Elem NameU="Azure SQL Database" Name="Azure SQL 데이터 베이스"/>
+    <Elem NameU="Azure SQL DataSync" Name="Azure SQL 데이터 동기화"/>
+    <Elem NameU="Azure SQL DataWarehouse" Name="Azure SQL 데이터 창고"/>
+    <Elem NameU="Azure SQL Stretch Database" Name="Azure SQL 데이터 창고 확장"/>
+    <Elem NameU="Azure Stack" Name="Azure 스택"/>
+    <Elem NameU="Azure Storage - Blob" Name="Azure 개체 저장"/>
+    <Elem NameU="Azure Storage - Files" Name="Azure 파일 저장"/>
+    <Elem NameU="Azure Storage - Queue" Name="Azure 열 저장"/>
+    <Elem NameU="Azure Storage - Table" Name="Azure 표 저장"/>
+    <Elem NameU="Azure Storage" Name="Azure저장"/>
+    <Elem NameU="Storage" Name="저장"/>
+    <Elem NameU="Azure Store" Name="Azure 저장"/>
+    <Elem NameU="Azure StorSimple" Name="Azure 클라우드 저장"/>
+    <Elem NameU="Azure Stream Analytics" Name="Azure 스트림 분석"/>
+    <Elem NameU="Azure Subscription" Name="Azure구독"/>
+    <Elem NameU="Azure Traffic Manager" Name="Azure 트래픽 관리"/>
+    <Elem NameU="Azure VM Symbol Only" Name="Azure VM 기호"/>
+    <Elem NameU="Azure Virtual Machine" Name="Azure 가상 머신"/>
+    <Elem NameU="Azure Virtual Machines - Availability Set" Name="Azure Virtual Machines - 사용 가능 집합"/>
+    <Elem NameU="Azure Virtual Machines - Linux Penguin Shadow" Name="Azure Virtual Machines - Linux Penguin Shadow"/>
+    <Elem NameU="Azure Virtual Network" Name="Azure 가상 네트워크"/>
+    <Elem NameU="Azure VM Container" Name="Azure VM 컨테이너"/>
+    <Elem NameU="Azure VM Scale Set" Name="Azure VM 확장 집합"/>
+    <Elem NameU="Azure VPN Gateway" Name="Azure VPN 게이트웨이"/>
+    <Elem NameU="Azure WebApp - WebJobs" Name="Azure 웹 앱 "/>
+    <Elem NameU="Microsoft Azure" Name="Microsoft Azure"/>
+    <Elem NameU="Network Security Group" Name="Network 보안 그룹"/>
+    <Elem NameU="OMS Log Analytics" Name="OMS 로그 분석"/>
+    <Elem NameU="Operations Management Suite (OMS)" Name="Operations Management Suite (OMS)"/>
+    <Elem NameU="OS Image" Name="OS 이미지"/>
+    <Elem NameU="Resource Group" Name="리소스 그룹"/>
+    <Elem NameU="Service Endpoint" Name="서비스 끝점"/>
+    <Elem NameU="SQL Database Pools" Name="SQL 데이터베이스 풀"/>
+    <Elem NameU="Unidentified Feature Object" Name="알 수 없는 기능 개체"/>
+    <Elem NameU="VHD Data Disk" Name="VHD 데이터 디스크"/>
+    <Elem NameU="VHD" Name="VHD"/>
+    <Elem NameU="Visual Studio Team Services - Bitbucket Code Source" Name="Visual Studio Team Services - Bitbucket 코드 소스"/>
+    <Elem NameU="Visual Studio Team Services - CodePlex Source" Name="Visual Studio Team Services - CodePlex 소스"/>
+    <Elem NameU="Visual Studio Team Services - Dropbox Code Source" Name="Visual Studio Team Services - Dropbox 코드 소스"/>
+    <Elem NameU="Visual Studio Team Services - Git Repository" Name="Visual Studio Team Services - Git저장소"/>
+    <Elem NameU="Visual Studio Team Services - GitHub" Name="Visual Studio Team Services - GitHub"/>
+    <Elem NameU="Visual Studio Team Services" Name="Visual Studio Team Services"/>
+    <Elem NameU="Webhooks" Name="네트워크 연결"/>
+    <Elem NameU="Power BI Embedded" Name="Power BI Embedded 데이터 집합"/>
+    <Elem NameU="Cloud Office 365" Name="Cloud Office 365"/>
+    <Elem NameU="Office 365 subscription" Name="Office 365 구독"/>
+    <Elem NameU="Office 365" Name="Office 365"/>
+    <Elem NameU="Azure Cache Redis Product icon_COLOR" Name="Azure 캐시 클라우드 서비스"/>
+    <Elem NameU="Azure Cognative Services - Computer Vision_COLOR" Name="Azure 인지 서비스-컴퓨터"/>
+    <Elem NameU="Azure Cognative Services - Emotion_COLOR" Name="Azure 인지 서비스-감성"/>
+    <Elem NameU="Azure Cognative Services - luis_COLOR" Name="Azure 인지 서비스luis"/>
+    <Elem NameU="Azure Cognative Services - Recommendations_COLOR" Name="Azure 인지 서비스-推荐"/>
+    <Elem NameU="Azure Cognative Services - Speech_COLOR" Name="Azure 인지 서비스-스피치"/>
+    <Elem NameU="Azure Cognative Services - Textanalytics_COLOR" Name="Azure 인지 서비스-텍스트 분석"/>
+    <Elem NameU="Azure Cognative Services - Web-Language-Model_COLOR" Name="Azure 인지 서비스-웹 언어 모델"/>
+</Lib>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LocalStrings Version="7.8">
+	<!-- NameU is the enumerate defiened in LocalizeUtil. Should be kept in same order! -->
+	<String NameU="Unknow" Name="Inconnu" />
+	<String NameU="ID" Name="ID" />
+	<String NameU="Task Name" Name="Nom" />
+	<String NameU="Start" Name="Date de début" />
+	<String NameU="Finish" Name="Date de fin" />
+	<String NameU="Duration" Name="Durée" />
+	<String NameU="Complete" Name="Complet" />
+	<String NameU="Resource" Name="Ressource" />
+	<String NameU="Cost" Name="Coût" />
+	<String NameU="Real Start" Name="Début réel" />
+	<String NameU="Real Finish" Name="Fin réel" />
+	<String NameU="Real Duration" Name="Durée réelle" />
+	<String NameU="Priority" Name="Priorité" />
+	<String NameU="Hyperlink" Name="Lien hypertexte" />
+	<String NameU="Symbols" Name="Symboles" />
+	<String NameU="Custom Date" Name="Date personnalisée" />
+	<String NameU="Custom Duration" Name="Durée personnalisée" />
+	<String NameU="Custom Text" Name="Texte personnalisé" />
+	<String NameU="Custom Number" Name="Numéro personnalisé" />
+	<String NameU="Custom Percent" Name="Pourcentage personnalisé" />
+	<String NameU="Custom Currency" Name="Monnaie personnalisé" />
+	<String NameU="Right Label" Name="Étiquette à droite" />
+	<String NameU="Left Label" Name="Étiquette à gauche" />
+	<String NameU="Task Level" Name="Niveau de la tâche" />	
+	<String NameU="Dependency" Name="Dépendance" />
+	<String NameU="Task Comment" Name="Commentaire de tâche" />
+	<String NameU="Text" Name="Texte" />
+	<String NameU="String" Name="Chaîne de caractères" />
+	<String NameU="Number" Name="Numéro" />
+	<String NameU="DateTime" Name="Date" />
+	<String NameU="Duration" Name="Durée" />
+	<String NameU="Currency" Name="Monnaie" />
+	<String NameU="Boolean" Name="Boolean" />
+	<String NameU="FixedList" Name="Liste fixe" />
+	<String NameU="VariableList" Name="Liste variable" />
+	<String NameU="Color" Name="Couleur" />
+	<String NameU="Percentage" Name="Pourcentage" />
+	<String NameU="Scientific" Name="Scientifique" />
+	<String NameU="Image" Name="Image" />
+	<String NameU="General" Name="Général" />
+	<String NameU="Fraction" Name="Fraction" />
+	<String NameU="Custom" Name="Personnalisé" />
+	<String NameU='Search results for "%1"' Name='Réchercher des résultats pour "%1"' />
+	<String NameU="Page" Name="Page" />
+	<String NameU="Layer" Name="Calque" />
+	<String NameU="Background" Name="Arrière-plan" />
+	<String NameU="SelfDefine" Name="Personnalisé" />
+	<String NameU="Personal Cloud" Name="Cloud privé" />
+  <String NameU="Public Cloud" Name="Cloud public" />
+  <String NameU="Team Cloud" Name="Cloud d'équipe" />
+  <String NameU="A few Seconds ago" Name="Il ya quelques secondes" />
+  <String NameU="minute ago" Name="il y a minute" />
+  <String NameU="minutes ago" Name="il y a minutes" />  
+  <String NameU="hour ago" Name="il y a heure" />
+  <String NameU="hours ago" Name="il y a heures" />  
+  <String NameU="day ago" Name="il y a jour" />
+  <String NameU="days ago" Name="il y a jours" />  
+  <String NameU="month ago" Name="il y a mois" />
+  <String NameU="months ago" Name="il y a mois" />  
+  <String NameU="year ago" Name="il y a année" />
+  <String NameU="years ago" Name="il y a années" />
+  <String NameU="Name" Name="Nom" />
+  <String NameU="First Name" Name="Prénom" />
+  <String NameU="Last Name" Name="Nom" />
+  <String NameU="Phone" Name="Phone" />  
+  <String NameU="ReportsTo" Name="Rapports à" />
+  <String NameU="Report" Name="Rapport" />
+  <String NameU="IsAssistant" Name="est assistant" />
+  <String NameU="Assist" Name="Aider" />  
+  <String NameU="Gantt" Name="Gantt" />
+  <String NameU="Time Bar" Name="Barre de planning" />
+  <String NameU="Diamond Milestone" Name="Jalon en losange" />
+  <String NameU="Main Idea" Name="Sujet" />
+  <String NameU="Main Topic" Name="Sujet principal" />
+  <String NameU="Sub Topic" Name="Sujet secondaire" />
+  <String NameU="Summary" Name="Résumé" />
+  <String NameU="Position" Name="Position" />
+  <String NameU="Assistant" Name="Assistant" />
+  	<String NameU="Floating Topic" Name="Sujet flottant" />
+	<String NameU="Relationship" Name="Relation" />
+	<String NameU="X Value" Name="X Value" />
+	<String NameU="Y Value" Name="Y Value" />
+	<String NameU="Bubble value" Name="Bubble value" />
+	<String NameU="Value" Name="Value" />
+	<String NameU="Region" Name="Region" />
+	<String NameU="Add your text here" Name="Ajoutez votre texte ici" />
+	<String NameU="Drag a picture here to replace the current picture" Name="Drag a picture here to replace the current picture" />
+	<String NameU="Yes" Name="Oui" />
+	<String NameU="No" Name="Non" />
+	<String NameU="Option" Name="Option" />
+	<String NameU="LastHalfYear" Name="S1" />
+	<String NameU="SecondHalfYear" Name="S2" />
+	<String NameU="FirstQuarter" Name="T1" />
+	<String NameU="SecondQuarter" Name="T2" />
+	<String NameU="ThirdQuarter" Name="T3" />
+	<String NameU="FourthQuarter" Name="T4" />
+	<String NameU="FirstWeek" Name="1 Semaine" />
+	<String NameU="SecondWeek" Name="2 Semaine" />
+	<String NameU="ThirdWeek" Name="3 Semaine" />
+	<String NameU="FourthWeek" Name="4 Semaine" />
+	<String NameU="FifthWeek" Name="5 Semaine" />
+	<String NameU="SixWeek" Name="6 Semaine" />
+</LocalStrings>

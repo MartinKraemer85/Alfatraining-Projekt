@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Garden">
+	<Elem NameU="Swimming Pool" Name="Piscina"/>
+	<Elem NameU="Fountain Pool" Name="Laghetto con Fontana 1"/>
+	<Elem NameU="Fountain Pool 2" Name="Laghetto con Fontana 2"/>
+	<Elem NameU="Fountain Pool 3" Name="Laghetto con Fontana 3"/>
+	<Elem NameU="Fountain Pool 4" Name="Laghetto con Fontana 4"/>
+	<Elem NameU="Fountain Pool 5" Name="Laghetto con Fontana 5"/>
+	<Elem NameU="Fountain Pool 6" Name="Laghetto con Fontana 6"/>
+	<Elem NameU="Fountain Pool 7" Name="Laghetto con Fontana 7"/>
+	<Elem NameU="Fountain Pool 8" Name="Laghetto con Fontana 8"/>
+	<Elem NameU="Pond" Name="Stagno"/>
+	<Elem NameU="Recreational Areas" Name="Area Ricreativa"/>
+	<Elem NameU="Stone Bench" Name="Panchina in Pietra"/>
+	<Elem NameU="Stone Bridge" Name="Ponte in Pietra"/>
+	<Elem NameU="Timber Bridge" Name="Ponte in Legno"/>
+	<Elem NameU="The long corridor and bridge" Name="Corridoio lungo e panchina"/>
+	<Elem NameU="The long corridor" Name="Corridoio lungo"/>
+	<Elem NameU="Swing Bench" Name="Altalena"/>
+	<Elem NameU="Recliner" Name="Sedia reclinabile"/>
+	<Elem NameU="Wooden tables and chairs" Name="Tavoli e sedie in legno"/>
+	<Elem NameU="Long bench" Name="Panchina lunga"/>
+	<Elem NameU="Long wooden" Name="Panchina lunga in legno"/>
+	<Elem NameU="Table" Name="Tavolo"/>
+	<Elem NameU="Seven glyph bench" Name="Panchina ad angolo"/>
+	<Elem NameU="U-Shaped bench" Name="Panchina a U"/>
+	<Elem NameU="Pavilion" Name="Padiglione"/>
+	<Elem NameU="Floor lamp" Name="Lampada da terra"/>
+	<Elem NameU="lamp" Name="lampada"/>
+	<Elem NameU="Stone road" Name="Strada di pietra"/>
+	<Elem NameU="Cobbled roadway" Name="Strada di ciottoli"/>
+	<Elem NameU="Rock garden" Name="Giardino di rocce"/>
+	<Elem NameU="Stone Path" Name="Percorso pietroso"/>
+	<Elem NameU="Rocky road" Name="Percorso roccioso"/>
+	<Elem NameU="Creek brook" Name="Ruscello con insenatura"/>
+	<Elem NameU="Swim ring" Name="Salvagente"/>
+	<Elem NameU="Lotus and the lotus leaf" Name="Loto e foglia di loto"/>
+	<Elem NameU="Lotus" Name="Loto"/>
+	<Elem NameU="Lotus Leaf" Name="Foglia di loto"/>
+	<Elem NameU="Framed flower bed" Name="Aiuola"/>
+	<Elem NameU="Lawn" Name="Prato"/>
+	<Elem NameU="Flower and stone" Name="Fiore e pietra"/>
+	<Elem NameU="Stone" Name="Pietra"/>
+	<Elem NameU="Stone 2" Name="Pietra 2"/>
+	<Elem NameU="Duty Room" Name="Stanza di Controllo"/>
+	<Elem NameU="Wood fence" Name="Recinzione in legno"/>
+	<Elem NameU="Wood gate" Name="Porta in legno"/>
+	<Elem NameU="Wood post" Name="Palo in legno"/>
+	<Elem NameU="Umbrella" Name="Ombrello"/>
+	<Elem NameU="Stone fence" Name="Recinzione in pietra"/>
+	<Elem NameU="Chain link fence" Name="Recinzione metallica"/>
+	<Elem NameU="Fence" Name="Recinzione"/>
+	<Elem NameU="Chain link gate" Name="Porta metallica"/>
+	<Elem NameU="Metal post" Name="Palo metallico"/>
+	<Elem NameU="Round stone" Name="Pietra rotonda"/>
+	<Elem NameU="Square stone" Name="Pietra quadrata"/>
+	<Elem NameU="Flagstone" Name="Pietra da lastricato"/>
+	<Elem NameU="Hexagon" Name="Esagono"/>
+	<Elem NameU="Driveway" Name="Viale d'accesso"/>
+	<Elem NameU="Brick pathway" Name="Sentiero di mattoncini"/>
+	<Elem NameU="Patio" Name="Patio"/>
+	<Elem NameU="Garbage sorting recycling barrel" Name="Bidone per la raccolta differenziata"/>
+	<Elem NameU="Basketball court" Name="Campo da basket"/>
+	<Elem NameU="Raised flower bed" Name="Aiuola rialzata"/>
+	<Elem NameU="Fitness equipment" Name="Equipaggiamento sportivo"/>
+	<Elem NameU="Outdoor Children's Play Area" Name="Area Gioco per Bambini"/>
+	<Elem NameU="Piano" Name="Pianoforte"/>
+</Lib>

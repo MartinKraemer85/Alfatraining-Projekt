@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib nameU="Mind Map Shapes">
+	<Elem NameU="Main Idea" Name="Sujet"/>
+	<Elem NameU="Relationship" Name="Relation"/>
+	<Elem NameU="Floating Topic" Name="Sujet flottant" />
+</Lib>

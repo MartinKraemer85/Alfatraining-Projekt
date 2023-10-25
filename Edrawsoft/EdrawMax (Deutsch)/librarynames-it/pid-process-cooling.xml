@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="PID Process Cooling">
+	<Elem NameU="Absorption chiller" Name="Raffreddatore assorbimenti"/>
+	<Elem NameU="Chiller 1" Name="Raffreddatore 1"/>
+	<Elem NameU="Chiller 2" Name="Raffreddatore 2"/>
+	<Elem NameU="Chiller 3" Name="Raffreddatore 3"/>
+	<Elem NameU="Chiller 4" Name="Raffreddatore 4"/>
+	<Elem NameU="Chiller 5" Name="Raffreddatore 5"/>
+	<Elem NameU="Chiller 6" Name="Raffreddatore 6"/>
+	<Elem NameU="Cold generator chiller" Name="Generatore di freddo"/>
+	<Elem NameU="Cooling tower 1" Name="Torre di raffreddamento 1"/>
+	<Elem NameU="Cooling tower 2" Name="Torre di raffreddamento 2"/>
+	<Elem NameU="Cooling tower 3" Name="Torre di raffreddamento 3"/>
+	<Elem NameU="Cooling tower 4" Name="Torre di raffreddamento 4"/>
+	<Elem NameU="Cooling Tower Make-up" Name="Gruppo Torri di raffreddamento "/>
+	<Elem NameU="Comfort cooler" Name="Raffreddatore pratico"/>
+	<Elem NameU="Engine driven chiller" Name="Raffreddatore a motore"/>
+	<Elem NameU="Explosion-proof industrial refrigerator-freezer" Name="Refrigeratore industriale a prova di esplosione"/>
+	<Elem NameU="Large portable chiller" Name="Raffreddatore portatile grande"/>
+	<Elem NameU="Natural gas refrigeration system" Name="Sistema di refrigerazione a gas naturali"/>
+	<Elem NameU="Reactor product cooler" Name="Raffreddatore di prodotti con reattore"/>
+	<Elem NameU="Simple cooling tower" Name="Torre di raffreddamento semplice"/>
+	<Elem NameU="Temperature control unit" Name="Unità di controllo della temperatura"/>
+	<Elem NameU="Water-cooled chiller" Name="Raffreddatore ad acqua fredda"/>
+</Lib>

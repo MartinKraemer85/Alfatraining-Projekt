@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="SSADM">
+	<Elem NameU="Entity Type" Name="Tipo de Entidade"/>
+	<Elem NameU="External Entity" Name="Entidade Externa"/>
+	<Elem NameU="Relationships" Name="Relações"/>
+	<Elem NameU="Process Box" Name="Caixa de Processo"/>
+	<Elem NameU="DFD Process" Name="Processo DFD"/>
+	<Elem NameU="DFD Datastore" Name="Armazenamento de Dados DFD"/>
+	<Elem NameU="DFD Flow" Name="Fluxo DFD"/>
+	<Elem NameU="Entity Life History" Name="Histórico de Vida de Entidade"/>
+	<Elem NameU="Entity Description" Name="Descrição de Entidade"/>
+	<Elem NameU="Overview" Name="Vista Global"/>
+	<Elem NameU="Resource Flow" Name="Fluxo de Recursos"/>
+	<Elem NameU="Transition" Name="Transição"/>
+</Lib>

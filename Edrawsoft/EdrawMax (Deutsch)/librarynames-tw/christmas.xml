@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Christmas">
+    <Elem NameU="Christmas Tree 1" Name="聖誕樹 1"/>
+    <Elem NameU="Christmas Tree 2" Name="聖誕樹 2"/>
+    <Elem NameU="Christmas Tree 3" Name="聖誕樹 3"/>
+    <Elem NameU="Christmas Tree 4" Name="聖誕樹 4"/>
+    <Elem NameU="Christmas Tree 5" Name="聖誕樹 5"/>
+    <Elem NameU="Christmas Tree 6" Name="聖誕樹 6"/>
+    <Elem NameU="Santa Claus 1" Name="聖誕老人 1"/>
+    <Elem NameU="Santa Claus 2" Name="聖誕老人 2"/>
+    <Elem NameU="Snowman 1" Name="雪人 1"/>
+    <Elem NameU="Snowman 2" Name="雪人 2"/>
+    <Elem NameU="House" Name="房子"/>
+    <Elem NameU="Reindeer" Name="馴鹿"/>
+    <Elem NameU="Elk 1" Name="馴鹿雪車 1"/>
+    <Elem NameU="Elk 2" Name="馴鹿雪車 2"/>
+    <Elem NameU="Reindeer 1" Name="馴鹿 1"/>
+    <Elem NameU="Reindeer 2" Name="馴鹿 2"/>
+    <Elem NameU="Bells 1" Name="鈴鐺 1"/>
+    <Elem NameU="Bells 2" Name="鈴鐺 2"/>
+    <Elem NameU="Christmas Wreath" Name="聖誕花環"/>
+    <Elem NameU="Gift" Number="12" Name="禮物"/>
+    <Elem NameU="Candy cane" Number="3" Name="糖果手杖"/>
+    <Elem NameU="Christmas Ginger Bread" Number="2" Name="聖誕薑黃麵包"/>
+    <Elem NameU="Hat" Number="2" Name="聖誕帽"/>
+    <Elem NameU="Christmas Stockings" Number="3" Name="聖誕襪"/>
+    <Elem NameU="Gloves" Number="2" Name="手套"/>
+    <Elem NameU="ScarvesGloves" Name="全棉手套"/>
+    <Elem NameU="Reindeer ears" Number="2" Name="馴鹿頭飾"/>
+    <Elem NameU="Star" Number="2" Name="星星"/>
+    <Elem NameU="Snowflake" Number="15" Name="雪花"/>
+    <Elem NameU="Candy" Number="7" Name="糖果"/>
+    <Elem NameU="Candle" Name="蠟燭"/>
+    <Elem NameU="Ball" Number="3" Name="彩球"/>
+    <Elem NameU="Christmas decorations" Number="7" Name="聖誕裝飾物"/>
+    <Elem NameU="Balloon" Name="氣球"/>
+    <Elem NameU="Leaf of chinese ilex" Number="2" Name="冬青葉"/>
+    <Elem NameU="Flower vine" Name="花環"/>
+    <Elem NameU="Flags" Number="5" Name="旗幟"/>
+    <Elem NameU="Leaf" Number="3" Name="葉子"/>
+    <Elem NameU="Merry Christmas" Number="3" Name="聖誕快樂"/>
+</Lib>

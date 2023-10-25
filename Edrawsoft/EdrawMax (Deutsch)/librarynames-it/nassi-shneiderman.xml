@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Nassi-Shneiderman">
+	<Elem NameU="Definitions or Actions" Name="Definizioni o Azioni"/>
+	<Elem NameU="Decision" Name="Decisione"/>
+	<Elem NameU="Decision (if-then-else)" Name="Decisione (se-allora-altrimenti)"/>
+	<Elem NameU="Decision 2 (if-then-else)" Name="Decisione 2(se-allora-altrimenti)"/>
+	<Elem NameU="Decision with Steps" Name="Decisione con Passaggi"/>
+	<Elem NameU="Decision with Steps 2" Name="Decisione con Passaggi 2"/>
+	<Elem NameU="Decision with Step 3" Name="Decisione con Passaggi 3"/>
+	<Elem NameU="Selection (case)" Name="Selezione (caso)"/>
+	<Elem NameU="Single Step" Name="Passaggio Singolo"/>
+	<Elem NameU="Iteration (While)" Name="Iterazione (Mentre)"/>
+	<Elem NameU="Iteration (Repeat-Until)" Name="Iterazione (Ripeti-Fino a)"/>
+	<Elem NameU="Frame 1" Name="Cornice 1"/>
+	<Elem NameU="Frame 2" Name="Cornice 2"/>
+	<Elem NameU="Procedure Steps" Name="Passaggi Procedurali"/>
+	<Elem NameU="Multiple Steps" Name="Passaggi Multipli"/>
+	<Elem NameU="2-D Word Balloon" Name="Fumetto Testuale 2-D"/>
+</Lib>

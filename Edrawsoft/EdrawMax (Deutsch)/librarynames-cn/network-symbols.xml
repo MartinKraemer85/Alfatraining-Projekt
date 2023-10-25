@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Network Symbols">
+    <Elem NameU="Router General" Name="通用路由器"/>
+    <Elem NameU="Router" Name="路由器"/>
+    <Elem NameU="ATM router" Name="ATM 路由器"/>
+    <Elem NameU="Wireless Router" Name="无线路由器"/>
+    <Elem NameU="ATM switch" Name="ATM 交换机"/>
+    <Elem NameU="ISDN switch" Name="ISDN 交换机"/>
+    <Elem NameU="Workgroup switch" Name="工作组交换机"/>
+    <Elem NameU="Small hub" Name="小型集线器"/>
+    <Elem NameU="100BaseT hub" Name="100BaseT 集线器"/>
+    <Elem NameU="CDDI-FDDI concentrator" Name="CDDI-FDDI 集线器"/>
+    <Elem NameU="Ethernet router" Name="以太网路由器"/>
+    <Elem NameU="Communication server" Name="通信服务器"/>
+    <Elem NameU="Gateway" Name="网关"/>
+    <Elem NameU="Hub" Name="集线器"/>
+    <Elem NameU="Bridge" Name="网桥"/>
+    <Elem NameU="Relative database" Name="关系数据库"/>
+    <Elem NameU="WAN" Name="WAN"/>
+    <Elem NameU="Host" Name="主机"/>
+    <Elem NameU="DSU-CSU" Name="DSU-CSU"/>
+    <Elem NameU="Terminal server" Name="终端服务器"/>
+    <Elem NameU="Probe" Name="探测器"/>
+    <Elem NameU="Lock and key" Name="锁和密钥"/>
+    <Elem NameU="Lock" Name="锁"/>
+    <Elem NameU="Key" Name="密钥"/>
+    <Elem NameU="Public-private server" Name="公钥/私钥服务器"/>
+    <Elem NameU="Certificate server" Name="证书服务器"/>
+    <Elem NameU="ATM switch 2" Name="ATM 交换机2"/>
+    <Elem NameU="ATM/Fast GB etherswitch" Name="ATM/Fast GB 以太网交换机"/>
+    <Elem NameU="Comm server" Name="一般服务器"/>
+    <Elem NameU="Coaxial line tag" Name="同轴电缆标记"/>
+    <Elem NameU="Fiber optic line tag" Name="光纤标记"/>
+    <Elem NameU="Twisted pair line tag" Name="双绞线标记"/>
+</Lib>

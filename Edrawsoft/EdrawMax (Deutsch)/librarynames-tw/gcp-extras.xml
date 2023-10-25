@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="GCP Extras">
+    <Elem NameU="Application Program" Name="應用程式"/>
+    <Elem NameU="Blue hexagon" Name="藍色六角形"/>
+    <Elem NameU="Cloud IoT core" Name="雲端IOT核心"/>
+    <Elem NameU="Cloud dataflow" Name="雲端資料流"/>
+    <Elem NameU="Cloud data service" Name="雲端資料服務"/>
+    <Elem NameU="Computational procedure" Name="計算程式"/>
+    <Elem NameU="Manager application" Name="管理器程式"/>
+    <Elem NameU="Forseti encryption" Name="Forseti 加密"/>
+    <Elem NameU="Forseti icons" Name="Forseti 圖標"/>
+    <Elem NameU="Genaral GCP" Name="通用GCP"/>
+    <Elem NameU="Google cloud platform" Name="谷歌雲平台"/>
+    <Elem NameU="GCP encryption" Name="谷歌雲平台加密"/>
+    <Elem NameU="Kubernetes icons" Name="Kubernetes圖標"/>
+    <Elem NameU="Kubernetes" Name="Kubernetes軟體"/>
+    <Elem NameU="Modifier autoscaling" Name="修飾符自動縮放"/>
+    <Elem NameU="Modifier Virtual custom program" Name="修飾符虛擬自定義程式"/>
+    <Elem NameU="Modifier advanced CPU procedure" Name="修飾符高級CPU程式"/>
+    <Elem NameU="Modifier advanced memory procedure" Name="修飾符高級記憶程式"/>
+    <Elem NameU="Modifier used vm" Name="修飾符可用vm"/>
+    <Elem NameU="Modifier share center procedure F1" Name="修飾符共享中心程式F1"/>
+    <Elem NameU="Modifier share center procedure G1" Name="修飾符共享中心程式G1"/>
+    <Elem NameU="Modifier standard procedure" Name="修飾符標準程式"/>
+    <Elem NameU="Modifier storage" Name="修飾符存儲"/>
+    <Elem NameU="Prediction API" Name="谷歌軟體Prediction API"/>
+    <Elem NameU="TensorFlow Icon" Name="TensorFlow 圖標"/>
+</Lib>

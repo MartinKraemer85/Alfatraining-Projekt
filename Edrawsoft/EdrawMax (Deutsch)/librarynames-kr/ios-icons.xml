@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="iOS Icons">
+    <Elem NameU="Phone" Name="전화"/>
+    <Elem NameU="Airplane Mode" Name="비행기 모드"/>
+    <Elem NameU="Chat" Name="채팅"/>
+    <Elem NameU="Bluetooth" Name="블루투스"/>
+    <Elem NameU="Wifi" Name="WiFi"/>
+    <Elem NameU="Facetime" Name="영상 통화"/>
+    <Elem NameU="Previous" Name="이전"/>
+    <Elem NameU="Add" Name="추가"/>
+    <Elem NameU="Next" Name="다음"/>
+    <Elem NameU="Orientation Lock" Name="화면 잠금 방향"/>
+    <Elem NameU="Notifications 1" Name="알림 1"/>
+    <Elem NameU="Notifications 2" Name="알림 2"/>
+    <Elem NameU="Airplay" Name="Airplay"/>
+    <Elem NameU="Keypad Filled" Name="키보드"/>
+    <Elem NameU="Keypad Filled-2" Name="키보드"/>
+    <Elem NameU="Favorites" Name="즐겨찾기"/>
+    <Elem NameU="Timer 1" Name="타이머  1"/>
+    <Elem NameU="Timer 2" Name="타이머  2"/>
+    <Elem NameU="Calculator" Name="계산기"/>
+    <Elem NameU="More 1" Name="다른 옵션 1"/>
+    <Elem NameU="More 2" Name="다른 옵션2"/>
+    <Elem NameU="Search" Name="검색"/>
+    <Elem NameU="Camera" Name="카메라"/>
+    <Elem NameU="Contact" Name="연락인"/>
+    <Elem NameU="iCloud 1" Name="iCloud 1"/>
+    <Elem NameU="iCloud 2" Name="iCloud 2"/>
+    <Elem NameU="Folder 1" Name="폴더 1"/>
+    <Elem NameU="Folder 2" Name="폴더 2"/>
+    <Elem NameU="Reply 1" Name="답변 1"/>
+    <Elem NameU="Reply 2" Name="답변 2"/>
+    <Elem NameU="Picture" Name="이미지"/>
+    <Elem NameU="AirDrop" Name="AirDrop"/>
+    <Elem NameU="Compose" Name="편집"/>
+    <Elem NameU="Microphone" Name="마이크로폰"/>
+    <Elem NameU="Top Charts" Name="인기 차트"/>
+    <Elem NameU="Bullet List Filled" Name="글 머리 기호 목록"/>
+    <Elem NameU="Switch 1" Name="스위치 1"/>
+    <Elem NameU="Switch 2" Name="스위치 2"/>
+    <Elem NameU="Music" Name="음악"/>
+    <Elem NameU="Albums 1" Name="앨범 1"/>
+    <Elem NameU="Albums 2" Name="앨범 2"/>
+    <Elem NameU="News" Name="뉴스"/>
+    <Elem NameU="Photos 1" Name="사진 1"/>
+    <Elem NameU="Photos 2" Name="사진 2"/>
+    <Elem NameU="OK" Name="확인"/>
+    <Elem NameU="OK Filled" Name="확인"/>
+    <Elem NameU="Alarm" Name="알람"/>
+    <Elem NameU="Recents 1" Name="최근 1"/>
+    <Elem NameU="Recents 2" Name="최근 2"/>
+    <Elem NameU="Upload" Name="업로드"/>
+    <Elem NameU="Download" Name="다운로드"/>
+    <Elem NameU="Load" Name="로드"/>
+    <Elem NameU="Box" Name="박스"/>
+    <Elem NameU="Box Filled" Name="박스"/>
+    <Elem NameU="Language 1" Name="언어 1"/>
+    <Elem NameU="Language 2" Name="언어  2"/>
+    <Elem NameU="Flag 1" Name="플래그 1"/>
+    <Elem NameU="Flag 2" Name="플래그 2"/>
+    <Elem NameU="Brightness 1" Name="밝기 1"/>
+    <Elem NameU="Brightness 2" Name="밝기 2"/>
+    <Elem NameU="Privacy" Name="프라이버시"/>
+    <Elem NameU="Lock" Name="잠금"/>
+    <Elem NameU="Arrow" Name="화살표"/>
+    <Elem NameU="Volume" Name="볼륨"/>
+    <Elem NameU="Drafts" Name="초안"/>
+    <Elem NameU="Sent" Name="발송됨"/>
+    <Elem NameU="Add 1" Name="추가 1"/>
+    <Elem NameU="Add 2" Name="추가 2"/>
+    <Elem NameU="Music" Name="음악"/>
+    <Elem NameU="FlashLight" Name="손전등"/>
+    <Elem NameU="Near" Name="근처"/>
+    <Elem NameU="Near Filled" Name="근처"/>
+    <Elem NameU="Trash 1" Name="휴지통 1"/>
+    <Elem NameU="Trash 2" Name="휴지통 2"/>
+    <Elem NameU="Inbox" Name="수신함"/>
+    <Elem NameU="Love Speech Bubble" Name="하트 채팅 버블"/>
+    <Elem NameU="Copy" Name="복제"/>
+    <Elem NameU="Film" Name="영화"/>
+    <Elem NameU="Information 1" Name="정보 1"/>
+    <Elem NameU="Information 2" Name="정보 2"/>
+    <Elem NameU="Filter" Name="필터"/>
+    <Elem NameU="OK" Name="확인"/>
+    <Elem NameU="Bookmark 1" Name="서표  1"/>
+    <Elem NameU="Bookmark 2" Name="서표  2"/>
+    <Elem NameU="Compass" Name="나침반"/>
+    <Elem NameU="Memories" Name="추억"/>
+    <Elem NameU="Junk" Name="정크 메일"/>
+    <Elem NameU="Clear" Name="제거"/>
+    <Elem NameU="All Inboxes" Name="모든 수신함"/>
+    <Elem NameU="Menu" Name="메뉴"/>
+    <Elem NameU="Add to Reading List" Name="열독 리스트에 추가"/>
+    <Elem NameU="Voicemail 1" Name="음성 메시지 1"/>
+    <Elem NameU="Voicemail 2" Name="음성 메시지 2"/>
+    <Elem NameU="Bookmark 1" Name="서표  1"/>
+    <Elem NameU="Bookmark 2" Name="서표  2"/>
+    <Elem NameU="Bookmark 3" Name="서표 3"/>
+    <Elem NameU="Do Not Disturb" Name="방해 금지 모드"/>
+    <Elem NameU="Edit" Name="편집"/>
+    <Elem NameU="Battery" Name="배터리"/>
+</Lib>

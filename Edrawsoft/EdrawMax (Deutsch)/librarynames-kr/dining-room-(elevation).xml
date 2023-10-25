@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Dining Room (Elevation)">
+	<Elem NameU="Bottle 1" Name="병 1"/>
+	<Elem NameU="Bottle 2" Name="병 2"/>
+	<Elem NameU="Bottle 3" Name="병 3"/>
+	<Elem NameU="Bottle 4" Name="병 4"/>
+	<Elem NameU="Bottle 5" Name="병 5"/>
+	<Elem NameU="Bottle 6" Name="병 6"/>
+	<Elem NameU="Bottle 7" Name="병 7"/>
+	<Elem NameU="Glass 1" Name="유리병 1"/>
+	<Elem NameU="Glass 2" Name="유리병 2"/>
+	<Elem NameU="Glass 3" Name="유리병 3"/>
+	<Elem NameU="Glass 4" Name="유리병 4"/>
+	<Elem NameU="Glass 5" Name="유리병 5"/>
+	<Elem NameU="Glass 6" Name="유리병 6"/>
+	<Elem NameU="Glass 7" Name="유리병 7"/>
+	<Elem NameU="Glass-bottle" Number="3" Name="유리병"/>
+	<Elem NameU="Barrel" Number="2" Name="통"/>
+</Lib>

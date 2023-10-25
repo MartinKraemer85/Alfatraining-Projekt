@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Bathroom">
+    <Elem NameU="Sink" Number="12" Name="싱크대"/>
+    <Elem NameU="Countertop sink" Name="싱크대"/>
+    <Elem NameU="Pedestal sink" Name="받침대 싱크"/>
+    <Elem NameU="Toilet" Number="5" Name="화장실"/>
+    <Elem NameU="Bidet" Name="비데"/>
+    <Elem NameU="Squat wc" Name="스쿼트 화장실"/>
+    <Elem NameU="Shower" Name="샤워실"/>
+    <Elem NameU="Corner shower" Name="코너 샤워"/>
+    <Elem NameU="Corner bath" Name="코너 욕조"/>
+    <Elem NameU="Bathroom" Name="화장실"/>
+    <Elem NameU="Bathtub" Number="12" Name="욕조"/>
+    <Elem NameU="Shower Drain" Name="배수1"/>
+    <Elem NameU="Shower Drain 2" Name="배수2"/>
+    <Elem NameU="Water Tap 1" Name="수도꼭지 1"/>
+    <Elem NameU="Water Tap 2" Name="수도꼭지 2"/>
+    <Elem NameU="Water Tap 3" Name="수도꼭지 3"/>
+    <Elem NameU="Water Tap 4" Name="수도꼭지 4"/>
+    <Elem NameU="Water Tap 5" Name="수도꼭지 5"/>
+    <Elem NameU="Dustbin" Name="쓰레기통"/>
+    <Elem NameU="Toilet Paper" Name="휴지"/>
+    <Elem NameU="Towel Rack" Number="2" Name="수건 걸이"/>
+    <Elem NameU="Light" Number="4" Name="라이트"/>
+    <Elem NameU="Shower Lamp" Number="5" Name="화장실 라이트"/>
+    <Elem NameU="Cabinet" Number="3" Name="캐비닛"/>
+</Lib>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Data Flow">
+    <Elem NameU="External Entity" Name="외부 엔터티"/>
+    <Elem NameU="Entity" Name="엔터티"/>
+    <Elem NameU="Process" Number="2" Name="프로세스"/>
+    <Elem NameU="Data Process" Name="데이터 프로세스"/>
+    <Elem NameU="Multiply Process" Name="멀티 프로세스"/>
+    <Elem NameU="State" Name="상태"/>
+    <Elem NameU="Start State" Name="시작 상태"/>
+    <Elem NameU="Stop State" Number="2" Name="종료 상태"/>
+    <Elem NameU="Data Store" Name="데이터 저장"/>
+    <Elem NameU="Entity Relationship" Name="엔터티 관계"/>
+    <Elem NameU="Object" Name="개체"/>
+    <Elem NameU="Oval Process" Name="타원형 프로세스"/>
+    <Elem NameU="Center to Center" Name="중심에서 중심으로"/>
+    <Elem NameU="Loop on Center" Name="중심 순환"/>
+    <Elem NameU="Line Connector" Name="직선 연결선"/>
+    <Elem NameU="Object Callout" Name="개체 설명선"/>
+    <Elem NameU="Curve Connector" Name="곡선 연결선"/>
+</Lib>

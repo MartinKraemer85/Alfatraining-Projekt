@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="TQM Diagram Shapes">
+    <Elem NameU="Transportation" Name="运输"/>
+    <Elem NameU="Inbound goods" Name="入站货物"/>
+    <Elem NameU="Storage" Name="存储器"/>
+    <Elem NameU="Procedure" Name="过程"/>
+    <Elem NameU="Operation" Name="操作"/>
+    <Elem NameU="Operation or inspection" Name="操作/检查"/>
+    <Elem NameU="Issue" Name="问题"/>
+    <Elem NameU="Organization function" Name="组织结构职能"/>
+    <Elem NameU="2-part function" Name="两部分职能"/>
+    <Elem NameU="Decision (TQM)" Number="2" Name="决策（TQM）"/>
+    <Elem NameU="Mulit in/out decision" Number="2" Name="多个条件/措施判定"/>
+    <Elem NameU="External organization" Name="外部组织"/>
+    <Elem NameU="External process" Name="外部流程"/>
+    <Elem NameU="Inspection/ measurement" Name="检查/衡量"/>
+    <Elem NameU="Metric" Name="公制"/>
+    <Elem NameU="2-part metrix" Name="两部分公制"/>
+    <Elem NameU="System database" Name="系统数据库"/>
+    <Elem NameU="System support" Name="系统支持"/>
+    <Elem NameU="System function" Name="系统功能"/>
+    <Elem NameU="Delay" Name="延迟"/>
+    <Elem NameU="Connector(TQM)" Name="连接线 (TQM)"/>
+    <Elem NameU="Off-page reference" Name="离页引用"/>
+    <Elem NameU="Connected issues" Name="连接的问题"/>
+    <Elem NameU="Fabrication" Name="制造"/>
+    <Elem NameU="Move" Name="移动"/>
+    <Elem NameU="Store" Name="存储"/>
+    <Elem NameU="Inspection" Name="检查"/>
+    <Elem NameU="Selectable process" Name="可选进程"/>
+    <Elem NameU="Work flow loop" Number="2" Name="工作流环"/>
+    <Elem NameU="Feedback arrow" Name="反馈箭头"/>
+    <Elem NameU="Vertical Swimlane" Name="垂直泳道"/>
+    <Elem NameU="Horizontal Swinlane" Name="水平泳道"/>
+    <Elem NameU="Force-field analysis" Name="对比因素分析"/>
+    <Elem NameU="Fish frame" Name="鱼骨框架"/>
+    <Elem NameU="Effect" Name="效果"/>
+    <Elem NameU="Category" Number="2" Name="类别"/>
+    <Elem NameU="Cause" Number="2" Name="原因"/>
+    <Elem NameU="Secondary Cause" Number="6" Name="第二层原因"/>
+    <Elem NameU="Arc connector" Name="弧形连接线"/>
+    <Elem NameU="Curve connector" Name="曲线连接线"/>
+    <Elem NameU="Result" Name="结果"/>
+    <Elem NameU="No result" Name="无结果"/>
+    <Elem NameU="Branch-return" Name="分支: 返回"/>
+    <Elem NameU="Branch-no return" Name="分支: 无返回"/>
+    <Elem NameU="Interrupt" Name="中断"/>
+    <Elem NameU="External control" Name="外部控制"/>
+    <Elem NameU="Refinement" Name="优化"/>
+</Lib>

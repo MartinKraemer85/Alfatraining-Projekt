@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="2D Block Diagram">
+  <Elem NameU="Triangle" Name="Dreieck"/>
+  <Elem NameU="Isosceles Triangle" Name="Gleichschenkliges Dreieck"/>
+  <Elem NameU="Regular Triangle" Name="Gleichseitiges Dreieck"/>
+  <Elem NameU="Right Angled Triangle" Name="Rechtwinkliges Dreieck"/>
+  <Elem NameU="Rectangle" Name="Rechteck"/>
+  <Elem NameU="Rounded Rectangle" Name="Abgerundete Rechtecke"/>
+  <Elem NameU="Rounded Square" Name="Abgerundetes Quadrat"/>
+  <Elem NameU="Circle" Name="Kreis"/>
+  <Elem NameU="Oval" Name="Ellipse"/>
+  <Elem NameU="Parallelogram" Name="Parallelogramm"/>
+  <Elem NameU="Pentagon" Name="Fünfeck"/>
+  <Elem NameU="Hexagon" Name="Sechseck"/>
+  <Elem NameU="Trapezoid" Name="Trapez"/>
+  <Elem NameU="Rhombus" Name="Raute"/>
+  <Elem NameU="Half Circle" Name="Halbkreis"/>
+  <Elem NameU="Diamond" Name="Diamant"/>
+  <Elem NameU="Circle with Wavy Edge" Name="Kreis mit Wellenschliff"/>
+  <Elem NameU="Candy Shape" Name="Süßigkeit Shape"/>
+  <Elem NameU="Broken Corner Rectangle" Name="Benutzerdef. Fünfeck"/>
+  <Elem NameU="Arch" Name="Gewölbe"/>
+  <Elem NameU="Funnel" Name="Trichter"/>
+  <Elem NameU="Round Head Rectangle" Name="Stadion"/>
+  <Elem NameU="Triangle - Long" Name="Dreieck - Lange"/>
+  <Elem NameU="Snip Corner Triangle" Name="Snip-Ecke-Dreieck"/>
+  <Elem NameU="Trapezoid - Vertical" Name="Trapez - Vertikal"/>
+  <Elem NameU="Trapezoid - Horizontal" Name="Trapez - Horizontal"/>
+  <Elem NameU="Inverted Trapezoid" Name="Umgekehrtes Trapez"/>
+  <Elem NameU="Hexagon - Long" Name="Hexagon - Lange"/>
+  <Elem NameU="Curve Head Rectangle" Name="Kurvekopf Rechteck"/>
+  <Elem NameU="Pointed Left Rectangle" Name="Fünfeck lange"/>
+  <Elem NameU="Flat Banner 1" Name="Flache Banner 1"/>
+  <Elem NameU="Flat Banner 2" Name="Flache Banner 2"/>
+  <Elem NameU="Rounded Right Rectangle" Name="Abgerundetes Rechtes Rechteck"/>
+  <Elem NameU="Circle with Rectangle" Name="Kreis mit Rechteck"/>
+  <Elem NameU="Irregular Shape" Name="Unregelmäßige Shape"/>
+  <Elem NameU="Snip One Side Triangle" Name="unregelmäßiges Viereck"/>
+  <Elem NameU="Corner Shape" Name="Ecke Shape"/>
+  <Elem NameU="Curve Shape with Right Angle" Name="Kurve Shape mit rechten Winkel"/>
+  <Elem NameU="Snip One Side Rectangle" Name="Snip-Ein-Seite Rechteck"/>
+  <Elem NameU="Irregular Rectangle" Name="Unregelmäßiges Rechteck"/>
+  <Elem NameU="L Shape" Name="L Shape"/>
+  <Elem NameU="Snip Diagonal Corner Rectangle" Name="Snip Diagonale Ecke Rechteck"/>
+  <Elem NameU="Regular Rhombus" Name="Regelmäßige Rhombus"/>
+  <Elem NameU="Badge" Name="Abzeichen"/>
+  <Elem NameU="4-Point Star" Name="4-Zack Stern"/>
+  <Elem NameU="Cloud with One Side Flat" Name="Wolke mit Einer Seite flach"/>
+  <Elem NameU="Bar with Wavy Edge" Name="Balken mit Wellenschliff"/>
+  <Elem NameU="Irregular Bar" Name="Irregulär Balken"/>
+  <Elem NameU="Chevron" Name="Chevron"/>
+  <Elem NameU="Chevron Group" Name="Chevron Gruppe"/>
+  <Elem NameU="6-Point Star - Hollow" Name="6 Zack Stern- Hohl"/>
+  <Elem NameU="Special Shape" Name="Spezielle Shape"/>
+  <Elem NameU="3 Rhombuses" Name="3 Rauten"/>
+  <Elem NameU="Stacked Pentagons" Name="Gestapelte Fünfecke"/>
+  <Elem NameU="Stacked Squares" Name="Gestapelte Quadrate"/>
+  <Elem NameU="Stacked Triangles" Name="Gestapelte Dreiecke"/>
+  <Elem NameU="Hollow Cloud" Name="Hohle Wolke"/>
+  <Elem NameU="Cloud" Name="Wolke"/>
+  <Elem NameU="6-Point Star" Name="6 Zacken Stern"/>
+  <Elem NameU="Flower 1" Name="Blume 1"/>
+  <Elem NameU="Flower 2" Name="Blume 2"/>
+  <Elem NameU="Flower 3" Name="Blume 3"/>
+  <Elem NameU="Royal Style Block" Name="Königliche-Stile Block"/>
+  <Elem NameU="5-Point Star" Name="Stern 1"/>
+  <Elem NameU="5-Point Star with Circle" Name="Stern mit Kreis"/>
+  <Elem NameU="4-Point Star with Circle" Name="4-Zack Stern mit Kreis"/>
+  <Elem NameU="Heart" Name="Herz"/>
+  <Elem NameU="Teardrop" Name="Tropfen"/>
+  <Elem NameU="Hexagon with Triange" Name="Sechseck mit Dreieck"/>
+  <Elem NameU="Petals" Name="Blütenblätter"/>
+  <Elem NameU="Windmill" Name="Windmühle"/>
+  <Elem NameU="Three Cicles" Name="Drei Kreise"/>
+  <Elem NameU="Circular" Name="Kreisdiagramm"/>
+  <Elem NameU="Four Sections Circle" Name="Vier Abschnitte Kreisdiagramm"/>
+  <Elem NameU="Flower" Name="Blume"/>
+  <Elem NameU="Trees" Name="Bäume"/>
+  <Elem NameU="Maple Leaf" Name="Ahornblatt"/>
+  <Elem NameU="Ginkgo Leaf" Name="Ginkgo Blatt"/>
+  <Elem NameU="Leaf" Name="Blatt"/>
+  <Elem NameU="Location" Name="Position"/>
+  <Elem NameU="Chess" Name="Schach"/>
+  <Elem NameU="Jelly Fish" Name="Quallen"/>
+  <Elem NameU="Incomplete Circle" Name="Unvollständigen Kreis"/>
+  <Elem NameU="Puzzle" Name="Puzzle"/>
+  <Elem NameU="Tree" Name="Baum"/>
+  <Elem NameU="Hot-Air Balloon" Name="Heißluftballon"/>
+  <Elem NameU="Balloon" Name="Ballon"/>
+  <Elem NameU="Chain" Name="Kette"/>
+  <Elem NameU="World" Name="Welt"/>
+</Lib>

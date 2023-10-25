@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="UML Class Diagram">
+    <Elem NameU="Class" Name="클라스"/>
+    <Elem NameU="Simple Class" Name="단순 클래스"/>
+    <Elem NameU="Active Class" Name="활성 클래스"/>
+    <Elem NameU="Interface" Name="인터페이스"/>
+    <Elem NameU="Simple Interface" Name="간단한 인터페이스"/>
+    <Elem NameU="Multiplicity" Name="다중"/>
+    <Elem NameU="Enumeration" Name="枚举"/>
+    <Elem NameU="Data Type" Name="데이터 유형"/>
+    <Elem NameU="Signal" Name="시그널"/>
+    <Elem NameU="Primitive" Name="원시"/>
+    <Elem NameU="Constraint" Name="제한 조건"/>
+    <Elem NameU="Package" Name="패키지"/>
+    <Elem NameU="Profile" Name="프로필"/>
+    <Elem NameU="Model" Name="모델"/>
+    <Elem NameU="Package Container" Name="컨테이너 패키지"/>
+    <Elem NameU="Object" Name="개체"/>
+    <Elem NameU="Note" Name="주석"/>
+    <Elem NameU="Association" Name="관련"/>
+    <Elem NameU="Generalization" Name="일반화"/>
+    <Elem NameU="Realization" Name="실현"/>
+    <Elem NameU="Aggregation" Name="집합"/>
+    <Elem NameU="Composition" Name="조합"/>
+    <Elem NameU="Dependency" Name="의존"/>
+    <Elem NameU="Association" Name="관련"/>
+    <Elem NameU="Link" Name="링크"/>
+</Lib>

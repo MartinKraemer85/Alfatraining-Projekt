@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Education">
+    <Elem NameU="Book" Name="책"/>
+    <Elem NameU="School Bus" Number="2" Name="스쿨 버스"/>
+    <Elem NameU="Alarm Clock" Name="알람"/>
+    <Elem NameU="Graduate" Name="졸업"/>
+    <Elem NameU="Bell" Name="벨"/>
+    <Elem NameU="Table Lamp" Number="2" Name="테이블 램프"/>
+    <Elem NameU="Gene Map" Name="유전자 지도"/>
+    <Elem NameU="A Stack of Books" Name="쌓인 책"/>
+    <Elem NameU="Folder" Name="폴더"/>
+    <Elem NameU="Pen Holder" Name="필통"/>
+    <Elem NameU="Pen" Name="펜"/>
+    <Elem NameU="School" Name="학교"/>
+    <Elem NameU="Flask" Number="2" Name="플라스크"/>
+    <Elem NameU="Beaker" Number="2" Name="비커"/>
+    <Elem NameU="Test Tube" Name="테스트 튜브"/>
+    <Elem NameU="Triangle Ruler" Name="삼각자"/>
+    <Elem NameU="Angle Flat" Name="평각"/>
+    <Elem NameU="Ruler" Name="자"/>
+    <Elem NameU="Sun" Name="태양"/>
+    <Elem NameU="Trophy" Name="트로피"/>
+    <Elem NameU="Calculator" Name="계산기"/>
+    <Elem NameU="Book" Name="책"/>
+    <Elem NameU="Academic Cap" Name="학사모"/>
+    <Elem NameU="Laptop" Name="노트북"/>
+    <Elem NameU="Desktop PC" Name="데스크탑 PC "/>
+    <Elem NameU="Thumbtack" Name="압정"/>
+    <Elem NameU="Pencil Sharpener" Name="연필 깎기"/>
+    <Elem NameU="Paperclip" Name="클립"/>
+    <Elem NameU="Pencil" Name="연필"/>
+    <Elem NameU="Pen" Name="펜"/>
+    <Elem NameU="Ballpoint Pen" Name="볼펜"/>
+    <Elem NameU="Color Lead" Name="색연필"/>
+    <Elem NameU="Watercolor Pen" Number="4" Name="수채화 펜"/>
+    <Elem NameU="Fan Pen" Name="팬 펜"/>
+    <Elem NameU="Brush" Name="브러쉬"/>
+    <Elem NameU="Magnifier" Name="확대경"/>
+    <Elem NameU="Writing Brush" Name="붓"/>
+    <Elem NameU="Marker" Name="마커펜"/>
+    <Elem NameU="Compasses" Name="컴퍼스"/>
+    <Elem NameU="Glasses" Name="안경"/>
+    <Elem NameU="Telescope" Name="망원경"/>
+    <Elem NameU="Glue" Name="접착제"/>
+    <Elem NameU="Lecturer" Name="강사"/>
+    <Elem NameU="Certificate" Name="증서"/>
+    <Elem NameU="Painting Board" Name="Painting Board"/>
+    <Elem NameU="Blackboard" Name="칠판"/>
+    <Elem NameU="Ball" Name="공"/>
+    <Elem NameU="Football" Number="2" Name="축구"/>
+    <Elem NameU="Scissors" Name="가위"/>
+    <Elem NameU="Tennis" Name="테니스"/>
+    <Elem NameU="Music" Name="음악"/>
+    <Elem NameU="History" Name="역사"/>
+    <Elem NameU="Geography" Name="지리"/>
+    <Elem NameU="Mathematics" Name="수학"/>
+    <Elem NameU="English" Name="영어"/>
+    <Elem NameU="Biological" Name="생물"/>
+    <Elem NameU="Magnet" Name="자석"/>
+    <Elem NameU="Abacus" Name="주판"/>
+    <Elem NameU="Timer" Name="타이머"/>
+    <Elem NameU="Hourglass" Name="모래 시계"/>
+    <Elem NameU="Folder" Name="폴더"/>
+    <Elem NameU="Microscope" Name="현미경"/>
+    <Elem NameU="Rubber" Name="지우개"/>
+    <Elem NameU="Molecular Structure" Name="분자구조"/>
+    <Elem NameU="Information" Name="정보"/>
+    <Elem NameU="Paint Tray" Name="페인트 트레이"/>
+    <Elem NameU="File Holder" Name="파일 폴더"/>
+    <Elem NameU="Telescope" Name="망원경"/>
+    <Elem NameU="Medal" Name="메달"/>
+    <Elem NameU="School Bag" Name="백팩"/>
+    <Elem NameU="Electric Light" Name="전등"/>
+    <Elem NameU="Puzzle" Name="퍼즐"/>
+    <Elem NameU="Aims" Name="목표"/>
+    <Elem NameU="Apple" Name="사과"/>
+    <Elem NameU="Alcohol Lamp" Number="2" Name="알코올 램프"/>
+    <Elem NameU="Pigment" Name="그림 물감"/>
+    <Elem NameU="Palette" Name="팔레트"/>
+</Lib>

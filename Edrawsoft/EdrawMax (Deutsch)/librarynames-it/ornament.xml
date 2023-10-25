@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Ornament">
+	<Elem NameU="Head 1" Name="Testata 1"/>
+	<Elem NameU="Head 2" Name="Testata 2"/>
+	<Elem NameU="Head 3" Name="Testata 3"/>
+	<Elem NameU="Head 4" Name="Testata 4"/>
+	<Elem NameU="Head 5" Name="Testata 5"/>
+	<Elem NameU="Head 6" Name="Testata 6"/>
+	<Elem NameU="Head 7" Name="Testata 7"/>
+	<Elem NameU="Head 8" Name="Testata 8"/>
+	<Elem NameU="Head 9" Name="Testata 9"/>
+	<Elem NameU="Head 10" Name="Testata 10"/>
+	<Elem NameU="Head 11" Name="Testata 11"/>
+	<Elem NameU="Head 12" Name="Testata 12"/>
+	<Elem NameU="Head 13" Name="Testata 13"/>
+	<Elem NameU="Head 14" Name="Testata 14"/>
+	<Elem NameU="Head 15" Name="Testata 15"/>
+	<Elem NameU="Head 16" Name="Testata 16"/>
+	<Elem NameU="Head 17" Name="Testata 17"/>
+	<Elem NameU="Head 18" Name="Testata 18"/>
+	<Elem NameU="Head 19" Name="Testata 19"/>
+	<Elem NameU="Head 20" Name="Testata 20"/>
+	<Elem NameU="Head 21" Name="Testata 21"/>
+	<Elem NameU="Head 22" Name="Testata 22"/>
+	<Elem NameU="Head 23" Name="Testata 23"/>
+	<Elem NameU="Head 24" Name="Testata 24"/>
+	<Elem NameU="Head 25" Name="Testata 25"/>
+	<Elem NameU="Head 26" Name="Testata 26"/>
+	<Elem NameU="Head 27" Name="Testata 27"/>
+	<Elem NameU="Head 28" Name="Testata 28"/>
+	<Elem NameU="Head 29" Name="Testata 29"/>
+	<Elem NameU="Element 1" Name="Elemento 1"/>
+	<Elem NameU="Element 2" Name="Elemento 2"/>
+	<Elem NameU="Element 3" Name="Elemento 3"/>
+	<Elem NameU="Element 4" Name="Elemento 4"/>
+	<Elem NameU="Element 5" Name="Elemento 5"/>
+	<Elem NameU="Element 6" Name="Elemento 6"/>
+	<Elem NameU="Element 7" Name="Elemento 7"/>
+	<Elem NameU="Element 8" Name="Elemento 8"/>
+	<Elem NameU="Element 9" Name="Elemento 9"/>
+	<Elem NameU="Element 10" Name="Elemento 10"/>
+	<Elem NameU="Element 11" Name="Elemento 11"/>
+	<Elem NameU="Element 12" Name="Elemento 12"/>
+	<Elem NameU="Element 13" Name="Elemento 13"/>
+	<Elem NameU="Element 14" Name="Elemento 14"/>
+	<Elem NameU="Element 15" Name="Elemento 15"/>
+	<Elem NameU="Element 16" Name="Elemento 16"/>
+	<Elem NameU="Element 17" Name="Elemento 17"/>
+	<Elem NameU="Element 18" Name="Elemento 18"/>
+	<Elem NameU="Element 19" Name="Elemento 19"/>
+	<Elem NameU="Element 20" Name="Elemento 20"/>
+	<Elem NameU="Element 21" Name="Elemento 21"/>
+	<Elem NameU="Element 22" Name="Elemento 22"/>
+	<Elem NameU="Element 23" Name="Elemento 23"/>
+	<Elem NameU="Element 24" Name="Elemento 24"/>
+	<Elem NameU="Element 25" Name="Elemento 25"/>
+	<Elem NameU="Element 26" Name="Elemento 26"/>
+	<Elem NameU="Element 27" Name="Elemento 27"/>
+	<Elem NameU="Element 28" Name="Elemento 28"/>
+	<Elem NameU="Element 29" Name="Elemento 29"/>
+	<Elem NameU="Element 30" Name="Elemento 30"/>
+	<Elem NameU="Element 31" Name="Elemento 31"/>
+	<Elem NameU="Element 32" Name="Elemento 32"/>
+	<Elem NameU="Element 33" Name="Elemento 33"/>
+	<Elem NameU="Element 34" Name="Elemento 34"/>
+	<Elem NameU="Element 35" Name="Elemento 35"/>
+	<Elem NameU="Element 36" Name="Elemento 36"/>
+	<Elem NameU="Element 37" Name="Elemento 37"/>
+	<Elem NameU="Element 38" Name="Elemento 38"/>
+	<Elem NameU="Element 39" Name="Elemento 39"/>
+	<Elem NameU="Element 40" Name="Elemento 40"/>
+	<Elem NameU="Element 41" Name="Elemento 41"/>
+	<Elem NameU="Element 42" Name="Elemento 42"/>
+	<Elem NameU="Element 43" Name="Elemento 43"/>
+	<Elem NameU="Element 44" Name="Elemento 44"/>
+	<Elem NameU="Element 45" Name="Elemento 45"/>
+	<Elem NameU="Element 46" Name="Elemento 46"/>
+	<Elem NameU="Element 47" Name="Elemento 47"/>
+	<Elem NameU="Element 48" Name="Elemento 48"/>
+	<Elem NameU="Element 49" Name="Elemento 49"/>
+	<Elem NameU="Element 50" Name="Elemento 50"/>
+	<Elem NameU="Element 51" Name="Elemento 51"/>
+	<Elem NameU="Element 52" Name="Elemento 52"/>
+	<Elem NameU="Element 53" Name="Elemento 53"/>
+	<Elem NameU="Element 54" Name="Elemento 54"/>
+	<Elem NameU="Element 55" Name="Elemento 55"/>
+	<Elem NameU="Element 56" Name="Elemento 56"/>
+	<Elem NameU="Element 57" Name="Elemento 57"/>
+	<Elem NameU="Corner 58" Name="Elemento 58"/>
+	<Elem NameU="Corner 1" Name="Angolo 1"/>
+	<Elem NameU="Corner 2" Name="Angolo 2"/>
+	<Elem NameU="Corner 3" Name="Angolo 3"/>
+	<Elem NameU="Corner 4" Name="Angolo 4"/>
+	<Elem NameU="Corner 5" Name="Angolo 5"/>
+	<Elem NameU="Corner 6" Name="Angolo 6"/>
+	<Elem NameU="Corner 7" Name="Angolo 7"/>
+	<Elem NameU="Corner 8" Name="Angolo 8"/>
+	<Elem NameU="Corner 9" Name="Angolo 9"/>
+	<Elem NameU="Corner 10" Name="Angolo 10"/>
+	<Elem NameU="Corner 11" Name="Angolo 11"/>
+	<Elem NameU="Corner 12" Name="Angolo 12"/>
+	<Elem NameU="Corner 13" Name="Angolo 13"/>
+	<Elem NameU="Corner 14" Name="Angolo 14"/>
+	<Elem NameU="Corner 15" Name="Angolo 15"/>
+	<Elem NameU="Corner 16" Name="Angolo 16"/>
+	<Elem NameU="Corner 17" Name="Angolo 17"/>
+	<Elem NameU="Corner 18" Name="Angolo 18"/>
+	<Elem NameU="Corner 19" Name="Angolo 19"/>
+	<Elem NameU="Corner 20" Name="Angolo 20"/>
+	<Elem NameU="Corner 21" Name="Angolo 21"/>
+	<Elem NameU="Corner 22" Name="Angolo 22"/>
+	<Elem NameU="Corner 23" Name="Angolo 23"/>
+	<Elem NameU="Corner 24" Name="Angolo 24"/>
+	<Elem NameU="Corner 25" Name="Angolo 25"/>
+	<Elem NameU="Corner 26" Name="Angolo 26"/>
+	<Elem NameU="Corner 27" Name="Angolo 27"/>
+	<Elem NameU="Corner 28" Name="Angolo 28"/>
+	<Elem NameU="Corner 29" Name="Angolo 29"/>
+	<Elem NameU="Corner 30" Name="Angolo 30"/>
+	<Elem NameU="Corner 31" Name="Angolo 31"/>
+	<Elem NameU="Corner 32" Name="Angolo 32"/>
+	<Elem NameU="Corner 33" Name="Angolo 33"/>
+	<Elem NameU="Corner 34" Name="Angolo 34"/>
+	<Elem NameU="Corner 35" Name="Angolo 35"/>
+	<Elem NameU="Line 1" Name="Linea 1"/>
+	<Elem NameU="Line 2" Name="Linea 2"/>
+	<Elem NameU="Line 3" Name="Linea 3"/>
+	<Elem NameU="Line 4" Name="Linea 4"/>
+	<Elem NameU="Line 5" Name="Linea 5"/>
+	<Elem NameU="Flower Pattern 1" Name="Motivo Floreale 1"/>
+	<Elem NameU="Flower Pattern 2" Name="Motivo Floreale 2"/>
+	<Elem NameU="Flower Pattern 3" Name="Motivo Floreale 3"/>
+	<Elem NameU="Flower Pattern 4" Name="Motivo Floreale 4"/>
+	<Elem NameU="Flower Pattern 5" Name="Motivo Floreale 5"/>
+	<Elem NameU="Auspicious Clouds 1" Name="Nuvole di Buon Auspicio 1"/>
+	<Elem NameU="Flower Pattern 6" Name="Motivo Floreale 6"/>
+	<Elem NameU="Auspicious Clouds 2" Name="Nuvole di Buon Auspicio 2"/>
+	<Elem NameU="Auspicious Clouds 3" Name="Nuvole di Buon Auspicio 3"/>
+	<Elem NameU="Auspicious Clouds 4" Name="Nuvole di Buon Auspicio 4"/>
+	<Elem NameU="Auspicious Clouds 5" Name="Nuvole di Buon Auspicio 5"/>
+	<Elem NameU="Ink Imprinting 1" Name="Traccia di Inchiostro 1"/>
+	<Elem NameU="Ink Imprinting 2" Name="Traccia di Inchiostro 2"/>
+	<Elem NameU="Ink Imprinting 3" Name="Traccia di Inchiostro 3"/>
+	<Elem NameU="Ink Imprinting 4" Name="Traccia di Inchiostro 4"/>
+	<Elem NameU="Ink Imprinting 5" Name="Traccia di Inchiostro 5"/>
+	<Elem NameU="Ink Imprinting 6" Name="Traccia di Inchiostro 6"/>
+	<Elem NameU="Ink Imprinting 7" Name="Traccia di Inchiostro 7"/>
+	<Elem NameU="Lantern" Name="Lanterna"/>
+	<Elem NameU="Feather 1" Name="Piuma 1"/>
+	<Elem NameU="Feather 2" Name="Piuma 2"/>
+	<Elem NameU="Border 1" Name="Bordo 1"/>
+	<Elem NameU="Border 2" Name="Bordo 2"/>
+	<Elem NameU="Border 3" Name="Bordo 3"/>
+	<Elem NameU="Border 5" Name="Bordo 6"/>
+	<Elem NameU="Border 6" Name="Bordo 6"/>
+	<Elem NameU="Border 7" Name="Bordo 7"/>
+	<Elem NameU="Border 8" Name="Bordo 8"/>
+	<Elem NameU="Border 9" Name="Bordo 9"/>
+	<Elem NameU="Border 10" Name="Bordo 10"/>
+	<Elem NameU="Border 11" Name="Bordo 11"/>
+	<Elem NameU="Border 12" Name="Bordo 12"/>
+	<Elem NameU="Border 13" Name="Bordo 13"/>
+	<Elem NameU="Border 14" Name="Bordo 14"/>
+	<Elem NameU="Border 15" Name="Bordo 15"/>
+	<Elem NameU="Border 16" Name="Bordo 16"/>
+	<Elem NameU="Border 17" Name="Bordo 17"/>
+	<Elem NameU="Border 18" Name="Bordo 18"/>
+	<Elem NameU="Border 19" Name="Bordo 19"/>
+	<Elem NameU="Border 20" Name="Bordo 20"/>
+	<Elem NameU="Border 21" Name="Bordo 21"/>
+	<Elem NameU="Border 22" Name="Bordo 22"/>
+	<Elem NameU="Border 23" Name="Bordo 23"/>
+	<Elem NameU="Border 24" Name="Bordo 24"/>
+	<Elem NameU="Border 25" Name="Bordo 25"/>
+	<Elem NameU="Border 26" Name="Bordo 26"/>
+	<Elem NameU="Border 27" Name="Bordo 27"/>
+	<Elem NameU="Border 28" Name="Bordo 28"/>
+	<Elem NameU="Border 29" Name="Bordo 29"/>
+	<Elem NameU="Border 30" Name="Bordo 30"/>
+	<Elem NameU="Border 31" Name="Bordo 31"/>
+	<Elem NameU="Border 33" Name="Bordo 33"/>
+	<Elem NameU="Border 34" Name="Bordo 34"/>
+	<Elem NameU="Border 35" Name="Bordo 35"/>
+	<Elem NameU="Border 36" Name="Bordo 36"/>
+	<Elem NameU="Border 37" Name="Bordo 37"/>
+	<Elem NameU="Border 38" Name="Bordo 38"/>
+	<Elem NameU="Border 39" Name="Bordo 39"/>
+	<Elem NameU="Border 40" Name="Bordo 40"/>
+	<Elem NameU="Border 41" Name="Bordo 41"/>
+</Lib>

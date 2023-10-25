@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Garden">
+    <Elem NameU="Swimming Pool" Number="3" Name="수영장"/>
+    <Elem NameU="Fountain Pool" Name="분수대"/>
+    <Elem NameU="Fountain Pool 2" Name="분수대"/>
+    <Elem NameU="Fountain Pool 3" Name="분수대"/>
+    <Elem NameU="Fountain Pool 4" Name="분수대"/>
+    <Elem NameU="Fountain Pool 5" Name="분수대"/>
+    <Elem NameU="Fountain Pool 6" Name="분수대"/>
+    <Elem NameU="Fountain Pool 7" Name="분수대"/>
+    <Elem NameU="Fountain Pool 8" Name="분수대"/>
+    <Elem NameU="Pond" Number="4" Name="못"/>
+    <Elem NameU="Recreational Areas" Name="휴양지"/>
+    <Elem NameU="Stone Bench" Number="3" Name="돌 벤치"/>
+    <Elem NameU="Stone Bridge" Number="2" Name="돌다리"/>
+    <Elem NameU="Timber Bridge" Number="2" Name="나무다리"/>
+    <Elem NameU="The long corridor and bridge" Name="긴 복도와 다리"/>
+    <Elem NameU="The long corridor" Number="2" Name="긴 복도"/>
+    <Elem NameU="Swing Bench" Name="스윙 벤치"/>
+    <Elem NameU="Recliner" Number="2" Name="안락 의자"/>
+    <Elem NameU="Wooden tables and chairs" Number="2" Name="나무 테이블과 의자"/>
+    <Elem NameU="Long bench" Name="롱 벤치"/>
+    <Elem NameU="Long wooden" Number="2" Name="긴 나무 의자"/>
+    <Elem NameU="Table" Name="테이블"/>
+    <Elem NameU="Seven glyph bench" Number="2" Name="세븐 글리프 벤치"/>
+    <Elem NameU="U-Shaped bench" Name="U형 벤치"/>
+    <Elem NameU="Pavilion" Name="파빌리온"/>
+    <Elem NameU="Floor lamp" Number="3" Name="스탠드 플로어램프"/>
+    <Elem NameU="lamp" Name="램프"/>
+    <Elem NameU="Stone road" Name="바위길"/>
+    <Elem NameU="Cobbled roadway" Name="자갈길"/>
+    <Elem NameU="Rock garden" Name="록 가든"/>
+    <Elem NameU="Stone Path" Number="2" Name="바위길"/>
+    <Elem NameU="Rocky road" Name="바위길"/>
+    <Elem NameU="Creek brook" Name="개울가"/>
+    <Elem NameU="Swim ring" Number="2" Name="수영 튜브"/>
+    <Elem NameU="Lotus and the lotus leaf" Name="연꽃과 연잎"/>
+    <Elem NameU="Lotus" Name="연꽃"/>
+    <Elem NameU="Lotus Leaf" Name="연잎"/>
+    <Elem NameU="Framed flower bed" Name="화단"/>
+    <Elem NameU="Lawn" Name="잔디"/>
+    <Elem NameU="Flower and stone" Name="꽃과 바위"/>
+    <Elem NameU="Stone" Name="돌"/>
+    <Elem NameU="Stone 2" Name="바위"/>
+    <Elem NameU="Duty Room" Name="당직실"/>
+    <Elem NameU="Wood fence" Name="나무 울타리"/>
+    <Elem NameU="Wood gate" Name="나무 게이트"/>
+    <Elem NameU="Wood post" Name="나무 막대"/>
+    <Elem NameU="Pavilion" Name="파빌리온"/>
+    <Elem NameU="Umbrella" Number="2" Name="우산"/>
+    <Elem NameU="Stone fence" Name="돌 울타리"/>
+    <Elem NameU="Chain link fence" Name="철선 울타리"/>
+    <Elem NameU="Fence" Name="울타리"/>
+    <Elem NameU="Chain link gate" Name="체인 게이트"/>
+    <Elem NameU="Metal post" Name="금속 막대"/>
+    <Elem NameU="Round stone" Name="원형 돌"/>
+    <Elem NameU="Square stone" Name="네모 돌"/>
+    <Elem NameU="Flagstone" Name="판석"/>
+    <Elem NameU="Hexagon" Name="육각형"/>
+    <Elem NameU="Driveway" Name="자동차 도로"/>
+    <Elem NameU="Brick pathway" Name="벽돌 통로"/>
+    <Elem NameU="Patio" Name="안마당"/>
+    <Elem NameU="Garbage sorting recycling barrel" Number="2" Name="쓰레기 분류 재활용 통"/>
+    <Elem NameU="Basketball court" Name="농구장"/>
+    <Elem NameU="Raised flower bed" Name="높은 화단"/>
+    <Elem NameU="Fitness equipment" Number="4" Name="헬스 장비"/>
+    <Elem NameU="Outdoor Children's Play Area" Name="야외 어린이 놀이터"/>
+    <Elem NameU="Piano" Name="피아노"/>
+</Lib>

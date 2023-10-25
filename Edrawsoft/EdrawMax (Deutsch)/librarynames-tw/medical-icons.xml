@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Medical Icons">
+    <Elem NameU="Ear" Name="耳朵"/>
+    <Elem NameU="Eye" Name="眼睛"/>
+    <Elem NameU="Child" Name="孩子"/>
+    <Elem NameU="Patient" Name="病人"/>
+    <Elem NameU="patient" Name="病人"/>
+    <Elem NameU="Patient Family" Name="病人家屬"/>
+    <Elem NameU="Nurse" Name="護士"/>
+    <Elem NameU="Dentist" Name="牙醫"/>
+    <Elem NameU="Doctors" Name="醫生"/>
+    <Elem NameU="Emergency Call" Name="緊急呼叫"/>
+    <Elem NameU="Medical" Name="醫學"/>
+    <Elem NameU="Clinic" Name="醫務室"/>
+    <Elem NameU="Electrocardiogram" Name="心電圖"/>
+    <Elem NameU="Online Treatment" Name="在線治療"/>
+    <Elem NameU="Doctor Qualification" Name="醫生資格"/>
+    <Elem NameU="Electrocardiogram" Name="心電圖"/>
+    <Elem NameU="First Aid" Name="急救"/>
+    <Elem NameU="Poison" Name="毒藥"/>
+    <Elem NameU="Death" Name="死亡"/>
+    <Elem NameU="Stomach" Name="胃"/>
+    <Elem NameU="Bones" Name="骨頭"/>
+    <Elem NameU="Rib Cage" Name="胸腔"/>
+    <Elem NameU="lung" Number="2" Name="肺"/>
+    <Elem NameU="Heart" Name="心"/>
+    <Elem NameU="Kidney" Name="腎"/>
+    <Elem NameU="Stomach" Name="胃"/>
+    <Elem NameU="Foot" Name="腳"/>
+    <Elem NameU="Hand" Name="手"/>
+    <Elem NameU="Tooth" Name="牙齒"/>
+    <Elem NameU="Mouth" Name="嘴巴"/>
+    <Elem NameU="Nose" Name="鼻子"/>
+    <Elem NameU="Receipt" Name="收據"/>
+    <Elem NameU="Patient" Name="病人"/>
+    <Elem NameU="Bank Card" Name="銀行卡"/>
+    <Elem NameU="Care" Name="關照"/>
+    <Elem NameU="Heart-Shaped Electrocardiogram" Name="心形心電圖"/>
+    <Elem NameU="Stethoscope" Name="聽診器"/>
+    <Elem NameU="Medical Label" Name="醫療標籤"/>
+    <Elem NameU="24 Hours" Name="24小時"/>
+    <Elem NameU="Schedule Check" Name="進度檢查"/>
+    <Elem NameU="Calendar" Name="日曆"/>
+    <Elem NameU="Schedule" Name="日程安排"/>
+    <Elem NameU="Condition" Name="狀態"/>
+    <Elem NameU="View Medical Records" Name="查看病歷"/>
+    <Elem NameU="Medical Expenses" Name="醫療費用"/>
+    <Elem NameU="Medical Case" Name="醫療案件"/>
+    <Elem NameU="Medical Order" Name="醫囑"/>
+    <Elem NameU="File" Name="檔案"/>
+    <Elem NameU="Medical Book" Name="醫學書籍"/>
+    <Elem NameU="Medical System" Name="醫療系統"/>
+    <Elem NameU="Medical Safety" Name="醫療安全"/>
+    <Elem NameU="Medicine Box" Name="藥箱"/>
+    <Elem NameU="Ribbon" Name="絲帶"/>
+    <Elem NameU="Ambulance" Name="救護車"/>
+    <Elem NameU="Position" Name="職位"/>
+    <Elem NameU="Stretcher Bed" Name="擔架床"/>
+	<Elem NameU="Helicopter" Name="直升飛機"/>
+    <Elem NameU="Hospital Bed" Name="病床"/>
+    <Elem NameU="Infusion Bags" Name="輸液袋"/>
+    <Elem NameU="Wheelchair" Name="輪椅"/>
+    <Elem NameU="Infusion" Name="灌輸"/>
+    <Elem NameU="Hanging Bottle" Name="吊瓶"/>
+    <Elem NameU="Capsule" Name="膠囊"/>
+    <Elem NameU="Pill" Name="藥丸"/>
+    <Elem NameU="Medicine Bottle" Name="藥瓶"/>
+    <Elem NameU="Stethoscope" Name="聽診器"/>
+    <Elem NameU="X-Ray Film" Name="X射線膠片"/>
+    <Elem NameU="B Super" Name="B超"/>
+    <Elem NameU="CT" Name="CT"/>
+    <Elem NameU="Crutch" Name="拐杖"/>
+    <Elem NameU="Scale" Name="規模"/>
+    <Elem NameU="Band Aid" Name="創可貼"/>
+    <Elem NameU="Syringe" Name="注射器"/>
+    <Elem NameU="Thermometer" Name="溫度計"/>
+    <Elem NameU="Balance" Name="平衡"/>
+    <Elem NameU="Microscope" Name="顯微鏡"/>
+    <Elem NameU="DNA" Name="脫氧核糖核酸"/>
+    <Elem NameU="Test" Number="2" Name="測試"/>
+    <Elem NameU="Beaker" Name="燒杯"/>
+    <Elem NameU="Test Tube" Name="試管"/>
+    <Elem NameU="Increase" Name="增加"/>
+    <Elem NameU="Cut Back" Name="縮減"/>
+    <Elem NameU="liquid" Name="液體"/>
+    <Elem NameU="Chinese Medicine Grinding Tank" Name="重要研磨罐"/>
+    <Elem NameU="Pharmacy" Name="藥店"/>
+    <Elem NameU="Girl" Name="女生"/>
+    <Elem NameU="Boy" Name="男生"/>
+    <Elem NameU="Scalpel" Name="手術刀"/>
+    <Elem NameU="Medical Respirator" Name="醫用呼吸器"/>
+    <Elem NameU="Tweezers" Name="鑷子"/>
+    <Elem NameU="Scissors" Name="剪刀"/>
+    <Elem NameU="Dropper" Name="滴管"/>
+    <Elem NameU="Molecular Structure" Name="分子結構"/>
+    <Elem NameU="Tooth Cleaner" Name="牙齒清潔劑"/>
+    <Elem NameU="Eye Chart" Name="視力檢查表"/>
+</Lib>

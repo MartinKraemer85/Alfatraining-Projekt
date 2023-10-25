@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Alarm and Access Control">
+	<Elem NameU="Card access" Name="Acesso por cartão"/>
+	<Elem NameU="Biometric access" Name="Acesso biométrico"/>
+	<Elem NameU="Keypad device" Name="Dispositivo de teclado"/>
+	<Elem NameU="Card reader with keypad" Name="Leitor de cartões com teclado"/>
+	<Elem NameU="Card reader with time" Name="Leitor de cartões com tempo"/>
+	<Elem NameU="Smoke detector" Name="Detetor de fumo"/>
+	<Elem NameU="Gas detector" Name="Detetor de gás"/>
+	<Elem NameU="Heat detector" Name="Detetor de calor"/>
+	<Elem NameU="Turnstile" Name="Torniquetes"/>
+	<Elem NameU="Revolving door" Name="Porta rotativo"/>
+	<Elem NameU="Traffic arm" Name="Braço de trânsito"/>
+	<Elem NameU="Vehicle loop detector" Name="Detetor de ciclo de veículo"/>
+	<Elem NameU="Electronic lock" Name="Cadeado eletrónico"/>
+	<Elem NameU="Exit device" Name="Dispositivo de saída"/>
+	<Elem NameU="Camera with keypad" Name="Câmara com teclado"/>
+	<Elem NameU="Camera with intercom" Name="Câmara com intercomunicador"/>
+	<Elem NameU="Camera with card reader" Name="Câmara com leitor de cartões"/>
+	<Elem NameU="Security window screen" Name="Tela de janela de segurança"/>
+	<Elem NameU="Dome camera" Name="Câmara de dome"/>
+	<Elem NameU="Bullet camera" Name="Câmara de bala"/>
+	<Elem NameU="CCTV camera" Name="Câmara CCTV"/>
+	<Elem NameU="Emergency battery" Name="Bateria de emergência"/>
+	<Elem NameU="Strobe" Name="Estroboscópico"/>
+</Lib>

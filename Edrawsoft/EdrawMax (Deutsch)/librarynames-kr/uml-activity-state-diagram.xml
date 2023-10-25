@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="UML Activity State Diagram">
+    <Elem NameU="Activity" Name="활동"/>
+    <Elem NameU="State" Number="3" Name="상태"/>
+    <Elem NameU="Object" Name="개체"/>
+    <Elem NameU="Horizontal Fork/Join" Name="수평 포크 / 조인"/>
+    <Elem NameU="Vertical Fork/Join" Name="수직 포크 / 조인"/>
+    <Elem NameU="Merge/Branch" Name="병합 / 분기"/>
+    <Elem NameU="Initial" Name="시작"/>
+    <Elem NameU="Final" Name="종료"/>
+    <Elem NameU="Flow Final" Name="흐름 종료"/>
+    <Elem NameU="History" Name="기록"/>
+    <Elem NameU="Delay History" Name="기록 지연"/>
+    <Elem NameU="Send Signal" Name="시그널 발송"/>
+    <Elem NameU="Receive Signal" Name="시그널 접수"/>
+    <Elem NameU="Interrupting" Name="중단"/>
+    <Elem NameU="Accept Event" Name="이벤트 수락"/>
+    <Elem NameU="Point" Name="포인트"/>
+    <Elem NameU="Note" Name="주석"/>
+    <Elem NameU="State Container" Name="상태 컨테이너"/>
+    <Elem NameU="Container" Name="컨테이너"/>
+    <Elem NameU="Horizontal Swimlane" Name="수평 스윔 레인"/>
+    <Elem NameU="Vertical Swimlane" Name="수평 스윔 레인"/>
+    <Elem NameU="Matrix" Name="매트릭스"/>
+    <Elem NameU="Control Flow" Number="2" Name="컨트롤 흐름"/>
+	<Elem NameU="Start Node" Name="노드 시작"/>
+	<Elem NameU="Final Node" Name="최종 노드"/>
+	<Elem NameU="Bifurcation Node" Name="분기 노드"/>
+</Lib>

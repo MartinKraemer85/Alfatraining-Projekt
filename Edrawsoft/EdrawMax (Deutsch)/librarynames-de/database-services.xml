@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<Lib nameU="Database Services">
+
+<Elem Name="Erweiterte Datenbank- und Anwendungsmigration" NameU="Advanced database and application migration"/>
+
+<Elem Name="Cloud-Datenbank" NameU="Cloud database"/>
+
+<Elem Name="Datenübertragungsdienst" NameU="Data transmission service"/>
+
+<Elem Name="Datenbanksicherungsdienst" NameU="Database backup service"/>
+
+<Elem Name="Datenbankexperten-Service" NameU="Database expert service"/>
+
+<Elem Name="Datenbank-Gateway" NameU="Database gateway"/>
+
+<Elem Name="DBFS" NameU="DBFS"/>
+
+<Elem Name="Verteilter relationaler Datenbankdienst" NameU="Distributed relational database service"/>
+
+<Elem Name="DMS" NameU="DMS"/>
+
+<Elem Name="HBase" NameU="HBase"/>
+
+<Elem Name="Hybride Datenbankverwaltung" NameU="Hybrid database management"/>
+
+<Elem Name="HybridDB für MySQL" NameU="HybridDB for MySQL"/>
+
+<Elem Name="HybridDB für Postgre" NameU="HybridDB for Postgre"/>
+
+<Elem Name="Maria DB" NameU="Maria DB"/>
+
+<Elem Name="Memcache" NameU="Memcache"/>
+
+<Elem Name="MongoDB" NameU="MongoDB"/>
+
+<Elem Name="Ozeanbasis" NameU="Ocean base"/>
+
+<Elem Name="Suche öffnen" NameU="Open search"/>
+
+<Elem Name="Polar DB" NameU="Polar DB"/>
+
+<Elem Name="RDS Mysql" NameU="RDS My SQL"/>
+
+<Elem Name="RDS_postgresql" NameU="RDS_postgresql"/>
+
+<Elem Name="RDS PPA" NameU="RDS PPA"/>
+
+<Elem Name="Redis Cloud-Datenbank" NameU="Redis cloud database"/>
+
+</Lib>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Electronics">
+    <Elem NameU="PC 1" Name="PC 1"/>
+    <Elem NameU="Laptop 1" Name="노트북1"/>
+    <Elem NameU="PC 2" Name="PC 2"/>
+    <Elem NameU="PC 3" Name="PC 3"/>
+    <Elem NameU="Desktop 1" Name="데스크탑1"/>
+    <Elem NameU="Desktop 2" Name="데스크탑2"/>
+    <Elem NameU="Laptop 2" Name="노트북2"/>
+    <Elem NameU="Laptop 3" Name="노트북3"/>
+    <Elem NameU="LCD TV" Name="LCD 티비"/>
+    <Elem NameU="iMAC" Name="iMAC"/>
+    <Elem NameU="iPad" Name="아이패드"/>
+    <Elem NameU="Mobile" Name="폰"/>
+    <Elem NameU="iWatch" Name="애플 워치"/>
+    <Elem NameU="Microsoft Band 1" Name="마이크로소프트 밴드1"/>
+    <Elem NameU="Microsoft Band 2" Name="마이크로소프트 밴드2"/>
+    <Elem NameU="Microsoft Band 3" Name="마이크로소프트 밴드3"/>
+    <Elem NameU="VR Glasses 1" Name="VR안경1"/>
+    <Elem NameU="VR Glasses 2" Name="VR안경1"/>
+    <Elem NameU="VR Glasses 3" Name="VR안경3"/>
+    <Elem NameU="Server" Name="서버"/>
+    <Elem NameU="Mainframe" Name="메인 프레임"/>
+    <Elem NameU="Switch" Name="스위치"/>
+    <Elem NameU="Fax Machine" Name="팩스"/>
+    <Elem NameU="Scanner" Name="스캐너"/>
+    <Elem NameU="Printer" Name="인쇄기"/>
+    <Elem NameU="Drone 1" Name="드론1"/>
+    <Elem NameU="Drone 2" Name="드론2"/>
+    <Elem NameU="Camera" Name="카메라"/>
+    <Elem NameU="Dome Camera" Name="반원형 카메라"/>
+    <Elem NameU="Microphone" Name="마이크로폰"/>
+    <Elem NameU="Mouse" Name="마우스"/>
+    <Elem NameU="Wireless Mouse" Name="무선 마우스"/>
+    <Elem NameU="Floppy" Name="플로피"/>
+    <Elem NameU="Loudspeaker" Name="스피커"/>
+    <Elem NameU="iPod" Name="iPod"/>
+    <Elem NameU="Wacom" Name="Wacom"/>
+    <Elem NameU="U-disk" Name="U디스크"/>
+    <Elem NameU="White Board" Name="화이트 보드"/>
+    <Elem NameU="Projector 1" Name="프로젝터1"/>
+    <Elem NameU="Projector 2" Name="프로젝터2"/>
+    <Elem NameU="Router" Name="라우터"/>
+    <Elem NameU="Camera 1" Name="카메라1"/>
+    <Elem NameU="Camera 2" Name="카메라2"/>
+    <Elem NameU="Machine" Name="기기"/>
+    <Elem NameU="Phone" Name="전화"/>
+    <Elem NameU="User" Name="사용자"/>
+    <Elem NameU="Organizational chart" Name="조직구조도"/>
+    <Elem NameU="Cloud 1" Name="클라우드1"/>
+    <Elem NameU="Cloud 2" Name="클라우드2"/>
+    <Elem NameU="Lock" Name="잠금"/>
+    <Elem NameU="Link" Name="링크"/>
+    <Elem NameU="Search" Name="검색"/>
+    <Elem NameU="Gear 1" Name="설정1"/>
+    <Elem NameU="Gear 2" Name="설정2"/>
+    <Elem NameU="Gear 3" Name="설정3"/>
+    <Elem NameU="Gear 4" Name="설정4"/>
+</Lib>

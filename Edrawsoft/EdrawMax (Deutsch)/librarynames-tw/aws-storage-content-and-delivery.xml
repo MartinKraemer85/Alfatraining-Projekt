@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="AWS Storage Content and Delivery">
+    <Elem NameU="Download Distribution" Name="下載分佈"/>
+    <Elem NameU="Edge Location" Name="邊緣位置"/>
+    <Elem NameU="Streaming Distribution" Name="分流配送"/>
+    <Elem NameU="CloudFront" Name="雲端"/>
+    <Elem NameU="EBS Snapshot" Name="EBS快照"/>
+    <Elem NameU="EBS Volume" Name="EBS容量"/>
+    <Elem NameU="Glacier Archive" Name="Glacier存檔"/>
+    <Elem NameU="Glacier Vault" Name="Glacier Vault儲藏庫"/>
+    <Elem NameU="Glacier" Name="Glacier存儲"/>
+    <Elem NameU="S3 Bucket with Objects" Name="有對象的S3 Bucket"/>
+    <Elem NameU="S3 Bucket" Name="S3 Bucket"/>
+    <Elem NameU="S3 Objects" Name="S3 對象"/>
+    <Elem NameU="S3" Name="S3"/>
+    <Elem NameU="AWS Import Export" Name="AWS輸入輸出"/>
+    <Elem NameU="AWS Storage Gateway" Name="AWS存儲網關"/>
+    <Elem NameU="Cached Volumn" Name="緩存容量"/>
+    <Elem NameU="Non-Cached Volumn" Name="非緩存容量"/>
+    <Elem NameU="Virtual Tape Library" Name="虛擬磁帶庫"/>
+</Lib>

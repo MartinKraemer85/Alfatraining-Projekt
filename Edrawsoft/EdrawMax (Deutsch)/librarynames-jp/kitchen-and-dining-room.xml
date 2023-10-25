@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Kitchen and Dining Room">
+	<Elem NameU="Closet" Name="戸棚"/>
+	<Elem NameU="Gas stoves" Name="ガスストーブ"/>
+	<Elem NameU="Range with grill" Name="グリル付きのレンジ"/>
+	<Elem NameU="Four-element gas range" Name="ガスコンロ4口"/>
+	<Elem NameU="Six-element gas range" Name="ガスコンロ6口"/>
+	<Elem NameU="Gas range" Name="ガスコンロ"/>
+	<Elem NameU="Cooker with low oven" Name="オーブン付きのコンロ"/>
+	<Elem NameU="Cooker" Name="クッカー"/>
+	<Elem NameU="Range" Name="コンロ"/>
+	<Elem NameU="Flat electic range" Name="フラット電気コンロ"/>
+	<Elem NameU="Slide-in electric range" Name="スライドイン電気コンロ"/>
+	<Elem NameU="Wall oven" Name="ウォールオーブン"/>
+	<Elem NameU="Microwave" Name="電子レンジ"/>
+	<Elem NameU="Dishwasher" Name="食器洗い機"/>
+	<Elem NameU="Washing machine" Name="食器洗い機"/>
+	<Elem NameU="Trash compactor" Name="ゴミ箱コンパクタ"/>
+	<Elem NameU="Food cooler" Name="フードクーラー"/>
+	<Elem NameU="Juicer" Name="ジューサー"/>
+	<Elem NameU="Bread machine 1" Name="パンマシン 1"/>
+	<Elem NameU="Bread machine 2" Name="パンマシン 2"/>
+	<Elem NameU="Vending machine" Name="販売機"/>
+	<Elem NameU="Basin" Name="洗面台"/>
+	<Elem NameU="Double basin" Name="洗面台 2"/>
+	<Elem NameU="Pedestal sink" Name="洗面台 3"/>
+	<Elem NameU="Countertop sink" Name="洗面台 4"/>
+	<Elem NameU="Dispenser" Name="ディスペンサー "/>
+	<Elem NameU="Towel rack" Name="タオルラック"/>
+	<Elem NameU="Circular dining table" Name="丸いテーブル"/>
+	<Elem NameU="Circular table" Name="複数の椅子がついた丸テーブル"/>
+	<Elem NameU="Dining table" Name="食卓"/>
+	<Elem NameU="Oblong dining table" Name="食卓 2"/>
+	<Elem NameU="Oval dining table" Name="食卓 3"/>
+	<Elem NameU="Square table" Name="食卓 4"/>
+	<Elem NameU="Ref" Name="参照"/>
+	<Elem NameU="Cabinet" Name="キャビネット"/>
+	<Elem NameU="Toaster" Name="トースター"/>
+	<Elem NameU="Oven" Name="オーブン"/>
+	<Elem NameU="Electric barbecue" Name="電気バーベキュー"/>
+	<Elem NameU="Saucepan" Name="ソースパン"/>
+	<Elem NameU="Slow cooker" Name="鍋"/>
+	<Elem NameU="Slow cooker 2" Name="鍋 2"/>
+	<Elem NameU="Induction cooker" Name="ＩＨ調理器"/>
+	<Elem NameU="Pan" Name="パン"/>
+	<Elem NameU="Dish" Name="皿"/>
+	<Elem NameU="Fruit plate" Name="果物の盛り合わせ"/>
+	<Elem NameU="Chopping board" Name="まな板"/>
+	<Elem NameU="Smoke machine" Name="スモークマシン"/>
+	<Elem NameU="Disinfection cabinet" Name="消毒キャビネット"/>
+	<Elem NameU="Refrigerator" Name="冷蔵庫"/>
+	<Elem NameU="Refrigerator 2" Name="冷蔵庫 2"/>
+	<Elem NameU="Flue" Name="煙道"/>
+	<Elem NameU="Placement" Name="配置"/>
+	<Elem NameU="Chest freezer" Name="冷凍庫"/>
+	<Elem NameU="Built-in refrigerator" Name="組み込み型の冷蔵庫"/>
+	<Elem NameU="Water cooler" Name="ウォータークーラー"/>
+	<Elem NameU="Coffee maker" Name="コーヒーメーカー"/>
+	<Elem NameU="Water heater" Name="湯沸かし器"/>
+	<Elem NameU="Island" Name="島"/>
+	<Elem NameU="Square Dining Table" Name="正方形のダイニングテーブル"/>
+	<Elem NameU="Square Dining Table with Rounded Corners" Name="角丸正方形のダイニングテーブル"/>
+	<Elem NameU="Round Dining Table" Name="円形ダイニングテーブル"/>
+	<Elem NameU="Rectangular Dining Table with Rounded Corners" Name="角丸長方形のダイニングテーブル"/>
+	<Elem NameU="Rectangular Dining Table" Name="長方形のダイニングテーブル"/>
+	<Elem NameU="Sink" Name="流し"/>
+</Lib>

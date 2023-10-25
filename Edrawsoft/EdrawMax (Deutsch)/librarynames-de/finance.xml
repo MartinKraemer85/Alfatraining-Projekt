@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Finance">
+
+<Elem Name="Global" NameU="Global"/>
+
+<Elem Name="Recherche" NameU="Research"/>
+
+<Elem Name="International" NameU="International"/>
+
+<Elem Name="Heißluftballon" NameU="Hot Air Balloon"/>
+
+<Elem Name="Stadt" NameU="City"/>
+
+<Elem Name="Wolkenkratzer" NameU="Skyscraper"/>
+
+<Elem Name="Branche" NameU="Branch"/>
+
+<Elem Name="Geschäftsstelle" NameU="Business Office"/>
+
+<Elem Name="Einkauf" NameU="Purchase"/>
+
+<Elem Name="Warenhaus" NameU="Warehouse"/>
+
+<Elem Name="Waren" NameU="Goods"/>
+
+<Elem Name="Waren 2" NameU="Goods 2"/>
+
+<Elem Name="Arbeit" NameU="Labor"/>
+
+<Elem Name="CEO" NameU="CEO"/>
+
+<Elem Name="CEO 2" NameU="CEO 2"/>
+
+<Elem Name="Kommunikation" NameU="Communication"/>
+
+<Elem Name="Kundendienst" NameU="Customer Service"/>
+
+<Elem Name="Kundendienst 2" NameU="Customer Service 2"/>
+
+<Elem Name="Richtung" NameU="Direction"/>
+
+<Elem Name="Wettbewerb" NameU="Competition"/>
+
+<Elem Name="Teamarbeit" NameU="Team Work"/>
+
+<Elem Name="Bindung" NameU="Binding"/>
+
+<Elem Name="Rechnung" NameU="Invoice"/>
+
+<Elem Name="Brief" NameU="Letter"/>
+
+<Elem Name="Preis" NameU="Award"/>
+
+<Elem Name="Preis 2" NameU="Award 2"/>
+
+<Elem Name="Einnahme" NameU="Income"/>
+
+<Elem Name="Aufwand" NameU="Expenses"/>
+
+<Elem Name="Kosten" NameU="Cost"/>
+
+<Elem Name="Steuer" NameU="Tax"/>
+
+<Elem Name="R &amp; D" NameU="R &amp; D"/>
+
+<Elem Name="Registrierkasse" NameU="Cash Register"/>
+
+<Elem Name="Goldbarren" NameU="Gold Bullion"/>
+
+<Elem Name="Silverbarren" NameU="Silver Bullion"/>
+
+<Elem Name="Diamant" NameU="Diamond"/>
+
+<Elem Name="Bargeld" NameU="Cash"/>
+
+<Elem Name="Münze" NameU="Coin"/>
+
+<Elem Name="Anzahlung" NameU="Deposit"/>
+
+<Elem Name="Check" NameU="Check"/>
+
+<Elem Name="Bankkarte" NameU="Bank Card"/>
+
+<Elem Name="Kreditkarte" NameU="Credit Card"/>
+
+<Elem Name="Geld" NameU="Money"/>
+
+<Elem Name="Bar Zahlung" NameU="Cash Payment"/>
+
+<Elem Name="Online Zahlung" NameU="Online Payment"/>
+
+<Elem Name="Mobile Zahlung" NameU="Mobile Payment"/>
+
+<Elem Name="Mail Zahlung" NameU="Mail Payment"/>
+
+<Elem Name="Buchhaltung" NameU="Accounting"/>
+
+<Elem Name="Goldene Eier" NameU="Golden Eggs"/>
+
+<Elem Name="Investment" NameU="Investment"/>
+
+<Elem Name="Bonds" NameU="Bonds"/>
+
+<Elem Name="Aktie" NameU="Stock"/>
+
+<Elem Name="Daten" NameU="Data"/>
+
+<Elem Name="Auktion" NameU="Auction"/>
+
+<Elem Name="Bilanz 2" NameU="Balance 2"/>
+
+<Elem Name="Antiquität" NameU="Antique"/>
+
+<Elem Name="Bank" NameU="Bank"/>
+
+<Elem Name="Sicher" NameU="Safe"/>
+
+<Elem Name="Garantie 1" NameU="Security 1"/>
+
+<Elem Name="Garantie 2" NameU="Security 2"/>
+
+<Elem Name="Bilanz 1" NameU="Balance 1"/>
+
+<Elem Name="Roulette" NameU="Roulette"/>
+
+<Elem Name="Wahl" NameU="Choice"/>
+
+<Elem Name="Sanduhr" NameU="Hourglass"/>
+
+<Elem Name="Dienstleistung" NameU="Service"/>
+
+<Elem Name="Lenkrad" NameU="Steering Wheel"/>
+
+<Elem Name="Goldmünze" NameU="Gold Coin"/>
+
+<Elem Name="Spar Geld" NameU="Savings"/>
+
+<Elem Name="Goldbarren" NameU="Gold Bars"/>
+
+<Elem Name="Goldbarren" NameU="Gold ingot"/>
+
+<Elem Name="Beutel" NameU="Wallet"/>
+
+<Elem Name="Geldtasche" NameU="Money Bag"/>
+
+<Elem Name="Cash Box" NameU="Cash Box"/>
+
+<Elem Name="Dollar-Börse" NameU="Dollar Exchange"/>
+
+<Elem Name="Ertrag von Investition" NameU="Return on Investment"/>
+
+<Elem Name="Dollar" NameU="Dollar"/>
+
+<Elem Name="RMB" NameU="RMB"/>
+
+<Elem Name="Ziel" NameU="Target"/>
+
+<Elem Name="Gesetz Hammer" NameU="Law Hammer"/>
+
+<Elem Name="Skalen der Gerechtigkeit" NameU="Scales of Justice"/>
+
+<Elem Name="Analyse" NameU="Analysis"/>
+
+<Elem Name="Dollar Sicherheit" NameU="Dollar Security"/>
+
+<Elem Name="Berichte" NameU="Reports"/>
+
+<Elem Name="Verlust" NameU="Loss"/>
+
+<Elem Name="Profit" NameU="Profit"/>
+
+<Elem Name="Kreisdiagramm" NameU="Pie Chart"/>
+
+<Elem Name="Exchange" NameU="Exchange"/>
+
+<Elem Name="Verleihung" NameU="Loan"/>
+
+<Elem Name="Sicherheit" NameU="Security"/>
+
+</Lib>

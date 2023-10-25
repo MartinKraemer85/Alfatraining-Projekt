@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="UML Component Diagram">
+
+<Elem Name="Composant" NameU="Component"/>
+
+<Elem Name="Paquet" NameU="Package"/>
+
+<Elem Name="Récipient d'emballage" NameU="Package Container"/>
+
+<Elem Name="Dépendance" NameU="Dependency"/>
+
+<Elem Name="Commentaire" NameU="Note"/>
+
+<Elem Name="Nœud" NameU="Node"/>
+
+<Elem Name="Boîte de composants" NameU="Component Box"/>
+
+<Elem Name="Commencer" NameU="Start"/>
+
+<Elem Name="Fournir une interface" NameU="Provide Interface"/>
+
+<Elem Name="Interface requise" NameU="Required Interface"/>
+
+<Elem Name="Assemblée" NameU="Assembly"/>
+
+<Elem Name="Relation" NameU="Relationship"/>
+
+<Elem Name="Relation directionnelle" NameU="Directional Relationship"/>
+
+<Elem Name="Agrégation" NameU="Aggregation"/>
+
+<Elem Name="Composition" NameU="Composition"/>
+
+<Elem Name="Point" NameU="Point"/>
+
+</Lib>

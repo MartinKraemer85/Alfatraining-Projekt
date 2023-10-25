@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Decision Tree">
+    <Elem NameU="Decision Made Node" Name="의사 결정 노드"/>
+    <Elem NameU="Chance Event Node" Name="이벤트 노드"/>
+    <Elem NameU="Endpoints" Name="종료"/>
+    <Elem NameU="Branches of alternatives" Name="대안 지점"/>
+    <Elem NameU="Branches of alternatives 2" Name="대안 지점 2"/>
+    <Elem NameU="Rejected Alternative" Name="거부 된 대안"/>
+    <Elem NameU="Rejected Alternative 2" Name="거부 된 대안 2"/>
+    <Elem NameU="Outcome or utility" Name="결과 또는 유용성"/>
+    <Elem NameU="Probability" Name="개연성"/>
+    <Elem NameU="Expected Value" Name="기대치"/>
+    <Elem NameU="Node Designating a Choice" Name="선택 지정 노드"/>
+    <Elem NameU="Payoff" Name="보수"/>
+</Lib>

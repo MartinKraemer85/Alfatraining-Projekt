@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Figures">
+	<Elem NameU="Lying Position 1" Name="Position couchée 1"/>
+	<Elem NameU="Lying Position 2" Name="Position couchée 2"/>
+	<Elem NameU="Lying Position 3" Name="Position couchée 3"/>
+	<Elem NameU="Lying Position 4" Name="Position couchée 4"/>
+	<Elem NameU="Lying Position 5" Name="Position couchée 5"/>
+	<Elem NameU="Lying Position 6" Name="Position couchée 6"/>
+	<Elem NameU="Side Lying Position 1" Name="Couché, sur le côté 1"/>
+	<Elem NameU="Side Lying Position 2" Name="Couché, sur le côté 2"/>
+	<Elem NameU="Side Lying Position 3" Name="Couché, sur le côté 3"/>
+	<Elem NameU="Front Standing (Male)" Name="Debout, devant (homme)"/>
+	<Elem NameU="Side Standing (Male)" Name="Debout, côté (homme)"/>
+	<Elem NameU="Front Standing (Female)" Name="Debout, devant (femme)"/>
+	<Elem NameU="Side Standing (Female)" Name="Debout, côté (femme)"/>
+	<Elem NameU="Prone Position 1" Name="Sur le ventre 1"/>
+	<Elem NameU="Prone Position 2" Name="Sur le ventre 2"/>
+	<Elem NameU="Prone Position 3" Name="Sur le ventre 3"/>
+	<Elem NameU="Hanged Figure" Name="Silhouette pendue"/>
+	<Elem NameU="Sitting 1" Name="Assis 1"/>
+	<Elem NameU="Sitting 2" Name="Assis 2"/>
+	<Elem NameU="Sitting 3" Name="Assis 3"/>
+	<Elem NameU="Bound Figure" Name="Silhouette attachée"/>
+	<Elem NameU="Runaway Figure 1" Name="Silhouette s'enfuyant 1"/>
+	<Elem NameU="Runaway Figure 2" Name="Silhouette s'enfuyant 2"/>
+	<Elem NameU="Runaway Figure 3" Name="Silhouette s'enfuyant 3"/>
+	<Elem NameU="10" Name="10"/>
+	<Elem NameU="Outdoor Scene" Name="Scène extérieure"/>
+	<Elem NameU="Reference Point" Name="Point de référence"/>
+	<Elem NameU="Hedge" Name="Haie"/>
+	<Elem NameU="Cactus" Name="Cactus"/>
+	<Elem NameU="Shrub" Name="Buisson"/>
+	<Elem NameU="Potted Plant" Name="Plante en pot"/>
+	<Elem NameU="Wooden Fence" Name="Clôture en bois"/>
+	<Elem NameU="Metal Fence" Name="Clôture en métal"/>
+	<Elem NameU="Lamp Post" Name="Lampadaire"/>
+	<Elem NameU="Street" Name="Rue"/>
+	<Elem NameU="Junction" Name="Carrefour"/>
+	<Elem NameU="Road Lane Divider" Name="Séparateur de voie"/>
+	<Elem NameU="Police Car" Name="Police"/>
+	<Elem NameU="Police Car (Top)" Name="Voiture de police (vue de dessus)"/>
+	<Elem NameU="Mid-Size Coupe" Name="Coupé de taille moyenne"/>
+	<Elem NameU="Mid-Size Car" Name="Voiture de taille moyenne"/>
+	<Elem NameU="Compact Car" Name="Utilitaire"/>
+	<Elem NameU="Compact Car (Top)" Name="Utilitaire (vue de dessus)"/>
+	<Elem NameU="Sports Utility Vehicle" Name="Véhicule utilitaire sport"/>
+	<Elem NameU="Sports Utility Vehicle (Top)" Name="Véhicule utilitaire sport (vue de dessus)"/>
+	<Elem NameU="Compass" Name="Boussole"/>
+	<Elem NameU="Small-Size Pickup Truck" Name="Petit pick-up"/>
+</Lib>

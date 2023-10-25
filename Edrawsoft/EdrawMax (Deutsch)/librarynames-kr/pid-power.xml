@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Power">
+    <Elem NameU="3-phase switching enclosure" Name="3 상 스위칭 엔클로저"/>
+    <Elem NameU="AC drive" Number="2" Name="AC 드라이브"/>
+    <Elem NameU="Bushing" Name="부싱"/>
+    <Elem NameU="Car battery" Name="자동차 배터리"/>
+    <Elem NameU="Circuit breaker" Name="회로 차단기"/>
+    <Elem NameU="Combustion turbine" Name="연소 터빈"/>
+    <Elem NameU="DC power supply" Name="DC 전원 공급"/>
+    <Elem NameU="Diesel backed UPS system" Name="디젤 백업 UPS 시스템"/>
+    <Elem NameU="Diesel generator" Name="디젤 발전기"/>
+    <Elem NameU="Generator" Name="발전기"/>
+    <Elem NameU="Insulator" Name="절연체"/>
+    <Elem NameU="Meter gauge" Name="미터 게이지"/>
+    <Elem NameU="Meter" Name="측정기"/>
+    <Elem NameU="Nuclear power plant" Name="원자력 발전소"/>
+    <Elem NameU="Socket" Name="소켓"/>
+    <Elem NameU="Pad-mounted gear" Name="패드 장착 기어"/>
+    <Elem NameU="Pedestal" Name="받침대"/>
+    <Elem NameU="Porcelain insulator" Name="도자기 절연체"/>
+    <Elem NameU="Power monitor" Name="파워 모니터"/>
+    <Elem NameU="Nuclear reactors" Name="원자로"/>
+    <Elem NameU="Power plant" Name="발전소"/>
+    <Elem NameU="Industrial wind generators 1" Name="산업용 풍력 발전기 1"/>
+    <Elem NameU="Industrial wind generators 2" Name="산업용 풍력 발전기 2"/>
+    <Elem NameU="Industrial wind generators 3" Name="산업용 풍력 발전기 3"/>
+    <Elem NameU="Concentrated Solar plants 1" Name="집중 태양광 발전소 1"/>
+    <Elem NameU="Concentrated Solar plants 2" Name="집중 태양광 발전소 2"/>
+    <Elem NameU="Recloser" Name="리클로저"/>
+    <Elem NameU="Rectifier 1" Name="정류기 1"/>
+    <Elem NameU="Rectifier 2" Name="정류기 2"/>
+    <Elem NameU="SCR assembly" Name="SCR 어셈블리"/>
+    <Elem NameU="Simple motor drive" Name="간단한 모터 구동"/>
+    <Elem NameU="Simple recloser" Name="리클로저 2"/>
+    <Elem NameU="Simple substation" Name="단순 변전소"/>
+    <Elem NameU="Simple power panel" Name="간단한 전원 패널"/>
+    <Elem NameU="Splice box" Name="접속상자"/>
+    <Elem NameU="Starter" Name="기동기"/>
+    <Elem NameU="Surge arrestor" Name="서지 피뢰기"/>
+    <Elem NameU="Transformer" Name="변압기"/>
+    <Elem NameU="Transformer component" Name="변압기 구성 요소"/>
+    <Elem NameU="Transformer monitor" Name="변압기 모니터"/>
+    <Elem NameU="Transmission tower" Name="전송 타워"/>
+    <Elem NameU="Uninterruptable power supply" Name="무정전 전원 공급 장치"/>
+    <Elem NameU="Utility pole 1" Name="전신주 1"/>
+    <Elem NameU="Utility pole 2" Name="전신주 2"/>
+    <Elem NameU="Utility pole 3" Name="전신주 3"/>
+    <Elem NameU="Utility pole 4" Name="전신주 4"/>
+    <Elem NameU="Utility pole 5" Name="전신주 5"/>
+    <Elem NameU="Utility pole with cables" Name="케이블이 있는 전신주"/>
+    <Elem NameU="Utility pole with two sets of cables" Name="케이블이 있는 전신주"/>
+    <Elem NameU="Vacuum switch" Name="진공 스위치"/>
+    <Elem NameU="Variable-speed drive" Name="가변 속도 드라이브"/>
+    <Elem NameU="Biogas power generation" Name="바이오 가스 발전"/>
+    <Elem NameU="Cogeneration Unit" Name="열병합 발전 장치"/>
+    <Elem NameU="Dynamo" Name="발전기"/>
+    <Elem NameU="Temperature Measurement Resistor" Name="온도 측정 저항기"/>
+    <Elem NameU="Electrolyzer" Name="전해조"/>
+    <Elem NameU="Control system" Name="컨트롤 시스템"/>
+</Lib>

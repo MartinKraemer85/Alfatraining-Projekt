@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Telecom Switch and Peripheral Equip">
+	<Elem NameU="Telephone" Name="Telefono"/>
+	<Elem NameU="Connecting stage" Name="Connessione"/>
+	<Elem NameU="Marking stage" Name="Identificazione"/>
+	<Elem NameU="Switching stage" Name="Commutazione"/>
+	<Elem NameU="Switching equipment 1" Name="Cambio di equipaggiamento 1"/>
+	<Elem NameU="Switching equipment 2" Name="Cambio di equipaggiamento 2"/>
+	<Elem NameU="Magnetic type" Name="Tipo magnetico"/>
+	<Elem NameU="Moving coil type" Name="Tipo bobina mobile"/>
+	<Elem NameU="Moving iron type" Name="Tipo ferro mobile"/>
+	<Elem NameU="Stereo type" Name="Tipo stereo"/>
+	<Elem NameU="Disc type" Name="Tipo disco"/>
+	<Elem NameU="Tape/Film type" Name="Tipo nastro"/>
+	<Elem NameU="Drum type" Name="Tipo tamburo"/>
+	<Elem NameU="Reproducing" Name="Riproduzione"/>
+	<Elem NameU="Recording/reproducing" Name="Registrazione/Riproduzione"/>
+	<Elem NameU="Erasing" Name="Eliminazione"/>
+	<Elem NameU="Amplified circuit" Name="Circuito amplificato"/>
+	<Elem NameU="Pulse modulation" Name="Modulazione impulso"/>
+	<Elem NameU="Changer" Name="Commutatore"/>
+	<Elem NameU="Filter" Name="Filtro"/>
+	<Elem NameU="Filter 2" Name="Filtro 2"/>
+	<Elem NameU="Highpass filter" Name="Filtro passa-alto"/>
+	<Elem NameU="Lowpass filter" Name="Filtro passa-basso"/>
+	<Elem NameU="Bandpass filter" Name="Filtro passa-banca"/>
+	<Elem NameU="Networks" Name="Reti"/>
+	<Elem NameU="Terminating sets" Name="Set di Terminazione"/>
+	<Elem NameU="Modulator" Name="Modulatore"/>
+	<Elem NameU="Recorder/reproducer" Name="Registratore/Riproduttore"/>
+	<Elem NameU="Concentrating" Name="Concentrazione"/>
+	<Elem NameU="Frequency spectrum element" Name="Elemento Spettro di Frequenza"/>
+	<Elem NameU="Frequency band" Name="Banda di Frequenza"/>
+	<Elem NameU="Guided light transmitter" Name="Trasmettitore a luce guidata"/>
+	<Elem NameU="Stylus operated head" Name="Testina operata con stilo"/>
+	<Elem NameU="Equipotential" Name="Equipotenziale"/>
+	<Elem NameU="Thermistor with independent integral heater" Name="Termistore con riscaldatore integrato indipendente"/>
+</Lib>

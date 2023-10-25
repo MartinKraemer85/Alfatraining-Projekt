@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Fashion">
+
+<Elem Name="ドレス" NameU="Dress with Collar"/>
+
+<Elem Name="ドレス" NameU="Strapless Dress"/>
+
+<Elem Name="ドレス" NameU="Strapless Dress - Long"/>
+
+<Elem Name="ドレス" NameU="One Strap Dress"/>
+
+<Elem Name="ドレス 1" NameU="Dress 1"/>
+
+<Elem Name="ドレス" NameU="Sleeveless Dress"/>
+
+<Elem Name="ドレス" NameU="Off Shoulder Dress"/>
+
+<Elem Name="ドレス 2" NameU="Dress 2"/>
+
+<Elem Name="スカート" NameU="Pegged Skirt"/>
+
+<Elem Name="スカート" NameU="Gored Skirt"/>
+
+<Elem Name="スカート" NameU="Sleeveless Skirt"/>
+
+<Elem Name="女性服" NameU="Underwaist"/>
+
+<Elem Name="水着" NameU="Swimsuit"/>
+
+<Elem Name="ベスト" NameU="Layered Skirt"/>
+
+<Elem Name="女性コート" NameU="Women Coat 1"/>
+
+<Elem Name="女性コート" NameU="Women Coat 2"/>
+
+<Elem Name="女性コート" NameU="Women Coat 3"/>
+
+<Elem Name="女性服" NameU="Women Jacket"/>
+
+<Elem Name="女性服" NameU="Women Blazer"/>
+
+<Elem Name="女性服 2" NameU="Women Blazer 2"/>
+
+<Elem Name="女性服 3" NameU="Women Blazer 3"/>
+
+<Elem Name="女性服" NameU="Women Short Sleeve Shirt"/>
+
+<Elem Name="男性シャツ 1" NameU="Men Shirt 1"/>
+
+<Elem Name="男性シャツ 2" NameU="Men Shirt 2"/>
+
+<Elem Name="男性服 1" NameU="Men T-shirt 1"/>
+
+<Elem Name="男性服 2" NameU="Men T-shirt 2"/>
+
+<Elem Name="男性服 3" NameU="Men T-shirt 3"/>
+
+<Elem Name="男性服 4" NameU="Men T-shirt 4"/>
+
+<Elem Name="ジーンズ" NameU="Jeans"/>
+
+<Elem Name="パンツ" NameU="Breeches"/>
+
+<Elem Name="オーバーオール" NameU="Overalls"/>
+
+<Elem Name="ショートパンツ 1" NameU="Short Pants 1"/>
+
+<Elem Name="ショートパンツ 2" NameU="Short Pants 2"/>
+
+<Elem Name="スーパーマンコスチューム" NameU="Superman Costume"/>
+
+<Elem Name="パンツ" NameU="Short Pants"/>
+
+<Elem Name="子供服" NameU="Children T-Shirt"/>
+
+<Elem Name="子供服" NameU="Girl Vest"/>
+
+<Elem Name="子供服" NameU="Girl Jacket"/>
+
+<Elem Name="子供服" NameU="Children T-shirt and Pants"/>
+
+<Elem Name="子供服" NameU="Children T-shirt"/>
+
+<Elem Name="ソックス 1" NameU="Sock 1"/>
+
+<Elem Name="ソックス 2" NameU="Sock 2"/>
+
+<Elem Name="ソックス 3" NameU="Sock 3"/>
+
+<Elem Name="ソックス 4" NameU="Sock 4"/>
+
+<Elem Name="ハイヒール 1" NameU="High-heeled Shoes 1"/>
+
+<Elem Name="ハイヒール 4" NameU="High-heeled Shoes 4"/>
+
+<Elem Name="ハイヒール 2" NameU="High-heeled Shoes 2"/>
+
+<Elem Name="ハイヒール 3" NameU="High-heeled Shoes 3"/>
+
+<Elem Name="ハイヒール 5" NameU="High-heeled Shoes 5"/>
+
+<Elem Name="ハイヒール 6" NameU="High-heeled Shoes 6"/>
+
+<Elem Name="ハイヒール 7" NameU="High-heeled Shoes 7"/>
+
+<Elem Name="ハイヒール 8" NameU="High-heeled Shoes 8"/>
+
+<Elem Name="男性靴 1" NameU="Men Boot 1"/>
+
+<Elem Name="男性靴 2" NameU="Men Boot 2"/>
+
+<Elem Name="スニーカー" NameU="Sneaker"/>
+
+<Elem Name="ブーツ" NameU="Boot"/>
+
+</Lib>

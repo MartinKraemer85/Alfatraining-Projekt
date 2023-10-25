@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Detailed Network Diagram">
+    <Elem NameU="A-B Switch" Name="A-B 교환기"/>
+    <Elem NameU="Biometric Reader" Name="지문 인식"/>
+    <Elem NameU="Data" Name="데이터"/>
+    <Elem NameU="Diagnostic Device" Name="진단 장비"/>
+    <Elem NameU="External Media Drive" Name="외장 미디어 드라이브"/>
+    <Elem NameU="External Hard Drive" Name="외장 하드 드라이브"/>
+    <Elem NameU="Radio tower" Name="라디오 타워"/>
+    <Elem NameU="Fiber optic transmitter" Name="광섬유 송신기"/>
+    <Elem NameU="Patch Panel" Name="패치 패널"/>
+    <Elem NameU="PBX" Name="PBX"/>
+    <Elem NameU="Repeater" Name="리피터"/>
+    <Elem NameU="Satellite dish" Name="위성 안테나"/>
+    <Elem NameU="Satellite" Name="위성"/>
+    <Elem NameU="Smartcard Reader" Name="스마트카드 리더"/>
+    <Elem NameU="XML web server" Name="XML 웹 서버"/>
+</Lib>

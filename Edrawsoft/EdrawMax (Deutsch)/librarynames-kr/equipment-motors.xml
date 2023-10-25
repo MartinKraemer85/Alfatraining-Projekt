@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Equipment-Motors">
+    <Elem NameU="Motor" Name="모터"/>
+    <Elem NameU="Step motor" Name="스텝 모터"/>
+    <Elem NameU="DC motor" Name="DC 모터"/>
+    <Elem NameU="AC motor" Name="AC 모터"/>
+    <Elem NameU="Motor generator" Name="전기 발전기"/>
+    <Elem NameU="Gear" Name="기어"/>
+    <Elem NameU="Generator" Name="발전기"/>
+    <Elem NameU="AC generator" Name="교류 발전기"/>
+    <Elem NameU="DC generator" Name="DC 발생기"/>
+    <Elem NameU="Motor-operated valve" Name="모터 작동 밸브"/>
+    <Elem NameU="Motor driven turbine" Name="모터 구동 터빈"/>
+    <Elem NameU="Motor" Name="모터"/>
+    <Elem NameU="Diesel motor" Name="디젤 엔진"/>
+    <Elem NameU="Electric motor" Name="전기 모터"/>
+    <Elem NameU="Turbine" Name="터빈"/>
+</Lib>

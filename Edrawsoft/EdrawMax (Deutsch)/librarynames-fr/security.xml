@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<Lib nameU="Security">
+
+<Elem Name="Anti ddos" NameU="Anti ddos"/>
+
+<Elem Name="Antibot" NameU="Antibot"/>
+
+<Elem Name="Anti-fraud" NameU="Anti-fraud"/>
+
+<Elem Name="Service de détection de vulnérabilité automatisé" NameU="Automated vulnerability detection serivice"/>
+
+<Elem Name="Hôte du bastion" NameU="Bastion host"/>
+
+<Elem Name="Service de certificats" NameU="Certificates service"/>
+
+<Elem Name="Authentification cloud" NameU="Cloud authentication"/>
+
+<Elem Name="Pare-feu cloud" NameU="Cloud firewall"/>
+
+<Elem Name="Sécurité du contenu" NameU="Contens security"/>
+
+<Elem Name="COO" NameU="COO"/>
+
+<Elem Name="Cryptage des données" NameU="Data encryption"/>
+
+<Elem Name="Audit de base de données" NameU="Database audit"/>
+
+<Elem Name="DDOS international" NameU="DDOS international"/>
+
+<Elem Name="Emballage de protection DDOS" NameU="DDOS protective package"/>
+
+<Elem Name="DDOS" NameU="DDOS"/>
+
+<Elem Name="Service de cryptage" NameU="Encryption service"/>
+
+<Elem Name="Bouclier de jeu" NameU="Game shield"/>
+
+<Elem Name="Sécurité mobile" NameU="Mobile sercurity"/>
+
+<Elem Name="Sensibilisation aux situations de sécurité" NameU="Security situation awareness"/>
+
+<Elem Name="Protection du serveur" NameU="Server guard"/>
+
+<Elem Name="Anti-fraude intelligente" NameU="Smart anti-fraud"/>
+
+<Elem Name="SOS" NameU="SOS"/>
+
+<Elem Name="SPPC" NameU="SPPC"/>
+
+<Elem Name="application Web pare-feu Web" NameU="Web application firewall Web"/>
+
+<Elem Name="Cloud hybride Yundun" NameU="Yundun hybrid cloud"/>
+
+<Elem Name="Yundun" NameU="Yundun"/>
+
+</Lib>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Windows UI">
+	<Elem NameU="Dialog Window" Name="Finestra di Dialogo"/>
+	<Elem NameU="Window" Name="Finestra"/>
+	<Elem NameU="Window Backgroud" Name="Sfondo Finestra"/>
+	<Elem NameU="Field" Name="Campo"/>
+	<Elem NameU="Horizontal Scrollbar" Name="Barra di Scorrimento Orizzontale"/>
+	<Elem NameU="Vertical Scrollbar" Name="Barra di Scorrimento Verticale"/>
+	<Elem NameU="Close Button" Name="Pulsante Chiudi"/>
+	<Elem NameU="Max Button" Name="Pulsante Massimo"/>
+	<Elem NameU="Min Button" Name="Pulsante Minimo"/>
+	<Elem NameU="Help Button" Name="Pulsante di Aiuto"/>
+	<Elem NameU="Help and Close Button" Name="Pulsanti Aiuto e Chiudi"/>
+	<Elem NameU="Min Max Close Button" Name="Pulsanti Minimo Massimo e Chiudi"/>
+	<Elem NameU="Primary Toolbar" Name="Barra degli Strumenti Principale"/>
+	<Elem NameU="Toolbar Button" Name="Pulsante Barra degli Strumenti"/>
+	<Elem NameU="Empty Toolbar" Name="Barra degli Strumenti Vuota"/>
+	<Elem NameU="Menubar" Name="Barra dei Menu"/>
+	<Elem NameU="Menu Item" Name="Elemento di Menu"/>
+	<Elem NameU="Button" Name="Pulsante"/>
+	<Elem NameU="Edit Control" Name="Controllo di Modifica"/>
+	<Elem NameU="Rich Text Control" Name="Controllo Rich Text"/>
+	<Elem NameU="Static Text" Name="Testo Statico"/>
+	<Elem NameU="Hyperlink Text" Name="Collegamento Ipertestuale"/>
+	<Elem NameU="Spin Box" Name="Casella Effetti"/>
+	<Elem NameU="Search Box" Name="Casella di Ricerca"/>
+	<Elem NameU="List" Name="Elenco"/>
+	<Elem NameU="Combo List" Name="Elenco a Discesa"/>
+	<Elem NameU="Combo Box" Name="Casella di Riepilogo"/>
+	<Elem NameU="Editable Combo Box" Name="Casella di Riepilogo Modificabile"/>
+	<Elem NameU="List 2" Name="Elenco 2"/>
+	<Elem NameU="List Box" Name="Menu a Discesa"/>
+	<Elem NameU="Group Box" Name="Riquadro"/>
+	<Elem NameU="Vertical Slidebar" Name="Slidebar Verticale"/>
+	<Elem NameU="Horizontal Slidebar" Name="Slidebar Orizzontale"/>
+	<Elem NameU="Progress Bar" Name="Barra di Avanzamento"/>
+	<Elem NameU="Infinite Progresss Bar" Name="Barra di Avanzamento Infinita"/>
+	<Elem NameU="Check Box" Name="Casella di Punta"/>
+	<Elem NameU="Check Box Group" Name="Gruppo Caselle di Spunta"/>
+	<Elem NameU="Radio Button" Name="Pulsante di Scelta"/>
+	<Elem NameU="Radio Button Group" Name="Gruppo Pulsanti di Scelta"/>
+	<Elem NameU="Horizontal Spacer" Name="Spaziatore Orizzontale"/>
+	<Elem NameU="Vertical Spacer" Name="Spaziatore Verticale"/>
+	<Elem NameU="Navigate Button" Name="Pulsante di Navigazione"/>
+	<Elem NameU="Chevron Button" Name="Pulsante Parentesi Uncinata"/>
+	<Elem NameU="Chevron" Name="Parentesi Uncinata"/>
+	<Elem NameU="Arrow Button" Name="Freccia"/>
+	<Elem NameU="Small Arrow" Name="Freccia Piccola"/>
+	<Elem NameU="Double Chevron" Name="Parentesi Uncinata Doppia"/>
+	<Elem NameU="Plus/Minus Control" Name="Controllo Più/Meno"/>
+	<Elem NameU="Text Select Cursor" Name="Cursore di Selezione del Testo"/>
+	<Elem NameU="Busy Cusor" Name="Cursore Occupato"/>
+	<Elem NameU="Working Busy in Backgroud" Name="Operativo in Background"/>
+	<Elem NameU="Select Cursor" Name="Cursore di Selezione"/>
+	<Elem NameU="Precision Select Cursor" Name="Cursore Selettore di Precisione"/>
+	<Elem NameU="Select Cursor 2" Name="Cursore di Selezione 2"/>
+	<Elem NameU="Unavailable Cursor" Name="Cursore non Disponibile"/>
+	<Elem NameU="Move Cusor" Name="Cursore di Movimento"/>
+	<Elem NameU="List View" Name="Vista Elenco"/>
+	<Elem NameU="Tab View" Name="Vista Schede"/>
+	<Elem NameU="Tab View 2" Name="Vista Schede 2"/>
+	<Elem NameU="Tab View Label" Name="Etichetta Vista Schede"/>
+	<Elem NameU="Close" Name="Chiudi"/>
+	<Elem NameU="Etched Horizontal" Name="Inciso Orizzontale"/>
+	<Elem NameU="Etched Vertical" Name="Inciso Verticale"/>
+	<Elem NameU="Spin Control" Name="Controllo Effetti"/>
+	<Elem NameU="Picture Control" Name="Controllo Immagini"/>
+	<Elem NameU="Warning Icon" Name="Icona di Avviso"/>
+	<Elem NameU="Information Icon" Name="Icona Informazioni"/>
+	<Elem NameU="Help Icon" Name="Icona di Aiuto"/>
+	<Elem NameU="Error Icon" Name="Icona di Errore"/>
+</Lib>

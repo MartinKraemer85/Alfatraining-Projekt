@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Bedroom">
+	<Elem NameU="Single bed" Name="Cama de solteiro"/>
+	<Elem NameU="Adjustable bed" Name="Cama ajustável"/>
+	<Elem NameU="Double bed" Name="Cama dupla"/>
+	<Elem NameU="Single trundle bed" Name="Cama de solteiro de rodar"/>
+	<Elem NameU="Bunk bed" Name="Beliche"/>
+	<Elem NameU="Crib" Name="Berço"/>
+	<Elem NameU="Bassinet" Name="Berço"/>
+	<Elem NameU="Vanity table" Name="Penteadeira"/>
+	<Elem NameU="Night stand" Name="Mesa de cabeceira"/>
+	<Elem NameU="Circular bed" Name="Cama redonda"/>
+	<Elem NameU="Circular carpet" Name="Carpete circular"/>
+	<Elem NameU="Carpet" Name="Carpete"/>
+	<Elem NameU="Bedside cabinet" Name="Carpete de cama"/>
+	<Elem NameU="Rectangle table" Name="Mesa retangular"/>
+	<Elem NameU="Large plant" Name="Planta grande"/>
+	<Elem NameU="Small plant" Name="Planta pequena"/>
+	<Elem NameU="House plant" Name="Planta da casa"/>
+	<Elem NameU="Flat-panel TV" Name="TV Plana"/>
+	<Elem NameU="Spinet piano" Name="Piano de espineta"/>
+	<Elem NameU="Bookcase" Name="Estante"/>
+	<Elem NameU="Pillow" Name="Almofada"/>
+	<Elem NameU="Chest" Name="Arca"/>
+	<Elem NameU="Double dresser" Name="Cômoda dupla"/>
+	<Elem NameU="Tripper dresser" Name="Cômoda tripla"/>
+	<Elem NameU="Cabinet" Name="Armário"/>
+	<Elem NameU="Wardrobe" Name="Guarda roupa"/>
+	<Elem NameU="Shoe cabinet" Name="Armário de sapatos"/>
+</Lib>

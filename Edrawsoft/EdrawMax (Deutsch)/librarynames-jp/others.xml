@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<Lib nameU="Others">
+
+<Elem Name="クラウドシェル" NameU="Cloud shell"/>
+
+<Elem Name="コンポーザー" NameU="Composer"/>
+
+<Elem Name="Config" NameU="Config"/>
+
+<Elem Name="DFS" NameU="DFS"/>
+
+<Elem Name="DNS" NameU="DNS"/>
+
+<Elem Name="GDS" NameU="GDS"/>
+
+<Elem Name="グラフィックワークステーション" NameU="Graphic workstation"/>
+
+<Elem Name="GTM" NameU="GTM"/>
+
+<Elem Name="ログサービス" NameU="Log service"/>
+
+<Elem Name="ミニプログラムクラウド" NameU="Mini app cloud"/>
+
+<Elem Name="ミニプログラムクラウドアプリ" NameU="Mini program cloud app"/>
+
+<Elem Name="APIブラウザを開く" NameU="Open API explorer"/>
+
+<Elem Name="電話番号の識別" NameU="Phone number identification"/>
+
+<Elem Name="プライベートリンク" NameU="Private link"/>
+
+<Elem Name="プライベートゾーンDNS" NameU="Privatezone DNS"/>
+
+<Elem Name="SMC" NameU="SMC"/>
+
+<Elem Name="追跡分析" NameU="Tracing analysis"/>
+
+<Elem Name="WebアプリケーションホストサーバーWeb" NameU="Web application host server Web"/>
+
+</Lib>

@@ -1,0 +1,9 @@
+<Lib NameU="GCP Identity and Security">
+  <Elem NameU="BeyondCorp" Name="BeyondCorp"/>
+  <Elem NameU="Cloud IAM" Name="Cloud IAM"/>
+  <Elem NameU="Cloud security scan" Name="Digitalização de segurança da Cloud"/>
+  <Elem NameU="Data loss protection API" Name="API de proteção de perda de dados"/>
+  <Elem NameU="Identity perception agency" Name="Agência de percepção de identidade"/>
+  <Elem NameU="Main management task" Name="Tarefa de gestão principal"/>
+  <Elem NameU="Safety key execution" Name="Execução da chave de segurança"/>
+</Lib>

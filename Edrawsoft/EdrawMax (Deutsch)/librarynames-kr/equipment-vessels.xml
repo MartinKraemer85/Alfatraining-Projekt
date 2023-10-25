@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Equipment-Vessels">
+    <Elem NameU="Vertical vessel" Name="수직 용기"/>
+    <Elem NameU="Horizontal vessel" Name="수평 용기"/>
+    <Elem NameU="Jacketed mixing vessel (autoclave)" Name="재킷 혼합 용기 (오토 클레이브)"/>
+    <Elem NameU="Half pipe mixing vessel" Name="하프 파이프 혼합 용기"/>
+    <Elem NameU="Column" Name="막대형"/>
+    <Elem NameU="Tray column" Name="트레이 기둥"/>
+    <Elem NameU="Tray column 2" Name="트레이 기둥 2"/>
+    <Elem NameU="Tray column 3" Name="트레이 기둥 3"/>
+    <Elem NameU="Fluidized bed column" Name="유동적 기둥"/>
+    <Elem NameU="Bubble cap trays column" Name="Bubble cap trays column"/>
+    <Elem NameU="Staggered baffle trays column" Name="Staggered baffle trays column"/>
+    <Elem NameU="Valve trays column" Name="밸브 트레이 컬럼"/>
+    <Elem NameU="Packing column" Name="Packing column"/>
+    <Elem NameU="Packing column 2" Name="Packing column 2"/>
+    <Elem NameU="Drum" Name="드럼"/>
+    <Elem NameU="Knock-out drum" Name="녹아웃 드럼"/>
+    <Elem NameU="Bag" Name="Bag"/>
+    <Elem NameU="Bag (ISO)" Name="Bag (ISO)"/>
+    <Elem NameU="Barrel" Name="통"/>
+    <Elem NameU="Barrel (ISO)" Name="통 (ISO)"/>
+    <Elem NameU="Gas bottle" Name="가스병"/>
+    <Elem NameU="Boiler" Name="보일러"/>
+    <Elem NameU="Dome boiler" Name="돔 보일러"/>
+    <Elem NameU="Hot liquid boiler" Name="뜨거운 액체 보일러"/>
+    <Elem NameU="Tank" Name="탱크"/>
+    <Elem NameU="Tank 2" Name="탱크 2"/>
+    <Elem NameU="Tank 3" Name="탱크 3"/>
+    <Elem NameU="Tank 4" Name="탱크 4"/>
+    <Elem NameU="Open tank" Name="열린 탱크"/>
+    <Elem NameU="Covered tank" Name="덮힌 탱크"/>
+    <Elem NameU="Floating roof tank" Name="플로팅 루프 탱크"/>
+    <Elem NameU="Open bulk storage" Name="대량 저장소 열기"/>
+    <Elem NameU="Dome roof tank" Name="돔 루프 탱크"/>
+    <Elem NameU="Cone roof tank" Name="콘 루프 탱크"/>
+    <Elem NameU="Internal floating roof tank" Name="내부 플로팅 탱크"/>
+    <Elem NameU="Double wall tank" Name="이중벽 탱크"/>
+    <Elem NameU="Onion tank" Name="양파모양 탱크"/>
+    <Elem NameU="Thermal insulation vessel" Name="보온 용기"/>
+    <Elem NameU="Heating-cooling jacket vessel" Name="가열-냉각 재킷 용기"/>
+    <Elem NameU="Brackets vessel" Name="브래킷 용기"/>
+    <Elem NameU="Dished ends vessel" Name="Dished ends vessel"/>
+    <Elem NameU="Pit vessel" Name="Pit vessel"/>
+    <Elem NameU="Electrical heating vessel" Name="전기 가열 용기"/>
+    <Elem NameU="Wastewater treatment" Name="오수처리"/>
+    <Elem NameU="Bin" Name="휴지통"/>
+</Lib>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Equipment-Centrifuges">
+    <Elem NameU="Centrifugal" Name="원심력"/>
+    <Elem NameU="Centrifugal compressor" Name="원심력 압축기"/>
+    <Elem NameU="Centrifugal compressor 2" Name="원심력 압축기 2"/>
+    <Elem NameU="Centrifugal compressor 3" Name="원심력 압축기 3"/>
+    <Elem NameU="Centrifuge, Screw, Solid Shell" Name="원심력,스크루,고체 쉘"/>
+    <Elem NameU="Centrifuge, Solid shell" Name="원심력,고체 쉘"/>
+    <Elem NameU="Centrifuge, High speed" Name="하이 스피드 원심력"/>
+    <Elem NameU="Centrifuge, Perforated shell" Name="원심력, 천공 쉘"/>
+    <Elem NameU="Centrifuge, Pusher" Name="원심력，푸셔"/>
+    <Elem NameU="Centrifuge, Screw, Perforated shell" Name="원심력,스크루, 천공 쉘"/>
+    <Elem NameU="Centrifuge, Separator disc" Name="원심력,분리기 디스크"/>
+    <Elem NameU="Centrifuge, Skimmer" Name="원심력, 스키머"/>
+    <Elem NameU="Centrifugal blower" Name="원심력 팬"/>
+    <Elem NameU="Centrifugal pump" Name="원심력 펌프"/>
+    <Elem NameU="Centrifugal pump 2" Name="원심력 펌프 2"/>
+    <Elem NameU="Centrifugal pump 3" Name="원심력 펌프 3"/>
+    <Elem NameU="Centrifugal pump 4" Name="원심력 펌프 4"/>
+    <Elem NameU="Centrifugal fan" Name="원심력 팬"/>
+    <Elem NameU="Centrifugal pump" Name="원심력 펌프"/>
+    <Elem NameU="Centrifugal fan" Name="원심력 팬"/>
+    <Elem NameU="Centrifuge" Name="원심력"/>
+</Lib>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PERT Chart">
+    <Elem NameU="PERT 1" Name="PERT 1"/>
+    <Elem NameU="PERT 2" Name="PERT 2"/>
+    <Elem NameU="PERT 3" Name="PERT 3"/>
+    <Elem NameU="Legend" Name="图例"/>
+    <Elem NameU="Balloon" Name="标注"/>
+    <Elem NameU="Balloon Horizontal Callout" Name="球形标注"/>
+    <Elem NameU="Line Callout" Name="线条标注"/>
+    <Elem NameU="Right Angle Connector" Name="动态连接线"/>
+    <Elem NameU="Dynamical Connector" Name="弧形连接线"/>
+    <Elem NameU="Line Connector" Name="直线连接线"/>
+    <Elem NameU="Project" Name="工程"/>
+    <Elem NameU="Phase" Name="阶段"/>
+    <Elem NameU="Node" Name="节点"/>
+    <Elem NameU="Start / End" Name="开始/结束"/>
+    <Elem NameU="Task" Name="任务"/>
+    <Elem NameU="legend Single Line" Name="条状图例"/>
+</Lib>

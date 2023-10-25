@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="TQM Diagram Shapes">
+
+<Elem Name="運輸" NameU="Transportation"/>
+
+<Elem Name="輸入貨物" NameU="Inbound goods"/>
+
+<Elem Name="保管" NameU="Storage"/>
+
+<Elem Name="プロセス" NameU="Procedure"/>
+
+<Elem Name="作業" NameU="Operation"/>
+
+<Elem Name="作業または検査" NameU="Operation or inspection"/>
+
+<Elem Name="問題" NameU="Issue"/>
+
+<Elem Name="組織の機能" NameU="Organization function"/>
+
+<Elem Name="2部構成機能" NameU="2-part function"/>
+
+<Elem Name="外部組織" NameU="External organization"/>
+
+<Elem Name="外部プロセス" NameU="External process"/>
+
+<Elem Name="検査/測定" NameU="Inspection/ measurement"/>
+
+<Elem Name="メトリック" NameU="Metric"/>
+
+<Elem Name="2部構成メトリック" NameU="2-part metrix"/>
+
+<Elem Name="システムのデータベース" NameU="System database"/>
+
+<Elem Name="システムサポート" NameU="System support"/>
+
+<Elem Name="システム機能" NameU="System function"/>
+
+<Elem Name="遅延" NameU="Delay"/>
+
+<Elem Name="コネクタ(TQM)" NameU="Connector(TQM)"/>
+
+<Elem Name="ページを参照する" NameU="Off-page reference"/>
+
+<Elem Name="接続の問題" NameU="Connected issues"/>
+
+<Elem Name="製造" NameU="Fabrication"/>
+
+<Elem Name="移動" NameU="Move"/>
+
+<Elem Name="店" NameU="Store"/>
+
+<Elem Name="検査" NameU="Inspection"/>
+
+<Elem Name="選択可能なプロセス" NameU="Selectable process"/>
+
+<Elem Name="フィードバック矢印" NameU="Feedback arrow"/>
+
+<Elem Name="フォースフィールド分析" NameU="Force-field analysis"/>
+
+<Elem Name="カテゴリー" NameU="Category"/>
+
+<Elem Name="効果" NameU="Effect"/>
+
+<Elem Name="魚の枠" NameU="Fish frame"/>
+
+<Elem Name="結果" NameU="Result"/>
+
+<Elem Name="結果なし" NameU="No result"/>
+
+<Elem Name="リターン分岐" NameU="Branch-return"/>
+
+<Elem Name="ノーリターン分岐" NameU="Branch-no return"/>
+
+<Elem Name="中断" NameU="Interrupt"/>
+
+<Elem Name="外部コントロール" NameU="External control"/>
+
+<Elem Name="精錬" NameU="Refinement"/>
+
+<Elem Name="決定 (TQM)" NameU="Decision (TQM)"/>
+
+<Elem Name="マルチイン/アウトの決定" NameU="Mulit in/out decision"/>
+
+<Elem Name="ワークフローループ" NameU="Work flow loop"/>
+
+<Elem Name="垂直スイムレーン" NameU="Vertical Swimlane"/>
+
+<Elem Name="水平スイムレーン" NameU="Horizontal Swinlane"/>
+
+<Elem Name="原因" NameU="Cause"/>
+
+<Elem Name="副因" NameU="Secondary Cause"/>
+
+<Elem Name="アークコネクター" NameU="Arc connector"/>
+
+<Elem Name="曲線コネクター" NameU="Curve connector"/>
+
+</Lib>

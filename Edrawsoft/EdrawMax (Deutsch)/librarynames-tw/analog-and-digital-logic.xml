@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Analog and Digital Logic">
+    <Elem NameU="And" Name="And"/>
+    <Elem NameU="OR" Name="OR"/>
+    <Elem NameU="XOR" Name="XOR"/>
+    <Elem NameU="NAND" Name="NAND"/>
+    <Elem NameU="NOR" Name="NOR"/>
+    <Elem NameU="NXOR" Name="NXOR"/>
+    <Elem NameU="NNOR" Name="NNOR"/>
+    <Elem NameU="And (IEC)" Name="And (IEC)"/>
+    <Elem NameU="NAND (IEC)" Name="NAND (IEC)"/>
+    <Elem NameU="OR (IEC)" Name="OR (IEC)"/>
+    <Elem NameU="NOR (IEC)" Name="NOR (IEC)"/>
+    <Elem NameU="NOT (IEC)" Name="NOT (IEC)"/>
+    <Elem NameU="XOR (IEC)" Name="XOR (IEC)"/>
+    <Elem NameU="Inverter" Name="反相器"/>
+    <Elem NameU="Buffer" Name="緩衝器"/>
+    <Elem NameU="Transfer gate" Name="傳輸門"/>
+    <Elem NameU="Clock" Name="時鐘"/>
+    <Elem NameU="Coefficient scaler" Name="定標器"/>
+    <Elem NameU="Mux" Name="Mux"/>
+    <Elem NameU="Mux-Demux" Name="Mux-Demux"/>
+    <Elem NameU="Demux" Name="Demux"/>
+    <Elem NameU="D Type Flip-Flop" Name="D型正反器"/>
+    <Elem NameU="D Type Flip-Flop With Clear" Name="具有清零功能的D型正反器"/>
+    <Elem NameU="D Type RS Flip-Flop" Name="D型RS正反器"/>
+    <Elem NameU="JK Flip-Flop" Name="JK正反器"/>
+    <Elem NameU="JK Flip-Flop With Clear" Name="具有清零功能的JK正反器"/>
+    <Elem NameU="JK Flip-Flop With SR" Name="雙穩態J正反器"/>
+    <Elem NameU="RS Latch" Name="雙穩態鎖存器"/>
+    <Elem NameU="RS Latch Synchronous" Name="雙穩態同步鎖存器"/>
+    <Elem NameU="T Type Flip-Flop" Name="T型正反器"/>
+    <Elem NameU="Amplifier" Name="放大器"/>
+    <Elem NameU="Converter" Name="轉換器"/>
+    <Elem NameU="Logic gate 1" Name="邏輯門 1"/>
+    <Elem NameU="Flip-flop" Name="正反器"/>
+    <Elem NameU="Analog to digital" Name="模擬到數字轉換"/>
+    <Elem NameU="Digital to analog" Name="數字到模擬轉換"/>
+    <Elem NameU="Analog symbol" Name="模擬符號"/>
+    <Elem NameU="Digital symbol" Name="數字符號"/>
+    <Elem NameU="Negative logic dot" Name="負邏輯原點"/>
+    <Elem NameU="Function potentiom..." Name="函數電位計"/>
+    <Elem NameU="Positional servo" Name="位置伺服機構"/>
+    <Elem NameU="Delay element" Name="延遲元件"/>
+    <Elem NameU="I/O port" Name="輸入/輸出端口"/>
+    <Elem NameU="Signal waveforms" Name="信號波形"/>
+    <Elem NameU="Three-state buffer" Name="三態緩衝器"/>
+    <Elem NameU="Tri-state gate" Name="三態門"/>
+    <Elem NameU="Tri-state gate 2" Name="三態門 2"/>
+    <Elem NameU="Integrator" Name="積分器"/>
+    <Elem NameU="Amplifier" Name="放大器"/>
+    <Elem NameU="Summing amplifier" Name="加法放大器"/>
+    <Elem NameU="Controlled amplifier" Name="控制放大器"/>
+    <Elem NameU="Multiplier" Name="乘法器"/>
+    <Elem NameU="Divider" Name="除法器"/>
+    <Elem NameU="Function generator 2" Name="函數生成器 2"/>
+    <Elem NameU="Generalized integrator" Name="通用積分器"/>
+    <Elem NameU="Operational amplifier" Name="運算放大器"/>
+    <Elem NameU="Operational amplifier 2" Name="運算放大器 2"/>
+    <Elem NameU="Schmitt Trigger" Name="施密特觸發器"/>
+    <Elem NameU="Generic" Name="通用"/>
+    <Elem NameU="Multiplier" Name="乘法器"/>
+    <Elem NameU="Divider" Name="除法器"/>
+    <Elem NameU="Multiplier-divider" Name="乘法-除法器"/>
+    <Elem NameU="Exponential" Name="指數器"/>
+    <Elem NameU="Cotangent" Name="餘切"/>
+</Lib>

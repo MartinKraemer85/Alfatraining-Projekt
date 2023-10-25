@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Silhouette">
+	<Elem NameU="Woman 1" Name="Donna 1"/>
+	<Elem NameU="Woman 2" Name="Donna 2"/>
+	<Elem NameU="Woman 3" Name="Donna 3"/>
+	<Elem NameU="Woman 4" Name="Donna 4"/>
+	<Elem NameU="Woman 5" Name="Donna 5"/>
+	<Elem NameU="Woman 6" Name="Donna 6"/>
+	<Elem NameU="Woman 7" Name="Donna 7"/>
+	<Elem NameU="Woman 8" Name="Donna 8"/>
+	<Elem NameU="Woman 9" Name="Donna 9"/>
+	<Elem NameU="Man 1" Name="Uomo 1"/>
+	<Elem NameU="Man 2" Name="Uomo 2"/>
+	<Elem NameU="Man 3" Name="Uomo 3"/>
+	<Elem NameU="Man 4" Name="Uomo 4"/>
+	<Elem NameU="Man 5" Name="Uomo 5"/>
+	<Elem NameU="Man 6" Name="Uomo 6"/>
+	<Elem NameU="Man 8" Name="Uomo 7"/>
+	<Elem NameU="Man 7" Name="Uomo 8"/>
+	<Elem NameU="Shake Hands 1" Name="Stretta di Mano 1"/>
+	<Elem NameU="Shake Hands 2" Name="Stretta di Mano 2"/>
+	<Elem NameU="Woman Go to Work" Name="Donna che va a Lavoro"/>
+	<Elem NameU="Woman Walking" Name="Donna che Cammina"/>
+	<Elem NameU="Man Go to Work" Name="Uomo che va a Lavoro"/>
+	<Elem NameU="Talk" Name="Parlare"/>
+	<Elem NameU="Rest" Name="Riposare"/>
+	<Elem NameU="Man Play Computer" Name="Uomo che Gioca al Computer"/>
+	<Elem NameU="Man Business Travel" Name="Uomo in Viaggio di Lavoro"/>
+	<Elem NameU="On the Phone" Name="Al Telefono"/>
+	<Elem NameU="Talk on the Phone 1" Name="Parlare al Telefono 1"/>
+	<Elem NameU="Talk on the Phone 2" Name="Parlare al Telefono 2"/>
+	<Elem NameU="Call Someone" Name="Chiamare Qualcuno"/>
+	<Elem NameU="Talk with Loudspeaker" Name="Parlare con Megafono"/>
+	<Elem NameU="Woman with Trophy" Name="Donna con Trofeo"/>
+	<Elem NameU="Man with Trophy" Name="Uomo con Trofeo"/>
+	<Elem NameU="Thinking 1" Name="Pensare 1"/>
+	<Elem NameU="Thinking 2" Name="Pensare 2"/>
+	<Elem NameU="Cheers" Name="Festeggiare"/>
+	<Elem NameU="Man Celebrating" Name="Uomo che Festeggia"/>
+	<Elem NameU="Business Talk" Name="Parlare d'Affari"/>
+	<Elem NameU="Shake Hands 3" Name="Stretta di Mano 3"/>
+	<Elem NameU="Working" Name="Lavorare"/>
+	<Elem NameU="Cheering" Name="Esultare"/>
+	<Elem NameU="People Cheering" Name="Persone che Esultano"/>
+	<Elem NameU="Girl Reading" Name="Ragazza che Legge"/>
+	<Elem NameU="Reading with Friend" Name="Leggere in Compagnia"/>
+	<Elem NameU="School Boy" Name="Studente Maschio"/>
+	<Elem NameU="School Girl" Name="Studente Femmina"/>
+	<Elem NameU="Champion" Name="Campione"/>
+	<Elem NameU="Shopping" Name="Shopping"/>
+	<Elem NameU="Business Travel" Name="Viaggio di Lavoro"/>
+	<Elem NameU="Shopping Together" Name="Shopping in Compagnia"/>
+	<Elem NameU="Shopping with Friends" Name="Shopping con Amici"/>
+	<Elem NameU="Shopping with Cart" Name="Shopping con Carrello"/>
+	<Elem NameU="Playing Drums" Name="Suonare la Batteria"/>
+	<Elem NameU="Playing Piano" Name="Suonare il Piano"/>
+	<Elem NameU="Playing Violin" Name="Suonare il Violino"/>
+	<Elem NameU="Man Playing Violin" Name="Uomo che Suona il Violino"/>
+	<Elem NameU="Playing Flute" Name="Suonare il Flauto"/>
+	<Elem NameU="Woman Singer" Name="Cantante Donna"/>
+	<Elem NameU="Man Singer" Name="Cantante Uomo"/>
+	<Elem NameU="Playing Saxophone" Name="Suonare il Sassofono"/>
+	<Elem NameU="Ballet Dancer" Name="Danza Classica"/>
+	<Elem NameU="Interview" Name="Colloquio"/>
+	<Elem NameU="Taking a Photo" Name="Fare una Foto"/>
+	<Elem NameU="Go Travelling" Name="Viaggiare"/>
+	<Elem NameU="Brothers" Name="Fratelli"/>
+	<Elem NameU="Couple" Name="Coppia"/>
+	<Elem NameU="Travel Alone" Name="Viaggiare Soli"/>
+	<Elem NameU="Happy Family" Name="Famiglia Felice"/>
+</Lib>

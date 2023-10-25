@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Process Heating">
+    <Elem NameU="Batch oven" Name="배치 오븐"/>
+    <Elem NameU="Calender" Name="달력"/>
+    <Elem NameU="Circulation heater" Name="순환 히터"/>
+    <Elem NameU="Compensator" Name="보상기 1"/>
+    <Elem NameU="Condenser 1" Name="보상기 2"/>
+    <Elem NameU="Condenser 2" Name="보상기 3"/>
+    <Elem NameU="Conveyorized oven" Name="컨베이어 오븐"/>
+    <Elem NameU="Evaporator" Name="증발기"/>
+    <Elem NameU="Expansion loop" Name="확장 루프"/>
+    <Elem NameU="Flameless thermal oxidizer" Name="무화염 열 산화제"/>
+    <Elem NameU="Heat exchanger 1" Name="열교환기 1"/>
+    <Elem NameU="Heat exchanger 2" Name="열교환기 2"/>
+    <Elem NameU="Heat exchanger 3" Name="열교환기 3"/>
+    <Elem NameU="Heat exchanger 4" Name="열교환기 4"/>
+    <Elem NameU="Heat exchanger 5" Name="열교환기 5"/>
+    <Elem NameU="Heat exchanger 6" Name="열교환기 6"/>
+    <Elem NameU="Heat exchanger 7" Name="열교환기 7"/>
+    <Elem NameU="Heat exchanger 8" Name="열교환기 8"/>
+    <Elem NameU="Heat exchanger 9" Name="열교환기 9"/>
+    <Elem NameU="Heat recovery system 1" Name="열회수 시스템 1"/>
+    <Elem NameU="Heat recovery system 2" Name="열회수 시스템 2"/>
+    <Elem NameU="Heat recovery system" Name="열회수 시스템 3"/>
+    <Elem NameU="Heat transfer system" Name="열전달 시스템"/>
+    <Elem NameU="Hot oil heater" Name="핫 오일 히터"/>
+    <Elem NameU="Hot oil system" Name="핫 오일 시스템"/>
+    <Elem NameU="Immersion heater" Name="침수 히터"/>
+    <Elem NameU="Indirect large volume water heater" Name="간접 대용량 온수기"/>
+    <Elem NameU="Low-emission burner" Name="저공해 버너"/>
+    <Elem NameU="Power burner" Name="파워 연소기"/>
+    <Elem NameU="Process heater" Name="프로세스 히터"/>
+    <Elem NameU="Shell and tube condenser" Name="쉘 및 튜브 콘덴서"/>
+    <Elem NameU="Simple condenser" Name="단순 콘덴서"/>
+    <Elem NameU="Simple heat exchanger" Name="간단한 열교환 기"/>
+    <Elem NameU="Simple steam generator 1" Name="간단한 증기 발생기 1"/>
+    <Elem NameU="Simple steam generator 2" Name="간단한 증기 발생기 2"/>
+    <Elem NameU="Steam generator 1" Name="증기 발생기 3"/>
+    <Elem NameU="Steam generator 2" Name="증기 발생기 4"/>
+    <Elem NameU="Steam mixer" Name="스팀 믹서"/>
+    <Elem NameU="Steam trap" Name="스팀 트랩"/>
+    <Elem NameU="Thermal fluid heater" Name="열 유동 히터"/>
+    <Elem NameU="Turbocoil hot oil heater" Name="Turbocoil 핫 오일 히터 2"/>
+    <Elem NameU="Warming oven" Name="오븐"/>
+    <Elem NameU="Water heater system" Name="온수기 시스템"/>
+    <Elem NameU="Preheater" Name="예열기"/>
+    <Elem NameU="Air preheater" Number="2" Name="공기 예열기"/>
+    <Elem NameU="Electric Heater" Name="전기 히터"/>
+    <Elem NameU="Rotary air-preheater" Name="회전식 공기 예열기"/>
+    <Elem NameU="Vertical preheater" Name="수직 예열기"/>
+    <Elem NameU="Drying equipment" Name="건조 장비"/>
+    <Elem NameU="Distillation" Name="증류"/>
+    <Elem NameU="Drying" Number="2" Name="건조 장비"/>
+    <Elem NameU="Superheater" Name="과열기"/>
+    <Elem NameU="Yeast drying tower" Name="효모 건조 탑"/>
+    <Elem NameU="Rotary dryer" Name="회전식 건조기"/>
+    <Elem NameU="Drying columns" Name="건조탑"/>
+    <Elem NameU="Dryer" Name="건조기"/>
+    <Elem NameU="Heat Exchange System" Name="열 교환 시스템"/>
+    <Elem NameU="Solar collector" Number="2" Name="태양열 수집기"/>
+</Lib>

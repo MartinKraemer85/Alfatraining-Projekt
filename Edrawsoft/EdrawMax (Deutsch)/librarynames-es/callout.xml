@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Callout">
+	<Elem NameU="Callout-Curved Line" Name="Keterangan-Garis Melengkung"/>
+	<Elem NameU="Callout-Bending Line" Name="Keterangan-Garis Berbelok"/>
+	<Elem NameU="Callout-Straight Line" Name="Keterangan-Garis Lurus"/>
+	<Elem NameU="Round Callout" Name="Keterangan Bulat"/>
+	<Elem NameU="Oval Callout" Name="Keterangan Oval"/>
+	<Elem NameU="Rectangular Callout" Name="Keterangan Persegi Panjang"/>
+	<Elem NameU="Information Line" Name="Garis Informasi"/>
+	<Elem NameU="Interrupt Line" Name="Garis Interupsi"/>
+	<Elem NameU="Cross Section 1" Name="Persilangan 1"/>
+	<Elem NameU="Cross Section 2" Name="Persilangan 2"/>
+	<Elem NameU="Cross Section 3" Name="Persilangan 3"/>
+	<Elem NameU="Datum (Position)" Name="Datum (Posisi)"/>
+	<Elem NameU="Datum 1" Name="Datum 1"/>
+	<Elem NameU="Datum 2" Name="Datum 2"/>
+	<Elem NameU="Datum" Name="Datum"/>
+	<Elem NameU="Level" Name="Level"/>
+	<Elem NameU="Reference" Name="Acuan"/>
+	<Elem NameU="Ceiling" Name="Langit-Langit"/>
+	<Elem NameU="North Arrow 1" Name="Panah Utara 1"/>
+	<Elem NameU="North Arrow 2" Name="Panah Utara 2"/>
+	<Elem NameU="North Arrow 3" Name="Panah Utara 3"/>
+	<Elem NameU="North Arrow 4" Name="Panah Utara 4"/>
+	<Elem NameU="North Arrow 5" Name="Panah Utara 5"/>
+	<Elem NameU="Revision Cloud" Name="Awan Revisi"/>
+	<Elem NameU="Scale" Name="Skala"/>
+	<Elem NameU="Scale Symbol" Name="Simbol Skala"/>
+	<Elem NameU="Note Symbol" Name="Simbol Catatan"/>
+	<Elem NameU="Reference Triangle" Name="Segitiga Acuan"/>
+	<Elem NameU="Reference Rectangle" Name="Persegi Panjang Acuan"/>
+	<Elem NameU="Reference Hexagon" Name="Heksagon Acuan"/>
+	<Elem NameU="Reference Oval" Name="Oval Acuan"/>
+	<Elem NameU="Reference Circle" Name="Lingkaran Acuan"/>
+	<Elem NameU="Reference Callout" Name="Keterangan Acuan"/>
+	<Elem NameU="Alley" Name="Gang"/>
+	<Elem NameU="Apartment-1" Name="Apartemen-1"/>
+	<Elem NameU="Apartment-2" Name="Apartemen-2"/>
+	<Elem NameU="Bathroom" Name="Kamar Mandi"/>
+	<Elem NameU="Bedroom" Name="Kamar Tidur"/>
+	<Elem NameU="Meeting Room" Name="Ruang Rapat"/>
+	<Elem NameU="Car Drugs" Name="Obat dalam Mobil"/>
+	<Elem NameU="Kitchen" Name="Dapur"/>
+	<Elem NameU="Murder Scene" Name="Tempat Pembunuhan"/>
+	<Elem NameU="Office" Name="Kantor"/>
+	<Elem NameU="Pool" Name="Kolam Renang"/>
+	<Elem NameU="Public Toilet" Name="Toilet Umum"/>
+	<Elem NameU="Convenience Store" Name="Toko Kelontong"/>
+	<Elem NameU="Dining Room" Name="Ruang Makan"/>
+</Lib>

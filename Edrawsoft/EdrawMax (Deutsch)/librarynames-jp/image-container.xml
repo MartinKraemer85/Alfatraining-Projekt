@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Image Container">
+	<Elem NameU="Circle" Name="サークル"/>
+	<Elem NameU="Square" Name="平方"/>
+	<Elem NameU="Rectangle" Name="矩形"/>
+	<Elem NameU="Rounded Square" Name="角丸四角"/>
+	<Elem NameU="Beveled Rectangle" Name="面取り長方形"/>
+	<Elem NameU="Diamond" Name="ダイヤモンド"/>
+	<Elem NameU="Design Element" Name="設計要素"/>
+	<Elem NameU="Heart-Shaped" Name="ハート型"/>
+	<Elem NameU="Bordered Circle" Name="ボーダーサークル"/>
+	<Elem NameU="Bordered Square" Name="ボーダースクエア"/>
+	<Elem NameU="Bordered Rectangle" Name="ボーダー長方形"/>
+	<Elem NameU="Rounded rectangle with border" Name="ボーダー付きの角丸長方形"/>
+	<Elem NameU="Beveled rectangle with border" Name="縁取り付き斜角長方形"/>
+	<Elem NameU="Diamond with border" Name="ボーダー付きダイヤモンド"/>
+	<Elem NameU="Heart with border" Name="ボーダーとハート"/>
+	<Elem NameU="Circle with text" Name="テキスト付きの円"/>
+	<Elem NameU="Circle with text and no fill" Name="塗りつぶしなしのテキスト付きの円"/>
+	<Elem NameU="Straight Connector" Name="ストレートコネクター"/>
+</Lib>

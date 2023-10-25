@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="WorkFlow Objects">
+    <Elem NameU="Archives" Name="보관"/>
+    <Elem NameU="Box" Name="박스"/>
+    <Elem NameU="Cloud Account" Name="클라우드 계정"/>
+    <Elem NameU="Competitor" Name="경쟁자"/>
+    <Elem NameU="Computer" Name="컴퓨터"/>
+    <Elem NameU="Crate" Name="대형 상자"/>
+    <Elem NameU="CD" Name="CD"/>
+    <Elem NameU="Document" Name="파일"/>
+    <Elem NameU="Documents" Name="파일"/>
+    <Elem NameU="Document Collection" Name="문서 모음"/>
+    <Elem NameU="Customer" Name="고객"/>
+    <Elem NameU="Email" Name="이메일"/>
+    <Elem NameU="Floppy Disk" Name="플로피 디스크"/>
+    <Elem NameU="Folder Closed" Name="폴더 - 닫힘"/>
+    <Elem NameU="Folder Locked" Name="폴더 - 잠금"/>
+    <Elem NameU="Folder Opened" Name="폴더 - 열림"/>
+    <Elem NameU="Invoice" Name="인보이스"/>
+    <Elem NameU="Invoice 2" Name="인보이스 2"/>
+    <Elem NameU="Issue" Name="이슈"/>
+    <Elem NameU="Mail" Name="이메일"/>
+    <Elem NameU="Mobile HD" Name="모바일 HD"/>
+    <Elem NameU="Pad" Name="패드"/>
+    <Elem NameU="Person Torso" Name="사람 — 반신"/>
+    <Elem NameU="Person" Name="사람"/>
+    <Elem NameU="Person 2" Name="사람 2"/>
+    <Elem NameU="Phone" Name="폰"/>
+    <Elem NameU="Presentation File" Name="프레젠테이션 파일"/>
+    <Elem NameU="Presentation File 2" Name="프레젠테이션 파일 2"/>
+    <Elem NameU="Product" Name="제품"/>
+    <Elem NameU="Spreadsheet" Name="스프레드시트"/>
+    <Elem NameU="Spreadsheet 2" Name="스프레드시트 2"/>
+    <Elem NameU="U Disk" Name="U 디스크"/>
+    <Elem NameU="Upload" Name="업로드"/>
+    <Elem NameU="Upload to Cloud" Name="클라우드로 업로드"/>
+    <Elem NameU="User" Name="사용자"/>
+    <Elem NameU="Webpage" Name="웹페이지"/>
+</Lib>

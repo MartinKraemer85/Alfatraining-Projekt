@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="ORM Diagram">
+    <Elem NameU="Entity" Name="实体"/>
+    <Elem NameU="Value" Name="值"/>
+    <Elem NameU="Unary" Name="一元"/>
+    <Elem NameU="Binary" Name="两元"/>
+    <Elem NameU="Vertical binary" Name="垂直两元"/>
+    <Elem NameU="Ternay" Name="三元"/>
+    <Elem NameU="Quaternary" Name="四元"/>
+    <Elem NameU="Exclusion constraint" Name="排斥约束"/>
+    <Elem NameU="Ext.Freq.constraint" Name="外部频率约束"/>
+    <Elem NameU="Frequency constraint" Name="频率约束"/>
+    <Elem NameU="Index annotation" Name="索引批注"/>
+    <Elem NameU="Ext.P constraint" Name="外部主要约束"/>
+    <Elem NameU="Mandatory constraint" Name="强制约束"/>
+    <Elem NameU="Ext.Mand constraint" Name="外部强制约束"/>
+    <Elem NameU="Ext.Uniq constraint" Name="外部唯一约束"/>
+    <Elem NameU="constraint connector" Name="约束连接线"/>
+    <Elem NameU="Equality constraint" Name="等式约束"/>
+    <Elem NameU="P constraint" Name="主要约束"/>
+    <Elem NameU="Ring constraint" Name="循环约束"/>
+    <Elem NameU="Subset constraint" Name="子集约束"/>
+    <Elem NameU="Mand.Role connector" Name="强制角色连接线"/>
+    <Elem NameU="Role connector" Name="角色连接线"/>
+    <Elem NameU="Subtype connector" Name="子类型连接线"/>
+    <Elem NameU="Left uniqueness constranit" Name="左唯一性连接线"/>
+    <Elem NameU="Uniqueness constraint" Name="唯一性约束"/>
+    <Elem NameU="Middle uniqueness constraint" Name="中间唯一性约束"/>
+    <Elem NameU="Right uniqueness constraint" Name="右唯一性约束"/>
+</Lib>

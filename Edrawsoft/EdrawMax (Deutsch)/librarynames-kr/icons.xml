@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Icons">
+    <Elem NameU="Address - Book" Name="주소지"/>
+    <Elem NameU="Address - Card" Name="명함"/>
+    <Elem NameU="Alarm Clock" Name="알람"/>
+    <Elem NameU="Alert" Name="경고"/>
+    <Elem NameU="Anchor" Name="앵커"/>
+    <Elem NameU="Aperture" Name="조리개"/>
+    <Elem NameU="At" Name="At"/>
+    <Elem NameU="Android" Name="안드로이드"/>
+    <Elem NameU="Apple" Name="애플"/>
+    <Elem NameU="Apps" Name="앱"/>
+    <Elem NameU="Arrow" Name="화살표"/>
+    <Elem NameU="Arrow - Circular" Name="원형 화살표"/>
+    <Elem NameU="Arrow - Double Head" Name="양방향 화살표"/>
+    <Elem NameU="Arrow - Down" Name="아래 방향 화살표"/>
+    <Elem NameU="Arrow - Expand" Name="화살표 확장"/>
+    <Elem NameU="Arrow Growth" Name="증가 화살표"/>
+    <Elem NameU="Arrow - Return" Name="리턴 화살표"/>
+    <Elem NameU="Arrow - Shrink" Name="축소 화살표"/>
+    <Elem NameU="Bag" Name="가방"/>
+    <Elem NameU="Bar" Name="막대"/>
+    <Elem NameU="Baseball" Name="야구"/>
+    <Elem NameU="Basketball" Name="농구"/>
+    <Elem NameU="Bath" Name="욕조"/>
+    <Elem NameU="Battery Charging" Name="배터리 충전"/>
+    <Elem NameU="Battery Empty" Name="배터리 없음"/>
+    <Elem NameU="Battery Full" Name="풀 배터리"/>
+    <Elem NameU="Battery Half" Name="하프 배터리"/>
+    <Elem NameU="Battery Low" Name="배터리 낮음"/>
+    <Elem NameU="Beer" Name="맥주"/>
+    <Elem NameU="Bicycle" Name="자전거"/>
+    <Elem NameU="Binocular" Name="쌍안경"/>
+    <Elem NameU="Birthday" Name="생일"/>
+    <Elem NameU="Bitcoin" Name="비트 코인"/>
+    <Elem NameU="Blind" Name="블라인드"/>
+    <Elem NameU="Bluetooth" Name="블루투스"/>
+    <Elem NameU="Boat" Name="보트"/>
+    <Elem NameU="Bomb" Name="폭탄"/>
+    <Elem NameU="Book 1" Name="책 1"/>
+    <Elem NameU="Book 2" Name="책 2"/>
+    <Elem NameU="Bookmark" Name="서표"/>
+    <Elem NameU="Bowtie" Name="나비 넥타이"/>
+    <Elem NameU="Briefcase 1" Name="서류 가방 1"/>
+    <Elem NameU="Briefcase 2" Name="서류 가방 2"/>
+    <Elem NameU="Briefcase 3" Name="서류 가방 3"/>
+    <Elem NameU="Bug" Name="臭虫"/>
+    <Elem NameU="Building" Name="빌딩"/>
+    <Elem NameU="Bulb" Name="전구"/>
+    <Elem NameU="Bulb - Luminous" Name="발광 전구"/>
+    <Elem NameU="Bus" Name="버스"/>
+    <Elem NameU="Calculator" Name="계산기"/>
+    <Elem NameU="Calendar" Name="달력"/>
+    <Elem NameU="Calendar-Check" Name="달력 - 2"/>
+    <Elem NameU="Calendar-Times" Name="달력 - 3"/>
+    <Elem NameU="Camera" Name="카메라"/>
+    <Elem NameU="Cancel" Name="취소"/>
+    <Elem NameU="Cancel with Circle" Name="취소 아이콘"/>
+    <Elem NameU="Candle" Name="캔들"/>
+    <Elem NameU="Car" Name="자동차"/>
+    <Elem NameU="Cart" Name="쇼핑 카트"/>
+    <Elem NameU="Cart-Allow-Down" Name="쇼핑 카트 - 화살표 달림"/>
+    <Elem NameU="Cart-Plus" Name="쇼핑 카트 - 플러스"/>
+    <Elem NameU="Carrot" Name="무"/>
+    <Elem NameU="Chain" Name="체인"/>
+    <Elem NameU="Chat Bubble" Name="채팅 버블"/>
+    <Elem NameU="Chat Bubble - 2" Name="채팅 버블 2"/>
+    <Elem NameU="Chat Bubbles" Name="채팅 버블"/>
+    <Elem NameU="Chatbubble - Working" Name="채팅 버블 - 일하는 중"/>
+    <Elem NameU="Chat Bubble - Round" Name="원형 채팅 버블"/>
+    <Elem NameU="Chatbubble - Working2" Name="채팅 버블 2"/>
+    <Elem NameU="Check" Name="체크"/>
+    <Elem NameU="Check-Square-O" Name="네모 체크 박스"/>
+    <Elem NameU="Check with Circle" Name="원형 체크 박스"/>
+    <Elem NameU="Child" Name="어린이"/>
+    <Elem NameU="Circle" Name="원형"/>
+    <Elem NameU="Clipboard 1" Name="클립 보드 1"/>
+    <Elem NameU="Clipboard 2" Name="클립 보드 2"/>
+    <Elem NameU="Clock" Name="시계"/>
+    <Elem NameU="Clock - 1" Name="시계 - 1"/>
+    <Elem NameU="Clone" Name="클론"/>
+    <Elem NameU="Cloud - 1" Name="클라우드 — 1"/>
+    <Elem NameU="Cloud - 2" Name="클라우드 — 2"/>
+    <Elem NameU="Cloud - Upload" Name="클라우드 — 업로드"/>
+    <Elem NameU="Cloud - Upload2" Name="클라우드 — 업로드"/>
+    <Elem NameU="Cloud - Download" Name="클라우드 — 다운로드"/>
+    <Elem NameU="Cloud - Download2" Name="클라우드 — 다운로드2"/>
+    <Elem NameU="Cloud - Done" Name="클라우드 — 완료"/>
+    <Elem NameU="Cocktail" Name="칵테일"/>
+    <Elem NameU="Coffee" Name="커피"/>
+    <Elem NameU="Cogs" Name="Cogs"/>
+    <Elem NameU="Color Filter" Name="컬러 필터"/>
+    <Elem NameU="Compass" Name="나침반"/>
+    <Elem NameU="Compose" Name="작성"/>
+    <Elem NameU="Contract" Name="계약"/>
+    <Elem NameU="Crop" Name="자르기"/>
+    <Elem NameU="Cube" Name="큐브"/>
+    <Elem NameU="Cycle" Name="순환"/>
+    <Elem NameU="Diamond" Name="마름모"/>
+    <Elem NameU="Document" Name="파일"/>
+    <Elem NameU="Documents" Name="파일"/>
+    <Elem NameU="Done" Name="완료"/>
+    <Elem NameU="Download" Name="다운로드"/>
+    <Elem NameU="Earphone" Name="이어폰"/>
+    <Elem NameU="Education" Name="교육"/>
+    <Elem NameU="Email" Name="이메일"/>
+    <Elem NameU="Email - Open" Name="이메일 - 열기"/>
+    <Elem NameU="Expand" Name="확장"/>
+    <Elem NameU="Euro" Name="유로"/>
+    <Elem NameU="Eye" Name="눈"/>
+    <Elem NameU="Facebook" Name="페이스북"/>
+    <Elem NameU="Male" Name="남성"/>
+    <Elem NameU="Film" Name="영화"/>
+    <Elem NameU="Fire" Name="불"/>
+    <Elem NameU="Flag" Name="플래그"/>
+    <Elem NameU="Flame" Name="불꽃"/>
+    <Elem NameU="Flash" Name="플래시"/>
+    <Elem NameU="Flash - 2" Name="플래시 2"/>
+    <Elem NameU="Flash Off" Name="플래시 끄기"/>
+    <Elem NameU="Flask" Name="플라스크"/>
+    <Elem NameU="Flower" Name="꽃"/>
+    <Elem NameU="Folder" Name="폴더"/>
+    <Elem NameU="Football" Name="축구"/>
+    <Elem NameU="Funnel" Name="깔때기"/>
+    <Elem NameU="Game Controller" Name="게임 컨트롤러"/>
+    <Elem NameU="Glasses" Name="안경"/>
+    <Elem NameU="Gear" Name="기어"/>
+    <Elem NameU="Gear - 2" Name="기어 2"/>
+    <Elem NameU="Gear" Name="기어"/>
+    <Elem NameU="Gear - 3" Name="기어 3"/>
+    <Elem NameU="Earth" Name="지구"/>
+    <Elem NameU="Google" Name="구글"/>
+    <Elem NameU="Google Plus" Name="구글 플러스"/>
+    <Elem NameU="Hammer" Name="해머"/>
+    <Elem NameU="Hand" Name="손"/>
+    <Elem NameU="Handshake" Name="악수"/>
+    <Elem NameU="Happy" Name="기쁨"/>
+    <Elem NameU="Heart" Name="하트"/>
+    <Elem NameU="Home" Name="홈페이지"/>
+    <Elem NameU="Icecream" Name="아이스크림"/>
+    <Elem NameU="Image" Name="이미지"/>
+    <Elem NameU="Images" Name="이미지"/>
+    <Elem NameU="In" Name="In"/>
+    <Elem NameU="Infinite" Name="무한"/>
+    <Elem NameU="Information" Name="정보"/>
+    <Elem NameU="Instagram" Name="인스타그램"/>
+    <Elem NameU="iPad" Name="iPad"/>
+    <Elem NameU="iPhone" Name="아이폰"/>
+    <Elem NameU="iPod" Name="iPod"/>
+    <Elem NameU="Key" Name="키"/>
+    <Elem NameU="Key Board" Name="키보드"/>
+    <Elem NameU="Linkedin" Name="링크드인"/>
+    <Elem NameU="List" Name="리스트"/>
+    <Elem NameU="Load - 1" Name="로드 - 1"/>
+    <Elem NameU="Load - 2" Name="로드 - 2"/>
+    <Elem NameU="Load - 3" Name="로드 - 3"/>
+    <Elem NameU="location" Name="위치"/>
+    <Elem NameU="Location - 2" Name="위치 - 2"/>
+    <Elem NameU="Locked" Name="잠금"/>
+    <Elem NameU="Lock - Unlocked" Name="잠금 해제"/>
+    <Elem NameU="Loudspeaker" Name="스피커"/>
+    <Elem NameU="Laptop" Name="노트북"/>
+    <Elem NameU="Magnifier" Name="확대경"/>
+    <Elem NameU="Female" Name="여성"/>
+    <Elem NameU="Man" Name="남자"/>
+    <Elem NameU="Map" Name="지도"/>
+    <Elem NameU="Medal - 1" Name="메달 - 1"/>
+    <Elem NameU="Medal - 2" Name="메달 - 2"/>
+    <Elem NameU="Medical Kit" Name="의료용 키트"/>
+    <Elem NameU="Merge" Name="병합"/>
+    <Elem NameU="Microphone - 1" Name="마이크로폰 - 1"/>
+    <Elem NameU="Microphone - 2" Name="마이크로폰 - 2"/>
+    <Elem NameU="Microphone - 3" Name="마이크로폰 - 3"/>
+    <Elem NameU="Microphone - 4" Name="마이크로폰 - 4"/>
+    <Elem NameU="Microphone - Off" Name="마이크로폰 - 끄기"/>
+    <Elem NameU="Minus" Name="마이너스"/>
+    <Elem NameU="Minus with Circle" Name="원형 마이너스"/>
+    <Elem NameU="Monitor" Name="모니터"/>
+    <Elem NameU="Moon" Name="달"/>
+    <Elem NameU="Moon and Cloud" Name="달과 구름"/>
+    <Elem NameU="Music" Name="음악"/>
+    <Elem NameU="Mute" Name="음소거"/>
+    <Elem NameU="Navigate" Name="네비게이션"/>
+    <Elem NameU="Navigate - 2" Name="네비게이션 2"/>
+    <Elem NameU="No Smoking" Name="흡연 금지"/>
+    <Elem NameU="Notification" Name="통지"/>
+    <Elem NameU="Notification Off" Name="알림 끄기"/>
+    <Elem NameU="Open" Name="열기"/>
+    <Elem NameU="Options" Name="옵션"/>
+    <Elem NameU="Out" Name="아웃"/>
+    <Elem NameU="Outlet" Name="콘센트"/>
+    <Elem NameU="Paint Brush" Name="페인트 브러쉬"/>
+    <Elem NameU="Palette" Name="팔레트"/>
+    <Elem NameU="Paper" Name="종이"/>
+    <Elem NameU="Paper Airplane" Name="종이 비행기"/>
+    <Elem NameU="Paperclip" Name="종이 클립"/>
+    <Elem NameU="Paw" Name="발"/>
+    <Elem NameU="Pencil" Name="연필"/>
+    <Elem NameU="People" Name="사람"/>
+    <Elem NameU="Person" Name="사람"/>
+    <Elem NameU="Person - 2" Name="사람 2"/>
+    <Elem NameU="Person in Circle" Name="원형 프로필 사진"/>
+    <Elem NameU="Person Add" Name="프로필 사진"/>
+    <Elem NameU="Phone" Name="전화"/>
+    <Elem NameU="Phone - 2" Name="전화 2"/>
+    <Elem NameU="Photos" Name="전화"/>
+    <Elem NameU="Pie" Name="원형 차트"/>
+    <Elem NameU="Pie - 2" Name="원형 차트 2"/>
+    <Elem NameU="Pin" Name="핀"/>
+    <Elem NameU="Pinpoint" Name="Pinpoint"/>
+    <Elem NameU="Pinterest" Name="Pinterest"/>
+    <Elem NameU="Plane" Name="비행기"/>
+    <Elem NameU="Planet" Name="행성"/>
+    <Elem NameU="Plus" Name="플러스"/>
+    <Elem NameU="Plus with Circle" Name="원형 플러스"/>
+    <Elem NameU="Podium" Name="시상대"/>
+    <Elem NameU="Power" Name="전기"/>
+    <Elem NameU="Price Tag" Name="가격 태그"/>
+    <Elem NameU="Price Tags" Name="가격 태그"/>
+    <Elem NameU="Printer" Name="인쇄기"/>
+    <Elem NameU="Pulse" Name="펄스"/>
+    <Elem NameU="Question Mark" Name="물음표"/>
+    <Elem NameU="Question Mark - 2" Name="물음표 2"/>
+    <Elem NameU="Quote" Name="인용"/>
+    <Elem NameU="Radio Wave" Name="전파"/>
+    <Elem NameU="Rainy" Name="비오는"/>
+    <Elem NameU="Redo" Name="다시 하기"/>
+    <Elem NameU="Restaurant" Name="레스토랑"/>
+    <Elem NameU="Ribbon" Name="리본"/>
+    <Elem NameU="R-Trademark" Name="R-상표"/>
+    <Elem NameU="Sad" Name="슬픔"/>
+    <Elem NameU="Sand Timer" Name="모래 시계"/>
+    <Elem NameU="Scale" Name="규모"/>
+    <Elem NameU="Scanner" Name="스캐너"/>
+    <Elem NameU="Scissors" Name="가위"/>
+    <Elem NameU="Setting" Name="설정"/>
+    <Elem NameU="Share" Name="공유"/>
+    <Elem NameU="Shopping" Name="쇼핑"/>
+    <Elem NameU="Shuffle" Name="랜덤 재생"/>
+    <Elem NameU="Skype" Name="Skype"/>
+    <Elem NameU="Snowflake" Name="눈꽃"/>
+    <Elem NameU="Speed Meter" Name="속도 측정기"/>
+    <Elem NameU="Star" Name="별"/>
+    <Elem NameU="Sun" Name="태양"/>
+    <Elem NameU="Sun with Cloud" Name="태양과 구름"/>
+    <Elem NameU="Target" Name="목표"/>
+    <Elem NameU="Taxi" Name="택시"/>
+    <Elem NameU="Temblr" Name="Temblr"/>
+    <Elem NameU="Tennis Ball" Name="테니스 공"/>
+    <Elem NameU="Thermometer" Name="온도계"/>
+    <Elem NameU="Thumb Up" Name="엄지 위로"/>
+    <Elem NameU="Thumb Down" Name="엄지 아래로"/>
+    <Elem NameU="Thunderstorm" Name="뇌우"/>
+    <Elem NameU="Time" Name="시간"/>
+    <Elem NameU="Timer" Name="타이머"/>
+    <Elem NameU="Toggle" Name="토글"/>
+    <Elem NameU="Train" Name="기차"/>
+    <Elem NameU="Transgender" Name="트렌스젠더"/>
+    <Elem NameU="Trash Bin" Name="휴지통"/>
+    <Elem NameU="Trophy" Name="트로피"/>
+    <Elem NameU="T-Shirt" Name="티셔츠"/>
+    <Elem NameU="Twitter" Name="트위터"/>
+    <Elem NameU="Umbrella" Name="우산"/>
+    <Elem NameU="Undo" Name="실행 취소"/>
+    <Elem NameU="University" Name="대학"/>
+    <Elem NameU="Upload" Name="업로드"/>
+    <Elem NameU="USB" Name="USB"/>
+    <Elem NameU="USD 1" Name="USD 1"/>
+    <Elem NameU="USD 2" Name="USD 2"/>
+    <Elem NameU="User" Name="사용자"/>
+    <Elem NameU="User - Circle" Name="사용자 2"/>
+    <Elem NameU="Video Cam" Number="2" Name="비디오 카메라"/>
+    <Elem NameU="Volume - Low" Name="작은 볼륨"/>
+    <Elem NameU="Volume - Medium" Name="보통 볼륨"/>
+    <Elem NameU="Volume - High" Name="큰 볼륨"/>
+    <Elem NameU="Volume - Mute" Name="음소거"/>
+    <Elem NameU="Walk" Name="걷다"/>
+    <Elem NameU="Wand" Name="지팡이"/>
+    <Elem NameU="Watch" Name="시계"/>
+    <Elem NameU="Whatsapp" Name="Whatsapp"/>
+    <Elem NameU="Wifi" Name="와이파이"/>
+    <Elem NameU="Windows" Name="윈도우"/>
+    <Elem NameU="Wineglass" Name="유리잔"/>
+    <Elem NameU="Woman" Name="여자"/>
+    <Elem NameU="Wordpress" Name="Wordpress"/>
+    <Elem NameU="World" Name="세계"/>
+    <Elem NameU="Wrench" Name="렌치"/>
+    <Elem NameU="Yen" Name="엔"/>
+    <Elem NameU="Yin Yang" Name="음양"/>
+    <Elem NameU="Youtube" Name="유튜브"/>
+    <Elem NameU="Initiative" Name="동기"/>
+    <Elem NameU="Gift" Name="선물"/>
+    <Elem NameU="Euro" Name="유로"/>
+    <Elem NameU="RMB" Name="위안화"/>
+    <Elem NameU="Wallet" Name="지갑"/>
+    <Elem NameU="Transport" Name="운송"/>
+    <Elem NameU="Activities" Name="활동"/>
+    <Elem NameU="Time" Name="시간"/>
+    <Elem NameU="Team" Name="팀"/>
+    <Elem NameU="Toolbox" Name="툴 박스"/>
+    <Elem NameU="Signal" Name="시그널"/>
+    <Elem NameU="Revenue Streams" Name="수익 흐름"/>
+    <Elem NameU="Road Sign" Name="도로 표지"/>
+    <Elem NameU="Result" Name="결과"/>
+    <Elem NameU="Flag" Name="플래그"/>
+    <Elem NameU="Work Quality" Name="작업 퀄리티"/>
+    <Elem NameU="Favorite" Name="즐겨찾기"/>
+    <Elem NameU="Key Metrics" Name="관건 메트릭"/>
+    <Elem NameU="Label" Name="레이블"/>
+    <Elem NameU="Risks" Name="리스크"/>
+    <Elem NameU="Target" Name="목표"/>
+    <Elem NameU="Design" Name="디자인"/>
+    <Elem NameU="Cooperation" Name="협업"/>
+    <Elem NameU="Quality" Name="퀄리티"/>
+    <Elem NameU="Project" Name="프로젝트"/>
+    <Elem NameU="Repositories" Name="창고"/>
+    <Elem NameU="Plan" Name="계획"/>
+    <Elem NameU="Schedule" Name="일정"/>
+    <Elem NameU="Goal Analysis" Name="목표 분석"/>
+    <Elem NameU="Undesired Outcomes" Name="원하지 않는 결과"/>
+    <Elem NameU="Project" Name="프로젝트"/>
+    <Elem NameU="Map" Name="지도"/>
+    <Elem NameU="Key Results" Name="관건 결과"/>
+    <Elem NameU="Two-way Arrow" Name="양방향 화살표"/>
+    <Elem NameU="Rocket" Name="로켓"/>
+</Lib>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="AWS Compute Instances">
+	<Elem NameU="EC2_A1-Instance" Name="Instância EC2_A1"/>
+	<Elem NameU="EC2_C4-Instance" Name="Instância EC2_C4"/>
+	<Elem NameU="EC2_C5-Instance" Name="Instância EC2_C5"/>
+	<Elem NameU="EC2_C5n-Instance" Name="Instância EC2_C5n"/>
+	<Elem NameU="EC2_D2-Instance" Name="Instância EC2_D2"/>
+	<Elem NameU="EC2_DB-on-Instance" Name="Instância EC2_Database"/>
+	<Elem NameU="EC2_F1-Instance" Name="Instância EC2_F1"/>
+	<Elem NameU="EC2_G3-Instance" Name="Instância EC2_G3"/>
+	<Elem NameU="EC2_H1-Instance" Name="Instância EC2_H1"/>
+	<Elem NameU="EC2_High-Memory-Instance" Name="EC2_Instância de memória alta"/>
+	<Elem NameU="EC2_I3-Instance" Name="Instância EC2_I3"/>
+	<Elem NameU="EC2_Instance" Name="Instância EC2"/>
+	<Elem NameU="EC2_Instances" Name="Instância EC2"/>
+	<Elem NameU="EC2_Instance-with-CloudWatch" Name="Instância EC2 com monitoramento e operações em nuvem"/>
+	<Elem NameU="EC2_M4-Instance" Name="Instância EC2_M4"/>
+	<Elem NameU="EC2_M5a-Instance" Name="Instância EC2_M5a"/>
+	<Elem NameU="EC2_M5-Instance" Name="Instância EC2_M5"/>
+	<Elem NameU="EC2_Optimized-Instance" Name="Instância otimizada EC2"/>
+	<Elem NameU="EC2_P2-Instance" Name="Instância EC2_P2"/>
+	<Elem NameU="EC2_P3-Instance" Name="Instância EC2_P3"/>
+	<Elem NameU="EC2_R4-Instance" Name="Instância EC2_R4"/>
+	<Elem NameU="EC2_R5a-Instance" Name="Instância EC2_R5a"/>
+	<Elem NameU="EC2_R5-Instance" Name="Instância EC2_R5"/>
+	<Elem NameU="EC2_Spot-instance" Name="Instância EC2 Spot"/>
+	<Elem NameU="EC2_T3a-Instance" Name="Instância EC2_T3a"/>
+	<Elem NameU="EC2_T3-Instance copy" Name="Cópia de Instância EC2_T3"/>
+	<Elem NameU="EC2_T3-Instance" Name="Instância EC2_T3"/>
+	<Elem NameU="EC2_X1e-Instance" Name="Instância EC2_X1e"/>
+	<Elem NameU="EC2_X1-Instance" Name="Instância EC2_X1e"/>
+	<Elem NameU="EC2_z1d-Instance" Name="Instância EC2_z1d"/>
+</Lib>

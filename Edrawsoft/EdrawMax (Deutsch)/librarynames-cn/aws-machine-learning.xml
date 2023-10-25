@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="AWS Machine Learning">
+	<Elem NameU="Augmented-AI" Name="增强人工智能"/>
+	<Elem NameU="CodeGuru" Name="代码大师"/>
+	<Elem NameU="Comprehend" Name="理解"/>
+	<Elem NameU="Elastic-Inference" Name="弹性推理"/>
+	<Elem NameU="Forecast" Name="预测"/>
+	<Elem NameU="Fraud-Detector" Name="欺诈检测器"/>
+	<Elem NameU="Kendra" Name="中央"/>
+	<Elem NameU="Lex" Name="Lex"/>
+	<Elem NameU="Personalize" Name="个性化"/>
+	<Elem NameU="Polly" Name="Polly"/>
+	<Elem NameU="Rekognition" Name="识别"/>
+	<Elem NameU="Rekognition_Image" Name="识别图像"/>
+	<Elem NameU="Rekognition_Video" Name="视频识别"/>
+	<Elem NameU="SageMaker" Name="智者"/>
+	<Elem NameU="SageMaker_Model" Name="智者模型"/>
+	<Elem NameU="SageMaker_Train" Name="智者火车"/>
+	<Elem NameU="SageMaker_Notebook" Name="智者笔记本"/>
+	<Elem NameU="SageMaker-Ground-Truth" Name="智者基础真相"/>
+	<Elem NameU="Textract" Name="文字练习"/>
+	<Elem NameU="Transcribe" Name="录制"/>
+	<Elem NameU="Translate" Name="翻译"/>
+	<Elem NameU="Apache-MXNet-on-AWS" Name="AWS上的Apache MXNet"/>
+	<Elem NameU="AWS-DeepComposer" Name="AWS DeepComposer"/>
+	<Elem NameU="AWS-DeepComposer_primary-bg" Name="AWS-DeepComposer主要"/>
+	<Elem NameU="AWS-Deep-Learning-AMIs" Name="AWS深度学习AMI"/>
+	<Elem NameU="AWS-Deep-Learning-Containers" Name="AWS深度学习容器"/>
+	<Elem NameU="AWS-DeepLens" Name="AWS DeepLens"/>
+	<Elem NameU="AWS-DeepRacer" Name="AWS DeepRacer"/>
+	<Elem NameU="Machine-Learning" Name="机器学习"/>
+	<Elem NameU="TensorFlow-on-AWS" Name="TensorFlow上AWS"/>
+</Lib>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Infographic Charts">
+
+<Elem Name="Balkendiagramm" NameU="Bar Chart"/>
+
+<Elem Name="Säulendiagramm" NameU="Column Chart"/>
+
+<Elem Name="Kreisdiagramm" NameU="Pie"/>
+
+<Elem Name="Doughnut" NameU="Doughnut"/>
+
+<Elem Name="Kreisanzeiger" NameU="Circle Indicator"/>
+
+<Elem Name="Halbkreisanzeiger" NameU="Semicircular Indicator"/>
+
+<Elem Name="Balkenanzeige" NameU="Bar Indicator"/>
+
+<Elem Name="Säulenanzeige" NameU="Column Indicator"/>
+
+<Elem Name="Battery Indicator" NameU="Battery Indicator"/>
+
+<Elem Name="Prozentanzeige" NameU="Percentage Indicator"/>
+
+<Elem Name="Uhrendiagramm" NameU="Clock Chart"/>
+
+<Elem Name="Frau" NameU="Woman"/>
+
+<Elem Name="Mann" NameU="Man"/>
+
+<Elem Name="Menschen" NameU="Men"/>
+
+<Elem Name="Frau" NameU="Women"/>
+
+<Elem Name="Menschen" NameU="People"/>
+
+<Elem Name="Reagenzglas-Diagramm" NameU="Test Tube Chart"/>
+
+<Elem Name="Wassertropfen-Diagramm" NameU="Water Drop Chart"/>
+
+<Elem Name="Aufwärtspfeil" NameU="Up Arrow"/>
+
+<Elem Name="Wie Daumen" NameU="Like Thumb"/>
+
+<Elem Name="Datenanalysetabelle" NameU="Data Analysis Table"/>
+
+<Elem Name="Kartenmaßstab" NameU="Scale Map"/>
+
+<Elem Name="Gestapeltes Kreisdiagramm" NameU="Stacked Circle Chart"/>
+
+<Elem Name="Rose Pie" NameU="Rose Pie"/>
+
+</Lib>

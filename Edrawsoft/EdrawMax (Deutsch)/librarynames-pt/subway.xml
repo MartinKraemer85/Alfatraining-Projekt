@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Subway">
+	<Elem NameU="Metro line" Name="Linha de metrô"/>
+	<Elem NameU="Metro corner" Name="Esquina de metrô"/>
+	<Elem NameU="Metro curve" Name="Curva de metrô"/>
+	<Elem NameU="Station" Name="Estação"/>
+	<Elem NameU="Transfer station" Name="Estação de transferência"/>
+	<Elem NameU="Cross Station" Name="Estação de Travessia"/>
+	<Elem NameU="Cross station" Name="Estação de travessia"/>
+	<Elem NameU="Label" Name="Etiqueta"/>
+	<Elem NameU="Subway" Name="Metrô"/>
+	<Elem NameU="Airplane" Name="Avião"/>
+	<Elem NameU="Railway Station" Name="Estação de Caminhos de Ferro"/>
+	<Elem NameU="Bus Station" Name="Estação de Ônibus"/>
+</Lib>

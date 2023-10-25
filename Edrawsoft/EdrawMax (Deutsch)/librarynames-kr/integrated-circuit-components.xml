@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Integrated Circuit Components">
+    <Elem NameU="Horizontal extension" Name="수평 확장"/>
+    <Elem NameU="Vertical extension" Name="수직 확장"/>
+    <Elem NameU="IC" Name="IC"/>
+    <Elem NameU="4X Building block-top" Name="4X 구성 요소-상단"/>
+    <Elem NameU="4X Building block-base" Name="4X 구성 요소-하단"/>
+    <Elem NameU="4X Building block-middle" Name="4X 구성 요소-중간"/>
+    <Elem NameU="4X Building block-complete" Name="4X 구성 요소-전부"/>
+    <Elem NameU="1X Building block" Name="1X 구성 요소"/>
+    <Elem NameU="MUX 2" Name="MUX 2"/>
+    <Elem NameU="MUX 4" Name="MUX 4"/>
+    <Elem NameU="MUX 8" Name="MUX 8"/>
+    <Elem NameU="Ground" Name="접지"/>
+    <Elem NameU="Driver" Name="드라이버"/>
+    <Elem NameU="4-bit a/d converter" Name="4비트 A/D 컨버터"/>
+    <Elem NameU="8-bit a/d converter" Name="8비트 A/D 컨버터"/>
+    <Elem NameU="4-bit d/a converter" Name="4비트 D/A 컨버터"/>
+    <Elem NameU="8-bit d/a converter" Name="8비트 D/A 컨버터"/>
+    <Elem NameU="Voltage converter" Name="변압기"/>
+    <Elem NameU="PWM" Name="PWM"/>
+    <Elem NameU="4-bit register" Name="4비트 레지스터"/>
+    <Elem NameU="8-bit register" Name="8비트 레지스터"/>
+    <Elem NameU="One shot" Name="단일 쇼트"/>
+    <Elem NameU="4-bit counter" Name="4비트 카운터"/>
+    <Elem NameU="8-bit counter" Name="8비트 카운터"/>
+    <Elem NameU="Preload counter 4" Name="프리로드 카운터 4"/>
+    <Elem NameU="Preload counter 8" Name="프리로드 카운터 8"/>
+    <Elem NameU="Analog switch 2" Name="아날로그 스위치 2"/>
+    <Elem NameU="Analog switch 4" Name="아날로그 스위치 4"/>
+    <Elem NameU="2-4 decoder" Name="2 - 4 디코더"/>
+    <Elem NameU="3-8 decoder" Name="3 - 8 디코더"/>
+    <Elem NameU="Contact" Name="접촉"/>
+    <Elem NameU="Contact (N)" Name="접촉 (N)"/>
+    <Elem NameU="Positive Transition-Sensing Contact" Name="양극 전환-감지 접점"/>
+    <Elem NameU="Negative Transition-Sensing Contact" Name="음극 전환-감지 접점"/>
+    <Elem NameU="Output (N)" Name="출력 (N)"/>
+    <Elem NameU="Output" Name="출력"/>
+    <Elem NameU="Positive Transition-Sensing Coil" Name="양극 전환-감지 코일"/>
+    <Elem NameU="Negative Transition-Sensing Coil" Name="음극 전환-감지 코일"/>
+    <Elem NameU="Set Latch Coil" Name="래치 코일 설정"/>
+    <Elem NameU="Reset Latch Coil" Name="래치 코일 다시 설정"/>
+    <Elem NameU="Output 2" Name="출력 2"/>
+    <Elem NameU="Output (N) 2" Name="출력 (N) 2"/>
+</Lib>

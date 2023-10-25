@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Money">
+	<Elem NameU="Cash 1" Name="Contanti 1"/>
+	<Elem NameU="Cash 2" Name="Contanti 2"/>
+	<Elem NameU="Money Box" Name="Cassetta con Denaro"/>
+	<Elem NameU="Wallet" Name="Portafogli"/>
+	<Elem NameU="Money in the Safe" Name="Denaro in Cassaforte"/>
+	<Elem NameU="Money Bag 1" Name="Borsa con Soldi 1"/>
+	<Elem NameU="Money Bag 2" Name="Borsa con Soldi 2"/>
+	<Elem NameU="Gold Coin" Name="Moneta d'Oro"/>
+	<Elem NameU="Dollar 1" Name="Dollaro 1"/>
+	<Elem NameU="Dollar 2" Name="Dollaro 2"/>
+	<Elem NameU="Pound Coin" Name="Moneta Sterlina"/>
+	<Elem NameU="Euro Coin" Name="Moneta Euro"/>
+	<Elem NameU="Dollar" Name="Dollaro"/>
+	<Elem NameU="Pound" Name="Sterlina"/>
+	<Elem NameU="Euro" Name="Euro"/>
+	<Elem NameU="Yuan" Name="Yuan"/>
+	<Elem NameU="Yen" Name="Yen"/>
+	<Elem NameU="Dollar Bag" Name="Borsa di Dollari"/>
+	<Elem NameU="Pound Bag" Name="Borsa di Sterline"/>
+	<Elem NameU="Euro Bag" Name="Borsa di Euro"/>
+	<Elem NameU="Yuan Bag" Name="Borsa di Yuan"/>
+	<Elem NameU="Yen Bag" Name="Borsa di Yen"/>
+</Lib>

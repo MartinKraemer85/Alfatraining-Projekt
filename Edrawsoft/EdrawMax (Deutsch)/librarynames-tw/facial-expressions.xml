@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Facial Expressions">
+    <Elem NameU="Man Laugh" Name="男士大笑"/>
+    <Elem NameU="Man Happy" Name="男士開心"/>
+    <Elem NameU="Man Surprised" Name="男士驚訝"/>
+    <Elem NameU="Man Wink" Name="男士眨眼"/>
+    <Elem NameU="Man Pleased" Name="男士高興"/>
+    <Elem NameU="Man Indifferent" Name="男士冷漠"/>
+    <Elem NameU="Man Despise" Name="男士不屑"/>
+    <Elem NameU="Man Angry 2" Name="男士生氣 2"/>
+    <Elem NameU="Man Angry 1" Name="男士生氣 1"/>
+    <Elem NameU="Man in Love" Name="男士花癡"/>
+    <Elem NameU="Man Dissatisfied" Name="男士不滿"/>
+    <Elem NameU="Man Sad" Name="男士難過"/>
+    <Elem NameU="Man Disappointed" Name="男士失望"/>
+    <Elem NameU="Man Uneasy" Name="男士緊張"/>
+    <Elem NameU="Man Awkward" Name="男士尷尬"/>
+    <Elem NameU="Man Cute" Name="男士可愛"/>
+    <Elem NameU="Man Greedy" Name="男士貪婪"/>
+    <Elem NameU="Man Crying" Name="男士哭泣"/>
+    <Elem NameU="Man Disgusted" Name="男士厭惡"/>
+    <Elem NameU="Man Scared" Name="男士害怕"/>
+    <Elem NameU="Woman Normal" Name="女性正常"/>
+    <Elem NameU="Woman Pleased" Name="女士高興"/>
+    <Elem NameU="Woman Happy" Name="女士開心"/>
+    <Elem NameU="Woman Surprised" Name="女士驚訝"/>
+    <Elem NameU="Woman One Eye Blink" Name="女士眨眼"/>
+    <Elem NameU="Woman Indifference" Name="女士冷漠"/>
+    <Elem NameU="Woman Dissatisfied" Name="女士不屑"/>
+    <Elem NameU="Woman In Love" Name="女士花癡"/>
+    <Elem NameU="Woman Angry 1" Name="女士生氣 1"/>
+    <Elem NameU="Woman Angry 2" Name="女士生氣 2"/>
+    <Elem NameU="Woman Despise" Name="女士不屑"/>
+    <Elem NameU="Woman Sad" Name="女士難過"/>
+    <Elem NameU="Woman Uneasy" Name="女士緊張"/>
+    <Elem NameU="Woman Disappointed" Name="女士失望"/>
+    <Elem NameU="Woman Awkward" Name="女士尷尬"/>
+    <Elem NameU="Woman Greedy" Name="女士貪婪"/>
+    <Elem NameU="Woman Cute" Name="女士可愛"/>
+    <Elem NameU="Woman Crying" Name="女士哭泣"/>
+    <Elem NameU="Woman Disgusted" Name="女士厭惡"/>
+    <Elem NameU="Woman Scared" Name="女士害怕"/>
+</Lib>

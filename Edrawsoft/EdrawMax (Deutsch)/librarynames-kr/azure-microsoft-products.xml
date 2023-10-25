@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Azure Microsoft Products">
+    <Elem NameU="Access" Name="소프트웨어 Access"/>
+    <Elem NameU="Excel" Name="소프트웨어 Excel"/>
+    <Elem NameU="Exchange" Name="소프트웨어 Exchange"/>
+    <Elem NameU="Lync" Name="소프트웨어 Lync"/>
+    <Elem NameU="Outlook" Name="소프트웨어 Outlook"/>
+    <Elem NameU="PowerApps" Name="소프트웨어 PowerApps"/>
+    <Elem NameU="PowerPoint" Name="소프트웨어 PowerPoint"/>
+    <Elem NameU="Sharepoint" Name="소프트웨어 Sharepoint"/>
+    <Elem NameU="Visio" Name="소프트웨어 Visio"/>
+    <Elem NameU="Word" Name="소프트웨어 Word"/>
+    <Elem NameU="Cortana Blue" Name="소프트웨어 Cortana Blue"/>
+    <Elem NameU="BI Product" Name="소프트웨어 BI Product"/>
+</Lib>

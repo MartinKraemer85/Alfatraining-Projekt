@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="LDAP Objects">
+    <Elem NameU="Country" Name="국가"/>
+    <Elem NameU="Organization" Name="조직"/>
+    <Elem NameU="Organizational unit" Name="조직 단위"/>
+    <Elem NameU="Locality" Name="지점"/>
+    <Elem NameU="Alias" Name="별명"/>
+    <Elem NameU="Person" Name="사람"/>
+    <Elem NameU="inetOrg Person" Name="inetOrg "/>
+    <Elem NameU="Organizational person" Name="조직인"/>
+    <Elem NameU="Residential person" Name="주민"/>
+    <Elem NameU="Organizational role" Name="조직 역할"/>
+    <Elem NameU="Group of names" Name="이름 그룹"/>
+    <Elem NameU="Group of unique names" Name="유니크 이름 그룹"/>
+    <Elem NameU="Device" Name="장비"/>
+    <Elem NameU="cRL distribution point" Name="cRL 분포점"/>
+    <Elem NameU="dSA" Name="dSA"/>
+    <Elem NameU="dmd" Name="dmd"/>
+    <Elem NameU="Application entity" Name="애플리케이션 엔터티"/>
+    <Elem NameU="Application process" Name="애플리케이션 프로세스"/>
+    <Elem NameU="Unknow" Name="알 수 없음"/>
+    <Elem NameU="Generic object" Name="일반 개체"/>
+    <Elem NameU="Directory Connector" Name="디렉토리 연결선"/>
+</Lib>

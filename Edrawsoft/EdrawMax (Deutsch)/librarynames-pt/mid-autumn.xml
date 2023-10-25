@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Mid Autumn">
+	<Elem NameU="Moon Cakes 1" Name="Bolos Lunares 1"/>
+	<Elem NameU="Moon Cakes 2" Name="Bolos Lunares 2"/>
+	<Elem NameU="Moon" Name="Lua"/>
+	<Elem NameU="Liquor" Name="Licor"/>
+	<Elem NameU="Tea" Name="Chá"/>
+	<Elem NameU="Chang'e" Name="Chang'e"/>
+	<Elem NameU="Rabbit 1" Name="Coelho 1"/>
+	<Elem NameU="Rabbit 2" Name="Coelho 2"/>
+	<Elem NameU="Rabbit 3" Name="Coelho 3"/>
+	<Elem NameU="Rabbit 4" Name="Coelho 4"/>
+	<Elem NameU="Fireworks" Name="Fogos de Artifício"/>
+	<Elem NameU="Pavilion" Name="Pavilhão"/>
+	<Elem NameU="Lantern" Name="Lanterna"/>
+	<Elem NameU="Boat" Name="Barco"/>
+	<Elem NameU="Lantern 1" Name="Lanterna 1"/>
+	<Elem NameU="Lantern 2" Name="Lanterna 2"/>
+	<Elem NameU="Light 1" Name="Luz 1"/>
+	<Elem NameU="Light 2" Name="Luz 2"/>
+	<Elem NameU="Light 3" Name="Luz 3"/>
+	<Elem NameU="Flower" Name="Flor"/>
+	<Elem NameU="Flower 2" Name="Flor 2"/>
+	<Elem NameU="Flower 3" Name="Flor 3"/>
+	<Elem NameU="Flags" Name="Bandeiras"/>
+</Lib>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Implementation and Migration">
+	<Elem NameU="Plateau" Name="安定状態"/>
+	<Elem NameU="Gap" Name="ギャップ"/>
+	<Elem NameU="Deliverable" Name="提供品"/>
+	<Elem NameU="Work Package" Name="ワークパッケージ"/>
+	<Elem NameU="Implementation Event" Name="実装イベント"/>
+</Lib>

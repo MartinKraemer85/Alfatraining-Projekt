@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Transportation">
+    <Elem NameU="Road 1" Name="도로1"/>
+    <Elem NameU="Road 2" Name="도로2"/>
+    <Elem NameU="Road 3" Name="도로3"/>
+    <Elem NameU="Road 4" Name="도로4"/>
+    <Elem NameU="Police Car" Name="경찰차"/>
+    <Elem NameU="Police" Name="경찰"/>
+    <Elem NameU="Traffic Police" Name="교통 경찰"/>
+    <Elem NameU="Bus" Name="버스"/>
+    <Elem NameU="Car 1" Name="자동차1"/>
+    <Elem NameU="Car 2" Name="자동차2"/>
+    <Elem NameU="Taxi" Name="택시"/>
+    <Elem NameU="Motorcycle" Name="오토바이"/>
+    <Elem NameU="Train" Name="기차"/>
+    <Elem NameU="Ship Rudder" Name="선박 러더"/>
+    <Elem NameU="Bicycle" Name="자전거"/>
+    <Elem NameU="Sailing Boat" Name="선박"/>
+    <Elem NameU="Excavator" Name="굴착기"/>
+    <Elem NameU="Truck" Name="트럭"/>
+    <Elem NameU="Cement Truck" Name="시멘트 트럭"/>
+    <Elem NameU="Tank Truck" Name="탱크 트럭"/>
+    <Elem NameU="Man" Name="남자"/>
+    <Elem NameU="Woman" Name="여자"/>
+    <Elem NameU="Pedestrian 1" Name="보행자1"/>
+    <Elem NameU="Pedestrian 2" Name="보행자2"/>
+    <Elem NameU="Zebra crossing" Name="횡단보도"/>
+    <Elem NameU="Traffic Light 1" Name="신호등1"/>
+    <Elem NameU="Traffic Light 2" Name="신호등2"/>
+    <Elem NameU="Speed Camera" Name="스피드 카메라"/>
+    <Elem NameU="Road Sign" Name="도로 표시"/>
+    <Elem NameU="Footway" Name="보도"/>
+    <Elem NameU="No Smoking" Name="흡연 금지"/>
+    <Elem NameU="Do Not Enter Sign" Name="출입금지"/>
+    <Elem NameU="Stop Sign" Name="주차 표시"/>
+    <Elem NameU="No Fire" Name="불 금지"/>
+    <Elem NameU="Road Sign" Name="도로 표시"/>
+    <Elem NameU="No Horn" Name="경적 금지"/>
+    <Elem NameU="Bus Sign" Name="버스 표시"/>
+    <Elem NameU="Stop Sign" Name="주차 표시"/>
+    <Elem NameU="Parking 1" Name="주차1"/>
+    <Elem NameU="Parking 2" Name="주차2"/>
+    <Elem NameU="No parking" Name="주차 금지"/>
+    <Elem NameU="Circular Intersection" Name="원형 교차로"/>
+    <Elem NameU="No Taxi" Name="택시 금지"/>
+    <Elem NameU="No Straight Nor Right Turn" Name="직행과 우회전 금지"/>
+    <Elem NameU="No Straight Nor Left Turn" Name="직행과 좌회전 금지"/>
+    <Elem NameU="No U-Turn" Name="U-Turn 금지"/>
+    <Elem NameU="No Left Turn" Name="좌회전 금지"/>
+    <Elem NameU="No Right Turn" Name="우회전 금지"/>
+    <Elem NameU="No Pedestrians" Name="보행자 금지"/>
+    <Elem NameU="No Overtaking" Name="추월 금지"/>
+    <Elem NameU="No Entry" Name="출입금지"/>
+    <Elem NameU="No Left Nor Right Turn" Name="좌회전/우회전 금지"/>
+    <Elem NameU="No Bicycles" Name="자전거 금지"/>
+    <Elem NameU="No Cars" Name="자동차 금지"/>
+    <Elem NameU="No Trucks" Name="트럭 금지"/>
+    <Elem NameU="Two-Way Traffic" Name="양방향"/>
+    <Elem NameU="Crossroad Ahead" Name="사거리"/>
+    <Elem NameU="Side Road (Right)" Name="샛길 (오른쪽)"/>
+    <Elem NameU="Side Road (Left)" Name="샛길 (왼쪽)"/>
+    <Elem NameU="Traffic Signal Ahead" Name="교통 신호등"/>
+    <Elem NameU="Overhead Electric Cable" Name="오버 헤드 전기 케이블"/>
+    <Elem NameU="T Intersection Ahead" Name="T형 교차"/>
+    <Elem NameU="Y Intersection Ahead" Name="Y형 교차"/>
+    <Elem NameU="Hump Bridge Ahead" Name="험프 브리지"/>
+    <Elem NameU="Dangerous" Name="위험"/>
+    <Elem NameU="Caution Drop Down" Name="추락주의"/>
+    <Elem NameU="Caution No Motor Vehicle" Name="무동력 차량에 주의"/>
+    <Elem NameU="Barricade 1" Name="바리케이드 1"/>
+    <Elem NameU="Barricade 2" Name="바리케이드 2"/>
+    <Elem NameU="Floor Stand Sign" Name="경고 표시"/>
+    <Elem NameU="Red Pylon" Name="붉은 철탑"/>
+    <Elem NameU="Yellow Warning Stipe" Name="노란색 경고줄"/>
+    <Elem NameU="OSHA tape (red-white striped)" Name="OSHA 테이프 (빨간색-흰색 줄무늬)"/>
+    <Elem NameU="OSHA tape (yellow-black checked)" Name="OSHA 테이프 (노랑 체크 무늬)"/>
+    <Elem NameU="OSHA tape (yellow-black striped)" Name="OSHA 테이프 (노랑-검정 줄무늬)"/>
+    <Elem NameU="Green Light 1" Name="파란등 1"/>
+    <Elem NameU="Red Light 1" Name="빨간등 1"/>
+    <Elem NameU="Yellow Light 1" Name="노란등 1"/>
+    <Elem NameU="Green Light 2" Name="파란등 2"/>
+    <Elem NameU="Red Light 2" Name="빨간등 2"/>
+    <Elem NameU="Yellow Light 2" Name="노란등 2"/>
+    <Elem NameU="Green Light 3" Name="파란등 3"/>
+    <Elem NameU="Red Light 3" Name="빨간등 3"/>
+    <Elem NameU="Yellow Light 3" Name="노란등 3"/>
+    <Elem NameU="Red Light 4" Name="빨간등 4"/>
+    <Elem NameU="Gas-station" Name="주유소"/>
+    <Elem NameU="Street lamp 1" Name="가로등1"/>
+    <Elem NameU="Street lamp 2" Name="가로등2"/>
+    <Elem NameU="Instrument" Name="기구"/>
+    <Elem NameU="Steering Wheel 1" Name="핸들1"/>
+    <Elem NameU="Steering Wheel 2" Name="핸들2"/>
+    <Elem NameU="Direction 1" Name="방향1"/>
+    <Elem NameU="Direction 2" Name="방향2"/>
+    <Elem NameU="Direction 3" Name="방향3"/>
+    <Elem NameU="Trumpet" Name="경적"/>
+    <Elem NameU="Ban on the horn" Name="경적 금지"/>
+    <Elem NameU="Mansion" Name="맨션"/>
+    <Elem NameU="School" Name="학교"/>
+    <Elem NameU="Shop" Name="가게"/>
+    <Elem NameU="Tree 1" Name="나무1"/>
+    <Elem NameU="Tree 2" Name="나무2"/>
+</Lib>

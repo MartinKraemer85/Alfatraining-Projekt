@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Bubble Shapes">
+	<Elem NameU="Main idea" Name="Ideia principal"/>
+	<Elem NameU="Circle" Name="Círculo"/>
+	<Elem NameU="Ellipse" Name="Elipse"/>
+	<Elem NameU="Cloud" Name="Nuvem"/>
+	<Elem NameU="Connector" Name="Conector"/>
+</Lib>

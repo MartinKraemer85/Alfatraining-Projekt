@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Network Symbols">
+	<Elem NameU="Router General" Name="Router Generale"/>
+	<Elem NameU="Router" Name="Router"/>
+	<Elem NameU="ATM router" Name="Router ATM"/>
+	<Elem NameU="Wireless Router" Name="Router Wireless"/>
+	<Elem NameU="ATM switch" Name="Interruttore ATM"/>
+	<Elem NameU="ISDN switch" Name="Interruttore ISDN"/>
+	<Elem NameU="Workgroup switch" Name="Interruttore Gruppo di Lavoro"/>
+	<Elem NameU="Small hub" Name="Hub Piccolo"/>
+	<Elem NameU="100BaseT hub" Name="Hub 100BaseT"/>
+	<Elem NameU="CDDI-FDDI concentrator" Name="Concentratore CDDI-FDDI"/>
+	<Elem NameU="Ethernet router" Name="Router Ethernet"/>
+	<Elem NameU="Communication server" Name="Server di Comunicazione"/>
+	<Elem NameU="Gateway" Name="Gateway"/>
+	<Elem NameU="Hub" Name="Hub"/>
+	<Elem NameU="Bridge" Name="Ponte"/>
+	<Elem NameU="Relative database" Name="Database Relativo"/>
+	<Elem NameU="WAN" Name="WAN"/>
+	<Elem NameU="Host" Name="Host"/>
+	<Elem NameU="DSU-CSU" Name="DSU-CSU"/>
+	<Elem NameU="Terminal server" Name="Server Terminale"/>
+	<Elem NameU="Probe" Name="Sonda"/>
+	<Elem NameU="Lock and key" Name="Lucchetto e Chiave"/>
+	<Elem NameU="Lock" Name="Blocco"/>
+	<Elem NameU="Key" Name="Chiave"/>
+	<Elem NameU="Public-private server" Name="Server Pubblico-Privato"/>
+	<Elem NameU="Certificate server" Name="Server Certificato"/>
+	<Elem NameU="ATM switch 2" Name="Interruttore ATM 2"/>
+	<Elem NameU="ATM/Fast GB etherswitch" Name="Interruttore Ethernet GB ATM/Fast"/>
+	<Elem NameU="Comm server" Name="Server di Comunicazione"/>
+	<Elem NameU="Coaxial line tag" Name="Etichetta coassiale"/>
+	<Elem NameU="Fiber optic line tag" Name="Etichetta fibra ottica"/>
+	<Elem NameU="Twisted pair line tag" Name="Etichetta doppino ritorto"/>
+</Lib>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Greek Letter">
+    <Elem NameU="Pi" Name="Pi"/>
+    <Elem NameU="Alpha" Name="Alpha"/>
+    <Elem NameU="Beta" Name="Beta"/>
+    <Elem NameU="Gamma" Name="Gamma"/>
+    <Elem NameU="Delta" Name="Delta"/>
+    <Elem NameU="Epsilon" Name="Epsilon"/>
+    <Elem NameU="Zeta" Name="Zeta"/>
+    <Elem NameU="Eta" Name="Eta"/>
+    <Elem NameU="Theta" Name="Theta"/>
+    <Elem NameU="Iota" Name="Iota"/>
+    <Elem NameU="Kappa" Name="Kappa"/>
+    <Elem NameU="Lambda" Name="Lambda"/>
+    <Elem NameU="Mu" Name="Mu"/>
+    <Elem NameU="Nu" Name="Nu"/>
+    <Elem NameU="Xi" Name="Xi"/>
+    <Elem NameU="Omicron" Name="Omicron"/>
+    <Elem NameU="Rho" Name="Rho"/>
+    <Elem NameU="Sigma" Name="Sigma"/>
+    <Elem NameU="Tau" Name="Tau"/>
+    <Elem NameU="Upsilon" Name="Upsilon"/>
+    <Elem NameU="Phi" Number="2" Name="Phi"/>
+    <Elem NameU="Chi" Name="Chi"/>
+    <Elem NameU="Psi" Name="Psi"/>
+    <Elem NameU="Omega" Name="Omega"/>
+    <Elem NameU="Alpha Capital" Name="Alpha Capital"/>
+    <Elem NameU="Beta Capital" Name="Beta Capital"/>
+    <Elem NameU="Gamma Capital" Name="Gamma Capital"/>
+    <Elem NameU="Delta Capital" Name="Delta Capital"/>
+    <Elem NameU="Epsilon Capital" Name="Epsilon Capital"/>
+    <Elem NameU="Zeta Capital" Name="Zeta Capital"/>
+    <Elem NameU="Eta Capital" Name="Eta Capital"/>
+    <Elem NameU="Theta Capital" Name="Theta Capital"/>
+    <Elem NameU="Iota Capital" Name="Iota Capital"/>
+    <Elem NameU="Kappa Capital" Name="Kappa Capital"/>
+    <Elem NameU="Lambda Capital" Name="Lambda Capital"/>
+    <Elem NameU="Mu Capital" Name="Mu Capital"/>
+    <Elem NameU="Nu Capital" Name="Nu Capital"/>
+    <Elem NameU="Xi Capital" Name="Xi Capital"/>
+    <Elem NameU="Omicron Capital" Name="Omicron Capital"/>
+    <Elem NameU="Pi Capital" Name="Pi Capital"/>
+    <Elem NameU="Rho Capital" Name="Rho Capital"/>
+    <Elem NameU="Sigma Capital" Name="Sigma Capital"/>
+    <Elem NameU="Tau Capital" Name="Tau Capital"/>
+    <Elem NameU="Upsilon Capital" Name="Upsilon Capital"/>
+    <Elem NameU="Phi Capital" Number="2" Name="Phi Capital"/>
+    <Elem NameU="Chi Capital" Name="Chi Capital"/>
+    <Elem NameU="Psi Capital" Name="Psi Capital"/>
+    <Elem NameU="Omega Capital" Name="Omega Capital"/>
+</Lib>

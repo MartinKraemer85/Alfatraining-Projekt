@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Express-G">
+    <Elem NameU="Entity" Name="实体"/>
+    <Elem NameU="Base type" Name="基本类型"/>
+    <Elem NameU="Enumerate type" Name="枚举类型"/>
+    <Elem NameU="Defined type" Name="已定义类型"/>
+    <Elem NameU="Select type" Name="选择类型"/>
+    <Elem NameU="Boundary" Name="边界"/>
+    <Elem NameU="Pointer" Name="基数"/>
+    <Elem NameU="Cardinality" Name="反转基数"/>
+    <Elem NameU="Inverse cardinality" Name="反转基数"/>
+    <Elem NameU="Normal relationship" Name="一般关系"/>
+    <Elem NameU="Tree structure" Name="树结构"/>
+    <Elem NameU="Relationship pointer" Name="关系指针"/>
+    <Elem NameU="Subtype" Name="子类型/父类型"/>
+    <Elem NameU="Schema" Name="架构"/>
+    <Elem NameU="Used entity" Name="已使用实体"/>
+    <Elem NameU="Referenced entity" Name="已引用实体"/>
+    <Elem NameU="To page reference" Name="到页面引用"/>
+    <Elem NameU="From page reference" Name="从页面引用"/>
+    <Elem NameU="Label" Name="标签"/>
+    <Elem NameU="Page reference" Name="页面引用"/>
+</Lib>

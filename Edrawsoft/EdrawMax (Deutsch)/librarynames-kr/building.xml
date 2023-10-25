@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Building">
+    <Elem NameU="Cafe" Name="카페"/>
+    <Elem NameU="Villa" Name="별장"/>
+    <Elem NameU="Hospital" Name="병원"/>
+    <Elem NameU="Gas" Name="주유소"/>
+    <Elem NameU="Hotel" Name="호텔"/>
+    <Elem NameU="Flower Shop" Name="플라워샵"/>
+    <Elem NameU="Church" Name="교회"/>
+    <Elem NameU="Beach Villa" Name="비치 빌라"/>
+    <Elem NameU="Castle" Name="캐슬"/>
+    <Elem NameU="Post Office" Name="우체국"/>
+    <Elem NameU="Market" Name="마켓"/>
+    <Elem NameU="Newsstand" Name="신문 판매대"/>
+    <Elem NameU="Villa" Name="빌라"/>
+    <Elem NameU="Church" Name="교회"/>
+    <Elem NameU="Cake Shop" Name="케익샵"/>
+    <Elem NameU="Factory" Name="공장"/>
+    <Elem NameU="Villa" Name="빌라"/>
+    <Elem NameU="Bank" Name="은행"/>
+    <Elem NameU="Church" Name="교회"/>
+    <Elem NameU="Villa" Name="빌라"/>
+    <Elem NameU="Clothing Store" Name="옷가게"/>
+    <Elem NameU="Hotel" Name="호텔"/>
+    <Elem NameU="Gym" Name="헬스장"/>
+    <Elem NameU="Villa" Number="2" Name="빌라"/>
+    <Elem NameU="Church" Name="교회"/>
+    <Elem NameU="School" Name="학교"/>
+    <Elem NameU="Apartment" Name="아파트"/>
+    <Elem NameU="Nursing Home" Name="요양원"/>
+    <Elem NameU="Building" Name="건축"/>
+    <Elem NameU="Bookstore" Name="서점"/>
+    <Elem NameU="Library" Name="도서관"/>
+    <Elem NameU="Newsstand" Name="신문 판매대"/>
+    <Elem NameU="Police Station" Name="경찰서"/>
+    <Elem NameU="Museum" Name="박물관"/>
+    <Elem NameU="Homestay" Name="홈스테이"/>
+    <Elem NameU="Memorial" Name="기념관"/>
+    <Elem NameU="Restaurant" Name="식당"/>
+    <Elem NameU="Hospital" Name="병원"/>
+    <Elem NameU="Post Office" Name="우체국"/>
+    <Elem NameU="Apartment" Name="아파트"/>
+    <Elem NameU="Office Building" Name="오피스 빌딩"/>
+    <Elem NameU="Building" Name="건축"/>
+</Lib>

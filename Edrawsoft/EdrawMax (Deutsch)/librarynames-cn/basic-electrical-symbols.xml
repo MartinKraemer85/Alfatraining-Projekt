@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Basic Electrical Symbols">
+    <Elem NameU="Earth electrode" Name="接地"/>
+    <Elem NameU="Protective earth" Name="接地保护"/>
+    <Elem NameU="Signal ground" Name="信号接地"/>
+    <Elem NameU="Cell" Name="电极"/>
+    <Elem NameU="Battery" Name="电池"/>
+    <Elem NameU="Source" Name="电源"/>
+    <Elem NameU="Ideal source" Name="理想电源"/>
+    <Elem NameU="Resister" Name="电阻器"/>
+    <Elem NameU="Alternate resister" Name="交替电阻器"/>
+    <Elem NameU="Variable resister" Name="可变电阻器"/>
+    <Elem NameU="Pre-set resister" Name="预设电阻器"/>
+    <Elem NameU="Pre-set potentiometer" Name="预设电位计"/>
+    <Elem NameU="Potentiometer resister" Name="电位计电阻器"/>
+    <Elem NameU="Attenuator" Name="衰减器"/>
+    <Elem NameU="Contact" Name="开关"/>
+    <Elem NameU="Capacitor" Name="电容器"/>
+    <Elem NameU="Capacitor 2" Name="电容器 2"/>
+    <Elem NameU="Capacitor with Step" Name="电容器 3"/>
+    <Elem NameU="Capacitor with tapping" Name="电容器 4"/>
+    <Elem NameU="Various connections" Name="各种连接点"/>
+    <Elem NameU="Accumulator" Name="蓄电池"/>
+    <Elem NameU="Antenna" Name="天线"/>
+    <Elem NameU="Antenna 2" Name="天线 2"/>
+    <Elem NameU="Diode" Name="二极管"/>
+    <Elem NameU="Diode LED" Number="2" Name="二极管LED"/>
+    <Elem NameU="Loop antenna" Name="环形天线"/>
+    <Elem NameU="Loop antenna 2" Name="回路天线 2"/>
+    <Elem NameU="Co-Ax" Name="同轴阀"/>
+    <Elem NameU="Crystal" Name="晶体"/>
+    <Elem NameU="Circuit breaker" Name="断路器"/>
+    <Elem NameU="Fuse" Name="保险丝"/>
+    <Elem NameU="Fuse 2" Name="保险丝 2"/>
+    <Elem NameU="Fuse 3" Name="保险丝 3"/>
+    <Elem NameU="Fuse (IEC)" Name="保险丝 (IEC)"/>
+    <Elem NameU="Fuse (IEEE)" Name="保险丝 (IEEE)"/>
+    <Elem NameU="Fuse (obsolete)" Name="保险丝 (obsolete)"/>
+    <Elem NameU="Generic component" Name="普通组件"/>
+    <Elem NameU="Transducer" Name="传感器"/>
+    <Elem NameU="Transducer 2" Name="传感器 2"/>
+    <Elem NameU="Inductor" Name="电感器"/>
+    <Elem NameU="Half inductor" Name="半电感器"/>
+    <Elem NameU="Heater" Name="加热器"/>
+    <Elem NameU="Current transformer" Name="电流变换器"/>
+    <Elem NameU="Potential transforming" Name="潜在转换"/>
+    <Elem NameU="Power transformer" Name="电源变压器"/>
+    <Elem NameU="Pickup head" Name="拾音头"/>
+    <Elem NameU="Pulse" Name="脉冲"/>
+    <Elem NameU="Alternating pulse" Name="交替脉冲"/>
+    <Elem NameU="Saw tooth" Name="锯齿波"/>
+    <Elem NameU="Step function" Name="阶跃函数"/>
+    <Elem NameU="Explosive squib" Name="爆炸导火管"/>
+    <Elem NameU="Sensing link squib" Name="感应链接导火管"/>
+    <Elem NameU="Squib ignitor" Name="导火管点火器"/>
+    <Elem NameU="Surge protectors 2" Name="电泳保护器 2"/>
+    <Elem NameU="Indicator" Name="指示器"/>
+    <Elem NameU="Switch" Name="转换开关"/>
+    <Elem NameU="Ammeter switch" Name="安培表转换开关"/>
+    <Elem NameU="Voltmeter switch" Name="伏特表转换开关"/>
+    <Elem NameU="Motor" Name="电动机"/>
+    <Elem NameU="Ammeter" Name="电流表"/>
+    <Elem NameU="Voltmeter" Name="电压表"/>
+    <Elem NameU="Generator" Name="发电机"/>
+    <Elem NameU="Varmeter" Name="无功计"/>
+    <Elem NameU="HZ" Name="赫兹"/>
+    <Elem NameU="Thermometer" Name="温度计"/>
+    <Elem NameU="Hourmeter" Name="计时器"/>
+    <Elem NameU="Material" Name="材料"/>
+    <Elem NameU="Component" Name="元件"/>
+    <Elem NameU="Delay element" Name="延迟元件"/>
+    <Elem NameU="Surge protectors" Name="电泳保护器"/>
+    <Elem NameU="Permanent magnet" Name="永磁体"/>
+    <Elem NameU="Magnet core" Name="磁芯"/>
+    <Elem NameU="Ferrite core" Name="铁芯"/>
+    <Elem NameU="Distribution panel" Name="配电板"/>
+    <Elem NameU="Instrumentation panel" Name="仪表板"/>
+    <Elem NameU="Igniter plug" Name="点火塞"/>
+    <Elem NameU="Bell" Name="电铃"/>
+    <Elem NameU="Buzzer" Name="蜂鸣器"/>
+    <Elem NameU="Remote control station" Name="遥控站"/>
+    <Elem NameU="Thermal element" Name="热元件"/>
+    <Elem NameU="Thermocouple" Name="热电偶"/>
+    <Elem NameU="Thermopile" Name="热电堆"/>
+    <Elem NameU="Lamp" Name="灯"/>
+    <Elem NameU="Lamp 2" Name="灯 2"/>
+    <Elem NameU="Lamp 3" Name="灯 3"/>
+    <Elem NameU="Lamp 4" Name="灯 4"/>
+    <Elem NameU="Neon lamp" Name="霓虹灯"/>
+    <Elem NameU="Illuminating bulb" Name="照明灯泡"/>
+    <Elem NameU="Fluorescent lamp" Name="荧光灯"/>
+    <Elem NameU="Speaker" Name="扬声器"/>
+    <Elem NameU="Microphone" Name="扩音器"/>
+    <Elem NameU="Microphone 2" Name="扩音器 2"/>
+    <Elem NameU="Oscillator" Name="示波器"/>
+    <Elem NameU="AC source" Name="交流电源"/>
+    <Elem NameU="DC source" Name="直流电源"/>
+    <Elem NameU="Constant source" Name="恒流电源"/>
+    <Elem NameU="Junction box" Name="接线盒"/>
+    <Elem NameU="Straight junction box" Name="直接线盒"/>
+    <Elem NameU="Equipotential" Name="等电势"/>
+    <Elem NameU="Frame" Name="机壳"/>
+    <Elem NameU="Protected earth electrode" Name="接地"/>
+</Lib>

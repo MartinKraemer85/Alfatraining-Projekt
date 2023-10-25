@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Profession">
+    <Elem NameU="Priest" Name="牧師"/>
+    <Elem NameU="Judge" Name="法官"/>
+    <Elem NameU="Lawyer" Name="律師"/>
+    <Elem NameU="Policeman" Name="警察"/>
+    <Elem NameU="Teacher" Name="教師"/>
+    <Elem NameU="Professor" Name="教授"/>
+    <Elem NameU="Student" Name="學生"/>
+    <Elem NameU="Scholar" Name="學者"/>
+    <Elem NameU="Businessman" Name="商人"/>
+    <Elem NameU="Manager" Name="經理"/>
+    <Elem NameU="Secretary" Name="秘書"/>
+    <Elem NameU="Businesswoman" Name="女企業家"/>
+    <Elem NameU="Programmer" Name="程序員"/>
+    <Elem NameU="Artist" Name="畫家"/>
+    <Elem NameU="Musician" Name="音樂家"/>
+    <Elem NameU="Writer" Name="作家"/>
+    <Elem NameU="Nurse" Name="護士"/>
+    <Elem NameU="Dentist" Name="牙醫"/>
+    <Elem NameU="Chef" Name="廚師"/>
+    <Elem NameU="Waiter" Name="服務員"/>
+    <Elem NameU="Orator" Name="演說家"/>
+    <Elem NameU="Male Engineer" Name="男工程師"/>
+    <Elem NameU="Female Engineer" Name="女工程師"/>
+    <Elem NameU="Consultant" Name="顧問"/>
+    <Elem NameU="Accountant" Name="會計師"/>
+    <Elem NameU="Hairdresser" Name="理髮師"/>
+</Lib>

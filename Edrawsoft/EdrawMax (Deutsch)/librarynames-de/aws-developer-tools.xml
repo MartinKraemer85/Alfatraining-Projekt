@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="AWS Developer Tools">
+	<Elem NameU="AWS-Cloud9" Name="AWS-Cloud9  "/>
+	<Elem NameU="AWS-Cloud-Development-Kit" Name="AWS Cloud Development Kit"/>
+	<Elem NameU="AWS-CodeBuild" Name="AWS-Code-Konstruktion"/>
+	<Elem NameU="AWS-CodeCommit" Name="Übermittlung des AWS-Codes"/>
+	<Elem NameU="AWS-CodeDeploy" Name="AWS-Code-Bereitstellung"/>
+	<Elem NameU="AWS-CodePipeline" Name="AWS-Code-Pipeline"/>
+	<Elem NameU="AWS-CodeStar" Name="AWS-CodeStar"/>
+	<Elem NameU="AWS-Command-Line-Interface" Name="AWS-Befehlszeilenschnittstelle"/>
+	<Elem NameU="AWS-Tools-And-SDKs" Name="AWS-Tools und SDK"/>
+	<Elem NameU="AWS-X-Ray" Name="AWS Röntgen"/>
+	<Elem NameU="Developer-Tools" Name="Entwicklerwerkzeuge"/>
+	<Elem NameU="DynamoDB_DAX" Name="Generatordatenbank DAX"/>
+	<Elem NameU="Cloud9_Resource" Name="Cloud 9-Ressourcen"/>
+</Lib>

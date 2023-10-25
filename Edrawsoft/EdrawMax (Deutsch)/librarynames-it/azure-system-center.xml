@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Azure System Center">
+	<Elem NameU="Central Administration Site" Name="Sito Amministrazione Centrale"/>
+	<Elem NameU="Central Administration Site_SQL" Name="SQL_Sito Amministrazione Centrale"/>
+	<Elem NameU="Cloud Distribution Point" Name="Punto di Distribuzione Cloud"/>
+	<Elem NameU="Distribution Point" Name="Punto di Distribuzione"/>
+	<Elem NameU="Management Point" Name="Punto di Gestione"/>
+	<Elem NameU="Primary Site" Name="Sito Primario"/>
+	<Elem NameU="Roles (class for multiple versions)" Name="Ruoli (classe per versioni multiple)"/>
+	<Elem NameU="Secondary Site" Name="Sito Secondario"/>
+	<Elem NameU="Software Update Point" Name="Punto di Aggiornamento del Software"/>
+	<Elem NameU="System Center Admin Console" Name="Console di Amministrazione del Sistema Centrale"/>
+</Lib>

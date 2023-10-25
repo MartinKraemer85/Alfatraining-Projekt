@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="PID Wastewater Treatment">
+	<Elem NameU="Absorber" Name="Assorbitore"/>
+	<Elem NameU="Aeration basin 1" Name="Bacino d'areazione 1"/>
+	<Elem NameU="Aeration basin 2" Name="Bacino d'areazione 2"/>
+	<Elem NameU="Aeration digester 1" Name="Digestore d'areazione 1"/>
+	<Elem NameU="Aeration digester 2" Name="Digestore d'areazione 2"/>
+	<Elem NameU="Air diffuser system" Name="Sistema di diffusione dell'area"/>
+	<Elem NameU="Anaerobic sequencing batch reactor" Name="Reattore a sequenziamento anaerobico"/>
+	<Elem NameU="Asphalt filter" Name="Filtro asfaltico"/>
+	<Elem NameU="Bag filtration system" Name="Sistema di filtrazione"/>
+	<Elem NameU="Belt filter press" Name="Filtropressa"/>
+	<Elem NameU="Biological treatment plant" Name="Centrale per trattamento biologico"/>
+	<Elem NameU="Blue filter" Name="Filtro blu"/>
+	<Elem NameU="Bubble diffuser in sludge tank" Name="Diffusore a bolla in serbatoio fanghi"/>
+	<Elem NameU="Carbon absorber" Name="Assorbitore di carbonio"/>
+	<Elem NameU="Chemical feeder" Name="Alimentatore chimico"/>
+	<Elem NameU="Central Water Softener" Name="Addolcitore d'Acqua Centrale"/>
+	<Elem NameU="Central Water Purifier" Name="Purificatore d'Acqua Centrale"/>
+	<Elem NameU="Civic Tap Water" Name="Acqua di Rubinetto"/>
+	<Elem NameU="Chlorinator" Name="Clorinatore"/>
+	<Elem NameU="Clarifier (side view)" Name="Decantatore (vista lato)"/>
+	<Elem NameU="Clarifier 1" Name="Decantatore 1"/>
+	<Elem NameU="Clarifier 2" Name="Decantatore 2"/>
+	<Elem NameU="Clarifier and thickener drive" Name="Decantatore e ispessitore"/>
+	<Elem NameU="Clarifier with recarb tank" Name="Decantatore con cisterna"/>
+	<Elem NameU="Clean water system" Name="Sistema acqua pulita"/>
+	<Elem NameU="Close-coupled self-primer" Name="Autoadescante monoblocco"/>
+	<Elem NameU="Containment basin" Name="Bacino di contenimento"/>
+	<Elem NameU="Covered dome tank" Name="Cisterna a cupola chiusa"/>
+	<Elem NameU="Cooling tower make up" Name="Torri di raffreddamento"/>
+	<Elem NameU="Dewatering system" Name="Sistema di disidratazione"/>
+	<Elem NameU="Digester" Name="Digestore"/>
+	<Elem NameU="Disc and drum filter" Name="Filtro con disco e tamburo"/>
+	<Elem NameU="Dissolved air flotation" Name="Fluttuazione aria dissolta"/>
+	<Elem NameU="Drying system" Name="Sistema di essiccazione"/>
+	<Elem NameU="Digester gas tanks" Name="Cisterne gas-digerenti"/>
+	<Elem NameU="Elevated tank 1" Name="Cisterna elevata 1"/>
+	<Elem NameU="Elevated tank 2" Name="Cisterna elevata 2"/>
+	<Elem NameU="Elevated tank 3" Name="Cisterna elevata 3"/>
+	<Elem NameU="Elevated tank 4" Name="Cisterna elevata 4"/>
+	<Elem NameU="Environmental gas process" Name="Lavorazione gas naturale"/>
+	<Elem NameU="Explosion-proof enclosure" Name="Rivestimento a prova di esplosione"/>
+	<Elem NameU="Filter housing" Name="Alloggio filtro"/>
+	<Elem NameU="Filter press" Name="Pressa a filtro"/>
+	<Elem NameU="Filter" Name="Filtro"/>
+	<Elem NameU="Filter 2" Name="Filtro 2"/>
+	<Elem NameU="Filter 3" Name="Filtro 3"/>
+	<Elem NameU="Filter 4" Name="Filtro 4"/>
+	<Elem NameU="Flocculators" Name="Chiarifloccuratori"/>
+	<Elem NameU="Flow gate" Name="Porta di flusso"/>
+	<Elem NameU="Flume" Name="Canale"/>
+	<Elem NameU="Fluted elevated tank" Name="Cisterna elevata canalizzata"/>
+	<Elem NameU="Giant skeeter" Name="Skeeter gigante"/>
+	<Elem NameU="Gravity belt thickener" Name="Addensatore cinture gravitazionali"/>
+	<Elem NameU="Grit chamber" Name="Dissabbiatore"/>
+	<Elem NameU="Incinerator" Name="Inceneritore"/>
+	<Elem NameU="Inclined plate clarifier " Name="Decantatore a placca inclinata"/>
+	<Elem NameU="Liquid solution feeder" Name="Alimentatore soluzione liquida"/>
+	<Elem NameU="Low-speed aerator drive for wastewater treatment" Name="Aeratore a bassa velocità per trattamento acque di scarico"/>
+	<Elem NameU="Luxury Pipeline Machines" Name="Macchinari Lussuosi per Condutture"/>
+	<Elem NameU="Land" Name="Terreno"/>
+	<Elem NameU="Main Engine of Reverse Osmosis" Name="Motore Principale per Osmosi Inversa"/>
+	<Elem NameU="Membranes" Name="Membrane"/>
+	<Elem NameU="Micro screen" Name="Micro-schermo"/>
+	<Elem NameU="Motorized flow gate (closed)" Name="Porta di flusso automatica (chiusa)"/>
+	<Elem NameU="Motorized flow gate (open)" Name="Porta di flusso automatica (aperta)"/>
+	<Elem NameU="Oil skimmer" Name="Disoleatore"/>
+	<Elem NameU="Oil-water separator 1" Name="Separatore olio-acqua 1"/>
+	<Elem NameU="Oil-water separator 2" Name="Separatore olio-acqua 2"/>
+	<Elem NameU="Oily water separation and recycling system" Name="Separatore olio-acqua con sistema di riciclo"/>
+	<Elem NameU="Oxygen generator" Name="Generatore di ossigeno"/>
+	<Elem NameU="Paddle dryer" Name="Essiccatore a palette"/>
+	<Elem NameU="Plate clarifier" Name="Decantatore a placca"/>
+	<Elem NameU="Polymer injection system" Name="Sistema di iniezione a polimero"/>
+	<Elem NameU="Polymer mixing system" Name="Sistema di miscelazione a polimero"/>
+	<Elem NameU="Precision Filter" Name="Filtro di Precisione"/>
+	<Elem NameU="Pre-filter" Name="Prefiltro"/>
+	<Elem NameU="Primary clarifier" Name="Decantatore primario"/>
+	<Elem NameU="Rotary drum thickener" Name="Addensatore a tamburo rotativo"/>
+	<Elem NameU="Screen" Name="Schermo"/>
+	<Elem NameU="Screw drive" Name="Cacciavite"/>
+	<Elem NameU="Scrubber module" Name="Modulo di depurazione"/>
+	<Elem NameU="Simple elevated tank" Name="Cisterna elevata semplice"/>
+	<Elem NameU="Simple evaporator" Name="Evaporatore semplice"/>
+	<Elem NameU="Simple filter 1" Name="Filtro semplice 1"/>
+	<Elem NameU="Simple filter 2" Name="Filtro semplice 2"/>
+	<Elem NameU="Sludge digester" Name="Digestore fanghi"/>
+	<Elem NameU="Sludge lagoon" Name="Pozza di fanghi"/>
+	<Elem NameU="Spherical storage tank 1" Name="Cisterna di immagazzinamento sferica 1"/>
+	<Elem NameU="Spherical storage tank 2" Name="Cisterna di immagazzinamento sferica 2"/>
+	<Elem NameU="Spigot" Name="Tappo"/>
+	<Elem NameU="Submersible mixer" Name="Miscelatore sommergibile"/>
+	<Elem NameU="Treatment basin" Name="Bacino per trattamento"/>
+	<Elem NameU="Treatment tanks" Name="Cisterne per trattamento"/>
+	<Elem NameU="Vacuum filter" Name="Filtro a vuoto"/>
+	<Elem NameU="Wash water treatment and recovery system" Name="Trattamento acqua di lavaggio e sistema di recupero"/>
+	<Elem NameU="Wastewater evaporator" Name="Evaporatore acque di scarico"/>
+	<Elem NameU="Wastewater grinder" Name="Smerigliatrice acque di scarico"/>
+	<Elem NameU="Wastewater tank" Name="Cisterna acque di scarico"/>
+	<Elem NameU="Water filter" Name="Filtro dell'acqua"/>
+	<Elem NameU="Water treatment basins (top view)" Name="Bacini per il trattamento dell'acqua (vista dall'alto)"/>
+	<Elem NameU="Water treatment plant" Name="Centrale per il trattamento dell'acqua"/>
+	<Elem NameU="Water treatment storage" Name="Magazzino per il trattamento dell'acqua"/>
+	<Elem NameU="Water treatment system" Name="Sistema per il trattamento dell'acqua"/>
+	<Elem NameU="Wet dust collector" Name="Collettore polveri umide"/>
+	<Elem NameU="Bathtub" Name="Vasca da bagno"/>
+	<Elem NameU="Shower head" Name="Soffione"/>
+	<Elem NameU="Water purifier" Name="Purificatore acqua"/>
+	<Elem NameU="Sedimentation Basin" Name="Bacino di sedimentazione"/>
+	<Elem NameU="Settling tank" Name="Serbatoio di decantazione"/>
+	<Elem NameU="Sludge thickener" Name="Addensatore fanghi"/>
+	<Elem NameU="Water channel" Name="Canale idrico"/>
+	<Elem NameU="Pond" Name="Stagno"/>
+	<Elem NameU="Drain" Name="Scarico"/>
+	<Elem NameU="Hydrolysis of grit chamber" Name="Camera per l'idrolisi della sabbia"/>
+	<Elem NameU="Hydrolyzation &amp;amp; Acidification Pool" Name="Pozzo per Idrolisi e Acidificazione"/>
+	<Elem NameU="Ash disposal pond" Name="Pozzo smaltimento ceneri"/>
+	<Elem NameU="Reservoir" Name="Serbatoio"/>
+	<Elem NameU="Biological reaction tank" Name="Cisterna reazioni biologiche"/>
+	<Elem NameU="Container" Name="Contenitore"/>
+	<Elem NameU="Hydrocyclone" Name="Idrociclone"/>
+	<Elem NameU="Evaporator" Name="Evaporatore"/>
+	<Elem NameU="Evaporation" Name="Evaporazione"/>
+	<Elem NameU="Filling Machine" Name="Macchina di Riempimento"/>
+	<Elem NameU="Small Bottle" Name="Bottiglietta"/>
+	<Elem NameU="Grille" Name="Griglia"/>
+</Lib>

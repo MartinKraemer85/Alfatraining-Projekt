@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Australia">
+    <Elem NameU="New South Wales" Name="新南威爾士"/>
+    <Elem NameU="Nothern Territory" Name="澳大利亞北部"/>
+    <Elem NameU="Queensland" Name="昆士蘭"/>
+    <Elem NameU="South Australia" Name="澳大利亞南部"/>
+    <Elem NameU="Tasmania" Name="塔斯馬里亞"/>
+    <Elem NameU="Victoria" Name="維多利亞"/>
+    <Elem NameU="Western Australia" Name="澳大利亞西部"/>
+    <Elem NameU="New Zealand" Name="新西蘭"/>
+    <Elem NameU="Australia(state)" Name="澳大利亞（國家）"/>
+</Lib>

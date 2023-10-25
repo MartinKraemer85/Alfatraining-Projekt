@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="AWS Internet of Things">
+	<Elem NameU="FreeRTOS" Name="RTOS grátis"/>
+	<Elem NameU="AWS-IoT-_Device-Management" Name="Gerenciamento de dispositivo AWS IoT"/>
+	<Elem NameU="AWS-IoT-1-Click" Name="AWS IoT 1 clique"/>
+	<Elem NameU="AWS-IoT-Analytics" Name="Análise AWS IoT"/>
+	<Elem NameU="AWS-IoT-Button" Name="Botão AWS IoT"/>
+	<Elem NameU="AWS-IoT-Core" Name="Núcleo AWS IoT"/>
+	<Elem NameU="AWS-IoT-Device-Defender" Name="Dispositivo de defesa AWS IoT"/>
+	<Elem NameU="AWS-IoT-Events" Name="Eventos AWS IoT"/>
+	<Elem NameU="AWS-IoT-Greengrass" Name="AWS Monogatari Green Grass"/>
+	<Elem NameU="AWS-IoT-SiteWise" Name="AWS IoT website wise"/>
+	<Elem NameU="AWS-IoT-Things-Graph" Name="Diagrama de coisas a fazer da AWS IoT"/>
+	<Elem NameU="Internet-of-Things" Name="IoT"/>
+	<Elem NameU="AWS-IoT-Analytics_Pipeline" Name="Analise Pipeline AWS IoT"/>
+	<Elem NameU="AWS-IoT-Analytics_Data-Store" Name="Armazenamento de dados de análise AWS IoT"/>
+	<Elem NameU="AWS-IoT-Analytics_Data-Set" Name="Conjunto de dados de análise AWS IoT"/>
+	<Elem NameU="AWS-IoT-Analytics_Channel" Name="Canais de análise AWS IoT"/>
+	<Elem NameU="AWS-IoT-Analytics_Notebook" Name="Bloco de notas analítico AWS IoT"/>
+	<Elem NameU="AWS-IoT-Greengrass_Connector" Name="Conector AWS IoT Greengrass"/>
+	<Elem NameU="IoT_Action" Name="Ação IoT"/>
+	<Elem NameU="IoT_Actuator" Name="Atuador do IoT"/>
+	<Elem NameU="IoT_Alexa-enabled-device" Name="Dispositivos IoT compatíveis com Alexa"/>
+	<Elem NameU="IoT_Alexa-skill" Name="IoT Alexa-Skills"/>
+	<Elem NameU="IoT_Alexa-voice-service" Name="Serviço de vozes da Alexa IoT"/>
+	<Elem NameU="IoT_Bank" Name="Banco IoT"/>
+	<Elem NameU="IoT_Bicycle" Name="Bicicleta - IoT"/>
+	<Elem NameU="IoT_Camera" Name="Câmera IoT"/>
+	<Elem NameU="IoT_Car" Name="Carro IoT"/>
+	<Elem NameU="IoT_Cart" Name="IoT carrinho de compras"/>
+	<Elem NameU="IoT_Certificate-manager" Name="Gerenciador de certificado IoT"/>
+	<Elem NameU="IoT_Coffee-pot" Name="Pote de café IoT"/>
+	<Elem NameU="IoT_Desired-state" Name="Estado desejado IoT&quot;"/>
+	<Elem NameU="IoT_Device-gateway" Name="Gateway de dispositivo IoT"/>
+	<Elem NameU="IoT_Door-lock" Name="Fechadura de porta IoT"/>
+	<Elem NameU="IoT_Echo" Name="IoT echo"/>
+	<Elem NameU="IoT_Factory" Name="Fábrica de IoT"/>
+	<Elem NameU="IoT_Fire-TV" Name="IoT Fire TV"/>
+	<Elem NameU="IoT_Fire-TV-stick" Name="IoT Fire TV Stick"/>
+	<Elem NameU="IoT_Generic" Name="Genérico IoT"/>
+	<Elem NameU="IoT_Hardware-board" Name="Placa de hardware IoT"/>
+	<Elem NameU="IoT_House" Name="Casa IoT"/>
+	<Elem NameU="IoT_HTTP-2-protocol" Name="Protocolo HTTP-2 da IoT"/>
+	<Elem NameU="IoT_HTTP-protocol" Name="Protocolo HTTP da IoT"/>
+	<Elem NameU="IoT_Lambda-function" Name="Função IoT Lambda"/>
+	<Elem NameU="IoT_Lightbulb" Name="Lâmpada IoT"/>
+	<Elem NameU="IoT_Medical-emergency" Name="Emergência médica IoT"/>
+	<Elem NameU="IoT_MQTT-protocol" Name="Protocolo IoT MQTT"/>
+	<Elem NameU="IoT_Over-the-air-update" Name="Atualização da IoT"/>
+	<Elem NameU="IoT_Police-emergency" Name="Emergência policial IoT"/>
+	<Elem NameU="IoT_Policy" Name="Política de IoT"/>
+	<Elem NameU="IoT_Reported-state" Name="Status do relatório de IoT"/>
+	<Elem NameU="IoT_Rule" Name="Regras da IoT"/>
+	<Elem NameU="IoT_Sensor" Name="Sensores IoT"/>
+	<Elem NameU="IoT_Servo" Name="Servo de IoT"/>
+	<Elem NameU="IoT_Shadow" Name="IoT Shadow"/>
+	<Elem NameU="IoT_Simulator" Name="Simulador de IoT"/>
+	<Elem NameU="IoT_Thermostat" Name="Termostato IoT"/>
+	<Elem NameU="IoT_Topic" Name="Tópico IoT"/>
+	<Elem NameU="IoT_Travel" Name="Viagem IoT"/>
+	<Elem NameU="IoT_Utility" Name="Utilitário IoT"/>
+	<Elem NameU="IoT_Windfarm" Name="IoT Windfarm"/>
+	<Elem NameU="IoT-Device-Jobs_Resource" Name="Recurso de trabalhos da IoT"/>
+</Lib>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Marketing Diagrams">
+    <Elem NameU="Step Process" Number="3" Name="프로세스 절차"/>
+    <Elem NameU="Five Force Model" Name="산업구조분석모형"/>
+    <Elem NameU="Six Markets Model" Number="2" Name="6 마켓 모델"/>
+    <Elem NameU="Six Sigma" Name="6 시그마"/>
+    <Elem NameU="Funnel" Name="깔때기"/>
+    <Elem NameU="Market Analysis" Name="시장 분석"/>
+    <Elem NameU="Continuum Diagram" Number="3" Name="연속체 다이어그램"/>
+    <Elem NameU="Leadship Continuum Diagram" Name="리드십 연속체 다이어그램"/>
+    <Elem NameU="Marketing Mix" Number="2" Name="마케팅 믹스"/>
+    <Elem NameU="Scope" Number="2" Name="범위"/>
+    <Elem NameU="Product Life Cycle" Number="2" Name="제품 생명 주기"/>
+    <Elem NameU="Adoption Process" Name="적용 프로세스"/>
+    <Elem NameU="Normal Curve" Name="표준 곡선"/>
+    <Elem NameU="Text Block" Name="텍스트 블록"/>
+    <Elem NameU="3D Box" Name="3D 박스"/>
+    <Elem NameU="3D Circle" Name="3D 원"/>
+</Lib>

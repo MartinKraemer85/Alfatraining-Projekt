@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Business Scene 1">
+    <Elem NameU="White Collar" Name="白领"/>
+    <Elem NameU="Sign the contact" Name="签约"/>
+    <Elem NameU="Conference" Name="会议"/>
+    <Elem NameU="Sorting files" Name="找文件"/>
+    <Elem NameU="Meeting 1" Name="会议1"/>
+    <Elem NameU="Talking" Name="交谈"/>
+    <Elem NameU="Meeting 2" Name="会议2"/>
+    <Elem NameU="Working" Name="工作"/>
+    <Elem NameU="Employee" Name="员工"/>
+    <Elem NameU="Speech" Name="演讲"/>
+    <Elem NameU="Manager sign files" Name="经理签署文件"/>
+    <Elem NameU="Discuss" Name="讨论"/>
+    <Elem NameU="Negotiation" Name="谈判"/>
+    <Elem NameU="Awards ceremony" Name="颁奖典礼"/>
+    <Elem NameU="Globalization" Name="全球化"/>
+    <Elem NameU="Reception" Name="交际"/>
+    <Elem NameU="Video conference" Name="视频会议"/>
+    <Elem NameU="Three people meeting" Name="三人会议"/>
+    <Elem NameU="Two people discuss" Name="面对面讨论"/>
+    <Elem NameU="Training" Name="培训"/>
+    <Elem NameU="Report work" Name="报告工作"/>
+    <Elem NameU="Sign contract" Name="签合同"/>
+    <Elem NameU="Group meeting" Name="小组讨论"/>
+    <Elem NameU="Payment" Name="付款"/>
+    <Elem NameU="Secretary" Name="前台"/>
+    <Elem NameU="Timing" Name="时间"/>
+    <Elem NameU="New idea 1" Name="新观点1"/>
+    <Elem NameU="The horn propaganda" Name="号角宣传"/>
+    <Elem NameU="New idea 2" Name="新观点2"/>
+    <Elem NameU="Reporting" Name="报告"/>
+    <Elem NameU="New idea 3" Name="新观点3"/>
+    <Elem NameU="Presentation" Name="讲演"/>
+    <Elem NameU="New idea 4" Name="新观点4"/>
+    <Elem NameU="Goal Setting" Name="目标设定"/>
+    <Elem NameU="Checking" Name="检查"/>
+    <Elem NameU="Shopping" Name="购物"/>
+    <Elem NameU="Deadline" Name="截止日期"/>
+    <Elem NameU="Purchase" Name="购物"/>
+    <Elem NameU="Make Profit" Name="盈利"/>
+    <Elem NameU="Pathway" Name="分叉路标"/>
+    <Elem NameU="Unemployment" Name="解雇"/>
+    <Elem NameU="Ride a bike" Name="骑单车"/>
+    <Elem NameU="Business Trip" Name="出差"/>
+    <Elem NameU="Coffee time" Name="休息时间"/>
+    <Elem NameU="By train" Name="坐火车"/>
+    <Elem NameU="By Bus" Name="坐公交车"/>
+    <Elem NameU="By airplane" Name="坐飞机"/>
+    <Elem NameU="Firm Framework 1" Name="公司框架1"/>
+    <Elem NameU="Firm Framework 2" Name="公司框架2"/>
+    <Elem NameU="Firm Framework 3" Name="公司框架3"/>
+    <Elem NameU="Firm Framework 4" Name="公司框架4"/>
+    <Elem NameU="Firm Framework 5" Name="公司框架5"/>
+    <Elem NameU="Firm Framework 6" Name="公司框架6"/>
+    <Elem NameU="Firm Framework 7" Name="公司框架7"/>
+    <Elem NameU="Firm Framework 8" Name="公司框架8"/>
+</Lib>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Environment">
+    <Elem NameU="Watering Can" Name="물뿌리개"/>
+    <Elem NameU="House" Name="집"/>
+    <Elem NameU="Tree" Name="나무"/>
+    <Elem NameU="Energy-Saving Car" Name="에너지 절약 자동차"/>
+    <Elem NameU="Environmental Protection" Name="환경보호"/>
+    <Elem NameU="Green Seedling" Name=" 녹색 모종"/>
+    <Elem NameU="插头" Name="플러그"/>
+    <Elem NameU="Environmental Label" Name="환경보호 레이블"/>
+    <Elem NameU="태양能" Name="태양 에너지"/>
+    <Elem NameU="Magnifier" Name="확대경"/>
+    <Elem NameU="Butterfly" Name="나비"/>
+    <Elem NameU="Energy Saving Lamp" Name="에너지 절약 램프"/>
+    <Elem NameU="Trash Can" Name="휴지통"/>
+    <Elem NameU="Battery" Number="2" Name="배터리"/>
+    <Elem NameU="Letter" Name="편지"/>
+    <Elem NameU="Notebook" Name="노트북"/>
+    <Elem NameU="Conserve Water" Name="물 절약"/>
+    <Elem NameU="Factory" Name="공장"/>
+    <Elem NameU="Environmental Protection Logo" Name="환경보호 로고"/>
+    <Elem NameU="Gas" Name="가스"/>
+    <Elem NameU="Gasoline" Name="가솔린"/>
+    <Elem NameU="Protect the Earth" Name="지구 보호"/>
+    <Elem NameU="Air Temperature" Name="기온"/>
+    <Elem NameU="Factory" Name="공장"/>
+    <Elem NameU="Environmental Protection Logo" Name="환경 보호 로고"/>
+    <Elem NameU="Wind Energy" Name="바람 에너지"/>
+    <Elem NameU="插头" Name="플러그"/>
+    <Elem NameU="Energy Saving Lamp" Name="에너지 절약 램프"/>
+    <Elem NameU="Flower" Name="꽃"/>
+    <Elem NameU="Sun" Name="태양"/>
+    <Elem NameU="Car" Name="자동차"/>
+    <Elem NameU="Bicycle" Name="자전거"/>
+    <Elem NameU="Factory" Name="공장"/>
+    <Elem NameU="Power Station" Name="발전소"/>
+    <Elem NameU="Tree" Name="나무"/>
+    <Elem NameU="Electric Light" Name="전등"/>
+    <Elem NameU="Water" Name="물"/>
+    <Elem NameU="Apple" Name="사과"/>
+    <Elem NameU="Umbrella" Name="우산"/>
+    <Elem NameU="Drink" Name="음료수"/>
+    <Elem NameU="Fire" Name="불"/>
+    <Elem NameU="Protect Environment" Name="환경보호"/>
+    <Elem NameU="Energy Saving Lamp" Name="에너지 절약 램프"/>
+    <Elem NameU="Chimney" Name="굴뚝"/>
+    <Elem NameU="High Voltage Power Line Tower" Name="고전압 전력선 타워"/>
+    <Elem NameU="Protect Environment" Name="환경보호"/>
+    <Elem NameU="Eco Bag" Name="에코백"/>
+    <Elem NameU="Cactus" Name="선인장"/>
+    <Elem NameU="Thunder" Name="번개"/>
+    <Elem NameU="Watering Can" Name="물뿌리개"/>
+    <Elem NameU="Snowflake" Name="눈꽃"/>
+    <Elem NameU="Green Leaf" Name="잎"/>
+    <Elem NameU="Protect Nature" Name="환경보호"/>
+    <Elem NameU="Plant" Name="공장"/>
+    <Elem NameU="Flower" Name="꽃"/>
+    <Elem NameU="Conserve Water" Name="물 절약"/>
+    <Elem NameU="Cedar" Name="삼나무"/>
+    <Elem NameU="Solar Energy" Name="태양 에너지"/>
+    <Elem NameU="Forest" Name="숲"/>
+    <Elem NameU="Wind" Name="바람"/>
+    <Elem NameU="Badge" Name="배지"/>
+    <Elem NameU="Wine Bottle" Name="와인병"/>
+    <Elem NameU="Environmentally Friendly Carton" Name="환경 친화적 판지"/>
+    <Elem NameU="Environmental Protection Logo" Name="환경 보호 로고"/>
+    <Elem NameU="Environmental Protection" Name="환경 보호"/>
+    <Elem NameU="Cconserve Water" Name="물 절약"/>
+    <Elem NameU="Environmental Protection Icon" Number="4" Name="환경 보호 로고"/>
+    <Elem NameU="Factory" Number="2" Name="공장"/>
+    <Elem NameU="Paper" Name="종이"/>
+    <Elem NameU="Road Sign" Name="도로 표지판"/>
+    <Elem NameU="Hot Air Balloon" Name="열기구"/>
+    <Elem NameU="Cloud" Name="구름"/>
+    <Elem NameU="Bicycle" Name="자전거"/>
+    <Elem NameU="Medal" Name="메달"/>
+    <Elem NameU="Conserve Water" Name="물 절약"/>
+    <Elem NameU="Sun" Name="태양"/>
+    <Elem NameU="Water Resources" Name="물자원"/>
+    <Elem NameU="Earth" Name="지구"/>
+    <Elem NameU="Moon" Name="달"/>
+    <Elem NameU="Bird" Name="새"/>
+    <Elem NameU="Dolphin" Name="돌고래"/>
+    <Elem NameU="Energy-Saving Car" Name="에너지 절약 자동차"/>
+    <Elem NameU="Weather" Name="날씨"/>
+    <Elem NameU="Sink" Number="2" Name="싱크"/>
+    <Elem NameU="Environmental Awareness" Name="환경보호 인식"/>
+    <Elem NameU="Eco Bag" Name="에코백"/>
+    <Elem NameU="Windmill" Name="풍차"/>
+    <Elem NameU="Earth Car" Name="지구차"/>
+    <Elem NameU="Thermometer" Name="온도계"/>
+    <Elem NameU="Barrels of Gasoline" Name="가솔린 배럴"/>
+    <Elem NameU="Polar Bear" Name="북극곰"/>
+    <Elem NameU="Footprint" Name="발자국"/>
+    <Elem NameU="Bird" Name="새"/>
+    <Elem NameU="Paper" Name="종이"/>
+    <Elem NameU="Protect the Earth" Name="지구보호"/>
+    <Elem NameU="Digging" Name="파기"/>
+    <Elem NameU="Garbage Collection" Name="쓰레기 수집"/>
+    <Elem NameU="Sowing" Name="심기"/>
+    <Elem NameU="Trash Can" Name="휴지통"/>
+    <Elem NameU="Cans" Name="罐头"/>
+    <Elem NameU="Solar Energy" Name="태양 에너지"/>
+    <Elem NameU="Mountain" Name="산"/>
+    <Elem NameU="Whale" Name="고래"/>
+    <Elem NameU="Iceberg" Name="빙산"/>
+    <Elem NameU="Leaves" Name="잎"/>
+    <Elem NameU="Rain" Name="비"/>
+    <Elem NameU="Conserve Water" Name="물 절약"/>
+</Lib>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="iPhone UI">
+	<Elem NameU="iPhone 5" Name="iPhone 5"/>
+	<Elem NameU="iPhone 6" Name="iPhone 6"/>
+	<Elem NameU="iPhone 6 Plus" Name="iPhone 6 Plus"/>
+	<Elem NameU="Status Bar" Name="Barra di Stato"/>
+	<Elem NameU="Navigation Bar 1" Name="Barra di Navigazione 1"/>
+	<Elem NameU="Navigation Bar 2" Name="Barra di Navigazione 2"/>
+	<Elem NameU="Navigation Bar 3" Name="Barra di Navigazione 3"/>
+	<Elem NameU="Button and NavBar Tool" Name="Pulsante e Barra di Navigazione"/>
+	<Elem NameU="Three Buttons Control 1" Name="Controllo a Tre Tasti 1"/>
+	<Elem NameU="Three Buttons Control 2" Name="Controllo a Tre Tasti 2"/>
+	<Elem NameU="Two Buttons Control 1" Name="Controllo a Due Tasti 1"/>
+	<Elem NameU="Two Buttons Control 2" Name="Controllo a Due Tasti 2"/>
+	<Elem NameU="Search bar" Name="Barra di Ricerca"/>
+	<Elem NameU="Message Bar" Name="Barra dei Messaggi"/>
+	<Elem NameU="Dialog box" Name="Finestra di dialogo"/>
+	<Elem NameU="Menu bar" Name="Barra del Menu"/>
+	<Elem NameU="Menu Bar 1" Name="Barra del Menu 1"/>
+	<Elem NameU="Menu Bar 2" Name="Barra del Menu 2"/>
+	<Elem NameU="Menu Bar 3" Name="Barra del Menu 3"/>
+	<Elem NameU="Menu Bar 4" Name="Barra del Menu 4"/>
+	<Elem NameU="Menu Bar 5" Name="Barra del Menu 5"/>
+	<Elem NameU="Menu Bar 6" Name="Barra del Menu 6"/>
+	<Elem NameU="Menu Bar 7" Name="Barra del Menu 7"/>
+	<Elem NameU="Menu Bar 8" Name="Barra del Menu 8"/>
+	<Elem NameU="Menu Bar 9" Name="Barra del Menu 9"/>
+	<Elem NameU="Menu Bar 10" Name="Barra del Menu 10"/>
+	<Elem NameU="Slider" Name="Slider"/>
+	<Elem NameU="Progress bar" Name="Barra di avanzamento"/>
+	<Elem NameU="Line between" Name="Linea tra"/>
+	<Elem NameU="Circular Progress View" Name="Vista sviluppo circolare"/>
+	<Elem NameU="Dialog 1" Name="Finestra di Dialogo 1"/>
+	<Elem NameU="Dialog 2" Name="Finestra di Dialogo 2"/>
+	<Elem NameU="Dialog 3" Name="Finestra di Dialogo 3"/>
+	<Elem NameU="Dialog 4" Name="Finestra di Dialogo 4"/>
+	<Elem NameU="Time" Name="Orario"/>
+	<Elem NameU="Weather" Name="Tempo"/>
+	<Elem NameU="Menu" Name="Menu"/>
+	<Elem NameU="Phone keyboard" Name="Tastiera del telefono"/>
+	<Elem NameU="Phone buttons" Name="Tasti telefono"/>
+	<Elem NameU="MENU-Call Related Features" Name="MENU - Funzioni di Chiamata"/>
+	<Elem NameU="Code keyboard" Name="Codice tastiera"/>
+	<Elem NameU="Keyboard Control" Name="Controllo Tastiera"/>
+	<Elem NameU="Number Keyboard" Name="Tastiera Numerica"/>
+	<Elem NameU="Symbols keyboard" Name="Tastiera dei Simboli"/>
+	<Elem NameU="Message" Name="Messaggio"/>
+	<Elem NameU="Messages" Name="Messaggi"/>
+	<Elem NameU="Image" Name="Immagine"/>
+	<Elem NameU="User" Name="Utente"/>
+	<Elem NameU="Turn On" Name="Accendi"/>
+	<Elem NameU="Turn Off" Name="Spegni"/>
+	<Elem NameU="Delete Button" Name="Cancella"/>
+	<Elem NameU="Back" Name="Indietro"/>
+	<Elem NameU="Slider 1" Name="Slider 1"/>
+	<Elem NameU="Slider 2" Name="Slider 2"/>
+	<Elem NameU="Button Bar" Name="Barra dei tasti"/>
+	<Elem NameU="Button" Name="Tasto"/>
+	<Elem NameU="Small Blue Button" Name="Tasto Piccolo Blu"/>
+	<Elem NameU="Small Red Button" Name="Tasto Piccolo Rosso"/>
+	<Elem NameU="Small Black" Name="Tasto Piccolo Nero"/>
+	<Elem NameU="Header Button" Name="Tasto Intestazione"/>
+	<Elem NameU="Header Back" Name="Indietro Intestazione"/>
+	<Elem NameU="Header Forward" Name="Avanti Intestazione"/>
+	<Elem NameU="Up/Down Button" Name="Tasto Su/Giù"/>
+	<Elem NameU="Radio Button On" Name="Pulsante di Opzione Attivo"/>
+	<Elem NameU="Checkbox Button Off" Name="Segno di Spunta Inattivo"/>
+	<Elem NameU="Checkbox On Button" Name="Segno di Spunta Attivo"/>
+	<Elem NameU="Ok Blue" Name="Ok Blu"/>
+	<Elem NameU="Ok Green" Name="Ok Verde"/>
+	<Elem NameU="Close Blue Button" Name="Tasto Blu Chiuso"/>
+	<Elem NameU="Close White" Name="Tasto Bianco Chiuso"/>
+	<Elem NameU="Up Blue Button" Name="Tasto Su Blu"/>
+	<Elem NameU="Up White Button" Name="Tasto Su Bianco"/>
+	<Elem NameU="Add Green Transparent Button" Name="Aggiungi Pulsante Trasparente Verde"/>
+	<Elem NameU="Delete Transparent Button" Name="Cancella Tasto Trasparente"/>
+	<Elem NameU="Rec Button" Name="Tasto Registra"/>
+	<Elem NameU="App Button" Name="Tasto App"/>
+	<Elem NameU="Volume Control" Name="Controllo del Volume"/>
+	<Elem NameU="Checkbox" Name="Segno di Spunta"/>
+	<Elem NameU="Refresh" Name="Aggiorna"/>
+	<Elem NameU="Unread Message" Name="Messaggio Non Letto"/>
+	<Elem NameU="Add and Delete" Name="Aggiungi o Rimuovi"/>
+	<Elem NameU="Close" Name="Chiudi"/>
+	<Elem NameU="OK Blue" Name="OK Blu"/>
+	<Elem NameU="Add Blue" Name="Aggiungi Blu"/>
+	<Elem NameU="Icons" Name="Icone"/>
+	<Elem NameU="Star" Name="Stella"/>
+	<Elem NameU="Pause" Name="Pausa"/>
+	<Elem NameU="Information" Name="Informazioni"/>
+	<Elem NameU="Left and Right" Name="Sinistra e Destra"/>
+	<Elem NameU="Up and Down" Name="Su e Giù"/>
+	<Elem NameU="Near Me" Name="Vicino a Me"/>
+	<Elem NameU="Icon Group 1" Name="Gruppo di Icone 1"/>
+	<Elem NameU="Icon Group 2" Name="Gruppo di Icone 2"/>
+	<Elem NameU="Icon Group 3" Name="Gruppo di Icone 3"/>
+	<Elem NameU="App Icon" Name="Icona App"/>
+	<Elem NameU="Block" Name="Blocco"/>
+	<Elem NameU="Text" Name="Testo"/>
+	<Elem NameU="Text Selection Frame" Name="Cornice di Selezione del Testo"/>
+	<Elem NameU="Selection Frame" Name="Cornice di Selezione"/>
+	<Elem NameU="Alert" Name="Allarme"/>
+</Lib>

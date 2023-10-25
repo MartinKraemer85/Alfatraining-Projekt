@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Architecture Diagram">
+	<Elem NameU="Actor" Name="배우"/>
+	<Elem NameU="Left Arrow" Name="왼쪽 방향 화살표"/>
+	<Elem NameU="Right Arrow" Name="오른쪽 방향 화살표"/>
+	<Elem NameU="Down Arrow" Name="아래 방향 화살표"/>
+	<Elem NameU="Double arrow" Name="이중 화살표"/>
+	<Elem NameU="Rectangle" Name="사각형"/>
+	<Elem NameU="Rounded Rectangle" Name="둥근 구형"/>
+	<Elem NameU="Triangle" Name="삼각형"/>
+	<Elem NameU="Diamond" Name="다이아몬드형"/>
+	<Elem NameU="Circle" Name="원형"/>
+	<Elem NameU="Oval" Name="타원형"/>
+	<Elem NameU="Datastore" Name="데이터 스토리지"/>
+	<Elem NameU="Multiplicity" Name="다중성"/>
+	<Elem NameU="Package" Name="패키지"/>
+	<Elem NameU="Model" Name="모델"/>
+	<Elem NameU="Process" Name="프로세스"/>
+	<Elem NameU="State" Name="상태"/>
+	<Elem NameU="Data Store" Name="데이터 스토리지"/>
+	<Elem NameU="Component" Name="구성"/>
+	<Elem NameU="External Entity" Name="외부 실체"/>
+	<Elem NameU="Straight Connector" Name="직선 화살"/>
+	<Elem NameU="3D Stact Top" Name="3D구형"/>
+	<Elem NameU="Long rounded rectangular frame" Name="긴 둥근 직사각형 프레임"/>
+	<Elem NameU="Container" Name="용기"/>
+	<Elem NameU="Oval Container" Name="타원형 컨테이너"/>
+</Lib>

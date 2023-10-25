@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Communication">
+    <Elem NameU="Cellular date package" Name="流量服务"/>
+    <Elem NameU="Message service" Name="消息服务"/>
+    <Elem NameU="Short message service" Name="短信服务"/>
+    <Elem NameU="Voice message service" Name="语音服务"/>
+</Lib>

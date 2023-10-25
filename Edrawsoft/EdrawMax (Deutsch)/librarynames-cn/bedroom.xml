@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Bedroom">
+    <Elem NameU="Single bed" Number="6" Name="单人床"/>
+    <Elem NameU="Adjustable bed" Number="2" Name="调节床"/>
+    <Elem NameU="Double bed" Number="7" Name="双人床"/>
+    <Elem NameU="Single trundle bed" Number="2" Name="子床"/>
+    <Elem NameU="Bunk bed" Number="2" Name="双层床"/>
+    <Elem NameU="Crib" Name="婴儿床"/>
+    <Elem NameU="Bassinet" Name="婴儿摇篮"/>
+    <Elem NameU="Vanity table" Name="梳妆台"/>
+    <Elem NameU="Night stand" Name="床头柜"/>
+    <Elem NameU="Circular bed" Number="4" Name="圆床"/>
+    <Elem NameU="Circular carpet" Name="圆地毯"/>
+    <Elem NameU="Carpet" Number="2" Name="地毯"/>
+    <Elem NameU="Bedside cabinet" Name="床头柜"/>
+    <Elem NameU="Rectangle table" Name="长方桌"/>
+    <Elem NameU="Large plant" Number="2" Name="大植物"/>
+    <Elem NameU="Small plant" Name="小植物"/>
+    <Elem NameU="House plant" Number="2" Name="室内盆栽"/>
+    <Elem NameU="Flat-panel TV" Name="平板电视"/>
+    <Elem NameU="Spinet piano" Name="小型立式钢琴"/>
+    <Elem NameU="Bookcase" Name="书柜"/>
+    <Elem NameU="Pillow" Name="枕头"/>
+    <Elem NameU="Chest" Name="衣柜"/>
+    <Elem NameU="Double dresser" Name="双人梳妆台"/>
+    <Elem NameU="Tripper dresser" Name="梳妆台"/>
+    <Elem NameU="Cabinet" Number="2" Name="橱柜"/>
+    <Elem NameU="Wardrobe" Number="2" Name="衣柜"/>
+    <Elem NameU="Shoe cabinet" Number="2" Name="鞋柜"/>
+</Lib>

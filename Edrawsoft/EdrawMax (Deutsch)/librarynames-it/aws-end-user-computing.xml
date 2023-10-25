@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="AWS End User Computing">
+	<Elem NameU="Appstream-2.0" Name="Application Stream 2.0"/>
+	<Elem NameU="WorkDocs" Name="WorkDocs"/>
+	<Elem NameU="WorkLink" Name="WorkLink"/>
+	<Elem NameU="Workspaces" Name="Workspaces"/>
+	<Elem NameU="End-User-Computing" Name="Calcolo Utente Finale"/>
+</Lib>

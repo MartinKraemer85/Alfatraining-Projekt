@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Weapons">
+	<Elem NameU="Rifle" Name="步槍"/>
+	<Elem NameU="Shotgun" Name="霰彈槍"/>
+	<Elem NameU="Sawed-off Shotgun" Name="短管霰彈槍"/>
+	<Elem NameU="Revolver" Name="左輪槍"/>
+	<Elem NameU="Magazine" Name="彈匣"/>
+	<Elem NameU="Bullet Shell" Name="彈殼"/>
+	<Elem NameU="Bullet Entrance" Name="子彈射入口"/>
+	<Elem NameU="Bullet Exit" Name="子彈射出口"/>
+	<Elem NameU="Screwdriver" Name="螺絲起子"/>
+	<Elem NameU="Claw Hammer" Name="拔釘錘"/>
+	<Elem NameU="Crowbar" Name="鐵撬"/>
+	<Elem NameU="Baseball Bat" Name="棒球球棒"/>
+	<Elem NameU="ice Hammer" Name="破冰錘"/>
+	<Elem NameU="Nunchucks" Name="雙節棍"/>
+	<Elem NameU="Ax" Name="斧頭"/>
+	<Elem NameU="Chain" Name="鏈條"/>
+	<Elem NameU="Large Knife" Name="大刀"/>
+	<Elem NameU="Long Knife" Name="長刀"/>
+	<Elem NameU="Short Knife" Name="短刀"/>
+	<Elem NameU="Meat Cleaver" Name="切肉刀"/>
+</Lib>

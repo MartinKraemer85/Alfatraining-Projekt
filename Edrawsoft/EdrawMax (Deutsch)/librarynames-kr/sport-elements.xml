@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Sport Elements">
+    <Elem NameU="Tennis racket" Name="테니스 라켓"/>
+    <Elem NameU="Badminton racket" Name="배드민턴 라켓"/>
+    <Elem NameU="Table tennis bat" Name="탁구"/>
+    <Elem NameU="Racquet-ball Racket" Name="라켓볼 라켓"/>
+    <Elem NameU="Hockey stick" Name="하키 스틱"/>
+    <Elem NameU="Curling broom" Number="2" Name="컬링"/>
+    <Elem NameU="Golf clubs 1" Name="골프채1"/>
+    <Elem NameU="Golf clubs 2" Name="골프채2"/>
+    <Elem NameU="Schon cue" Name="당구"/>
+    <Elem NameU="Baseball bat 1" Name="야구 방망이1"/>
+    <Elem NameU="Baseball Bat 2" Name="야구 방망이2"/>
+    <Elem NameU="Fencing" Name="펜싱"/>
+    <Elem NameU="Cricket bat" Name="크리켓 방망이"/>
+    <Elem NameU="Cricket" Name="크리켓"/>
+    <Elem NameU="Tennis" Name="테니스"/>
+    <Elem NameU="Baseball" Name="야구"/>
+    <Elem NameU="Squash 1" Name="스쿼시1"/>
+    <Elem NameU="Squash 2" Name="스쿼시2"/>
+    <Elem NameU="Hockey ball" Name="하키 공"/>
+    <Elem NameU="Baseball" Name="야구"/>
+    <Elem NameU="Badminton" Name="배드민턴"/>
+    <Elem NameU="Football" Name="축구"/>
+    <Elem NameU="Basketball" Name="농구"/>
+    <Elem NameU="Volleyball" Name="배구"/>
+    <Elem NameU="Rugby 1" Name="럭비1"/>
+    <Elem NameU="Rugby 2" Name="럭비2"/>
+    <Elem NameU="Curling" Name="컬링"/>
+    <Elem NameU="Bowling pin" Name="볼링"/>
+    <Elem NameU="Bowling" Name="볼링"/>
+    <Elem NameU="Billiard Balls 1" Name="당구 공1"/>
+    <Elem NameU="Billiard Balls 2" Name="당구 공2"/>
+    <Elem NameU="Cue Sports 1" Name="큐 스포츠1"/>
+    <Elem NameU="Cue Sports 2" Name="큐 스포츠2"/>
+    <Elem NameU="Shuttlecock" Name="셔틀콕"/>
+    <Elem NameU="Helmet" Name="헬멧"/>
+    <Elem NameU="Skating shoes" Name="스케이트 신발"/>
+    <Elem NameU="Skis stick" Name="스키 스틱"/>
+    <Elem NameU="Skis board" Name="스키 보드"/>
+    <Elem NameU="Boxing glove" Name="권투 글러브"/>
+    <Elem NameU="Goal" Name="골"/>
+    <Elem NameU="Whistle" Name="휘파람"/>
+    <Elem NameU="Small Flags" Name="작은 깃발"/>
+    <Elem NameU="Trumpet" Name="트럼펫"/>
+    <Elem NameU="Bow And Arrow" Name="활과 화살"/>
+    <Elem NameU="Medals" Name="메달"/>
+    <Elem NameU="Trophies 1" Name="트로피1"/>
+    <Elem NameU="Trophies 2" Name="트로피2"/>
+    <Elem NameU="Life Buoy" Name="구명 부표"/>
+    <Elem NameU="Submersible" Name="잠수정"/>
+    <Elem NameU="Fins" Name="Fins"/>
+    <Elem NameU="Swimming Glasses" Name="수영 안경"/>
+    <Elem NameU="Backboard 1" Name="백보드1"/>
+    <Elem NameU="Backboard 2" Name="백보드1"/>
+</Lib>

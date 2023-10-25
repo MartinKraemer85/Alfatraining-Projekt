@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="GCP Extras">
+	<Elem NameU="Application Program" Name="Applicazione"/>
+	<Elem NameU="Blue hexagon" Name="Esagono Blu"/>
+	<Elem NameU="Cloud IoT core" Name="Core IoT Cloud"/>
+	<Elem NameU="Cloud dataflow" Name="Flusso Dati Cloud"/>
+	<Elem NameU="Cloud data service" Name="Servizio Dati Cloud"/>
+	<Elem NameU="Computational procedure" Name="Calcolatrice"/>
+	<Elem NameU="Manager application" Name="Gestione Programma"/>
+	<Elem NameU="Forseti encryption" Name="Crittografia Forseti"/>
+	<Elem NameU="Forseti icons" Name="Icona Forseti"/>
+	<Elem NameU="Genaral GCP" Name="GCP Comune"/>
+	<Elem NameU="Google cloud platform" Name="Piattaforma Cloud Google"/>
+	<Elem NameU="GCP encryption" Name="Crittografia Piattaforma Cloud Google"/>
+	<Elem NameU="Kubernetes icons" Name="Icona_Kubernetes"/>
+	<Elem NameU="Kubernetes" Name="Nome Software_Kubernetes"/>
+	<Elem NameU="Modifier autoscaling" Name="Ridimensionamento Automatico Modificatore"/>
+	<Elem NameU="Modifier Virtual custom program" Name="Personalizzazione Virtuale Modificatore"/>
+	<Elem NameU="Modifier advanced CPU procedure" Name="Programma CPU Avanzato Modificatore"/>
+	<Elem NameU="Modifier advanced memory procedure" Name="Procedura di Memoria Avanzata Modificatore"/>
+	<Elem NameU="Modifier used vm" Name="Modificatore VM disponibile"/>
+	<Elem NameU="Modifier share center procedure F1" Name="Programma Centro di Condivisione Modificatore F1"/>
+	<Elem NameU="Modifier share center procedure G1" Name="Programma Centro di Condivisione Modificatore G1"/>
+	<Elem NameU="Modifier standard procedure" Name="Procedura Modificatore Standard"/>
+	<Elem NameU="Modifier storage" Name="Archivio Modificatore"/>
+	<Elem NameU="Prediction API" Name="API di Previsione del Software Google"/>
+	<Elem NameU="TensorFlow Icon" Name="Icona TensorFlow"/>
+</Lib>

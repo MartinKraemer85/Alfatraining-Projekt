@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Halloween">
+    <Elem NameU="Signs 1" Name="指示牌 1"/>
+    <Elem NameU="Signs 2" Name="指示牌 2"/>
+    <Elem NameU="Pumpkin" Name="南瓜"/>
+    <Elem NameU="Pumpkin1" Name="南瓜1"/>
+    <Elem NameU="Pumpkin2" Name="南瓜2"/>
+    <Elem NameU="Pumpkin3" Name="南瓜3"/>
+    <Elem NameU="Pumpkin4" Name="南瓜4"/>
+    <Elem NameU="Pumpkin5" Name="南瓜5"/>
+    <Elem NameU="Pumpkin6" Name="南瓜6"/>
+    <Elem NameU="Pumpkin7" Name="南瓜7"/>
+    <Elem NameU="Pumpkin8" Name="南瓜8"/>
+    <Elem NameU="Bats" Name="蝙蝠"/>
+    <Elem NameU="Bats1" Name="蝙蝠1"/>
+    <Elem NameU="Bats2" Name="蝙蝠2"/>
+    <Elem NameU="Bats3" Name="蝙蝠3"/>
+    <Elem NameU="Tree" Name="树"/>
+    <Elem NameU="Tree1" Name="树1"/>
+    <Elem NameU="Tree2" Name="树2"/>
+    <Elem NameU="Tree3" Name="树3"/>
+    <Elem NameU="Tree4" Name="树4"/>
+    <Elem NameU="Cobwebs" Name="蜘蛛网"/>
+    <Elem NameU="Cobwebs1" Name="蜘蛛网1"/>
+    <Elem NameU="Cobwebs2" Name="蜘蛛网2"/>
+    <Elem NameU="Spider" Name="蜘蛛"/>
+    <Elem NameU="Spider1" Name="蜘蛛1"/>
+    <Elem NameU="Spider2" Name="蜘蛛2"/>
+    <Elem NameU="Spider3" Name="蜘蛛3"/>
+    <Elem NameU="Cat" Name="猫"/>
+    <Elem NameU="Haunted House" Name="鬼屋"/>
+    <Elem NameU="Haunted House1" Name="鬼屋1"/>
+    <Elem NameU="Haunted House2" Name="鬼屋2"/>
+    <Elem NameU="Cross" Name="十字架"/>
+    <Elem NameU="Cross1" Name="十字架"/>
+    <Elem NameU="Ghost" Name="鬼"/>
+    <Elem NameU="Ghost1" Name="鬼1"/>
+    <Elem NameU="Ghost2" Name="鬼2"/>
+    <Elem NameU="Witch Hat" Name="女巫帽"/>
+    <Elem NameU="Witch Hat1" Name="女巫帽1"/>
+    <Elem NameU="Witch Hat2" Name="女巫帽2"/>
+    <Elem NameU="Broom" Name="扫帚"/>
+    <Elem NameU="Broom1" Name="扫帚1"/>
+    <Elem NameU="Witch" Name="巫婆"/>
+    <Elem NameU="Witch1" Name="巫婆1"/>
+    <Elem NameU="Stockpot" Name="煮锅"/>
+    <Elem NameU="Part Finger " Name="手指"/>
+    <Elem NameU="Mask" Name="面具"/>
+    <Elem NameU="Mask1" Name="面具1"/>
+    <Elem NameU="Sweet" Name="棒棒糖"/>
+    <Elem NameU="Sweet1" Name="棒棒糖1"/>
+    <Elem NameU="Zombie" Name="僵尸"/>
+    <Elem NameU="No face bride" Name="无脸新娘"/>
+</Lib>

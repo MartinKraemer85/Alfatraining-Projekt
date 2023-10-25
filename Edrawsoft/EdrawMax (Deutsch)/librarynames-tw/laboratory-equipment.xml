@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Laboratory Equipment">
+    <Elem NameU="Dropper" Number="2" Name="滴管"/>
+    <Elem NameU="Dropping Liquid" Name="滴液"/>
+    <Elem NameU="Gas Jar" Number="2" Name="集氣瓶"/>
+    <Elem NameU="Beaker" Name="燒杯"/>
+    <Elem NameU="Trough" Name="水槽"/>
+    <Elem NameU="Flask" Name="燒瓶"/>
+    <Elem NameU="Flat Bottomed Flask" Name="平底燒瓶"/>
+    <Elem NameU="Flask" Name="燒瓶"/>
+    <Elem NameU="Conical Flask" Name="錐形燒瓶"/>
+    <Elem NameU="Conical Flask 2" Name="錐形燒瓶 2"/>
+    <Elem NameU="Y Tube" Name="Y形管"/>
+    <Elem NameU="Small Test Tube" Name="小試管"/>
+    <Elem NameU="Test Tube" Name="試管"/>
+    <Elem NameU="U Tube" Number="2" Name="U形管"/>
+    <Elem NameU="Pear-Shaped Flask" Number="2" Name="梨形瓶"/>
+    <Elem NameU="Suction Flask" Name="吸濾瓶"/>
+    <Elem NameU="Canula" Name="導管"/>
+    <Elem NameU="Liebig Condenser" Name="李比希冷凝器"/>
+    <Elem NameU="Measuring Cylinder" Name="量筒"/>
+    <Elem NameU="Acid Burette" Name="酸性滴定管"/>
+    <Elem NameU="Alkaline Burette" Name="鹼性滴定管"/>
+    <Elem NameU="Condenser" Number="2" Name="冷凝器"/>
+    <Elem NameU="Kipp's Apparatus" Name="吉普發生器"/>
+    <Elem NameU="Kipp's Apparatus 2" Name="吉普發生器2"/>
+    <Elem NameU="Separator Funnel" Name="分離器漏斗"/>
+    <Elem NameU="Funnel" Number="3" Name="漏斗"/>
+    <Elem NameU="Büchner Funnel" Name="布氏漏斗"/>
+    <Elem NameU="Desiccator" Name="乾燥器"/>
+    <Elem NameU="Bidirectional Tube" Name="雙向管"/>
+    <Elem NameU="Thermometer" Name="溫度計"/>
+    <Elem NameU="Iron Stage" Name="鐵級"/>
+    <Elem NameU="Iron Stage Clamp" Name="鐵級夾"/>
+    <Elem NameU="Glass Rod" Name="玻璃棒"/>
+    <Elem NameU="Ladle" Name="鋼包"/>
+    <Elem NameU="Crucible" Name="坩堝"/>
+    <Elem NameU="Evaporation Dish" Name="蒸發皿"/>
+    <Elem NameU="Watch Glass" Name="觀察鏡"/>
+    <Elem NameU="Rubber Tube" Name="膠管"/>
+    <Elem NameU="Right Rubber Tube" Name="右膠管"/>
+    <Elem NameU="Bend Rubber Tube" Name="彎曲橡膠管"/>
+    <Elem NameU="Flexible Rubber Tube" Name="柔性橡膠管"/>
+    <Elem NameU="Rubber Plug" Name="橡膠塞"/>
+    <Elem NameU="Small Rubber Plug" Name="小橡膠塞"/>
+    <Elem NameU="Glass Plug" Number="2" Name="玻璃塞"/>
+    <Elem NameU="Pipe Orifice" Name="管口"/>
+    <Elem NameU="Switch" Name="開關"/>
+    <Elem NameU="Glass Tube" Number="2" Name="玻璃管"/>
+    <Elem NameU="Glass Delivery Tube" Number="2" Name="玻璃輸送管"/>
+    <Elem NameU="Flexible Glass Tube" Number="2" Name="柔性玻璃管"/>
+    <Elem NameU="U Tube" Name="U形管"/>
+    <Elem NameU="Glass Delivery Tube" Name="玻璃輸送管"/>
+    <Elem NameU="T-shaped Tube" Number="3" Name="T型管"/>
+    <Elem NameU="Alcohol Burner" Name="酒精燈"/>
+    <Elem NameU="Flame" Name="火焰"/>
+    <Elem NameU="Flame 1" Name="火焰1"/>
+    <Elem NameU="Flame 2" Name="火焰2"/>
+    <Elem NameU="Balloon" Number="2" Name="氣球"/>
+    <Elem NameU="Dripping" Name="滴"/>
+    <Elem NameU="Bubble" Name="泡沫"/>
+    <Elem NameU="Shine" Number="2" Name="發光"/>
+    <Elem NameU="Spray" Name="噴霧"/>
+    <Elem NameU="Smoke" Number="3" Name="煙"/>
+    <Elem NameU="Fog" Name="霧"/>
+    <Elem NameU="Solid" Name="固體"/>
+    <Elem NameU="Particle" Name="顆粒"/>
+    <Elem NameU="Solid" Name="固體"/>
+    <Elem NameU="Diamond" Name="鑽石"/>
+    <Elem NameU="Dry Ice" Name="乾冰"/>
+    <Elem NameU="Ferric Sulfate" Name="硫酸鐵"/>
+    <Elem NameU="Graphite" Name="石墨"/>
+    <Elem NameU="Sodium Hydroxide" Name="氫氧化鈉"/>
+    <Elem NameU="Copper Sheet" Name="銅片"/>
+    <Elem NameU="Cotton" Name="棉花"/>
+    <Elem NameU="Stopcock" Number="2" Name="活塞"/>
+    <Elem NameU="Wood Block" Name="木塊"/>
+    <Elem NameU="Balance" Name="平衡"/>
+    <Elem NameU="Weight" Name="重量"/>
+    <Elem NameU="Wood Block" Name="木塊"/>
+    <Elem NameU="Three-necked Bottle" Name="三頸瓶"/>
+    <Elem NameU="Two Mouth Pear-shaped Flask " Name="雙口梨形燒瓶"/>
+    <Elem NameU="Pear-shaped Flask" Number="2" Name="梨形瓶"/>
+    <Elem NameU="Round-bottom Flask" Name="圓底燒瓶"/>
+    <Elem NameU="Pear-shaped Fractional Distillation Flask" Name="梨形分餾瓶"/>
+    <Elem NameU="Measuring Bottle" Name="測量瓶"/>
+    <Elem NameU="Iodin flask" Number="2" Name="碘酒瓶"/>
+    <Elem NameU="Drying Tube" Name="乾燥管"/>
+    <Elem NameU="U Tube" Number="2" Name="U形管"/>
+    <Elem NameU="Kjeldahl Distilling Head" Name="凱式蒸餾頭"/>
+    <Elem NameU="Distilling Head" Name="蒸餾頭"/>
+    <Elem NameU="Triangle Thiele Tube" Name="三角形蒂埃爾管"/>
+    <Elem NameU="Dryer" Name="乾燥機"/>
+    <Elem NameU="Culture Dish" Name="培養皿"/>
+    <Elem NameU="Flat-bottom Evaporating Dish" Name="乘蒸發皿"/>
+    <Elem NameU="Crucible" Name="坩堝"/>
+    <Elem NameU="Crucible Tongs" Name="坩堝鉗"/>
+    <Elem NameU="Medicine Spoon" Name="藥匙"/>
+    <Elem NameU="Tweezer" Name="鑷子"/>
+    <Elem NameU="Asbestosed Wire Gauze" Name="石棉線網"/>
+    <Elem NameU="Glass Sheet" Name="玻璃板"/>
+    <Elem NameU="Jar" Number="2" Name="廣口瓶"/>
+    <Elem NameU="Weighing Bottle" Number="2" Name="稱量瓶"/>
+    <Elem NameU="medicine bottle" Name="藥瓶"/>
+    <Elem NameU="Conical Graduated" Name="圓錐刻度"/>
+    <Elem NameU="Injector" Name="噴油瓶"/>
+    <Elem NameU="Iron Wire" Name="鐵絲"/>
+    <Elem NameU="Magnesium Ribbon" Name="鎂帶"/>
+    <Elem NameU="Match" Number="2" Name="火柴"/>
+    <Elem NameU="Candle" Name="蜡蠟燭"/>
+    <Elem NameU="Tripod" Name="三腳架"/>
+    <Elem NameU="Test Tube Clamp" Name="試管夾"/>
+    <Elem NameU="U-Tube piezometer" Name="U形管壓力計"/>
+    <Elem NameU="Microscope" Name="顯微鏡"/>
+</Lib>

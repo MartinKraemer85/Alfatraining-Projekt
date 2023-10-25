@@ -1,0 +1,1386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ShapeStrings Version="11.5.0">
+    <String Name="(+)" NameU="(+)"/>
+    <String Name="(-)" NameU="(-)"/>
+    <String Name="(x)" NameU="(x)"/>
+    <String Name="+" NameU="+"/>
+    <String Name="-" NameU="-"/>
+    <String Name="-10" NameU="-10"/>
+    <String Name="-20" NameU="-20"/>
+    <String Name="-30" NameU="-30"/>
+    <String Name="0" NameU="0"/>
+    <String Name="0 Grad" NameU="0 deg."/>
+    <String Name="0%" NameU="0%"/>
+    <String Name="0.0" NameU="0.0"/>
+    <String Name="0.00" NameU="0.00"/>
+    <String Name="0.000" NameU="0.000"/>
+    <String Name="0.000&quot;" NameU="0.000&quot;"/>
+    <String Name="0.2" NameU="0.2"/>
+    <String Name="0.25" NameU="0.25"/>
+    <String Name="0.3333" NameU="0.3333"/>
+    <String Name="0.5" NameU="0.5"/>
+    <String Name="0.57735026918963" NameU="0.57735026918963"/>
+    <String Name="00" NameU="00"/>
+    <String Name="1" NameU="1"/>
+    <String Name="1 Zeileneingang" NameU="1 Line Inout"/>
+    <String Name="1-Phase" NameU="1-phase"/>
+    <String Name="1.7320508075689" NameU="1.7320508075689"/>
+    <String Name="10" NameU="10"/>
+    <String Name="100%" NameU="100%"/>
+    <String Name="12 px" NameU="12 px"/>
+    <String Name="120 Grad" NameU="120 deg."/>
+    <String Name="135 Grad" NameU="135 deg."/>
+    <String Name="16 px" NameU="16 px"/>
+    <String Name="1:1" NameU="1:1"/>
+    <String Name="1:2" NameU="1:2"/>
+    <String Name="1:3" NameU="1:3"/>
+    <String Name="1:4" NameU="1:4"/>
+    <String Name="1:5" NameU="1:5"/>
+    <String Name="Nur 1. Erweiterung" NameU="1st extension only"/>
+    <String Name="2" NameU="2"/>
+    <String Name="2 Elektroden" NameU="2 Electrodes"/>
+    <String Name="2 Line Input" NameU="2 Line Input"/>
+    <String Name="2-Phase" NameU="2-phase"/>
+    <String Name="20" NameU="20"/>
+    <String Name="240 Grad" NameU="240 deg."/>
+    <String Name="25%" NameU="25%"/>
+    <String Name="2:1" NameU="2:1"/>
+    <String Name="Nur 2. Erweiterung" NameU="2nd extension only"/>
+    <String Name="3" NameU="3"/>
+    <String Name="2 Elektroden" NameU="3 Electrodes"/>
+    <String Name="3 Zustandsdaten" NameU="3 State Data"/>
+    <String Name="Dreiphasiges Flussdelta" NameU="3-phase Delta"/>
+    <String Name="Dreiphasiges Stern" NameU="3-phase Star Type"/>
+    <String Name="Dreiphasige Y-Verzweigung" NameU="3-phase Wye"/>
+    <String Name="30" NameU="30"/>
+    <String Name="30��" NameU="30��"/>
+    <String Name="3:1" NameU="3:1"/>
+    <String Name="4" NameU="4"/>
+    <String Name="4 Elektroden" NameU="4 Electrodes"/>
+    <String Name="4 px" NameU="4 px"/>
+    <String Name="45 Grad" NameU="45 deg."/>
+    <String Name="45��" NameU="45��"/>
+    <String Name="4:1" NameU="4:1"/>
+    <String Name="5" NameU="5"/>
+    <String Name="50%" NameU="50%"/>
+    <String Name="5:1" NameU="5:1"/>
+    <String Name="6" NameU="6"/>
+    <String Name="Sechsphasig diametral" NameU="6-phase Diametrical"/>
+    <String Name="Sechsphasiges Doppel-Delta" NameU="6-phase Double-delta"/>
+    <String Name="60��" NameU="60��"/>
+    <String Name="75%" NameU="75%"/>
+    <String Name="8" NameU="8"/>
+    <String Name="8 px" NameU="8 px"/>
+    <String Name="90 Grad" NameU="90 deg."/>
+    <String Name="A.C." NameU="A.C."/>
+    <String Name="AC" NameU="AC"/>
+    <String Name="UND" NameU="AND"/>
+    <String Name="Aktiv" NameU="Active"/>
+    <String Name="Ad-Hoc" NameU="Ad-Hoc"/>
+    <String Name="1 U hinzufügen" NameU="Add 1 U"/>
+    <String Name="Mikrofon hinzufügen" NameU="Add Microphone"/>
+    <String Name="Bord hinzufügen" NameU="Add a Board"/>
+    <String Name="Box hinzufügen" NameU="Add a Box"/>
+    <String Name="Kategorie hinzufügen" NameU="Add a Category"/>
+    <String Name="Stuhl hinzufügen" NameU="Add a Chair"/>
+    <String Name="Kreis hinzufügen" NameU="Add a Circle"/>
+    <String Name="Spalte hinzufügen" NameU="Add a Column"/>
+    <String Name="Level hinzufügen" NameU="Add a Level"/>
+    <String Name="Tortendiagramm hinzufügen" NameU="Add a Pie"/>
+    <String Name="Punkt hinzufügen" NameU="Add a Point"/>
+    <String Name="Ring hinzufügen" NameU="Add a Ring"/>
+    <String Name="Zeile hinzufügen" NameU="Add a Row"/>
+    <String Name="Abschnitt hinzufügen" NameU="Add a Segment"/>
+    <String Name="Schritt hinzufügen" NameU="Add a Step"/>
+    <String Name="Pfeil hinzufügen" NameU="Add an Arrow"/>
+    <String Name="Item hinzufügen" NameU="Add an Item"/>
+    <String Name="Weitere Messfrequenz - Auf Anfrage" NameU="Additional Measuring Freq - On Request"/>
+    <String Name="Weitere Messfrequenz" NameU="Additional Measuring Frequency"/>
+    <String Name="Einstellbarkeit" NameU="Adjustability"/>
+    <String Name="Einstellbar" NameU="Adjustable"/>
+    <String Name="Luft" NameU="Air"/>
+    <String Name="Luftkern" NameU="Air-core"/>
+    <String Name="Alarmsicherung" NameU="Alarm Fuse"/>
+    <String Name="Alarm 1" NameU="Alert 1"/>
+    <String Name="Alarm 2" NameU="Alert 2"/>
+    <String Name="Alarm 3" NameU="Alert 3"/>
+    <String Name="Alarm 4" NameU="Alert 4"/>
+    <String Name="Alle" NameU="All"/>
+    <String Name="Alternieren" NameU="Alternating"/>
+    <String Name="Wechselstrom" NameU="Alternating-Current"/>
+    <String Name="Alternative" NameU="Alternative"/>
+    <String Name="Andere Form" NameU="Alternative Form"/>
+    <String Name="Alternative Symbol" NameU="Alternative Symbol"/>
+    <String Name="Amperemeter" NameU="Ammeter"/>
+    <String Name="Verstärkte Telefone" NameU="Amplified Phone"/>
+    <String Name="Verstärker" NameU="Amplifier Type"/>
+    <String Name="Analogdigital" NameU="Analog to Digital"/>
+    <String Name="Winkel" NameU="Angle"/>
+    <String Name="Winkel 2" NameU="Angle 2"/>
+    <String Name="Abgewinkelt" NameU="Angled"/>
+    <String Name="Gewinkelter Text" NameU="Angled Text"/>
+    <String Name="Aussehen Optionen" NameU="Appearance Options"/>
+    <String Name="Bogentyp Darstellung" NameU="Arc-type Display"/>
+    <String Name="Pfeil" NameU="Arrow"/>
+    <String Name="Pfeil 1" NameU="Arrow 1"/>
+    <String Name="Pfeil 2" NameU="Arrow 2"/>
+    <String Name="Pfeil 3" NameU="Arrow 3"/>
+    <String Name="Pfeil 4" NameU="Arrow 4"/>
+    <String Name="Pfeilnummer" NameU="Arrow Number"/>
+    <String Name="Pfeilgröße" NameU="Arrow Size"/>
+    <String Name="Pfeildesign" NameU="Arrow Style"/>
+    <String Name="Künstlich" NameU="Artificial"/>
+    <String Name="Eigenschaft" NameU="Attribute"/>
+    <String Name="Automatisch Gradmessung" NameU="Auto Degree Measurement"/>
+    <String Name="Automatisch Längenmessung" NameU="Auto Length Measurement"/>
+    <String Name="Automatisch Größenmessung" NameU="Auto Size Measurement"/>
+    <String Name="Durchschnittlich" NameU="Average"/>
+    <String Name="Axial" NameU="Axial"/>
+    <String Name="Horizontale Gitter" NameU="Axis Horizontal Grid"/>
+    <String Name="Ausrichtung der Achsenbeschriftung" NameU="Axis Label Orientation"/>
+    <String Name="Achsnummer" NameU="Axis Number"/>
+    <String Name="Anzahl der Achsen" NameU="Axis Tick Number"/>
+    <String Name="Vertikale Gitter" NameU="Axis Vertical Grid"/>
+    <String Name="Schlecht" NameU="Bad"/>
+    <String Name="Balancing Network" NameU="Balancing Network"/>
+    <String Name="Ball" NameU="Ball"/>
+    <String Name="Frequenzband von gemischten Kanälen" NameU="Band of Mixed Channels"/>
+    <String Name="Bandpass" NameU="Band-pass Filter"/>
+    <String Name="Bandsperre" NameU="Band-stop Filter"/>
+    <String Name="Unten" NameU="Base"/>
+    <String Name="Nur Anfang" NameU="Begin Only"/>
+    <String Name="Hinter Schaltschränken" NameU="Behind Control Panel"/>
+    <String Name="Hinter einer lokale Systemsteuerung" NameU="Behind a Local Control Panel"/>
+    <String Name="Glockentyp" NameU="Bell Type"/>
+    <String Name="Binärprogramm" NameU="Binary"/>
+    <String Name="Schneide" NameU="Blade"/>
+    <String Name="Blau" NameU="Blue"/>
+    <String Name="Boolean" NameU="Boolean"/>
+    <String Name="Beide" NameU="Both"/>
+    <String Name="Beide Pfeile" NameU="Both Arrow"/>
+    <String Name="Beide Wicklungen" NameU="Both Windings"/>
+    <String Name="Beidseitige Verstärkung" NameU="Both-way Amplification"/>
+    <String Name="Unten" NameU="Bottom"/>
+    <String Name="Hakenflasche" NameU="Bottom Hook"/>
+    <String Name="unten link" NameU="Bottom Left"/>
+    <String Name="unten recht" NameU="Bottom Right"/>
+    <String Name="Grenze - Aufruf" NameU="Boundary - Call"/>
+    <String Name="Grenze - Default" NameU="Boundary - Default"/>
+    <String Name="Grenze - Ereignis" NameU="Boundary - Event"/>
+    <String Name="Grenzen - Transaktion" NameU="Boundary - Transaction"/>
+    <String Name="Marke" NameU="Brand"/>
+    <String Name="Öffnerkontakt" NameU="Break Contact"/>
+    <String Name="Brevier" NameU="Breviary"/>
+    <String Name="Brücke" NameU="Bridge"/>
+    <String Name="Brikettiermaschinen" NameU="Briquetting Machine Type"/>
+    <String Name="Maximale Größe der Blase" NameU="Bubble Max Size"/>
+    <String Name="Minimale Größe der Blase" NameU="Bubble Min Size"/>
+    <String Name="命名" NameU="Call"/>
+    <String Name="Dose" NameU="Can"/>
+    <String Name="Abbrechen" NameU="Cancel"/>
+    <String Name="Abgebrochen" NameU="Canceled"/>
+    <String Name="Kondensator" NameU="Capacitor"/>
+    <String Name="Kohleblock" NameU="Carbon Block"/>
+    <String Name="Trägerfrequenz" NameU="Carrier Frequency"/>
+    <String Name="Abstand der Katagorie" NameU="Category Interval"/>
+    <String Name="Kategorie Anzahl" NameU="Category Number"/>
+    <String Name="Zentrum" NameU="Center"/>
+    <String Name="Mittelstellung" NameU="Center Position"/>
+    <String Name="Punkte zentrieren" NameU="Center points"/>
+    <String Name="Mitte-Unten" NameU="Center-Down"/>
+    <String Name="Mitte-Oben" NameU="Center-Up"/>
+    <String Name="Zentimeter" NameU="Centimeters"/>
+    <String Name="Zentrifugal" NameU="Centrifugal"/>
+    <String Name="Zentrifuger Typ" NameU="Centrifuge Type"/>
+    <String Name="Aussehen ändern" NameU="Change Appearance"/>
+    <String Name="Pfeilposition ändern" NameU="Change Arrow Position"/>
+    <String Name="Pfeilgröße ändern" NameU="Change Arrow Size"/>
+    <String Name="Pfeildesign ändern" NameU="Change Arrow Style"/>
+    <String Name="Boxart ändern" NameU="Change Box Style"/>
+    <String Name="Typ des Kabels ändern" NameU="Change Cable Type"/>
+    <String Name="Zentrum-Form-Stil ändern" NameU="Change Center Shape Style"/>
+    <String Name="Zentrum-Stil ändern" NameU="Change Center Style"/>
+    <String Name="Kreisposition ändern" NameU="Change Circle Position"/>
+    <String Name="Farbmodus ändern" NameU="Change Color Mode"/>
+    <String Name="Flusstyp ändern" NameU="Change Flow Type"/>
+    <String Name="Spaltgröße ändern" NameU="Change Gap Size"/>
+    <String Name="Objektstile ändern" NameU="Change Item Style"/>
+    <String Name="Anzahl der Zeile ändern" NameU="Change Number of Line"/>
+    <String Name="Ausrichtung ändern" NameU="Change Orientation"/>
+    <String Name="Foto ändern" NameU="Change Photo"/>
+    <String Name="Fotogröße ändern" NameU="Change Photo Size"/>
+    <String Name="Position ändern" NameU="Change Position"/>
+    <String Name="Ringdicke ändern" NameU="Change Ring Thickness"/>
+    <String Name="Segment-Pfeil-Stil ändern" NameU="Change Segment Arrow Style"/>
+    <String Name="Form-Stil ändern" NameU="Change Shape Style"/>
+    <String Name="Schrittgröße ändern" NameU="Change Step Size"/>
+    <String Name="Stil ändern" NameU="Change Style"/>
+    <String Name="Titelformat ändern" NameU="Change Title Style"/>
+    <String Name="Bild ändern" NameU="Change the Picture"/>
+    <String Name="Kanal" NameU="Channel"/>
+    <String Name="Checken" NameU="Check"/>
+    <String Name="Rückschlagventil 1" NameU="Check Valve 1"/>
+    <String Name="Rückschlagventil 2" NameU="Check Valve 2"/>
+    <String Name="Rückschlagventil 3" NameU="Check Valve 3"/>
+    <String Name="Kontrollkästchen" NameU="Checkbox"/>
+    <String Name="Überprüft" NameU="Checked"/>
+    <String Name="Kreis" NameU="Circle"/>
+    <String Name="Kreismarkierung" NameU="Circle Mark"/>
+    <String Name="Kreisnummer" NameU="Circle Number"/>
+    <String Name="Kreismarkierung" NameU="Cirle Marker"/>
+    <String Name="Klass" NameU="Class"/>
+    <String Name="Abschließen" NameU="Close"/>
+    <String Name="Pfeilende schließen" NameU="Close Arrow End"/>
+    <String Name="Unten schließen" NameU="Close Bottom"/>
+    <String Name="Kreislauf schließen" NameU="Close Circuit"/>
+    <String Name="Ende schließen" NameU="Close End"/>
+    <String Name="Links schließen" NameU="Close Left"/>
+    <String Name="Rechts schließen" NameU="Close Right"/>
+    <String Name="Rechte Röhre schließen" NameU="Close Right Tube"/>
+    <String Name="Oben schließen" NameU="Close Top"/>
+    <String Name="Betätigung" NameU="Close on Actuation"/>
+    <String Name="Betätigen oder Lösen" NameU="Close on Actuation or Release"/>
+    <String Name="Lösen" NameU="Close on Release"/>
+    <String Name="Geschlossen" NameU="Closed"/>
+    <String Name="Grob" NameU="Coarse"/>
+    <String Name="Koaxial" NameU="Coaxial"/>
+    <String Name="Münzbehälter" NameU="Coin Box"/>
+    <String Name="kollabiert" NameU="Collapsed"/>
+    <String Name="Abgeschiedener Subprozess" NameU="Collapsed Sub-Process"/>
+    <String Name="Farbe 'Quadrat' Schwarz" NameU="Color 'Fabrication' Black"/>
+    <String Name="Farbe 'Dreieck' Schwarz" NameU="Color 'Inspection' Black"/>
+    <String Name="Farbe 'Dreieck' Schwarz" NameU="Color 'Move' Black"/>
+    <String Name="Farbe 'Kreis' Schwarz" NameU="Color 'Store' Black"/>
+    <String Name="Spalte" NameU="Column"/>
+    <String Name="Spaltenummer" NameU="Column Number"/>
+    <String Name="Verbrennung" NameU="Combustion"/>
+    <String Name="Gemeinsamer Punkt" NameU="Common Point"/>
+    <String Name="Kommunikationsservice" NameU="Communication Service"/>
+    <String Name="Kommutierung oder Kompensierung" NameU="Commutating or Compensating"/>
+    <String Name="Ausgleich" NameU="Compensation"/>
+    <String Name="Komplett" NameU="Complete"/>
+    <String Name="Komplette Kategorie" NameU="Complete Category"/>
+    <String Name="Gesamtsymbol" NameU="Complete Symbol"/>
+    <String Name="Abgeschlossen" NameU="Completed"/>
+    <String Name="Komplex" NameU="Complex"/>
+    <String Name="Kompressor" NameU="Compressor"/>
+    <String Name="Kompressor" NameU="Compressor Type"/>
+    <String Name="Konkav" NameU="Concave"/>
+    <String Name="Konkavlinse" NameU="Concave Lens"/>
+    <String Name="Konzentrieren" NameU="Concentrating"/>
+    <String Name="Kegel" NameU="Cone"/>
+    <String Name="2-line Bus Elbow konfigurieren..." NameU="Configure 2-line Bus Elbow..."/>
+    <String Name="2-line Bus konfigurieren..." NameU="Configure 2-line Bus..."/>
+    <String Name="Verstärker konfigurieren..." NameU="Configure Amplifier..."/>
+    <String Name="Glocke konfigurieren..." NameU="Configure Bell..."/>
+    <String Name="Wechsler konfigurieren..." NameU="Configure Changer..."/>
+    <String Name="Chip konfigurieren..." NameU="Configure Chip..."/>
+    <String Name="Gesteuerter Gleichrichter konfigurieren..." NameU="Configure Controlled rectifier..."/>
+    <String Name="Konverter konfigurieren..." NameU="Configure Converter..."/>
+    <String Name="Verzögerungselement konfigurieren..." NameU="Configure Delay Element..."/>
+    <String Name="Diode konfigurieren..." NameU="Configure Diode..."/>
+    <String Name="Fließrichtung konfigurieren..." NameU="Configure Direction of Flow..."/>
+    <String Name="Filter konfigurieren..." NameU="Configure Filter..."/>
+    <String Name="Flipflop konfigurieren..." NameU="Configure Flip-flop..."/>
+    <String Name="Frequenzband konfigurieren..." NameU="Configure Frequency band..."/>
+    <String Name="Frequenzspektrum konfigurieren..." NameU="Configure Frequency spectrum element..."/>
+    <String Name="Funktionsgenerator konfigurieren..." NameU="Configure Function Generator..."/>
+    <String Name="Heizelement konfigurieren..." NameU="Configure Heating Element..."/>
+    <String Name="IGFET N-Typ konfigurieren..." NameU="Configure IGFET N-type..."/>
+    <String Name="IGFET P-Typ konfigurieren..." NameU="Configure IGFET P-type..."/>
+    <String Name="Indikator konfigurieren..." NameU="Configure Indicator..."/>
+    <String Name="Induktivität bzw. Kapazität konfigurieren..." NameU="Configure Inductance Capacitance..."/>
+    <String Name="Induktor konfigurieren..." NameU="Configure Inductor..."/>
+    <String Name="Laser- und Maserstrahlen konfigurieren..." NameU="Configure Laser and Maser..."/>
+    <String Name="Linie/Kabel konfigurieren..." NameU="Configure Line/Cable..."/>
+    <String Name="Logikgatter konfigurieren..." NameU="Configure Logic Gate..."/>
+    <String Name="MOSFET konfigurieren..." NameU="Configure MOSFET..."/>
+    <String Name="Material konfigurieren..." NameU="Configure Material..."/>
+    <String Name="Mikrofon konfigurieren..." NameU="Configure Microphone..."/>
+    <String Name="Netzwerke konfigurieren..." NameU="Configure Networks..."/>
+    <String Name="Ohmsch konfigurieren..." NameU="Configure Ohmic..."/>
+    <String Name="Pulsmodulation konfigurieren..." NameU="Configure Pulse modulation..."/>
+    <String Name="Recorder/Wiedergabegerät konfigurieren..." NameU="Configure Recorder/reproducer..."/>
+    <String Name="Überspannungsschutz konfigurieren..." NameU="Configure Surge Protector..."/>
+    <String Name="Beendigungsets konfigurieren..." NameU="Configure Terminating sets..."/>
+    <String Name="Konjugiert" NameU="Conjugated"/>
+    <String Name="Konjugierte replizierte Klasse" NameU="Conjugated Replicated Class"/>
+    <String Name="Konjugierte replizierte Referenz" NameU="Conjugated Replicated Reference"/>
+    <String Name="Anschlussgröße" NameU="Connection Size"/>
+    <String Name="Kontakttyp" NameU="Contact Type"/>
+    <String Name="Behälter" NameU="Container"/>
+    <String Name="Kontext" NameU="Context"/>
+    <String Name="Kontinuierlich" NameU="Continuous"/>
+    <String Name="Gleitend abgesenkte" NameU="Continuously Adjustable"/>
+    <String Name="Zugriffskontrolle" NameU="Control Access"/>
+    <String Name="Kontrollmethode" NameU="Control Method"/>
+    <String Name="Steuertransformator" NameU="Control transformer"/>
+    <String Name="Destruktor" NameU="Converter Type"/>
+    <String Name="Konvex" NameU="Convex"/>
+    <String Name="Konvexlinse" NameU="Convex Lens"/>
+    <String Name="Förderband" NameU="Conveyor"/>
+    <String Name="Förderband mit Kübel" NameU="Conveyor with Buckets"/>
+    <String Name="Förderband mit Haken" NameU="Conveyor with Hooks"/>
+    <String Name="Kern" NameU="Core"/>
+    <String Name="Ausgeben" NameU="Cost"/>
+    <String Name="Kurbel" NameU="Crank"/>
+    <String Name="Erstellen" NameU="Created"/>
+    <String Name="Kreuz" NameU="Cross"/>
+    <String Name="Backenbrecher" NameU="Crusher Type"/>
+    <String Name="Zeitwert" NameU="Current Value"/>
+    <String Name="Cyan" NameU="Cyan"/>
+    <String Name="D Flipflop" NameU="D Flip-flop"/>
+    <String Name="DC" NameU="DC"/>
+    <String Name="DC-Wandler" NameU="DC Converter"/>
+    <String Name="Daten" NameU="Data"/>
+    <String Name="Datenformat" NameU="Data Format"/>
+    <String Name="Daten Label-Optionen" NameU="Data Label Options"/>
+    <String Name="Daten Etikettenausrichtung" NameU="Data Label Orientation"/>
+    <String Name="Daten Etikettenposition" NameU="Data Label Position"/>
+    <String Name="Präzisionsdaten" NameU="Data Precision"/>
+    <String Name="Datentyp" NameU="Data Type"/>
+    <String Name="Daten" NameU="Date"/>
+    <String Name="Datenformat" NameU="Date Format"/>
+    <String Name="Tag" NameU="Day"/>
+    <String Name="Höhere Frequenzen betonen" NameU="De-emphasize Higher Frequencies"/>
+    <String Name="Entscheidung" NameU="Decision"/>
+    <String Name="Grad" NameU="Deg"/>
+    <String Name="Grad-Minute-Sekunde" NameU="Deg-Min-Sec"/>
+    <String Name="Grad" NameU="Degrees"/>
+    <String Name="Entfeuchter" NameU="Dehydrator"/>
+    <String Name="Verzögerung" NameU="Delay Type"/>
+    <String Name="Verzögern beim Schliessen" NameU="Delayed when Closing"/>
+    <String Name="Verzögern beim Schliessen und Wiedereröffnung " NameU="Delayed when Closing and Re-opening"/>
+    <String Name="Verzögern beim Wiedereröffnung" NameU="Delayed when Re-opening"/>
+    <String Name="1 U löschen" NameU="Delete 1 U"/>
+    <String Name="Button löschen" NameU="Delete Button"/>
+    <String Name="Bord löschen" NameU="Delete a Board"/>
+    <String Name="Box löschen" NameU="Delete a Box"/>
+    <String Name="Kategorie löschen" NameU="Delete a Category"/>
+    <String Name="Stuhl löschen" NameU="Delete a Chair"/>
+    <String Name="Kreis löschen" NameU="Delete a Circle"/>
+    <String Name="Spalte löschen" NameU="Delete a Column"/>
+    <String Name="Ebene löschen" NameU="Delete a Level"/>
+    <String Name="Tortendiagramm löschen" NameU="Delete a Pie"/>
+    <String Name="Punkt löschen" NameU="Delete a Point"/>
+    <String Name="Ring löschen" NameU="Delete a Ring"/>
+    <String Name="Zeile löschen" NameU="Delete a Row"/>
+    <String Name="Abstand löschen" NameU="Delete a Segment"/>
+    <String Name="Schritt löschen" NameU="Delete a Step"/>
+    <String Name="Pfeil löschen" NameU="Delete an Arrow"/>
+    <String Name="Item löschen" NameU="Delete an Item"/>
+    <String Name="Aktuelle Box löschen" NameU="Delete this Box"/>
+    <String Name="Aktueller Kreis löschen" NameU="Delete this Circle"/>
+    <String Name="Aktuelles Item löschen" NameU="Delete this Item"/>
+    <String Name="Aktuelle Ebene löschen" NameU="Delete this Level"/>
+    <String Name="Aktuelle Zeile löschen" NameU="Delete this Row"/>
+    <String Name="Aktueller Abstand löschen" NameU="Delete this Segment"/>
+    <String Name="Aktuelle Schritt löschen" NameU="Delete this Step"/>
+    <String Name="Abteilung" NameU="Department"/>
+    <String Name="Abhängiger Unternehmen" NameU="Dependent Entity"/>
+    <String Name="Erschöpfung" NameU="Depletion"/>
+    <String Name="Abgeleitetes Merkmal" NameU="Derived Attribute"/>
+    <String Name="Beschreibung" NameU="Description"/>
+    <String Name="Gerätetyp" NameU="Device Type"/>
+    <String Name="Zifferblatt" NameU="Dial"/>
+    <String Name="Durchmesser" NameU="Diameter"/>
+    <String Name="Karo" NameU="Diamond"/>
+    <String Name="Karoförmige Zeichen" NameU="Diamond Mark"/>
+    <String Name="Membran 1" NameU="Diaphragm 1"/>
+    <String Name="Membran 2" NameU="Diaphragm 2"/>
+    <String Name="Membran 3" NameU="Diaphragm 3"/>
+    <String Name="Differentiales Receiver" NameU="Differential Receiver"/>
+    <String Name="Differentiales Voltmeter" NameU="Differential Voltmeter"/>
+    <String Name="Differenzieren" NameU="Differentiating"/>
+    <String Name="Digitalanalog" NameU="Digital to Analog"/>
+    <String Name="Richtung" NameU="Direction"/>
+    <String Name="Peilung" NameU="Direction Finding"/>
+    <String Name="Direkt heizen" NameU="Directly Heated"/>
+    <String Name="Deaktivieren" NameU="Disable"/>
+    <String Name="Gelöst" NameU="Disengaged"/>
+    <String Name="Anzeige quer" NameU="Display across line"/>
+    <String Name="Dokument" NameU="Document"/>
+    <String Name="Nicht Einheiten anzeigen" NameU="Don't Show Units"/>
+    <String Name="Punktierte Zeile" NameU="Dotted Line"/>
+    <String Name="Doppelkreise" NameU="Double Circle"/>
+    <String Name="Doppellinien" NameU="Double Line"/>
+    <String Name="Unten" NameU="Down"/>
+    <String Name="Unten" NameU="Down Position"/>
+    <String Name="Richtung abwärts" NameU="Down direction"/>
+    <String Name="Entwurf" NameU="Draft"/>
+    <String Name="Trocken" NameU="Dry"/>
+    <String Name="Doppelkreise" NameU="Dual Circle"/>
+    <String Name="Doppelkaro" NameU="Dual Diamond"/>
+    <String Name="Doppelrechtecke" NameU="Dual Rectangle"/>
+    <String Name="Doppelgreiecke" NameU="Dual Triangle"/>
+    <String Name="Duplex" NameU="Duplex"/>
+    <String Name="Vervielfältigte Entität" NameU="Duplicated Entity"/>
+    <String Name="Dauer" NameU="Duration"/>
+    <String Name="Vorzeitig abschließen" NameU="Early to Close"/>
+    <String Name="Referenz bearbeiten" NameU="Edit Reference"/>
+    <String Name="Elektret" NameU="Electret"/>
+    <String Name="Elektrolytisch" NameU="Electrolytic"/>
+    <String Name="Elementtyp" NameU="Element Type"/>
+    <String Name="Ellipse" NameU="Ellipse"/>
+    <String Name="E-Mail" NameU="Email"/>
+    <String Name="Notschalter" NameU="Emergency switch"/>
+    <String Name="Hintergrund löschen" NameU="Enable"/>
+    <String Name="Enddatum" NameU="End Date"/>
+    <String Name="Nur Ende" NameU="End Only"/>
+    <String Name="Endstation" NameU="End Station"/>
+    <String Name="Engagiert" NameU="Engaged"/>
+    <String Name="Verbesserung" NameU="Enhancement"/>
+    <String Name="Umschlagen" NameU="Envelop"/>
+    <String Name="Umschlagen" NameU="Envelope"/>
+    <String Name="Löschen" NameU="Erasing"/>
+    <String Name="Frequenzband" NameU="Erect Band of Frequencies"/>
+    <String Name="Fehler" NameU="Error"/>
+    <String Name="Ausgezeichnet" NameU="Excellent"/>
+    <String Name="Seite umtauschen" NameU="Exchange Side"/>
+    <String Name="Exclusion" NameU="Exclusion"/>
+    <String Name="Exklusive Veranstaltung" NameU="Exclusive Data"/>
+    <String Name="Exklusive Daten mit Marker" NameU="Exclusive Data with Marker"/>
+    <String Name="Exklusive Veranstaltung" NameU="Exclusive Event"/>
+    <String Name="Expander" NameU="Expander"/>
+    <String Name="Erweitern" NameU="Expanding"/>
+    <String Name="Erweiterung" NameU="Extension"/>
+    <String Name="Erweiterungslinien" NameU="Extension Lines"/>
+    <String Name="Äußere" NameU="External"/>
+    <String Name="Außenanbindung" NameU="External Connection"/>
+    <String Name="Extra klein" NameU="Extra Small"/>
+    <String Name="Dunstabzugshaube" NameU="Extractor Hood Type"/>
+    <String Name="Falsch" NameU="FALSE"/>
+    <String Name="Fax" NameU="Facsimile"/>
+    <String Name="Falsch" NameU="False"/>
+    <String Name="Gebläse" NameU="Fan Type"/>
+    <String Name="Schneller Rücklauf" NameU="Fast Backward"/>
+    <String Name="Schneller Vorlauf" NameU="Fast Forward"/>
+    <String Name="Unten" NameU="Feet"/>
+    <String Name="Buchsen" NameU="Female Connectors"/>
+    <String Name="Federkontakt" NameU="Female Contact"/>
+    <String Name="Fein" NameU="Fine"/>
+    <String Name="Feuer" NameU="Fire"/>
+    <String Name="Erste Ableitung" NameU="First Derivative"/>
+    <String Name="Befestigt" NameU="Fixed"/>
+    <String Name="Glattes Feuer" NameU="Flat Fire"/>
+    <String Name="Flipflop" NameU="Flip-flop Type"/>
+    <String Name="Schwimmerbetätigung " NameU="Float-operated"/>
+    <String Name="Schwimmkopf" NameU="Floating Head"/>
+    <String Name="Flüssigkeitsabscheider" NameU="Fluid Separator Type"/>
+    <String Name="Fluidisiert" NameU="Fluidized"/>
+    <String Name="Vier Blätter" NameU="Four Blades"/>
+    <String Name="Frequenzband" NameU="Frequency Band"/>
+    <String Name="Frequenzumformer" NameU="Frequency Changer"/>
+    <String Name="Frequenzmesser" NameU="Frequency Meter"/>
+    <String Name="von 10% nach 100%" NameU="From 10% to 100%"/>
+    <String Name="Galvanometer" NameU="Galvanometer"/>
+    <String Name="Abstand" NameU="Gap Distance"/>
+    <String Name="Spaltgröße" NameU="Gap Size"/>
+    <String Name="Gas" NameU="Gas"/>
+    <String Name="Gasturbine" NameU="Gas Turbine"/>
+    <String Name="Gatter" NameU="Gate"/>
+    <String Name="Gate" NameU="Gate Type"/>
+    <String Name="Normal" NameU="General"/>
+    <String Name="Allgemeine Sicherungsbruch" NameU="General Fuse"/>
+    <String Name="Allgemeine Geschwindigkeit" NameU="General Speed"/>
+    <String Name="Generator" NameU="Generator"/>
+    <String Name="gut" NameU="Good"/>
+    <String Name="Gute Qualität" NameU="Good Quality"/>
+    <String Name="Schwerkraft" NameU="Gravitation"/>
+    <String Name="Grau" NameU="Gray"/>
+    <String Name="Grün" NameU="Green"/>
+    <String Name="Erde" NameU="Ground"/>
+    <String Name="Erde" NameU="Grounded"/>
+    <String Name="Gruppe von Kanälen" NameU="Group of Erect Channels"/>
+    <String Name="Hammer" NameU="Hammer"/>
+    <String Name="Handgenerator" NameU="Hand Generator"/>
+    <String Name="Handbetätigt" NameU="Hand-operated"/>
+    <String Name="Handrad" NameU="Handwheel"/>
+    <String Name="Zentrum verstecken" NameU="Hdie Center"/>
+    <String Name="Wärmetauscher" NameU="Heat Exchanger Type"/>
+    <String Name="Wärmequelle" NameU="Heat Source Type"/>
+    <String Name="Heizelement" NameU="Heating Element"/>
+    <String Name="Höhe" NameU="Height"/>
+    <String Name="Pfeil verstecken" NameU="Hide Arrow"/>
+    <String Name="Achse verstecken" NameU="Hide Axis"/>
+    <String Name="Achsenbeschriftungen verstecken" NameU="Hide Axis Labels"/>
+    <String Name="Grenze verstecken" NameU="Hide Border"/>
+    <String Name="Unten verstecken" NameU="Hide Bottom"/>
+    <String Name="Fazit verstecken" NameU="Hide Bottom Line"/>
+    <String Name="Button verstecken" NameU="Hide Button"/>
+    <String Name="Mitte verstecken" NameU="Hide Center"/>
+    <String Name="Inneren Kreis verstecken" NameU="Hide Center Circle"/>
+    <String Name="Innere Form verstecken" NameU="Hide Center Shape"/>
+    <String Name="Kreis verstecken" NameU="Hide Circle"/>
+    <String Name="Verbinderlinie verstecken" NameU="Hide Connect Line"/>
+    <String Name="Kreuz verstecken" NameU="Hide Cross"/>
+    <String Name="Fadenkreuz verstecken" NameU="Hide Cross Line"/>
+    <String Name="Datenetiketten verstecken" NameU="Hide Data Labels"/>
+    <String Name="Löschen verstecken" NameU="Hide Delete"/>
+    <String Name="Punkt verstecken" NameU="Hide Dot"/>
+    <String Name="Endzwick verstecken" NameU="Hide End Tick"/>
+    <String Name="Umschlagen verstecken" NameU="Hide Envelop"/>
+    <String Name="Ausgangsbereit verstecken" NameU="Hide Exit Width"/>
+    <String Name="Erste Textfeld des Titels verstecken" NameU="Hide First Block of Title"/>
+    <String Name="Granule verstecken" NameU="Hide Granule"/>
+    <String Name="Gitter verstecken" NameU="Hide Grid"/>
+    <String Name="Furche verstecken" NameU="Hide Groove"/>
+    <String Name="Horizontale Gitter verstecken" NameU="Hide Horizontal Grid"/>
+    <String Name="Bild ausblenden" NameU="Hide Image"/>
+    <String Name="Kreuzung verstecken" NameU="Hide Junction"/>
+    <String Name="Linke Box verstecken" NameU="Hide Left Box"/>
+    <String Name="Linkes Text verstecken" NameU="Hide Left Text"/>
+    <String Name="Länge verstecken" NameU="Hide Legend"/>
+    <String Name="Linie verstecken" NameU="Hide Line"/>
+    <String Name="Flüssigkeit verstecken" NameU="Hide Liquid"/>
+    <String Name="Mittelkreis verstecken" NameU="Hide Middle Circle"/>
+    <String Name="Neutrale verstecken" NameU="Hide Neutral"/>
+    <String Name="Betreiber verstecken" NameU="Hide Operator"/>
+    <String Name="Etiketten von Prozent verstecken" NameU="Hide Percentage Labels"/>
+    <String Name="Foto verstecken" NameU="Hide Photo"/>
+    <String Name="Polaritätssymbole verstecken" NameU="Hide Polarity Symbols"/>
+    <String Name="Reflektor verstecken" NameU="Hide Reflector"/>
+    <String Name="Aktualisierungsschaltfläche verstecken" NameU="Hide Refresh Button"/>
+    <String Name="Rechter Teil verstecken" NameU="Hide Right Text"/>
+    <String Name="Herrscher verstecken" NameU="Hide Ruler"/>
+    <String Name="SWOT verstecken" NameU="Hide SWOT"/>
+    <String Name="Skalenstrich verstecken" NameU="Hide Scale Mark"/>
+    <String Name="Naht verstecken" NameU="Hide Seam"/>
+    <String Name="Feststoff verstecken" NameU="Hide Solid Matter"/>
+    <String Name="Treppe-Taumeln verstecken" NameU="Hide Stair Stagger"/>
+    <String Name="Tisch verstecken" NameU="Hide Table"/>
+    <String Name="Tümpelschnauze verstecken" NameU="Hide Tank Lip"/>
+    <String Name="Text verstecken" NameU="Hide Text"/>
+    <String Name="Textblock verstecken" NameU="Hide Text Block"/>
+    <String Name="Zecke verstecken" NameU="Hide Tick"/>
+    <String Name="Titel verstecken" NameU="Hide Title"/>
+    <String Name="Titelleiste verstecken" NameU="Hide Title Bar"/>
+    <String Name="Vertikale Gitter verstecken" NameU="Hide Vertical Grid"/>
+    <String Name="Quer ausblenden" NameU="Hide across line"/>
+    <String Name="Achse verstecken/anzeigen" NameU="Hide/Show Axis"/>
+    <String Name="Gitter verstecken/anzeigen" NameU="Hide/Show Grid"/>
+    <String Name="Höhe" NameU="High"/>
+    <String Name="Großer Gewinn" NameU="High Gain"/>
+    <String Name="Hohe Geschwindigkeit" NameU="High Speed"/>
+    <String Name="Hochpassfilter" NameU="High-pass Filter"/>
+    <String Name="Schnelllauf- Rolltore" NameU="High-speed Roller"/>
+    <String Name="Highlight" NameU="Highlight"/>
+    <String Name="Hebezeug" NameU="Hoist"/>
+    <String Name="Hubwerk" NameU="Hoist Type"/>
+    <String Name="Hebezeug mit Greifer" NameU="Hoist with Grab"/>
+    <String Name="Hebezeug mit Haken" NameU="Hoist with Hook"/>
+    <String Name="Hohlraum" NameU="Hollow"/>
+    <String Name="Hohles Band" NameU="Hollow Band"/>
+    <String Name="Hohle Marke" NameU="Hollow Brand"/>
+    <String Name="Hohler Kreis" NameU="Hollow Circle"/>
+    <String Name="Hohle Diamant" NameU="Hollow Diamond"/>
+    <String Name="Hohles Rechteck" NameU="Hollow Rectangle"/>
+    <String Name="Hohle Dreiecke" NameU="Hollow Triangle"/>
+    <String Name="Horizontal" NameU="Horizontal"/>
+    <String Name="Horizontale Klingen" NameU="Horizontal Blades"/>
+    <String Name="Hörnerfunkenstrecke" NameU="Horn Gap"/>
+    <String Name="Hybride Transformator" NameU="Hybrid Transformer"/>
+    <String Name="ID" NameU="ID"/>
+    <String Name="Ikone" NameU="Icon"/>
+    <String Name="Wenn Maximalwert -1 ist, wird es tritt der großer zwischen Wert 1 und Wert 2" NameU="If Max Value is -1, it will takes the large one of Value 1 and Value 2."/>
+    <String Name="Einfluss" NameU="Impact"/>
+    <String Name="Durchführung" NameU="Implementational"/>
+    <String Name="Importiert" NameU="Imported"/>
+    <String Name="Importiert und substituierbar" NameU="Imported and Substitutable"/>
+    <String Name="Im Gange" NameU="In Progress"/>
+    <String Name="Im Dienst" NameU="In Service"/>
+    <String Name="Auf dem Gebiet" NameU="In the Field"/>
+    <String Name="Zoll" NameU="Inches"/>
+    <String Name="Inklusive" NameU="Inclusive"/>
+    <String Name="Hereinkommend" NameU="Incoming"/>
+    <String Name="Unabhängige Instanz" NameU="Independent Entity"/>
+    <String Name="Indikator" NameU="Indicator"/>
+    <String Name="Indirekt beheizen" NameU="Indirectly Heated"/>
+    <String Name="Träge" NameU="Inertial"/>
+    <String Name="Unendliche Reaktanz" NameU="Infinite Reactance"/>
+    <String Name="Unendliche Reaktanz - 0 Suszeptanz" NameU="Infinite Reactance - Zero susceptance"/>
+    <String Name="Initial" NameU="Initial"/>
+    <String Name="Innere Pfeil" NameU="Inner Arrow"/>
+    <String Name="Eingeben" NameU="Input"/>
+    <String Name="Geben Sie Nummer zwischen 0 und 360 an" NameU="Input the number between 0 to 360"/>
+    <String Name="Eingeben" NameU="Input(s)"/>
+    <String Name="Box hinzufügen" NameU="Insert a Box"/>
+    <String Name="Kreis hinzufügen" NameU="Insert a Circle"/>
+    <String Name="Ebene hinzufügen" NameU="Insert a Level"/>
+    <String Name="Zeile hinzufügen" NameU="Insert a Row"/>
+    <String Name="Anstand hinzufügen" NameU="Insert a Segment"/>
+    <String Name="Schritt hinzufügen" NameU="Insert a Step"/>
+    <String Name="Item hinzufügen" NameU="Insert an Item"/>
+    <String Name="Datenetiketten hinzufügen" NameU="Inside Data Labels"/>
+    <String Name="Text hinzufügen" NameU="Inside Text"/>
+    <String Name="Exklusive Veranstaltung" NameU="Instantiate Exclusive Event"/>
+    <String Name="Instant Parallel Event" NameU="Instantiate Parallel Event"/>
+    <String Name="Isoliertes Heizelement" NameU="Insulated Heating Element"/>
+    <String Name="Isolierend" NameU="Insulating"/>
+    <String Name="Integer" NameU="Integer"/>
+    <String Name="Eingliederung" NameU="Integrating"/>
+    <String Name="Verbunden" NameU="Interconnected"/>
+    <String Name="Intern" NameU="Internal"/>
+    <String Name="Interne Verbindung" NameU="Internal Connection"/>
+    <String Name="Abstand" NameU="Interval"/>
+    <String Name="Pfeiltasten drehen" NameU="Invert Arrow"/>
+    <String Name="Dreieck drehen" NameU="Invert Triangle"/>
+    <String Name="Frequenzbereich drehen" NameU="Inverted Band of Frequencies"/>
+    <String Name="Wechselrichter" NameU="Inverter"/>
+    <String Name="Unsichtbar" NameU="Invisible"/>
+    <String Name="Nach innen" NameU="Inward"/>
+    <String Name="Teilenummer" NameU="Item Number"/>
+    <String Name="JK Flipflop" NameU="JK Flip-flop"/>
+    <String Name="Steckdose" NameU="Jack"/>
+    <String Name="Stecker" NameU="Jaw"/>
+    <String Name="Düse" NameU="Jet"/>
+    <String Name="Jumbo" NameU="Jumbo"/>
+    <String Name="Bildverhältnis bleiben" NameU="Keep Image Ratio"/>
+    <String Name="Fotoverhältnis bleiben" NameU="Keep Photo Ratio"/>
+    <String Name="Schlüssel" NameU="Key"/>
+    <String Name="Schlüsselattribut" NameU="Key Attribute"/>
+    <String Name="Tastatur" NameU="Keyboard"/>
+    <String Name="Kilometer" NameU="Kilometers"/>
+    <String Name="Knetmaschine" NameU="Kneader Type"/>
+    <String Name="Label" NameU="Label"/>
+    <String Name="Größe" NameU="Large"/>
+    <String Name="Großformat / Umwandlung" NameU="Large Scale / Converting"/>
+    <String Name="Großformat / Normal" NameU="Large Scale / General"/>
+    <String Name="Lasergenerator " NameU="Laser Generator"/>
+    <String Name="Laser, General" NameU="Laser, General"/>
+    <String Name="Flipflop verriegeln" NameU="Latch Flip-flop"/>
+    <String Name="Später schließen" NameU="Late to Close"/>
+    <String Name="Link" NameU="Left"/>
+    <String Name="Linke Ikone" NameU="Left Icon Type"/>
+    <String Name="Linke Seite" NameU="Left Side"/>
+    <String Name="Linke Richtung" NameU="Left direction"/>
+    <String Name="Linken Gehirnhälfte Wert" NameU="Left hemisphere value."/>
+    <String Name="Stufennummer" NameU="Level Number"/>
+    <String Name="Lichtempfindlich" NameU="Light Sensitive"/>
+    <String Name="Leitungsgröße" NameU="Line Size"/>
+    <String Name="Lineale Anzeige" NameU="Line-type Display"/>
+    <String Name="Link" NameU="Link"/>
+    <String Name="Flüssigkeit" NameU="Liquid"/>
+    <String Name="Daten von datei laden" NameU="Load Data from File"/>
+    <String Name="Laden" NameU="Loaded"/>
+    <String Name="Schloss" NameU="Lock"/>
+    <String Name="logarithmisch" NameU="Logarithmic"/>
+    <String Name="Logisch" NameU="Logical"/>
+    <String Name="Schleife - Standard" NameU="Loop - None"/>
+    <String Name="Schleife - Parallele Multi-Instanz" NameU="Loop - Parallel Multi-Instance"/>
+    <String Name="Schleife - Sequential Multi - Instance" NameU="Loop - Sequential Multi-Instance"/>
+    <String Name="Schleife - Standard" NameU="Loop - Standard"/>
+    <String Name="Niedrig" NameU="Low"/>
+    <String Name="Tiefpassfilter" NameU="Low-pass Filter"/>
+    <String Name="M/d/yyyy" NameU="M/d/yyyy"/>
+    <String Name="M/d/yyyy h:mm AM/PM" NameU="M/d/yyyy h:mm AM/PM"/>
+    <String Name="MMM d,yyyy" NameU="MMM d,yyyy"/>
+    <String Name="Maschine" NameU="Machine Type"/>
+    <String Name="Magnetismus" NameU="Magnetic"/>
+    <String Name="Bandabstand Magnetkreis" NameU="Magnetic with Gap"/>
+    <String Name="Magnetische Kerne" NameU="Magnetic-core"/>
+    <String Name="Polarisieren" NameU="Magnetically Polarized"/>
+    <String Name="Magnetostriktiv" NameU="Magnetostrictive"/>
+    <String Name="Kontakt herstellen" NameU="Make Contact"/>
+    <String Name="Steckverbinder" NameU="Male Connectors"/>
+    <String Name="Male Contact" NameU="Male Contact"/>
+    <String Name="Mann" NameU="Man"/>
+    <String Name="Hersteller" NameU="Manufacturer"/>
+    <String Name="Viel zu vielen" NameU="Many-to-Many"/>
+    <String Name="Markergröße" NameU="Marker Size"/>
+    <String Name="Markerstil" NameU="Marker Style"/>
+    <String Name="Mikrowellen Verstärker" NameU="Maser Amplifier"/>
+    <String Name="Mikrowellen, Normal" NameU="Maser, General"/>
+    <String Name="Mastergruppe" NameU="Mastergroup"/>
+    <String Name="Material" NameU="Material"/>
+    <String Name="Maximalmaßstab" NameU="Max Scale"/>
+    <String Name="Maximalwerte" NameU="Max Value"/>
+    <String Name="Maximalwerte der allen Blasen" NameU="Max data value of all the bubbles"/>
+    <String Name="Maximale Nachfrage Indikator" NameU="Max.Demand Indicator"/>
+    <String Name="Mechanisch" NameU="Mechanically"/>
+    <String Name="Medium" NameU="Medium"/>
+    <String Name="Quecksilber" NameU="Mercury"/>
+    <String Name="Meldung" NameU="Message"/>
+    <String Name="Meter" NameU="Meters"/>
+    <String Name="Mikrofon" NameU="Microphone Type"/>
+    <String Name="Mitte" NameU="Middle"/>
+    <String Name="Mittelpunkt" NameU="Midpoint"/>
+    <String Name="Miles" NameU="Miles"/>
+    <String Name="Mühle" NameU="Mill Type"/>
+    <String Name="Millimeters" NameU="Millimeters"/>
+    <String Name="Minimalmaßstab" NameU="Min Scale"/>
+    <String Name="Minimalwerte" NameU="Min Value"/>
+    <String Name="Minimalwerte der allen Blasen" NameU="Min data value of all the bubbles."/>
+    <String Name="Mischer" NameU="Mixer Type"/>
+    <String Name="Modell" NameU="Model"/>
+    <String Name="Monat" NameU="Month"/>
+    <String Name="Motor" NameU="Motor"/>
+    <String Name="Motor-Generator" NameU="Motor Generator"/>
+    <String Name="Zurückversetzen" NameU="Move Down"/>
+    <String Name="Nach links" NameU="Move Left"/>
+    <String Name="Nach rechts" NameU="Move Right"/>
+    <String Name="Verschieben Text nach anderen Bend" NameU="Move Text to Other Bend"/>
+    <String Name="Aufsteigen" NameU="Move Up"/>
+    <String Name="Bewegung nach links verstopft" NameU="Movement Left Blocked"/>
+    <String Name="Bewegung nach rechts verstopft" NameU="Movement Right Blocked"/>
+    <String Name="Sprossenummer" NameU="Mullion Number"/>
+    <String Name="Multilücke" NameU="Multigap"/>
+    <String Name="Mehrfach" NameU="Multiple"/>
+    <String Name="Mehrere Zeilen" NameU="Multiple Lines"/>
+    <String Name="Mehrwertige Eigenschaften" NameU="Multivalued Attribute"/>
+    <String Name="Pilzkopf" NameU="Mushroom Head"/>
+    <String Name="Pilztyp" NameU="Mushroom Type"/>
+    <String Name="Transformator" NameU="Mutual inductor"/>
+    <String Name="N-Typ" NameU="N-Type"/>
+    <String Name="N-Typ" NameU="N-type"/>
+    <String Name="NAND" NameU="NAND"/>
+    <String Name="NOR" NameU="NOR"/>
+    <String Name="NPIN" NameU="NPIN"/>
+    <String Name="NPIP" NameU="NPIP"/>
+    <String Name="Name" NameU="Name"/>
+    <String Name="Weder" NameU="Neither"/>
+    <String Name="Nullleiter anzeigen" NameU="Neutral brought out"/>
+    <String Name="Nullleiter direct-current (einzelne Strömung) +/o" NameU="Neutral direct-current (single current) +/o"/>
+    <String Name="Nullleiter direct-current (einzelne Strömung) -/o" NameU="Neutral direct-current (single current) -/o"/>
+    <String Name="Nächsten Monat" NameU="Next Month"/>
+    <String Name="Nächste Woche" NameU="Next Week"/>
+    <String Name="Nächstes Jahr" NameU="Next Year"/>
+    <String Name="Nein" NameU="Nice"/>
+    <String Name="Nein" NameU="No"/>
+    <String Name="Kein Pfeil" NameU="No Arrow"/>
+    <String Name="Kein Schwarz" NameU="No Black"/>
+    <String Name="Kein Button" NameU="No Button"/>
+    <String Name="Keine Markierung" NameU="No Maker"/>
+    <String Name="Anzahl der Pins auf Basis" NameU="No. of Base Pins"/>
+    <String Name="Anzahl der Gate" NameU="No. of Gates"/>
+    <String Name="Anzahl der Inputs" NameU="No. of Inputs"/>
+    <String Name="Anzahl der Outputs" NameU="No. of Outputs"/>
+    <String Name="Anzahl der obener Pins" NameU="No. of Top Pins"/>
+    <String Name="Anzahl der Inputs" NameU="No.of Inputs"/>
+    <String Name="Anzahl der Outputs" NameU="No.of Outputs"/>
+    <String Name="Knoten" NameU="Node"/>
+    <String Name="Unveränderbare" NameU="Non-Extending"/>
+    <String Name="Unisolierte Heizelement" NameU="Non-insulated Heating Element"/>
+    <String Name="Nichts" NameU="None"/>
+    <String Name="Normal" NameU="Normal"/>
+    <String Name="Normaler Zugang" NameU="Normal Access"/>
+    <String Name="Nicht in Verbund" NameU="Not Interconnected"/>
+    <String Name="Anzahl" NameU="Number"/>
+    <String Name="Anzahl der Kreise" NameU="Number of Circles"/>
+    <String Name="Anzahl der Linien" NameU="Number of Lines"/>
+    <String Name="Anzahl der Eingänge" NameU="Number of inputs"/>
+    <String Name="Anzahl der Pins oben" NameU="Number of pins on top"/>
+    <String Name="Anzahl der Eckpunkte" NameU="Number of vertices"/>
+    <String Name="Oder" NameU="OR"/>
+    <String Name="Über das zentrale Bedienteil" NameU="On Central Control Panel"/>
+    <String Name="Auf dem lokalen Kontrollpanel" NameU="On Local Control Panel"/>
+    <String Name="Ein Kreis" NameU="One Circle"/>
+    <String Name="Eine Linie" NameU="One Line"/>
+    <String Name="Eine Wicklung" NameU="One Winding"/>
+    <String Name="Eins zu vielen" NameU="One-to-Many"/>
+    <String Name="Einseitiges Simplex" NameU="One-way Simplex"/>
+    <String Name="Öffnen" NameU="Open"/>
+    <String Name="Pfeilende öffnen" NameU="Open Arrow End"/>
+    <String Name="Unten öffnen" NameU="Open Bottom"/>
+    <String Name="Kreislauf öffnen" NameU="Open Circuit"/>
+    <String Name="Ende öffnen" NameU="Open End"/>
+    <String Name="Links öffnen" NameU="Open Left"/>
+    <String Name="Rechts öffnen" NameU="Open Right"/>
+    <String Name="Rechten Röhre öffnen" NameU="Open Right Tube"/>
+    <String Name="Oben öffnen" NameU="Open Top"/>
+    <String Name="Operativ" NameU="Operational"/>
+    <String Name="Optional" NameU="Optional"/>
+    <String Name="Optional und substituierbar" NameU="Optional and Substitutable"/>
+    <String Name="Orange" NameU="Orange"/>
+    <String Name="Oszilloskop" NameU="Oscilloscope"/>
+    <String Name="Äußerer Pfeil" NameU="Outer Arrow"/>
+    <String Name="Abgehend" NameU="Outgoing"/>
+    <String Name="Output" NameU="Output"/>
+    <String Name="Nummer der Ausgabe" NameU="Output number"/>
+    <String Name="Outputs" NameU="Output(s)"/>
+    <String Name="Außerhalb Datenetiketten" NameU="Outside Data Labels"/>
+    <String Name="Außerhalb Text" NameU="Outside Text"/>
+    <String Name="Nach außen" NameU="Outward"/>
+    <String Name="Overhead" NameU="Overhead"/>
+    <String Name="Hängefördersysteme" NameU="Overhead Conveyor Type"/>
+    <String Name="Überblick" NameU="Overview"/>
+    <String Name="P-Typ-Gate" NameU="P Type-Gate"/>
+    <String Name="P-Typ" NameU="P-Type"/>
+    <String Name="P-Typ" NameU="P-type"/>
+    <String Name="PNIN" NameU="PNIN"/>
+    <String Name="PNIP" NameU="PNIP"/>
+    <String Name="Seite drucken" NameU="Page Printing"/>
+    <String Name="Einheit" NameU="Page's Unit"/>
+    <String Name="Parallel" NameU="Parallel"/>
+    <String Name="Passiv" NameU="Passive"/>
+    <String Name="Pause" NameU="Pause"/>
+    <String Name="Prozent" NameU="Percentage"/>
+    <String Name="Permanent" NameU="Permanent"/>
+    <String Name="Phasen-Zähler" NameU="Phase Meter"/>
+    <String Name="Telefon" NameU="Phone"/>
+    <String Name="Pilotfrequenz" NameU="Pilot Frequency"/>
+    <String Name="Geplant" NameU="Planned"/>
+    <String Name="Stecker" NameU="Plug"/>
+    <String Name="Punktenummer" NameU="Point Number"/>
+    <String Name="Polar Gleichstrom (Doppelstrom)" NameU="Polar direct-current (double current)"/>
+    <String Name="arm" NameU="Poor"/>
+    <String Name="Schlechte Qualität" NameU="Poor Quality"/>
+    <String Name="Position" NameU="Position"/>
+    <String Name="Potentiometer" NameU="Potentiometer"/>
+    <String Name="Leistungsfaktormesser" NameU="Power-factor Meter"/>
+    <String Name="Höhere Frequenzen vorab betonen" NameU="Pre-emphasize Higher Frequencies"/>
+    <String Name="Potentiometer voreingestellten" NameU="Pre-set Potentiometer"/>
+    <String Name="Widerstand voreingestellten" NameU="Pre-set Resistor"/>
+    <String Name="Präzision" NameU="Precision"/>
+    <String Name="Präzision &amp; Einheit" NameU="Precision &amp; Units"/>
+    <String Name="Präzision Einheit" NameU="Precision Units..."/>
+    <String Name="Prefix Einheit" NameU="Prefix Unit"/>
+    <String Name="Letzter Monat" NameU="Prev Month"/>
+    <String Name="Letzte Woche" NameU="Prev Week"/>
+    <String Name="Letztes Jahr" NameU="Prev Year"/>
+    <String Name="Preis" NameU="Price"/>
+    <String Name="Zugmaschine" NameU="Prime Mover Type"/>
+    <String Name="Prozess" NameU="Process"/>
+    <String Name="Prozess ID" NameU="Process ID"/>
+    <String Name="Prozess Name" NameU="Process Name"/>
+    <String Name="Fortschritt" NameU="Progress"/>
+    <String Name="Geschützter Abstand" NameU="Protective Gap"/>
+    <String Name="Nahbesprechungseffekt" NameU="Proximity Effect"/>
+    <String Name="Zugschalter 1" NameU="Pull-switch 1"/>
+    <String Name="Zugschalter 2" NameU="Pull-switch 2"/>
+    <String Name="Ziehen" NameU="Pulling"/>
+    <String Name="Pulsumrichter" NameU="Pulse Inverter"/>
+    <String Name="Pulsamplitudenmodulation" NameU="Pulse-amplitude Modulation"/>
+    <String Name="Puls-Dauer-Modulation" NameU="Pulse-duration Modulation"/>
+    <String Name="Impulsfrequenzmodulation" NameU="Pulse-frequency Modulation"/>
+    <String Name="Pulsintervallmodulation" NameU="Pulse-interval Modulation"/>
+    <String Name="Pulsphasenmodulation" NameU="Pulse-phase Modulation"/>
+    <String Name="Pumpe" NameU="Pump Type"/>
+    <String Name="Ziehen-Schieben Kopf" NameU="Push-Pull Head"/>
+    <String Name="Drucktaste 1" NameU="Push-button 1"/>
+    <String Name="Drucktaste 2" NameU="Push-button 2"/>
+    <String Name="Ziehen-Schieben" NameU="Push-pull"/>
+    <String Name="Ziehen/Schieben" NameU="Push/pull"/>
+    <String Name="Drucktaste" NameU="Pushbutton"/>
+    <String Name="Schieben" NameU="Pushing"/>
+    <String Name="Kennzeichner" NameU="Qualifier"/>
+    <String Name="Kennzeichner" NameU="Qualifier Type"/>
+    <String Name="Qualität" NameU="Quality"/>
+    <String Name="Quartal" NameU="Quarter"/>
+    <String Name="Frage 1" NameU="Question 1"/>
+    <String Name="Frage 2" NameU="Question 2"/>
+    <String Name="Frage 3" NameU="Question 3"/>
+    <String Name="RS Flopflop" NameU="RS Flop-flop"/>
+    <String Name="Radial" NameU="Radia"/>
+    <String Name="Radial" NameU="Radial"/>
+    <String Name="Bogengrad" NameU="Radians"/>
+    <String Name="Funkfeuer" NameU="Radio Beacon"/>
+    <String Name="Optionsschaltfläche" NameU="Radio Button"/>
+    <String Name="Radioisotop" NameU="Radioisotope"/>
+    <String Name="Radius * 0.25" NameU="Radius * 0.25"/>
+    <String Name="Radius * 0.5" NameU="Radius * 0.5"/>
+    <String Name="Radius * 0.75" NameU="Radius * 0.75"/>
+    <String Name="Radius * 1" NameU="Radius * 1"/>
+    <String Name="Radius * 2" NameU="Radius * 2"/>
+    <String Name="Radius * 3" NameU="Radius * 3"/>
+    <String Name="Radius * 4" NameU="Radius * 4"/>
+    <String Name="Radius * 5" NameU="Radius * 5"/>
+    <String Name="Radius * 6" NameU="Radius * 6"/>
+    <String Name="Radius * 7" NameU="Radius * 7"/>
+    <String Name="Radius * 8" NameU="Radius * 8"/>
+    <String Name="Rampe" NameU="Ramp"/>
+    <String Name="Reihe 1" NameU="Range 1"/>
+    <String Name="Reihe 2" NameU="Range 2"/>
+    <String Name="Reihe 3" NameU="Range 3"/>
+    <String Name="Reihe 4" NameU="Range 4"/>
+    <String Name="Reihennummer" NameU="Range Number"/>
+    <String Name="Blindstrom-Amperemeter" NameU="Reactive Current Ammeter"/>
+    <String Name="Lesen" NameU="Reading"/>
+    <String Name="Echte" NameU="Real"/>
+    <String Name="Receiver" NameU="Receiver"/>
+    <String Name="Rezeption" NameU="Reception"/>
+    <String Name="Hin- und hergehend" NameU="Reciprocating"/>
+    <String Name="Kolbenmotor" NameU="Reciprocating Engine"/>
+    <String Name="Recorder/Wiedergabegerät" NameU="Recorder/Reproducer"/>
+    <String Name="Rechteckiges Mark" NameU="Rect Mark"/>
+    <String Name="Rechteck" NameU="Rectangle"/>
+    <String Name="Gleichrichter" NameU="Rectifier"/>
+    <String Name="Gleichrichter/Wechselrichter" NameU="Rectifier/Inverter"/>
+    <String Name="Rot" NameU="Red"/>
+    <String Name="Reduzierte-Trägerfrequenz" NameU="Reduced-carrier Frequency"/>
+    <String Name="Referenz" NameU="Reference"/>
+    <String Name="Referenz Port" NameU="Reference Port"/>
+    <String Name="Referenztyp" NameU="Reference Type"/>
+    <String Name="Beziehung" NameU="RelationShip"/>
+    <String Name="Relaisausgang" NameU="Relay Port"/>
+    <String Name="Relais" NameU="Relay Type"/>
+    <String Name="Handgriff entfernen" NameU="Remote Handle"/>
+    <String Name="Mikrofon entfernen" NameU="Remove Microphone"/>
+    <String Name="Segment entfernen" NameU="Remove Segment"/>
+    <String Name="Relaisstation" NameU="Repeater Station"/>
+    <String Name="Repeater Typ" NameU="Repeater Type"/>
+    <String Name="Bild ersetzen" NameU="Replace Image"/>
+    <String Name="Zeichen ersetzen" NameU="Replace Logo"/>
+    <String Name="Foto ersetzen" NameU="Replace Photo"/>
+    <String Name="Repliziert" NameU="Replicated"/>
+    <String Name="Replizierte Klasse" NameU="Replicated Class"/>
+    <String Name="Replizierte Referenz" NameU="Replicated Reference"/>
+    <String Name="Repliziert und importiert" NameU="Replicated and Imported"/>
+    <String Name="Repliziert und Optional" NameU="Replicated and Optional"/>
+    <String Name="Repliziert und substituierbar" NameU="Replicated and Substitutable"/>
+    <String Name="Wiedergabegerät" NameU="Reproducer"/>
+    <String Name="Text automatisch zurücksetzen..." NameU="Reset Auto Text..."/>
+    <String Name="Größe zurücksetzen" NameU="Reset Size"/>
+    <String Name="Text zurücksetzen" NameU="Reset Text"/>
+    <String Name="Textposition zurücksetzen" NameU="Reset Text Position"/>
+    <String Name="Koordinatenwandler" NameU="Resolver"/>
+    <String Name="Ressourcen" NameU="Resources"/>
+    <String Name="Eingeschränkter Zugang" NameU="Restricted Access"/>
+    <String Name="Umgekehrte Sperrung" NameU="Reverse Blocking"/>
+    <String Name="Umgekehrte Ausführung" NameU="Reverse Conducting"/>
+    <String Name="Umgekehrte Rotation" NameU="Reverse rotation"/>
+    <String Name="Recht" NameU="Right"/>
+    <String Name="Rechte Ikonen Typ" NameU="Right Icon Type"/>
+    <String Name="Rechte Seite" NameU="Right Side"/>
+    <String Name="Die richtige Richtung" NameU="Right direction"/>
+    <String Name="Rechte Halbkugelswert" NameU="Right hemisphere value."/>
+    <String Name="Ringnummer" NameU="Ring Number"/>
+    <String Name="Straßenbreite" NameU="Road Width"/>
+    <String Name="Roller" NameU="Roller"/>
+    <String Name="Rollen" NameU="Rolling"/>
+    <String Name="Drehend" NameU="Rotary"/>
+    <String Name="Landung mit Runde" NameU="Round Landing"/>
+    <String Name="Zeilennummer" NameU="Row Number"/>
+    <String Name="Zeilen" NameU="Rows"/>
+    <String Name="Rubinlaser Generator" NameU="Ruby Laser Generator"/>
+    <String Name="Rubinlaser Generator mit Xenonlampe" NameU="Ruby Laser Generator with Xenon Lamp"/>
+    <String Name="Regel" NameU="Rule"/>
+    <String Name="Salinität - Messgerät" NameU="Salinity Meter"/>
+    <String Name="Sägezahn" NameU="Sawtooth"/>
+    <String Name="Präzisionswaage" NameU="Scale Precision"/>
+    <String Name="Schraube" NameU="Screw"/>
+    <String Name="Förderdosierschnecke" NameU="Screw Conveyor Type"/>
+    <String Name="Festschrauben" NameU="Screw-down"/>
+    <String Name="Geschraubt" NameU="Screwed"/>
+    <String Name="Zweite Ableitung" NameU="Second Derivative"/>
+    <String Name="Sekundärströmung" NameU="Secondary Flow"/>
+    <String Name="Section" NameU="Section"/>
+    <String Name="Abschnittsnummer" NameU="Segment Number"/>
+    <String Name="Referenztyp auswählen..." NameU="Select Actor Reference Type..."/>
+    <String Name="Referenz Port auswählen..." NameU="Select Reference Port..."/>
+    <String Name="Relaisausgang auswählen..." NameU="Select Relay Port..."/>
+    <String Name="Übergangspunkt auswählen..." NameU="Select Transition Point Type..."/>
+    <String Name="Ausgewählt" NameU="Selected"/>
+    <String Name="Halbleitend" NameU="Semiconducting"/>
+    <String Name="Getrennt" NameU="Separated"/>
+    <String Name="Serie" NameU="Series"/>
+    <String Name="Seriennummer" NameU="Series Number"/>
+    <String Name="Service" NameU="Service"/>
+    <String Name="Verstärker Typ einstellen..." NameU="Set Amplifier Type..."/>
+    <String Name="Winkel einstellen" NameU="Set Angle"/>
+    <String Name="Pfeilnummer einstellen" NameU="Set Arrow Number"/>
+    <String Name="Pfeilgröße einstellen" NameU="Set Arrow Size"/>
+    <String Name="Achse Max und Min Scale einstellen" NameU="Set Axis Max and Min Scale"/>
+    <String Name="Achsnummer einstellen" NameU="Set Axis Number"/>
+    <String Name="Boxnummer einstellen" NameU="Set Box Number"/>
+    <String Name="Nummer der Kategorie einstellen" NameU="Set Category Number"/>
+    <String Name="Stuhlnummer einstellen" NameU="Set Chair Number"/>
+    <String Name="Kreisnummer einstellen" NameU="Set Circle Number"/>
+    <String Name="Spaltennummer einstellen" NameU="Set Column Number"/>
+    <String Name="Kontrolltyp einstellen..." NameU="Set Control Type..."/>
+    <String Name="Konverter Typ einstellen..." NameU="Set Converter Type..."/>
+    <String Name="Aktuelles Datum einstellen" NameU="Set Current Date"/>
+    <String Name="Daten einstellen" NameU="Set Data"/>
+    <String Name="Datentyp einstellen" NameU="Set Data Type"/>
+    <String Name="Verzögerung einstellen..." NameU="Set Delay Type..."/>
+    <String Name="Gerätetyp einstellen..." NameU="Set Device Type..."/>
+    <String Name="Dichte des Tortendiagramms einstellen" NameU="Set Doughnut Thickness"/>
+    <String Name="Pegeldaten einstellen" NameU="Set Gauge Data"/>
+    <String Name="Wärmequelle einstellen..." NameU="Set Heat Source Type..."/>
+    <String Name="Hohlraum einstellen" NameU="Set Hollow"/>
+    <String Name="Interval einstellen" NameU="Set Interval"/>
+    <String Name="Stufennummer einstellen" NameU="Set Level Number"/>
+    <String Name="Maschinentyp einstellen..." NameU="Set Machine Type..."/>
+    <String Name="Maximalwert einstellen" NameU="Set Max Value"/>
+    <String Name="Maximal- und Minimalwert einstellen" NameU="Set Max and Min Value"/>
+    <String Name="Meilenstein einstellen" NameU="Set Milestone"/>
+    <String Name="Minimalwert einstellen" NameU="Set Min Value"/>
+    <String Name="Sprossennummer einstellen" NameU="Set Mullion Number"/>
+    <String Name="Knotennummer einstellen..." NameU="Set Node Number..."/>
+    <String Name="Zeilenzahl einstellen" NameU="Set Number of Lines"/>
+    <String Name="Zahl der Terminals einstellen..." NameU="Set Number of Terminals..."/>
+    <String Name="Anzahl der Kreisdiagramm einstellen" NameU="Set Pie Number"/>
+    <String Name="Punktnummer einstellen" NameU="Set Point Number"/>
+    <String Name="Position and Daten einstellen" NameU="Set Position and Data"/>
+    <String Name="Antriebskraft Typ einstellen..." NameU="Set Prime Mover Type..."/>
+    <String Name="Prozessdetails einstellen..." NameU="Set Process Detail..."/>
+    <String Name="Prozess einstellen" NameU="Set Progress"/>
+    <String Name="Qualifikationsspiel Typ einstellen..." NameU="Set Qualifier Type..."/>
+    <String Name="Bereichsdaten einstellen" NameU="Set Range Data"/>
+    <String Name="Bereichnummer einstellen" NameU="Set Range Number"/>
+    <String Name="Relais Typ einstellen" NameU="Set Relay Type"/>
+    <String Name="Repeater Typ einstellen..." NameU="Set Repeater Type..."/>
+    <String Name="Ringnumber einstellen" NameU="Set Ring Number"/>
+    <String Name="Stellen Sie die Ringdicke ein" NameU="Set Ring Thickness"/>
+    <String Name="Straßenbreite einstellen" NameU="Set Road Width"/>
+    <String Name="Zeilennummer einstellen" NameU="Set Row Number"/>
+    <String Name="Segmentnummer einstellen" NameU="Set Segment Number"/>
+    <String Name="Seriennummer einstellen" NameU="Set Series Number"/>
+    <String Name="Feststoff einstellen" NameU="Set Solid"/>
+    <String Name="Anfangs- und Folgewerte einstellen" NameU="Set Start and Step"/>
+    <String Name="Stationstyp einstellen..." NameU="Set Station Type..."/>
+    <String Name="Kompaktstation Typ einstellen..." NameU="Set Substation Type..."/>
+    <String Name="Schalterstellung einstellen" NameU="Set Switch Position"/>
+    <String Name="Schalter Typ einstellen..." NameU="Set Switch Type..."/>
+    <String Name="Synchro Typ einstellen..." NameU="Set Synchro Type..."/>
+    <String Name="Telefontyp einstellen..." NameU="Set Telephone Type..."/>
+    <String Name="Dicke einstellen" NameU="Set Thickness"/>
+    <String Name="Zeitleiste einstellen" NameU="Set Time Bar"/>
+    <String Name="Zahngröße einstellen" NameU="Set Tooth Size"/>
+    <String Name="Eigenschaften des Transformator einstellen..." NameU="Set Transformer Properties..."/>
+    <String Name="Rohrweite einstellen" NameU="Set Tube Width"/>
+    <String Name="U Nummer einstellen" NameU="Set U Number"/>
+    <String Name="Vertex Nummer einstellen" NameU="Set Vertex Number"/>
+    <String Name="Vertikales Intervall einstellen" NameU="Set Vertical Interval"/>
+    <String Name="Wellentyp einstellen..." NameU="Set Wave Type..."/>
+    <String Name="Wochennummer einstellen" NameU="Set Week Number"/>
+    <String Name="Weite einstellen" NameU="Set Width"/>
+    <String Name="Wickelart einstellen..." NameU="Set Winding Type..."/>
+    <String Name="X, Y Position einstellen" NameU="Set X, Y Position"/>
+    <String Name="Zoomgröße einstellen" NameU="Set Zoom Size"/>
+    <String Name="Winkel von -180 nach 180 einstellen" NameU="Set the angle value from -180 to 180"/>
+    <String Name="Legen Sie die Anzahl der Scheitelpunkte fest" NameU="Set the number of vertices"/>
+    <String Name="1 Linie setzen" NameU="Set to 1 Line"/>
+    <String Name="1 Leitungseingang setzen" NameU="Set to 1 Line Input"/>
+    <String Name="2 Linie setzen" NameU="Set to 2 Line"/>
+    <String Name="2 Leitungseingang setzen" NameU="Set to 2 Line Input"/>
+    <String Name="Bidirektional setzen" NameU="Set to Bidirectional"/>
+    <String Name="Kapazitiv setzen" NameU="Set to Capacitive"/>
+    <String Name="Kreisförmig setzen" NameU="Set to Circular"/>
+    <String Name="Kohärent setzen" NameU="Set to Coherent"/>
+    <String Name="Stromquelle setzen" NameU="Set to Current Source"/>
+    <String Name="Befestigt setzen" NameU="Set to Fixed"/>
+    <String Name="Idealstrom setzen" NameU="Set to Ideal Current"/>
+    <String Name="Optimale Spannung setzen" NameU="Set to Ideal Voltage"/>
+    <String Name="Anzeigend setzen" NameU="Set to Indicating"/>
+    <String Name="Ionisierend setzen" NameU="Set to Ionizing"/>
+    <String Name="Licht Emittierenden setzen" NameU="Set to Light emitting"/>
+    <String Name="N-Typ Kannel setzen" NameU="Set to N-Type Channel"/>
+    <String Name="NPN setzen" NameU="Set to NPN"/>
+    <String Name="Negativer Impuls setzen" NameU="Set to Negative Pulse"/>
+    <String Name="Negativer Schritt setzen" NameU="Set to Negative Step"/>
+    <String Name="Nicht kapazitive setzen" NameU="Set to Non-capacitive"/>
+    <String Name="Nicht kohärent setzen" NameU="Set to Non-coherent"/>
+    <String Name="Nicht-anzeigender setzen" NameU="Set to Non-indicating"/>
+    <String Name="Nichtionisierender setzen" NameU="Set to Non-ionizing"/>
+    <String Name="P-Typ Kannel setzen" NameU="Set to P-Type Channel"/>
+    <String Name="PNP setzen" NameU="Set to PNP"/>
+    <String Name="Positiver Impuls setzen" NameU="Set to Positive Pulse"/>
+    <String Name="Positiver Schritt setzen" NameU="Set to Positive Step"/>
+    <String Name="Aufzeichnung setzen" NameU="Set to Recording"/>
+    <String Name="Rechteckig setzen" NameU="Set to Rectangular"/>
+    <String Name="Reproduzierend setzen" NameU="Set to Reproducing"/>
+    <String Name="Signallampe setzen" NameU="Set to Signal Lamp"/>
+    <String Name="Stehlampe setzen" NameU="Set to Standard Lamp"/>
+    <String Name="Unidirektional setzen" NameU="Set to Unidirectional"/>
+    <String Name="Variabel setzen" NameU="Set to Variable"/>
+    <String Name="Spannungsquelle setzen" NameU="Set to Voltage Source"/>
+    <String Name="Lichtempfindlich setzen" NameU="Set to photosensitive"/>
+    <String Name="1-Draht zeigen" NameU="Show 1-Wire"/>
+    <String Name="1F zeigen" NameU="Show 1F"/>
+    <String Name="2F zeigen" NameU="Show 2F"/>
+    <String Name="3 Terminals zeigen" NameU="Show 3 Terminals"/>
+    <String Name="3-Draht zeigen" NameU="Show 3-Wire"/>
+    <String Name="4 Terminals zeigen" NameU="Show 4 Terminals"/>
+    <String Name="Alternative-Symbole zeigen" NameU="Show Alternative Symbol"/>
+    <String Name="Pfeil zeigen" NameU="Show Arrow"/>
+    <String Name="Achse zeigen" NameU="Show Axis"/>
+    <String Name="Achsenbeschriftungen zeigen" NameU="Show Axis Labels"/>
+    <String Name="Grenze zeigen" NameU="Show Border"/>
+    <String Name="Beide Richtungen zeigen" NameU="Show Both Directions"/>
+    <String Name="Unten zeigen" NameU="Show Bottom"/>
+    <String Name="Öffnerkontakt zeigen" NameU="Show Break Contact"/>
+    <String Name="Mitte zeigen" NameU="Show Center"/>
+    <String Name="Kreis zeigen" NameU="Show Circle"/>
+    <String Name="Geschlossener Kreislauf zeigen" NameU="Show Closed Circuit"/>
+    <String Name="Verbinde zeigen" NameU="Show Connect Line"/>
+    <String Name="Kreuz zeigen" NameU="Show Cross"/>
+    <String Name="Fadenkreuz zeigen" NameU="Show Cross Line"/>
+    <String Name="Datenetiketten zeigen" NameU="Show Data Labels"/>
+    <String Name="Unten Datenetiketten zeigen" NameU="Show Data Labels on Bottom"/>
+    <String Name="Rechte Datenetiketten zeigen" NameU="Show Data Labels on Right"/>
+    <String Name="Löschen zeigen" NameU="Show Delete"/>
+    <String Name="Trockenmittel zeigen" NameU="Show Desiccant"/>
+    <String Name="Diskriminator zeigen" NameU="Show Discriminator"/>
+    <String Name="Lösen zeigen" NameU="Show Disengaged"/>
+    <String Name="Punkt zeigen" NameU="Show Dot"/>
+    <String Name="Tröpfeln zeigen" NameU="Show Dripping"/>
+    <String Name="Endzwick zeigen" NameU="Show End Tick"/>
+    <String Name="Einsetzen zeigen" NameU="Show Engaged"/>
+    <String Name="Umschlagen zeigen" NameU="Show Envelop"/>
+    <String Name="Ausgangweite zeigen" NameU="Show Exit Width"/>
+    <String Name="Filterpapier zeigen" NameU="Show Filter Paper"/>
+    <String Name="Erster Block des Titels zeigen" NameU="Show First Block of Title"/>
+    <String Name="4 Linien zeigen" NameU="Show Four Lines"/>
+    <String Name="Granule zeigen" NameU="Show Granule"/>
+    <String Name="Gitter zeigen" NameU="Show Grid"/>
+    <String Name="Nut zeigen" NameU="Show Groove"/>
+    <String Name="Schliessen zeigen" NameU="Show Held Closed"/>
+    <String Name="Öffnen zeigen" NameU="Show Held Open"/>
+    <String Name="Horizontaler Gitter zeigen" NameU="Show Horizontal Grid"/>
+    <String Name="Bild zeigen" NameU="Show Image"/>
+    <String Name="Runde Bilden zeigen" NameU="Show Image Circle"/>
+    <String Name="Clip 1 zeigen" NameU="Show Iron Clip 1"/>
+    <String Name="Clip 2 zeigen" NameU="Show Iron Clip 2"/>
+    <String Name="Verbinder zeigen" NameU="Show Junction"/>
+    <String Name="Linkes Box zeigen" NameU="Show Left Box"/>
+    <String Name="Linker Text zeigen" NameU="Show Left Text"/>
+    <String Name="Bildunterschrift zeigen" NameU="Show Legend"/>
+    <String Name="Bildunterschrift unten zeigen" NameU="Show Legend on Bottom"/>
+    <String Name="Bildunterschrift rechts zeigen" NameU="Show Legend on Right Side"/>
+    <String Name="Linie anzeigen" NameU="Show Line"/>
+    <String Name="Flüssigkeit zeigen" NameU="Show Liquid"/>
+    <String Name="Schließerkontakt zeigen" NameU="Show Make Contact"/>
+    <String Name="Mittelkreis zeigen" NameU="Show Middle Circle"/>
+    <String Name="Neutrale zeigen" NameU="Show Neutral"/>
+    <String Name="Eine Richtung zeigen" NameU="Show One Direction"/>
+    <String Name="Eine Linie zeigen" NameU="Show One Line"/>
+    <String Name="Offener Kreislauf zeigen" NameU="Show Open Circuit"/>
+    <String Name="Betreiber zeigen" NameU="Show Operator"/>
+    <String Name="Foto zeigen" NameU="Show Photo"/>
+    <String Name="Polaritätssymbole zeigen" NameU="Show Polarity Symbols"/>
+    <String Name="Reflektor zeigen" NameU="Show Reflector"/>
+    <String Name="Aktualisierungsschaltfläche zeigen" NameU="Show Refresh Button"/>
+    <String Name="Rechter Text zeigen" NameU="Show Right Text"/>
+    <String Name="Ruler zeigen" NameU="Show Ruler"/>
+    <String Name="SWOT zeigen" NameU="Show SWOT"/>
+    <String Name="Skalen-Schritten zeigen" NameU="Show Scale Mark"/>
+    <String Name="Naht zeigen" NameU="Show Seam"/>
+    <String Name="Feststoff zeigen" NameU="Show Solid"/>
+    <String Name="Feststoff zeigen" NameU="Show Solid Matter"/>
+    <String Name="Treppe Wanken zeigen" NameU="Show Stair Stagger"/>
+    <String Name="Tisch zeigen" NameU="Show Table"/>
+    <String Name="Tümpelschnauze zeigen" NameU="Show Tank Lip"/>
+    <String Name="Text zeigen" NameU="Show Text"/>
+    <String Name="Text Block zeigen" NameU="Show Text Block"/>
+    <String Name="Runder Text zeigen" NameU="Show Text Circle"/>
+    <String Name="Ticken zeigen" NameU="Show Tick"/>
+    <String Name="Titel zeigen" NameU="Show Title"/>
+    <String Name="Titelleiste zeigen" NameU="Show Title Bar"/>
+    <String Name="2 Linien zeigen" NameU="Show Two Lines"/>
+    <String Name="Einheit zeigen" NameU="Show Units"/>
+    <String Name="Vertikale Gitter zeigen" NameU="Show Vertical Grid"/>
+    <String Name="Wasser zeigen" NameU="Show Water"/>
+    <String Name="Achsenbeschriftungen anzeigen/verbergen" NameU="Show/Hide Axis Labels"/>
+    <String Name="Shunt oder Fremderregung" NameU="Shunt or Separate"/>
+    <String Name="Signalfrequenz" NameU="Signaling Frequency"/>
+    <String Name="Gleichzeitig" NameU="Simultaneous"/>
+    <String Name="Sinuswelle" NameU="Sine Wave"/>
+    <String Name="Einzelne Linie" NameU="Single Line"/>
+    <String Name="Einzeiliges Symbol" NameU="Single-line Symbol"/>
+    <String Name="Einzellast" NameU="Single-load"/>
+    <String Name="Einzelhub-Glocke" NameU="Single-stroke Bell"/>
+    <String Name="Sirene" NameU="Siren"/>
+    <String Name="Slot" NameU="Slot"/>
+    <String Name="Langsame Wellenstruktur" NameU="Slow Wave Structure"/>
+    <String Name="Langsame arbeiten" NameU="Slow-operate"/>
+    <String Name="Langsame befreien" NameU="Slow-release"/>
+    <String Name="Klein" NameU="Small"/>
+    <String Name="Kleinformat" NameU="Small Scale"/>
+    <String Name="Smybol 3" NameU="Smybol 3"/>
+    <String Name="Muffe und Spitzende" NameU="Socket and Spigot"/>
+    <String Name="Verlöten" NameU="Soldered"/>
+    <String Name="Feststoff" NameU="Solid"/>
+    <String Name="Feste Linie" NameU="Solid Line"/>
+    <String Name="Lösemittel" NameU="Solvent"/>
+    <String Name="Raum einer Ikone" NameU="Space for an Icon"/>
+    <String Name="Freisprecheinrichtung" NameU="Speaker Phone"/>
+    <String Name="Kugelförmige Nut" NameU="Sphere Gap"/>
+    <String Name="Quadrat" NameU="Square"/>
+    <String Name="Quadratischer Absatz" NameU="Square Landing"/>
+    <String Name="Quadratischer Marker" NameU="Square Marker"/>
+    <String Name="Standard" NameU="Standard"/>
+    <String Name="Standard Glocke" NameU="Standard Bell"/>
+    <String Name="Standard Formen" NameU="Standard Formt"/>
+    <String Name="Standard Symbol" NameU="Standard Symbol"/>
+    <String Name="Stern" NameU="Star"/>
+    <String Name="Stern4" NameU="Star4"/>
+    <String Name="Stern5" NameU="Star5"/>
+    <String Name="Startdatum" NameU="Start Date"/>
+    <String Name="Von Montag beginnen" NameU="Start From Monday"/>
+    <String Name="Anfangszustand" NameU="Start State"/>
+    <String Name="Startwert" NameU="Start Value"/>
+    <String Name="Anfang/Ende" NameU="Start/End"/>
+    <String Name="Zustand" NameU="State"/>
+    <String Name="Stationseigenheiten" NameU="Station Specifics"/>
+    <String Name="Stationstyp" NameU="Station Type"/>
+    <String Name="Schritt" NameU="Step"/>
+    <String Name="Step Size" NameU="Step Size"/>
+    <String Name="Endeszustand" NameU="Stop State"/>
+    <String Name="Beenden/Abbrechen" NameU="Stop/Cancel"/>
+    <String Name="String" NameU="String"/>
+    <String Name="Untermenü" NameU="Sub Menu"/>
+    <String Name="Sub-Diagramm ID" NameU="Sub-diagram ID"/>
+    <String Name="Diagrammstyp" NameU="SubType"/>
+    <String Name="Unterseeisch" NameU="Submarine"/>
+    <String Name="Untertauchen" NameU="Submersion"/>
+    <String Name="Unterprozess" NameU="Subprocess"/>
+    <String Name="Unterstationstyp" NameU="Substation Type"/>
+    <String Name="Besonderheiten der Unterstation" NameU="Substation specifics"/>
+    <String Name="Substituierbar" NameU="Substitutable"/>
+    <String Name="Substrat-Verbindung" NameU="Substrate Connection"/>
+    <String Name="Der vorgeschlagene Wert ist größer oder gleich als 0" NameU="Suggested value is greater than or equal to 0"/>
+    <String Name="Addition" NameU="Summing"/>
+    <String Name="super groß" NameU="Super Large"/>
+    <String Name="Supergruppe Pilotfrequenz" NameU="Supergroup Pilot Frequency"/>
+    <String Name="Unterdrückte Pilotfrequenz" NameU="Suppressed Pilot Frequency"/>
+    <String Name="Unterdrückter Träger Frequenz" NameU="Suppressed-carrier Frequency"/>
+    <String Name="Schalter Position" NameU="Switch Position"/>
+    <String Name="Schaltertyp" NameU="Switch Type"/>
+    <String Name="Symbol 1" NameU="Symbol 1"/>
+    <String Name="Symbol 2" NameU="Symbol 2"/>
+    <String Name="Symbol 3" NameU="Symbol 3"/>
+    <String Name="Symbol 4" NameU="Symbol 4"/>
+    <String Name="Symbol Option" NameU="Symbol Option"/>
+    <String Name="Synchro Typ" NameU="Synchro Type"/>
+    <String Name="Synchronoskop" NameU="Synchronoscope"/>
+    <String Name="Synchrone Kaskade" NameU="Synchronous Converter"/>
+    <String Name="Synchrongenerator " NameU="Synchronous Generator"/>
+    <String Name="Synchronmotor" NameU="Synchronous Motor"/>
+    <String Name="T Typ-Gate" NameU="T Type-Gate"/>
+    <String Name="Richtig" NameU="TRUE"/>
+    <String Name="Tachometer" NameU="Tachometer"/>
+    <String Name="Band perforieren" NameU="Tape Perforating"/>
+    <String Name="Band drucken" NameU="Tape Printing"/>
+    <String Name="Band perforieren/drucken" NameU="Tape Printing/Perforating"/>
+    <String Name="Armaturen" NameU="Taps"/>
+    <String Name="Aufgabentyp - Business Rule" NameU="Task Type - Business Rule"/>
+    <String Name="Aufgabentyp - Instantating Receive" NameU="Task Type - Instantiating Receive"/>
+    <String Name="Aufgabentyp - Handbuch" NameU="Task Type - Manual"/>
+    <String Name="Aufgabentyp - Keine" NameU="Task Type - None"/>
+    <String Name="Aufgabentyp - Receive" NameU="Task Type - Receive"/>
+    <String Name="Aufgabentyp - Script" NameU="Task Type - Script"/>
+    <String Name="Aufgabentyp - Senden" NameU="Task Type - Send"/>
+    <String Name="Aufgabentyp - Service" NameU="Task Type - Service"/>
+    <String Name="Aufgabentyp - Benutzer" NameU="Task Type - User"/>
+    <String Name="Telefontyp" NameU="Telephone Type"/>
+    <String Name="Terminals" NameU="Terminals"/>
+    <String Name="Terminals Operation" NameU="Terminating Set"/>
+    <String Name="Terminals Operation w/ Bilanzkreisnetz" NameU="Terminating Set w/ Balancing Network"/>
+    <String Name="Text" NameU="Text"/>
+    <String Name="Paralleltext" NameU="Text Parallel"/>
+    <String Name="Senkrechter Text" NameU="Text Perpendicular"/>
+    <String Name="Die Einheit wird nach dem aktuellen Wert angezeigt, zB. 180 USD" NameU="The unit displayed after current value, e.g. 180 USD"/>
+    <String Name="Die Einheit wird bevor dem aktuellen Wert angezeigt, zB. $180" NameU="The unit displayed before current value, e.g. $180"/>
+    <String Name="Thermometer" NameU="Thermometer"/>
+    <String Name="Dicke" NameU="Thickness"/>
+    <String Name="Dritte Ableitung" NameU="Third Derivative"/>
+    <String Name="Tausendertrenner" NameU="Thousand Separator"/>
+    <String Name="Skalar" NameU="Tick Number"/>
+    <String Name="Zeitmesser" NameU="Timer"/>
+    <String Name="Titel" NameU="Title"/>
+    <String Name="Zahngröße" NameU="Tooth Size"/>
+    <String Name="Oben" NameU="Top"/>
+    <String Name="Oberer Haken" NameU="Top Hook"/>
+    <String Name="Oben links" NameU="Top Left"/>
+    <String Name="Oben rechts" NameU="Top Right"/>
+    <String Name="berühren" NameU="Touching"/>
+    <String Name="Tracking Station" NameU="Tracking Station"/>
+    <String Name="Übergangspunkt" NameU="Transition Point"/>
+    <String Name="Transmission" NameU="Transmission"/>
+    <String Name="Transmitter" NameU="Transmitter"/>
+    <String Name="Dreieck" NameU="Triangle"/>
+    <String Name="Abzug" NameU="Trigger"/>
+    <String Name="Richtig" NameU="True"/>
+    <String Name="Rohrbündel Typ" NameU="Tube Bundle Type"/>
+    <String Name="Rohrbreite" NameU="Tube Width"/>
+    <String Name="Turbine" NameU="Turbine"/>
+    <String Name="Ausschalten" NameU="Turn Off"/>
+    <String Name="Einschalten" NameU="Turn On"/>
+    <String Name="Drehschalter" NameU="Turn-switch"/>
+    <String Name="Drehen" NameU="Turning"/>
+    <String Name="2 Kreise" NameU="Two Circles"/>
+    <String Name="2 Input" NameU="Two Input"/>
+    <String Name="2 Linien" NameU="Two Lines"/>
+    <String Name="Gleichzeitige Simplex" NameU="Two-way Simplex"/>
+    <String Name="Typ" NameU="Type"/>
+    <String Name="Typ 1" NameU="Type 1"/>
+    <String Name="Typ 2" NameU="Type 2"/>
+    <String Name="Typ 3" NameU="Type 3"/>
+    <String Name="Typ 4" NameU="Type 4"/>
+    <String Name="Typ 5" NameU="Type A"/>
+    <String Name="Typ 6" NameU="Type B"/>
+    <String Name="Typ 7" NameU="Type C"/>
+    <String Name="U Nummer" NameU="U Number"/>
+    <String Name="U-Rohr" NameU="U-tubes"/>
+    <String Name="Ungeprüft" NameU="UnChecked"/>
+    <String Name="Entsperren" NameU="UnLock"/>
+    <String Name="Untergrund" NameU="Underground"/>
+    <String Name="Ungeerdet" NameU="Ungrounded"/>
+    <String Name="Unidirektionale Verstärkung" NameU="Unidirectional Amplification"/>
+    <String Name="Einheit" NameU="Unit"/>
+    <String Name="Einheiten" NameU="Units"/>
+    <String Name="Einheiten zeigen" NameU="Units Display"/>
+    <String Name="Ungetrennt" NameU="Unseparated"/>
+    <String Name="Unspezifiziert" NameU="Unspecified"/>
+    <String Name="Nach oben" NameU="Up"/>
+    <String Name="Oben Position" NameU="Up Position"/>
+    <String Name="Nach oben" NameU="Up direction"/>
+    <String Name="Dringend" NameU="Urgent"/>
+    <String Name="Wert" NameU="Val"/>
+    <String Name="Wert" NameU="Value"/>
+    <String Name="Wert 1" NameU="Value 1"/>
+    <String Name="Wert 2" NameU="Value 2"/>
+    <String Name="Wert" NameU="Valve"/>
+    <String Name="Wert Klass" NameU="Valve Class"/>
+    <String Name="Variabel" NameU="Variable"/>
+    <String Name="Vermarkter" NameU="Varmeter"/>
+    <String Name="Geprüft" NameU="Verified"/>
+    <String Name="Anzahl der Eckpunkt" NameU="Vertex Number"/>
+    <String Name="Vertikal" NameU="Vertical"/>
+    <String Name="Vertikale Blättern" NameU="Vertical Blades"/>
+    <String Name="Vertikal spiegeln" NameU="Vertical Flip"/>
+    <String Name="Sehr groß" NameU="Very Large"/>
+    <String Name="Sehr klein" NameU="Very Small"/>
+    <String Name="Vibrator" NameU="Vibrator"/>
+    <String Name="Violett" NameU="Violet"/>
+    <String Name="Sichtbar" NameU="Visible"/>
+    <String Name="Sprache-Taste" NameU="Voice Button"/>
+    <String Name="Voltmeter" NameU="Voltmeter"/>
+    <String Name="Warnung" NameU="Warning"/>
+    <String Name="Wellenmesser" NameU="Wavemeter"/>
+    <String Name="Schwache Beziehung" NameU="Weak Relationship"/>
+    <String Name="Woche" NameU="Week"/>
+    <String Name="Feucht" NameU="Wet"/>
+    <String Name="Rad" NameU="Wheel"/>
+    <String Name="Breite" NameU="Width"/>
+    <String Name="Wickelart" NameU="Winding Type"/>
+    <String Name="Frau" NameU="Woman"/>
+    <String Name="Schlimmste" NameU="Worst"/>
+    <String Name="Schreiben" NameU="Writing"/>
+    <String Name="X" NameU="X"/>
+    <String Name="X Achse Tick-Wert" NameU="X Axis Tick Number"/>
+    <String Name="X Max Wert" NameU="X Max Scale"/>
+    <String Name="X Min Wert" NameU="X Min Scale"/>
+    <String Name="X-Typ" NameU="X-type"/>
+    <String Name="XNOR" NameU="XNOR"/>
+    <String Name="XOR" NameU="XOR"/>
+    <String Name="Y" NameU="Y"/>
+    <String Name="Y Achse Tick-Wert" NameU="Y Axis Tick Number"/>
+    <String Name="Y Max Wert" NameU="Y Max Scale"/>
+    <String Name="Y Min Wert" NameU="Y Min Scale"/>
+    <String Name="Jahr" NameU="Year"/>
+    <String Name="Gelb" NameU="Yellow"/>
+    <String Name="Ja" NameU="Yes"/>
+    <String Name="0 Reaktanz" NameU="Zero Reactance"/>
+    <String Name="0 Reaktanz - Endlose Suszeptanz" NameU="Zero Reactance - Infinite susceptance"/>
+    <String Name="Zoomgröße" NameU="Zoom Size"/>
+    <String Name="d/M/yyyy" NameU="d/M/yyyy"/>
+    <String Name="d/M/yyyy h:mm AM/PM" NameU="d/M/yyyy h:mm AM/PM"/>
+    <String Name="e.g.18.56, [00: 20]; [0: 18]; [0.0: 18.5]; [0.00: 18.56]; [0.000: 18.56]" NameU="e.g.18.56, [00: 20]; [0: 18]; [0.0: 18.5]; [0.00: 18.56]; [0.000: 18.56]"/>
+    <String Name="e.g.18500, Normal:18500; Tausendertrenner:18,500; Brevier:18.5K" NameU="e.g.18500, Normal:18500; Thousand Separator:18,500; Breviary:18.5K"/>
+    <String Name="h:mm AM/PM" NameU="h:mm AM/PM"/>
+    <String Name="hh:mm" NameU="hh:mm"/>
+    <String Name="yyyy" NameU="yyyy"/>
+    <String Name="yyyy-MM-dd" NameU="yyyy-MM-dd"/>
+</ShapeStrings>

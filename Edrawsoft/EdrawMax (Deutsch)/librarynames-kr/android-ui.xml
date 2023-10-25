@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Android UI">
+    <Elem NameU="Android Phone 1" Name="Android폰1"/>
+    <Elem NameU="Android Phone 2" Name="Android폰2"/>
+    <Elem NameU="Status Bar 1" Name="상태바1"/>
+    <Elem NameU="Status Bar 2" Name="상태바2"/>
+    <Elem NameU="Navigation Bar" Number="9" Name="내비게이션 바"/>
+    <Elem NameU="Search bar" Number="2" Name="검색바"/>
+    <Elem NameU="Google" Name="구글"/>
+    <Elem NameU="Two Buttons Control" Name="두 개 버튼 컨트롤"/>
+    <Elem NameU="Three Buttons Control" Number="2" Name="세 개 버튼 컨트롤"/>
+    <Elem NameU="Four Buttons Control" Name="네 개 버튼 컨트롤"/>
+    <Elem NameU="Menu bar" Number="2" Name="메뉴바"/>
+    <Elem NameU="Menu Bar" Number="8" Name="메뉴바"/>
+    <Elem NameU="Search bar" Name="검색바"/>
+    <Elem NameU="Menu Bar" Number="2" Name="메뉴바"/>
+    <Elem NameU="Message Bar" Name="정보바"/>
+    <Elem NameU="Slider" Number="2" Name="슬라이더"/>
+    <Elem NameU="SlideUnlock 1" Name="슬라이드 잠금 해제1"/>
+    <Elem NameU="SlideUnlock 2" Name="슬라이드 잠금 해제2"/>
+    <Elem NameU="SlideUnlock" Number="2" Name="滑动解锁"/>
+    <Elem NameU="LockMe Widget" Name="ockMe위젯"/>
+    <Elem NameU="Progress bar" Name="프로세스바"/>
+    <Elem NameU="Circular Progress View" Name="원형 진행률 보기"/>
+    <Elem NameU="Weather" Name="날씨"/>
+    <Elem NameU="Two Buttons Alert" Number="2" Name="두 개 버튼 경고"/>
+    <Elem NameU="APP Options" Name="앱 옵션"/>
+    <Elem NameU="Options" Number="2" Name="옵션"/>
+    <Elem NameU="LOG ON-OFF" Name="로그인-로그 아웃"/>
+    <Elem NameU="Option menu" Name="옵션 메뉴"/>
+    <Elem NameU="Option button" Name="옵션 메뉴"/>
+    <Elem NameU="Phone buttons" Name="전화 버튼"/>
+    <Elem NameU="Keyboard Control" Number="2" Name="키보드 컨트롤"/>
+    <Elem NameU="Number Keyboard" Name="숫자 키보드"/>
+    <Elem NameU="Landscape Keyboard" Name="가로 키보드"/>
+    <Elem NameU="Function set" Name="기능 세트"/>
+    <Elem NameU="App Icon" Name="앱 아이콘"/>
+    <Elem NameU="Turn On" Name="열기"/>
+    <Elem NameU="Turn Off" Name="끄기"/>
+    <Elem NameU="Button" Number="3" Name="버튼"/>
+    <Elem NameU="Option button" Number="3" Name="옵션버튼"/>
+    <Elem NameU="Number Pad" Name="숫자 키보드"/>
+    <Elem NameU="Navigation Bar" Name="네비게이션 바"/>
+    <Elem NameU="MENU" Name="메뉴"/>
+    <Elem NameU="Time" Name="시간"/>
+    <Elem NameU="Button Bar" Name="버튼바"/>
+    <Elem NameU="Calendar" Name="달력"/>
+    <Elem NameU="Delete program" Name="프로그램 삭제"/>
+    <Elem NameU="Android" Name="안드로이드"/>
+    <Elem NameU="Voice Message" Number="2" Name="음성 메세지"/>
+    <Elem NameU="Text" Name="텍스트"/>
+    <Elem NameU="Phone number of the input field" Name="입력 필드의 전화 번호"/>
+    <Elem NameU="Message bar" Name="메뉴바"/>
+    <Elem NameU="Navigation Dots 1" Name="탐색점1"/>
+    <Elem NameU="Navigation Dots 2" Name="탐색점2"/>
+</Lib>

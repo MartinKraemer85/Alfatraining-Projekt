@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Elevations">
+    <Elem NameU="Frame" Name="框架"/>
+    <Elem NameU="Frame 2" Name="框架 2"/>
+    <Elem NameU="Divider - H" Name="垂直分隔物"/>
+    <Elem NameU="Divider - V" Name="水平分隔物"/>
+    <Elem NameU="Divider - H 2" Name="垂直分隔物2"/>
+    <Elem NameU="Divider - V 2" Name="水平分隔物2"/>
+    <Elem NameU="Diveder 2" Name="分隔物 2"/>
+    <Elem NameU="Rect" Name="板"/>
+    <Elem NameU="Door Left" Name="左門"/>
+    <Elem NameU="Door Right" Name="右門"/>
+    <Elem NameU="Door Double" Name="雙門"/>
+    <Elem NameU="Bedside cabinet" Name="床頭櫃"/>
+    <Elem NameU="Sofa" Name="沙發"/>
+    <Elem NameU="Washbasin" Name="洗臉盆"/>
+    <Elem NameU="Plants" Name="盆栽"/>
+    <Elem NameU="Fireplace" Name="壁爐"/>
+    <Elem NameU="Painting" Name="掛畫"/>
+    <Elem NameU="Wall" Name="墻壁"/>
+    <Elem NameU="Flue" Name="煙道"/>
+    <Elem NameU="Table facet" Name="檯面"/>
+    <Elem NameU="L table facet" Name="L形檯面"/>
+    <Elem NameU="Drainage pipe" Name="排水管"/>
+    <Elem NameU="Outlet" Name="排放孔"/>
+    <Elem NameU="Intake" Name="通風口"/>
+</Lib>

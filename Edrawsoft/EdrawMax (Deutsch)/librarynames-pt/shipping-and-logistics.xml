@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Shipping and Logistics">
+	<Elem NameU="Home Delivery Service 1" Name="Serviço de Entrega ao Domicílio 1"/>
+	<Elem NameU="Customer Service" Name="Serviço de Apoio ao Cliente"/>
+	<Elem NameU="Location" Name="Localização"/>
+	<Elem NameU="Courier on Scooter" Name="Estafeta e Scooter"/>
+	<Elem NameU="Courier" Name="Estafeta"/>
+	<Elem NameU="Home Delivery 2" Name="Entrega ao Domicílio 2"/>
+	<Elem NameU="Courier with Delivery Cart" Name="Estafeta com Carrinho de Entregas"/>
+	<Elem NameU="Scanning Delivery Information" Name="A Digitalizar Informação de Entrega"/>
+	<Elem NameU="Multifunction Barcode Reader" Name="Leitor de Código de Barras Multi-funções"/>
+	<Elem NameU="Delivery Safety" Name="Segurança de Entrega"/>
+	<Elem NameU="Carton Box" Name="Caixa de Cartão"/>
+	<Elem NameU="Paper Express Envelope" Name="Envelope Expresso de Papel"/>
+	<Elem NameU="Logistics Basket" Name="Cesta de Logística"/>
+	<Elem NameU="24-hour Delivery Truck" Name="Caminhão de Entregas 24-horas"/>
+	<Elem NameU="Lifting Cargo Container" Name="Elevar Contentor de Carga"/>
+	<Elem NameU="Ocean Shipping" Name="Transporte por Oceano"/>
+	<Elem NameU="Plane" Name="Avião"/>
+	<Elem NameU="Helicopter" Name="Helicóptero"/>
+	<Elem NameU="Barcode" Name="Código de barras"/>
+	<Elem NameU="Checklist" Name="Lista de verificação"/>
+	<Elem NameU="Telephone Counseling 1" Name="Aconselhamento por Telefone 1"/>
+	<Elem NameU="Telephone Counseling 2" Name="Aconselhamento por Telefone 1"/>
+	<Elem NameU="Timer" Name="Temporizador"/>
+	<Elem NameU="Scale Cart" Name="Carrinho Balança"/>
+	<Elem NameU="Platform Cart Delivery" Name="Entrega de Carrinho de Plataforma"/>
+	<Elem NameU="Forklift" Name="Empilhadeira"/>
+	<Elem NameU="Conveyer Belt" Name="Correia Transportadora"/>
+	<Elem NameU="Goods Shelf" Name="Prateleira de Mercadorias"/>
+	<Elem NameU="Warehouse" Name="Armazém"/>
+</Lib>

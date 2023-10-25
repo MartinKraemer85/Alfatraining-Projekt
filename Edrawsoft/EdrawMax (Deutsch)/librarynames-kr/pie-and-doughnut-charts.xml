@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Pie and Doughnut Charts">
+    <Elem NameU="Pie Chart" Name="파이 차트"/>
+    <Elem NameU="Gradient Pie Chart" Name="그라데이션 파이 차트"/>
+    <Elem NameU="Pie Chart 2" Name="파이 차트 2"/>
+    <Elem NameU="Pie Chart 3" Name="파이 차트 3"/>
+    <Elem NameU="100% Gradient Pie Chart" Name="백분율 파이 차트"/>
+    <Elem NameU="100% Gradient Pie Chart2" Name="백분율 파이 차트 2"/>
+    <Elem NameU="Doughnut Chart 1" Name="도넛형 차트 1"/>
+    <Elem NameU="100% Gradient Doughnut Chart" Name="백분율 도넛형 차트"/>
+    <Elem NameU="100% Doughnut Chart" Name="백분율 도넛형 차트"/>
+    <Elem NameU="Gradient Doughnut Chart 1" Name="백분율 도넛형 차트"/>
+    <Elem NameU="Gradient Doughnut Chart 2" Name="백분율 도넛형 차트 2"/>
+    <Elem NameU="Gradient Doughnut Chart 3" Name="백분율 도넛형 차트 3"/>
+    <Elem NameU="Doughnut Chart 2" Name="도넛형 차트 2"/>
+    <Elem NameU="Doughnut Chart 3" Name="도넛형 차트 3"/>
+    <Elem NameU="Doughnut Chart 4" Name="도넛형 차트 4"/>
+    <Elem NameU="Doughnut Chart 5" Name="도넛형 차트 5"/>
+    <Elem NameU="Rose Chart 1" Name="장미 차트1"/>
+    <Elem NameU="Rose Chart 2" Name="장미 차트2"/>
+    <Elem NameU="Gradient Rose Chart 1" Name="그라데이션 장미 차트1"/>
+    <Elem NameU="Gradient Rose Chart 2" Name="그라데이션 장미 차트2"/>
+    <Elem NameU="Gradient Rose Chart 3" Name="그라데이션 장미 차트3"/>
+    <Elem NameU="Rose Chart 3" Name="장미 차트3"/>
+    <Elem NameU="Gradient Rose Chart 4" Name="그라데이션 장미 차트4"/>
+</Lib>

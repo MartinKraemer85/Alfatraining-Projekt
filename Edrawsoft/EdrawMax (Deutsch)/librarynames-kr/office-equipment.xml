@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Office Equipment">
+    <Elem NameU="Desktop pc" Name="데스크탑 컴퓨터"/>
+    <Elem NameU="PC" Name="PC"/>
+    <Elem NameU="Telephone" Name="전화"/>
+    <Elem NameU="Phone" Name="폰"/>
+    <Elem NameU="Fax" Name="팩스"/>
+    <Elem NameU="PC Monitor" Name="PC모니터"/>
+    <Elem NameU="Keyboard" Name="키보드"/>
+    <Elem NameU="Tower PC" Name="타워 PC"/>
+    <Elem NameU="Mouse" Name="마우스"/>
+    <Elem NameU="Modem" Name="모뎀"/>
+    <Elem NameU="Scanner" Name="스캐너"/>
+    <Elem NameU="Printer" Name="인쇄기"/>
+    <Elem NameU="Xerox" Name="복제"/>
+    <Elem NameU="Plotter" Name="플로터"/>
+    <Elem NameU="Document Shredder" Name="분쇄기"/>
+    <Elem NameU="Router" Name="라우터"/>
+    <Elem NameU="Switch" Name="스위치"/>
+    <Elem NameU="Wireless Hub" Name="무선 허브"/>
+    <Elem NameU="Hub" Name="허브"/>
+    <Elem NameU="Office Lamp" Name="오피스 램프"/>
+    <Elem NameU="Projector" Name="프로젝터"/>
+    <Elem NameU="Overhead Projector" Name="오버헤드 프로젝터"/>
+    <Elem NameU="Projector Screen" Name="프로젝터 스크린"/>
+    <Elem NameU="Marker Board" Name="마커 보드"/>
+    <Elem NameU="Plasma Panel" Name="플라스마 패널"/>
+    <Elem NameU="Cash Register" Name="금전 등록기"/>
+    <Elem NameU="POS-Terminal" Name="POS기"/>
+    <Elem NameU="Paper Tray" Name="종이 트레이"/>
+    <Elem NameU="Coat Rack" Name="옷걸이"/>
+    <Elem NameU="Square Waste Can" Name="쓰레기통"/>
+</Lib>

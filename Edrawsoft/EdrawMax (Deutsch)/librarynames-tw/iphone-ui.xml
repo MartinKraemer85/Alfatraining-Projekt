@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="iPhone UI">
+    <Elem NameU="iPhone 5" Name="iPhone 5&#x9;"/>
+    <Elem NameU="iPhone 6" Name="iPhone 6&#x9;"/>
+    <Elem NameU="iPhone 6 Plus" Name="iPhone 6 Plus&#x9;"/>
+    <Elem NameU="Status Bar" Number="4" Name="狀態欄"/>
+    <Elem NameU="Navigation Bar 1" Name="導航欄1"/>
+    <Elem NameU="Navigation Bar 2" Name="導航欄2"/>
+    <Elem NameU="Navigation Bar 3" Name="導航欄3"/>
+    <Elem NameU="Button and NavBar Tool" Number="2" Name="按鈕和導航欄工具"/>
+    <Elem NameU="Three Buttons Control 1" Name="三個按鈕控件 1"/>
+    <Elem NameU="Three Buttons Control 2" Name="三個按鈕控件 2"/>
+    <Elem NameU="Two Buttons Control 1" Name="兩個按鈕控件 1"/>
+    <Elem NameU="Two Buttons Control 2" Name="兩個按鈕控件 2"/>
+    <Elem NameU="Search bar" Name="搜索欄"/>
+    <Elem NameU="Message Bar" Name="信息欄"/>
+    <Elem NameU="Dialog box" Number="3" Name="對話框"/>
+    <Elem NameU="Menu bar" Number="4" Name="菜單欄"/>
+    <Elem NameU="Menu Bar 1" Name="菜單欄 1"/>
+    <Elem NameU="Menu Bar 2" Name="菜單欄 2"/>
+    <Elem NameU="Menu Bar 3" Name="菜單欄 3"/>
+    <Elem NameU="Menu Bar 4" Name="菜單欄 4"/>
+    <Elem NameU="Menu Bar 5" Name="菜單欄 5"/>
+    <Elem NameU="Menu Bar 6" Name="菜單欄 6"/>
+    <Elem NameU="Menu Bar 7" Name="菜單欄 7"/>
+    <Elem NameU="Menu Bar 8" Name="菜單欄 8"/>
+    <Elem NameU="Menu Bar 9" Name="菜單欄 9"/>
+    <Elem NameU="Menu Bar 10" Name="菜單欄 10"/>
+    <Elem NameU="Slider" Number="2" Name="滑塊"/>
+    <Elem NameU="Progress bar" Name="進度條"/>
+    <Elem NameU="Line between" Name="中間線"/>
+    <Elem NameU="Circular Progress View" Number="2" Name="循環進度視圖"/>
+    <Elem NameU="Dialog 1" Name="對話 1"/>
+    <Elem NameU="Dialog 2" Name="對話 2"/>
+    <Elem NameU="Dialog 3" Name="對話 3"/>
+    <Elem NameU="Dialog 4" Name="對話 4"/>
+    <Elem NameU="Time" Number="2" Name="時間"/>
+    <Elem NameU="Weather" Name="天氣"/>
+    <Elem NameU="Menu" Name="菜單"/>
+    <Elem NameU="Phone keyboard" Name="電話鍵盤"/>
+    <Elem NameU="Phone buttons" Name="電話按鈕"/>
+    <Elem NameU="MENU-Call Related Features" Name="菜單調用相關功能"/>
+    <Elem NameU="Code keyboard" Name="代碼鍵盤"/>
+    <Elem NameU="Keyboard Control" Number="2" Name="鍵盤控制"/>
+    <Elem NameU="Number Keyboard" Name="數字鍵盤"/>
+    <Elem NameU="Symbols keyboard" Name="符號鍵盤"/>
+    <Elem NameU="Message" Name="消息"/>
+    <Elem NameU="Messages" Name="信息"/>
+    <Elem NameU="Image" Name="圖像"/>
+    <Elem NameU="User" Name="用戶"/>
+    <Elem NameU="Turn On" Name="打開"/>
+    <Elem NameU="Turn Off" Name="關掉"/>
+    <Elem NameU="Delete Button" Name="刪除按鈕"/>
+    <Elem NameU="Back" Name="背"/>
+    <Elem NameU="Slider 1" Name="滑塊 1"/>
+    <Elem NameU="Slider 2" Name="滑塊 2"/>
+    <Elem NameU="Button Bar" Number="2" Name="按鈕欄"/>
+    <Elem NameU="Button" Name="按鈕"/>
+    <Elem NameU="Small Blue Button" Name="藍色小按鈕"/>
+    <Elem NameU="Small Red Button" Name="紅色小按鈕"/>
+    <Elem NameU="Small Black" Name="小黑"/>
+    <Elem NameU="Header Button" Name="標題按鈕"/>
+    <Elem NameU="Header Back" Name="收割台背面"/>
+    <Elem NameU="Header Forward" Name="頭部向前"/>
+    <Elem NameU="Up/Down Button" Name="上/下按鈕"/>
+    <Elem NameU="Radio Button On" Name="單選按鈕打開"/>
+    <Elem NameU="Checkbox Button Off" Name="複選框按鈕關閉"/>
+    <Elem NameU="Checkbox On Button" Name="按鈕上的複選框"/>
+    <Elem NameU="Ok Blue" Name="好的 藍色"/>
+    <Elem NameU="Ok Green" Name="好的 綠色"/>
+    <Elem NameU="Close Blue Button" Name="關閉藍色按鈕"/>
+    <Elem NameU="Close White" Name="關閉白色按鈕"/>
+    <Elem NameU="Up Blue Button" Name="上藍色按鈕"/>
+    <Elem NameU="Up White Button" Name="上白色按鈕"/>
+    <Elem NameU="Add Green Transparent Button" Name="添加綠色透明按鈕"/>
+    <Elem NameU="Delete Transparent Button" Name="刪除透明按鈕"/>
+    <Elem NameU="Rec Button" Name="“錄製”按鈕"/>
+    <Elem NameU="App Button" Name="應用程式按鈕"/>
+    <Elem NameU="Volume Control" Name="音量控制"/>
+    <Elem NameU="Checkbox" Name="複選框"/>
+    <Elem NameU="Refresh" Name="刷新"/>
+    <Elem NameU="Unread Message" Name="未讀郵件"/>
+    <Elem NameU="Add and Delete" Name="添加和刪除"/>
+    <Elem NameU="Close" Name="關閉"/>
+    <Elem NameU="OK Blue" Name="好的 藍色"/>
+    <Elem NameU="Add Blue" Name="添加藍色"/>
+    <Elem NameU="Icons" Name="圖標"/>
+    <Elem NameU="Star" Name="星星"/>
+    <Elem NameU="Pause" Name="暫停"/>
+    <Elem NameU="Information" Name="問詢處"/>
+    <Elem NameU="Left and Right" Name="左和右"/>
+    <Elem NameU="Up and Down" Name="上和下"/>
+    <Elem NameU="Near Me" Name="靠近我"/>
+    <Elem NameU="Icon Group 1" Name="圖標組 1"/>
+    <Elem NameU="Icon Group 2" Name="圖標組 2"/>
+    <Elem NameU="Icon Group 3" Name="圖標組 3"/>
+    <Elem NameU="App Icon" Name="圖標應用程式"/>
+    <Elem NameU="Block" Name="阻塞"/>
+    <Elem NameU="Text" Name="文本"/>
+    <Elem NameU="Text Selection Frame" Name="文本選擇框"/>
+    <Elem NameU="Selection Frame" Name="選擇框"/>
+    <Elem NameU="Alert" Name="警報"/>
+</Lib>

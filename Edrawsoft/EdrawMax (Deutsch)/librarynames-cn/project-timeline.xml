@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Project Timeline">
+	<Elem NameU="Time Bar" Name="时间轴"/>
+	<Elem NameU="Diamond Milestone" Name="菱形里程碑"/>
+	<Elem NameU="Circle Milestone" Name="圆形里程碑"/>
+	<Elem NameU="Rect Milestone" Name="矩形里程碑"/>
+	<Elem NameU="Triangle Milestone 2" Name="三角形里程碑 2"/>
+	<Elem NameU="Line Milestone" Name="线状里程碑"/>
+	<Elem NameU="Multi-style Mission" Name="多样式任务"/>
+	<Elem NameU="Point Mission" Name="点状任务"/>
+	<Elem NameU="Interval Description" Name="时间段"/>
+	<Elem NameU="Side Brace" Name="边描述框"/>
+	<Elem NameU="Milestone" Name="里程碑"/>
+	<Elem NameU="Flag Milestone" Name="标记里程碑"/>
+</Lib>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="AWS Database">
+    <Elem NameU="ElastiCache Memcache" Name="ElastiCache雲緩存"/>
+    <Elem NameU="ElastiCache Redis" Name="ElastiCache Redis"/>
+    <Elem NameU="ElasticCache Node" Name="ElasticCache 節點"/>
+    <Elem NameU="ElasticCache" Name="ElasticCache"/>
+    <Elem NameU="RDS DB Instance" Name="RDS 資料庫實例"/>
+    <Elem NameU="Instance Read Replica" Name="實例只讀副本"/>
+    <Elem NameU="Instance Standby" Name="備用實例"/>
+    <Elem NameU="MS SQL Instance" Name="MS SQL實例"/>
+    <Elem NameU="MySQL DB Instance" Name="MySQL資料庫實例"/>
+    <Elem NameU="RDS" Name="RDS"/>
+    <Elem NameU="Redshift DW1 Cluster" Name="Redshift DW1集群"/>
+    <Elem NameU="DW2 Cluster" Name="DW2集群"/>
+    <Elem NameU="SSD Family Cluster" Name="SSD家庭集群"/>
+    <Elem NameU="RedShift" Name="紅移"/>
+    <Elem NameU="SimpleDB Domain" Name="簡單資料庫域名"/>
+    <Elem NameU="SimpleDB" Name="簡單資料庫"/>
+    <Elem NameU="DB" Name="資料庫"/>
+    <Elem NameU="Global Secondary Indexes" Name="全球二級索引"/>
+    <Elem NameU="Attribute" Name="屬性"/>
+    <Elem NameU="Attributes" Name="屬性"/>
+    <Elem NameU="Item" Name="項目"/>
+    <Elem NameU="Items" Name="項目"/>
+    <Elem NameU="Table" Name="桌面"/>
+    <Elem NameU="RDS MasterSQL" Name="遠程資料服務 MasterSQL"/>
+    <Elem NameU="RDS Replica sets with PIOP" Name="有採集處理系統的RDS副本集"/>
+    <Elem NameU="RDS SlaveSQL" Name="遠程資料服務 SlaveSQL"/>
+</Lib>

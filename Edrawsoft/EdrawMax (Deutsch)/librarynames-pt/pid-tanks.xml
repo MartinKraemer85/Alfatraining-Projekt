@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="PID Tanks">
+<Elem NameU="5-gallon bucket" Name="Balde de 5 galões"/>
+<Elem NameU="Air cylinder" Name="Cilindro de ar"/>
+<Elem NameU="Air tank" Name="Tanque de ar"/>
+<Elem NameU="Barrel" Name="Barril"/>
+<Elem NameU="Batch tank" Name="Tanque de Lote"/>
+<Elem NameU="Bolt 1" Name="Parafuso 1"/>
+<Elem NameU="Bolt 2" Name="Parafuso 2"/>
+<Elem NameU="Brew kettle" Name="Chaleira de infusão"/>
+<Elem NameU="Container" Name="Contentor"/>
+<Elem NameU="Corrosion resistant tank (medium)" Name="Tanque resistente à corrosão (médio)"/>
+<Elem NameU="Day tank" Name="Tanque diário"/>
+<Elem NameU="Drum" Name="Tambor"/>
+<Elem NameU="Elliptical bulk storage tank" Name="Tanque de armazenamento de lote elíptico"/>
+<Elem NameU="Flour Storage Tank" Name="Tanque de Armazenamento de Farinha"/>
+<Elem NameU="Flat vessel 1" Name="Vaso plano 1"/>
+<Elem NameU="Flat vessel 2" Name="Vaso plano 2"/>
+<Elem NameU="Flat vessel 3" Name="Vaso plano 3"/>
+<Elem NameU="Flat vessel 4" Name="Vaso plano 4"/>
+<Elem NameU="Flat vessel 5" Name="Vaso plano 5"/>
+<Elem NameU="Flat vessel 6" Name="Vaso plano 6"/>
+<Elem NameU="Flat vessel 7" Name="Vaso plano 7"/>
+<Elem NameU="Free-standing leg tank" Name="Tanque em pé"/>
+<Elem NameU="Glass lined tank" Name="Tanque revestido a vidro"/>
+<Elem NameU="Green cylinder" Name="Cilindro verde"/>
+<Elem NameU="Green vessel" Name="Vaso verde"/>
+<Elem NameU="Hatch" Name="Porta"/>
+<Elem NameU="Heat exchanger" Name="Permutador de calor"/>
+<Elem NameU="Hopper" Name="Funil"/>
+<Elem NameU="Homogenize Tank" Name="Tanque de Homogeneizar"/>
+<Elem NameU="Hydropneumatic tank" Name="Tanque hidropneumático"/>
+<Elem NameU="Hot Living Water Tank" Name="Tanque de Água Quente"/>
+<Elem NameU="Large cone-bottom polyethylene tank" Name="Tanque de polietileno grande com fundo em cone"/>
+<Elem NameU="Liquid storage drum" Name="Tambor de armazenamento de líquido"/>
+<Elem NameU="Mix tank" Name="Tanque de mistura"/>
+<Elem NameU="Molded polyethylene tank" Name="Tanque de polietileno moldado"/>
+<Elem NameU="Polyethylene chemical mix tank" Name="Tanque de mistura química de polietileno"/>
+<Elem NameU="Polyethylene mix and fill tank" Name="Tanque de enchimento e mistura de polietileno"/>
+<Elem NameU="Polyethylene storage tank with twin legs" Name="Tanque de armazenamento de polietileno com pernas gémeas"/>
+<Elem NameU="Polyethylene storage tank" Name="Tanque de armazenamento de polietileno"/>
+<Elem NameU="Polyethylene tank" Name="Tanque de polietileno"/>
+<Elem NameU="Polyethylene tank with mixer" Name="Tanque de polietileno com misturador"/>
+<Elem NameU="Pond with plant life" Name="Lago com vida vegetal"/>
+<Elem NameU="Pond" Name="Lago"/>
+<Elem NameU="Pressure vessel" Name="Vaso de pressão"/>
+<Elem NameU="Reactor 1" Name="Reator 1"/>
+<Elem NameU="Reactor 2" Name="Reator 2"/>
+<Elem NameU="Reactor 3" Name="Reator 3"/>
+<Elem NameU="Reactor 4" Name="Reator 4"/>
+<Elem NameU="Reactor tank" Name="Tanque reator"/>
+<Elem NameU="Reactor with agitator" Name="Reator com agitador"/>
+<Elem NameU="Reactor with hatch and ladder" Name="Reator com escotilha e escada"/>
+<Elem NameU="Reinforced tank with mixer" Name="Tanque reforçado com misturador"/>
+<Elem NameU="Round reactor with legs" Name="Rator redondo com pernas"/>
+<Elem NameU="Silo with spiral ladder" Name="Silo com escada em espiral"/>
+<Elem NameU="Silo with straight ladder" Name="Silo com escada reta"/>
+<Elem NameU="Simple process tank" Name="Tanque de processo simples"/>
+<Elem NameU="Simple reactor" Name="Reator simples"/>
+<Elem NameU="Simple tank 1" Name="Tanque simples 1"/>
+<Elem NameU="Simple tank 2" Name="Tanque simples 2"/>
+<Elem NameU="Simple tank 3" Name="Tanque simples 3"/>
+<Elem NameU="Simple tank 4" Name="Tanque simples 4"/>
+<Elem NameU="Simple tank 5" Name="Tanque simples 5"/>
+<Elem NameU="Simple tank system" Name="Sistema de tanque simples"/>
+<Elem NameU="Smooth silo" Name="Silo suave"/>
+<Elem NameU="Spherical tank" Name="Tanque esférico"/>
+<Elem NameU="Spherical tank with rivets" Name="Tanque esférico com rebites"/>
+<Elem NameU="Stabilization tank" Name="Tanque de estabilização"/>
+<Elem NameU="Stainless steel cylinder" Name="Cilindro de aço inoxidável"/>
+<Elem NameU="Storage facility 1" Name="Instalação de armazenamento 1"/>
+<Elem NameU="Storage facility 2" Name="Instalação de armazenamento 2"/>
+<Elem NameU="Storage facility 3" Name="Instalação de armazenamento 3"/>
+<Elem NameU="Storage facility 4" Name="Instalação de armazenamento 4"/>
+<Elem NameU="Storage tank with ladder" Name="Tanque de ar6mazenamento com escada"/>
+<Elem NameU="Storage tank" Name="Tanque de armazenamento"/>
+<Elem NameU="Tank 1" Name="Tanque 1"/>
+<Elem NameU="Tank 2" Name="Tanque 2"/>
+<Elem NameU="Tank 3" Name="Tanque 3"/>
+<Elem NameU="Tank 4" Name="Tanque 4"/>
+<Elem NameU="Tank 5" Name="Tanque 5"/>
+<Elem NameU="Tank 6" Name="Tanque 6"/>
+<Elem NameU="Tank 7" Name="Tanque 7"/>
+<Elem NameU="Tank 8" Name="Tanque 8"/>
+<Elem NameU="Tank 9" Name="Tanque 9"/>
+<Elem NameU="Tank 10" Name="Tanque 10"/>
+<Elem NameU="Tank 11" Name="Tanque 11"/>
+<Elem NameU="Tank 12" Name="Tanque 12"/>
+<Elem NameU="Tank 13" Name="Tanque 13"/>
+<Elem NameU="Tank 14" Name="Tanque 14"/>
+<Elem NameU="Tank 15" Name="Tanque 15"/>
+<Elem NameU="Tank 16" Name="Tanque 16"/>
+<Elem NameU="Dosing Tank" Name="Tanque de Doseamento"/>
+<Elem NameU="Tank bank" Name="Banco de Tanque"/>
+<Elem NameU="Tank support 1" Name="Suporte de Tanque 1"/>
+<Elem NameU="Tank support 2" Name="Suporte de Tanque 2"/>
+<Elem NameU="Tank with cutaway" Name="Tanque com corte"/>
+<Elem NameU="Tank with hatch" Name="Tanque com escotilha"/>
+<Elem NameU="Tank with rivets" Name="Tanque com rebites"/>
+<Elem NameU="Tank with rivets and ladder" Name="Tanque com rebites e escada"/>
+<Elem NameU="Underground storage tank" Name="Tanque de armazenamento subterrâneo"/>
+<Elem NameU="Very smooth tank" Name="Tanque muito suave"/>
+<Elem NameU="Domestic hot water storage tank" Name="Tanque doméstico de armazenamento de água quente"/>
+<Elem NameU="Digestion Reaction Tank" Name="Tanque de Reação de Digestão"/>
+<Elem NameU="Ethanol storage" Name="Armazenamento de etanol"/>
+<Elem NameU="Temporary storage tank" Name="Tanque de armazenamento temporário"/>
+<Elem NameU="The original water tank" Name="O tanque de água original"/>
+<Elem NameU="Insulation cans" Name="Latas de isolamento"/>
+<Elem NameU="Product" Name="Produto"/>
+</Lib>

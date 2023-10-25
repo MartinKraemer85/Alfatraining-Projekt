@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Roadmap">
+  <Elem NameU="Container" Name="Contenitore"/>
+  <Elem NameU="Container" Name="Contenitore"/>
+  <Elem NameU="Container" Name="Contenitore"/>
+  <Elem NameU="Roadmap Card" Name="Card tabella di marcia"/>
+  <Elem NameU="Roadmap Card" Name="Card tabella di marcia"/>
+  <Elem NameU="Roadmap Card" Name="Card tabella di marcia"/>
+  <Elem NameU="Swim Lane" Name="Swim Lane"/>
+  <Elem NameU="Swim Lane" Name="Swim Lane"/>
+  <Elem NameU="Swim Lane" Name="Swim Lane"/>
+  <Elem NameU="Roadmap Group" Name="Gruppo tabella di marcia"/>
+  <Elem NameU="Roadmap Group" Name="Gruppo tabella di marcia"/>
+  <Elem NameU="Roadmap Group" Name="Gruppo tabella di marcia"/>
+</Lib>

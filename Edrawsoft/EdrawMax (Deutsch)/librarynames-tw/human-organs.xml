@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Human Organs">
+    <Elem NameU="Eye" Name="眼睛"/>
+    <Elem NameU="Nose" Name="鼻子"/>
+    <Elem NameU="Ear" Name="耳朵"/>
+    <Elem NameU="Oral" Name="口腔"/>
+    <Elem NameU="Throat" Name="喉嚨"/>
+    <Elem NameU="Ear" Name="耳朵"/>
+    <Elem NameU="Arm" Name="手臂"/>
+    <Elem NameU="Leg" Name="腿"/>
+    <Elem NameU="Foot" Name="腳"/>
+    <Elem NameU="Teeth" Name="牙齒"/>
+    <Elem NameU="Tooth decay" Name="蛀牙"/>
+    <Elem NameU="Stomach" Name="胃"/>
+    <Elem NameU="Kidney" Name="腎"/>
+    <Elem NameU="Spleen" Name="脾"/>
+    <Elem NameU="Liver" Name="肝"/>
+    <Elem NameU="Lung1" Name="肺1"/>
+    <Elem NameU="Lung2" Name="肺2"/>
+    <Elem NameU="Lung3" Name="肺3"/>
+    <Elem NameU="Heart" Name="心"/>
+    <Elem NameU="Uterus" Name="子宮"/>
+    <Elem NameU="Fetus" Name="胎兒"/>
+    <Elem NameU="Intestine" Name="腸道"/>
+    <Elem NameU="Brain1" Name="大腦1"/>
+    <Elem NameU="Brain2" Name="大腦2"/>
+    <Elem NameU="Brain3" Name="大腦3"/>
+    <Elem NameU="Needle" Name="針"/>
+    <Elem NameU="Skull" Name="頭蓋骨"/>
+    <Elem NameU="Rib cage" Name="胸腔"/>
+    <Elem NameU="Spine1" Name="脊椎1"/>
+    <Elem NameU="Spine2" Name="脊椎2"/>
+    <Elem NameU="Spine3" Name="脊椎3"/>
+    <Elem NameU="Spine4" Name="脊椎4"/>
+    <Elem NameU="Hip bone" Name="髖骨"/>
+    <Elem NameU="Bones of hand" Name="手骨"/>
+    <Elem NameU="The skeletal foot" Name="腿骨骼"/>
+    <Elem NameU="Human skeleton" Name="人體骨架"/>
+</Lib>

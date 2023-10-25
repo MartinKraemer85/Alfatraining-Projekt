@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Office Furniture">
+    <Elem NameU="Single Cubicle" Name="單櫃"/>
+    <Elem NameU="Two Seats Cubicle" Number="3" Name="雙櫃"/>
+    <Elem NameU="Cubicle" Number="7" Name="櫃"/>
+    <Elem NameU="Straight workstation" Name="直工作台"/>
+    <Elem NameU="Council workstation" Name="會議工作台"/>
+    <Elem NameU="L workstation" Name="L形工作台"/>
+    <Elem NameU="Table" Name="桌子"/>
+    <Elem NameU="Round table" Name="圓桌"/>
+    <Elem NameU="Desk" Name="書桌"/>
+    <Elem NameU="Racetrack table" Name="橢圓桌"/>
+    <Elem NameU="Boat table" Name="船形桌"/>
+    <Elem NameU="4 seat table" Name="四座桌"/>
+    <Elem NameU="6 seat table" Name="六座桌"/>
+    <Elem NameU="8 seat table" Name="八座桌"/>
+    <Elem NameU="10 seat rounded table" Name="十座圓角桌"/>
+    <Elem NameU="10 seat boat table" Name="十座船形桌"/>
+    <Elem NameU="10 seat table" Name="十座桌"/>
+    <Elem NameU="12 seat table" Name="十二座桌"/>
+    <Elem NameU="16 seat table" Name="十六座桌子"/>
+    <Elem NameU="Multi-chair round table" Name="帶多把椅子的圓桌"/>
+    <Elem NameU="Corner table" Name="角桌"/>
+    <Elem NameU="Round corner" Name="圓角桌"/>
+    <Elem NameU="Work surface" Name="工作台面"/>
+    <Elem NameU="Corner surface" Number="4" Name="拐角檯面"/>
+    <Elem NameU="Work peninsula" Name="半圓工作台"/>
+    <Elem NameU="Bookshelf" Name="書架"/>
+    <Elem NameU="Credenza" Name="書櫃"/>
+    <Elem NameU="Pedestal" Name="台座"/>
+    <Elem NameU="Cabinet" Number="3" Name="櫥櫃"/>
+    <Elem NameU="Storage unit" Name="貯存單元"/>
+    <Elem NameU="Susp coat bar" Name="懸掛式大衣櫃"/>
+    <Elem NameU="Susp open shelf" Name="開放式衣櫃"/>
+    <Elem NameU="Suspended lateral file" Name="橫向櫃"/>
+    <Elem NameU="File" Name="檔案"/>
+    <Elem NameU="Lateral file" Name="直立檔案櫃"/>
+    <Elem NameU="Flat file" Name="平寬檔案櫃"/>
+    <Elem NameU="Swivel tilt chair" Name="可旋轉椅子"/>
+    <Elem NameU="2 seat sofa" Name="雙人沙發"/>
+    <Elem NameU="3 seat sofa" Name="三人沙發"/>
+    <Elem NameU="4 seat sofa" Name="四人沙發"/>
+    <Elem NameU="90 deg table" Name="90度桌子"/>
+    <Elem NameU="Chair" Number="3" Name="椅子"/>
+    <Elem NameU="30 deg seat" Name="30度座椅"/>
+    <Elem NameU="Desk chair" Name="書桌椅"/>
+    <Elem NameU="High stool" Name="高凳"/>
+    <Elem NameU="Stool" Name="凳子"/>
+    <Elem NameU="Panel" Name="面板"/>
+    <Elem NameU="2 panel" Name="2 面板"/>
+    <Elem NameU="3 panel" Name="3 面板"/>
+    <Elem NameU="4 panel" Name="4 面板"/>
+    <Elem NameU="Cross panel" Name="交叉面板"/>
+</Lib>

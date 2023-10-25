@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Alibaba Cloud Big Data">
+
+<Elem Name="ADs" NameU="ADs"/>
+
+<Elem Name="AI認識" NameU="AI recommendation"/>
+
+<Elem Name="BI" NameU="BI"/>
+
+<Elem Name="データの統合" NameU="Data integration"/>
+
+<Elem Name="データレイク解析" NameU="Data lake analytics"/>
+
+<Elem Name="データ V" NameU="Data V"/>
+
+<Elem Name="データワークス" NameU="Data works"/>
+
+<Elem Name="データハブ" NameU="Datahub"/>
+
+<Elem Name="データフィン" NameU="Dataphin"/>
+
+<Elem Name="企業プロファイル" NameU="Enterprise profile"/>
+
+<Elem Name="グラフ分析" NameU="Graph analytics"/>
+
+<Elem Name="IDE" NameU="IDE"/>
+
+<Elem Name="画像解析" NameU="Image analysis"/>
+
+<Elem Name="Iplus I+" NameU="Iplus I+"/>
+
+<Elem Name="ODPS" NameU="ODPS"/>
+
+<Elem Name="オープン ads" NameU="Open ads"/>
+
+<Elem Name="オープン ADs" NameU="Open ADs"/>
+
+<Elem Name="オープンサーチ" NameU="Open search"/>
+
+<Elem Name="プラーナ" NameU="Porana"/>
+
+<Elem Name="預言者" NameU="Prophet"/>
+
+<Elem Name="レコメンデーションエンジン" NameU="Recommendation engine"/>
+
+<Elem Name="ルールエンジン" NameU="Rule engine"/>
+
+<Elem Name="ストリームコンピューティング" NameU="Stream compute"/>
+
+</Lib>

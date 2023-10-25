@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Laboratory Equipment">
+	<Elem NameU="Dropper" Name="Conta-gotas"/>
+	<Elem NameU="Dropping Liquid" Name="Soltar Líquido"/>
+	<Elem NameU="Gas Jar" Name="Jarro de Gás"/>
+	<Elem NameU="Beaker" Name="proveta"/>
+	<Elem NameU="Trough" Name="Gamela"/>
+	<Elem NameU="Flask" Name="Frasco"/>
+	<Elem NameU="Flat Bottomed Flask" Name="Frasco de Fundo Plano"/>
+	<Elem NameU="Conical Flask" Name="Frasco Cónico"/>
+	<Elem NameU="Conical Flask 2" Name="Frasco Cónico 2"/>
+	<Elem NameU="Y Tube" Name="Tubo Y"/>
+	<Elem NameU="Small Test Tube" Name="Tubo de Ensaio Pequeno"/>
+	<Elem NameU="Test Tube" Name="Tubo de Ensaio"/>
+	<Elem NameU="U Tube" Name="Tubo U"/>
+	<Elem NameU="Pear-Shaped Flask" Name="Frasco em Forma de Pêra"/>
+	<Elem NameU="Suction Flask" Name="Frasco de Sucção"/>
+	<Elem NameU="Canula" Name="Cânula"/>
+	<Elem NameU="Liebig Condenser" Name="Condensador Liebig"/>
+	<Elem NameU="Measuring Cylinder" Name="Cilindro de Medição"/>
+	<Elem NameU="Acid Burette" Name="Bureta Ácida"/>
+	<Elem NameU="Alkaline Burette" Name="Bureta Alcalina"/>
+	<Elem NameU="Condenser" Name="Condensador"/>
+	<Elem NameU="Kipp's Apparatus" Name="Aparelho de Kipp"/>
+	<Elem NameU="Kipp's Apparatus 2" Name="Aparelho de Kipp 2"/>
+	<Elem NameU="Separator Funnel" Name="Funil Separador"/>
+	<Elem NameU="Funnel" Name="Funil"/>
+	<Elem NameU="Büchner Funnel" Name="Funil de Büchner"/>
+	<Elem NameU="Desiccator" Name="Dessecador"/>
+	<Elem NameU="Bidirectional Tube" Name="Tubo Bidirecional"/>
+	<Elem NameU="Thermometer" Name="Termómetro"/>
+	<Elem NameU="Iron Stage" Name="Suporte de Ferro"/>
+	<Elem NameU="Iron Stage Clamp" Name="Grampo de Suporte de Ferro "/>
+	<Elem NameU="Glass Rod" Name="Vara de Vidro"/>
+	<Elem NameU="Ladle" Name="Concha"/>
+	<Elem NameU="Crucible" Name="Cadinho"/>
+	<Elem NameU="Evaporation Dish" Name="Prato de Evaporação"/>
+	<Elem NameU="Watch Glass" Name="Vidro de Relógio"/>
+	<Elem NameU="Rubber Tube" Name="Tubo de Borracha"/>
+	<Elem NameU="Right Rubber Tube" Name="Tubo de Borracha à Direita"/>
+	<Elem NameU="Bend Rubber Tube" Name="Tubo de Borracha Dobrado"/>
+	<Elem NameU="Flexible Rubber Tube" Name="Tubo de Borracha Flexível"/>
+	<Elem NameU="Rubber Plug" Name="Tampão de Borracha"/>
+	<Elem NameU="Small Rubber Plug" Name="Tampão de Borracha Pequena"/>
+	<Elem NameU="Glass Plug" Name="Tampão de Vidro"/>
+	<Elem NameU="Pipe Orifice" Name="Orifício da Tubulação"/>
+	<Elem NameU="Switch" Name="Interruptor"/>
+	<Elem NameU="Glass Tube" Name="Tubo de Vidro"/>
+	<Elem NameU="Glass Delivery Tube" Name="Tubo de Saída de Vidro"/>
+	<Elem NameU="Flexible Glass Tube" Name="Tubo de Vidro Flexível"/>
+	<Elem NameU="T-shaped Tube" Name="Tubo em Forma de T"/>
+	<Elem NameU="Alcohol Burner" Name="Bico de Álcool"/>
+	<Elem NameU="Flame" Name="Chama"/>
+	<Elem NameU="Flame 1" Name="Chama 1"/>
+	<Elem NameU="Flame 2" Name="Chama 2"/>
+	<Elem NameU="Balloon" Name="Balão"/>
+	<Elem NameU="Dripping" Name="Gotejar"/>
+	<Elem NameU="Bubble" Name="Bolha"/>
+	<Elem NameU="Shine" Name="Brilho"/>
+	<Elem NameU="Spray" Name="Spray"/>
+	<Elem NameU="Smoke" Name="Fumos"/>
+	<Elem NameU="Fog" Name="Névoa"/>
+	<Elem NameU="Solid" Name="Sólido"/>
+	<Elem NameU="Particle" Name="Partícula"/>
+	<Elem NameU="Diamond" Name="Diamante"/>
+	<Elem NameU="Dry Ice" Name="Gelo Seco"/>
+	<Elem NameU="Ferric Sulfate" Name="Sulfato Férrico"/>
+	<Elem NameU="Graphite" Name="Grafite"/>
+	<Elem NameU="Sodium Hydroxide" Name="Hidróxido de Sódio"/>
+	<Elem NameU="Copper Sheet" Name="Folha de Cobre"/>
+	<Elem NameU="Cotton" Name="Algodão"/>
+	<Elem NameU="Stopcock" Name="Torneira"/>
+	<Elem NameU="Wood Block" Name="Bloco de Madeira"/>
+	<Elem NameU="Balance" Name="Balança"/>
+	<Elem NameU="Weight" Name="Peso"/>
+	<Elem NameU="Three-necked Bottle" Name="Garrafa de Três Pescoços"/>
+	<Elem NameU="Two Mouth Pear-shaped Flask" Name="Frasco de Duas Bocas em Forma de Pêra"/>
+	<Elem NameU="Pear-shaped Flask" Name="Frasco em Forma de Pêra"/>
+	<Elem NameU="Round-bottom Flask" Name="Frasco de Fundo Redondo"/>
+	<Elem NameU="Pear-shaped Fractional Distillation Flask" Name="Frasco de Destilação Fracional em Forma de Pêra"/>
+	<Elem NameU="Measuring Bottle" Name="Garrafa de Medição"/>
+	<Elem NameU="Iodin flask" Name="Frasco de Iodo"/>
+	<Elem NameU="Drying Tube" Name="Tubo de Secagem"/>
+	<Elem NameU="Kjeldahl Distilling Head" Name="Cabeça de Destilar Kjeldahl"/>
+	<Elem NameU="Distilling Head" Name="Cabeça de Destilar"/>
+	<Elem NameU="Triangle Thiele Tube" Name="Tubo de Thiele Triangular"/>
+	<Elem NameU="Dryer" Name="Secador"/>
+	<Elem NameU="Culture Dish" Name="Prato de Cultura"/>
+	<Elem NameU="Flat-bottom Evaporating Dish" Name="Prato de Evaporação de Fundo Plano"/>
+	<Elem NameU="Crucible Tongs" Name="Pinças de cadinho"/>
+	<Elem NameU="Medicine Spoon" Name="Colher de Medicamento"/>
+	<Elem NameU="Tweezer" Name="Pinças"/>
+	<Elem NameU="Asbestosed Wire Gauze" Name="Gaze de Arame de Amianto"/>
+	<Elem NameU="Glass Sheet" Name="Folha de Vidro"/>
+	<Elem NameU="Jar" Name="Jarra"/>
+	<Elem NameU="Weighing Bottle" Name="Garrafa de Pesagem"/>
+	<Elem NameU="medicine bottle" Name="garrafa de medicamento"/>
+	<Elem NameU="Conical Graduated" Name="Graduado Cónico"/>
+	<Elem NameU="Injector" Name="Injetor"/>
+	<Elem NameU="Iron Wire" Name="Arame de Ferro"/>
+	<Elem NameU="Magnesium Ribbon" Name="Fita de Magnésio"/>
+	<Elem NameU="Match" Name="Fósforo"/>
+	<Elem NameU="Candle" Name="Vela"/>
+	<Elem NameU="Tripod" Name="Tripé"/>
+	<Elem NameU="Test Tube Clamp" Name="Grampo de Tubo de Ensaio"/>
+	<Elem NameU="U-Tube piezometer" Name="Piezómetro de Tubo em U"/>
+	<Elem NameU="Microscope" Name="Microscópio"/>
+</Lib>

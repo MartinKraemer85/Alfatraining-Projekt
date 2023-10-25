@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Transmission Path">
+	<Elem NameU="Wire" Name="Fio"/>
+	<Elem NameU="Straight bus" Name="Ônibus direto"/>
+	<Elem NameU="Junction" Name="Junção"/>
+	<Elem NameU="Junction/ crossing" Name="Junção/ cruzamento"/>
+	<Elem NameU="Terminal" Name="Terminal"/>
+	<Elem NameU="Terminal list" Name="Lista de terminais"/>
+	<Elem NameU="Terminal block" Name="Bloco terminal"/>
+	<Elem NameU="Terminal 3-phase" Name="Terminal de 3-fases"/>
+	<Elem NameU="Test point" Name="Ponto de teste"/>
+	<Elem NameU="Label" Name="Etiqueta"/>
+	<Elem NameU="Transmission path" Name="Caminho de transmissão"/>
+	<Elem NameU="Left direction flow" Name="Fluxo com direção à esquerda"/>
+	<Elem NameU="Right direction flow" Name="Fluxo com direção à direita"/>
+	<Elem NameU="Outware flow" Name="Fluxo externo"/>
+	<Elem NameU="Inware flow" Name="Fluxo interno"/>
+	<Elem NameU="Line / Cable" Name="Linha / Cabo"/>
+	<Elem NameU="Underground cable" Name="Cabo subterrâneo"/>
+	<Elem NameU="Submarine cable" Name="Cabo submarino"/>
+	<Elem NameU="Loaded cable" Name="Cabo carregado"/>
+	<Elem NameU="Cable termination" Name="Fim de cabo"/>
+	<Elem NameU="Lead group" Name="Grupo de liderança"/>
+	<Elem NameU="2 conductors cable" Name="2 cabos condutores"/>
+	<Elem NameU="Cable group" Name="Grupo de cabos"/>
+	<Elem NameU="Anticreepage device" Name="Dispositivo anti fuga"/>
+	<Elem NameU="Line concentrator" Name="Concentrador de linha"/>
+	<Elem NameU="Overground enclosure" Name="Invólucro subterrâneo"/>
+	<Elem NameU="Optical cable" Name="Cabo ótico"/>
+	<Elem NameU="Telephone line" Name="Linha telefónica"/>
+	<Elem NameU="Telegraphy line" Name="Linha de telegrafo"/>
+	<Elem NameU="Video line" Name="Linha de vídeo"/>
+	<Elem NameU="Two-wire line" Name="Linha de dois-fios"/>
+	<Elem NameU="Four-wire line" Name="Linha de quatro-fios"/>
+	<Elem NameU="Bus width" Name="Largura de ônibus"/>
+	<Elem NameU="Multi-line bus" Name="Ônibus multi-linhas"/>
+	<Elem NameU="Multi-line bus elbow" Name="Cotovelo de ônibus multi-linhas"/>
+	<Elem NameU="Elbow bus" Name="ônibus de cotovelo"/>
+</Lib>

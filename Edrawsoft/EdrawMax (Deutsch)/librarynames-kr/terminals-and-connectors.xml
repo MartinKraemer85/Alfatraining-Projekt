@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Terminals and Connectors">
+    <Elem NameU="Male Contact" Name="M 접점"/>
+    <Elem NameU="Female Contact" Name="F 접점"/>
+    <Elem NameU="Male Contact 2" Name="M 접점"/>
+    <Elem NameU="Female Contact 2" Name="F 접점 2"/>
+    <Elem NameU="Adapter" Name="어댑터"/>
+    <Elem NameU="Cable terminal" Name="케이블 터미널"/>
+    <Elem NameU="Circuit terminal" Name="회로 터미널"/>
+    <Elem NameU="Terminal board" Name="터미널 보드"/>
+    <Elem NameU="Cable termination" Name="케이블 터미널"/>
+    <Elem NameU="2-conductor jack" Name="2선 잭"/>
+    <Elem NameU="2-conductor plug" Name="2선 플러그"/>
+    <Elem NameU="Normalled jacks" Name="정규화된 잭(양방향)"/>
+    <Elem NameU="Normalled jack" Name="정규화된 잭(단일 방향)"/>
+    <Elem NameU="Coaxial outside conductor" Name="동축 외측 도선"/>
+    <Elem NameU="Coaxial center conductor" Name="동축 중심 도선"/>
+    <Elem NameU="Large D connector" Name="큰 D 커넥터"/>
+    <Elem NameU="Small D connector" Name="작은 D 커넥터"/>
+    <Elem NameU="C header connector" Name="C 헤더 커넥터"/>
+    <Elem NameU="Shielded jack/plug" Name="차폐 잭/플러그"/>
+    <Elem NameU="Coaxial jack/plug" Name="동축 잭/플러그"/>
+    <Elem NameU="F/M 2-conductor 1" Name="F/M 2-선 1"/>
+    <Elem NameU="F/M 2-conductor 2" Name="F/M 2-선 2"/>
+    <Elem NameU="F/M 2-conductor 3" Name="F/M 2-선 3"/>
+    <Elem NameU="F/M 3-conductor 1" Name="F/M 3-선 1"/>
+    <Elem NameU="F/M 3-conductor 2" Name="F/M 3-선 2"/>
+    <Elem NameU="F/M 3-conductor 3" Name="F/M 3-선 3"/>
+    <Elem NameU="F/M 3-conductor 4" Name="F/M 3-선 4"/>
+    <Elem NameU="F/M 3-conductor 5" Name="F/M 3-선 5"/>
+    <Elem NameU="Mated pair" Name="Mated pair"/>
+    <Elem NameU="3-conductor plug" Name="三선 플러그"/>
+    <Elem NameU="3-conductor jack" Name="三선 잭"/>
+</Lib>

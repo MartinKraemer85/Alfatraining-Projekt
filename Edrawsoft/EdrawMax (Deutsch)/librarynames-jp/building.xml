@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Building">
+
+<Elem Name="喫茶店" NameU="Cafe"/>
+
+<Elem Name="ビラ" NameU="Villa"/>
+
+<Elem Name="病院" NameU="Hospital"/>
+
+<Elem Name="ガス" NameU="Gas"/>
+
+<Elem Name="ホテル" NameU="Hotel"/>
+
+<Elem Name="花屋" NameU="Flower Shop"/>
+
+<Elem Name="礼拝堂" NameU="Church"/>
+
+<Elem Name="ビーチビラ" NameU="Beach Villa"/>
+
+<Elem Name="城" NameU="Castle"/>
+
+<Elem Name="郵便局" NameU="Post Office"/>
+
+<Elem Name="マーケット" NameU="Market"/>
+
+<Elem Name="新聞売店" NameU="Newsstand"/>
+
+<Elem Name="ケーキ屋" NameU="Cake Shop"/>
+
+<Elem Name="工場" NameU="Factory"/>
+
+<Elem Name="銀行" NameU="Bank"/>
+
+<Elem Name="洋服店" NameU="Clothing Store"/>
+
+<Elem Name="ジム" NameU="Gym"/>
+
+<Elem Name="学校" NameU="School"/>
+
+<Elem Name="アパート" NameU="Apartment"/>
+
+<Elem Name="介護ホーム" NameU="Nursing Home"/>
+
+<Elem Name="建築" NameU="Building"/>
+
+<Elem Name="本屋" NameU="Bookstore"/>
+
+<Elem Name="図書館" NameU="Library"/>
+
+<Elem Name="警察署" NameU="Police Station"/>
+
+<Elem Name="博物館" NameU="Museum"/>
+
+<Elem Name="ホームステイ" NameU="Homestay"/>
+
+<Elem Name="記念館" NameU="Memorial"/>
+
+<Elem Name="レストラン" NameU="Restaurant"/>
+
+<Elem Name="オフィスビル" NameU="Office Building"/>
+
+</Lib>

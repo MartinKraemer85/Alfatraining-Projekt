@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Electronics">
+    <Elem NameU="PC 1" Name="个人电脑1"/>
+    <Elem NameU="Laptop 1" Name="笔记本电脑1"/>
+    <Elem NameU="PC 2" Name="个人电脑2"/>
+    <Elem NameU="PC 3" Name="个人电脑3"/>
+    <Elem NameU="Desktop 1" Name="桌面1"/>
+    <Elem NameU="Desktop 2" Name="桌面2"/>
+    <Elem NameU="Laptop 2" Name="笔记本电脑2"/>
+    <Elem NameU="Laptop 3" Name="笔记本电脑3"/>
+    <Elem NameU="LCD TV" Name="液晶电视"/>
+    <Elem NameU="iMAC" Name="苹果台式电脑"/>
+    <Elem NameU="iPad" Name="苹果平板电脑"/>
+    <Elem NameU="Mobile" Name="手机"/>
+    <Elem NameU="iWatch" Name="苹果手表"/>
+    <Elem NameU="Microsoft Band 1" Name="微软手环1"/>
+    <Elem NameU="Microsoft Band 2" Name="微软手环2"/>
+    <Elem NameU="Microsoft Band 3" Name="微软手环3"/>
+    <Elem NameU="VR Glasses 1" Name="VR眼镜1"/>
+    <Elem NameU="VR Glasses 2" Name="VR眼镜1"/>
+    <Elem NameU="VR Glasses 3" Name="VR眼镜3"/>
+    <Elem NameU="Server" Name="服务器"/>
+    <Elem NameU="Mainframe" Name="主机"/>
+    <Elem NameU="Switch" Name="转换器"/>
+    <Elem NameU="Fax Machine" Name="传真机"/>
+    <Elem NameU="Scanner" Name="扫描仪"/>
+    <Elem NameU="Printer" Name="打印机"/>
+    <Elem NameU="Drone 1" Name="无人机1"/>
+    <Elem NameU="Drone 2" Name="无人机2"/>
+    <Elem NameU="Camera" Name="攝像機"/>
+    <Elem NameU="Dome Camera" Name="半球攝像機"/>
+    <Elem NameU="Microphone" Name="麥克風"/>
+    <Elem NameU="Mouse" Name="鼠標"/>
+    <Elem NameU="Wireless Mouse" Name="無線鼠標"/>
+    <Elem NameU="Floppy" Name="軟盤"/>
+    <Elem NameU="Loudspeaker" Name="喇叭"/>
+    <Elem NameU="iPod" Name="iPod"/>
+    <Elem NameU="Wacom" Name="數位板"/>
+    <Elem NameU="U-disk" Name="U盤"/>
+    <Elem NameU="White Board" Name="白板"/>
+    <Elem NameU="Projector 1" Name="投影儀1"/>
+    <Elem NameU="Projector 2" Name="投影儀2"/>
+    <Elem NameU="Router" Name="路由器"/>
+    <Elem NameU="Camera 1" Name="相機1"/>
+    <Elem NameU="Camera 2" Name="相機2"/>
+    <Elem NameU="Machine" Name="機器"/>
+    <Elem NameU="Phone" Name="電話"/>
+    <Elem NameU="User" Name="用戶"/>
+    <Elem NameU="Organizational chart" Name="組織結構圖"/>
+    <Elem NameU="Cloud 1" Name="雲1"/>
+    <Elem NameU="Cloud 2" Name="雲2"/>
+    <Elem NameU="Lock" Name="鎖"/>
+    <Elem NameU="Link" Name="鏈接"/>
+    <Elem NameU="Search" Name="搜索"/>
+    <Elem NameU="Gear 1" Name="設置1"/>
+    <Elem NameU="Gear 2" Name="設置2"/>
+    <Elem NameU="Gear 3" Name="設置3"/>
+    <Elem NameU="Gear 4" Name="設置4"/>
+</Lib>

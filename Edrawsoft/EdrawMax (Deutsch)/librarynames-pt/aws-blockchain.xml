@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="AWS Blockchain">
+	<Elem NameU="Blockchain" Name="Blockchain"/>
+	<Elem NameU="Managed-Blockchain" Name="Blockchain gerenciado"/>
+	<Elem NameU="Quantum-Ledger-Database-QLDB" Name="Quantum Ledger Base de Dados QLDB"/>
+	<Elem NameU="Blockchain_Resource-Icon" Name="Ícone de recurso Blockchain"/>
+</Lib>

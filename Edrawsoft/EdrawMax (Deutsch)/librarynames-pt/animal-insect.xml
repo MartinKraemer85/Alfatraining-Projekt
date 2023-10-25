@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Animals-Insect">
+	<Elem NameU="Beetles 1" Name="Besouros 1"/>
+	<Elem NameU="Beetles 2" Name="Besouros 2"/>
+	<Elem NameU="Beetles 3" Name="Besouros 3"/>
+	<Elem NameU="Mantis" Name="Louva-a-deus"/>
+	<Elem NameU="Fly" Name="Mosca"/>
+	<Elem NameU="Bees 1" Name="Abelhas 1"/>
+	<Elem NameU="Bees 2" Name="Abelhas 2"/>
+	<Elem NameU="Caterpillar" Name="Lagarta"/>
+	<Elem NameU="Butterfly 1" Name="Borboleta 1"/>
+	<Elem NameU="Butterfly 2" Name="Borboleta 2"/>
+	<Elem NameU="Butterfly3" Name="Borboleta3"/>
+	<Elem NameU="Dragonfly" Name="Libélula"/>
+	<Elem NameU="Glowworm" Name="Vaga-lume"/>
+	<Elem NameU="Snail" Name="Caracol"/>
+	<Elem NameU="Scorpion" Name="Escorpião"/>
+	<Elem NameU="Grasshopper" Name="Gafanhoto"/>
+	<Elem NameU="Cicada" Name="Cigarra"/>
+	<Elem NameU="Earthworm 1" Name="Minhoca 1"/>
+	<Elem NameU="Earthworm 2" Name="Minhoca 2"/>
+	<Elem NameU="Spider" Name="Aranha"/>
+	<Elem NameU="Ant 2" Name="Formiga 2"/>
+	<Elem NameU="Ant 1" Name="Formiga 1"/>
+	<Elem NameU="Mosquito" Name="Mosquito"/>
+	<Elem NameU="Moth" Name="Traça"/>
+	<Elem NameU="Cockroach" Name="Barata"/>
+	<Elem NameU="Lucanidae" Name="Lucanidae"/>
+	<Elem NameU="Dicelosternus Corallinus" Name="Dicelosternus Corallinus"/>
+</Lib>

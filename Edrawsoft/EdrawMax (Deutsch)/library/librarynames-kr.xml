@@ -1,0 +1,617 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LibNames Version="8.0">
+    <Library NameU="Column Chart" Name="기둥형 차트"/>
+    <Library NameU="Funnel Chart" Name="깔때기형 차트"/>
+    <Library NameU="Gauge Chart" Name="게이지 차트"/>
+    <Library NameU="Line and Area Charts" Name="선 및 영역 차트"/>
+    <Library NameU="Pie and Doughnut Charts" Name="파이 및 도넛형 차트"/>
+    <Library NameU="Radar Chart" Name="방사형 차트"/>
+    <Library NameU="Scatter and Bubble Charts" Name="분산형 및 버블형 차트"/>
+    <Library NameU="Medical" Name="메디컬"/>
+
+    <Library NameU="2D Block" Name="2D 블록"/>
+    <Library NameU="2D Block Diagram" Name="2D 블록 다이어그램"/>
+    <Library NameU="2D Directional Maps" Name="2D 방향맵"/>
+    <Library NameU="2D Landmarks" Name="2D 랜드마크"/>
+    <Library NameU="3D Block" Name="3D 블록"/>
+    <Library NameU="3D Block Diagram" Name="3D 블록 다이어그램"/>
+    <Library NameU="3D Directional Maps" Name="3D 방향맵"/>
+    <Library NameU="3D Landmarks" Name="3D 랜드마크"/>
+    <Library NameU="3D Network Diagram Shapes" Name="3D 네트워크 다이어그램"/>
+    <Library NameU="AWS App Services" Name="AWS 앱 서비스"/>
+    <Library NameU="AWS Compute and Networking" Name="AWS 컴퓨팅 및 네트워크"/>
+    <Library NameU="AWS Database" Name="AWS 데이터베이스"/>
+    <Library NameU="AWS Deployment and Management" Name="AWS 배포 및 관리"/>
+    <Library NameU="AWS Non-Service Specific" Name="AWS 비 서비스 특정"/>
+    <Library NameU="AWS On-Demand Workforce" Name="AWS 수요에 따른 인력"/>
+    <Library NameU="AWS SDKs" Name="AWS SDKs"/>
+    <Library NameU="AWS Storage Content and Delivery" Name="AWS 저장내용 및 전송"/>
+    <Library NameU="Active Directory" Name="Active Directory"/>
+    <Library NameU="Active Directory Objects" Name="Active Directory 개체"/>
+    <Library NameU="Africa" Name="아프리카"/>
+    <Library NameU="Alarm and Access Control" Name="경보 및 접근 통제"/>
+    <Library NameU="Analog and Digital Logic" Name="아날로그와 디지털 로직"/>
+	<Library NameU="Alibaba Cloud" Name="알리바바 클라우드"/>
+	<Library NameU="Alibaba Cloud AI" Name="알리바바 클라우드 AI"/>
+	<Library NameU="Others" Name="알리바바 기타 기호"/>
+	<Library NameU="Alibaba Cloud Enterprise application" Name="알리바바 클라우드 기업 응용"/>
+	<Library NameU="Alibaba Cloud Big Data" Name="알리바바 클라우드 빅데이터"/>
+	<Library NameU="Architecture Diagram" Name="아키텍처 다이어그램"/>
+	<Library NameU="Security" Name="알리바바 보안 서비스"/>
+	<Library NameU="Alibaba Cloud IOT" Name="알리바바 클라우드 IOT"/>
+	<Library NameU="Alibaba Cloud Media" Name="알리바바 클라우드 미디어"/>
+	<Library NameU="Middleware" Name="미들웨어"/>
+	<Library NameU="Communication" Name="통신"/>
+	<Library NameU="Elastic Computing" Name="탄력적 컴퓨팅"/>
+	<Library NameU="Storage" Name="스토리지"/>
+	<Library NameU="Networking" Name="네트워킹"/>
+	<Library NameU="Database Services" Name="데이터베이스 서비스"/>
+	<Library NameU="Monitoring and Management" Name="모니터링 및 관리"/>
+    <Library NameU="Android UI" Name="Android UI"/>
+	<Library NameU="Project Timeline" Name="프로젝트 타임라인"/>
+    <Library NameU="Animal Cells" Name="동물 세포"/>
+    <Library NameU="Animals" Name="동물"/>
+    <Library NameU="Head" Name="헤드"/>
+    <Library NameU="Insect" Name="곤충"/>
+    <Library NameU="Sea Life" Name="해양 생물"/>
+    <Library NameU="Terricole" Name="육지 동물"/>
+    <Library NameU="Appliances" Name="가전"/>
+    <Library NameU="Architecture" Name="건축"/>
+    <Library NameU="Arrow Connectors" Name="연결가능한 화살표"/>
+    <Library NameU="Arrow Shapes" Name="화살표 모양"/>
+    <Library NameU="Asia" Name="아시아"/>
+    <Library NameU="Basic Drawing Shapes" Name="기본 드로잉 모양"/>
+    <Library NameU="Astronomy" Name="천문학"/>
+    <Library NameU="Athletic Ground" Name="운동장"/>
+    <Library NameU="Audit Flow Diagram" Name="감사 흐름 다이어그램"/>
+    <Library NameU="Australia" Name="호주"/>
+    <Library NameU="BPMN-Shapes" Name="BPMN 모양"/>
+    <Library NameU="Backgrounds" Name="배경"/>
+    <Library NameU="Ball and Stick Model" Name="볼 및 스틱 모델"/>
+    <Library NameU="Bar Chart" Name="막대 차트"/>
+    <Library NameU="Basic Drawing Shapes" Name="기본 드로잉 모양"/>
+    <Library NameU="Basic Electrical Symbols" Name="기본 전기 기호"/>
+    <Library NameU="Basic Flowchart Shapes" Name="기본 흐름도 모양"/>
+    <Library NameU="Bathroom" Name="화장실"/>
+    <Library NameU="Bedroom" Name="침실"/>
+    <Library NameU="Birthday" Name="생일"/>
+    <Library NameU="Booch OOD" Name="Booch OOD"/>
+    <Library NameU="Borders" Name="테두리"/>
+    <Library NameU="Brainstorming" Name="브레인스토밍"/>
+    <Library NameU="Bubble Shapes" Name="버블 모양"/>
+    <Library NameU="Building Core" Name="건축물 핵심"/>
+    <Library NameU="Business" Name="비지니스"/>
+    <Library NameU="Business-Flat" Name="비지니스-평면"/>
+    <Library NameU="Business Icons" Name="비지니스 아이콘"/>
+    <Library NameU="Business Card Templates" Name="명함 템플릿"/>
+    <Library NameU="Business Card Text" Name="명함 텍스트"/>
+    <Library NameU="Business Scene" Name="비지니스 상황"/>
+    <Library NameU="Canvas Templates" Name="캔버스 템플릿"/>	
+    <Library NameU="CCTV Equipment" Name="CCTV 장비"/>
+    <Library NameU="COM and OLE" Name="COM 과 OLE"/>
+    <Library NameU="Commom Objects" Name="일반 물품"/>
+    <Library NameU="Cabinets and Bookcases" Name="캐비닛과 책장"/>
+    <Library NameU="Calendar" Name="달력"/>
+    <Library NameU="Callouts" Name="말풍선"/>
+    <Library NameU="Canada" Name="캐나다"/>
+    <Library NameU="Carnival" Name="카니발"/>
+    <Library NameU="Carpet" Name="카펫"/>
+    <Library NameU="Cause and Effect Diagram" Name="원인 및 결과 다이어그램"/>
+    <Library NameU="Certificate" Name="증서"/>
+    <Library NameU="Chemical Equation" Name="화학 방정식"/>
+    <Library NameU="Chen ERD" Name="Chen ERD"/>
+    <Library NameU="Child Dress" Name="아동복"/>
+    <Library NameU="Children's Day" Name="어린이의 날"/>
+    <Library NameU="Christmas" Name="크리스마스"/>
+    <Library NameU="Circular Charting Shapes" Name="원형 차트 모양"/>
+    <Library NameU="Cisco Basic" Name="Cisco 기본 장비"/>
+    <Library NameU="Cisco Buildings" Name="Cisco 빌딩"/>
+    <Library NameU="Cisco IBM Products" Name="Cisco IBM 제품"/>
+    <Library NameU="Cisco LAN" Name="Cisco LAN"/>
+    <Library NameU="Cisco Miscellaneous" Name="Cisco 기타"/>
+    <Library NameU="Cisco People" Name="Cisco 사람"/>
+    <Library NameU="Cisco Products 1" Name="Cisco 제품 1"/>
+    <Library NameU="Cisco Products 2" Name="Cisco 제품 2"/>
+    <Library NameU="Cisco Routers" Name="Cisco 라우터"/>
+    <Library NameU="Cisco Switches" Name="Cisco 교환기"/>
+    <Library NameU="Cisco WAN" Name="Cisco WAN"/>
+    <Library NameU="Cisio Media" Name="Cisco 미디어"/>
+    <Library NameU="Cisco Security Stealthwatch" Name="Cisco 보안"/>
+    <Library NameU="Column" Name="기둥 차트"/>
+    <Library NameU="Common Shapes" Name="일반 모양"/>
+    <Library NameU="Comparison Chart" Name="비교 차트"/>
+	<Library NameU="Sports" Name="체육 운동"/>
+    <Library NameU="Comparison Indicators" Name="비교 지표"/>
+    <Library NameU="Composite Assemblies" Name="복합 어셈블리"/>
+    <Library NameU="Computers and Monitors" Name="컴퓨터와 모니터"/>
+    <Library NameU="Concept Map" Name="개념도"/>
+    <Library NameU="Conceptual Website Shapes" Name="웹 사이트 디자인 모양"/>
+    <Library NameU="Connectors" Name="커넥터"/>
+    <Library NameU="Container" Name="용기"/>
+    <Library NameU="Cross Functional Flowchart" Name="부서 간 업무 흐름도"/>
+    <Library NameU="Custom Organization Chart" Name="지정 조직구조도"/>
+    <Library NameU="Custom Timeline" Name="사용자 지정 타임라인"/>
+    <Library NameU="Data Flow" Name="데이터 흐름"/>
+    <Library NameU="Data Flow Model Diagram" Name="데이터 흐름 모델 다이어그램"/>
+    <Library NameU="Decision Tree" Name="결정 트리"/>
+	<Library NameU="Design Element" Name="디자인 요소"/>
+    <Library NameU="Design Libraryent" Name="디자인 요소"/>
+    <Library NameU="Detailed Network Diagram" Name="디테일 네트워크 다이어그램"/>
+    <Library NameU="Digital Products" Name="디지털 제품"/>
+    <Library NameU="Dimensioning" Name="사이즈 표시"/>
+    <Library NameU="Dining Room (Elevation)" Name="다이닝룸（입체）"/>
+    <Library NameU="EPC Diagram Shapes" Name="EPC 다이어그램"/>
+    <Library NameU="Easter" Name="부활절"/>
+    <Library NameU="Education" Name="교육"/>
+    <Library NameU="Electrical Audio" Name="전기 오디오"/>
+    <Library NameU="Electrical Instruments" Name="전기 기기"/>
+    <Library NameU="Electrical and Telecom" Name="전기 및 통신"/>
+	<Library NameU="Electrical Science" Name="전기 과학"/>
+    <Library NameU="Elevations" Name="입면도"/>
+    <Library NameU="Enterprise Application" Name="기업 애플리케이션"/>
+    <Library NameU="Entity Relationship" Name="엔티티 관계"/>
+    <Library NameU="Environment" Name="환경"/>
+    <Library NameU="Equipment-Centrifuges" Name="장비-원심 분리기"/>
+    <Library NameU="Equipment-Compressors" Name="장비-압축기"/>
+    <Library NameU="Equipment-Crushers" Name="장비-분쇄기"/>
+    <Library NameU="Equipment-Dryers" Name="장비-건조기"/>
+    <Library NameU="Equipment-Filters" Name="장비-필터기"/>
+    <Library NameU="Equipment-General" Name="일반 장비"/>
+    <Library NameU="Equipment-Heat Exchanges" Name="장비-열교환기"/>
+    <Library NameU="Equipment-Instruments" Name="장비-기기"/>
+    <Library NameU="Equipment-Mixers" Name="장비-믹서기"/>
+    <Library NameU="Equipment-Motors" Name="장비-모터"/>
+    <Library NameU="Equipment-Peripheral" Name="장비-주변기기"/>
+    <Library NameU="Equipment-Pumps" Name="장비-펌프"/>
+    <Library NameU="Equipment-Stream Flag" Name="장비-스트림 플래그"/>
+    <Library NameU="Equipment-Valves" Name="장비-밸브"/>
+    <Library NameU="Equipment-Vessels" Name="장비-용기"/>
+    <Library NameU="Europe" Name="유럽"/>
+    <Library NameU="Event Flow Diagram" Name="이벤트 흐름 다이어그램"/>
+    <Library NameU="Exchange Objects" Name="개체 교환"/>
+    <Library NameU="Express-G" Name="Express-G"/>
+    <Library NameU="Family Tree" Name="가족 구성도"/>
+    <Library NameU="Fault Tree Analysis Shapes" Name="결함의 체계적 분석 셰이프"/>
+    <Library NameU="Finance" Name="금융"/>
+    <Library NameU="Fire and Emergency" Name="화재 및 비상 사태"/>
+    <Library NameU="Five Forces Diagram" Name="Five Forces 다이어그램"/>
+    <Library NameU="Flags" Name="기"/>
+    <Library NameU="Food" Name="식품"/>
+    <Library NameU="Forms" Name="표"/>
+    <Library NameU="Fruit" Name="과일"/>
+    <Library NameU="Funnel" Name="깔때기"/>
+    <Library NameU="Gantt" Name="간트"/>
+    <Library NameU="Garden" Name="가든"/>
+    <Library NameU="Gauges" Name="게이지"/>
+	<Library NameU="Genogram" Name="Genogram"/>
+    <Library NameU="Gift Voucher" Name="기프트 쿠폰"/>
+    <Library NameU="Girl Dress 1" Name="여자 드레스 1"/>
+    <Library NameU="Girl Dress 2" Name="여자 드레스 2"/>
+    <Library NameU="Girl Dress 3" Name="여자 드레스 3"/>
+    <Library NameU="Girl Dress 4" Name="여자 드레스 4"/>
+    <Library NameU="Girl Dress 5" Name="여자 드레스 5"/>
+    <Library NameU="Girl Dress 6" Name="여자 드레스 6"/>
+    <Library NameU="Girl Dress 7" Name="여자 드레스 7"/>
+    <Library NameU="Girl Dress 8" Name="여자 드레스 8"/>
+    <Library NameU="Greek Letter" Name="그리스 문자"/>
+    <Library NameU="Guestures" Name="제스처"/>
+    <Library NameU="HOQ and QFD" Name="HOQ and QFD"/>
+    <Library NameU="HVAC Controls" Name="HVAC 제어"/>
+    <Library NameU="HVAC Controls Equipment" Name="HVAC 제어 장비"/>
+    <Library NameU="HVAC Ductwork" Name="HVAC 덕트 공사"/>
+    <Library NameU="HVAC Equipment" Name="HVAC 장비"/>
+    <Library NameU="Half-length" Name="반-길이"/>
+    <Library NameU="Halloween" Name="핼로윈"/>
+    <Library NameU="Highlight Flowchart Shapes" Name="하이라이트 흐름도"/>
+    <Library NameU="Highlight Shapes" Name="하이라이트 셰이프"/>
+    <Library NameU="Human Organs" Name="인간 장기"/>
+    <Library NameU="IDEF0" Name="IDEF0"/>
+    <Library NameU="IDEF2" Name="IDEF2"/>
+    <Library NameU="IOS 6 UI" Name="IOS 6 UI"/>
+    <Library NameU="IOS 7 UI" Name="IOS 7 UI"/>
+    <Library NameU="IOS 8 UI" Name="IOS 8 UI"/>
+    <Library NameU="Icons" Name="아이콘"/>
+	<Library NameU="Image Container" Name="이미지 컨테이너"/>
+    <Library NameU="Infographic Charts" Name="인포그래픽 차트"/>
+    <Library NameU="Initiation and Annunciation" Name="보안 관리 및 장비"/>
+    <Library NameU="Integrated Circuit Components" Name="집적 회로 구성 요소"/>
+    <Library NameU="Jackson" Name="Jackson"/>
+    <Library NameU="Jacobson Use Case" Name="Jacobson 사례"/>
+    <Library NameU="Kitchen (Elevation)" Name="주방"/>
+    <Library NameU="Kitchen and Dining Room" Name="주방과 다이닝룸"/>
+    <Library NameU="LDAP Objects" Name="LDAP 개체"/>
+    <Library NameU="Laboratory Equipment" Name="실험 장비"/>
+    <Library NameU="Language Level Shapes" Name="언어 수준 셰이프"/>
+    <Library NameU="Lighting" Name="조명 장비"/>
+    <Library NameU="Lighting and Handbag (Elevation)" Name="조명 및 핸드백"/>
+    <Library NameU="Line and Area" Name="라인 및 영역"/>
+    <Library NameU="List Shapes" Name="셰이프 리스트"/>
+    <Library NameU="Maintenance Symbol" Name="유지 보수 기호"/>
+    <Library NameU="Man Suit" Name="남자 슈트"/>
+    <Library NameU="Map Vehicles" Name="교통도구"/>
+    <Library NameU="Maps and Charts" Name="맵과 차트"/>
+	<Library NameU="Mark" Name="표시"/>
+    <Library NameU="Marketing Diagrams" Name="마케팅 다이어그램"/>
+    <Library NameU="Marketing Shapes" Name="마케팅 셰이프"/>
+    <Library NameU="Martin ERD" Name="Martin ERD"/>
+    <Library NameU="Mathematical Symbol" Name="숫자 기호"/>
+    <Library NameU="Matrix" Name="행렬"/>
+    <Library NameU="Mechanics" Name="역학"/>
+    <Library NameU="Medical" Name="의학"/>
+    <Library NameU="Memory Objects" Name="메모리 개체"/>
+    <Library NameU="Mind Map Shapes" Name="마인드맵"/>
+    <Library NameU="Miscellaneous Flowchart Shapes" Name="기타 순서도 셰이프"/>
+    <Library NameU="Models" Name="모델"/>
+    <Library NameU="Molecular Model" Name="분자 모델"/>
+    <Library NameU="Money" Name="화페"/>
+    <Library NameU="Music" Name="음악"/>
+    <Library NameU="Nassi-Shneiderman" Name="Nassi-Shneiderman"/>
+    <Library NameU="Network Locations" Name="네트워크 위치"/>
+    <Library NameU="Network Symbols" Name="네트워크 기호"/>
+    <Library NameU="Network and Peripherals" Name="네트워크 및 주변 장치"/>
+	<Library NameU="Network Plan Technology" Name="Network Plan Technology"/>
+    <Library NameU="New Year" Name="새해"/>
+    <Library NameU="News" Name="뉴스"/>
+    <Library NameU="ORM Diagram" Name="ORM 다이어그램"/>
+    <Library NameU="Object Relationship" Name="개체 관계도"/>
+    <Library NameU="Office" Name="오피스 용품"/>
+    <Library NameU="Office Equipment" Name="오피스 장비"/>
+    <Library NameU="Office Furniture" Name="오피스 가구"/>
+    <Library NameU="Optical Symbols" Name="광학 기호"/>
+    <Library NameU="Optics" Name="광학"/>
+    <Library NameU="Organization Chart Shapes" Name="조직구조도"/>
+    <Library NameU="Organization Structure" Name="조직구조"/>
+    <Library NameU="PERT Chart Shapes" Name="PERT 차트"/>
+    <Library NameU="PEST" Name="PEST"/>
+    <Library NameU="PID Blowers" Name="PID 송풍기"/>
+    <Library NameU="PID Boilers" Name="PID 보일러"/>
+    <Library NameU="PID Buildings" Name="PID 건축"/>
+    <Library NameU="PID Chemistry" Name="PID 화학"/>
+    <Library NameU="PID Computer Keys" Name="PID 컴퓨터 키보드"/>
+    <Library NameU="PID Containers" Name="PID 용기"/>
+    <Library NameU="PID Ductwork" Name="PID 더트 공사"/>
+    <Library NameU="PID Flow Meters" Name="PID 유량계"/>
+    <Library NameU="PID Food Processing" Name="PID 식품가공"/>
+    <Library NameU="PID HVAC" Name="PID HVAC"/>
+    <Library NameU="PID Heaters" Name="PID 가열기"/>
+    <Library NameU="PID Industry" Name="PID 공업"/>
+    <Library NameU="PID Lights" Name="PID 라이트"/>
+    <Library NameU="PID Logistics" Name="PID 물류"/>
+    <Library NameU="PID Machines" Name="PID 기계"/>
+    <Library NameU="PID Material Handling" Name="PID 재료 운송"/>
+    <Library NameU="PID Meters" Name="PID 미터"/>
+    <Library NameU="PID Mixers" Name="PID 믹서기"/>
+    <Library NameU="PID Motors" Name="PID 모터"/>
+    <Library NameU="PID Plant Facilities" Name="PID 공장 설비"/>
+    <Library NameU="PID Power" Name="PID 电源"/>
+    <Library NameU="PID Process Cooling" Name="PID 쿨링"/>
+    <Library NameU="PID Process Heating" Name="PID 가열"/>
+    <Library NameU="PID Pumps" Name="PID 펌프"/>
+    <Library NameU="PID Push Buttons" Name="PID 버튼"/>
+    <Library NameU="PID Safety" Name="PID 보안"/>
+    <Library NameU="PID Tanks" Name="PID 탱크"/>
+    <Library NameU="PID Valves" Name="PID 밸브"/>
+    <Library NameU="PID Valves Symbols" Name="PID 밸브 기호"/>
+    <Library NameU="PID Wastewater Treatment" Name="PID 폐수 처리"/>
+    <Library NameU="PID Wires and Cables" Name="PID 전선 및 케이블"/>
+    <Library NameU="People" Name="사람"/>
+    <Library NameU="People-Flat" Name="사람-평면"/>
+    <Library NameU="People Outline" Name="사람 윤곽"/>
+    <Library NameU="Peripheral Equipment" Name="주변 장치"/>
+    <Library NameU="Pie and Doughnut" Name="원형차트와 도넛차트"/>
+    <Library NameU="Piping and Connection Shapes" Name="배관 및 연결 모양"/>
+    <Library NameU="Plant Cell" Name="식물 세포"/>
+    <Library NameU="Plants" Name="식물"/>
+    <Library NameU="Plumbing" Name="배관"/>
+    <Library NameU="Presentation Symbols" Name="프레젠테이션 기호"/>
+    <Library NameU="Process Steps" Name="프로세스 단계"/>
+    <Library NameU="Process Shapes" Name="프로세스 셰이프"/>
+    <Library NameU="Professions" Name="직업"/>
+    <Library NameU="Program Flowchart" Name="프로그램 흐름도"/>
+    <Library NameU="Pyramid Chart" Name="피라미드차트"/>
+    <Library NameU="Qualifying Symbols" Name="보조 기호"/>
+    <Library NameU="ROOM" Name="ROOM"/>
+    <Library NameU="Rack Equipment" Name="랙 장비"/>
+    <Library NameU="Registers Grills and Diffusers" Name="레지스터, 그릴, 디퓨저"/>
+    <Library NameU="Relationship" Name="관계"/>
+    <Library NameU="Relationship Matrix" Name="관계 행렬"/>
+    <Library NameU="Religion" Name="종교"/>
+    <Library NameU="Resistors and Capacitors" Name="저항기 및 커패시터"/>
+    <Library NameU="Road Signs" Name="도로 표지판"/>
+    <Library NameU="Rotating Equip and Mech Functions" Name="회전 장비 및 기계 기능"/>
+    <Library NameU="SDL Diagram" Name="SDL 다이어그램"/>
+    <Library NameU="SSADM" Name="SSADM"/>
+    <Library NameU="Scatter and Bubble" Name="분산도와 버블도"/>
+    <Library NameU="School" Name="학교"/>
+    <Library NameU="Semiconductor Devices" Name="반도체 디바이스"/>
+    <Library NameU="Servers" Name="서버"/>
+    <Library NameU="Shlaer-Mellor OOA" Name="Shlaer-Mellor OOA"/>
+    <Library NameU="Six Sigma" Name="6시그마"/>
+    <Library NameU="Six Sigma Matrix" Name="6시그마"/>
+    <Library NameU="Sofas" Name="소파"/>
+    <Library NameU="Source and Battery" Name="소스 및 배터리"/>
+    <Library NameU="South America" Name="남아메리카"/>
+    <Library NameU="Spider" Name="방사형"/>
+    <Library NameU="Status Table" Name="상태표"/>
+    <Library NameU="Subway" Name="지하철"/>
+    <Library NameU="Switches and Relays" Name="스위치와 계전기 "/>
+    <Library NameU="Symbols" Name="기호"/>
+    <Library NameU="TQM Diagram Shapes" Name="TQM 다이어그램"/>
+    <Library NameU="Tables and Chairs" Name="상과 의자"/>
+    <Library NameU="Technology" Name="기술"/>
+    <Library NameU="Technology-Flat" Name="기술-평면"/>
+    <Library NameU="Telecom Switch and Peripheral Equip" Name="텔레콤 스위치 및 주변 장치"/>
+    <Library NameU="Terminals and Connectors" Name="터미널 및 커넥터"/>
+	<Library NameU="Text" Name="텍스트"/>
+    <Library NameU="Text Block" Name="텍스트 블록"/>
+    <Library NameU="Text Box" Name="텍스트 상자"/>
+    <Library NameU="Timeline" Name="타임라인"/>
+    <Library NameU="Titles" Name="제목"/>
+    <Library NameU="Touch Gesture" Name="터치 제스처"/>
+    <Library NameU="Tourism" Name="여행"/>
+    <Library NameU="Transformers and Windings" Name="변압기 및 권선"/>
+    <Library NameU="Transmission Path" Name="전송 경로"/>
+    <Library NameU="Transportation" Name="교통"/>
+    <Library NameU="UML Activity State Diagram" Name="UML 다이어그램"/>
+    <Library NameU="UML Class Diagram" Name="UML 다이어그램"/>
+    <Library NameU="UML Communication Diagram" Name="UML 커뮤니케이션 다이어그램"/>
+    <Library NameU="UML Component Diagram" Name="UML 구성"/>
+    <Library NameU="UML Deployment Diagram" Name="UML 배포 다이어그램"/>
+    <Library NameU="UML Sequence Diagram" Name="UML 순서 다이어그램"/>
+    <Library NameU="UML Statechart Diagram" Name="UML 상태 다이어그램"/>
+    <Library NameU="UML Use Case Diagram" Name="UML 케이스 다이어그램"/>
+    <Library NameU="USA" Name="미국"/>
+    <Library NameU="VHF-UHF-SHF" Name="VHF-UHF-SHF"/>
+    <Library NameU="Valentine's Day" Name="발렌타인데이"/>
+    <Library NameU="Value Chain" Name="밸류체인"/>
+    <Library NameU="Value Stream Mapping" Name="가치 스트림 매핑"/>
+    <Library NameU="Vector Icons" Name="벡터 아이콘"/>
+    <Library NameU="Vehicles" Name="교통도구"/>
+    <Library NameU="Venn Chart" Name="벤 차트"/>
+    <Library NameU="Venn Shapes" Name="벤 차트"/>
+    <Library NameU="Video Surveillance" Name="비디오 모니터링"/>
+    <Library NameU="Video and Audio Ports" Name="비디오와 오디오 포트"/>
+    <Library NameU="WBS Shapes" Name="WBS 셰이프"/>
+    <Library NameU="Wall Shell and Structure" Name="벽，쉘 및 구조"/>
+    <Library NameU="Wall, Door, Window and Structure" Name="벽，문，창문과 구조"/>
+    <Library NameU="Wardrobe" Name="옷장（입면도）"/>
+    <Library NameU="Weather" Name="날씨"/>
+    <Library NameU="Web Site Map" Name="웹사이트맵"/>
+    <Library NameU="Doors and Windows" Name="창문과 문"/>
+	<Library NameU="Windows and Doors (Elevation)" Name="창문과 문（정면도）"/>
+    <Library NameU="Windows7  UI" Name="Windows7  UI"/>
+    <Library NameU="Wireframe" Name="와이어프레임"/>
+    <Library NameU="WorkFlow Department" Name="작업 흐름 부서"/>
+    <Library NameU="WorkFlow Objects" Name="작업 흐름 개체"/>
+    <Library NameU="WorkFlow Steps" Name="작업 흐름 단계"/>
+    <Library NameU="Yourdon and Coad" Name="Yourdon 과 Coad"/>
+    <Library NameU="iPad UI" Name="iPad UI"/>
+	<Library NameU="Kids Expressions" Name="카툰 표정"/>
+	<Library NameU="Kids Professions" Name="카툰 직업"/>
+	<Library NameU="Kids Sports" Name="카툰 스포츠"/>
+	<Library NameU="Kids Transportation" Name="카툰 교통"/>
+	<Library NameU="Kindergarten Life" Name="유치원 생활"/>
+	<Library NameU="School Life" Name="캠퍼스 생활"/>
+	<Library NameU="Map Pointers" Name="맵 표시점"/>
+	<Library NameU="World Map" Name="세계지도"/>
+	<Library NameU="Lines" Name="라인"/>
+	<Library NameU="Fashion" Name="패션"/>
+	<Library NameU="Basic Charts" Name="기본 차트"/>
+	<Library NameU="Insect" Name="곤충"/>
+	<Library NameU="Animal" Name="동물"/>
+	<Library NameU="Terricole" Name="육지 동물"/>
+	<Library NameU="Sea Life" Name="해양 동물"/>
+	<Library NameU="Business Flat" Name="비지니스-평면"/>
+	<Library NameU="Business Scene 1" Name="비지니스 상황1"/>
+	<Library NameU="Business Scene 2" Name="비지니스 상황2"/>
+	<Library NameU="Office Flat" Name="오피스-평면"/>
+	<Library NameU="Marketing" Name="마케팅"/>
+	<Library NameU="Shopping" Name="쇼핑"/>
+	<Library NameU="Discount labels" Name="세일 태그"/>
+	<Library NameU="Business Scene 1" Name="비지니스 상황1"/>
+	<Library NameU="Desig-Libraryent" Name="디자인 요소"/>
+	<Library NameU="Bow" Name="리본"/>
+	<Library NameU="Heart" Name="하트"/>
+	<Library NameU="Ornament" Name="장식품"/>
+	<Library NameU="Social Media" Name="소셜 미디어"/>
+	<Library NameU="Sticker" Name="스티커"/>
+	<Library NameU="Gestures" Name="제스처"/>
+	<Library NameU="Education Flat" Name="교육용품-평면"/>
+	<Library NameU="Fashion Models" Name="패션 모델"/>
+	<Library NameU="Fashion Clothes" Name="패션"/>
+	<Library NameU="Fashion Items" Name="패션 아이템"/>
+	<Library NameU="Festival" Name="명절"/>
+	<Library NameU="Bread" Name="빵"/>
+	<Library NameU="Drink" Name="음료수"/>
+	<Library NameU="Fruit" Name="과일"/>
+	<Library NameU="Snacks" Name="간식"/>
+	<Library NameU="Tableware" Name="식기"/>
+	<Library NameU="Vegetable" Name="야채"/>
+	<Library NameU="Nature" Name="자연"/>
+	<Library NameU="Flowers" Name="꽃"/>
+	<Library NameU="Leaves" Name="잎"/>
+	<Library NameU="Trees" Name="나무"/>
+	<Library NameU="Landscape" Name="풍경"/>
+	<Library NameU="Silhouette" Name="실루엣"/>
+	<Library NameU="Business People" Name="비지니스맨"/>
+	<Library NameU="Facial Expressions" Name="표정"/>
+	<Library NameU="Facial Expressions" Name="표정"/>
+	<Library NameU="Profession" Name="직업"/>
+	<Library NameU="Profession Half-length" Name="직업-반신도"/>
+	<Library NameU="People Activity Pictogram" Name="인물-픽토그램"/>
+	<Library NameU="3D People Pictogram" Name="3D 인물 픽토그램"/>
+	<Library NameU="Aerospace and Military" Name="항공군사"/>
+	<Library NameU="Aerospace Technology" Name="항공군사"/>
+	<Library NameU="Shipping and Logistics" Name="배송 및 물류"/>
+	<Library NameU="Social Life" Name="사회 생활"/>
+	<Library NameU="News Media" Name="뉴스 미디어"/>
+	<Library NameU="Media" Name="미디어"/>
+	<Library NameU="Building" Name="빌딩"/>
+	<Library NameU="Buildings" Name="건축물"/>
+	<Library NameU="Sports" Name="스포츠"/>
+	<Library NameU="Sport Silhouette" Name="체육 실루엣"/>
+	<Library NameU="Sport Libraryents" Name="운동 기기"/>
+	<Library NameU="Fitness" Name="피트니스"/>
+	<Library NameU="Electronics" Name="전자설비"/>
+	<Library NameU="Artificial Intelligence" Name="인공지능"/>
+	<Library NameU="Biotechnology" Name="바이오테크"/>
+	<Library NameU="Aerospace Technology" Name="항공 우주 기술"/>
+	<Library NameU="Silhouette" Name="실루엣"/>
+	<Library NameU="Amazon Web Services" Name="아마존 웹 서비스"/>
+	<Library NameU="AWS SDKs" Name="AWS 소프트웨어 개발 도구"/>
+	<Library NameU="MS Azure Cloud" Name="MS Azure 클라우드"/>
+	<Library NameU="Microsoft Azure Cloud" Name="Azure 클라우드 컴퓨팅"/>	
+	<Library NameU="Google Cloud" Name="구글 클라우드"/>
+    <Library NameU="Cisco Network" Name="Cisco 네트워크"/>
+	<Library NameU="Cisco Network Topology" Name="Cisco 네트워크 토폴로지"/>
+	<Library NameU="Cisco Product Icons" Name="Cisco 제품 아이콘"/>
+	<Library NameU="Cisco Teleprsence Icons" Name="Cisco 텔레프레즌스 아이콘"/>
+	<Library NameU="Cisco Wireless Icons" Name="Cisco 무선 아이콘"/>
+	<Library NameU="Cisco Safe Icons" Name="Cisco 안전 아이콘"/>
+	<Library NameU="Finance" Name="재무-평면"/>
+	<Library NameU="Marketing" Name="마케팅"/>
+	<Library NameU="Graphic Organizer" Name="그래픽 조직"/>
+	<Library NameU="List Shapes (Dynamic)" Name="다이나믹 리스트 셰이프"/>
+	<Library NameU="Enterprise Architecture" Name="기업구조도"/>
+	<Library NameU="China" Name="중국"/>
+	<Library NameU="Cisco Telepresence Icons" Name="Cisco 텔레프레즌스 아이콘"/>
+	<Library NameU="Drink" Name="음료"/>
+	<Library NameU="User" Name="사용자"/>	
+	<Library NameU="GCP Big Data" Name="구글 빅 데이터"/>  
+  <Library NameU="GCP Compute" Name="구글 클라우드 컴퓨팅"/>  
+  <Library NameU="GCP Developer Tools" Name="구글 개발자 도구"/>  
+  <Library NameU="GCP Extras" Name="구글 기타"/>  
+  <Library NameU="GCP Identity and Security" Name="구글 신원 및 보안"/>  
+  <Library NameU="GCP Internet of Things" Name="구글 IOT"/>  
+  <Library NameU="GCP Management Tools" Name="구글 관리 도구"/>  
+  <Library NameU="GCP Networking" Name="구글 네트워킹"/>  
+  <Library NameU="GCP Storage and Databases" Name="구글 스토리지 및 데이터베이스"/>  
+  <Library NameU="Azure Cloud" Name="Azure 클라우드 기호"/> 
+  <Library NameU="Azure Intune" Name="Azure 클라우드 기호"/>   
+  <Library NameU="Azure Deprecated" Name="Azure 사용되지 않음"/>  
+  <Library NameU="Azure Enterprise" Name="Azure 기업"/>  
+  <Library NameU="Azure General Symbols" Name="Azure 일반 기호"/>  
+  <Library NameU="Azure Microsoft Products" Name="Azure 마이크로소프트 제품"/>  
+  <Library NameU="Azure VMs by Function" Name="Azure 기능별 VMs"/>    
+  <Library NameU="Azure System Center" Name="Azure 시스템 센터"/>  	
+  <Library NameU="Cisco Security Stealthwatc" Name="Cisco 보안"/>	
+  <Library NameU="Cisco Safe Threat Icons" Name="Cisco 위협 아이콘"/>	
+  <Library NameU="Cisco Safe Architectural Icons" Name="Cisco 보안 구조 아이콘"/>	
+  <Library NameU="Cisco Safe Capability Icons" Name="Cisco 보안 능력 아이콘"/>	
+  <Library NameU="Cisco Safe Design Icons" Name="Cisco 보안 디자인 아이콘"/>	
+  <Library NameU="Big Data" Name="빅데이터"/>
+  <Library NameU="Smart Home" Name="스마트 홈"/>
+  <Library NameU="Internet Of Things" Name="IOT"/>
+  <Library NameU="Website Wireframe 1" Name="웹사이트 와이어 프레임 1"/>
+  <Library NameU="Website Wireframe 2" Name="웹사이트 와이어 프레임 2"/>
+  <Library NameU="Windows UI" Name="Windows UI"/>
+  <Library NameU="IOS UI" Name="IOS UI"/>
+  <Library NameU="Wireframe Icons" Name="와이어 프레임 아이콘"/>
+  <Library NameU="iOS Icons" Name="IOS 아이콘"/>
+  <Library NameU="Daily Life" Name="일상 생활"/>
+  <Library NameU="Education Icons" Name="교육 아이콘"/>
+  <Library NameU="Medical Icons" Name="의학 아이콘"/>
+  <Library NameU="Office Icons" Name="사무실 아이콘"/>
+  <Library NameU="User Icons" Name="사용자 아이콘"/>
+  <Library NameU="Wireframe Icons" Name="와이어 프레임 아이콘"/>
+  <Library NameU="Mid Autumn" Name="추석"/>
+  <Library NameU="Dragon Boat" Name="단오절"/>
+  <Library NameU="Dragon Boat Festival" Name="단오절"/>
+  <Library NameU="Family" Name="가족"/>
+  <Library NameU="Father's Day" Name="아버지의 날"/>
+  <Library NameU="Spring Festival" Name="설날"/>
+  <Library NameU="Thanksgiving Day" Name="떙스기빙데이"/>
+  <Library NameU="Valentines Day" Name="발렌타인데이"/>
+  <Library NameU="Wedding Day" Name="결혼 기념일"/>
+  <Library NameU="Users" Name="유저"/>
+	<Library NameU="Holiday Cards" Name="명절 카드"/>
+	<Library NameU="Design" Name="설계"/>
+	<Library NameU="Business Flat Icons" Name="비즈니스 플랫 아이콘 "/>
+	<Library NameU="Business Outline Icons" Name="비즈니스 심플 아이콘"/>
+	<Library NameU="Business Two Color Icons" Name="비즈니스 2 색 아이콘"/>
+	<Library NameU="Daily Life Flat Icons" Name="데일리 라이프 플랫 아이콘"/>
+	<Library NameU="Daily Life Outline Icons" Name="데일리 라이프 심플 아이콘"/>
+	<Library NameU="Education Flat Icons" Name="교육 플랫 아이콘"/>
+	<Library NameU="Education Outline Icons" Name="교육 심플 아이콘"/>
+	<Library NameU="Medical Flat Icons" Name="의학 플랫 아이콘"/>
+	<Library NameU="Medical Outline Icons" Name="의학 심플 아이콘"/>
+	<Library NameU="Social Media Flat Icons" Name="단색 로고"/>
+	<Library NameU="Social Media Colorful Icons" Name="원본 로고"/>
+	<Library NameU="Users Outline Icons" Name="사용자 플랫 아이콘"/>
+	<Library NameU="Users Flat Icons" Name="사용자 심플 아이콘"/>
+	<Library NameU="Roadmap" Name="로드맵"/>
+	<Library NameU="Facial Expression" Name="표정"/>
+	<Library NameU="PPT Illustration" Name="PPT 일러스트레이션"/>
+	<Library NameU="Org Chart(Automated)" Name="조직도(자동)"/>
+	<Library NameU="Org Chart(Manual)" Name="조직도(수동)"/>
+	<Library NameU="Smart Shapes" Name="스마트 셰이프"/>
+	<Library NameU="Number" Name="번호"/>
+	<Library NameU="Business Diagram" Name="비즈니스 다이어그램"/>
+	<Library NameU="Smart Charts" Name="기본 다이어그램"/>
+	<Library NameU="Chart" Name="차트"/>
+	<Library NameU="Database Modeling" Name="데이터베이스 모델링"/>
+	<Library NameU="Engineering" Name="엔지니어링"/>
+	<Library NameU="Electrical" Name="전기"/>
+	<Library NameU="ERD &amp; Database" Name="ERD &amp; ERD &amp; 데이터베이스"/>																	
+	<Library NameU="Fashion Design" Name="패션디자인"/>
+	<Library NameU="Family Tree" Name="가족 구성도"/>	
+	<Library NameU="Flowchart" Name="순서도"/>
+	<Library NameU="Floor Plan" Name="평면도"/>
+	<Library NameU="General" Name="일반"/>
+	<Library NameU="Graphs and Charts" Name="그래프와 차트"/>
+	<Library NameU="Icons" Name="아이콘"/>
+	<Library NameU="Illustration" Name="일러스트레이션"/>
+	<Library NameU="Maps" Name="지도"/>
+	<Library NameU="Marketing" Name="마케팅"/>
+	<Library NameU="Mind Map" Name="마인드맵"/>
+	<Library NameU="Roadmap" Name="로드맵"/>
+	<Library NameU="Amazon Web Services" Name="아마존 웹 서비스"/>
+	<Library NameU="Cisco Network" Name="Cisco 네트워크"/>
+	<Library NameU="Google Cloud" Name="구글 클라우드"/>
+	<Library NameU="MS Azure Cloud" Name="MS Azure 클라우드"/>	
+	<Library NameU="Alibaba Cloud" Name="알리바바 클라우드"/>
+	<Library NameU="Network Diagram" Name="네트워크 다이어그램"/>
+	<Library NameU="Organizational Chart" Name="조직도"/>
+	<Library NameU="Project Management" Name="프로젝트 관리"/>		
+	<Library NameU="Science" Name="과학"/>
+	<Library NameU="Software" Name="소프트웨어 엔지니어링"/>
+	<Library NameU="Wireframe" Name="와이어프레임"/>
+	<Library NameU="Forms" Name="양식"/>
+	<Library NameU="Business Card" Name="명함"/>
+	<Library NameU="Presentation" Name="프레젠테이션"/>
+	<Library NameU="Clip Art" Name="클립 아트"/>
+	<Library NameU="Industrial Automation" Name="산업 자동화"/>			
+	<Library NameU="P&amp;&amp;ID Symbols" Name="P&amp;&amp;ID 기호"/>
+	<Library NameU="Card" Name="카드"/>
+	<Library NameU="ERD and Database" Name="ERD과 데이터베이스"/>
+	<Library NameU="Infographic" Name="인포그래픽"/>
+	<Library NameU="Map" Name="지도"/>
+	<Library NameU="PID" Name="PID"/>
+	<Library NameU="Graphic Design" Name="그래픽 디자인"/>
+	<Library NameU="Graphic Organizer" Name="그래픽 구성"/>	
+	<Library NameU="Basic Shapes" Name="기본 모양"/>
+	<Library NameU="Flowchart Shapes" Name="순서도 모양"/>
+	<Library NameU="Cloud Service" Name="클라우드 서비스"/>
+	<Library NameU="Smart Shapes" Name="스마트 셰이프"/>
+	<Library NameU="Equipment-Solar System" Name="장비-태양계"/>
+    <Library NameU="Application Layer" Name="애플리케이션 레이어"/>
+    <Library NameU="Implementation and Migration" Name="구현 및 마이그레이션"/>
+    <Library NameU="Business Layer" Name="비즈니스 레이어"/>
+    <Library NameU="Callout" Name="콜아웃"/>
+    <Library NameU="Evidence" Name="증거"/>
+    <Library NameU="Figures" Name="모습"/>
+    <Library NameU="ArchiMate Technical Diagram" Name="ArchiMate 기술 다이어그램"/>
+    <Library NameU="Indoor Scene" Name="실내 현장"/>
+    <Library NameU="Motivation" Name="동기"/>
+    <Library NameU="Outdoor Scene" Name="야외 현장"/>
+    <Library NameU="Physical" Name="물리적"/>
+    <Library NameU="Relationships" Name="관계"/>
+    <Library NameU="Strategy" Name="전략"/>
+    <Library NameU="Technology Layer" Name="기술 레이어"/>
+    <Library NameU="Weapons" Name="무기"/>
+    <Library NameU="Crime Scene Images" Name="범죄 현장 이미지"/>
+    <Library NameU="ArchiMate" Name="ArchiMate"/>
+	<Library NameU="Internet of Things (IOT)" Name="사물 인터넷(IOT)"/>
+	<Library NameU="Sports Elements" Name="스포츠 요소"/>
+	<Library NameU="Consumer Electronics" Name="전자제품"/>
+</LibNames>

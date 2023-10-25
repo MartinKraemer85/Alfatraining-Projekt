@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Kids Expressions">
+	<Elem NameU="Smile" Name="Sorriso"/>
+	<Elem NameU="Happy" Name="Feliz"/>
+	<Elem NameU="Wink 1" Name="Piscar o olho 1"/>
+	<Elem NameU="Calm 1" Name="Calmo 1"/>
+	<Elem NameU="Dizzy 1" Name="Tonto 1"/>
+	<Elem NameU="Love 1" Name="Amor 1"/>
+	<Elem NameU="Sad 1" Name="Triste 1"/>
+	<Elem NameU="Angry 1" Name="Irritado 1"/>
+	<Elem NameU="Confused 1" Name="Confuso 1"/>
+	<Elem NameU="Smile with Closed Eyes" Name="Soriso com Olhos Fechados"/>
+	<Elem NameU="Happy 2" Name="Feliz 2"/>
+	<Elem NameU="Wink 2" Name="Piscar o Olho 2"/>
+	<Elem NameU="Calm 2" Name="Calmo 2"/>
+	<Elem NameU="Dizzy 2" Name="Tonto 2"/>
+	<Elem NameU="Love 2" Name="Amor 2"/>
+	<Elem NameU="Sad 2" Name="Triste 2"/>
+	<Elem NameU="Angry 2" Name="Irritado 2"/>
+	<Elem NameU="Confused 2" Name="Confuso 2"/>
+</Lib>

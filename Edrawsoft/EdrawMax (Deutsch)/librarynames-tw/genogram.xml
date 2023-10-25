@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Genogram">
+    <Elem NameU="Index Person" Name="本人"/>
+    <Elem NameU="Male" Name="男性"/>
+    <Elem NameU="Female" Name="女性"/>
+    <Elem NameU="Birth and Age - Male" Name="出生日期和年齡-男性"/>
+    <Elem NameU="Birth and Age - Female" Name="出生日期和年齡-女性"/>
+    <Elem NameU="Deceased - Male" Name="已故-男性"/>
+    <Elem NameU="Deceased - Female" Name="已故-女性"/>
+    <Elem NameU="Age at Death - Male" Name="去世時的年齡-男性"/>
+    <Elem NameU="Age at Death - Female" Name="去世時的年齡-女性"/>
+    <Elem NameU="Birth, Death and Age - Male" Name="出生年份，去世年份和年齡 - 男性"/>
+    <Elem NameU="Birth, Death and Age - Female" Name="出生年份，去世年份和年齡 - 女性"/>
+    <Elem NameU="Gay" Name="男同性戀"/>
+    <Elem NameU="Lesbian" Name="女同性戀"/>
+    <Elem NameU="Bisextual 1" Name="雙性戀 1"/>
+    <Elem NameU="Bisextual 2" Name="雙性戀 2"/>
+    <Elem NameU="Transgender - Male to Female" Name="變性人 - 從男到女"/>
+    <Elem NameU="Transgender - Female to Male" Name="變性人 - 從女到男"/>
+    <Elem NameU="Institution" Name="住所"/>
+    <Elem NameU="Pet" Name="寵物"/>
+    <Elem NameU="Pregnancy" Name="懷孕"/>
+    <Elem NameU="Miscarriage" Name="流產"/>
+    <Elem NameU="Abortion" Name="墮胎"/>
+    <Elem NameU="Male Stillbirth" Name="死產 - 男性"/>
+    <Elem NameU="Female Stillbirth" Name="死產 - 女性"/>
+    <Elem NameU="Lived in More Than 2 Cultures - Male" Name="在兩種文化中生活過 - 男性"/>
+    <Elem NameU="Lived in More Than 2 Cultures - Female" Name="在兩種文化中生活過 - 女性"/>
+    <Elem NameU="Immigration - Male" Name="移民 - 男性"/>
+    <Elem NameU="Immigration - Female" Name="移民 - 女性"/>
+    <Elem NameU="Suspected Physical or Psychological Illness - Male" Name="疑似身體或心理疾病 - 男性"/>
+    <Elem NameU="Suspected Physical or Psychological Illness - Female" Name="疑似身體或心理疾病 - 女性"/>
+    <Elem NameU="Serious Physical or Psychological Illness - Male" Name="嚴重身體或心理疾病 - 男性"/>
+    <Elem NameU="Serious Physical or Psychological Illness - Female" Name="嚴重身體或心理疾病 - 女性"/>
+    <Elem NameU="In Recovery from Physical or Psychological Illness - Male" Name="身體或心理疾病康復中 - 男性"/>
+    <Elem NameU="In Recovery from Physical or Psychological Illness - Female" Name="身體或心理疾病康復中 - 女性"/>
+    <Elem NameU="Suspected Alcohol or Drug Abuse - Male" Name="疑似濫用酒精或毒品 - 男性"/>
+    <Elem NameU="Suspected Alcohol or Drug Abuse - Female" Name="疑似濫用酒精或毒品 - 女性"/>
+    <Elem NameU="Confirmed Alcohol or Drug Abuse - Male" Name="確認濫用酒精或毒品 - 男性"/>
+    <Elem NameU="Confirmed Alcohol or Drug Abuse - Female" Name="確認濫用酒精或毒品 - 女性"/>
+    <Elem NameU="In Recovery from Drug or Alcohol Abuse - Male" Name="濫用酒精或毒品康復中 - 男性"/>
+    <Elem NameU="In Recovery from Drug or Alcohol Abuse - Female" Name="濫用酒精或毒品康復中 - 女性"/>
+    <Elem NameU="Drug/Alcohol Abuse and Physical or Mental Problem - Male" Name="濫用酒精或毒品以及擁有身體或心理疾病 - 男性"/>
+    <Elem NameU="Drug/Alcohol Abuse and Physical or Mental Problem - Female" Name="濫用酒精或毒品以及擁有身體或心理疾病 - 女性"/>
+    <Elem NameU="In Recovery from Drug/Alcohol Abuse and Physical or Mental Problem - Male" Name="濫用酒精或毒品以及擁有身體或心理疾康復中 - 男性"/>
+    <Elem NameU="In Recovery from Drug/Alcohol Abuse and Physical or Mental Problem - Female" Name="濫用酒精或毒品以及擁有身體或心理疾康復中 - 女性"/>
+    <Elem NameU="Smoker - Male" Name="吸煙 - 男性"/>
+    <Elem NameU="Smoker - Female" Name="吸煙 - 女性"/>
+    <Elem NameU="Language Problem - Male" Name="語言障礙 - 男性"/>
+    <Elem NameU="Language Problem - Female" Name="語言障礙 - 女性"/>
+    <Elem NameU="Obesity - Male" Name="肥胖 - 男性"/>
+    <Elem NameU="Obesity - Female" Name="肥胖 - 女性"/>
+    <Elem NameU="Carrier - Male" Name="攜帶者 - 男性"/>
+    <Elem NameU="Carrier - Female" Name="攜帶者 - 女性"/>
+    <Elem NameU="Affected - Male" Name="被染者 - 男性"/>
+    <Elem NameU="Affected - Female" Name="被染者 - 女性"/>
+    <Elem NameU="Suspected Affected - Male" Name="疑似感染 - 男性"/>
+    <Elem NameU="Suspected Affected - Female" Name="疑似感染 - 女性"/>
+    <Elem NameU="Possibly Affected - Male" Name="很可能感染 - 男性"/>
+    <Elem NameU="Possibly Affected - Female" Name="很可能感染 - 女性"/>
+    <Elem NameU="Heart Desease - Male" Name="心臟病 - 男性"/>
+    <Elem NameU="Heart Desease - Female" Name="心臟病 - 女性"/>
+    <Elem NameU="Diabetes - Male" Name="糖尿病 - 男性"/>
+    <Elem NameU="Diabetes - Female" Name="糖尿病 - 女性"/>
+    <Elem NameU="Cancer - Male" Name="癌症 - 男性"/>
+    <Elem NameU="Cancer - Female" Name="癌症 - 女性"/>
+    <Elem NameU="Alzheimer's Disease - Male" Name="阿爾茲海默病 - 男性"/>
+    <Elem NameU="Alzheimer's Disease - Female" Name="阿爾茲海默病 - 女性"/>
+    <Elem NameU="Down Syndrome - Male" Name="唐氏綜合征 - 男性"/>
+    <Elem NameU="Down Syndrome - Female" Name="唐氏綜合征 - 女性"/>
+    <Elem NameU="Depression - Male" Name="抑鬱症 - 男性"/>
+    <Elem NameU="Depression - Female" Name="抑鬱症 - 女性"/>
+    <Elem NameU="Anemia - Male" Name="貧血症 - 男性"/>
+    <Elem NameU="Anemia - Female" Name="貧血症 - 女性"/>
+    <Elem NameU="Asthma - Male" Name="哮喘 - 男性"/>
+    <Elem NameU="Asthma - Female" Name="哮喘 - 女性"/>
+    <Elem NameU="Albinism - Male" Name="白化病 - 男性"/>
+    <Elem NameU="Albinism - Female" Name="白化病 - 女性"/>
+    <Elem NameU="Autism - Male" Name="自閉症 - 男性"/>
+    <Elem NameU="Autism - Female" Name="自閉症 - 女性"/>
+    <Elem NameU="Marriage" Name="夫妻"/>
+    <Elem NameU="Engagement" Name="訂婚"/>
+    <Elem NameU="Seperation in Fact" Name="已分居"/>
+    <Elem NameU="Legal Seperation" Name="合法分局"/>
+    <Elem NameU="Divorce" Name="離婚"/>
+    <Elem NameU="Engagement and Seperation" Name="訂婚後分手"/>
+    <Elem NameU="Widowed" Name="喪失配偶的"/>
+    <Elem NameU="Engagement and Cohabitation" Name="訂婚後同居"/>
+    <Elem NameU="Cohabitation" Name="同居"/>
+    <Elem NameU="Legal Cohabitation" Name="合法同居"/>
+    <Elem NameU="Love Affair" Name="婚外情/出軌"/>
+    <Elem NameU="Indifferent/Apathetic" Name="冷淡"/>
+    <Elem NameU="Harmony" Name="和諧"/>
+    <Elem NameU="Love" Name="愛"/>
+    <Elem NameU="In Love" Name="相愛"/>
+    <Elem NameU="Close/Friendship" Name="親密/朋友"/>
+    <Elem NameU="Very Close/Best Friend" Number="2" Name="非常親密/最好的朋友"/>
+    <Elem NameU="Discord/Conflict" Name="不和/衝突"/>
+    <Elem NameU="Hate" Name="討厭"/>
+    <Elem NameU="Cutoff/Estranged" Name="疏遠/關係中斷"/>
+    <Elem NameU="Hostile" Name="敵對"/>
+    <Elem NameU="Distant Hostile" Name="關係疏遠且敵對"/>
+    <Elem NameU="Close Hostile" Name="關係較近且敵對"/>
+    <Elem NameU="Fused Hostile" Name="關係密切且敵對"/>
+    <Elem NameU="Violence" Name="暴力"/>
+    <Elem NameU="Abuse" Name="虐待"/>
+    <Elem NameU="Physical Abuse" Name="身體虐待"/>
+    <Elem NameU="Emotional Abuse" Name="情感虐待"/>
+    <Elem NameU="Sextual Abuse" Name="性虐待"/>
+    <Elem NameU="Neglect (Abuse)" Name="忽視（虐待）"/>
+    <Elem NameU="Manipulative" Name="喜歡操控的"/>
+    <Elem NameU="Controlling" Name="控制"/>
+    <Elem NameU="Focused On" Name="關注"/>
+    <Elem NameU="Fan/Admire" Name="愛慕"/>
+    <Elem NameU="Distrust" Number="2" Name="懷疑"/>
+    <Elem NameU="Distant Violance" Name="遠距離暴力"/>
+    <Elem NameU="Fused Voilence" Name="融合暴力"/>
+    <Elem NameU="Close Violence" Name="親密暴力"/>
+</Lib>

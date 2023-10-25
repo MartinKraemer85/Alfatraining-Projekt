@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Vehicles">
+    <Elem NameU="Electric Scooter" Name="电动车"/>
+    <Elem NameU="Bicycle" Name="自行车"/>
+    <Elem NameU="Car 1" Name="小汽车 1"/>
+    <Elem NameU="Car 2" Name="小汽车 2"/>
+    <Elem NameU="Food Truck" Name="快餐车"/>
+    <Elem NameU="Bus" Name="公交车"/>
+    <Elem NameU="MPV" Name="MPV"/>
+    <Elem NameU="Pickup Truck" Name="皮卡"/>
+    <Elem NameU="Box Truck" Name="厢式货车"/>
+    <Elem NameU="Mini Car" Name="迷你汽车"/>
+    <Elem NameU="Sports Car" Name="跑车"/>
+    <Elem NameU="Car 3" Name="小汽车 3"/>
+    <Elem NameU="Heavy Truck" Name="重型货车"/>
+    <Elem NameU="Jeep" Name="吉普车"/>
+    <Elem NameU="Ambulance" Name="救护车"/>
+    <Elem NameU="Fire Truck" Name="消防车"/>
+    <Elem NameU="Taxi" Name="出租车"/>
+    <Elem NameU="Van" Name="面包车"/>
+    <Elem NameU="Crane" Name="吊车"/>
+    <Elem NameU="Excavator" Name="挖掘机"/>
+    <Elem NameU="Military Vehicle 1" Name="军用汽车 1"/>
+    <Elem NameU="Military Vehicle 2" Name="军用汽车 2"/>
+    <Elem NameU="Military Vehicle 3" Name="军用汽车 3"/>
+    <Elem NameU="Police Car" Name="警车"/>
+    <Elem NameU="Concrete Mixer" Name="水泥搅拌车"/>
+    <Elem NameU="Forklift" Name="叉车"/>
+    <Elem NameU="Double-decker Bus" Name="双层公交车"/>
+    <Elem NameU="Motorcycle" Name="摩托车"/>
+    <Elem NameU="Tractor" Name="摩托车"/>
+    <Elem NameU="Electric Bike" Name="电动自行车"/>
+    <Elem NameU="Tank Truck" Name="油罐车"/>
+    <Elem NameU="Train" Name="火车"/>
+    <Elem NameU="Subway" Name="地铁"/>
+    <Elem NameU="Plane 1" Name="飞机 1"/>
+    <Elem NameU="Plane 2" Name="飞机 2"/>
+    <Elem NameU="Plane 3" Name="飞机 3"/>
+    <Elem NameU="Helicopter 1" Name="直升飞机1"/>
+    <Elem NameU="Helicopter 2" Name="直升飞机2"/>
+    <Elem NameU="Patrol Boat" Name="巡逻船"/>
+    <Elem NameU="Sailboat" Name="帆船"/>
+    <Elem NameU="Steamship" Name="蒸汽船"/>
+    <Elem NameU="Cruise" Name="游轮"/>
+</Lib>

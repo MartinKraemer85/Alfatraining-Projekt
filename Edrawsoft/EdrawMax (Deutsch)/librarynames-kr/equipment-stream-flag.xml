@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Equipment-Stream Flag">
+    <Elem NameU="Stream ID" Name="스트림 ID"/>
+    <Elem NameU="Temperature" Name="온도"/>
+    <Elem NameU="Pressure" Name="압력"/>
+    <Elem NameU="Liquid Flowrate" Name="액체 유량"/>
+    <Elem NameU="Gas Flowrate" Name="가스 유량"/>
+    <Elem NameU="Molar Flowrate" Name="몰 유량"/>
+    <Elem NameU="Mass Flowrate" Name="질량 유량"/>
+    <Elem NameU="Process Input" Name="프로세스 입력"/>
+    <Elem NameU="Process Output" Name="프로세스 출력"/>
+    <Elem NameU="Module" Name="모듈"/>
+</Lib>

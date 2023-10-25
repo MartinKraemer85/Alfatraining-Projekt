@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="UML Component Diagram">
+    <Elem NameU="Component" Name="구성 요소"/>
+    <Elem NameU="Node" Name="노드"/>
+    <Elem NameU="Package" Name="패키지"/>
+    <Elem NameU="Package Container" Name="컨테이너"/>
+    <Elem NameU="Component Box" Name="구성 요소 박스"/>
+    <Elem NameU="Start" Name="시작점"/>
+    <Elem NameU="Point" Name="포인트"/>
+    <Elem NameU="Note" Name="주석"/>
+    <Elem NameU="Provide Interface" Name="제공 인터페이스"/>
+    <Elem NameU="Required Interface" Name="수요 인터페이스"/>
+    <Elem NameU="Assembly" Name="어셈블리"/>
+    <Elem NameU="Provide Interface" Name="제공 인터페이스"/>
+    <Elem NameU="Required Interface" Name="수요 인터페이스"/>
+    <Elem NameU="Relationship" Name="관계"/>
+    <Elem NameU="Directional Relationship" Name="방향 관계"/>
+    <Elem NameU="Dependency" Name="의존 관계"/>
+    <Elem NameU="Aggregation" Name="집합"/>
+    <Elem NameU="Composition" Name="구성"/>
+</Lib>

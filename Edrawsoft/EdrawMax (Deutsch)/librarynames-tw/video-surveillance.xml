@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Video Surveillance">
+    <Elem NameU="Camera" Name="攝像機"/>
+    <Elem NameU="Motion detector" Name="移動監測器"/>
+    <Elem NameU="Glass break sensor" Name="玻璃破碎傳感器"/>
+    <Elem NameU="Screening device" Name="篩分設備"/>
+    <Elem NameU="Monitor" Name="監視器"/>
+    <Elem NameU="Camera P/T/Z" Name="攝像機 P/T/Z"/>
+    <Elem NameU="Video multiplexer" Name="視頻多路複用器"/>
+    <Elem NameU="Push button" Name="按鈕"/>
+    <Elem NameU="Recorder" Name="錄音機"/>
+    <Elem NameU="Switch manual" Name="手動開關"/>
+    <Elem NameU="Switch automatic" Name="自動開關"/>
+    <Elem NameU="Video keyboard" Name="視頻鍵盤"/>
+    <Elem NameU="Bi-static beam sensor" Name="收發分設光束感測器"/>
+    <Elem NameU="Security window screen" Name="有警報器的安全窗屏"/>
+    <Elem NameU="Video motion detector" Name="視頻移動探測器"/>
+    <Elem NameU="Wire connector" Name="電線連接線"/>
+</Lib>

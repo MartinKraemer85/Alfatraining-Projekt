@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Music">
+    <Elem NameU="Keyboard Player" Name="键盘手"/>
+    <Elem NameU="Drummer" Name="鼓手"/>
+    <Elem NameU="Bass Player" Name="贝斯手"/>
+    <Elem NameU="Cellist" Name="大提琴手"/>
+    <Elem NameU="Violinist" Name="小提琴手"/>
+    <Elem NameU="Saxophonist" Name="萨克斯风手"/>
+    <Elem NameU="Conductor" Name="乐队指挥"/>
+    <Elem NameU="Guitar Player" Name="吉他手"/>
+    <Elem NameU="Flute Player" Name="长笛演奏者"/>
+    <Elem NameU="Drum" Name="架子鼓"/>
+    <Elem NameU="Piano" Name="钢琴"/>
+    <Elem NameU="Male Singer" Name="男歌手"/>
+    <Elem NameU="Female Singer" Name="女歌手"/>
+    <Elem NameU="Accordionist" Name="风琴手"/>
+    <Elem NameU="Ballet" Name="芭蕾舞者"/>
+    <Elem NameU="Violin" Name="小提琴"/>
+    <Elem NameU="Guitar" Name="吉他"/>
+    <Elem NameU="Accordion" Name="手风琴"/>
+    <Elem NameU="Bass" Name="贝斯"/>
+    <Elem NameU="Zither" Name="奇特琴"/>
+    <Elem NameU="Saxophone" Name="萨克斯"/>
+    <Elem NameU="Keyboard" Name="键盘式电子乐器"/>
+    <Elem NameU="Xiao (Flute)" Name="箫"/>
+    <Elem NameU="Trombone" Name="长号"/>
+    <Elem NameU="Horn" Name="喇叭"/>
+    <Elem NameU="Dish Player" Name="CD播放器"/>
+    <Elem NameU="Microphone" Name="话筒"/>
+    <Elem NameU="Radio" Name="收音机"/>
+    <Elem NameU="Cassette" Name="磁带"/>
+    <Elem NameU="Headset" Name="耳机"/>
+    <Elem NameU="Speaker" Name="音箱"/>
+    <Elem NameU="Volume" Name="音量"/>
+    <Elem NameU="Gourd Rattles" Name="沙槌"/>
+    <Elem NameU="Snare Drum" Name="小军鼓"/>
+    <Elem NameU="Rattle" Name="拨浪鼓"/>
+    <Elem NameU="Pipa" Name="琵琶"/>
+    <Elem NameU="Ruan" Name="阮"/>
+    <Elem NameU="Liuqin" Name="柳琴"/>
+    <Elem NameU="Yueqin" Name="月琴"/>
+    <Elem NameU="Cucurbit Flute" Name="葫芦丝"/>
+    <Elem NameU="Guzheng" Name="古筝"/>
+    <Elem NameU="Erhu" Name="二胡"/>
+</Lib>

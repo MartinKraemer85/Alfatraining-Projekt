@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="UML Use Case Diagram">
+
+<Elem Name="Akteur" NameU="Actor"/>
+
+<Elem Name="Use Case" NameU="Use Case"/>
+
+<Elem Name="Generalisierung" NameU="Generalization"/>
+
+<Elem Name="Umfassen" NameU="Include"/>
+
+<Elem Name="Schnittstelle" NameU="Interface"/>
+
+<Elem Name="Hinweis" NameU="Note"/>
+
+<Elem Name="Use-Case mit Erweiterungspunkten" NameU="Use Case with Extention Points"/>
+
+<Elem Name="Use-Case mit Erweiterungspunkten" NameU="Use Case with Extension Points"/>
+
+<Elem Name="Systemcontainer" NameU="System Container"/>
+
+<Elem Name="Systemdarsteller" NameU="System Actor"/>
+
+<Elem Name="Zusammenarbeit" NameU="Collaboration"/>
+
+<Elem Name="Assoziation" NameU="Association"/>
+
+<Elem Name="Erweitern" NameU="Extend"/>
+
+<Elem Name="Winkelstecker" NameU="Right-angle Connector"/>
+
+</Lib>

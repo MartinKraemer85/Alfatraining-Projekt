@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Medical Icons">
+	<Elem NameU="Ear" Name="Orelha"/>
+	<Elem NameU="Eye" Name="Olho"/>
+	<Elem NameU="Child" Name="Criança"/>
+	<Elem NameU="Patient" Name="Paciente"/>
+	<Elem NameU="Ppatient" Name="Paciente"/>
+	<Elem NameU="Patient Family" Name="Família do Paciente"/>
+	<Elem NameU="Nurse" Name="Enfermeira"/>
+	<Elem NameU="Dentist" Name="Dentista"/>
+	<Elem NameU="Doctors" Name="Médicos"/>
+	<Elem NameU="Emergency Call" Name="Chamada de Emergências"/>
+	<Elem NameU="Medical" Name="Médico"/>
+	<Elem NameU="Clinic" Name="Clínica"/>
+	<Elem NameU="Electrocardiogram" Name="Electrocardiograma"/>
+	<Elem NameU="Online Treatment" Name="Tratamento Online"/>
+	<Elem NameU="Doctor Qualification" Name="Qualificaçõe Médicas"/>
+	<Elem NameU="First Aid" Name="Primeiros Socorros"/>
+	<Elem NameU="Poison" Name="Veneno"/>
+	<Elem NameU="Shantou" Name="Shantou"/>
+	<Elem NameU="Stomach" Name="Estômago"/>
+	<Elem NameU="Bones" Name="Ossos"/>
+	<Elem NameU="Rib Cage" Name="Costelas"/>
+	<Elem NameU="lung" Name="pulmão"/>
+	<Elem NameU="Heart" Name="Coração"/>
+	<Elem NameU="Kidney" Name="Rim"/>
+	<Elem NameU="Foot" Name="Pé"/>
+	<Elem NameU="Hand" Name="Mãos"/>
+	<Elem NameU="Tooth" Name="Dente"/>
+	<Elem NameU="Mouth" Name="Bocas"/>
+	<Elem NameU="Nose" Name="Nariz"/>
+	<Elem NameU="Receipt" Name="Receita"/>
+	<Elem NameU="Bank Card" Name="Cartão Bancário"/>
+	<Elem NameU="Care" Name="Cuidados"/>
+	<Elem NameU="Heart-Shaped Electrocardiogram" Name="Electrocardiograma em Forma de Coração"/>
+	<Elem NameU="Stethoscope" Name="Estetoscópio"/>
+	<Elem NameU="Medical Label" Name="Etiqueta Médica"/>
+	<Elem NameU="24 Hours" Name="24 Horas"/>
+	<Elem NameU="Schedule Check" Name="Verificação de Cronograma"/>
+	<Elem NameU="Calendar" Name="Calendário"/>
+	<Elem NameU="Schedule" Name="Cronograma"/>
+	<Elem NameU="Condition" Name="Condição"/>
+	<Elem NameU="View Medical Records" Name="Ver Relatórios Médicos"/>
+	<Elem NameU="Medical Expenses" Name="Despesas Médicas"/>
+	<Elem NameU="Medical Case" Name="Caso Médico"/>
+	<Elem NameU="Medical Order" Name="Ordem Médica"/>
+	<Elem NameU="File" Name="Ficheiro"/>
+	<Elem NameU="Medical Book" Name="Livro de Medicina"/>
+	<Elem NameU="Medical System" Name="Sistema Médico"/>
+	<Elem NameU="Medical Safety" Name="Segurança Médica"/>
+	<Elem NameU="Medicine Box" Name="Caixa de Medicina"/>
+	<Elem NameU="Ribbon" Name="Faixa"/>
+	<Elem NameU="Ambulance" Name="Ambulância"/>
+	<Elem NameU="Position" Name="Posição"/>
+	<Elem NameU="Stretcher Bed" Name="Maca de Esticar"/>
+	<Elem NameU="Helicopter" Name="Helicóptero"/>
+	<Elem NameU="Hospital Bed" Name="Cama de Hospitals"/>
+	<Elem NameU="Infusion Bags" Name="Sacos de Infusão"/>
+	<Elem NameU="Wheelchair" Name="Cadeira de Rodas"/>
+	<Elem NameU="Infusion" Name="Infusão"/>
+	<Elem NameU="Hanging Bottle" Name="Garrafa Pendurada"/>
+	<Elem NameU="Capsule" Name="Cápsula"/>
+	<Elem NameU="Pill" Name="Comprimido"/>
+	<Elem NameU="Medicine Bottle" Name="Garrafa de Medicamento"/>
+	<Elem NameU="X-Ray Film" Name="Filme de Raio-X"/>
+	<Elem NameU="B Super" Name="B Super"/>
+	<Elem NameU="CT" Name="CT"/>
+	<Elem NameU="Crutch" Name="Muleta"/>
+	<Elem NameU="Scale" Name="Escala"/>
+	<Elem NameU="Band Aid" Name="Curativo"/>
+	<Elem NameU="Syringe" Name="Seringa"/>
+	<Elem NameU="Thermometer" Name="Termómetro"/>
+	<Elem NameU="Balance" Name="Balança"/>
+	<Elem NameU="Microscope" Name="Microscópio"/>
+	<Elem NameU="DNA" Name="ADN"/>
+	<Elem NameU="Test" Name="Teste"/>
+	<Elem NameU="Beaker" Name="Proveta"/>
+	<Elem NameU="Test Tube" Name="Tubo de Ensaio"/>
+	<Elem NameU="Increase" Name="Aumentar"/>
+	<Elem NameU="Cut Back" Name="Reduzir"/>
+	<Elem NameU="liquid" Name="líquido"/>
+	<Elem NameU="Chinese Medicine Grinding Tank" Name="Tanque de Triturar de Medicina Chinesa"/>
+	<Elem NameU="Pharmacy" Name="Farmácia"/>
+	<Elem NameU="Girl" Name="Menina"/>
+	<Elem NameU="Boy" Name="Menino"/>
+	<Elem NameU="Scalpel" Name="Bisturi"/>
+	<Elem NameU="Medical Respirator" Name="Máscara Respiratória"/>
+	<Elem NameU="Tweezers" Name="Pinças"/>
+	<Elem NameU="Scissors" Name="Tesouras"/>
+	<Elem NameU="Dropper" Name="Conta-gotas"/>
+	<Elem NameU="Molecular Structure" Name="Estrutura Molecular"/>
+	<Elem NameU="Tooth Cleaner" Name="Limpador de Dente"/>
+	<Elem NameU="Eye Chart" Name="Tabela Optométrica"/>
+</Lib>

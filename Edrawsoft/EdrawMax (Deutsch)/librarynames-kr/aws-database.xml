@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="AWS Database">
+    <Elem NameU="ElastiCache Memcache" Name="ElastiCache 클라우드 캐시"/>
+    <Elem NameU="ElastiCache Redis" Name="ElastiCache Redis"/>
+    <Elem NameU="ElasticCache Node" Name="ElasticCache 노드"/>
+    <Elem NameU="ElasticCache" Name="ElasticCache"/>
+    <Elem NameU="RDS DB Instance" Name="RDS 데이터베이스 인스턴스"/>
+    <Elem NameU="Instance Read Replica" Name="인스턴스 읽기 전용 복제본"/>
+    <Elem NameU="Instance Standby" Name="인스턴스 대기"/>
+    <Elem NameU="MS SQL Instance" Name="MS SQL 인스턴스"/>
+    <Elem NameU="MySQL DB Instance" Name="MySQL 데이터베이스 인스턴스"/>
+    <Elem NameU="RDS" Name="RDS"/>
+    <Elem NameU="Redshift DW1 Cluster" Name="Redshift DW1 클러스터"/>
+    <Elem NameU="DW2 Cluster" Name="DW2 클러스터"/>
+    <Elem NameU="SSD Family Cluster" Name="SSD 가족 클러스터"/>
+    <Elem NameU="RedShift" Name="Redshift"/>
+    <Elem NameU="SimpleDB Domain" Name="심플 데이터베이스 도메인"/>
+    <Elem NameU="SimpleDB" Name="심플 데이터베이스"/>
+    <Elem NameU="DB" Name="데이터베이스"/>
+    <Elem NameU="Global Secondary Indexes" Name="글로벌 보조 인덱스"/>
+    <Elem NameU="Attribute" Name="속성"/>
+    <Elem NameU="Attributes" Name="속성"/>
+    <Elem NameU="Item" Name="항목"/>
+    <Elem NameU="Items" Name="항목"/>
+    <Elem NameU="Table" Name="데스크탑"/>
+    <Elem NameU="RDS MasterSQL" Name="RDS MasterSQL"/>
+    <Elem NameU="RDS Replica sets with PIOP" Name="PIOP가 포함된 RDS 복제본 세트"/>
+    <Elem NameU="RDS SlaveSQL" Name="RDS SlaveSQL"/>
+</Lib>

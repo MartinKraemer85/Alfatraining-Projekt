@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Alibaba Cloud Big Data">
+	<Elem NameU="ADs" Name="ADs"/>
+	<Elem NameU="AI recommendation" Name="智能推薦"/>
+	<Elem NameU="BI" Name="BI"/>
+	<Elem NameU="Data integration" Name="資料集成"/>
+	<Elem NameU="Data lake analytics" Name="資料湖分析"/>
+	<Elem NameU="Data V" Name="Data V"/>
+	<Elem NameU="Data works" Name="Data works"/>
+	<Elem NameU="Datahub" Name="資料集線器"/>
+	<Elem NameU="Dataphin" Name="Dataphin"/>
+	<Elem NameU="Enterprise profile" Name="企業簡介"/>
+	<Elem NameU="Graph analytics" Name="圖像分析"/>
+	<Elem NameU="IDE" Name="IDE"/>
+	<Elem NameU="Image analysis" Name="圖計算服務"/>
+	<Elem NameU="Iplus I+" Name="Iplus I+"/>
+	<Elem NameU="ODPS" Name="ODPS"/>
+	<Elem NameU="Open ads" Name="營銷引擎"/>
+	<Elem NameU="Open ADs" Name="營銷引擎"/>
+	<Elem NameU="Open search" Name="開放搜索"/>
+	<Elem NameU="Porana" Name="Porana"/>
+	<Elem NameU="Prophet" Name="Prophet"/>
+	<Elem NameU="Recommendation engine" Name="推薦引擎"/>
+	<Elem NameU="Rule engine" Name="規則引擎"/>
+	<Elem NameU="Stream compute" Name="流計算"/>
+</Lib>

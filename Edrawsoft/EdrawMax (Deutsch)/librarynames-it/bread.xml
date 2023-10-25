@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Bread">
+	<Elem NameU="Cake Volume" Name="Pandispagna"/>
+	<Elem NameU="Pineapple Bread" Name="Pane all'Ananas"/>
+	<Elem NameU="Toast" Name="Toast"/>
+	<Elem NameU="Cream Bun 1" Name="Pasticcino alla Crema 1"/>
+	<Elem NameU="Cream Bun 2" Name="Pasticcino alla Crema 2"/>
+	<Elem NameU="Croissant" Name="Cornetto"/>
+	<Elem NameU="Spring Onion Bread" Name="Bruschette con Aglio"/>
+	<Elem NameU="Hotdog 1" Name="Hotdog 1"/>
+	<Elem NameU="Hotdog 2" Name="Hotdog 2"/>
+	<Elem NameU="Hot Dog Bun" Name="Pane per Hotdog"/>
+	<Elem NameU="Waffle" Name="Waffle"/>
+	<Elem NameU="French Bread" Name="Pane Francese"/>
+	<Elem NameU="Doughnut" Name="Ciambella"/>
+	<Elem NameU="Cupcake 1" Name="Cupcake 1"/>
+	<Elem NameU="Cupcake 2" Name="Cupcake 2"/>
+	<Elem NameU="Egg Tart" Name="Crostata di Uova"/>
+	<Elem NameU="Triangle Cake" Name="Torta Triangolare"/>
+	<Elem NameU="Cake" Name="Torta"/>
+	<Elem NameU="Chocolate Cake" Name="Torta al Cioccolato"/>
+	<Elem NameU="Macaron 1" Name="Macaron 1"/>
+	<Elem NameU="Macaron 2" Name="Macaron 2"/>
+	<Elem NameU="Apple Pie" Name="Torta di Mele"/>
+	<Elem NameU="Baguette 1" Name="Filone 1"/>
+	<Elem NameU="Baguette 2" Name="Filone 2"/>
+	<Elem NameU="Red Bean Bread" Name="Pane ai Fagioli Rossi"/>
+	<Elem NameU="Bread" Name="Pane"/>
+	<Elem NameU="Swirl Bread 1" Name="Rotolo di Pane 1"/>
+	<Elem NameU="Swirl Bread 2" Name="Rotolo di Pane 2"/>
+	<Elem NameU="French Bread 1" Name="Pane Francese 1"/>
+	<Elem NameU="French Bread 2" Name="Pane Francese 2"/>
+	<Elem NameU="Kalach Bread" Name="Pane Kalach"/>
+	<Elem NameU="Meat Floss Buns" Name="Pane con Listarelle di Carne"/>
+	<Elem NameU="Lechem" Name="Pane Ebraico"/>
+	<Elem NameU="Fried Bread" Name="Pane Fritto"/>
+	<Elem NameU="Muffin" Name="Muffin"/>
+	<Elem NameU="Fruit  Dessert Tray 1" Name="Vassoio con Dolci alla Frutta 1"/>
+	<Elem NameU="Fruit  Dessert Tray 2" Name="Vassoio con Dolci alla Frutta 2"/>
+	<Elem NameU="Chocolate Cake in Triangle Shape" Name="Torta al Cioccolato Triangolare"/>
+	<Elem NameU="Black Forest Cake" Name="Foresta Nera"/>
+	<Elem NameU="Birthday Cake" Name="Torta di Compleanno"/>
+	<Elem NameU="Wedding Cake" Name="Torta di Nozze"/>
+	<Elem NameU="Strawberry Cupcakes" Name="Cupcake alle Fragole"/>
+	<Elem NameU="Yule Log" Name="Ceppo di Natale"/>
+	<Elem NameU="Swiss Roll" Name="Tronchetto"/>
+	<Elem NameU="Cupcake 3" Name="Cupcake 3"/>
+	<Elem NameU="Cupcake 4" Name="Cupcake 4"/>
+	<Elem NameU="Cupcake 5" Name="Cupcake 5"/>
+	<Elem NameU="Cupcake 6" Name="Cupcake 6"/>
+	<Elem NameU="Cupcake 7" Name="Cupcake 7"/>
+	<Elem NameU="Cupcake 8" Name="Cupcake 8"/>
+	<Elem NameU="Mooncake 1" Name="Mooncake 1"/>
+	<Elem NameU="Mooncake 2" Name="Mooncake 2"/>
+</Lib>

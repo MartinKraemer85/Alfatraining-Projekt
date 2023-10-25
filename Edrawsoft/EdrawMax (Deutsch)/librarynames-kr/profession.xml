@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Profession">
+    <Elem NameU="Priest" Name="목사"/>
+    <Elem NameU="Judge" Name="판사"/>
+    <Elem NameU="Lawyer" Name="변호사"/>
+    <Elem NameU="Policeman" Name="경찰"/>
+    <Elem NameU="Teacher" Name="선생님"/>
+    <Elem NameU="Professor" Name="교수님"/>
+    <Elem NameU="Student" Name="학생"/>
+    <Elem NameU="Scholar" Name="학자"/>
+    <Elem NameU="Businessman" Name="상인"/>
+    <Elem NameU="Manager" Name="매니저"/>
+    <Elem NameU="Secretary" Name="비서"/>
+    <Elem NameU="Businesswoman" Name="비지니스 우먼"/>
+    <Elem NameU="Programmer" Name="프로그래머"/>
+    <Elem NameU="Artist" Name="화가"/>
+    <Elem NameU="Musician" Name="음악가"/>
+    <Elem NameU="Writer" Name="작가"/>
+    <Elem NameU="Nurse" Name="간호사"/>
+    <Elem NameU="Dentist" Name="치과 의사"/>
+    <Elem NameU="Chef" Name="셰프"/>
+    <Elem NameU="Waiter" Name="웨이터"/>
+    <Elem NameU="Orator" Name="연설가"/>
+    <Elem NameU="Male Engineer" Name="남자 엔지니어"/>
+    <Elem NameU="Female Engineer" Name="여자 엔지니어"/>
+    <Elem NameU="Consultant" Name="컨설턴트"/>
+    <Elem NameU="Accountant" Name="회계사"/>
+    <Elem NameU="Hairdresser" Name="헤어 디자이너"/>
+</Lib>

@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Value Stream Mapping">
+
+<Elem Name="Produktionskontrolle" NameU="Production Control"/>
+
+<Elem Name="Information" NameU="Information"/>
+
+<Elem Name="Prozess" NameU="Process"/>
+
+<Elem Name="Kunden / Lieferanten" NameU="Customer / Supplier"/>
+
+<Elem Name="Inventar" NameU="Inventory"/>
+
+<Elem Name="Verbringung-Pfeil" NameU="Shipment Arrow"/>
+
+<Elem Name="Drückenpfeil" NameU="Push Arrow"/>
+
+<Elem Name="Elektronischer Informationsfluss" NameU="Electronic Information Flow"/>
+
+<Elem Name="Manueller Informationsfluss" NameU="Manual Information Flow"/>
+
+<Elem Name="Externer Versand" NameU="External Shipment"/>
+
+<Elem Name="Luftverkehrversand" NameU="Airplan Shipment"/>
+
+<Elem Name="Bahntransport" NameU="Rail Shipment"/>
+
+<Elem Name="Cross-Dock" NameU="Cross-Dock"/>
+
+<Elem Name="Zeitachsensegment" NameU="Timeline Segment"/>
+
+<Elem Name="Zeitachsenendesegment" NameU="Timeline End Segment"/>
+
+<Elem Name="Zeitachse zusammenrechnen" NameU="Timeline Total"/>
+
+<Elem Name="Datentabelle" NameU="Data Table"/>
+
+<Elem Name="Ausscheiden Kanban" NameU="Withdrawal Kanban"/>
+
+<Elem Name="Ausscheidenbatch Kanban" NameU="Withdrawal Batch Kanban"/>
+
+<Elem Name="Produktion Kanban" NameU="Production Kanban"/>
+
+<Elem Name="Batch Kanban" NameU="Batch Kanban"/>
+
+<Elem Name="Notiz" NameU="Note"/>
+
+<Elem Name="Supermarkt" NameU="Supermarket"/>
+
+<Elem Name="Sicherheitsbestand" NameU="Safety Stock"/>
+
+<Elem Name="Lager" NameU="Warehouse"/>
+
+<Elem Name="Kontrollzentrum" NameU="Control Center"/>
+
+<Elem Name="Arbeitszelle" NameU="Workcell"/>
+
+<Elem Name="Signal Kanban" NameU="Signal Kanban"/>
+
+<Elem Name="Kanban Post" NameU="Kanban Post"/>
+
+<Elem Name="Production Inspektion" NameU="Go See Production"/>
+
+<Elem Name="Verbale Informationen" NameU="Verbal Information"/>
+
+<Elem Name="Phon" NameU="Phone"/>
+
+<Elem Name="MRP/ERP" NameU="MRP/ERP"/>
+
+<Elem Name="Kaizen Ausbruch" NameU="Kaizen Burst"/>
+
+<Elem Name="FIFO Spur" NameU="FIFO Lane"/>
+
+<Elem Name="Niveauregulierung" NameU="Load Leveling"/>
+
+<Elem Name="Aufeinanderfolgende Pullkugel" NameU="Sequenced Pull Ball"/>
+
+<Elem Name="Physische Pullung" NameU="Physical Pull"/>
+
+<Elem Name="Bootsversand" NameU="Boat Shipment"/>
+
+</Lib>

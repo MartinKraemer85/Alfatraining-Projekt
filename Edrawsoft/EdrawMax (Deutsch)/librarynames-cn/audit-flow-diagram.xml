@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Audit Flow Diagram">
+    <Elem NameU="Process" Name="进程"/>
+    <Elem NameU="Tagged Process" Name="标记的进程"/>
+    <Elem NameU="Decision" Name="判定"/>
+    <Elem NameU="Tagged Document" Name="标记的文档"/>
+    <Elem NameU="I/O" Name="I/O"/>
+    <Elem NameU="Manual Operation" Name="手动操作"/>
+    <Elem NameU="Terminator" Name="终结符"/>
+    <Elem NameU="Manual File" Name="手动文件"/>
+    <Elem NameU="Display" Name="显示内容"/>
+    <Elem NameU="Delay" Name="延迟"/>
+    <Elem NameU="Yes or No" Name="是或否"/>
+    <Elem NameU="On-page Reference" Name="页面内引用"/>
+    <Elem NameU="Off-page Reference" Name="离页引用"/>
+    <Elem NameU="Divided Process" Name="分段进程"/>
+    <Elem NameU="Multi Proc/doc" Name="多重进程/文档"/>
+    <Elem NameU="Lined-shaded Process" Name="线条-阴影型进程"/>
+    <Elem NameU="Lined document" Name="线条型文档"/>
+    <Elem NameU="Multi documents" Name="多重进程、文档"/>
+    <Elem NameU="Disk storage" Name="磁盘存储"/>
+    <Elem NameU="Database" Name="数据库"/>
+    <Elem NameU="Diskette" Number="2" Name="磁盘"/>
+    <Elem NameU="Magnetic Tape" Name="磁带"/>
+    <Elem NameU="Data Transmission" Name="数据传输"/>
+    <Elem NameU="Manual Input" Name="手动输入"/>
+    <Elem NameU="Check (Audit)" Name="检验（审计）"/>
+    <Elem NameU="Compare" Name="比较"/>
+    <Elem NameU="Check (Audit)" Name="检验（审计）"/>
+    <Elem NameU="Compare" Name="比较"/>
+    <Elem NameU="Event" Name="事件"/>
+    <Elem NameU="Divided Event" Name="分段事件"/>
+    <Elem NameU="Title Block" Name="标题块"/>
+    <Elem NameU="Note" Name="注释块"/>
+    <Elem NameU="Reference Point" Name="引用点"/>
+    <Elem NameU="Curve connector" Name="曲线连接线"/>
+</Lib>

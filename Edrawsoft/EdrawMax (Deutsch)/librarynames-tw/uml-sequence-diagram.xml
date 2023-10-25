@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="UML Sequence Diagram">
+    <Elem NameU="Object Lifeline" Name="對象生命線"/>
+    <Elem NameU="Lifeline" Name="生命線"/>
+    <Elem NameU="Sequence Object" Name="序列對象"/>
+    <Elem NameU="Activation" Name="激活"/>
+    <Elem NameU="Activation(break)" Name="激活中斷"/>
+    <Elem NameU="Package" Name="包"/>
+    <Elem NameU="Alternative Fragment" Name="替代片段"/>
+    <Elem NameU="Loop Fragment" Name="循環片段"/>
+    <Elem NameU="Choice Fragment" Name="選擇片段"/>
+    <Elem NameU="Object Deletion" Name="對象刪除"/>
+    <Elem NameU="Actor" Name="角色"/>
+    <Elem NameU="Actor Lifeline" Name="角色生命線"/>
+    <Elem NameU="Entity" Name="實體"/>
+    <Elem NameU="Boundary" Name="邊界"/>
+    <Elem NameU="Control" Name="控制"/>
+    <Elem NameU="Constraint" Name="約束"/>
+    <Elem NameU="End Point" Name="終點"/>
+    <Elem NameU="Note" Name="注釋"/>
+    <Elem NameU="Message" Name="自調用"/>
+    <Elem NameU="Message Return" Name="過渡 1"/>
+    <Elem NameU="Asynchronous Message" Name="異步消息"/>
+    <Elem NameU="Self Delegation" Name="自授權"/>
+    <Elem NameU="Curve Self Delegation" Name="曲線自委託"/>
+</Lib>

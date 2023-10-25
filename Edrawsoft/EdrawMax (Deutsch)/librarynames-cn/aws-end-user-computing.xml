@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="AWS End User Computing">
+	<Elem NameU="Appstream-2.0" Name="应用流2.0"/>
+	<Elem NameU="WorkDocs" Name="工作文件"/>
+	<Elem NameU="WorkLink" Name="工作链接"/>
+	<Elem NameU="Workspaces" Name="工作空间"/>
+	<Elem NameU="End-User-Computing" Name="最终用户计算"/>
+</Lib>

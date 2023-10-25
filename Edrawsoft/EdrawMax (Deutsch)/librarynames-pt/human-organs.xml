@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Human Organs">
+	<Elem NameU="Eye" Name="Olho"/>
+	<Elem NameU="Nose" Name="Nariz"/>
+	<Elem NameU="Ear" Name="Orelha"/>
+	<Elem NameU="Oral" Name="Oral"/>
+	<Elem NameU="Throat" Name="Garganta"/>
+	<Elem NameU="Arm" Name="Braço"/>
+	<Elem NameU="Leg" Name="Perna"/>
+	<Elem NameU="Foot" Name="Pé"/>
+	<Elem NameU="Teeth" Name="Dentes"/>
+	<Elem NameU="Tooth decay" Name="Cáries"/>
+	<Elem NameU="Stomach" Name="Estômago"/>
+	<Elem NameU="Kidney" Name="Rim"/>
+	<Elem NameU="Spleen" Name="Baço"/>
+	<Elem NameU="Liver" Name="Fígado"/>
+	<Elem NameU="Lung1" Name="Pulmão1"/>
+	<Elem NameU="Lung2" Name="Pulmão2"/>
+	<Elem NameU="Lung3" Name="Pulmão3"/>
+	<Elem NameU="Heart" Name="Coração"/>
+	<Elem NameU="Uterus" Name="Útero"/>
+	<Elem NameU="Fetus" Name="Feto"/>
+	<Elem NameU="Intestine" Name="Intestino"/>
+	<Elem NameU="Brain1" Name="Cérebro1"/>
+	<Elem NameU="Brain2" Name="Cérebro2"/>
+	<Elem NameU="Brain3" Name="Cérebro3"/>
+	<Elem NameU="Needle" Name="Agulha"/>
+	<Elem NameU="Skull" Name="Crânio"/>
+	<Elem NameU="Rib cage" Name="Costelas"/>
+	<Elem NameU="Spine1" Name="Coluna1"/>
+	<Elem NameU="Spine2" Name="Coluna2"/>
+	<Elem NameU="Spine3" Name="Coluna3"/>
+	<Elem NameU="Spine4" Name="Coluna4"/>
+	<Elem NameU="Hip bone" Name="Osso ilíaco"/>
+	<Elem NameU="Bones of hand" Name="Ossos das mãos"/>
+	<Elem NameU="The skeletal foot" Name="O pé do esqueleto"/>
+	<Elem NameU="Human skeleton" Name="Esqueleto humano"/>
+</Lib>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Valves">
+    <Elem NameU="Ball valve" Number="2" Name="球形阀 1"/>
+    <Elem NameU="Check valve horiz" Name="水平单向阀"/>
+    <Elem NameU="Check valve vert" Name="垂直单向阀"/>
+    <Elem NameU="Ctrl valve" Name="控制阀"/>
+    <Elem NameU="Ctrl valve flange" Name="法兰控制阀"/>
+    <Elem NameU="Ctrl valve gray fit" Name="控制阀 2"/>
+    <Elem NameU="Ctrl valve horiz" Name="水平控制阀"/>
+    <Elem NameU="Ctrl valve vert" Name="垂直控制阀"/>
+    <Elem NameU="Cindervalve" Name="卸灰阀"/>
+    <Elem NameU="Hand valve 1" Name="手动阀 1"/>
+    <Elem NameU="Hand valve 2" Name="手动阀 2"/>
+    <Elem NameU="Motor valve" Name="电动阀"/>
+    <Elem NameU="Pinch valve" Name="夹管阀"/>
+    <Elem NameU="Plastic swing check valve" Name="塑料旋启式止回阀"/>
+    <Elem NameU="PVC two-way valve" Name="双通阀"/>
+    <Elem NameU="Safety valve" Name="安全阀"/>
+    <Elem NameU="Ctrl valve horiz" Number="2" Name="水平控制阀"/>
+    <Elem NameU="Valve" Number="2" Name="阀门"/>
+    <Elem NameU="Ball valve" Name="球形阀 1"/>
+    <Elem NameU="Rotary valve" Name="旋转阀"/>
+</Lib>

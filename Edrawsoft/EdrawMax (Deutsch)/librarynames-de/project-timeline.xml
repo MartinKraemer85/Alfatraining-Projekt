@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Project Timeline">
+  <Elem NameU="Time Bar" Name="Zeitleiste"/>
+  <Elem NameU="Time Bar" Name="Zeitleiste"/>
+  <Elem NameU="Time Bar" Name="Zeitleiste"/>
+  <Elem NameU="Time Bar" Name="Zeitleiste"/>
+  <Elem NameU="Time Bar" Name="Zeitleiste"/>
+  <Elem NameU="Time Bar" Name="Zeitleiste"/>
+  <Elem NameU="Interval Description" Name="Intervall Beschreibung"/>
+  <Elem NameU="Interval Description" Name="Intervall Beschreibung"/>
+  <Elem NameU="Interval Description" Name="Intervall Beschreibung"/>
+  <Elem NameU="Interval Description" Name="Intervall Beschreibung"/>
+  <Elem NameU="Interval Description" Name="Intervall Beschreibung"/>
+  <Elem NameU="Point Mission" Name="Punktauftrag"/>
+  <Elem NameU="Multi-style Mission" Name="Multistil-Auftrag"/>
+  <Elem NameU="Point Mission" Name="Punktauftrag"/>
+  <Elem NameU="Point Mission" Name="Punktauftrag"/>
+  <Elem NameU="Point Mission" Name="Punktauftrag"/>
+  <Elem NameU="Diamond Milestone" Name="Diamant Meilenstein"/>
+  <Elem NameU="Triangle Milestone 2" Name="Dreieck Meilenstein 2"/>
+  <Elem NameU="Circle Milestone" Name="Kreis Meilenstein"/>
+  <Elem NameU="Rect Milestone" Name="Rechteck Meilenstein"/>
+  <Elem NameU="Milestone" Name="Meilenstein"/>
+  <Elem NameU="Flag Milestone" Name="Flagge Meilenstein"/>
+  <Elem NameU="Line Milestone" Name="Linie Meilenstein"/>
+  <Elem NameU="Side Brace" Name="Seitenstrebe"/>
+</Lib>

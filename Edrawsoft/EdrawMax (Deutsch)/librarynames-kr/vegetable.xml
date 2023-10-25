@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Vegetable">
+    <Elem NameU="Hamburger" Name="햄버거"/>
+    <Elem NameU="Hot Dog" Name="핫도그"/>
+    <Elem NameU="Pizza" Name="피자"/>
+    <Elem NameU="Pizza piece" Name="피자 조각"/>
+    <Elem NameU="Pizza dinner" Name="피자"/>
+    <Elem NameU="Spaghetti" Name="스파게티"/>
+    <Elem NameU="Sushi 1" Name="스시 1"/>
+    <Elem NameU="Sushi 2" Name="스시 2"/>
+    <Elem NameU="Sushi 3" Name="스시 3"/>
+    <Elem NameU="Sausage" Name="소시지"/>
+    <Elem NameU="Chicken" Name="치킨"/>
+    <Elem NameU="Drumstick" Name="닭다리"/>
+    <Elem NameU="Chicken Drumstick" Name="닭다리"/>
+    <Elem NameU="Meat" Name="고기"/>
+    <Elem NameU="Egg" Name="계란"/>
+    <Elem NameU="Crab" Name="크랩"/>
+    <Elem NameU="Fish" Name="생선"/>
+    <Elem NameU="Escargots" Name="달팽이"/>
+    <Elem NameU="Lobster" Name="랍스터"/>
+    <Elem NameU="Octopus" Name="문어"/>
+    <Elem NameU="Tomato 1" Name="토마토"/>
+    <Elem NameU="Tomato 2" Name="토마토"/>
+    <Elem NameU="Tomato 3" Name="토마토"/>
+    <Elem NameU="Carrot" Name="당근"/>
+    <Elem NameU="Chinese Cabbage" Name="배추"/>
+    <Elem NameU="Cauliflower" Name="콜리 플라워"/>
+    <Elem NameU="Radish" Name="무"/>
+    <Elem NameU="Red Radish" Name="홍당무"/>
+    <Elem NameU="Kidney beans" Name="강남콩"/>
+    <Elem NameU="Onion" Name="양파"/>
+    <Elem NameU="Luffa" Name="루파"/>
+    <Elem NameU="Pumpkin" Name="호박"/>
+    <Elem NameU="Eggplant" Name="가지"/>
+    <Elem NameU="Bell Pepper" Name="피망"/>
+    <Elem NameU="Mushrooms 1" Name="버섯"/>
+    <Elem NameU="Mushrooms 2" Name="버섯"/>
+    <Elem NameU="Myrcia" Name="무르시아"/>
+    <Elem NameU="Peanut" Name="땅콩"/>
+    <Elem NameU="Corn" Name="옥수수"/>
+    <Elem NameU="Green Onion" Name="파"/>
+    <Elem NameU="Garlic" Name="마늘"/>
+    <Elem NameU="A Clove of Garlic" Name="마늘 조각"/>
+    <Elem NameU="Ginger" Name="생강"/>
+    <Elem NameU="Orange" Name="오렌지"/>
+    <Elem NameU="Strawberry" Name="딸기"/>
+    <Elem NameU="Banana" Name="바나나"/>
+    <Elem NameU="Peeled Banana" Name="껍질을 벗긴 바나나"/>
+    <Elem NameU="Cherry" Name="체리"/>
+    <Elem NameU="Grape" Name="포도"/>
+    <Elem NameU="Lemon" Name="레몬"/>
+    <Elem NameU="Peach" Name="복숭아"/>
+    <Elem NameU="Apple" Name="사과"/>
+    <Elem NameU="Star Fruit" Name="스트 프루트"/>
+    <Elem NameU="Watermelon" Name="수박"/>
+    <Elem NameU="Watermelon Slice" Name="수박"/>
+    <Elem NameU="Pear" Name="배"/>
+    <Elem NameU="Lychee" Name="리치"/>
+    <Elem NameU="Papaya" Name="파파야"/>
+    <Elem NameU="Pineapple" Name="파인애플"/>
+    <Elem NameU="Ice-cream cone" Name="아이스크림 콘"/>
+    <Elem NameU="Lollipop" Name="롤리팝"/>
+    <Elem NameU="Macaron" Name="마카롱"/>
+    <Elem NameU="Doughnut" Name="도넛"/>
+    <Elem NameU="Oreo" Name="Oreo"/>
+    <Elem NameU="Chocolate" Name="쵸콜렛"/>
+    <Elem NameU="Milk" Name="우유"/>
+    <Elem NameU="A Bow of Rice" Name="밥 한 공기"/>
+    <Elem NameU="A Glass of Beer 1" Name="맥주 한 잔"/>
+    <Elem NameU="A Glass of Beer 2" Name="맥주 한 잔"/>
+</Lib>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Infographic Charts">
+
+<Elem Name="横棒グラフ 2" NameU="Bar Chart"/>
+
+<Elem Name="縦棒グラフ 3" NameU="Column Chart"/>
+
+<Elem Name="円グラフ" NameU="Pie"/>
+
+<Elem Name="ドーナツ図 1" NameU="Doughnut"/>
+
+<Elem Name="円形ンジケーター" NameU="Circle Indicator"/>
+
+<Elem Name="半円形インジケーター" NameU="Semicircular Indicator"/>
+
+<Elem Name="棒インジケーター" NameU="Bar Indicator"/>
+
+<Elem Name="列インジケーター" NameU="Column Indicator"/>
+
+<Elem Name="バッテリーインジケーター" NameU="Battery Indicator"/>
+
+<Elem Name="パーセントインジケーター" NameU="Percentage Indicator"/>
+
+<Elem Name="時計チャート" NameU="Clock Chart"/>
+
+<Elem Name="女の子" NameU="Woman"/>
+
+<Elem Name="男の子" NameU="Man"/>
+
+<Elem Name="男性" NameU="Men"/>
+
+<Elem Name="女性" NameU="Women"/>
+
+<Elem Name="人" NameU="People"/>
+
+<Elem Name="試験管チャート" NameU="Test Tube Chart"/>
+
+<Elem Name="水滴チャート" NameU="Water Drop Chart"/>
+
+<Elem Name="上矢印" NameU="Up Arrow"/>
+
+<Elem Name="親指のように" NameU="Like Thumb"/>
+
+<Elem Name="データ分析表" NameU="Data Analysis Table"/>
+
+<Elem Name="スケールマップ" NameU="Scale Map"/>
+
+<Elem Name="積み上げ円グラフ" NameU="Stacked Circle Chart"/>
+
+<Elem Name="ローズパイ" NameU="Rose Pie"/>
+
+</Lib>

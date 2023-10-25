@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Six Sigma">
+	<Elem NameU="Six Matrix" Name="Matriz de Seis"/>
+	<Elem NameU="Six Matrix 2" Name="Matriz de Seis 2"/>
+	<Elem NameU="Six Matrix with Name" Name="Matriz de Seis com Nome"/>
+	<Elem NameU="Flags" Name="Bandeiras"/>
+	<Elem NameU="Flags 2" Name="Bandeiras 2"/>
+	<Elem NameU="12-Role Flag" Name="Bandeira de 12-Posições"/>
+	<Elem NameU="Complete or Cancel" Name="Completar ou Cancelar"/>
+	<Elem NameU="Numbering" Name="Numeração"/>
+	<Elem NameU="Dynamic Progress" Name="Progresso Dinâmico"/>
+</Lib>

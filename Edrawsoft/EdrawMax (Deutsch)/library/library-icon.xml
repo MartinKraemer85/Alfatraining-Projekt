@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Library version="1.0">
+
+	<Templates Name="Business">
+			<Template Name="Business Flat Icons" Path="./icons/business-flat-icons.edt" id="456"/>
+			<Template Name="Business Outline Icons" Path="./icons/business-outline-icons.edt" id="283"/>
+			<Template Name="Business Two Color Icons" Path="./icons/business-two-color-icons.edt" id="457"/>
+	</Templates>
+	
+	<Templates Name="Daily Life">
+			<Template Name="Daily Life Flat Icons" Path="./icons/daily-life-flat-icons.edt" id="458"/>
+			<Template Name="Daily Life Outline Icons" Path="./icons/daily-life-outiline-icons.edt" id="280"/>
+	</Templates>
+
+	<Templates Name="Education">
+			<Template Name="Education Flat Icons" Path="./icons/education-flat-icons.edt" id="459"/>
+			<Template Name="Education Outline Icons" Path="./icons/education-outline-icons.edt" id="281"/>
+	</Templates>
+	
+	<Templates Name="Medical">
+			<Template Name="Medical Flat Icons" Path="./icons/medical-flat-icons.edt" id="460"/>
+			<Template Name="Medical Outline Icons" Path="./icons/medical-outline-icons.edt" id="282"/>
+	</Templates>		
+	
+	<Templates Name="Users">
+			<Template Name="Users Flat Icons" Path="./icons/users-flat-icons.edt" id="462"/>
+			<Template Name="Users Outline Icons" Path="./icons/user-outline-icons.edt" id="284"/>
+	</Templates>
+
+	<Templates Name="Social Media">
+		<Template Name="Social Media Flat Icons" Path="./icons/social-media-flat-icons.edt" id="461"/>
+		<Template Name="Social Media Colorful Icons" Path="./icons/social-media-outline-icons.edt" id="463"/>
+	</Templates>
+	
+	<Template Name="Facial Expression" Path="./icons/facial-expression.edt" id="465"/>	
+	<Template Name="Number" Path="./icons/number.edt" id="464"/>	
+	
+</Library>

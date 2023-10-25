@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Value Stream Mapping">
+    <Elem NameU="Production Control" Name="生产控制"/>
+    <Elem NameU="Information" Name="信息"/>
+    <Elem NameU="Process" Name="流程"/>
+    <Elem NameU="Customer / Supplier" Name="客户/供应商"/>
+    <Elem NameU="Data Table" Name="数据表"/>
+    <Elem NameU="Shipment Arrow" Name="运输箭头"/>
+    <Elem NameU="Push Arrow" Name="上推箭头"/>
+    <Elem NameU="Electronic Information Flow" Number="2" Name="电子信息"/>
+    <Elem NameU="Manual Information Flow" Name="人工信息流"/>
+    <Elem NameU="External Shipment" Name="运输卡车"/>
+    <Elem NameU="Airplan Shipment" Name="空运"/>
+    <Elem NameU="Boat Shipment" Name="船运"/>
+    <Elem NameU="Rail Shipment" Name="铁路货运"/>
+    <Elem NameU="Inventory" Name="库存"/>
+    <Elem NameU="Warehouse" Name="仓库"/>
+    <Elem NameU="Cross-Dock" Name="交叉货仓"/>
+    <Elem NameU="Timeline Segment" Name="时间线片断"/>
+    <Elem NameU="Timeline End Segment" Name="时间线终点"/>
+    <Elem NameU="Timeline Total" Name="时间线汇总"/>
+    <Elem NameU="Withdrawal Kanban" Name="取材看板"/>
+    <Elem NameU="Withdrawal Batch Kanban" Name="批量取材看板"/>
+    <Elem NameU="Production Kanban" Name="生产看板"/>
+    <Elem NameU="Batch Kanban" Name="批量看板"/>
+    <Elem NameU="Note" Name="注释"/>
+    <Elem NameU="Supermarket" Name="超市"/>
+    <Elem NameU="Safety Stock" Name="安全/缓冲储备"/>
+    <Elem NameU="Control Center" Name="控制中心"/>
+    <Elem NameU="Workcell" Name="工作间"/>
+    <Elem NameU="Signal Kanban" Name="信号看板"/>
+    <Elem NameU="Kanban Post" Name="看板公告"/>
+    <Elem NameU="Go See Production" Name="生产量视察"/>
+    <Elem NameU="Verbal Information" Name="语言信息"/>
+    <Elem NameU="Phone" Name="电话"/>
+    <Elem NameU="MRP/ERP" Name="MRP/ERP"/>
+    <Elem NameU="Kaizen Burst" Name="Kaizen 爆发"/>
+    <Elem NameU="FIFO Lane" Number="2" Name="FIFO 通道"/>
+    <Elem NameU="Load Leveling" Name="负荷量"/>
+    <Elem NameU="Sequenced Pull Ball" Name="顺序下拉球"/>
+    <Elem NameU="Physical Pull" Name="物理下拉"/>
+</Lib>

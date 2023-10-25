@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Bar">
+
+<Elem Name="Standard Balkendiagramm" NameU="Simple bar chart"/>
+
+<Elem Name="Gradient Balken" NameU="Gradient ba"/>
+
+<Elem Name="Einzelserien-Balkendiagramm" NameU="Single series bar chart"/>
+
+<Elem Name="Cluster-Balkendiagramm" NameU="Cluster bar chart"/>
+
+<Elem Name="Cluster-Balkendiagramm 2" NameU="Cluster bar chart 2"/>
+
+<Elem Name="Gestapeltes Balkendiagramm" NameU="Stacked bar chart"/>
+
+<Elem Name="Gestapeltes Balkendiagramm 2" NameU="Stacked bar chart 2"/>
+
+<Elem Name="Einzelne Balkendiagramme" NameU="Single bar chart"/>
+
+<Elem Name="Prozentsatz des gestapelten Balkendiagramms" NameU="Percentage stacked bar chart"/>
+
+<Elem Name="Prozentsatz des gestapelten Balkendiagramms 2" NameU="Percentage stacked bar chart2"/>
+
+<Elem Name="Prozentuales Balkendiagramm" NameU="Percentage bar chart"/>
+
+</Lib>

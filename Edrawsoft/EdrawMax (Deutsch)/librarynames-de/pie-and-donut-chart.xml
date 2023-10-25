@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Pie and Donut Chart">
+	<Elem NameU="Pie chart" Name="Kreisdiagramm"/>
+	<Elem NameU="Gradient pie chart" Name="Farbverlauf des Kreisdiagramms"/>
+	<Elem NameU="Pie chart2" Name="Kreisdiagramm2"/>
+	<Elem NameU="Pie chart3" Name="Kreisdiagramm3"/>
+	<Elem NameU="Percent gradient pie chart" Name="Prozent Farbverlauf des Kreisdiagramms"/>
+	<Elem NameU="Percentage gradient donut chart" Name="Prozent Farbverlauf des Ringdiagramms"/>
+	<Elem NameU="Percentage donut chart" Name="Prozent Ringdiagramm"/>
+	<Elem NameU="Donut" Name="Ringdiagramm"/>
+	<Elem NameU="Gradient donut chart" Name="Farbverlauf des Ringdiagramms"/>
+	<Elem NameU="Gradient donut chart3" Name="Farbverlauf des Ringdiagramms3"/>
+	<Elem NameU="Gradient donut chart 5" Name="Farbverlauf des Ringdiagramms5"/>
+	<Elem NameU="Donut5" Name="Ringdiagramm5"/>
+	<Elem NameU="Donut4" Name="Ringdiagramm4"/>
+	<Elem NameU="Donut3" Name="Ringdiagramm3"/>
+	<Elem NameU="Rose Figure 1" Name="Rose Figur 1"/>
+	<Elem NameU="Gradient rose illustration 1" Name="Gradient Rosa-Illustration 1"/>
+	<Elem NameU="Gradient rose illustration 3" Name="Gradient Rosa-Illustration 3"/>
+	<Elem NameU="Rose Figure 3" Name="Rose Figur 3"/>
+</Lib>

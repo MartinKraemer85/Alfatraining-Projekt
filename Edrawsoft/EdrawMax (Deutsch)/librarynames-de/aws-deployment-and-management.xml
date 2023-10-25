@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib nameU="AWS Deployment and Management">
+	<Elem NameU="CodeDeploy" Name="CodeDeploy"/>
+	<Elem NameU="AWS CloudFormation Stack" Name="AWS CloudFormation Stack"/>
+	<Elem NameU="AWS CloudFormation Template" Name="AWS CloudFormation Vorlage"/>
+	<Elem NameU="AWS CloudFormation" Name="AWS CloudFormation"/>
+	<Elem NameU="AWS Data Pipeline" Name="AWS Daten-Pipeline"/>
+	<Elem NameU="CloudTrail" Name="CloudTrail"/>
+	<Elem NameU="CloudWatch Alarm" Name="CloudWatch Alarm"/>
+	<Elem NameU="CloudWatch" Name="CloudWatch"/>
+	<Elem NameU="Elastic Beanstalk Application" Name="Elastische Beanstalk Anwendung"/>
+	<Elem NameU="Elastic Beanstalk Deployment" Name="Elastische Beanstalk Entsendung"/>
+	<Elem NameU="Elastic Beanstalk" Name="Elastische Beanstalk"/>
+	<Elem NameU="Elastic Beanstalk Container" Name="Elastische Beanstalk Behälter"/>
+	<Elem NameU="IAM Add-on" Name="IAM Ergänzung"/>
+	<Elem NameU="IAM Credentials" Name="IAM Berechtigungsnachweis"/>
+	<Elem NameU="IAM Data Encryption Key" Name="IAM Datenverschlüsselungsschlüssel"/>
+	<Elem NameU="IAM Encrypted Data" Name="IAM Verschlüsselte Daten"/>
+	<Elem NameU="IAM MFA Token" Name="IAM MFA Token"/>
+	<Elem NameU="IAM Permissions" Name="IAM Genehmigungen"/>
+	<Elem NameU="IAM Roles" Name="IAM Rollen"/>
+	<Elem NameU="IAM Security Token Service" Name="IAM Sicherheitstoken Service"/>
+	<Elem NameU="IAM Short Term Credentials" Name="IAM kurzfristige Anmeldedaten"/>
+	<Elem NameU="IAM STS" Name="IAM STS"/>
+	<Elem NameU="IAM" Name="IAM"/>
+	<Elem NameU="OpsWorks Apps" Name="OpsWorks Apps"/>
+	<Elem NameU="OpsWorks Deployments" Name="OpsWorks Entsendungen"/>
+	<Elem NameU="OpsWorks Instances" Name="OpsWorks Instanzen"/>
+	<Elem NameU="OpsWorks Layers" Name="OpsWorks Ebenen"/>
+	<Elem NameU="OpsWorks Monitoring" Name="OpsWorks Überwachung"/>
+	<Elem NameU="OpsWorks Permissions" Name="OpsWorks Berechtigungen"/>
+	<Elem NameU="OpsWorks Resources" Name="OpsWorks Ressourcen"/>
+	<Elem NameU="OpsWorks Stack" Name="OpsWorks Stack"/>
+	<Elem NameU="OpsWorks" Name="OpsWorks"/>
+</Lib>

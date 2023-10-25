@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Common Objects">
+	<Elem NameU="TV" Name="TV"/>
+	<Elem NameU="Sofa" Name="ソファー"/>
+	<Elem NameU="Refrigerator" Name="冷蔵庫"/>
+	<Elem NameU="Table" Name="テーブル"/>
+	<Elem NameU="Gloves" Name="手袋"/>
+	<Elem NameU="Chair" Name="椅子"/>
+	<Elem NameU="Bowl" Name="ボウル"/>
+	<Elem NameU="Chopsticks" Name="箸"/>
+	<Elem NameU="Rice Scoop" Name="しゃもじ"/>
+	<Elem NameU="Knife" Name="ナイフ"/>
+	<Elem NameU="Spoon" Name="スプーン"/>
+	<Elem NameU="Fork" Name="フォーク"/>
+	<Elem NameU="Soup Ladle" Name="玉じゃくし"/>
+	<Elem NameU="Ice Pop" Name="アイスキャンディー"/>
+	<Elem NameU="Ice Cream" Name="アイスクリーム"/>
+	<Elem NameU="Bowknot" Name="ちょう結び"/>
+	<Elem NameU="Tie" Name="ネクタイ"/>
+	<Elem NameU="Shoes" Name="靴"/>
+	<Elem NameU="Comb" Name="櫛"/>
+	<Elem NameU="Glasses" Name="メガネ"/>
+	<Elem NameU="Binoculars" Name="双眼鏡"/>
+	<Elem NameU="Telescope" Name="望遠鏡"/>
+	<Elem NameU="Magnifier" Name="虫眼鏡"/>
+	<Elem NameU="Telephone" Name="電話"/>
+	<Elem NameU="Mobile Phone" Name="携帯"/>
+	<Elem NameU="Trumpet" Name="ラッパ"/>
+	<Elem NameU="Calendar" Name="カレンダー"/>
+	<Elem NameU="Protractor" Name="分度器"/>
+	<Elem NameU="Ruler" Name="ルーラー"/>
+	<Elem NameU="Set Square" Name="三角定規"/>
+	<Elem NameU="Binder Clip" Name="バインダークリップ"/>
+	<Elem NameU="Scissors" Name="はさみ"/>
+	<Elem NameU="Stapler" Name="ステープラー"/>
+	<Elem NameU="Magazine" Name="雑誌"/>
+	<Elem NameU="Book" Name="本"/>
+	<Elem NameU="Backpack" Name="ランドセル"/>
+	<Elem NameU="Pen" Name="ペン"/>
+	<Elem NameU="Pencil" Name="鉛筆"/>
+	<Elem NameU="Paintbrush" Name="絵筆"/>
+	<Elem NameU="Rubber" Name="消しゴム"/>
+	<Elem NameU="Palette" Name="パレット"/>
+	<Elem NameU="Shovel" Name="シャベル"/>
+	<Elem NameU="Brush" Name="ブラシ"/>
+	<Elem NameU="Paint Box" Name="ペイントボックス"/>
+	<Elem NameU="Building Blocks" Name="積み木"/>
+	<Elem NameU="Remote Control Car" Name="リモートコントロールカー"/>
+	<Elem NameU="Music Notes" Name="音符"/>
+	<Elem NameU="Ring Tower Toy" Name="リングタワーおもちゃ"/>
+	<Elem NameU="Spinning Top" Name="スピニングトップ"/>
+	<Elem NameU="Abacus" Name="アバカス"/>
+	<Elem NameU="Jigsaw Puzzle" Name="ジグソーパズル"/>
+	<Elem NameU="Ball" Name="ボール"/>
+	<Elem NameU="Photo Frame" Name="フォトフレーム"/>
+	<Elem NameU="Alarm Clock" Name="目覚まし時計"/>
+	<Elem NameU="Slide" Name="滑り台"/>
+	<Elem NameU="Cubes" Name="積み木"/>
+	<Elem NameU="Rocking Horse" Name="揺り木馬"/>
+	<Elem NameU="Pinwheel" Name="風車"/>
+	<Elem NameU="Toy Bear" Name="ぬいぐるみベアー"/>
+	<Elem NameU="Water the Flowers" Name="花に水をやる"/>
+	<Elem NameU="Umbrella" Name="傘"/>
+	<Elem NameU="Checkers" Name="ダイヤモンドゲーム"/>
+	<Elem NameU="Mailbox" Name="メールボックス"/>
+</Lib>

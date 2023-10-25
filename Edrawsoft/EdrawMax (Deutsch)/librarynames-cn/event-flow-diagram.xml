@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Event Flow Diagram">
+    <Elem NameU="Event" Name="事件"/>
+    <Elem NameU="Act" Name="行为"/>
+    <Elem NameU="General Entity" Name="一般实体"/>
+    <Elem NameU="Node" Name="节点"/>
+    <Elem NameU="OR" Name="或"/>
+    <Elem NameU="And" Name="与"/>
+    <Elem NameU="External Actor" Name="外部行为者"/>
+    <Elem NameU="Machine Act" Name="机器行为"/>
+    <Elem NameU="Machine Entity" Name="机器实体"/>
+    <Elem NameU="Manual Act" Name="手动行为"/>
+    <Elem NameU="Manual Entity" Name="手动实体"/>
+    <Elem NameU="Unit" Name="单位"/>
+</Lib>

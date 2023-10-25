@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Facial Expression">
+	<Elem NameU="Neutral" Name="Neutre"/>
+	<Elem NameU="LOL" Name="LOL"/>
+	<Elem NameU="Ashtonished" Name="Étonné"/>
+	<Elem NameU="Kissing heart" Name="Un cœur qui embrasse"/>
+	<Elem NameU="Bummed" Name="Déprimé"/>
+	<Elem NameU="Crying with laughter" Name="Pleurer de rire"/>
+	<Elem NameU="No words" Name="Pas de mots"/>
+	<Elem NameU="Laughing" Name="Rire"/>
+	<Elem NameU="Heart eyes" Name="Yeux en forme de cœur"/>
+	<Elem NameU="Sweat grinning" Name="Sourire avec sueur"/>
+	<Elem NameU="Slightly smile" Name="Léger sourire"/>
+	<Elem NameU="Smile" Name="Sourire"/>
+	<Elem NameU="Sleepy" Name="Endormi"/>
+	<Elem NameU="Blush" Name="Rougir"/>
+	<Elem NameU="Crying" Name="Pleurer"/>
+	<Elem NameU="Cool" Name="Cool"/>
+	<Elem NameU="Angry" Name="En colère"/>
+	<Elem NameU="Dizzy face" Name="Visage étourdi"/>
+	<Elem NameU="Unamused" Name="Je ne trouve pas ça drôle"/>
+	<Elem NameU="Hurt" Name="Blessé"/>
+	<Elem NameU="Sick" Name="Malade"/>
+	<Elem NameU="Sleeping" Name="Dormant"/>
+	<Elem NameU="Confused" Name="Confus"/>
+	<Elem NameU="Face with tongue" Name="Visage avec langue"/>
+	<Elem NameU="Vomiting" Name="En train de vomir"/>
+	<Elem NameU="Strength" Name="Force"/>
+	<Elem NameU="Dollar eyes" Name="Yeux en forme de dollars"/>
+	<Elem NameU="Wink" Name="Clin d'œil"/>
+	<Elem NameU="Woozy" Name="Qui a l'air ivre"/>
+</Lib>

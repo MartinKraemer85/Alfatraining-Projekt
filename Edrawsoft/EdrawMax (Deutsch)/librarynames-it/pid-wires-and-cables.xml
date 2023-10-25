@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="PID Wires and Cables">
+	<Elem NameU="Additive injection system" Name="Sistema a iniezione aggiuntivo"/>
+	<Elem NameU="Baling press" Name="Pressa per balle"/>
+	<Elem NameU="Coil" Name="Induttore"/>
+	<Elem NameU="Extruder" Name="Estrusore"/>
+	<Elem NameU="Extrusion booster pump" Name="Pompa per estrusore"/>
+	<Elem NameU="Horizontal baler (slate blue)" Name="Pressa orizzontale (blu ardesia)"/>
+	<Elem NameU="Simple extruder" Name="Estrusore semplice"/>
+	<Elem NameU="Simple wire stacker" Name="Macchina impilacavi semplice"/>
+	<Elem NameU="Simple wire stripper" Name="Macchina tagliacavi semplice"/>
+	<Elem NameU="Wire spool 1" Name="Bobina di cavo 1"/>
+	<Elem NameU="Wire spool 2" Name="Bobina di cavo 2"/>
+	<Elem NameU="Wooden spool" Name="Bobina in legno"/>
+</Lib>

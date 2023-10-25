@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Fire and Emergency">
+    <Elem NameU="Slide Door Left" Name="슬라이드 도어 왼쪽으로"/>
+    <Elem NameU="Slide Door Right" Name="슬라이드 도어 오른쪽으로"/>
+    <Elem NameU="Fire Break Glass" Name="방화 유리"/>
+    <Elem NameU="Emergency Ambulance" Name="구급차"/>
+    <Elem NameU="Emergency Access" Number="2" Name="비상 접근"/>
+    <Elem NameU="Emergency Exit" Number="2" Name="비상구"/>
+    <Elem NameU="Use Stairs in Fire" Name="화재상황에서 계단 사용"/>
+    <Elem NameU="Use Stairs" Name="엘리베이터 사용"/>
+    <Elem NameU="Fire Ladder" Name="소방 사다리"/>
+    <Elem NameU="Handicap Accessible" Name="장애인 이용 가능"/>
+    <Elem NameU="Arrow" Name="화살표"/>
+    <Elem NameU="Indicating Arrow" Number="3" Name="화살표"/>
+    <Elem NameU="Assembly Point" Name="어셈블리 포인트"/>
+    <Elem NameU="Refuge Area" Name="피난 지역"/>
+    <Elem NameU="You are Here" Name="현재 위치"/>
+    <Elem NameU="Emergency Exit" Number="2" Name="비상구"/>
+    <Elem NameU="Fire Extinguisher" Name="소화기"/>
+    <Elem NameU="Fire Hydrant" Number="2" Name="소화전"/>
+    <Elem NameU="Emergency Phone" Number="2" Name="긴급 전화"/>
+    <Elem NameU="Call 911" Name="911콜"/>
+    <Elem NameU="Fire Extinguisher" Name="소화기"/>
+    <Elem NameU="Fire Alarm Call Point" Name="화재 경보 콜 포인트"/>
+    <Elem NameU="Fire Hose" Number="2" Name="소방 호스"/>
+    <Elem NameU="Gas Shutoff Valve" Name="가스 차단 밸브"/>
+    <Elem NameU="Automatic Sprinkler Control Valve" Name="자동 살수 장치 컨트롤 밸브"/>
+    <Elem NameU="Automatic Sprinkler Connection" Name="자동 스프링클러 연결"/>
+    <Elem NameU="Single Automatic Sprinkler Connection" Name="단일 자동 스프링클러 연결"/>
+    <Elem NameU="Combined Automatic Sprinkler/Standpipe Connection" Name="결합 자동 스프링클러 / 스탠드 파이프 연결"/>
+    <Elem NameU="Standpipe Connection" Name="스탠드파이프 연결"/>
+    <Elem NameU="Fire Axe" Name="소방 도끼"/>
+    <Elem NameU="Fire Fighting Equipment" Name="소방 장비"/>
+    <Elem NameU="Alarm" Name="경보"/>
+    <Elem NameU="Fire Alarm" Name="화재 경보"/>
+    <Elem NameU="Manual activating Device" Name="수동 활성화 장치"/>
+    <Elem NameU="Electric Panel Shutoff" Name="전기 패널 차단"/>
+    <Elem NameU="Child Care Center" Name="육아 센터"/>
+    <Elem NameU="Smoke Detector" Name="연기탐지기"/>
+    <Elem NameU="Fire Sprinkler" Number="2" Name="화재 스프링클러"/>
+    <Elem NameU="Air Conditioning Vents" Name="에어컨 통풍구"/>
+    <Elem NameU="Vents" Name="통풍구"/>
+    <Elem NameU="Not an Exit" Name="출입 불가"/>
+    <Elem NameU="Don't Go Back" Name="역행 금지"/>
+    <Elem NameU="Don't use the Elevator" Name="엘리베이터 사용 금지"/>
+    <Elem NameU="No Fire" Name="No Fire"/>
+    <Elem NameU="No Smoking" Name="금연"/>
+    <Elem NameU="No Cooking" Name="요리 금지"/>
+    <Elem NameU="Radiation Hazard" Name="방사선 위험"/>
+    <Elem NameU="Non-ionising Radiation" Name="비 이온화 방사선"/>
+    <Elem NameU="Explosives" Name="폭발물"/>
+    <Elem NameU="Toxic Gas" Name="독성 가스"/>
+    <Elem NameU="Medical Waste" Name="의료 폐기물"/>
+    <Elem NameU="Flammable Material" Name="인화성 물질"/>
+    <Elem NameU="Comburent" Name="조연제"/>
+    <Elem NameU="Dangerous Chemical" Name="위험한 화학 물질"/>
+    <Elem NameU="Corrosive Material" Name="부식성 물질"/>
+    <Elem NameU="Noise" Name="소음"/>
+    <Elem NameU="Be Careful Suffocation" Name="질식 조심"/>
+    <Elem NameU="Harmful Goods" Name="유해 물품 "/>
+    <Elem NameU="Chemical Weapon" Name="화학 무기"/>
+    <Elem NameU="Warning Sign" Name="경고 표시"/>
+    <Elem NameU="High Voltage Sign" Name="고전압 표시"/>
+    <Elem NameU="Laser Hazzard Sign" Name="레이저 위험 기호"/>
+    <Elem NameU="Radiation Danger" Name="방사선 위험"/>
+</Lib>

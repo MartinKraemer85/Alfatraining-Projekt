@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Landscape">
+	<Elem NameU="Great Wall" Name="Muraglia"/>
+	<Elem NameU="Volcano" Name="Vulcano"/>
+	<Elem NameU="Snow Mountain" Name="Montagna Innevata"/>
+	<Elem NameU="Desert" Name="Deserto"/>
+	<Elem NameU="Mountains" Name="Montagne"/>
+	<Elem NameU="Lakes" Name="Laghi"/>
+	<Elem NameU="Forest" Name="Foresta"/>
+	<Elem NameU="Waterfall 1" Name="Cascata 1"/>
+	<Elem NameU="Waterfall 2" Name="Cascata 2"/>
+	<Elem NameU="Stream" Name="Fiume"/>
+	<Elem NameU="Sunrise" Name="Alba"/>
+	<Elem NameU="Beach 1" Name="Spiaggia 1"/>
+	<Elem NameU="Beach 2" Name="Spiaggia 2"/>
+	<Elem NameU="Beach 3" Name="Spiaggia 3"/>
+	<Elem NameU="Holiday Bungalow" Name="Casa delle Vacanze"/>
+	<Elem NameU="Castle" Name="Castello"/>
+	<Elem NameU="Windmill" Name="Mulino"/>
+	<Elem NameU="Park" Name="Parco"/>
+	<Elem NameU="Stone Bridge" Name="Ponte di Pietra"/>
+	<Elem NameU="Amusement Park" Name="Parco Divertimenti"/>
+	<Elem NameU="Lake Park" Name="Parco con Lago"/>
+	<Elem NameU="Village" Name="Villaggio"/>
+	<Elem NameU="Beijing Bird's Nest Stadium" Name="Stadio Nazionale di Pechino"/>
+	<Elem NameU="Taj Mahal" Name="Taj Mahal"/>
+	<Elem NameU="Sydney Opera House" Name="Teatro dell'Opera di Sydney"/>
+	<Elem NameU="Eiffel Tower" Name="Torre Eiffel"/>
+	<Elem NameU="Pisa Leaning Tower" Name="Torre di Pisa"/>
+</Lib>

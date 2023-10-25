@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Logistics">
+    <Elem NameU="Boxcar" Name="기차"/>
+    <Elem NameU="Container car (single)" Name="컨테이너 차량 (단일)"/>
+    <Elem NameU="Container car (stacked)" Name="컨테이너 차량 (스택형)"/>
+    <Elem NameU="Gantry crane" Name="갠트리 기중기"/>
+    <Elem NameU="Hopper car" Name="호퍼 카"/>
+    <Elem NameU="Hopper car with coal" Number="2" Name="석탄 호퍼 자동차"/>
+    <Elem NameU="Hopper car with wood chips" Name="우드 칩이 달린 호퍼 자동차"/>
+    <Elem NameU="Locomotive" Name="기관차"/>
+    <Elem NameU="Port crane (extended)1" Name="포트 크레인 (확장)1"/>
+    <Elem NameU="Port crane (extended)2" Name="포트 크레인 (확장)2"/>
+    <Elem NameU="Standard 20-foot container" Name="표준 20 피트 컨테이너"/>
+    <Elem NameU="Standard 40-foot container" Name="표준 40 피트 컨테이너"/>
+    <Elem NameU="Tank container" Name="탱크 컨테이너"/>
+    <Elem NameU="Tanker" Name="탱커"/>
+    <Elem NameU="18-wheeler truck" Name="18 륜 트럭"/>
+    <Elem NameU="Airplane" Name="비행기"/>
+    <Elem NameU="Airplane right" Name="비행기 오른쪽"/>
+    <Elem NameU="Bicycle" Name="자전거"/>
+    <Elem NameU="Car" Number="2" Name="차"/>
+    <Elem NameU="Concrete mixing truck" Name="콘크리트 혼합 트럭"/>
+    <Elem NameU="Digging machine 1" Name="채굴기1"/>
+    <Elem NameU="Digging machine 2" Name="채굴기2"/>
+    <Elem NameU="Excavator" Name="굴착기"/>
+    <Elem NameU="Dumpcart" Name="덤프 카트"/>
+    <Elem NameU="Dump truck (lowered)" Name="덤프 트럭 (하강)"/>
+    <Elem NameU="Dump truck (raised)" Name="덤프 트럭 (올림)"/>
+    <Elem NameU="Oiler" Name="주유기"/>
+    <Elem NameU="Feeder" Number="2" Name="공급원"/>
+    <Elem NameU="Railway carriage" Name="철도 운송"/>
+    <Elem NameU="Tank car 1" Name="탱크카1"/>
+    <Elem NameU="Tank car 2" Name="탱크카2"/>
+    <Elem NameU="Truck" Number="2" Name="트럭"/>
+    <Elem NameU="Differential pressure car" Name="차압차"/>
+    <Elem NameU="Coal" Name="석탄"/>
+    <Elem NameU="Sandpile" Name="사장"/>
+    <Elem NameU="Mound" Name="언덕"/>
+    <Elem NameU="Rock mound" Name="돌더미"/>
+    <Elem NameU="Precleaner" Name="프리 클리너"/>
+    <Elem NameU="Filtrate machine" Name="여과기"/>
+    <Elem NameU="Vibrating screen" Name="진동 스크린"/>
+    <Elem NameU="Comprehensive Sorting System" Name="종합 분류 시스템"/>
+    <Elem NameU="Fresh yeast" Name="신선한 효모"/>
+    <Elem NameU="Lifter" Number="3" Name="리프터"/>
+    <Elem NameU="Conveyor" Number="3" Name="컨베이어"/>
+    <Elem NameU="Feeder" Name="공급원"/>
+    <Elem NameU="Belt conveyor &amp; JiLiangCheng" Name="벨트 컨베이어"/>
+    <Elem NameU="Belt conveyor &amp; unloading grain pits" Name="벨트 컨베이어"/>
+    <Elem NameU="Platform weighting" Name="플랫폼 가중치"/>
+    <Elem NameU="Mobile bulk scale" Name="모바일 벌크 스케일"/>
+    <Elem NameU="Packing scale" Name="포장 스케일"/>
+    <Elem NameU="LCS-MT" Name="LCS-MT"/>
+    <Elem NameU="Scale hopper of the weighing sensor" Name="계량 센서의 스케일 호퍼"/>
+    <Elem NameU="Material" Name="재료"/>
+    <Elem NameU="Bulk Container" Name="벌크 컨테이너"/>
+    <Elem NameU="A pouch pack" Name="파우치 팩"/>
+    <Elem NameU="LCA-MT" Name="LCA-MT"/>
+    <Elem NameU="Membrane module " Name="멤브레인 모듈"/>
+    <Elem NameU="Port entrepot storage" Name="포트 중계 스토리지"/>
+</Lib>

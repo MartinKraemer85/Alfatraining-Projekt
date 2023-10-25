@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Medical">
+    <Elem NameU="Woman" Name="여자"/>
+    <Elem NameU="Man" Name="남자"/>
+    <Elem NameU="Molecular Structure" Name="분자구조"/>
+    <Elem NameU="Cerebrum" Name="뇌"/>
+    <Elem NameU="Heart" Name="심장"/>
+    <Elem NameU="DNA" Name="DNA"/>
+    <Elem NameU="Electrocardiogram" Name="심전도"/>
+    <Elem NameU="Baby" Name="아기"/>
+    <Elem NameU="Family" Name="가족"/>
+    <Elem NameU="Analysis" Name="분석"/>
+    <Elem NameU="Report" Name="보고"/>
+    <Elem NameU="Ambulance" Name="구급차"/>
+    <Elem NameU="Medical box" Name="응급 상자"/>
+    <Elem NameU="Respirator" Name="호흡기"/>
+    <Elem NameU="Stethoscope" Name="청진기"/>
+    <Elem NameU="Heart with Cross" Name="적십자사"/>
+    <Elem NameU="Pill" Name="약"/>
+    <Elem NameU="Capsule" Name="캡슐"/>
+    <Elem NameU="Hospital" Name="병원"/>
+    <Elem NameU="Microscope" Name="현미경"/>
+    <Elem NameU="Thermometer" Name="온도계"/>
+    <Elem NameU="Test" Name="테스트"/>
+    <Elem NameU="Test 2" Name="테스트"/>
+    <Elem NameU="Rehabilitation Equipment" Name="회복 장비"/>
+    <Elem NameU="Walking Stick" Name="지팡이"/>
+    <Elem NameU="Walking Stick 2" Name="지팡이"/>
+    <Elem NameU="Wheelchair" Name="휠체어"/>
+    <Elem NameU="Rehab Equipment" Name="회복 장비"/>
+    <Elem NameU="Rehab Equipment 1" Name="회복 장비"/>
+    <Elem NameU="Rehab Equipment 2" Name="회복 장비"/>
+    <Elem NameU="Rehab Equipment 3" Name="회복 장비"/>
+    <Elem NameU="Rehab Equipment 4" Name="회복 장비"/>
+    <Elem NameU="Hospital Bed 1" Name="병원 침대"/>
+    <Elem NameU="Hospital Bed 2" Name="병원 침대"/>
+    <Elem NameU="Hospital Bed 3" Name="병원 침대"/>
+    <Elem NameU="Operating table" Name="수술 침대"/>
+    <Elem NameU="Scale" Name="스케일"/>
+    <Elem NameU="Hazard Warning Sign" Name="위험 경고 표시"/>
+    <Elem NameU="Handicap Sign" Name="핸디캡 표시"/>
+    <Elem NameU="Plastic Infusion Bag" Name="플라스틱 주입 백"/>
+    <Elem NameU="Nurse Cap" Name="간호사 모자"/>
+    <Elem NameU="Injector" Name="주사기"/>
+    <Elem NameU="Tooth" Name="치아"/>
+    <Elem NameU="Liver" Name="간"/>
+    <Elem NameU="Lung" Name="폐"/>
+    <Elem NameU="Stomach" Name="위"/>
+    <Elem NameU="Spleen" Name="비장"/>
+    <Elem NameU="Ear" Name="귀"/>
+    <Elem NameU="Intestines" Name="장"/>
+    <Elem NameU="X-ray Film" Name="X레이"/>
+    <Elem NameU="X-ray Film (Broken Bone)" Name="X레이（골절)"/>
+    <Elem NameU="Doctor" Name="의사"/>
+    <Elem NameU="Nurse" Name="간호사"/>
+    <Elem NameU="Pills" Name="약"/>
+    <Elem NameU="Medicine Bottle" Name="약병"/>
+    <Elem NameU="Virus 1" Name="바이러스"/>
+    <Elem NameU="Virus 2" Name="바이러스"/>
+    <Elem NameU="Heart-shaped electrocardiogram (ecg)" Name="하트 모양 심전도"/>
+    <Elem NameU="Drinking" Name="마시다"/>
+</Lib>

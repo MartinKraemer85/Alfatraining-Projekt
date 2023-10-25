@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Miscellaneous Flowchart Shapes">
+
+<Elem Name="開始/ノード" NameU="Start/Node"/>
+
+<Elem Name="終了/ノード" NameU="End/Node"/>
+
+<Elem Name="処理（円）" NameU="Process(circle)"/>
+
+<Elem Name="データ保管" NameU="Data store"/>
+
+<Elem Name="外部エンティティ" NameU="External entity"/>
+
+<Elem Name="可搬テープ" NameU="Transmittal tape"/>
+
+<Elem Name="分割処理" NameU="Divided process"/>
+
+<Elem Name="処理（角丸）" NameU="Rounded process"/>
+
+<Elem Name="要求作成" NameU="Create request"/>
+
+<Elem Name="四角（枠付き）" NameU="Framed rectangle"/>
+
+<Elem Name="開いた四角" NameU="Opened rectangle"/>
+
+<Elem Name="遅延" NameU="Delay"/>
+
+<Elem Name="和接合" NameU="Summing junction"/>
+
+<Elem Name="ドラム ストレージ" NameU="Drum storage"/>
+
+<Elem Name="論理和" NameU="OR"/>
+
+<Elem Name="照合" NameU="Collate"/>
+
+<Elem Name="抽出" NameU="Extract"/>
+
+<Elem Name="オフライン ストレージ" NameU="Off-line storage"/>
+
+<Elem Name="結合" NameU="Merge"/>
+
+<Elem Name="並べ替え" NameU="Sort"/>
+
+<Elem Name="カード デッキ" NameU="Deck of cards"/>
+
+<Elem Name="カード ファイル" NameU="File of cards"/>
+
+<Elem Name="マイクロフィルム" NameU="Microform"/>
+
+<Elem Name="マイクロフィルム 記録" NameU="Microform recording"/>
+
+<Elem Name="マイクロフィルム 処理" NameU="Microform processing"/>
+
+<Elem Name="複製" NameU="Duplicating"/>
+
+<Elem Name="処理（タグ付き）" NameU="Tagged process"/>
+
+<Elem Name="処理（線、影付き）" NameU="Lined Shaded process"/>
+
+<Elem Name="書類（タグ付き）" NameU="Tagged document"/>
+
+<Elem Name="書類（線付き）" NameU="Lined Document"/>
+
+<Elem Name="可変型開始" NameU="Variable start"/>
+
+<Elem Name="可変型処理" NameU="Variable procedure"/>
+
+<Elem Name="データベース" NameU="Database"/>
+
+<Elem Name="呼び出し制御からのプリミティブ" NameU="Primitive from call control"/>
+
+<Elem Name="呼び出し制御へのプリミティブ" NameU="Primitive to call control"/>
+
+<Elem Name="ユーザーからの書信" NameU="Message from user"/>
+
+<Elem Name="ユーザーへの書信" NameU="Message to user"/>
+
+<Elem Name="出力" NameU="Output"/>
+
+<Elem Name="帰還" NameU="Feedback"/>
+
+<Elem Name="検査" NameU="Check"/>
+
+<Elem Name="And ゲート" NameU="And gate"/>
+
+<Elem Name="Or ゲート" NameU="Or gate"/>
+
+<Elem Name="排他的論理和" NameU="XOR"/>
+
+<Elem Name="排他的論理和（垂直）" NameU="Vertical XOR"/>
+
+<Elem Name="P論理積（垂直）" NameU="Vertical P And"/>
+
+<Elem Name="洗練化" NameU="Refinement"/>
+
+<Elem Name="中断" NameU="Interrupt"/>
+
+<Elem Name="外部制御" NameU="External control"/>
+
+<Elem Name="分割イベント" NameU="Divided event"/>
+
+<Elem Name="ブランチ-リターン" NameU="Branch-return"/>
+
+<Elem Name="ブランチ-ノーリターン" NameU="Branch-no return"/>
+
+<Elem Name="曲線コネクタ" NameU="Curve Connector"/>
+
+</Lib>

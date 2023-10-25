@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Media">
+	<Elem NameU="Clapboard" Name="隔板"/>
+	<Elem NameU="TV" Name="電視機"/>
+	<Elem NameU="Radio" Name="收音機"/>
+	<Elem NameU="Film" Name="電影"/>
+	<Elem NameU="Monitoring" Name="監控"/>
+	<Elem NameU="Microphone" Name="麥克風"/>
+	<Elem NameU="Receiver" Name="聽筒"/>
+	<Elem NameU="Satellite" Name="衛星"/>
+	<Elem NameU="Video player" Name="視頻播放器"/>
+	<Elem NameU="Broadcast" Name="廣播"/>
+	<Elem NameU="Microphone 1" Name="麥克風1"/>
+	<Elem NameU="Microphone 2" Name="麥克風2"/>
+	<Elem NameU="Earphone" Name="耳機"/>
+	<Elem NameU="Hot News" Name="熱點新聞"/>
+	<Elem NameU="Press Card" Name="記者證"/>
+	<Elem NameU="Video Camera" Name="攝像機"/>
+	<Elem NameU="News Truck" Name="新聞卡車"/>
+	<Elem NameU="News Van" Name="新聞貨車"/>
+	<Elem NameU="Interview" Name="採訪"/>
+	<Elem NameU="Video Shooting" Name="錄像拍攝"/>
+	<Elem NameU="Taking Photos 1" Name="拍照1"/>
+	<Elem NameU="Taking Photo 2" Name="拍照2"/>
+	<Elem NameU="Global" Name="全球"/>
+	<Elem NameU="Press Conference" Name="新聞發佈會"/>
+	<Elem NameU="Focus" Name="聚焦"/>
+	<Elem NameU="Discover" Name="發現"/>
+	<Elem NameU="World Map" Name="世界地圖"/>
+	<Elem NameU="Clock" Name="鬧鐘"/>
+	<Elem NameU="Notepad" Name="記事本"/>
+	<Elem NameU="Data Analysis" Name="資料分析"/>
+	<Elem NameU="People" Name="人"/>
+	<Elem NameU="Newspaper" Name="報紙"/>
+	<Elem NameU="Projection screen" Name="投影幕"/>
+	<Elem NameU="Computer" Name="電腦"/>
+	<Elem NameU="LCD TV" Name="液晶電視"/>
+	<Elem NameU="Mobile" Name="手機"/>
+</Lib>

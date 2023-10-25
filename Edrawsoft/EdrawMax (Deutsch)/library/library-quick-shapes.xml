@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Library version="1.0">
+	<Template Name="Basic Shapes" Path="./quick-shapes/basic-shapes.edt" id="10000"/>
+	<Template Name="Flowchart Shapes" Path="./quick-shapes/flowchart-shapes.edt" id="10001"/>
+</Library>

@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ThemeConnectors Version="8.0">
+    <ThemeConnector ID="54" Name="General 1" CN="通用箭头 1" DE="Allgemeine Pfeil 1" ES="Flecha común 1" FR="Flèche universelle 1" IT="Freccia generale 1" JP="共通矢印 1" PT="Seta genérica 1" RU="Универсальный стрела 1">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="Flat"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="3" ID="0"/>
+                <EndArrow Size="3" ID="4"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#000" V="#ff191919" Tint="1" ThemeColor="2"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="55" Name="General 2" CN="通用箭头 2" DE="Allgemeine Pfeil 2" ES="Flecha común 2" FR="Flèche universelle 2" IT="Freccia generale 2" JP="共通矢印 2" PT="Seta genérica 2" RU="Универсальный стрела 2">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="3"/>
+                <LineCap V="Flat"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="3" ID="0"/>
+                <EndArrow Size="3" ID="4"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#000" V="#ff303030" Tint="3" ThemeColor="2"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="56" Name="General 3" CN="通用箭头3" DE="Allgemeine Pfeil 3" ES="Flecha común 3" FR="Flèche universelle 3" IT="Freccia generale 3" JP="共通矢印3" PT="Seta genérica 3" RU="Универсальный стрела 3">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="Flat"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="3" ID="0"/>
+                <EndArrow Size="3" ID="4"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#488df5" Shade="25" V="#ff3e7bd8" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="57" Name="General 4" CN="通用箭头 4" DE="Allgemeine Pfeil 4" ES="Flecha común 4" FR="Flèche universelle 4" IT="Freccia generale 4" JP="共通矢印 4" PT="Seta genérica 4" RU="Универсальный стрела 4">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="2"/>
+                <LineCap V="Flat"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="3" ID="0"/>
+                <EndArrow Size="3" ID="4"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#000" V="#ff454545" Tint="6" ThemeColor="2"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="58" Name="General 5" CN="通用箭头 5" DE="Allgemeine Pfeil 5" ES="Flecha común 5" FR="Flèche universelle 5" IT="Freccia generale 5" JP="共通矢印 5" PT="Seta genérica 5" RU="Универсальный стрела 5">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="3.33333"/>
+                <LineCap V="Flat"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="2" ID="0"/>
+                <EndArrow Size="2" ID="4"/>
+                <LineFill Type="Solid">
+                    <Color V="#ff35b58f" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="59" Name="General 6" CN="通用箭头 6" DE="Allgemeine Pfeil 6" ES="Flecha común 6" FR="Flèche universelle 6" IT="Freccia generale 6" JP="共通矢印 6" PT="Seta genérica 6" RU="Универсальный стрела 6">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="2"/>
+                <LineCap V="Flat"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="3" ID="0"/>
+                <EndArrow Size="3" ID="4"/>
+                <LineFill Type="Solid">
+                    <Color V="#ff1bbc9d" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="60" Name="General 7" CN="通用箭头 7" DE="Allgemeine Pfeil 7" ES="Flecha común 7" FR="Flèche universelle 7" IT="Freccia generale 7" JP="共通矢印 7" PT="Seta genérica 7" RU="Универсальный стрела 7">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="Flat"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="3" ID="0"/>
+                <EndArrow Size="3" ID="4"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#000" V="#ff303030" Tint="3" ThemeColor="2"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="61" Name="General 8" CN="通用箭头 8" DE="Allgemeine Pfeil 8" ES="Flecha común 8" FR="Flèche universelle 8" IT="Freccia generale 8" JP="共通矢印 8" PT="Seta genérica 8" RU="Универсальный стрела 8">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="Flat"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="4"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#b8e366" Shade="70" V="#ff6a8438" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="62" Name="General 9" CN="通用箭头 9" DE="Allgemeine Pfeil 9" ES="Flecha común 9" FR="Flèche universelle 9" IT="Freccia generale 9" JP="共通矢印 9" PT="Seta genérica 9" RU="Универсальный стрела 9">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="Flat"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color V="#000" ThemeColor="2"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="63" Name="General 10" CN="通用箭头 10" DE="Allgemeine Pfeil 10" ES="Flecha común 10" FR="Flèche universelle 10" IT="Freccia generale 10" JP="共通矢印 10" PT="Seta genérica 10" RU="Универсальный стрела 10">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="2"/>
+                <LineCap V="Flat"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="3" ID="0"/>
+                <EndArrow Size="3" ID="5"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#999999" Shade="70" V="#ff575757" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="64" Name="General 11" CN="通用箭头 11" DE="Allgemeine Pfeil 11" ES="Flecha común 11" FR="Flèche universelle 11" IT="Freccia generale 11" JP="共通矢印 11" PT="Seta genérica 11" RU="Универсальный стрела 11">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="3"/>
+                <LineCap V="Flat"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="2" ID="0"/>
+                <EndArrow Size="2" ID="4"/>
+                <LineFill Type="Solid">
+                    <Color V="#ff35b58f" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="70" Name="General 12" CN="通用箭头 12" DE="Allgemeine Pfeil 12" ES="Flecha común 12" FR="Flèche universelle 12" IT="Freccia generale 12" JP="共通矢印 12" PT="Seta genérica 12" RU="Универсальный стрела 12">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="Flat"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="3" ID="0"/>
+                <EndArrow Size="3" ID="4"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#b8e366" Shade="70" V="#ff6a8438" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="65" Name="General 13" CN="通用箭头 13" DE="Allgemeine Pfeil 13" ES="Flecha común 13" FR="Flèche universelle 13" IT="Freccia generale 13" JP="共通矢印 13" PT="Seta genérica 13" RU="Универсальный стрела 13">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="3"/>
+                <LineCap V="Flat"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="2" ID="0"/>
+                <EndArrow Size="2" ID="4"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#8397ff" Shade="50" V="#ff5f6ebc" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="66" Name="General 14" CN="通用箭头 14" DE="Allgemeine Pfeil 14" ES="Flecha común 14" FR="Flèche universelle 14" IT="Freccia generale 14" JP="共通矢印 14" PT="Seta genérica 14" RU="Универсальный стрела 14">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="Flat"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="3" ID="0"/>
+                <EndArrow Size="3" ID="4"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#8397ff" V="#5f6ebc" Shade="50" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="67" Name="General 15" CN="通用箭头 15" DE="Allgemeine Pfeil 15" ES="Flecha común 15" FR="Flèche universelle 15" IT="Freccia generale 15" JP="共通矢印 15" PT="Seta genérica 15" RU="Универсальный стрела 15">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="Flat"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="3" ID="0"/>
+                <EndArrow Size="3" ID="4"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#233041" V="#ff363f4c" Tint="2" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="68" Name="General 16" CN="通用箭头 16" DE="Allgemeine Pfeil 16" ES="Flecha común 16" FR="Flèche universelle 16" IT="Freccia generale 16" JP="共通矢印 16" PT="Seta genérica 16" RU="Универсальный стрела 16">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="Flat"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="3" ID="0"/>
+                <EndArrow Size="3" ID="4"/>
+                <LineFill Type="Solid">
+                    <Color V="#ff424f88" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="69" Name="General 17" CN="通用箭头 17" DE="Allgemeine Pfeil 17" ES="Flecha común 17" FR="Flèche universelle 17" IT="Freccia generale 17" JP="共通矢印 17" PT="Seta genérica 17" RU="Универсальный стрела 17">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="Flat"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="3" ID="0"/>
+                <EndArrow Size="3" ID="4"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#ffffff" Shade="31" V="#ffd7d7d7" ThemeColor="1"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+
+    
+
+    <ThemeConnector ID="30" Name="General" CN="通用箭头" DE="Allgemeine Pfeil" ES="Flecha común" FR="Flèche universelle" IT="Freccia generale" JP="共通矢印" PT="Seta genérica" RU="Универсальный стрела">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <BeginArrow Size="3" ID="0"/>
+                <EndArrow Size="3" ID="5"/>
+                <LineFill Type="Solid">
+                    <Color ThemeColor="5" Shade="60" Ref="#98b4d8" V="#ff6e839e"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="31" Name="Flat" CN="无箭头" DE="Pfeilkopf" ES="Sin flecha" FR="Sans flèche" IT="Testa" JP="矢印なし" PT="Sem setas" RU="без стрелок">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <BeginArrow Size="3" ID="0"/>
+                <EndArrow Size="3" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color ThemeColor="5" Shade="60" Ref="#98b4d8" V="#ff6e839e"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="32" Name="Narrow" CN="窄箭头" DE="Kleiner Pfeil" ES="Flecha estrecha" FR="Flèche étroite" IT="Freccia stretta" JP="狭い矢印" PT="Setas estreitas" RU="Узкая стрела">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <BeginArrow Size="3" ID="0"/>
+                <EndArrow Size="3" ID="16"/>
+                <LineFill Type="Solid">
+                    <Color ThemeColor="5" Shade="60" Ref="#98b4d8" V="#ff6e839e"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="33" Name="General Round" CN="圆角箭头" DE="Runder Pfeil" ES="Flecha circular" FR="Flèche circulaire" IT="Freccia rotonda" JP="円角矢印" PT="Setas arredondadas" RU="Угловая стрела">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <Rounding V="7.55906"/>
+                <BeginArrow Size="3" ID="0"/>
+                <EndArrow Size="3" ID="5"/>
+                <LineFill Type="Solid">
+                    <Color ThemeColor="5" Shade="60" Ref="#98b4d8" V="#ff6e839e"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="34" Name="Flat Round" CN="圆角无箭头" DE="Abgerundet ohne Pfeil" ES="Sin flecha" FR="Sans flèche" IT="Arrotolato senza freccia" JP="円角矢印なし" PT="Cantos redondos sem setas" RU="без стрелок">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <Rounding V="7.55906"/>
+                <BeginArrow Size="3" ID="0"/>
+                <EndArrow Size="3" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color ThemeColor="5" Shade="60" Ref="#98b4d8" V="#ff6e839e"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="35" Name="Narrow Round" CN="圆角窄箭头" DE="Abgerundeter schmaler Pfeil" ES="Flecha de ángulo estrecho" FR="Flèche angulaire étroite" IT="Freccia stretta arrotondata" JP="円角の狭い矢印" PT="Setas estreitas com cantos arredondados" RU="Узкая стрела в углу">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <Rounding V="7.55906"/>
+                <BeginArrow Size="3" ID="0"/>
+                <EndArrow Size="3" ID="16"/>
+                <LineFill Type="Solid">
+                    <Color ThemeColor="5" Shade="60" Ref="#98b4d8" V="#ff6e839e"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="36" Name="Thick Flat Arrow" CN="加粗箭头" DE="Pfeil Bold" ES="Flecha gruesa" FR="Flèche grossière" IT="Freccia Bold" JP="太い矢印" PT="Setas a negrito" RU="Толстая стрела">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="2"/>
+                <BeginArrow Size="3" ID="0"/>
+                <EndArrow Size="3" ID="5"/>
+                <LineFill Type="Solid">
+                    <Color ThemeColor="5" Shade="60" Ref="#98b4d8" V="#ff6e839e"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="37" Name="Thick Round Arrow" CN="加粗圆角箭头" DE="Fett abgerundeter Pfeil" ES="Flecha redondeada" FR="Flèche arrondie" IT="Freccia arrotondata" JP="太い丸みの矢印" PT="Setas arredondadas" RU="Толстая круглая стрела">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="2"/>
+                <Rounding V="7.55906"/>
+                <BeginArrow Size="3" ID="0"/>
+                <EndArrow Size="3" ID="5"/>
+                <LineFill Type="Solid">
+                    <Color ThemeColor="5" Shade="60" Ref="#98b4d8" V="#ff6e839e"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="38" Name="Thick Flat" CN="加粗无箭头" DE="Ohne Pfeil" ES="Sin flecha" FR="Sans flèche" IT="Bold no freccia" JP="矢印なし" PT="Não há setas" RU="Толще и без стрел">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="2"/>
+                <BeginArrow Size="3" ID="0"/>
+                <EndArrow Size="3" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color ThemeColor="5" Shade="60" Ref="#98b4d8" V="#ff6e839e"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>    
+    <ThemeConnector ID="39" Name="Thick Round" CN="加粗圆角" DE="Abgerundete Ecken" ES="Ángulo grueso" FR="Grossir" IT="Angoli smussati" JP="角を丸くする" PT="Arredondar os cantos" RU="Толстый угол">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="2"/>
+                <Rounding V="7.55906"/>
+                <BeginArrow Size="3" ID="0"/>
+                <EndArrow Size="3" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color ThemeColor="5" Shade="60" Ref="#98b4d8" V="#ff6e839e"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="40" Name="Flat Dash" CN="虚线无箭头" DE="Punktlinie ohne Pfeil" ES="Sin flecha" FR="Sans flèche" IT="Linea tratteggiata senza freccia" JP="点線は矢印" PT="Linhas pontilhadas sem setas" RU="пунктирная линия без стрелок">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <Rounding V="7.55906"/>
+                <LinePattern ID="8"/>
+                <BeginArrow Size="3" ID="0"/>
+                <EndArrow Size="3" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color ThemeColor="5" Shade="60" Ref="#98b4d8" V="#ff6e839e"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="41" Name="Arc Dash" CN="虚线箭头" DE="Punktierter Pfeil" ES="Flecha blanca" FR="Flèche" IT="Freccia punteggiata" JP="点線の矢印" PT="Setas pontilhadas" RU="Пунктирная стрела">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <Rounding V="7.55906"/>
+                <LinePattern ID="9"/>
+                <BeginArrow Size="3" ID="0"/>
+                <EndArrow Size="3" ID="5"/>
+                <LineFill Type="Solid">
+                    <Color ThemeColor="5" Shade="60" Ref="#98b4d8" V="#ff6e839e"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="42" Name="General Open" CN="开放箭头" DE="Pfeil öffnen" ES="Abrir flecha" FR="Flèche ouverte" IT="Apri freccia" JP="オープン矢印" PT="Setas abertas" RU="Открыть стрелку">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LinePattern ID="0"/>
+                <BeginArrow Size="3" ID="0"/>
+                <EndArrow Size="3" ID="3"/>
+                <LineFill Type="Solid">
+                    <Color ThemeColor="5" Shade="60" Ref="#98b4d8" V="#ff6e839e"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="43" Name="Triangle" CN="空心箭头" DE="Hollow Pfeil" ES="Flecha hueca" FR="Flèche creuse" IT="Freccia cava" JP="空心矢印" PT="Setas ocas" RU="Полая стрела">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <BeginArrow Size="3" ID="0"/>
+                <EndArrow Size="3" ID="9"/>
+                <LineFill Type="Solid">
+                    <Color ThemeColor="5" Shade="60" Ref="#98b4d8" V="#ff6e839e"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="44" Name="Circle General" CN="圆尾箭头" DE="Pfeil rund um den Schwanz" ES="Flecha de cola redonda" FR="Flèche à queue ronde" IT="Freccia di coda rotonda" JP="丸尻の矢印" PT="Setas redondas" RU="Круглая хвостовая стрела">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <BeginArrow Size="3" ID="19"/>
+                <EndArrow Size="3" ID="4"/>
+                <LineFill Type="Solid">
+                    <Color ThemeColor="5" Shade="60" Ref="#98b4d8" V="#ff6e839e"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="45" Name="Rect Diamond" CN="方尾菱形" DE="Rechter Schwanz in Diamantform" ES="Rombo de cola" FR="Losange à queue carrée" IT="Diamante a forma quadrata" JP="方尾ひし形" PT="Losango de cauda quadrada" RU="Квадратная ромба">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <BeginArrow Size="3" ID="21"/>
+                <EndArrow Size="3" ID="30"/>
+                <LineFill Type="Solid">
+                    <Color ThemeColor="5" Shade="60" Ref="#98b4d8" V="#ff6e839e"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="46" Name="Round Open" CN="圆角开放箭头" DE="Gerundeter offener Pfeil" ES="Flecha abierta" FR="Arrow Open Arrow" IT="Arrow aperto smussato" JP="円角オープン矢印" PT="Flecha Aberta arredondada" RU="стрелка открытия закругления">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <Rounding V="7.55906"/>
+                <BeginArrow Size="3" ID="0"/>
+                <EndArrow Size="3" ID="3"/>
+                <LineFill Type="Solid">
+                    <Color ThemeColor="5" Shade="60" Ref="#98b4d8" V="#ff6e839e"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="47" Name="Round Triangle" CN="圆角空心箭头" DE="Abgerundeter weißer Pfeil" ES="Flecha hueca" FR="Flèche creuse" IT="Arrow bianco smussato" JP="円角中空矢印" PT="Flecha Branca arredondada" RU="пустотелая круговая стрелка">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <Rounding V="7.55906"/>
+                <BeginArrow Size="3" ID="0"/>
+                <EndArrow Size="3" ID="9"/>
+                <LineFill Type="Solid">
+                    <Color ThemeColor="5" Shade="60" Ref="#98b4d8" V="#ff6e839e"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="48" Name="Hollow Circle General" CN="圆尾空心箭头" DE="Weißer Pfeil mit rundem Schwanz" ES="Flecha hueca de cola redonda" FR="Flèche creuse à queue ronde" IT="Freccia bianca con coda rotonda" JP="丸印中空矢印" PT="Flecha Branca com cauda Redonda" RU="пустотелая стрелка в конце">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <BeginArrow Size="3" ID="18"/>
+                <EndArrow Size="3" ID="9"/>
+                <LineFill Type="Solid">
+                    <Color ThemeColor="5" Shade="60" Ref="#98b4d8" V="#ff6e839e"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="49" Name="Hollow Rect Diamond" CN="方尾空心菱形" DE="Quadratischer Schwanz hohler Diamant" ES="Mitsubishi hueco" FR="Losange creux à queue carrée" IT="Quadrato coda cavo diamante" JP="正方形中空ひし形" PT="Diamante OCO de cauda quadrada" RU="пустотелый ромб">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <BeginArrow Size="3" ID="20"/>
+                <EndArrow Size="3" ID="22"/>
+                <LineFill Type="Solid">
+                    <Color ThemeColor="5" Shade="60" Ref="#98b4d8" V="#ff6e839e"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="50" Name="Double Flat Arrow" CN="双向开放箭头" DE="Zwei Wege öffnen Pfeil" ES="Flecha abierta" FR="Flèche ouverte bidirectionnelle" IT="Due vie aperte freccia" JP="双方向オープン矢印" PT="Duas formas de abrir a seta" RU="стрелка двустороннего открытия">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <BeginArrow Size="3" ID="1"/>
+                <EndArrow Size="3" ID="1"/>
+                <LineFill Type="Solid">
+                    <Color ThemeColor="5" Shade="60" Ref="#98b4d8" V="#ff6e839e"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="1" Scale="100" OffsetX="1" OffsetY="1" Angle="0" Blur="3">
+                    <Color V="#868686" Ref="#ffffff" ThemeColor="1" Shade="76"/>
+                </Shadow>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="51" Name="Double Long Arrow"  CN="双向开放窄箭头" DE="Zwei Wege schmaler Pfeil öffnen" ES="Flecha estrecha en ambos sentidos" FR="Flèche étroite à ouverture bidirectionnelle" IT="Due vie aprono una freccia stretta" JP="双方向オープン狭い矢印" PT="Duas formas de abrir a seta estreita" RU="стрелка с двусторонним открытием">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <BeginArrow Size="3" ID="3"/>
+                <EndArrow Size="3" ID="3"/>
+                <LineFill Type="Solid">
+                    <Color ThemeColor="5" Shade="60" Ref="#98b4d8" V="#ff6e839e"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="52" Name="Dark Arrow" CN="黑色箭头" DE="Schwarze Pfeil" ES="Flecha negra" FR="Flèche noire" IT="Freccia nera" JP="黒い矢印" PT="Arqueiro Negro" RU="чёрная стрелка">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <BeginArrow Size="3" ID="0"/>
+                <EndArrow Size="3" ID="5"/>
+                <LineFill Type="Solid">
+                    <Color V="#323232" Ref="#999999" ThemeColor="5" Shade="90"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="53" Name="Thick White" CN="白色加粗箭头" DE="Weißer fetter Pfeil" ES="Flecha blanca" FR="Flèche blanche" IT="Freccia bianca con grassetto " JP="白い太い矢印" PT="Flecha Branca e ousada" RU="белая утолщённая стрелка">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="2"/>
+                <BeginArrow Size="3" ID="0"/>
+                <EndArrow Size="3" ID="5"/>
+                <LineFill Type="Solid">
+                    <Color V="#d8d8d8" Ref="#ffffff" ThemeColor="1" Shade="31"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+</ThemeConnectors>

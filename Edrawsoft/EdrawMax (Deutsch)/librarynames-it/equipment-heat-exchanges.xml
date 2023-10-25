@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Equipment-Heat Exchanges">
+	<Elem NameU="TEMA TYPE BEM" Name="TEMA Tipo BEM"/>
+	<Elem NameU="TEMA TYPE BEU" Name="TEMA Tipo BEU"/>
+	<Elem NameU="TEMA TYPE AEM" Name="TEMA Tipo AEM"/>
+	<Elem NameU="TEMA TYPE AEL" Name="TEMA Tipo AEL"/>
+	<Elem NameU="TEMA TYPE NEN" Name="TEMA Tipo NEN"/>
+	<Elem NameU="TEMA TYPE BKU" Name="TEMA Tipo BKU"/>
+	<Elem NameU="Plate exchanger" Name="Scambiatore piastre"/>
+	<Elem NameU="Plate and frame heat exchanger" Name="Scambiatore di calore piastre e struttura"/>
+	<Elem NameU="Dryer" Name="Essiccatore"/>
+	<Elem NameU="Cooling tower" Name="Torre di raffreddamento"/>
+	<Elem NameU="Cooling tower 2" Name="Torre di raffreddamento 2"/>
+	<Elem NameU="Cooling tower 3" Name="Torre di raffreddamento 3"/>
+	<Elem NameU="Spray cooler" Name="Raffreddatore Spray"/>
+	<Elem NameU="Forced-draft cooling tower" Name="Torre di raffreddamento a corrente forzata"/>
+	<Elem NameU="Induced-draft cooling tower" Name="Torre di raffreddamento a corrente indotta"/>
+	<Elem NameU="Heat exchanger" Name="Scambiatore di calore"/>
+	<Elem NameU="Heat exchanger 2" Name="Scambiatore di calore 2"/>
+	<Elem NameU="Heat exchanger 3" Name="Scambiatore di calore 3"/>
+	<Elem NameU="Heater" Name="Calorifero"/>
+	<Elem NameU="Exchanger" Name="Scambiatore"/>
+	<Elem NameU="Condenser" Name="Condensatore"/>
+	<Elem NameU="Shell and tube heat" Name="Scambiatore a fascio tubiero e mantello"/>
+	<Elem NameU="Shell and tube heat 2" Name="Scambiatore a fascio tubiero e mantello 2"/>
+	<Elem NameU="Shell and tube heat 3" Name="Scambiatore a fascio tubiero e mantello 3"/>
+	<Elem NameU="Cooler" Name="Raffreddatore"/>
+	<Elem NameU="Air-blown cooler" Name="Raffreddatore ad aria"/>
+	<Elem NameU="Induced flow air cooler" Name="Raffreddatore a flusso indotto"/>
+	<Elem NameU="Fin-fan cooler" Name="Raffreddatore fin-fan"/>
+	<Elem NameU="Electric heater" Name="Calorifero Elettrico"/>
+	<Elem NameU="Straight tubes heat exchanger" Name="Scambiatore di calore a tubi diritti"/>
+	<Elem NameU="Coil tubes heat exchanger" Name="Scambiatore di calore a bobina"/>
+	<Elem NameU="Finned tubes heat exchanger" Name="Scambiatore di calore a tubi alettati"/>
+	<Elem NameU="Floating head heat exchanger" Name="Scambiatore di calore con testina fluttuante"/>
+	<Elem NameU="Plate heat exchanger" Name="Scambiatore di calore a piastre"/>
+	<Elem NameU="Kettle heat exchanger" Name="Scambiatore di calore con bollitore"/>
+	<Elem NameU="Reboiler heat exchanger" Name="Scambiatore di calore con reboiler"/>
+	<Elem NameU="Reboiler" Name="Reboiler"/>
+	<Elem NameU="Single pass heat exchanger" Name="Scambiatore di calore a un passaggio"/>
+	<Elem NameU="Double pipe heat exchanger" Name="Scambiatore di calore a due tubi"/>
+	<Elem NameU="Hairpin exchanger" Name="Scambiatore a tornante"/>
+	<Elem NameU="Spiral heat exchanger" Name="Scambiatore di calore a spirale"/>
+	<Elem NameU="Spiral heat exchanger 2" Name="Scambiatore di calore a spirale 2"/>
+	<Elem NameU="Air cooled exchanger" Name="Scambiatore aria raffreddata"/>
+	<Elem NameU="Briquetting machine" Name="Macchina per Bricchettaggio"/>
+	<Elem NameU="U-Tube heat exchanger" Name="Scambiatore di calore con Tubo a U"/>
+	<Elem NameU="U-tube heat exchanger" Name="Scambiatore di calore con tubo a U"/>
+	<Elem NameU="Boiler" Name="Caldaia"/>
+	<Elem NameU="Oil burner" Name="Bruciatore a gasolio"/>
+	<Elem NameU="Fired heater" Name="Riscaldatore alimentato"/>
+	<Elem NameU="Vertical turbine" Name="Turbina verticale"/>
+	<Elem NameU="Extractor hood" Name="Cappa aspirante"/>
+	<Elem NameU="Hose reel" Name="Naspo"/>
+	<Elem NameU="Light water station" Name="Stazione idrica leggera"/>
+	<Elem NameU="Combustion chamber" Name="Camera di combustione"/>
+	<Elem NameU="Silencer" Name="Silenziatore"/>
+	<Elem NameU="Thin-Film evaporator" Name="Evaporatore a Film Sottile"/>
+	<Elem NameU="Vent" Name="Condotto"/>
+</Lib>

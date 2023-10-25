@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Website Wireframe 1">
+	<Elem NameU="Label" Name="Etichetta"/>
+	<Elem NameU="Label 2" Name="Etichetta 2"/>
+	<Elem NameU="Logo" Name="Logo"/>
+	<Elem NameU="Rounded Rect" Name="Rettangolo Arrotondato"/>
+	<Elem NameU="Panel/Rect" Name="Pannello/Rettangolo"/>
+	<Elem NameU="Group" Name="Gruppo"/>
+	<Elem NameU="Frame" Name="Struttura"/>
+	<Elem NameU="Vertical Seperator" Name="Separatore Verticale"/>
+	<Elem NameU="Horizontal Seperator" Name="Separatore Orizzontale"/>
+	<Elem NameU="Browser" Name="Browser"/>
+	<Elem NameU="Window/Dialog" Name="Finestra/Dialogo"/>
+	<Elem NameU="Image Placeholder" Name="Simbolo Immagine"/>
+	<Elem NameU="Image Placeholder 2" Name="Simbolo Immagine 2"/>
+	<Elem NameU="Text Field" Name="Campo di Testo"/>
+	<Elem NameU="Text" Name="Testo"/>
+	<Elem NameU="Hyperlink Text" Name="Collegamento di Testo"/>
+	<Elem NameU="Text Block" Name="Blocco di Testo"/>
+	<Elem NameU="Text Block 2" Name="Blocco di Test 2"/>
+	<Elem NameU="Button" Name="Pulsante"/>
+	<Elem NameU="Button 2" Name="Pulsante 2"/>
+	<Elem NameU="Button 3" Name="Pulsante 3"/>
+	<Elem NameU="Button 4" Name="Pulsante 4"/>
+	<Elem NameU="Check Box" Name="Casella di Riepilogo"/>
+	<Elem NameU="Check Box Group" Name="Gruppo Caselle di Riepilogo"/>
+	<Elem NameU="Radio Button" Name="Pulsante di Scelta"/>
+	<Elem NameU="Radio Group" Name="Gruppo Pulsanti di Scelta"/>
+	<Elem NameU="Combox" Name="Casella Combinata"/>
+	<Elem NameU="Tabs" Name="Schede"/>
+	<Elem NameU="Vertical Tabs" Name="Schede Verticali"/>
+	<Elem NameU="Menu Bar" Name="Barra dei Menu"/>
+	<Elem NameU="Menu Bar 2" Name="Barra dei Menu 2"/>
+	<Elem NameU="Date picker" Name="Selezionatore Data"/>
+	<Elem NameU="Spin Control" Name="Controllo Effetti"/>
+	<Elem NameU="Search Box" Name="Riquadro di Ricerca"/>
+	<Elem NameU="Search Box 2" Name="Riquadro di Ricerca 2"/>
+	<Elem NameU="Menu items" Name="Oggetti Menu"/>
+	<Elem NameU="List" Name="Elenco"/>
+	<Elem NameU="Slider" Name="Slider"/>
+	<Elem NameU="Vertical Slider" Name="Slider Verticale"/>
+	<Elem NameU="Progress Bar" Name="Barra di Avanzamento"/>
+	<Elem NameU="Progress Bar 2" Name="Barra di Avanzamento 2"/>
+	<Elem NameU="Horizontal Scrollbar" Name="Barra di Scorrimento Orizzontale"/>
+	<Elem NameU="Vertical Scollbar" Name="Barra di Scorrimento Verticale"/>
+	<Elem NameU="Webcam" Name="Webcam"/>
+	<Elem NameU="Video Player" Name="Lettore Video"/>
+	<Elem NameU="Color Picker" Name="Selezionatore Colore"/>
+	<Elem NameU="Help Button" Name="Pulsante di Aiuto"/>
+	<Elem NameU="Collapse" Name="Riduci"/>
+	<Elem NameU="Expand" Name="Espandi"/>
+	<Elem NameU="Star Ratings" Name="Stelle di Valutazione"/>
+	<Elem NameU="Line Graph Placeholder" Name="Simbolo Grafico a Linee"/>
+	<Elem NameU="Pie Chart Placeholder" Name="Simbolo Grafico a Torta"/>
+	<Elem NameU="Bar Chart Placeholder" Name="Simbolo Grafico a Barre"/>
+	<Elem NameU="Calendar placeholder" Name="Simbolo Calendario"/>
+	<Elem NameU="Grid Placeholder" Name="Simbolo Griglia"/>
+	<Elem NameU="Code placeholder" Name="Simbolo Codice"/>
+	<Elem NameU="Map Placeholder" Name="Simbolo Mappa"/>
+	<Elem NameU="Tag Cloud" Name="Etichetta Cloud"/>
+</Lib>

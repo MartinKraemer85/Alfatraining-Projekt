@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="AWS App Services">
+    <Elem NameU="Cognito" Name="Cognito 雲同步存儲服務"/>
+    <Elem NameU="Mobile Analytics" Name="移動資料分析"/>
+    <Elem NameU="APP Gateway" Name="APP 網關"/>
+    <Elem NameU="WorkDocs" Name="WorkDocs 完全託管的企業存儲和共享服務"/>
+    <Elem NameU="Kinesis" Name="Kinesis 流式處理資料平台"/>
+    <Elem NameU="Config" Name="配置"/>
+    <Elem NameU="Directory Service" Name="目錄服務"/>
+    <Elem NameU="Trusted Advisor" Name="信託顧問"/>
+    <Elem NameU="CloudSearch SDF metadata" Name="雲搜索SDF元資料"/>
+    <Elem NameU="CloudSearch" Name="雲搜索"/>
+    <Elem NameU="Elastic Transcoder" Name="Elastic Transcoder 雲視頻格式轉換服務"/>
+    <Elem NameU="Email" Name="郵件"/>
+    <Elem NameU="SES" Name="SES"/>
+    <Elem NameU="SNS Email Notification" Name="SNS 郵件通知"/>
+    <Elem NameU="HTTP Notification" Name="HTTP 通知"/>
+    <Elem NameU="SNS Topic" Name="SNS 主題"/>
+    <Elem NameU="SNS" Name="SNS"/>
+    <Elem NameU="SQS Message" Name="SQS 消息"/>
+    <Elem NameU="SQS Queue" Name="SQS 隊列"/>
+    <Elem NameU="SQS" Name="SQS"/>
+    <Elem NameU="SWF Decider" Name="SWF 決策者"/>
+    <Elem NameU="SWF Worker" Name="SWF 工作人員"/>
+    <Elem NameU="SWF" Name="SWF"/>
+    <Elem NameU="Stream" Name="流"/>
+</Lib>

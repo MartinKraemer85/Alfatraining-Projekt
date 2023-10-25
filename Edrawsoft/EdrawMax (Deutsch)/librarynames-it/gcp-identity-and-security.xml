@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="GCP Identity and Security">
+	<Elem NameU="BeyondCorp" Name="Software Google BeyondCorp"/>
+	<Elem NameU="Cloud IAM" Name="IAM Cloud"/>
+	<Elem NameU="Cloud security scan" Name="Scansione Sicurezza Cloud"/>
+	<Elem NameU="Data loss protection API" Name="API Protezione per la Perdita di Dati"/>
+	<Elem NameU="Identity perception agency" Name="Agente di Rilevamento Identità"/>
+	<Elem NameU="Main management task" Name="Sensore di Gestione Principale"/>
+	<Elem NameU="Safety key execution" Name="Esecuzione Chiave di Sicurezza"/>
+</Lib>

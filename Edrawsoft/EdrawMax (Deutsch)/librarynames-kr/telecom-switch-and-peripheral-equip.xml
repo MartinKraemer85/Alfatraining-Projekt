@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Telecom Switch and Peripheral Equip">
+    <Elem NameU="Telephone" Name="전화"/>
+    <Elem NameU="Connecting stage" Name="연결 단계"/>
+    <Elem NameU="Marking stage" Name="표시 단계"/>
+    <Elem NameU="Switching stage" Name="스위치 단계"/>
+    <Elem NameU="Switching equipment 1" Name="스위치 장비 1"/>
+    <Elem NameU="Switching equipment 2" Name="스위치 장비 2"/>
+    <Elem NameU="Magnetic type" Name="자기 유형"/>
+    <Elem NameU="Moving coil type" Name="모바일 코일 유형"/>
+    <Elem NameU="Moving iron type" Name="모바일 아이언 타입"/>
+    <Elem NameU="Stereo type" Name="스테레오 유형"/>
+    <Elem NameU="Disc type" Name="디스크 유형"/>
+    <Elem NameU="Tape/Film type" Name="테이프 / 필름 유형"/>
+    <Elem NameU="Drum type" Name="드럼 유형"/>
+    <Elem NameU="Reproducing" Name="복제"/>
+    <Elem NameU="Recording/reproducing" Name="녹음/복제"/>
+    <Elem NameU="Erasing" Name="지우기"/>
+    <Elem NameU="Amplified circuit" Name="증폭기 회로"/>
+    <Elem NameU="Pulse modulation" Name="펄스 조정"/>
+    <Elem NameU="Changer" Name="스위치"/>
+    <Elem NameU="Filter" Name="필터"/>
+    <Elem NameU="Filter 2" Name="필터 2"/>
+    <Elem NameU="Highpass filter" Name="하이 패스 필터"/>
+    <Elem NameU="Lowpass filter" Name="저역 통과 필터"/>
+    <Elem NameU="Bandpass filter" Name="대역 통과 필터"/>
+    <Elem NameU="Networks" Name="네트워크"/>
+    <Elem NameU="Terminating sets" Name="세트 종료"/>
+    <Elem NameU="Modulator" Name="변조기"/>
+    <Elem NameU="Recorder/reproducer" Name="레코더 / 재생기"/>
+    <Elem NameU="Concentrating" Name="집중"/>
+    <Elem NameU="Frequency spectrum element" Name="주파수 스펙트럼 요소"/>
+    <Elem NameU="Frequency band" Name="주파수 대역"/>
+    <Elem NameU="Guided light transmitter" Name="유도 광 송신기"/>
+    <Elem NameU="Stylus operated head" Name="스타일러스 작동 헤드"/>
+    <Elem NameU="Equipotential" Name="등전위"/>
+    <Elem NameU="Thermistor with independent integral heater" Name="독립적인 통합 히터가 있는 서미스터"/>
+</Lib>

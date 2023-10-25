@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Push Buttons">
+    <Elem NameU="3-D black button" Name="3D블랙 버튼"/>
+    <Elem NameU="3-D blue button" Name="3D파란색 버튼"/>
+    <Elem NameU="3-D green button" Name="3D녹색 버튼"/>
+    <Elem NameU="3-D red button" Name="3D빨간색 버튼"/>
+    <Elem NameU="3-D yellow button" Name="3D노란색 버튼"/>
+    <Elem NameU="Black pushbutton" Name="블랙 버튼"/>
+    <Elem NameU="Blue pilot light" Name="파란색 표시등"/>
+    <Elem NameU="Dark green pilot light" Name="진한 녹색 표시등"/>
+    <Elem NameU="Button 1" Name="버튼1"/>
+    <Elem NameU="Button 2" Name="버튼2"/>
+    <Elem NameU="Button 3" Name="버튼3"/>
+    <Elem NameU="Button 4" Name="버튼4"/>
+    <Elem NameU="Button 5" Name="버튼5"/>
+    <Elem NameU="Button 6" Name="버튼6"/>
+    <Elem NameU="Dial 1" Name="다이얼1"/>
+    <Elem NameU="Dial 2" Name="다이얼2"/>
+    <Elem NameU="Dial 3" Name="다이얼3"/>
+    <Elem NameU="Dial 4" Name="다이얼4"/>
+    <Elem NameU="Red pilot light" Name="빨간색 표시등"/>
+    <Elem NameU="Long flip switch (down)" Name="긴 플립 스위치 (아래)"/>
+    <Elem NameU="Long flip switch (up)" Name="긴 플립 스위치 (위)"/>
+    <Elem NameU="Long flip switch (left)" Name="긴 플립 스위치 (왼쪽)"/>
+    <Elem NameU="Long flip switch (right)" Name="긴 플립 스위치 (오른쪽)"/>
+    <Elem NameU="Navy pilot light" Name="네이비 표시등"/>
+    <Elem NameU="Pilot light (off)" Name="표시등（꺼짐）"/>
+    <Elem NameU="Rectangular pushbutton" Name="사각형 버튼"/>
+    <Elem NameU="Red pilot light" Name="빨간색 표시등"/>
+    <Elem NameU="Red pushbutton" Name="빨간색 버튼"/>
+    <Elem NameU="Rocker switch" Name="로커 스위치"/>
+    <Elem NameU="Rocker switch (down)" Name="로커 스위치（아래）"/>
+    <Elem NameU="Rocker switch (up)" Name="로커 스위치（위）"/>
+    <Elem NameU="Rocker switch (left)" Name="로커 스위치（왼쪽）"/>
+    <Elem NameU="Rocker switch (right)" Name="로커 스위치（오른쪽）"/>
+    <Elem NameU="Selector switch (down) 1" Name="스위치 선택（아래）1"/>
+    <Elem NameU="Selector switch (up) 1" Name="스위치 선택（위）1"/>
+    <Elem NameU="Selector switch (left) 1" Name="스위치 선택（왼쪽）1"/>
+    <Elem NameU="Selector switch (right) 1" Name="스위치 선택（오른쪽）1"/>
+    <Elem NameU="Selector switch (down) 2" Name="스위치 선택（아래）1"/>
+    <Elem NameU="Selector switch (up) 2" Name="스위치 선택（위）2"/>
+    <Elem NameU="Selector switch (left) 2" Name="스위치 선택（왼쪽）3"/>
+    <Elem NameU="Selector switch (right) 2" Name="스위치 선택（오른쪽）4"/>
+    <Elem NameU="Slide switch (down)" Name="슬라이드 스위치（아래）"/>
+    <Elem NameU="Slide switch (up)" Name="슬라이드 스위치（위）"/>
+    <Elem NameU="Slide switch (left)" Name="슬라이드 스위치（왼쪽）"/>
+    <Elem NameU="Slide switch (right)" Name="슬라이드 스위치（오른쪽）"/>
+    <Elem NameU="Slider 1" Name="슬라이더1"/>
+    <Elem NameU="Slider 2" Name="슬라이더2"/>
+    <Elem NameU="Slider 3" Name="슬라이더3"/>
+    <Elem NameU="Start button 2" Name="시작 버튼2"/>
+    <Elem NameU="Start button" Name="시작 버튼"/>
+    <Elem NameU="Throw switch (down)" Name="던지기 스위치（아래）"/>
+    <Elem NameU="Throw switch (up)" Name="던지기 스위치（위）"/>
+    <Elem NameU="Throw switch (left)" Name="던지기 스위치（아래）"/>
+    <Elem NameU="Throw switch (right)" Name="던지기 스위치（오른쪽）"/>
+    <Elem NameU="White pilot light" Name="화이트 표시등"/>
+    <Elem NameU="Yellow pilot light" Name="노란색 표시등"/>
+    <Elem NameU="Yellow pushbutton" Name="노란색 버튼"/>
+</Lib>

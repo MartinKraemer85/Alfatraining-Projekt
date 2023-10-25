@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Plant Cell">
+	<Elem NameU="Pollen1" Name="Polline1"/>
+	<Elem NameU="Pollen2" Name="Polline2"/>
+	<Elem NameU="Pollen3" Name="Polline3"/>
+	<Elem NameU="Pollen4" Name="Polline4"/>
+	<Elem NameU="Pollen5" Name="Polline5"/>
+	<Elem NameU="Pollen6" Name="Polline6"/>
+	<Elem NameU="Pollen7" Name="Polline7"/>
+	<Elem NameU="Pollen8" Name="Polline8"/>
+	<Elem NameU="Pollen9" Name="Polline9"/>
+	<Elem NameU="Plant cell model diagram1" Name="Diagramma cellula vegetale1"/>
+	<Elem NameU="Plant cell model diagram2" Name="Diagramma cellula vegetale2"/>
+	<Elem NameU="Collenchymas" Name="Collenchima"/>
+	<Elem NameU="Onion tissue" Name="Tessuto di cipolla"/>
+</Lib>

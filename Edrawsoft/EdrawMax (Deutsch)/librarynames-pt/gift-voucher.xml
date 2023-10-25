@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Gift Voucher">
+	<Elem NameU="Gift Ribbon" Name="Fita de Prenda"/>
+	<Elem NameU="Gift Ribbon 2" Name="Fita de Prenda 2"/>
+	<Elem NameU="Gift Ribbon 3" Name="Fita de Prenda 3"/>
+	<Elem NameU="Gift Ribbon 4" Name="Fita de Prenda 4"/>
+	<Elem NameU="Gift Ribbon 5" Name="Fita de Prenda 5"/>
+	<Elem NameU="Gift Ribbon 6" Name="Fita de Prenda 6"/>
+	<Elem NameU="Bow" Name="Arco"/>
+	<Elem NameU="Bow 2" Name="Arco 2"/>
+	<Elem NameU="Price Tag" Name="Etiqueta de Preço"/>
+	<Elem NameU="Price Tag 2" Name="Etiqueta de Preço 2"/>
+	<Elem NameU="Price Tag 3" Name="Etiqueta de Preço 3"/>
+	<Elem NameU="Price Sticker" Name="Autocolante do Preço"/>
+	<Elem NameU="Price Sticker 2" Name="Autocolante do Preço 2"/>
+	<Elem NameU="Price Sticker 3" Name="Autocolante do Preço 3"/>
+	<Elem NameU="Price Sticker 4" Name="Autocolante do Preço 4"/>
+	<Elem NameU="Price Sticker 5" Name="Autocolante do Preço 5"/>
+	<Elem NameU="Gift" Name="Prenda"/>
+	<Elem NameU="Gift 2" Name="Prenda 2"/>
+	<Elem NameU="Thank You Tag" Name="Etiqueta de Agradecimento"/>
+	<Elem NameU="Price Up" Name="Preço Elevado"/>
+	<Elem NameU="Price Down" Name="Preço Reduzido"/>
+	<Elem NameU="Sale Tag" Name="Etiqueta de Venda"/>
+	<Elem NameU="Sale Tag 2" Name="Etiqueta de Venda 2"/>
+	<Elem NameU="Sale Banner" Name="Banner de Vendas"/>
+	<Elem NameU="Ribbons" Name="Fitas"/>
+	<Elem NameU="Ribbons 2" Name="Fitas 2"/>
+	<Elem NameU="Ribbons 3" Name="Fitas 3"/>
+</Lib>

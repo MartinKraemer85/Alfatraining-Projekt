@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Forms">
+    <Elem NameU="H1 Header" Name="H1 标题"/>
+    <Elem NameU="H2 Header" Name="H2 标题"/>
+    <Elem NameU="H3 Header" Name="H3 标题"/>
+    <Elem NameU="12pt Label" Name="12号标签"/>
+    <Elem NameU="10pt Label" Name="10号标签"/>
+    <Elem NameU="9pt Label" Name="9p号标签"/>
+    <Elem NameU="Link Text" Name="链接文本"/>
+    <Elem NameU="Basic Table" Name="基本表格"/>
+    <Elem NameU="Logo Placeholder" Name="标志"/>
+    <Elem NameU="Company Address" Name="公司地址"/>
+    <Elem NameU="Primary Business Address" Name="商业地址"/>
+    <Elem NameU="Contact Information" Name="联系信息"/>
+    <Elem NameU="Billing Address" Name="账单地址"/>
+    <Elem NameU="Quotation" Name="报价单"/>
+    <Elem NameU="Product, Price, Description" Name="产品，价格及描述"/>
+    <Elem NameU="Statistics" Name="统计"/>
+    <Elem NameU="Information Box" Name="信息框"/>
+    <Elem NameU="Information Line" Number="2" Name="信息线条"/>
+    <Elem NameU="Signature Line with Date" Name="签名和日期"/>
+    <Elem NameU="Signature Line" Name="签名栏"/>
+    <Elem NameU="Simple Signature Block" Name="签名栏"/>
+    <Elem NameU="Comments" Name="标注"/>
+    <Elem NameU="Detail Signature Block" Number="3" Name="详细签名"/>
+    <Elem NameU="Check Box" Name="选择框"/>
+    <Elem NameU="Radio Button" Name="单选按钮"/>
+    <Elem NameU="Text Block" Name="文本块"/>
+</Lib>

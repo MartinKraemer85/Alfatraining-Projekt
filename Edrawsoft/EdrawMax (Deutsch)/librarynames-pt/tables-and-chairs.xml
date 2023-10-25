@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Tables and Chairs">
+	<Elem NameU="Chair" Name="Cadeira"/>
+	<Elem NameU="Stool" Name="Banco"/>
+	<Elem NameU="Recliner" Name="Poltrona reclinadora"/>
+	<Elem NameU="Sling chair" Name="Cadeira funda"/>
+	<Elem NameU="Lounge chair" Name="Cadeira de lounge"/>
+	<Elem NameU="Table with Chairs" Name="Mesa com Cadeiras"/>
+	<Elem NameU="Style Station" Name="Estação de Estilo"/>
+	<Elem NameU="lounge chair" Name="cadeira de lounge"/>
+	<Elem NameU="Bar Counter" Name="Balcão de Bar"/>
+	<Elem NameU="The Chair and Table" Name="A Cadeira e Mesa"/>
+	<Elem NameU="Sofa and Sofa Table" Name="Sofá e Mesa de Sofá"/>
+	<Elem NameU="Double table" Name="Mesa dupla"/>
+	<Elem NameU="Circular dining table for four" Name="Mesa de jantar circular para quatro"/>
+	<Elem NameU="Eight people circular dining table" Name="Mesa de jantar circular para oito pessoas"/>
+	<Elem NameU="Oval dining table" Name="Mesa de jantar oval"/>
+	<Elem NameU="Oval dining table" Name="Mesa de jantar oval"/>
+	<Elem NameU="Double square table" Name="Mesa de quadrado duplo"/>
+	<Elem NameU="Square table" Name="Mesa quadrangular"/>
+	<Elem NameU="Oblong dining table" Name="Mesa de jantar oblonga"/>
+	<Elem NameU="Square dining table" Name="Mesa de jantar quadrada"/>
+	<Elem NameU="Dining table" Name="Mesa de jantar"/>
+	<Elem NameU="Circular table" Name="Mesa circular"/>
+	<Elem NameU="Oval table" Name="Mesa oval"/>
+	<Elem NameU="Square table" Name="Mesa quadrangular"/>
+	<Elem NameU="Lounge chair" Name="Cadeira de lounge"/>
+	<Elem NameU="Lounge chair 2" Name="Cadeira de lounge 2"/>
+	<Elem NameU="Circular table" Name="Mesa circular"/>
+	<Elem NameU="Oval table" Name="Mesa oval"/>
+	<Elem NameU="Conference table" Name="Mesa de conferência"/>
+	<Elem NameU="Rectangle table" Name="Mesa retangular"/>
+	<Elem NameU="Diamond table" Name="Mesa diamante"/>
+	<Elem NameU="Corner table" Name="Mesa de canto"/>
+	<Elem NameU="Semicircle table" Name="Mesa de semicircular"/>
+	<Elem NameU="The fan table" Name="A mesa da ventoinha"/>
+	<Elem NameU="Ping-pong table" Name="Mesa de ping-pong"/>
+	<Elem NameU="Desk" Name="Secretária"/>
+	<Elem NameU="Dressing table" Name="Toucador"/>
+</Lib>

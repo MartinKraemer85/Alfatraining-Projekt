@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="AWS Media Services">
+	<Elem NameU="Elastic-Transcoder" Name="弹性代码转换器"/>
+	<Elem NameU="Kinesis-Video-Streams" Name="运动视频流"/>
+	<Elem NameU="AWS-Elemental-_MediaLive" Name="AWS元素-媒体直播"/>
+	<Elem NameU="AWS-Elemental-_MediaPackage" Name="AWS元素-媒体包"/>
+	<Elem NameU="AWS-Elemental-_MediaStore" Name="AWS元素-媒体商店"/>
+	<Elem NameU="AWS-Elemental-_MediaTailor" Name="AWS元素-媒体裁缝"/>
+	<Elem NameU="AWS-Elemental-Conductor" Name="AWS元素-导体"/>
+	<Elem NameU="AWS-Elemental-Delta" Name="AWS元素-增量"/>
+	<Elem NameU="AWS-Elemental-Live" Name="AWS元素-实时"/>
+	<Elem NameU="AWS-Elemental-MediaConnect" Name="AWS元素-媒体连接"/>
+	<Elem NameU="AWS-Elemental-MediaLive" Name="AWS元素-媒体实时"/>
+	<Elem NameU="AWS-Elemental-Server" Name="AWS元素-服务器"/>
+	<Elem NameU="Media-Services" Name="媒体服务"/>
+</Lib>

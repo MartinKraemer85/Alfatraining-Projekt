@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Fitness">
+	<Elem NameU="Running on Treadmill 1" Name="Corsa sul Tapis Roulant 1"/>
+	<Elem NameU="Running on Treadmill 2" Name="Corsa sul Tapis Roulant 2"/>
+	<Elem NameU="Fitness Man" Name="Uomo che fa Fitness"/>
+	<Elem NameU="Yoga 1" Name="Yoga 1"/>
+	<Elem NameU="Yoga 2" Name="Yoga 2"/>
+	<Elem NameU="Yoga 3" Name="Yoga 3"/>
+	<Elem NameU="Yoga 4" Name="Yoga 4"/>
+	<Elem NameU="Exercise Bike" Name="Cyclette"/>
+	<Elem NameU="Outdoor Fitness Equipment" Name="Equipaggiamento Fitness all'Aperto"/>
+	<Elem NameU="Outdoor Rings" Name="Cerchi da Esterno"/>
+	<Elem NameU="Gym Bag 1" Name="Borsa da Palestra 1"/>
+	<Elem NameU="Gym Bag 2" Name="Borsa da Palestra 2"/>
+	<Elem NameU="Fitness With Short Sleeves" Name="Fitness a Maniche Corte"/>
+	<Elem NameU="Gym Shorts" Name="Pantaloncini Sportivi"/>
+	<Elem NameU="Fitness Coat" Name="Cappotto Fitness"/>
+	<Elem NameU="Fitness Vest" Name="Giacca Fitness"/>
+	<Elem NameU="Fitness Short Skirt" Name="Gonna Corta Fitness"/>
+	<Elem NameU="Fitness Hat" Name="Cappello Fitness"/>
+	<Elem NameU="Dumbbell" Name="Pesi"/>
+	<Elem NameU="Small Dumbbell" Name="Pesi Piccoli"/>
+	<Elem NameU="Bathroom Scale" Name="Bilancia da Bagno"/>
+	<Elem NameU="Fitness Schedule" Name="Programma Fitness"/>
+	<Elem NameU="Tape Measure" Name="Metro a Nastro"/>
+	<Elem NameU="Stopwatch" Name="Cronometro"/>
+	<Elem NameU="Yoga Mat" Name="Tappetino Yoga"/>
+	<Elem NameU="Skipping Rope" Name="Corda per Saltare"/>
+	<Elem NameU="Hula Hoop" Name="Hula Hoop"/>
+	<Elem NameU="Tubing" Name="Tubo Elastico"/>
+	<Elem NameU="Fitball" Name="Palla Fitness"/>
+	<Elem NameU="Sports Shoes" Name="Scarpe da Ginnastica"/>
+	<Elem NameU="Towel" Name="Asciugamano"/>
+	<Elem NameU="Fitness Gloves" Name="Guanti Fitness"/>
+	<Elem NameU="Fitness Kettle" Name="Kettle Bell"/>
+	<Elem NameU="Health Drink" Name="Bevanda Salutare"/>
+	<Elem NameU="Care Of Soda" Name="Attenzione alle Bibite Gassate"/>
+</Lib>

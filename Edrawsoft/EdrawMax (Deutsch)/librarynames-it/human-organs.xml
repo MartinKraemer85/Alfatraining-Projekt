@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Human Organs">
+	<Elem NameU="Eye" Name="Occhio"/>
+	<Elem NameU="Nose" Name="Naso"/>
+	<Elem NameU="Ear" Name="Orecchio"/>
+	<Elem NameU="Oral" Name="Bocca"/>
+	<Elem NameU="Throat" Name="Gola"/>
+	<Elem NameU="Arm" Name="Braccio"/>
+	<Elem NameU="Leg" Name="Gamba"/>
+	<Elem NameU="Foot" Name="Piede"/>
+	<Elem NameU="Teeth" Name="Dente"/>
+	<Elem NameU="Tooth decay" Name="Dente Cariato"/>
+	<Elem NameU="Stomach" Name="Stomaco"/>
+	<Elem NameU="Kidney" Name="Rene"/>
+	<Elem NameU="Spleen" Name="Milza"/>
+	<Elem NameU="Liver" Name="Fegato"/>
+	<Elem NameU="Lung1" Name="Polmone1"/>
+	<Elem NameU="Lung2" Name="Polmone2"/>
+	<Elem NameU="Lung3" Name="Polmone3"/>
+	<Elem NameU="Heart" Name="Cuore"/>
+	<Elem NameU="Uterus" Name="Utero"/>
+	<Elem NameU="Fetus" Name="Feto"/>
+	<Elem NameU="Intestine" Name="Intestino"/>
+	<Elem NameU="Brain1" Name="Cervello1"/>
+	<Elem NameU="Brain2" Name="Cervello2"/>
+	<Elem NameU="Brain3" Name="Cervello3"/>
+	<Elem NameU="Needle" Name="Ago"/>
+	<Elem NameU="Skull" Name="Cranio"/>
+	<Elem NameU="Rib cage" Name="Cassa Toracica"/>
+	<Elem NameU="Spine1" Name="Spina Dorsale1"/>
+	<Elem NameU="Spine2" Name="Spina Dorsale2"/>
+	<Elem NameU="Spine3" Name="Spina Dorsale3"/>
+	<Elem NameU="Spine4" Name="Spina Dorsale4"/>
+	<Elem NameU="Hip bone" Name="Osso iliaco"/>
+	<Elem NameU="Bones of hand" Name="Ossa della mano"/>
+	<Elem NameU="The skeletal foot" Name="Scheletro del piede"/>
+	<Elem NameU="Human skeleton" Name="Scheletro umano"/>
+</Lib>

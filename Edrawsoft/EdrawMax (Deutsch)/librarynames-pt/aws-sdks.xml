@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="AWS SDKs">
+    <Elem NameU="Android"  Name="Android"/>
+    <Elem NameU="Toolkit for Eclipse" Name="Kit de Ferramentas para Eclipse"/>
+    <Elem NameU="Toolkit for Visual Studio"  Name="Kit de ferramentas para Visual Studio"/>
+    <Elem NameU="CLI" Name="CLI"/>
+    <Elem NameU="iOS"  Name="iOS"/>
+    <Elem NameU="Java"  Name="Java"/>
+    <Elem NameU="Net" Name="Net"/>
+    <Elem NameU="nodeJS"  Name="nodeJS"/>
+    <Elem NameU="PHP"  Name="PHP" />
+    <Elem NameU="Python"  Name="Python"/>
+    <Elem NameU="Ruby"  Name="Ruby"/>
+    <Elem NameU="Tools for Windows PowerShell"  Name="Ferramentas para Windows PowerShell"/>
+    <Elem NameU="Javascript" Name="Javascript"/>
+</Lib>

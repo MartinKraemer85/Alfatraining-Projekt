@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<Lib nameU="Database Services">
+
+<Elem Name="高度なデータベースとアプリケーションの移行" NameU="Advanced database and application migration"/>
+
+<Elem Name="クラウドデータベース" NameU="Cloud database"/>
+
+<Elem Name="データ送信サービス" NameU="Data transmission service"/>
+
+<Elem Name="データベースのバックアップサービス" NameU="Database backup service"/>
+
+<Elem Name="データベースのエキスパートサービス" NameU="Database expert service"/>
+
+<Elem Name="データベースのゲートウェイ" NameU="Database gateway"/>
+
+<Elem Name="DBFS" NameU="DBFS"/>
+
+<Elem Name="分散リレーショナルデータベースサービス" NameU="Distributed relational database service"/>
+
+<Elem Name="DMS" NameU="DMS"/>
+
+<Elem Name="HBase="HBase"/>
+
+<Elem Name="ハイブリッドデータベース管理" NameU="Hybrid database management"/>
+
+<Elem Name="MySQLのハイブリッドデータベース" NameU="HybridDB for MySQL"/>
+
+<Elem Name="Postgreのハイブリッドデータベース" NameU="HybridDB for Postgre"/>
+
+<Elem Name="Maria DB" NameU="Maria DB"/>
+
+<Elem Name="Memcache" NameU="Memcache"/>
+
+<Elem Name="MongoDB" NameU="MongoDB"/>
+
+<Elem Name="オーシャンベース" NameU="Ocean base"/>
+
+<Elem Name="検索を開く" NameU="Open search"/>
+
+<Elem Name="Polar DB" NameU="Polar DB"/>
+
+<Elem Name="RDS My SQL" NameU="RDS My SQL"/>
+
+<Elem Name="RDS_postgresql" NameU="RDS_postgresql"/>
+
+<Elem Name="RDS PPA" NameU="RDS PPA"/>
+
+<Elem Name="Redisクラウドデータベース" NameU="Redis cloud database"/>
+
+</Lib>

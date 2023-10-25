@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Infographic Charts">
+	<Elem NameU="Bar Chart" Name="Gráfico de Barras"/>
+	<Elem NameU="Column Chart" Name="Gráfico de Colunas"/>
+	<Elem NameU="Pie" Name="Tarte"/>
+	<Elem NameU="Doughnut" Name="Rosquinha"/>
+	<Elem NameU="Circle Indicator" Name="Indicador Circular"/>
+	<Elem NameU="Semicircular Indicator" Name="Indicador semicircular"/>
+	<Elem NameU="Bar Indicator" Name="Indicador de Barras"/>
+	<Elem NameU="Column Indicator" Name="Indicador de Colunas"/>
+	<Elem NameU="Battery Indicator" Name="Indicador de Bateria"/>
+	<Elem NameU="Percentage Indicator" Name="Indicador de Percentagem"/>
+	<Elem NameU="Clock Chart" Name="Gráfico Relógio"/>
+	<Elem NameU="Woman" Name="Mulher"/>
+	<Elem NameU="Man" Name="Homem"/>
+	<Elem NameU="Men" Name="Homens"/>
+	<Elem NameU="Women" Name="Mulheres"/>
+	<Elem NameU="People" Name="Pessoas"/>
+	<Elem NameU="Test Tube Chart" Name="Gráfico de Tubo de Ensaio"/>
+	<Elem NameU="Water Drop Chart" Name="Gráfico de Gota"/>
+	<Elem NameU="Up Arrow" Name="Seta para Cima"/>
+	<Elem NameU="Like Thumb" Name="Polegar de Gosto"/>
+	<Elem NameU="Data Analysis Table" Name="Tabela de Análise de Dados"/>
+	<Elem NameU="Scale Map" Name="Mapa de Escala"/>
+	<Elem NameU="Stacked Circle Chart" Name="Gráfico de Círculo Empilhado"/>
+	<Elem NameU="Rose Pie" Name="Tarte de Rosa"/>
+</Lib>

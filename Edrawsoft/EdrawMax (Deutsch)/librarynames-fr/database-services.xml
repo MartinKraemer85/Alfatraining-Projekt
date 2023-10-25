@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<Lib nameU="Database Services">
+
+<Elem Name="Migration avancée de bases de données et d'applications" NameU="Advanced database and application migration"/>
+
+<Elem Name="Base de données cloud" NameU="Cloud database"/>
+
+<Elem Name="Service de transmission de données" NameU="Data transmission service"/>
+
+<Elem Name="Service de sauvegarde de base de données" NameU="Database backup service"/>
+
+<Elem Name="Service expert de base de données" NameU="Database expert service"/>
+
+<Elem Name="Passerelle de base de données" NameU="Database gateway"/>
+
+<Elem Name="DBFS" NameU="DBFS"/>
+
+<Elem Name="Service de base de données relationnelle distribuée" NameU="Distributed relational database service"/>
+
+<Elem Name="DMS" NameU="DMS"/>
+
+<Elem Name="HBase" NameU="HBase"/>
+
+<Elem Name="Gestion de base de données hybride" NameU="Hybrid database management"/>
+
+<Elem Name="HybridDB pour MySQL" NameU="HybridDB for MySQL"/>
+
+<Elem Name="HybridDB pour Postgre" NameU="HybridDB for Postgre"/>
+
+<Elem Name="Maria DB" NameU="Maria DB"/>
+
+<Elem Name="Memcache" NameU="Memcache"/>
+
+<Elem Name="MongoDB" NameU="MongoDB"/>
+
+<Elem Name="Base océanique" NameU="Ocean base"/>
+
+<Elem Name="Ouvrir la recherche" NameU="Open search"/>
+
+<Elem Name="Polar DB" NameU="Polar DB"/>
+
+<Elem Name="RDS Mon SQL" NameU="RDS My SQL"/>
+
+<Elem Name=""RDS_postgresql" NameU="RDS_postgresql"/>
+
+<Elem Name="RDS PPA" NameU="RDS PPA"/>
+
+<Elem Name="Base de données cloud Redis" NameU="Redis cloud database"/>
+
+</Lib>

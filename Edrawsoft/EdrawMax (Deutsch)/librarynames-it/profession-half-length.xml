@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Profession Half-length">
+	<Elem NameU="CEO" Name="Amministratore Delegato"/>
+	<Elem NameU="Customer Service" Name="Assistenza Clienti"/>
+	<Elem NameU="Programmer" Name="Programmatore"/>
+	<Elem NameU="Male  Employee" Name="Impiegato"/>
+	<Elem NameU="Female  Employee" Name="Impiegata"/>
+	<Elem NameU="Boy Student" Name="Studente Maschio"/>
+	<Elem NameU="Girl Student" Name="Studente Femmina"/>
+	<Elem NameU="Male Teacher" Name="Insegnante Maschio"/>
+	<Elem NameU="Female Teacher" Name="Insegnante Femmina"/>
+	<Elem NameU="Policeman" Name="Poliziotto"/>
+	<Elem NameU="Policewoman" Name="Poliziotta"/>
+	<Elem NameU="Air Hostess" Name="Assistente di Volo"/>
+	<Elem NameU="Detective" Name="Detective"/>
+	<Elem NameU="Architect" Name="Architetto"/>
+	<Elem NameU="Chef" Name="Chef"/>
+	<Elem NameU="Salesperson" Name="Venditore"/>
+	<Elem NameU="Female Doctor" Name="Dottoressa"/>
+	<Elem NameU="Male Doctor" Name="Dottore"/>
+	<Elem NameU="Nurse 1" Name="Infermiere 1"/>
+	<Elem NameU="Nurse 2" Name="Infermiere 2"/>
+	<Elem NameU="Nurse 3" Name="Infermiere 3"/>
+	<Elem NameU="Kindergarten Teacher" Name="Insegnante d'Asilo"/>
+	<Elem NameU="Hair-style Designer" Name="Stylist"/>
+	<Elem NameU="Pilot" Name="Pilota"/>
+	<Elem NameU="Hip Hopper" Name="Ballerino di Hip-Hop"/>
+	<Elem NameU="Referee" Name="Arbitro"/>
+	<Elem NameU="Painter" Name="Pittore"/>
+	<Elem NameU="Professor" Name="Professore"/>
+	<Elem NameU="Santa Claus" Name="Babbo Natale"/>
+	<Elem NameU="Mother" Name="Madre"/>
+	<Elem NameU="Blind Person" Name="Persona Cieca"/>
+	<Elem NameU="Female Graduate" Name="Laureata"/>
+	<Elem NameU="Priest" Name="Prete"/>
+	<Elem NameU="Lawyer" Name="Avvocato"/>
+	<Elem NameU="Male Graduate" Name="Laureato"/>
+	<Elem NameU="Businessman 1" Name="Uomo d'affari"/>
+	<Elem NameU="Businessman 2" Name="Uomo d'affari"/>
+	<Elem NameU="Manager" Name="Manager"/>
+	<Elem NameU="Office woman" Name="Donna d'affari"/>
+	<Elem NameU="Assistant" Name="Assistente"/>
+	<Elem NameU="Secretary" Name="Segretario"/>
+	<Elem NameU="Salesman" Name="Venditore"/>
+	<Elem NameU="Support" Name="Supporto"/>
+	<Elem NameU="Pupil 1" Name="Studente 1"/>
+	<Elem NameU="Pupil 2" Name="Studente 2"/>
+	<Elem NameU="Teacher" Name="Docente"/>
+	<Elem NameU="Dentist" Name="Dentista"/>
+	<Elem NameU="Hairstylist" Name="Parrucchiere"/>
+	<Elem NameU="Engineer" Name="Ingegnere"/>
+	<Elem NameU="Worker" Name="Operaio"/>
+	<Elem NameU="Builder" Name="Costruttore"/>
+	<Elem NameU="Fireman" Name="Pompiere"/>
+	<Elem NameU="Electric welding" Name="Saldatore"/>
+	<Elem NameU="Express" Name="Corriere"/>
+	<Elem NameU="Postman" Name="Postino"/>
+	<Elem NameU="Typist" Name="Tipografo"/>
+	<Elem NameU="Cashier" Name="Cassiere"/>
+	<Elem NameU="Policewoman 2" Name="Poliziotta 2"/>
+	<Elem NameU="Air Hostess 2" Name="Assistente di Volo 2"/>
+	<Elem NameU="Air Hostess 3" Name="Assistente di Volo 3"/>
+	<Elem NameU="Sommelier" Name="Sommelier"/>
+	<Elem NameU="Female Staff/User" Name="Personale - Donna"/>
+	<Elem NameU="Security personnel" Name="Personale di Sicurezza"/>
+	<Elem NameU="Travelers" Name="Viaggiatori"/>
+	<Elem NameU="Terrorist" Name="Terrorista"/>
+	<Elem NameU="Coach" Name="Istruttore"/>
+	<Elem NameU="Basketball player" Name="Giocatore di Basket"/>
+	<Elem NameU="Footballer" Name="Giocatore di Calcio"/>
+	<Elem NameU="Booter" Name="Booter"/>
+	<Elem NameU="Girl 1" Name="Ragazza 1"/>
+	<Elem NameU="Boy 1" Name="Ragazzo 1"/>
+	<Elem NameU="Girl 2" Name="Ragazza 2"/>
+	<Elem NameU="Boy 2" Name="Ragazzo 2"/>
+</Lib>

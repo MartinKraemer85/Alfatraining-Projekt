@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Shipping and Logistics">
+    <Elem NameU="Home Delivery Service 1" Name="택배 서비스 1"/>
+    <Elem NameU="Customer Service" Name="고객 서비스"/>
+    <Elem NameU="Location" Name="위치"/>
+    <Elem NameU="Courier on Scooter" Name="스쿠터 타는 택배원"/>
+    <Elem NameU="Courier" Name="택배원"/>
+    <Elem NameU="Home Delivery 2" Name="택배 서비스 2"/>
+    <Elem NameU="Courier with Delivery Cart" Name="택배원과 배송 카트"/>
+    <Elem NameU="Scanning Delivery Information" Name="택배 정보 스캔"/>
+    <Elem NameU="Multifunction Barcode Reader" Name="바코드 스캐너"/>
+    <Elem NameU="Delivery Safety" Name="물류 안전"/>
+    <Elem NameU="Carton Box" Name="박스"/>
+    <Elem NameU="Paper Express Envelope" Name="택배 포장지"/>
+    <Elem NameU="Logistics Basket" Name="물류 바구니"/>
+    <Elem NameU="24-hour Delivery Truck" Name="24시간 배송 트럭"/>
+    <Elem NameU="Lifting Cargo Container" Name="리프팅 화물 컨테이너"/>
+    <Elem NameU="Ocean Shipping" Name="해운"/>
+    <Elem NameU="Plane" Name="비행기"/>
+    <Elem NameU="Helicopter" Name="헬리콥터"/>
+    <Elem NameU="Barcode" Name="바코드"/>
+    <Elem NameU="Checklist" Name="목록"/>
+    <Elem NameU="Telephone Counseling 1" Name="전화 상담 1"/>
+    <Elem NameU="Telephone Counseling 2" Name="전화 상담 2"/>
+    <Elem NameU="Timer" Name="타이머"/>
+    <Elem NameU="Scale Cart" Name="스케일 카트"/>
+    <Elem NameU="Platform Cart Delivery" Name="플랫폼 카트 배송"/>
+    <Elem NameU="Forklift" Name="지게차"/>
+    <Elem NameU="Conveyer Belt" Name="컨베이어 벨트"/>
+    <Elem NameU="Goods Shelf" Name="상품 선반"/>
+    <Elem NameU="Warehouse" Name="창고"/>
+    <Elem NameU="Product location inquiry" Name="제품 위치 조회"/>
+    <Elem NameU="Station" Name="역"/>
+    <Elem NameU="Dispatch" Name="디스패치"/>
+    <Elem NameU="Fresh delivery" Name="새 배달"/>
+    <Elem NameU="Fresh Receipt" Name="새 영수증"/>
+    <Elem NameU="Customs declaration" Name="세관 신고"/>
+    <Elem NameU="Inspection" Name="검사"/>
+    <Elem NameU="Warehouse picking" Name="창고 따기"/>
+    <Elem NameU="Guaranteed timeliness" Name="적시성 보장"/>
+    <Elem NameU="Protect goods" Name="상품 보호"/>
+    <Elem NameU="Protection" Name="보호"/>
+    <Elem NameU="International logistics" Name="국제 물류"/>
+    <Elem NameU="Freight accounting" Name="화물 회계"/>
+    <Elem NameU="Goods to be transported" Name="운송할 물품"/>
+    <Elem NameU="Customs loading" Name="세관 적재"/>
+    <Elem NameU="Cargo insurance" Name="화물 보험"/>
+    <Elem NameU="Fragile goods" Name="깨지기 쉬운 상품"/>
+    <Elem NameU="Goods sorting" Name="상품 분류"/>
+</Lib>

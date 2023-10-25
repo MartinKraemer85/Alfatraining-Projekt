@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Tables and Chairs">
+	<Elem NameU="Chair" Name="Sedia"/>
+	<Elem NameU="Stool" Name="Sgabello"/>
+	<Elem NameU="Recliner" Name="Sedia Reclinabile"/>
+	<Elem NameU="Sling chair" Name="Poltroncina"/>
+	<Elem NameU="Lounge chair" Name="Poltrona"/>
+	<Elem NameU="Table with Chairs" Name="Tavolo con Sedie"/>
+	<Elem NameU="Style Station" Name="Postazione"/>
+	<Elem NameU="lounge chair" Name="poltrona"/>
+	<Elem NameU="Bar Counter" Name="Bancone da bar"/>
+	<Elem NameU="The Chair and Table" Name="Tavolo e Sedie"/>
+	<Elem NameU="Sofa and Sofa Table" Name="Divano con Tavolino"/>
+	<Elem NameU="Double table" Name="Doppio tavolo"/>
+	<Elem NameU="Circular dining table for four" Name="Tavolo circolare per quattro"/>
+	<Elem NameU="Eight people circular dining table" Name="Tavolo circolare per otto"/>
+	<Elem NameU="Oval dining table" Name="Tavola da pranzo ovale"/>
+	<Elem NameU="Oval dining table" Name="Tavola da pranzo ovale"/>
+	<Elem NameU="Double square table" Name="Tavolo quadrato doppio"/>
+	<Elem NameU="Square table" Name="Tavolo quadrato"/>
+	<Elem NameU="Oblong dining table" Name="Tavola da pranzo"/>
+	<Elem NameU="Square dining table" Name="Tavola da pranzo oblunga"/>
+	<Elem NameU="Dining table" Name="Tavola da pranzo"/>
+	<Elem NameU="Circular table" Name="Tavolo circolare"/>
+	<Elem NameU="Oval table" Name="Tavolo ovale"/>
+	<Elem NameU="Square table" Name="Tavolo quadrato"/>
+	<Elem NameU="Lounge chair" Name="Poltrona"/>
+	<Elem NameU="Lounge chair 2" Name="Poltrona 2"/>
+	<Elem NameU="Circular table" Name="Tavolo circolare"/>
+	<Elem NameU="Oval table" Name="Tavolo ovale"/>
+	<Elem NameU="Conference table" Name="Tavolo da conferenza"/>
+	<Elem NameU="Rectangle table" Name="Tavolo rettangolare"/>
+	<Elem NameU="Diamond table" Name="Tavolo a diamante"/>
+	<Elem NameU="Corner table" Name="Tavolo ad angolo"/>
+	<Elem NameU="Semicircle table" Name="Tavolo semicircolare"/>
+	<Elem NameU="The fan table" Name="Tavolo settoriale"/>
+	<Elem NameU="Ping-pong table" Name="Tavolo da tennistavolo"/>
+	<Elem NameU="Desk" Name="Scrivania"/>
+	<Elem NameU="Dressing table" Name="Toletta"/>
+</Lib>

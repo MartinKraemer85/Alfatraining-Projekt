@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Graphic Organizer">
+	<Elem NameU="Bee" Name="Abelha"/>
+	<Elem NameU="Crab" Name="Caranguejo"/>
+	<Elem NameU="Fish" Name="Peixe"/>
+	<Elem NameU="Frog" Name="Sapo"/>
+	<Elem NameU="Cow" Name="Vaca"/>
+	<Elem NameU="Caterpillar" Name="Lagarta"/>
+	<Elem NameU="Elephant" Name="Elefante"/>
+	<Elem NameU="Bear" Name="Urso"/>
+	<Elem NameU="Duck" Name="Pato"/>
+	<Elem NameU="Kangaroo" Name="Canguru"/>
+	<Elem NameU="Giraffe" Name="Girafa"/>
+	<Elem NameU="Rabbit" Name="Coelho"/>
+	<Elem NameU="Bird" Name="Pássaro"/>
+	<Elem NameU="Spider Web" Name="Teia de Aranha"/>
+	<Elem NameU="Ice Cream" Name="Gelado"/>
+	<Elem NameU="Tree" Name="Árvore"/>
+	<Elem NameU="Apple" Name="Maçã"/>
+	<Elem NameU="Tomato" Name="Tomate"/>
+	<Elem NameU="Sun" Name="Sol"/>
+	<Elem NameU="Balloon" Name="Balão"/>
+	<Elem NameU="Flower" Name="Flor"/>
+	<Elem NameU="Leaf" Name="Folha"/>
+	<Elem NameU="Trees" Name="Árvores"/>
+	<Elem NameU="Candy 1" Name="Doce 1"/>
+	<Elem NameU="Candy 2" Name="Doce 2"/>
+	<Elem NameU="Cloud" Name="Nuvem"/>
+	<Elem NameU="Water Drop" Name="Gota de Água"/>
+	<Elem NameU="Hand" Name="Mão"/>
+	<Elem NameU="House" Name="Casa"/>
+	<Elem NameU="Umbrella" Name="Sombrinha"/>
+	<Elem NameU="Rainbow" Name="Arco-íris"/>
+	<Elem NameU="Lolipop" Name="Chupa-chupa"/>
+	<Elem NameU="Ice Sucker" Name="Ventosa de Gelo"/>
+	<Elem NameU="Heart" Name="Coração"/>
+	<Elem NameU="Strawberry" Name="Morango"/>
+	<Elem NameU="Frame 1" Name="Moldura 1"/>
+	<Elem NameU="Frame 2" Name="Moldura 2"/>
+</Lib>

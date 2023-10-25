@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Equipment-General">
+    <Elem NameU="Crossflow inducted draft" Name="交叉流动"/>
+    <Elem NameU="Counterflow forced draft" Name="强制逆流"/>
+    <Elem NameU="Chimney tower hyperbolic" Name="双曲线型烟囱"/>
+    <Elem NameU="Furnace" Name="火炉"/>
+    <Elem NameU="Plate tower" Name="板式塔"/>
+    <Elem NameU="Packed tower" Name="填料塔"/>
+    <Elem NameU="Hydrocracking" Name="加氢裂化"/>
+    <Elem NameU="Hydrodesulfurization" Name="加氢裂化"/>
+    <Elem NameU="Reformer" Name="裂化炉"/>
+    <Elem NameU="Fluid catalytic cracking" Name="流化床催化裂解"/>
+    <Elem NameU="Fluid coking" Name="流态化炼焦"/>
+    <Elem NameU="Tubular" Name="管状的"/>
+    <Elem NameU="Fluidized reactor" Name="流化反应器"/>
+    <Elem NameU="Alkylation" Name="烃化"/>
+    <Elem NameU="Breaker" Name="断路器"/>
+    <Elem NameU="Crusher" Name="压碎机"/>
+    <Elem NameU="Forced-draft cooling tower" Name="强制通风冷却塔"/>
+    <Elem NameU="Briquetting machine" Name="压块机"/>
+    <Elem NameU="Condenser" Name="冷凝器"/>
+    <Elem NameU="Evaporative condenser" Name="蒸发冷凝器"/>
+    <Elem NameU="Furnace" Name="火炉"/>
+    <Elem NameU="Cyclone" Name="旋风分离器"/>
+    <Elem NameU="Dryer" Name="烘干机"/>
+    <Elem NameU="Dryer 2" Name="烘干机 2"/>
+    <Elem NameU="Mixer" Name="搅拌机"/>
+    <Elem NameU="Various mixers" Number="2" Name="多种搅拌机"/>
+    <Elem NameU="Various mixers 2" Name="多种搅拌机 2"/>
+    <Elem NameU="Agitator or mixer" Name="搅拌机或混合器"/>
+    <Elem NameU="Crushers" Name="粉碎机"/>
+    <Elem NameU="Mill" Name="磨粉机"/>
+    <Elem NameU="Various mills" Name="多种磨粉机"/>
+    <Elem NameU="Kneader" Name="面团捏和机"/>
+    <Elem NameU="Blender" Name="搅拌机"/>
+    <Elem NameU="Fluid separators" Name="液体分离器"/>
+    <Elem NameU="Filter" Name="过滤器"/>
+    <Elem NameU="Filter 2" Name="过滤器 2"/>
+    <Elem NameU="Rotary filter" Name="旋转过滤器"/>
+    <Elem NameU="Wastewater treatment" Name="污水处理"/>
+    <Elem NameU="Air separator" Name="空气分离器"/>
+    <Elem NameU="Electromagnet" Name="电磁体"/>
+    <Elem NameU="Centrifuge" Name="离心机"/>
+    <Elem NameU="Hammer crusher" Name="锤式破碎机"/>
+    <Elem NameU="Various kneaders" Name="多种捏合机"/>
+    <Elem NameU="Screen" Name="筛"/>
+    <Elem NameU="Boom loader" Name="转臂式装载机"/>
+    <Elem NameU="Automatic stoker" Name="自动加煤机"/>
+    <Elem NameU="Electric motor" Name="电动机"/>
+    <Elem NameU="Transport" Name="运输"/>
+</Lib>

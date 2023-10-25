@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="PID Flow Meters">
+	<Elem NameU="Analog output flow sensor" Name="Sensor de fluxo de saída analógico"/>
+	<Elem NameU="Cyclonic flow meter" Name="Caudalímetro ciclônico"/>
+	<Elem NameU="Flow element" Name="Elemento de fluxo"/>
+	<Elem NameU="Flow meter with cone" Name="Caudalímetro com cone"/>
+	<Elem NameU="Flow totalizer" Name="Totalizador de fluxo"/>
+	<Elem NameU="Flow tube" Name="Tubo de fluxo"/>
+	<Elem NameU="Flowmeter" Name="Caudalímetro"/>
+	<Elem NameU="Magnetic flow meter 1" Name="Caudalímetro magnético 1"/>
+	<Elem NameU="Magnetic flow meter 2" Name="Caudalímetro magnético 2"/>
+	<Elem NameU="Magnetic flowmeter" Name="Caudalímetro magnético"/>
+	<Elem NameU="Simple flow rate controller" Name="Controlador de taxa de fluxo simples"/>
+	<Elem NameU="Simple flowmeter" Name="Caudalímetro simples"/>
+	<Elem NameU="Smart coriolis mass flowmeter 1" Name="Caudalímetro de massa Córiólis inteligente 1"/>
+	<Elem NameU="Smart coriolis mass flowmeter 2" Name="Caudalímetro de massa Córiólis inteligente 2"/>
+	<Elem NameU="Smart magnetic flowmeter" Name="Caudalímetro magnético inteligente"/>
+	<Elem NameU="Thermal mass flowmeter" Name="Caudalímetro de massa térmica"/>
+	<Elem NameU="Turbine meter" Name="Medidor de turbina"/>
+	<Elem NameU="Temperature" Name="Temperatura"/>
+	<Elem NameU="Exhaust pressure" Name="Pressão de exaustão"/>
+	<Elem NameU="Pressure" Name="Pressão"/>
+	<Elem NameU="Micro-computerized Controller" Name="Controlador micro-computadorizado"/>
+</Lib>

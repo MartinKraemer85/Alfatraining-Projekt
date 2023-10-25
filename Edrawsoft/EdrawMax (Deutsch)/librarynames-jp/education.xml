@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Education">
+
+<Elem Name="本" NameU="Book"/>
+
+<Elem Name="スクールバス" NameU="School Bus"/>
+
+<Elem Name="目覚まし時計" NameU="Alarm Clock"/>
+
+<Elem Name="卒業" NameU="Graduate"/>
+
+<Elem Name="ベル" NameU="Bell"/>
+
+<Elem Name="電気スタンド" NameU="Table Lamp"/>
+
+<Elem Name="ジーンマップ" NameU="Gene Map"/>
+
+<Elem Name="本棚" NameU="A Stack of Books"/>
+
+<Elem Name="書類ファイル" NameU="Folder"/>
+
+<Elem Name="ペンホルダー" NameU="Pen Holder"/>
+
+<Elem Name="万年筆" NameU="Pen"/>
+
+<Elem Name="学校" NameU="School"/>
+
+<Elem Name="フラスコ" NameU="Flask"/>
+
+<Elem Name="ビーカー" NameU="Beaker"/>
+
+<Elem Name="試験管" NameU="Test Tube"/>
+
+<Elem Name="三角定規" NameU="Triangle Ruler"/>
+
+<Elem Name="アングルフラット" NameU="Angle Flat"/>
+
+<Elem Name="ルーラー" NameU="Ruler"/>
+
+<Elem Name="太陽" NameU="Sun"/>
+
+<Elem Name="賞品" NameU="Trophy"/>
+
+<Elem Name="電卓" NameU="Calculator"/>
+
+<Elem Name="アカデミックキャップ" NameU="Academic Cap"/>
+
+<Elem Name="ラップトップ" NameU="Laptop"/>
+
+<Elem Name="デスクトップ PC" NameU="Desktop PC"/>
+
+<Elem Name="プッシュピン" NameU="Thumbtack"/>
+
+<Elem Name="鉛筆削り" NameU="Pencil Sharpener"/>
+
+<Elem Name="クリップ" NameU="Paperclip"/>
+
+<Elem Name="鉛筆" NameU="Pencil"/>
+
+<Elem Name="ボールペン" NameU="Ballpoint Pen"/>
+
+<Elem Name="カラーリード" NameU="Color Lead"/>
+
+<Elem Name="水彩ペン" NameU="Watercolor Pen"/>
+
+<Elem Name="ファンペン" NameU="Fan Pen"/>
+
+<Elem Name="ブラシ" NameU="Brush"/>
+
+<Elem Name="拡大鏡" NameU="Magnifier"/>
+
+<Elem Name="毛筆" NameU="Writing Brush"/>
+
+<Elem Name="マーカー" NameU="Marker"/>
+
+<Elem Name="コンパス" NameU="Compasses"/>
+
+<Elem Name="メガネ" NameU="Glasses"/>
+
+<Elem Name="望遠鏡" NameU="Telescope"/>
+
+<Elem Name="のり" NameU="Glue"/>
+
+<Elem Name="講師" NameU="Lecturer"/>
+
+<Elem Name="証書" NameU="Certificate"/>
+
+<Elem Name="絵画ボード" NameU="Painting Board"/>
+
+<Elem Name="黒板" NameU="Blackboard"/>
+
+<Elem Name="ボール" NameU="Ball"/>
+
+<Elem Name="サッカー" NameU="Football"/>
+
+<Elem Name="はさみ" NameU="Scissors"/>
+
+<Elem Name="テニス" NameU="Tennis"/>
+
+<Elem Name="音楽" NameU="Music"/>
+
+<Elem Name="歴史" NameU="History"/>
+
+<Elem Name="地理" NameU="Geography"/>
+
+<Elem Name="数学" NameU="Mathematics"/>
+
+<Elem Name="英語" NameU="English"/>
+
+<Elem Name="生物" NameU="Biological"/>
+
+<Elem Name="磁石" NameU="Magnet"/>
+
+<Elem Name="そろばん" NameU="Abacus"/>
+
+<Elem Name="時間" NameU="Timer"/>
+
+<Elem Name="砂時計" NameU="Hourglass"/>
+
+<Elem Name="顕微鏡" NameU="Microscope"/>
+
+<Elem Name="消しゴム" NameU="Rubber"/>
+
+<Elem Name="分子構造" NameU="Molecular Structure"/>
+
+<Elem Name="情報" NameU="Information"/>
+
+<Elem Name="ペイントトレイ" NameU="Paint Tray"/>
+
+<Elem Name="ファイルフォルダー" NameU="File Holder"/>
+
+<Elem Name="メダル" NameU="Medal"/>
+
+<Elem Name="通学かばん" NameU="School Bag"/>
+
+<Elem Name="電気" NameU="Electric Light"/>
+
+<Elem Name="パズル" NameU="Puzzle"/>
+
+<Elem Name="狙い" NameU="Aims"/>
+
+<Elem Name="りんご" NameU="Apple"/>
+
+<Elem Name="アルコールランプ" NameU="Alcohol Lamp"/>
+
+<Elem Name="顔料" NameU="Pigment"/>
+
+<Elem Name="レット" NameU="Palette"/>
+
+</Lib>

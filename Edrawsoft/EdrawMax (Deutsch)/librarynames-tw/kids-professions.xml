@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Kids Professions">
+    <Elem NameU="Chef" Name="廚師"/>
+    <Elem NameU="Head Chef" Name="主廚"/>
+    <Elem NameU="Waitress" Name="女服務員"/>
+    <Elem NameU="Business People" Name="商務人士"/>
+    <Elem NameU="Courier" Name="快遞員"/>
+    <Elem NameU="Farmer" Name="農民"/>
+    <Elem NameU="Guide" Name="嚮導"/>
+    <Elem NameU="Singer" Name="歌手"/>
+    <Elem NameU="Reporter" Name="記者"/>
+    <Elem NameU="Flight Attendant" Name="客機乘務員"/>
+    <Elem NameU="Teacher" Name="老師"/>
+    <Elem NameU="Doctor" Name="醫生"/>
+    <Elem NameU="Nurse" Name="護士"/>
+    <Elem NameU="Surgeon" Name="外科醫生"/>
+    <Elem NameU="Vet" Name="獸醫"/>
+    <Elem NameU="Detective" Name="偵探"/>
+    <Elem NameU="Postman" Name="郵遞員"/>
+    <Elem NameU="Judge" Name="法師"/>
+    <Elem NameU="Pastor" Name="牧師"/>
+    <Elem NameU="Nun" Name="修女"/>
+    <Elem NameU="Captain" Name="船長"/>
+    <Elem NameU="Policeman 1" Name="警察 1"/>
+    <Elem NameU="Policewoman" Name="女警察"/>
+    <Elem NameU="Policeman 2" Name="警察 2"/>
+    <Elem NameU="Soldier" Name="士兵"/>
+    <Elem NameU="Firefighter" Name="消防員"/>
+    <Elem NameU="Engineer" Name="程序員"/>
+    <Elem NameU="Worker" Name="工人"/>
+    <Elem NameU="Magician" Name="魔術師"/>
+    <Elem NameU="Clown" Name="小丑"/>
+    <Elem NameU="Conductor" Name="樂隊指揮"/>
+    <Elem NameU="Musician" Name="音樂家"/>
+    <Elem NameU="Scientist" Name="科學家"/>
+    <Elem NameU="Hairdresser" Name="理髮師"/>
+    <Elem NameU="Artist" Name="畫家"/>
+    <Elem NameU="Fitness Trainer" Name="健身教練"/>
+    <Elem NameU="Tennis Player" Name="網球運動員"/>
+    <Elem NameU="Football Player" Name="足球運動員"/>
+    <Elem NameU="Cleaner" Name="清潔工人"/>
+    <Elem NameU="Astronaut" Name="宇航員"/>
+</Lib>

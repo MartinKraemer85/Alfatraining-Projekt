@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Cisco Safe Design Icons">
+	<Elem NameU="Access Point" Name="Ponto de Acesso"/>
+	<Elem NameU="ACI Controller" Name="Controlador ACI"/>
+	<Elem NameU="ACI Leaf Switch" Name="ACI Leaf Switch"/>
+	<Elem NameU="ACI Spine Switch" Name="ACI Spine Switch"/>
+	<Elem NameU="Adaptive Security Appliance" Name="Aparelho de Segurança Adaptativa"/>
+	<Elem NameU="Automated System" Name="Sistema Automatizado"/>
+	<Elem NameU="Blade Server" Name="Servidor Lâmina"/>
+	<Elem NameU="Catalyst Data Center Switch" Name="Centro de Dados Catalyst Switch"/>
+	<Elem NameU="Catalyst Switch Stack" Name="Conjunto Catalyst Switch"/>
+	<Elem NameU="Corporate Device" Name="Dispositivo Corporativo"/>
+	<Elem NameU="Email Security" Name="Segurança de Email"/>
+	<Elem NameU="Firepower Appliance" Name="Aparelho Firepower"/>
+	<Elem NameU="Firewall" Name="Firewall"/>
+	<Elem NameU="Intrustion Detection" Name="Deteção de Intrusos"/>
+	<Elem NameU="L3 Switch" Name="L3 Switch"/>
+	<Elem NameU="L2 Switch" Name="L2 Switch"/>
+	<Elem NameU="Load Balancer" Name="Balanceador de Carga"/>
+	<Elem NameU="Mobile Device" Name="Dispositivo Móvel"/>
+	<Elem NameU="Nexus 1kv" Name="Nexus 1kv"/>
+	<Elem NameU="Nexus Data Center Switch" Name="Centro de Dados Nexus Switch"/>
+	<Elem NameU="Nexus Fabric Switch" Name="Malha Nexus Switch"/>
+	<Elem NameU="Nexus Switch" Name="Nexus Switch"/>
+	<Elem NameU="Phone" Name="Telefone"/>
+	<Elem NameU="Router" Name="Roteador"/>
+	<Elem NameU="Server1" Name="Servidor1"/>
+	<Elem NameU="Server2" Name="Servidor2"/>
+	<Elem NameU="Web Security" Name="Segurança Web"/>
+	<Elem NameU="WLAN Controller" Name="Controlador WLAN"/>
+	<Elem NameU="Wireless Switch" Name="Switch Sem Fios"/>
+	<Elem NameU="Wireless Corporate Device" Name="Dispositivo Corporativo Sem Fios"/>
+	<Elem NameU="User" Name="Usuário"/>
+	<Elem NameU="Users" Name="Usuários"/>
+	<Elem NameU="Actor1" Name="Ator1"/>
+	<Elem NameU="Actor2" Name="Ator2"/>
+	<Elem NameU="Radware" Name="Radware"/>
+	<Elem NameU="Blank Device" Name="Dispositivo Branco"/>
+	<Elem NameU="Blank Service" Name="Seviço em Branco"/>
+	<Elem NameU="Call manager" Name="Gestor de chamadas"/>
+	<Elem NameU="Cisco AMP" Name="Cisco AMP"/>
+	<Elem NameU="Cisco AnyConnect.53" Name="Cisco AnyConnect.53"/>
+	<Elem NameU="Client Firewall" Name="Firewall do Cliente"/>
+	<Elem NameU="Encryption Offload" Name="Descarregar Encriptação"/>
+	<Elem NameU="vLoad- balancer" Name="vLoad- balanceador"/>
+	<Elem NameU="Virtual Secure Server" Name="Servidor Seguro Virtual"/>
+	<Elem NameU="Storage" Name="Armazenamento"/>
+	<Elem NameU="Cisco Cloud Web Security" Name="Segurança Web de Cloud Cisco"/>
+	<Elem NameU="vWeb Security" Name="Segurança vWeb"/>
+	<Elem NameU="vWLAN Controller" Name="Controlador vWLAN"/>
+	<Elem NameU="vWAF Security" Name="Segurança vWAF"/>
+	<Elem NameU="Interface Label-G1" Name="Interface Label-G1"/>
+	<Elem NameU="Interface Label-M0" Name="Interface Label-M0"/>
+	<Elem NameU="Interface Label-E1" Name="Interface Label-E1"/>
+	<Elem NameU="Mgmt-Uplink" Name="Mgmt-Uplink"/>
+	<Elem NameU="Label 1" Name="Etiqueta 1"/>
+	<Elem NameU="Label 2" Name="Etiqueta 2"/>
+	<Elem NameU="Label 3" Name="Etiqueta 3"/>
+	<Elem NameU="VLAN Tag" Name="Etiqueta VLAN"/>
+	<Elem NameU="HSRP" Name="HSRP"/>
+</Lib>

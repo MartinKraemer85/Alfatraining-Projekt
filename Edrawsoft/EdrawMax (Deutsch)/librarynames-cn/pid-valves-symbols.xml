@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Valves Symbols">
+    <Elem NameU="3-D 3-way solenoid valve with reset" Name="带复位的三维三通电磁阀"/>
+    <Elem NameU="3-D 3-way valve" Name="三维三通阀"/>
+    <Elem NameU="3-D 3-way solenoid valve" Name="三维三通电磁阀"/>
+    <Elem NameU="3-D 4-way valve" Name="三维四通阀"/>
+    <Elem NameU="3-D Angle blowdown valve" Name="三维角排污阀"/>
+    <Elem NameU="3-D Ball valve" Name="三维球阀"/>
+    <Elem NameU="3-D Blowdown valve" Name="三维排污阀"/>
+    <Elem NameU="3-D Butterfly valve or damper" Name="三维蝶阀或阻尼器"/>
+    <Elem NameU="3-D Check valve" Name="三维安全检查"/>
+    <Elem NameU="3-D Control valve with actuator" Name="带执行器的三维控制阀"/>
+    <Elem NameU="3-D Cylinder actuated valve (double-acting)" Name="三维气缸驱动阀（双作用）"/>
+    <Elem NameU="3-D Flow regulator ,self-contained" Name="三维流量调节器，独立"/>
+    <Elem NameU="3-D Gate valve" Name="三维闸阀"/>
+    <Elem NameU="3-D Hand control valve" Name="三维手动控制阀"/>
+    <Elem NameU="3-D Plug valve" Name="三维旋塞阀"/>
+    <Elem NameU="3-D Pressure-balanced diaphragm actuated" Name="三维压力平衡膜片驱动"/>
+    <Elem NameU="3-D Regulator with external pressure tap" Name="带外部测压口的三维调节器"/>
+    <Elem NameU="3-D Regulator, self-contained" Name="三维调节器，独立"/>
+    <Elem NameU="3-D Restriction orifice drilled in valve" Name="钻入阀门的三维节流孔板"/>
+    <Elem NameU="3-D Rotary actuated" Name="三维旋转驱动"/>
+    <Elem NameU="3-D Rotary plug valve" Name="三维旋转旋塞阀"/>
+    <Elem NameU="3-D Stop check valve" Name="三维截止止回阀"/>
+    <Elem NameU="3-D Vacuum safety valve" Name="三维真空安全阀"/>
+    <Elem NameU="3-D Valve with actuator" Name="带执行机构的三维阀门"/>
+    <Elem NameU="3-D Valve with bleed or purge connection under disc" Name="阀瓣下带排气或吹扫连接的三维阀门"/>
+    <Elem NameU="3-D Valve with long shaft" Name="长轴三维阀门"/>
+    <Elem NameU="3-D Valve,fail indeterminate" Name="三维阀门，故障不确定"/>
+    <Elem NameU="3-D Valve,fail locked" Name="三维阀门，故障锁定"/>
+    <Elem NameU="3-D Valve" Name="三维阀门"/>
+    <Elem NameU="Valve handle 1" Name="阀门手柄1"/>
+    <Elem NameU="Valve handle 2" Name="阀门手柄2"/>
+    <Elem NameU="Valve wheel" Name="阀轮"/>
+</Lib>

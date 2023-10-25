@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Process Cooling">
+    <Elem NameU="Absorption chiller" Name="吸收式冷却器"/>
+    <Elem NameU="Chiller 1" Name="冷却器 1"/>
+    <Elem NameU="Chiller 2" Name="冷却器 2"/>
+    <Elem NameU="Chiller 3" Name="冷却器 3"/>
+    <Elem NameU="Chiller 4" Name="冷却器 4"/>
+    <Elem NameU="Chiller 5" Name="冷却器 5"/>
+    <Elem NameU="Chiller 6" Name="冷却器 6"/>
+    <Elem NameU="Cold generator chiller" Name="冷发电机冷却器"/>
+    <Elem NameU="Cooling tower 1" Name="冷却塔 1"/>
+    <Elem NameU="Cooling tower 2" Name="冷却塔 2"/>
+    <Elem NameU="Cooling tower 3" Name="冷却塔 3"/>
+    <Elem NameU="Cooling tower 4" Name="冷却塔 4"/>
+    <Elem NameU="Cooling Tower Make-up" Name="冷却塔群塔"/>
+    <Elem NameU="Comfort cooler" Name="舒适性冷却塔"/>
+    <Elem NameU="Engine driven chiller" Name="发动机驱动冷却器"/>
+    <Elem NameU="Explosion-proof industrial refrigerator-freezer" Name="防爆工业冷藏冷冻箱"/>
+    <Elem NameU="Large portable chiller" Name="大型便携式冷却器"/>
+    <Elem NameU="Natural gas refrigeration system" Name="天然气制冷系统"/>
+    <Elem NameU="Reactor product cooler" Name="反应产品冷却器"/>
+    <Elem NameU="Simple cooling tower" Name="简单冷却塔"/>
+    <Elem NameU="Temperature control unit" Name="温度控制装置"/>
+    <Elem NameU="Water-cooled chiller" Name="水冷式冷却器"/>
+</Lib>

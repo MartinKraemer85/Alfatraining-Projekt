@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Animals-Terricole">
+    <Elem NameU="Dog" Name="狗"/>
+    <Elem NameU="Rabbit" Name="兔子"/>
+    <Elem NameU="Cat" Name="貓"/>
+    <Elem NameU="Red-crowned Crane" Name="丹頂鶴"/>
+    <Elem NameU="Giraffe 1" Name="長頸鹿1"/>
+    <Elem NameU="Fawn" Name="幼鹿"/>
+    <Elem NameU="Cock" Name="公雞"/>
+    <Elem NameU="Sheep" Name="綿羊"/>
+    <Elem NameU="Cow" Name="奶牛"/>
+    <Elem NameU="Squirrel" Name="松鼠"/>
+    <Elem NameU="Tortoise" Name="陸龜"/>
+    <Elem NameU="Mouse" Name="老鼠"/>
+    <Elem NameU="Duck" Name="鴨子"/>
+    <Elem NameU="Pigeon" Name="鴿子"/>
+    <Elem NameU="Peace Dove" Name="和平鴿"/>
+    <Elem NameU="Panda" Name="熊貓"/>
+    <Elem NameU="Snake" Name="蛇"/>
+    <Elem NameU="Elephant" Name="大象"/>
+    <Elem NameU="Koala" Name="考拉"/>
+    <Elem NameU="Horse" Name="馬"/>
+    <Elem NameU="Camel" Name="駱駝"/>
+    <Elem NameU="Pig" Name="豬"/>
+    <Elem NameU="Sika Deer" Name="梅花鹿"/>
+    <Elem NameU="Snail" Name="蝸牛"/>
+    <Elem NameU="Gecko" Name="壁虎"/>
+    <Elem NameU="Frog" Name="青蛙"/>
+    <Elem NameU="Toad" Name="蟾蜍"/>
+    <Elem NameU="Parrot" Name="鸚鵡"/>
+    <Elem NameU="Rhinoceros" Name="犀牛"/>
+    <Elem NameU="Bat" Name="蝙蝠"/>
+    <Elem NameU="Lizard" Name="蜥蜴"/>
+    <Elem NameU="Leopard" Name="獵豹"/>
+    <Elem NameU="Hippopotamus 1" Name="河馬1"/>
+    <Elem NameU="Hippopotamus 2" Name="河馬2"/>
+    <Elem NameU="Polar bear 1" Name="北極熊1"/>
+    <Elem NameU="Polar bear 2" Name="北極熊2"/>
+    <Elem NameU="Polar bear 3" Name="北極熊3"/>
+    <Elem NameU="Elephant 1" Name="大象1"/>
+    <Elem NameU="Elephant 2" Name="大象2"/>
+    <Elem NameU="Crocodile 1" Name="鱷魚1"/>
+    <Elem NameU="Crocodile 2" Name="鱷魚2"/>
+    <Elem NameU="Tyrannosaurus" Name="暴龍"/>
+    <Elem NameU="Stegosaurus" Name="劍龍"/>
+</Lib>

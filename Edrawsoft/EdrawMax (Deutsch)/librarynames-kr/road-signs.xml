@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Road Signs">
+    <Elem NameU="Roundabout" Name="원형 교차로"/>
+    <Elem NameU="Road narrows on both sides ahead" Name="양쪽 도로가 좁아짐"/>
+    <Elem NameU="Hump Back Bridge" Name="홍예다리"/>
+    <Elem NameU="Horse Riders" Name="승마 주의"/>
+    <Elem NameU="Height restriction warning" Name="높이 제한 경고"/>
+    <Elem NameU="Falling Rocks" Name="떨어지는 바위 주의"/>
+    <Elem NameU="Slippery Road" Name="미끄러운 길"/>
+    <Elem NameU="Children Crossing" Name="어린이 보호 구역"/>
+    <Elem NameU="Sheep" Name="양"/>
+    <Elem NameU="Cattle" Name="소"/>
+    <Elem NameU="Cattle Grid" Name="가축 그리드"/>
+    <Elem NameU="Steep hill downwards" Name="아래쪽으로 가파른 언덕"/>
+    <Elem NameU="Steep hill upwards" Name="위쪽으로 가파른 언덕"/>
+    <Elem NameU="Danger place" Name="위험 장소"/>
+    <Elem NameU="Intersection 1" Name="교차로"/>
+    <Elem NameU="Intersection 2" Name="교차로"/>
+    <Elem NameU="Bend" Name="굽은 길"/>
+    <Elem NameU="Double bend" Name="연속적 굽은 길"/>
+    <Elem NameU="Two ways traffic" Name="양방향 교통"/>
+    <Elem NameU="Mobile bridge" Name="모바일 브리지"/>
+    <Elem NameU="Traffic Lights" Name="신호등"/>
+    <Elem NameU="Pedestrian crossing" Name="횡단 보도"/>
+    <Elem NameU="Road work" Name="도로 공사"/>
+    <Elem NameU="Back up" Name="백업"/>
+    <Elem NameU="Give way" Name="감속 양보"/>
+    <Elem NameU="Crossing" Name="크로스 기호"/>
+    <Elem NameU="Stop" Name="정차"/>
+    <Elem NameU="Roundable" Name="环岛行驶"/>
+    <Elem NameU="Cycle track" Name="非机动车行驶"/>
+    <Elem NameU="Pass this side" Name="靠右侧道路行驶"/>
+    <Elem NameU="Direction to be followed" Name="向右转弯"/>
+    <Elem NameU="One way street" Name="单行路向左或向右"/>
+    <Elem NameU="No entry" Name="禁止驶入"/>
+    <Elem NameU="No entry both directions" Name="禁止通行"/>
+    <Elem NameU="No pedestrians" Name="禁止行人通行"/>
+    <Elem NameU="No vehicles designed to carry more than 8 passengers (excluding driver) or local buses" Name="8 인 이상 (운전자 포함) 차량 통행 금지"/>
+    <Elem NameU="No towed caravans" Name="견인 / 트레일러 통행 금지"/>
+    <Elem NameU="No goods vehicles exceeding maximum gross weight shown (in tonnes)" Name="중량 초과 적재물이있는 트럭 통행 금지 (미터톤)"/>
+    <Elem NameU="Maximum length (imperial only)" Name="제한된 차량 길이 (피트)"/>
+    <Elem NameU="No cycling" Name="무동력 차량 금지"/>
+    <Elem NameU="No motorcycles" Name="오토바이 금지"/>
+    <Elem NameU="No horse-drawn vehicles" Name="동물 차량 금지"/>
+    <Elem NameU="No motor vehicles except solo motorcycles" Name="자동차 금지-오토바이 제외"/>
+    <Elem NameU="No motor vehicles" Name="자동차 금지"/>
+    <Elem NameU="No Overtaking" Name="추월 금지"/>
+    <Elem NameU="No vehicles carrying explosives" Name="위험물 반입 금지"/>
+    <Elem NameU="No U-turns" Name="유턴 금지"/>
+    <Elem NameU="No articulated vehicles" Name="트레일러 통행 금지"/>
+    <Elem NameU="No Stopping" Name="주차 금지"/>
+    <Elem NameU="No left turn" Name="좌회전 금지"/>
+    <Elem NameU="No right turn" Name="우회전 금지"/>
+    <Elem NameU="Maximum height (imperial only)" Name="제한 너비（피트）"/>
+    <Elem NameU="Maximum height (metric and imperial)" Name="제한 높이（미터와 피트）"/>
+    <Elem NameU="Maximum width (imperial only)" Name="제한 너비 （피트）"/>
+    <Elem NameU="Maximum width (metric and imperial)" Name="제한 너비 （미터와 피트）"/>
+    <Elem NameU="Minimum speed" Name="최저 속도"/>
+    <Elem NameU="Maximum speed" Name="최대 속도"/>
+    <Elem NameU="National speed limit" Name="국가 제한 속도"/>
+    <Elem NameU="Shared cycle" Name="보행자 및 무동력 차량 차선"/>
+    <Elem NameU="Segregated cycle 1" Name="보행자 및 무동력 차량 차선1"/>
+    <Elem NameU="Segregated cycle 2" Name="보행자 및 무동력 차량 차선2"/>
+    <Elem NameU="Entering 20mph zone" Name="20 마일 구역"/>
+    <Elem NameU="Maximum weight" Name="무게 제한"/>
+    <Elem NameU="Speed Camera in Operation" Name="과속 카메라 조심"/>
+    <Elem NameU="Unsuitable for motor vehicles warning" Name="자동차 운전에 적합하지 않음"/>
+    <Elem NameU="Escape lane 1" Name="비상 탈출 차선1"/>
+    <Elem NameU="Escape lane 2" Name="비상 탈출 차선2"/>
+    <Elem NameU="SOS Point" Name="긴급 전화"/>
+    <Elem NameU="No through road" Name="길이 없음"/>
+    <Elem NameU="Parking" Name="주차"/>
+    <Elem NameU="No passing without stopping" Name="횡단 금지"/>
+    <Elem NameU="No parking" Name="차량 장기 주차 금지"/>
+    <Elem NameU="Speed limit" Name="속도 제한"/>
+    <Elem NameU="Heigh limit" Name="높이 제한"/>
+    <Elem NameU="Width limit" Name="너비 제한"/>
+    <Elem NameU="Weight limit" Name="무게 제한"/>
+    <Elem NameU="Priority over oncoming traffic" Name="교통 우선순위"/>
+    <Elem NameU="Streetcar or regular buses" Name="트램 또는 셔틀 지점"/>
+    <Elem NameU="Taxi status" Name="택시 금지"/>
+    <Elem NameU="Speed 30-zone" Name="속도 제한 30 구역"/>
+    <Elem NameU="End speed 30-zone" Name="속도 제한 30구역 종료"/>
+    <Elem NameU="Pedestrian crossing 2" Name="횡단보도 2"/>
+    <Elem NameU="Police" Name="경찰서"/>
+    <Elem NameU="Hotel" Name="호텔"/>
+    <Elem NameU="Restaurant" Name="식당"/>
+    <Elem NameU="Break down service" Name="보수유지 서비스"/>
+    <Elem NameU="P+R" Name="P+R"/>
+    <Elem NameU="Restroom" Name="화장실"/>
+    <Elem NameU="Fuel" Name="주유소"/>
+    <Elem NameU="Telephone" Name="전화"/>
+    <Elem NameU="Recommended speed" Name="추천 속도"/>
+    <Elem NameU="Nodal point of motorway" Name="고속도로 절점"/>
+    <Elem NameU="Motorway" Name="고속도로"/>
+    <Elem NameU="End motorway" Name="고속도로 종점"/>
+    <Elem NameU="Populated zone" Name="보행자 구역"/>
+    <Elem NameU="End populated zone" Name="보행자 구역 끝"/>
+    <Elem NameU="Parking with clock" Name="시간 제한 주차"/>
+    <Elem NameU="Number sign" Name="번호 표지판"/>
+    <Elem NameU="Number sign (federal highway)" Name="번호 표지판(고속도로)"/>
+    <Elem NameU="Exit" Name="출구"/>
+    <Elem NameU="Direction to place" Name="도로 표시"/>
+    <Elem NameU="Board of announcement of exit" Name="출구 표시"/>
+    <Elem NameU="Speed Camera Sign" Name="과속 단속 카메라 표지판"/>
+</Lib>

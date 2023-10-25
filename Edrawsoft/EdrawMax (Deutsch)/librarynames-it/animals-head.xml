@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Animal-Head">
+	<Elem NameU="Cow" Name="Mucca"/>
+	<Elem NameU="Sheep" Name="Pecora"/>
+	<Elem NameU="Hippopotamus" Name="Ippopotamo"/>
+	<Elem NameU="Rabbit" Name="Coniglio"/>
+	<Elem NameU="Deer" Name="Cervo"/>
+	<Elem NameU="Fox 1" Name="Volpe 1"/>
+	<Elem NameU="Fox 2" Name="Volpe 2"/>
+	<Elem NameU="Mouse 1" Name="Topo 1"/>
+	<Elem NameU="Mouse 2" Name="Topo 2"/>
+	<Elem NameU="Fish" Name="Pesce"/>
+	<Elem NameU="Horse" Name="Cavallo"/>
+	<Elem NameU="Panda" Name="Panda"/>
+	<Elem NameU="Elephant" Name="Elefante"/>
+	<Elem NameU="Dog 1" Name="Cane 1"/>
+	<Elem NameU="Dog 2" Name="Cane 2"/>
+	<Elem NameU="Dog 3" Name="Cane 3"/>
+	<Elem NameU="Monkey" Name="Scimmia"/>
+	<Elem NameU="Hedgehog" Name="Riccio"/>
+	<Elem NameU="Duck" Name="Papera"/>
+	<Elem NameU="Pig" Name="Maiale"/>
+	<Elem NameU="Koala" Name="Koala"/>
+	<Elem NameU="Rhinoceros" Name="Rinoceronte"/>
+	<Elem NameU="Lion" Name="Leone"/>
+	<Elem NameU="Tiger" Name="Tigre"/>
+	<Elem NameU="Giraffe" Name="Giraffa"/>
+	<Elem NameU="Zebra" Name="Zebra"/>
+	<Elem NameU="Octopus" Name="Polpo"/>
+	<Elem NameU="Goat" Name="Capra"/>
+	<Elem NameU="Bird" Name="Uccello"/>
+	<Elem NameU="Owl" Name="Gufo"/>
+</Lib>

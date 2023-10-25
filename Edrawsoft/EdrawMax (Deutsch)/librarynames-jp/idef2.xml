@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="IDEF2">
+
+<Elem Name="処理ボックス" NameU="Process box"/>
+
+<Elem Name="表題欄" NameU="Title block"/>
+
+<Elem Name="ラベル" NameU="N-type line"/>
+
+<Elem Name="テキストボックス" NameU="Text block"/>
+
+<Elem Name="1 脚コネクタ" NameU="1 legged connector"/>
+
+<Elem Name="分岐コネクタ" NameU="Forking connector"/>
+
+<Elem Name="サイドのテキスト引き出し" NameU="Side text callout"/>
+
+<Elem Name="動的コネクタ" NameU="Dynamic connector"/>
+
+</Lib>

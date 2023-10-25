@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Equipment-Crushers">
+	<Elem NameU="Crusher" Name="Concasseur"/>
+	<Elem NameU="Coarse crushers" Name="Concasseurs secondaires"/>
+	<Elem NameU="Medium crushers" Name="Concasseurs moyennes"/>
+	<Elem NameU="Fine crushers" Name="Concasseurs fins"/>
+	<Elem NameU="Various crushers" Name="Divers concasseurs"/>
+	<Elem NameU="Hammer crusher" Name="Concasseur à marteaux"/>
+	<Elem NameU="Impact crusher" Name="Concasseur à percussion"/>
+	<Elem NameU="Jaw crusher" Name="Concasseur à mâchoires"/>
+	<Elem NameU="Roller crusher" Name="Concasseur à rouleaux"/>
+	<Elem NameU="Cone crusher" Name="Concasseur à cône"/>
+	<Elem NameU="Vibration crusher" Name="Concasseur vibratoire"/>
+</Lib>

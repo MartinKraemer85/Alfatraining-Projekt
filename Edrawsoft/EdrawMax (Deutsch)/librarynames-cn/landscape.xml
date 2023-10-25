@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Landscape">
+    <Elem NameU="Great Wall" Name="长城"/>
+    <Elem NameU="Volcano" Name="火山"/>
+    <Elem NameU="Snow Mountain" Name="雪山"/>
+    <Elem NameU="Desert" Name="沙漠"/>
+    <Elem NameU="Mountains" Name="群山"/>
+    <Elem NameU="Lakes" Name="湖泊"/>
+    <Elem NameU="Forest" Name="森林"/>
+    <Elem NameU="Waterfall 1" Name="瀑布1"/>
+    <Elem NameU="Waterfall 2" Name="瀑布2"/>
+    <Elem NameU="Stream" Name="小河"/>
+    <Elem NameU="Sunrise" Name="日出"/>
+    <Elem NameU="Beach 1" Name="沙滩1"/>
+    <Elem NameU="Beach 2" Name="沙滩2"/>
+    <Elem NameU="Beach 3" Name="沙滩3"/>
+    <Elem NameU="Holiday Bungalow" Name="度假别墅"/>
+    <Elem NameU="Castle" Name="城堡"/>
+    <Elem NameU="Windmill" Name="风车"/>
+    <Elem NameU="Park" Name="公园"/>
+    <Elem NameU="Stone Bridge" Name="石桥"/>
+    <Elem NameU="Amusement Park" Name="游乐园"/>
+    <Elem NameU="Lake Park" Name="湖上公园"/>
+    <Elem NameU="Village" Name="村庄"/>
+    <Elem NameU="Beijing Bird's Nest Stadium" Name="北京鸟巢体育场"/>
+    <Elem NameU="Taj Mahal" Name="泰姬陵"/>
+    <Elem NameU="Sydney Opera House" Name="悉尼歌剧院"/>
+    <Elem NameU="Eiffel Tower" Name="埃菲尔铁塔"/>
+    <Elem NameU="Pisa Leaning Tower" Name="比萨斜塔"/>
+</Lib>

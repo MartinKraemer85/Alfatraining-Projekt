@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<Lib nameU="Security">
+
+<Elem Name="Anti ddos" NameU="Anti ddos"/>
+
+<Elem Name="Antibot" NameU="Antibot"/>
+
+<Elem Name="不正防止" NameU="Anti-fraud"/>
+
+<Elem Name="脆弱性の自動検出サービス" NameU="Automated vulnerability detection serivice"/>
+
+<Elem Name="踏み台ホスト" NameU="Bastion host"/>
+
+<Elem Name="証明書サービス" NameU="Certificates service"/>
+
+<Elem Name="クラウド認証" NameU="Cloud authentication"/>
+
+<Elem Name="クラウドファイアウォール" NameU="Cloud firewall"/>
+
+<Elem Name="セキュリティの強化" NameU="Contens security"/>
+
+<Elem Name="COO" NameU="COO"/>
+
+<Elem Name="データ暗号化" NameU="Data encryption"/>
+
+<Elem Name="データベース監査" NameU="Database audit"/>
+
+<Elem Name="DDOS インターナショナル" NameU="DDOS international"/>
+
+<Elem Name="DDOS 保護パッケージ" NameU="DDOS protective package"/>
+
+<Elem Name="DDOS" NameU="DDOS"/>
+
+<Elem Name="暗号化サービス" NameU="Encryption service"/>
+
+<Elem Name="ゲームシールド" NameU="Game shield"/>
+
+<Elem Name="モバイルセキュリティ" NameU="Mobile sercurity"/>
+
+<Elem Name="セキュリティ状況に対する意識" NameU="Security situation awareness"/>
+
+<Elem Name="サーバーガード" NameU="Server guard"/>
+
+<Elem Name="スマートな不正防止" NameU="Smart anti-fraud"/>
+
+<Elem Name="SOS" NameU="SOS"/>
+
+<Elem Name="SPPC" NameU="SPPC"/>
+
+<Elem Name="WebアプリケーションファイアウォールWeb" NameU="Web application firewall Web"/>
+
+<Elem Name="Yundunハイブリッドクラウド" NameU="Yundun hybrid cloud"/>
+
+<Elem Name="Yundun" NameU="Yundun"/>
+
+</Lib>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Big Data">
+	<Elem NameU="Add Database" Name="Adicionar Base de Dados"/>
+	<Elem NameU="Accept Database" Name="Aceitar Base de Dados"/>
+	<Elem NameU="Binary Data Search in Computer" Name="Pesquisa de Dados Binários em Computador"/>
+	<Elem NameU="Binary Data Search 1" Name="Pesquisa de Dados Binários 1"/>
+	<Elem NameU="Binary Data Search 2" Name="Pesquisa de Dados Binários 2"/>
+	<Elem NameU="Binary Data Search in Phone" Name="Pesquisa de Dados Binários em Telemóvel"/>
+	<Elem NameU="Chat" Name="Chat"/>
+	<Elem NameU="Cloud and Files" Name="Cloud e Ficheiros"/>
+	<Elem NameU="Cloud Collaboration" Name="Colaboração Cloud"/>
+	<Elem NameU="Cloud Computing 1" Name="Computação na Cloud 1"/>
+	<Elem NameU="Cloud Computing 2" Name="Computação na Cloud 2"/>
+	<Elem NameU="Cloud Data Flow" Name="Fluxo de Dados na Cloud"/>
+	<Elem NameU="Cloud Database 1" Name="Base de Dados na Cloud 1"/>
+	<Elem NameU="Cloud Database 2" Name="Base de Dados na Cloud 1"/>
+	<Elem NameU="Cloud Data Transfer" Name="Transferência de Dados na Cloud"/>
+	<Elem NameU="Cloud Security" Name="Segurança da Cloud"/>
+	<Elem NameU="Cloud with People" Name="Cloud com Pessoas"/>
+	<Elem NameU="Cloud Storage" Name="Armazenamento na Cloud"/>
+	<Elem NameU="Computer Data Transfer" Name="Transferência de Dados do Computador"/>
+	<Elem NameU="Computer Imput" Name="Entrada do Computador"/>
+	<Elem NameU="Computer Shopping" Name="Compras no Computador"/>
+	<Elem NameU="Computer with Cloud 1" Name="Computador com Cloud 1"/>
+	<Elem NameU="Computer with Cloud 2" Name="Computador com Cloud 2"/>
+	<Elem NameU="Computer Server" Name="Servidor do Computador"/>
+	<Elem NameU="Connected Cloud" Name="Cloud Conectada"/>
+	<Elem NameU="Connected Email" Name="Email Conectado"/>
+	<Elem NameU="Connected People" Name="Pessoas Conectadas"/>
+	<Elem NameU="Connected Phones" Name="Telemóveis Conectados"/>
+	<Elem NameU="Connectivity" Name="Conectividade"/>
+	<Elem NameU="Data Analysis 1" Name="Análise de Dados 1"/>
+	<Elem NameU="Data Analysis 2" Name="Análise de Dados 2"/>
+	<Elem NameU="Data Analysis 3" Name="Análise de Dados 3"/>
+	<Elem NameU="Data Analysis 4" Name="Análise de Dados 4"/>
+	<Elem NameU="Data Analysis 5" Name="Análise de Dados 5"/>
+	<Elem NameU="Data Analysis 6" Name="Análise de Dados 6"/>
+	<Elem NameU="Data Analysis 7" Name="Análise de Dados 7"/>
+	<Elem NameU="Data Analysis 8" Name="Análise de Dados 8"/>
+	<Elem NameU="Data Analysis 9" Name="Análise de Dados 9"/>
+	<Elem NameU="Data Analysis 10" Name="Análise de Dados 10"/>
+	<Elem NameU="Data Analysis 11" Name="Análise de Dados 11"/>
+	<Elem NameU="Data Analysis 12" Name="Análise de Dados 12"/>
+	<Elem NameU="Data Analysis Document" Name="Documento de Análise de Dados"/>
+	<Elem NameU="Data Center 1" Name="Centro de Dados 1"/>
+	<Elem NameU="Data Center 2" Name="Centro de Dados 2"/>
+	<Elem NameU="Data Cloud" Name="Cloud de Dados"/>
+	<Elem NameU="Data Consulting" Name="Consulta de Dados"/>
+	<Elem NameU="Data Document" Name="Documento de Dados"/>
+	<Elem NameU="Data Files" Name="Ficheiros de Dados"/>
+	<Elem NameU="Data Filter" Name="Filtro de Dados"/>
+	<Elem NameU="Data Flow 1" Name="Fluxo de Dados 1"/>
+	<Elem NameU="Data Flow 2" Name="Fluxo de Dados 2"/>
+	<Elem NameU="Data Flow 3" Name="Fluxo de Dados 3"/>
+	<Elem NameU="Data Flow in Files" Name="Fluxo de Dados em Ficheiros"/>
+	<Elem NameU="Data to End Devices" Name="Dados para Dispositivos Finais"/>
+	<Elem NameU="Data from Cloud to Computers" Name="Dados da Cloud para Computadores"/>
+	<Elem NameU="Data Layers" Name="Camadas de Dados"/>
+	<Elem NameU="Data Location 1" Name="Localização de Dados 1"/>
+	<Elem NameU="Data Location 2" Name="Localização de Dados 2"/>
+	<Elem NameU="Data Management 1" Name="Gestão de Dados 1"/>
+	<Elem NameU="Data Management 2" Name="Gestão de Dados 2"/>
+	<Elem NameU="Data Management 3" Name="Gestão de Dados 3"/>
+	<Elem NameU="Data Security 1" Name="Segurança de Dados 1"/>
+	<Elem NameU="Data Security 2" Name="Segurança de Dados 2"/>
+	<Elem NameU="Data Security 3" Name="Segurança de Dados 3"/>
+	<Elem NameU="Data Transfer 1" Name="Transferência de Dados 1"/>
+	<Elem NameU="Data Transfer 2" Name="Transferência de Dados 2"/>
+	<Elem NameU="Data Transfer 3" Name="Transferência de Dados 3"/>
+	<Elem NameU="Data Transfer 4" Name="Transferência de Dados 4"/>
+	<Elem NameU="Data Transfer Between Mobile Device" Name="Transferência de Dados Entre Dispositivos Móveis"/>
+	<Elem NameU="Data Variety" Name="Variedade de Dados"/>
+	<Elem NameU="Data Warehouse 1" Name="Armazém de Dados 1"/>
+	<Elem NameU="Data Warehouse 2" Name="Armazém de Dados 2"/>
+	<Elem NameU="Database" Name="Base de Dados"/>
+	<Elem NameU="Delete Database" Name="Apagar Base de Dados"/>
+	<Elem NameU="Disk Array" Name="Variedade de Disco"/>
+	<Elem NameU="Document Security" Name="Segurança de Documento"/>
+	<Elem NameU="Email Transfer" Name="Transferência de Email"/>
+	<Elem NameU="Email Search" Name="Pesquisa de Email"/>
+	<Elem NameU="Fast Speed" Name="Velocidade Rápida"/>
+	<Elem NameU="Global Communication" Name="Comunicação Global"/>
+	<Elem NameU="Global Data 1" Name="Dados Globais 1"/>
+	<Elem NameU="Global Data 2" Name="Dados Globais 2"/>
+	<Elem NameU="Global Data 3" Name="Dados Globais 3"/>
+	<Elem NameU="Global Search 1" Name="Pesquisa Global 1"/>
+	<Elem NameU="Global Search 2" Name="Pesquisa Global 2"/>
+	<Elem NameU="Global Search 3" Name="Pesquisa Global 3"/>
+	<Elem NameU="Innovation" Name="Inovação"/>
+	<Elem NameU="Mail Management" Name="Gestão de Email"/>
+	<Elem NameU="Mobile Data Transfer" Name="Transferência de Dados Móveis"/>
+	<Elem NameU="Mobile Devices" Name="Dispositivos Móveis"/>
+	<Elem NameU="Mobile Device Management" Name="Gestão de Dispositivos Móveis"/>
+	<Elem NameU="Mobile Phone with Email" Name="Telemóvel com Email"/>
+	<Elem NameU="People Network" Name="Rede de Pessoa"/>
+	<Elem NameU="People Wifi Connection" Name="Conexão Wifi de Pessoas"/>
+	<Elem NameU="Phone with Globe" Name="Telemóvel com Globo"/>
+	<Elem NameU="Phone Shopping" Name="Compras por Telemóvel"/>
+	<Elem NameU="Purchase Analysis" Name="Análise de Compras"/>
+	<Elem NameU="Satellite" Name="Satélite"/>
+	<Elem NameU="Secure Data" Name="Dados Seguros"/>
+	<Elem NameU="Search Data 1" Name="Pesquisar Dados 1"/>
+	<Elem NameU="Search Data 2" Name="Pesquisar Dados 2"/>
+	<Elem NameU="Search Data 3" Name="Pesquisar Dados 3"/>
+	<Elem NameU="Search Data 4" Name="Pesquisar Dados 4"/>
+	<Elem NameU="Search Files" Name="Pesquisar Ficheiro"/>
+	<Elem NameU="Search Management" Name="Gestão de Pesquisa"/>
+	<Elem NameU="Search People" Name="Procurar Pessoas"/>
+	<Elem NameU="Talking" Name="Conversar"/>
+	<Elem NameU="Target" Name="Alvo"/>
+	<Elem NameU="Transfer" Name="Transferir"/>
+	<Elem NameU="Unavailable Database" Name="Base de Dados Indisponível"/>
+	<Elem NameU="Veracity" Name="Veracidade"/>
+</Lib>

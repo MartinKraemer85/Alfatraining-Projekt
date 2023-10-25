@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Carnival">
+    <Elem NameU="Mask" Name="面具"/>
+    <Elem NameU="Feather" Name="羽毛"/>
+    <Elem NameU="Fireworks" Name="烟火"/>
+    <Elem NameU="Clown Hat" Name="小丑帽"/>
+    <Elem NameU="Bunting" Name="彩旗"/>
+    <Elem NameU="Fruit Juice" Name="果汁"/>
+    <Elem NameU="Sand Hammer" Name="沙锤"/>
+    <Elem NameU="Ice Cream" Name="冰淇淋"/>
+    <Elem NameU="Fireworks" Name="烟火"/>
+    <Elem NameU="Flip Flop" Name="触发器"/>
+    <Elem NameU="Coconut Tree" Name="椰子树"/>
+    <Elem NameU="Mask" Name="面具"/>
+    <Elem NameU="Hat" Name="帽子"/>
+    <Elem NameU="Clown" Name="小丑"/>
+    <Elem NameU="Tent" Name="帐篷"/>
+    <Elem NameU="Fireworks" Name="烟火"/>
+    <Elem NameU="Sand Hammer" Name="沙锤"/>
+    <Elem NameU="Fireworks" Name="烟火"/>
+    <Elem NameU="Mask" Name="面具"/>
+    <Elem NameU="Balloon" Name="气球"/>
+    <Elem NameU="Lollipop" Name="棒棒糖"/>
+    <Elem NameU="Fireworks" Name="烟火"/>
+    <Elem NameU="Horse" Name="马"/>
+    <Elem NameU="Hot Air Balloon" Name="热气球"/>
+    <Elem NameU="Float" Name="彩车"/>
+    <Elem NameU="Ferris Wheel" Name="摩天轮"/>
+    <Elem NameU="Tent" Name="帐篷"/>
+    <Elem NameU="Clown" Name="小丑"/>
+    <Elem NameU="Magic Hat" Name="魔术帽"/>
+    <Elem NameU="Amusement Park Facilities" Name="游乐园设施"/>
+    <Elem NameU="Drum" Name="鼓"/>
+    <Elem NameU="Dining Car" Name="餐车"/>
+    <Elem NameU="Balloon" Name="气球"/>
+    <Elem NameU="Horn" Name="喇叭"/>
+    <Elem NameU="Mask" Name="面具"/>
+    <Elem NameU="Drum" Name="鼓"/>
+    <Elem NameU="Fireworks" Name="烟火"/>
+    <Elem NameU="Mask" Name="面具"/>
+    <Elem NameU="Small" Name="小型的"/>
+    <Elem NameU="Mask" Name="面具"/>
+    <Elem NameU="Drum" Name="鼓"/>
+    <Elem NameU="Mask" Name="面具"/>
+    <Elem NameU="Musical Instrument" Name="乐器"/>
+    <Elem NameU="Eyes and Beard" Name="眼睛和胡子"/>
+    <Elem NameU="Firecracker" Name="鞭炮"/>
+    <Elem NameU="Mask" Name="面具"/>
+    <Elem NameU="Clown Hat" Name="小丑帽"/>
+    <Elem NameU="Parrot" Name="鹦鹉"/>
+    <Elem NameU="Carousel" Name="旋转木马"/>
+    <Elem NameU="Paper Windmills" Name="纸风车"/>
+    <Elem NameU="Elephant" Name="大象"/>
+    <Elem NameU="Fire" Name="火"/>
+    <Elem NameU="Dancing People" Name="跳舞的人"/>
+    <Elem NameU="Playing Person" Name="扮演者"/>
+    <Elem NameU="Dancing People" Number="2" Name="跳舞的人"/>
+    <Elem NameU="Performer" Number="2" Name="表演者"/>
+    <Elem NameU="Store" Name="商场"/>
+    <Elem NameU="Clown" Name="小丑"/>
+    <Elem NameU="Rotating Flying Chair" Name="旋转飞椅"/>
+    <Elem NameU="Coconut Tree" Name="椰子树"/>
+    <Elem NameU="Sun" Name="太阳"/>
+    <Elem NameU="Mask" Number="2" Name="面具"/>
+    <Elem NameU="Performing Acrobatics" Name="表演杂技"/>
+    <Elem NameU="Trophy" Name="奖杯"/>
+    <Elem NameU="Bunting" Name="彩旗"/>
+</Lib>

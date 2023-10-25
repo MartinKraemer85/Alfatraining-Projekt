@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Cabinets and Bookcases">
+	<Elem NameU="Work surface" Name="Superfície de trabalho"/>
+	<Elem NameU="Corner surface" Name="Superfície de canto"/>
+	<Elem NameU="Island" Name="Ilha"/>
+	<Elem NameU="Corner counter" Name="Balcão de canto"/>
+	<Elem NameU="Platter counter" Name="Balcão de bandeja"/>
+	<Elem NameU="Bevel counter" Name="Balcão de bisel"/>
+	<Elem NameU="Bent counter" Name="Balcão dobrado"/>
+	<Elem NameU="Work peninsula" Name="Península de trabalho"/>
+	<Elem NameU="Base end-shelf" Name="Estante de fim de base"/>
+	<Elem NameU="Base corner" Name="Canto de base"/>
+	<Elem NameU="Base blind corner" Name="Canto cego de base"/>
+	<Elem NameU="Base end angle" Name="Base e ângulo"/>
+	<Elem NameU="Bookcase" Name="Estante"/>
+	<Elem NameU="Peninsula end-shelf" Name="Estante de fim de península"/>
+	<Elem NameU="Wall end-shelf" Name="Estante de fim de parede"/>
+	<Elem NameU="Wall corner" Name="Canto da parede"/>
+	<Elem NameU="Wall angle cabinet" Name="Armário de ângulo de parede"/>
+	<Elem NameU="Track end-bevel" Name="Trilha de fim de bisel"/>
+	<Elem NameU="Track 45 deg." Name="Trilha 45 graus"/>
+	<Elem NameU="Locker" Name="Cacifo"/>
+	<Elem NameU="Handle" Name="Puxador"/>
+	<Elem NameU="Base" Name="Base"/>
+	<Elem NameU="Drawer" Name="Gaveta"/>
+	<Elem NameU="Cabinet" Name="Armário"/>
+	<Elem NameU="Cabinet 2 drawers" Name="Armário de 2 gavetas"/>
+	<Elem NameU="Base peninsula" Name="Península de base"/>
+	<Elem NameU="Track corner" Name="Canto de trilha"/>
+	<Elem NameU="Tray track" Name="Trilha de bandeja"/>
+</Lib>

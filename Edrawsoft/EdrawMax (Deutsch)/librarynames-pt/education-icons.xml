@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Education Icons">
+	<Elem NameU="Newspaper" Name="Jornal"/>
+	<Elem NameU="Algorithm" Name="Algoritmo"/>
+	<Elem NameU="English Letters" Name="Cartas em Inglês"/>
+	<Elem NameU="Planetary Motion" Name="Movimento Planetário"/>
+	<Elem NameU="Flask" Name="Frasco"/>
+	<Elem NameU="Cell" Name="Célula"/>
+	<Elem NameU="Microscope" Name="Microscópio"/>
+	<Elem NameU="Globe" Name="Globo"/>
+	<Elem NameU="Notebook" Name="Caderno"/>
+	<Elem NameU="History" Name="História"/>
+	<Elem NameU="Dance" Name="Dança"/>
+	<Elem NameU="Discussion" Name="Discussão"/>
+	<Elem NameU="Psychology" Name="Psicologia"/>
+	<Elem NameU="Graduate" Name="Graduar"/>
+	<Elem NameU="Brush Pot" Name="Pote de Pincéis"/>
+	<Elem NameU="Book" Name="Livro"/>
+	<Elem NameU="School Bag" Name="Saco Escolar"/>
+	<Elem NameU="Open Book" Name="Abrir o Livro"/>
+	<Elem NameU="Automatic Pencil" Name="Lápis Automático"/>
+	<Elem NameU="Paint Box" Name="Caixa de Pintar"/>
+	<Elem NameU="Chinese Brush" Name="Pincel Chinês"/>
+	<Elem NameU="Eraser" Name="Borracha"/>
+	<Elem NameU="Compasses" Name="Compassos"/>
+	<Elem NameU="Glasses" Name="Óculos"/>
+	<Elem NameU="Blackboard" Name="Quadro Negro"/>
+	<Elem NameU="Trencher Cap" Name="Chapéu de Formatura"/>
+	<Elem NameU="Testimonials" Name="Testemunhos"/>
+	<Elem NameU="School Bus" Name="Ônibus Escolar"/>
+	<Elem NameU="Glue" Name="Cola"/>
+</Lib>

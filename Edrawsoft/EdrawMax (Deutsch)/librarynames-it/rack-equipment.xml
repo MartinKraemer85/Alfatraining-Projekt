@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Rack Equipment">
+	<Elem NameU="Rack" Name="Scaffale"/>
+	<Elem NameU="1U Patch Panel" Name="Pannello di Permutazione 1U"/>
+	<Elem NameU="2U Patch Panel" Name="Pannello di Permutazione 2U"/>
+	<Elem NameU="1U Switch" Name="Interruttore 1U"/>
+	<Elem NameU="2U Switch" Name="Interruttore 2U"/>
+	<Elem NameU="Router" Name="Router"/>
+	<Elem NameU="Raid" Name="Raid"/>
+	<Elem NameU="4U Server" Name="Server 4U"/>
+	<Elem NameU="2U Server" Name="Server 2U"/>
+	<Elem NameU="UPS" Name="UPS"/>
+	<Elem NameU="Bridge" Name="Ponte"/>
+	<Elem NameU="6U Monitor" Name="Schermo 6U"/>
+	<Elem NameU="Tape Drive" Name="Lettore Nastri"/>
+	<Elem NameU="Keyboard" Name="Tastiera"/>
+	<Elem NameU="Power Strip" Name="Ciabatta"/>
+	<Elem NameU="1U Shelf" Name="Mensola 1U"/>
+	<Elem NameU="2U Shelf" Name="Mensola 2U"/>
+	<Elem NameU="Alternative Device" Name="Dispositivo Alternativo"/>
+	<Elem NameU="Alternative Device 2" Name="Dispositivo Alternativo 2"/>
+	<Elem NameU="Switch" Name="Interruttore"/>
+	<Elem NameU="2u ethernet switch" Name="Interruttore ethernet 2U"/>
+	<Elem NameU="Switch (ws-c2960-24tc-l)" Name="Interruttore (ws-c2960-24tc-l)"/>
+	<Elem NameU="Switch (ws-c3560-24ps-s)" Name="Interruttore (ws-c3560-24ps-s)"/>
+	<Elem NameU="Switch (ws-c3560-48ps-s)" Name="Interruttore (ws-c3560-48ps-s)"/>
+	<Elem NameU="Switch (ws-c2960-48tc-l)" Name="Interruttore (ws-c2960-48tc-l)"/>
+	<Elem NameU="Server" Name="Server"/>
+	<Elem NameU="X Server" Name="Server X"/>
+	<Elem NameU="X Server RAID" Name="Server RAID X"/>
+	<Elem NameU="Server pc" Name="Server Computer"/>
+	<Elem NameU="Rack mount lcd monitor" Name="Monitor LCD in Scaffale"/>
+	<Elem NameU="Fibre Patch Panel(Type A)" Name="Pannello di Permutazione per Fibra (Tipo A)"/>
+	<Elem NameU="Fibre Patch Panel(Type B)" Name="Pannello di Permutazione per Fibra (Tipo B)"/>
+	<Elem NameU="Fibre Patch Panel(Type C)" Name="Pannello di Permutazione per Fibra (Tipo C)"/>
+	<Elem NameU="1U Spacer" Name="Spaziatore 1U"/>
+	<Elem NameU="1U Tray" Name="Contenitore 1U"/>
+	<Elem NameU="2U RAID Array" Name="Gruppo di RAID 2U"/>
+	<Elem NameU="3U RAID Array" Name="Gruppo di RAID 3U"/>
+	<Elem NameU="Managed UPS" Name="Gestione UPS"/>
+	<Elem NameU="1U Cable Management" Name="Gestione Cavi 1U"/>
+	<Elem NameU="2U Cable Management" Name="Gestione Cavi 2U"/>
+</Lib>

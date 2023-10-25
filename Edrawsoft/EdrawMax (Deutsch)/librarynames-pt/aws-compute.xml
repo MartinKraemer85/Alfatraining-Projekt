@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="AWS Compute">
+	<Elem NameU="Application-Auto-Scaling" Name="Escala automática do aplicativo"/>
+	<Elem NameU="EC2" Name="EC2"/>
+	<Elem NameU="EC2_AMI" Name="EC2_AMI&#9;"/>
+	<Elem NameU="EC2_Auto-Scaling" Name="Escala automática EC2"/>
+	<Elem NameU="EC2_Elastic-IP-Address" Name="Endereço IP Elastic EC2"/>
+	<Elem NameU="EC2_Rescue" Name="Salvar EC2"/>
+	<Elem NameU="EC2-Auto-Scaling" Name="Escala automática EC2"/>
+	<Elem NameU="EC2-Container-Registry" Name="Registro de contêiner EC2"/>
+	<Elem NameU="EC2-Container-Registry_Image" Name="Imagem de Registro de contêiner EC2"/>
+	<Elem NameU="EC2-Container-Registry_Registry" Name="Registro do contêiner Registro EC2"/>
+	<Elem NameU="Elastic-Container-Service" Name="Serviço de gestão de contêiners"/>
+	<Elem NameU="Elastic-Container-Service_Container1" Name="Serviço de gestão de contêiners 1"/>
+	<Elem NameU="Elastic-Container-Service_Container2" Name="Serviço de gestão de contêiners 2"/>
+	<Elem NameU="Elastic-Container-Service_Container3" Name="Serviço de gestão de contêiners 3"/>
+	<Elem NameU="Elastic-Container-Service_Service" Name="Serviço de gestão de contêiners Serviço"/>
+	<Elem NameU="Elastic-Container-Service_Task" Name="Tarefa de serviço de gestão de contêiners"/>
+	<Elem NameU="Elastic-Kubernetes-Service" Name="Serviço Elastic Kubernetes"/>
+	<Elem NameU="Lightsail" Name="Lightsail"/>
+	<Elem NameU="AWS-Batch" Name="AWS-Batch"/>
+	<Elem NameU="AWS-Compute-Optimizer" Name="Otimizador de computação AWS"/>
+	<Elem NameU="AWS-Elastic-Beanstalk" Name="AWS Elastic Beanstalk"/>
+	<Elem NameU="AWS-Elastic-Beanstalk_Application" Name="Aplicativo AWS Elastic Beanstalk"/>
+	<Elem NameU="AWS-Elastic-Beanstalk_Deployment" Name="Desenvolvimento do AWS Elastic Beanstalk"/>
+	<Elem NameU="AWS-Fargate" Name="AWS-Fargate"/>
+	<Elem NameU="AWS-Lambda_Lambda-Function" Name="Função AWS-Lambda_Lambda"/>
+	<Elem NameU="AWS-Lambda" Name="AWS-Lambda"/>
+	<Elem NameU="AWS-Local-Zones" Name="Região local da AWS"/>
+	<Elem NameU="AWS-Outposts" Name="AWS Outposts"/>
+	<Elem NameU="AWS-Serverless-Application-Repository" Name="Repositório de aplicativos sem servidor AWS"/>
+	<Elem NameU="AWS-Thinkbox_XMesh" Name="AWS-Thinkbox XMesh"/>
+	<Elem NameU="AWS-Thinkbox-Deadline" Name="AWS-Thinkbox-data de entrega"/>
+	<Elem NameU="AWS-Thinkbox-Draft" Name="AWS Thinkbox projeto"/>
+	<Elem NameU="AWS-Thinkbox-Frost" Name="AWS Thinkbox congelado"/>
+	<Elem NameU="AWS-Thinkbox-Krakatoa" Name="AWS Thinkbox Krakatoa"/>
+	<Elem NameU="AWS-Thinkbox-Sequoia" Name="AWS Thinkbox Sequoia"/>
+	<Elem NameU="AWS-Thinkbox-Stoke" Name="AWS Thinkbox Incentivar"/>
+	<Elem NameU="AWS-Wavelength" Name="Comprimento de onda AWS"/>
+	<Elem NameU="Bottlerocket" Name="Foguete de garrafa"/>
+	<Elem NameU="Compute" Name="Calcular"/>
+	<Elem NameU="EC2-Image-Builder" Name="Construtor de imagem EC2"/>
+	<Elem NameU="Parallel-Cluster" Name="Cluster Paralelo"/>
+	<Elem NameU="VMware-Cloud-On-AWS" Name="Máquina virtual em nuvem online VMare AWS"/>
+</Lib>

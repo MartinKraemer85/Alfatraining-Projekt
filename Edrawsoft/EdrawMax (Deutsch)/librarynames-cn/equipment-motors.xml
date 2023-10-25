@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Equipment-Motors">
+    <Elem NameU="Motor" Name="马达"/>
+    <Elem NameU="Step motor" Name="步进发动机"/>
+    <Elem NameU="DC motor" Name="直流电动机"/>
+    <Elem NameU="AC motor" Name="交流电动机"/>
+    <Elem NameU="Motor generator" Name="电动发电机"/>
+    <Elem NameU="Gear" Name="传动装置"/>
+    <Elem NameU="Generator" Name="发电机"/>
+    <Elem NameU="AC generator" Name="交流发电机"/>
+    <Elem NameU="DC generator" Name="直流发电机"/>
+    <Elem NameU="Motor-operated valve" Name="电动阀"/>
+    <Elem NameU="Motor driven turbine" Name="电动涡轮"/>
+    <Elem NameU="Motor" Name="马达"/>
+    <Elem NameU="Diesel motor" Name="柴油发动机"/>
+    <Elem NameU="Electric motor" Name="电动机"/>
+    <Elem NameU="Turbine" Name="涡轮"/>
+</Lib>

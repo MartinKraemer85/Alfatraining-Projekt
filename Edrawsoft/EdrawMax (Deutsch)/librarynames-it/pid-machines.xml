@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="PID Machines">
+	<Elem NameU="Automatic chucker" Name="Mandrino automatico"/>
+	<Elem NameU="Automatic screw machine" Name="Macchina per viti automatica"/>
+	<Elem NameU="Automatic universal grinder" Name="Smerigliatrice automatica universale"/>
+	<Elem NameU="Ball mill" Name="Frantoio a sfera"/>
+	<Elem NameU="Bed-type horizontal-spindle production mill" Name="Frantoio con mandrino orizzontale"/>
+	<Elem NameU="Centerless grinder" Name="Smerigliatrice senza centro"/>
+	<Elem NameU="CMM" Name="CMM"/>
+	<Elem NameU="CNC chucke" Name="Mandrino CNC"/>
+	<Elem NameU="CNC coordinate measuring" Name="Misurazione coordinate CNC"/>
+	<Elem NameU="CNC turret punch press" Name="Punzonatrice a torretta CNC"/>
+	<Elem NameU="CNC vertical machining center" Name="Centro di lavoro verticale CNC"/>
+	<Elem NameU="Compact CNC turning center" Name="Centro di tornitura compatto CNC"/>
+	<Elem NameU="Computer-assisted lathe" Name="Tornio con assistenza computerizzata"/>
+	<Elem NameU="Corrective roller leveler" Name="Livellatore correttivo a rullo"/>
+	<Elem NameU="Deburring machine" Name="Macchina per sbavatura"/>
+	<Elem NameU="Drill bit" Name="Punta del trapano"/>
+	<Elem NameU="Drill-tap machine" Name="Perforatrice"/>
+	<Elem NameU="Engine lathe" Name="Tornio a motore"/>
+	<Elem NameU="Floor plate" Name="Piastrella"/>
+	<Elem NameU="Gang-tooled turning machine" Name="Tornio a nastri"/>
+	<Elem NameU="Gear" Name="Ingranaggio"/>
+	<Elem NameU="Grinder" Name="Macinatore"/>
+	<Elem NameU="Grinding machine" Name="Macchina macinatrice"/>
+	<Elem NameU="Grinding mill" Name="Frantoio a macina"/>
+	<Elem NameU="Heavy-duty band sawing machine" Name="Segatrice a nastro robusta"/>
+	<Elem NameU="High-speed flying optic laser system" Name="Sistema laser ottivo ad alta velocità"/>
+	<Elem NameU="Hob sharpener" Name="Affilatrice"/>
+	<Elem NameU="Horizontal hydraulic hone" Name="Smerigliatrice idraulica orizzontale"/>
+	<Elem NameU="Horizontal jig mill" Name="Fresatrice orizzontale"/>
+	<Elem NameU="Horizontal machining center" Name="Centro di lavoro orizzontale"/>
+	<Elem NameU="Horizontal mill" Name="Frantoio orizzontale"/>
+	<Elem NameU="Horizontal spindle grinder" Name="Macinatore con mandrino orizzontale"/>
+	<Elem NameU="Hydra-mechanical press brake" Name="Pressa piegatrice idromeccanica"/>
+	<Elem NameU="Hydraulic press brake" Name="Pressa piegatrice idraulica"/>
+	<Elem NameU="Industrial oven" Name="Forno industriale"/>
+	<Elem NameU="Internal grinding machine" Name="Macchina macinatrice interna"/>
+	<Elem NameU="Lapping and polishing system" Name="Sistema di lappatura e rifinitura"/>
+	<Elem NameU="Mechanical ironworker" Name="Fabbro meccanico"/>
+	<Elem NameU="Mechanical press" Name="Pressa meccanica"/>
+	<Elem NameU="Mist collector" Name="Collettori di nebbia"/>
+	<Elem NameU="Multiple-spindle drill" Name="Trapano con mandrini multipli"/>
+	<Elem NameU="Parts washer" Name="Pulitrice di parti"/>
+	<Elem NameU="Power metal press" Name="Pressa metallica"/>
+	<Elem NameU="Power squaring shear" Name="Squadratrice"/>
+	<Elem NameU="Production band saw" Name="Produzione segatrice a nastro"/>
+	<Elem NameU="Punch press" Name="Punzonatrice"/>
+	<Elem NameU="Radial drill" Name="Trapano radiale"/>
+	<Elem NameU="Rolling mill" Name="Frantoio a rullo"/>
+	<Elem NameU="Rotary surface grinder" Name="Macinatore con superfice rotativa"/>
+	<Elem NameU="Seam welder" Name="Saldatore di cucitura"/>
+	<Elem NameU="Spray nozzle" Name="Ugello"/>
+	<Elem NameU="Stamping machine" Name="Macchina di stampaggio"/>
+	<Elem NameU="Transfer press" Name="Pressa di trasferimento"/>
+	<Elem NameU="Universal turning center" Name="Centro di tornitura universale"/>
+	<Elem NameU="Vertical automatic cutting tool presetting machine" Name="Tagliatrice automatica verticale"/>
+	<Elem NameU="Vertical band saw" Name="Segatrice a nastro verticale"/>
+	<Elem NameU="Vertical compression hydraulic press bender" Name="Presso-piegatrice idraulica a compressione verticale"/>
+	<Elem NameU="Vertical lathe" Name="Tornio verticale"/>
+	<Elem NameU="Vertical machining center" Name="Centro di lavoro verticale"/>
+	<Elem NameU="Vertical spindle rotary surface grinder" Name="Macinatrice a superficie rotatoria con mandrino verticale"/>
+	<Elem NameU="Vertical deburring" Name="Sbavatrice verticale"/>
+	<Elem NameU="Coal mill" Name="Frantoio di carbone"/>
+	<Elem NameU="Yeast molding machine" Name="Macchina per formatura del lievito"/>
+	<Elem NameU="Pulverizer 1" Name="Polverizzatore 1"/>
+	<Elem NameU="Pulverizer 2" Name="Polverizzatore 2"/>
+	<Elem NameU="Pulverizer 3" Name="Polverizzatore 3"/>
+	<Elem NameU="ESP" Name="ESP"/>
+	<Elem NameU="Mix" Name="Miscelatore"/>
+	<Elem NameU="Mash preparation" Name="Preparazione rete"/>
+	<Elem NameU="Wet grains" Name="Chicchi umidi"/>
+	<Elem NameU="Low-level economizer" Name="Economizzatore di basso livello"/>
+	<Elem NameU="Homogenization" Name="Omogenizzazione"/>
+	<Elem NameU="Homogeneous Emulsion" Name="Emulsione omogenea"/>
+	<Elem NameU="Jacketed kettle" Name="Caldaia rivestita"/>
+	<Elem NameU="Fruit washing machine" Name="Macchina lava-frutta"/>
+	<Elem NameU="Plate Filter Press" Name="Filtropressa"/>
+	<Elem NameU="Pick up the fruit machine" Name="Macchina raccogli-frutta"/>
+	<Elem NameU="Beater" Name="Battitore"/>
+	<Elem NameU="Can washer" Name="Macchina lava-lattine"/>
+	<Elem NameU="Tin seamer" Name="Aggraffatrice"/>
+	<Elem NameU="Steam sterilizer" Name="Sterilizzatrice di vapore"/>
+	<Elem NameU="Granulator" Name="Granulatore"/>
+	<Elem NameU="Ultra high temperature instantaneous sterilization machine" Name="Sterilizzatrice istantanea a temperatura ultra elevata"/>
+</Lib>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Yourdon and Coad">
+    <Elem NameU="Class and Object" Name="클래스와 개체"/>
+    <Elem NameU="Class" Name="클래스"/>
+    <Elem NameU="Object State" Name="개체 상태"/>
+    <Elem NameU="Gen-spec Structure" Name="일반/특별 구조"/>
+    <Elem NameU="Whole-part Structure" Name="전체-부분 구조"/>
+    <Elem NameU="Condition" Name="조건"/>
+    <Elem NameU="Loop" Name="순환"/>
+    <Elem NameU="External Interactor" Name="외부 인터랙터"/>
+    <Elem NameU="Data Process" Name="데이터 프로세스"/>
+    <Elem NameU="Multiple Process" Name="다중 프로세스"/>
+    <Elem NameU="State" Name="상태"/>
+    <Elem NameU="Multiple State" Name="다중 상태"/>
+    <Elem NameU="Stop State" Name="중지 상태"/>
+    <Elem NameU="Stop State 2" Name="중지 상태 2"/>
+    <Elem NameU="Process" Name="프로세스"/>
+    <Elem NameU="Center to Center" Name="센터에서 센터로"/>
+    <Elem NameU="Loop on Center" Name="센터에서 순환"/>
+    <Elem NameU="Data Store" Name="데이터 저장"/>
+    <Elem NameU="Connector" Name="연결선"/>
+    <Elem NameU="Semicircle" Name="반원"/>
+</Lib>

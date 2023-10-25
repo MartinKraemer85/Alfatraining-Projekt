@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Equipment-Compressors">
+    <Elem NameU="Compressor" Name="압축기"/>
+    <Elem NameU="Compressor 2" Name="압축기 2"/>
+    <Elem NameU="Compressor, Vacuum pump" Name="압축기,진공 펌프"/>
+    <Elem NameU="Centrifugal compressor" Name="원심력 압축기"/>
+    <Elem NameU="Diaphragm compressor" Name="다이어프램 압축기"/>
+    <Elem NameU="Ejector compressor" Name="배출 장치 압축기"/>
+    <Elem NameU="Piston compressor" Name="피스톤 압축기"/>
+    <Elem NameU="Ring compressor" Name="링 압축기"/>
+    <Elem NameU="Roller vane compressor" Name="롤러 베인 압축기"/>
+    <Elem NameU="Reciprocating compressor" Name="왕복식 압축기"/>
+    <Elem NameU="Reciprocating compressor 2" Name="왕복식 압축기 2"/>
+    <Elem NameU="Reciprocating compressor 3" Name="왕복식 압축기 3"/>
+    <Elem NameU="Compressor silencers" Name="압축기 소음기"/>
+    <Elem NameU="Rotary compressor" Name="회전식 압축기"/>
+    <Elem NameU="Rotary compressor 2" Name="회전식 압축기 2"/>
+    <Elem NameU="Rotory compressor 3" Name="회전식 압축기 3"/>
+    <Elem NameU="Rotory compressor and silencers" Name="회전식 압축기와 소음기"/>
+    <Elem NameU="Liquid ring compressor" Name="리퀴드 링 압축기"/>
+    <Elem NameU="Centrifugal compressor" Name="원심력 압축기"/>
+    <Elem NameU="Centrifugal compressor 2" Name="원심력 압축기 2"/>
+    <Elem NameU="Centrifugal compressor 3" Name="원심력 압축기 3"/>
+    <Elem NameU="Selectable compressor" Name="선택 가능한 압축기"/>
+    <Elem NameU="Axial compressor" Name="축 압축기"/>
+    <Elem NameU="Air compressor" Name="공기 압축기"/>
+    <Elem NameU="AC air compressor" Name="AC 공기 압축기"/>
+    <Elem NameU="Screw compressor" Name="스크루 압축기"/>
+    <Elem NameU="Turbo compressor" Name="터보 압축기"/>
+</Lib>

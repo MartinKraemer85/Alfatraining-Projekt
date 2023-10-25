@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Optics">
+	<Elem NameU="Reflecting Surface" Name="Superficie Riflettente"/>
+	<Elem NameU="Convex Lens Symbol" Name="Simbolo Lenti Convesse"/>
+	<Elem NameU="Concave Lens Symbol" Name="Simbolo Lenti Concave"/>
+	<Elem NameU="Convex Lens" Name="Lenti Convesse"/>
+	<Elem NameU="Concave Lens" Name="Lenti Concave"/>
+	<Elem NameU="Spherical Surface" Name="Superficie Sferica"/>
+	<Elem NameU="Spherical Surface 2" Name="Superficie Sferica 2"/>
+	<Elem NameU="Mirror" Name="Specchio"/>
+	<Elem NameU="Body" Name="Corpo"/>
+	<Elem NameU="Ray 1" Name="Raggio 1"/>
+	<Elem NameU="Ray 2" Name="Raggio 2"/>
+	<Elem NameU="Ray 3" Name="Raggio 3"/>
+	<Elem NameU="Prism" Name="Prisma"/>
+	<Elem NameU="Semicircle Glass" Name="Vetro Semicircolare"/>
+	<Elem NameU="Holophote" Name="Olofitico"/>
+	<Elem NameU="Beam of Light" Name="Raggio di Luce"/>
+	<Elem NameU="Parallel Beam of Light" Name="Raggio di Luce Parallelo"/>
+	<Elem NameU="Bulb" Name="Lampadina"/>
+	<Elem NameU="Point Light Source" Name="Sorgente di Luce"/>
+	<Elem NameU="Grid 1" Name="Rete 1"/>
+	<Elem NameU="Grid 2" Name="Rete 2"/>
+	<Elem NameU="Sine Wave" Name="Onda Sinusoidale"/>
+	<Elem NameU="Principal Optics Axis" Name="Asse Ottico Principale"/>
+	<Elem NameU="Angle" Name="Angolo"/>
+	<Elem NameU="Description" Name="Descrizione"/>
+	<Elem NameU="Label" Name="Etichetta"/>
+	<Elem NameU="Line" Name="Linea"/>
+	<Elem NameU="Dash Line" Name="Linea Tratteggiata"/>
+	<Elem NameU="Level" Name="Livello"/>
+	<Elem NameU="Eye" Name="Occhio"/>
+	<Elem NameU="Eyeball" Name="Bulbo Oculare"/>
+	<Elem NameU="Arrow" Name="Freccia"/>
+	<Elem NameU="Candle" Name="Candela"/>
+	<Elem NameU="Legend" Name="Legenda"/>
+	<Elem NameU="Legend1" Name="Legenda1"/>
+	<Elem NameU="Legend2" Name="Legenda2"/>
+	<Elem NameU="Legend3" Name="Legenda3"/>
+	<Elem NameU="Legend4" Name="Legenda4"/>
+	<Elem NameU="Legend5" Name="Legenda5"/>
+	<Elem NameU="Legend6" Name="Legenda6"/>
+	<Elem NameU="Legend7" Name="Legenda7"/>
+	<Elem NameU="Legend8" Name="Legenda8"/>
+	<Elem NameU="Legend9" Name="Legenda9"/>
+	<Elem NameU="Legend10" Name="Legenda10"/>
+</Lib>

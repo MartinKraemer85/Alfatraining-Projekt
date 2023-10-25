@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Nassi-Shneiderman">
+    <Elem NameU="Definitions or Actions" Name="定義或動作"/>
+    <Elem NameU="Decision" Name="定義"/>
+    <Elem NameU="Decision (if-then-else)" Name="定義(如果-則-否則)"/>
+    <Elem NameU="Decision 2 (if-then-else)" Name="定義 2 (如果-則-否則)"/>
+    <Elem NameU="Decision with Steps" Name="帶步驟的定義"/>
+    <Elem NameU="Decision with Steps 2" Name="帶步驟的定義 2"/>
+    <Elem NameU="Decision with Step 3" Name="帶步驟的定義 3"/>
+    <Elem NameU="Selection (case)" Name="選擇 (例子)"/>
+    <Elem NameU="Single Step" Name="單一步驟"/>
+    <Elem NameU="Iteration (While)" Name="循環 (當)"/>
+    <Elem NameU="Iteration (Repeat-Until)" Name="重複(重複-至)"/>
+    <Elem NameU="Frame 1" Name="框架1"/>
+    <Elem NameU="Frame 2" Name="框架2"/>
+    <Elem NameU="Procedure Steps" Name="過程步驟"/>
+    <Elem NameU="Multiple Steps" Name="多個步驟"/>
+    <Elem NameU="2-D Word Balloon" Name="二維氣球文本框"/>
+</Lib>

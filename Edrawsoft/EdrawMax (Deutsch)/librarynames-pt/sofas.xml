@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Sofas">
+	<Elem NameU="Curved sofa" Name="Sofá curvo"/>
+	<Elem NameU="Sectional sofa with arms" Name="Sofá seccional com braços"/>
+	<Elem NameU="Armless sectional sofa" Name="Sofá seccional sem braços"/>
+	<Elem NameU="Curved sectional sofa" Name="Sofá seccional curvo"/>
+	<Elem NameU="1 seat sofa" Name="Sofá de sentar 1"/>
+	<Elem NameU="2 seat sofa" Name="Sofá de sentar 2"/>
+	<Elem NameU="3 seat sofa" Name="Sofá de sentar 3"/>
+	<Elem NameU="4 seat sofa" Name="Sofá de sentar 4"/>
+	<Elem NameU="Tea Table" Name="Mesa de Chá"/>
+</Lib>

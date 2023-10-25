@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Electrical and Telecom">
+	<Elem NameU="Electrical switchbox" Name="Centralina elettrica"/>
+	<Elem NameU="Single pole switch" Name="Interruttore unipolare"/>
+	<Elem NameU="Three-way switch" Name="Interruttore a tre vie"/>
+	<Elem NameU="1P switch" Name="Interruttore 1P"/>
+	<Elem NameU="2P switch" Name="Interruttore 2P"/>
+	<Elem NameU="4P switch" Name="Interruttore 4P"/>
+	<Elem NameU="1DP switch" Name="Interruttore 1DP"/>
+	<Elem NameU="2DP switch" Name="Interruttore 2DP"/>
+	<Elem NameU="Water tap" Name="Rubinetto dell'acqua"/>
+	<Elem NameU="Lum. ceiling mount" Name="Lume con montaggio a soffitto"/>
+	<Elem NameU="Encl ceiling lum" Name="Lume a soffitto circoscritto"/>
+	<Elem NameU="Wall light" Name="Luce a parete"/>
+	<Elem NameU="Circuit breaker" Name="Interruttore circuito"/>
+	<Elem NameU="Multi-light bar" Name="Barra multi-luci"/>
+	<Elem NameU="Light bar" Name="Barra luminosa"/>
+	<Elem NameU="Downlight" Name="Luce da incasso"/>
+	<Elem NameU="Outdoor lighting" Name="Luce esterna"/>
+	<Elem NameU="Singleplex receptacle" Name="Presa singleplex"/>
+	<Elem NameU="Duplex receptacle" Name="Presa duplex"/>
+	<Elem NameU="Double Duplex Receptacle Outlet(Quad)" Name="Uscita Presa Duplex Doppia (Quad)"/>
+	<Elem NameU="Triplex Receptacle Outlet" Name="Uscita Presa Triplex"/>
+	<Elem NameU="Fourplex receptacle" Name="Presa Fourplex"/>
+	<Elem NameU="Range Outlet" Name="Presa di Gamma"/>
+	<Elem NameU="Dryer Outlet" Name="Presa per Asciugatrice"/>
+	<Elem NameU="Waterproof Receptacle Outlet" Name="Uscita Presa Impermeabile"/>
+	<Elem NameU="Switch and Convenience Outlet" Name="Presa di Convenienza con Interruttore"/>
+	<Elem NameU="Split Wired Duplex Outlet" Name="Presa Split Duplex"/>
+	<Elem NameU="Split Wired Triplex Outlet" Name="Presa Split Triplex"/>
+	<Elem NameU="Duplex Special Purpose Outlet" Name="Presa Duplex per Usi Speciali"/>
+	<Elem NameU="Dishwasher Outlet" Name="Presa per Lavastoviglie"/>
+	<Elem NameU="Drop Cord" Name="Cavo di Derivazione"/>
+	<Elem NameU="Fan Outlet" Name="Presa per Ventilatore"/>
+	<Elem NameU="Junction Box" Name="Centralina"/>
+	<Elem NameU="Lamp Holder" Name="Porta Lampada"/>
+	<Elem NameU="Lamp Holder with Pull Switch" Name="Porta Lampada con Interruttore a Strappo"/>
+	<Elem NameU="Pull Switch" Name="Interruttore a Strappo"/>
+	<Elem NameU="Vapor Discharge Lamp Switch" Name="Interruttore Lampada a Vapore"/>
+	<Elem NameU="Exit Light Outlet" Name="Uscita Luce di Sicurezza"/>
+	<Elem NameU="Clock Outlet" Name="Uscita Orologio"/>
+	<Elem NameU="Blanked Outlet" Name="Uscita Coperta"/>
+	<Elem NameU="Television Outlet" Name="Uscita per Televisore"/>
+	<Elem NameU="Exhaust Fan" Name="Ventola di Scarico"/>
+	<Elem NameU="Water Heater" Name="Scaldabagno"/>
+	<Elem NameU="Telephone Jack" Name="Jack per Telefono"/>
+	<Elem NameU="Electrical Panel" Name="Pannello Elettrico"/>
+	<Elem NameU="Battery" Name="Batteria"/>
+	<Elem NameU="Batten fluores" Name="Fluorescenti da soffitto"/>
+	<Elem NameU="Distribution box" Name="Scatola di Distribuzione"/>
+	<Elem NameU="Modular fluores" Name="Fluorescenti modulari"/>
+	<Elem NameU="Office fluores" Name="Fluorescenti da ufficio"/>
+	<Elem NameU="Pull-cord switch" Name="Interruttore a Tirante"/>
+	<Elem NameU="Emerg. light" Name="Luce di emergenza"/>
+	<Elem NameU="Emerg. sign" Name="Segnale di emergenza"/>
+	<Elem NameU="Switches" Name="Interruttori"/>
+	<Elem NameU="Dimmer switch" Name="Interruttore regolatore"/>
+	<Elem NameU="Socket outlet" Name="Presa a Muro"/>
+	<Elem NameU="Socket outlet 2" Name="Presa a Muro 2"/>
+	<Elem NameU="Telephone outlet" Name="Uscita per Telefono"/>
+	<Elem NameU="Stereo outlet" Name="Uscita per Stereo"/>
+	<Elem NameU="Ceiling fan" Name="Ventilatore da Soffitto"/>
+	<Elem NameU="Combination fan" Name="Ventilatore combinato"/>
+	<Elem NameU="Service panels" Name="Pannelli di servizio"/>
+	<Elem NameU="Thermostat" Name="Termostato"/>
+	<Elem NameU="Air conditioning" Name="Condizionatore"/>
+	<Elem NameU="Hold open unit" Name="Unità di arresto"/>
+	<Elem NameU="Detector" Name="Rilevatore"/>
+	<Elem NameU="Fire alarm" Name="Allarme antincendio"/>
+	<Elem NameU="Monitor" Name="Schermo"/>
+	<Elem NameU="Alarm" Name="Allarme"/>
+	<Elem NameU="Doorbell" Name="Campanello"/>
+	<Elem NameU="Smoke detector" Name="Rilevatore di fumo"/>
+	<Elem NameU="Household Circuit Breaker Box" Name="Cassetta Selezionatore Domestica"/>
+	<Elem NameU="Call" Name="Chiamata"/>
+	<Elem NameU="Tel" Name="Telefono"/>
+	<Elem NameU="Main control" Name="Controllo principale"/>
+	<Elem NameU="Ground" Name="Terreno"/>
+	<Elem NameU="Line" Name="Linea"/>
+	<Elem NameU="Wire" Name="Cavo"/>
+	<Elem NameU="Cut line" Name="Cavo tagliato"/>
+</Lib>

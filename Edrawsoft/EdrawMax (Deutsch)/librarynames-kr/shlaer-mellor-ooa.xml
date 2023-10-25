@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Shlaer-Mellor OOA">
+    <Elem NameU="Class Box" Name="클래스 박스"/>
+    <Elem NameU="Small Class Box" Name="작은 클래스 박스"/>
+    <Elem NameU="Published Operation" Name="게시된 작업"/>
+    <Elem NameU="Defering Operation" Name="작업 연기"/>
+    <Elem NameU="Logical Component" Name="로직 구성 요소"/>
+    <Elem NameU="Conditional Parameter" Name="조건 매개 변수"/>
+    <Elem NameU="Basis Marker" Name="기본 표시"/>
+    <Elem NameU="Exception" Name="이상"/>
+    <Elem NameU="Exception Handler" Name="이상 처리"/>
+    <Elem NameU="Parameter List" Name="매개 변수 목록"/>
+    <Elem NameU="Module" Name="모듈"/>
+    <Elem NameU="Instance Data" Name="인스턴스 데이터"/>
+    <Elem NameU="Foreign Module" Name="외부 모듈"/>
+</Lib>

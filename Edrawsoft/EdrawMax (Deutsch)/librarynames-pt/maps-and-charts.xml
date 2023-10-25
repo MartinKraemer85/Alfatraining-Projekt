@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Maps and Charts">
+	<Elem NameU="Generating station" Name="Estação de geração"/>
+	<Elem NameU="Elec/heat station" Name="Estação de calor/electrica"/>
+	<Elem NameU="Hydroelectric station" Name="Estação hidroelétrica"/>
+	<Elem NameU="Run of river" Name="Correr do rio"/>
+	<Elem NameU="With storage" Name="Com armazenamento"/>
+	<Elem NameU="With pumped storage" Name="Com armazenamento bombeado"/>
+	<Elem NameU="Thermoelectric station" Name="Estação termoelétrica"/>
+	<Elem NameU="Coal fueled station" Name="Estação de carvão"/>
+	<Elem NameU="Oil or gas fueled" Name="Movido a gás ou petróleo"/>
+	<Elem NameU="Nuclear-energy fueled" Name="Movido a energia-nuclear"/>
+	<Elem NameU="Geothermic" Name="Geotérmico"/>
+	<Elem NameU="Solar generating station" Name="Estação de geração solar"/>
+	<Elem NameU="Gas-fueled turbine" Name="Turbina movida a gás"/>
+	<Elem NameU="Reciprocating Engine" Name="Motor Alternativo"/>
+	<Elem NameU="Radio station 1" Name="Estação rádio 1"/>
+	<Elem NameU="Radio station 2" Name="Estação rádio 2"/>
+	<Elem NameU="Portable station" Name="Estação portátil"/>
+	<Elem NameU="Mobile station" Name="Estação móvel"/>
+	<Elem NameU="Direction finding" Name="Encontrar direção"/>
+	<Elem NameU="Controlling station" Name="Estação de controle"/>
+	<Elem NameU="Radio relay station" Name="Estação relé rádio"/>
+	<Elem NameU="Passive relay" Name="Relé passivo"/>
+	<Elem NameU="Space station" Name="Estação espacial"/>
+	<Elem NameU="Earth tracking station" Name="Estação de rastreamento terrestre"/>
+	<Elem NameU="Telegraph repeater" Name="Repetidor de telégrafo"/>
+	<Elem NameU="Telegraph repeater qualifiers" Name="Qualificador de repetidor de telégrafo"/>
+	<Elem NameU="Telegraph equipment" Name="Equipamento de telégrafo"/>
+	<Elem NameU="Telegraph equipment qualifiers" Name="Qualificador de equipamento de telégrafo"/>
+	<Elem NameU="Substation" Name="Subestação"/>
+	<Elem NameU="Rectifier substation" Name="Subestação retificadora"/>
+	<Elem NameU="Wind station" Name="Estação eólica"/>
+	<Elem NameU="Prime mover" Name="Motor principal"/>
+	<Elem NameU="Converting station" Name="Estação de conversão"/>
+	<Elem NameU="Switching station" Name="Estação de ligação"/>
+	<Elem NameU="Plasma Generating Station" Name="Estação de Geração de Plasma"/>
+</Lib>

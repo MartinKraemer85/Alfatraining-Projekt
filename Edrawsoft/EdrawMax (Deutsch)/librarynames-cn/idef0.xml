@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="IDEF0">
+    <Elem NameU="Process box" Name="流程实体"/>
+    <Elem NameU="Title block" Name="标题框"/>
+    <Elem NameU="N-type line" Number="2" Name="N型线条"/>
+    <Elem NameU="Text block" Name="文本块"/>
+    <Elem NameU="Node" Name="节点"/>
+    <Elem NameU="1 legged connector" Name="单向连接线"/>
+    <Elem NameU="IDEF0 connector" Number="2" Name="IDEF0 连接线"/>
+    <Elem NameU="Dynamic connector" Name="动态连接线"/>
+    <Elem NameU="Side text callout" Name="侧边说明框"/>
+</Lib>

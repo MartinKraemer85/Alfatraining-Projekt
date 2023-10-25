@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="AWS Media Services">
+	<Elem NameU="Elastic-Transcoder" Name="Flexibler Transcoder"/>
+	<Elem NameU="Kinesis-Video-Streams" Name="Motion Video Streaming"/>
+	<Elem NameU="AWS-Elemental-_MediaLive" Name="AWS Elements-Live Media"/>
+	<Elem NameU="AWS-Elemental-_MediaPackage" Name="AWS Elements Media Pack"/>
+	<Elem NameU="AWS-Elemental-_MediaStore" Name="AWS Elements Media Store"/>
+	<Elem NameU="AWS-Elemental-_MediaTailor" Name="AWS Elements Media Tailor"/>
+	<Elem NameU="AWS-Elemental-Conductor" Name="AWS-Elementleiter"/>
+	<Elem NameU="AWS-Elemental-Delta" Name="AWS-Elemente inkrementell"/>
+	<Elem NameU="AWS-Elemental-Live" Name="AWS-Elemente in Echtzeit"/>
+	<Elem NameU="AWS-Elemental-MediaConnect" Name="AWS Elements Media Connection"/>
+	<Elem NameU="AWS-Elemental-MediaLive" Name="AWS-Elemente Echtzeitmedien"/>
+	<Elem NameU="AWS-Elemental-Server" Name="AWS Element Server"/>
+	<Elem NameU="Media-Services" Name="Mediendienst"/>
+</Lib>

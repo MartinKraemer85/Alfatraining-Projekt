@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="3D Network Diagram Shapes">
+	<Elem NameU="Oblique connector" Name="Conector Oblíquo"/>
+	<Elem NameU="Oblique connector 2" Name="Conector Oblíquo 2"/>
+	<Elem NameU="Flexi connector" Name="Conector flexi"/>
+	<Elem NameU="Line connector" Name="Conector de Linha"/>
+	<Elem NameU="1U Server" Name="Servidor 1U"/>
+	<Elem NameU="1U Server Stack" Name="Conjunto de Servidores 1U"/>
+	<Elem NameU="2U Server" Name="Servidor 2U"/>
+	<Elem NameU="2U Server Stack" Name="Conjunto de Servidores 2U"/>
+	<Elem NameU="Switch" Name="Interruptor"/>
+	<Elem NameU="Switch Pool" Name="Piscina de Interruptores"/>
+	<Elem NameU="Modem Pool" Name="Piscina de Modem"/>
+	<Elem NameU="Terminal Server" Name="Servidor Terminal"/>
+	<Elem NameU="PC" Name="PC"/>
+	<Elem NameU="PC 2" Name="PC 2"/>
+	<Elem NameU="Laptop" Name="Portátil"/>
+	<Elem NameU="Server" Name="Servidor"/>
+	<Elem NameU="Server 2" Name="Servidor 2"/>
+	<Elem NameU="Computer Lab" Name="Laboratório de Informática"/>
+	<Elem NameU="Computer Lab 2" Name="Laboratório de Informática 2"/>
+	<Elem NameU="Switch Symbol" Name="Símbolo de Interruptor"/>
+	<Elem NameU="ISDN Switch" Name="Interruptor ISDN"/>
+	<Elem NameU="Router" Name="Router"/>
+	<Elem NameU="CDDI-FDDI concentrator" Name="Concentrador CDDI-FDDI"/>
+	<Elem NameU="Bridge" Name="Ponte"/>
+	<Elem NameU="Hub" Name="Centro"/>
+	<Elem NameU="Gateway" Name="Porta"/>
+	<Elem NameU="WAN" Name="WA"/>
+	<Elem NameU="Host" Name="Anfitrião"/>
+	<Elem NameU="Office" Name="Escritório"/>
+	<Elem NameU="Firewall" Name="Firewall"/>
+	<Elem NameU="Ring" Name="Anel"/>
+	<Elem NameU="Internet" Name="Internet"/>
+	<Elem NameU="Internet Cloud" Name="Cloud da Internet"/>
+	<Elem NameU="Hacker" Name="Hacker"/>
+	<Elem NameU="No hackers" Name="Nenhum hacker"/>
+	<Elem NameU="Network security system" Name="Sistema de segurança de redes"/>
+	<Elem NameU="Network Planning" Name="Planeamento de Redes"/>
+	<Elem NameU="Curved Connector" Name="Conector Curvo"/>
+	<Elem NameU="Token Ring" Name="Token Ring"/>
+	<Elem NameU="Arrow 1" Name="Seta 1"/>
+	<Elem NameU="Arrow 2" Name="Seta 2"/>
+	<Elem NameU="Arrow 3" Name="Seta 3"/>
+	<Elem NameU="Arrow 4" Name="Seta 4"/>
+	<Elem NameU="Center drag circle" Name="Círculo Arrastado do Centro"/>
+	<Elem NameU="Center drag circle 2" Name="Círculo Arrastado do Centro 2"/>
+</Lib>

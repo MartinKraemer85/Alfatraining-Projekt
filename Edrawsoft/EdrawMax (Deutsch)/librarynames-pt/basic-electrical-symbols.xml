@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Basic Electrical Symbols">
+	<Elem NameU="Earth electrode" Name="Elétrodo Terrestre"/>
+	<Elem NameU="Protective earth" Name="Proteção Terra"/>
+	<Elem NameU="Signal ground" Name="Sinal de Terra"/>
+	<Elem NameU="Cell" Name="Célula"/>
+	<Elem NameU="Battery" Name="Bateria"/>
+	<Elem NameU="Source" Name="Fonte"/>
+	<Elem NameU="Ideal source" Name="Fonte ideal"/>
+	<Elem NameU="Resister" Name="Resistor"/>
+	<Elem NameU="Alternate resister" Name="Resistor Alternativo"/>
+	<Elem NameU="Variable resister" Name="Resistor Variável"/>
+	<Elem NameU="Pre-set resister" Name="Resistor Pré-configurado"/>
+	<Elem NameU="Pre-set potentiometer" Name="Potenciômetro Pré-configurado"/>
+	<Elem NameU="Potentiometer resister" Name="Resistor de potenciômetro"/>
+	<Elem NameU="Attenuator" Name="Atenuador"/>
+	<Elem NameU="Contact" Name="Contato"/>
+	<Elem NameU="Capacitor" Name="Capacitador"/>
+	<Elem NameU="Capacitor 2" Name="Capacitador 2"/>
+	<Elem NameU="Capacitor with Step" Name="Capacitador com Passo"/>
+	<Elem NameU="Capacitor with tapping" Name="Capacitador com Tomada para Derivação"/>
+	<Elem NameU="Various connections" Name="Várias conexões"/>
+	<Elem NameU="Accumulator" Name="Acumulador"/>
+	<Elem NameU="Antenna" Name="Antena"/>
+	<Elem NameU="Antenna 2" Name="Antena 2"/>
+	<Elem NameU="Diode" Name="Diodo"/>
+	<Elem NameU="Diode LED" Name="LED de Diodo"/>
+	<Elem NameU="Loop antenna" Name="Antena de ciclo"/>
+	<Elem NameU="Loop antenna 2" Name="Antena de ciclo 2"/>
+	<Elem NameU="Co-Ax" Name="Co-Ax"/>
+	<Elem NameU="Crystal" Name="Cristal"/>
+	<Elem NameU="Circuit breaker" Name="Disjuntor de circuito"/>
+	<Elem NameU="Fuse" Name="Fusível"/>
+	<Elem NameU="Fuse 2" Name="Fusível 2"/>
+	<Elem NameU="Fuse 3" Name="Fusível 3"/>
+	<Elem NameU="Fuse (IEC)" Name="Fusível (IEC)"/>
+	<Elem NameU="Fuse (IEEE)" Name="Fusível (IEEE)"/>
+	<Elem NameU="Fuse (obsolete)" Name="Fusível (obsoleto)"/>
+	<Elem NameU="Generic component" Name="Componente genérico"/>
+	<Elem NameU="Transducer" Name="Transdutor"/>
+	<Elem NameU="Transducer 2" Name="Transdutor 2"/>
+	<Elem NameU="Inductor" Name="Indutor"/>
+	<Elem NameU="Half inductor" Name="Meio indutor"/>
+	<Elem NameU="Heater" Name="Aquecedor"/>
+	<Elem NameU="Current transformer" Name="Transformador de corrente"/>
+	<Elem NameU="Potential transforming" Name="Transformando potencial"/>
+	<Elem NameU="Power transformer" Name="Transformador de energia"/>
+	<Elem NameU="Pickup head" Name="Cabeça de coleta"/>
+	<Elem NameU="Pulse" Name="Pulso"/>
+	<Elem NameU="Alternating pulse" Name="Pulso alternado"/>
+	<Elem NameU="Saw tooth" Name="Dente de serra"/>
+	<Elem NameU="Step function" Name="Função de passo"/>
+	<Elem NameU="Explosive squib" Name="Rojão explosivo"/>
+	<Elem NameU="Sensing link squib" Name="Rojão de lgação de deteção"/>
+	<Elem NameU="Squib ignitor" Name="Ignição de rojão"/>
+	<Elem NameU="Surge protectors 2" Name="Protetores de surto 2"/>
+	<Elem NameU="Indicator" Name="Indicador"/>
+	<Elem NameU="Switch" Name="Interruptor"/>
+	<Elem NameU="Ammeter switch" Name="Interruptor de amperímetro"/>
+	<Elem NameU="Voltmeter switch" Name="Interruptor de voltímetro"/>
+	<Elem NameU="Motor" Name="Motor"/>
+	<Elem NameU="Ammeter" Name="Amperímetro"/>
+	<Elem NameU="Voltmeter" Name="Voltímetro"/>
+	<Elem NameU="Generator" Name="Gerador"/>
+	<Elem NameU="Varmeter" Name="Varímetro"/>
+	<Elem NameU="HZ" Name="HZ"/>
+	<Elem NameU="Thermometer" Name="Termômetro"/>
+	<Elem NameU="Hourmeter" Name="Horímetro"/>
+	<Elem NameU="Material" Name="Material"/>
+	<Elem NameU="Component" Name="Componente"/>
+	<Elem NameU="Delay element" Name="Elemento de atraso"/>
+	<Elem NameU="Surge protectors" Name="Protetores de surto"/>
+	<Elem NameU="Permanent magnet" Name="Magneto permanente"/>
+	<Elem NameU="Magnet core" Name="Núcleo de magneto"/>
+	<Elem NameU="Ferrite core" Name="Núcleo de ferrite"/>
+	<Elem NameU="Distribution panel" Name="Painel de distribuição"/>
+	<Elem NameU="Instrumentation panel" Name="Painel de instrumentação"/>
+	<Elem NameU="Igniter plug" Name="Tomada de ignição"/>
+	<Elem NameU="Bell" Name="Campainha"/>
+	<Elem NameU="Buzzer" Name="Buzina"/>
+	<Elem NameU="Remote control station" Name="Estação de controle remoto"/>
+	<Elem NameU="Thermal element" Name="Elemento térmico"/>
+	<Elem NameU="Thermocouple" Name="Termopar"/>
+	<Elem NameU="Thermopile" Name="Termopilha"/>
+	<Elem NameU="Lamp" Name="Lâmpada"/>
+	<Elem NameU="Lamp 2" Name="Lâmpada 2"/>
+	<Elem NameU="Lamp 3" Name="Lâmpada 3"/>
+	<Elem NameU="Lamp 4" Name="Lâmpada 4"/>
+	<Elem NameU="Neon lamp" Name="Lâmpada neon"/>
+	<Elem NameU="Illuminating bulb" Name="Lâmpada de iluminação"/>
+	<Elem NameU="Fluorescent lamp" Name="Lâmpada fluorescente"/>
+	<Elem NameU="Speaker" Name="Alto-falante"/>
+	<Elem NameU="Microphone" Name="Microfone"/>
+	<Elem NameU="Microphone 2" Name="Microfone 2"/>
+	<Elem NameU="Oscillator" Name="Oscilador"/>
+	<Elem NameU="AC source" Name="Fonte AC"/>
+	<Elem NameU="DC source" Name="Fonte DC"/>
+	<Elem NameU="Constant source" Name="Fonte constante"/>
+	<Elem NameU="Junction box" Name="Caixa de junção"/>
+	<Elem NameU="Straight junction box" Name="Caixa de junção direta"/>
+	<Elem NameU="Equipotential" Name="Equipotencial"/>
+	<Elem NameU="Frame" Name="Moldura"/>
+	<Elem NameU="Protected earth electrode" Name="Elétrodo terrestre protegido"/>
+</Lib>

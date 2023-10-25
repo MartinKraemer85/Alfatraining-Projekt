@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Fitness">
+    <Elem NameU="Running on Treadmill 1" Name="在跑步機上跑步1"/>
+    <Elem NameU="Running on Treadmill 2" Name="在跑步機上跑步2"/>
+    <Elem NameU="Fitness Man" Name="健身的人"/>
+    <Elem NameU="Yoga 1" Name="瑜伽1"/>
+    <Elem NameU="Yoga 2" Name="瑜伽2"/>
+    <Elem NameU="Yoga 3" Name="瑜伽3"/>
+    <Elem NameU="Yoga 4" Name="瑜伽4"/>
+    <Elem NameU="Exercise Bike" Name="室內健身自行車"/>
+    <Elem NameU="Outdoor Fitness Equipment" Name="戶外健身設備"/>
+    <Elem NameU="Outdoor Rings" Name="戶外吊環"/>
+    <Elem NameU="Gym Bag 1" Name="健身包1"/>
+    <Elem NameU="Gym Bag 2" Name="健身包2"/>
+    <Elem NameU="Fitness With Short Sleeves" Name="短袖健身衣"/>
+    <Elem NameU="Gym Shorts" Name="健身短褲"/>
+    <Elem NameU="Fitness Coat" Name="健身外套"/>
+    <Elem NameU="Fitness Vest" Name="健身背心"/>
+    <Elem NameU="Fitness Short Skirt" Name="健身短裙"/>
+    <Elem NameU="Fitness Hat" Name="健身帽"/>
+    <Elem NameU="Dumbbell" Number="2" Name="啞鈴"/>
+    <Elem NameU="Small Dumbbell" Name="小啞鈴"/>
+    <Elem NameU="Bathroom Scale" Name="體重磅秤"/>
+    <Elem NameU="Fitness Schedule" Name="健身計劃"/>
+    <Elem NameU="Tape Measure" Name="皮尺"/>
+    <Elem NameU="Stopwatch" Name="秒錶"/>
+    <Elem NameU="Yoga Mat" Name="瑜伽墊"/>
+    <Elem NameU="Skipping Rope" Name="跳繩"/>
+    <Elem NameU="Hula Hoop" Name="呼啦圈"/>
+    <Elem NameU="Tubing" Name="拉力器"/>
+    <Elem NameU="Fitball" Name="健身球"/>
+    <Elem NameU="Sports Shoes" Name="運動鞋"/>
+    <Elem NameU="Towel" Name="毛巾"/>
+    <Elem NameU="Fitness Gloves" Name="健身手套"/>
+    <Elem NameU="Fitness Kettle" Name="運動水壺"/>
+    <Elem NameU="Health Drink" Name="保健飲料"/>
+    <Elem NameU="Care Of Soda" Name="保健汽水"/>
+</Lib>

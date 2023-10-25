@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="AWS Customer Engagement">
+	<Elem NameU="Connect" Name="Collegare"/>
+	<Elem NameU="Pinpoint" Name="Pinpoint"/>
+	<Elem NameU="Simple-Email-Service-SES" Name="Semplice servizio di posta elettronica SES"/>
+	<Elem NameU="Customer-Engagement" Name="Coinvolgimento del cliente"/>
+	<Elem NameU="Simple-Email-Service-SES_Email" Name="Servizio di posta elettronica semplice SES Email  "/>
+</Lib>

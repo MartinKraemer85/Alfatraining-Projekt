@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TemplateNames>
+	<Elem NameU="Business Diagram" Name="ビジネス図"/>
+	<Elem NameU="Smart Charts" Name="基本図"/>
+	<Elem NameU="Chart" Name="図表"/>
+	<Elem NameU="Database Modeling" Name="データベース"/>
+	<Elem NameU="Engineering" Name="エンジニアリング"/>
+	<Elem NameU="Electrical" Name="電気"/>
+	<Elem NameU="ERD &amp; Database" Name="ERD &amp;データベース"/>																	
+	<Elem NameU="Fashion Design" Name="ファッションデザイン"/>
+	<Elem NameU="Family Tree" Name="ジェノグラム（家系図）"/>	
+	<Elem NameU="Flowchart" Name="フローチャート"/>
+	<Elem NameU="Floor Plan" Name="間取り"/>
+	<Elem NameU="General" Name="基本図形"/>
+	<Elem NameU="Graphs and Charts" Name="グラフとチャート"/>
+	<Elem NameU="Icons" Name="アイコン"/>
+	<Elem NameU="Illustration" Name="イラスト"/>
+	<Elem NameU="Maps" Name="地図"/>
+	<Elem NameU="Marketing" Name="マーケティング"/>
+	<Elem NameU="Mind Map" Name="マインドマップ"/>
+	<Elem NameU="Roadmap" Name="ロードマップ"/>
+	<Elem NameU="Amazon Web Services" Name="アマゾンウェブサービス(AWS)"/>
+	<Elem NameU="Cisco Network" Name="Ciscoネットワーク"/>
+	<Elem NameU="Google Cloud" Name="Googleクラウド"/>
+	<Elem NameU="MS Azure Cloud" Name="マイクロソフト Azureクラウド"/>	
+	<Elem NameU="Alibaba Cloud" Name="Alibabaクラウド"/>
+	<Elem NameU="Network Diagram" Name="ネットワーク図"/>
+	<Elem NameU="Organizational Chart" Name="組織図"/>
+	<Elem NameU="Project Management" Name="プロジェクト管理"/>		
+	<Elem NameU="Science" Name="科学と教育"/>
+	<Elem NameU="Software" Name="ソフトウェア工学"/>
+	<Elem NameU="Wireframe" Name="ワイヤーフレーム"/>
+	<Elem NameU="Forms" Name="フォーム"/>
+	<Elem NameU="Business Card" Name="名刺"/>
+	<Elem NameU="Presentation" Name="プレゼンテーション"/>
+	<Elem NameU="Clip Art" Name="クリップアート"/>
+	<Elem NameU="Industrial Automation" Name="産業自動化"/>			
+	<Elem NameU="P&amp;&amp;ID Symbols" Name="P&amp;&amp;ID シンボル"/>
+	<Elem NameU="Card" Name="カード"/>
+	<Elem NameU="ERD and Database" Name="ERDとデータベース"/>
+	<Elem NameU="Infographic" Name="インフォグラフィック"/>
+	<Elem NameU="Map" Name="地図"/>
+	<Elem NameU="PID" Name="PID"/>
+	<Elem NameU="Graphic Design" Name="グラフィックデザイン"/>
+	<Elem NameU="Graphic Organizer" Name="グラフィックオーガナイザー"/>	
+	<Elem NameU="Basic Shapes" Name="基本形状"/>
+	<Elem NameU="Flowchart Shapes" Name="フローチャート図形"/>
+	<Elem NameU="Cloud Service" Name="クラウドサービス"/>
+	<Elem NameU="Smart Shapes" Name="スマート図形"/>
+	<Elem NameU="Basic" Name="基本"/>
+	<Elem NameU="Business" Name="ビジネス"/>
+</TemplateNames>
+

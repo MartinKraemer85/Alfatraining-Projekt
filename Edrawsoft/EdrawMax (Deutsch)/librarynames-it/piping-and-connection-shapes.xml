@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Piping and Connection Shapes">
+	<Elem NameU="Major pipeline" Name="Canale principale"/>
+	<Elem NameU="Connect pipeline" Name="Canale di connessione"/>
+	<Elem NameU="Major Straight line pipe" Name="Canale dritto principale"/>
+	<Elem NameU="Straight line pipe" Name="Canale dritto"/>
+	<Elem NameU="Process connection" Name="Connessione processo"/>
+	<Elem NameU="Future line" Name="Linea futura"/>
+	<Elem NameU="Battery limit line" Name="Linea limite batteria"/>
+	<Elem NameU="Electronic serial" Name="Seriale elettronico"/>
+	<Elem NameU="Heat trace" Name="Traccia termica"/>
+	<Elem NameU="Side by side" Name="Da un lato all'altro"/>
+	<Elem NameU="Top-bottom" Name="Dall'alto al basso"/>
+	<Elem NameU="One-to-many" Name="Da uno a molti"/>
+	<Elem NameU="Traced line" Name="Linea tratteggiata"/>
+	<Elem NameU="Multi-lines" Name="Più linee"/>
+	<Elem NameU="Mid arrow" Name="Freccia centrale"/>
+	<Elem NameU="Multi-lines elbow" Name="Più linee ad angolo"/>
+	<Elem NameU="Top to top" Name="Dall'alto all'alto"/>
+	<Elem NameU="Electrical signal" Name="Segnale elettrico"/>
+	<Elem NameU="Sonic signal" Name="Segnale sonico"/>
+	<Elem NameU="Nuclear" Name="Nucleare"/>
+	<Elem NameU="Pneumatic control" Name="Controllo pneumatico"/>
+	<Elem NameU="Pneumatic binary signal line" Name="Linea segnale binario pneumatico"/>
+	<Elem NameU="Electric signal line" Name="Linea segnale elettronico"/>
+	<Elem NameU="Electric binary signal line" Name="Linea segnale elettronico binario"/>
+	<Elem NameU="Hydraulic signal line" Name="Linea segnale idraulico"/>
+	<Elem NameU="Sleeve joint" Name="Manicotto"/>
+	<Elem NameU="General joint" Name="Giunto generale"/>
+	<Elem NameU="Butt weld" Name="Saldatura a testa"/>
+	<Elem NameU="Welded connection" Name="Connessione saldata"/>
+	<Elem NameU="Mechanical Link" Name="Connessione meccanica"/>
+	<Elem NameU="Soldered/ Solvent" Name="Saldatura / Solvente"/>
+	<Elem NameU="Double Containment" Name="Doppio Contenimento"/>
+	<Elem NameU="Flange" Name="Flangia"/>
+	<Elem NameU="End caps" Name="Terminazioni"/>
+	<Elem NameU="End caps 2" Name="Terminazioni 2"/>
+	<Elem NameU="Breather" Name="Respiratore"/>
+	<Elem NameU="Drip pan elbow" Name="Raccoglitore ad angolo"/>
+	<Elem NameU="Union" Name="Unione"/>
+	<Elem NameU="Socket weld" Name="Saldatura a orbita"/>
+	<Elem NameU="Screwed connection" Name="Connessione avvitata"/>
+	<Elem NameU="Orifice plate" Name="Diaframma"/>
+	<Elem NameU="Flanged dummy cover" Name="Copertura fittizia flangiata"/>
+	<Elem NameU="Electrical Bounded" Name="Rivestimento flangiato"/>
+	<Elem NameU="Slope requirements line" Name="Linea inclinata"/>
+	<Elem NameU="Reducer" Name="Riduttore"/>
+	<Elem NameU="Electrically insulated" Name="Isolamento elettrico"/>
+	<Elem NameU="In-line mixer" Name="Miscelatore in linea"/>
+	<Elem NameU="Separator" Name="Separatore"/>
+	<Elem NameU="Bursting disc" Name="Disco di rottura"/>
+	<Elem NameU="Flame arrester" Name="Parafiamma"/>
+	<Elem NameU="Drain silencer" Name="Silenziatore drenaggio"/>
+	<Elem NameU="Exhaust silencer" Name="Silenziatore scarico"/>
+	<Elem NameU="Strainer" Name="Filtro"/>
+	<Elem NameU="Exhaust head" Name="Testa di scarico"/>
+	<Elem NameU="Triangle separator" Name="Separatore triangolare"/>
+	<Elem NameU="Triangle separator 2" Name="Separatore triangolare"/>
+	<Elem NameU="Tundish" Name="Paniera"/>
+	<Elem NameU="Open vent" Name="Ventola aperta"/>
+	<Elem NameU="Syphon drain" Name="Tubo di scarico a sifone"/>
+	<Elem NameU="Hydrant" Name="Idrante"/>
+	<Elem NameU="Swivel joint" Name="Giunto rotante"/>
+	<Elem NameU="Expansion joint" Name="Giunto di espansione"/>
+	<Elem NameU="Hose" Name="Manichetta"/>
+	<Elem NameU="Flexible hose" Name="Manichetta flessibile"/>
+	<Elem NameU="Flow indicator" Name="Indicatore di flusso"/>
+	<Elem NameU="Bell mouth" Name="Apertura a campana"/>
+	<Elem NameU="Removable spool" Name="Rocchetto removibile"/>
+	<Elem NameU="Basket strainer" Name="Filtro a cesto"/>
+	<Elem NameU="Damper" Name="Smorzatore"/>
+	<Elem NameU="Breakthrough" Name="Sfondamento"/>
+	<Elem NameU="Orifice" Name="Orifizio"/>
+	<Elem NameU="Clamped flange coupling" Name="Raccordo Flangiato"/>
+	<Elem NameU="Compensate" Name="Compensazione"/>
+	<Elem NameU="Coupling" Name="Raccordo"/>
+	<Elem NameU="Y-type strainer" Name="Filtro di tipo Y"/>
+	<Elem NameU="Y-strainer" Name="Filtro a Y"/>
+	<Elem NameU="Diverter valve" Name="Valvola di deviazione"/>
+	<Elem NameU="Blind disc" Name="Disco a strappo"/>
+	<Elem NameU="Spectacle blind" Name="Disco a otto"/>
+	<Elem NameU="Interchangeable blind" Name="Disco interscambiabile"/>
+	<Elem NameU="Open disc" Name="Disco aperto"/>
+	<Elem NameU="Pulsation dampener" Name="Smorzatore a pulsazione"/>
+	<Elem NameU="Duplex strainer" Name="Filtro duplex"/>
+	<Elem NameU="Vent silencer" Name="Silenziatore ventola"/>
+	<Elem NameU="Cone strainer" Name="Smorzatore conico"/>
+	<Elem NameU="Detonation arrestor" Name="Anti-detonazione"/>
+	<Elem NameU="Flame arrestor" Name="Antifiamme"/>
+	<Elem NameU="In-line silencer" Name="Silenziatore in linea"/>
+	<Elem NameU="Steam trap" Name="Scaricatore di condensa"/>
+	<Elem NameU="Desuperheater" Name="De-surriscaldatore"/>
+	<Elem NameU="Ejector or eductor" Name="Eiettore o abduttore"/>
+	<Elem NameU="Rotary valve" Name="Valvola rotativa"/>
+	<Elem NameU="Expansion joint 2" Name="Giunto di espansione 2"/>
+	<Elem NameU="Explosion-Proof flame arrestor" Name="Antifiamme a prova di esplosione"/>
+	<Elem NameU="Detonation-Proof flame arrestor" Name="Antifiamme a prova di detonazione"/>
+	<Elem NameU="Fire-Resistant flame arrestor" Name="Anti-fiamme resistente al fuoco"/>
+	<Elem NameU="Fire-Resistant, Explosion-Proof flame arrestor" Name="Antifiamme resistente alle esplosioni e al fuoco"/>
+	<Elem NameU="Pilot operated relief valve with renote sensor" Name="Valvola di scarico pilotata con sensore remoto"/>
+	<Elem NameU="Valve manifold" Name="Collettore di valvole"/>
+</Lib>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="AWS App Services">
+	<Elem NameU="Cognito" name=""/>
+	<Elem NameU="Mobile Analytics" Name="Análise de Mobile"/>
+	<Elem NameU="APP Gateway" Name="Porta de Entrada da APP"/>
+	<Elem NameU="WorkDocs" Name="Documentos de Trabalho"/>
+	<Elem NameU="Kinesis" Name="Kinesis"/>
+	<Elem NameU="Config" Name="Config"/>
+	<Elem NameU="Directory Service" Name="Serviço de Diretórios"/>
+	<Elem NameU="Trusted Advisor" Name="Consultor Confiável"/>
+	<Elem NameU="CloudSearch SDF metadata" Name="Metadados de Procura na Cloud SDF"/>
+	<Elem NameU="CloudSearch" Name="Procura na Cloud"/>
+	<Elem NameU="Elastic Transcoder" Name="Transcodificador Elástico"/>
+	<Elem NameU="Email" Name="Email"/>
+	<Elem NameU="SES" Name="SES"/>
+	<Elem NameU="SNS Email Notification" Name="Notificação de Email SNS"/>
+	<Elem NameU="HTTP Notification" Name="Notificação HTTP"/>
+	<Elem NameU="SNS Topic" Name="Tópico SNS"/>
+	<Elem NameU="SNS" Name="SNS"/>
+	<Elem NameU="SQS Message" Name="Mensagem SQS"/>
+	<Elem NameU="SQS Queue" Name="Fila SQS"/>
+	<Elem NameU="SQS" Name="SQS"/>
+	<Elem NameU="SWF Decider" Name="Decisor SWF"/>
+	<Elem NameU="SWF Worker" Name="Trabalhador SWF"/>
+	<Elem NameU="SWF" Name="SWF"/>
+	<Elem NameU="Stream" Name="Stream"/>
+</Lib>

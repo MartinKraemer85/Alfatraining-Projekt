@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Finance">
+	<Elem NameU="Global" Name="Global"/>
+	<Elem NameU="Research" Name="Pesquisa"/>
+	<Elem NameU="International" Name="Internacional"/>
+	<Elem NameU="Hot Air Balloon" Name="Balão de Ar Quente"/>
+	<Elem NameU="City" Name="Cidade"/>
+	<Elem NameU="Skyscraper" Name="Arranha-Céus"/>
+	<Elem NameU="Branch" Name="Filial"/>
+	<Elem NameU="Business Office" Name="Escritório de Negócios"/>
+	<Elem NameU="Purchase" Name="Comprar"/>
+	<Elem NameU="Warehouse" Name="Armazém"/>
+	<Elem NameU="Goods" Name="Bens"/>
+	<Elem NameU="Goods 2" Name="Bens 2"/>
+	<Elem NameU="Labor" Name="Trabalho"/>
+	<Elem NameU="CEO" Name="CEO"/>
+	<Elem NameU="CEO 2" Name="CEO 2"/>
+	<Elem NameU="Communication" Name="Comunicação"/>
+	<Elem NameU="Customer Service" Name="Serviço de Apoio ao Cliente"/>
+	<Elem NameU="Customer Service 2" Name="Serviço de Apoio ao Cliente 2"/>
+	<Elem NameU="Direction" Name="Direção"/>
+	<Elem NameU="Competition" Name="Competição"/>
+	<Elem NameU="Team Work" Name="Trabalho de Equipa"/>
+	<Elem NameU="Binding" Name="Vinculativo"/>
+	<Elem NameU="Invoice" Name="Fatura"/>
+	<Elem NameU="Letter" Name="Carta"/>
+	<Elem NameU="Award" Name="Prémio"/>
+	<Elem NameU="Award 2" Name="Prémio 2"/>
+	<Elem NameU="Income" Name="Rendimento"/>
+	<Elem NameU="Expenses" Name="Despesas"/>
+	<Elem NameU="Cost" Name="Custo"/>
+	<Elem NameU="Tax" Name="Tax"/>
+	<Elem NameU="R &amp;amp; D" Name="R &amp;amp; D"/>
+	<Elem NameU="Cash Register" Name="Caixa Registadora"/>
+	<Elem NameU="Gold Bullion" Name="Barras de Ouro"/>
+	<Elem NameU="Silver Bullion" Name="Barras de Prata"/>
+	<Elem NameU="Diamond" Name="Diamante"/>
+	<Elem NameU="Cash" Name="Dinheiro"/>
+	<Elem NameU="Coin" Name="Moeda"/>
+	<Elem NameU="Deposit" Name="Depósito"/>
+	<Elem NameU="Check" Name="Cheque"/>
+	<Elem NameU="Bank Card" Name="Cartão Bancário"/>
+	<Elem NameU="Credit Card" Name="Cartão de Crédito"/>
+	<Elem NameU="Money" Name="Dinheiro"/>
+	<Elem NameU="Cash Payment" Name="Pagamento em Dinheiro"/>
+	<Elem NameU="Online Payment" Name="Pagamento Online"/>
+	<Elem NameU="Mobile Payment" Name="Pagamento Móvel"/>
+	<Elem NameU="Mail Payment" Name="Pagamento por Correio"/>
+	<Elem NameU="Accounting" Name="Contabilidade"/>
+	<Elem NameU="Golden Eggs" Name="Ovos de Ouro"/>
+	<Elem NameU="Investment" Name="Investimento"/>
+	<Elem NameU="Bonds" Name="Obrigações"/>
+	<Elem NameU="Stock" Name="Ação"/>
+	<Elem NameU="Data" Name="Dados"/>
+	<Elem NameU="Auction" Name="Leilão"/>
+	<Elem NameU="Balance 2" Name="Saldo 2"/>
+	<Elem NameU="Antique" Name="Antiquário"/>
+	<Elem NameU="Bank" Name="Banco"/>
+	<Elem NameU="Safe" Name="Cofre"/>
+	<Elem NameU="Security 1" Name="Segurança 1"/>
+	<Elem NameU="Security 2" Name="Segurança 2"/>
+	<Elem NameU="Balance 1" Name="Saldo 1"/>
+	<Elem NameU="Roulette" Name="Roleta"/>
+	<Elem NameU="Choice" Name="Escolha"/>
+	<Elem NameU="Hourglass" Name="Ampulheta"/>
+	<Elem NameU="Service" Name="Serviço"/>
+	<Elem NameU="Steering Wheel" Name="Volante"/>
+	<Elem NameU="Gold Coin" Name="Moeda de Ouro"/>
+	<Elem NameU="Savings" Name="Poupanças"/>
+	<Elem NameU="Gold Bars" Name="Barras de Ouro"/>
+	<Elem NameU="Gold ingot" Name="Lingote de Ouro"/>
+	<Elem NameU="Wallet" Name="Carteira"/>
+	<Elem NameU="Money Bag" Name="Saco de Dinheiro"/>
+	<Elem NameU="Cash Box" Name="Caixa de Dinheiro"/>
+	<Elem NameU="Dollar Exchange" Name="Câmbio de Dólares"/>
+	<Elem NameU="Return on Investment" Name="Retorno do Investimento"/>
+	<Elem NameU="Dollar" Name="Dólar"/>
+	<Elem NameU="RMB" Name="RMB"/>
+	<Elem NameU="Target" Name="Alvo"/>
+	<Elem NameU="Law Hammer" Name="Martelo da Lei"/>
+	<Elem NameU="Scales of Justice" Name="Balança da Justiça"/>
+	<Elem NameU="Analysis" Name="Análise"/>
+	<Elem NameU="Dollar Security" Name="Segurança do Dólar"/>
+	<Elem NameU="Reports" Name="Relatórios"/>
+	<Elem NameU="Loss" Name="Perda"/>
+	<Elem NameU="Profit" Name="Lucro"/>
+	<Elem NameU="Pie Chart" Name="Gráfico de Tarte"/>
+	<Elem NameU="Exchange" Name="Câmbio"/>
+	<Elem NameU="Loan" Name="Empréstimo"/>
+	<Elem NameU="Security" Name="Segurança"/>
+</Lib>

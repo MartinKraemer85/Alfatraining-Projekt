@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="3D Network Diagram Shapes">
+	<Elem NameU="Oblique connector" Name="Connettore obliquo"/>
+	<Elem NameU="Oblique connector 2" Name="Connettore obliquo 2"/>
+	<Elem NameU="Flexi connector" Name="Connettore Flexi"/>
+	<Elem NameU="Line connector" Name="Connettore a linea"/>
+	<Elem NameU="1U Server" Name="Server 1U"/>
+	<Elem NameU="1U Server Stack" Name="Stack di Server 1U"/>
+	<Elem NameU="2U Server" Name="Server 2U"/>
+	<Elem NameU="2U Server Stack" Name="Stack di Server 2U"/>
+	<Elem NameU="Switch" Name="Interruttore"/>
+	<Elem NameU="Switch Pool" Name="Gruppo di Interruttori"/>
+	<Elem NameU="Modem Pool" Name="Gruppo di Modem"/>
+	<Elem NameU="Terminal Server" Name="Server Terminale"/>
+	<Elem NameU="PC" Name="PC"/>
+	<Elem NameU="PC 2" Name="PC 2"/>
+	<Elem NameU="Laptop" Name="Laptop"/>
+	<Elem NameU="Server" Name="Server"/>
+	<Elem NameU="Server 2" Name="Server 2"/>
+	<Elem NameU="Computer Lab" Name="Laboratorio Informatico"/>
+	<Elem NameU="Computer Lab 2" Name="Laboratorio Informatico 2"/>
+	<Elem NameU="Switch Symbol" Name="Simbolo Interruttore"/>
+	<Elem NameU="ISDN Switch" Name="Interruttore ISDN"/>
+	<Elem NameU="Router" Name="Router"/>
+	<Elem NameU="CDDI-FDDI concentrator" Name="Concentratore CDDI-FDDI"/>
+	<Elem NameU="Bridge" Name="Ponte"/>
+	<Elem NameU="Hub" Name="Hub"/>
+	<Elem NameU="Gateway" Name="Gateway"/>
+	<Elem NameU="WAN" Name="WAN"/>
+	<Elem NameU="Host" Name="Host"/>
+	<Elem NameU="Office" Name="Ufficio"/>
+	<Elem NameU="Firewall" Name="Firewall"/>
+	<Elem NameU="Ring" Name="Anello"/>
+	<Elem NameU="Internet" Name="Internet"/>
+	<Elem NameU="Internet Cloud" Name="Internet Cloud"/>
+	<Elem NameU="Hacker" Name="Hacker"/>
+	<Elem NameU="No hackers" Name="Non ci sono hacker"/>
+	<Elem NameU="Network security system" Name="Sistema di sicurezza di rete"/>
+	<Elem NameU="Network Planning" Name="Pianificazione Rete"/>
+	<Elem NameU="Curved Connector" Name="Connettore Curvo"/>
+	<Elem NameU="Token Ring" Name="Rete ad Anello"/>
+	<Elem NameU="Arrow 1" Name="Freccia 1"/>
+	<Elem NameU="Arrow 2" Name="Freccia 2"/>
+	<Elem NameU="Arrow 3" Name="Freccia 3"/>
+	<Elem NameU="Arrow 4" Name="Freccia 4"/>
+	<Elem NameU="Center drag circle" Name="Cerchio verso centro"/>
+	<Elem NameU="Center drag circle 2" Name="Cerchio verso centro 2"/>
+</Lib>

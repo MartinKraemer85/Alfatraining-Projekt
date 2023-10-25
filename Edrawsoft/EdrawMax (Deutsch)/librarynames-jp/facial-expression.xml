@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Facial Expression">
+	<Elem NameU="Neutral" Name="無表情 "/>
+	<Elem NameU="LOL" Name="笑顔 "/>
+	<Elem NameU="Ashtonished" Name="驚き "/>
+	<Elem NameU="Kissing heart" Name="キス "/>
+	<Elem NameU="Bummed" Name="困る "/>
+	<Elem NameU="Crying with laughter" Name="泣き笑い "/>
+	<Elem NameU="No words" Name="黙る "/>
+	<Elem NameU="Laughing" Name="大変 "/>
+	<Elem NameU="Heart eyes" Name="ハート "/>
+	<Elem NameU="Sweat grinning" Name="冷や汗 "/>
+	<Elem NameU="Slightly smile" Name="微笑む "/>
+	<Elem NameU="Smile" Name="ドヤ顔 "/>
+	<Elem NameU="Sleepy" Name="眠い "/>
+	<Elem NameU="Blush" Name="赤面 "/>
+	<Elem NameU="Crying" Name="泣く "/>
+	<Elem NameU="Cool" Name="クール "/>
+	<Elem NameU="Angry" Name="怒り "/>
+	<Elem NameU="Dizzy face" Name="めまい顔 "/>
+	<Elem NameU="Unamused" Name="不満 "/>
+	<Elem NameU="Hurt" Name="痛い "/>
+	<Elem NameU="Sick" Name="マスク "/>
+	<Elem NameU="Sleeping" Name="睡眠 "/>
+	<Elem NameU="Confused" Name="混乱 "/>
+	<Elem NameU="Face with tongue" Name="舌を出したウィンク顔 "/>
+	<Elem NameU="Vomiting" Name="嘔吐 "/>
+	<Elem NameU="Strength" Name="頑張って "/>
+	<Elem NameU="Dollar eyes" Name="ドルの目 "/>
+	<Elem NameU="Wink" Name="ウィンク "/>
+	<Elem NameU="Woozy" Name="ブルブル "/>
+</Lib>

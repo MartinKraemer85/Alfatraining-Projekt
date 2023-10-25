@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="AWS Deployment and Management">
+    <Elem NameU="CodeDeploy" Name="代碼配置"/>
+    <Elem NameU="AWS CloudFormation Stack" Name="AWS 雲形成堆"/>
+    <Elem NameU="AWS CloudFormation Template" Name="AWS 雲形成模板"/>
+    <Elem NameU="AWS CloudFormation" Name="AWS 雲形成"/>
+    <Elem NameU="AWS Data Pipeline" Name="AWS 資料管道"/>
+    <Elem NameU="CloudTrail" Name="云跡"/>
+    <Elem NameU="CloudWatch Alarm" Name="雲監控報警"/>
+    <Elem NameU="CloudWatch" Name="雲監控"/>
+    <Elem NameU="Elastic Beanstalk Application" Name="Elastic Beanstalk 應用"/>
+    <Elem NameU="Elastic Beanstalk Deployment" Name="Elastic Beanstalk 配置"/>
+    <Elem NameU="Elastic Beanstalk" Name="Elastic Beanstalk"/>
+    <Elem NameU="Elastic Beanstalk Container" Name="Elastic Beanstalk 集合"/>
+    <Elem NameU="IAM Add-on" Name="IAM Add-on 指令"/>
+    <Elem NameU="IAM Credentials" Name="IAM 證書"/>
+    <Elem NameU="IAM Data Encryption Key" Name="IAM 資料加密秘鑰"/>
+    <Elem NameU="IAM Encrypted Data" Name="IAM 加密資料"/>
+    <Elem NameU="IAM MFA Token" Name="IAM MFA 令牌"/>
+    <Elem NameU="IAM Permissions" Name="IAM 許可"/>
+    <Elem NameU="IAM Roles" Name="IAM 角色"/>
+    <Elem NameU="IAM Security Token Service" Name="IAM 安全令牌服務"/>
+    <Elem NameU="IAM Short Term Credentials" Name="IAM 短期證書"/>
+    <Elem NameU="IAM STS" Name="IAM STS令牌服務"/>
+    <Elem NameU="IAM" Name="IAM"/>
+    <Elem NameU="OpsWorks Apps" Name="OpsWorks應用"/>
+    <Elem NameU="OpsWorks Deployments" Name="OpsWorks 配置"/>
+    <Elem NameU="OpsWorks Instances" Name="OpsWorks 實例"/>
+    <Elem NameU="OpsWorks Layers" Name="OpsWorks 層"/>
+    <Elem NameU="OpsWorks Monitoring" Name="OpsWorks 監控"/>
+    <Elem NameU="OpsWorks Permissions" Name="OpsWorks 許可"/>
+    <Elem NameU="OpsWorks Resources" Name="OpsWorks 資源"/>
+    <Elem NameU="OpsWorks Stack" Name="OpsWorks 堆"/>
+    <Elem NameU="OpsWorks" Name="OpsWorks"/>
+</Lib>

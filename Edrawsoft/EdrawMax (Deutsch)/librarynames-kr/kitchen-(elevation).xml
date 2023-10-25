@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Kitchen (Elevation)">
+	<Elem NameU="Refrigerator 1" Name="냉장고 1"/>
+	<Elem NameU="Refrigerator 2" Name="냉장고 2"/>
+	<Elem NameU="Refrigerator 3" Name="냉장고 3"/>
+	<Elem NameU="Refrigerator 4" Name="냉장고 4"/>
+	<Elem NameU="Refrigerator 5" Name="냉장고 5"/>
+	<Elem NameU="Refrigerator 6" Name="냉장고 6"/>
+	<Elem NameU="Refrigerator 7" Name="냉장고 7"/>
+	<Elem NameU="Refrigerator 8" Name="냉장고 8"/>
+	<Elem NameU="Two-door refrigerator" Name="양문형 냉장고"/>
+	<Elem NameU="kitchen ventilator 1" Name="주방 환풍기 1"/>
+	<Elem NameU="kitchen ventilator 2" Name="주방 환풍기 2"/>
+	<Elem NameU="kitchen ventilator 3" Name="주방 환풍기 3"/>
+	<Elem NameU="Kitchen ventilator 4" Name="주방 환풍기 4"/>
+	<Elem NameU="Microwave oven" Number="2" Name="오븐"/>
+	<Elem NameU="Turner" Name="뒤집개"/>
+	<Elem NameU="Truner" Name="뒤집개"/>
+	<Elem NameU="Soup ladle" Name="국자"/>
+	<Elem NameU="kitchen ware" Name="주방 용품"/>
+	<Elem NameU="Teapot" Name="찻 주전자"/>
+	<Elem NameU="Teacup" Number="3" Name="찻 잔"/>
+	<Elem NameU="kettle" Name="물 주전자"/>
+	<Elem NameU="Steamer" Name="찜통"/>
+	<Elem NameU="Frying pan" Name="프라이팬"/>
+	<Elem NameU="Chafing dish" Name="냄비"/>
+	<Elem NameU="Saucepan" Name="소스 냄비"/>
+	<Elem NameU="Gas cooker" Name="가스 레인지"/>
+	<Elem NameU="Disinfection cabinet" Name="소독 캐비닛"/>
+	<Elem NameU="Disinfection cabinet 2" Name="소독 캐비닛 2"/>
+	<Elem NameU="Range hood" Name="주방 환풍기"/>
+	<Elem NameU="Washer" Number="2" Name="세탁기"/>
+	<Elem NameU="Detergent" Number="3" Name="세정제"/>
+	<Elem NameU="Shampoo" Name="샴푸"/>
+	<Elem NameU="Shower Cream" Name="바디 워시"/>
+</Lib>

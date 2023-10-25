@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Building Core">
+    <Elem NameU="North" Name="북쪽"/>
+    <Elem NameU="Direction" Name="방향"/>
+    <Elem NameU="Arrow" Name="화살표"/>
+    <Elem NameU="Air-conditioned location" Name="에어컨 위치"/>
+    <Elem NameU="Solid walls" Name="단단한 벽"/>
+    <Elem NameU="Step" Name="계단"/>
+    <Elem NameU="Ornamental stair" Name="장식용 계단"/>
+    <Elem NameU="Scissor staircase" Name="가위 계단"/>
+    <Elem NameU="Straight staircase" Name="직선 계단"/>
+    <Elem NameU="Curved staircase" Number="2" Name="곡선 계단"/>
+    <Elem NameU="Winding staircase" Name="나선형 계단"/>
+    <Elem NameU="Z-shaped stairs" Name="Z셰이프 계단"/>
+    <Elem NameU="Divided return stairs" Name="분할된 계단"/>
+    <Elem NameU="Pocket door" Name="이동문"/>
+    <Elem NameU="Double pocket door" Name="더블문"/>
+    <Elem NameU="Left spiral staircase" Name="왼쪽 나선형 계단"/>
+    <Elem NameU="Right spiral staircase" Name="오른쪽 나선형 계단"/>
+    <Elem NameU="Corner landing" Name="코너 랜딩"/>
+    <Elem NameU="Stair landing" Name="계단 착륙"/>
+    <Elem NameU="Escalator" Name="에스컬레이터"/>
+    <Elem NameU="Ramp" Name="램프"/>
+    <Elem NameU="Handrail" Name="난간"/>
+    <Elem NameU="Corner handrail" Name="코너 난간"/>
+    <Elem NameU="Toilet" Name="화장실"/>
+    <Elem NameU="Multi sink" Name="싱크"/>
+    <Elem NameU="Multi urinal" Name="소변기"/>
+    <Elem NameU="Multi stall" Name="마구간"/>
+    <Elem NameU="Countertop sink" Name="싱크대"/>
+    <Elem NameU="Toilet stall" Name="Toilet stall"/>
+    <Elem NameU="Elevator" Name="엘리베이터"/>
+    <Elem NameU="Freight elevator" Name="화물 엘리베이터"/>
+    <Elem NameU="Chute" Name="슈트"/>
+</Lib>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Business Scene 2">
+	<Elem NameU="People" Name="Persone"/>
+	<Elem NameU="Meeting" Name="Riunione"/>
+	<Elem NameU="Global Cooperation" Name="Collaborazione Globale"/>
+	<Elem NameU="Board meeting" Name="Riunione del comitato"/>
+	<Elem NameU="Work report" Name="Consegna lavoro"/>
+	<Elem NameU="Late for work" Name="In ritardo a lavoro"/>
+	<Elem NameU="Overseas call" Name="Chiamata estera"/>
+	<Elem NameU="Business travel" Name="Viaggio di lavoro"/>
+	<Elem NameU="Creative work" Name="Lavoro creativo"/>
+	<Elem NameU="Wifi" Name="WiFi"/>
+	<Elem NameU="Speech" Name="Discorso"/>
+	<Elem NameU="Fax" Name="Fax"/>
+	<Elem NameU="Answer the phone" Name="Rispondere al telefono"/>
+	<Elem NameU="Rainy days off work" Name="Giorni di pioggia a lavoro"/>
+	<Elem NameU="Take a taxi" Name="Prendere il taxi"/>
+	<Elem NameU="Cross the road" Name="Attraversamento strada"/>
+	<Elem NameU="Spare time" Name="Tempo libero"/>
+	<Elem NameU="Ranking" Name="Piazzamento"/>
+	<Elem NameU="Problem Solving" Name="Risoluzione Problemi"/>
+	<Elem NameU="Global partners" Name="Partner globali"/>
+	<Elem NameU="Pleasant cooperation" Name="Collaborazione piacevole"/>
+	<Elem NameU="Work exchange" Name="Scambio di lavoro"/>
+	<Elem NameU="Sorting 1" Name="Smistamento 1"/>
+	<Elem NameU="Sorting 2" Name="Smistamento 2"/>
+	<Elem NameU="Sorting 3" Name="Smistamento 3"/>
+	<Elem NameU="How" Name="Come"/>
+	<Elem NameU="Confused" Name="Confusione"/>
+	<Elem NameU="Receive mail" Name="Ricezione mail"/>
+	<Elem NameU="Data analysis" Name="Analisi dei dati"/>
+	<Elem NameU="Data processing" Name="Elaborazione dei dati"/>
+	<Elem NameU="Quality certification" Name="Certificazione di qualità"/>
+	<Elem NameU="EU" Name="UE"/>
+	<Elem NameU="Deadline" Name="Scadenza"/>
+	<Elem NameU="Announcer" Name="Annunciatore"/>
+	<Elem NameU="Analysis" Name="Analisi"/>
+	<Elem NameU="Idea" Name="Idea"/>
+	<Elem NameU="Profit" Name="Profitto"/>
+	<Elem NameU="Search" Name="Ricerca"/>
+	<Elem NameU="Dialogue" Name="Dialogo"/>
+	<Elem NameU="Bulletin board" Name="Bacheca"/>
+	<Elem NameU="Crisis" Name="Crisi"/>
+	<Elem NameU="Praise" Name="Complimenti"/>
+	<Elem NameU="Flag" Name="Bandiera"/>
+	<Elem NameU="Propaganda" Name="Propaganda"/>
+	<Elem NameU="Announcement" Name="Annuncio"/>
+	<Elem NameU="Cleaning" Name="Pulizia"/>
+	<Elem NameU="Photograph" Name="Fotografia"/>
+	<Elem NameU="Location" Name="Luogo"/>
+	<Elem NameU="Mobile calls" Name="Chiamate mobili"/>
+	<Elem NameU="Team" Name="Team"/>
+</Lib>

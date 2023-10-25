@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Profession Half-length">
+    <Elem NameU="CEO" Name="CEO"/>
+    <Elem NameU="Customer Service" Name="고객 서비스"/>
+    <Elem NameU="Programmer" Name="프로그래머"/>
+    <Elem NameU="Male  Employee" Name="남자 직원"/>
+    <Elem NameU="Female  Employee" Name="여자 직원"/>
+    <Elem NameU="Boy Student" Name="남학생"/>
+    <Elem NameU="Girl Student" Name="여학생"/>
+    <Elem NameU="Male Teacher" Name="남자 선생님"/>
+    <Elem NameU="Female Teacher" Name="여자 선생님"/>
+    <Elem NameU="Policeman" Name="경찰"/>
+    <Elem NameU="Policewoman" Name="여자 경찰"/>
+    <Elem NameU="Air Hostess" Name="승무원"/>
+    <Elem NameU="Detective" Name="탐정"/>
+    <Elem NameU="Architect" Name="건축가"/>
+    <Elem NameU="Chef" Name=셰프/>
+    <Elem NameU="Salesperson" Name="판매원"/>
+    <Elem NameU="Female Doctor" Name="여자 의사"/>
+    <Elem NameU="Male Doctor" Name="남자 의사"/>
+    <Elem NameU="Nurse 1" Name="간호사1"/>
+    <Elem NameU="Nurse 2" Name="간호사2"/>
+    <Elem NameU="Nurse 3" Name="간호사3"/>
+    <Elem NameU="Kindergarten Teacher" Name="유치원 선생님"/>
+    <Elem NameU="Hair-style Designer" Name="헤어 디자이너"/>
+    <Elem NameU="Pilot" Name="비행사"/>
+    <Elem NameU="Hip Hopper" Name="래퍼"/>
+    <Elem NameU="Referee" Name="재판"/>
+    <Elem NameU="Painter" Name="화가"/>
+    <Elem NameU="Professor" Name="교수"/>
+    <Elem NameU="Santa Claus" Name="산타 클로스"/>
+    <Elem NameU="Mother" Name="어머니"/>
+    <Elem NameU="Blind Person" Name="맹인"/>
+    <Elem NameU="Female Graduate" Name="여자 졸업생"/>
+    <Elem NameU="Priest" Name="목사"/>
+    <Elem NameU="Lawyer" Name="변호사"/>
+    <Elem NameU="Male Graduate" Name="남자 졸업생"/>
+    <Elem NameU="Businessman 1" Name="비지니스맨1"/>
+    <Elem NameU="Businessman 2" Name="비지니스맨2"/>
+    <Elem NameU="Manager" Name="매니저"/>
+    <Elem NameU="Office woman" Name="사무실 여직원"/>
+    <Elem NameU="Assistant" Name="조수"/>
+    <Elem NameU="Secretary" Name="비서"/>
+    <Elem NameU="Salesman" Name="판매원"/>
+    <Elem NameU="Support" Name="고객 서비스"/>
+    <Elem NameU="Pupil 1" Name="학생1"/>
+    <Elem NameU="Pupil 2" Name="학생2"/>
+    <Elem NameU="Teacher" Name="선생님"/>
+    <Elem NameU="Dentist" Name="치과 의사"/>
+    <Elem NameU="Hairstylist" Name="헤어 디자이너"/>
+    <Elem NameU="Engineer" Name="엔지니어"/>
+    <Elem NameU="Worker" Name="근로자"/>
+    <Elem NameU="Builder" Name="건축자"/>
+    <Elem NameU="Fireman" Name="소방원"/>
+    <Elem NameU="Electric welding" Name="전기 용접"/>
+    <Elem NameU="Express" Name="택배원"/>
+    <Elem NameU="Postman" Name="택배원"/>
+    <Elem NameU="Typist" Name="타이피스트"/>
+    <Elem NameU="Cashier" Name="출납원"/>
+    <Elem NameU="Policewoman 2" Name="여자 경찰2"/>
+    <Elem NameU="Air Hostess 2" Name="승무원2"/>
+    <Elem NameU="Air Hostess 3" Name="승무원3"/>
+    <Elem NameU="Sommelier" Name="소믈리에"/>
+    <Elem NameU="Female Staff/User" Name="여직원"/>
+    <Elem NameU="Security personnel" Name="보안 요원"/>
+    <Elem NameU="Travelers" Name="여객"/>
+    <Elem NameU="Terrorist" Name="테러리스트"/>
+    <Elem NameU="Coach" Name="코치"/>
+    <Elem NameU="Basketball player" Name="농구 선수"/>
+    <Elem NameU="Footballer" Name="축구 선수"/>
+    <Elem NameU="Booter" Name="Booter"/>
+    <Elem NameU="Girl 1" Name="여자1"/>
+    <Elem NameU="Boy 1" Name="남자1"/>
+    <Elem NameU="Girl 2" Name="여자2"/>
+    <Elem NameU="Boy 2" Name="남자2"/>
+</Lib>

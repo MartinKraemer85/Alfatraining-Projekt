@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TemplateNames>
+	<Elem NameU="Business Diagram" Name="商務"/>
+	<Elem NameU="Smart Charts" Name="基本圖表"/>
+	<Elem NameU="Chart" Name="圖表"/>
+	<Elem NameU="Database Modeling" Name="資料庫圖"/>
+	<Elem NameU="Engineering" Name="工程"/>
+	<Elem NameU="Electrical" Name="電子工程"/>
+	<Elem NameU="ERD &amp; Database" Name="ERD和資料庫"/>																	
+	<Elem NameU="Fashion Design" Name="時裝設計"/>
+	<Elem NameU="Family Tree" Name="家庭樹圖"/>	
+	<Elem NameU="Flowchart" Name="流程圖"/>
+	<Elem NameU="Floor Plan" Name="平面佈置圖"/>
+	<Elem NameU="General" Name="常用基本符號"/>
+	<Elem NameU="Graphs and Charts" Name="圖表"/>
+	<Elem NameU="Icons" Name="圖標"/>
+	<Elem NameU="Illustration" Name="示例圖"/>
+	<Elem NameU="Maps" Name="地圖"/>
+	<Elem NameU="Marketing" Name="營銷圖標"/>
+	<Elem NameU="Mind Map" Name="心智圖"/>
+	<Elem NameU="Roadmap" Name="路線圖"/>
+	<Elem NameU="Amazon Web Services" Name="亚马逊網絡服務"/>
+	<Elem NameU="Cisco Network" Name="思科網絡"/>
+	<Elem NameU="Google Cloud" Name="谷歌雲平台"/>
+	<Elem NameU="MS Azure Cloud" Name="微软Azure雲計算"/>	
+	<Elem NameU="Alibaba Cloud" Name="阿里雲符號"/>
+	<Elem NameU="Network Diagram" Name="網絡圖"/>
+	<Elem NameU="Organizational Chart" Name="組織結構圖"/>
+	<Elem NameU="Project Management" Name="工程管理"/>		
+	<Elem NameU="Science" Name="科學"/>
+	<Elem NameU="Software" Name="軟體架構圖"/>
+	<Elem NameU="Wireframe" Name="線框圖"/>
+	<Elem NameU="Forms" Name="表單"/>
+	<Elem NameU="Business Card" Name="商業卡片"/>
+	<Elem NameU="Presentation" Name="演示文稿"/>
+	<Elem NameU="Clip Art" Name="剪切畫"/>
+	<Elem NameU="Industrial Automation" Name="工程自動化"/>			
+	<Elem NameU="P&amp;&amp;ID Symbols" Name="管道和儀表流程圖符號"/>
+	<Elem NameU="Card" Name="卡片"/>
+	<Elem NameU="ERD and Database" Name="ERD和資料庫"/>
+	<Elem NameU="Infographic" Name="信息圖"/>
+	<Elem NameU="Map" Name="地圖"/>
+	<Elem NameU="PID" Name="PID符號"/>
+	<Elem NameU="Graphic Design" Name="平面設計"/>
+	<Elem NameU="Graphic Organizer" Name="圖形組織"/>	
+	<Elem NameU="Basic Shapes" Name="基本形狀"/>
+	<Elem NameU="Flowchart Shapes" Name="流程圖形狀"/>
+	<Elem NameU="Cloud Service" Name="雲服務"/>
+	<Elem NameU="Smart Shapes" Name="智能形狀"/>
+	<Elem NameU="Basic" Name="常規"/>
+	<Elem NameU="Business" Name="商業"/>
+</TemplateNames>
+

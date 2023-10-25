@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Astronomy">
+  <Elem NameU="Sun" Name="Sun"/>
+  <Elem NameU="Moon" Name="Moon"/>
+  <Elem NameU="Mercury" Name="Mercury"/>
+  <Elem NameU="Venus" Name="Venus"/>
+  <Elem NameU="Earth" Name="Earth"/>
+  <Elem NameU="Mars" Name="Mars"/>
+  <Elem NameU="Jupiter" Name="Jupiter"/>
+  <Elem NameU="Pluto" Name="Pluto"/>
+  <Elem NameU="Saturn" Name="Saturn"/>
+  <Elem NameU="Uranus" Name="Uranus"/>
+  <Elem NameU="Neptune" Name="Neptune"/>
+  <Elem NameU="Galaxy" Name="Galaxy"/>
+  <Elem NameU="Meteor Shower" Name="Meteor Shower"/>
+  <Elem NameU="Spacecraft" Name="Spacecraft"/>
+  <Elem NameU="Rocket" Name="Rocket"/>
+  <Elem NameU="Satellite" Name="Satellite"/>
+  <Elem NameU="Manned spacecraft" Name="Manned spacecraft"/>
+  <Elem NameU="Space Station" Name="Space Station"/>
+  <Elem NameU="UFO" Name="UFO"/>
+  <Elem NameU="Astronaut" Name="Astronaut"/>
+  <Elem NameU="Astronomical telescope" Name="Astronomical telescope"/>
+  <Elem NameU="Alien " Name="Alien "/>
+  <Elem NameU="Aries" Name="Aries"/>
+  <Elem NameU="Taurus" Name="Taurus"/>
+  <Elem NameU="Gemini" Name="Gemini"/>
+  <Elem NameU="Cancer" Name="Cancer"/>
+  <Elem NameU="Lieo" Name="Lieo"/>
+  <Elem NameU="Virgo" Name="Virgo"/>
+  <Elem NameU="Libra" Name="Libra"/>
+  <Elem NameU="Scorpio" Name="Scorpio"/>
+  <Elem NameU="Sagittarius" Name="Sagittarius"/>
+  <Elem NameU="Capricory" Name="Capricory"/>
+  <Elem NameU="Aquarius" Name="Aquarius"/>
+  <Elem NameU="Pisces" Name="Pisces"/>
+</Lib>

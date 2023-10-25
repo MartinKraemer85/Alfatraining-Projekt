@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Artificial Intelligence">
+    <Elem NameU="Robot" Name="로봇"/>
+    <Elem NameU="Intelligent Sound" Name="지능형 사운드"/>
+    <Elem NameU="AI 1" Name="인공지능1"/>
+    <Elem NameU="Intelligent Knowledge" Name="지능 지식"/>
+    <Elem NameU="Technology And The Brain 2" Name="기술과 뇌2"/>
+    <Elem NameU="Technology And The Brain 1" Name="기술과 뇌1"/>
+    <Elem NameU="AI 2" Name="인공지능2"/>
+    <Elem NameU="Mechanical Brain" Name="기계 두뇌"/>
+    <Elem NameU="Human Thinking" Name="인간적 사고"/>
+    <Elem NameU="Mental Focus" Name="정신 집중"/>
+    <Elem NameU="Creativity" Name="창의력"/>
+    <Elem NameU="Abstract Thinking 2" Name="추상적 사고2"/>
+    <Elem NameU="Abstract Thinking 1" Name="추상적 사고1"/>
+    <Elem NameU="Discovery 1" Name="탐색 1"/>
+    <Elem NameU="Discovery 2" Name="탐색 2"/>
+    <Elem NameU="Communication" Name="대화"/>
+    <Elem NameU="People with Intelligence" Name="인간과 인공지능"/>
+    <Elem NameU="Automaton 1" Name="작은 로봇1"/>
+    <Elem NameU="Automaton 2" Name="작은 로봇2"/>
+    <Elem NameU="Automaton 3" Name="작은 로봇3"/>
+    <Elem NameU="Automaton 4" Name="작은 로봇4"/>
+    <Elem NameU="Robot Dog" Name="기계 강아지"/>
+    <Elem NameU="Manipulator 1" Name="머니퓰레이터1"/>
+    <Elem NameU="Manipulator 2" Name="머니퓰레이터2"/>
+    <Elem NameU="People With Intelligence" Name="인간과 인공지능"/>
+    <Elem NameU="Wire" Name="무선"/>
+    <Elem NameU="Machinery" Name="기계"/>
+    <Elem NameU="Smart Home" Name="스마트 홈"/>
+    <Elem NameU="Intelligent Mop" Name="지능형 걸레"/>
+    <Elem NameU="Smart Glasses" Name="지능 안경"/>
+    <Elem NameU="Blood Pressure Bracelet" Name="혈압 팔찌"/>
+    <Elem NameU="Dust Robot" Name="먼지 로봇"/>
+    <Elem NameU="Smartwatch" Name="스마트 워치"/>
+    <Elem NameU="Moving Bracelet" Name="이동 팔찌"/>
+    <Elem NameU="VR Glasses" Name="VR안경"/>
+    <Elem NameU="Mechanical Arm" Name="기계암"/>
+    <Elem NameU="Chip Pattern 1" Name="칩 패턴1"/>
+    <Elem NameU="Chip Pattern 2" Name="칩 패턴2"/>
+    <Elem NameU="Chip Pattern 3" Name="칩 패턴3"/>
+    <Elem NameU="Line" Name="라인"/>
+    <Elem NameU="Fingerprint 1" Name="지문1"/>
+    <Elem NameU="Fingerprint 2" Name="지문2"/>
+    <Elem NameU="Fingerprint Scanning" Name="스캔 지문"/>
+    <Elem NameU="Fingerprint Scanner" Name="지문 스캐너"/>
+    <Elem NameU="Aiming" Name="목표"/>
+    <Elem NameU="iPhone" Name="iPhone"/>
+    <Elem NameU="Robot Cooking" Name="쿠킹하는 로봇"/>
+    <Elem NameU="Robot Walking a Dog" Name="개를 산책시키는 로봇"/>
+    <Elem NameU="Robot Cleaning Floor" Name="청소하는 로봇"/>
+    <Elem NameU="Robot Watering Flower" Name="꽃에 물 주는 로봇"/>
+    <Elem NameU="Robot Throwing Trash" Name="쓰레기 버리는 로봇"/>
+    <Elem NameU="Robot Cleaning the House" Name="방 청소하는 로봇"/>
+    <Elem NameU="Robot Sweeping the Floor" Name="바닥 청소하는 로봇"/>
+    <Elem NameU="Robot Serving Food" Name="서빙하는 로봇"/>
+    <Elem NameU="Robot Playing Go" Name="바둑하는 로봇"/>
+    <Elem NameU="Robot Playing Computer" Name="컴퓨터하는 로봇"/>
+    <Elem NameU="Robot Playing Go with Human" Name="사람과 바둑하는 로봇"/>
+    <Elem NameU="Robotic Arm" Name="기계암"/>
+    <Elem NameU="AI Visual Identity" Name="인공지능 시각 식별"/>
+    <Elem NameU="AI for Cognition" Name="인공지능 인식"/>
+    <Elem NameU="Artificial Intelligence" Name="인공지능"/>
+</Lib>

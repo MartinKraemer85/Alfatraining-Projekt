@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Infographic Charts">
+    <Elem NameU="Bar Chart" Number="6" Name="바 차트"/>
+    <Elem NameU="Column Chart" Number="3" Name="기둥 차트"/>
+    <Elem NameU="Pie" Name="파이 차트"/>
+    <Elem NameU="Rose Pie" Name="Rose Pie"/>
+    <Elem NameU="Doughnut" Number="2" Name="도넛형 차트"/>
+    <Elem NameU="Circle Indicator" Number="23" Name="원형 표시기"/>
+    <Elem NameU="Semicircular Indicator" Name="반원형 표시기"/>
+    <Elem NameU="Bar Indicator" Number="2" Name="바형 표시기"/>
+    <Elem NameU="Column Indicator" Name="기둥형 표시기"/>
+    <Elem NameU="Battery Indicator" Number="2" Name="배터리 표시기"/>
+    <Elem NameU="Percentage Indicator" Number="9" Name="백분율 표시기"/>
+    <Elem NameU="Clock Chart" Name="시계 차트"/>
+    <Elem NameU="Woman" Name="여자"/>
+    <Elem NameU="Man" Name="남자"/>
+    <Elem NameU="Men" Name="남자들"/>
+    <Elem NameU="Women" Name="여자들"/>
+    <Elem NameU="People" Name="사람"/>
+    <Elem NameU="Test Tube Chart" Number="2" Name="테스트 튜브 차트"/>
+    <Elem NameU="Water Drop Chart" Name="물방울 차트"/>
+    <Elem NameU="Column Chart" Name="기둥 차트"/>
+    <Elem NameU="Bar Chart" Name="바차트"/>
+    <Elem NameU="Up Arrow" Name="화살표 위로"/>
+    <Elem NameU="Like Thumb" Name="좋아요"/>
+    <Elem NameU="Data Analysis Table" Number="2" Name="데이터 분석표"/>
+    <Elem NameU="Scale Map" Name="배율도"/>
+    <Elem NameU="Stacked Circle Chart" Name="스택형 원형 차트"/>
+</Lib>

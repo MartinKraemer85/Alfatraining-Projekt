@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Booch OOD">
+    <Elem NameU="Class Properties" Name="類屬性"/>
+    <Elem NameU="Class Relationship" Name="類關係"/>
+    <Elem NameU="Class" Name="類"/>
+    <Elem NameU="Instantiated Class" Name="對象初始化"/>
+    <Elem NameU="Visibility Adomment" Name="裝飾"/>
+    <Elem NameU="Object Relationship" Name="對象關係"/>
+    <Elem NameU="Data Flow" Name="資料流"/>
+    <Elem NameU="Synchronous" Name="同步"/>
+    <Elem NameU="Simple" Name="簡單"/>
+    <Elem NameU="Barking" Name="回調"/>
+    <Elem NameU="Asynchronous" Name="異步"/>
+    <Elem NameU="Timeout" Name="超時"/>
+    <Elem NameU="Processor/Device" Name="處理/設備"/>
+    <Elem NameU="State Icon" Name="狀態"/>
+    <Elem NameU="Main Module" Name="主模塊"/>
+    <Elem NameU="History" Name="歷史"/>
+    <Elem NameU="Subsystem Name" Name="子系統名"/>
+    <Elem NameU="Module" Name="模塊"/>
+    <Elem NameU="OIG Object" Name="OIG 對象"/>
+    <Elem NameU="Arrow" Name="箭頭"/>
+    <Elem NameU="CRC: Class Card" Name="CRC: 卡證"/>
+    <Elem NameU="Message" Name="消息"/>
+    <Elem NameU="Reference" Name="引用"/>
+</Lib>

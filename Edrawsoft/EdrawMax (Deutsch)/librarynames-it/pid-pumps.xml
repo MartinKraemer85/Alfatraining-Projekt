@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="PID Pumps">
+	<Elem NameU="3-D ISA Pump" Name="Pompa ISA 3-D"/>
+	<Elem NameU="3-D Pump" Name="Pompa 3-D"/>
+	<Elem NameU="Air powered pump" Name="Pompa ad aria"/>
+	<Elem NameU="Air-operated diaphragm pump" Name="Pompa a diaframma ad aria"/>
+	<Elem NameU="Centrifugal pump 1" Name="Pompa centrifugale 1"/>
+	<Elem NameU="Centrifugal pump 2" Name="Pompa centrifugale 2"/>
+	<Elem NameU="Centrifugal pump 3" Name="Pompa centrifugale 3"/>
+	<Elem NameU="Centrifugal pump 4" Name="Pompa centrifugale 4"/>
+	<Elem NameU="Centrifugal pump 5" Name="Pompa centrifugale 5"/>
+	<Elem NameU="Centrifugal pump with integral pump-motor shaft" Name="Pompa centrifugale con albero del motore a pompa"/>
+	<Elem NameU="Centrifugal thermoplastic pump" Name="Pompa centrifugale termoplastica"/>
+	<Elem NameU="Chemical pump 1" Name="Pompa chimica 1"/>
+	<Elem NameU="Chemical pump 2" Name="Pompa chimica 2"/>
+	<Elem NameU="Chemical pump 3" Name="Pompa chimica 4"/>
+	<Elem NameU="Classic pump 4" Name="Pompa classica 4"/>
+	<Elem NameU="Cool pump" Name="Pompa di raffreddamento"/>
+	<Elem NameU="Corrosion resistant submersible pump" Name="Pompa sommergibile resistente alla corrosione"/>
+	<Elem NameU="Corrosion-resistant continuous duty pump" Name="Pompa continua resistente alla corrosione"/>
+	<Elem NameU="Diaphragm pump" Name="Pompa a diaframma"/>
+	<Elem NameU="Diaphragm pump 2" Name="Pompa a diaframma 2"/>
+	<Elem NameU="End-suction centrifugal pump" Name="Pompa centrifugale ad aspirazione assiale"/>
+	<Elem NameU="Explosion-proof pump" Name="Pompa a prova di esplosione"/>
+	<Elem NameU="Flanged pump" Name="Pompa flagiante"/>
+	<Elem NameU="Flex-mounted centrifugal pump" Name="Pompa centrifugale con montaggio flessibile"/>
+	<Elem NameU="Heavy-duty plastic centrifugal pump" Name="Pompa centrifugale di plastica resistente"/>
+	<Elem NameU="High temp heat trans pump" Name="Termopompa"/>
+	<Elem NameU="High volume pump" Name="Pompa ad alto volume"/>
+	<Elem NameU="High-viscosity pump" Name="Pompa ad alta viscosità"/>
+	<Elem NameU="High-viscosity pump (left)" Name="Pompa ad alta viscosità (sinistra)"/>
+	<Elem NameU="High-viscosity pump (right)" Name="Pompa ad alta viscosità (destra)"/>
+	<Elem NameU="Horizontal pump 1" Name="Pompa orizzontale 1"/>
+	<Elem NameU="Horizontal pump 2 (left)" Name="Pompa orizzontale 2 (sinistra)"/>
+	<Elem NameU="Horizontal pump 2 (right)" Name="Pompa orizzontale 2 (destra)"/>
+	<Elem NameU="Horizontal pump 3" Name="Pompa orizzontale 3"/>
+	<Elem NameU="Horizontal solids handling vortex pump" Name="Pompa a vortice orizzontale per la gestione dei solidi"/>
+	<Elem NameU="Horizontal split case pump" Name="Pompa con involucro diviso orizzontalmente"/>
+	<Elem NameU="Isolating diaphragm pump" Name="Pompa a diaframma isolante"/>
+	<Elem NameU="Large volume chemical and submersible pump" Name="Pompa sommergibile chimica ad ampio volume"/>
+	<Elem NameU="Mag drive non-metallic pump" Name="Pompa di trascinamento non metallica"/>
+	<Elem NameU="Mag drive pump 1" Name="Pompa di trascinamento 1"/>
+	<Elem NameU="Mag drive pump 2" Name="Pompa di trascinamento 2"/>
+	<Elem NameU="Oil pump" Name="Pompa petrolifera"/>
+	<Elem NameU="Oil well pump" Name="Pompa per pozzo petrolifero"/>
+	<Elem NameU="Plunger pump" Name="Pompa a stantuffo"/>
+	<Elem NameU="Positive displacement gear pump" Name="Pompa a portata costante"/>
+	<Elem NameU="Pump for highly-corrosive applications" Name="Pompa per applicazioni corrosive"/>
+	<Elem NameU="Pump" Name="Pompa"/>
+	<Elem NameU="Pumping trap" Name="Scaricatore di pompaggio"/>
+	<Elem NameU="Rotary vacuum pump" Name="Pompa rotativa a vuoto"/>
+	<Elem NameU="sealless pump" Name="Pompa senza tenuta"/>
+	<Elem NameU="self-priming centrifugal pump" Name="Pompa centrifugale autoadescante"/>
+	<Elem NameU="sewage pump" Name="Pompa di depurazione"/>
+	<Elem NameU="Simple pump" Name="Pompa semplice"/>
+	<Elem NameU="Simple vertical pump" Name="Pompa semplice verticale"/>
+	<Elem NameU="Solids-handling self-priming pump" Name="Pompa autoadescante per la gestione dei solidi"/>
+	<Elem NameU="SRH pump" Name="Pompa SRH"/>
+	<Elem NameU="Standard-flange positive displacement pump" Name="Pompa a portata costante con flangia normale"/>
+	<Elem NameU="Submersible sump pump" Name="Idrovora sommergibile"/>
+	<Elem NameU="Sump pump" Name="Idrovora"/>
+	<Elem NameU="Threaded gear" Name="Ingranaggio filettato"/>
+	<Elem NameU="Vacuum pump" Name="Pompa a vuoto"/>
+	<Elem NameU="Vertical pump (down)" Name="Pompa verticale (in giù)"/>
+	<Elem NameU="Vertical pump (up)" Name="Pompa verticale (in su)"/>
+	<Elem NameU="Vertical pump" Name="Pompa verticale"/>
+	<Elem NameU="White pump" Name="Pompa bianca"/>
+	<Elem NameU="Yellow pump" Name="Pompa gialla"/>
+	<Elem NameU="Condensate pump" Name="Pompa condensante"/>
+	<Elem NameU="CIP Pump" Name="Pompa CIP"/>
+	<Elem NameU="Raw Water Pump" Name="Pompa per acqua grezza"/>
+	<Elem NameU="Plunger Pump" Name="Pompa a stantuffo"/>
+	<Elem NameU="Hot Living Water Pump for Low Area" Name="Pompa ad Acqua Bollente per Zone Basse"/>
+	<Elem NameU="Hot Living Water Pump for High Area" Name="Pompa ad Acqua Bollente per Zone Alte"/>
+	<Elem NameU="Freezing Pump" Name="Pompa congelante"/>
+	<Elem NameU="Cooling Pump" Name="Pompa raffreddante"/>
+</Lib>

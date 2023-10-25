@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Mathematical Symbol">
+	<Elem NameU="Fraction" Name="分数"/>
+	<Elem NameU="Derivative" Name="导数"/>
+	<Elem NameU="Plus" Name="加号"/>
+	<Elem NameU="Minus" Name="减号"/>
+	<Elem NameU="Plus or Minus" Name="正负号"/>
+	<Elem NameU="Is Multiplied By" Name="乘号"/>
+	<Elem NameU="Is Divided By " Name="除号"/>
+	<Elem NameU="Is Equal To " Name="等于"/>
+	<Elem NameU="Is Not Equal To" Name="不等于"/>
+	<Elem NameU="Is Equal To Or Approximately Equal To " Name="等于或约等于"/>
+	<Elem NameU="Is Equivalent To" Name="恒等于"/>
+	<Elem NameU="Is Approximately Equal To" Name="约等于"/>
+	<Elem NameU="Is Less Than" Name="小于"/>
+	<Elem NameU="Is More Than" Name="大于"/>
+	<Elem NameU="Is Less Than Or Equal To" Name="小于或等于"/>
+	<Elem NameU="Is More Than Or Equal To" Name="大于或等于"/>
+	<Elem NameU="Percent" Name="百分之"/>
+	<Elem NameU="Per Mill" Name="千分之"/>
+	<Elem NameU="Infinity" Name="无穷大"/>
+	<Elem NameU="Varies As" Name="正比例"/>
+	<Elem NameU="Since; Because" Name="因为"/>
+	<Elem NameU="Hence" Name="所以"/>
+	<Elem NameU="proportion" Name="比率"/>
+	<Elem NameU="Angle" Name="角"/>
+	<Elem NameU="Semicircle" Name="半圆"/>
+	<Elem NameU="Circle" Name="圆"/>
+	<Elem NameU="Circumference" Name="圆周"/>
+	<Elem NameU="Pi" Name="Pi"/>
+	<Elem NameU="Triangle" Name="三角形"/>
+	<Elem NameU="Perpendicular To" Name="垂直于"/>
+	<Elem NameU="Union Of" Name="交集"/>
+	<Elem NameU="Intersection Of" Name="并集"/>
+	<Elem NameU="The Integral Of" Name="积分"/>
+	<Elem NameU="Summation Of" Name="总和"/>
+	<Elem NameU="Degree" Name="度"/>
+	<Elem NameU="Minute" Name="分"/>
+	<Elem NameU="Second" Name="秒"/>
+	<Elem NameU="Celsius System" Name="摄氏温度"/>
+	<Elem NameU="Ampersand, And, Reference" Name="和"/>
+	<Elem NameU="Slash, Divide, Oblique" Name="斜杠"/>
+	<Elem NameU="Pound" Name="#"/>
+	<Elem NameU="Tilde" Name="相似于"/>
+	<Elem NameU="Full Stop" Name="句号"/>
+	<Elem NameU="Omma" Name="Omma"/>
+	<Elem NameU="Colon" Name="冒号"/>
+	<Elem NameU="Semicolon" Name="分号"/>
+	<Elem NameU="Question Mark" Name="问号"/>
+	<Elem NameU="Exclamation Mark" Name="叹号"/>
+	<Elem NameU="Dots/ Ellipsis" Name="点/省略号"/>
+	<Elem NameU="Section; Division" Name="分区；除法"/>
+	<Elem NameU="Arrow" Name="箭头"/>
+	<Elem NameU="Vertical Bar, Vertical Virgule " Name="竖线（直线，斜线）"/>
+	<Elem NameU="Parallel" Name="平行线"/>
+	<Elem NameU="Contain" Name="包含"/>
+	<Elem NameU="Contain Or Is Equal To" Name="包含或等于"/>
+	<Elem NameU="Not Contain" Name="不包含"/>
+	<Elem NameU="Belong To" Name="属于"/>
+	<Elem NameU="Not Belong To" Name="不属于"/>
+	<Elem NameU="Open Brace, Open Curly" Name="左大括号"/>
+	<Elem NameU="Close Brace, Close Curly" Name="右大括号"/>
+	<Elem NameU="Open Bracket" Name="左中括号"/>
+	<Elem NameU="Close Bracket" Name="右中括号"/>
+	<Elem NameU="Open Parenthesis, Open Paren" Name="左小括号"/>
+	<Elem NameU="Close Parenthesis, Close Paren" Name="右小括号"/>
+	<Elem NameU="Logarithmic function" Name="对数函数"/>
+	<Elem NameU="Coordinate system" Name="坐标系"/>
+	<Elem NameU="Parabola" Name="抛物线"/>
+	<Elem NameU="Function image" Name="函数图像"/>
+	<Elem NameU="hyperbola" Name="双曲线"/>
+	<Elem NameU="Ellipse" Name="椭圆"/>
+	<Elem NameU="Sine function" Name="正弦函数"/>
+	<Elem NameU="Cosine function" Name="余弦函数"/>
+	<Elem NameU="Set" Name="集合"/>
+	<Elem NameU="Function Image" Name="函数图像"/>
+	<Elem NameU="Tangent Function" Name="正切函数"/>
+	<Elem NameU="Cotangent Function" Name="余切函数"/>
+</Lib>

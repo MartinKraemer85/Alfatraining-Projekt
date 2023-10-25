@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Enterprise Architecture">
+
+<Elem Name="Box" NameU="Box"/>
+
+<Elem Name="Abgerundeter Kasten" NameU="Rounded Box"/>
+
+<Elem Name="Anwendung" NameU="Application"/>
+
+<Elem Name="Komponente" NameU="Component"/>
+
+<Elem Name="Dokument" NameU="Document"/>
+
+<Elem Name="Dokument 2" NameU="Document 2"/>
+
+<Elem Name="App-Service" NameU="App Service"/>
+
+<Elem Name="Formular" NameU="Form"/>
+
+<Elem Name="System" NameU="System"/>
+
+<Elem Name="Bericht" NameU="Report"/>
+
+<Elem Name="Datebase" NameU="Datebase"/>
+
+<Elem Name="HW Server" NameU="HW Server"/>
+
+<Elem Name="E-Mail" NameU="Email"/>
+
+<Elem Name="ETL Job" NameU="ETL Job"/>
+
+<Elem Name="Person" NameU="Person"/>
+
+<Elem Name="Org Unit" NameU="Org Unit"/>
+
+<Elem Name="Rolle" NameU="Role"/>
+
+<Elem Name="Vertrag" NameU="Contract"/>
+
+<Elem Name="Netzwerk" NameU="Network"/>
+
+<Elem Name="Seite" NameU="Site"/>
+
+<Elem Name="Arbeitsplatz" NameU="Workstation"/>
+
+<Elem Name="Mobilgerät" NameU="Mobile Device"/>
+
+<Elem Name="Deployment Instace" NameU="Deployment Instace"/>
+
+<Elem Name="Netzwerkknoten" NameU="Network Node"/>
+
+<Elem Name="Projekt" NameU="Project"/>
+
+<Elem Name="Geschäftsablauf" NameU="Business Flow"/>
+
+<Elem Name="Programm" NameU="Program"/>
+
+<Elem Name="Ziel" NameU="Goal"/>
+
+<Elem Name="Auswirkung" NameU="Impact"/>
+
+<Elem Name="Rollenvereinigung" NameU="Role Association"/>
+
+<Elem Name="Erfüllung" NameU="Fulfillment"/>
+
+<Elem Name="Unternehmenscontainer" NameU="Enterprise Container"/>
+
+<Elem Name="Geschäftsmodell Container" NameU="Business Model Container"/>
+
+<Elem Name="Container" NameU="Container"/>
+
+<Elem Name="Governance Container" NameU="Governance Container"/>
+
+</Lib>

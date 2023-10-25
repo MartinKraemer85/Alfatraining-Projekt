@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="AWS On-Demand Workforce">
+	<Elem NameU="Turk assignment task" Name="Tarefa de atribuição Turk"/>
+	<Elem NameU="Turk Human Intelligence Tasks" Name="Tarefas de Inteligência Humana Turk"/>
+	<Elem NameU="Turk Requester" Name="Requerente Turk"/>
+	<Elem NameU="Turk Workers" Name="Trabalhadores Turk"/>
+	<Elem NameU="Turk" Name="Turk"/>
+</Lib>

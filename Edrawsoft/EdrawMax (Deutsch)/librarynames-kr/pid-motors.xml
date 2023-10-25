@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Motors">
+    <Elem NameU="3-D ISA Motor" Name="3-D ISA 모터"/>
+    <Elem NameU="3-D Motor" Name="3-D 모터"/>
+    <Elem NameU="Actuator" Name="액추에이터"/>
+    <Elem NameU="Brake motor" Name="브레이크 모터"/>
+    <Elem NameU="Brushless motor" Name="브러시리스 모터"/>
+    <Elem NameU="Explosion-proof motor" Name="방폭 모터"/>
+    <Elem NameU="Motor 1" Name="모터 1"/>
+    <Elem NameU="Motor 2" Name="모터 2"/>
+    <Elem NameU="Motor 3" Name="모터 3"/>
+    <Elem NameU="Motor 4" Name="모터 4"/>
+    <Elem NameU="Pneumatic brake" Name="공압 브레이크"/>
+    <Elem NameU="Servo motor" Number="2" Name="서보 모터"/>
+    <Elem NameU="Shaft encoder" Name="샤프트 인코더"/>
+    <Elem NameU="Simple motor" Name="간단한 모터"/>
+    <Elem NameU="Smart motor" Name="스마트 모터"/>
+    <Elem NameU="Speed reducer" Name="감속기"/>
+    <Elem NameU="Stepping motor-driver unit" Name="스테핑 모터 드라이버 유닛"/>
+</Lib>

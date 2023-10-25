@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Memory Objects">
+	<Elem NameU="3D stact top" Name="Oggetto 3D superficie"/>
+	<Elem NameU="3D stact middle" Name="Oggetto 3D centrale"/>
+	<Elem NameU="Range Label" Name="Etichetta di Gamma"/>
+	<Elem NameU="Range Label 2" Name="Etichetta di Gamma 2"/>
+	<Elem NameU="Data block" Name="Blocco dati"/>
+	<Elem NameU="Data chunk" Name="Blocco dati orizzontale"/>
+	<Elem NameU="Byte or variable" Name="Byte o variabile"/>
+	<Elem NameU="Array" Name="Matrice"/>
+	<Elem NameU="Pointer" Name="Puntatore"/>
+	<Elem NameU="Pointer 2" Name="Puntatore 2"/>
+	<Elem NameU="Pointer (1-D)" Name="Puntatore (1-D)"/>
+	<Elem NameU="Single link. list node" Name="Nodo con collegamento singolo"/>
+	<Elem NameU="Single link. list node 2" Name="Nodo con collegamento singolo 2"/>
+	<Elem NameU="Double link. list node" Name="Nodo con doppio collegamento"/>
+	<Elem NameU="Stack Pointer" Name="Puntatore Pila"/>
+	<Elem NameU="Stack or heap" Name="Catasta o Pila"/>
+	<Elem NameU="Data stock" Name="Pila di Dati"/>
+</Lib>

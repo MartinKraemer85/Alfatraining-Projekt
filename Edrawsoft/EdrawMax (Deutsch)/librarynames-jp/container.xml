@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib nameU="Container">
+	<Elem NameU="Rectangle Container" Name="長方形コンテナー"/>
+	<Elem NameU="Container" Name="コンテナー"/>
+	<Elem NameU="Oval Container" Name="楕円形コンテナー"/>
+	<Elem NameU="Bracket Container" Name="ブラケットンテナー"/>
+	<Elem NameU="Swim Lane" Name="スイムレーン"/>
+	<Elem NameU="Matrix" Name="マトリックス"/>
+</Lib>

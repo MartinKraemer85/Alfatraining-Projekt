@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Miscellaneous Flowchart Shapes">
+
+<Elem Name="Startknoten" NameU="Start/Node"/>
+
+<Elem Name="Endeknoten" NameU="End/Node"/>
+
+<Elem Name="Prozess(Kreis)" NameU="Process(circle)"/>
+
+<Elem Name="Datenspeicher" NameU="Data store"/>
+
+<Elem Name="Externe Instanz" NameU="External entity"/>
+
+<Elem Name="Förderband" NameU="Transmittal tape"/>
+
+<Elem Name="Verteilter Prozess" NameU="Divided process"/>
+
+<Elem Name="Rundeter Prozess" NameU="Rounded process"/>
+
+<Elem Name="Erstellte Anforderung" NameU="Create request"/>
+
+<Elem Name="Gerahmtes Rechteck" NameU="Framed rectangle"/>
+
+<Elem Name="Geöffnetes Rechteck" NameU="Opened rectangle"/>
+
+<Elem Name="Verzug" NameU="Delay"/>
+
+<Elem Name="Summierpunkt" NameU="Summing junction"/>
+
+<Elem Name="Trommelspeicher" NameU="Drum storage"/>
+
+<Elem Name="ODER" NameU="OR"/>
+
+<Elem Name="Zusammentragen" NameU="Collate"/>
+
+<Elem Name="Extrakt" NameU="Extract"/>
+
+<Elem Name="Offline-Speicher" NameU="Off-line storage"/>
+
+<Elem Name="Verschmelzen" NameU="Merge"/>
+
+<Elem Name="Sortieren" NameU="Sort"/>
+
+<Elem Name="Kartenspiel" NameU="Deck of cards"/>
+
+<Elem Name="Kartendatei" NameU="File of cards"/>
+
+<Elem Name="Mikroform" NameU="Microform"/>
+
+<Elem Name="Mikroform aufzeichnen" NameU="Microform recording"/>
+
+<Elem Name="Mikroform verarbeiteng" NameU="Microform processing"/>
+
+<Elem Name="Doppeln" NameU="Duplicating"/>
+
+<Elem Name="Nummerierter Prozess" NameU="Tagged process"/>
+
+<Elem Name="Linie-Prozesse" NameU="Lined Shaded process"/>
+
+<Elem Name="Markierte Dokumente" NameU="Tagged document"/>
+
+<Elem Name="Liniertes Dokument" NameU="Lined Document"/>
+
+<Elem Name="Variable Start" NameU="Variable start"/>
+
+<Elem Name="Variable Prozedur" NameU="Variable procedure"/>
+
+<Elem Name="Datenbank" NameU="Database"/>
+
+<Elem Name="Primitive von Anrufsteuerung" NameU="Primitive from call control"/>
+
+<Elem Name="Primitive zu Anrufsteuerung" NameU="Primitive to call control"/>
+
+<Elem Name="Nachricht von Benutzer" NameU="Message from user"/>
+
+<Elem Name="Nachricht an Benutzer" NameU="Message to user"/>
+
+<Elem Name="Ausgang" NameU="Output"/>
+
+<Elem Name="Feedback" NameU="Feedback"/>
+
+<Elem Name="Prüfen" NameU="Check"/>
+
+<Elem Name="Und-Gatter" NameU="And gate"/>
+
+<Elem Name="Oder-Gatter" NameU="Or gate"/>
+
+<Elem Name="XOR" NameU="XOR"/>
+
+<Elem Name="Vertikal XOR" NameU="Vertical XOR"/>
+
+<Elem Name="Vertikal P Und" NameU="Vertical P And"/>
+
+<Elem Name="Verfeinerung" NameU="Refinement"/>
+
+<Elem Name="Interrupt" NameU="Interrupt"/>
+
+<Elem Name="Externe Steuerung" NameU="External control"/>
+
+<Elem Name="Geteilte Veranstaltung" NameU="Divided event"/>
+
+<Elem Name="Branch-Return" NameU="Branch-return"/>
+
+<Elem Name="Branch-no return" NameU="Branch-no return"/>
+
+<Elem Name="Kurvenanschluss" NameU="Curve Connector"/>
+
+</Lib>

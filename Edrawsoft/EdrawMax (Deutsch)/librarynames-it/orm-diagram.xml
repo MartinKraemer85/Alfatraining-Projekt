@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="ORM Diagram">
+	<Elem NameU="Entity" Name="Entità"/>
+	<Elem NameU="Value" Name="Valore"/>
+	<Elem NameU="Unary" Name="Unario"/>
+	<Elem NameU="Binary" Name="Binario"/>
+	<Elem NameU="Vertical binary" Name="Binario verticale"/>
+	<Elem NameU="Ternay" Name="Ternario"/>
+	<Elem NameU="Quaternary" Name="Quaternario"/>
+	<Elem NameU="Exclusion constraint" Name="Vincolo di esclusione"/>
+	<Elem NameU="Ext.Freq.constraint" Name="Vincolo frequenza esterna"/>
+	<Elem NameU="Frequency constraint" Name="Vincolo di frequenza"/>
+	<Elem NameU="Index annotation" Name="Annotazione indice"/>
+	<Elem NameU="Ext.P constraint" Name="Vincolo P esterno"/>
+	<Elem NameU="Mandatory constraint" Name="Vincolo obbligatorio"/>
+	<Elem NameU="Ext.Mand constraint" Name="Vincolo obbligatorio esterno"/>
+	<Elem NameU="Ext.Uniq constraint" Name="Vincolo di unicità esterno"/>
+	<Elem NameU="constraint connector" Name="Connettore di vincoli"/>
+	<Elem NameU="Equality constraint" Name="Vincolo di uguaglianza"/>
+	<Elem NameU="P constraint" Name="Vincolo P"/>
+	<Elem NameU="Ring constraint" Name="Vincolo ad anello"/>
+	<Elem NameU="Subset constraint" Name="Vincolo di sottoinsieme"/>
+	<Elem NameU="Mand.Role connector" Name="Connettore di ruolo obbligatorio"/>
+	<Elem NameU="Role connector" Name="Connettore di ruolo"/>
+	<Elem NameU="Subtype connector" Name="Connettore sottotipo"/>
+	<Elem NameU="Left uniqueness constranit" Name="Vincolo di unicità sinistro"/>
+	<Elem NameU="Uniqueness constraint" Name="Vincolo di unicità"/>
+	<Elem NameU="Middle uniqueness constraint" Name="Vincolo di unicità centrale"/>
+	<Elem NameU="Right uniqueness constraint" Name="Vincolo di unicità destro"/>
+</Lib>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Africa">
+    <Elem NameU="Algeria" Name="알제리아"/>
+    <Elem NameU="Angola" Name="앙골라"/>
+    <Elem NameU="Benin" Name="베냉"/>
+    <Elem NameU="Botswana" Name="보츠와나"/>
+    <Elem NameU="Burkina Faso" Name="부키 나 파소"/>
+    <Elem NameU="Burundi" Name="부룬디"/>
+    <Elem NameU="Cameroon" Name="카메룬"/>
+    <Elem NameU="Central African Republic" Name="중앙 아프리카 공화국"/>
+    <Elem NameU="Chad" Name="차드"/>
+    <Elem NameU="Congo" Name="콩고"/>
+    <Elem NameU="Congo (DRC)" Name="콩고 (DRC)"/>
+    <Elem NameU="Cote d'lvoire" Name="코트 디부 아르"/>
+    <Elem NameU="Djibouti" Name="지부티"/>
+    <Elem NameU="Egypt" Name="이집트"/>
+    <Elem NameU="Equatorial Guinea" Name="적도 기니"/>
+    <Elem NameU="Eritrea" Name="에리트레아"/>
+    <Elem NameU="Ethiopia" Name="에티오"/>
+    <Elem NameU="Gabon" Name="가봉"/>
+    <Elem NameU="Gambia" Name="감비아"/>
+    <Elem NameU="Ghana" Name="가나"/>
+    <Elem NameU="Guinea" Name="기니"/>
+    <Elem NameU="Guinea-Bissau" Name="기니 비사우"/>
+    <Elem NameU="Kenya" Name="케냐"/>
+    <Elem NameU="Lesotho" Name="레소토"/>
+    <Elem NameU="Liberia" Name="라이베리아"/>
+    <Elem NameU="Libya" Name="리비아"/>
+    <Elem NameU="Madagascar" Name="마다가스카르"/>
+    <Elem NameU="Malawi" Name="말라위"/>
+    <Elem NameU="Mali" Name="말리"/>
+    <Elem NameU="Mauritania" Name="모리타니"/>
+    <Elem NameU="Morocco" Name="모로코"/>
+    <Elem NameU="Mozambique" Name="모잠비크"/>
+    <Elem NameU="Namibia" Name="나미비아"/>
+    <Elem NameU="Niger" Name="니제르"/>
+    <Elem NameU="Nigeria" Name="나이지리아"/>
+    <Elem NameU="Rwanda" Name="르완다"/>
+    <Elem NameU="Senegal" Name="세네갈"/>
+    <Elem NameU="Sierra Leone" Name="시에라 리온"/>
+    <Elem NameU="Somalia" Name="소말리아"/>
+    <Elem NameU="South Africa" Name="남아프리카공화국"/>
+    <Elem NameU="Sudan" Name="수단"/>
+    <Elem NameU="Swaziland" Name="스위스"/>
+    <Elem NameU="Tanzania" Name="탄자니아"/>
+    <Elem NameU="Togo" Name="토고"/>
+    <Elem NameU="Tunisia" Name="튀니지"/>
+    <Elem NameU="Uganda" Name="우간다"/>
+    <Elem NameU="Western Sahara" Name="서부 사하라"/>
+    <Elem NameU="Zambia" Name="잠비아"/>
+    <Elem NameU="Zimbabwe" Name="짐바웨"/>
+    <Elem NameU="Lake Chad" Name="차드 호수"/>
+    <Elem NameU="Lake Malawi" Name="말라위 호수"/>
+    <Elem NameU="Lake Albert" Name="알버트 호수"/>
+    <Elem NameU="Lake Kariba" Name="카리 바 호수"/>
+    <Elem NameU="Lake Kivu" Name="키부 호수"/>
+    <Elem NameU="Lake Mweru" Name="므웨루 호수"/>
+    <Elem NameU="Lake Tanganyika" Name="탕가니카 호수"/>
+    <Elem NameU="Lake Turkana" Name="투르카나 호수"/>
+    <Elem NameU="Lake Victoria" Name="빅토리아 호수"/>
+    <Elem NameU="Lake Volta" Name="볼타호수"/>
+    <Elem NameU="Lake Nasser" Name="나세르 호수"/>
+    <Elem NameU="Africa" Name="아프리카"/>
+</Lib>

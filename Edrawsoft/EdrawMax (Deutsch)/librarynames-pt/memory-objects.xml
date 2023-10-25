@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Memory Objects">
+	<Elem NameU="3D stact top" Name="Topo de stack 3D"/>
+	<Elem NameU="3D stact middle" Name="Meio de stack 3D"/>
+	<Elem NameU="Range Label" Name="Etiqueta de Intervalo"/>
+	<Elem NameU="Range Label 2" Name="Etiqueta de Intervalo 2"/>
+	<Elem NameU="Data block" Name="Bloco de dados"/>
+	<Elem NameU="Data chunk" Name="Porção de dados"/>
+	<Elem NameU="Byte or variable" Name="Byte ou variável"/>
+	<Elem NameU="Array" Name="Conjunto"/>
+	<Elem NameU="Pointer" Name="Indicador"/>
+	<Elem NameU="Pointer 2" Name="Indicador 2"/>
+	<Elem NameU="Pointer (1-D)" Name="Indicador (1-D)"/>
+	<Elem NameU="Single link. list node" Name="Link único. lsita nó"/>
+	<Elem NameU="Single link. list node 2" Name="Link único. lsita nó 2"/>
+	<Elem NameU="Double link. list node" Name="Duplo link. lista nó"/>
+	<Elem NameU="Stack Pointer" Name="Indicador de Stack"/>
+	<Elem NameU="Stack or heap" Name="Stack ou Heap"/>
+	<Elem NameU="Data stock" Name="Estoque de dados"/>
+</Lib>

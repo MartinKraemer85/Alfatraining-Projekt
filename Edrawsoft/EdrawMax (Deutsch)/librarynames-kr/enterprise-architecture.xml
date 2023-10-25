@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Enterprise Architecture">
+    <Elem NameU="Enterprise Container" Number="3" Name="기업 컨테이너"/>
+    <Elem NameU="Business Model Container" Number="3" Name="비지니스모델 컨테이너"/>
+    <Elem NameU="Container" Name="컨테이너"/>
+    <Elem NameU="Governance Container" Name="관리 컨테이너"/>
+    <Elem NameU="Box" Name="박스"/>
+    <Elem NameU="Rounded Box" Name="둥근 박스"/>
+    <Elem NameU="Application" Name="응용프로그램"/>
+    <Elem NameU="Component" Name="구성"/>
+    <Elem NameU="Document" Name="파일"/>
+    <Elem NameU="Document 2" Name="파일 2"/>
+    <Elem NameU="App Service" Name="App서비스"/>
+    <Elem NameU="Form" Name="표"/>
+    <Elem NameU="System" Name="시스템"/>
+    <Elem NameU="Report" Name="보고"/>
+    <Elem NameU="Datebase" Name="데이터 베이스"/>
+    <Elem NameU="HW Server" Name="HW 서버"/>
+    <Elem NameU="Email" Name="이메일"/>
+    <Elem NameU="ETL Job" Name="ETL 작업"/>
+    <Elem NameU="Person" Name="사람"/>
+    <Elem NameU="Org Unit" Name="단위"/>
+    <Elem NameU="Role" Name="역할"/>
+    <Elem NameU="Contract" Name="계약"/>
+    <Elem NameU="Network" Name="네트워크"/>
+    <Elem NameU="Site" Name="사이트"/>
+    <Elem NameU="Workstation" Name="워크 스테이션"/>
+    <Elem NameU="Mobile Device" Name="모바일 디바이스"/>
+    <Elem NameU="Deployment Instace" Name="배포 인스턴스"/>
+    <Elem NameU="Network Node" Name="네트워크 노드"/>
+    <Elem NameU="Project" Name="프로젝트"/>
+    <Elem NameU="Business Flow" Number="2" Name="업무 흐름"/>
+    <Elem NameU="Program" Name="프로그램"/>
+    <Elem NameU="Goal" Name="목표"/>
+    <Elem NameU="Impact" Name="영향"/>
+    <Elem NameU="Role Association" Name="역할 관계"/>
+    <Elem NameU="Fulfillment" Name="실천"/>
+</Lib>

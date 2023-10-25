@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="UML Component Diagram">
+
+<Elem Name="コンポーネント" NameU="Component"/>
+
+<Elem Name="パッケージ" NameU="Package"/>
+
+<Elem Name="包装容器" NameU="Package Container"/>
+
+<Elem Name="依存関係" NameU="Dependency"/>
+
+<Elem Name="ノート" NameU="Note"/>
+
+<Elem Name="ノード" NameU="Node"/>
+
+<Elem Name="コンポーネントボックス" NameU="Component Box"/>
+
+<Elem Name="スタート" NameU="Start"/>
+
+<Elem Name="" NameU="Provide Interface"/>
+
+<Elem Name="必要なインターフェース" NameU="Required Interface"/>
+
+<Elem Name="組立" NameU="Assembly"/>
+
+<Elem Name="関係" NameU="Relationship"/>
+
+<Elem Name="方向関係" NameU="Directional Relationship"/>
+
+<Elem Name="集合" NameU="Aggregation"/>
+
+<Elem Name="構成" NameU="Composition"/>
+
+<Elem Name="ポイント" NameU="Point"/>
+
+</Lib>

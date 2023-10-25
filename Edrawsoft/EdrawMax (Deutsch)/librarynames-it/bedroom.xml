@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Bedroom">
+	<Elem NameU="Single bed" Name="Letto singolo"/>
+	<Elem NameU="Adjustable bed" Name="Letto regolabile"/>
+	<Elem NameU="Double bed" Name="Letto matrimoniale"/>
+	<Elem NameU="Single trundle bed" Name="Letto singolo estraibile"/>
+	<Elem NameU="Bunk bed" Name="Letto a castello"/>
+	<Elem NameU="Crib" Name="Culla"/>
+	<Elem NameU="Bassinet" Name="Culla di Vimini"/>
+	<Elem NameU="Vanity table" Name="Toeletta"/>
+	<Elem NameU="Night stand" Name="Comodino"/>
+	<Elem NameU="Circular bed" Name="Letto circolare"/>
+	<Elem NameU="Circular carpet" Name="Tappeto circolare"/>
+	<Elem NameU="Carpet" Name="Tappeto"/>
+	<Elem NameU="Bedside cabinet" Name="Comodino"/>
+	<Elem NameU="Rectangle table" Name="Tavolo rettangolare"/>
+	<Elem NameU="Large plant" Name="Pianta grande"/>
+	<Elem NameU="Small plant" Name="Pianta piccola"/>
+	<Elem NameU="House plant" Name="Pianta da appartamento"/>
+	<Elem NameU="Flat-panel TV" Name="Televisore a schermo piatto"/>
+	<Elem NameU="Spinet piano" Name="Pianoforte a spinetta"/>
+	<Elem NameU="Bookcase" Name="Libreria"/>
+	<Elem NameU="Pillow" Name="Cuscino"/>
+	<Elem NameU="Chest" Name="Cassettone"/>
+	<Elem NameU="Double dresser" Name="Credenza doppia"/>
+	<Elem NameU="Tripper dresser" Name="Credenza da trasporto"/>
+	<Elem NameU="Cabinet" Name="Armadio"/>
+	<Elem NameU="Wardrobe" Name="Guardaroba"/>
+	<Elem NameU="Shoe cabinet" Name="Scarpiera"/>
+</Lib>

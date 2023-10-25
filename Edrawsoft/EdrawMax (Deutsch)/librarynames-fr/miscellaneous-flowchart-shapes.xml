@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Miscellaneous Flowchart Shapes">
+
+<Elem Name="Début/nœud" NameU="Start/Node"/>
+
+<Elem Name="Fin/Node" NameU="End/Node"/>
+
+<Elem Name="Processus (cercle)" NameU="Process(circle)"/>
+
+<Elem Name="Stockage de données" NameU="Data store"/>
+
+<Elem Name="Entité externe" NameU="External entity"/>
+
+<Elem Name="Bande de transmission" NameU="Transmittal tape"/>
+
+<Elem Name="Processus divisé" NameU="Divided process"/>
+
+<Elem Name="Processus arrondi" NameU="Rounded process"/>
+
+<Elem Name="Création de requête" NameU="Create request"/>
+
+<Elem Name="Rectangle encadré" NameU="Framed rectangle"/>
+
+<Elem Name="Rectangle à bordure" NameU="Opened rectangle"/>
+
+<Elem Name="Retard" NameU="Delay"/>
+
+<Elem Name="Jonction de totalisation" NameU="Summing junction"/>
+
+<Elem Name="Mémoire à tambour" NameU="Drum storage"/>
+
+<Elem Name="Ou" NameU="OR"/>
+
+<Elem Name="Collationner" NameU="Collate"/>
+
+<Elem Name="Extraction" NameU="Extract"/>
+
+<Elem Name="Stockage indépendant" NameU="Off-line storage"/>
+
+<Elem Name="Fusion" NameU="Merge"/>
+
+<Elem Name="Tri" NameU="Sort"/>
+
+<Elem Name="Paquet de cartes" NameU="Deck of cards"/>
+
+<Elem Name="Cartes perforées" NameU="File of cards"/>
+
+<Elem Name="Microforme" NameU="Microform"/>
+
+<Elem Name="Enregistrement microformes" NameU="Microform recording"/>
+
+<Elem Name="Traitement microformes" NameU="Microform processing"/>
+
+<Elem Name="Reproduction" NameU="Duplicating"/>
+
+<Elem Name="Processus marqué" NameU="Tagged process"/>
+
+<Elem Name="Processus lignes/ombré" NameU="Lined Shaded process"/>
+
+<Elem Name="Document marqué" NameU="Tagged document"/>
+
+<Elem Name="Document à ligne" NameU="Lined Document"/>
+
+<Elem Name="Début variable" NameU="Variable start"/>
+
+<Elem Name="Procédure variable" NameU="Variable procedure"/>
+
+<Elem Name="Base de données" NameU="Database"/>
+
+<Elem Name="Primitive de gestion appels" NameU="Primitive from call control"/>
+
+<Elem Name="Primitive vers gestion appels" NameU="Primitive to call control"/>
+
+<Elem Name="Message de l'utilisateur" NameU="Message from user"/>
+
+<Elem Name="Message à l'utilisateur" NameU="Message to user"/>
+
+<Elem Name="Résultat" NameU="Output"/>
+
+<Elem Name="Rétroaction" NameU="Feedback"/>
+
+<Elem Name="Contrôle" NameU="Check"/>
+
+<Elem Name="Opérateur ET" NameU="And gate"/>
+
+<Elem Name="Opérateur OU" NameU="Or gate"/>
+
+<Elem Name="OUX" NameU="XOR"/>
+
+<Elem Name="OUX vertical" NameU="Vertical XOR"/>
+
+<Elem Name="ET P vertical" NameU="Vertical P And"/>
+
+<Elem Name="Perfectionnement" NameU="Refinement"/>
+
+<Elem Name="Interruption" NameU="Interrupt"/>
+
+<Elem Name="Contrôle externe" NameU="External control"/>
+
+<Elem Name="Événement divisé" NameU="Divided event"/>
+
+<Elem Name="Succursale- Retour" NameU="Branch-return"/>
+
+<Elem Name="Succursale - pas de retour" NameU="Branch-no return"/>
+
+<Elem Name="Connecteur de courbe" NameU="Curve Connector"/>
+
+</Lib>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID HVAC">
+    <Elem NameU="Actuator" Number="2" Name="促动器"/>
+    <Elem NameU="Air cleaner" Name="空气过滤器"/>
+    <Elem NameU="Air conditioner" Name="空调"/>
+    <Elem NameU="Air conditioner 2" Name="空调 2"/>
+    <Elem NameU="Air conditioner 3" Name="空调 3"/>
+    <Elem NameU="Air curtain" Name="风幕"/>
+    <Elem NameU="Air handling unit" Name="空调箱"/>
+    <Elem NameU="Btu totalizer" Name="英热单位累加器"/>
+    <Elem NameU="Building chiller" Name="建筑冷却装置"/>
+    <Elem NameU="Building heat make-up unit" Name="建筑制热装置"/>
+    <Elem NameU="Carbon filter" Name="炭过滤器"/>
+    <Elem NameU="Chilled water cooling coils" Name="冷却水冷却线圈"/>
+    <Elem NameU="Chiller system" Name="冷却系统"/>
+    <Elem NameU="Chiller" Name="冷却装置"/>
+    <Elem NameU="Chiller-heater" Name="冷却器-加热器"/>
+    <Elem NameU="Commercial storage tank" Name="商业储蓄罐"/>
+    <Elem NameU="Condenser" Name="冷凝器"/>
+    <Elem NameU="Containment barrier" Name="安全壳屏障"/>
+    <Elem NameU="Deaerator" Name="除气器"/>
+    <Elem NameU="Dehumidifier" Name="减湿剂"/>
+    <Elem NameU="Diffuser" Name="扩散器"/>
+    <Elem NameU="Double damper 1" Name="双阻尼器 1"/>
+    <Elem NameU="Double damper 2" Name="双阻尼器 2"/>
+    <Elem NameU="Electronic flow hood" Name="电流罩"/>
+    <Elem NameU="Energy-recovery ventilator" Name="能量回收通风设备"/>
+    <Elem NameU="Exhaust fan" Name="排气扇"/>
+    <Elem NameU="Expansion joint" Name="伸缩缝"/>
+    <Elem NameU="Furnace" Name="熔炉"/>
+    <Elem NameU="Gas-electric wall-mount" Name="气电壁插"/>
+    <Elem NameU="Gas-fired infrared heater" Name="燃气红外加热器"/>
+    <Elem NameU="Grilled heat exchanger" Name="烤热交换器"/>
+    <Elem NameU="Heat pump" Name="热泵"/>
+    <Elem NameU="Heater damper" Name="加热器阻尼器"/>
+    <Elem NameU="Heating coil" Name="加热线圈"/>
+    <Elem NameU="Heating and cooling unit" Name="加热和制冷机组"/>
+    <Elem NameU="Heavy-duty water heater" Name="重型热水器"/>
+    <Elem NameU="High-velocity exhaust system" Name="高速排气系统"/>
+    <Elem NameU="HVAC unit" Name="空调机组"/>
+    <Elem NameU="Indirect fired industrial heater" Name="间接发射工业加热器"/>
+    <Elem NameU="Portable air conditioner" Name="便携式空调"/>
+    <Elem NameU="Pressurization unit" Name="增压单元"/>
+    <Elem NameU="Radiator coil" Name="散热器盘管"/>
+    <Elem NameU="Roof vent" Name="屋顶排气孔"/>
+    <Elem NameU="Rooftop air conditioner" Name="屋顶式空调机"/>
+    <Elem NameU="Rooftop unit" Name="屋顶式空调机"/>
+    <Elem NameU="Round damper" Name="圆阻尼器"/>
+    <Elem NameU="Simple air handing unit" Name="简易组合式空调机组"/>
+    <Elem NameU="Simple filter" Name="简易过滤器"/>
+    <Elem NameU="Single damper" Name="单气闸"/>
+    <Elem NameU="Thermal purge unit" Name="热清洗装置"/>
+    <Elem NameU="Triple damper" Name="三通挡板"/>
+    <Elem NameU="Triple damper with circular opening" Name="带圆孔的三通挡板"/>
+    <Elem NameU="Unit ventilator" Name="通风机组"/>
+    <Elem NameU="Vent hood" Name="通气罩"/>
+    <Elem NameU="Ventilation system" Name="通风系统"/>
+    <Elem NameU="Ventilator" Name="通风机"/>
+    <Elem NameU="Water heater" Name="热水器"/>
+    <Elem NameU="Window air conditioner" Name="窗式空调"/>
+    <Elem NameU="Coiler" Name="绕线机"/>
+    <Elem NameU="Coil fan" Name="线圈风扇"/>
+    <Elem NameU="Fan" Name="风扇"/>
+    <Elem NameU="Exhaust fan" Name="排气扇"/>
+    <Elem NameU="Smoke extractor exhaust fan" Name="排烟风机"/>
+    <Elem NameU="Air handling system" Name="空气调节系统"/>
+    <Elem NameU="Main Freezing Engine" Name="主要冻结引擎"/>
+    <Elem NameU="Fan coil unit " Name="风机盘管"/>
+    <Elem NameU="Frequency control" Name="频率控制"/>
+    <Elem NameU="Smart Temperature Controller" Name="智能温控仪"/>
+</Lib>

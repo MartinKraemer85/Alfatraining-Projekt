@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Mathematical Symbol">
+	<Elem NameU="Fraction" Name="Fração"/>
+	<Elem NameU="Derivative" Name="Derivativo"/>
+	<Elem NameU="Plus" Name="Mais"/>
+	<Elem NameU="Minus" Name="Menos"/>
+	<Elem NameU="Plus or Minus" Name="Mais ou Menos"/>
+	<Elem NameU="Is Multiplied By" Name="É Multiplicado Por"/>
+	<Elem NameU="Is Divided By " Name="É Dividido Por"/>
+	<Elem NameU="Is Equal To " Name="É Igual A"/>
+	<Elem NameU="Is Not Equal To" Name="Não É Igual A"/>
+	<Elem NameU="Is Equal To Or Approximately Equal To " Name="É Igual A Ou Aproximadamente Igual A"/>
+	<Elem NameU="Is Equivalent To" Name="É Equivalente A"/>
+	<Elem NameU="Is Approximately Equal To" Name="É Aproximadamente Igual A"/>
+	<Elem NameU="Is Less Than" Name="É Menor Que"/>
+	<Elem NameU="Is More Than" Name="É Maior Que"/>
+	<Elem NameU="Is Less Than Or Equal To" Name="É Menor A Ou Igual A"/>
+	<Elem NameU="Is More Than Or Equal To" Name="É Maior Que Ou Igual A"/>
+	<Elem NameU="Percent" Name="Percentuais"/>
+	<Elem NameU="Per Mill" Name="Por Milhar"/>
+	<Elem NameU="Infinity" Name="Infinito"/>
+	<Elem NameU="Varies As" Name="Varia Conforme"/>
+	<Elem NameU="Since; Because" Name="Desde; Porque"/>
+	<Elem NameU="Hence" Name="Assim"/>
+	<Elem NameU="proportion" Name="proporção"/>
+	<Elem NameU="Angle" Name="Ângulo"/>
+	<Elem NameU="Semicircle" Name="Semicírculo"/>
+	<Elem NameU="Circle" Name="Círculo"/>
+	<Elem NameU="Circumference" Name="Circunferência"/>
+	<Elem NameU="Pi" Name="Pi"/>
+	<Elem NameU="Triangle" Name="Triângulo"/>
+	<Elem NameU="Perpendicular To" Name="Perpendicular A"/>
+	<Elem NameU="Union Of" Name="União De"/>
+	<Elem NameU="Intersection Of" Name="Intersecção De"/>
+	<Elem NameU="The Integral Of" Name="A Integral De"/>
+	<Elem NameU="Summation Of" Name="Soma De"/>
+	<Elem NameU="Degree" Name="Grau"/>
+	<Elem NameU="Minute" Name="Minuto"/>
+	<Elem NameU="Second" Name="SEgundo"/>
+	<Elem NameU="Celsius System" Name="Sistema de Celsius"/>
+	<Elem NameU="Ampersand, And, Reference" Name="Ampersand , E, Referência"/>
+	<Elem NameU="Slash, Divide, Oblique" Name="Barra, Dividir, Oblíquo"/>
+	<Elem NameU="Pound" Name="Libra"/>
+	<Elem NameU="Tilde" Name="Til"/>
+	<Elem NameU="Full Stop" Name="Ponto Final"/>
+	<Elem NameU="Omma" Name="Omma"/>
+	<Elem NameU="Colon" Name="Dois Pontos"/>
+	<Elem NameU="Semicolon" Name="Ponto e Vírgula"/>
+	<Elem NameU="Question Mark" Name="Ponto de Interrogação"/>
+	<Elem NameU="Exclamation Mark" Name="Ponto de Exclamação"/>
+	<Elem NameU="Dots/ Ellipsis" Name="Pontos/ Elipse"/>
+	<Elem NameU="Section; Division" Name="Secção; Divisão"/>
+	<Elem NameU="Arrow" Name="Seta"/>
+	<Elem NameU="Vertical Bar, Vertical Virgule " Name="Barra Vertical, Vírgula Vertical"/>
+	<Elem NameU="Parallel" Name="Paralelo"/>
+	<Elem NameU="Contain" Name="Contém"/>
+	<Elem NameU="Contain Or Is Equal To" Name="Contém Ou É Igual A"/>
+	<Elem NameU="Not Contain" Name="Não Contém"/>
+	<Elem NameU="Belong To" Name="Pertence A"/>
+	<Elem NameU="Not Belong To" Name="Não Pertence A"/>
+	<Elem NameU="Open Brace, Open Curly" Name="Abrir Parêntese, Abrir Chaveta"/>
+	<Elem NameU="Close Brace, Close Curly" Name="Fechar Parêntese, Abrir Chaveta"/>
+	<Elem NameU="Open Bracket" Name="Abrir Chaveta"/>
+	<Elem NameU="Close Bracket" Name="Fechar Chaveta"/>
+	<Elem NameU="Open Parenthesis, Open Paren" Name="Abrir Parênteses, Abrir Paren"/>
+	<Elem NameU="Close Parenthesis, Close Paren" Name="Fechar Parênteses, Fechar Paren"/>
+</Lib>

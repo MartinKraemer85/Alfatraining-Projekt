@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Brainstorming">
+	<Elem NameU="Brainstorming" Name="Brainstorming"/>
+	<Elem NameU=" Brainstorming" Name="Brainstorming"/>
+	<Elem NameU="Idea" Name="Idea"/>
+	<Elem NameU="Ellipse Callout" Name="Callout Ellittico"/>
+	<Elem NameU="Rectangle Callout" Name="Callout Rettangolare"/>
+	<Elem NameU="Floating Shape" Name="Forma Fluttuante"/>
+	<Elem NameU="Floating Shape 2" Name="Forma Fluttuante 2"/>
+</Lib>

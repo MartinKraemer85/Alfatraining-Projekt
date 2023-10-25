@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Bar Chart">
+    <Elem NameU="Simple Bar Chart" Name="简单条形图"/>
+    <Elem NameU="Gradient Bar Chart" Name="渐变色条形图"/>
+    <Elem NameU="Single Series Bar Chart" Name="单系列条形图"/>
+    <Elem NameU="Bar Chart" Name="条形图"/>
+    <Elem NameU="Bar Chart 2" Name="条形图 2"/>
+    <Elem NameU="Stacked Bar Chart" Name="堆积条形图"/>
+    <Elem NameU="Stacked Bar Chart 2" Name="堆积条形图2"/>
+    <Elem NameU="Gradient Stacked Bar Chart" Name="渐变堆积条形图"/>
+    <Elem NameU="Single Bar Chart" Name="简单条形图"/>
+    <Elem NameU="Percentage Stacked Bar Chart" Name="百分比堆积条形图"/>
+    <Elem NameU="Percentage Stacked Bar Chart 2" Name="百分比堆积条形图 2"/>
+    <Elem NameU="Percentage Stacked Bar Chart 3" Name="百分比堆积条形图 3"/>
+    <Elem NameU="Percentage Bar Chart" Name="百分比条形图"/>
+</Lib>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Process Heating">
+    <Elem NameU="Batch oven" Name="分批式炉"/>
+    <Elem NameU="Calender" Name="砑光机"/>
+    <Elem NameU="Circulation heater" Name="循环式加热器"/>
+    <Elem NameU="Compensator" Name="补偿器 1"/>
+    <Elem NameU="Condenser 1" Name="补偿器 2"/>
+    <Elem NameU="Condenser 2" Name="补偿器 3"/>
+    <Elem NameU="Conveyorized oven" Name="传送带式炉"/>
+    <Elem NameU="Evaporator" Name="蒸发器"/>
+    <Elem NameU="Expansion loop" Name="膨胀弯管"/>
+    <Elem NameU="Flameless thermal oxidizer" Name="无焰热氧化器"/>
+    <Elem NameU="Heat exchanger 1" Name="热交换器 1"/>
+    <Elem NameU="Heat exchanger 2" Name="热交换器 2"/>
+    <Elem NameU="Heat exchanger 3" Name="热交换器 3"/>
+    <Elem NameU="Heat exchanger 4" Name="热交换器 4"/>
+    <Elem NameU="Heat exchanger 5" Name="热交换器 5"/>
+    <Elem NameU="Heat exchanger 6" Name="热交换器 6"/>
+    <Elem NameU="Heat exchanger 7" Name="热交换器 7"/>
+    <Elem NameU="Heat exchanger 8" Name="热交换器 8"/>
+    <Elem NameU="Heat exchanger 9" Name="热交换器 9"/>
+    <Elem NameU="Heat recovery system 1" Name="热回收系统 1"/>
+    <Elem NameU="Heat recovery system 2" Name="热回收系统 2"/>
+    <Elem NameU="Heat recovery system" Name="热回收系统 3"/>
+    <Elem NameU="Heat transfer system" Name="换热系统"/>
+    <Elem NameU="Hot oil heater" Name="导热油加热器"/>
+    <Elem NameU="Hot oil system" Name="导热油加热系统"/>
+    <Elem NameU="Immersion heater" Name="浸没式加热器"/>
+    <Elem NameU="Indirect large volume water heater" Name="间接大水量加热器"/>
+    <Elem NameU="Low-emission burner" Name="低排放燃烧器"/>
+    <Elem NameU="Power burner" Name="大功率燃烧器"/>
+    <Elem NameU="Process heater" Name="过程加热器"/>
+    <Elem NameU="Shell and tube condenser" Name="列管式冷凝器"/>
+    <Elem NameU="Simple condenser" Name="简易冷凝器"/>
+    <Elem NameU="Simple heat exchanger" Name="简易热交换器"/>
+    <Elem NameU="Simple steam generator 1" Name="蒸汽发生器 1"/>
+    <Elem NameU="Simple steam generator 2" Name="蒸汽发生器 2"/>
+    <Elem NameU="Steam generator 1" Name="蒸汽发生器 3"/>
+    <Elem NameU="Steam generator 2" Name="蒸汽发生器 4"/>
+    <Elem NameU="Steam mixer" Name="蒸汽混合器"/>
+    <Elem NameU="Steam trap" Name="蒸汽疏水阀"/>
+    <Elem NameU="Thermal fluid heater" Name="热流体加热器"/>
+    <Elem NameU="Turbocoil hot oil heater" Name="导热油加热器 2"/>
+    <Elem NameU="Warming oven" Name="食物保温箱"/>
+    <Elem NameU="Water heater system" Name="水加热装置"/>
+    <Elem NameU="Preheater" Name="预热器"/>
+    <Elem NameU="Air preheater" Number="2" Name="空气预热器"/>
+    <Elem NameU="Electric Heater" Name="电加热器"/>
+    <Elem NameU="Rotary air-preheater" Name="回转式空气预热器"/>
+    <Elem NameU="Vertical preheater" Name="竖式预热器"/>
+    <Elem NameU="Drying equipment" Name="烘干设备"/>
+    <Elem NameU="Distillation" Name="蒸馏设备"/>
+    <Elem NameU="Drying" Number="2" Name="干燥设备"/>
+    <Elem NameU="Superheater" Name="过热器"/>
+    <Elem NameU="Yeast drying tower" Name="酵母干燥塔"/>
+    <Elem NameU="Rotary dryer" Name="旋转干燥器"/>
+    <Elem NameU="Drying columns" Name="烘干塔"/>
+    <Elem NameU="Dryer" Name="烘干机"/>
+    <Elem NameU="Heat Exchange System" Name="热交换系统"/>
+    <Elem NameU="Solar collector" Number="2" Name="太阳能集热器"/>
+</Lib>

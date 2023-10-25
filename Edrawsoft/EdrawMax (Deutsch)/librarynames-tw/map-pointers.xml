@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Map Pointers">
+    <Elem NameU="Location 1" Name="位置"/>
+    <Elem NameU="Location 2" Name="位置"/>
+    <Elem NameU="Location 3" Name="位置"/>
+    <Elem NameU="Location" Name="位置"/>
+    <Elem NameU="Location 4" Name="位置"/>
+    <Elem NameU="Location 6" Name="位置"/>
+    <Elem NameU="Location 7" Name="位置"/>
+    <Elem NameU="Location 8" Name="位置"/>
+    <Elem NameU="Location 9" Name="位置"/>
+    <Elem NameU="Location 10" Name="位置"/>
+    <Elem NameU="Location 11" Name="位置"/>
+    <Elem NameU="Location 12" Name="位置"/>
+    <Elem NameU="Location 13" Name="位置"/>
+    <Elem NameU="Location 14" Name="位置"/>
+    <Elem NameU="Location 15" Name="位置"/>
+    <Elem NameU="Location 16" Name="位置"/>
+    <Elem NameU="Location 17" Name="位置"/>
+    <Elem NameU="Location 18" Name="位置"/>
+    <Elem NameU="Location 19" Name="位置"/>
+    <Elem NameU="Flags" Number="3" Name="旗幟"/>
+    <Elem NameU="Callout Flag" Name="旗幟標註"/>
+    <Elem NameU="Aircraft" Number="3" Name="飛機"/>
+    <Elem NameU="Chess" Number="2" Name="象棋"/>
+    <Elem NameU="Box Callout with all directions" Name="全方向氣泡標註"/>
+    <Elem NameU="Oval Callout with all directions" Name="全方向橢圓氣泡標註"/>
+    <Elem NameU="Circular Callout" Name="圓形氣泡標註"/>
+    <Elem NameU="Rectangle width Line" Name="長方形標註"/>
+    <Elem NameU="Line Text" Number="3" Name="線形標註"/>
+    <Elem NameU="Compass" Name="方向"/>
+</Lib>

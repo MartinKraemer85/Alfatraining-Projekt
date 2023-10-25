@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Callouts">
+	<Elem NameU="Kaboom 1" Name="砰！"/>
+	<Elem NameU="Callout" Name="标注"/>
+	<Elem NameU="KABOOM" Name="砰！！！"/>
+	<Elem NameU="Open Brace, Open Curly" Name="左大括号"/>
+	<Elem NameU="Close Brace, Close Curly" Name="右大括号"/>
+	<Elem NameU="Open Bracket" Name="左方括号"/>
+	<Elem NameU="Close Bracket" Name="右方括号"/>
+</Lib>

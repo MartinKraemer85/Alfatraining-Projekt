@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Family">
+	<Elem NameU="Father" Name="Pai"/>
+	<Elem NameU="Mother" Name="Mãe"/>
+	<Elem NameU="Grandfather" Name="Avô"/>
+	<Elem NameU="Grandmother" Name="Avó"/>
+	<Elem NameU="Uncle" Name="Tio"/>
+	<Elem NameU="Aunt" Name="Tia"/>
+	<Elem NameU="Son 1" Name="Filho 1"/>
+	<Elem NameU="Son 2" Name="Filho 2"/>
+	<Elem NameU="Daughter 1" Name="Filha 1"/>
+	<Elem NameU="Daughter 2" Name="Filha 2"/>
+	<Elem NameU="Baby" Name="Bebé"/>
+	<Elem NameU="Wedding Couple" Name="Casal de Recém-Casados"/>
+	<Elem NameU="Father and Mother" Name="Pai e Mãe"/>
+	<Elem NameU="Grandparents" Name="Avós"/>
+	<Elem NameU="Parents and Kids" Name="Pais e Filhos"/>
+	<Elem NameU="Mother,Baby and Stroller" Name="Mãe, Bebé e Carrinho de Criança"/>
+	<Elem NameU="Parents and Kids 2" Name="Pais e Filhos 2"/>
+	<Elem NameU="Grandfather, Father and Son" Name="Avô, Pai e Filho"/>
+	<Elem NameU="Father and Son" Name="Pai e Filho"/>
+	<Elem NameU="Parents and Daughter" Name="Pais e Filha"/>
+	<Elem NameU="Sisters" Name="Irmãs"/>
+	<Elem NameU="Brother and Sister" Name="Irmão e Irmã"/>
+	<Elem NameU="Sister and Brother" Name="Irmã e Irmão"/>
+	<Elem NameU="Brothers" Name="Irmãos"/>
+	<Elem NameU="Father and Uncle" Name="Pai e Tio"/>
+	<Elem NameU="Father and Kids" Name="Pai e Filhos"/>
+	<Elem NameU="Mother and Kids" Name="Mãe e Filhos"/>
+	<Elem NameU="Uncle and Aunt" Name="Tio e Tia"/>
+	<Elem NameU="Grandmother and Granddaughter" Name="Avó e Avô"/>
+	<Elem NameU="Grandfather and Grandson" Name="Avô e Neto"/>
+	<Elem NameU="Grandmother, Mother and Daughter" Name="Avó, Mãe e Filha"/>
+	<Elem NameU="Parents and Kids 3" Name="Pais e Filhos 3"/>
+	<Elem NameU="Family Group 1" Name="Grupo de Família 1"/>
+	<Elem NameU="Family Group 2" Name="Grupo de Família 2"/>
+</Lib>

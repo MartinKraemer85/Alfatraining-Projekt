@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Boilers">
+    <Elem NameU="Boiler" Name="锅炉"/>
+    <Elem NameU="Boiler 2" Name="锅炉 2"/>
+    <Elem NameU="Boiler 3" Name="锅炉 3"/>
+    <Elem NameU="Boiler 4" Name="锅炉 4"/>
+    <Elem NameU="Boiler 5" Name="锅炉 5"/>
+    <Elem NameU="Boiler 6" Name="锅炉 6"/>
+    <Elem NameU="Boiler 7" Name="锅炉 7"/>
+    <Elem NameU="Boiler 8" Name="锅炉 8"/>
+    <Elem NameU="Boiler 9" Name="锅炉 9"/>
+    <Elem NameU="Boiler 10" Name="锅炉 10"/>
+    <Elem NameU="Boiler 11" Name="锅炉 11"/>
+    <Elem NameU="Boiler 12" Name="锅炉 12"/>
+    <Elem NameU="Boiler 13" Name="锅炉 13"/>
+    <Elem NameU="Boiler 14" Name="锅炉 14"/>
+    <Elem NameU="Boiler with flames and pipe" Name="火焰管道式锅炉"/>
+    <Elem NameU="Boiler with flames" Name="有火焰的锅炉符号"/>
+    <Elem NameU="Boiler with small fire" Name="火焰式锅炉"/>
+    <Elem NameU="Blast furnace" Name="鼓风炉"/>
+    <Elem NameU="Electric hot water and steam boiler" Name="电动热水和蒸汽锅炉"/>
+    <Elem NameU="Boiler control" Name="锅炉控制"/>
+    <Elem NameU="Firebox boiler" Name="火室锅炉"/>
+    <Elem NameU="Heating furnace" Name="加热炉"/>
+    <Elem NameU="Hot blast heater" Name="热风加热器"/>
+    <Elem NameU="Low emission boiler" Name="低排放锅炉"/>
+    <Elem NameU="Boiler symbol" Name="锅炉符号"/>
+    <Elem NameU="Firebox" Name="火室"/>
+    <Elem NameU="Flexible water tube boiler" Name="可调水管式锅炉"/>
+    <Elem NameU="Oil fired boiler" Name="燃油锅炉"/>
+    <Elem NameU="Packaged firetube boiler" Name="包装火管锅炉"/>
+    <Elem NameU="Pulse combustion boiler" Name="脉动燃烧加热炉"/>
+    <Elem NameU="Skid-mounted boiler" Name="橇装锅炉"/>
+    <Elem NameU="Steam boiler" Name="蒸汽锅炉"/>
+    <Elem NameU="Superheater" Name="过热器"/>
+</Lib>

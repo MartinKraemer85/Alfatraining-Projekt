@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Venn Chart">
+    <Elem NameU="Venn-2 circles" Name="二圓維恩圖"/>
+    <Elem NameU="Venn-3 circles" Name="三圓維恩圖"/>
+    <Elem NameU="Venn-3 circles 2" Name="三圓維恩圖 2"/>
+    <Elem NameU="Dynamic Venn-2" Name="動態二圓維恩圖"/>
+    <Elem NameU="Dynamic Venn" Name="動態維恩圖"/>
+    <Elem NameU="Venn multi-layers" Name="多層式維恩圖"/>
+    <Elem NameU="Venn multi-layers 2" Name="多層式維恩圖 2"/>
+    <Elem NameU="Cylinder Venn" Name="圓柱多層式維恩圖"/>
+    <Elem NameU="Cylinder Venn 2" Name="圓柱多層式維恩圖 2"/>
+    <Elem NameU="Custom venn" Name="自定義維恩圖"/>
+</Lib>

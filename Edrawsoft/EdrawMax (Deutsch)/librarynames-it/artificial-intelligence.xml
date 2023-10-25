@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Artificial Intelligence">
+	<Elem NameU="Robot" Name="Robot"/>
+	<Elem NameU="Intelligent Sound" Name="Suono Intelligente"/>
+	<Elem NameU="AI 1" Name="IA 1"/>
+	<Elem NameU="Intelligent Knowledge" Name="Conoscenza Intelligente"/>
+	<Elem NameU="Technology And The Brain 2" Name="Tecnologia e Cervello 2"/>
+	<Elem NameU="Technology And The Brain 1" Name="Tecnologia e Cervello 1"/>
+	<Elem NameU="AI 2" Name="IA 2"/>
+	<Elem NameU="Mechanical Brain" Name="Cervello Meccanico"/>
+	<Elem NameU="Human Thinking" Name="Pensiero Umano"/>
+	<Elem NameU="Mental Focus" Name="Concentrazione Mentale"/>
+	<Elem NameU="Creativity" Name="Creatività"/>
+	<Elem NameU="Abstract Thinking 2" Name="Pensiero Astratto 2"/>
+	<Elem NameU="Abstract Thinking 1" Name="Pensiero Astratto 1"/>
+	<Elem NameU="Discovery 1" Name="Scoperta 1"/>
+	<Elem NameU="Discovery 2" Name="Scoperta 2"/>
+	<Elem NameU="Communication" Name="Comunicazione"/>
+	<Elem NameU="People with Intelligence" Name="Persone con Intelligenza"/>
+	<Elem NameU="Automaton 1" Name="Automa 1"/>
+	<Elem NameU="Automaton 2" Name="Automa 2"/>
+	<Elem NameU="Automaton 3" Name="Automa 3"/>
+	<Elem NameU="Automaton 4" Name="Automa 4"/>
+	<Elem NameU="Robot Dog" Name="Cane Robot"/>
+	<Elem NameU="Manipulator 1" Name="Manipolatore 1"/>
+	<Elem NameU="Manipulator 2" Name="Manipolatore 2"/>
+	<Elem NameU="People With Intelligence" Name="Persone Con Intelligenza"/>
+	<Elem NameU="Wire" Name="Cavo"/>
+	<Elem NameU="Machinery" Name="Macchine"/>
+	<Elem NameU="Smart Home" Name="Casa Intelligente"/>
+	<Elem NameU="Intelligent Mop" Name="Scopa Intelligente"/>
+	<Elem NameU="Smart Glasses" Name="Occhiali Intelligenti"/>
+	<Elem NameU="Blood Pressure Bracelet" Name="Braccialetto per la Pressione"/>
+	<Elem NameU="Dust Robot" Name="Robot Aspirapolvere"/>
+	<Elem NameU="Smartwatch" Name="Smartwatch"/>
+	<Elem NameU="Moving Bracelet" Name="Braccialetti Semoventi"/>
+	<Elem NameU="VR Glasses" Name="Occhiali VR"/>
+	<Elem NameU="Mechanical Arm" Name="Braccio Meccanico"/>
+	<Elem NameU="Chip Pattern 1" Name="Schema di Chip 1"/>
+	<Elem NameU="Chip Pattern 2" Name="Schema di Chip 2"/>
+	<Elem NameU="Chip Pattern 3" Name="Schema di Chip 3"/>
+	<Elem NameU="Line" Name="Linea"/>
+	<Elem NameU="Fingerprint 1" Name="Impronte 1"/>
+	<Elem NameU="Fingerprint 2" Name="Impronte 2"/>
+	<Elem NameU="Fingerprint Scanning" Name="Scansione Impronte"/>
+	<Elem NameU="Fingerprint Scanner" Name="Scanner di Impronte"/>
+	<Elem NameU="Aiming" Name="Mirino"/>
+	<Elem NameU="iPhone" Name="iPhone"/>
+	<Elem NameU="Robot Cooking" Name="Robot da Cucina"/>
+	<Elem NameU="Robot Walking a Dog" Name="Robot che Porta a Spasso il Cane"/>
+	<Elem NameU="Robot Cleaning Floor" Name="Robot che Pulisce i Pavimenti"/>
+	<Elem NameU="Robot Watering Flower" Name="Robot che Annaffia le Piante"/>
+	<Elem NameU="Robot Throwing Trash" Name="Robot che Butta la Spazzatura"/>
+	<Elem NameU="Robot Cleaning the House" Name="Robot che Pulisce Casa"/>
+	<Elem NameU="Robot Sweeping the Floor" Name="Robot che Spazza il Pavimento"/>
+	<Elem NameU="Robot Serving Food" Name="Robot che Serve da Mangiare"/>
+	<Elem NameU="Robot Playing Go" Name="Robot che Gioca a Go"/>
+	<Elem NameU="Robot Playing Computer" Name="Robot che Gioca al Computer"/>
+	<Elem NameU="Robot Playing Go with Human" Name="Robot che Gioca con Umani"/>
+	<Elem NameU="Robotic Arm" Name="Braccio Robotico"/>
+	<Elem NameU="AI Visual Identity" Name="Identità Visiva dell'IA"/>
+	<Elem NameU="AI for Cognition" Name="IA per Cognizione "/>
+	<Elem NameU="Artificial Intelligence" Name="Intelligenza Artificiale"/>
+</Lib>

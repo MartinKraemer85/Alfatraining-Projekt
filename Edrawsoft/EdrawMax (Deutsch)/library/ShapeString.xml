@@ -1,0 +1,1386 @@
+<ShapeStrings Version="7.8">
+	<String NameU="(+)" FromShape="Flags 2"/>
+	<String NameU="(-)" FromShape="Flags 2"/>
+	<String NameU="(x)" FromShape="Flags 2"/>
+	<String NameU="+" FromShape="Flags 2"/>
+	<String NameU="-" FromShape="Flags 2"/>
+	<String NameU="-10" FromShape="List"/>
+	<String NameU="-20" FromShape="List"/>
+	<String NameU="-30" FromShape="List"/>
+	<String NameU="0" FromShape="List"/>
+	<String NameU="0 deg." FromShape="3 position switch"/>
+	<String NameU="0%" FromShape="Dynamic Progress"/>
+	<String NameU="0.0" FromShape="Column"/>
+	<String NameU="0.00" FromShape="Column"/>
+	<String NameU="0.000" FromShape="Column"/>
+	<String NameU='0.000"' FromShape="Pie with Handle"/>
+	<String NameU="0.2" FromShape="Oblique connector"/>
+	<String NameU="0.25" FromShape="Oblique connector"/>
+	<String NameU="0.3333" FromShape="Oblique connector"/>
+	<String NameU="0.5" FromShape="Oblique connector"/>
+	<String NameU="0.57735026918963" FromShape="Oblique connector"/>
+	<String NameU="00" FromShape="Column"/>
+	<String NameU="1" FromShape="Circular Gauge"/>
+	<String NameU="1 Line Inout" FromShape="Bell"/>
+	<String NameU="1-phase" FromShape="Winding connection"/>
+	<String NameU="1.7320508075689" FromShape="Oblique connector"/>
+	<String NameU="10" FromShape="List"/>
+	<String NameU="100%" FromShape="Dynamic Progress"/>
+	<String NameU="12 px" FromShape="Frame"/>
+	<String NameU="120 deg." FromShape="3 position switch"/>
+	<String NameU="135 deg." FromShape="4 position switch"/>
+	<String NameU="16 px" FromShape="Frame"/>
+	<String NameU="1:1" FromShape="Oblique connector"/>
+	<String NameU="1:2" FromShape="Oblique connector"/>
+	<String NameU="1:3" FromShape="Oblique connector"/>
+	<String NameU="1:4" FromShape="Oblique connector"/>
+	<String NameU="1:5" FromShape="Oblique connector"/>
+	<String NameU="1st extension only" FromShape="Angle center"/>
+	<String NameU="2" FromShape="Circular Gauge"/>
+	<String NameU="2 Electrodes" FromShape="Crystal"/>
+	<String NameU="2 Line Input" FromShape="Bell"/>
+	<String NameU="2-phase" FromShape="Winding connection"/>
+	<String NameU="20" FromShape="List"/>
+	<String NameU="240 deg." FromShape="3 position switch"/>
+	<String NameU="25%" FromShape="Dynamic Progress"/>
+	<String NameU="2:1" FromShape="Oblique connector"/>
+	<String NameU="2nd extension only" FromShape="Angle center"/>
+	<String NameU="3" FromShape="Circular Gauge"/>
+	<String NameU="3 Electrodes" FromShape="Crystal"/>
+	<String NameU="3 State Data" FromShape="Signal waveforms"/>
+	<String NameU="3-phase Delta" FromShape="Winding connection"/>
+	<String NameU="3-phase Star Type" FromShape="3-phase star"/>
+	<String NameU="3-phase Wye" FromShape="Winding connection"/>
+	<String NameU="30" FromShape="List"/>
+	<String NameU="30°" FromShape="Oblique connector"/>
+	<String NameU="3:1" FromShape="Oblique connector"/>
+	<String NameU="4" FromShape="Circular Gauge"/>
+	<String NameU="4 Electrodes" FromShape="Crystal"/>
+	<String NameU="4 px" FromShape="Frame"/>
+	<String NameU="45 deg." FromShape="4 position switch"/>
+	<String NameU="45°" FromShape="Oblique connector"/>
+	<String NameU="4:1" FromShape="Oblique connector"/>
+	<String NameU="5" FromShape="Circular Gauge"/>
+	<String NameU="50%" FromShape="Dynamic Progress"/>
+	<String NameU="5:1" FromShape="Oblique connector"/>
+	<String NameU="6" FromShape="Amplifier"/>
+	<String NameU="6-phase Diametrical" FromShape="Winding connection"/>
+	<String NameU="6-phase Double-delta" FromShape="Winding connection"/>
+	<String NameU="60°" FromShape="Oblique connector"/>
+	<String NameU="75%" FromShape="Dynamic Progress"/>
+	<String NameU="8" FromShape="multi-line bus"/>
+	<String NameU="8 px" FromShape="Frame"/>
+	<String NameU="90 deg." FromShape="4 position switch"/>
+	<String NameU="A.C." FromShape="Circuit breaker 1P"/>
+	<String NameU="AC" FromShape="Motor"/>
+	<String NameU="AND" FromShape="Logic gate 1"/>
+	<String NameU="Active" FromShape="Space station"/>
+	<String NameU="Add 1 U" FromShape="Rack"/>
+	<String NameU="Add Microphone" FromShape="Speaker"/>
+	<String NameU="Add a Board" FromShape="Terminal board"/>
+	<String NameU="Add a Box" FromShape="Block Loop"/>
+	<String NameU="Add a Category" FromShape="Column"/>
+	<String NameU="Add a Chair" FromShape="Table with Chairs"/>
+	<String NameU="Add a Circle" FromShape="Basic Loop"/>
+	<String NameU="Add a Column" FromShape="Six Matrix"/>
+	<String NameU="Add a Level" FromShape="List"/>
+	<String NameU="Add a Pie" FromShape="Variable Radian Pie"/>
+	<String NameU="Add a Point" FromShape="Scatter Plot"/>
+	<String NameU="Add a Ring" FromShape="Circle 5"/>
+	<String NameU="Add a Row" FromShape="Six Matrix"/>
+	<String NameU="Add a Segment" FromShape="Circular Motion"/>
+	<String NameU="Add a Step" FromShape="Multi-Style Process"/>
+	<String NameU="Add an Arrow" FromShape="Multi-arrow Circle"/>
+	<String NameU="Add an Item" FromShape="Check Box"/>
+	<String NameU="Additional Measuring Freq - On Request" FromShape="Frequency spectrum element"/>
+	<String NameU="Additional Measuring Frequency" FromShape="Frequency spectrum element"/>
+	<String NameU="Ad-Hoc" FromShape="Collapsed Sub-Process"/>
+	<String NameU="Adjustability" FromShape="Inductor"/>
+	<String NameU="Adjustable" FromShape="Inductor"/>
+	<String NameU="Air" FromShape="Inductor"/>
+	<String NameU="Air-core" FromShape="Transformer"/>
+	<String NameU="Alarm Fuse" FromShape="Fuse"/>
+	<String NameU="Alert 1" FromShape="Alert"/>
+	<String NameU="Alert 2" FromShape="Alert"/>
+	<String NameU="Alert 3" FromShape="Alert"/>
+	<String NameU="Alert 4" FromShape="Alert"/>
+	<String NameU="All" FromShape="Braces with text"/>
+	<String NameU="Alternating" FromShape="Radio station 1"/>
+	<String NameU="Alternating-Current" FromShape="Relay"/>
+	<String NameU="Alternative" FromShape="Pump"/>
+	<String NameU="Alternative Form" FromShape="Bell"/>
+	<String NameU="Alternative Symbol" FromShape="Radiation"/>
+	<String NameU="Ammeter" FromShape="Indicator"/>
+	<String NameU="Amplified Phone" FromShape="Telephone"/>
+	<String NameU="Amplifier Type" FromShape="Amplifier"/>
+	<String NameU="Analog to Digital" FromShape="Converter"/>
+	<String NameU="Angle" FromShape="Horizontal"/>
+	<String NameU="Angle 2" FromShape="Regular Triangle"/>
+	<String NameU="Angled" FromShape="Column"/>
+	<String NameU="Angled Text" FromShape="Circular Motion"/>
+	<String NameU="Appearance Options" FromShape="Column"/>
+	<String NameU="Arc-type Display" FromShape="Basic List 3"/>
+	<String NameU="Arrow" FromShape="Off-page reference"/>
+	<String NameU="Arrow 1" FromShape="Arrow"/>
+	<String NameU="Arrow 2" FromShape="Arrow"/>
+	<String NameU="Arrow 3" FromShape="Arrow"/>
+	<String NameU="Arrow 4" FromShape="Arrow"/>
+	<String NameU="Arrow Number" FromShape="Multi-arrow Circle"/>
+	<String NameU="Arrow Size" FromShape="Circular Motion 2"/>
+	<String NameU="Arrow Style" FromShape="Circle 2"/>
+	<String NameU="Artificial" FromShape="Delay element"/>
+	<String NameU="Attribute" FromShape="Attribute"/>
+	<String NameU="Auto Degree Measurement" FromShape="Angle center"/>
+	<String NameU="Auto Length Measurement" FromShape="Horizontal"/>
+	<String NameU="Auto Size Measurement" FromShape="Room measure"/>
+	<String NameU="Average" FromShape="Grade"/>
+	<String NameU="Axial" FromShape="Selectable fan"/>
+	<String NameU="Axis Horizontal Grid" FromShape="Line"/>
+	<String NameU="Axis Label Orientation" FromShape="Column"/>
+	<String NameU="Axis Number" FromShape="Spider"/>
+	<String NameU="Axis Tick Number" FromShape="Column"/>
+	<String NameU="Axis Vertical Grid" FromShape="Line"/>
+	<String NameU="Bad" FromShape="Thumb"/>
+	<String NameU="Balancing Network" FromShape="Terminating sets"/>
+	<String NameU="Ball" FromShape="Various kneaders"/>
+	<String NameU="Band of Mixed Channels" FromShape="Frequency band"/>
+	<String NameU="Band-pass Filter" FromShape="Filter"/>
+	<String NameU="Band-stop Filter" FromShape="Filter"/>
+	<String NameU="Base" FromShape="4X Building block-top"/>
+	<String NameU="Begin Only" FromShape="Horizontal"/>
+	<String NameU="Behind Control Panel" FromShape="Indicator"/>
+	<String NameU="Behind a Local Control Panel" FromShape="Indicator"/>
+	<String NameU="Bell Type" FromShape="Bell"/>
+	<String NameU="Binary" FromShape="Base type"/>
+	<String NameU="Blade" FromShape="Various kneaders"/>
+	<String NameU="Blue" FromShape="Colorful Circle Flag"/>
+	<String NameU="Boolean" FromShape="Base type"/>
+	<String NameU="Boundary - Call" FromShape="Collapsed Sub-Process"/>
+	<String NameU="Boundary - Default" FromShape="Collapsed Sub-Process"/>
+	<String NameU="Boundary - Event" FromShape="Collapsed Sub-Process"/>
+	<String NameU="Boundary - Transaction" FromShape="Collapsed Sub-Process"/>
+	<String NameU="Both" FromShape="Horizontal"/>
+	<String NameU="Both Arrow" FromShape="Circle 2"/>
+	<String NameU="Both Windings" FromShape="Transformer"/>
+	<String NameU="Both-way Amplification" FromShape="Amplified circuit"/>
+	<String NameU="Bottom" FromShape="Various junction"/>
+	<String NameU="Bottom Hook" FromShape="Weight"/>
+	<String NameU="Bottom Left" FromShape="Circle 3"/>
+	<String NameU="Bottom Right" FromShape="Circle 3"/>
+	<String NameU="Brand" FromShape="Window"/>
+	<String NameU="Break Contact" FromShape="Switch Disconnector 1P"/>
+	<String NameU="Breviary" FromShape="Column"/>
+	<String NameU="Bridge" FromShape="Relationships"/>
+	<String NameU="Briquetting Machine Type" FromShape="Briquetting machine"/>
+	<String NameU="Bubble Max Size" FromShape="Bubble"/>
+	<String NameU="Bubble Min Size" FromShape="Bubble"/>
+	<String NameU="Call" FromShape="Conversation"/>
+	<String NameU="Can" FromShape="Various mixers"/>
+	<String NameU="Cancel" FromShape="Dynamic Progress"/>
+	<String NameU="Canceled" FromShape="6-State Status"/>
+	<String NameU="Capacitor" FromShape="Microphone"/>
+	<String NameU="Carbon Block" FromShape="Surge protectors 2"/>
+	<String NameU="Carrier Frequency" FromShape="Frequency spectrum element"/>
+	<String NameU="Category Interval" FromShape="Column"/>
+	<String NameU="Category Number" FromShape="Variable Radian Pie"/>
+	<String NameU="Center" FromShape="Simple Bar"/>
+	<String NameU="Center points" FromShape="4X Building block-top"/>
+	<String NameU="Center Position" FromShape="SPDT"/>
+	<String NameU="Center-Down" FromShape="Selector switch"/>
+	<String NameU="Center-Up" FromShape="Selector switch"/>
+	<String NameU="Centimeters" FromShape="Horizontal"/>
+	<String NameU="Centrifugal" FromShape="Fluid separators"/>
+	<String NameU="Centrifuge Type" FromShape="Centrifuge"/>
+	<String NameU="Change Appearance" FromShape="Menu Bar"/>
+	<String NameU="Change Arrow Position" FromShape="Process"/>
+	<String NameU="Change Arrow Size" FromShape="Circular Motion 2"/>
+	<String NameU="Change Arrow Style" FromShape="Circle 2"/>
+	<String NameU="Change Box Style" FromShape="Block Loop"/>
+	<String NameU="Change Cable Type" FromShape="Line / Cable"/>
+	<String NameU="Change Center Shape Style" FromShape="Idea Wheel"/>
+	<String NameU="Change Center Style" FromShape="Matrix 3"/>
+	<String NameU="Change Circle Position" FromShape="Box"/>
+	<String NameU="Change Color Mode" FromShape="Circle 6"/>
+	<String NameU="Change Display Mode" FromShape="Big Calendar"/>
+	<String NameU="Change Flow Type" FromShape="Right direction flow"/>
+	<String NameU="Change Gap Size" FromShape="Circular Motion 2"/>
+	<String NameU="Change Item Style" FromShape="List"/>
+	<String NameU="Change Number of Line" FromShape="Multi-line bus"/>
+	<String NameU="Change Orientation" FromShape="Staircase"/>
+	<String NameU="Change Photo" FromShape="List"/>
+	<String NameU="Change Photo Size" FromShape="Middle photo"/>
+	<String NameU="Change Position" FromShape="2 position switch"/>
+	<String NameU="Change Ring Thickness" FromShape="Block Loop"/>
+	<String NameU="Change Segment Arrow Style" FromShape="Circle 2"/>
+	<String NameU="Change Shape Style" FromShape="Multi-Style Rectangle"/>
+	<String NameU="Change Step Size" FromShape="Stack Circles"/>
+	<String NameU="Change Style" FromShape="Number List"/>
+	<String NameU="Change Title Style" FromShape="Text Box 11"/>
+	<String NameU="Change the Picture" FromShape="Image Calendar"/>
+	<String NameU="Channel" FromShape="MOSFET"/>
+	<String NameU="Check" FromShape="Check Box"/>
+	<String NameU="Check Valve 1" FromShape="Check valve"/>
+	<String NameU="Check Valve 2" FromShape="Check valve"/>
+	<String NameU="Check Valve 3" FromShape="Check valve"/>
+	<String NameU="Checkbox" FromShape="Menu Bar"/>
+	<String NameU="Checked" FromShape="Check Box"/>
+	<String NameU="Circle" FromShape="Off-page reference"/>
+	<String NameU="Circle Mark" FromShape="How to use Column Chart"/>
+	<String NameU="Circle Number" FromShape="Basic Loop"/>
+	<String NameU="Cirle Marker" FromShape="Spider"/>
+	<String NameU="Class" FromShape="Relay Ports"/>
+	<String NameU="Close" FromShape="Kipp's Apparatus"/>
+	<String NameU="Close Arrow End" FromShape="Straight bus"/>
+	<String NameU="Close Bottom" FromShape="Glass Tube"/>
+	<String NameU="Close Circuit" FromShape="SPST"/>
+	<String NameU="Close End" FromShape="Open end arrow"/>
+	<String NameU="Close Left" FromShape="Glass Tube"/>
+	<String NameU="Close Right" FromShape="Glass Tube"/>
+	<String NameU="Close Right Tube" FromShape="Pear-Shaped Flask"/>
+	<String NameU="Close Top" FromShape="Glass Tube"/>
+	<String NameU="Close on Actuation" FromShape="Passing Make-contact"/>
+	<String NameU="Close on Actuation or Release" FromShape="Passing Make-contact"/>
+	<String NameU="Close on Release" FromShape="Passing Make-contact"/>
+	<String NameU="Closed" FromShape="Alcohol Burner"/>
+	<String NameU="Coarse" FromShape="Crusher"/>
+	<String NameU="Coaxial" FromShape="Delay element"/>
+	<String NameU="Coin Box" FromShape="Telephone"/>
+	<String NameU="Collapsed" FromShape="Conversation"/>
+	<String NameU="Collapsed Sub-Process" FromShape="Collapsed Sub-Process"/>
+	<String NameU="Color 'Fabrication' Black" FromShape="Selectable process"/>
+	<String NameU="Color 'Inspection' Black" FromShape="Selectable process"/>
+	<String NameU="Color 'Move' Black" FromShape="Selectable process"/>
+	<String NameU="Color 'Store' Black" FromShape="Selectable process"/>
+	<String NameU="Column" FromShape="List"/>
+	<String NameU="Column Number" FromShape="Six Matrix"/>
+	<String NameU="Combustion" FromShape="Heat source"/>
+	<String NameU="Common Point" FromShape="3-phase Delta 2"/>
+	<String NameU="Communication Service" FromShape="Earth tracking station"/>
+	<String NameU="Commutating or Compensating" FromShape="Field"/>
+	<String NameU="Compensation" FromShape="Collapsed Sub-Process"/>
+	<String NameU="Complete" FromShape="4X Building block-top"/>
+	<String NameU="Complete Category" FromShape="Category"/>
+	<String NameU="Complete Symbol" FromShape="Cable termination"/>
+	<String NameU="Completed" FromShape="6-State Status"/>
+	<String NameU="Complex" FromShape="Exclusive Gateway with Marker"/>
+	<String NameU="Compressor" FromShape="Networks"/>
+	<String NameU="Compressor Type" FromShape="Selectable compressor"/>
+	<String NameU="Concave" FromShape="Principal Optics Axis"/>
+	<String NameU="Concave Lens" FromShape="Convex Lens Symbol"/>
+	<String NameU="Concentrating" FromShape="Concentrating"/>
+	<String NameU="Cone" FromShape="Various mixers"/>
+	<String NameU="Configure 2-line Bus Elbow..." FromShape="multi-line bus elbow"/>
+	<String NameU="Configure 2-line Bus..." FromShape="multi-line bus"/>
+	<String NameU="Configure Amplifier..." FromShape="Amplifier"/>
+	<String NameU="Configure Bell..." FromShape="Bell"/>
+	<String NameU="Configure Changer..." FromShape="Changer"/>
+	<String NameU="Configure Chip..." FromShape="4X Building block-top"/>
+	<String NameU="Configure Controlled rectifier..." FromShape="Controlled rectifier"/>
+	<String NameU="Configure Converter..." FromShape="Converter"/>
+	<String NameU="Configure Delay Element..." FromShape="Delay element"/>
+	<String NameU="Configure Diode..." FromShape="Diode"/>
+	<String NameU="Configure Direction of Flow..." FromShape="Left direction flow"/>
+	<String NameU="Configure Filter..." FromShape="Filter"/>
+	<String NameU="Configure Flip-flop..." FromShape="Flip-flop"/>
+	<String NameU="Configure Frequency band..." FromShape="Frequency band"/>
+	<String NameU="Configure Frequency spectrum element..." FromShape="Frequency spectrum element"/>
+	<String NameU="Configure Function Generator..." FromShape="Generic"/>
+	<String NameU="Configure Heating Element..." FromShape="Thermocouple"/>
+	<String NameU="Configure IGFET N-type..." FromShape="IGFET N-Type"/>
+	<String NameU="Configure IGFET P-type..." FromShape="IGFET P-Type"/>
+	<String NameU="Configure Indicator..." FromShape="Indicator"/>
+	<String NameU="Configure Inductance Capacitance..." FromShape="Inductance capacitance"/>
+	<String NameU="Configure Inductor..." FromShape="Inductor"/>
+	<String NameU="Configure Laser and Maser..." FromShape="Maser"/>
+	<String NameU="Configure Line/Cable..." FromShape="Line / Cable"/>
+	<String NameU="Configure Logic Gate..." FromShape="And"/>
+	<String NameU="Configure MOSFET..." FromShape="MOSFET"/>
+	<String NameU="Configure Material..." FromShape="Material"/>
+	<String NameU="Configure Microphone..." FromShape="Microphone"/>
+	<String NameU="Configure Networks..." FromShape="Networks"/>
+	<String NameU="Configure Ohmic..." FromShape="Ohmic"/>
+	<String NameU="Configure Pulse modulation..." FromShape="Pulse modulation"/>
+	<String NameU="Configure Recorder/reproducer..." FromShape="Recorder/reproducer"/>
+	<String NameU="Configure Surge Protector..." FromShape="Surge protectors 2"/>
+	<String NameU="Configure Terminating sets..." FromShape="Terminating sets"/>
+	<String NameU="Conjugated" FromShape="Relay Ports"/>
+	<String NameU="Conjugated Replicated Class" FromShape="Relay Ports"/>
+	<String NameU="Conjugated Replicated Reference" FromShape="Reference Ports"/>
+	<String NameU="Connection Size" FromShape="Motor"/>
+	<String NameU="Contact Type" FromShape="Manual switch"/>
+	<String NameU="Container" FromShape="Selectable compressor"/>
+	<String NameU="Context" FromShape="Menu Bar"/>
+	<String NameU="Continuous" FromShape="Resister"/>
+	<String NameU="Continuously Adjustable" FromShape="Inductor"/>
+	<String NameU="Control Access" FromShape="Manual control"/>
+	<String NameU="Control Method" FromShape="Manual control"/>
+	<String NameU="Control transformer" FromShape="Synchro"/>
+	<String NameU="Converter Type" FromShape="Converter"/>
+	<String NameU="Convex" FromShape="Principal Optics Axis"/>
+	<String NameU="Convex Lens" FromShape="Convex Lens Symbol"/>
+	<String NameU="Conveyor" FromShape="Overhead conveyor"/>
+	<String NameU="Conveyor with Buckets" FromShape="Overhead conveyor"/>
+	<String NameU="Conveyor with Hooks" FromShape="Overhead conveyor"/>
+	<String NameU="Core" FromShape="Inductor"/>
+	<String NameU="Cost" FromShape="Tagged process"/>
+	<String NameU="Crank" FromShape="Manual control"/>
+	<String NameU="Created" FromShape="6-State Status"/>
+	<String NameU="Cross" FromShape="Flags"/>
+	<String NameU="Crusher Type" FromShape="Crusher"/>
+	<String NameU="Current Value" FromShape="Circular Gauge"/>
+	<String NameU="Cyan" FromShape="Mark"/>
+	<String NameU="D Flip-flop" FromShape="Flip-flop"/>
+	<String NameU="DC" FromShape="Motor"/>
+	<String NameU="DC Converter" FromShape="Converter"/>
+	<String NameU="Data" FromShape="Process"/>
+	<String NameU="Data Format" FromShape="Column"/>
+	<String NameU="Data Label Options" FromShape="Gradient Pie"/>
+	<String NameU="Data Label Orientation" FromShape="Column"/>
+	<String NameU="Data Label Position" FromShape="Column"/>
+	<String NameU="Data Precision" FromShape="Column"/>
+	<String NameU="Data Type" FromShape="Base type"/>
+	<String NameU="Date" FromShape="Big Calendar"/>
+	<String NameU="Date Format" FromShape="Time Bar"/>
+	<String NameU="Day" FromShape="Time Bar"/>
+	<String NameU="De-emphasize Higher Frequencies" FromShape="Networks"/>
+	<String NameU="Decision" FromShape="Process"/>
+	<String NameU="Deg" FromShape="Angle center"/>
+	<String NameU="Deg-Min-Sec" FromShape="Angle center"/>
+	<String NameU="Degrees" FromShape="Angle center"/>
+	<String NameU="Dehydrator" FromShape="Centrifuge"/>
+	<String NameU="Delay Type" FromShape="Time delay make 2"/>
+	<String NameU="Delayed when Closing" FromShape="Time delay make 2"/>
+	<String NameU="Delayed when Closing and Re-opening" FromShape="Time delay make 2"/>
+	<String NameU="Delayed when Re-opening" FromShape="Time delay make 2"/>
+	<String NameU="Delete 1 U" FromShape="Rack"/>
+	<String NameU="Delete Button" FromShape="Search Box"/>
+	<String NameU="Delete a Board" FromShape="Terminal board"/>
+	<String NameU="Delete a Box" FromShape="Block Loop"/>
+	<String NameU="Delete a Category" FromShape="Column"/>
+	<String NameU="Delete a Chair" FromShape="Table with Chairs"/>
+	<String NameU="Delete a Circle" FromShape="Basic Loop"/>
+	<String NameU="Delete a Column" FromShape="Blank Comparison Table"/>
+	<String NameU="Delete a Level" FromShape="List"/>
+	<String NameU="Delete a Pie" FromShape="Variable Radian Pie"/>
+	<String NameU="Delete a Point" FromShape="Scatter Plot"/>
+	<String NameU="Delete a Ring" FromShape="Circle 5"/>
+	<String NameU="Delete a Row" FromShape="Six Matrix"/>
+	<String NameU="Delete a Segment" FromShape="Circular Motion"/>
+	<String NameU="Delete a Step" FromShape="Multi-Style Process"/>
+	<String NameU="Delete an Arrow" FromShape="Multi-arrow Circle"/>
+	<String NameU="Delete an Item" FromShape="Check Box"/>
+	<String NameU="Delete this Box" FromShape="Block Loop"/>
+	<String NameU="Delete this Circle" FromShape="Basic Loop"/>
+	<String NameU="Delete this Item" FromShape="Number List"/>
+	<String NameU="Delete this Level" FromShape="List"/>
+	<String NameU="Delete this Row" FromShape="Six Matrix"/>
+	<String NameU="Delete this Segment" FromShape="Circular Motion"/>
+	<String NameU="Delete this Step" FromShape="Multi-Style Process"/>
+	<String NameU="Department" FromShape="Manager With Photo"/>
+	<String NameU="Dependent Entity" FromShape="Entity"/>
+	<String NameU="Depletion" FromShape="MOSFET"/>
+	<String NameU="Derived Attribute" FromShape="Attribute"/>
+	<String NameU="Description" FromShape="Circular Gauge"/>
+	<String NameU="Device Type" FromShape="Blocking device"/>
+	<String NameU="Dial" FromShape="Telephone"/>
+	<String NameU="Diameter" FromShape="Circle Indicator"/>
+	<String NameU="Diamond" FromShape="Flags"/>
+	<String NameU="Diamond Mark" FromShape="How to use Column Chart"/>
+	<String NameU="Diaphragm 1" FromShape="Control valve"/>
+	<String NameU="Diaphragm 2" FromShape="Control valve"/>
+	<String NameU="Diaphragm 3" FromShape="Control valve"/>
+	<String NameU="Differential Receiver" FromShape="Synchro"/>
+	<String NameU="Differential Voltmeter" FromShape="Indicator"/>
+	<String NameU="Differentiating" FromShape="Amplifier"/>
+	<String NameU="Digital to Analog" FromShape="Converter"/>
+	<String NameU="Direction" FromShape="Left direction flow"/>
+	<String NameU="Direction Finding" FromShape="Direction finding"/>
+	<String NameU="Directly Heated" FromShape="Tube diode"/>
+	<String NameU="Disable" FromShape="Text Block"/>
+	<String NameU="Disengaged" FromShape="Detent"/>
+	<String NameU="Display across line" FromShape="Horizontal extension"/>
+	<String NameU="Document" FromShape="Process"/>
+	<String NameU="Don't Show Units" FromShape="Horizontal"/>
+	<String NameU="Double Circle" FromShape="Colorful Circle Flag"/>
+	<String NameU="Double Line" FromShape="Magnetic core"/>
+	<String NameU="Dotted Line" FromShape="Activity Node"/>
+	<String NameU="Down" FromShape="4-Direction Arrow"/>
+	<String NameU="Down direction" FromShape="Vertical extension"/>
+	<String NameU="Down Position" FromShape="SPDT"/>
+	<String NameU="Draft" FromShape="6-State Status"/>
+	<String NameU="Dry" FromShape="Fluid separators"/>
+	<String NameU="Dual Circle" FromShape="12-Role Flag"/>
+	<String NameU="Dual Diamond" FromShape="12-Role Flag"/>
+	<String NameU="Dual Rectangle" FromShape="12-Role Flag"/>
+	<String NameU="Dual Triangle" FromShape="12-Role Flag"/>
+	<String NameU="Duplex" FromShape="Telegraph repeater"/>
+	<String NameU="Duplicated Entity" FromShape="External Entity"/>
+	<String NameU="Duration" FromShape="Tagged process"/>
+	<String NameU="Early to Close" FromShape="Make Contact"/>
+	<String NameU="Edit Reference" FromShape="To page reference"/>
+	<String NameU="Electret" FromShape="Material"/>
+	<String NameU="Electrolytic" FromShape="Surge protectors"/>
+	<String NameU="Element Type" FromShape="Delay element"/>
+	<String NameU="Ellipse" FromShape="Flags"/>
+	<String NameU="Email" FromShape="Manager With Photo"/>
+	<String NameU="Emergency switch" FromShape="Manual control"/>
+	<String NameU="Enable" FromShape="Check Box"/>
+	<String NameU="End Date" FromShape="Time Bar"/>
+	<String NameU="End Only" FromShape="Horizontal"/>
+	<String NameU="End Station" FromShape="Radio station 2"/>
+	<String NameU="Engaged" FromShape="Detent"/>
+	<String NameU="Enhancement" FromShape="MOSFET"/>
+	<String NameU="Envelop" FromShape="Ohmic"/>
+	<String NameU="Envelope" FromShape="Diode"/>
+	<String NameU="Erasing" FromShape="Pickup head"/>
+	<String NameU="Erect Band of Frequencies" FromShape="Frequency band"/>
+	<String NameU="Error" FromShape="3-State Alert"/>
+	<String NameU="Excellent" FromShape="Grade"/>
+	<String NameU="Exchange Side" FromShape="Uneven Door"/>
+	<String NameU="Exclusion" FromShape="Relationships"/>
+	<String NameU="Exclusive Data" FromShape="Exclusive Gateway with Marker"/>
+	<String NameU="Exclusive Data with Marker" FromShape="Exclusive Gateway with Marker"/>
+	<String NameU="Exclusive Event" FromShape="Exclusive Gateway with Marker"/>
+	<String NameU="Expander" FromShape="Networks"/>
+	<String NameU="Expanding" FromShape="Concentrating"/>
+	<String NameU="Extension" FromShape="Horizontal"/>
+	<String NameU="Extension Lines" FromShape="Horizontal"/>
+	<String NameU="External" FromShape="MOSFET"/>
+	<String NameU="External Connection" FromShape="Tube pentode"/>
+	<String NameU="Extractor Hood Type" FromShape="Extractor hood"/>
+	<String NameU="Extra Small" FromShape="Dynamic Gear"/>
+	<String NameU="FALSE" FromShape="Delay element"/>
+	<String NameU="Facsimile" FromShape="Telegraph equipment qualifiers"/>
+	<String NameU="False" FromShape="Delay element"/>
+	<String NameU="Fan Type" FromShape="Selectable fan"/>
+	<String NameU="Fast Backward" FromShape="Progress Status"/>
+	<String NameU="Fast Forward" FromShape="Progress Status"/>
+	<String NameU="Feet" FromShape="Horizontal"/>
+	<String NameU="Female Connectors" FromShape="F/M 2-conductor 1"/>
+	<String NameU="Female Contact" FromShape="Male Contact"/>
+	<String NameU="Fine" FromShape="Crusher"/>
+	<String NameU="Fire" FromShape="Alcohol Burner"/>
+	<String NameU="First Derivative" FromShape="Derivative"/>
+	<String NameU="Fixed" FromShape="Resister"/>
+	<String NameU="Flat Fire" FromShape="Alcohol Burner"/>
+	<String NameU="Flip-flop Type" FromShape="Flip-flop"/>
+	<String NameU="Float-operated" FromShape="Float-operated valve"/>
+	<String NameU="Floating Head" FromShape="U-Tube heat exchanger"/>
+	<String NameU="Fluid Separator Type" FromShape="Fluid separators"/>
+	<String NameU="Fluidized" FromShape="Various mixers"/>
+	<String NameU="Four Blades" FromShape="Fan blades"/>
+	<String NameU="Frequency Band" FromShape="Frequency band"/>
+	<String NameU="Frequency Changer" FromShape="Converter"/>
+	<String NameU="Frequency Meter" FromShape="Indicator"/>
+	<String NameU="From 10% to 100%" FromShape="Variable Radian Doughnut"/>
+	<String NameU="Galvanometer" FromShape="Indicator"/>
+	<String NameU="Gap Distance" FromShape="Idea Wheel"/>
+	<String NameU="Gap Size" FromShape="Circular Motion 2"/>
+	<String NameU="Gas" FromShape="Material"/>
+	<String NameU="Gas Turbine" FromShape="Prime mover"/>
+	<String NameU="Gate" FromShape="Controlled rectifier"/>
+	<String NameU="Gate Type" FromShape="Logic gate 1"/>
+	<String NameU="General" FromShape="Surge protectors"/>
+	<String NameU="General Fuse" FromShape="Fuse"/>
+	<String NameU="General Speed" FromShape="Relay"/>
+	<String NameU="Generator" FromShape="Motor"/>
+	<String NameU="Good" FromShape="Grade"/>
+	<String NameU="Good Quality" FromShape="Quality"/>
+	<String NameU="Gravitation" FromShape="Fluid separators"/>
+	<String NameU="Gray" FromShape="Colorful Circle Flag"/>
+	<String NameU="Green" FromShape="Trafic Light"/>
+	<String NameU="Ground" FromShape="3-phase Delta 2"/>
+	<String NameU="Grounded" FromShape="2-phase 3-wire"/>
+	<String NameU="Group of Erect Channels" FromShape="Frequency band"/>
+	<String NameU="Hammer" FromShape="Various mixers"/>
+	<String NameU="Hand Generator" FromShape="Motor"/>
+	<String NameU="Hand-operated" FromShape="Gate valve, Hand-operated"/>
+	<String NameU="Handwheel" FromShape="Manual control"/>
+	<String NameU="Hide Center" FromShape="Trapezoid Ring"/>
+	<String NameU="Heat Exchanger Type" FromShape="Heat exchanger"/>
+	<String NameU="Heat Source Type" FromShape="Heat source"/>
+	<String NameU="Heating Element" FromShape="Thermocouple"/>
+	<String NameU="Height" FromShape="Window"/>
+	<String NameU="Hide across line" FromShape="Horizontal extension"/>
+	<String NameU="Hide Arrow" FromShape="Circle Arrow Loop"/>
+	<String NameU="Hide Axis" FromShape="Column"/>
+	<String NameU="Hide Axis Labels" FromShape="Spider"/>
+	<String NameU="Hide Border" FromShape="Circle Sector"/>
+	<String NameU="Hide Bottom" FromShape="List"/>
+	<String NameU="Hide Bottom Line" FromShape="Menu Bar"/>
+	<String NameU="Hide Button" FromShape="Month Calendar"/>
+	<String NameU="Hide Center" FromShape="Circles"/>
+	<String NameU="Hide Center Circle" FromShape="Basic Loop"/>
+	<String NameU="Hide Center Shape" FromShape="Matrix 3"/>
+	<String NameU="Hide Circle" FromShape="Box"/>
+	<String NameU="Hide Connect Line" FromShape="Point"/>
+	<String NameU="Hide Cross" FromShape="Arc radius"/>
+	<String NameU="Hide Cross Line" FromShape="Dynamic unit"/>
+	<String NameU="Hide Data Labels" FromShape="Column"/>
+	<String NameU="Hide Delete" FromShape="Text Field"/>
+	<String NameU="Hide Dot" FromShape="Ground"/>
+	<String NameU="Hide End Tick" FromShape="List"/>
+	<String NameU="Hide Envelop" FromShape="Transistor PNP"/>
+	<String NameU="Hide Exit Width" FromShape="Stair landing"/>
+	<String NameU="Hide First Block of Title" FromShape="Blank Comparison Table"/>
+	<String NameU="Hide Granule" FromShape="Gas Jar"/>
+	<String NameU="Hide Grid" FromShape="Scatter Plot"/>
+	<String NameU="Hide Groove" FromShape="Circle 3"/>
+	<String NameU="Hide Horizontal Grid" FromShape="Line"/>
+	<String NameU="Hide Image" FromShape="List"/>
+	<String NameU="Hide Junction" FromShape="6-phase double star"/>
+	<String NameU="Hide Left Box" FromShape="List"/>
+	<String NameU="Hide Left Text" FromShape="Pyramid 4"/>
+	<String NameU="Hide Legend" FromShape="Column"/>
+	<String NameU="Hide Line" FromShape="Basic Menu Bar"/>
+	<String NameU="Hide Liquid" FromShape="Dropper"/>
+	<String NameU="Hide Middle Circle" FromShape="SPDT"/>
+	<String NameU="Hide Neutral" FromShape="6-phase fork"/>
+	<String NameU="Hide Operator" FromShape="Process"/>
+	<String NameU="Hide Percentage Labels" FromShape="Divided Bar Indicator"/>
+	<String NameU="Hide Photo" FromShape="Manager With Photo"/>
+	<String NameU="Hide Polarity Symbols" FromShape="Cell"/>
+	<String NameU="Hide Reflector" FromShape="Ferrite core"/>
+	<String NameU="Hide Refresh Button" FromShape="Url Field"/>
+	<String NameU="Hide Right Text" FromShape="Pyramid 4"/>
+	<String NameU="Hide Ruler" FromShape="Time Bar"/>
+	<String NameU="Hide SWOT" FromShape="Circle Matrix/SWOT"/>
+	<String NameU="Hide Scale Mark" FromShape="Gas Jar"/>
+	<String NameU="Hide Seam" FromShape="Pulsation dampener"/>
+	<String NameU="Hide Solid Matter" FromShape="Gas Jar"/>
+	<String NameU="Hide Stair Stagger" FromShape="Stair landing"/>
+	<String NameU="Hide Table" FromShape="Table with Chairs"/>
+	<String NameU="Hide Tank Lip" FromShape="Open tank"/>
+	<String NameU="Hide Text" FromShape="Variable Radian Pie"/>
+	<String NameU="Hide Text Block" FromShape="Process"/>
+	<String NameU="Hide Tick" FromShape="Dropper"/>
+	<String NameU="Hide Title" FromShape="Vertical List"/>
+	<String NameU="Hide Title Bar" FromShape="Blank Comparison Table"/>
+	<String NameU="Hide Vertical Grid" FromShape="Line"/>
+	<String NameU="Hide/Show Axis" FromShape="Column"/>
+	<String NameU="Hide/Show Grid" FromShape="Scatter Plot"/>
+	<String NameU="High" FromShape="3-State Priority"/>
+	<String NameU="High Gain" FromShape="Amplifier"/>
+	<String NameU="High Speed" FromShape="Relay"/>
+	<String NameU="High-pass Filter" FromShape="Filter"/>
+	<String NameU="High-speed Roller" FromShape="Various mixers"/>
+	<String NameU="Highlight" FromShape="Check Box"/>
+	<String NameU="Hoist" FromShape="Hoists"/>
+	<String NameU="Hoist Type" FromShape="Hoists"/>
+	<String NameU="Hoist with Grab" FromShape="Hoists"/>
+	<String NameU="Hoist with Hook" FromShape="Hoists"/>
+	<String NameU="Hollow" FromShape="Flags"/>
+	<String NameU="Hollow Band" FromShape="Functional band"/>
+	<String NameU="Hollow Brand" FromShape="Pools Block"/>
+	<String NameU="Hollow Circle" FromShape="12-Role Flag"/>
+	<String NameU="Hollow Diamond" FromShape="12-Role Flag"/>
+	<String NameU="Hollow Rectangle" FromShape="12-Role Flag"/>
+	<String NameU="Hollow Triangle" FromShape="12-Role Flag"/>
+	<String NameU="Horizontal" FromShape="Number List"/>
+	<String NameU="Horizontal Blades" FromShape="Fan blades"/>
+	<String NameU="Horn Gap" FromShape="Surge protectors 2"/>
+	<String NameU="Hybrid Transformer" FromShape="Terminating sets"/>
+	<String NameU="ID" FromShape="Window"/>
+	<String NameU="Icon" FromShape="Menu Bar"/>
+	<String NameU="If Max Value is -1, it will takes the large one of Value 1 and Value 2." FromShape="Semicircular Indicator"/>
+	<String NameU="Impact" FromShape="Various mixers"/>
+	<String NameU="Implementational" FromShape="Data entity"/>
+	<String NameU="Imported" FromShape="Modified Actor Ref."/>
+	<String NameU="Imported and Substitutable" FromShape="Modified Actor Ref."/>
+	<String NameU="In Progress" FromShape="6-State Status"/>
+	<String NameU="In Service" FromShape="Generating station"/>
+	<String NameU="In the Field" FromShape="Indicator"/>
+	<String NameU="Inches" FromShape="Horizontal"/>
+	<String NameU="Incoming" FromShape="Off-page reference"/>
+	<String NameU="Inclusive" FromShape="Exclusive Gateway with Marker"/>
+	<String NameU="Independent Entity" FromShape="Entity"/>
+	<String NameU="Indicator" FromShape="Indicator"/>
+	<String NameU="Indirectly Heated" FromShape="Tube diode"/>
+	<String NameU="Inertial" FromShape="Fluid separators"/>
+	<String NameU="Infinite Reactance" FromShape="Inductance capacitance"/>
+	<String NameU="Infinite Reactance - Zero susceptance" FromShape="Inductance capacitance"/>
+	<String NameU="Initial" FromShape="Transition Points"/>
+	<String NameU="Inner Arrow" FromShape="Circle 2"/>
+	<String NameU="Input" FromShape="Delay element"/>
+	<String NameU="Input the number between 0 to 360" FromShape="Circular Motion 2"/>
+	<String NameU="Input(s)" FromShape="Delay element"/>
+	<String NameU="Insert a Box" FromShape="Block Loop"/>
+	<String NameU="Insert a Circle" FromShape="Basic Loop"/>
+	<String NameU="Insert a Level" FromShape="List"/>
+	<String NameU="Insert a Row" FromShape="Six Matrix"/>
+	<String NameU="Insert a Segment" FromShape="Circular Motion"/>
+	<String NameU="Insert a Step" FromShape="Multi-Style Process"/>
+	<String NameU="Insert an Item" FromShape="Number List"/>
+	<String NameU="Inside Data Labels" FromShape="Gradient Pie"/>
+	<String NameU="Inside Text" FromShape="Variable Radian Pie"/>
+	<String NameU="Insulated Heating Element" FromShape="Thermocouple"/>
+	<String NameU="Insulating" FromShape="Material"/>
+	<String NameU="Instantiate Exclusive Event" FromShape="Exclusive Gateway with Marker"/>
+	<String NameU="Instantiate Parallel Event" FromShape="Exclusive Gateway with Marker"/>
+	<String NameU="Integer" FromShape="Base type"/>
+	<String NameU="Integrating" FromShape="Amplifier"/>
+	<String NameU="Interconnected" FromShape="Multiple-phase"/>
+	<String NameU="Internal" FromShape="MOSFET"/>
+	<String NameU="Internal Connection" FromShape="Tube pentode"/>
+	<String NameU="Interval" FromShape="List"/>
+	<String NameU="Invert Arrow" FromShape="Circular Motion 3"/>
+	<String NameU="Invert Triangle" FromShape="Flags"/>
+	<String NameU="Inverted Band of Frequencies" FromShape="Frequency band"/>
+	<String NameU="Inverter" FromShape="Converter"/>
+	<String NameU="Invisible" FromShape="Diode"/>
+	<String NameU="Inward" FromShape="Left direction flow"/>
+	<String NameU="Item Number" FromShape="Pyramid 3"/>
+	<String NameU="JK Flip-flop" FromShape="Flip-flop"/>
+	<String NameU="Jack" FromShape="Shielded jack/plug"/>
+	<String NameU="Jaw" FromShape="Various mixers"/>
+	<String NameU="Jet" FromShape="Various mills"/>
+	<String NameU="Jumbo" FromShape="Gears"/>
+	<String NameU="Keep Image Ratio" FromShape="List"/>
+	<String NameU="Keep Photo Ratio" FromShape="Manager With Photo"/>
+	<String NameU="Key" FromShape="Manual control"/>
+	<String NameU="Key Attribute" FromShape="Attribute"/>
+	<String NameU="Keyboard" FromShape="Telegraph equipment qualifiers"/>
+	<String NameU="Kilometers" FromShape="Horizontal"/>
+	<String NameU="Kneader Type" FromShape="Various kneaders"/>
+	<String NameU="Label" FromShape="Elbow bus 1"/>
+	<String NameU="Large" FromShape="Circular Motion 2"/>
+	<String NameU="Large Scale / Converting" FromShape="Substation"/>
+	<String NameU="Large Scale / General" FromShape="Substation"/>
+	<String NameU="Laser Generator" FromShape="Maser"/>
+	<String NameU="Laser, General" FromShape="Maser"/>
+	<String NameU="Latch Flip-flop" FromShape="Flip-flop"/>
+	<String NameU="Late to Close" FromShape="Make Contact"/>
+	<String NameU="Left" FromShape="4-Direction Arrow"/>
+	<String NameU="Left direction" FromShape="Horizontal extension"/>
+	<String NameU="Left Icon Type" FromShape="Menu Bar"/>
+	<String NameU="Left Side" FromShape="Braces with text"/>
+	<String NameU="Left hemisphere value." FromShape="Semicircular Indicator"/>
+	<String NameU="Level Number" FromShape="List"/>
+	<String NameU="Light Sensitive" FromShape="Pickup head"/>
+	<String NameU="Line Size" FromShape="Various junction"/>
+	<String NameU="Line-type Display" FromShape="Basic List 3"/>
+	<String NameU="Link" FromShape="Start"/>
+	<String NameU="Liquid" FromShape="Material"/>
+	<String NameU="Load Data from File" FromShape="Column"/>
+	<String NameU="Loaded" FromShape="Line / Cable"/>
+	<String NameU="Lock" FromShape="Lock/UnLock"/>
+	<String NameU="Logarithmic" FromShape="Amplifier"/>
+	<String NameU="Logical" FromShape="Base type"/>
+	<String NameU="Loop - None" FromShape="Collapsed Sub-Process"/>
+	<String NameU="Loop - Parallel Multi-Instance" FromShape="Collapsed Sub-Process"/>
+	<String NameU="Loop - Sequential Multi-Instance" FromShape="Collapsed Sub-Process"/>
+	<String NameU="Loop - Standard" FromShape="Collapsed Sub-Process"/>
+	<String NameU="Low" FromShape="3-State Priority"/>
+	<String NameU="Low-pass Filter" FromShape="Filter"/>
+	<String NameU="M/d/yyyy" FromShape="Time Bar"/>
+	<String NameU="M/d/yyyy h:mm AM/PM" FromShape="Time Bar"/>
+	<String NameU="MMM d,yyyy" FromShape="Time Bar"/>
+	<String NameU="Machine Type" FromShape="Motor"/>
+	<String NameU="Magnetic" FromShape="Inductor"/>
+	<String NameU="Magnetic with Gap" FromShape="Inductor"/>
+	<String NameU="Magnetic-core" FromShape="Transformer"/>
+	<String NameU="Magnetically Polarized" FromShape="Relay"/>
+	<String NameU="Magnetostrictive" FromShape="Delay element"/>
+	<String NameU="Make Contact" FromShape="Switch Disconnector 1P"/>
+	<String NameU="Male Connectors" FromShape="F/M 2-conductor 1"/>
+	<String NameU="Male Contact" FromShape="Male Contact"/>
+	<String NameU="Man" FromShape="Gender"/>
+	<String NameU="Manufacturer" FromShape="Motor"/>
+	<String NameU="Many-to-Many" FromShape="Relationships"/>
+	<String NameU="Marker Size" FromShape="Point"/>
+	<String NameU="Marker Style" FromShape="Line"/>
+	<String NameU="Maser Amplifier" FromShape="Maser"/>
+	<String NameU="Maser, General" FromShape="Maser"/>
+	<String NameU="Mastergroup" FromShape="Frequency band"/>
+	<String NameU="Material" FromShape="Material"/>
+	<String NameU="Max Scale" FromShape="Circular Gauge"/>
+	<String NameU="Max Value" FromShape="Column"/>
+	<String NameU="Max data value of all the bubbles" FromShape="Bubble"/>
+	<String NameU="Max.Demand Indicator" FromShape="Indicator"/>
+	<String NameU="Mechanically" FromShape="Relay"/>
+	<String NameU="Medium" FromShape="Circular Motion 2"/>
+	<String NameU="Mercury" FromShape="Delay element"/>
+	<String NameU="Message" FromShape="Start"/>
+	<String NameU="Meters" FromShape="Horizontal"/>
+	<String NameU="Microphone Type" FromShape="Microphone"/>
+	<String NameU="Middle" FromShape="Column"/>
+	<String NameU="Midpoint" FromShape="3-phase Delta 2"/>
+	<String NameU="Miles" FromShape="Horizontal"/>
+	<String NameU="Mill Type" FromShape="Various mills"/>
+	<String NameU="Millimeters" FromShape="Horizontal"/>
+	<String NameU="Min Scale" FromShape="Circular Gauge"/>
+	<String NameU="Min Value" FromShape="Bubble"/>
+	<String NameU="Min data value of all the bubbles." FromShape="Bubble"/>
+	<String NameU="Mixer Type" FromShape="Various mixers"/>
+	<String NameU="Model" FromShape="Motor"/>
+	<String NameU="Month" FromShape="Time Bar"/>
+	<String NameU="Motor" FromShape="Motor"/>
+	<String NameU="Motor Generator" FromShape="Motor"/>
+	<String NameU="Move Down" FromShape="Vertical List"/>
+	<String NameU="Move Left" FromShape="Value List 4"/>
+	<String NameU="Move Right" FromShape="Value List 4"/>
+	<String NameU="Move Text to Other Bend" FromShape="Top/bottom to side"/>
+	<String NameU="Move Up" FromShape="Vertical List"/>
+	<String NameU="Movement Left Blocked" FromShape="Blocking device"/>
+	<String NameU="Movement Right Blocked" FromShape="Blocking device"/>
+	<String NameU="Mullion Number" FromShape="Curtain Wall"/>
+	<String NameU="Multigap" FromShape="Surge protectors"/>
+	<String NameU="Multiple" FromShape="Start"/>
+	<String NameU="Multiple Lines" FromShape="Telephone"/>
+	<String NameU="Multivalued Attribute" FromShape="Attribute"/>
+	<String NameU="Mushroom Head" FromShape="Manual switch"/>
+	<String NameU="Mushroom Type" FromShape="Pushbutton make"/>
+	<String NameU="Mutual inductor" FromShape="Transformer"/>
+	<String NameU="Nice" FromShape="Thumb"/>
+	<String NameU="N-Type" FromShape="MOSFET"/>
+	<String NameU="N-type" FromShape="Controlled rectifier"/>
+	<String NameU="NAND" FromShape="Logic gate 1"/>
+	<String NameU="NOR" FromShape="Logic gate 1"/>
+	<String NameU="NPIN" FromShape="Ohmic"/>
+	<String NameU="NPIP" FromShape="Ohmic"/>
+	<String NameU="Name" FromShape="Manager With Photo"/>
+	<String NameU="Neither" FromShape="Horizontal"/>
+	<String NameU="Neutral brought out" FromShape="3-phase star"/>
+	<String NameU="Neutral direct-current (single current) +/o" FromShape="Telegraph repeater qualifiers"/>
+	<String NameU="Neutral direct-current (single current) -/o" FromShape="Telegraph repeater qualifiers"/>
+	<String NameU="Next Month" FromShape="Big Calendar"/>
+	<String NameU="Next Week" FromShape="Big Calendar"/>
+	<String NameU="Next Year" FromShape="Big Calendar"/>
+	<String NameU="No" FromShape="Complete or Cancel"/>
+	<String NameU="No Arrow" FromShape="Circle 2"/>
+	<String NameU="No Black" FromShape="Selectable process"/>
+	<String NameU="No Button" FromShape="Search Box"/>
+	<String NameU="No Maker" FromShape="Spider"/>
+	<String NameU="No. of Base Pins" FromShape="4X Building block-top"/>
+	<String NameU="No. of Gates" FromShape="MOSFET"/>
+	<String NameU="No. of Inputs" FromShape="And"/>
+	<String NameU="No. of Outputs" FromShape="And"/>
+	<String NameU="No. of Top Pins" FromShape="4X Building block-top"/>
+	<String NameU="No.of Inputs" FromShape="Amplifier"/>
+	<String NameU="No.of Outputs" FromShape="Amplifier"/>
+	<String NameU="Node" FromShape="Title block"/>
+	<String NameU="Non-Extending" FromShape="Transition Points"/>
+	<String NameU="Non-insulated Heating Element" FromShape="Thermocouple"/>
+	<String NameU="None" FromShape="Line"/>
+	<String NameU="Normal" FromShape="Column"/>
+	<String NameU="Normal Access" FromShape="Manual control"/>
+	<String NameU="Not Interconnected" FromShape="Multiple-phase"/>
+	<String NameU="Number" FromShape="Basic Pyramid"/>
+	<String NameU="Number of Circles" FromShape="Conveyor"/>
+	<String NameU="Number of Lines" FromShape="multi-line bus"/>
+	<String NameU="Number of inputs" FromShape="4X Building block-top"/>
+	<String NameU="Number of pins on top" FromShape="4X Building block-top"/>
+	<String NameU="Number of vertices" FromShape="Dynamic Star"/>
+	<String NameU="OR" FromShape="Logic gate 1"/>
+	<String NameU="On Central Control Panel" FromShape="Indicator"/>
+	<String NameU="On Local Control Panel" FromShape="Indicator"/>
+	<String NameU="One Circle" FromShape="Conveyor"/>
+	<String NameU="One Line" FromShape="Conveyor"/>
+	<String NameU="One Winding" FromShape="Transformer"/>
+	<String NameU="One-to-Many" FromShape="Relationships"/>
+	<String NameU="One-way Simplex" FromShape="Telegraph repeater"/>
+	<String NameU="Open" FromShape="DPDT"/>
+	<String NameU="Open Arrow End" FromShape="Straight bus"/>
+	<String NameU="Open Bottom" FromShape="Glass Tube"/>
+	<String NameU="Open Circuit" FromShape="SPST"/>
+	<String NameU="Open End" FromShape="Open end arrow"/>
+	<String NameU="Open Left" FromShape="Glass Tube"/>
+	<String NameU="Open Right" FromShape="Glass Tube"/>
+	<String NameU="Open Right Tube" FromShape="Pear-Shaped Flask"/>
+	<String NameU="Open Top" FromShape="Glass Tube"/>
+	<String NameU="Operational" FromShape="3-State Alert"/>
+	<String NameU="Optional" FromShape="Modified Actor Ref."/>
+	<String NameU="Optional and Substitutable" FromShape="Modified Actor Ref."/>
+	<String NameU="Orange" FromShape="Mark"/>
+	<String NameU="Oscilloscope" FromShape="Indicator"/>
+	<String NameU="Outer Arrow" FromShape="Circle 2"/>
+	<String NameU="Outgoing" FromShape="Off-page reference"/>
+	<String NameU="Output" FromShape="Delay element"/>
+	<String NameU="Output(s)" FromShape="Delay element"/>
+	<String NameU="Output number" FromShape="4X Building block-top"/>
+	<String NameU="Outside Data Labels" FromShape="Gradient Pie"/>
+	<String NameU="Outside Text" FromShape="Variable Radian Pie"/>
+	<String NameU="Outward" FromShape="Left direction flow"/>
+	<String NameU="Overhead" FromShape="Line / Cable"/>
+	<String NameU="Overhead Conveyor Type" FromShape="Overhead conveyor"/>
+	<String NameU="Overview" FromShape="Data entity"/>
+	<String NameU="P Type-Gate" FromShape="Turn-off triode"/>
+	<String NameU="P-Type" FromShape="MOSFET"/>
+	<String NameU="P-type" FromShape="Controlled rectifier"/>
+	<String NameU="PNIN" FromShape="Ohmic"/>
+	<String NameU="PNIP" FromShape="Ohmic"/>
+	<String NameU="Page Printing" FromShape="Telegraph equipment qualifiers"/>
+	<String NameU="Page's Unit" FromShape="Horizontal"/>
+	<String NameU="Passive" FromShape="Space station"/>
+	<String NameU="Parallel" FromShape="Exclusive Gateway with Marker"/>
+	<String NameU="Pause" FromShape="Progress Status"/>
+	<String NameU="Percentage" FromShape="Percentage Indicator"/>
+	<String NameU="Permanent" FromShape="Relay"/>
+	<String NameU="Phase Meter" FromShape="Indicator"/>
+	<String NameU="Phone" FromShape="Manager With Photo"/>
+	<String NameU="Pilot Frequency" FromShape="Frequency spectrum element"/>
+	<String NameU="Planned" FromShape="Generating station"/>
+	<String NameU="Plug" FromShape="Shielded jack/plug"/>
+	<String NameU="Point Number" FromShape="Scatter Plot"/>
+	<String NameU="Polar direct-current (double current)" FromShape="Telegraph repeater qualifiers"/>
+	<String NameU="Poor" FromShape="Grade"/>
+	<String NameU="Poor Quality" FromShape="Quality"/>
+	<String NameU="Position" FromShape="4X Building block-top"/>
+	<String NameU="Potentiometer" FromShape="Resister"/>
+	<String NameU="Power-factor Meter" FromShape="Indicator"/>
+	<String NameU="Pre-emphasize Higher Frequencies" FromShape="Networks"/>
+	<String NameU="Pre-set Potentiometer" FromShape="Resister"/>
+	<String NameU="Pre-set Resistor" FromShape="Resister"/>
+	<String NameU="Precision" FromShape="Single Column"/>
+	<String NameU="Precision &amp; Units" FromShape="Horizontal"/>
+	<String NameU="Precision Units..." FromShape="Angle"/>
+	<String NameU="Prefix Unit" FromShape="Column"/>
+	<String NameU="Prev Month" FromShape="Big Calendar"/>
+	<String NameU="Prev Week" FromShape="Big Calendar"/>
+	<String NameU="Prev Year" FromShape="Big Calendar"/>
+	<String NameU="Price" FromShape="Window"/>
+	<String NameU="Prime Mover Type" FromShape="Prime mover"/>
+	<String NameU="Process" FromShape="Process"/>
+	<String NameU="Process ID" FromShape="Process box"/>
+	<String NameU="Process Name" FromShape="Process box"/>
+	<String NameU="Progress" FromShape="Dynamic Progress"/>
+	<String NameU="Protective Gap" FromShape="Surge protectors 2"/>
+	<String NameU="Proximity Effect" FromShape="Manual control"/>
+	<String NameU="Pull-switch 1" FromShape="Manual switch"/>
+	<String NameU="Pull-switch 2" FromShape="Manual switch"/>
+	<String NameU="Pulling" FromShape="Manual control"/>
+	<String NameU="Pulse Inverter" FromShape="Changer"/>
+	<String NameU="Pulse-amplitude Modulation" FromShape="Pulse modulation"/>
+	<String NameU="Pulse-duration Modulation" FromShape="Pulse modulation"/>
+	<String NameU="Pulse-frequency Modulation" FromShape="Pulse modulation"/>
+	<String NameU="Pulse-interval Modulation" FromShape="Pulse modulation"/>
+	<String NameU="Pulse-phase Modulation" FromShape="Pulse modulation"/>
+	<String NameU="Pump Type" FromShape="Pump"/>
+	<String NameU="Push-Pull Head" FromShape="Pushbutton make"/>
+	<String NameU="Push-button 1" FromShape="Manual switch"/>
+	<String NameU="Push-button 2" FromShape="Manual switch"/>
+	<String NameU="Push-pull" FromShape="Microphone"/>
+	<String NameU="Push/pull" FromShape="Manual control"/>
+	<String NameU="Pushbutton" FromShape="Telephone"/>
+	<String NameU="Pushing" FromShape="Manual control"/>
+	<String NameU="Qualifier" FromShape="Motor"/>
+	<String NameU="Qualifier Type" FromShape="Telegraph repeater qualifiers"/>
+	<String NameU="Quality" FromShape="Quality"/>
+	<String NameU="Quarter" FromShape="Time Bar"/>
+	<String NameU="Question 1" FromShape="Question Mark"/>
+	<String NameU="Question 2" FromShape="Question Mark"/>
+	<String NameU="Question 3" FromShape="Question Mark"/>
+	<String NameU="RS Flop-flop" FromShape="Flip-flop"/>
+	<String NameU="Radia" FromShape="Selectable fan"/>
+	<String NameU="Radial" FromShape="Selectable fan"/>
+	<String NameU="Radians" FromShape="Angle center"/>
+	<String NameU="Radio Beacon" FromShape="Direction finding"/>
+	<String NameU="Radio Button" FromShape="Menu Bar"/>
+	<String NameU="Radioisotope" FromShape="Heat source"/>
+	<String NameU="Radius * 0.25" FromShape="Miter bend 4"/>
+	<String NameU="Radius * 0.5" FromShape="Miter bend 4"/>
+	<String NameU="Radius * 0.75" FromShape="Miter bend 4"/>
+	<String NameU="Radius * 1" FromShape="Miter bend 4"/>
+	<String NameU="Radius * 2" FromShape="Miter bend 4"/>
+	<String NameU="Radius * 3" FromShape="Miter bend 4"/>
+	<String NameU="Radius * 4" FromShape="Miter bend 4"/>
+	<String NameU="Radius * 5" FromShape="Miter bend 4"/>
+	<String NameU="Radius * 6" FromShape="Miter bend 4"/>
+	<String NameU="Radius * 7" FromShape="Miter bend 4"/>
+	<String NameU="Radius * 8" FromShape="Miter bend 4"/>
+	<String NameU="Ramp" FromShape="Signal waveforms"/>
+	<String NameU="Range 1" FromShape="Circular Gauge"/>
+	<String NameU="Range 2" FromShape="Circular Gauge"/>
+	<String NameU="Range 3" FromShape="Circular Gauge"/>
+	<String NameU="Range 4" FromShape="Circular Gauge"/>
+	<String NameU="Range Number" FromShape="Circular Gauge"/>
+	<String NameU="Reactive Current Ammeter" FromShape="Indicator"/>
+	<String NameU="Reading" FromShape="Pickup head"/>
+	<String NameU="Real" FromShape="Base type"/>
+	<String NameU="Receiver" FromShape="Guided light transmitter"/>
+	<String NameU="Reception" FromShape="Radio station 1"/>
+	<String NameU="Reciprocating" FromShape="Selectable compressor"/>
+	<String NameU="Reciprocating Engine" FromShape="Oil or gas fueled"/>
+	<String NameU="Recorder/Reproducer" FromShape="Recorder/reproducer"/>
+	<String NameU="Rect Mark" FromShape="How to use Column Chart"/>
+	<String NameU="Rectangle" FromShape="Flags"/>
+	<String NameU="Rectifier" FromShape="Converter"/>
+	<String NameU="Rectifier/Inverter" FromShape="Converter"/>
+	<String NameU="Red" FromShape="Trafic Light"/>
+	<String NameU="Reduced-carrier Frequency" FromShape="Frequency spectrum element"/>
+	<String NameU="Reference" FromShape="Reference Ports"/>
+	<String NameU="Reference Port" FromShape="Reference Ports"/>
+	<String NameU="Reference Type" FromShape="Modified Actor Ref."/>
+	<String NameU="RelationShip" FromShape="Relationship"/>
+	<String NameU="Relay Port" FromShape="Relay Ports"/>
+	<String NameU="Relay Type" FromShape="Relay"/>
+	<String NameU="Remote Handle" FromShape="Manual control"/>
+	<String NameU="Remove Microphone" FromShape="Speaker"/>
+	<String NameU="Remove Segment" FromShape="Flexi connector"/>
+	<String NameU="Repeater Station" FromShape="Radio station 2"/>
+	<String NameU="Repeater Type" FromShape="Telegraph repeater"/>
+	<String NameU="Replace Image" FromShape="Box"/>
+	<String NameU="Replace Logo" FromShape="Logo Placeholder"/>
+	<String NameU="Replace Photo" FromShape="Manager With Photo"/>
+	<String NameU="Replicated" FromShape="Modified Actor Ref."/>
+	<String NameU="Replicated Class" FromShape="Relay Ports"/>
+	<String NameU="Replicated Reference" FromShape="Reference Ports"/>
+	<String NameU="Replicated and Imported" FromShape="Modified Actor Ref."/>
+	<String NameU="Replicated and Optional" FromShape="Modified Actor Ref."/>
+	<String NameU="Replicated and Substitutable" FromShape="Modified Actor Ref."/>
+	<String NameU="Reproducer" FromShape="Recorder/reproducer"/>
+	<String NameU="Reset Auto Text..." FromShape="Angle"/>
+	<String NameU="Reset Size" FromShape="Border"/>
+	<String NameU="Reset Text" FromShape="3-State Priority"/>
+	<String NameU="Reset Text Position" FromShape="Angle center"/>
+	<String NameU="Resolver" FromShape="Synchro"/>
+	<String NameU="Resources" FromShape="Tagged process"/>
+	<String NameU="Restricted Access" FromShape="Manual control"/>
+	<String NameU="Reverse Blocking" FromShape="Diode"/>
+	<String NameU="Reverse Conducting" FromShape="Diode"/>
+	<String NameU="Reverse rotation" FromShape="Shortcut to Field polarization rotator"/>
+	<String NameU="Right" FromShape="Simple Bar"/>
+	<String NameU="Right direction" FromShape="Horizontal extension"/>
+	<String NameU="Right Icon Type" FromShape="Menu Bar"/>
+	<String NameU="Right Side" FromShape="Braces with text"/>
+	<String NameU="Right hemisphere value." FromShape="Semicircular Indicator"/>
+	<String NameU="Ring Number" FromShape="Spider"/>
+	<String NameU="Road Width" FromShape="Metro line"/>
+	<String NameU="Roller" FromShape="Manual control"/>
+	<String NameU="Rolling" FromShape="Various kneaders"/>
+	<String NameU="Rotary" FromShape="Selectable compressor"/>
+	<String NameU="Round Landing" FromShape="Corner landing"/>
+	<String NameU="Row Number" FromShape="Six Matrix"/>
+	<String NameU="Rows" FromShape="Basic List"/>
+	<String NameU="Ruby Laser Generator" FromShape="Ruby laser"/>
+	<String NameU="Ruby Laser Generator with Xenon Lamp" FromShape="Ruby laser"/>
+	<String NameU="Rule" FromShape="Start"/>
+	<String NameU="Salinity Meter" FromShape="Indicator"/>
+	<String NameU="Sawtooth" FromShape="Signal waveforms"/>
+	<String NameU="Scale Precision" FromShape="Circular Gauge"/>
+	<String NameU="Screw" FromShape="Selectable compressor"/>
+	<String NameU="Screw Conveyor Type" FromShape="Screw conveyor"/>
+	<String NameU="Screw-down" FromShape="Check valve"/>
+	<String NameU="Screwed" FromShape="End caps"/>
+	<String NameU="Second Derivative" FromShape="Derivative"/>
+	<String NameU="Secondary Flow" FromShape="Signal code"/>
+	<String NameU="Section" FromShape="4X Building block-top"/>
+	<String NameU="Segment Number" FromShape="Circular Motion"/>
+	<String NameU="Select Actor Reference Type..." FromShape="Modified Actor Ref."/>
+	<String NameU="Select Reference Port..." FromShape="Reference Ports"/>
+	<String NameU="Select Relay Port..." FromShape="Relay Ports"/>
+	<String NameU="Select Transition Point Type..." FromShape="Transition Points"/>
+	<String NameU="Selected" FromShape="Checkbox"/>
+	<String NameU="Semiconducting" FromShape="Material"/>
+	<String NameU="Separated" FromShape="2-phase 3-wire"/>
+	<String NameU="Series" FromShape="Field"/>
+	<String NameU="Series Number" FromShape="Column"/>
+	<String NameU="Service" FromShape="Motor"/>
+	<String NameU="Set Amplifier Type..." FromShape="Amplifier"/>
+	<String NameU="Set Angle" FromShape="Horizontal"/>
+	<String NameU="Set Arrow Number" FromShape="Multi-arrow Circle"/>
+	<String NameU="Set Arrow Size" FromShape="Circle Arrow Loop"/>
+	<String NameU="Set Axis Max and Min Scale" FromShape="Bubble"/>
+	<String NameU="Set Axis Number" FromShape="Spider"/>
+	<String NameU="Set Box Number" FromShape="Block Loop"/>
+	<String NameU="Set Category Number" FromShape="Column"/>
+	<String NameU="Set Chair Number" FromShape="Table with Chairs"/>
+	<String NameU="Set Circle Number" FromShape="Basic Loop"/>
+	<String NameU="Set Column Number" FromShape="List"/>
+	<String NameU="Set Control Type..." FromShape="Manual control"/>
+	<String NameU="Set Converter Type..." FromShape="Converter"/>
+	<String NameU="Set Current Date" FromShape="Big Calendar"/>
+	<String NameU="Set Data" FromShape="Semicircular Indicator"/>
+	<String NameU="Set Data Type" FromShape="Base type"/>
+	<String NameU="Set Delay Type..." FromShape="Time delay make 2"/>
+	<String NameU="Set Device Type..." FromShape="Blocking device"/>
+	<String NameU="Set Doughnut Thickness" FromShape="Variable Radian Doughnut"/>
+	<String NameU="Set Gauge Data" FromShape="Circular Gauge"/>
+	<String NameU="Set Heat Source Type..." FromShape="Heat source"/>
+	<String NameU="Set Hollow" FromShape="Open end arrow"/>
+	<String NameU="Set Interval" FromShape="Interval Description"/>
+	<String NameU="Set Level Number" FromShape="List"/>
+	<String NameU="Set Machine Type..." FromShape="Motor"/>
+	<String NameU="Set Max Value" FromShape="Column"/>
+	<String NameU="Set Min Value" FromShape="Column"/>
+	<String NameU="Set Max and Min Value" FromShape="Scatter Plot"/>
+	<String NameU="Set Milestone" FromShape="Diamond Milestone"/>
+	<String NameU="Set Mullion Number" FromShape="Curtain Wall"/>
+	<String NameU="Set Node Number..." FromShape="Node"/>
+	<String NameU="Set Number of Lines" FromShape="Multi-lines"/>
+	<String NameU="Set Number of Terminals..." FromShape="Fluorescent lamp"/>
+	<String NameU="Set Pie Number" FromShape="Variable Radian Pie"/>
+	<String NameU="Set Point Number" FromShape="Scatter Plot"/>
+	<String NameU="Set Position and Data" FromShape="Bubble"/>
+	<String NameU="Set Prime Mover Type..." FromShape="Prime mover"/>
+	<String NameU="Set Process Detail..." FromShape="Process box"/>
+	<String NameU="Set Progress" FromShape="Dynamic Progress"/>
+	<String NameU="Set Qualifier Type..." FromShape="Telegraph repeater qualifiers"/>
+	<String NameU="Set Range Data" FromShape="Circular Gauge"/>
+	<String NameU="Set Range Number" FromShape="Circular Gauge"/>
+	<String NameU="Set Relay Type" FromShape="Relay"/>
+	<String NameU="Set Repeater Type..." FromShape="Telegraph repeater"/>
+	<String NameU="Set Ring Number" FromShape="Spider"/>
+	<String NameU="Set Ring Thickness" FromShape="Doughnut"/>
+	<String NameU="Set Road Width" FromShape="Metro line"/>
+	<String NameU="Set Row Number" FromShape="Basic List"/>
+	<String NameU="Set Segment Number" FromShape="Circular Motion"/>
+	<String NameU="Set Series Number" FromShape="Column"/>
+	<String NameU="Set Solid" FromShape="Open end arrow"/>
+	<String NameU="Set Start and Step" FromShape="Number List"/>
+	<String NameU="Set Station Type..." FromShape="Generating station"/>
+	<String NameU="Set Substation Type..." FromShape="Substation"/>
+	<String NameU="Set Switch Position" FromShape="SPDT"/>
+	<String NameU="Set Switch Type..." FromShape="Circuit breaker 1P"/>
+	<String NameU="Set Synchro Type..." FromShape="Synchro"/>
+	<String NameU="Set Telephone Type..." FromShape="Telephone"/>
+	<String NameU="Set Thickness" FromShape="Set Thickness"/>
+	<String NameU="Set Time Bar" FromShape="Time Bar"/>
+	<String NameU="Set Tooth Size" FromShape="Gears"/>
+	<String NameU="Set Transformer Properties..." FromShape="Transformer"/>
+	<String NameU="Set Tube Width" FromShape="Flask"/>
+	<String NameU="Set U Number" FromShape="Rack"/>
+	<String NameU="Set Vertex Number" FromShape="Gears"/>
+	<String NameU="Set Vertical Interval" FromShape="List"/>
+	<String NameU="Set Wave Type..." FromShape="Signal waveforms"/>
+	<String NameU="Set Week Number" FromShape="Weeks Calendar"/>
+	<String NameU="Set Width" FromShape="Carpet"/>
+	<String NameU="Set Winding Type..." FromShape="Field"/>
+	<String NameU="Set X, Y Position" FromShape="Scatter Plot"/>
+	<String NameU="Set Zoom Size" FromShape="List"/>
+	<String NameU="Set the angle value from -180 to 180" FromShape="Horizontal"/>
+	<String NameU="Set the number of vertices" FromShape="Dynamic Star"/>
+	<String NameU="Set to 1 Line" FromShape="Lamp"/>
+	<String NameU="Set to 1 Line Input" FromShape="Buzzer"/>
+	<String NameU="Set to 2 Line" FromShape="Lamp"/>
+	<String NameU="Set to 2 Line Input" FromShape="Buzzer"/>
+	<String NameU="Set to Bidirectional" FromShape="Breakdown diode"/>
+	<String NameU="Set to Capacitive" FromShape="Transducer 2"/>
+	<String NameU="Set to Circular" FromShape="Generic component"/>
+	<String NameU="Set to Coherent" FromShape="Radiation"/>
+	<String NameU="Set to Current Source" FromShape="AC source"/>
+	<String NameU="Set to Fixed" FromShape="Attenuator"/>
+	<String NameU="Set to Ideal Current" FromShape="Ideal source"/>
+	<String NameU="Set to Ideal Voltage" FromShape="Ideal source"/>
+	<String NameU="Set to Indicating" FromShape="Lamp"/>
+	<String NameU="Set to Ionizing" FromShape="Radiation"/>
+	<String NameU="Set to Light emitting" FromShape="Photodiode"/>
+	<String NameU="Set to N-Type Channel" FromShape="Junction - P Channel"/>
+	<String NameU="Set to NPN" FromShape="Transistor PNP"/>
+	<String NameU="Set to Negative Pulse" FromShape="Pulse"/>
+	<String NameU="Set to Negative Step" FromShape="Step function"/>
+	<String NameU="Set to Non-capacitive" FromShape="Transducer 2"/>
+	<String NameU="Set to Non-coherent" FromShape="Radiation"/>
+	<String NameU="Set to Non-indicating" FromShape="Lamp"/>
+	<String NameU="Set to Non-ionizing" FromShape="Radiation"/>
+	<String NameU="Set to P-Type Channel" FromShape="Junction - P Channel"/>
+	<String NameU="Set to PNP" FromShape="Transistor PNP"/>
+	<String NameU="Set to Positive Pulse" FromShape="Pulse"/>
+	<String NameU="Set to Positive Step" FromShape="Step function"/>
+	<String NameU="Set to Recording" FromShape="Pickup head"/>
+	<String NameU="Set to Rectangular" FromShape="Generic component"/>
+	<String NameU="Set to Reproducing" FromShape="Pickup head"/>
+	<String NameU="Set to Signal Lamp" FromShape="Lamp 2"/>
+	<String NameU="Set to Standard Lamp" FromShape="Lamp 2"/>
+	<String NameU="Set to Unidirectional" FromShape="Breakdown diode"/>
+	<String NameU="Set to Variable" FromShape="Attenuator"/>
+	<String NameU="Set to Voltage Source" FromShape="AC source"/>
+	<String NameU="Set to photosensitive" FromShape="Photodiode"/>
+	<String NameU="Show 1-Wire" FromShape="Phase shifter"/>
+	<String NameU="Show 1F" FromShape="Principal Optics Axis"/>
+	<String NameU="Show 2F" FromShape="Principal Optics Axis"/>
+	<String NameU="Show 3 Terminals" FromShape="Mercury"/>
+	<String NameU="Show 3-Wire" FromShape="Phase shifter"/>
+	<String NameU="Show 4 Terminals" FromShape="Mercury"/>
+	<String NameU="Show Alternative Symbol" FromShape="Resister"/>
+	<String NameU="Show Arrow" FromShape="List"/>
+	<String NameU="Show Axis" FromShape="Column"/>
+	<String NameU="Show Axis Labels" FromShape="Spider"/>
+	<String NameU="Show Border" FromShape="Circle Sector"/>
+	<String NameU="Show Both Directions" FromShape="Rotation"/>
+	<String NameU="Show Bottom" FromShape="List"/>
+	<String NameU="Show Break Contact" FromShape="Spring return"/>
+	<String NameU="Show Center" FromShape="Circles"/>
+	<String NameU="Show Circle" FromShape="Basic List 3"/>
+	<String NameU="Show Closed Circuit" FromShape="Contact"/>
+	<String NameU="Show Connect Line" FromShape="Point"/>
+	<String NameU="Show Cross" FromShape="Arc radius"/>
+	<String NameU="Show Cross Line" FromShape="Basic Matrix"/>
+	<String NameU="Show Data Labels" FromShape="Column"/>
+	<String NameU="Show Data Labels on Bottom" FromShape="Semicircular Indicator"/>
+	<String NameU="Show Data Labels on Right" FromShape="Vertical Bar Indicator"/>
+	<String NameU="Show Delete" FromShape="Text Field"/>
+	<String NameU="Show Desiccant" FromShape="Desiccator"/>
+	<String NameU="Show Discriminator" FromShape="Category"/>
+	<String NameU="Show Disengaged" FromShape="Clutch"/>
+	<String NameU="Show Dot" FromShape="Ground"/>
+	<String NameU="Show Dripping" FromShape="Liebig Condenser"/>
+	<String NameU="Show End Tick" FromShape="List"/>
+	<String NameU="Show Engaged" FromShape="Clutch"/>
+	<String NameU="Show Envelop" FromShape="Transistor PNP"/>
+	<String NameU="Show Exit Width" FromShape="Stair landing"/>
+	<String NameU="Show Filter Paper" FromShape="Funnel"/>
+	<String NameU="Show First Block of Title" FromShape="Blank Comparison Table"/>
+	<String NameU="Show Four Lines" FromShape="2-way repeater 4-wire"/>
+	<String NameU="Show Granule" FromShape="Gas Jar"/>
+	<String NameU="Show Grid" FromShape="Scatter Plot"/>
+	<String NameU="Show Groove" FromShape="Circle 3"/>
+	<String NameU="Show Held Closed" FromShape="Limit switch n/o"/>
+	<String NameU="Show Held Open" FromShape="Limit switch n/c"/>
+	<String NameU="Show Horizontal Grid" FromShape="Line"/>
+	<String NameU="Show Image" FromShape="List"/>
+	<String NameU="Show Image Circle" FromShape="Box"/>
+	<String NameU="Show Iron Clip 1" FromShape="Iron Stage"/>
+	<String NameU="Show Iron Clip 2" FromShape="Iron Stage"/>
+	<String NameU="Show Junction" FromShape="6-phase double star"/>
+	<String NameU="Show Left Box" FromShape="List"/>
+	<String NameU="Show Left Text" FromShape="Pyramid 4"/>
+	<String NameU="Show Legend" FromShape="Column"/>
+	<String NameU="Show Legend on Bottom" FromShape="Column"/>
+	<String NameU="Show Legend on Right Side" FromShape="Column"/>
+	<String NameU="Show Line" FromShape="Right direction flow"/>
+	<String NameU="Show Liquid" FromShape="Dropper"/>
+	<String NameU="Show Make Contact" FromShape="Spring return"/>
+	<String NameU="Show Middle Circle" FromShape="SPDT"/>
+	<String NameU="Show Neutral" FromShape="6-phase fork"/>
+	<String NameU="Show One Direction" FromShape="Rotation"/>
+	<String NameU="Show One Line" FromShape="1-way repeater"/>
+	<String NameU="Show Open Circuit" FromShape="Contact"/>
+	<String NameU="Show Operator" FromShape="Process"/>
+	<String NameU="Show Photo" FromShape="Manager With Photo"/>
+	<String NameU="Show Polarity Symbols" FromShape="Cell"/>
+	<String NameU="Show Reflector" FromShape="Ferrite core"/>
+	<String NameU="Show Refresh Button" FromShape="Url Field"/>
+	<String NameU="Show Right Text" FromShape="Pyramid 4"/>
+	<String NameU="Show Ruler" FromShape="Time Bar"/>
+	<String NameU="Show SWOT" FromShape="Circle Matrix/SWOT"/>
+	<String NameU="Show Scale Mark" FromShape="Gas Jar"/>
+	<String NameU="Show Seam" FromShape="Pulsation dampener"/>
+	<String NameU="Show Solid" FromShape="Bidirectional Tube"/>
+	<String NameU="Show Solid Matter" FromShape="Gas Jar"/>
+	<String NameU="Show Stair Stagger" FromShape="Stair landing"/>
+	<String NameU="Show Table" FromShape="Table with Chairs"/>
+	<String NameU="Show Tank Lip" FromShape="Open tank"/>
+	<String NameU="Show Text" FromShape="Variable Radian Pie"/>
+	<String NameU="Show Text Block" FromShape="Process"/>
+	<String NameU="Show Text Circle" FromShape="Box"/>
+	<String NameU="Show Tick" FromShape="Dropper"/>
+	<String NameU="Show Title" FromShape="Vertical List"/>
+	<String NameU="Show Title Bar" FromShape="Blank Comparison Table"/>
+	<String NameU="Show Two Lines" FromShape="1-way repeater"/>
+	<String NameU="Show Units" FromShape="Horizontal"/>
+	<String NameU="Show Vertical Grid" FromShape="Line"/>
+	<String NameU="Show Water" FromShape="Flume"/>
+	<String NameU="Show/Hide Axis Labels" FromShape="Spider"/>
+	<String NameU="Shunt or Separate" FromShape="Field"/>
+	<String NameU="Signaling Frequency" FromShape="Frequency spectrum element"/>
+	<String NameU="Simultaneous" FromShape="Radio station 1"/>
+	<String NameU="Sine Wave" FromShape="Signal waveforms"/>
+	<String NameU="Single Line" FromShape="Magnetic core"/>
+	<String NameU="Single-line Symbol" FromShape="Cable termination"/>
+	<String NameU="Single-load" FromShape="Various mixers"/>
+	<String NameU="Single-stroke Bell" FromShape="Bell"/>
+	<String NameU="Siren" FromShape="Bell"/>
+	<String NameU="Slot" FromShape="Extractor hood"/>
+	<String NameU="Slow Wave Structure" FromShape="Delay element"/>
+	<String NameU="Slow-operate" FromShape="Relay"/>
+	<String NameU="Slow-release" FromShape="Relay"/>
+	<String NameU="Small" FromShape="Circular Motion 2"/>
+	<String NameU="Small Scale" FromShape="Substation"/>
+	<String NameU="Smybol 3" FromShape="Two way contact"/>
+	<String NameU="Socket and Spigot" FromShape="End caps"/>
+	<String NameU="Soldered" FromShape="Soldered/ Solvent"/>
+	<String NameU="Solid" FromShape="Material"/>
+	<String NameU="Solid Line" FromShape="Material"/>
+	<String NameU="Solvent" FromShape="Soldered/ Solvent"/>
+	<String NameU="Space for an Icon" FromShape="Menu Bar"/>
+	<String NameU="Speaker Phone" FromShape="Telephone"/>
+	<String NameU="Sphere Gap" FromShape="Surge protectors 2"/>
+	<String NameU="Square" FromShape="Line"/>
+	<String NameU="Square Landing" FromShape="Corner landing"/>
+	<String NameU="Square Marker" FromShape="Spider"/>
+	<String NameU="Standard" FromShape="Delay element"/>
+	<String NameU="Standard Bell" FromShape="Bell"/>
+	<String NameU="Standard Formt" FromShape="Frame"/>
+	<String NameU="Standard Symbol" FromShape="Heat exchanger"/>
+	<String NameU="Star" FromShape="Entity Life History"/>
+	<String NameU="Star4" FromShape="Flags"/>
+	<String NameU="Star5" FromShape="Flags"/>
+	<String NameU="Start Date" FromShape="Time Bar"/>
+	<String NameU="Start From Monday" FromShape="Big Calendar"/>
+	<String NameU="Start State" FromShape="Multi state"/>
+	<String NameU="Start Value" FromShape="Number List"/>
+	<String NameU="Start/End" FromShape="Process"/>
+	<String NameU="State" FromShape="Multi state"/>
+	<String NameU="Station Specifics" FromShape="Oil or gas fueled"/>
+	<String NameU="Station Type" FromShape="Generating station"/>
+	<String NameU="Step" FromShape="Number List"/>
+	<String NameU="Step Size" FromShape="Stack Circles"/>
+	<String NameU="Stop State" FromShape="Multi state"/>
+	<String NameU="Stop/Cancel" FromShape="Progress Status"/>
+	<String NameU="String" FromShape="Base type"/>
+	<String NameU="Sub Menu" FromShape="Menu Bar"/>
+	<String NameU="Sub-diagram ID" FromShape="Process box"/>
+	<String NameU="SubType" FromShape="Filter"/>
+	<String NameU="Submarine" FromShape="Line / Cable"/>
+	<String NameU="Submersion" FromShape="Centrifuge"/>
+	<String NameU="Subprocess" FromShape="Process"/>
+	<String NameU="Substation Type" FromShape="Substation"/>
+	<String NameU="Substation specifics" FromShape="Substation"/>
+	<String NameU="Substitutable" FromShape="Modified Actor Ref."/>
+	<String NameU="Substrate Connection" FromShape="MOSFET"/>
+	<String NameU="Suggested value is greater than or equal to 0" FromShape="Column"/>
+	<String NameU="Summing" FromShape="Amplifier"/>
+	<String NameU="Supergroup Pilot Frequency" FromShape="Frequency spectrum element"/>
+	<String NameU="Super Large" FromShape="Dynamic Gear"/>
+	<String NameU="Suppressed Pilot Frequency" FromShape="Frequency spectrum element"/>
+	<String NameU="Suppressed-carrier Frequency" FromShape="Frequency spectrum element"/>
+	<String NameU="Switch Position" FromShape="SPDT"/>
+	<String NameU="Switch Type" FromShape="Circuit breaker 1P"/>
+	<String NameU="Symbol 1" FromShape="Make Contact"/>
+	<String NameU="Symbol 2" FromShape="Make Contact"/>
+	<String NameU="Symbol 3" FromShape="Switch Disconnector 1P"/>
+	<String NameU="Symbol 4" FromShape="Switch Disconnector 1P"/>
+	<String NameU="Symbol Option" FromShape="Make Contact"/>
+	<String NameU="Synchro Type" FromShape="Synchro"/>
+	<String NameU="Synchronoscope" FromShape="Indicator"/>
+	<String NameU="Synchronous Converter" FromShape="Motor"/>
+	<String NameU="Synchronous Generator" FromShape="Motor"/>
+	<String NameU="Synchronous Motor" FromShape="Motor"/>
+	<String NameU="T Type-Gate" FromShape="Turn-off triode"/>
+	<String NameU="TRUE" FromShape="Delay element"/>
+	<String NameU="Tachometer" FromShape="Indicator"/>
+	<String NameU="Tape Perforating" FromShape="Telegraph equipment qualifiers"/>
+	<String NameU="Tape Printing" FromShape="Telegraph equipment qualifiers"/>
+	<String NameU="Tape Printing/Perforating" FromShape="Telegraph equipment qualifiers"/>
+	<String NameU="Taps" FromShape="Inductor"/>
+	<String NameU="Task Type - Business Rule" FromShape="Collapsed Sub-Process"/>
+	<String NameU="Task Type - Instantiating Receive" FromShape="Collapsed Sub-Process"/>
+	<String NameU="Task Type - Manual" FromShape="Collapsed Sub-Process"/>
+	<String NameU="Task Type - None" FromShape="Collapsed Sub-Process"/>
+	<String NameU="Task Type - Receive" FromShape="Collapsed Sub-Process"/>
+	<String NameU="Task Type - Script" FromShape="Collapsed Sub-Process"/>
+	<String NameU="Task Type - Send" FromShape="Collapsed Sub-Process"/>
+	<String NameU="Task Type - Service" FromShape="Collapsed Sub-Process"/>
+	<String NameU="Task Type - User" FromShape="Collapsed Sub-Process"/>
+	<String NameU="Telephone Type" FromShape="Telephone"/>
+	<String NameU="Terminals" FromShape="Fluorescent lamp"/>
+	<String NameU="Terminating Set" FromShape="Terminating sets"/>
+	<String NameU="Terminating Set w/ Balancing Network" FromShape="Terminating sets"/>
+	<String NameU="Text" FromShape="Menu Bar"/>
+	<String NameU="Text Parallel" FromShape="Side brace"/>
+	<String NameU="Text Perpendicular" FromShape="Side brace"/>
+	<String NameU="The unit displayed after current value, e.g. 180 USD" FromShape="Column"/>
+	<String NameU="The unit displayed before current value, e.g. $180" FromShape="Column"/>
+	<String NameU="Thermometer" FromShape="Indicator"/>
+	<String NameU="Thickness" FromShape="Variable Radian Doughnut"/>
+	<String NameU="Third Derivative" FromShape="Derivative"/>
+	<String NameU="Thousand Separator" FromShape="Column"/>
+	<String NameU="Tick Number" FromShape="Circular Gauge"/>
+	<String NameU="Timer" FromShape="Start"/>
+	<String NameU="Title" FromShape="Title block"/>
+	<String NameU="Tooth Size" FromShape="Gears"/>
+	<String NameU="Top" FromShape="Column"/>
+	<String NameU="Top Hook" FromShape="Weight"/>
+	<String NameU="Top Left" FromShape="Circle 3"/>
+	<String NameU="Top Right" FromShape="Circle 3"/>
+	<String NameU="Touching" FromShape="Manual control"/>
+	<String NameU="Tracking Station" FromShape="Earth tracking station"/>
+	<String NameU="Transition Point" FromShape="Transition Points"/>
+	<String NameU="Transmission" FromShape="Radio station 1"/>
+	<String NameU="Transmitter" FromShape="Guided light transmitter"/>
+	<String NameU="Triangle" FromShape="Flags"/>
+	<String NameU="Trigger" FromShape="Start"/>
+	<String NameU="True" FromShape="Delay element"/>
+	<String NameU="Tube Bundle Type" FromShape="U-Tube heat exchanger"/>
+	<String NameU="Tube Width" FromShape="Flask"/>
+	<String NameU="Turbine" FromShape="Oil or gas fueled"/>
+	<String NameU="Turn Off" FromShape="On/Off Switch"/>
+	<String NameU="Turn On" FromShape="On/Off Switch"/>
+	<String NameU="Turn-switch" FromShape="Manual switch"/>
+	<String NameU="Turning" FromShape="Manual control"/>
+	<String NameU="Two Circles" FromShape="Conveyor"/>
+	<String NameU="Two Input" FromShape="Amplifier"/>
+	<String NameU="Two Lines" FromShape="Conveyor"/>
+	<String NameU="Two-way Simplex" FromShape="Telegraph repeater"/>
+	<String NameU="Type" FromShape="Surge protectors 2"/>
+	<String NameU="Type 1" FromShape="Change-Over Contact"/>
+	<String NameU="Type 2" FromShape="Change-Over Contact"/>
+	<String NameU="Type 3" FromShape="Change-Over Contact"/>
+	<String NameU="Type 4" FromShape="Change-Over Contact"/>
+	<String NameU="Type A" FromShape="Benzene"/>
+	<String NameU="Type B" FromShape="Benzene"/>
+	<String NameU="Type C" FromShape="Benzene"/>
+	<String NameU="U Number" FromShape="Rack"/>
+	<String NameU="U-tubes" FromShape="U-Tube heat exchanger"/>
+	<String NameU="UnChecked" FromShape="Check Box"/>
+	<String NameU="UnLock" FromShape="Lock/UnLock"/>
+	<String NameU="Underground" FromShape="Line / Cable"/>
+	<String NameU="Ungrounded" FromShape="2-phase 3-wire"/>
+	<String NameU="Unidirectional Amplification" FromShape="Amplified circuit"/>
+	<String NameU="Unit" FromShape="Column"/>
+	<String NameU="Units" FromShape="Horizontal"/>
+	<String NameU="Units Display" FromShape="Angle"/>
+	<String NameU="Unseparated" FromShape="2-phase 3-wire"/>
+	<String NameU="Unspecified" FromShape="Material"/>
+	<String NameU="Up" FromShape="4-Direction Arrow"/>
+	<String NameU="Up direction" FromShape="Vertical extension"/>
+	<String NameU="Up Position" FromShape="SPDT"/>
+	<String NameU="Urgent" FromShape="3-State Priority"/>
+	<String NameU="Val" FromShape="Column"/>
+	<String NameU="Value" FromShape="Gradient Pie"/>
+	<String NameU="Value 1" FromShape="Semicircular Indicator"/>
+	<String NameU="Value 2" FromShape="Semicircular Indicator"/>
+	<String NameU="Valve" FromShape="Surge protectors"/>
+	<String NameU="Valve Class" FromShape="Various junction"/>
+	<String NameU="Variable" FromShape="Resister"/>
+	<String NameU="Varmeter" FromShape="Indicator"/>
+	<String NameU="Verified" FromShape="6-State Status"/>
+	<String NameU="Vertex Number" FromShape="Gears"/>
+	<String NameU="Vertical" FromShape="Column"/>
+	<String NameU="Vertical Blades" FromShape="Fan blades"/>
+	<String NameU="Vertical Flip" FromShape="Line Mission 2"/>
+	<String NameU="Very Large" FromShape="Circular Motion 2"/>
+	<String NameU="Very Small" FromShape="Circular Motion 2"/>
+	<String NameU="Vibrator" FromShape="Various mills"/>
+	<String NameU="Violet" FromShape="Flag"/>
+	<String NameU="Visible" FromShape="Diode"/>
+	<String NameU="Voice Button" FromShape="Search Box"/>
+	<String NameU="Voltmeter" FromShape="Indicator"/>
+	<String NameU="Warning" FromShape="3-State Alert"/>
+	<String NameU="Wavemeter" FromShape="Indicator"/>
+	<String NameU="Weak Relationship" FromShape="Relationship"/>
+	<String NameU="Week" FromShape="Weeks Calendar"/>
+	<String NameU="Wet" FromShape="Fluid separators"/>
+	<String NameU="Wheel" FromShape="Various kneaders"/>
+	<String NameU="Width" FromShape="Carpet"/>
+	<String NameU="Winding Type" FromShape="Field"/>
+	<String NameU="Writing" FromShape="Pickup head"/>
+	<String NameU="Woman" FromShape="Gender"/>
+	<String NameU="Worst" FromShape="Grade"/>
+	<String NameU="X" FromShape="Scatter Plot"/>
+	<String NameU="X Axis Tick Number" FromShape="Scatter Plot"/>
+	<String NameU="X Max Scale" FromShape="Scatter Plot"/>
+	<String NameU="X Min Scale" FromShape="Scatter Plot"/>
+	<String NameU="X-type" FromShape="Predefined Process"/>
+	<String NameU="XNOR" FromShape="Logic gate 1"/>
+	<String NameU="XOR" FromShape="Logic gate 1"/>
+	<String NameU="Y" FromShape="Scatter Plot"/>
+	<String NameU="Y Axis Tick Number" FromShape="Scatter Plot"/>
+	<String NameU="Y Max Scale" FromShape="Scatter Plot"/>
+	<String NameU="Y Min Scale" FromShape="Scatter Plot"/>
+	<String NameU="Year" FromShape="Time Bar"/>
+	<String NameU="Yellow" FromShape="Trafic Light"/>
+	<String NameU="Yes" FromShape="Complete or Cancel"/>
+	<String NameU="Zero Reactance" FromShape="Inductance capacitance"/>
+	<String NameU="Zero Reactance - Infinite susceptance" FromShape="Inductance capacitance"/>
+	<String NameU="Zoom Size" FromShape="Process"/>
+	<String NameU="d/M/yyyy" FromShape="Time Bar"/>
+	<String NameU="d/M/yyyy h:mm AM/PM" FromShape="Time Bar"/>
+	<String NameU="e.g.18.56, [00: 20]; [0: 18]; [0.0: 18.5]; [0.00: 18.56]; [0.000: 18.56]" FromShape="Column"/>
+	<String NameU="e.g.18500, Normal:18500; Thousand Separator:18,500; Breviary:18.5K" FromShape="Column"/>
+	<String NameU="h:mm AM/PM" FromShape="Time Bar"/>
+	<String NameU="hh:mm" FromShape="Time Bar"/>
+	<String NameU="yyyy" FromShape="Time Bar"/>
+	<String NameU="yyyy-MM-dd" FromShape="Time Bar"/>
+</ShapeStrings>

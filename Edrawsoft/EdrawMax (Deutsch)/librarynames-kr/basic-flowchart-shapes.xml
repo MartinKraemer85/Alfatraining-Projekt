@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Basic Flowchart Shapes">
+    <Elem NameU="Process" Number="2" Name="프로세스"/>
+    <Elem NameU="Decision" Name="결정"/>
+    <Elem NameU="Document" Name="문서"/>
+    <Elem NameU="Data" Name="데이터"/>
+    <Elem NameU="Start or Terminator" Name="시작 또는 종료"/>
+    <Elem NameU="Sub Process" Name="하위 프로세스"/>
+    <Elem NameU="Predefined Process" Name="사전 정의된 프로세스"/>
+    <Elem NameU="Start" Number="2" Name="시작"/>
+    <Elem NameU="People" Number="2" Name="사람"/>
+    <Elem NameU="Yes or No" Name="예 또는 아니요"/>
+    <Elem NameU="Database" Name="데이터베이스"/>
+    <Elem NameU="Stored Data" Name="저장 데이터"/>
+    <Elem NameU="Internal Storage" Name="내부 저장소"/>
+    <Elem NameU="Sequential Data" Name="순서 데이터"/>
+    <Elem NameU="Direct Data" Name="직접 데이터"/>
+    <Elem NameU="Manual Input" Name="수동 입력"/>
+    <Elem NameU="Card" Name="카드"/>
+    <Elem NameU="Paper Tape" Name="종이 테이프"/>
+    <Elem NameU="Delay" Name="지연"/>
+    <Elem NameU="Display" Name="디스플레이 내용"/>
+    <Elem NameU="Manual Operation" Name="수동 조작"/>
+    <Elem NameU="Preparation" Name="준비"/>
+    <Elem NameU="Parallel Mode" Name="병렬 모드"/>
+    <Elem NameU="Loop Limit" Name="루프 제한"/>
+    <Elem NameU="Terminator" Name="터미네이터"/>
+    <Elem NameU="On-page Reference" Name="같은 페이지 참조"/>
+    <Elem NameU="Off-page Reference" Name="다른 페이지 참조"/>
+    <Elem NameU="Control Transfer" Name="제어 전송"/>
+    <Elem NameU="Annotation" Name="주석"/>
+    <Elem NameU="Curved Connector" Name="곡선 연결선"/>
+</Lib>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Heaters">
+    <Elem NameU="Batch oven" Name="分批烤箱"/>
+    <Elem NameU="Boiler" Number="2" Name="鍋爐"/>
+    <Elem NameU="Boiler with flames" Name="火焰鍋爐"/>
+    <Elem NameU="Evaporator" Name="蒸發器"/>
+    <Elem NameU="Fossil-fired boiler" Name="燃煤鍋爐"/>
+    <Elem NameU="Heater" Name="加熱器"/>
+    <Elem NameU="Heat exchanger" Number="4" Name="換熱器"/>
+    <Elem NameU="Oil fired boiler" Name="燃油鍋爐"/>
+    <Elem NameU="Steam boiler" Name="蒸汽鍋爐"/>
+    <Elem NameU="Steam mixer" Name="蒸汽混合器"/>
+    <Elem NameU="Thermal fluid heater" Name="熱流體加熱器"/>
+    <Elem NameU="Thermal recycle boiler" Name="熱回收鍋爐"/>
+    <Elem NameU="Superheater" Name="過熱器"/>
+</Lib>

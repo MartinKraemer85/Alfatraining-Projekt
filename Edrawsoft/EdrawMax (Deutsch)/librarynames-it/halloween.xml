@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Halloween">
+	<Elem NameU="Signs 1" Name="Cartelli 1"/>
+	<Elem NameU="Signs 2" Name="Cartelli 2"/>
+	<Elem NameU="Pumpkin" Name="Zucca"/>
+	<Elem NameU="Pumpkin1" Name="Zucca1"/>
+	<Elem NameU="Pumpkin2" Name="Zucca2"/>
+	<Elem NameU="Pumpkin3" Name="Zucca3"/>
+	<Elem NameU="Pumpkin4" Name="Zucca4"/>
+	<Elem NameU="Pumpkin5" Name="Zucca5"/>
+	<Elem NameU="Pumpkin6" Name="Zucca6"/>
+	<Elem NameU="Pumpkin7" Name="Zucca7"/>
+	<Elem NameU="Pumpkin8" Name="Zucca8"/>
+	<Elem NameU="Bats" Name="Pipistrelli"/>
+	<Elem NameU="Bats1" Name="Pipistrelli1"/>
+	<Elem NameU="Bats2" Name="Pipistrelli2"/>
+	<Elem NameU="Bats3" Name="Pipistrelli3"/>
+	<Elem NameU="Tree" Name="Albero"/>
+	<Elem NameU="Tree1" Name="Albero1"/>
+	<Elem NameU="Tree2" Name="Albero2"/>
+	<Elem NameU="Tree3" Name="Albero3"/>
+	<Elem NameU="Tree4" Name="Albero4"/>
+	<Elem NameU="Cobwebs" Name="Ragnatele"/>
+	<Elem NameU="Cobwebs1" Name="Ragnatele1"/>
+	<Elem NameU="Cobwebs2" Name="Ragnatele2"/>
+	<Elem NameU="Spider" Name="Ragno"/>
+	<Elem NameU="Spider1" Name="Ragno1"/>
+	<Elem NameU="Spider2" Name="Ragno2"/>
+	<Elem NameU="Spider3" Name="Ragno3"/>
+	<Elem NameU="Cat" Name="Gatto"/>
+	<Elem NameU="Haunted House" Name="Casa Infestata"/>
+	<Elem NameU="Haunted House1" Name="Casa Infestata1"/>
+	<Elem NameU="Haunted House2" Name="Casa Infestata2"/>
+	<Elem NameU="Cross" Name="Croce"/>
+	<Elem NameU="Cross1" Name="Croce1"/>
+	<Elem NameU="Ghost" Name="Fantasma"/>
+	<Elem NameU="Ghost1" Name="Fantasma1"/>
+	<Elem NameU="Ghost2" Name="Fantasma2"/>
+	<Elem NameU="Witch Hat" Name="Cappello da Strega"/>
+	<Elem NameU="Witch Hat1" Name="Cappello da Strega1"/>
+	<Elem NameU="Witch Hat2" Name="Cappello da Strega2"/>
+	<Elem NameU="Broom" Name="Scopa"/>
+	<Elem NameU="Broom1" Name="Scopa1"/>
+	<Elem NameU="Witch" Name="Strega"/>
+	<Elem NameU="Witch1" Name="Strega1"/>
+	<Elem NameU="Stockpot" Name="Pentola"/>
+	<Elem NameU="Part Finger " Name="Dito Mozzato"/>
+	<Elem NameU="Mask" Name="Maschera"/>
+	<Elem NameU="Mask1" Name="Maschera1"/>
+	<Elem NameU="Sweet" Name="Dolciumi"/>
+	<Elem NameU="Sweet1" Name="Dolciumi1"/>
+	<Elem NameU="Zombie" Name="Zombie"/>
+	<Elem NameU="No face bride" Name="Sposa senza testa"/>
+</Lib>

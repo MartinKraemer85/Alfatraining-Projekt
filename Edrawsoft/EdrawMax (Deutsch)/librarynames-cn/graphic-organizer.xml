@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Graphic Organizer">
+    <Elem NameU="Bee" Name="蜜蜂"/>
+    <Elem NameU="Crab" Name="螃蟹"/>
+    <Elem NameU="Fish" Number="2" Name="鱼"/>
+    <Elem NameU="Frog" Name="青蛙"/>
+    <Elem NameU="Cow" Name="牛"/>
+    <Elem NameU="Caterpillar" Name="毛毛虫"/>
+    <Elem NameU="Elephant" Name="大象"/>
+    <Elem NameU="Bear" Name="熊"/>
+    <Elem NameU="Duck" Name="鸭子"/>
+    <Elem NameU="Kangaroo" Name="袋鼠"/>
+    <Elem NameU="Giraffe" Name="长颈鹿"/>
+    <Elem NameU="Rabbit" Name="兔子"/>
+    <Elem NameU="Bird" Name="鸟"/>
+    <Elem NameU="Spider Web" Name="蜘蛛网"/>
+    <Elem NameU="Ice Cream" Name="冰淇淋"/>
+    <Elem NameU="Tree" Name="树"/>
+    <Elem NameU="Apple" Name="苹果"/>
+    <Elem NameU="Tomato" Name="西红柿"/>
+    <Elem NameU="Sun" Name="太阳"/>
+    <Elem NameU="Balloon" Name="气球"/>
+    <Elem NameU="Flower" Name="花"/>
+    <Elem NameU="Leaf" Name="叶子"/>
+    <Elem NameU="Trees" Name="森林"/>
+    <Elem NameU="Candy 1" Name="糖果 1"/>
+    <Elem NameU="Candy 2" Name="糖果 2"/>
+    <Elem NameU="Cloud" Name="云"/>
+    <Elem NameU="Water Drop" Name="水滴"/>
+    <Elem NameU="Hand" Name="手"/>
+    <Elem NameU="House" Name="房子"/>
+    <Elem NameU="Umbrella" Name="雨伞"/>
+    <Elem NameU="Rainbow" Name="彩虹"/>
+    <Elem NameU="Lolipop" Name="棒棒糖"/>
+    <Elem NameU="Ice Sucker" Name="冰棍"/>
+    <Elem NameU="Heart" Name="爱心"/>
+    <Elem NameU="Strawberry" Name="草莓"/>
+    <Elem NameU="Frame 1" Name="框架 1"/>
+    <Elem NameU="Frame 2" Name="框架 2"/>
+</Lib>

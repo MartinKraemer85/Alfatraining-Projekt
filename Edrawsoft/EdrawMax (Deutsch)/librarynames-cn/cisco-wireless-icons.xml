@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Cisco Wireless Icons">
+    <Elem NameU="Air-AP Front" Number="2" Name="Air-AP正面"/>
+    <Elem NameU="Air-AP Rear" Name="Air-AP背面"/>
+    <Elem NameU="Air-AP Side" Name="Air-AP侧面"/>
+    <Elem NameU="Air-AP Rear" Name="Air-AP背面"/>
+    <Elem NameU="Air-AP Side" Name="Air-AP侧面"/>
+    <Elem NameU="AP Rear" Number="2" Name="AP背面"/>
+    <Elem NameU="Air-AP Rear" Name="Air-AP背面"/>
+</Lib>

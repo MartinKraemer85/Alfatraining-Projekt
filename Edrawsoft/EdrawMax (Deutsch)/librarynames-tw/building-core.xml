@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Building Core">
+    <Elem NameU="North" Name="指南針"/>
+    <Elem NameU="Direction" Name="方向"/>
+    <Elem NameU="Arrow" Name="箭頭"/>
+    <Elem NameU="Air-conditioned location" Name="空調機位"/>
+    <Elem NameU="Solid walls" Name="實心墻"/>
+    <Elem NameU="Step" Name="台階"/>
+    <Elem NameU="Ornamental stair" Name="裝飾性樓梯"/>
+    <Elem NameU="Scissor staircase" Name="剪式樓梯"/>
+    <Elem NameU="Straight staircase" Name="直樓梯"/>
+    <Elem NameU="Curved staircase" Number="2" Name="彎曲樓梯"/>
+    <Elem NameU="Winding staircase" Name="螺旋式樓梯"/>
+    <Elem NameU="Z-shaped stairs" Name="Z字形樓梯"/>
+    <Elem NameU="Divided return stairs" Name="分開的樓梯"/>
+    <Elem NameU="Pocket door" Name="移動門"/>
+    <Elem NameU="Double pocket door" Name="雙向門"/>
+    <Elem NameU="Left spiral staircase" Name="左螺旋樓梯"/>
+    <Elem NameU="Right spiral staircase" Name="右螺旋樓梯"/>
+    <Elem NameU="Corner landing" Name="拐角平台"/>
+    <Elem NameU="Stair landing" Name="樓梯平台"/>
+    <Elem NameU="Escalator" Name="自動扶梯"/>
+    <Elem NameU="Ramp" Name="斜坡"/>
+    <Elem NameU="Handrail" Name="扶手"/>
+    <Elem NameU="Corner handrail" Name="拐角扶手"/>
+    <Elem NameU="Toilet" Name="抽水馬桶"/>
+    <Elem NameU="Multi sink" Name="多個水池"/>
+    <Elem NameU="Multi urinal" Name="多個小便池"/>
+    <Elem NameU="Multi stall" Name="多個隔欄"/>
+    <Elem NameU="Countertop sink" Name="台面水池"/>
+    <Elem NameU="Toilet stall" Name="抽水馬桶隔欄"/>
+    <Elem NameU="Elevator" Name="電梯"/>
+    <Elem NameU="Freight elevator" Name="貨梯"/>
+    <Elem NameU="Chute" Name="斜槽"/>
+</Lib>

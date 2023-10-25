@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ThemeTexts Version="8.0">
+    <ThemeText VAlign="Center" Name="Times New Roman" ID="1">
+        <Character IX="0" Family="Times New Roman" Color="#ffffff" Size="12"/>
+        <Paragraph IndLeft="0" IndFirst="0" IndRight="0" SpLine="100" Align="4" IX="0"/>
+        <FontSchemeLst>
+            <FontScheme Flag="0" FontSize="12" FontName="Times New Roman"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Times New Roman"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Times New Roman"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Times New Roman"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Times New Roman"/>
+            <FontScheme Flag="1" FontSize="13" FontName="Times New Roman"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Times New Roman"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Times New Roman"/>
+        </FontSchemeLst>
+    </ThemeText>
+    <ThemeText VAlign="Center" Name="Segoe UI" ID="2">
+        <Character IX="0" Family="Segoe UI" Color="#ffffff" Size="12"/>
+        <Paragraph IndLeft="0" IndFirst="0" IndRight="0" SpLine="100" Align="4" IX="0"/>
+        <FontSchemeLst>
+            <FontScheme Flag="0" FontSize="12" FontName="Segoe UI"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Segoe UI"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Segoe UI"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Segoe UI"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Segoe UI"/>
+            <FontScheme Flag="1" FontSize="13" FontName="Segoe UI"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Segoe UI"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Segoe UI"/>
+        </FontSchemeLst>
+    </ThemeText>
+    
+    <ThemeText VAlign="Center" Name="Arial" ID="3">
+        <Character IX="0" Family="Arial" Color="#ffffff" Size="12"/>
+        <Paragraph IndLeft="0" IndFirst="0" IndRight="0" SpLine="100" Align="4" IX="0"/>
+        <FontSchemeLst>
+            <FontScheme Flag="0" FontSize="12" FontName="Arial"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Arial"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Arial"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Arial"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Arial"/>
+            <FontScheme Flag="1" FontSize="12" FontName="Arial"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Arial"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Arial"/>
+        </FontSchemeLst>
+    </ThemeText>
+    <ThemeText VAlign="Center" Name="Microsoft Sans Serif" ID="4">
+        <Character IX="0" Family="Microsoft Sans Serif" Color="#000000" Size="12"/>
+        <Paragraph IndLeft="0" IndFirst="0" IndRight="0" SpLine="100" Align="4" IX="0"/>
+        <FontSchemeLst>
+            <FontScheme Flag="0" FontSize="12" FontName="Microsoft Sans Serif"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Microsoft Sans Serif"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Microsoft Sans Serif"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Microsoft Sans Serif"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Microsoft Sans Serif"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Microsoft Sans Serif"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Microsoft Sans Serif"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Microsoft Sans Serif"/>
+        </FontSchemeLst>
+    </ThemeText>
+    <ThemeText VAlign="Center" Name="Verdana" ID="5">
+        <Character IX="0" Family="Verdana" Color="#000000" Size="12"/>
+        <Paragraph IndLeft="0" IndFirst="0" IndRight="0" SpLine="100" Align="4" IX="0"/>
+        <FontSchemeLst>
+            <FontScheme Flag="0" FontSize="12" FontName="Verdana"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Verdana"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Verdana"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Verdana"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Verdana"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Verdana"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Verdana"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Verdana"/>
+        </FontSchemeLst>
+    </ThemeText>
+    <ThemeText VAlign="Center" Name="Calibri" ID="6">
+        <Character IX="0" Family="Calibri" Color="#000000" Size="12"/>
+        <Paragraph IndLeft="0" IndFirst="0" IndRight="0" SpLine="100" Align="4" IX="0"/>
+        <FontSchemeLst>
+            <FontScheme Flag="0" FontSize="12" FontName="Calibri"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Calibri"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Calibri"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Calibri"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Calibri"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Calibri"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Calibri"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Calibri"/>
+        </FontSchemeLst>
+    </ThemeText>
+    <ThemeText VAlign="Center" Name="Tahoma" ID="7">
+        <Character IX="0" Family="Tahoma" Color="#000000" Size="12"/>
+        <Paragraph IndLeft="0" IndFirst="0" IndRight="0" SpLine="100" Align="4" IX="0"/>
+        <FontSchemeLst>
+            <FontScheme Flag="0" FontSize="12" FontName="Tahoma"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Tahoma"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Tahoma"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Tahoma"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Tahoma"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Tahoma"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Tahoma"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Tahoma"/>
+        </FontSchemeLst>
+    </ThemeText>
+    <ThemeText VAlign="Center" Name="Microsoft YaHei" ID="8">
+        <Character IX="0" Family="Microsoft YaHei" Color="#ffffff" Size="10"/>
+        <Paragraph IndLeft="0" IndFirst="0" IndRight="0" SpLine="100" Align="4" IX="0"/>
+        <FontSchemeLst>
+            <FontScheme Flag="1" FontSize="10" FontName="Microsoft YaHei"/>
+            <FontScheme Flag="1" FontSize="10" FontName="Microsoft YaHei"/>
+            <FontScheme Flag="1" FontSize="10" FontName="Microsoft YaHei"/>
+            <FontScheme Flag="1" FontSize="10" FontName="Microsoft YaHei"/>
+            <FontScheme Flag="1" FontSize="10" FontName="Microsoft YaHei"/>
+            <FontScheme Flag="1" FontSize="10" FontName="Microsoft YaHei"/>
+            <FontScheme Flag="0" FontSize="10" FontName="Microsoft YaHei"/>
+            <FontScheme Flag="1" FontSize="10" FontName="Microsoft YaHei"/>
+        </FontSchemeLst>
+    </ThemeText>
+</ThemeTexts>

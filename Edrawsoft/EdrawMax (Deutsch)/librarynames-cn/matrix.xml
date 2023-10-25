@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Matrix">
+    <Elem NameU="Ansoff Matrix" Name="安索夫矩阵"/>
+    <Elem NameU="Ansoff Matrix 2" Name="安索夫矩阵 2"/>
+    <Elem NameU="Position Map" Name="可变矩阵"/>
+    <Elem NameU="SWOT" Name="SWOT"/>
+    <Elem NameU="SWOT 2" Name="SWOT2"/>
+    <Elem NameU="SWOT 3" Name="SWOT3"/>
+    <Elem NameU="SWOT 4" Name="SWOT4"/>
+    <Elem NameU="Boston Matrix" Name="波士顿矩阵"/>
+    <Elem NameU="Circle Matrix/SWOT" Name="圆形矩阵/SWOT"/>
+    <Elem NameU="Basic Matrix" Name="基础矩阵"/>
+    <Elem NameU="Matrix(Bevel)" Name="矩阵(斜面)"/>
+    <Elem NameU="Matrix" Name="矩阵"/>
+    <Elem NameU="Matrix 2" Name="矩阵 2"/>
+    <Elem NameU="Matrix 3" Name="矩阵 3"/>
+    <Elem NameU="Matrix 4" Name="矩阵 4"/>
+    <Elem NameU="Matrix 5" Name="矩阵 5"/>
+    <Elem NameU="3D Matrix" Name="3D 矩阵"/>
+    <Elem NameU="3D Matrix 2" Name="3D 矩阵 2"/>
+    <Elem NameU="3x3 Matrix" Name="3x3 矩阵"/>
+    <Elem NameU="Colorful Matrix" Name="彩色矩阵"/>
+    <Elem NameU="Axis" Name="轴"/>
+</Lib>

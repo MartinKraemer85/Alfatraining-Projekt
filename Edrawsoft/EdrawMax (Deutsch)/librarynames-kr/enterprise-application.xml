@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Alibaba Cloud Enterprise application">
+	<Elem NameU="API gateway" Name="API게이트웨이"/>
+	<Elem NameU="Beebot" Name="비보트"/>
+	<Elem NameU="Beian" Name="등록"/>
+	<Elem NameU="Cloud AP" Name="클라우드 AP"/>
+	<Elem NameU="Cloud call center" Name="클라우드 콜센터"/>
+	<Elem NameU="Cloud customer service" Name="클라우드 고객 서비스"/>
+	<Elem NameU="Cloud desktop" Name="클라우드 데스크탑"/>
+	<Elem NameU="Cloud screencast" Name="클라우드 스크린캐스트"/>
+	<Elem NameU="Code pipeline" Name="코드 파이프 라인"/>
+	<Elem NameU="Company registration service" Name="회사 등록 서비스"/>
+	<Elem NameU="Corporate websites" Name="기업 웹 사이트"/>
+	<Elem NameU="Direct mailpush service" Name="다이렉트 메일 푸시 서비스"/>
+	<Elem NameU="DNS" Name="DNS"/>
+	<Elem NameU="Domains and websites" Name="도메인과 웹사이트"/>
+	<Elem NameU="Domains 域名" Name="도메인"/>
+	<Elem NameU="Elastic web hosting" Name="탄성 Web 호스팅"/>
+	<Elem NameU="E-signature" Name="전자 서명"/>
+	<Elem NameU="Exmail" Name="Exmail"/>
+	<Elem NameU="Microservice engine" Name="마이크로 서비스 엔진"/>
+	<Elem NameU="Mobile analytics" Name="모바일 데이터 분석"/>
+	<Elem NameU="Mobile feedback" Name="모바일 사용자 피드백"/>
+	<Elem NameU="Mobile hotfix" Name="모바일 핫픽스"/>
+	<Elem NameU="Mobile push service" Name="모바일 푸시 서비스"/>
+	<Elem NameU="Mobile testing" Name="모바일 테스트"/>
+	<Elem NameU="Node.js" Name="Node.js"/>
+	<Elem NameU="Smart conversation service" Name="스마트 대화 서비스"/>
+	<Elem NameU="Trademark service" Name="상표 서비스"/>
+	<Elem NameU="Web hosting" Name="웹 호스트"/>
+	<Elem NameU="Yida" Name="Yida"/>
+</Lib>

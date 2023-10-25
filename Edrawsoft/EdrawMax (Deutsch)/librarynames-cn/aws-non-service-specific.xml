@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="AWS Non-Service Specific">
+    <Elem NameU="AWS Cloud" Name="AWS云"/>
+    <Elem NameU="Management Console" Name="管理控制台"/>
+    <Elem NameU="Client" Name="客户"/>
+    <Elem NameU="Availability Zone" Name="可用域"/>
+    <Elem NameU="Region" Name="地区"/>
+    <Elem NameU="Security Group" Name="安全组"/>
+    <Elem NameU="Server Contents" Name="服务器内容"/>
+    <Elem NameU="AWS Cloud Contents" Name="AWS云内容"/>
+    <Elem NameU="Corporate Data Center" Number="2" Name="企业数据中心"/>
+    <Elem NameU="Disk" Name="磁盘"/>
+    <Elem NameU="Forums" Name="论坛"/>
+    <Elem NameU="Generic Database" Name="通用数据库"/>
+    <Elem NameU="Internet" Name="因特网"/>
+    <Elem NameU="Mobile Client" Name="移动客户端"/>
+    <Elem NameU="Multimedia" Name="多媒体"/>
+    <Elem NameU="Tape Storage" Name="带存储器"/>
+    <Elem NameU="Traditional Server" Name="传统服务器"/>
+    <Elem NameU="User" Name="用户"/>
+    <Elem NameU="Users" Name="多个用户"/>
+    <Elem NameU="Virtual Private Cloud" Name="虚拟私有云"/>
+    <Elem NameU="aws" Name="aws"/>
+</Lib>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Animals-Head">
+    <Elem NameU="Cow" Name="奶牛"/>
+    <Elem NameU="Sheep" Name="绵羊"/>
+    <Elem NameU="Hippopotamus" Name="河马"/>
+    <Elem NameU="Rabbit" Name="兔子"/>
+    <Elem NameU="Deer" Name="鹿"/>
+    <Elem NameU="Fox 1" Name="狐狸 1"/>
+    <Elem NameU="Fox 2" Name="狐狸 2"/>
+    <Elem NameU="Mouse 1" Name="老鼠 1"/>
+    <Elem NameU="Mouse 2" Name="老鼠 2"/>
+    <Elem NameU="Fish" Name="鱼"/>
+    <Elem NameU="Horse" Name="马"/>
+    <Elem NameU="Panda" Name="熊猫"/>
+    <Elem NameU="Elephant" Name="大象"/>
+    <Elem NameU="Dog 1" Name="狗 1"/>
+    <Elem NameU="Dog 2" Name="狗 2"/>
+    <Elem NameU="Dog 3" Name="狗 3"/>
+    <Elem NameU="Monkey" Name="猴子"/>
+    <Elem NameU="Hedgehog" Name="刺猬"/>
+    <Elem NameU="Duck" Name="鸭子"/>
+    <Elem NameU="Pig" Name="猪"/>
+    <Elem NameU="Koala" Name="考拉"/>
+    <Elem NameU="Rhinoceros" Name="犀牛"/>
+    <Elem NameU="Lion" Name="狮子"/>
+    <Elem NameU="Tiger" Name="老虎"/>
+    <Elem NameU="Giraffe" Name="长颈鹿"/>
+    <Elem NameU="Zebra" Name="斑马"/>
+    <Elem NameU="Octopus" Name="章鱼"/>
+    <Elem NameU="Goat" Name="山羊"/>
+    <Elem NameU="Bird" Name="鸟"/>
+    <Elem NameU="Owl" Name="猫头鹰"/>
+</Lib>

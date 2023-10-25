@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Environment">
+
+<Elem Name="Arrosoir" NameU="Watering Can"/>
+
+<Elem Name="Maison" NameU="House"/>
+
+<Elem Name="Arbre" NameU="Tree"/>
+
+<Elem Name="Voiture à économie d'énergie" NameU="Energy-Saving Car"/>
+
+<Elem Name="Protection environnementale" NameU="Environmental Protection"/>
+
+<Elem Name="Semis vert" NameU="Green Seedling"/>
+
+<Elem Name="Bouchon" NameU="插头"/>
+
+<Elem Name="Label environnemental" NameU="Environmental Label"/>
+
+<Elem Name="Énergie solaire" NameU="太阳能"/>
+
+<Elem Name="Loupe" NameU="Magnifier"/>
+
+<Elem Name="Papillon" NameU="Butterfly"/>
+
+<Elem Name="Lampe à économie d'énergie" NameU="Energy Saving Lamp"/>
+
+<Elem Name="Poubelle" NameU="Trash Can"/>
+
+<Elem Name="Batterie" NameU="Battery"/>
+
+<Elem Name="Lettre" NameU="Letter"/>
+
+<Elem Name="Carnet" NameU="Notebook"/>
+
+<Elem Name="Conserve eau" NameU="Conserve Water"/>
+
+<Elem Name="" NameU="Usine"/>
+
+<Elem Name="Logo de protection de l'environnement" NameU="Environmental Protection Logo"/>
+
+<Elem Name="Gaz" NameU="Gas"/>
+
+<Elem Name="Essence" NameU="Gasoline"/>
+
+<Elem Name="Protéger la Terre " NameU="Protect the Earth"/>
+
+<Elem Name="Température de l'air" NameU="Air Temperature"/>
+
+<Elem Name="énergie éolienne" NameU="Wind Energy"/>
+
+<Elem Name="Fleur" NameU="Flower"/>
+
+<Elem Name="Soleil" NameU="Sun"/>
+
+<Elem Name="voiture" NameU="Car"/>
+
+<Elem Name="Vélo" NameU="Bicycle"/>
+
+<Elem Name="Centrale électrique" NameU="Power Station"/>
+
+<Elem Name="Lumière électrique" NameU="Electric Light"/>
+
+<Elem Name="Eau" NameU="Water"/>
+
+<Elem Name="Pomme" NameU="Apple"/>
+
+<Elem Name="Parapluie" NameU="Umbrella"/>
+
+<Elem Name="Boisson" NameU="Drink"/>
+
+<Elem Name="Feu" NameU="Fire"/>
+
+<Elem Name="Protéger l'environnement" NameU="Protect Environment"/>
+
+<Elem Name="Cheminée" NameU="Chimney"/>
+
+<Elem Name="Tour de ligne électrique haute tension" NameU="High Voltage Power Line Tower"/>
+
+<Elem Name="Sac écologique" NameU="Eco Bag"/>
+
+<Elem Name="Cactus" NameU="Cactus"/>
+
+<Elem Name="Tonnerre" NameU="Thunder"/>
+
+<Elem Name="Flocon de neige" NameU="Snowflake"/>
+
+<Elem Name="Feuille verte" NameU="Green Leaf"/>
+
+<Elem Name="Protéger la nature" NameU="Protect Nature"/>
+
+<Elem Name="Usine" NameU="Plant"/>
+
+<Elem Name="Cèdre" NameU="Cedar"/>
+
+<Elem Name="Énergie solaire" NameU="Solar Energy"/>
+
+<Elem Name="Forêt" NameU="Forest"/>
+
+<Elem Name="Vent" NameU="Wind"/>
+
+<Elem Name="Badge" NameU="Badge"/>
+
+<Elem Name="Bouteille de vin" NameU="Wine Bottle"/>
+
+<Elem Name="Carton respectueux de l'environnement" NameU="Environmentally Friendly Carton"/>
+
+<Elem Name="Conserve l'eau" NameU="Cconserve Water"/>
+
+<Elem Name="Icône de protection de l'environnement" NameU="Environmental Protection Icon"/>
+
+<Elem Name="Papier" NameU="Paper"/>
+
+<Elem Name="Panneau de signalisation" NameU="Road Sign"/>
+
+<Elem Name="Montgolfière" NameU="Hot Air Balloon"/>
+
+<Elem Name="Nuage" NameU="Cloud"/>
+
+<Elem Name="Médaille" NameU="Medal"/>
+
+<Elem Name="Ressources en eau" NameU="Water Resources"/>
+
+<Elem Name="Terre" NameU="Earth"/>
+
+<Elem Name="Lune" NameU="Moon"/>
+
+<Elem Name="Oiseau" NameU="Bird"/>
+
+<Elem Name="Dauphin" NameU="Dolphin"/>
+
+<Elem Name="Météo" NameU="Weather"/>
+
+<Elem Name="Évier" NameU="Sink"/>
+
+<Elem Name="Sensibilisation à l'environnement" NameU="Environmental Awareness"/>
+
+<Elem Name="Moulin à vent" NameU="Windmill"/>
+
+<Elem Name="Voiture Terre" NameU="Earth Car"/>
+
+<Elem Name="Thermomètre" NameU="Thermometer"/>
+
+<Elem Name="Barils d'essence" NameU="Barrels of Gasoline"/>
+
+<Elem Name="Ours polaire" NameU="Polar Bear"/>
+
+<Elem Name="Empreinte" NameU="Footprint"/>
+
+<Elem Name="Creusement" NameU="Digging"/>
+
+<Elem Name="Collecte des ordures" NameU="Garbage Collection"/>
+
+<Elem Name="Semis" NameU="Sowing"/>
+
+<Elem Name="Boîtes" NameU="Cans"/>
+
+<Elem Name="Montagne" NameU="Mountain"/>
+
+<Elem Name="Baleine" NameU="Whale"/>
+
+<Elem Name="Iceberg" NameU="Iceberg"/>
+
+<Elem Name="Feuilles" NameU="Leaves"/>
+
+<Elem Name="Pluie" NameU="Rain"/>
+
+</Lib>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Data Flow">
+    <Elem NameU="External Entity" Name="外部实体"/>
+    <Elem NameU="Entity" Name="实体"/>
+    <Elem NameU="Process" Number="2" Name="进程"/>
+    <Elem NameU="Data Process" Name="数据进程"/>
+    <Elem NameU="Multiply Process" Name="多流程"/>
+    <Elem NameU="State" Name="状态"/>
+    <Elem NameU="Start State" Name="起始状态"/>
+    <Elem NameU="Stop State" Number="2" Name="终止状态"/>
+    <Elem NameU="Data Store" Name="数据存储"/>
+    <Elem NameU="Entity Relationship" Name="实体关系"/>
+    <Elem NameU="Object" Name="对象"/>
+    <Elem NameU="Oval Process" Name="椭圆形过程"/>
+    <Elem NameU="Center to Center" Name="从中心到中心"/>
+    <Elem NameU="Loop on Center" Name="中心环绕"/>
+    <Elem NameU="Line Connector" Name="直线连接线"/>
+    <Elem NameU="Object Callout" Name="对象标注"/>
+    <Elem NameU="Curve Connector" Name="曲线连接线"/>
+</Lib>

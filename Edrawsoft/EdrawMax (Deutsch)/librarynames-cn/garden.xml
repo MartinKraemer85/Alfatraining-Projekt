@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Garden">
+    <Elem NameU="Swimming Pool" Number="3" Name="游泳池"/>
+    <Elem NameU="Fountain Pool" Name="喷泉水池"/>
+    <Elem NameU="Fountain Pool 2" Name="喷泉水池"/>
+    <Elem NameU="Fountain Pool 3" Name="喷泉水池"/>
+    <Elem NameU="Fountain Pool 4" Name="喷泉水池"/>
+    <Elem NameU="Fountain Pool 5" Name="喷泉水池"/>
+    <Elem NameU="Fountain Pool 6" Name="喷泉水池"/>
+    <Elem NameU="Fountain Pool 7" Name="喷泉水池"/>
+    <Elem NameU="Fountain Pool 8" Name="喷泉水池"/>
+    <Elem NameU="Pond" Number="4" Name="池塘"/>
+    <Elem NameU="Recreational Areas" Name="休闲区"/>
+    <Elem NameU="Stone Bench" Number="3" Name="石凳"/>
+    <Elem NameU="Stone Bridge" Number="2" Name="石桥"/>
+    <Elem NameU="Timber Bridge" Number="2" Name="木桥"/>
+    <Elem NameU="The long corridor and bridge" Name="长廊和桥"/>
+    <Elem NameU="The long corridor" Number="2" Name="长廊"/>
+    <Elem NameU="Swing Bench" Name="摇椅"/>
+    <Elem NameU="Recliner" Number="2" Name="活动躺椅"/>
+    <Elem NameU="Wooden tables and chairs" Number="2" Name="木制桌椅"/>
+    <Elem NameU="Long bench" Name="长凳"/>
+    <Elem NameU="Long wooden" Number="2" Name="长木凳"/>
+    <Elem NameU="Table" Name="桌"/>
+    <Elem NameU="Seven glyph bench" Number="2" Name="字形椅"/>
+    <Elem NameU="U-Shaped bench" Name="U形椅"/>
+    <Elem NameU="Pavilion" Name="亭"/>
+    <Elem NameU="Floor lamp" Number="3" Name="落地灯"/>
+    <Elem NameU="lamp" Name="灯"/>
+    <Elem NameU="Stone road" Name="石头路"/>
+    <Elem NameU="Cobbled roadway" Name="鹅卵石路"/>
+    <Elem NameU="Rock garden" Name="岩石庭院"/>
+    <Elem NameU="Stone Path" Number="2" Name="石头路"/>
+    <Elem NameU="Rocky road" Name="岩石路"/>
+    <Elem NameU="Creek brook" Name="小河"/>
+    <Elem NameU="Swim ring" Number="2" Name="泳圈"/>
+    <Elem NameU="Lotus and the lotus leaf" Name="荷花和荷叶"/>
+    <Elem NameU="Lotus" Name="荷花"/>
+    <Elem NameU="Lotus Leaf" Name="荷叶"/>
+    <Elem NameU="Framed flower bed" Name="花池"/>
+    <Elem NameU="Lawn" Name="草坪"/>
+    <Elem NameU="Flower and stone" Name="花和石头"/>
+    <Elem NameU="Stone" Name="石头"/>
+    <Elem NameU="Stone 2" Name="石头"/>
+    <Elem NameU="Duty Room" Name="值班室"/>
+    <Elem NameU="Wood fence" Name="木围栏"/>
+    <Elem NameU="Wood gate" Name="木门"/>
+    <Elem NameU="Wood post" Name="木柱"/>
+    <Elem NameU="Pavilion" Name="亭"/>
+    <Elem NameU="Umbrella" Number="2" Name="雨伞"/>
+    <Elem NameU="Stone fence" Name="石头围栏"/>
+    <Elem NameU="Chain link fence" Name="铁丝网围栏"/>
+    <Elem NameU="Fence" Name="围栏"/>
+    <Elem NameU="Chain link gate" Name="链条门"/>
+    <Elem NameU="Metal post" Name="金属柱"/>
+    <Elem NameU="Round stone" Name="圆形石头"/>
+    <Elem NameU="Square stone" Name="方形石头"/>
+    <Elem NameU="Flagstone" Name="石板"/>
+    <Elem NameU="Hexagon" Name="六角形"/>
+    <Elem NameU="Driveway" Name="车道"/>
+    <Elem NameU="Brick pathway" Name="步行砖道"/>
+    <Elem NameU="Patio" Name="露台"/>
+    <Elem NameU="Garbage sorting recycling barrel" Number="2" Name="垃圾分类回收桶"/>
+    <Elem NameU="Basketball court" Name="篮球场"/>
+    <Elem NameU="Raised flower bed" Name="高设花台"/>
+    <Elem NameU="Fitness equipment" Number="4" Name="健身设备"/>
+    <Elem NameU="Outdoor Children's Play Area" Name="户外儿童玩耍区"/>
+    <Elem NameU="Piano" Name="钢琴"/>
+</Lib>

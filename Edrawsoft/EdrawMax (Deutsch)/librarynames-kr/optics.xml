@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Optics">
+    <Elem NameU="Reflecting Surface" Name="반사 표면"/>
+    <Elem NameU="Convex Lens Symbol" Name="볼록 렌즈 기호"/>
+    <Elem NameU="Concave Lens Symbol" Name="오목 렌즈 기호"/>
+    <Elem NameU="Convex Lens" Name="볼록 렌즈"/>
+    <Elem NameU="Concave Lens" Name="오목 렌즈                      "/>
+    <Elem NameU="Spherical Surface" Name="구면"/>
+    <Elem NameU="Spherical Surface 2" Name="구면 2"/>
+    <Elem NameU="Mirror" Name="거울"/>
+    <Elem NameU="Body" Name="몸"/>
+    <Elem NameU="Ray 1" Name="레이 1"/>
+    <Elem NameU="Ray 2" Name="레이 2"/>
+    <Elem NameU="Ray 3" Name="레이 3"/>
+    <Elem NameU="Prism" Name="프리즘"/>
+    <Elem NameU="Semicircle Glass" Name="반원 유리"/>
+    <Elem NameU="Holophote" Name="홀로 포테"/>
+    <Elem NameU="Beam of Light" Name="빛의 파장"/>
+    <Elem NameU="Parallel Beam of Light" Name="평행 파장"/>
+    <Elem NameU="Bulb" Name="전구"/>
+    <Elem NameU="Point Light Source" Name="점광원"/>
+    <Elem NameU="Grid 1" Name="눈금 1"/>
+    <Elem NameU="Grid 2" Name="눈금 2"/>
+    <Elem NameU="Sine Wave" Name="사인파"/>
+    <Elem NameU="Principal Optics Axis" Name="주요 광학 축"/>
+    <Elem NameU="Angle" Name="앵글"/>
+    <Elem NameU="Description" Name="설명"/>
+    <Elem NameU="Label" Name="레이블"/>
+    <Elem NameU="Line" Name="선"/>
+    <Elem NameU="Dash Line" Name="대시 라인"/>
+    <Elem NameU="Level" Name="레벨"/>
+    <Elem NameU="Eye" Name="눈"/>
+    <Elem NameU="Eyeball" Name="안구"/>
+    <Elem NameU="Arrow" Name="화살표"/>
+    <Elem NameU="Candle" Name="캔들"/>
+    <Elem NameU="Legend" Name="범례"/>
+    <Elem NameU="Legend1" Name="범례 1"/>
+    <Elem NameU="Legend2" Name="범례 2"/>
+    <Elem NameU="Legend3" Name="범례 3"/>
+    <Elem NameU="Legend4" Name="범례 4"/>
+    <Elem NameU="Legend5" Name="범례 5"/>
+    <Elem NameU="Legend6" Name="범례 6"/>
+    <Elem NameU="Legend7" Name="범례 7"/>
+    <Elem NameU="Legend8" Name="범례 8"/>
+    <Elem NameU="Legend9" Name="범례 9"/>
+    <Elem NameU="Legend10" Name="범례 10"/>
+</Lib>

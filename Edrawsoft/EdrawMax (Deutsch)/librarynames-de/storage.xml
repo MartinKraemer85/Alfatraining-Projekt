@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<Lib nameU="Storage">
+
+<Elem Name="Cloud Fotos" NameU="Cloud photos"/>
+
+<Elem Name="Cloud-Speicher-Gateway" NameU="Cloud storage gateway"/>
+
+<Elem Name="Hybrid backup recovery" NameU="Hybrid backup recovery"/>
+
+<Elem Name="Hybrid cloud storage array" NameU="Hybrid cloud storage array"/>
+
+<Elem Name="Hybride Notfallwiederherstellung" NameU="Hybrid disaster recovery"/>
+
+<Elem Name="Blitzwürfel" NameU="Lightning cube"/>
+
+<Elem Name="Netzwerk angeschlossener Speicher" NameU="Network attached storage"/>
+
+<Elem Name="Objektiver Speicherdienst" NameU="Objective storage service"/>
+
+<Elem Name="Tischspeicher" NameU="Table storage"/>
+
+</Lib>

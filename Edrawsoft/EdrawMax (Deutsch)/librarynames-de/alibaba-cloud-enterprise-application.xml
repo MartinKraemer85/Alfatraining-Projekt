@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Alibaba Cloud Enterprise application">
+
+<Elem Name="API-Gateway" NameU="API gateway"/>
+
+<Elem Name="Beebot" NameU="Beebot"/>
+
+<Elem Name="Beian" NameU="Beian"/>
+
+<Elem Name="Cloud App" NameU="Cloud AP"/>
+
+<Elem Name="Cloud Call Center" NameU="Cloud call center"/>
+
+<Elem Name="Cloud-Kundendienst" NameU="Cloud customer service"/>
+
+<Elem Name="Cloud desktop" NameU="Cloud desktop"/>
+
+<Elem Name="Cloud-Screencast" NameU="Cloud screencast"/>
+
+<Elem Name="Code-Pipeline" NameU="Code pipeline"/>
+
+<Elem Name="Firmenregistrierungsservice" NameU="Company registration service"/>
+
+<Elem Name="Unternehmenswebsite" NameU="Corporate websites"/>
+
+<Elem Name="Direktmailpush-Service" NameU="Direct mailpush service"/>
+
+<Elem Name="DNS" NameU="DNS"/>
+
+<Elem Name="Domains und Webseite" NameU="Domains and websites"/>
+
+<Elem Name="Domains" NameU="Domains 域名"/>
+
+<Elem Name="Elastisches Webhosting" NameU="Elastic web hosting"/>
+
+<Elem Name="E-Signatur" NameU="E-signature"/>
+
+<Elem Name="Exmail" NameU="Exmail"/>
+
+<Elem Name="Microservice" NameU="Microservice engine"/>
+
+<Elem Name="Mobile Analytics" NameU="Mobile analytics"/>
+
+<Elem Name="Mobiles Feedback" NameU="Mobile feedback"/>
+
+<Elem Name="Mobile hotfix" NameU="Mobile hotfix"/>
+
+<Elem Name="Mobiler Push-Service" NameU="Mobile push service"/>
+
+<Elem Name="Mobiles Testen" NameU="Mobile testing"/>
+
+<Elem Name="Node.js" NameU="Node.js"/>
+
+<Elem Name="Intelligenter Konversationsdienst" NameU="Smart conversation service"/>
+
+<Elem Name="Markenservice" NameU="Trademark service"/>
+
+<Elem Name="Web-Hosting" NameU="Web hosting"/>
+
+<Elem Name="Yida" NameU="Yida"/>
+
+</Lib>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Snacks">
+    <Elem NameU="Candy 1" Name="糖果 1"/>
+    <Elem NameU="Candy 2" Name="糖果 2"/>
+    <Elem NameU="Marshmallow 1" Name="棉花糖 1"/>
+    <Elem NameU="Marshmallow 2" Name="棉花糖 2"/>
+    <Elem NameU="Chocolate 1" Name="巧克力 1"/>
+    <Elem NameU="Chocolate 2" Name="巧克力 2"/>
+    <Elem NameU="Macarons" Name="马卡龙"/>
+    <Elem NameU="Lollipop 1" Name="棒棒糖 1"/>
+    <Elem NameU="Lollipop 2" Name="棒棒糖 2"/>
+    <Elem NameU="Lollipop 3" Name="棒棒糖 3"/>
+    <Elem NameU="Candy Cane" Name="糖果棒"/>
+    <Elem NameU="Christmas Candy" Name="圣诞糖果"/>
+    <Elem NameU="Cookie 1" Name="曲奇饼 1"/>
+    <Elem NameU="Cookie 2" Name="曲奇饼 2"/>
+    <Elem NameU="Biscuits" Name="饼干"/>
+    <Elem NameU="Egg Yolk Puff" Name="泡芙"/>
+    <Elem NameU="Cashew Nuts" Name="腰果"/>
+    <Elem NameU="Peanut" Name="花生"/>
+    <Elem NameU="Macadamia Nuts" Name="澳洲坚果"/>
+    <Elem NameU="Chestnuts" Name="榛子"/>
+    <Elem NameU="Walnuts" Name="核桃"/>
+    <Elem NameU="Sunflower Seeds" Name="葵瓜子"/>
+    <Elem NameU="Pistachio Nuts" Name="开心果"/>
+    <Elem NameU="Ice Lolly" Name="冰棍"/>
+    <Elem NameU="Popsicle" Name="雪糕"/>
+    <Elem NameU="Ice Cream 1" Name="冰淇淋 1"/>
+    <Elem NameU="Ice Cream 2" Name="冰淇淋 2"/>
+    <Elem NameU="Ice Cream 3" Name="冰淇淋 3"/>
+    <Elem NameU="Ice Cream 4" Name="冰淇淋 4"/>
+    <Elem NameU="Ice Cream 5" Name="冰淇淋 5"/>
+    <Elem NameU="Jelly 1" Name="果冻 1"/>
+    <Elem NameU="Jelly 2" Name="果冻 2"/>
+    <Elem NameU="Potato Chips" Name="薯片"/>
+    <Elem NameU="Popcorn" Name="爆米花"/>
+    <Elem NameU="French Fries" Name="薯条"/>
+    <Elem NameU="Candied Hawthorn Stick" Name="冰糖葫芦"/>
+    <Elem NameU="Barbecue" Name="烤串"/>
+</Lib>

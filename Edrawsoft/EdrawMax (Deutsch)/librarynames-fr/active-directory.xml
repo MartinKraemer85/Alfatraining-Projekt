@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Active Directory">
+
+<Elem Name="Domain" NameU="Domain"/>
+
+<Elem Name="Ordinateur" NameU="Computer"/>
+
+<Elem Name="Utilisateur" NameU="User"/>
+
+<Elem Name="Groupe" NameU="Group"/>
+
+<Elem Name="Conteneur " NameU="Container"/>
+
+<Elem Name="File d'attente d'impression" NameU="Print Queue"/>
+
+<Elem Name="Contact" NameU="Contact"/>
+
+<Elem Name="Unité organisationnelle" NameU="Organizational Unit"/>
+
+<Elem Name="Politique" NameU="Policy"/>
+
+<Elem Name="Volume" NameU="Volume"/>
+
+<Elem Name="Objet générique" NameU="Generic object"/>
+
+<Elem Name="Serveur" NameU="Server"/>
+
+<Elem Name="Site" NameU="Site"/>
+
+<Elem Name="Lien vers le site" NameU="Site link"/>
+
+<Elem Name="pont de liaison du site" NameU="Site link bridge"/>
+
+<Elem Name="Paramètres du site NTDS" NameU="NTDS site settings"/>
+
+<Elem Name="sous-réseau IP" NameU="IP subnet"/>
+
+<Elem Name="Modèle de certificat" NameU="Certificate Template"/>
+
+<Elem Name="Site de licence" NameU="Licensing Site"/>
+
+<Elem Name="Connexion" NameU="Connection"/>
+
+<Elem Name="Connecteur d'annuaire" NameU="Directory Connector"/>
+
+<Elem Name="Domaine 2D" NameU="Domain 2D"/>
+
+<Elem Name="Domaine 3D" NameU="Domain 3D"/>
+
+<Elem Name="Contrôleur de domaine 2D" NameU="Domain controller 2D"/>
+
+<Elem Name="Contrôleur de domaine 3D" NameU="Domain controller 3D"/>
+
+<Elem Name="Application 2D" NameU="Application 2D"/>
+
+<Elem Name="Application 3D" NameU="Application 3D"/>
+
+<Elem Name="Site ou sous-réseau 2D" NameU="Site or subnet 2D"/>
+
+<Elem Name="Site ou sous-réseau 3D" NameU="Site or subnet 3D"/>
+
+<Elem Name="Client" NameU="Client"/>
+
+<Elem Name="Base de données" NameU="Database"/>
+
+<Elem Name="Comm-lien" NameU="Comm-link"/>
+
+<Elem Name="Connexion de réplication" NameU="Replication connection"/>
+
+<Elem Name="Liaison de site 3D" NameU="Site link 3D"/>
+
+<Elem Name="Pont de liaison de site 3D" NameU="Site link bridge 3D"/>
+
+<Elem Name="WAN" NameU="WAN"/>
+
+</Lib>

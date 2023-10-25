@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="AWS Storage Content and Delivery">
+    <Elem NameU="Download Distribution" Name="다운로드 배포"/>
+    <Elem NameU="Edge Location" Name="가장자리 위치"/>
+    <Elem NameU="Streaming Distribution" Name="스트리밍 배포"/>
+    <Elem NameU="CloudFront" Name="클라우드 프론트"/>
+    <Elem NameU="EBS Snapshot" Name="EBS 스냅샷"/>
+    <Elem NameU="EBS Volume" Name="EBS 용량"/>
+    <Elem NameU="Glacier Archive" Name="Glacier 보관"/>
+    <Elem NameU="Glacier Vault" Name="Glacier Vault 저장소"/>
+    <Elem NameU="Glacier" Name="Glacier저장"/>
+    <Elem NameU="S3 Bucket with Objects" Name="개체가 있는 S3 Bucket"/>
+    <Elem NameU="S3 Bucket" Name="S3 Bucket"/>
+    <Elem NameU="S3 Objects" Name="S3 개체"/>
+    <Elem NameU="S3" Name="S3"/>
+    <Elem NameU="AWS Import Export" Name="AWS 입력/출력"/>
+    <Elem NameU="AWS Storage Gateway" Name="AWS 스토리지 게이트웨이"/>
+    <Elem NameU="Cached Volumn" Name="캐시 된 볼륨"/>
+    <Elem NameU="Non-Cached Volumn" Name="캐시되지 않은 볼륨"/>
+    <Elem NameU="Virtual Tape Library" Name="가상 테이프 라이브러리"/>
+</Lib>

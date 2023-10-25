@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TemplateNames>
+	<Elem NameU="Business Diagram" Name="商务"/>
+	<Elem NameU="Smart Shapes" Name="智能图形"/>
+	<Elem NameU="Chart" Name="图表"/>
+	<Elem NameU="Database Modeling" Name="数据库图"/>
+	<Elem NameU="Engineering" Name="工程"/>
+	<Elem NameU="Electrical" Name="电子工程"/>
+	<Elem NameU="ERD &amp; Database" Name="数据库"/>																	
+	<Elem NameU="Fashion Design" Name="时装设计"/>
+	<Elem NameU="Family Tree" Name="家庭树"/>	
+	<Elem NameU="Flowchart" Name="流程图"/>
+	<Elem NameU="Floor Plan" Name="房屋平面图"/>
+	<Elem NameU="General" Name="常用基本符号"/>
+	<Elem NameU="Graphs and Charts" Name="图表"/>
+	<Elem NameU="Icons" Name="图标"/>
+	<Elem NameU="Illustration" Name="示例图"/>
+	<Elem NameU="Maps" Name="地图"/>
+	<Elem NameU="Marketing" Name="营销图表"/>
+	<Elem NameU="Mind Map" Name="思维导图"/>
+	<Elem NameU="Roadmap" Name="路线图"/>
+	<Elem NameU="Amazon Web Services" Name="亚马逊网络服务"/>
+	<Elem NameU="Cisco Network" Name="思科网络"/>
+	<Elem NameU="Google Cloud" Name="谷歌云平台"/>
+	<Elem NameU="MS Azure Cloud" Name="微软Azure云计算"/>	
+	<Elem NameU="Alibaba Cloud" Name="阿里云符号"/>
+	<Elem NameU="Network Diagram" Name="网络图"/>
+	<Elem NameU="Organizational Chart" Name="组织架构图"/>
+	<Elem NameU="Project Management" Name="项目管理"/>		
+	<Elem NameU="Science" Name="科学"/>
+	<Elem NameU="Software" Name="软件"/>
+	<Elem NameU="Wireframe" Name="线框图"/>
+	<Elem NameU="Forms" Name="表单"/>
+	<Elem NameU="Business Card" Name="商业卡片"/>
+	<Elem NameU="Presentation" Name="演示文稿"/>
+	<Elem NameU="Clip Art" Name="剪贴画"/>
+	<Elem NameU="Industrial Automation" Name="工业自动化"/>			
+	<Elem NameU="P&amp;&amp;ID Symbols" Name="P&amp;&amp;ID 符号"/>
+	<Elem NameU="Card" Name="卡片"/>
+	<Elem NameU="ERD and Database" Name="ERD和数据库"/>
+	<Elem NameU="Infographic" Name="信息图"/>
+	<Elem NameU="Map" Name="地图"/>
+	<Elem NameU="PID" Name="PID符号"/>
+	<Elem NameU="Graphic Design" Name="平面设计"/>
+	<Elem NameU="Graphic Organizer" Name="学前教育"/>	
+	<Elem NameU="Basic Shapes" Name="基本形状"/>
+	<Elem NameU="Flowchart Shapes" Name="流程图形状"/>
+	<Elem NameU="Cloud Service" Name="云服务"/>
+	<Elem NameU="Basic" Name="常规"/>
+	<Elem NameU="Business" Name="商务"/>
+</TemplateNames>
+

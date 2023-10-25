@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Evidence">
+    <Elem NameU="Shoe Print" Name="Huella de zapato"/>
+	<Elem NameU="Right Footprint" Name="Huella de pie derecho"/>
+	<Elem NameU="Left Footprint" Name="Huella de pie izquierdo"/>
+	<Elem NameU="High Heel Shoe Print(Right)" Name="Huella de zapato de tacón (derecho)"/>
+	<Elem NameU="High Heel Shoe Print(Left)" Name="Huella de zapato de tacón (izquierdo)"/>
+	<Elem NameU="Blood Drop" Name="Gota de sangre"/>
+	<Elem NameU="Blood Spill" Name="Restos de sangre"/>
+	<Elem NameU="Blood Pool" Name="Charco de sangre"/>
+	<Elem NameU="Debris" Name="Escombros"/>
+	<Elem NameU="Shattered Glass" Name="Cristal roto"/>
+	<Elem NameU="Glove" Name="Guante"/>
+	<Elem NameU="Bloody Glove" Name="Guante sangriento"/>
+	<Elem NameU="Wallet" Name="Cartera"/>
+	<Elem NameU="Mobile Phone" Name="Teléfono móvil"/>
+	<Elem NameU="Cigarette End" Name="Colilla de cigarro"/>
+	<Elem NameU="Ashtray" Name="Cenicero"/>
+	<Elem NameU="Chemical Bottle" Name="Botella con producto químico"/>
+	<Elem NameU="Drug Bottle" Name="Bote con medicamento"/>
+</Lib>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Internet Of Things">
+	<Elem NameU="Alarm Clock" Name="Sveglia"/>
+	<Elem NameU="Bank" Name="Banca"/>
+	<Elem NameU="Bathtub" Name="Vasca da Bagno"/>
+	<Elem NameU="Bicycle" Name="Bicicletta"/>
+	<Elem NameU="Binoculars" Name="Binocolo"/>
+	<Elem NameU="Bread Maker" Name="Impastatrice"/>
+	<Elem NameU="Bulb" Name="Lampadina"/>
+	<Elem NameU="Bus" Name="Autobus"/>
+	<Elem NameU="Calculator" Name="Calcolatrice"/>
+	<Elem NameU="Calendar" Name="Calendario"/>
+	<Elem NameU="Car" Name="Automobile"/>
+	<Elem NameU="Ceiling Lamp" Name="Lampada da Soffitto"/>
+	<Elem NameU="Chat" Name="Chat"/>
+	<Elem NameU="Chip" Name="Patatina"/>
+	<Elem NameU="Cloud with Wifi" Name="Cloud con WiFi"/>
+	<Elem NameU="Coffee Maker 1" Name="Macchinetta del Caffè 1"/>
+	<Elem NameU="Coffee Maker 2" Name="Macchinetta del Caffè 2"/>
+	<Elem NameU="Computer" Name="Computer"/>
+	<Elem NameU="Earphone" Name="Auricolare"/>
+	<Elem NameU="Electric Cooker" Name="Fornetto Elettrico"/>
+	<Elem NameU="Electric Fan" Name="Ventilatore Elettrico"/>
+	<Elem NameU="Eye" Name="Occhio"/>
+	<Elem NameU="Flower" Name="Fiore"/>
+	<Elem NameU="Gamepad" Name="Controller di Gioco"/>
+	<Elem NameU="Garage" Name="Garage"/>
+	<Elem NameU="Earth" Name="Terra"/>
+	<Elem NameU="Handheld Game Console" Name="Console Portatile"/>
+	<Elem NameU="Headset" Name="Cuffie"/>
+	<Elem NameU="Helicopter" Name="Elicottero"/>
+	<Elem NameU="Juicer" Name="Spremiagrumi"/>
+	<Elem NameU="Key" Name="Chiave"/>
+	<Elem NameU="Lamp" Name="Lampada"/>
+	<Elem NameU="Lock" Name="Lucchetto"/>
+	<Elem NameU="Loudspeaker" Name="Altoparlante"/>
+	<Elem NameU="Maglev Train" Name="Treno Maglev"/>
+	<Elem NameU="Male Plug" Name="Connettore Maschio"/>
+	<Elem NameU="Microwave Oven" Name="Forno a Microonde"/>
+	<Elem NameU="Microphone" Name="Microfono"/>
+	<Elem NameU="Motor Scooter" Name="Scooter"/>
+	<Elem NameU="Mouse" Name="Mouse"/>
+	<Elem NameU="MP3" Name="MP3"/>
+	<Elem NameU="Opened Lock" Name="Lucchetto Aperto"/>
+	<Elem NameU="Oven" Name="Forno"/>
+	<Elem NameU="Pay with Phone" Name="Pagare con il Telefono"/>
+	<Elem NameU="Phone with Music" Name="Telefono con Musica"/>
+	<Elem NameU="Plane" Name="Aeroplano"/>
+	<Elem NameU="Pot" Name="Pentola"/>
+	<Elem NameU="Printer" Name="Stampante"/>
+	<Elem NameU="Projector" Name="Proiettore"/>
+	<Elem NameU="Refrigerator" Name="Frigorifero"/>
+	<Elem NameU="Robot Dog" Name="Cane Robot"/>
+	<Elem NameU="Rocket" Name="Razzo"/>
+	<Elem NameU="Router" Name="Router"/>
+	<Elem NameU="Satellite" Name="Satellite"/>
+	<Elem NameU="Satellite Dish" Name="Parabola"/>
+	<Elem NameU="Security Camera" Name="Telecamera di Sicurezza"/>
+	<Elem NameU="Server" Name="Server"/>
+	<Elem NameU="Ship" Name="Nave"/>
+	<Elem NameU="Shopping Cart" Name="Carrello"/>
+	<Elem NameU="Smartphone" Name="Smartphone"/>
+	<Elem NameU="Smart Watch" Name="SmartWatch"/>
+	<Elem NameU="Spoon and Fork" Name="Cucchiaio e Forchetta"/>
+	<Elem NameU="Tap" Name="Tappo"/>
+	<Elem NameU="Touchscreen Phone" Name="Telefono con Schermo Touch"/>
+	<Elem NameU="Telephone" Name="Telefono"/>
+	<Elem NameU="Television" Name="Televisore"/>
+	<Elem NameU="Thermometer" Name="Termometro"/>
+	<Elem NameU="Train" Name="Treno"/>
+	<Elem NameU="Washing Machine" Name="Lavatrice"/>
+	<Elem NameU="Watch" Name="Orologio"/>
+	<Elem NameU="Webcam" Name="Webcam"/>
+	<Elem NameU="Weighing Scale" Name="Bilancia"/>
+	<Elem NameU="Van" Name="Furgone"/>
+	<Elem NameU="Video" Name="Video"/>
+	<Elem NameU="VR Headset" Name="Headset VR"/>
+	<Elem NameU="VR Goggles" Name="Occhiali VR"/>
+</Lib>

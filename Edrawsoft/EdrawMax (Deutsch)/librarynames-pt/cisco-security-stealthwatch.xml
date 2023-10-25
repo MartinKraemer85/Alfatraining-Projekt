@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Cisco Security Stealthwatch">
+	<Elem NameU="Agent" Name="Agente"/>
+	<Elem NameU="Aggregator" Name="Agregador"/>
+	<Elem NameU="Cisco Stealthwatch Learning Network License" Name="Licença de Rede de Aprendizagem Cisco Stealthwatch"/>
+	<Elem NameU="Cisco Stealthwatch UDP Director" Name="Diretor UDP Cisco Stealthwatch"/>
+	<Elem NameU="Cloud" Name="Cloud"/>
+	<Elem NameU="Cloud License" Name="Licença Cloud"/>
+	<Elem NameU="Concentrator" Name="Concentrador"/>
+	<Elem NameU="Database Storage Array" Name="Conjunto de Armazenamento em Base de Dados"/>
+	<Elem NameU="Desktop/Client" Name="Computador/Cliente"/>
+	<Elem NameU="Firewall" Name="Firewall"/>
+	<Elem NameU="Flow Collector Management" Name="Gestão do Coletor de Fluxo"/>
+	<Elem NameU="Flow Sensor" Name="Sensor de Fluxo"/>
+	<Elem NameU="Laptop" Name="Portátil"/>
+	<Elem NameU="Learning Agent" Name="Agente Educativo"/>
+	<Elem NameU="Legacy Server" Name="Servidor Legado"/>
+	<Elem NameU="Management Console" Name="Consola de Gestão"/>
+	<Elem NameU="Phone" Name="Telefone"/>
+	<Elem NameU="Proxy License" Name="Licença Proxy"/>
+	<Elem NameU="Router" Name="Roteador"/>
+	<Elem NameU="Server" Name="Servidor"/>
+	<Elem NameU="Switch" Name="Switch"/>
+	<Elem NameU="Tablet" Name="Tablet"/>
+	<Elem NameU="Threat Feed" Name="Feed de ameaças"/>
+	<Elem NameU="User" Name="Usuário"/>
+	<Elem NameU="Virtual Machine" Name="Máquina Virtual"/>
+	<Elem NameU="Web Proxy" Name="Web Proxy"/>
+	<Elem NameU="Wifi / WAP" Name="Wi-Fi / WAP"/>
+	<Elem NameU="Wireless Controller" Name="Controlador Sem Fios"/>
+</Lib>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Forms">
+	<Elem NameU="H1 Header" Name="Cabeçalho H1"/>
+	<Elem NameU="H2 Header" Name="Cabeçalho H2"/>
+	<Elem NameU="H3 Header" Name="Cabeçalho H3"/>
+	<Elem NameU="12pt Label" Name="Etiqueta 12pt"/>
+	<Elem NameU="10pt Label" Name="Etiqueta 10pt"/>
+	<Elem NameU="9pt Label" Name="Etiqueta 9pt"/>
+	<Elem NameU="Basic Table" Name="Tabela Básica"/>
+	<Elem NameU="Company Address" Name="Endereço da Empresa"/>
+	<Elem NameU="Primary Business Address" Name="Endereço de Negócio Primário"/>
+	<Elem NameU="Contact Information" Name="Informação de Contacto"/>
+	<Elem NameU="Logo Placeholder" Name="Placeholder do Logo"/>
+	<Elem NameU="Billing Address" Name="Endereço de Faturação"/>
+	<Elem NameU="Quotation" Name="Cotação"/>
+	<Elem NameU="Product, Price, Description" Name="Produto, Preço, Descrição"/>
+	<Elem NameU="Statistics" Name="Estatísticas"/>
+	<Elem NameU="Information Box" Name="Caixa de Informação"/>
+	<Elem NameU="Information Line" Name="Linha de Informação"/>
+	<Elem NameU="Signature Line with Date" Name="Linha de Assinatura com Data"/>
+	<Elem NameU="Signature Line" Name="Linha de Assinatura"/>
+	<Elem NameU="Simple Signature Block" Name="Bloco de Assinatura Simples"/>
+	<Elem NameU="Comments" Name="Comentários"/>
+	<Elem NameU="Detail Signature Block" Name="Bloco de Assinatura Detalhada"/>
+	<Elem NameU="Check Box" Name="Caixa de Verificação"/>
+	<Elem NameU="Radio Button" Name="Botão Rádio"/>
+	<Elem NameU="Text Block" Name="Bloco de Texto"/>
+	<Elem NameU="Link Text" Name="Texto de Link"/>
+</Lib>

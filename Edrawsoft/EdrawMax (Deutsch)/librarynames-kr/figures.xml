@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Figures">
+	<Elem NameU="Lying Position 1" Name="누운 자세 1"/>
+	<Elem NameU="Lying Position 2" Name="누운 자세 2"/>
+	<Elem NameU="Lying Position 3" Name="누운 자세 3"/>
+	<Elem NameU="Lying Position 4" Name="누운 자세 4"/>
+	<Elem NameU="Lying Position 5" Name="누운 자세 5"/>
+	<Elem NameU="Lying Position 6" Name="누운 자세 6"/>
+	<Elem NameU="Side Lying Position 1" Name="옆으로 누운 자세 1"/>
+	<Elem NameU="Side Lying Position 2" Name="옆으로 누운 자세 2"/>
+	<Elem NameU="Side Lying Position 3" Name="옆으로 누운 자세 3"/>
+	<Elem NameU="Front Standing (Male)" Name="정면으로 선(남성)"/>
+	<Elem NameU="Side Standing (Male)" Name="옆으로 선(남성)"/>
+	<Elem NameU="Front Standing (Female)" Name="정면으로 선(여성)"/>
+	<Elem NameU="Side Standing (Female)" Name="옆으로 선(여성)"/>
+	<Elem NameU="Prone Position 1" Name="엎드린 자세 1"/>
+	<Elem NameU="Prone Position 2" Name="엎드린 자세 2"/>
+	<Elem NameU="Prone Position 3" Name="엎드린 자세 3"/>
+	<Elem NameU="Hanged Figure" Name="목을 매단 모습"/>
+	<Elem NameU="Sitting 1" Name="앉은 자세 1"/>
+	<Elem NameU="Sitting 2" Name="앉은 자세 2"/>
+	<Elem NameU="Sitting 3" Name="앉은 자세 3"/>
+	<Elem NameU="Bound Figure" Name="묶인 모습"/>
+	<Elem NameU="Runaway Figure 1" Name="달아나는 모습 1"/>
+	<Elem NameU="Runaway Figure 2" Name="달아나는 모습 2"/>
+	<Elem NameU="Runaway Figure 3" Name="달아나는 모습 3"/>
+</Lib>

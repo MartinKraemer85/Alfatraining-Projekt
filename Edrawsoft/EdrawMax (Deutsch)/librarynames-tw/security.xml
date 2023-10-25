@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Security">
+	<Elem NameU="Anti ddos" Name="反ddos"/>
+	<Elem NameU="Antibot" Name="反機器人"/>
+	<Elem NameU="Anti-fraud" Name="反欺詐"/>
+	<Elem NameU="Automated vulnerability detection serivice" Name="漏洞掃描器"/>
+	<Elem NameU="Bastion host" Name="堡壘機"/>
+	<Elem NameU="Certificates service" Name="證書服務"/>
+	<Elem NameU="Cloud authentication" Name="實人認證"/>
+	<Elem NameU="Cloud firewall" Name="雲防火墻"/>
+	<Elem NameU="Contens security" Name="內容安全"/>
+	<Elem NameU="COO" Name="COO"/>
+	<Elem NameU="Data encryption" Name="資料加密"/>
+	<Elem NameU="Database audit" Name="資料庫審計"/>
+	<Elem NameU="DDOS international" Name="DDOS高防國際"/>
+	<Elem NameU="DDOS protective package" Name="DDOS防護包"/>
+	<Elem NameU="DDOS" Name="DDOS"/>
+	<Elem NameU="Encryption service" Name="加密服務"/>
+	<Elem NameU="Game shield" Name="遊戲盾"/>
+	<Elem NameU="Mobile sercurity" Name="移動安全"/>
+	<Elem NameU="Security situation awareness" Name="態勢感知"/>
+	<Elem NameU="Server guard" Name="安全騎士"/>
+	<Elem NameU="Smart anti-fraud" Name="智能風控"/>
+	<Elem NameU="SOS" Name="安全管家"/>
+	<Elem NameU="SPPC" Name="SPPC"/>
+	<Elem NameU="Web application firewall Web" Name="網頁應用防火墻"/>
+	<Elem NameU="Yundun hybrid cloud" Name="雲盾混合雲"/>
+	<Elem NameU="Yundun" Name="雲盾"/>
+</Lib>

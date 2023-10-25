@@ -1,0 +1,9 @@
+<Lib NameU="GCP Management Tools">
+  <Elem NameU="Management Tools" Name="Ferramentas de Gestão"/>
+  <Elem NameU="Cloud point" Name="Ponto da cloud"/>
+  <Elem NameU="Debugger" Name="Debugger"/>
+  <Elem NameU="Error report" Name="Relatório de erro"/>
+  <Elem NameU="Log in" Name="Log in"/>
+  <Elem NameU="Stackdriver" Name="Stackdriver"/>
+  <Elem NameU="Track" Name="Rastro"/>
+</Lib>

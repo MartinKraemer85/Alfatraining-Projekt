@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Meters">
+    <Elem NameU="Meter 1" Name="측정기 1"/>
+    <Elem NameU="Meter 2" Name="측정기 2"/>
+    <Elem NameU="Meter 3" Name="측정기 3"/>
+    <Elem NameU="Meter 4" Name="측정기 4"/>
+    <Elem NameU="Meter 5" Name="측정기 5"/>
+    <Elem NameU="Meter 6" Name="측정기 6"/>
+    <Elem NameU="Meter 7" Name="측정기 7"/>
+    <Elem NameU="Meter 8" Name="측정기 8"/>
+    <Elem NameU="Meter 9" Name="측정기 9"/>
+    <Elem NameU="Meter 10" Name="측정기 10"/>
+    <Elem NameU="Meter 11" Name="측정기 11"/>
+    <Elem NameU="Meter 12" Name="측정기 12"/>
+</Lib>

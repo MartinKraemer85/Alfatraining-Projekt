@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Mark">
+    <Elem NameU="Star" Number="4" Name="星級評分"/>
+    <Elem NameU="Grade" Name="表情評分"/>
+    <Elem NameU="Expression" Number="3" Name="表情評分"/>
+    <Elem NameU="Grade" Number="3" Name="表情評分"/>
+    <Elem NameU="Yes and No" Number="9" Name="是或否"/>
+    <Elem NameU="Lock" Number="2" Name="鎖定或解鎖"/>
+    <Elem NameU="Arrow" Number="4" Name="四向箭頭"/>
+    <Elem NameU="Thumb" Number="6" Name="讚或踩"/>
+    <Elem NameU="Question Mark" Number="2" Name="問號"/>
+    <Elem NameU="Gender" Number="3" Name="性別"/>
+    <Elem NameU="State" Name="形狀-可切換"/>
+    <Elem NameU="Numbering" Name="數字"/>
+    <Elem NameU="Progress" Name="進度"/>
+    <Elem NameU="Flag" Name="旗幟"/>
+    <Elem NameU="Alert" Name="警報"/>
+    <Elem NameU="Progress" Number="8" Name="進度"/>
+    <Elem NameU="Gradient Bar" Name="進度條"/>
+    <Elem NameU="Hori-Gradient Circle" Name="進度條"/>
+    <Elem NameU="Hori-Gradient Diamond" Name="進度條"/>
+    <Elem NameU="Gradient Column" Name="進度條"/>
+    <Elem NameU="Gradient Circles" Name="進度條"/>
+    <Elem NameU="Gradient Diamond" Name="進度條"/>
+</Lib>

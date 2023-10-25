@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="2D Block Diagram">
+    <Elem NameU="Rectangle" Name="Retângulo"/>
+	<Elem NameU="Rounded Rectangle" Name="Retângulo Redondo"/>
+	<Elem NameU="Circle" Name="Círculo"/>
+	<Elem NameU="Triangle" Name="Triângulo"/>
+	<Elem NameU="Diamond" Name="Diamante"/>
+	<Elem NameU="Arrow" Name="Flecha"/>
+	<Elem NameU="Box Callout 1" Name="Texto explicativo 1"/>
+	<Elem NameU="Line" Name="Linha"/>
+	<Elem NameU="ConnectLine" Name="Connectline"/>
+</Lib>

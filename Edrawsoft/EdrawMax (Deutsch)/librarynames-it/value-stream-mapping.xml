@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Value Stream Mapping">
+	<Elem NameU="Production Control" Name="Controllo di Produzione"/>
+	<Elem NameU="Information" Name="Informazione"/>
+	<Elem NameU="Process" Name="Processo"/>
+	<Elem NameU="Customer / Supplier" Name="Cliente / Fornitore"/>
+	<Elem NameU="Inventory" Name="Inventario"/>
+	<Elem NameU="Shipment Arrow" Name="Freccia di Spedizione"/>
+	<Elem NameU="Push Arrow" Name="Freccia di Spinta"/>
+	<Elem NameU="Electronic Information Flow" Name="Flusso di Informazioni Elettronico"/>
+	<Elem NameU="Manual Information Flow" Name="Flusso di Informazioni Manuale"/>
+	<Elem NameU="External Shipment" Name="Spedizione Esterna"/>
+	<Elem NameU="Airplan Shipment" Name="Spedizione Aerea"/>
+	<Elem NameU="Rail Shipment" Name="Spedizione Ferroviaria"/>
+	<Elem NameU="Cross-Dock" Name="Smistamento"/>
+	<Elem NameU="Timeline Segment" Name="Segmento di Cronologia"/>
+	<Elem NameU="Timeline End Segment" Name="Segmento Terminale della Cronologia"/>
+	<Elem NameU="Timeline Total" Name="Cronologia Completa"/>
+	<Elem NameU="Data Table" Name="Tabella Dati"/>
+	<Elem NameU="Withdrawal Kanban" Name="Kanban di Prelievo"/>
+	<Elem NameU="Withdrawal Batch Kanban" Name="Lotto di Kanban di Prelievo"/>
+	<Elem NameU="Production Kanban" Name="Kanban di Produzione"/>
+	<Elem NameU="Batch Kanban" Name="Lotto di Kanban"/>
+	<Elem NameU="Note" Name="Nota"/>
+	<Elem NameU="Supermarket" Name="Supermercato"/>
+	<Elem NameU="Safety Stock" Name="Scorta di Sicurezza"/>
+	<Elem NameU="Warehouse" Name="Magazzino"/>
+	<Elem NameU="Control Center" Name="Centro di Controllo"/>
+	<Elem NameU="Workcell" Name="Cella di Lavoro"/>
+	<Elem NameU="Signal Kanban" Name="Segnale Kanban"/>
+	<Elem NameU="Kanban Post" Name="Indicatore Kanban"/>
+	<Elem NameU="Go See Production" Name="Controllo Produzione"/>
+	<Elem NameU="Verbal Information" Name="Informazione Verbale"/>
+	<Elem NameU="Phone" Name="Telefono"/>
+	<Elem NameU="MRP/ERP" Name="MRP/ERP"/>
+	<Elem NameU="Kaizen Burst" Name="Evento Kaizen"/>
+	<Elem NameU="FIFO Lane" Name="Corsia FIFO"/>
+	<Elem NameU="Load Leveling" Name="Livellazione Carico"/>
+	<Elem NameU="Sequenced Pull Ball" Name="Cerchio Estrazione Sequenziale"/>
+	<Elem NameU="Physical Pull" Name="Estrazione Fisica"/>
+	<Elem NameU="Boat Shipment" Name="Spedizione Navale"/>
+</Lib>

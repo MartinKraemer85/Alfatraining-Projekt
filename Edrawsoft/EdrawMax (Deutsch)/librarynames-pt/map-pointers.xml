@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Map Pointers">
+	<Elem NameU="Location 1" Name="Localização 1"/>
+	<Elem NameU="Location 2" Name="Localização 2"/>
+	<Elem NameU="Location 3" Name="Localização 3"/>
+	<Elem NameU="Location" Name="Localização"/>
+	<Elem NameU="Location 4" Name="Localização 4"/>
+	<Elem NameU="Location 6" Name="Localização 6"/>
+	<Elem NameU="Location 7" Name="Localização 7"/>
+	<Elem NameU="Location 8" Name="Localização 8"/>
+	<Elem NameU="Location 9" Name="Localização 9"/>
+	<Elem NameU="Location 10" Name="Localização 10"/>
+	<Elem NameU="Location 11" Name="Localização 11"/>
+	<Elem NameU="Location 12" Name="Localização 12"/>
+	<Elem NameU="Location 13" Name="Localização 13"/>
+	<Elem NameU="Location 14" Name="Localização 14"/>
+	<Elem NameU="Location 15" Name="Localização 15"/>
+	<Elem NameU="Location 16" Name="Localização 16"/>
+	<Elem NameU="Location 17" Name="Localização 17"/>
+	<Elem NameU="Location 18" Name="Localização 18"/>
+	<Elem NameU="Location 19" Name="Localização 19"/>
+	<Elem NameU="Flags" Name="Bandeiras"/>
+	<Elem NameU="Callout Flag" Name="Bandeira de Chamada"/>
+	<Elem NameU="Aircraft" Name="Aeronave"/>
+	<Elem NameU="Chess" Name="Xadrez"/>
+	<Elem NameU="Box Callout with all directions" Name="Chamada em Caixa com todas as direções"/>
+	<Elem NameU="Oval Callout with all directions" Name="Chamada Oval com todas as direções"/>
+	<Elem NameU="Circular Callout" Name="Chamada Circular"/>
+	<Elem NameU="Rectangle width Line" Name="Linha de espessura retangular"/>
+	<Elem NameU="Line Text" Name="Texto de Linha"/>
+	<Elem NameU="Compass" Name="Bússola"/>
+</Lib>

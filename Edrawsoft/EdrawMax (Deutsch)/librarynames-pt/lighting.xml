@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Lighting">
+	<Elem NameU="Luminaire ceiling mount" Name="Montagem de luz de teto"/>
+	<Elem NameU="Encl ceiling lum" Name="Luz de teto fechada"/>
+	<Elem NameU="Wall light" Name="Luz de parede"/>
+	<Elem NameU="Downlight" Name="Luz de projeção para baixo"/>
+	<Elem NameU="Outdoor lighting" Name="Iluminação de exterior"/>
+	<Elem NameU="Multi-light bar" Name="Barra multi-luzes"/>
+	<Elem NameU="Batten fluores" Name="Ripa fluorescente"/>
+	<Elem NameU="Modular fluores" Name="Modular luorescente"/>
+	<Elem NameU="Emerg. light" Name="Luz de emerg."/>
+	<Elem NameU="Emerg. sign" Name="Sinal de emerg."/>
+	<Elem NameU="Light" Name="Luz"/>
+	<Elem NameU="Ceiling Light Outlet" Name="Saída de Luz de Teto"/>
+	<Elem NameU="Recessed ceiling light" Name="Luz de teto de descanso"/>
+	<Elem NameU="Ceiling fan" Name="Ventoinha de teto"/>
+	<Elem NameU="Weatherproof landscape light" Name="Luz de panorama à prova de intempéries"/>
+	<Elem NameU="Ceiling light with pull cord" Name="Luz de teto com fio de puxar"/>
+	<Elem NameU="Emergency battery unit with two light" Name="Unidade de bateria de emerGência com duas luzes"/>
+	<Elem NameU="Spotlight" Name="Holofote"/>
+	<Elem NameU="Exit sign" Name="Sinal de saída"/>
+	<Elem NameU="Roadway light" Name="Luz de estrada"/>
+	<Elem NameU="Twin lights" Name="Luzes gémeas"/>
+	<Elem NameU="Lights" Name="Luzes"/>
+	<Elem NameU="Integrated  Light" Name="Luz Integrada"/>
+	<Elem NameU="Night Light" Name="Luz Noturna"/>
+	<Elem NameU="Louvers" Name="Grelhas"/>
+</Lib>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Sofas">
+	<Elem NameU="Curved sofa" Name="Divano curvo"/>
+	<Elem NameU="Sectional sofa with arms" Name="Divano componibile con braccioli"/>
+	<Elem NameU="Armless sectional sofa" Name="Divano componibile senza braccioli"/>
+	<Elem NameU="Curved sectional sofa" Name="Divano componibile curvo"/>
+	<Elem NameU="1 seat sofa" Name="Divano a 1 posto"/>
+	<Elem NameU="2 seat sofa" Name="Divano a 2 posti"/>
+	<Elem NameU="3 seat sofa" Name="Divano a 3 posti"/>
+	<Elem NameU="4 seat sofa" Name="Divano a 4 posti"/>
+	<Elem NameU="Tea Table" Name="Tavolino da tè"/>
+</Lib>

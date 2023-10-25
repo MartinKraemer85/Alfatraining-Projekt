@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Equipment-Solar System">
+	<Elem NameU="Solar Panels" Name="太阳能板"/>
+	<Elem NameU="Inverter" Name="逆变器"/>
+	<Elem NameU="PV Combiner Box" Name="光伏汇流箱"/>
+	<Elem NameU="Battery Charging appliance" Name="电池充电设备"/>
+	<Elem NameU="Batteries" Name="电池"/>
+	<Elem NameU="Battery Bank 1" Name="电池组 1"/>
+	<Elem NameU="Battery Bank 2" Name="电池组 2"/>
+	<Elem NameU="Energy Storage System Container" Name="储能系统容器"/>
+	<Elem NameU="Transformer" Name="变压器"/>
+	<Elem NameU="Grid" Name="电网"/>
+	<Elem NameU="Remote Monitoring Appliance/Box" Name="远程监控设备/盒子"/>
+	<Elem NameU="Electrical Breaker Box" Name="电气断路器箱"/>
+	<Elem NameU="Electrical External Generator" Name="电动外接发电机"/>
+	<Elem NameU="Electrical Car Charger" Name="电动车充电器"/>
+	<Elem NameU="Smart Energy Meter" Name="智能电能表"/>
+	<Elem NameU="Light" Name="光"/>
+	<Elem NameU="TV" Name="电视"/>
+	<Elem NameU="Washing Machine" Name="洗衣机"/>
+	<Elem NameU="Refridgerator" Name="冰箱"/>
+	<Elem NameU="Load" Name="负荷"/>
+</Lib>

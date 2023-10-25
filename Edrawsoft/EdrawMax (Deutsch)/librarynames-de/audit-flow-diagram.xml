@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Audit Flow Diagram">
+
+<Elem Name="Prozess" NameU="Process"/>
+
+<Elem Name="Entscheidung" NameU="Decision"/>
+
+<Elem Name="E/A" NameU="I/O"/>
+
+<Elem Name="Ende" NameU="Terminator"/>
+
+<Elem Name="Anzeige" NameU="Display"/>
+
+<Elem Name="Verzögern" NameU="Delay"/>
+
+<Elem Name="Ja oder Nein" NameU="Yes or No"/>
+
+<Elem Name="Dokument mit Linie" NameU="Lined document"/>
+
+<Elem Name="Mehrere Dokumente" NameU="Multi documents"/>
+
+<Elem Name="Datenspeicher" NameU="Disk storage"/>
+
+<Elem Name="Datenbank" NameU="Database"/>
+
+<Elem Name="Ereignis" NameU="Event"/>
+
+<Elem Name="Tagged Prozess" NameU="Tagged Process"/>
+
+<Elem Name="Tagged Dokument" NameU="Tagged Document"/>
+
+<Elem Name="Handbetrieb" NameU="Manual Operation"/>
+
+<Elem Name="Manuelle Datei" NameU="Manual File"/>
+
+<Elem Name="On-Page-Referenz" NameU="On-page Reference"/>
+
+<Elem Name="Off-page Referenz" NameU="Off-page Reference"/>
+
+<Elem Name="Geteilter Prozess" NameU="Divided Process"/>
+
+<Elem Name="Multi Proc / doc" NameU="Multi Proc/doc"/>
+
+<Elem Name="Linienschattierter Prozess" NameU="Lined-shaded Process"/>
+
+<Elem Name="Diskette" NameU="Diskette"/>
+
+<Elem Name="Magnetband" NameU="Magnetic Tape"/>
+
+<Elem Name="Datenübertragung" NameU="Data Transmission"/>
+
+<Elem Name="Manuelle Eingabe" NameU="Manual Input"/>
+
+<Elem Name="Überprüfen Sie (Audit)" NameU="Check (Audit)"/>
+
+<Elem Name="Vergleichen" NameU="Compare"/>
+
+<Elem Name="Geteiltes Ereignis" NameU="Divided Event"/>
+
+<Elem Name="Schriftfeld" NameU="Title Block"/>
+
+<Elem Name="Notiz" NameU="Note"/>
+
+<Elem Name="Anhaltspunkt" NameU="Reference Point"/>
+
+<Elem Name="Kurvenstecker" NameU="Curve connector"/>
+
+</Lib>

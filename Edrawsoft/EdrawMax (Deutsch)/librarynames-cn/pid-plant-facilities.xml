@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Plant Facilities">
+    <Elem NameU="Access ladder" Name="通道梯"/>
+    <Elem NameU="Brick exhaust stack with deck" Name="砖烟囱带架"/>
+    <Elem NameU="Brick exhaust stack" Name="砖烟囱"/>
+    <Elem NameU="Chain link fence (green)" Name="绿色铁丝网"/>
+    <Elem NameU="Chain link fence with barbed wire (green)" Name="绿色有刺铁丝网"/>
+    <Elem NameU="Chain link fence with barbed wire" Name="有刺铁丝网"/>
+    <Elem NameU="Chain link fence" Name="铁丝网"/>
+    <Elem NameU="Communications tower" Name="吊车"/>
+    <Elem NameU="Dark smoke" Name="黑色烟雾"/>
+    <Elem NameU="Emergency shower" Name="紧急喷淋装置"/>
+    <Elem NameU="Enclosed ladder" Name="梯子 1"/>
+    <Elem NameU="Exhaust stack with warning stripes" Name="红白条烟囱"/>
+    <Elem NameU="Exhaust stack" Name="烟囱"/>
+    <Elem NameU="Exposed ladder" Name="梯子 2"/>
+    <Elem NameU="Guard screen" Number="2" Name="防护筛"/>
+    <Elem NameU="Industrial platform 1" Name="生产平台 1"/>
+    <Elem NameU="Industrial platform 2" Name="生产平台 2"/>
+    <Elem NameU="Industrial stairs" Name="楼梯"/>
+    <Elem NameU="Industrial structure" Name="生产设备"/>
+    <Elem NameU="Industrial platform 1" Name="生产平台 1"/>
+    <Elem NameU="Light smoke" Name="淡烟"/>
+    <Elem NameU="Mezzanine decking" Name="楼层夹板"/>
+    <Elem NameU="Mezzanine with office" Name="楼层办公室"/>
+    <Elem NameU="Oil rig" Name="钻探设备"/>
+    <Elem NameU="Oil well" Name="石油钻塔"/>
+    <Elem NameU="Processing plant" Name="加工工厂"/>
+    <Elem NameU="Pulp mill" Name="制浆厂"/>
+    <Elem NameU="Pyramid communication tower" Name="金字塔型通信塔"/>
+    <Elem NameU="Refinery" Name="提炼厂"/>
+    <Elem NameU="Smooth exhaust stairs" Number="2" Name="楼梯 2"/>
+    <Elem NameU="Steel grating 1" Name="钢格板 1"/>
+    <Elem NameU="Steel grating 2" Name="钢格板 2"/>
+    <Elem NameU="Vertical stairs" Number="2" Name="楼梯 4"/>
+    <Elem NameU="Chimney" Number="2" Name="烟囱 2"/>
+</Lib>

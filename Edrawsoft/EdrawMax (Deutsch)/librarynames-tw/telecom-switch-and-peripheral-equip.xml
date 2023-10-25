@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Telecom Switch and Peripheral Equip">
+    <Elem NameU="Telephone" Name="電話"/>
+    <Elem NameU="Connecting stage" Name="連接階段"/>
+    <Elem NameU="Marking stage" Name="標記階段"/>
+    <Elem NameU="Switching stage" Name="開關階段"/>
+    <Elem NameU="Switching equipment 1" Name="開關設備 1"/>
+    <Elem NameU="Switching equipment 2" Name="開關設備 2"/>
+    <Elem NameU="Magnetic type" Name="磁型"/>
+    <Elem NameU="Moving coil type" Name="移動線圈型"/>
+    <Elem NameU="Moving iron type" Name="移動鐵圈"/>
+    <Elem NameU="Stereo type" Name="立體聲型"/>
+    <Elem NameU="Disc type" Name="盤型"/>
+    <Elem NameU="Tape/Film type" Name="磁帶/膠片型"/>
+    <Elem NameU="Drum type" Name="磁鼓型"/>
+    <Elem NameU="Reproducing" Name="複製"/>
+    <Elem NameU="Recording/reproducing" Name="錄音/複製"/>
+    <Elem NameU="Erasing" Name="擦除"/>
+    <Elem NameU="Amplified circuit" Name="放大器電路"/>
+    <Elem NameU="Pulse modulation" Name="脈衝調製"/>
+    <Elem NameU="Changer" Name="變換器"/>
+    <Elem NameU="Filter" Name="濾波器"/>
+    <Elem NameU="Filter 2" Name="濾波器 2"/>
+    <Elem NameU="Highpass filter" Name="高通濾波器"/>
+    <Elem NameU="Lowpass filter" Name="低通濾波器"/>
+    <Elem NameU="Bandpass filter" Name="帶通濾波器"/>
+    <Elem NameU="Networks" Name="網絡"/>
+    <Elem NameU="Terminating sets" Name="端接裝置"/>
+    <Elem NameU="Modulator" Name="調製器"/>
+    <Elem NameU="Recorder/reproducer" Name="錄音機/複製機"/>
+    <Elem NameU="Concentrating" Name="集中"/>
+    <Elem NameU="Frequency spectrum element" Name="頻譜元件"/>
+    <Elem NameU="Frequency band" Name="頻帶"/>
+    <Elem NameU="Guided light transmitter" Name="導向光發射器"/>
+    <Elem NameU="Stylus operated head" Name="手寫筆操作頭"/>
+    <Elem NameU="Equipotential" Name="等位"/>
+    <Elem NameU="Thermistor with independent integral heater" Name="熱敏電阻"/>
+</Lib>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Windows UI">
+    <Elem NameU="Dialog Window" Name="대화 상자"/>
+    <Elem NameU="Window" Name="창"/>
+    <Elem NameU="Window Backgroud" Name="창 배경"/>
+    <Elem NameU="Field" Name="구역"/>
+    <Elem NameU="Horizontal Scrollbar" Name="수평 스크롤바"/>
+    <Elem NameU="Vertical Scrollbar" Name="수직 스크롤바"/>
+    <Elem NameU="Close Button" Name="닫기 버튼"/>
+    <Elem NameU="Max Button" Name="최대 버튼"/>
+    <Elem NameU="Min Button" Name="최소 버튼"/>
+    <Elem NameU="Help Button" Name="도움 버튼"/>
+    <Elem NameU="Help and Close Button" Name="도움말 및 닫기 버튼"/>
+    <Elem NameU="Min Max Close Button" Name="최소 최대 닫기 버튼"/>
+    <Elem NameU="Primary Toolbar" Name="기본 도구 모음"/>
+    <Elem NameU="Toolbar Button" Name="툴바 버튼"/>
+    <Elem NameU="Empty Toolbar" Name="빈 도구 모음"/>
+    <Elem NameU="Menubar" Name="메뉴 바"/>
+    <Elem NameU="Menu Item" Name="메뉴 항목"/>
+    <Elem NameU="Button" Name="버튼"/>
+    <Elem NameU="Edit Control" Name="편집 컨트롤"/>
+    <Elem NameU="Rich Text Control" Name="텍스트 컨트롤"/>
+    <Elem NameU="Static Text" Name="정적 텍스트"/>
+    <Elem NameU="Hyperlink Text" Name="하이퍼링크 텍스트"/>
+    <Elem NameU="Spin Box" Name="스핀 상자"/>
+    <Elem NameU="Search Box" Name="검색 상자"/>
+    <Elem NameU="List" Name="목록"/>
+    <Elem NameU="Combo List" Name="콤보 목록"/>
+    <Elem NameU="Combo Box" Name="콤보 상자"/>
+    <Elem NameU="Editable Combo Box" Name="편집 가능한 콤보 상자"/>
+    <Elem NameU="List 2" Name="목록 2"/>
+    <Elem NameU="List Box" Name="목록 상자"/>
+    <Elem NameU="Group Box" Name="그룹 상자"/>
+    <Elem NameU="Vertical Slidebar" Name="수직 슬라이드 바"/>
+    <Elem NameU="Horizontal Slidebar" Name="수평 슬라이드 바"/>
+    <Elem NameU="Progress Bar" Name="진행 표시 줄"/>
+    <Elem NameU="Infinite Progresss Bar" Name="무한 진행률 표시 줄"/>
+    <Elem NameU="Check Box" Name="체크 박스"/>
+    <Elem NameU="Check Box Group" Name="체크 박스 그룹"/>
+    <Elem NameU="Radio Button" Name="라디오 버튼"/>
+    <Elem NameU="Radio Button Group" Name="라디오 단추 그룹"/>
+    <Elem NameU="Horizontal Spacer" Name="수평 간격"/>
+    <Elem NameU="Vertical Spacer" Name="수직 간격"/>
+    <Elem NameU="Navigate Button" Name="탐지 메뉴 버튼"/>
+    <Elem NameU="Chevron Button" Name="V형 버튼"/>
+    <Elem NameU="Chevron" Name="V형 화살표"/>
+    <Elem NameU="Arrow Button" Name="화살표 버튼"/>
+    <Elem NameU="Small Arrow" Name="작은 화살표"/>
+    <Elem NameU="Double Chevron" Name="더블 화살표"/>
+    <Elem NameU="Plus/Minus Control" Name="플러스/마이너스 컨트롤"/>
+    <Elem NameU="Text Select Cursor" Name="텍스트 선택 커서"/>
+    <Elem NameU="Busy Cusor" Name="커서 바쁨"/>
+    <Elem NameU="Working Busy in Backgroud" Name="다른 용무 중"/>
+    <Elem NameU="Select Cursor" Name="커서 선택"/>
+    <Elem NameU="Precision Select Cursor" Name="커서 선택"/>
+    <Elem NameU="Select Cursor 2" Name="커서 선택 2"/>
+    <Elem NameU="Unavailable Cursor" Name="선택 못함"/>
+    <Elem NameU="Move Cusor" Name="이동 커서"/>
+    <Elem NameU="List View" Name="목록 보기"/>
+    <Elem NameU="Tab View" Name="탭 보기"/>
+    <Elem NameU="Tab View 2" Name="탭 보기 2"/>
+    <Elem NameU="Tab View Label" Name="탭 보기 레이블"/>
+    <Elem NameU="Close" Name="닫기"/>
+    <Elem NameU="Etched Horizontal" Name="수평 새김"/>
+    <Elem NameU="Etched Vertical" Name="수직 새김"/>
+    <Elem NameU="Spin Control" Name="Spin 컨트롤"/>
+    <Elem NameU="Picture Control" Name="이미지 컨트롤"/>
+    <Elem NameU="Warning Icon" Name="경고 아이콘"/>
+    <Elem NameU="Information Icon" Name="메시지 아이콘"/>
+    <Elem NameU="Help Icon" Name="도움말 아이콘"/>
+    <Elem NameU="Error Icon" Name="오류 아이콘"/>
+</Lib>

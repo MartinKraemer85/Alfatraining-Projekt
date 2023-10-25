@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Kids Sports">
+    <Elem NameU="Taekwondo 1" Name="태권도 1"/>
+    <Elem NameU="Taekwondo 2" Name="태권도 2"/>
+    <Elem NameU="Playing Tennis" Name="테니스"/>
+    <Elem NameU="Playing Badminton" Name="배드민턴"/>
+    <Elem NameU="Playing Table Tennis" Name="탁구"/>
+    <Elem NameU="Playing Baseball" Name="야구"/>
+    <Elem NameU="Playing Football" Name="축구"/>
+    <Elem NameU="Playing Basketball" Name="농구"/>
+    <Elem NameU="Playing Rugby" Name="럭비"/>
+    <Elem NameU="Playing Volleyball" Name="배구"/>
+    <Elem NameU="Playing Golf" Name="골프"/>
+    <Elem NameU="Playing Shot Put" Name="투포환"/>
+    <Elem NameU="Inline Skating" Name="스케이팅"/>
+    <Elem NameU="Running" Name="달리기"/>
+    <Elem NameU="Rope Skipping" Name="줄넘기"/>
+    <Elem NameU="Rock Climbing" Name="암벽"/>
+    <Elem NameU="Long Jump" Name="멀리뛰기"/>
+    <Elem NameU="Twirling Hula Hoop" Name="훌라 후프 돌리기"/>
+    <Elem NameU="Skiing" Name="스키"/>
+    <Elem NameU="Skateboarding" Name="스케이트 보드"/>
+    <Elem NameU="Surfing" Name="서핑"/>
+    <Elem NameU="Cheerleading Dance" Name="치어리더 댄스"/>
+    <Elem NameU="Doing Gymnastics" Name="체조"/>
+    <Elem NameU="Swimming" Name="수영"/>
+    <Elem NameU="Hurdling" Name="허들링"/>
+    <Elem NameU="Weightlifting" Name="역도"/>
+    <Elem NameU="Doing Pommel Horse" Name="안마 체조"/>
+    <Elem NameU="Doing Horizontal Bar" Name="철봉 운동"/>
+    <Elem NameU="Playing Archery" Name="화살"/>
+</Lib>

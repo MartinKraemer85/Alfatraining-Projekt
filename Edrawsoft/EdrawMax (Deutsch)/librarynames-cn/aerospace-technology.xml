@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Aerospace Technology">
+    <Elem NameU="Astronaut 1" Name="宇航员1"/>
+    <Elem NameU="Astronaut 2" Name="宇航员2"/>
+    <Elem NameU="Astronaut 3" Name="宇航员3"/>
+    <Elem NameU="Astronomical Telescope 1" Name="天文望远镜1"/>
+    <Elem NameU="Astronomical Telescope 2" Name="天文望远镜2"/>
+    <Elem NameU="Rocket" Name="火箭"/>
+    <Elem NameU="Satellite 1" Name="卫星1"/>
+    <Elem NameU="Satellite 2" Name="卫星2"/>
+    <Elem NameU="Launching Tower" Name="发射塔"/>
+    <Elem NameU="Plane" Name="飞机"/>
+    <Elem NameU="Earth" Name="地球"/>
+    <Elem NameU="Fighter Aircraft" Number="7" Name="战斗机"/>
+    <Elem NameU="Missle 1" Name="导弹1"/>
+    <Elem NameU="Missle 2" Name="导弹2"/>
+    <Elem NameU="High Speed Rail" Name="高度铁路"/>
+    <Elem NameU="Submarine 1" Name="潜艇1"/>
+    <Elem NameU="Submarine 2" Name="潜艇1"/>
+    <Elem NameU="Submarine 3" Name="潜艇3"/>
+    <Elem NameU="Tank" Name="坦克"/>
+</Lib>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Tanks">
+    <Elem NameU="5-gallon bucket" Name="5갤런 버킷"/>
+    <Elem NameU="Air cylinder" Name="공기 실린더"/>
+    <Elem NameU="Air tank" Name="산소통"/>
+    <Elem NameU="Barrel" Name="통"/>
+    <Elem NameU="Batch tank" Name="배치 탱크"/>
+    <Elem NameU="Bolt 1" Name="볼트 1"/>
+    <Elem NameU="Bolt 2" Name="볼트 2"/>
+    <Elem NameU="Brew kettle" Name="양조 주전자"/>
+    <Elem NameU="Container" Name="컨테이너"/>
+    <Elem NameU="Corrosion resistant tank (medium)" Name="부식 방지 탱크 (중)"/>
+    <Elem NameU="Day tank" Name="데이 탱크"/>
+    <Elem NameU="Drum" Name="드럼"/>
+    <Elem NameU="Elliptical bulk storage tank" Name="타원형 벌크 탱크"/>
+    <Elem NameU="Flour Storage Tank" Name="분말 탱크"/>
+    <Elem NameU="Flat vessel 1" Name="좁은 용기 1"/>
+    <Elem NameU="Flat vessel 2" Name="좁은 용기 2"/>
+    <Elem NameU="Flat vessel 3" Name="좁은 용기 3"/>
+    <Elem NameU="Flat vessel 4" Name="좁은 용기 4"/>
+    <Elem NameU="Flat vessel 5" Name="좁은 용기 5"/>
+    <Elem NameU="Flat vessel 6" Name="좁은 용기 6"/>
+    <Elem NameU="Flat vessel 7" Name="좁은 용기 7"/>
+    <Elem NameU="Free-standing leg tank" Name="독립형 다리 탱크"/>
+    <Elem NameU="Glass lined tank" Name="글래스 라이닝 탱크"/>
+    <Elem NameU="Green cylinder" Name="녹색 실린더"/>
+    <Elem NameU="Green vessel" Name="녹색 용기"/>
+    <Elem NameU="Hatch" Name="해치"/>
+    <Elem NameU="Heat exchanger" Name="열교환기"/>
+    <Elem NameU="Hopper" Name="호퍼"/>
+    <Elem NameU="Homogenize Tank" Name="동질화 탱크"/>
+    <Elem NameU="Hydropneumatic tank" Name="수압 탱크"/>
+    <Elem NameU="Hot Living Water Tank" Name="뜨거운 생수 탱크"/>
+    <Elem NameU="Large cone-bottom polyethylene tank" Name="큰 원추형 바닥 폴리에틸렌 탱크"/>
+    <Elem NameU="Liquid storage drum" Name="액체 저장 드럼"/>
+    <Elem NameU="Mix tank" Name="믹스 탱크"/>
+    <Elem NameU="Molded polyethylene tank" Name="성형 폴리에틸렌 탱크"/>
+    <Elem NameU="Polyethylene chemical mix tank" Name="폴리에틸렌 화학 혼합 탱크"/>
+    <Elem NameU="Polyethylene mix and fill tank" Name="폴리에틸렌 혼합 및 보충 탱크"/>
+    <Elem NameU="Polyethylene storage tank with twin legs" Name="트윈 레그가 있는 폴리에틸렌 저장 탱크"/>
+    <Elem NameU="Polyethylene storage tank" Name="폴리에틸렌 저장 탱크"/>
+    <Elem NameU="Polyethylene tank" Name="폴리에틸렌 탱크"/>
+    <Elem NameU="Polyethylene tank with mixer" Name="믹서가있는 폴리에틸렌 탱크"/>
+    <Elem NameU="Pond with plant life" Name="식물이있는 연못"/>
+    <Elem NameU="Pond" Name="연못"/>
+    <Elem NameU="Pressure vessel" Name="압력 용기"/>
+    <Elem NameU="Reactor 1" Name="반응기 1"/>
+    <Elem NameU="Reactor 2" Name="반응기 2"/>
+    <Elem NameU="Reactor 3" Name="반응기 3"/>
+    <Elem NameU="Reactor 4" Name="반응기 4"/>
+    <Elem NameU="Reactor tank" Name="반응기 탱크"/>
+    <Elem NameU="Reactor with agitator" Name="교반기가 있는 반응기"/>
+    <Elem NameU="Reactor with hatch and ladder" Name="해치와 사다리가 있는 원자로"/>
+    <Elem NameU="Reinforced tank with mixer" Name="믹서가있는 강화 탱크"/>
+    <Elem NameU="Round reactor with legs" Name="다리가있는 원형 반응기"/>
+    <Elem NameU="Silo with spiral ladder" Name="나선형 사다리가 있는 사일로"/>
+    <Elem NameU="Silo with straight ladder" Name="직선 사다리가 있는 사일로"/>
+    <Elem NameU="Simple process tank" Name="처리 탱크"/>
+    <Elem NameU="Simple reactor" Name="반응기"/>
+    <Elem NameU="Simple tank 1" Name="탱크 1"/>
+    <Elem NameU="Simple tank 2" Name="탱크 2"/>
+    <Elem NameU="Simple tank 3" Name="탱크 3"/>
+    <Elem NameU="Simple tank 4" Name="탱크 4"/>
+    <Elem NameU="Simple tank 5" Name="탱크 5"/>
+    <Elem NameU="Simple tank system" Name="탱크 시스템"/>
+    <Elem NameU="Smooth silo" Name="부드러운 사일로"/>
+    <Elem NameU="Spherical tank" Name="구형 탱크"/>
+    <Elem NameU="Spherical tank with rivets" Name="리벳이있는 구형 탱크"/>
+    <Elem NameU="Stabilization tank" Name="안정화 탱크"/>
+    <Elem NameU="Stainless steel cylinder" Name="스테인리스 실린더"/>
+    <Elem NameU="Storage facility 1" Name="저장 장비 1"/>
+    <Elem NameU="Storage facility 2" Name="저장 장비 2"/>
+    <Elem NameU="Storage facility 3" Name="저장 장비 3"/>
+    <Elem NameU="Storage facility 4" Name="저장 장비 4"/>
+    <Elem NameU="Storage tank with ladder" Name="사다리가 있는 탱크"/>
+    <Elem NameU="Storage tank" Name="탱크"/>
+    <Elem NameU="Tank 1" Name="탱크 1"/>
+    <Elem NameU="Tank 2" Name="탱크 2"/>
+    <Elem NameU="Tank 3" Name="탱크 3"/>
+    <Elem NameU="Tank 4" Name="탱크 4"/>
+    <Elem NameU="Tank 5" Name="탱크 5"/>
+    <Elem NameU="Tank 6" Name="탱크 6"/>
+    <Elem NameU="Tank 7" Name="탱크 7"/>
+    <Elem NameU="Tank 8" Name="탱크 8"/>
+    <Elem NameU="Tank 9" Name="탱크 9"/>
+    <Elem NameU="Tank 10" Name="탱크 10"/>
+    <Elem NameU="Tank 11" Name="탱크 11"/>
+    <Elem NameU="Tank 12" Name="탱크 12"/>
+    <Elem NameU="Tank 13" Name="탱크 13"/>
+    <Elem NameU="Tank 14" Name="탱크 14"/>
+    <Elem NameU="Tank 15" Name="탱크 15"/>
+    <Elem NameU="Tank 16" Name="탱크 16"/>
+    <Elem NameU="Dosing Tank" Name="투약 탱크"/>
+    <Elem NameU="Tank bank" Name="탱크 그룹"/>
+    <Elem NameU="Tank support 1" Name="탱크 지원 1"/>
+    <Elem NameU="Tank support 2" Name="탱크 지원 2"/>
+    <Elem NameU="Tank with cutaway" Name="도려낸 탱크"/>
+    <Elem NameU="Tank with hatch" Name="해치 있는 탱크"/>
+    <Elem NameU="Tank with rivets" Name="리벳 있는 탱크"/>
+    <Elem NameU="Tank with rivets and ladder" Name="리벳과 사다리가 있는 탱크"/>
+    <Elem NameU="Underground storage tank" Name="지하 탱크"/>
+    <Elem NameU="Very smooth tank" Name="매우 부드러운 탱크"/>
+    <Elem NameU="Domestic hot water storage tank" Name="가정용 온수 저장 탱크"/>
+    <Elem NameU="Digestion Reaction Tank" Name="소화 반응 탱크"/>
+    <Elem NameU="Ethanol storage" Name="에탄올 저장"/>
+    <Elem NameU="Temporary storage tank" Name="임시 저장 탱크"/>
+    <Elem NameU="The original water tank" Name="기본 물 탱크"/>
+    <Elem NameU="Insulation cans" Name="단열캔"/>
+    <Elem NameU="Product" Name="제품"/>
+</Lib>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Lights">
+    <Elem NameU="Light1- green" Name="라이트1- 녹색"/>
+    <Elem NameU="Light1- orange" Name="라이트1- 오렌지색"/>
+    <Elem NameU="Light1- red" Name="라이트1- 빨간색"/>
+    <Elem NameU="Light2- green" Name="라이트2- 녹색"/>
+    <Elem NameU="Light2- orange" Name="라이트2- 오렌지색"/>
+    <Elem NameU="Light2- red" Name="라이트2- 빨간색"/>
+    <Elem NameU="Light3- green" Name="라이트3- 녹색"/>
+    <Elem NameU="Light3- red" Name="라이트3- 빨간색"/>
+    <Elem NameU="Light3- yellow" Name="라이트3- 노란색"/>
+    <Elem NameU="Light4- green" Name="라이트4- 녹색"/>
+    <Elem NameU="Light4- red" Name="라이트4- 빨간색"/>
+    <Elem NameU="Light4- yellow" Name="라이트4- 노란색"/>
+    <Elem NameU="Light5- green" Name="라이트5- 녹색"/>
+    <Elem NameU="Light5- orange" Name="라이트5- 오렌지색"/>
+    <Elem NameU="Light5- red" Name="라이트5- 빨간색"/>
+    <Elem NameU="Light6- green" Name="라이트6- 녹색"/>
+    <Elem NameU="Light6- red" Name="라이트6- 빨간색"/>
+    <Elem NameU="Light6- yellow" Name="라이트6- 노란색"/>
+    <Elem NameU="Light7- green" Name="라이트7- 녹색"/>
+    <Elem NameU="Light7- orange" Name="라이트7- 오렌지색"/>
+    <Elem NameU="Light7- red" Name="라이트7- 빨간색"/>
+    <Elem NameU="Light8- green" Name="라이트8- 녹색"/>
+    <Elem NameU="Light8- red" Name="라이트8- 빨간색"/>
+    <Elem NameU="Light8- yellow" Name="라이트8- 노란색"/>
+    <Elem NameU="Light9- green" Name="라이트9- 녹색"/>
+    <Elem NameU="Light9- red" Name="라이트9- 빨간색"/>
+    <Elem NameU="Light9- yellow" Name="라이트9- 노란색"/>
+    <Elem NameU="Light10- green" Name="라이트10- 녹색"/>
+    <Elem NameU="Light10- red" Name="라이트10- 빨간색"/>
+    <Elem NameU="Light10- yellow" Name="라이트10- 노란색"/>
+    <Elem NameU="Light11- green" Name="라이트11- 녹색"/>
+    <Elem NameU="Light11- red" Name="라이트11- 빨간색"/>
+    <Elem NameU="Light11- yellow" Name="라이트11- 노란색"/>
+    <Elem NameU="Light12- green" Name="라이트12- 녹색"/>
+    <Elem NameU="Light12- red" Name="라이트12- 빨간색"/>
+    <Elem NameU="Light12- yellow" Name="라이트12- 노란색"/>
+</Lib>

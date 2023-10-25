@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Building">
+
+<Elem Name="Café " NameU="Cafe"/>
+
+<Elem Name="Villa" NameU="Villa"/>
+
+<Elem Name="Krankenhaus" NameU="Hospital"/>
+
+<Elem Name="Gas" NameU="Gas"/>
+
+<Elem Name="Hotel" NameU="Hotel"/>
+
+<Elem Name="Blumenladen" NameU="Flower Shop"/>
+
+<Elem Name="Kirche" NameU="Church"/>
+
+<Elem Name="Strand Villa" NameU="Beach Villa"/>
+
+<Elem Name="Schloss" NameU="Castle"/>
+
+<Elem Name="Postamt" NameU="Post Office"/>
+
+<Elem Name="Market" NameU="Market"/>
+
+<Elem Name="Zeitungskiosk" NameU="Newsstand"/>
+
+<Elem Name="Konditorei" NameU="Cake Shop"/>
+
+<Elem Name="Fabrik" NameU="Factory"/>
+
+<Elem Name="Bank" NameU="Bank"/>
+
+<Elem Name="Bekleidungsgeschäft" NameU="Clothing Store"/>
+
+<Elem Name="Fitnessstudio" NameU="Gym"/>
+
+<Elem Name="Turnhalle" NameU="School"/>
+
+<Elem Name="Wohnung" NameU="Apartment"/>
+
+<Elem Name="Pflegeheim" NameU="Nursing Home"/>
+
+<Elem Name="Gebäude" NameU="Building"/>
+
+<Elem Name="Buchhandlung" NameU="Bookstore"/>
+
+<Elem Name="Bibliothek" NameU="Library"/>
+
+<Elem Name="Polizeistation" NameU="Police Station"/>
+
+<Elem Name="Museum" NameU="Museum"/>
+
+<Elem Name="Gastfamilie" NameU="Homestay"/>
+
+<Elem Name="Denkmal" NameU="Memorial"/>
+
+<Elem Name="Restaurant" NameU="Restaurant"/>
+
+<Elem Name="Bürogebäude" NameU="Office Building"/>
+
+</Lib>

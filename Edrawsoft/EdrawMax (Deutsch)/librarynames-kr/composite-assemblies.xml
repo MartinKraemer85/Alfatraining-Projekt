@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Composite Assemblies">
+    <Elem NameU="Gyro" Name="자이로"/>
+    <Elem NameU="Gyro 2" Name="자이로 2"/>
+    <Elem NameU="Amplifier" Name="증폭기"/>
+    <Elem NameU="Magnetic amplifier" Name="자기 테이프 증폭기"/>
+    <Elem NameU="Negative impedance both-way amp" Name="부정 임피던스 양방향 증폭기"/>
+    <Elem NameU="Amplifier with bypass" Name="측선이 있는 증폭기"/>
+    <Elem NameU="Amplifier external DC control" Name="외부 DC 제어 증폭기"/>
+    <Elem NameU="Rectifier" Name="정류기"/>
+    <Elem NameU="Controlled rectifier" Name="제어 정류기"/>
+    <Elem NameU="Bridge rectifier" Name="브리지형 정류기 그룹"/>
+    <Elem NameU="Proximity sensor" Name="근접 센서"/>
+    <Elem NameU="Touch sensor" Name="터치 센서"/>
+    <Elem NameU="1-way repeater" Name="단반향 리피터"/>
+    <Elem NameU="2-way repeater" Name="양방향 리피터"/>
+    <Elem NameU="2-way repeater bypass" Name="측선이 있는 양방향 리피터"/>
+    <Elem NameU="2-way repeater 4-wire" Name="양방향, 4선 리피터"/>
+    <Elem NameU="Network low voltage" Name="네트워크 저전압"/>
+    <Elem NameU="Phase shifter" Name="위상 변환기"/>
+    <Elem NameU="Chopper" Name="초퍼"/>
+    <Elem NameU="Demodulator" Name="복조기"/>
+    <Elem NameU="Generator" Name="발전기"/>
+    <Elem NameU="Position indicator synchro" Name="동기형 위치 표시기"/>
+    <Elem NameU="Position indicator inductor" Name="유도자형 위치 표시기"/>
+    <Elem NameU="Position transmitter inductor" Name="유도자형 위치 송신기"/>
+    <Elem NameU="Position transmitter Desynn" Name="DC 동기형 위치 송신기"/>
+    <Elem NameU="Fire ext. actuator" Name="소화기 발동기"/>
+    <Elem NameU="Fire ext. double" Name="소화기, 이중"/>
+    <Elem NameU="Converter" Name="컨버터"/>
+    <Elem NameU="Inverter" Name="인버터"/>
+    <Elem NameU="Rectifier inverter" Name="정류기 인버터"/>
+    <Elem NameU="Rectifier bridge" Name="브리지형 정류기"/>
+    <Elem NameU="Galvanic separator" Name="갈바닉 분리기"/>
+    <Elem NameU="Combustion heat source" Name="연소 열 소스"/>
+    <Elem NameU="Heat source" Name="열 소스"/>
+    <Elem NameU="Radioisotope heat source" Name="방사성 동위 원소 열 소스"/>
+    <Elem NameU="Thermoelectric generator" Name="열전 발전기"/>
+</Lib>

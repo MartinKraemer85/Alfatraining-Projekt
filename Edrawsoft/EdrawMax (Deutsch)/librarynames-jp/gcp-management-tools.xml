@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="GCP Management Tools">
+
+<Elem Name="管理ツール" NameU="Management Tools"/>
+
+<Elem Name="クラウドポイント" NameU="Cloud point"/>
+
+<Elem Name="Debugger" NameU="Debugger"/>
+
+<Elem Name="エラーレポート" NameU="Error report"/>
+
+<Elem Name="ログイン" NameU="Log in"/>
+
+<Elem Name="Stackdriver" NameU="Stackdriver"/>
+
+<Elem Name="追跡" NameU="Track"/>
+
+</Lib>

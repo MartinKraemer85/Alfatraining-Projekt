@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Fire and Emergency">
+	<Elem NameU="Slide Door Left" Name="Porta Scorrevole a Sinistra"/>
+	<Elem NameU="Slide Door Right" Name="Porta Scorrevole a Destra"/>
+	<Elem NameU="Fire Break Glass" Name="Vetro antincendio"/>
+	<Elem NameU="Emergency Ambulance" Name="Ambulanza di Emergenza"/>
+	<Elem NameU="Emergency Access" Name="Accesso di Emergenza"/>
+	<Elem NameU="Emergency Exit" Name="Uscita di Emergenza"/>
+	<Elem NameU="Use Stairs in Fire" Name="Usare Scale in Caso di Incendio"/>
+	<Elem NameU="Use Stairs" Name="Usare Scale"/>
+	<Elem NameU="Fire Ladder" Name="Scala Antincendio"/>
+	<Elem NameU="Handicap Accessible" Name="Accessibilità per Disabili"/>
+	<Elem NameU="Arrow" Name="Freccia"/>
+	<Elem NameU="Indicating Arrow" Name="Freccia di Indicazione"/>
+	<Elem NameU="Assembly Point" Name="Punto di Raccolta"/>
+	<Elem NameU="Refuge Area" Name="Area di Rifugio"/>
+	<Elem NameU="You are Here" Name="Siete Qui"/>
+	<Elem NameU="Fire Extinguisher" Name="Estintore"/>
+	<Elem NameU="Fire Hydrant" Name="Idrante"/>
+	<Elem NameU="Emergency Phone" Name="Telefono di Emergenza"/>
+	<Elem NameU="Call 911" Name="Chiamare 911"/>
+	<Elem NameU="Fire Alarm Call Point" Name="Punto di Chiamata Allarme Antincendio"/>
+	<Elem NameU="Fire Hose" Name="Pompa antincendio"/>
+	<Elem NameU="Gas Shutoff Valve" Name="Valvola di Chiusura"/>
+	<Elem NameU="Automatic Sprinkler Control Valve" Name="Valvola di Controllo Irrigatore Automatico"/>
+	<Elem NameU="Automatic Sprinkler Connection" Name="Connessione Irrigatore Automatico"/>
+	<Elem NameU="Single Automatic Sprinkler Connection" Name="Connessione Singola Irrigatore Automatico"/>
+	<Elem NameU="Combined Automatic Sprinkler/Standpipe Connection" Name="Connessione Combinata Irrigatore Automatico/Idrante"/>
+	<Elem NameU="Standpipe Connection" Name="Connessione Idrante"/>
+	<Elem NameU="Fire Axe" Name="Ascia Antincendio"/>
+	<Elem NameU="Fire Fighting Equipment" Name="Equipaggiamento Antincendio"/>
+	<Elem NameU="Alarm" Name="Allarme"/>
+	<Elem NameU="Fire Alarm" Name="Allarme Antincendio"/>
+	<Elem NameU="Manual activating Device" Name="Dispositivo ad attivazione Manuale"/>
+	<Elem NameU="Electric Panel Shutoff" Name="Chiusura Pannello Elettrico"/>
+	<Elem NameU="Child Care Center" Name="Centro per l'Infanzia"/>
+	<Elem NameU="Smoke Detector" Name="Rilevatore di Fumo"/>
+	<Elem NameU="Fire Sprinkler" Name="Irrigatore Antincendio"/>
+	<Elem NameU="Air Conditioning Vents" Name="Ventole Aria Condizionata"/>
+	<Elem NameU="Vents" Name="Ventilazione"/>
+	<Elem NameU="Not an Exit" Name="Questa Non è un'Uscita"/>
+	<Elem NameU="Don't Go Back" Name="Non Tornare Indietro"/>
+	<Elem NameU="Don't use the Elevator" Name="Non Usare l'Ascensore"/>
+	<Elem NameU="No Fire" Name="Vietato Accendere Fuochi"/>
+	<Elem NameU="No Smoking" Name="Vietato Fumare"/>
+	<Elem NameU="No Cooking" Name="Vietato Cucinare"/>
+	<Elem NameU="Radiation Hazard" Name="Pericolo Radiazioni"/>
+	<Elem NameU="Non-ionising Radiation" Name="Radiazione Non-ionizzante"/>
+	<Elem NameU="Explosives" Name="Esplosivi"/>
+	<Elem NameU="Toxic Gas" Name="Gas Tossici"/>
+	<Elem NameU="Medical Waste" Name="Rifiuti Sanitari"/>
+	<Elem NameU="Flammable Material" Name="Materiale Infiammabile"/>
+	<Elem NameU="Comburent" Name="Comburente"/>
+	<Elem NameU="Dangerous Chemical" Name="Sostanze Chimiche Pericolose"/>
+	<Elem NameU="Corrosive Material" Name="Materiale Corrosivo"/>
+	<Elem NameU="Noise" Name="Inquinamento Acustico"/>
+	<Elem NameU="Be Careful Suffocation" Name="Attenzione - Pericolo Soffocamento"/>
+	<Elem NameU="Harmful Goods" Name="Merci Pericolose"/>
+	<Elem NameU="Chemical Weapon" Name="Arma Chimica"/>
+	<Elem NameU="Warning Sign" Name="Segnale di Pericolo"/>
+	<Elem NameU="High Voltage Sign" Name="Segnale Alto Voltaggio"/>
+	<Elem NameU="Laser Hazzard Sign" Name="Segnale Pericolo Laser"/>
+	<Elem NameU="Radiation Danger" Name="Pericolo Radiazioni"/>
+</Lib>

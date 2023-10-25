@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Bar Chart">
+	<Elem NameU="Single Bar Chart" Name="単一棒グラフ"/>
+	<Elem NameU="Percentage Bar Chart" Name="パーセンテージ棒グラフ"/>
+	<Elem NameU="Simple Bar Chart" Name="シンプルな棒グラフ"/>
+	<Elem NameU="Gradient Bar Chart" Name="グラデーション横グラフ"/>
+	<Elem NameU="Single Series Bar Chart" Name="単一シリーズ棒グラフ"/>
+	<Elem NameU="Bar Chart" Name="棒グラフ"/>
+	<Elem NameU="Bar Chart 2" Name="棒グラフ2"/>
+	<Elem NameU="Stacked Bar Chart" Name="積み上げ棒グラフ"/>
+	<Elem NameU="Stacked Bar Chart 2" Name="積み上げ棒グラフ2"/>
+	<Elem NameU="Gradient Stacked Bar Chart" Name="グラデーション積み上げ棒グラフ"/>
+	<Elem NameU="Percentage Stacked Bar Chart" Name="積み上げ棒グラフのパーセンテージ"/>
+	<Elem NameU="Percentage Stacked Bar Chart 2" Name="積み上げ棒グラフのパーセンテージ 2"/>
+	<Elem NameU="Percentage Stacked Bar Chart 3" Name="積み上げ棒グラフのパーセンテージ 3"/>
+</Lib>

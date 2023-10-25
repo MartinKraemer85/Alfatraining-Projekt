@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ThemeTexts Version="8.0">
+    <ThemeText VAlign="Center" Name="MS Gothic" ID="1">
+        <Character IX="0" Family="MS Gothic" Color="#ffffff" Size="12"/>
+        <Paragraph IndLeft="0" IndFirst="0" IndRight="0" SpLine="100" Align="4" IX="0"/>
+        <FontSchemeLst>
+            <FontScheme Flag="0" FontSize="12" FontName="MS Gothic"/>
+            <FontScheme Flag="0" FontSize="12" FontName="MS Gothic"/>
+            <FontScheme Flag="0" FontSize="12" FontName="MS Gothic"/>
+            <FontScheme Flag="0" FontSize="12" FontName="MS Gothic"/>
+            <FontScheme Flag="0" FontSize="12" FontName="MS Gothic"/>
+            <FontScheme Flag="1" FontSize="13" FontName="MS Gothic"/>
+            <FontScheme Flag="0" FontSize="12" FontName="MS Gothic"/>
+            <FontScheme Flag="0" FontSize="12" FontName="MS Gothic"/>
+        </FontSchemeLst>
+    </ThemeText>
+    <ThemeText VAlign="Center" Name="MS PGothic" ID="2">
+        <Character IX="0" Family="MS PGothic" Color="#ffffff" Size="12"/>
+        <Paragraph IndLeft="0" IndFirst="0" IndRight="0" SpLine="100" Align="4" IX="0"/>
+        <FontSchemeLst>
+            <FontScheme Flag="0" FontSize="12" FontName="MS PGothic"/>
+            <FontScheme Flag="0" FontSize="12" FontName="MS PGothic"/>
+            <FontScheme Flag="0" FontSize="12" FontName="MS PGothic"/>
+            <FontScheme Flag="0" FontSize="12" FontName="MS PGothic"/>
+            <FontScheme Flag="0" FontSize="12" FontName="MS PGothic"/>
+            <FontScheme Flag="1" FontSize="13" FontName="MS PGothic"/>
+            <FontScheme Flag="0" FontSize="12" FontName="MS PGothic"/>
+            <FontScheme Flag="0" FontSize="12" FontName="MS PGothic"/>
+        </FontSchemeLst>
+    </ThemeText>
+    <ThemeText VAlign="Center" Name="MS Mincho" ID="3">
+        <Character IX="0" Family="MS Mincho" Color="#ffffff" Size="12"/>
+        <Paragraph IndLeft="0" IndFirst="0" IndRight="0" SpLine="100" Align="4" IX="0"/>
+        <FontSchemeLst>
+            <FontScheme Flag="0" FontSize="12" FontName="MS Mincho"/>
+            <FontScheme Flag="0" FontSize="12" FontName="MS Mincho"/>
+            <FontScheme Flag="0" FontSize="12" FontName="MS Mincho"/>
+            <FontScheme Flag="0" FontSize="12" FontName="MS Mincho"/>
+            <FontScheme Flag="0" FontSize="12" FontName="MS Mincho"/>
+            <FontScheme Flag="1" FontSize="12" FontName="MS Mincho"/>
+            <FontScheme Flag="0" FontSize="12" FontName="MS Mincho"/>
+            <FontScheme Flag="0" FontSize="12" FontName="MS Mincho"/>
+        </FontSchemeLst>
+    </ThemeText>
+    <ThemeText VAlign="Center" Name="MS PMincho" ID="4">
+        <Character IX="0" Family="MS PMincho" Color="#000000" Size="12"/>
+        <Paragraph IndLeft="0" IndFirst="0" IndRight="0" SpLine="100" Align="4" IX="0"/>
+        <FontSchemeLst>
+            <FontScheme Flag="0" FontSize="12" FontName="MS PMincho"/>
+            <FontScheme Flag="0" FontSize="12" FontName="MS PMincho"/>
+            <FontScheme Flag="0" FontSize="12" FontName="MS PMincho"/>
+            <FontScheme Flag="0" FontSize="12" FontName="MS PMincho"/>
+            <FontScheme Flag="0" FontSize="12" FontName="MS PMincho"/>
+            <FontScheme Flag="0" FontSize="12" FontName="MS PMincho"/>
+            <FontScheme Flag="0" FontSize="12" FontName="MS PMincho"/>
+            <FontScheme Flag="0" FontSize="12" FontName="MS PMincho"/>
+        </FontSchemeLst>
+    </ThemeText>
+    <ThemeText VAlign="Center" Name="MS Sans Serif" ID="5">
+        <Character IX="0" Family="MS Sans Serif" Color="#000000" Size="12"/>
+        <Paragraph IndLeft="0" IndFirst="0" IndRight="0" SpLine="100" Align="4" IX="0"/>
+        <FontSchemeLst>
+            <FontScheme Flag="0" FontSize="12" FontName="MS Sans Serif"/>
+            <FontScheme Flag="0" FontSize="12" FontName="MS Sans Serif"/>
+            <FontScheme Flag="0" FontSize="12" FontName="MS Sans Serif"/>
+            <FontScheme Flag="0" FontSize="12" FontName="MS Sans Serif"/>
+            <FontScheme Flag="0" FontSize="12" FontName="MS Sans Serif"/>
+            <FontScheme Flag="0" FontSize="12" FontName="MS Sans Serif"/>
+            <FontScheme Flag="0" FontSize="12" FontName="MS Sans Serif"/>
+            <FontScheme Flag="0" FontSize="12" FontName="MS Sans Serif"/>
+        </FontSchemeLst>
+    </ThemeText>
+    <ThemeText VAlign="Center" Name="Arial" ID="6">
+        <Character IX="0" Family="Arial" Color="#000000" Size="12"/>
+        <Paragraph IndLeft="0" IndFirst="0" IndRight="0" SpLine="100" Align="4" IX="0"/>
+        <FontSchemeLst>
+            <FontScheme Flag="0" FontSize="12" FontName="Arial"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Arial"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Arial"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Arial"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Arial"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Arial"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Arial"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Arial"/>
+        </FontSchemeLst>
+    </ThemeText>
+    <ThemeText VAlign="Center" Name="Mincho" ID="7">
+        <Character IX="0" Family="Mincho" Color="#000000" Size="12"/>
+        <Paragraph IndLeft="0" IndFirst="0" IndRight="0" SpLine="100" Align="4" IX="0"/>
+        <FontSchemeLst>
+            <FontScheme Flag="0" FontSize="12" FontName="Mincho"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Mincho"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Mincho"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Mincho"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Mincho"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Mincho"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Mincho"/>
+            <FontScheme Flag="0" FontSize="12" FontName="Mincho"/>
+        </FontSchemeLst>
+    </ThemeText>
+    <ThemeText VAlign="Center" Name="MS PGothic Bold" ID="8">
+        <Character IX="0" Family="MS PGothic" Color="#ffffff" Size="10"/>
+        <Paragraph IndLeft="0" IndFirst="0" IndRight="0" SpLine="100" Align="4" IX="0"/>
+        <FontSchemeLst>
+            <FontScheme Flag="1" FontSize="10" FontName="MS PGothic"/>
+            <FontScheme Flag="1" FontSize="10" FontName="MS PGothic"/>
+            <FontScheme Flag="1" FontSize="10" FontName="MS PGothic"/>
+            <FontScheme Flag="1" FontSize="10" FontName="MS PGothic"/>
+            <FontScheme Flag="1" FontSize="10" FontName="MS PGothic"/>
+            <FontScheme Flag="1" FontSize="10" FontName="MS PGothic"/>
+            <FontScheme Flag="0" FontSize="10" FontName="MS PGothic"/>
+            <FontScheme Flag="1" FontSize="10" FontName="MS PGothic"/>
+        </FontSchemeLst>
+    </ThemeText>
+</ThemeTexts>

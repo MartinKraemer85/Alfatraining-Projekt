@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Fruit">
+	<Elem NameU="Apple 1" Name="Maçã 1"/>
+	<Elem NameU="Apple 2" Name="Maçã 2"/>
+	<Elem NameU="Apple 3" Name="Maçã 3"/>
+	<Elem NameU="Avocado" Name="Abacate"/>
+	<Elem NameU="Banana 1" Name="Banana 1"/>
+	<Elem NameU="Banana 2" Name="Banana 2"/>
+	<Elem NameU="Banana 3" Name="Banana 3"/>
+	<Elem NameU="Blueberry" Name="Mirtilo"/>
+	<Elem NameU="Cantaloupe" Name="Meloa"/>
+	<Elem NameU="Carambola 1" Name="Carambola 1"/>
+	<Elem NameU="Carambola 2" Name="Carambola 2"/>
+	<Elem NameU="Cherry 1" Name="Cereja 1"/>
+	<Elem NameU="Cherry 2" Name="Cereja 2"/>
+	<Elem NameU="Coconut" Name="Coco"/>
+	<Elem NameU="Durian" Name="Durião"/>
+	<Elem NameU="Guava" Name="Goiaba"/>
+	<Elem NameU="Grape" Name="Uva"/>
+	<Elem NameU="Kiwi Fruit" Name="Kiwi"/>
+	<Elem NameU="Leechee 1" Name="Lichia 1"/>
+	<Elem NameU="Leechee 2" Name="Lichia 2"/>
+	<Elem NameU="Lemon 1" Name="Limão 1"/>
+	<Elem NameU="Lemon 2" Name="Limão 2"/>
+	<Elem NameU="Loquat" Name="Nespereira"/>
+	<Elem NameU="Mango" Name="Manga"/>
+	<Elem NameU="Mangosteen" Name="Mangostão"/>
+	<Elem NameU="Orange" Name="Laranja"/>
+	<Elem NameU="Pawpaw" Name="Papaia"/>
+	<Elem NameU="Peach 1" Name="Pêssego 1"/>
+	<Elem NameU="Peach 2" Name="Pêssego 2"/>
+	<Elem NameU="Pear" Name="Pêra"/>
+	<Elem NameU="Pear 2" Name="Pêra 2"/>
+	<Elem NameU="Persimmon 1" Name="Dióspiro"/>
+	<Elem NameU="Tomato" Name="Tomate"/>
+	<Elem NameU="Pineapple 1" Name="Ananás 1"/>
+	<Elem NameU="Pineapple 2" Name="Ananás 2"/>
+	<Elem NameU="Pitaya Fruit" Name="Pitaia"/>
+	<Elem NameU="Pomegranate" Name="Romã"/>
+	<Elem NameU="Raspberry" Name="Framboesa"/>
+	<Elem NameU="Shaddock" Name="Pomelo"/>
+	<Elem NameU="Strawberry 1" Name="Morango 1"/>
+	<Elem NameU="Strawberry 2" Name="Morango 2"/>
+	<Elem NameU="Watermelon 1" Name="Melancia 1"/>
+	<Elem NameU="Watermelon 2" Name="Melancia 2"/>
+	<Elem NameU="Watermelon 3" Name="Melancia 3"/>
+</Lib>

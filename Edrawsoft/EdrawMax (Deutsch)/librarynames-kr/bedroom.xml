@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Bedroom">
+    <Elem NameU="Single bed" Number="6" Name="싱글침대"/>
+    <Elem NameU="Adjustable bed" Number="2" Name="조절 가능한 침대"/>
+    <Elem NameU="Double bed" Number="7" Name="더블 침대"/>
+    <Elem NameU="Single trundle bed" Number="2" Name="싱글 트런들 침대"/>
+    <Elem NameU="Bunk bed" Number="2" Name="이층 침대"/>
+    <Elem NameU="Crib" Name="어린이 침대"/>
+    <Elem NameU="Bassinet" Name="요람"/>
+    <Elem NameU="Vanity table" Name="화장대"/>
+    <Elem NameU="Night stand" Name="나이트 스탠드"/>
+    <Elem NameU="Circular bed" Number="4" Name="원형 침대"/>
+    <Elem NameU="Circular carpet" Name="원형 카펫"/>
+    <Elem NameU="Carpet" Number="2" Name="카펫"/>
+    <Elem NameU="Bedside cabinet" Name="침대 옆 캐비닛"/>
+    <Elem NameU="Rectangle table" Name="직사각형 테이블"/>
+    <Elem NameU="Large plant" Number="2" Name="큰 식물"/>
+    <Elem NameU="Small plant" Name="작은 식물"/>
+    <Elem NameU="House plant" Number="2" Name="실내 화분"/>
+    <Elem NameU="Flat-panel TV" Name="평면 TV"/>
+    <Elem NameU="Spinet piano" Name="스피넷 피아노"/>
+    <Elem NameU="Bookcase" Name="책장"/>
+    <Elem NameU="Pillow" Name="베개"/>
+    <Elem NameU="Chest" Name="옷장"/>
+    <Elem NameU="Double dresser" Name="더블 화장대"/>
+    <Elem NameU="Tripper dresser" Name="3인 화장대"/>
+    <Elem NameU="Cabinet" Number="2" Name="캐비닛"/>
+    <Elem NameU="Wardrobe" Number="2" Name="옷장"/>
+    <Elem NameU="Shoe cabinet" Number="2" Name="신발 캐비닛"/>
+</Lib>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Azure Microsoft Products">
+    <Elem NameU="Access" Name="软件Access"/>
+    <Elem NameU="Excel" Name="软件Excel"/>
+    <Elem NameU="Exchange" Name="软件Exchange"/>
+    <Elem NameU="Lync" Name="软件Lync"/>
+    <Elem NameU="Outlook" Name="软件Outlook"/>
+    <Elem NameU="PowerApps" Name="软件PowerApps"/>
+    <Elem NameU="PowerPoint" Name="软件PowerPoint"/>
+    <Elem NameU="Sharepoint" Name="软件Sharepoint"/>
+    <Elem NameU="Visio" Name="软件Visio"/>
+    <Elem NameU="Word" Name="软件Word"/>
+    <Elem NameU="Cortana Blue" Name="软件Cortana Blue"/>
+    <Elem NameU="BI Product" Name="软件BI Product"/>
+</Lib>

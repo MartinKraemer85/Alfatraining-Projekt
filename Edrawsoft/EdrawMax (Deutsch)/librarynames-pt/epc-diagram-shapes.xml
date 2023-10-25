@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="EPC Diagram Shapes">
+	<Elem NameU="Event" Name="Evento"/>
+	<Elem NameU="Function" Name="Função"/>
+	<Elem NameU="Process Path" Name="Caminho de Processo"/>
+	<Elem NameU="XOR" Name="XOR"/>
+	<Elem NameU="OR" Name="OU"/>
+	<Elem NameU="AND" Name="E"/>
+	<Elem NameU="Joint" Name="Junção"/>
+	<Elem NameU="Yes/No" Name="Sim/Não"/>
+	<Elem NameU="Organizational Unit" Name="Unidade Organizacional"/>
+	<Elem NameU="Informational or Material" Name="Informacional ou Material"/>
+	<Elem NameU="Information Box" Name="Caixa de Informação"/>
+	<Elem NameU="Main Process" Name="Processo Principal"/>
+	<Elem NameU="Component" Name="Componente"/>
+	<Elem NameU="Enterprise Area" Name="Área de Empreendimento"/>
+	<Elem NameU="Process Group" Name="Grupo de Processo"/>
+	<Elem NameU="Document" Name="Documento"/>
+	<Elem NameU="Database" Name="Base de Dados"/>
+	<Elem NameU="Curve Connector" Name="Conector em Curva"/>
+</Lib>

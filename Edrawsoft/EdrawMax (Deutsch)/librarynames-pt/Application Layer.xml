@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Application Layer">
+	<Elem NameU="Application Collaboration" Name="Colaboração de app"/>
+	<Elem NameU="Application Component" Name="Componente de app"/>
+	<Elem NameU="Application Service" Name="Serviço de app"/>
+	<Elem NameU="Application Function" Name="Função de app"/>
+	<Elem NameU="Application Interaction" Name="Interação de app"/>
+	<Elem NameU="Application Interface" Name="Interface de app"/>
+	<Elem NameU="Application Process" Name="Processo de app"/>
+	<Elem NameU="Application Event" Name="Evento de app"/>
+	<Elem NameU="Data Object" Name="Objeto de dados"/>
+</Lib>     

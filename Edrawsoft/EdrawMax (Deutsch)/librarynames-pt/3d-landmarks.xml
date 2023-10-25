@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="3D Landmarks">
+	<Elem NameU="North" Name="Norte"/>
+	<Elem NameU="Direction" Name="Direção"/>
+	<Elem NameU="Airport" Name="Aeroporto"/>
+	<Elem NameU="Apartment" Name="Apartamento"/>
+	<Elem NameU="Bank" Name="Banco"/>
+	<Elem NameU="Bridge" Name="Ponte"/>
+	<Elem NameU="Building" Name="Edifício"/>
+	<Elem NameU="City" Name="Cidade"/>
+	<Elem NameU="City 2" Name="Cidade 2"/>
+	<Elem NameU="Church" Name="Igreja"/>
+	<Elem NameU="Convenience Store" Name="Loja de Conveniência"/>
+	<Elem NameU="Factory" Name="Fábrica"/>
+	<Elem NameU="Factory 2" Name="Fábrica 2"/>
+	<Elem NameU="Fire Department" Name="Bombeiros"/>
+	<Elem NameU="Gas Station" Name="Posto de Abastecimento"/>
+	<Elem NameU="Hospital" Name="Hospital"/>
+	<Elem NameU="Hotel" Name="Hotel"/>
+	<Elem NameU="Motel" Name="Motel"/>
+	<Elem NameU="Office Building" Name="Edifício de Escritórios"/>
+	<Elem NameU="Office Building 2" Name="Edifício de Escritórios 2"/>
+	<Elem NameU="Police Office" Name="Posto de Polícia"/>
+	<Elem NameU="School" Name="Escola"/>
+	<Elem NameU="Skyscraper" Name="Arranha-céus"/>
+	<Elem NameU="Small House" Name="Casa Pequena"/>
+	<Elem NameU="Suburban Home" Name="Casa Suburbana"/>
+	<Elem NameU="Supermarket" Name="Supermercado"/>
+	<Elem NameU="Stadium" Name="Estádio"/>
+	<Elem NameU="Town Hall" Name="Prefeitura"/>
+	<Elem NameU="Town House" Name="Moradia"/>
+	<Elem NameU="Train Station" Name="Estação de comboios"/>
+	<Elem NameU="Warehouse" Name="Armazém"/>
+	<Elem NameU="Wharf" Name="Cais"/>
+	<Elem NameU="Park" Name="Parque"/>
+	<Elem NameU="River" Name="Rio"/>
+	<Elem NameU="Lake" Name="Lago"/>
+	<Elem NameU="Ocean" Name="Oceano"/>
+	<Elem NameU="Tree" Name="Árvore"/>
+	<Elem NameU="Tree 2" Name="Árvore 2"/>
+	<Elem NameU="Stop Light" Name="Semáforo"/>
+	<Elem NameU="Scale" Name="Escala"/>
+	<Elem NameU="Scale 2" Name="Escala 2"/>
+	<Elem NameU="Callout" Name="Chamada"/>
+</Lib>

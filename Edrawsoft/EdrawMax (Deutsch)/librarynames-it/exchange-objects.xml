@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Exchange Objects">
+	<Elem NameU="Exchange Organization" Name="Organizzazione di Scambio"/>
+	<Elem NameU="Massage Formats" Name="Formati di Messaggio"/>
+	<Elem NameU="Exchange Servers" Name="Server di Scambio"/>
+	<Elem NameU="Exchange Server" Name="Server di Scambio"/>
+	<Elem NameU="Public Folders" Name="Cartelle Pubbliche"/>
+	<Elem NameU="Storage Group" Name="Gruppo di Archiviazione"/>
+	<Elem NameU="Recipient Update Service" Name="Servizio di Aggiornamento Ricevente"/>
+	<Elem NameU="Recipient Policy" Name="Politica Ricevente"/>
+	<Elem NameU="Message Delivery" Name="Invio Messaggio"/>
+	<Elem NameU="POP virtual server" Name="Server virtuale POP"/>
+	<Elem NameU="Exchange Virtual Server" Name="Server Virtuale di Scambio"/>
+	<Elem NameU="Dialog" Name="Finestra di Dialogo"/>
+	<Elem NameU="HTTP Virtual Directory" Name="Directory Virtuale HTTP"/>
+	<Elem NameU="Public Store" Name="Archivio Pubblico"/>
+	<Elem NameU="Mailbox Store" Name="Archivio Casella di Posta"/>
+	<Elem NameU="IMAP Virtual Server" Name="Server Virtuale IMAP"/>
+	<Elem NameU="NNTP Virtual Server" Name="Server Virtuale NNTP"/>
+</Lib>

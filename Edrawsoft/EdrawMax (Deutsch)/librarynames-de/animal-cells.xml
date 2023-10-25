@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib nameU="Animal Cells">
+	<Elem NameU="Cell Structure" Name="Zellstruktur"/>
+	<Elem NameU="Paramecium" Name="Pantoffeltierchen"/>
+	<Elem NameU="Frog skin" Name="Froschhaut"/>
+	<Elem NameU="Squamous cell" Name="Plattenepithel"/>
+	<Elem NameU="Cell division" Name="Zellteilung"/>
+	<Elem NameU="Cell division1" Name="Zellteilung1"/>
+	<Elem NameU="Bacteria" Name="Bakterien"/>
+	<Elem NameU="cell membrane" Name="Zellmembran"/>
+	<Elem NameU="Eggs" Name="Eizelle"/>
+	<Elem NameU="Sperm" Name="Sperma"/>
+	<Elem NameU="Zygote" Name="Zygote"/>
+	<Elem NameU="Cell, animal_ An animal cell with inte" Name="Zelle, tierische _ eine Tierzelle mit inte"/>
+	<Elem NameU="Lactobacillus" Name="Milchsäurebazillus"/>
+	<Elem NameU="SARS" Name="SARS"/>
+	<Elem NameU="Tobacco mosaic virus" Name="Tabakmosaikvirus"/>
+	<Elem NameU="Adenovirus" Name="Adenoviren"/>
+	<Elem NameU="Coliphage" Name="Coliphagen"/>
+	<Elem NameU="Herpesvirus" Name="Herpesvirus"/>
+	<Elem NameU="Poxvirus" Name="Pockenviren"/>
+	<Elem NameU="Influenza virus" Name="Grippevirus"/>
+	<Elem NameU="AIDS" Name="AIDS"/>
+	<Elem NameU="Hepatitis B virus" Name="Hepatitis B-Virus"/>
+	<Elem NameU="Mumps" Name="Mumps"/>
+	<Elem NameU="Ebora" Name="Ebora"/>
+	<Elem NameU="Gastric cancer virus" Name="Magenkrebs-virus"/>
+</Lib>

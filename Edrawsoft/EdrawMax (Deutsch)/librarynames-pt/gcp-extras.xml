@@ -1,0 +1,27 @@
+<Lib NameU="GCP Extras">
+  <Elem NameU="Application Program" Name="Programa de Aplicação"/>
+  <Elem NameU="Blue hexagon" Name="Hexágono azul"/>
+  <Elem NameU="Cloud IoT core" Name="Núcleo IoT Cloud"/>
+  <Elem NameU="Cloud dataflow" Name="Fluxo de dados da Cloud"/>
+  <Elem NameU="Cloud data service" Name="Serviço de dados da Cloud"/>
+  <Elem NameU="Computational procedure" Name="Procedimento computacional"/>
+  <Elem NameU="Manager application" Name="Aplicação de gestor"/>
+  <Elem NameU="Forseti encryption" Name="Ecriptação de Forseti"/>
+  <Elem NameU="Forseti icons" Name="Ícones Forseti"/>
+  <Elem NameU="Genaral GCP" Name="GCP Geral"/>
+  <Elem NameU="Google cloud platform" Name="Plataforma da Cloud do Google"/>
+  <Elem NameU="GCP encryption" Name="Encriptação GCP"/>
+  <Elem NameU="Kubernetes icons" Name="Ícones Kubernetes"/>
+  <Elem NameU="Kubernetes" Name="Kubernetes"/>
+  <Elem NameU="Modifier autoscaling" Name="Escala automática de modificador"/>
+  <Elem NameU="Modifier Virtual custom program" Name="Programa personalizado virtual do modificador"/>
+  <Elem NameU="Modifier advanced CPU procedure" Name="Procedimento CPU avançado do modificador"/>
+  <Elem NameU="Modifier advanced memory procedure" Name="Procedimento de memória avançado do modificador"/>
+  <Elem NameU="Modifier used vm" Name="Vm utilizado do modificador"/>
+  <Elem NameU="Modifier share center procedure F1" Name="Procediento do centro de partilha do modificador F1"/>
+  <Elem NameU="Modifier share center procedure G1" Name="Procediento do centro de partilha do modificador G1"/>
+  <Elem NameU="Modifier standard procedure" Name="Procedimento padrão do modificador"/>
+  <Elem NameU="Modifier storage" Name="Armazenamento do modificador"/>
+  <Elem NameU="Prediction API" Name="API de Previsão"/>
+  <Elem NameU="TensorFlow Icon" Name="Ícone do TensorFlow"/>
+</Lib>

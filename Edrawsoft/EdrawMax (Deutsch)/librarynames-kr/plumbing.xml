@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Plumbing">
+    <Elem NameU="Boiler" Name="보일러"/>
+    <Elem NameU="Boiler 2" Name="보일러 2"/>
+    <Elem NameU="Heat exchanges" Name="열교환"/>
+    <Elem NameU="Heating / cooling coil" Name="가열/냉각 코일"/>
+    <Elem NameU="Pump" Name="펌프"/>
+    <Elem NameU="Pump 2" Name="펌프 2"/>
+    <Elem NameU="Heater /  cooler" Name="가열기 / 냉각기"/>
+    <Elem NameU="Heater / cooler horizontal" Name="가열기 / 냉각기 수평"/>
+    <Elem NameU="Radiator" Name="라디에이터"/>
+    <Elem NameU="Convector" Name="인버터"/>
+    <Elem NameU="Radiant panel" Name="방사 패널"/>
+    <Elem NameU="Radiant panel 2" Name="방사 패널 2"/>
+    <Elem NameU="Open tank" Name="열린 탱크"/>
+    <Elem NameU="Closed tank" Name="닫힌 탱크"/>
+    <Elem NameU="Water surface" Name="수면"/>
+    <Elem NameU="Pipe coils" Name="파이프 코일"/>
+    <Elem NameU="Sink" Name="싱크"/>
+    <Elem NameU="Basin" Name="대야"/>
+    <Elem NameU="Toilet" Name="화장실"/>
+    <Elem NameU="Bath" Name="욕조"/>
+    <Elem NameU="Basin (side)" Name="대야 （측면）"/>
+    <Elem NameU="Toilet (side)" Name="욕조（측면）"/>
+    <Elem NameU="Bath (side)" Name="욕조（측면）"/>
+    <Elem NameU="End view" Name="측면도"/>
+    <Elem NameU="Shower head" Name="샤워 헤드"/>
+    <Elem NameU="Towel rail" Name="수건 걸이"/>
+</Lib>

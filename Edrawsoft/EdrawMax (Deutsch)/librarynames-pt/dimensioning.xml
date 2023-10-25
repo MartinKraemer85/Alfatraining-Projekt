@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Dimensioning">
+	<Elem NameU="Horizontal" Name="Horizontal"/>
+	<Elem NameU="Vertical" Name="Vertical"/>
+	<Elem NameU="Aligned even" Name="Alinhado uniforme"/>
+	<Elem NameU="Aligned out even" Name="Alinhado fora uniforme"/>
+	<Elem NameU="Aligned uneven" Name="Alinhado desigual"/>
+	<Elem NameU="Aligned out uneven" Name="Alinhado fora desigual"/>
+	<Elem NameU="Multi-aligned even" Name="Multi-alinhado uniforme"/>
+	<Elem NameU="Horizontal outside" Name="Horizontal exterior"/>
+	<Elem NameU="Vertical outside" Name="Vertical exterior"/>
+	<Elem NameU="Arc radius" Name="Raio do arco"/>
+	<Elem NameU="Radius outside" Name="Raio exterior"/>
+	<Elem NameU="Radius" Name="Raio"/>
+	<Elem NameU="Diameter" Name="Diâmetro"/>
+	<Elem NameU="Diameter outside" Name="Diâmetro exterior"/>
+	<Elem NameU="Angle center" Name="Centro do ângulo"/>
+	<Elem NameU="Angle even" Name="Ângulo uniforme"/>
+	<Elem NameU="Angle uneven" Name="Ângulo desigual"/>
+	<Elem NameU="Angle outside" Name="Ângulo exterior"/>
+	<Elem NameU="Ordinate multi horizontal" Name="Ordenada multi horizontal"/>
+	<Elem NameU="Ordinate multi vertical" Name="Ordenada multi vertical"/>
+	<Elem NameU="Room measure" Name="Medida de sala"/>
+	<Elem NameU="Centerline" Name="Linha de centro"/>
+</Lib>

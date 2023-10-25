@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Animal Cells">
+	<Elem NameU="Cell Structure" Name="Estrutura Celular"/>
+	<Elem NameU="Paramecium" Name="Paramécio"/>
+	<Elem NameU="Frog skin" Name="Pele de sapo"/>
+	<Elem NameU="Squamous cell" Name="Célula escamosa"/>
+	<Elem NameU="Cell division" Name="Divisão celular"/>
+	<Elem NameU="Cell division1" Name="Divisão celular1"/>
+	<Elem NameU="Bacteria" Name="Bactéria"/>
+	<Elem NameU="cell membrane" Name="membrana celular"/>
+	<Elem NameU="Eggs" Name="Ovos"/>
+	<Elem NameU="Sperm" Name="Esperma"/>
+	<Elem NameU="Zygote" Name="Zigoto"/>
+	<Elem NameU="Cell, animal_ An animal cell with inte" Name="Célula, animal_ Uma célula animal com inte"/>
+	<Elem NameU="Lactobacillus" Name="Lactobacillus"/>
+	<Elem NameU="SARS" Name="SARS"/>
+	<Elem NameU="Tobacco mosaic virus" Name="Vírus do mosaico do tabaco"/>
+	<Elem NameU="Adenovirus" Name="Adenovírus"/>
+	<Elem NameU="Coliphage" Name="Colifagos"/>
+	<Elem NameU="Herpesvirus" Name="Vírus do Herpes"/>
+	<Elem NameU="Poxvirus" Name="Poxvirus"/>
+	<Elem NameU="Influenza virus" Name="Vírus influenza"/>
+	<Elem NameU="AIDS" Name="AIDS"/>
+	<Elem NameU="Hepatitis B virus" Name="Vírus da Hepatite B"/>
+	<Elem NameU="Mumps" Name="Caxumba"/>
+	<Elem NameU="Ebora" Name="Ebora"/>
+	<Elem NameU="Gastric cancer virus" Name="Vírus do Câncer Gástrico"/>
+</Lib>

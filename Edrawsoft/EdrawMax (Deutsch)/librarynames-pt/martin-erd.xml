@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Martin ERD">
+	<Elem NameU="Data entity" Name="Entidade de dados"/>
+	<Elem NameU="Activity entity" Name="Entidade de atividade"/>
+	<Elem NameU="Data item" Name="Item de dados"/>
+	<Elem NameU="Connection" Name="Conexão"/>
+	<Elem NameU="Event" Name="Evento"/>
+	<Elem NameU="Square loop" Name="Ciclo quadrado"/>
+	<Elem NameU="And/or branch" Name="Ramo e/ou"/>
+	<Elem NameU="Top to bottom" Name="Topo para fundo"/>
+	<Elem NameU="Side to top" Name="Lateral para topo"/>
+	<Elem NameU="Side to side" Name="Lateral para lateral"/>
+	<Elem NameU="One" Name="Um"/>
+	<Elem NameU="Many" Name="Muitos"/>
+	<Elem NameU="One or more" Name="Um ou mais"/>
+	<Elem NameU="Zero or one" Name="Zero ou um"/>
+	<Elem NameU="One or more 2" Name="Um ou mais 2"/>
+	<Elem NameU="Zero or more" Name="Zero ou mais"/>
+	<Elem NameU="One and only one" Name="Um e apenas um"/>
+	<Elem NameU="Zero or one 2" Name="Zero ou um 2"/>
+</Lib>

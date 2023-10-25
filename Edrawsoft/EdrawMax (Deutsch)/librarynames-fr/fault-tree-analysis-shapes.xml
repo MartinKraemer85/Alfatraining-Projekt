@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Fault Tree Analysis Shapes">
+
+<Elem Name="Opérateur ET" NameU="AND gate"/>
+
+<Elem Name="Opérateur OU" NameU="OR gate"/>
+
+<Elem Name="Opérateur d'inhibition" NameU="Inhibit gate"/>
+
+<Elem Name="Opérateur ET prioritaire" NameU="Priority AND gate"/>
+
+<Elem Name="Opérateur OU exclusif" NameU="Exclusive OR gate"/>
+
+<Elem Name="Combinaison" NameU="Combination"/>
+
+<Elem Name="Événement intermédiaire" NameU="Intermediate event"/>
+
+<Elem Name="Événement simple" NameU="Basic event"/>
+
+<Elem Name="Événement non dévelopment" NameU="Undeveloped event"/>
+
+<Elem Name="Événement déclencheur" NameU="Initiating event"/>
+
+<Elem Name="Événement conditionnel" NameU="Conditional even"/>
+
+<Elem Name="Symbole de transfert" NameU="Transfer symbol"/>
+
+<Elem Name="Connecteur courbe" NameU="Curve connector"/>
+
+</Lib>

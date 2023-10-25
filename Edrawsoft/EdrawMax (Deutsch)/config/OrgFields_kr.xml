@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OrgSettings Version="8.0">
+    <OrgFields>
+        <OrgField Name="이름" ID="1" Format="@" Type="0" NameU="Name"/>
+        <OrgField Name="타이틀" ID="2" Format="@" Type="0" NameU="Title"/>
+        <OrgField Name="직원 ID" ID="3" Format="@" Type="0" NameU="ID"/>
+        <OrgField Name="카테고리" ID="4" Format="@" Type="0" NameU="Category"/>
+        <OrgField Name="위치" ID="5" Format="@" Type="0" NameU="Location"/>
+        <OrgField Name="부서" ID="6" Format="@" Type="0" NameU="Department"/>
+        <OrgField Name="Email" ID="7" Format="@" Type="0" NameU="Email"/>
+        <OrgField Name="업무 전화" ID="8" Format="@" Type="0" NameU="WPhone"/>
+        <OrgField Name="휴대폰" ID="9" Format="@" Type="0" NameU="MPhone"/>
+        <OrgField Name="직원 상태" ID="10" Format="@" Type="0" NameU="EStatus"/>
+        <OrgField Name="직위" ID="11" Format="@" Type="0" NameU="JGrade"/>
+        <OrgField Name="리포트" ID="12" Format="@" Type="0" NameU="Report"/>
+        <OrgField Name="도우미" ID="13" Format="" Type="5" NameU="Assist"/>
+        <OrgField Name="임금" ID="14" Format="&quot;$&quot; #,###0.00" Type="4" NameU="Salary"/>
+        <OrgField Name="성별" ID="15" Format="@" Type="0" NameU="Gendar"/>
+        <OrgField Name="나이" ID="16" Format="0" Type="1" NameU="Age"/>
+        <OrgField Name="국적" ID="17" Format="@" Type="0" NameU="Nation"/>
+        <OrgField Name="채용날짜" ID="18" Format="yyyy-MM-dd" Type="2" NameU="Hire"/>
+        <OrgField Name="계약시작 날짜" ID="19" Format="yyyy-MM-dd" Type="2" NameU="CStart"/>
+        <OrgField Name="계약 해지 날짜" ID="20" Format="yyyy-MM-dd" Type="2" NameU="CEnd"/>
+    </OrgFields>
+    <OrgFieldGroups>
+        <OrgFieldGroup Name="일반" PreDefine="TRUE" NameU="General">
+            <Field ids="1;2;6;7;8"/>
+            <DispField ids="1;2;6"/>
+        </OrgFieldGroup>
+        <OrgFieldGroup Name="직종" PreDefine="TRUE" NameU="Position">
+            <Field ids="1;2;6;7;8"/>
+            <DispField ids="1;2"/>
+        </OrgFieldGroup>
+        <OrgFieldGroup Name="임금" PreDefine="TRUE" NameU="Salary">
+            <Field ids="1;2;3;5;6;7;8;9;10;11;14"/>
+            <DispField ids="1;2;14;11"/>
+        </OrgFieldGroup>
+        <OrgFieldGroup Name="HR 디테일" PreDefine="TRUE" NameU="HR Detail">
+            <Field ids="1;2;3;4;5;6;7;8;9;10;11;12;14;15;16;17;18;19;20"/>
+            <DispField ids="1;2;3;5;6;15"/>
+        </OrgFieldGroup>
+        <OrgFieldGroup Name="부서" PreDefine="TRUE" NameU="Department">
+            <Field ids="1;2;6"/>
+            <DispField ids="6"/>
+        </OrgFieldGroup>
+        <OrgFieldGroup Name="계약서" PreDefine="TRUE" NameU="Contract">
+            <Field ids="1;2;3;6;7;8;18;19;20"/>
+            <DispField ids="1;3;19;20"/>
+        </OrgFieldGroup>
+        <OrgFieldGroup Name="직원 상태" PreDefine="TRUE" NameU="Employee Status">
+            <Field ids="1;2;3;4;5;6;7;8;9;10"/>
+            <DispField ids="1;2;10"/>
+        </OrgFieldGroup>
+        <OrgFieldGroup Name="계약 정보" PreDefine="TRUE" NameU="Contact Info">
+            <Field ids="1;2;3;5;6;7;8;9;17"/>
+            <DispField ids="1;2;6;5;7;9"/>
+        </OrgFieldGroup>
+    </OrgFieldGroups>
+</OrgSettings>

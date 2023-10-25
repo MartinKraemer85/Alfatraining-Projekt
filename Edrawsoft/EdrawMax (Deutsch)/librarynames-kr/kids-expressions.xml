@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Kids Expressions">
+    <Elem NameU="Smile" Name="미소"/>
+    <Elem NameU="Happy" Name="기쁨"/>
+    <Elem NameU="Wink 1" Name="윙크 1"/>
+    <Elem NameU="Calm 1" Name="냉정 1"/>
+    <Elem NameU="Dizzy 1" Name="어지러움1"/>
+    <Elem NameU="Love 1" Name="좋아함 1"/>
+    <Elem NameU="Sad 1" Name="슬픔 1"/>
+    <Elem NameU="Angry 1" Name="화남 1"/>
+    <Elem NameU="Confused 1" Name="곤혼스러움 1"/>
+    <Elem NameU="Smile with Closed Eyes" Name="눈 감고 웃기"/>
+    <Elem NameU="Happy 2" Name="기쁨 2"/>
+    <Elem NameU="Wink 2" Name="윙크 2"/>
+    <Elem NameU="Calm 2" Name="냉정 2"/>
+    <Elem NameU="Dizzy 2" Name="어지러움 2"/>
+    <Elem NameU="Love 2" Name="좋아요 2"/>
+    <Elem NameU="Sad 2" Name="슬픔 2"/>
+    <Elem NameU="Angry 2" Name="화남 2"/>
+    <Elem NameU="Confused 2" Name="곤혹스러움 2"/>
+</Lib>

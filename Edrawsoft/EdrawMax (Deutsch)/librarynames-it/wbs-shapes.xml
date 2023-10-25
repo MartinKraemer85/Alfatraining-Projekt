@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="WBS Shapes">
+	<Elem NameU="Task Card" Name="Scheda Attività"/>
+	<Elem NameU="Task Card 2" Name="Scheda Attività 2"/>
+	<Elem NameU="Task Card 3" Name="Scheda Attività 3"/>
+	<Elem NameU="Task Card 4" Name="Scheda Attività 4"/>
+	<Elem NameU="Task Card 5" Name="Scheda Attività 5"/>
+	<Elem NameU="Task Bar" Name="Barra Attività"/>
+	<Elem NameU="Main task" Name="Attività Principale"/>
+	<Elem NameU="Main task 2" Name="Attività Principale 2"/>
+	<Elem NameU="Main task 3" Name="Attività Principale 3"/>
+	<Elem NameU="Main task 4" Name="Attività Principale 4"/>
+	<Elem NameU="Main task 5" Name="Attività Principale 5"/>
+	<Elem NameU="Right Angle Connector" Name="Connettore ad Angolo Retto"/>
+	<Elem NameU="Line Connector" Name="Connettore Lineare"/>
+	<Elem NameU="Dynamical Connector" Name="Connettore Dinamico"/>
+</Lib>

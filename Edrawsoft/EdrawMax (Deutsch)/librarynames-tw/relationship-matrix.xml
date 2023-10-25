@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Relationship Matrix">
+    <Elem NameU="Basic Matrix" Name="基礎關係矩陣"/>
+    <Elem NameU="Basic Matrix-Vertical Title" Name="關係矩陣-垂直標題"/>
+    <Elem NameU="Basic Matrix-Angled Title" Name="關係矩陣-角度標題"/>
+    <Elem NameU="Relationship Matrix" Name="關係矩陣"/>
+    <Elem NameU="Involvement Matrix" Name="參與矩陣"/>
+    <Elem NameU="Involvement Matrix 2" Name="參與矩陣 2"/>
+    <Elem NameU="Single Column" Name="單列"/>
+    <Elem NameU="Single Row" Name="單行"/>
+    <Elem NameU="Legend" Name="符號表"/>
+    <Elem NameU="Legend 2" Name="符號表 2"/>
+    <Elem NameU="Text Block" Name="文本塊"/>
+    <Elem NameU="12-Role Flag" Name="12種符號"/>
+    <Elem NameU="10-Role Flag" Name="10種符號"/>
+    <Elem NameU="Colorful Circle Flag" Name="多種顏色圓形符號"/>
+    <Elem NameU="Numbering" Name="數字"/>
+    <Elem NameU="Progress" Name="進度"/>
+    <Elem NameU="Check Box" Name="選中框"/>
+    <Elem NameU="Yes/No" Name="是/否"/>
+    <Elem NameU="Play Flag" Name="播放符號"/>
+    <Elem NameU="Four Directions" Name="4方向箭頭"/>
+    <Elem NameU="6-Role Flag" Name="6種符號"/>
+</Lib>

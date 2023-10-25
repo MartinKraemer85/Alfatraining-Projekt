@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Azure Enterprise">
+    <Elem NameU="Active Directory Federation Services Proxy" Name="Active Directory 페더레이션 서비스 프록시"/>
+    <Elem NameU="AD FS" Name="AD FS"/>
+    <Elem NameU="Android Phone" Name="안드로이드 폰"/>
+    <Elem NameU="Application (blank for text)" Name="애플리케이션(공백 텍스트용)"/>
+    <Elem NameU="App Generic" Name="일반 애플리케이션"/>
+    <Elem NameU="Application Server" Name="애플리케이션 서버"/>
+    <Elem NameU="Azure Pack" Name="Azure 설치팩"/>
+    <Elem NameU="Backup local" Name="로컬 백업"/>
+    <Elem NameU="Backup Online" Name="온라인 백업"/>
+    <Elem NameU="Calendar" Name="달력"/>
+    <Elem NameU="Certificate" Name="증서"/>
+    <Elem NameU="Client Application" Name="클라이언트 응용 프로그램"/>
+    <Elem NameU="Cloud" Name="클라우드"/>
+    <Elem NameU="Cluster Server" Name="클러스터 서버"/>
+    <Elem NameU="Code File" Name="코드 파일"/>
+    <Elem NameU="Connectors" Name="커넥터"/>
+    <Elem NameU="Database Generic" Name="일반 데이터베이스"/>
+    <Elem NameU="Database Server" Name="데이터베이스 서버"/>
+    <Elem NameU="Database Synchronization" Name="데이터베이스 동기화"/>
+    <Elem NameU="Direct Access (feature)" Name="직접 접근（특징）"/>
+    <Elem NameU="Device" Name="디바이스"/>
+    <Elem NameU="Document DB File" Name="문서 데이터베이스 파일"/>
+    <Elem NameU="Document" Name="문서"/>
+    <Elem NameU="Domain Controller" Name="도메인 컨트롤러"/>
+    <Elem NameU="Enterprise Building" Name="기업 빌딩"/>
+    <Elem NameU="File General" Name="일반 파일"/>
+    <Elem NameU="Filter" Name="필터기"/>
+    <Elem NameU="Firewall" Name="방화벽"/>
+    <Elem NameU="Folder" Name="폴더"/>
+    <Elem NameU="Gateway" Name="게이트웨이"/>
+    <Elem NameU="Generic App Named Text" Name="응용프로그램"/>
+    <Elem NameU="Generic Code" Name="일반코드"/>
+    <Elem NameU="Graph" Name="그래프"/>
+    <Elem NameU="Health Monitoring" Name="건강 모니터링"/>
+    <Elem NameU="Healthy" Name="건강"/>
+    <Elem NameU="Import Generic" Name="일반 입력"/>
+    <Elem NameU="Internet (hollow)" Name="네트워크（속이 빈）"/>
+    <Elem NameU="Internet" Name="네트워크"/>
+    <Elem NameU="iPhone" Name="아이폰"/>
+    <Elem NameU="Key Permissions" Name="암호 허가"/>
+    <Elem NameU="Keyboard" Name="키보드"/>
+    <Elem NameU="Laptop Computer" Name="노트북"/>
+    <Elem NameU="Load Balancer (Generic)" Name="부하 분산 장치（일반）"/>
+    <Elem NameU="Load Testing" Name="부하 테스트"/>
+    <Elem NameU="lock Unlocked Accessible" Name="잠금 해제"/>
+    <Elem NameU="Lock Protected" Name="잠금 보호"/>
+    <Elem NameU="Maintenance" Name="유지 관리"/>
+    <Elem NameU="Management Console" Name="관리 통제 콘솔"/>
+    <Elem NameU="Message" Name="메세지"/>
+    <Elem NameU="Monitor Running Rpps" Name="실행 중인 Rpps모니터"/>
+    <Elem NameU="Monitor" Name="모니터"/>
+    <Elem NameU="Mouse" Name="마우스"/>
+    <Elem NameU="Network Card" Name="네트워크 카드"/>
+    <Elem NameU="Not Allowed" Name="금지"/>
+    <Elem NameU="Performance Monitor" Name="기능 모니터"/>
+    <Elem NameU="Performance" Name="기능"/>
+    <Elem NameU="Phone" Name="폰"/>
+    <Elem NameU="Plug And Play" Name="플러그 앤 플레이"/>
+    <Elem NameU="PowerPoint" Name="PPT"/>
+    <Elem NameU="Powershell Script File" Name="Powershell 스크립트 파일"/>
+    <Elem NameU="Protocol Stack" Name="프로토콜 스택"/>
+    <Elem NameU="Queue General" Name="큐,일반"/>
+    <Elem NameU="RMS Connector" Name="RMS 커넥터"/>
+    <Elem NameU="Router" Name="라우터"/>
+    <Elem NameU="Rpd Remoting File" Name="Rpd원격 파일"/>
+    <Elem NameU="Script File" Name="스크립트 파일"/>
+    <Elem NameU="Secure Virtual Machine" Name="보안 가상 머신"/>
+    <Elem NameU="Server (blade)" Name="서버(블레이드)"/>
+    <Elem NameU="Server (generic)" Name="서버(일반)"/>
+    <Elem NameU="Server Directory" Name="서버 디렉토리"/>
+    <Elem NameU="Server Farm" Name="서버 팜"/>
+    <Elem NameU="Server Rack" Name="서버 랙"/>
+    <Elem NameU="Settings" Name="설정"/>
+    <Elem NameU="Shared Folder" Name="공유 폴더"/>
+    <Elem NameU="Smartcard" Name="스마트 카드"/>
+    <Elem NameU="Startup Task" Name="시작 작업"/>
+    <Elem NameU="Storage" Name="저장"/>
+    <Elem NameU="Stored Procedures" Name="저장 프로시저"/>
+    <Elem NameU="Table" Name="표"/>
+    <Elem NameU="Tablet" Name="태블릿"/>
+    <Elem NameU="Tool" Name="툴"/>
+    <Elem NameU="Triggers" Name="트리거"/>
+    <Elem NameU="Tunnel" Name="터널"/>
+    <Elem NameU="UDF Function" Name="사용자 지정 함수"/>
+    <Elem NameU="Unhealthy" Name="비정상"/>
+    <Elem NameU="USB" Name="USB"/>
+    <Elem NameU="User -Enterprise" Name="기업 사용자"/>
+    <Elem NameU="User Permissions" Name="사용자 권한"/>
+    <Elem NameU="Video" Name="비디오"/>
+    <Elem NameU="Virtual Machine" Name="가상 기기"/>
+    <Elem NameU="Web Server" Name="웹 서버"/>
+    <Elem NameU="Web" Name="웹"/>
+    <Elem NameU="WebSite (generic)" Name="웹사이트,일반"/>
+    <Elem NameU="Windows Server" Name="윈도우 서버"/>
+    <Elem NameU="Wireless Connection" Name="무선 연결"/>
+    <Elem NameU="Workstation Client" Name="워크스테이션 클라이언트"/>
+    <Elem NameU="XML Web Service" Name="XML웹 서비스"/>
+</Lib>

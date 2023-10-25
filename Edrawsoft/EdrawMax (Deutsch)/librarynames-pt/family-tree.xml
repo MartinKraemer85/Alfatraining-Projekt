@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Family Tree">
+	<Elem NameU="Tree" Name="Árvore"/>
+	<Elem NameU="Tree 4" Name="Árvore"/>
+	<Elem NameU="Tree 5" Name="Árvore"/>
+	<Elem NameU="Tree 6" Name="Árvore"/>
+	<Elem NameU="Profile Photo With Title" Name="Foto de perfil"/>
+	<Elem NameU="Profile No Photo" Name="Foto de perfil"/>
+	<Elem NameU="Rounded Profile Photo" Name="Foto de perfil arredondado"/>
+	<Elem NameU="Profile Left Photo" Name="Foto esquerda do perfil"/>
+	<Elem NameU="Profile Left  Photo" Name="Foto esquerda do perfil"/>
+	<Elem NameU="Rounded Profile Vertical 1" Name="Perfil arredondado vertical 1"/>
+	<Elem NameU="Rounded Profile Vertical 2" Name="Perfil arredondado vertical 2"/>
+	<Elem NameU="Rounded Profile Vertical 3" Name="Perfil arredondado vertical 3"/>
+	<Elem NameU="Rounded Profile Vertical" Name="Perfil arredondado vertical "/>
+	<Elem NameU="Profile Photo" Name="Foto de perfil"/>
+</Lib>

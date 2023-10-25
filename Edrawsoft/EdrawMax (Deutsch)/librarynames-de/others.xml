@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<Lib nameU="Others">
+
+<Elem Name="Wolkendecke" NameU="Cloud shell"/>
+
+<Elem Name="Komponist" NameU="Composer"/>
+
+<Elem Name="Config" NameU="Config"/>
+
+<Elem Name="DFS" NameU="DFS"/>
+
+<Elem Name="DNS" NameU="DNS"/>
+
+<Elem Name="GDS" NameU="GDS"/>
+
+<Elem Name="Grafik-Workstation" NameU="Graphic workstation"/>
+
+<Elem Name="GTM" NameU="GTM"/>
+
+<Elem Name="Anmelden Service" NameU="Log service"/>
+
+<Elem Name="Mini App cloud" NameU="Mini app cloud"/>
+
+<Elem Name="Mini Programm cloud app" NameU="Mini program cloud app"/>
+
+<Elem Name="API-Explorer öffnen" NameU="Open API explorer"/>
+
+<Elem Name="Telefonnummer iedentifizieren" NameU="Phone number identification"/>
+
+<Elem Name="Privat Link" NameU="Private link"/>
+
+<Elem Name="Privatezone DNS" NameU="Privatezone DNS"/>
+
+<Elem Name="SMC" NameU="SMC"/>
+
+<Elem Name="Rückverfolgungsanalyse" NameU="Tracing analysis"/>
+
+<Elem Name="Webanwendungs-Webserver" NameU="Web application host server Web"/>
+
+</Lib>

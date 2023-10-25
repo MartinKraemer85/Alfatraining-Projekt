@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Wires and Cables">
+    <Elem NameU="Additive injection system" Name="添加註入系統"/>
+    <Elem NameU="Baling press" Name="包裝機"/>
+    <Elem NameU="Coil" Name="線圈"/>
+    <Elem NameU="Extruder" Name="擠出機"/>
+    <Elem NameU="Extrusion booster pump" Name="增壓泵 1"/>
+    <Elem NameU="Horizontal baler (slate blue)" Name="臥式捆扎機"/>
+    <Elem NameU="Extrusion booster pump" Name="增壓泵 1"/>
+    <Elem NameU="Simple extruder" Name="擠出機 2"/>
+    <Elem NameU="Simple wire stacker" Name="線碼垛機"/>
+    <Elem NameU="Simple wire stripper" Name="剝線機"/>
+    <Elem NameU="Wire spool 1" Name="繞線盤 1"/>
+    <Elem NameU="Wire spool 2" Name="繞線盤 2"/>
+    <Elem NameU="Wooden spool" Name="木製線盤"/>
+</Lib>

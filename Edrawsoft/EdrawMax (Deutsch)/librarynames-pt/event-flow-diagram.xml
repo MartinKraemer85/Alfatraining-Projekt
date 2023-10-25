@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Event Flow Diagram">
+	<Elem NameU="Event" Name="Evento"/>
+	<Elem NameU="Act" Name="Ato"/>
+	<Elem NameU="General Entity" Name="Entidade Geral"/>
+	<Elem NameU="Node" Name="Nó"/>
+	<Elem NameU="OR" Name="OU"/>
+	<Elem NameU="And" Name="E"/>
+	<Elem NameU="External Actor" Name="Ator Externo"/>
+	<Elem NameU="Machine Act" Name="Ato de Máquina"/>
+	<Elem NameU="Machine Entity" Name="Entidade de Máquina"/>
+	<Elem NameU="Manual Act" Name="Ato Manual"/>
+	<Elem NameU="Manual Entity" Name="Entidade Manual"/>
+	<Elem NameU="Unit" Name="Unidade"/>
+</Lib>

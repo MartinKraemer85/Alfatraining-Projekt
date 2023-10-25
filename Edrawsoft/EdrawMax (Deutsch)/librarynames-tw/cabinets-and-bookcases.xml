@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Cabinets and Bookcases">
+    <Elem NameU="Work surface" Name="工作台"/>
+    <Elem NameU="Corner surface" Number="4" Name="轉角台"/>
+    <Elem NameU="Island" Name="中島台"/>
+    <Elem NameU="Corner counter" Name="圓角櫃台"/>
+    <Elem NameU="Platter counter" Name="拼盤櫃台"/>
+    <Elem NameU="Bevel counter" Name="斜角櫃台"/>
+    <Elem NameU="Bent counter" Name="彎管櫃檯"/>
+    <Elem NameU="Work peninsula" Name="島工作台"/>
+    <Elem NameU="Base" Number="2" Name="底部"/>
+    <Elem NameU="Base end-shelf" Name="落地櫥端架"/>
+    <Elem NameU="Base corner" Name="落地櫥角櫃"/>
+    <Elem NameU="Base blind corner" Name="轉角落地櫥"/>
+    <Elem NameU="Base end angle" Name="落地櫥轉角"/>
+    <Elem NameU="Drawer" Number="2" Name="抽屜"/>
+    <Elem NameU="Bookcase" Number="2" Name="書櫃"/>
+    <Elem NameU="Cabinet" Number="2" Name="櫃子"/>
+    <Elem NameU="Cabinet 2 drawers" Number="2" Name="兩層抽屜櫃"/>
+    <Elem NameU="Peninsula end-shelf" Name="半島式端架"/>
+    <Elem NameU="Base peninsula" Number="2" Name="半島式落地櫥"/>
+    <Elem NameU="Wall end-shelf" Name="壁櫥端架"/>
+    <Elem NameU="Wall corner" Name="斜角壁櫃"/>
+    <Elem NameU="Wall angle cabinet" Name="墻角壁櫃1"/>
+    <Elem NameU="Track end-bevel" Name="轉角架"/>
+    <Elem NameU="Track 45 deg." Name="45度角拖架"/>
+    <Elem NameU="Track corner" Name="軌道角落"/>
+    <Elem NameU="Tray track" Name="托架"/>
+    <Elem NameU="Locker" Name="衣櫥"/>
+    <Elem NameU="Handle" Number="5" Name="把手"/>
+</Lib>

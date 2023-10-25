@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Equipment-General">
+	<Elem NameU="Crossflow inducted draft" Name="Tour de refroidissement à tirage induit"/>
+	<Elem NameU="Counterflow forced draft" Name="Tour de refroidissement à tirage forcé"/>
+	<Elem NameU="Chimney tower hyperbolic" Name="Tour de cheminée hyperbolique"/>
+	<Elem NameU="Furnace" Name="Four"/>
+	<Elem NameU="Plate tower" Name="Tour de plaque"/>
+	<Elem NameU="Packed tower" Name="Tour à garnissage"/>
+	<Elem NameU="Hydrocracking" Name="Hydrocraquage"/>
+	<Elem NameU="Hydrodesulfurization" Name="Hydrodésulfuration"/>
+	<Elem NameU="Reformer" Name="Réformateur"/>
+	<Elem NameU="Fluid catalytic cracking" Name="Craquage catalytique fluide"/>
+	<Elem NameU="Fluid coking" Name="Cokéfaction fluide"/>
+	<Elem NameU="Tubular" Name="Tubulaire"/>
+	<Elem NameU="Fluidized reactor" Name="Réacteur à lit fluidisé"/>
+	<Elem NameU="Alkylation" Name="Alkylation"/>
+	<Elem NameU="Breaker" Name="Briseur"/>
+	<Elem NameU="Crusher" Name="Broyeur"/>
+	<Elem NameU="Forced-draft cooling tower" Name="Tour de refroidissement à tirage forcé"/>
+	<Elem NameU="Briquetting machine" Name="Machine à briquettes"/>
+	<Elem NameU="Condenser" Name="Condenseur"/>
+	<Elem NameU="Evaporative condenser" Name="Condenseur évaporatif"/>
+	<Elem NameU="Cyclone" Name="Cyclone"/>
+	<Elem NameU="Dryer" Name="Séchoir"/>
+	<Elem NameU="Dryer 2" Name="Séchoir 2"/>
+	<Elem NameU="Mixer" Name="Mélangeur"/>
+	<Elem NameU="Various mixers" Name="Divers mélangeurs"/>
+	<Elem NameU="Various mixers 2" Name="Divers mélangeurs 2"/>
+	<Elem NameU="Agitator or mixer" Name="Agitateur ou mélangeur"/>
+	<Elem NameU="Crushers" Name="Concasseur"/>
+	<Elem NameU="Mill" Name="Malaxeur"/>
+	<Elem NameU="Various mills" Name="Diverses malaxeurs"/>
+	<Elem NameU="Kneader" Name="Pétrisseur"/>
+	<Elem NameU="Blender" Name="Mixeur"/>
+	<Elem NameU="Fluid separators" Name="Séparateurs de fluides"/>
+	<Elem NameU="Filter" Name="Filtre"/>
+	<Elem NameU="Filter 2" Name="Filtre 2"/>
+	<Elem NameU="Rotary filter" Name="Filtre rotatif"/>
+	<Elem NameU="Wastewater treatment" Name="Traitement des eaux usées"/>
+	<Elem NameU="Air separator" Name="Séparateur d'air"/>
+	<Elem NameU="Electromagnet" Name="Électro-aimant"/>
+	<Elem NameU="Centrifuge" Name="Centrifuge"/>
+	<Elem NameU="Hammer crusher" Name="Concasseur à marteaux"/>
+	<Elem NameU="Various kneaders" Name="Divers malaxeurs"/>
+	<Elem NameU="Screen" Name="Écran"/>
+	<Elem NameU="Boom loader" Name="Chargeurs de flèche"/>
+	<Elem NameU="Automatic stoker" Name="Stoker automatique"/>
+	<Elem NameU="Electric motor" Name="Moteur électrique"/>
+	<Elem NameU="Transport" Name="Transport"/>
+</Lib>

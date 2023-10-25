@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Windows and Doors (Elevation)">
+    <Elem NameU="Window 1" Name="窗户 1"/>
+    <Elem NameU="Window 2" Name="窗户 2"/>
+    <Elem NameU="Window 3" Name="窗户 3"/>
+    <Elem NameU="Window 4" Name="窗户 4"/>
+    <Elem NameU="Window 5" Name="窗户 5"/>
+    <Elem NameU="Window 6" Name="窗户 6"/>
+    <Elem NameU="Window 7" Name="窗户 7"/>
+    <Elem NameU="Window 8" Name="窗户 8"/>
+    <Elem NameU="Window 9" Name="窗户 9"/>
+    <Elem NameU="Window 10" Name="窗户 10"/>
+    <Elem NameU="Window 11" Name="窗户 11"/>
+    <Elem NameU="Window 12" Name="窗户 12"/>
+    <Elem NameU="Window 13" Name="窗户 13"/>
+    <Elem NameU="Window 14" Name="窗户 14"/>
+    <Elem NameU="Window 15" Name="窗户 15"/>
+    <Elem NameU="Window 16" Name="窗户 16"/>
+    <Elem NameU="Window 17" Name="窗户 17"/>
+    <Elem NameU="Door 1" Name="门 1"/>
+    <Elem NameU="Door 2" Name="门 2"/>
+    <Elem NameU="Door 3" Name="门 3"/>
+    <Elem NameU="Door 4" Name="门 4"/>
+    <Elem NameU="Door 5" Name="门 5"/>
+    <Elem NameU="Door" Number="2" Name="门"/>
+    <Elem NameU="Arched doorway" Name="拱形门"/>
+    <Elem NameU="Cabinet" Number="6" Name="橱柜"/>
+    <Elem NameU="Roof Eaves" Name="屋顶的屋檐"/>
+    <Elem NameU="Door handle" Name="门把手"/>
+</Lib>

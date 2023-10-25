@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Flags">
+
+<Elem Name="アフガニスタン" NameU="Afghanistan"/>
+
+<Elem Name="アルバニア" NameU="Albania"/>
+
+<Elem Name="アルジェリア" NameU="Algeria"/>
+
+<Elem Name="アンドラ" NameU="Andorra"/>
+
+<Elem Name="アンゴラ" NameU="Angola"/>
+
+<Elem Name="アルゼンチン" NameU="Argentina"/>
+
+<Elem Name="アルメニア" NameU="Armenia"/>
+
+<Elem Name="オーストラリア" NameU="Australia"/>
+
+<Elem Name="オーストリー" NameU="Austria"/>
+
+<Elem Name="アゼルバイジャン" NameU="Azerbaijan"/>
+
+<Elem Name="バハマ" NameU="Bahamas"/>
+
+<Elem Name="バーレーン" NameU="Bahrain"/>
+
+<Elem Name="バングラデシュ" NameU="Bangladesh"/>
+
+<Elem Name="バルバドス" NameU="Barbados"/>
+
+<Elem Name="ベラルーシ" NameU="Belarus"/>
+
+<Elem Name="ベルギー" NameU="Belgium"/>
+
+<Elem Name="ベナン" NameU="Benin"/>
+
+<Elem Name="ボリビア" NameU="Bolivia"/>
+
+<Elem Name="ボスニアヘルツェゴビナ" NameU="Bosnia-Herzegovina"/>
+
+<Elem Name="ボツワナ" NameU="Botswana"/>
+
+<Elem Name="ブラジル" NameU="Brazil"/>
+
+<Elem Name="ブルガリア" NameU="Bulgaria"/>
+
+<Elem Name="ブルキナファソ" NameU="Burkina Faso"/>
+
+<Elem Name="ブルンジ" NameU="Burundi"/>
+
+<Elem Name="カメルーン" NameU="Cameroon"/>
+
+<Elem Name="カナダ" NameU="Canada"/>
+
+<Elem Name="中部アフリカ" NameU="Central Africa"/>
+
+<Elem Name="チャド" NameU="Chad"/>
+
+<Elem Name="チリ" NameU="Chile"/>
+
+<Elem Name="中国" NameU="China"/>
+
+<Elem Name="コロンビア" NameU="Colombia"/>
+
+<Elem Name="コンゴ" NameU="Congo"/>
+
+<Elem Name="コスタリカ" NameU="Costa Rica"/>
+
+<Elem Name="クロアチア" NameU="Croatia"/>
+
+<Elem Name="キューバ" NameU="Cuba"/>
+
+<Elem Name="キプロス" NameU="Cyprus"/>
+
+<Elem Name="チェコ共和国" NameU="Czech Republic"/>
+
+<Elem Name="デンマーク" NameU="Denmark"/>
+
+<Elem Name="ジブチ" NameU="Djibouti"/>
+
+<Elem Name="ドミニカ共和国" NameU="Dominican Republic"/>
+
+<Elem Name="エクアドル" NameU="Ecuador"/>
+
+<Elem Name="エルサルバドル" NameU="El Salvador"/>
+
+<Elem Name="赤道ギニア" NameU="Equatorial guinea"/>
+
+<Elem Name="エジプト" NameU="Egypt"/>
+
+<Elem Name="エリトリア" NameU="Eritrea"/>
+
+<Elem Name="エストニア" NameU="Estonia"/>
+
+<Elem Name="エチオピア" NameU="Ethiopia"/>
+
+<Elem Name="欧州連合" NameU="European-Union"/>
+
+<Elem Name="フィンランド" NameU="Finland"/>
+
+<Elem Name="フランス" NameU="France"/>
+
+<Elem Name="ガボン" NameU="Gabon"/>
+
+<Elem Name="ガンビア" NameU="Gambia"/>
+
+<Elem Name="グルジア" NameU="Georgia"/>
+
+<Elem Name="ドイツ" NameU="Germany"/>
+
+<Elem Name="ガーナ" NameU="Ghana"/>
+
+<Elem Name="ギリシャ" NameU="Greece"/>
+
+<Elem Name="グリーンランド" NameU="Greenland"/>
+
+<Elem Name="グアテマラ" NameU="Guatemala"/>
+
+<Elem Name="ギニア" NameU="Guinea"/>
+
+<Elem Name="ギニアビサウ" NameU="Guinea-Bissau"/>
+
+<Elem Name="ガイアナ" NameU="Guyana"/>
+
+<Elem Name="ハイティ" NameU="Haiti"/>
+
+<Elem Name="ホンジュラス" NameU="Honduras"/>
+
+<Elem Name="ホンコン" NameU="Hong Kong"/>
+
+<Elem Name="ハンガリー" NameU="Hungary"/>
+
+<Elem Name="アイスランド" NameU="Iceland"/>
+
+<Elem Name="インド" NameU="India"/>
+
+<Elem Name="インドネシア" NameU="Indonesia"/>
+
+<Elem Name="イラン" NameU="Iran"/>
+
+<Elem Name="イラク" NameU="Iraq"/>
+
+<Elem Name="アイルランド" NameU="Ireland"/>
+
+<Elem Name="イスラエル" NameU="Israel"/>
+
+<Elem Name="イタリア" NameU="Italy"/>
+
+<Elem Name="ジャマイカ" NameU="Jamaica"/>
+
+<Elem Name="日本" NameU="Japan"/>
+
+<Elem Name="ヨルダン" NameU="Jordan"/>
+
+<Elem Name="カザフスタン" NameU="Kazakhstan"/>
+
+<Elem Name="ケニア" NameU="Kenya"/>
+
+<Elem Name="クウェート" NameU="Kuwait"/>
+
+<Elem Name="キルギスタン" NameU="Kyrgayzstan"/>
+
+<Elem Name="ラオス" NameU="Laos"/>
+
+<Elem Name="ラトビア" NameU="Latvia"/>
+
+<Elem Name="レバノン" NameU="Lebanon"/>
+
+<Elem Name="レボウワ" NameU="Lebowa"/>
+
+<Elem Name="レソト" NameU="Lesotho"/>
+
+<Elem Name="リベリア" NameU="Liberia"/>
+
+<Elem Name="リビア" NameU="Libya"/>
+
+<Elem Name="リヒテンシュタイン" NameU="Liechtenstein"/>
+
+<Elem Name="リトアニア" NameU="Lithuania"/>
+
+<Elem Name="リュクサンブール" NameU="Luxembourg"/>
+
+<Elem Name="マダガスカル島" NameU="Madagascar"/>
+
+<Elem Name="マラウイ" NameU="Malawi"/>
+
+<Elem Name="マレーシア" NameU="Malaysia"/>
+
+<Elem Name="マリ" NameU="Mali"/>
+
+<Elem Name="モーリタニア" NameU="Mauritania"/>
+
+<Elem Name="マケドニア" NameU="Macedonia"/>
+
+<Elem Name="メキシコ" NameU="Mexico"/>
+
+<Elem Name="モルドバ" NameU="Moldova"/>
+
+<Elem Name="モナコ" NameU="Monaco"/>
+
+<Elem Name="モンゴル" NameU="Mongolia"/>
+
+<Elem Name="モロッコ" NameU="Morocco"/>
+
+<Elem Name="モザンビーク" NameU="Mozambique"/>
+
+<Elem Name="ナミビア" NameU="Namibia"/>
+
+<Elem Name="ネパール" NameU="Nepal"/>
+
+<Elem Name="オランダ" NameU="Netherlands"/>
+
+<Elem Name="ニュージーランド" NameU="New Zealand"/>
+
+<Elem Name="ニカラグア" NameU="Nicaragua"/>
+
+<Elem Name="ニジェール" NameU="Niger"/>
+
+<Elem Name="ナイジェリア" NameU="Nigeria"/>
+
+<Elem Name="北朝鮮" NameU="North Korea"/>
+
+<Elem Name="ノルウェー" NameU="Norway"/>
+
+<Elem Name="オマーン" NameU="Oman"/>
+
+<Elem Name="パキスタン" NameU="Pakistan"/>
+
+<Elem Name="パレスチナ" NameU="Palestine"/>
+
+<Elem Name="パナマ" NameU="Panama"/>
+
+<Elem Name="パプアニューギニア" NameU="Papua New Cuinea"/>
+
+<Elem Name="パラグアイ" NameU="Paraguay"/>
+
+<Elem Name="ペルー" NameU="Peru"/>
+
+<Elem Name="フィリピン" NameU="Philippines"/>
+
+<Elem Name="ポーランド" NameU="Poland"/>
+
+<Elem Name="ポルトガル" NameU="Portugal"/>
+
+<Elem Name="プエルトリコ" NameU="Puerto-Rico"/>
+
+<Elem Name="カタール" NameU="Qatar"/>
+
+<Elem Name="ルーマニア" NameU="Romania"/>
+
+<Elem Name="ロシア" NameU="Russia"/>
+
+<Elem Name="ルワンダ" NameU="Rwanda"/>
+
+<Elem Name="サウジアラビアのアラビア" NameU="Saudi Arabia"/>
+
+<Elem Name="セネガル" NameU="Senegal"/>
+
+<Elem Name="スルビヤ" NameU="Serbia"/>
+
+<Elem Name="シエラレオネ" NameU="Sierra Leone"/>
+
+<Elem Name="シンガポール" NameU="Singapore"/>
+
+<Elem Name="スロバキア" NameU="Slovakia"/>
+
+<Elem Name="スロベニア" NameU="Slovenia"/>
+
+<Elem Name="ソマリア" NameU="Somalia"/>
+
+<Elem Name="南アフリカ" NameU="South Africa"/>
+
+<Elem Name="韓国" NameU="South Korea"/>
+
+<Elem Name="スペイン" NameU="Spain"/>
+
+<Elem Name="スリ·ランカ" NameU="Sri Lanka"/>
+
+<Elem Name="スーダン" NameU="Sudan"/>
+
+<Elem Name="スワジランド" NameU="Swaziland"/>
+
+<Elem Name="スウェーデン" NameU="Sweden"/>
+
+<Elem Name="スイス" NameU="Switzerland"/>
+
+<Elem Name="シリア" NameU="Syria"/>
+
+<Elem Name="台湾" NameU="Taiwan"/>
+
+<Elem Name="タジキスタン" NameU="Tajikistan"/>
+
+<Elem Name="タンザニア" NameU="Tanzania"/>
+
+<Elem Name="タイ" NameU="Thailand"/>
+
+<Elem Name="トーゴ" NameU="Togo"/>
+
+<Elem Name="トリニダードとトバゴ" NameU="Trinidad And Tobago"/>
+
+<Elem Name="チュニジア" NameU="Tunisia"/>
+
+<Elem Name="トルコ" NameU="Turkey"/>
+
+<Elem Name="トルクメニスタン" NameU="Turkmenistan"/>
+
+<Elem Name="ウガンダ" NameU="Uganda"/>
+
+<Elem Name="ウクライナ" NameU="Ukraine"/>
+
+<Elem Name="アラブ連合" NameU="United Arab"/>
+
+<Elem Name="イギリス" NameU="United Kingdom"/>
+
+<Elem Name="アメリカ合衆国" NameU="United States"/>
+
+<Elem Name="ウルグアイ" NameU="Uruguay"/>
+
+<Elem Name="ウズベキスタン" NameU="Uzbekistan"/>
+
+<Elem Name="ベネズエラ" NameU="Venezuela"/>
+
+<Elem Name="ベトナム" NameU="Vietnam"/>
+
+<Elem Name="イエメン" NameU="Yemen"/>
+
+<Elem Name="ユーゴスラビア" NameU="Yugoslavia"/>
+
+<Elem Name="ザイール" NameU="Zaire"/>
+
+<Elem Name="ザンビア" NameU="Zambia"/>
+
+<Elem Name="ジンバブエ" NameU="Zimbabwe"/>
+
+<Elem Name="マカオ" NameU="Macao"/>
+
+</Lib>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="iPad UI">
+    <Elem NameU="iPad" Name="iPad"/>
+    <Elem NameU="Horizontal iPad" Name="수평iPad"/>
+    <Elem NameU="Frame" Name="프레임"/>
+    <Elem NameU="Status bar 1" Name="상태바 1"/>
+    <Elem NameU="Status bar 2" Name="상태바 2"/>
+    <Elem NameU="Status bar 3" Name="상태바 3"/>
+    <Elem NameU="Status bar 4" Name="상태바 4"/>
+    <Elem NameU="Status bar 5" Name="상태바 5"/>
+    <Elem NameU="Basic Menu Bar 1" Name="기본 메뉴바1"/>
+    <Elem NameU="Basic Menu Bar 2" Name="기본 메뉴바2"/>
+    <Elem NameU="Basic Menu Bar 3" Name="기본 메뉴바3"/>
+    <Elem NameU="Basic Menu Bar 4" Name="기본 메뉴바4"/>
+    <Elem NameU="Basic Menu Bar 5" Name="기본 메뉴바5"/>
+    <Elem NameU="Keyboard Control" Number="2" Name="키보드 컨트롤"/>
+    <Elem NameU="Text" Name="텍스트"/>
+    <Elem NameU="Button" Number="4" Name="버튼"/>
+    <Elem NameU="Back" Name="뒤로"/>
+    <Elem NameU="Type your text here" Name="텍스트 입력"/>
+    <Elem NameU="Search Box" Name="검색 박스"/>
+    <Elem NameU="Three Buttons Control" Name="3개 버튼 컨트롤"/>
+    <Elem NameU="Four Buttons Control" Name="4개 버튼 컨트롤"/>
+    <Elem NameU="Slider" Name="슬라이더"/>
+    <Elem NameU="Field Name" Name="필드 이름"/>
+    <Elem NameU="Two Buttons Alert" Name="두 개의 버튼 경고"/>
+    <Elem NameU="Time Picker" Number="2" Name="시간 선택"/>
+    <Elem NameU="Login Activity" Name="로그인 활동"/>
+    <Elem NameU="App Icon" Name="앱 아이콘"/>
+    <Elem NameU="Block" Name="블록"/>
+    <Elem NameU="Open button" Name="버튼 열기"/>
+    <Elem NameU="On/Off Switch" Number="2" Name="스위치"/>
+    <Elem NameU="Circular Progress View" Number="2" Name="순환 프로세스도"/>
+    <Elem NameU="Button" Name="버튼"/>
+    <Elem NameU="Two Buttons Control" Name="두 개 버튼 컨트롤"/>
+    <Elem NameU="Label" Name="레이블"/>
+    <Elem NameU="Radio button" Name="라디오 단추"/>
+    <Elem NameU="Text Selection Frame" Name="텍스트 선택 프레임"/>
+    <Elem NameU="Selection Frame" Name="선택 프레임"/>
+</Lib>

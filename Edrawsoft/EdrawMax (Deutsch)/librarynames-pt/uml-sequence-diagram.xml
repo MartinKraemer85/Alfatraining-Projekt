@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="UML Sequence Diagram">
+	<Elem NameU="Object Lifeline" Name="Linha de vida do objeto"/>
+	<Elem NameU="Lifeline" Name="Linha de vida"/>
+	<Elem NameU="Message" Name="Mensagem"/>
+	<Elem NameU="Message Return" Name="Retorno de Mensagem"/>
+	<Elem NameU="Object Deletion" Name="Delegação de Objeto"/>
+	<Elem NameU="Self Delegation" Name="Auto-Delegação"/>
+	<Elem NameU="Note" Name="Nota"/>
+	<Elem NameU="Constraint" Name="Restrição"/>
+	<Elem NameU="Actor" Name="Ator"/>
+	<Elem NameU="Actor Lifeline" Name="Linha de vida do ator"/>
+	<Elem NameU="Sequence Object" Name="Objeto de Sequência"/>
+	<Elem NameU="Activation" Name="Ativação"/>
+	<Elem NameU="Activation(break)" Name="Ativação(quebra)"/>
+	<Elem NameU="Package" Name="Pacote"/>
+	<Elem NameU="Alternative Fragment" Name="Fragmento Alternativo"/>
+	<Elem NameU="Loop Fragment" Name="Fragmento de Ciclo"/>
+	<Elem NameU="Entity" Name="Entidade"/>
+	<Elem NameU="Boundary" Name="Fronteira"/>
+	<Elem NameU="Control" Name="Controle"/>
+	<Elem NameU="Asynchronous Message" Name="Mensagem Assíncrona"/>
+	<Elem NameU="Curve Self Delegation" Name="Curva de Auto-Delegação"/>
+	<Elem NameU="Choice Fragment" Name="Fragmento de Escolha"/>
+	<Elem NameU="End Point" Name="Ponto Terminal"/>
+</Lib>

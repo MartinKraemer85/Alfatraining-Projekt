@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="3D Directional Maps">
+    <Elem NameU="Road 1" Name=" 도로1"/>
+    <Elem NameU="Road 2" Name="도로 2"/>
+    <Elem NameU="Road 3" Name="도로 3"/>
+    <Elem NameU="Road 5" Name="도로 5"/>
+    <Elem NameU="Elevated 1" Name="고가 도로 1"/>
+    <Elem NameU="Elevated 2" Name="고가 도로 2"/>
+    <Elem NameU="Tree roads" Name="三岔路"/>
+    <Elem NameU="Cross roads" Name="십자로"/>
+    <Elem NameU="Straight road 1" Name="직선 도로 1"/>
+    <Elem NameU="Straight road 2" Name="직선 도로 2"/>
+    <Elem NameU="Corner 1" Name="코너 1"/>
+    <Elem NameU="Corner 2" Name="코너 2"/>
+    <Elem NameU="Cross walks" Name="횡단보도"/>
+    <Elem NameU="Road 4" Name="도로 4"/>
+    <Elem NameU="Bridge" Name="다리"/>
+    <Elem NameU="Bridge 2" Name="다리 2"/>
+    <Elem NameU="River" Name="강"/>
+    <Elem NameU="Tree 1" Name="나무 1"/>
+    <Elem NameU="Tree 2" Name="나무 2"/>
+    <Elem NameU="Pedestrian bridge" Name="육교"/>
+    <Elem NameU="One way" Name="일반 통행"/>
+    <Elem NameU="Land 1" Name="토지 1"/>
+    <Elem NameU="Land 2" Name="토지 2"/>
+    <Elem NameU="Land 3" Name="토지 3"/>
+    <Elem NameU="Land 4" Name="토지 4"/>
+    <Elem NameU="Land 5" Name="토지 5"/>
+    <Elem NameU="Land 6" Name="토지 6"/>
+    <Elem NameU="Land 7" Name="토지 7"/>
+    <Elem NameU="Land 8" Name="토지 8"/>
+    <Elem NameU="Land 9" Name="토지 9"/>
+    <Elem NameU="Small Block" Name="작은 블록"/>
+    <Elem NameU="Small Block 2" Name="작은 블록 2"/>
+    <Elem NameU="Long Block" Name="긴 블록"/>
+    <Elem NameU="Long Block 2" Name="긴 블록 2"/>
+    <Elem NameU="Square Block" Name="정사각형 블록"/>
+    <Elem NameU="Block" Name="블록"/>
+    <Elem NameU="Block 2" Name="블록 2"/>
+    <Elem NameU="Building Block" Name="건물"/>
+    <Elem NameU="House" Name="집"/>
+    <Elem NameU="Office" Name="사무실"/>
+    <Elem NameU="Building" Name="건물"/>
+    <Elem NameU="Factory" Name="공장"/>
+    <Elem NameU="Petrol Station" Name="주유소"/>
+    <Elem NameU="Store" Name="상점"/>
+    <Elem NameU="Hospital" Name="병원"/>
+    <Elem NameU="Airport" Name="공항"/>
+    <Elem NameU="Mark" Name="기호"/>
+</Lib>

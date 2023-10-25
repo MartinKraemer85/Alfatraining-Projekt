@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="GCP Developer Tools">
+	<Elem NameU="Cloud upgrade management" Name="Gestione Aggiornamento Cloud"/>
+	<Elem NameU="General GCP" Name="GCP Comune"/>
+	<Elem NameU="PowerShell PowerShell" Name="PowerShell Strumenti Cloud"/>
+	<Elem NameU="Construction Manager" Name="Gestione Costruzione"/>
+	<Elem NameU="Registration Manager" Name="Gestione Registro"/>
+</Lib>

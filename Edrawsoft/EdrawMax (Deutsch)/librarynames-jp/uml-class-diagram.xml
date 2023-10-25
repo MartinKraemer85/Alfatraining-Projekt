@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="UML Class Diagram">
+
+<Elem Name="クラス" NameU="Class"/>
+
+<Elem Name="パッケージ" NameU="Package"/>
+
+<Elem Name="インターフェース" NameU="Interface"/>
+
+<Elem Name="集合" NameU="Aggregation"/>
+
+<Elem Name="依存関係" NameU="Dependency"/>
+
+<Elem Name="合成" NameU="Composition"/>
+
+<Elem Name="汎化" NameU="Generalization"/>
+
+<Elem Name="関連" NameU="Association"/>
+
+<Elem Name="多重" NameU="Multiplicity"/>
+
+<Elem Name="制約" NameU="Constraint"/>
+
+<Elem Name="ノート" NameU="Note"/>
+
+<Elem Name="単純なクラス" NameU="Simple Class"/>
+
+<Elem Name="動的なクラス" NameU="Active Class"/>
+
+<Elem Name="シンプルなインターフェース" NameU="Simple Interface"/>
+
+<Elem Name="列挙" NameU="Enumeration"/>
+
+<Elem Name="データタイプ" NameU="Data Type"/>
+
+<Elem Name="信号" NameU="Signal"/>
+
+<Elem Name="プリミティブ" NameU="Primitive"/>
+
+<Elem Name="利益" NameU="Profile"/>
+
+<Elem Name="モデル" NameU="Model"/>
+
+<Elem Name="パッケージコンテナ" NameU="Package Container"/>
+
+<Elem Name="実現" NameU="Realization"/>
+
+<Elem Name="リンク" NameU="Link"/>
+
+<Elem Name="オブジェクト" NameU="Object"/>
+
+</Lib>

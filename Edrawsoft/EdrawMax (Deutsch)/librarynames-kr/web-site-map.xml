@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Web Site Map">
+    <Elem NameU="Generic" Name="일반"/>
+    <Elem NameU="HTML" Name="HTML"/>
+    <Elem NameU="Script (server-side)" Name="스크립트（서버 사이드）"/>
+    <Elem NameU="Graphic (bitmap)" Name="그래픽"/>
+    <Elem NameU="Script (client-side)" Name="스크립트（클라이언트 사이드）"/>
+    <Elem NameU="Java" Name="Java"/>
+    <Elem NameU="Graphic (vector)" Name="그래픽(벡터)"/>
+    <Elem NameU="Audio" Name="오디오"/>
+    <Elem NameU="Video" Name="동영상"/>
+    <Elem NameU="Style sheet" Name="스타일 시트"/>
+    <Elem NameU="Multimedia" Name="멀티미디어"/>
+    <Elem NameU="Plug-in" Name="플러그 인"/>
+    <Elem NameU="XML" Name="XML"/>
+    <Elem NameU="ActiveX" Name="ActiveX"/>
+    <Elem NameU="Files" Name="파일"/>
+    <Elem NameU="Archive" Name="보관"/>
+    <Elem NameU="Program" Name="프로그램"/>
+    <Elem NameU="Word Document" Name="파일"/>
+    <Elem NameU="Spreadsheet" Name="스프레드시트"/>
+    <Elem NameU="Presentation" Name="프레젠테이션"/>
+    <Elem NameU="Database" Name="데이터베이스"/>
+    <Elem NameU="Cloud" Name="클라우드"/>
+    <Elem NameU="Save" Name="저장"/>
+    <Elem NameU="FTP" Name="FTP"/>
+    <Elem NameU="MailTo" Name="메일 주소"/>
+    <Elem NameU="Newsgroup" Name="뉴스 그룹"/>
+    <Elem NameU="Comment" Name="주석"/>
+    <Elem NameU="RSS" Name="RSS"/>
+    <Elem NameU="Social" Name="사회"/>
+    <Elem NameU="Server" Name="서버"/>
+    <Elem NameU="PC" Name="PC"/>
+    <Elem NameU="Security" Name="보안"/>
+    <Elem NameU="Shopping Cart" Name="쇼핑 카트"/>
+    <Elem NameU="Support" Name="지원"/>
+    <Elem NameU="Search" Name="검색"/>
+    <Elem NameU="Search 2" Name="검색 2"/>
+    <Elem NameU="Page jump" Name="페이지 점프"/>
+    <Elem NameU="Document" Name="파일"/>
+    <Elem NameU="Home page" Name="홈페이지"/>
+    <Elem NameU="Connector" Name="연결선"/>
+</Lib>

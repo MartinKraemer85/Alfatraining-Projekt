@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Value Stream Mapping">
+
+<Elem Name="生産管理1" NameU="Production Control"/>
+
+<Elem Name="情報" NameU="Information"/>
+
+<Elem Name="工程" NameU="Process"/>
+
+<Elem Name="顧客/納入業者" NameU="Customer / Supplier"/>
+
+<Elem Name="在庫1" NameU="Inventory"/>
+
+<Elem Name="完成品納入矢印" NameU="Shipment Arrow"/>
+
+<Elem Name="押し込み（プッシュ）" NameU="Push Arrow"/>
+
+<Elem Name="電子情報1" NameU="Electronic Information Flow"/>
+
+<Elem Name="マニュアル情報" NameU="Manual Information Flow"/>
+
+<Elem Name="トラック便" NameU="External Shipment"/>
+
+<Elem Name="空港便" NameU="Airplan Shipment"/>
+
+<Elem Name="鉄道便" NameU="Rail Shipment"/>
+
+<Elem Name="クロス倉庫" NameU="Cross-Dock"/>
+
+<Elem Name="時間線" NameU="Timeline Segment"/>
+
+<Elem Name="時間線の終点" NameU="Timeline End Segment"/>
+
+<Elem Name="時間線集計" NameU="Timeline Total"/>
+
+<Elem Name="データ表" NameU="Data Table"/>
+
+<Elem Name="引き取りかんばん" NameU="Withdrawal Kanban"/>
+
+<Elem Name="バッチ引き取りかんばん" NameU="Withdrawal Batch Kanban"/>
+
+<Elem Name="生産指示かんばん" NameU="Production Kanban"/>
+
+<Elem Name="バッチ生産指示かんばん" NameU="Batch Kanban"/>
+
+<Elem Name="注釈" NameU="Note"/>
+
+<Elem Name="スーパマーケット" NameU="Supermarket"/>
+
+<Elem Name="バッファーまたは安全在庫" NameU="Safety Stock"/>
+
+<Elem Name="倉庫" NameU="Warehouse"/>
+
+<Elem Name="管理センター" NameU="Control Center"/>
+
+<Elem Name="現場" NameU="Workcell"/>
+
+<Elem Name="信号かんばん" NameU="Signal Kanban"/>
+
+<Elem Name="かんばんポスト" NameU="Kanban Post"/>
+
+<Elem Name="生産量を見る" NameU="Go See Production"/>
+
+<Elem Name="言語情報" NameU="Verbal Information"/>
+
+<Elem Name="電話" NameU="Phone"/>
+
+<Elem Name="MRP/ERP" NameU="MRP/ERP"/>
+
+<Elem Name="カイゼン稲妻炸裂アイコン" NameU="Kaizen Burst"/>
+
+<Elem Name="FIFO（先入れ先出し）レーン1" NameU="FIFO Lane"/>
+
+<Elem Name="負荷平準化" NameU="Load Leveling"/>
+
+<Elem Name="順引きボール" NameU="Sequenced Pull Ball"/>
+
+<Elem Name="引き取り" NameU="Physical Pull"/>
+
+<Elem Name="船積み" NameU="Boat Shipment"/>
+
+</Lib>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MarkSheet Version="1.0">
+	<MarkGroup Name="priority" NameDis="Priority" Mutex="1" Text="0" Predefine="1">
+		<Mark Name="priority1" NameDis="Priority 1" Path="/library/icons/priority/1.png"/>
+		<Mark Name="priority2" NameDis="Priority 2" Path="/library/icons/priority/2.png"/>
+		<Mark Name="priority3" NameDis="Priority 3" Path="/library/icons/priority/3.png"/>
+		<Mark Name="priority4" NameDis="Priority 4" Path="/library/icons/priority/4.png"/>
+		<Mark Name="priority5" NameDis="Priority 5" Path="/library/icons/priority/5.png"/>
+		<Mark Name="priority6" NameDis="Priority 6" Path="/library/icons/priority/6.png"/>
+		<Mark Name="priority7" NameDis="Priority 7" Path="/library/icons/priority/7.png"/>
+		<Mark Name="priority8" NameDis="Priority 8" Path="/library/icons/priority/8.png"/>		
+	</MarkGroup>
+	<MarkGroup Name="progress" NameDis="Progress" Mutex="1" Text="0" Predefine="1">
+		<Mark Name="nostart" NameDis="Not Started" Path="/library/icons/progress/notstart.png"/>
+		<Mark Name="125" NameDis="12.5%" Path="/library/icons/progress/125.png"/>
+		<Mark Name="250" NameDis="25%" Path="/library/icons/progress/250.png"/>
+		<Mark Name="375" NameDis="37.5%" Path="/library/icons/progress/375.png"/>
+		<Mark Name="500" NameDis="50%" Path="/library/icons/progress/500.png"/>
+		<Mark Name="625" NameDis="62.5%" Path="/library/icons/progress/625.png"/>
+		<Mark Name="750" NameDis="75%" Path="/library/icons/progress/750.png"/>
+		<Mark Name="875" NameDis="87.5%" Path="/library/icons/progress/875.png"/>		
+		<Mark Name="finished" NameDis="Finished" Path="/library/icons/progress/finished.png"/>
+	</MarkGroup>
+	<MarkGroup Name="face" NameDis="Face" Mutex="1" Text="0" Predefine="1">
+		<Mark Name="happy" NameDis="Happy" Path="/library/icons/face/happy.png"/>
+		<Mark Name="smile" NameDis="Smile" Path="/library/icons/face/smile.png"/>
+		<Mark Name="nofeel" NameDis="No feel" Path="/library/icons/face/nofeel.png"/>
+		<Mark Name="sad" NameDis="Sad" Path="/library/icons/face/sad.png"/>
+		<Mark Name="fury" NameDis="Fury" Path="/library/icons/face/fury.png"/>
+		<Mark Name="tears" NameDis="Tears" Path="/library/icons/face/tears.png"/>
+		<Mark Name="horrible" NameDis="Horrible" Path="/library/icons/face/horrible.png"/>
+		<Mark Name="query" NameDis="Query" Path="/library/icons/face/query.png"/>
+		<Mark Name="embarrassed" NameDis="Embarrassed" Path="/library/icons/face/embarrassed.png"/>
+		<Mark Name="exhaustion" NameDis="Exhaustion" Path="/library/icons/face/exhaustion.png"/>
+		<Mark Name="hush" NameDis="Hush" Path="/library/icons/face/hush.png"/>
+		<Mark Name="funny" NameDis="Funny" Path="/library/icons/face/funny.png"/>
+		<Mark Name="giddy" NameDis="Giddy" Path="/library/icons/face/giddy.png"/>							
+		<Mark Name="anthomaniac" NameDis="Anthomaniac" Path="/library/icons/face/anthomaniac.png"/>
+	</MarkGroup>
+	<MarkGroup Name="arrow" NameDis="Arrow" Mutex="1" Text="0" Predefine="1">
+		<Mark Name="arrow1" NameDis="Up" Path="/library/icons/arrow/1.png"/>
+		<Mark Name="arrow2" NameDis="Down" Path="/library/icons/arrow/2.png"/>
+		<Mark Name="arrow3" NameDis="Left" Path="/library/icons/arrow/3.png"/>
+		<Mark Name="arrow4" NameDis="Right" Path="/library/icons/arrow/4.png"/>
+		<Mark Name="arrow5" NameDis="North West" Path="/library/icons/arrow/5.png"/>
+		<Mark Name="arrow6" NameDis="North East" Path="/library/icons/arrow/6.png"/>
+		<Mark Name="arrow7" NameDis="South East" Path="/library/icons/arrow/7.png"/>
+		<Mark Name="arrow8" NameDis="South West" Path="/library/icons/arrow/8.png"/>		
+	</MarkGroup>
+	<MarkGroup Name="flag" NameDis="Flag" Mutex="1" Text="0" Predefine="1">
+		<Mark Name="flag1" NameDis="Flag 1" Path="/library/icons/flag/flag1.png"/>
+		<Mark Name="flag2" NameDis="Flag 2" Path="/library/icons/flag/flag2.png"/>
+		<Mark Name="flag3" NameDis="Flag 3" Path="/library/icons/flag/flag3.png"/>
+		<Mark Name="flag4" NameDis="Flag 4" Path="/library/icons/flag/flag4.png"/>
+		<Mark Name="flag5" NameDis="Flag 5" Path="/library/icons/flag/flag5.png"/>
+		<Mark Name="flag6" NameDis="Flag 6" Path="/library/icons/flag/flag6.png"/>
+		<Mark Name="flag7" NameDis="Flag 7" Path="/library/icons/flag/flag7.png"/>
+	</MarkGroup>
+	<MarkGroup Name="star" NameDis="Star" Mutex="1" Text="0" Predefine="1">
+		<Mark Name="star1" NameDis="Star 1" Path="/library/icons/star/star1.png"/>
+		<Mark Name="star2" NameDis="Star 2" Path="/library/icons/star/star2.png"/>
+		<Mark Name="star3" NameDis="Star 3" Path="/library/icons/star/star3.png"/>
+		<Mark Name="star4" NameDis="Star 4" Path="/library/icons/star/star4.png"/>
+		<Mark Name="star5" NameDis="Star 5" Path="/library/icons/star/star5.png"/>
+		<Mark Name="star6" NameDis="Star 6" Path="/library/icons/star/star6.png"/>
+		<Mark Name="star7" NameDis="Star 7" Path="/library/icons/star/star7.png"/>
+	</MarkGroup>
+	<MarkGroup Name="symbol" NameDis="Symbol" Mutex="0" Text="0" Predefine="1">
+		<Mark Name="Boy" NameDis="Boy" Path="/library/icons/symbol/1boy.png"/>
+		<Mark Name="Girl" NameDis="Girl" Path="/library/icons/symbol/2girl.png"/>
+		<Mark Name="People" NameDis="People" Path="/library/icons/symbol/3people.png"/>
+		<Mark Name="Peoples" NameDis="Peoples" Path="/library/icons/symbol/4peoples.png"/>
+		<Mark Name="Alarm" NameDis="Alarm" Path="/library/icons/symbol/5alarm.png"/>
+		<Mark Name="Bomb" NameDis="Bomb" Path="/library/icons/symbol/6bomb.png"/>
+		<Mark Name="Handshake" NameDis="Handshake" Path="/library/icons/symbol/9handshake.png"/>
+		<Mark Name="Approve" NameDis="Approve" Path="/library/icons/symbol/10approve.png"/>
+		<Mark Name="Disapprove" NameDis="Disapprove" Path="/library/icons/symbol/11disapprove.png"/>
+		<Mark Name="Medal" NameDis="Medal" Path="/library/icons/symbol/12medal.png"/>
+		<Mark Name="Trophy" NameDis="Trophy" Path="/library/icons/symbol/13trophy.png"/>
+		<Mark Name="Balance" NameDis="Balance" Path="/library/icons/symbol/14balance.png"/>
+		<Mark Name="Judge" NameDis="Judge" Path="/library/icons/symbol/15judge.png"/>
+		<Mark Name="Goal" NameDis="Goal" Path="/library/icons/symbol/16goal.png"/>
+		<Mark Name="Globe" NameDis="Globe" Path="/library/icons/symbol/17globe.png"/>
+		<Mark Name="Shopping" NameDis="Shopping" Path="/library/icons/symbol/18shopping.png"/>
+		<Mark Name="Rocket" NameDis="Rocket" Path="/library/icons/symbol/19rocket.png"/>
+		<Mark Name="Calendar" NameDis="Calendar" Path="/library/icons/symbol/20calendar.png"/>
+		<Mark Name="Table" NameDis="Table" Path="/library/icons/symbol/21table.png"/>
+		<Mark Name="Bar" NameDis="Bar" Path="/library/icons/symbol/22bar.png"/>
+		<Mark Name="Pie" NameDis="Pie" Path="/library/icons/symbol/23pie.png"/>
+		<Mark Name="Line" NameDis="Line" Path="/library/icons/symbol/24line.png"/>
+		<Mark Name="Area" NameDis="Area" Path="/library/icons/symbol/25area.png"/>
+		<Mark Name="Dollar" NameDis="Dollar" Path="/library/icons/symbol/26dollar.png"/>
+		<Mark Name="Euro" NameDis="Euro" Path="/library/icons/symbol/27euro.png"/>
+		<Mark Name="RMB" NameDis="RMB" Path="/library/icons/symbol/28RMB.png"/>		
+		<Mark Name="Question" NameDis="Question" Path="/library/icons/symbol/30question.png"/>
+		<Mark Name="Attention" NameDis="Attention" Path="/library/icons/symbol/31attention.png"/>
+		<Mark Name="Correct" NameDis="Correct" Path="/library/icons/symbol/32correct.png"/>
+		<Mark Name="Error" NameDis="Error" Path="/library/icons/symbol/33error.png"/>
+		<Mark Name="figure" NameDis="Idea" Path="/library/icons/symbol/34idea.png"/>
+		<Mark Name="Data" NameDis="Data" Path="/library/icons/symbol/35data.png"/>
+		<Mark Name="File" NameDis="File" Path="/library/icons/symbol/40file.png"/>
+		<Mark Name="Mail" NameDis="Mail" Path="/library/icons/symbol/41mail.png"/>
+		<Mark Name="Phone" NameDis="Phone" Path="/library/icons/symbol/42phone.png"/>
+		<Mark Name="Note" NameDis="Note" Path="/library/icons/symbol/43note.png"/>
+		<Mark Name="Pen" NameDis="Pen" Path="/library/icons/symbol/44pen.png"/>
+		<Mark Name="Lock" NameDis="Lock" Path="/library/icons/symbol/45lock.png"/>
+		<Mark Name="Unlock" NameDis="Unlock" Path="/library/icons/symbol/46unlock.png"/>
+		<Mark Name="Home" NameDis="Home" Path="/library/icons/symbol/50house.png"/>
+		<Mark Name="Search" NameDis="Search" Path="/library/icons/symbol/51search.png"/>
+		<Mark Name="Internet" NameDis="Internet" Path="/library/icons/symbol/52internet.png"/>
+		<Mark Name="Link" NameDis="Link" Path="/library/icons/symbol/53link.png"/>
+		<Mark Name="Plus" NameDis="Plus" Path="/library/icons/symbol/54plus.png"/>
+		<Mark Name="Minus" NameDis="Minus" Path="/library/icons/symbol/55minus.png"/>
+		<Mark Name="Start" NameDis="Start" Path="/library/icons/symbol/56start.png"/>
+		<Mark Name="Pause" NameDis="Pause" Path="/library/icons/symbol/57pause.png"/>
+		<Mark Name="Stop" NameDis="Stop" Path="/library/icons/symbol/58stop.png"/>
+		<Mark Name="Airplane" NameDis="Airplane" Path="/library/icons/symbol/70airplane.png"/>
+		<Mark Name="Coffee" NameDis="Coffee" Path="/library/icons/symbol/71coffee.png"/>
+		<Mark Name="Battery" NameDis="Battery" Path="/library/icons/symbol/72battery.png"/>
+		<Mark Name="Gift" NameDis="Gift" Path="/library/icons/symbol/73gift.png"/>
+		<Mark Name="Lightning" NameDis="Lightning" Path="/library/icons/symbol/74lightning.png"/>
+		<Mark Name="Drizzle" NameDis="Drizzle" Path="/library/icons/symbol/75drizzle.png"/>
+		<Mark Name="Sunny" NameDis="Sunny" Path="/library/icons/symbol/76sunny.png"/>
+		<Mark Name="Thunder" NameDis="Thunder" Path="/library/icons/symbol/77thunder.png"/>
+		<Mark Name="Tornado" NameDis="Tornado" Path="/library/icons/symbol/78tornado.png"/>
+		<Mark Name="Love" NameDis="Love" Path="/library/icons/symbol/80love.png"/>
+		<Mark Name="Music" NameDis="Music" Path="/library/icons/symbol/81music.png"/>
+		<Mark Name="Gear" NameDis="Gear" Path="/library/icons/symbol/82gear.png"/>
+	</MarkGroup>
+	<MarkGroup Name="resource" NameDis="Resources" Mutex="0" Text="1" Predefine="1">
+    </MarkGroup>
+</MarkSheet>

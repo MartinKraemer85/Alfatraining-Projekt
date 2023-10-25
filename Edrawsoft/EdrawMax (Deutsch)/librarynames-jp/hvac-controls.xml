@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="HVAC Controls">
+
+<Elem Name="タイマー" NameU="Timer"/>
+
+<Elem Name="水平面" NameU="Level"/>
+
+<Elem Name="煙" NameU="Smoke"/>
+
+<Elem Name="I/O ポイント" NameU="I/O point"/>
+
+<Elem Name="作動装置" NameU="Actuator"/>
+
+<Elem Name="温度センサー" NameU="Temperature Sensor"/>
+
+<Elem Name="湿度センサー" NameU="Humidity Sensor"/>
+
+<Elem Name="エンタルピーセンサー" NameU="Enthalpy Sensor"/>
+
+<Elem Name="圧力センサー" NameU="Pressure Sensor"/>
+
+<Elem Name="フローセンサー" NameU="Flow Sensor"/>
+
+<Elem Name="速度センサー" NameU="Velocity Sensor"/>
+
+<Elem Name="電圧センサー" NameU="Voltage Sensor"/>
+
+<Elem Name="汎用センサー" NameU="General Sensor"/>
+
+<Elem Name="回転センサー" NameU="Rotation Sensor"/>
+
+<Elem Name="光センサー" NameU="Light Sensor"/>
+
+<Elem Name="振動センサー" NameU="Vibration Sensor"/>
+
+<Elem Name="電流センサー" NameU="Current Sensor"/>
+
+<Elem Name="パワーセンサー" NameU="Power Sensor"/>
+
+<Elem Name="空気の質センサー" NameU="Air Quality Sensor"/>
+
+<Elem Name="終了スイッチ" NameU="End Switch"/>
+
+<Elem Name="電源接続" NameU="Power Connection"/>
+
+<Elem Name="配線メモ" NameU="Wiring Note"/>
+
+</Lib>

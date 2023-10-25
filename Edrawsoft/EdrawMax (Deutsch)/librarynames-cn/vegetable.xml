@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Vegetable">
+    <Elem NameU="Hamburger" Name="汉堡包"/>
+    <Elem NameU="Hot Dog" Name="热狗"/>
+    <Elem NameU="Pizza" Name="披萨"/>
+    <Elem NameU="Pizza piece" Name="披萨片"/>
+    <Elem NameU="Pizza dinner" Name="披萨大餐"/>
+    <Elem NameU="Spaghetti" Name="意大利面条"/>
+    <Elem NameU="Sushi 1" Name="寿司 1"/>
+    <Elem NameU="Sushi 2" Name="寿司 2"/>
+    <Elem NameU="Sushi 3" Name="寿司 3"/>
+    <Elem NameU="Sausage" Name="香肠"/>
+    <Elem NameU="Chicken" Name="鸡肉"/>
+    <Elem NameU="Drumstick" Name="鸡腿"/>
+    <Elem NameU="Chicken Drumstick" Name="鸡腿"/>
+    <Elem NameU="Meat" Name="肉"/>
+    <Elem NameU="Egg" Name="蛋"/>
+    <Elem NameU="Crab" Name="螃蟹"/>
+    <Elem NameU="Fish" Name="鱼"/>
+    <Elem NameU="Escargots" Name="田螺"/>
+    <Elem NameU="Lobster" Name="龙虾"/>
+    <Elem NameU="Octopus" Name="章鱼"/>
+    <Elem NameU="Tomato 1" Name="西红柿"/>
+    <Elem NameU="Tomato 2" Name="西红柿"/>
+    <Elem NameU="Tomato 3" Name="西红柿"/>
+    <Elem NameU="Carrot" Name="胡萝卜"/>
+    <Elem NameU="Chinese Cabbage" Name="大白菜"/>
+    <Elem NameU="Cauliflower" Name="花椰菜"/>
+    <Elem NameU="Radish" Name="萝卜"/>
+    <Elem NameU="Red Radish" Name="红心萝卜"/>
+    <Elem NameU="Kidney beans" Name="云豆"/>
+    <Elem NameU="Onion" Name="洋葱"/>
+    <Elem NameU="Luffa" Name="丝瓜"/>
+    <Elem NameU="Pumpkin" Name="南瓜"/>
+    <Elem NameU="Eggplant" Name="茄子"/>
+    <Elem NameU="Bell Pepper" Name="灯笼椒"/>
+    <Elem NameU="Mushrooms 1" Name="蘑菇"/>
+    <Elem NameU="Mushrooms 2" Name="蘑菇"/>
+    <Elem NameU="Myrcia" Name="香叶"/>
+    <Elem NameU="Peanut" Name="花生"/>
+    <Elem NameU="Corn" Name="玉米"/>
+    <Elem NameU="Green Onion" Name="葱"/>
+    <Elem NameU="Garlic" Name="大蒜"/>
+    <Elem NameU="A Clove of Garlic" Name="一瓣蒜"/>
+    <Elem NameU="Ginger" Name="姜"/>
+    <Elem NameU="Orange" Name="橙子"/>
+    <Elem NameU="Strawberry" Name="草莓"/>
+    <Elem NameU="Banana" Name="香蕉"/>
+    <Elem NameU="Peeled Banana" Name="去皮香蕉"/>
+    <Elem NameU="Cherry" Name="樱桃"/>
+    <Elem NameU="Grape" Name="葡萄"/>
+    <Elem NameU="Lemon" Name="柠檬"/>
+    <Elem NameU="Peach" Name="桃子"/>
+    <Elem NameU="Apple" Name="苹果"/>
+    <Elem NameU="Star Fruit" Name="杨桃"/>
+    <Elem NameU="Watermelon" Name="西瓜"/>
+    <Elem NameU="Watermelon Slice" Name="西瓜"/>
+    <Elem NameU="Pear" Name="梨"/>
+    <Elem NameU="Lychee" Name="荔枝"/>
+    <Elem NameU="Papaya" Name="木瓜"/>
+    <Elem NameU="Pineapple" Name="菠萝"/>
+    <Elem NameU="Ice-cream cone" Name="甜筒"/>
+    <Elem NameU="Lollipop" Name="棒棒糖"/>
+    <Elem NameU="Macaron" Name="马卡龙"/>
+    <Elem NameU="Doughnut" Name="甜甜圈"/>
+    <Elem NameU="Oreo" Name="奥利奥饼干"/>
+    <Elem NameU="Chocolate" Name="巧克力"/>
+    <Elem NameU="Milk" Name="牛奶"/>
+    <Elem NameU="A Bow of Rice" Name="一碗米饭"/>
+    <Elem NameU="A Glass of Beer 1" Name="一杯啤酒"/>
+    <Elem NameU="A Glass of Beer 2" Name="一杯啤酒"/>
+</Lib>

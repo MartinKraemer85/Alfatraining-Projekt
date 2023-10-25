@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OrgSettings Version="8.0">
+    <OrgFields>
+        <OrgField Name="Nom" ID="1" Format="@" Type="0" NameU="Name"/>
+        <OrgField Name="Titre" ID="2" Format="@" Type="0" NameU="Title"/>
+        <OrgField Name="ID d'employé" ID="3" Format="@" Type="0" NameU="ID"/>
+        <OrgField Name="Catégorie" ID="4" Format="@" Type="0" NameU="Category"/>
+        <OrgField Name="Position" ID="5" Format="@" Type="0" NameU="Location"/>
+        <OrgField Name="Département" ID="6" Format="@" Type="0" NameU="Department"/>
+        <OrgField Name="Email" ID="7" Format="@" Type="0" NameU="Email"/>
+        <OrgField Name="Téléphone de travail" ID="8" Format="@" Type="0" NameU="WPhone"/>
+        <OrgField Name="Téléphone portable" ID="9" Format="@" Type="0" NameU="MPhone"/>
+        <OrgField Name="Statut de l'employé" ID="10" Format="@" Type="0" NameU="EStatus"/>
+        <OrgField Name="Qualité de l'emploi" ID="11" Format="@" Type="0" NameU="JGrade"/>
+        <OrgField Name="Rapporter à" ID="12" Format="@" Type="0" NameU="Report"/>
+        <OrgField Name="Être assistant" ID="13" Format="" Type="5" NameU="Assist"/>
+        <OrgField Name="Salaire" ID="14" Format="&quot;$&quot; #,###0.00" Type="4" NameU="Salary"/>
+        <OrgField Name="Genre" ID="15" Format="@" Type="0" NameU="Gendar"/>
+        <OrgField Name="Âge" ID="16" Format="0" Type="1" NameU="Age"/>
+        <OrgField Name="Nationalité" ID="17" Format="@" Type="0" NameU="Nation"/>
+        <OrgField Name="Date d'embauche" ID="18" Format="yyyy-MM-dd" Type="2" NameU="Hire"/>
+        <OrgField Name="Début du contrat" ID="19" Format="yyyy-MM-dd" Type="2" NameU="CStart"/>
+        <OrgField Name="Fin de contrat" ID="20" Format="yyyy-MM-dd" Type="2" NameU="CEnd"/>
+    </OrgFields>
+    <OrgFieldGroups>
+        <OrgFieldGroup Name="Général" PreDefine="TRUE" NameU="General">
+            <Field ids="1;2;6;7;8"/>
+            <DispField ids="1;2;6"/>
+        </OrgFieldGroup>
+        <OrgFieldGroup Name="Position" PreDefine="TRUE" NameU="Position">
+            <Field ids="1;2;6;7;8"/>
+            <DispField ids="1;2"/>
+        </OrgFieldGroup>
+        <OrgFieldGroup Name="Salaire" PreDefine="TRUE" NameU="Salary">
+            <Field ids="1;2;3;5;6;7;8;9;10;11;14"/>
+            <DispField ids="1;2;14;11"/>
+        </OrgFieldGroup>
+        <OrgFieldGroup Name="Détail HR" PreDefine="TRUE" NameU="HR Detail">
+            <Field ids="1;2;3;4;5;6;7;8;9;10;11;12;14;15;16;17;18;19;20"/>
+            <DispField ids="1;2;3;5;6;15"/>
+        </OrgFieldGroup>
+        <OrgFieldGroup Name="Département" PreDefine="TRUE" NameU="Department">
+            <Field ids="1;2;6"/>
+            <DispField ids="6"/>
+        </OrgFieldGroup>
+        <OrgFieldGroup Name="Contrat" PreDefine="TRUE" NameU="Contract">
+            <Field ids="1;2;3;6;7;8;18;19;20"/>
+            <DispField ids="1;3;19;20"/>
+        </OrgFieldGroup>
+        <OrgFieldGroup Name="Statut de l'employé" PreDefine="TRUE" NameU="Employee Status">
+            <Field ids="1;2;3;4;5;6;7;8;9;10"/>
+            <DispField ids="1;2;10"/>
+        </OrgFieldGroup>
+        <OrgFieldGroup Name="Informations de contact" PreDefine="TRUE" NameU="Contact Info">
+            <Field ids="1;2;3;5;6;7;8;9;17"/>
+            <DispField ids="1;2;6;5;7;9"/>
+        </OrgFieldGroup>
+    </OrgFieldGroups>
+</OrgSettings>

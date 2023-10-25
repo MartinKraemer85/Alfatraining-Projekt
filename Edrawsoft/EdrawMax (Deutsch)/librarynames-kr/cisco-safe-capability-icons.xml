@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Cisco Safe Capability Icons">
+    <Elem NameU="Access Control Using TrustSec" Name="TrustSec을 사용하여 액세스 제어"/>
+    <Elem NameU="Analysis/Correlation" Name="분석/연관"/>
+    <Elem NameU="Anomaly Detection" Name="변칙 검색"/>
+    <Elem NameU="Anti-Malware" Name="맬웨어 방지"/>
+    <Elem NameU="Anti-Spam" Name="스팸 방지"/>
+    <Elem NameU="Anti-Virus" Name="바이러스 백신"/>
+    <Elem NameU="Application" Name="응용프로그램"/>
+    <Elem NameU="Application Visibility Control (AVC)" Name="애플리케이션 가시성 제어(AVC)"/>
+    <Elem NameU="Client Based Security" Name="클라이언트 기반 보안"/>
+    <Elem NameU="Cloud Web Security" Name="클라우드 웹 보안"/>
+    <Elem NameU="Conference Bridge" Name="회의 브리지"/>
+    <Elem NameU="Data Loss Prevention (DLP)" Name="데이터 손실 방지(DLP)"/>
+    <Elem NameU="Database" Name="데이터베이스"/>
+    <Elem NameU="Distributed Denial of Service Protection" Name="분산형 서비스 보호"/>
+    <Elem NameU="DNS" Name="DNS서버"/>
+    <Elem NameU="Email Encryption" Name="이메일 암호화"/>
+    <Elem NameU="Email Security" Name="이메일 보안"/>
+    <Elem NameU="Fabric Switching" Name="패브릭 전환"/>
+    <Elem NameU="Firewall" Name="방화벽"/>
+    <Elem NameU="Virtual Firewall" Name="가상 방화벽"/>
+    <Elem NameU="Flow Analytics" Name="트래픽 분석"/>
+    <Elem NameU="Identity Authorization" Name="ID 권한 부여"/>
+    <Elem NameU="Identity Authorization (ALT)" Name="ID 권한 부여 (ALT)"/>
+    <Elem NameU="Intrusion Detection" Name="침입 검색"/>
+    <Elem NameU="Intrusion Prevention" Name="침입 방지"/>
+    <Elem NameU="L2 Switching" Name="L2 전환"/>
+    <Elem NameU="Virtual L2 switching" Name="가상 L2 전환"/>
+    <Elem NameU="Policy/Configuration.79" Name="정책 구성"/>
+    <Elem NameU="L2/L3 Network" Name="L2/L3 네트워크"/>
+    <Elem NameU="L2/L3 Network Virtual" Name="L2/L3 가상 네트워크"/>
+    <Elem NameU="L3 Switching" Name="L3 전환"/>
+    <Elem NameU="Load Balancer" Name="부하 분산 장치"/>
+    <Elem NameU="Logging/Reporting" Name="로그/보고"/>
+    <Elem NameU="Malware Sandbox" Name="맬웨어 샌드박스"/>
+    <Elem NameU="Mobile Device Management (MDM)" Name="모바일 디바이스 관리(MDM)"/>
+    <Elem NameU="Monitoring" Name="모니터링"/>
+    <Elem NameU="Policy/Configuration.79" Name="정책 구성"/>
+    <Elem NameU="Posture Assessment" Name="보안 태세 평가"/>
+    <Elem NameU="Routing" Name="라우터"/>
+    <Elem NameU="Server Based Security" Name="서버 기반 보안"/>
+    <Elem NameU="SSL/TLS Offload" Name="SSL/TLS 오프로드"/>
+    <Elem NameU="Storage" Name="저장소"/>
+    <Elem NameU="Threat Intelligence" Name="위협 정보"/>
+    <Elem NameU="Time Synchronization" Name="시간 동기화"/>
+    <Elem NameU="User" Name="사용자"/>
+    <Elem NameU="Video" Name="비디오"/>
+    <Elem NameU="Virtual Private Network (VPN)" Name="가상 프라빗 네트워크(VPN)"/>
+    <Elem NameU="VPN Concentrator" Name="VPN 집선 장치"/>
+    <Elem NameU="Virtualized Capability" Name="가상화 "/>
+    <Elem NameU="Voice" Name="음성"/>
+    <Elem NameU="Vulnerability Management" Name="취약점 관리"/>
+    <Elem NameU="Web Application Firewall" Name="웹 응용프로그램 방화벽"/>
+    <Elem NameU="Web Reputation/Filtering/DCS" Name="웹 신뢰도"/>
+    <Elem NameU="Web Security" Name="웹 보안"/>
+    <Elem NameU="Wireless Connection" Name="무선 네트워크 연결"/>
+    <Elem NameU="Wireless Intrusion Detection System (WIDS)" Name="무선 침입 탐지 시스템(WIDS)"/>
+    <Elem NameU="Wireless Intrusion Prevention System (WIPS)" Name="무선 침입 방어 시스템(WIPS)"/>
+</Lib>

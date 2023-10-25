@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Dragon Boat">
+	<Elem NameU="Rice dumpling&#xA;1" Name="Bolinho de arroz&#xA;1"/>
+	<Elem NameU="Rice dumpling&#xA;2" Name="Bolinho de arroz&#xA;2"/>
+	<Elem NameU="Rice dumpling&#xA;3" Name="Bolinho de arroz&#xA;3"/>
+	<Elem NameU="Rice dumpling&#xA;4" Name="Bolinho de arroz&#xA;4"/>
+	<Elem NameU="Rice dumpling&#xA;5" Name="Bolinho de arroz&#xA;5"/>
+	<Elem NameU="Rice dumplings leaves" Name="Folhas de bolinho de arroz"/>
+	<Elem NameU="Drum" Name="Tambor"/>
+	<Elem NameU="Dragon" Name="Dragão"/>
+	<Elem NameU="Dragon Boat" Name="Barco Dragão"/>
+	<Elem NameU="Qu Yuan" Name="Qu Yuan"/>
+	<Elem NameU="Lotus 1" Name="Lótus 1"/>
+	<Elem NameU="Lotus 2" Name="Lótus 2"/>
+	<Elem NameU="Doll" Name="Boneca"/>
+	<Elem NameU="Bamboo Shoots" Name="Rebentos de Bambu"/>
+	<Elem NameU="Bamboo Leaves" Name="Folhas de Bambu"/>
+	<Elem NameU="Bamboo" Name="Bambu"/>
+	<Elem NameU="Cloud 1" Name="Nuvem 1"/>
+	<Elem NameU="Cloud 2" Name="Nuvem 2"/>
+	<Elem NameU="Tassel" Name="Borla"/>
+	<Elem NameU="Tassel 2" Name="Borla 2"/>
+</Lib>

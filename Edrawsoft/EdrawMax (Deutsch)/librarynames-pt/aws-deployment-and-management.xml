@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="AWS Deployment and Management">
+	<Elem NameU="CodeDeploy" Name="Implementação do Código"/>
+	<Elem NameU="AWS CloudFormation Stack" Name="Conjunto CloudFormation AWS"/>
+	<Elem NameU="AWS CloudFormation Template" Name="Modelo CloudFormation AWS"/>
+	<Elem NameU="AWS CloudFormation" Name="CloudFormation AWS"/>
+	<Elem NameU="AWS Data Pipeline" Name="Conduta de Dados AWS"/>
+	<Elem NameU="CloudTrail" Name="Rastro da Cloud"/>
+	<Elem NameU="CloudWatch Alarm" Name="Alarme CloudWatch"/>
+	<Elem NameU="CloudWatch" Name="CloudWatch"/>
+	<Elem NameU="Elastic Beanstalk Application" Name="Aplicação Beanstalk Elástico"/>
+	<Elem NameU="Elastic Beanstalk Deployment" Name="Implementação Beanstalk Elastic"/>
+	<Elem NameU="Elastic Beanstalk" Name="Beanstalk Elástico"/>
+	<Elem NameU="Elastic Beanstalk Container" Name="Contentor Beanstalk Elástico"/>
+	<Elem NameU="IAM Add-on" Name="Add-on IAM"/>
+	<Elem NameU="IAM Credentials" Name="Credenciais IAM"/>
+	<Elem NameU="IAM Data Encryption Key" Name="Chave de Encriptação de Dados IAM"/>
+	<Elem NameU="IAM Encrypted Data" Name="Dados Encriptados IAM"/>
+	<Elem NameU="IAM MFA Token" Name="Token MFA IAM"/>
+	<Elem NameU="IAM Permissions" Name="Permissões IAM"/>
+	<Elem NameU="IAM Roles" Name="Papéis IAM"/>
+	<Elem NameU="IAM Security Token Service" Name="Serviço de Token de Segurança IAM"/>
+	<Elem NameU="IAM Short Term Credentials" Name="Credenciais de Curto Prazo IAM"/>
+	<Elem NameU="IAM STS" Name="IAM STS"/>
+	<Elem NameU="IAM" Name="IAM"/>
+	<Elem NameU="OpsWorks Apps" Name="Apps OpsWorks"/>
+	<Elem NameU="OpsWorks Deployments" Name="Implementações OpsWorks"/>
+	<Elem NameU="OpsWorks Instances" Name="Instâncias OpsWorks"/>
+	<Elem NameU="OpsWorks Layers" Name="Camadas OpsWorks"/>
+	<Elem NameU="OpsWorks Monitoring" Name="Monitoramento OpsWorks"/>
+	<Elem NameU="OpsWorks Permissions" Name="Permissões OpsWorks"/>
+	<Elem NameU="OpsWorks Resources" Name="Recursos OpsWorks"/>
+	<Elem NameU="OpsWorks Stack" Name="Conjunto OpsWorks"/>
+	<Elem NameU="OpsWorks" Name="OpsWorks"/>
+</Lib>

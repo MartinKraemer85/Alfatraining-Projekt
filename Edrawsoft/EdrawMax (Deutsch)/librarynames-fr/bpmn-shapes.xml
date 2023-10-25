@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib nameU="BPMN-Shapes">
+	<Elem NameU="Task" Name="Tâche"/>
+	<Elem NameU="Gateway" Name="Passerelle"/>
+	<Elem NameU="Start" Name="Début"/>
+	<Elem NameU="Intermediate" Name="Intermédiaire"/>
+	<Elem NameU="End" Name="Fin"/>
+	<Elem NameU="Start Message" Name="Message de début"/>
+	<Elem NameU="Start Message 2" Name="Message de début 2"/>
+	<Elem NameU="Intermediate Message" Name="Message intermédiaire"/>
+	<Elem NameU="Intermediate Message 2" Name="Message intermédiaire 2"/>
+	<Elem NameU="Throwing Message" Name="Lancer un message"/>
+	<Elem NameU="End Message" Name="Terminer un message"/>
+	<Elem NameU="Start Timer" Name="Minuterie de début"/>
+	<Elem NameU="Start Timer 2" Name="Minuterie de début 2"/>
+	<Elem NameU="Intermediate Timer" Name="Minuterie intermédiaire"/>
+	<Elem NameU="Intermediate Timer 2" Name="Minuterie intermédiaire 2"/>
+	<Elem NameU="Start Escalation" Name="Escalade de début"/>
+	<Elem NameU="Start Escalation 2" Name="Escalade de début 2"/>
+	<Elem NameU="Intermediate Escalation" Name="Escalade intermédiaire"/>
+	<Elem NameU="Intermediate Escalation 2" Name="Escalade intermédiaire 2"/>
+	<Elem NameU="Intermediate Escalation 3" Name="Escalade intermédiaire 3"/>
+	<Elem NameU="End Escalation" Name="Escalade de fin"/>
+	<Elem NameU="Start Error" Name="Erreur de début"/>
+	<Elem NameU="Intermediate Error" Name="Erreur intermédiaire"/>
+	<Elem NameU="End Error" Name="Erreur de fin"/>
+	<Elem NameU="Start Condition" Name="Conditionnel de début"/>
+	<Elem NameU="Start Condition 2" Name="Conditionnel de début 2"/>
+	<Elem NameU="Intermediate Condition" Name="Conditionnel intermédiaire"/>
+	<Elem NameU="Intermediate Condition 2" Name="Conditionnel intermédiaire 2"/>
+	<Elem NameU="Cancel" Name="Annulation"/>
+	<Elem NameU="Cancel 2" Name="Annulation 2"/>
+	<Elem NameU="Start Link" Name="Lien de début"/>
+	<Elem NameU="Intermediate Link" Name="Lien intermédiaire"/>
+	<Elem NameU="Intermediate Link 2" Name="Lien intermédiaire 2"/>
+	<Elem NameU="End Link" Name="Lien de fin"/>
+	<Elem NameU="Compensation" Name="Compensation"/>
+	<Elem NameU="Compensation 2" Name="Compensation 2"/>
+	<Elem NameU="Compensation 3" Name="Compensation 3"/>
+	<Elem NameU="Compensation 4" Name="Compensation 4"/>
+	<Elem NameU="Signal Event" Name="Événement de signal"/>
+	<Elem NameU="Signal Event 2" Name="Événement de signal 2"/>
+	<Elem NameU="Signal Event 3" Name="Événement de signal 3"/>
+	<Elem NameU="Signal Event 4" Name="Événement de signal 4"/>
+	<Elem NameU="Signal Event 5" Name="Événement de signal 5"/>
+	<Elem NameU="Signal Event 6" Name="Événement de signal 6"/>
+	<Elem NameU="Multiple Event" Name="Événement multiple"/>
+	<Elem NameU="Multiple Event 2" Name="Événement multiple 2"/>
+	<Elem NameU="Multiple Event 3" Name="Événement multiple 3"/>
+	<Elem NameU="Multiple Event 4" Name="Événement multiple 4"/>
+	<Elem NameU="Multiple Event 5" Name="Événement multiple 5"/>
+	<Elem NameU="Multiple Event 6" Name="Événement multiple 6"/>
+	<Elem NameU="Parallel Multiple Event" Name="Événement multiple parallèle"/>
+	<Elem NameU="Parallel Multiple Event 2" Name="Événement multiple parallèle 2"/>
+	<Elem NameU="Parallel Multiple Event 3" Name="Événement multiple parallèle 3"/>
+	<Elem NameU="Parallel Multiple Event 4" Name="Événement multiple parallèle 4"/>
+	<Elem NameU="Pool Title" Name="Titre de la piscine"/>
+	<Elem NameU="Pool" Name="Piscine"/>
+	<Elem NameU="Pools Block" Name="Bloc de piscines"/>
+	<Elem NameU="Collapsed Sub-Process" Name="Sous-processus plié"/>
+	<Elem NameU="Loop Process" Name="Processus en boucle"/>
+	<Elem NameU="Loop - Parallel Multi-Instance" Name="Boucle - Multi-instance parallèle"/>
+	<Elem NameU="Loop - Sequential Multi-Instance" Name="Boucle - Multimode séquentiel instance"/>
+	<Elem NameU="Ad-Hoc Process" Name="Processus d'Ad-Hoc"/>
+	<Elem NameU="Loop Sub-Process" Name="Processus d'Ad-Hoc"/>
+	<Elem NameU="Multiple Instance" Name="Instance multiple"/>
+	<Elem NameU="Compensation Sub-Process" Name="Rémunération sous-processus"/>
+	<Elem NameU="Ad-Hoc Sub-Process" Name="Sous-processus d'Ad-Hoc"/>
+	<Elem NameU="Transaction" Name="Transaction"/>
+	<Elem NameU="Event Sub-Process" Name="Événement de sous-processus"/>
+	<Elem NameU="Call Activity" Name="Activité d'appel"/>
+	<Elem NameU="Conversation" Name="Conversation"/>
+	<Elem NameU="Collapsed Conversation" Name="Conversation pliée"/>
+	<Elem NameU="Call Conversation" Name="Conversation d'appel"/>
+	<Elem NameU="Collapsed Call Conversation" Name="Conversation d'appel pliée"/>
+	<Elem NameU="Group" Name="Groupe"/>
+	<Elem NameU="Choreography Task" Name="Chorégraphie de tâche"/>
+	<Elem NameU="Sub-Choreography" Name="Chorégraphie secondaire"/>
+	<Elem NameU="Call Choreography" Name="Chorégraphie d'appel"/>
+	<Elem NameU="Data Object" Name="Objet de données"/>
+	<Elem NameU="Collection Data Object" Name="Collection d'objets de données"/>
+	<Elem NameU="Input Data" Name="Entrée de données"/>
+	<Elem NameU="Output Data" Name="Sortie de données"/>
+	<Elem NameU="Data Store" Name="Magasin de données"/>
+	<Elem NameU="Exclusive Gateway with Marker" Name="Passerelle exclusif avec marquage"/>
+	<Elem NameU="Event-Based Gateway" Name="Passerelle événement"/>
+	<Elem NameU="Exclusive Event-based Gateway" Name="Passerelle événement exclusive"/>
+	<Elem NameU="Parallel Event-based Gateway" Name="Passerelle événement parallèle"/>
+	<Elem NameU="Parallel Gateway" Name="Passerelle parallèle"/>
+	<Elem NameU="Inclusive Gateway" Name="Passerelle inclusive"/>
+	<Elem NameU="Complex Gateway" Name="Passerelle complexe"/>
+	<Elem NameU="Sequence Flow" Name="Flux de séquence"/>
+	<Elem NameU="Sequence Flow Right-angle" Name="Flux de séquence à angle droit"/>
+	<Elem NameU="Message Flow" Name="Flux de messages"/>
+	<Elem NameU="Message Flow Right-angle" Name="Flux de message à angle droit"/>
+	<Elem NameU="Data Association" Name="Association de données"/>
+	<Elem NameU="Association" Name="Association"/>
+	<Elem NameU="Association Right-angle" Name="Association à angle droit"/>
+	<Elem NameU="Process Marker" Name="Marquage de processus"/>
+	<Elem NameU="Loop Marker" Name="Marquage de boucle"/>
+	<Elem NameU="Parallel MI Marker" Name="Marquage parallèle MI"/>
+	<Elem NameU="Sequential MI Marker" Name="Marquage séquentiel MI"/>
+	<Elem NameU="Ad-Hoc Marker" Name="ADHOC marquage"/>
+	<Elem NameU="Compensation Marker" Name="Marquage de compensation"/>
+	<Elem NameU="Send Task" Name="Tâche d'envoi"/>
+	<Elem NameU="Receive Task" Name="Tâche de réception"/>
+	<Elem NameU="User Task" Name="Tâche utilisateur"/>
+	<Elem NameU="Manual Task" Name="Tâche manuelle"/>
+	<Elem NameU="Business Rule Task" Name="Tâche de règle d'affaires"/>
+	<Elem NameU="Service Task" Name="Tâche de service"/>
+	<Elem NameU="Script Task" Name="Tâche de script"/>
+	<Elem NameU="Rectangle balloon" Name="Ballon rectangulaire"/>
+	<Elem NameU="Annotation" Name="Commentaire"/>
+</Lib>

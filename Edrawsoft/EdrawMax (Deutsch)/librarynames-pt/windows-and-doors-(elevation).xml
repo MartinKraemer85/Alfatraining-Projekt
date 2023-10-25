@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Windows and Doors (Elevation)">
+	<Elem NameU="Window 1" Name="Janela 1"/>
+	<Elem NameU="Window 2" Name="Janela 2"/>
+	<Elem NameU="Window 3" Name="Janela 3"/>
+	<Elem NameU="Window 4" Name="Janela 4"/>
+	<Elem NameU="Window 5" Name="Janela 5"/>
+	<Elem NameU="Window 6" Name="Janela 6"/>
+	<Elem NameU="Window 7" Name="Janela 7"/>
+	<Elem NameU="Window 8" Name="Janela 8"/>
+	<Elem NameU="Window 9" Name="Janela 9"/>
+	<Elem NameU="Window 10" Name="Janela 10"/>
+	<Elem NameU="Window 11" Name="Janela 11"/>
+	<Elem NameU="Window 12" Name="Janela 12"/>
+	<Elem NameU="Window 13" Name="Janela 13"/>
+	<Elem NameU="Window 14" Name="Janela 14"/>
+	<Elem NameU="Window 15" Name="Janela 15"/>
+	<Elem NameU="Window 16" Name="Janela 16"/>
+	<Elem NameU="Window 17" Name="Janela 17"/>
+	<Elem NameU="Door 1" Name="Porta 1"/>
+	<Elem NameU="Door 2" Name="Porta 2"/>
+	<Elem NameU="Door 3" Name="Porta 3"/>
+	<Elem NameU="Door 4" Name="Porta 4"/>
+	<Elem NameU="Door 5" Name="Porta 5"/>
+	<Elem NameU="Door" Name="Porta"/>
+	<Elem NameU="Arched doorway" Name="Vão da porta em arco"/>
+	<Elem NameU="Cabinet" Name="Gabinete"/>
+	<Elem NameU="Roof Eaves" Name="Beiral do Telhado"/>
+	<Elem NameU="Door handle" Name="Maçaneta de porta"/>
+</Lib>

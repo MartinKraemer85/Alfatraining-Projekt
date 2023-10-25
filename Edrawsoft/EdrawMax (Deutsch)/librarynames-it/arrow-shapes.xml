@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Arrow Shapes">
+	<Elem NameU="Right Arrow" Name="Freccia a Destra"/>
+	<Elem NameU="Back Arrow" Name="Freccia Indietro"/>
+	<Elem NameU="Northwest Arrow" Name="Freccia a Nordovest"/>
+	<Elem NameU="Down Arrow" Name="Freccia in Giù"/>
+	<Elem NameU="Left Arrow" Name="Freccia a Sinistra"/>
+	<Elem NameU="Up Single Arrow" Name="Freccia Singola in Su"/>
+	<Elem NameU="Single Arrow Down" Name="Freccia Singola in Giù"/>
+	<Elem NameU="Thick Arrow" Name="Freccia Spessa"/>
+	<Elem NameU="Armband Shaped Arrow" Name="Freccia a Bracciale"/>
+	<Elem NameU="Up Arrow" Name="Freccia in Su"/>
+	<Elem NameU="Pentagonal Arrow" Name="Freccia Pentagonale"/>
+	<Elem NameU="Southwest Arrow" Name="Freccia a Sudovest"/>
+	<Elem NameU="Southeast Arrow" Name="Freccia a Sudest"/>
+	<Elem NameU="Backward Double Arrow" Name="Freccia Doppia Indietro"/>
+	<Elem NameU="Stylized Arrow" Name="Freccia Stilizzata"/>
+	<Elem NameU="Multiple Arrows" Name="Frecce Multiple"/>
+	<Elem NameU="Forward Double Arrow" Name="Freccia Doppia Avanti"/>
+	<Elem NameU="Two-Way Arrow" Name="Freccia Bidirezionale"/>
+	<Elem NameU="Double Arrow Up" Name="Freccia Doppia in Su"/>
+	<Elem NameU="Four-Way Arrow" Name="Freccia Quadri-direzionale"/>
+	<Elem NameU="Circle Arrow" Name="Freccia Circolare"/>
+	<Elem NameU="Interactive Arrow" Name="Freccia Interattiva"/>
+	<Elem NameU="Recyclable Arrow" Name="Freccia Riciclo"/>
+	<Elem NameU="Flexible Loop Arrow" Name="Freccia a Circuito Flessibile"/>
+	<Elem NameU="S-type Arrow" Name="Freccia a S"/>
+	<Elem NameU="Arrow" Name="Freccia"/>
+	<Elem NameU="Open-end Arrow" Name="Freccia Aperta"/>
+	<Elem NameU="Elbow Arrow" Name="Freccia a Gomito"/>
+	<Elem NameU="Bent Arrow" Name="Freccia Piegata"/>
+	<Elem NameU="U-type Arrow" Name="Freccia a U"/>
+</Lib>

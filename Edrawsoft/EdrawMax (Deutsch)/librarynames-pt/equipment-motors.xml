@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Equipment-Motors">
+	<Elem NameU="Motor" Name="Motor"/>
+	<Elem NameU="Step motor" Name="Motor de passo"/>
+	<Elem NameU="DC motor" Name="Motor DC"/>
+	<Elem NameU="AC motor" Name="Motor AC"/>
+	<Elem NameU="Motor generator" Name="Gerador motor"/>
+	<Elem NameU="Gear" Name="Equipamento"/>
+	<Elem NameU="Generator" Name="Gerador"/>
+	<Elem NameU="AC generator" Name="Gerador AC"/>
+	<Elem NameU="DC generator" Name="Gerador DC"/>
+	<Elem NameU="Motor-operated valve" Name="Válvula operada a motor"/>
+	<Elem NameU="Motor driven turbine" Name="Turbina movida a motor"/>
+	<Elem NameU="Diesel motor" Name="Motor a diesel"/>
+	<Elem NameU="Electric motor" Name="Motor elétrico"/>
+	<Elem NameU="Turbine" Name="Turbina"/>
+</Lib>

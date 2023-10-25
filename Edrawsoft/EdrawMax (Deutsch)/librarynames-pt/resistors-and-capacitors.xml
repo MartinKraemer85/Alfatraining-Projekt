@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Resistors and Capacitors">
+	<Elem NameU="Resistor" Name="Resistor"/>
+	<Elem NameU="Alternate resistor" Name="Resistor Alternativo"/>
+	<Elem NameU="Variable resistor" Name="Resistor Variável"/>
+	<Elem NameU="Pre-set resistor" Name="Resistor pré-configurado"/>
+	<Elem NameU="Potentiometer resistor" Name="Resistor potenciómetro"/>
+	<Elem NameU="Potentiometer (Trimmer)" Name="Potenciómetro (Aparador)"/>
+	<Elem NameU="Potentiometer (Trimmer) 2" Name="Potenciómetro (Aparador) 2"/>
+	<Elem NameU="Resistor (Adjustable contact)" Name="Resistor (Contacto ajustável)"/>
+	<Elem NameU="Resistor (Shunt)" Name="Resistor (Derivação)"/>
+	<Elem NameU="Varistor (Symmetrical)" Name="Varistor (Simétrico)"/>
+	<Elem NameU="Resistor (Nonlinear)" Name="Resistor (Não-linear)"/>
+	<Elem NameU="Resistor (Tapped)" Name="Resistor (Aproveitado)"/>
+	<Elem NameU="Memristor" Name="Memristor"/>
+	<Elem NameU="Memristor 2" Name="Memristor 2"/>
+	<Elem NameU="Magnetoresistor" Name="Magnetoresistor"/>
+	<Elem NameU="Photoconductive transducer" Name="Transdutor fotocondutivo"/>
+	<Elem NameU="Capacitors" Name="Condensadores"/>
+	<Elem NameU="Capacitors 2" Name="Condensadores 2"/>
+	<Elem NameU="Capacitor 3" Name="Condensador 3"/>
+	<Elem NameU="Capacitor with step" Name="Condensador com passo"/>
+	<Elem NameU="Capacitor with tapping" Name="Condensador com aproveitamento"/>
+	<Elem NameU="Capacitor (US)" Name="Condensador (EUA)"/>
+	<Elem NameU="Electrolytic capacitor (US)" Name="Condensador electrolítico (EUA)"/>
+	<Elem NameU="Capacitor (UK)" Name="Condensador (RU)"/>
+	<Elem NameU="Differential capacitor" Name="Capacitador diferencial"/>
+	<Elem NameU="Tuning variable capacitor (US)" Name="Condensador variável de afinação (EUA)"/>
+	<Elem NameU="Trimmer variable capacitor (US)" Name="Condensador variável de aparador (EUA)"/>
+	<Elem NameU="Trimmer variable capacitor(US)" Name="Condensador variável de aparador(EUA)"/>
+	<Elem NameU="Feed through capacitor" Name="Condensador de passagem"/>
+	<Elem NameU="Ganged capacitor" Name="Condensador combinado"/>
+	<Elem NameU="Multiple capacitor" Name="Condensador múltplo"/>
+	<Elem NameU="Multiple electrolytic capacitor (Common negative)" Name="Condensador eletrolítico múltiplo (Comum positivo)"/>
+	<Elem NameU="Multiple electrolytic capacitor (Common positive)" Name="Condensador eletrolítico múltiplo (Comum negativo)"/>
+</Lib>

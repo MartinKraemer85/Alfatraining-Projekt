@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Matrix">
+	<Elem NameU="Ansoff Matrix" Name="安索夫矩陣"/>
+	<Elem NameU="SWOT" Name="SWOT"/>
+	<Elem NameU="Circle Matrix/SWOT" Name="圓形矩陣/SWOT"/>
+	<Elem NameU="Matrix" Name="矩陣"/>
+	<Elem NameU="3x3 Matrix" Name="3x3矩陣"/>
+	<Elem NameU="Matrix with Stickers" Name="帶貼紙的矩陣"/>
+</Lib>

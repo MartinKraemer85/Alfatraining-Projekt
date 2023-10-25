@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Integrated Circuit Components">
+	<Elem NameU="Horizontal extension" Name="Estensione orizzontale"/>
+	<Elem NameU="Vertical extension" Name="Estensione verticale"/>
+	<Elem NameU="IC" Name="IC"/>
+	<Elem NameU="4X Building block-top" Name="Blocco di costruzione 4X - superficie"/>
+	<Elem NameU="4X Building block-base" Name="Blocco di costruzione 4X - base"/>
+	<Elem NameU="4X Building block-middle" Name="Blocco di costruzione 4X - parte centrale"/>
+	<Elem NameU="4X Building block-complete" Name="Blocco di costruzione 4X - completo"/>
+	<Elem NameU="1X Building block" Name="Blocco di costruzione 1X"/>
+	<Elem NameU="MUX 2" Name="MUX 2"/>
+	<Elem NameU="MUX 4" Name="MUX 4"/>
+	<Elem NameU="MUX 8" Name="MUX 8"/>
+	<Elem NameU="Ground" Name="Terreno"/>
+	<Elem NameU="Driver" Name="Driver"/>
+	<Elem NameU="4-bit a/d converter" Name="Convertitore a/d a 4 bit"/>
+	<Elem NameU="8-bit a/d converter" Name="Convertitore a/d a 8 bit"/>
+	<Elem NameU="4-bit d/a converter" Name="Convertitore d/a a 4 bit"/>
+	<Elem NameU="8-bit d/a converter" Name="Convertitore d/a a 8 bit"/>
+	<Elem NameU="Voltage converter" Name="Convertitore di voltaggio"/>
+	<Elem NameU="PWM" Name="PWM"/>
+	<Elem NameU="4-bit register" Name="Registratore a 4 bit"/>
+	<Elem NameU="8-bit register" Name="Registratore a 8 bit"/>
+	<Elem NameU="One shot" Name="One-shot"/>
+	<Elem NameU="4-bit counter" Name="Contatore a 4 bit"/>
+	<Elem NameU="8-bit counter" Name="Contatore a 8 bit"/>
+	<Elem NameU="Preload counter 4" Name="Contatore di pre-carico 4"/>
+	<Elem NameU="Preload counter 8" Name="Contatore di pre-carico 8"/>
+	<Elem NameU="Analog switch 2" Name="Interruttore analogico 2"/>
+	<Elem NameU="Analog switch 4" Name="Interruttore analogico 4"/>
+	<Elem NameU="2-4 decoder" Name="Decoder 2-4"/>
+	<Elem NameU="3-8 decoder" Name="Decoder 3-8"/>
+	<Elem NameU="Contact" Name="Contatto"/>
+	<Elem NameU="Contact (N)" Name="Contatto (N)"/>
+	<Elem NameU="Positive Transition-Sensing Contact" Name="Contatto Transizione-Rilevamento Positivo"/>
+	<Elem NameU="Negative Transition-Sensing Contact" Name="Contatto Transizione-Rilevamento Negativo"/>
+	<Elem NameU="Output (N)" Name="Uscita (N)"/>
+	<Elem NameU="Output" Name="Uscita"/>
+	<Elem NameU="Positive Transition-Sensing Coil" Name="Induttore di Transizione-Rilevamento Positivo"/>
+	<Elem NameU="Negative Transition-Sensing Coil" Name="Induttore di Transizione-Rilevamento Negativo"/>
+	<Elem NameU="Set Latch Coil" Name="Impostazione Bobina di Blocco"/>
+	<Elem NameU="Reset Latch Coil" Name="Ripristino Bobina di Blocco"/>
+	<Elem NameU="Output 2" Name="Uscita 2"/>
+	<Elem NameU="Output (N) 2" Name="Uscita (N) 2"/>
+</Lib>

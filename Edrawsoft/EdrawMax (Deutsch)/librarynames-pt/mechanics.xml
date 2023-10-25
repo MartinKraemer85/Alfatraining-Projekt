@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Mechanics">
+	<Elem NameU="Rest" Name="Descansar"/>
+	<Elem NameU="Weight" Name="Peso"/>
+	<Elem NameU="Ball" Name="Bola"/>
+	<Elem NameU="Staircase" Name="Escadas"/>
+	<Elem NameU="Balance" Name="Balanço"/>
+	<Elem NameU="leverage" Name="Alavancar"/>
+	<Elem NameU="Steelyard" Name="Siderurgia"/>
+	<Elem NameU="SPST" Name="SPST"/>
+	<Elem NameU="Battery" Name="Bateria"/>
+	<Elem NameU="Cell" Name="Célula"/>
+	<Elem NameU="Accumulator" Name="Acumulador"/>
+	<Elem NameU="Voltmeter" Name="Voltímetro"/>
+	<Elem NameU="Voltmeter1" Name="Voltímetro1"/>
+	<Elem NameU="Voltmeter2" Name="Voltímetro2"/>
+	<Elem NameU="Ammeter" Name="Amperímetro"/>
+	<Elem NameU="Ammeter1" Name="Amperímetro1"/>
+	<Elem NameU="Ammeter2" Name="Amperímetro2"/>
+	<Elem NameU="Lamp" Name="Lâmpada"/>
+	<Elem NameU="Lamp1" Name="Lâmpada1"/>
+	<Elem NameU="Lamp2" Name="Lâmpada2"/>
+	<Elem NameU="Resistance" Name="Resistência"/>
+	<Elem NameU="Resistance1" Name="Resistência1"/>
+	<Elem NameU="Resistance2" Name="Resistência2"/>
+	<Elem NameU="Spring" Name="Mola"/>
+	<Elem NameU="Stub" Name="Toco"/>
+	<Elem NameU="Stick" Name="Pau"/>
+	<Elem NameU="Spring Balance" Name="Balança de Mola"/>
+	<Elem NameU="Weight 2" Name="Peso 2"/>
+	<Elem NameU="Weight 3" Name="Peso 3"/>
+	<Elem NameU="Flume" Name="Calha"/>
+	<Elem NameU="Mathematical Pendulum" Name="Pêndulo Matemático"/>
+	<Elem NameU="Block" Name="Bloco"/>
+	<Elem NameU="Pulley Block" Name="Bloco de Polia"/>
+	<Elem NameU="Crown Block" Name="Bloco de Coroa"/>
+	<Elem NameU="Travelling Block 1" Name="Bloco Itinerante 1"/>
+	<Elem NameU="Travelling Block 2" Name="Bloco Itinerante 2"/>
+	<Elem NameU="Travelling Block 3" Name="Bloco Itinerante 3"/>
+	<Elem NameU="Travelling Bulley Block 1" Name="Bloco Bulley Itinerante 1"/>
+	<Elem NameU="Travelling Bulley Block 2" Name="Bloco Bulley Itinerante 2"/>
+	<Elem NameU="Elevator" Name="Elevador"/>
+	<Elem NameU="Vector" Name="Vetor"/>
+	<Elem NameU="Angle" Name="Ângulo"/>
+	<Elem NameU="Parabolic Motion Path" Name="Caminho de Movimento Parabólico"/>
+	<Elem NameU="Elliptical Motion Path" Name="Caminho de Movimento Elíptico"/>
+	<Elem NameU="Line Motion Path" Name="Caminho de Movimento Linear"/>
+	<Elem NameU="Bevel" Name="Bisel"/>
+	<Elem NameU="Semi-Circle Slot Vehicle" Name="Veículo de Entalhe em Semicírculo"/>
+	<Elem NameU="1/4 Circle Slot Vehicle" Name="Veículo de Entalhe de 1/4 de Círculo"/>
+	<Elem NameU="Trailer" Name="Reboque"/>
+	<Elem NameU="Flat Vehicle" Name="Veículo Plano"/>
+	<Elem NameU="Transmittal Strap" Name="Correia de Transmissão"/>
+	<Elem NameU="Push" Name="Empurrar"/>
+	<Elem NameU="Pull" Name="Puxar"/>
+	<Elem NameU="Earth" Name="Terra"/>
+	<Elem NameU="Amperometer" Name="Amperímetro"/>
+	<Elem NameU="Electroscope" Name="Eletroscópio"/>
+	<Elem NameU="Beaker" Name="Proveta"/>
+	<Elem NameU="Measuring Cylinder" Name="Cilindro de Medição"/>
+	<Elem NameU="weight beam" Name="viga de peso"/>
+	<Elem NameU="caliper" Name="calibrador"/>
+	<Elem NameU="Simple Pendulum" Name="Pêndulo Simples"/>
+	<Elem NameU="Coordinates" Name="Coordenadas"/>
+	<Elem NameU="Magnet" Name="Ímã"/>
+	<Elem NameU="Electromagnetic Relay" Name="Relé Electromagnético"/>
+	<Elem NameU="Ticker-Tape Timer" Name="Temporizador de Picar o Cartão"/>
+	<Elem NameU="Cantilever Beam" Number="6" Name="Viga em balanço"/>
+	<Elem NameU="Simply Supported Beam" Name="Viga Simplesmente Apoiada"/>
+	<Elem NameU="Overhanging Beam" Name="Viga suspensa"/>
+	<Elem NameU="Concentrated Load" Name="Carga Concentrada"/>
+	<Elem NameU="Uniformly Distributed Load" Name="Carga uniformemente distribuída"/>
+	<Elem NameU="Triangular Load" Name="Carga Triangular"/>
+</Lib>

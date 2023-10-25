@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Equipment-Instruments">
+	<Elem NameU="Indicator" Name="Indicateur"/>
+	<Elem NameU="Behind Control Panel" Name="Derrière le panneau de configuration"/>
+	<Elem NameU="On Central Control Panel" Name="Sur le panneau de configuration centrale"/>
+	<Elem NameU="On Local Control Pane" Name="Sur le panneau de configuration locale"/>
+	<Elem NameU="Behind a Local Control Panel" Name="Derrière le panneau de configuration locale"/>
+	<Elem NameU="Indicator 2" Name="Indicateur 2"/>
+	<Elem NameU="Indicator 3" Name="Indicateur 3"/>
+	<Elem NameU="Indicator 4" Name="Indicateur 4"/>
+	<Elem NameU="Indicator 5" Name="Indicateur 5"/>
+	<Elem NameU="Odometer" Name="Odomètre"/>
+	<Elem NameU="Pressure gauge" Name="Manomètre"/>
+	<Elem NameU="Flowmeter" Name="Débitmètre"/>
+	<Elem NameU="Thermometer" Name="Thermomètre"/>
+	<Elem NameU="Shared Indicator" Name="Indicateur de partage"/>
+	<Elem NameU="Displayed configurable device" Name="Dispositif d'affichage configurable"/>
+	<Elem NameU="Shared Indicator 2" Name="Indicateur de partage 2"/>
+	<Elem NameU="Computer Indicator" Name="Indicateur ordinateur"/>
+	<Elem NameU="Programmable Indicator" Name="Indicateur programmable"/>
+	<Elem NameU="Displayed programmable device" Name="Dispositif programmable affiché"/>
+	<Elem NameU="Computer" Name="Ordinateur"/>
+	<Elem NameU="Unit control panel" Name="Panneau de contrôle de l'unité"/>
+	<Elem NameU="Temp Indicator" Name="Indicateur de température"/>
+	<Elem NameU="Temp Transmitter" Name="Émetteur de température"/>
+	<Elem NameU="Temp Recorder" Name="Enregistreur de température"/>
+	<Elem NameU="Temp Controller" Name="Contrôleur de température"/>
+	<Elem NameU="Flow Indicator" Name="Indicateur de débit"/>
+	<Elem NameU="Flow Transmitter" Name="Transmetteur de débit"/>
+	<Elem NameU="Flow Recorder" Name="Enregistreur de débit"/>
+	<Elem NameU="Flow Controller" Name="Régulateur de débit"/>
+	<Elem NameU="Level Indicator" Name="Indicateur de niveau"/>
+	<Elem NameU="Pressure Indicator" Name="Indicateur de pression"/>
+	<Elem NameU="Level Transmitter" Name="Transmetteur de niveau"/>
+	<Elem NameU="Level Recorder" Name="Enregistreur de niveau"/>
+	<Elem NameU="Level Controller" Name="Contrôleur de niveau"/>
+	<Elem NameU="Pressure Transmitter" Name="Transmetteur de pression"/>
+	<Elem NameU="Pressure Recorder" Name="Enregistreur de pression"/>
+	<Elem NameU="Pressure Controller" Name="Régulateur de pression"/>
+	<Elem NameU="Pressure Indicating" Name="Indicateur de pression"/>
+	<Elem NameU="Pressure Recording" Name="Enregistrement de la pression"/>
+	<Elem NameU="Level Alarm" Name="Alarme de niveau"/>
+	<Elem NameU="Flow Element" Name="Élément de flux"/>
+	<Elem NameU="Temperature Element" Name="Élément de température"/>
+	<Elem NameU="Level Gauge" Name="Jauge de niveau"/>
+	<Elem NameU="Analyzer Transmitter" Name="Émetteur analyseur"/>
+	<Elem NameU="Transducer" Name="Transducteur"/>
+	<Elem NameU="Specialty item" Name="Élément de spécialité"/>
+	<Elem NameU="Sampler" Name="Échantillonneur"/>
+	<Elem NameU="Straightening vanes" Name="Aubes de redressement"/>
+	<Elem NameU="Diaphragm meter" Name="Mètre diaphragme"/>
+	<Elem NameU="Rotary meter" Name="Mètre rotatif"/>
+	<Elem NameU="Magnetic" Name="Magnétique"/>
+	<Elem NameU="Pitot tube type flow element" Name="Élément d'écoulement de type de tube de Pitot"/>
+	<Elem NameU="Pitot tube" Name="Tube de Pitot"/>
+	<Elem NameU="Wedge meter" Name="Mètre Wedge"/>
+	<Elem NameU="Target meter" Name="Débimètre en cible"/>
+	<Elem NameU="Weir meter" Name="Compteur de Weir"/>
+	<Elem NameU="Ultrasonic meter" Name="Débitmètre à ultrasons"/>
+	<Elem NameU="V-cone meter" Name="Mètre V-cône"/>
+	<Elem NameU="Venturi meter" Name="Débitmètre de Venturi"/>
+	<Elem NameU="Quick change orifice fitting" Name="Changement rapide orifice de montage"/>
+	<Elem NameU="Turbine meter" Name="Compteur à turbine"/>
+	<Elem NameU="Rotometer" Name="Rotamètre"/>
+	<Elem NameU="Double" Name="Double"/>
+	<Elem NameU="Steam traced" Name="Vapeur tracé"/>
+	<Elem NameU="Venturi" Name="Venturi"/>
+	<Elem NameU="Vortex sensor" Name="Capteur Vortex"/>
+	<Elem NameU="And gate" Name="Opérateur ET"/>
+	<Elem NameU="Or gate" Name="Opérateur OU"/>
+	<Elem NameU="Not gate" Name="Opérateur NON"/>
+	<Elem NameU="Correcting element" Name="Élément de correction"/>
+	<Elem NameU="Diamond" Name="Diamond"/>
+	<Elem NameU="Pressure gauges" Name="Manomètres"/>
+	<Elem NameU="Thermometers" Name="Thermomètres"/>
+	<Elem NameU="Averaging pitot tube" Name="Tube de Pitot moyen"/>
+	<Elem NameU="Level meter" Name="Indicateur de niveau"/>
+	<Elem NameU="Coriolis flow sensor" Name="Capteur de débit Coriolis"/>
+	<Elem NameU="Flow nozzle meter" Name="Débitmètre de buse"/>
+	<Elem NameU="Flume meter" Name="Mètre canal"/>
+	<Elem NameU="Manhole" Name="Regard"/>
+	<Elem NameU="Socket, Connection Nozzle" Name="Socket, Buse de raccordement"/>
+	<Elem NameU="Support bracket" Name="Patte de support"/>
+	<Elem NameU="Support leg" Name="Béquille"/>
+	<Elem NameU="Support ring" Name="Bague d'appui"/>
+	<Elem NameU="Support skirt" Name="Jupe de soutien"/>
+</Lib>

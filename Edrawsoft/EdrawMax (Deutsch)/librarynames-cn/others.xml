@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Others">
+    <Elem NameU="Cloud shell" Name="云命令行"/>
+    <Elem NameU="Composer" Name="逻辑编排"/>
+    <Elem NameU="Config" Name="配置"/>
+    <Elem NameU="DFS" Name="分布式文件系统"/>
+    <Elem NameU="DNS" Name="DNS"/>
+    <Elem NameU="GDS" Name="GDS"/>
+    <Elem NameU="Graphic workstation" Name="图形工作站"/>
+    <Elem NameU="GTM" Name="全局流量管理"/>
+    <Elem NameU="Log service" Name="日志服务"/>
+    <Elem NameU="Mini app cloud" Name="小程序云"/>
+    <Elem NameU="Mini program cloud app" Name="小程序云应用"/>
+    <Elem NameU="Open API explorer" Name="API调用工具"/>
+    <Elem NameU="Phone number identification" Name="号码认证"/>
+    <Elem NameU="Private link" Name="私网连接"/>
+    <Elem NameU="Privatezone DNS" Name="云解析"/>
+    <Elem NameU="SMC" Name="迁云服务"/>
+    <Elem NameU="Tracing analysis" Name="链路追踪"/>
+    <Elem NameU="Web application host server Web" Name="Web应用托管服务器"/>
+</Lib>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Arrow Shapes">
+    <Elem NameU="Right Arrow" Name="向右箭头"/>
+    <Elem NameU="Back Arrow" Name="向后箭头"/>
+    <Elem NameU="Down Arrow" Name="向下箭头"/>
+    <Elem NameU="Up Arrow" Name="向上细箭头"/>
+    <Elem NameU="Left Arrow" Name="向左箭头"/>
+    <Elem NameU="Thick Arrow" Name="粗箭头"/>
+    <Elem NameU="Up Single Arrow" Name="向上单箭头"/>
+    <Elem NameU="Armband Shaped Arrow" Name="臂章形箭头"/>
+    <Elem NameU="Pentagonal Arrow" Name="五角箭头"/>
+    <Elem NameU="Diamond Arrow" Name="菱形箭头"/>
+    <Elem NameU="Multiple Arrows" Name="多个并排箭头"/>
+    <Elem NameU="Forward Double Arrow" Name="向前双箭头"/>
+    <Elem NameU="Stylized Arrow" Name="圆点箭头"/>
+    <Elem NameU="S-type Arrow" Name="S形箭头"/>
+    <Elem NameU="Arrow" Number="6" Name="箭头"/>
+    <Elem NameU="Dynamic Arrow" Number="2" Name="动态箭头"/>
+    <Elem NameU="Arrow" Number="2" Name="箭头"/>
+    <Elem NameU="Open-end Arrow" Name="单端开口箭头"/>
+    <Elem NameU="Arrow" Number="2" Name="箭头"/>
+    <Elem NameU="Return Arrow" Name="返回箭头"/>
+    <Elem NameU="Elbow Arrow" Number="2" Name="直角箭头"/>
+    <Elem NameU="Bent Arrow" Number="2" Name="转弯箭头"/>
+    <Elem NameU="Two-Way Arrow" Name="双向箭头"/>
+    <Elem NameU="Bent Arrow" Number="2" Name="转弯箭头"/>
+    <Elem NameU="U-type Arrow" Name="U型箭头"/>
+    <Elem NameU="Single Arrow Down" Name="向下单箭头"/>
+    <Elem NameU="Stylized Arrow" Name="圆点箭头"/>
+    <Elem NameU="Southwest Arrow" Name="西南向箭头"/>
+    <Elem NameU="Northwest Arrow" Name="西北向箭头"/>
+    <Elem NameU="Southeast Arrow" Name="东南向箭头"/>
+    <Elem NameU="Backward Double Arrow" Name="向后双箭头"/>
+    <Elem NameU="Four-Way Arrow" Name="四向箭头"/>
+    <Elem NameU="Double Arrow Up" Name="向上双箭头"/>
+    <Elem NameU="Interactive Arrow" Name="交互箭头"/>
+    <Elem NameU="Anti-clockwise Arrow" Name="逆时针箭头"/>
+    <Elem NameU="Flexible Loop Arrow" Number="2" Name="可调整箭头"/>
+    <Elem NameU="Clockwise Arrow" Name="顺时针箭头"/>
+    <Elem NameU="Double Arrow" Name="双箭头"/>
+    <Elem NameU="Recyclable Arrow" Name="可回收箭头"/>
+    <Elem NameU="Circle Arrow" Number="3" Name="循环箭头"/>
+    <Elem NameU="Arrow Round Forward" Name="圈内向前箭头"/>
+    <Elem NameU="Arrow Round" Number="2" Name="圆箭头"/>
+    <Elem NameU="Arrow Double Round" Name="圈内双箭头"/>
+    <Elem NameU="Arrow Round Backward" Name="圈内向后箭头"/>
+    <Elem NameU="Arrow Round Hollow" Name="圈内空心箭头"/>
+    <Elem NameU="North Arrow Round" Name="圈内向北箭头"/>
+    <Elem NameU="Arrow Round Upward" Name="圈内向上箭头"/>
+    <Elem NameU="Arched Round" Name="圆底弧形箭头"/>
+    <Elem NameU="Arrow North East" Name="东北向箭头"/>
+    <Elem NameU="Double Arrow Down" Name="向下双箭头"/>
+    <Elem NameU="Curved Arrow Right" Name="向右弯曲箭头"/>
+    <Elem NameU="Curved Arrow Down" Name="向下弯曲箭头"/>
+    <Elem NameU="Curved Arrow Up" Name="向上弯曲箭头"/>
+    <Elem NameU="Long Curved Arrow" Name="长弯曲箭头"/>
+    <Elem NameU="Return Arrow" Name="返回箭头"/>
+    <Elem NameU="Curved Arrow Left" Name="向左曲线箭头"/>
+    <Elem NameU="Arch Arrow" Name="拱形箭头"/>
+    <Elem NameU="Short Arch Arrow" Name="短箭头"/>
+    <Elem NameU="Style Arrow Curved" Number="2" Name="弯曲风格化箭头"/>
+    <Elem NameU="Right-turn Arrow" Name="右转箭头"/>
+    <Elem NameU="Left-turn Arrow" Name="左转箭头"/>
+    <Elem NameU="Two-direction Arrow" Name="垂直双向箭头"/>
+    <Elem NameU="Multi Arrow Gradient" Name="渐变多个箭头"/>
+    <Elem NameU="Arrow Square" Name="方底箭头"/>
+    <Elem NameU="Big Head Arrow" Name="大头箭头"/>
+    <Elem NameU="Arrow With Hollow Circle" Name="带空心圆圈的箭头"/>
+    <Elem NameU="Highlight Arrow Down" Name="向下高光箭头"/>
+    <Elem NameU="Highlight Arrow Up" Name="向上高光箭头"/>
+    <Elem NameU="Style Arrow Curved" Number="2" Name="弯曲风格化箭头"/>
+    <Elem NameU="Arrow Moving Up" Name="上升箭头"/>
+    <Elem NameU="Arrow Move Up" Name="上涨箭头"/>
+    <Elem NameU="Arrow Going Up" Name="上移箭头"/>
+    <Elem NameU="Arrow Moving Down" Name="下降箭头"/>
+    <Elem NameU="Arrow Move Down" Name="降低箭头"/>
+    <Elem NameU="Wave Arrow" Name="波浪形箭头"/>
+    <Elem NameU="Arrow Vertical Moving" Name="3D倾斜箭头"/>
+    <Elem NameU="Arrow Moving Further" Name="渐远箭头"/>
+    <Elem NameU="Wave Arrow" Name="波浪形箭头"/>
+    <Elem NameU="Arrow Moving Closer" Name="渐近箭头"/>
+    <Elem NameU="Arrow Moving Backward" Name="返回箭头"/>
+    <Elem NameU="Arrow Moving Closer" Name="渐近箭头"/>
+    <Elem NameU="Arrow Moving Left" Name="左移箭头"/>
+    <Elem NameU="Verticle Arrow Right" Name="3D右转直立箭头"/>
+    <Elem NameU="3D Curved Arrow" Name="3D弯曲箭头"/>
+    <Elem NameU="3D Straight Arrow" Name="3D直箭头"/>
+    <Elem NameU="3d Arrow Going Left" Name="3D左转箭头"/>
+    <Elem NameU="3D Arch Arrow" Name="3D拱形箭头"/>
+    <Elem NameU="Cycle Arrow 3D" Name="循环箭头（3D）"/>
+    <Elem NameU="Head-to-head Arrow" Name="对立箭头"/>
+    <Elem NameU="Two-direction Arrow" Name="垂直双向箭头"/>
+    <Elem NameU="Infographic Arrow" Number="16" Name="信息图形箭头"/>
+</Lib>

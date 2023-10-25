@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="2D Directional Maps">
+
+<Elem Name="Route" NameU="Road"/>
+
+<Elem Name="Route arrondie" NameU="Road round"/>
+
+<Elem Name="Coin" NameU="Corner"/>
+
+<Elem Name="Coin arrondi" NameU="Corner round"/>
+
+<Elem Name="3 Sens" NameU="3 Ways"/>
+
+<Elem Name="Coin de 3 sens" NameU="3 Ways round"/>
+
+<Elem Name="4 Sens" NameU="4 Ways"/>
+
+<Elem Name="Coin de 4 sens" NameU="4 Ways round"/>
+
+<Elem Name="Tournant 1" NameU="Curve 1"/>
+
+<Elem Name="Tournant arrondi 1" NameU="Curve round 1"/>
+
+<Elem Name="Tournant 2" NameU="Curve 2"/>
+
+<Elem Name="Tournant arrondi 2" NameU="Curve round 2"/>
+
+<Elem Name="Rond-Point" NameU="Roundabout"/>
+
+<Elem Name="Échange de cloverleaf" NameU="Cloverleaf interchange"/>
+
+<Elem Name="Échange de losange" NameU="Diamond interchange"/>
+
+<Elem Name="Pont" NameU="Bridge"/>
+
+<Elem Name="Route flexible" NameU="Flexible road"/>
+
+<Elem Name="Région" NameU="Region"/>
+
+<Elem Name="Porte" NameU="Gate"/>
+
+<Elem Name="Pause de la chaussée" NameU="Roadway break"/>
+
+<Elem Name="Route mince" NameU="Thin road"/>
+
+<Elem Name="Dot de ville/village" NameU="City/town dot"/>
+
+<Elem Name="Nombre de jonction" NameU="Junction number"/>
+
+<Elem Name="Ville" NameU="City"/>
+
+<Elem Name="Banque" NameU="Bank"/>
+
+<Elem Name="Librairie" NameU="Book store"/>
+
+<Elem Name="Salon de beauté" NameU="Beauty salon"/>
+
+<Elem Name="Clinique médicale" NameU="Medical clinic"/>
+
+<Elem Name="Hôtel" NameU="Hotel"/>
+
+<Elem Name="Bureau de poste" NameU="Post office"/>
+
+<Elem Name="Police" NameU="Police"/>
+
+<Elem Name="Cinéma" NameU="Movie theater"/>
+
+<Elem Name="Restaurant" NameU="Restaurant"/>
+
+<Elem Name="Marché" NameU="Market"/>
+
+<Elem Name="Supermarché" NameU="Supermarket"/>
+
+<Elem Name="Café" NameU="Coffee shop"/>
+
+<Elem Name="Bibliothèque" NameU="Library"/>
+
+<Elem Name="Mairie" NameU="Town hall"/>
+
+<Elem Name="École" NameU="School"/>
+
+<Elem Name="Cathédrale" NameU="Cathedral"/>
+
+<Elem Name="Motel" NameU="Motel"/>
+
+<Elem Name="Mairie" NameU="Town Hall"/>
+
+<Elem Name="Condos" NameU="Condos"/>
+
+<Elem Name="Maison publique" NameU="Public house"/>
+
+<Elem Name="Station-essence" NameU="Petrol station"/>
+
+<Elem Name="" NameU="Gas station"/>
+
+<Elem Name="Grange" NameU="Barn"/>
+
+<Elem Name="Grange 2" NameU="Barn 2"/>
+
+<Elem Name="Bâtiment" NameU="Building"/>
+
+<Elem Name="Usine" NameU="Factory"/>
+
+<Elem Name="Hôpital" NameU="Hospital"/>
+
+<Elem Name="Stade" NameU="Stadium"/>
+
+<Elem Name="Réserve naturelle" NameU="Wildlife Park"/>
+
+<Elem Name="Montagnes" NameU="Mountains"/>
+
+<Elem Name="Parc" NameU="Park"/>
+
+<Elem Name="Bungalow de vacances" NameU="Holiday Bungalow"/>
+
+<Elem Name="Plage" NameU="Beach"/>
+
+<Elem Name="Fountain Plaza" NameU="Fountain Plaza"/>
+
+<Elem Name="Parc d'attractions" NameU="Amusement Park"/>
+
+<Elem Name="Cascade" NameU="Waterfall"/>
+
+<Elem Name="Rivière" NameU="River"/>
+
+<Elem Name="Lac" NameU="Lake"/>
+
+<Elem Name="Arbre 1" NameU="Tree 1"/>
+
+<Elem Name="Arbre 2" NameU="Tree 2"/>
+
+<Elem Name="Arbre 3" NameU="Tree 3"/>
+
+<Elem Name="Arbre 4" NameU="Tree 4"/>
+
+<Elem Name="Bateau de croisière" NameU="Cruise ship"/>
+
+<Elem Name="Port" NameU="Port"/>
+
+<Elem Name="Grue" NameU="Crane"/>
+
+<Elem Name="Excavatrice" NameU="Excavator"/>
+
+<Elem Name="Levage" NameU="Hoist"/>
+
+<Elem Name="Aéroport" NameU="Airport"/>
+
+<Elem Name="Cargo" NameU="Freighter"/>
+
+<Elem Name="Feu d'arrêt" NameU="Stop Light"/>
+
+<Elem Name="Direction Guide" NameU="Direction Guide"/>
+
+<Elem Name="location" NameU="location"/>
+
+<Elem Name="Signe de direction" NameU="Direction sign"/>
+
+<Elem Name="Place de parking" NameU="Parking place"/>
+
+</Lib>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="iPad UI">
+	<Elem NameU="iPad" Name="iPad"/>
+	<Elem NameU="Horizontal iPad" Name="iPad Horizontal"/>
+	<Elem NameU="Frame" Name="Moldura"/>
+	<Elem NameU="Status bar 1" Name="Barra de estado 1"/>
+	<Elem NameU="Status bar 2" Name="Barra de estado 2"/>
+	<Elem NameU="Status bar 3" Name="Barra de estado 3"/>
+	<Elem NameU="Status bar 4" Name="Barra de estado 4"/>
+	<Elem NameU="Status bar 5" Name="Barra de estado 5"/>
+	<Elem NameU="Basic Menu Bar 1" Name="Barra de Menu Básica 1"/>
+	<Elem NameU="Basic Menu Bar 2" Name="Barra de Menu Básica 2"/>
+	<Elem NameU="Basic Menu Bar 3" Name="Barra de Menu Básica 3"/>
+	<Elem NameU="Basic Menu Bar 4" Name="Barra de Menu Básica 4"/>
+	<Elem NameU="Basic Menu Bar 5" Name="Barra de Menu Básica 5"/>
+	<Elem NameU="Keyboard Control" Name="Controle de Teclado"/>
+	<Elem NameU="Text" Name="Texto"/>
+	<Elem NameU="Button" Name="Botão"/>
+	<Elem NameU="Back" Name="Retroceder"/>
+	<Elem NameU="Type your text here" Name="Digite o seu texto aqui"/>
+	<Elem NameU="Search Box" Name="Caixa de Pesquisa"/>
+	<Elem NameU="Three Buttons Control" Name="Controle de Três Botões"/>
+	<Elem NameU="Four Buttons Control" Name="Controle de Quatro Botões"/>
+	<Elem NameU="Slider" Name="Deslizador"/>
+	<Elem NameU="Field Name" Name="Nome de Campo"/>
+	<Elem NameU="Two Buttons Alert" Name="Alerta de Dois Botões"/>
+	<Elem NameU="Time Picker" Name="Selecionador de Tempo"/>
+	<Elem NameU="Login Activity" Name="Atividade de Login"/>
+	<Elem NameU="App Icon" Name="Ícone de App"/>
+	<Elem NameU="Block" Name="Bloco"/>
+	<Elem NameU="Open button" Name="Botão de abrir"/>
+	<Elem NameU="On/Off Switch" Name="Interruptor de Ligar/Desligar"/>
+	<Elem NameU="Circular Progress View" Name="Vista de Progresso Circular"/>
+	<Elem NameU="Two Buttons Control" Name="Controle de Dois Botões"/>
+	<Elem NameU="Label" Name="Etiqueta"/>
+	<Elem NameU="Radio button" Name="Botão rádio"/>
+	<Elem NameU="Text Selection Frame" Name="Moldura de Seleção de Texto"/>
+	<Elem NameU="Selection Frame" Name="Moldura de Seleção"/>
+</Lib>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="2D Block Diagram">
+    <Elem NameU="Process" Name="프로세스"/>
+	<Elem NameU="Decision" Name="결정"/>
+	<Elem NameU="Document" Name="문서"/>
+	<Elem NameU="Data" Name="데이터"/>
+	<Elem NameU="Start or Terminator" Name="시작 또는 종료"/>
+	<Elem NameU="Sub Process" Name="하위 프로세스"/>
+	<Elem NameU="Start" Name="시작"/>
+	<Elem NameU="People" Name="사람"/>
+	<Elem NameU="Database" Name="데이터베이스"/>
+	<Elem NameU="Annotation" Name="주석"/>
+</Lib>

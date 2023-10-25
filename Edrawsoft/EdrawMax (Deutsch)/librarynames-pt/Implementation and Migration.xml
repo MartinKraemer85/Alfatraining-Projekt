@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Implementation and Migration">
+	<Elem NameU="Plateau" Name="Platô"/>
+	<Elem NameU="Gap" Name="Lacuna"/>
+	<Elem NameU="Deliverable" Name="Entrega"/>
+	<Elem NameU="Work Package" Name="Pacote de trabalho"/>
+	<Elem NameU="Implementation Event" Name="Evento de implementação"/>
+</Lib>

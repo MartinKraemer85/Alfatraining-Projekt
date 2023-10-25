@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Icons">
+	<Elem NameU="Address - Book" Name="Rubrica - Indirizzi"/>
+	<Elem NameU="Address - Card" Name="Rubrica - Indirizzo"/>
+	<Elem NameU="Alarm Clock" Name="Sveglia"/>
+	<Elem NameU="Alert" Name="Allarme"/>
+	<Elem NameU="Anchor" Name="Ancora"/>
+	<Elem NameU="Aperture" Name="Apertura"/>
+	<Elem NameU="At" Name="Chiocciola"/>
+	<Elem NameU="Android" Name="Android"/>
+	<Elem NameU="Apple" Name="Apple"/>
+	<Elem NameU="Apps" Name="App"/>
+	<Elem NameU="Arrow" Name="Freccia"/>
+	<Elem NameU="Arrow - Circular" Name="Freccia - Circolare"/>
+	<Elem NameU="Arrow - Double Head" Name="Freccia - Punta Doppia"/>
+	<Elem NameU="Arrow - Down" Name="Freccia - In Basso"/>
+	<Elem NameU="Arrow - Expand" Name="Freccia - Espandi"/>
+	<Elem NameU="Arrow Growth" Name="Freccia Verso l'Alto"/>
+	<Elem NameU="Arrow - Return" Name="Freccia - Indietro"/>
+	<Elem NameU="Arrow - Shrink" Name="Freccia - Comprimi"/>
+	<Elem NameU="Bag" Name="Borsa"/>
+	<Elem NameU="Bar" Name="Barra"/>
+	<Elem NameU="Baseball" Name="Baseball"/>
+	<Elem NameU="Basketball" Name="Basket"/>
+	<Elem NameU="Bath" Name="Vasca"/>
+	<Elem NameU="Battery Charging" Name="Batteria in Carica"/>
+	<Elem NameU="Battery Empty" Name="Batteria Vuota"/>
+	<Elem NameU="Battery Full" Name="Batteria Piena"/>
+	<Elem NameU="Battery Half" Name="Batteria a Metà"/>
+	<Elem NameU="Battery Low" Name="Batteria Scarica"/>
+	<Elem NameU="Beer" Name="Birra"/>
+	<Elem NameU="Bicycle" Name="Bicicletta"/>
+	<Elem NameU="Binocular" Name="Binocolo"/>
+	<Elem NameU="Birthday" Name="Compleanno"/>
+	<Elem NameU="Bitcoin" Name="Bitcoin"/>
+	<Elem NameU="Blind" Name="Cieco"/>
+	<Elem NameU="Bluetooth" Name="Bluetooth"/>
+	<Elem NameU="Boat" Name="Barca"/>
+	<Elem NameU="Bomb" Name="Bomba"/>
+	<Elem NameU="Book 1" Name="Libro 1"/>
+	<Elem NameU="Book 2" Name="Libro 2"/>
+	<Elem NameU="Bookmark" Name="Segnalibro"/>
+	<Elem NameU="Bowtie" Name="Papillon"/>
+	<Elem NameU="Briefcase 1" Name="Valigetta 1"/>
+	<Elem NameU="Briefcase 2" Name="Valigetta 2"/>
+	<Elem NameU="Briefcase 3" Name="Valigetta 3"/>
+	<Elem NameU="Bug" Name="Insetto"/>
+	<Elem NameU="Building" Name="Edificio"/>
+	<Elem NameU="Bulb" Name="Lampadina"/>
+	<Elem NameU="Bulb - Luminous" Name="Lampadina - Luminosa"/>
+	<Elem NameU="Bus" Name="Autobus"/>
+	<Elem NameU="Calculator" Name="Calcolatrice"/>
+	<Elem NameU="Calendar" Name="Calendario"/>
+	<Elem NameU="Calendar-Check" Name="Calendario con Spunta"/>
+	<Elem NameU="Calendar-Times" Name="Calendario con Ora"/>
+	<Elem NameU="Camera" Name="Fotocamera"/>
+	<Elem NameU="Cancel" Name="Cancella"/>
+	<Elem NameU="Cancel with Circle" Name="Cancella con Cerchio"/>
+	<Elem NameU="Candle" Name="Candela"/>
+	<Elem NameU="Car" Name="Automobile"/>
+	<Elem NameU="Cart" Name="Carrello"/>
+	<Elem NameU="Cart-Allow-Down" Name="Carrello con Freccia Verso il Basso"/>
+	<Elem NameU="Cart-Plus" Name="Carrello con Segno Più"/>
+	<Elem NameU="Carrot" Name="Carota"/>
+	<Elem NameU="Chain" Name="Catena"/>
+	<Elem NameU="Chat Bubble" Name="Fumetto Chat"/>
+	<Elem NameU="Chat Bubble - 2" Name="Fumetto Chat - 2"/>
+	<Elem NameU="Chat Bubbles" Name="Fumetti Chat"/>
+	<Elem NameU="Chatbubble - Working" Name="Fumetto Chat - a Lavoro"/>
+	<Elem NameU="Chat Bubble - Round" Name="Fumetto Chat - Rotondo"/>
+	<Elem NameU="Chatbubble - Working2" Name="Fumetto Chat - a Lavoro 2"/>
+	<Elem NameU="Check" Name="Spunta"/>
+	<Elem NameU="Check-Square-O" Name="Spunta-Quadrato-O"/>
+	<Elem NameU="Check with Circle" Name="Spunta su Cerchio"/>
+	<Elem NameU="Child" Name="Bambino"/>
+	<Elem NameU="Circle" Name="Cerchio"/>
+	<Elem NameU="Clipboard 1" Name="Appunti 1"/>
+	<Elem NameU="Clipboard 2" Name="Appunti 2"/>
+	<Elem NameU="Clock" Name="Orologio"/>
+	<Elem NameU="Clock - 1" Name="Orologio - 1"/>
+	<Elem NameU="Clone" Name="Clone"/>
+	<Elem NameU="Cloud - 1" Name="Cloud - 1"/>
+	<Elem NameU="Cloud - 2" Name="Cloud - 2"/>
+	<Elem NameU="Cloud - Upload" Name="Cloud - Carica"/>
+	<Elem NameU="Cloud - Upload2" Name="Cloud - Carica1"/>
+	<Elem NameU="Cloud - Download" Name="Cloud - Download"/>
+	<Elem NameU="Cloud - Download2" Name="Cloud - Download2"/>
+	<Elem NameU="Cloud - Done" Name="Cloud - Terminato"/>
+	<Elem NameU="Cocktail" Name="Cocktail"/>
+	<Elem NameU="Coffee" Name="Caffè"/>
+	<Elem NameU="Cogs" Name="Ingranaggi"/>
+	<Elem NameU="Color Filter" Name="Filtro Colore"/>
+	<Elem NameU="Compass" Name="Compasso"/>
+	<Elem NameU="Compose" Name="Composizione"/>
+	<Elem NameU="Contract" Name="Contratto"/>
+	<Elem NameU="Crop" Name="Ritaglio"/>
+	<Elem NameU="Cube" Name="Cubo"/>
+	<Elem NameU="Cycle" Name="Circolo"/>
+	<Elem NameU="Diamond" Name="Diamante"/>
+	<Elem NameU="Document" Name="Documento"/>
+	<Elem NameU="Documents" Name="Documenti"/>
+	<Elem NameU="Done" Name="Fatto"/>
+	<Elem NameU="Download" Name="Download"/>
+	<Elem NameU="Earphone" Name="Auricolari"/>
+	<Elem NameU="Education" Name="Educazione"/>
+	<Elem NameU="Email" Name="Email"/>
+	<Elem NameU="Email - Open" Name="Email - Aperta"/>
+	<Elem NameU="Expand" Name="Espandi"/>
+	<Elem NameU="Euro" Name="Euro"/>
+	<Elem NameU="Eye" Name="Occhio"/>
+	<Elem NameU="Facebook" Name="Facebook"/>
+	<Elem NameU="Female" Name="Femmina"/>
+	<Elem NameU="Film" Name="Film"/>
+	<Elem NameU="Fire" Name="Fuoco"/>
+	<Elem NameU="Flag" Name="Bandiera"/>
+	<Elem NameU="Flame" Name="Fiamma"/>
+	<Elem NameU="Flash" Name="Flash"/>
+	<Elem NameU="Flash - 2" Name="Flash - 2"/>
+	<Elem NameU="Flash Off" Name="Flash Spento"/>
+	<Elem NameU="Flask" Name="Fiaschetta"/>
+	<Elem NameU="Flower" Name="Fiore"/>
+	<Elem NameU="Folder" Name="Cartella"/>
+	<Elem NameU="Football" Name="Palla da calcio"/>
+	<Elem NameU="Funnel" Name="Imbuto"/>
+	<Elem NameU="Game Controller" Name="Controller di Gioco"/>
+	<Elem NameU="Glasses" Name="Occhiali"/>
+	<Elem NameU="Gear" Name="Ingranaggio"/>
+	<Elem NameU="Gear - 2" Name="Ingranaggio - 2"/>
+	<Elem NameU="Gear - 3" Name="Ingranaggio - 3"/>
+	<Elem NameU="Earth" Name="Terra"/>
+	<Elem NameU="Google" Name="Google"/>
+	<Elem NameU="Google Plus" Name="Google Plus"/>
+	<Elem NameU="Hammer" Name="Martello"/>
+	<Elem NameU="Hand" Name="Mano"/>
+	<Elem NameU="Handshake" Name="Stretta di mano"/>
+	<Elem NameU="Happy" Name="Felice"/>
+	<Elem NameU="Heart" Name="Cuore"/>
+	<Elem NameU="Home" Name="Casa"/>
+	<Elem NameU="Icecream" Name="Gelato"/>
+	<Elem NameU="Image" Name="Immagine"/>
+	<Elem NameU="Images" Name="Immagini"/>
+	<Elem NameU="In" Name="Dentro"/>
+	<Elem NameU="Infinite" Name="Infinito"/>
+	<Elem NameU="Information" Name="Informazione"/>
+	<Elem NameU="Instagram" Name="Instagram"/>
+	<Elem NameU="iPad" Name="iPad"/>
+	<Elem NameU="iPhone" Name="iPhone"/>
+	<Elem NameU="iPod" Name="iPod"/>
+	<Elem NameU="Key" Name="Chiave"/>
+	<Elem NameU="Key Board" Name="Tastiera"/>
+	<Elem NameU="Linkedin" Name="LinkedIn"/>
+	<Elem NameU="List" Name="Elenco"/>
+	<Elem NameU="Load - 1" Name="Caricamento - 1"/>
+	<Elem NameU="Load - 2" Name="Caricamento - 2"/>
+	<Elem NameU="Load - 3" Name="Caricamento - 3"/>
+	<Elem NameU="location" Name="Posizione"/>
+	<Elem NameU="Location - 2" Name="Posizione - 2"/>
+	<Elem NameU="Locked" Name="Chiuso"/>
+	<Elem NameU="Lock - Unlocked" Name="Chiuso - Aperto"/>
+	<Elem NameU="Loudspeaker" Name="Altoparlante"/>
+	<Elem NameU="Laptop" Name="Laptop"/>
+	<Elem NameU="Magnifier" Name="Lente di ingrandimento"/>
+	<Elem NameU="Male" Name="Maschio"/>
+	<Elem NameU="Man" Name="Uomo"/>
+	<Elem NameU="Map" Name="Mappa"/>
+	<Elem NameU="Medal - 1" Name="Medaglia - 1"/>
+	<Elem NameU="Medal - 2" Name="Medaglia - 2"/>
+	<Elem NameU="Medical Kit" Name="Cassetta del Pronto soccorso"/>
+	<Elem NameU="Merge" Name="Unione"/>
+	<Elem NameU="Microphone - 1" Name="Microfono - 1"/>
+	<Elem NameU="Microphone - 2" Name="Microfono - 2"/>
+	<Elem NameU="Microphone - 3" Name="Microfono - 3"/>
+	<Elem NameU="Microphone - 4" Name="Microfono - 4"/>
+	<Elem NameU="Microphone - Off" Name="Microfono - Spento"/>
+	<Elem NameU="Minus" Name="Meno"/>
+	<Elem NameU="Minus with Circle" Name="Meno con Cerchio"/>
+	<Elem NameU="Monitor" Name="Monitor"/>
+	<Elem NameU="Moon" Name="Luna"/>
+	<Elem NameU="Moon and Cloud" Name="Luna e Nuvola"/>
+	<Elem NameU="Music" Name="Musica"/>
+	<Elem NameU="Mute" Name="Silenzioso"/>
+	<Elem NameU="Navigate" Name="Navigare"/>
+	<Elem NameU="Navigate - 2" Name="Navigare - 2"/>
+	<Elem NameU="No Smoking" Name="Vietato Fumare"/>
+	<Elem NameU="Notification" Name="Notifica"/>
+	<Elem NameU="Notification Off" Name="Notifica Disattivata"/>
+	<Elem NameU="Open" Name="Apri"/>
+	<Elem NameU="Options" Name="Opzioni"/>
+	<Elem NameU="Out" Name="Fuori"/>
+	<Elem NameU="Outlet" Name="Presa elettrica"/>
+	<Elem NameU="Paint Brush" Name="Pennello"/>
+	<Elem NameU="Palette" Name="Tavolozza"/>
+	<Elem NameU="Paper" Name="Carta"/>
+	<Elem NameU="Paper Airplane" Name="Aeroplano di Carta"/>
+	<Elem NameU="Paperclip" Name="Fermaglio"/>
+	<Elem NameU="Paw" Name="Zampa"/>
+	<Elem NameU="Pencil" Name="Matita"/>
+	<Elem NameU="People" Name="Persone"/>
+	<Elem NameU="Person" Name="Persona"/>
+	<Elem NameU="Person - 2" Name="Persona - 2"/>
+	<Elem NameU="Person in Circle" Name="Persona in Cerchio"/>
+	<Elem NameU="Person Add" Name="Persona - Aggiungi"/>
+	<Elem NameU="Phone" Name="Telefono"/>
+	<Elem NameU="Phone - 2" Name="Telefono - 2"/>
+	<Elem NameU="Photos" Name="Foto"/>
+	<Elem NameU="Pie" Name="Torta"/>
+	<Elem NameU="Pie - 2" Name="Torta - 2"/>
+	<Elem NameU="Pin" Name="Puntina"/>
+	<Elem NameU="Pinpoint" Name="Punta di spillo"/>
+	<Elem NameU="Pinterest" Name="Pinterest"/>
+	<Elem NameU="Plane" Name="Aeroplano"/>
+	<Elem NameU="Planet" Name="Pianeta"/>
+	<Elem NameU="Plus" Name="Più"/>
+	<Elem NameU="Plus with Circle" Name="Più con Cerchio"/>
+	<Elem NameU="Podium" Name="Podio"/>
+	<Elem NameU="Power" Name="Alimentazione"/>
+	<Elem NameU="Price Tag" Name="Etichetta del Prezzo"/>
+	<Elem NameU="Price Tags" Name="Etichette del Prezzo"/>
+	<Elem NameU="Printer" Name="Stampante"/>
+	<Elem NameU="Pulse" Name="Battito"/>
+	<Elem NameU="Question Mark" Name="Punto Interrogativo"/>
+	<Elem NameU="Question Mark - 2" Name="Punto Interrogativo - 2"/>
+	<Elem NameU="Quote" Name="Citazione"/>
+	<Elem NameU="Radio Wave" Name="Onda Radio"/>
+	<Elem NameU="Rainy" Name="Piovoso"/>
+	<Elem NameU="Redo" Name="Ripeti"/>
+	<Elem NameU="Restaurant" Name="Ristorante"/>
+	<Elem NameU="Ribbon" Name="Fiocco"/>
+	<Elem NameU="R-Trademark" Name="Simbolo Trademark Registrato"/>
+	<Elem NameU="Sad" Name="Triste"/>
+	<Elem NameU="Sand Timer" Name="Clessidra"/>
+	<Elem NameU="Scale" Name="Bilancia"/>
+	<Elem NameU="Scanner" Name="Scanner"/>
+	<Elem NameU="Scissors" Name="Forbici"/>
+	<Elem NameU="Setting" Name="Impostazioni"/>
+	<Elem NameU="Share" Name="Condividi"/>
+	<Elem NameU="Shopping" Name="Spese"/>
+	<Elem NameU="Shuffle" Name="Mescolamento"/>
+	<Elem NameU="Skype" Name="Skype"/>
+	<Elem NameU="Snowflake" Name="Fiocco di Neve"/>
+	<Elem NameU="Speed Meter" Name="Misuratore di Velocità"/>
+	<Elem NameU="Star" Name="Stella"/>
+	<Elem NameU="Sun" Name="Sole"/>
+	<Elem NameU="Sun with Cloud" Name="Sole e Nuvola"/>
+	<Elem NameU="Target" Name="Obiettivo"/>
+	<Elem NameU="Taxi" Name="Taxi"/>
+	<Elem NameU="Temblr" Name="Tumblr"/>
+	<Elem NameU="Tennis Ball" Name="Pallina da Tennis"/>
+	<Elem NameU="Thermometer" Name="Termometro"/>
+	<Elem NameU="Thumb Up" Name="Pollice in Su"/>
+	<Elem NameU="Thumb Down" Name="Pollice in Giù"/>
+	<Elem NameU="Thunderstorm" Name="Tempesta di Fulmini"/>
+	<Elem NameU="Time" Name="Ora"/>
+	<Elem NameU="Timer" Name="Timer"/>
+	<Elem NameU="Toggle" Name="Pulsante"/>
+	<Elem NameU="Train" Name="Treno"/>
+	<Elem NameU="Transgender" Name="Transgender"/>
+	<Elem NameU="Trash Bin" Name="Pattumiera"/>
+	<Elem NameU="Trophy" Name="Trofeo"/>
+	<Elem NameU="T-Shirt" Name="T-Shirt"/>
+	<Elem NameU="Twitter" Name="Twitter"/>
+	<Elem NameU="Umbrella" Name="Ombrello"/>
+	<Elem NameU="Undo" Name="Annulla"/>
+	<Elem NameU="University" Name="Università"/>
+	<Elem NameU="Upload" Name="Carica"/>
+	<Elem NameU="USB" Name="USB"/>
+	<Elem NameU="USD 1" Name="USD 1"/>
+	<Elem NameU="USD 2" Name="USD 2"/>
+	<Elem NameU="User" Name="Utente"/>
+	<Elem NameU="User - Circle" Name="Utente - Cerchio"/>
+	<Elem NameU="Video Cam" Name="Videocamera"/>
+	<Elem NameU="Volume - Low" Name="Volume - Basso"/>
+	<Elem NameU="Volume - Medium" Name="Volume - Medio"/>
+	<Elem NameU="Volume - High" Name="Volume - Alto"/>
+	<Elem NameU="Volume - Mute" Name="Volume - Silenzioso"/>
+	<Elem NameU="Walk" Name="Camminata"/>
+	<Elem NameU="Wand" Name="Bacchetta magica"/>
+	<Elem NameU="Watch" Name="Orologio"/>
+	<Elem NameU="Whatsapp" Name="WhatsApp"/>
+	<Elem NameU="Wifi" Name="Wi-Fi"/>
+	<Elem NameU="Windows" Name="Windows"/>
+	<Elem NameU="Wineglass" Name="Bicchiere di vino"/>
+	<Elem NameU="Woman" Name="Donna"/>
+	<Elem NameU="Wordpress" Name="Wordpress"/>
+	<Elem NameU="World" Name="Mondo"/>
+	<Elem NameU="Wrench" Name="Chiave Inglese"/>
+	<Elem NameU="Yen" Name="Yen"/>
+	<Elem NameU="Yin Yang" Name="Yin Yang"/>
+	<Elem NameU="Youtube" Name="YouTube"/>
+	<Elem NameU="Initiative" Name="Iniziativa"/>
+	<Elem NameU="Gift" Name="Regalo"/>
+	<Elem NameU="RMB" Name="RBM"/>
+	<Elem NameU="Wallet" Name="Portafogli"/>
+	<Elem NameU="Transport" Name="Trasporto"/>
+	<Elem NameU="Activities" Name="Attività"/>
+	<Elem NameU="Team" Name="Gruppo"/>
+	<Elem NameU="Toolbox" Name="Cassetta degli Attrezzi"/>
+	<Elem NameU="Signal" Name="Segnale"/>
+	<Elem NameU="Revenue Streams" Name="Flussi di Entrate"/>
+	<Elem NameU="Road Sign" Name="Segnale Stradale"/>
+	<Elem NameU="Result" Name="Risultato"/>
+	<Elem NameU="Work Quality" Name="Qualità del Lavoro"/>
+	<Elem NameU="Favorite" Name="Preferito"/>
+	<Elem NameU="Key Metrics" Name="Metriche Chiave"/>
+	<Elem NameU="Label" Name="Etichetta"/>
+	<Elem NameU="Risks" Name="Rischi"/>
+	<Elem NameU="Design" Name="Design"/>
+	<Elem NameU="Cooperation" Name="Collaborazione"/>
+	<Elem NameU="Quality" Name="Qualità"/>
+	<Elem NameU="Project" Name="Proiezione"/>
+	<Elem NameU="Repositories" Name="Repertorio"/>
+	<Elem NameU="Plan" Name="Piano"/>
+	<Elem NameU="Schedule" Name="Programma"/>
+	<Elem NameU="Goal Analysis" Name="Analisi Obiettivi"/>
+	<Elem NameU="Undesired Outcomes" Name="Esiti Indesiderati"/>
+	<Elem NameU="Key Results" Name="Risultati Chiave"/>
+	<Elem NameU="Two-way Arrow" Name="Freccia Bidirezionale"/>
+	<Elem NameU="Rocket" Name="Razzo"/>
+</Lib>

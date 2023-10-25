@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Kids Sports">
+
+<Elem Name="Taekwondo 1" NameU="Taekwondo 1"/>
+
+<Elem Name="Taekwondo 2" NameU="Taekwondo 2"/>
+
+<Elem Name="Playing Tennis" NameU="Playing Tennis"/>
+
+<Elem Name="Playing Badminton" NameU="Playing Badminton"/>
+
+<Elem Name="Playing Table Tennis" NameU="Playing Table Tennis"/>
+
+<Elem Name="Playing Baseball" NameU="Playing Baseball"/>
+
+<Elem Name="Playing Football" NameU="Playing Football"/>
+
+<Elem Name="Playing Basketball" NameU="Playing Basketball"/>
+
+<Elem Name="Playing Rugby" NameU="Playing Rugby"/>
+
+<Elem Name="Playing Volleyball" NameU="Playing Volleyball"/>
+
+<Elem Name="Playing Golf" NameU="Playing Golf"/>
+
+<Elem Name="Jouer au lancer du poids" NameU="Playing Shot Put"/>
+
+<Elem Name="Patin à roues alignées" NameU="Inline Skating"/>
+
+<Elem Name="Courant" NameU="Running"/>
+
+<Elem Name="Sauter à la corde" NameU="Rope Skipping"/>
+
+<Elem Name="Escalade" NameU="Rock Climbing"/>
+
+<Elem Name="Saut en longueur" NameU="Long Jump"/>
+
+<Elem Name="Twirling Hula Hoop" NameU="Twirling Hula Hoop"/>
+
+<Elem Name="Ski" NameU="Skiing"/>
+
+<Elem Name="Faire de la planche à roulettes" NameU="Skateboarding"/>
+
+<Elem Name="Surfant" NameU="Surfing"/>
+
+<Elem Name="Danse cheerleading" NameU="Cheerleading Dance"/>
+
+<Elem Name="Faire de la gymnastique" NameU="Doing Gymnastics"/>
+
+<Elem Name="Natation" NameU="Swimming"/>
+
+<Elem Name="Haies" NameU="Hurdling"/>
+
+<Elem Name="Musculation" NameU="Weightlifting"/>
+
+<Elem Name="Faire un cheval d'arçons" NameU="Doing Pommel Horse"/>
+
+<Elem Name="Faire une barre horizontale" NameU="Doing Horizontal Bar"/>
+
+<Elem Name="Jouer au tir à l'arc" NameU="Playing Archery"/>
+
+</Lib>

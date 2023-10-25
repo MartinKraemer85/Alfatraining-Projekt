@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Value Stream Mapping">
+
+<Elem Name="Contrôle de la production" NameU="Production Control"/>
+
+<Elem Name="Information" NameU="Information"/>
+
+<Elem Name="Processus" NameU="Process"/>
+
+<Elem Name="Client/Fournisseur" NameU="Customer / Supplier"/>
+
+<Elem Name="Inventaire" NameU="Inventory"/>
+
+<Elem Name="Flèche d'expédition" NameU="Shipment Arrow"/>
+
+<Elem Name="Flux poussé" NameU="Push Arrow"/>
+
+<Elem Name="Flux de l'information électronique" NameU="Electronic Information Flow"/>
+
+<Elem Name="Flux d'information manuelle" NameU="Manual Information Flow"/>
+
+<Elem Name="Camion d'expédition" NameU="External Shipment"/>
+
+<Elem Name="Avion d'expédition" NameU="Airplan Shipment"/>
+
+<Elem Name="Train d'expédition" NameU="Rail Shipment"/>
+
+<Elem Name="Cross-docking" NameU="Cross-Dock"/>
+
+<Elem Name="Segment de barre de planning" NameU="Timeline Segment"/>
+
+<Elem Name="Barre de planning - fin" NameU="Timeline End Segment"/>
+
+<Elem Name="Barre de planning - total" NameU="Timeline Total"/>
+
+<Elem Name="Tableau de données" NameU="Data Table"/>
+
+<Elem Name="Kanban de retrait" NameU="Withdrawal Kanban"/>
+
+<Elem Name="Kanban de retait de lot" NameU="Withdrawal Batch Kanban"/>
+
+<Elem Name="Kanban de production" NameU="Production Kanban"/>
+
+<Elem Name="Kanban à lot" NameU="Batch Kanban"/>
+
+<Elem Name="Commentaire" NameU="Note"/>
+
+<Elem Name="Supermarché" NameU="Supermarket"/>
+
+<Elem Name="Stock tampon/de sécurité" NameU="Safety Stock"/>
+
+<Elem Name="Entrepôt" NameU="Warehouse"/>
+
+<Elem Name="Centre de contrôle" NameU="Control Center"/>
+
+<Elem Name="Cellule de travail" NameU="Workcell"/>
+
+<Elem Name="Signal Kanban" NameU="Signal Kanban"/>
+
+<Elem Name="Poste Kanban" NameU="Kanban Post"/>
+
+<Elem Name="Allez voir la production" NameU="Go See Production"/>
+
+<Elem Name="Information verbale" NameU="Verbal Information"/>
+
+<Elem Name="Phone" NameU="Phone"/>
+
+<Elem Name="MRP/ERP" NameU="MRP/ERP"/>
+
+<Elem Name="Approche Kaizen" NameU="Kaizen Burst"/>
+
+<Elem Name="Principe FIFO" NameU="FIFO Lane"/>
+
+<Elem Name="Nivellement de charge" NameU="Load Leveling"/>
+
+<Elem Name="Séquence de flux tiré" NameU="Sequenced Pull Ball"/>
+
+<Elem Name="Flux tiré physique" NameU="Physical Pull"/>
+
+<Elem Name="Expédition de bateau" NameU="Boat Shipment"/>
+
+</Lib>

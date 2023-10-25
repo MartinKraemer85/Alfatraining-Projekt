@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Logistics">
+    <Elem NameU="Boxcar" Name="棚车"/>
+    <Elem NameU="Container car (single)" Name="集装箱车（单人）"/>
+    <Elem NameU="Container car (stacked)" Name="集装箱车（堆码）"/>
+    <Elem NameU="Gantry crane" Name="门式起重机"/>
+    <Elem NameU="Hopper car" Name="漏斗车"/>
+    <Elem NameU="Hopper car with coal" Number="2" Name="煤斗车"/>
+    <Elem NameU="Hopper car with wood chips" Name="木屑漏斗车"/>
+    <Elem NameU="Locomotive" Name="机车"/>
+    <Elem NameU="Port crane (extended)1" Name="港口起重机（扩展）1"/>
+    <Elem NameU="Port crane (extended)2" Name="港口起重机（扩展）2"/>
+    <Elem NameU="Standard 20-foot container" Name="标准20英尺集装箱"/>
+    <Elem NameU="Standard 40-foot container" Name="标准40英尺集装箱"/>
+    <Elem NameU="Tank container" Name="罐式集装箱"/>
+    <Elem NameU="Tanker" Name="油轮"/>
+    <Elem NameU="18-wheeler truck" Name="18轮卡车"/>
+    <Elem NameU="Airplane" Name="飞机"/>
+    <Elem NameU="Airplane right" Name="向右飞行"/>
+    <Elem NameU="Bicycle" Name="自行车"/>
+    <Elem NameU="Car" Number="2" Name="小型车"/>
+    <Elem NameU="Concrete mixing truck" Name="混凝土搅拌车"/>
+    <Elem NameU="Digging machine 1" Name="挖土机1"/>
+    <Elem NameU="Digging machine 2" Name="挖土机2"/>
+    <Elem NameU="Excavator" Name="挖掘机"/>
+    <Elem NameU="Dumpcart" Name="垃圾车"/>
+    <Elem NameU="Dump truck (lowered)" Name="自卸车（降低）"/>
+    <Elem NameU="Dump truck (raised)" Name="自卸卡车（升起）"/>
+    <Elem NameU="Oiler" Name="加油机"/>
+    <Elem NameU="Feeder" Number="2" Name="饲养员"/>
+    <Elem NameU="Railway carriage" Name="铁路运输"/>
+    <Elem NameU="Tank car 1" Name="罐车1"/>
+    <Elem NameU="Tank car 2" Name="罐车2"/>
+    <Elem NameU="Truck" Number="2" Name="卡车"/>
+    <Elem NameU="Differential pressure car" Name="压差车"/>
+    <Elem NameU="Coal" Name="煤"/>
+    <Elem NameU="Sandpile" Name="沙堆"/>
+    <Elem NameU="Mound" Name="山丘"/>
+    <Elem NameU="Rock mound" Name="岩堆"/>
+    <Elem NameU="Precleaner" Name="预滤器"/>
+    <Elem NameU="Filtrate machine" Name="过滤机"/>
+    <Elem NameU="Vibrating screen" Name="振动筛"/>
+    <Elem NameU="Comprehensive Sorting System" Name="综合分拣系统"/>
+    <Elem NameU="Fresh yeast" Name="新鲜酵母"/>
+    <Elem NameU="Lifter" Number="3" Name="升降机"/>
+    <Elem NameU="Conveyor" Number="3" Name="传送者"/>
+    <Elem NameU="Feeder" Name="饲养员"/>
+    <Elem NameU="Belt conveyor &amp; JiLiangCheng" Name="带式输送机"/>
+    <Elem NameU="Belt conveyor &amp; unloading grain pits" Name="带式输送机"/>
+    <Elem NameU="Platform weighting" Name="平台称重"/>
+    <Elem NameU="Mobile bulk scale" Name="移动式散装秤"/>
+    <Elem NameU="Packing scale" Name="包装秤"/>
+    <Elem NameU="LCS-MT" Name="LCS-MT"/>
+    <Elem NameU="Scale hopper of the weighing sensor" Name="Scale hopper of the weighing sensor"/>
+    <Elem NameU="Material" Name="材料"/>
+    <Elem NameU="Bulk Container" Name="散装集装箱"/>
+    <Elem NameU="A pouch pack" Name="袋装"/>
+    <Elem NameU="LCA-MT" Name="LCA-MT"/>
+    <Elem NameU="Membrane module " Name="膜组件"/>
+    <Elem NameU="Port entrepot storage" Name="港口转口仓库"/>
+</Lib>

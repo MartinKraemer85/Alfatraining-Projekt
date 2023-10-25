@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Azure General Symbols">
+	<Elem NameU="Number" Name="Numero"/>
+	<Elem NameU="Attachment" Name="Allegato"/>
+	<Elem NameU="Audio" Name="Audio"/>
+	<Elem NameU="Bug" Name="Bug"/>
+	<Elem NameU="Cable Settop TV Box" Name="TV Box con Cavo"/>
+	<Elem NameU="Calendar" Name="Calendario"/>
+	<Elem NameU="Chart" Name="Diagramma"/>
+	<Elem NameU="Checkmark Success" Name="Segno di Spunta Successo"/>
+	<Elem NameU="Continous Cycle Circle" Name="Cerchio a Ciclo Continuo"/>
+	<Elem NameU="Crossout failure" Name="Barrato Fallimento"/>
+	<Elem NameU="Cut And Paste" Name="Taglia e Incolla"/>
+	<Elem NameU="Favorite" Name="Preferito"/>
+	<Elem NameU="Folder" Name="Cartella"/>
+	<Elem NameU="Game Controller" Name="Controller di Gioco"/>
+	<Elem NameU="Gears" Name="Ingranaggi"/>
+	<Elem NameU="Like" Name="Like"/>
+	<Elem NameU="Not Allowed" Name="Non Consentito"/>
+	<Elem NameU="Premium Star" Name="Stella Premium"/>
+	<Elem NameU="Slider Bar Horizontal" Name="Barra Slider Orizzontale"/>
+	<Elem NameU="Slider Bar Vertical" Name="Barra Slider Verticale"/>
+	<Elem NameU="Task List Or Backlog" Name="Elenco Attività o Backlog"/>
+	<Elem NameU="Graph" Name="Grafico"/>
+	<Elem NameU="Tasks" Name="Attività"/>
+	<Elem NameU="Tunnel" Name="Tunnel"/>
+	<Elem NameU="User" Name="Utente"/>
+	<Elem NameU="Video" Name="Video"/>
+</Lib>

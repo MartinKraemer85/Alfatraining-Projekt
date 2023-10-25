@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Education Outline Icons">
+    <Elem NameU="Newspaper" Name="报纸"/>
+    <Elem NameU="Algorithm" Name="算法"/>
+    <Elem NameU="English Letters" Name="英文字母"/>
+    <Elem NameU="Planetary Motion" Name="行星运动"/>
+    <Elem NameU="Flask" Name="烧瓶"/>
+    <Elem NameU="Cell" Name="细胞"/>
+    <Elem NameU="Microscope" Name="显微镜"/>
+    <Elem NameU="Globe" Name="气球"/>
+    <Elem NameU="Notebook" Name="笔记本"/>
+    <Elem NameU="History" Name="历史"/>
+    <Elem NameU="Dance" Name="舞蹈"/>
+    <Elem NameU="Discussion" Name="讨论"/>
+    <Elem NameU="Psychology" Name="心理学"/>
+    <Elem NameU="Graduate" Name="毕业生"/>
+    <Elem NameU="Brush Pot" Name="笔筒"/>
+    <Elem NameU="Book" Name="书"/>
+    <Elem NameU="School Bag" Name="书包"/>
+    <Elem NameU="Open Book" Name="打开书"/>
+    <Elem NameU="Automatic Pencil" Name="自动铅笔"/>
+    <Elem NameU="Paint Box" Name="颜料盒"/>
+    <Elem NameU="Chinese Brush" Name="毛笔"/>
+    <Elem NameU="Eraser" Name="橡皮擦"/>
+    <Elem NameU="Compasses" Name="圆规"/>
+    <Elem NameU="Glasses" Name="眼镜"/>
+    <Elem NameU="Blackboard" Name="黑板"/>
+    <Elem NameU="Trencher Cap" Name="学士帽"/>
+    <Elem NameU="Testimonials" Name="推荐信"/>
+    <Elem NameU="School Bus" Name="校车"/>
+    <Elem NameU="Glue" Name="胶水"/>
+</Lib>

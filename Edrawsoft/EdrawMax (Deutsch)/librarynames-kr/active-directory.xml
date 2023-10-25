@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Active Directory">
+    <Elem NameU="Domain 2D" Name="도메인 2D"/>
+    <Elem NameU="Domain 3D" Name="도메인 3D"/>
+    <Elem NameU="Domain controller 2D" Name="도메인 컨트롤러 2D"/>
+    <Elem NameU="Domain controller 3D" Name="도메인 컨트롤러 3D"/>
+    <Elem NameU="Application 2D" Name="어플리케이션 2D"/>
+    <Elem NameU="Application 3D" Name="어플리케이션 3D"/>
+    <Elem NameU="Site or subnet 2D" Name="사이트 또는 서브넷 2D"/>
+    <Elem NameU="Site or subnet 3D" Name="사이트 또는 서브넷 3D"/>
+    <Elem NameU="Client" Name="클라이언트"/>
+    <Elem NameU="Database" Name="데이터베이스"/>
+    <Elem NameU="Comm-link" Name="통신 링크"/>
+    <Elem NameU="Replication connection" Name="복제 연결"/>
+    <Elem NameU="Site link 3D" Name="사이트 링크 3D"/>
+    <Elem NameU="Site link bridge 3D" Name="사이트 링크 브리지 3D"/>
+    <Elem NameU="WAN" Name="WAN"/>
+</Lib>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="PID Boilers">
+	<Elem NameU="Boiler" Name="Caldaia"/>
+	<Elem NameU="Boiler 2" Name="Caldaia 2"/>
+	<Elem NameU="Boiler 3" Name="Caldaia 3"/>
+	<Elem NameU="Boiler 4" Name="Caldaia 4"/>
+	<Elem NameU="Boiler 5" Name="Caldaia 5"/>
+	<Elem NameU="Boiler 6" Name="Caldaia 6"/>
+	<Elem NameU="Boiler 7" Name="Caldaia 7"/>
+	<Elem NameU="Boiler 8" Name="Caldaia 8"/>
+	<Elem NameU="Boiler 9" Name="Caldaia 9"/>
+	<Elem NameU="Boiler 10" Name="Caldaia 10"/>
+	<Elem NameU="Boiler 11" Name="Caldaia 11"/>
+	<Elem NameU="Boiler 12" Name="Caldaia 12"/>
+	<Elem NameU="Boiler 13" Name="Caldaia 13"/>
+	<Elem NameU="Boiler 14" Name="Caldaia 14"/>
+	<Elem NameU="Boiler with flames and pipe" Name="Caldaia con fiamme e tubo"/>
+	<Elem NameU="Boiler with flames" Name="Caldaia con fiamme"/>
+	<Elem NameU="Boiler with small fire" Name="Caldaia con fuocherello"/>
+	<Elem NameU="Blast furnace" Name="Altoforno"/>
+	<Elem NameU="Electric hot water and steam boiler" Name="Caldaia elettrica a vapore"/>
+	<Elem NameU="Boiler control" Name="Controllo caldaia"/>
+	<Elem NameU="Firebox boiler" Name="Caldaia con fornace"/>
+	<Elem NameU="Heating furnace" Name="Fornace bruciante"/>
+	<Elem NameU="Hot blast heater" Name="Riscaldatore ad alto forno"/>
+	<Elem NameU="Low emission boiler" Name="Caldaia a basse emissioni"/>
+	<Elem NameU="Boiler symbol" Name="Simbolo caldaia"/>
+	<Elem NameU="Firebox" Name="Fornace"/>
+	<Elem NameU="Flexible water tube boiler" Name="Caldaia con tubo d'acqua flessibile"/>
+	<Elem NameU="Oil fired boiler" Name="Caldaia a petrolio"/>
+	<Elem NameU="Packaged firetube boiler" Name="Caldaia con focolare incorporato"/>
+	<Elem NameU="Pulse combustion boiler" Name="Caldaia a combustione"/>
+	<Elem NameU="Skid-mounted boiler" Name="Caldaia montata su basamento"/>
+	<Elem NameU="Steam boiler" Name="Caldaia a vapore"/>
+	<Elem NameU="Superheater" Name="Surriscaldatore"/>
+</Lib>

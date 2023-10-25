@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Architecture">
+	<Elem NameU="Building" Name="Edifício"/>
+	<Elem NameU="Bank" Name="Banco"/>
+	<Elem NameU="Beauty Salon" Name="Salão de Beleza"/>
+	<Elem NameU="Beach Villa" Name="Casa de Praia"/>
+	<Elem NameU="Cafeteria" Name="Refeitório"/>
+	<Elem NameU="Castle" Name="Castelo"/>
+	<Elem NameU="Cathedral" Name="Catedral"/>
+	<Elem NameU="Church" Name="Igreja"/>
+	<Elem NameU="Coffee House" Name="Café"/>
+	<Elem NameU="Clothing Store" Name="Loja de Roupa"/>
+	<Elem NameU="Consulate" Name="Consulado"/>
+	<Elem NameU="Factory" Name="Fábrica"/>
+	<Elem NameU="Family Apartment" Name="Apartamento Familiar"/>
+	<Elem NameU="Guest House" Name="Casa de Hóspedes"/>
+	<Elem NameU="Gymnasium" Name="Ginásio"/>
+	<Elem NameU="Hospital" Name="Hospital"/>
+	<Elem NameU="Hotel" Name="Hotel"/>
+	<Elem NameU="House 1" Name="Casa 1"/>
+	<Elem NameU="House 2" Name="Casa 2"/>
+	<Elem NameU="House 3" Name="Casa 3"/>
+	<Elem NameU="Library" Name="Biblioteca"/>
+	<Elem NameU="Kindergarten" Name="Jardim de Infância"/>
+	<Elem NameU="Market" Name="Mercado"/>
+	<Elem NameU="Mansion 1" Name="Mansão 1"/>
+	<Elem NameU="Mansion 2" Name="Mansão 2"/>
+	<Elem NameU="Mansion 3" Name="Mansão 3"/>
+	<Elem NameU="Mansion 4" Name="Mansão 4"/>
+	<Elem NameU="Movie Theater" Name="Cinema"/>
+	<Elem NameU="Newspaper Kiosk" Name="Quiosque de Jornais"/>
+	<Elem NameU="Office Building 1" Name="Edifício de Escritórios 1"/>
+	<Elem NameU="Office Building 2" Name="Edifício de Escritórios 2"/>
+	<Elem NameU="Office Building 3" Name="Edifício de Escritórios 3"/>
+	<Elem NameU="Post Office" Name="Correios"/>
+	<Elem NameU="Police Station" Name="Posto de Polícia"/>
+	<Elem NameU="School" Name="Escola"/>
+	<Elem NameU="School Building" Name="Edifício Escolar"/>
+	<Elem NameU="Self-Serve Gas Station" Name="Posto de Combustível Automático"/>
+	<Elem NameU="Shop" Name="Loja"/>
+	<Elem NameU="Student Dorm Building" Name="Dormitório de Estudantes"/>
+	<Elem NameU="Supermarket" Name="Supermercado"/>
+	<Elem NameU="Twin Tower" Name="Torre Gêmea"/>
+	<Elem NameU="University" Name="Universidade"/>
+	<Elem NameU="Villa" Name="Moradia"/>
+	<Elem NameU="Hot-air balloon 1" Name="Balão de Ar Quente 1"/>
+	<Elem NameU="Hot-air balloon 2" Name="Balão de Ar Quente 2"/>
+	<Elem NameU="Hot-air balloon 3" Name="Balão de Ar Quente 3"/>
+	<Elem NameU="Blue Cloud" Name="Nuvem Azul"/>
+	<Elem NameU="Yellow Cloud" Name="Nuvem Amarela"/>
+	<Elem NameU="Red Cloud" Name="Nuvem Vermelha"/>
+	<Elem NameU="Family" Name="Família"/>
+</Lib>

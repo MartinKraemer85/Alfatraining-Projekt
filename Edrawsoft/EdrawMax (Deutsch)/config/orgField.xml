@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OrgSettings Version="6.1">
+    <OrgFields>
+        <OrgField NameU="Name" ID="1" Type="0" Format="@" CN="姓名" EN="Name"/>
+        <OrgField NameU="Title" ID="2" Type="0" Format="@" CN="职位" EN="Title"/>
+        <OrgField NameU="ID" ID="3" Type="0" Format="@" CN="员工ID" EN="Employee ID"/>
+        <OrgField NameU="Category" ID="4" Type="0" Format="@" CN="类别" EN="Category"/>
+        <OrgField NameU="Location" ID="5" Type="0" Format="@" CN="城市" EN="Location"/>
+        <OrgField NameU="Department" ID="6" Type="0" Format="@" CN="部门" EN="Department"/>
+        <OrgField NameU="BUnit" ID="7" Type="0" Format="@" CN="学历" EN="Business Unit"/>
+        <OrgField NameU="JFunction" ID="8" Type="0" Format="@" CN="职能" EN="Job Function"/>
+        <OrgField NameU="Email" ID="9" Type="0" Format="@" CN="邮箱" EN="Email"/>
+        <OrgField NameU="WPhone" ID="10" Type="0" Format="@" CN="工作电话" EN="Work Phone"/>
+        <OrgField NameU="MPhone" ID="11" Type="0" Format="@" CN="手机" EN="Mobile Phone"/>
+        <OrgField NameU="EStatus" ID="12" Type="0" Format="@" CN="员工状态" EN="Employee Status"/>
+        <OrgField NameU="JGrade" ID="13" Type="0" Format="@" CN="职位级别" EN="Job Grade"/>
+        <OrgField NameU="Salary" ID="14" Type="4" Format="&quot;$&quot; #,###0.00" CN="工资" EN="Salary"/>
+        <OrgField NameU="SGrade" ID="15" Type="0" Format="@" CN="薪酬级别" EN="Salary Grade"/>
+        <OrgField NameU="CCenter" ID="16" Type="0" Format="@" CN="成本中心" EN="Cost Center"/>
+        <OrgField NameU="Gendar" ID="17" Type="0" Format="@" CN="性别" EN="Gender"/>
+        <OrgField NameU="Age" ID="18" Type="1" Format="0" CN="年龄" EN="Age"/>
+        <OrgField NameU="DateOfBirth" ID="19" Type="2" Format="yyyy-MM-dd" CN="出生日期" EN="Date of Birth"/>
+        <OrgField NameU="Nation" ID="20" Type="0" Format="@" CN="国籍" EN="Nationality"/>
+        <OrgField NameU="IsHispanic" ID="21" Type="0" Format="@" CN="婚姻状况" EN="IsHispanic"/>
+        <OrgField NameU="Hire" ID="22" Type="2" Format="yyyy-MM-dd" CN="入职时间" EN="Hire Date"/>
+        <OrgField NameU="Ethnicity" ID="23" Type="0" Format="@" CN="民族" EN="Ethnicity"/>
+        <OrgField NameU="CStart" ID="24" Type="2" Format="yyyy-MM-dd" CN="劳动合同开始时间" EN="Contract Start"/>
+        <OrgField NameU="CEnd" ID="25" Type="2" Format="yyyy-MM-dd" CN="劳动合同终止时间" EN="Contract End"/>
+        <OrgField NameU="FStatus" ID="26" Type="0" Format="@" CN="FLSA 状态" EN="FLSA Status"/>
+        <OrgField NameU="LastPerformanceReviewDate" ID="27" Type="2" Format="yyyy-MM-dd" CN="上次绩效评估日期" EN="Last Performance Review Date"/>
+        <OrgField NameU="PerformanceRating" ID="28" Type="1" Format="@" CN="绩效等级" EN="Performance Rating"/>
+        <OrgField NameU="PotentialRating" ID="29" Type="1" Format="@" CN="潜力等级" EN="Potential Rating"/>
+        <OrgField NameU="RetirementBand" ID="30" Type="0" Format="@" CN="退休返聘" EN="Retirement Band"/>
+        <OrgField NameU="ScheduledHours" ID="31" Type="1" Format="@" CN="规定工作时间" EN="Scheduled Hours"/>
+        <OrgField NameU="WorkerCategory" ID="32" Type="0" Format="@" CN="员工类别" EN="Worker Category"/>
+        <OrgField NameU="KeyEmployees" ID="33" Type="5" Format="@" CN="是否核心员工" EN="Key Employees"/>
+        <OrgField NameU="AveragePerf.Subs" ID="34" Type="15" Format="@" F="绩效等级|10|2|1|0" CN="下级绩效平均值" EN="Average Perf. Subs"/>
+        <OrgField NameU="AveragePerf.Subs" ID="35" Type="15" Format="@" F="绩效等级|10|2|1|1" CN="分支绩效平均值" EN="Average Perf. Branch"/>
+        <OrgField NameU="SalaryRollup" ID="36" Type="15" Format="@" F="工资|12|2|1|0|0|0|0|0|0|0" CN="分支工资总和" EN="Salary Rollup"/>
+        <OrgField NameU="LOARollup" ID="37" Type="15" Format="@" F="员工状态|56|2|1|1|LOA" CN="LOA 总和" EN="LOA Rollup"/>
+        <OrgField NameU="MILRollup" ID="38" Type="15" Format="@" F="员工状态|56|2|1|1|MIL" CN="MIL 总和" EN="MIL Rollup"/>
+        <OrgField NameU="MATRollup" ID="39" Type="15" Format="@" F="员工状态|56|2|1|1|MAT" CN="MAT 总和" EN="MAT Rollup"/>
+        <OrgField NameU="STDRollup" ID="40" Type="15" Format="@" F="员工状态|56|2|1|1|STD" CN="STD 总和" EN="STD Rollup"/>
+        <OrgField NameU="AciveRollup" ID="41" Type="15" Format="@" F="员工状态|56|2|1|1|Active" CN="Active 总和" EN="Active Rollup"/>
+        <OrgField NameU="ExemptRollup" ID="42" Type="15" Format="@" F="FLSA 状态|56|2|1|0|Exempt" CN="Exempt 总和" EN="Exempt Rollup"/>
+        <OrgField NameU="MaleCount" ID="43" Type="15" Format="@" F="性别|56|2|1|1|男" CN="男性员工数" EN="MaleCount"/>
+        <OrgField NameU="FemaleCount" ID="44" Type="15" Format="@" F="性别|56|2|1|1|女" CN="女性员工数" EN="FemaleCount"/>
+        <OrgField NameU="VacantPositions" ID="45" Type="15" Format="@" F="姓名|56|2|1|0|空缺" CN="空缺职位" EN="Vacant Positions"/>
+        <OrgField NameU="Tenure" ID="46" Type="15" Format="@" F="入职时间|30|0|" CN="入职年限" EN="Tenure"/>
+        <OrgField NameU="SpanOfControl" ID="47" Type="15" Format="@" F="其他|80|0|0|0" CN="直属下级数" EN="SpanOfControl"/>
+        <OrgField NameU="Headcount" ID="48" Type="15" Format="@" F="其他|80|1|0|0" CN="下级员工数" EN="Headcount"/>
+    </OrgFields>
+    <OrgFieldGroups>
+        <OrgFieldGroup NameU="General" PreDefine="1" CN="基本信息" EN="General">
+            <Field ids="1;2;6;9;10"/>
+            <DispField ids="1;2"/>
+        </OrgFieldGroup>
+        <OrgFieldGroup NameU="HireDate" PreDefine="1" CN="入职信息" EN="Hire Date">
+            <Field ids="1;2;6;9;10;22;46"/>
+            <DispField ids="1;2;6;22;46"/>
+        </OrgFieldGroup>
+        <OrgFieldGroup NameU="Salary" PreDefine="1" CN="绩效" EN="Performance">
+            <Field ids="1;2;27;28;29;34;35"/>
+            <DispField ids="1;2;28;34"/>
+        </OrgFieldGroup>
+        <OrgFieldGroup NameU="Salary" PreDefine="1" CN="薪酬" EN="Salary">
+            <Field ids="1;2;3;5;6;7;8;9;10;11;14;36"/>
+            <DispField ids="1;2;14;36"/>
+        </OrgFieldGroup>
+        <OrgFieldGroup NameU="HR Detail" PreDefine="1" CN="人事信息" EN="HR Detail">
+            <Field ids="1;2;3;4;5;6;7;8;9;10;11;12;14;15;16;17;32;22;23"/>
+            <DispField ids="1;2;3;5;6;12;22;17;32;23"/>
+        </OrgFieldGroup>
+        <OrgFieldGroup NameU="Title" PreDefine="1" CN="组织架构" EN="Title">
+            <Field ids="1;2;6;7;8"/>
+            <DispField ids="2"/>
+        </OrgFieldGroup>
+        <OrgFieldGroup NameU="Department" PreDefine="1" CN="部门" EN="Department">
+            <Field ids="1;2;6"/>
+            <DispField ids="1;2;6"/>
+        </OrgFieldGroup>
+        <OrgFieldGroup NameU="ContactInfo" PreDefine="1" CN="联系方式" EN="Contact Info">
+            <Field ids="1;2;4;6;9;10;11"/>
+            <DispField ids="1;2;4;6;9;10;11"/>
+        </OrgFieldGroup>
+        <OrgFieldGroup NameU="Contract" PreDefine="1" CN="劳动合同" EN="Contract">
+            <Field ids="1;2;3;6;9;10;22;24;25"/>
+            <DispField ids="1;3;6;22;24;25"/>
+        </OrgFieldGroup>
+        <OrgFieldGroup NameU="EStatus" PreDefine="1" CN="员工状态" EN="Employee Status">
+            <Field ids="1;2;3;6;9;10;12;37;38;39;40;41"/>
+            <DispField ids="1;2;12;37;38;39;40;41"/>
+        </OrgFieldGroup>
+        <OrgFieldGroup NameU="FStatus" PreDefine="1" CN="FLSA 计数" EN="FLSA Counts">
+            <Field ids="1;2;6;9;10;26;42"/>
+            <DispField ids="1;2;26;42"/>
+        </OrgFieldGroup>
+        <OrgFieldGroup NameU="Gender" PreDefine="1" CN="性别" EN="Gender">
+            <Field ids="1;2;3;6;9;10;17;43;44;48"/>
+            <DispField ids="1;2;3;48;43;44"/>
+        </OrgFieldGroup>
+        <OrgFieldGroup NameU="KeyEmployees" PreDefine="1" CN="核心员工" EN="Key Employees">
+            <Field ids="1;2;3;33"/>
+            <DispField ids="1;2;33"/>
+        </OrgFieldGroup>
+        <OrgFieldGroup NameU="OpenPositions" PreDefine="1" CN="空缺职位" EN="Open Positions">
+            <Field ids="1;2;3;6;9;10;45"/>
+            <DispField ids="1;2;45"/>
+        </OrgFieldGroup>
+        <OrgFieldGroup NameU="SpanControl" PreDefine="1" CN="直属下级" EN="Span Of Control">
+            <Field ids="1;2;47;48"/>
+            <DispField ids="1;2;47;48"/>
+        </OrgFieldGroup>
+        <OrgFieldGroup NameU="WorkforcePlanning" PreDefine="1" CN="人力资源规划" EN="Workforce Planning">
+            <Field ids="1;2;14;28;22;29;46;48"/>
+            <DispField ids="1;2;14;28;22;29;46;48"/>
+        </OrgFieldGroup>
+    </OrgFieldGroups>
+</OrgSettings>

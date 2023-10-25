@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Fashion">
+
+<Elem Name="Robe" NameU="Dress with Collar"/>
+
+<Elem Name="Robe bustier" NameU="Strapless Dress"/>
+
+<Elem Name="Robe bustier" NameU="Strapless Dress - Long"/>
+
+<Elem Name="Robe de soirée" NameU="One Strap Dress"/>
+
+<Elem Name="Robe 1" NameU="Dress 1"/>
+
+<Elem Name="Robe de soirée" NameU="Sleeveless Dress"/>
+
+<Elem Name="Robe de soirée" NameU="Off Shoulder Dress"/>
+
+<Elem Name="Robe 2" NameU="Dress 2"/>
+
+<Elem Name="Robe" NameU="Pegged Skirt"/>
+
+<Elem Name="Robe" NameU="Gored Skirt"/>
+
+<Elem Name="Robe" NameU="Sleeveless Skirt"/>
+
+<Elem Name="Vêtements Femme" NameU="Underwaist"/>
+
+<Elem Name="Maillot de bain" NameU="Swimsuit"/>
+
+<Elem Name="Jupe en couches" NameU="Layered Skirt"/>
+
+<Elem Name="Manteau Femme" NameU="Women Coat 1"/>
+
+<Elem Name="Manteau Femme" NameU="Women Coat 2"/>
+
+<Elem Name="Manteau Femme" NameU="Women Coat 3"/>
+
+<Elem Name="Veste Femme" NameU="Women Jacket"/>
+
+<Elem Name="Veste Femme" NameU="Women Blazer"/>
+
+<Elem Name="Blazer Femme" NameU="Women Blazer 2"/>
+
+<Elem Name="Blazer Femme" NameU="Women Blazer 3"/>
+
+<Elem Name="Vêtements Femme" NameU="Women Short Sleeve Shirt"/>
+
+<Elem Name="Chemise homme 1" NameU="Men Shirt 1"/>
+
+<Elem Name="Vêtements Homme" NameU="Men Shirt 2"/>
+
+<Elem Name="Vêtements Homme" NameU="Men T-shirt 1"/>
+
+<Elem Name="Vêtements Homme" NameU="Men T-shirt 2"/>
+
+<Elem Name="Vêtements Homme" NameU="Men T-shirt 3"/>
+
+<Elem Name="T-shirt homme 4" NameU="Men T-shirt 4"/>
+
+<Elem Name="Jeans" NameU="Jeans"/>
+
+<Elem Name="Culotte" NameU="Breeches"/>
+
+<Elem Name="Salopette" NameU="Overalls"/>
+
+<Elem Name="Pantalon court 1" NameU="Short Pants 1"/>
+
+<Elem Name="Pantalon court 2" NameU="Short Pants 2"/>
+
+<Elem Name="Costume de Superman" NameU="Superman Costume"/>
+
+<Elem Name="Pantalons courts" NameU="Short Pants"/>
+
+<Elem Name="Vêtement Enfant" NameU="Children T-Shirt"/>
+
+<Elem Name="Vêtement Enfant" NameU="Girl Vest"/>
+
+<Elem Name="Vêtement Enfant" NameU="Girl Jacket"/>
+
+<Elem Name="Vêtement Enfant" NameU="Children T-shirt and Pants"/>
+
+<Elem Name="Vêtement Enfant" NameU="Children T-shirt"/>
+
+<Elem Name="Chaussette" NameU="Sock 1"/>
+
+<Elem Name="Chaussette" NameU="Sock 2"/>
+
+<Elem Name="Chaussette" NameU="Sock 3"/>
+
+<Elem Name="Chaussette" NameU="Sock 4"/>
+
+<Elem Name="Chaussures à talons hauts 1" NameU="High-heeled Shoes 1"/>
+
+<Elem Name="Chaussures à talons 4" NameU="High-heeled Shoes 4"/>
+
+<Elem Name="Chaussures à talons hauts" NameU="High-heeled Shoes 2"/>
+
+<Elem Name="Chaussures à talons 3" NameU="High-heeled Shoes 3"/>
+
+<Elem Name="Chaussures à talons 5" NameU="High-heeled Shoes 5"/>
+
+<Elem Name="Chaussures à talons 6" NameU="High-heeled Shoes 6"/>
+
+<Elem Name="Chaussures à talons 7" NameU="High-heeled Shoes 7"/>
+
+<Elem Name="Chaussures à talons 8" NameU="High-heeled Shoes 8"/>
+
+<Elem Name="Hommes Boot 1" NameU="Men Boot 1"/>
+
+<Elem Name="Hommes Boot 2" NameU="Men Boot 2"/>
+
+<Elem Name="Baskets" NameU="Sneaker"/>
+
+<Elem Name="Bottes" NameU="Boot"/>
+
+</Lib>

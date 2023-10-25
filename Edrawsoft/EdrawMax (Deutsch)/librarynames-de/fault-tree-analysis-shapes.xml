@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Fault Tree Analysis Shapes">
+
+<Elem Name="UND-Gatter" NameU="AND gate"/>
+
+<Elem Name="ODER-Gatter" NameU="OR gate"/>
+
+<Elem Name="Sperrgatter" NameU="Inhibit gate"/>
+
+<Elem Name="Prioritäts-Und-Gatter" NameU="Priority AND gate"/>
+
+<Elem Name="Ausschlißendes-ODER-Gatter" NameU="Exclusive OR gate"/>
+
+<Elem Name="Kombination" NameU="Combination"/>
+
+<Elem Name="Zwischen-Ereignis" NameU="Intermediate event"/>
+
+<Elem Name="Basisereignis" NameU="Basic event"/>
+
+<Elem Name="Sekundäres Ereignis" NameU="Undeveloped event"/>
+
+<Elem Name="Auslösendes Ereignis" NameU="Initiating event"/>
+
+<Elem Name="Bedingtes Ereignis" NameU="Conditional even"/>
+
+<Elem Name="Transfersymbol" NameU="Transfer symbol"/>
+
+<Elem Name="Kurvenstecker" NameU="Curve connector"/>
+
+</Lib>

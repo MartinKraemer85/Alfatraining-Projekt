@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="PID Safety">
+	<Elem NameU="Barricade 1" Name="Barricada 1"/>
+	<Elem NameU="Barricade 2" Name="Barricada 2"/>
+	<Elem NameU="Do not enter sign" Name="Sinal de Entrada Proibida"/>
+	<Elem NameU="Lockout tag background" Name="Fundo de etiqueta de travamento"/>
+	<Elem NameU="Lockout tag" Name="Etiqueta de travamento"/>
+	<Elem NameU="Long-haired freaky people need not apply" Name="Pessoas estranhas de cabelo comprido não precisam de concorrer"/>
+	<Elem NameU="Orange diamond caution sign" Name="Sinal de cuidado diamante laranja"/>
+	<Elem NameU="Orange pylon" Name="Torre laranja"/>
+	<Elem NameU="Orange warning sign" Name="SInal de aviso laranja"/>
+	<Elem NameU="OSHA tape (black-white checked)" Name="Fita OSHA (xadrez preto e branco)"/>
+	<Elem NameU="OSHA tape (black-white striped)" Name="Fita OSHA (tiras preto e branco)"/>
+	<Elem NameU="OSHA tape (red-white checked)" Name="Fita OSHA (xadrez vermelho e branco)"/>
+	<Elem NameU="OSHA tape (red-white striped)" Name="Fita OSHA (tiras vermelho e branco)"/>
+	<Elem NameU="OSHA tape (yellow-black checked)" Name="Fita OSHA (xadrez amarelo e preto)"/>
+	<Elem NameU="OSHA tape (yellow-black striped)" Name="Fita OSHA (tiras amarelas e pretas)"/>
+	<Elem NameU="Small caution sign" Name="Sinal de cuidado pequneo"/>
+	<Elem NameU="Small danger sign" Name="Sinal de perigo pequeno"/>
+	<Elem NameU="Small warning sign" Name="Sinal de aviso pequeno"/>
+	<Elem NameU="Stop sign" Name="Sinal de paragem"/>
+	<Elem NameU="White danger sign" Name="Sinal de perigo branco"/>
+	<Elem NameU="White floor stand sign" Name="Sinal de piso branco"/>
+	<Elem NameU="Yellow caution sign" Name="Sinal de cuidado amarelo"/>
+	<Elem NameU="Yellow diamond caution sign" Name="Sinal de cuidado diamante amarelo"/>
+	<Elem NameU="Yellow floor stand sign" Name="Sinal de piso amarelo"/>
+	<Elem NameU="Yellow pylon" Name="Torre amarela"/>
+	<Elem NameU="Yellow warning stripe" Name="Tira de aviso amarela"/>
+	<Elem NameU="Yield sign" Name="Sinal de ceder passagem"/>
+</Lib>

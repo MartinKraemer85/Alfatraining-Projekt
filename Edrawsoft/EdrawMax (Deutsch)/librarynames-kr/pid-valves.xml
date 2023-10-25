@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Valves">
+    <Elem NameU="Ball valve" Number="2" Name="볼 밸브 1"/>
+    <Elem NameU="Check valve horiz" Name="체크 밸브 수평"/>
+    <Elem NameU="Check valve vert" Name="체크 밸브 수직"/>
+    <Elem NameU="Ctrl valve" Name="컨트롤 밸브"/>
+    <Elem NameU="Ctrl valve flange" Name="플랜지 컨트롤 밸브"/>
+    <Elem NameU="Ctrl valve gray fit" Name="컨트롤 밸브 2"/>
+    <Elem NameU="Ctrl valve horiz" Name="수평 컨트롤 밸브"/>
+    <Elem NameU="Ctrl valve vert" Name="수직 컨트롤 밸브"/>
+    <Elem NameU="Cindervalve" Name="Cindervalve"/>
+    <Elem NameU="Hand valve 1" Name="핸드 밸브 1"/>
+    <Elem NameU="Hand valve 2" Name="핸드 밸브 2"/>
+    <Elem NameU="Motor valve" Name="모터 밸브"/>
+    <Elem NameU="Pinch valve" Name="핀치 밸브"/>
+    <Elem NameU="Plastic swing check valve" Name="플라스틱 스윙 체크 밸브"/>
+    <Elem NameU="PVC two-way valve" Name="PVC 두 방향 밸브"/>
+    <Elem NameU="Safety valve" Name="안전 밸브"/>
+    <Elem NameU="Ctrl valve horiz" Number="2" Name="수평 컨트롤 밸브"/>
+    <Elem NameU="Valve" Number="2" Name="밸브"/>
+    <Elem NameU="Ball valve" Name="볼 밸브 1"/>
+    <Elem NameU="Rotary valve" Name="회전 밸브"/>
+</Lib>

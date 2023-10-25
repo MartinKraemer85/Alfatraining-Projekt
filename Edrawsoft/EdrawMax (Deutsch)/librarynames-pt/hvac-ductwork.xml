@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="HVAC Ductwork">
+	<Elem NameU="Straight duct" Name="Duto direito"/>
+	<Elem NameU="Miter bend" Name="Dobra de mitra"/>
+	<Elem NameU="Miter bend 2" Name="Dobra de mitra 2"/>
+	<Elem NameU="Miter bend 3" Name="Dobra de mitra 3"/>
+	<Elem NameU="Miter bend 4" Name="Dobra de mitra 4"/>
+	<Elem NameU="Variable bend" Name="Dobra variável"/>
+	<Elem NameU="Variable bend 2" Name="Dobra variável 2"/>
+	<Elem NameU="Branch duct" Name="Duto de ramo"/>
+	<Elem NameU="Branch duct 2" Name="Duto de ramo 2"/>
+	<Elem NameU="Junction bottom" Name="Fundo de junção"/>
+	<Elem NameU="Junction up" Name="Junção para cima"/>
+	<Elem NameU="3 way junction" Name="Junção de 3 vias"/>
+	<Elem NameU="Y junction" Name="Junção Y"/>
+	<Elem NameU="Beveled junction" Name="Junção biselada"/>
+	<Elem NameU="Transition" Name="Transição"/>
+	<Elem NameU="Offset transition" Name="Transição de compensar"/>
+	<Elem NameU="Supply" Name="Fornecimento"/>
+	<Elem NameU="Return" Name="Retorno"/>
+	<Elem NameU="Flexible connection 1" Name="Conexão flexível 1"/>
+	<Elem NameU="Flexible connector" Name="Conector flexível"/>
+	<Elem NameU="Vertical duct" Name="Duto vertical"/>
+	<Elem NameU="VAV box" Name="Caixa VAV"/>
+	<Elem NameU="Sliding damper" Name="Amortecedor deslizante"/>
+	<Elem NameU="Damper" Name="Amortecedor"/>
+</Lib>

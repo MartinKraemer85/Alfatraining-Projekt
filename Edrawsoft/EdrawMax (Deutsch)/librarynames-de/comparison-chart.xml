@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Comparison Chart">
+	<Elem NameU="Blank Comparison Table" Name="Leere Vergleichstabelle"/>
+	<Elem NameU="Blank Comparison Table - Green" Name="Leere Vergleichstabelle - Grün"/>
+	<Elem NameU="Blank Comparison Table - Dark Red" Name="Leere Vergleichstabelle - Dunkelrot"/>
+	<Elem NameU="Comparison Table" Name="Vergleichstabelle"/>
+	<Elem NameU="Comparison Table 2" Name="Vergleichstabelle 2"/>
+	<Elem NameU="Product Comparison" Name="Produktvergleichstabelle"/>
+	<Elem NameU="Yes/No" Name="Ja/Nein"/>
+	<Elem NameU="Check Box" Name="Kontrollkästchen"/>
+	<Elem NameU="Progress" Name="Fortschritte"/>
+	<Elem NameU="Progress 2" Name="Fortschritte 2"/>
+	<Elem NameU="Progress 3" Name="Fortschritte 3"/>
+	<Elem NameU="Priority" Name="Priorität"/>
+	<Elem NameU="3-State Priority" Name="3 Zustände Priorität"/>
+	<Elem NameU="3-State Alert" Name="3 Zustände Warnmeldung"/>
+	<Elem NameU="6-State Status" Name="6 Zustände Zustandsmeldung"/>
+	<Elem NameU="4-Direction Arrow" Name="4-Richtungen Pfeil"/>
+	<Elem NameU="4-Direction Arrow 2" Name="4-Richtungen Pfeil 2"/>
+	<Elem NameU="Progress Status" Name="Fortschrittsanzeige"/>
+	<Elem NameU="Trafic Light" Name="Ampelanlage"/>
+	<Elem NameU="Rating" Name="Bewertung"/>
+	<Elem NameU="Quality" Name="Qualität"/>
+	<Elem NameU="Lock/UnLock" Name="Sperre/Entsperre"/>
+	<Elem NameU="10-State Flag" Name="10 Kennzeichenen"/>
+	<Elem NameU="12-State Flag" Name="12 Kennzeichenen"/>
+	<Elem NameU="Numbering" Name="Nummerierung"/>
+	<Elem NameU="Message" Name="Nachricht"/>
+	<Elem NameU="Message 2" Name="Nachricht 2"/>
+	<Elem NameU="Spacing Bar" Name="Abstand"/>
+</Lib>

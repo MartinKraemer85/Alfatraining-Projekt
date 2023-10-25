@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Kids Professions">
+    <Elem NameU="Chef" Name="셰프"/>
+    <Elem NameU="Head Chef" Name="헤드 셰프"/>
+    <Elem NameU="Waitress" Name="웨이터"/>
+    <Elem NameU="Business People" Name="비지니스맨"/>
+    <Elem NameU="Courier" Name="택배원"/>
+    <Elem NameU="Farmer" Name="농민"/>
+    <Elem NameU="Guide" Name="가이드"/>
+    <Elem NameU="Singer" Name="가수"/>
+    <Elem NameU="Reporter" Name="기자"/>
+    <Elem NameU="Flight Attendant" Name="승무원"/>
+    <Elem NameU="Teacher" Name="선생님"/>
+    <Elem NameU="Doctor" Name="의사"/>
+    <Elem NameU="Nurse" Name="간호사"/>
+    <Elem NameU="Surgeon" Name="외과 의사"/>
+    <Elem NameU="Vet" Name="수의사"/>
+    <Elem NameU="Detective" Name="탐정"/>
+    <Elem NameU="Postman" Name="우체원"/>
+    <Elem NameU="Judge" Name="판사"/>
+    <Elem NameU="Pastor" Name="목사"/>
+    <Elem NameU="Nun" Name="수녀"/>
+    <Elem NameU="Captain" Name="선장"/>
+    <Elem NameU="Policeman 1" Name="경찰 1"/>
+    <Elem NameU="Policewoman" Name="여자 경찰"/>
+    <Elem NameU="Policeman 2" Name="경찰 2"/>
+    <Elem NameU="Soldier" Name="병사"/>
+    <Elem NameU="Firefighter" Name="소방원"/>
+    <Elem NameU="Engineer" Name="엔지니어"/>
+    <Elem NameU="Worker" Name="근로자"/>
+    <Elem NameU="Magician" Name="마술사"/>
+    <Elem NameU="Clown" Name="클라운"/>
+    <Elem NameU="Conductor" Name="음악 지휘가"/>
+    <Elem NameU="Musician" Name="음악가"/>
+    <Elem NameU="Scientist" Name="과학가"/>
+    <Elem NameU="Hairdresser" Name="미용사"/>
+    <Elem NameU="Artist" Name="화가"/>
+    <Elem NameU="Fitness Trainer" Name="헬스 트레이너"/>
+    <Elem NameU="Tennis Player" Name="테니스 선스"/>
+    <Elem NameU="Football Player" Name="축구 선수"/>
+    <Elem NameU="Cleaner" Name="청소공"/>
+    <Elem NameU="Astronaut" Name="우주 비행사"/>
+</Lib>

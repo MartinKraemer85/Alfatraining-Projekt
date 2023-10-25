@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Wardrobe">
+    <Elem NameU="Cabinet Dimension" Name="衣櫃尺寸"/>
+    <Elem NameU="Chest" Name="衣櫃"/>
+    <Elem NameU="Horizontal Board" Name="水平板"/>
+    <Elem NameU="Vertical Board" Name="垂直板"/>
+    <Elem NameU="Clapboard with Size" Name="帶有尺吋的隔板"/>
+    <Elem NameU="Horizontal Clapboard" Name="水平隔板"/>
+    <Elem NameU="Vertical Clapboard" Name="垂直隔板"/>
+    <Elem NameU="Top Box" Name="頂櫃"/>
+    <Elem NameU="Top Box(Right)" Name="右頂櫃"/>
+    <Elem NameU="Drawer" Name="抽屜"/>
+    <Elem NameU="Drawer 2" Name="抽屜 2"/>
+    <Elem NameU="Drawer 3" Name="抽屜 3"/>
+    <Elem NameU="Drawer 4" Name="抽屜 4"/>
+    <Elem NameU="Drawer 5" Name="抽屜 5"/>
+    <Elem NameU="Drawer 6" Name="抽屜 6"/>
+    <Elem NameU="Drawer 7" Name="抽屜 7"/>
+    <Elem NameU="Baskets" Name="籃"/>
+    <Elem NameU="Suitcase" Name="衣箱"/>
+    <Elem NameU="Suitcase 2" Name="衣箱 2"/>
+    <Elem NameU="Lattice" Name="格"/>
+    <Elem NameU="Clothes Hanger" Name="衣架"/>
+    <Elem NameU="Trouser Hanger" Name="褲架"/>
+    <Elem NameU="Suitcase" Name="衣箱"/>
+    <Elem NameU="Box" Name="箱子"/>
+    <Elem NameU="Towel" Name="毛巾"/>
+    <Elem NameU="Towel 2" Name="毛巾 2"/>
+    <Elem NameU="Pillow" Name="枕頭"/>
+    <Elem NameU="Quilt" Name="被子"/>
+    <Elem NameU="Quilt 2" Name="被子 2"/>
+    <Elem NameU="Quilt 3" Name="被子 3"/>
+    <Elem NameU="Hat" Name="帽子"/>
+    <Elem NameU="Hanger" Name="木衣架"/>
+    <Elem NameU="Photo Frame" Name="相框"/>
+    <Elem NameU="Clothes" Name="衣服"/>
+    <Elem NameU="Clothes 2" Name="衣服 2"/>
+    <Elem NameU="Jackets" Name="夾克"/>
+    <Elem NameU="Suits" Name="西服"/>
+    <Elem NameU="Overcoat" Name="大衣"/>
+    <Elem NameU="Pants" Name="褲子"/>
+    <Elem NameU="Hooks" Name="掛鉤"/>
+    <Elem NameU="Closet Framework" Name="衣櫥框架"/>
+    <Elem NameU="Horizontal Clapboard 2" Name="水平隔板 2"/>
+    <Elem NameU="Vertical Clapboard 2" Name="垂直隔板 2"/>
+    <Elem NameU="Clothes Hanger 2" Name="衣架 2"/>
+    <Elem NameU="Drawer 4" Name="抽屜 4"/>
+    <Elem NameU="Drawer 5" Name="抽屜 5"/>
+    <Elem NameU="Suitcase 2" Name="衣箱 2"/>
+    <Elem NameU="Hanger 2" Name="木衣架 2"/>
+    <Elem NameU="Towel 3" Name="毛巾 3"/>
+    <Elem NameU="Towel 4" Name="毛巾 4"/>
+    <Elem NameU="Towel 5" Name="毛巾 5"/>
+    <Elem NameU="Quilt 2" Name="被子 2"/>
+    <Elem NameU="Pillow 2" Name="枕頭 2"/>
+    <Elem NameU="Hat 2" Name="帽子 2"/>
+    <Elem NameU="Blue Dress" Name="藍色裙子"/>
+    <Elem NameU="Red Dress" Name="紅色裙子"/>
+    <Elem NameU="T-Shirt" Name="T恤"/>
+    <Elem NameU="Shirt" Name="襯衫"/>
+    <Elem NameU="Toy" Name="玩具"/>
+    <Elem NameU="Photo Frame 2" Name="相框 2"/>
+    <Elem NameU="Cabinet light" Name="櫥櫃燈"/>
+    <Elem NameU="Droplight" Name="吊燈"/>
+    <Elem NameU="Ceiling light" Name="天花燈"/>
+    <Elem NameU="Desk lamp" Name="檯燈"/>
+</Lib>

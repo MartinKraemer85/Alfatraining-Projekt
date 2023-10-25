@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Elevations">
+	<Elem NameU="Frame" Name="Moldura"/>
+	<Elem NameU="Frame 2" Name="Moldura 2"/>
+	<Elem NameU="Divider - H" Name="Divisor - H"/>
+	<Elem NameU="Divider - V" Name="Divisor - V"/>
+	<Elem NameU="Divider - H 2" Name="Divisor - H 2"/>
+	<Elem NameU="Divider - V 2" Name="Divisor - V 2"/>
+	<Elem NameU="Diveder 2" Name="Divisor 2"/>
+	<Elem NameU="Rect" Name="Reta"/>
+	<Elem NameU="Door Left" Name="Porta Esquerda"/>
+	<Elem NameU="Door Right" Name="Porta Direita"/>
+	<Elem NameU="Door Double" Name="Porta Dupla"/>
+	<Elem NameU="Bedside cabinet" Name="Mesinha de Cabeceira"/>
+	<Elem NameU="Sofa" Name="Sofá"/>
+	<Elem NameU="Washbasin" Name="Lavatório"/>
+	<Elem NameU="Plants" Name="Plantas"/>
+	<Elem NameU="Fireplace" Name="Lareira"/>
+	<Elem NameU="Painting" Name="Pintura"/>
+	<Elem NameU="Wall" Name="Parede"/>
+	<Elem NameU="Flue" Name="Conduto"/>
+	<Elem NameU="Table facet" Name="Faceta de mesa"/>
+	<Elem NameU="L table facet" Name="Faceta de mesa em L"/>
+	<Elem NameU="Drainage pipe" Name="Tubo de drenagem"/>
+	<Elem NameU="Outlet" Name="Tomada"/>
+	<Elem NameU="Intake" Name="Entrada"/>
+</Lib>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Mind Map Icons">
+	<Elem NameU="Red Flag" Name="Bandeira Vermelha"/>
+	<Elem NameU="Blue Flag" Name="Bandeira Azul"/>
+	<Elem NameU="Green Flag" Name="Bandeira Verde"/>
+	<Elem NameU="Purple Flag" Name="Bandeira Roxa"/>
+	<Elem NameU="Yellow Flag" Name="Bandeira Amarela"/>
+	<Elem NameU="Red Resource" Name="Recurso Vermelho"/>
+	<Elem NameU="Blue Resource" Name="Recurso Azul"/>
+	<Elem NameU="Resource Green" Name="Recurso Verde"/>
+	<Elem NameU="Purple Resource" Name="Recurso Roxo"/>
+	<Elem NameU="Yellow Resource" Name="Recurso Amarelo"/>
+	<Elem NameU="Right Arrow" Name="Seta para a Direita"/>
+	<Elem NameU="Left Arrow" Name="Seta para a Esquerda"/>
+	<Elem NameU="Up Arrow" Name="Seta para Cima"/>
+	<Elem NameU="Down Arrow" Name="Seta para baixo"/>
+	<Elem NameU="Dynamic Progress" Name="Progresso Dinâmico"/>
+	<Elem NameU="Numbers" Name="Números"/>
+	<Elem NameU="Exclamation" Name="Exclamação"/>
+	<Elem NameU="Question" Name="Questão"/>
+	<Elem NameU="Star" Name="Estrela"/>
+	<Elem NameU="Idea" Name="Ideia"/>
+	<Elem NameU="Idea 2" Name="Ideia 2"/>
+	<Elem NameU="Completed" Name="Completo"/>
+	<Elem NameU="Cancel" Name="Cancelar"/>
+	<Elem NameU="Thumbs Up" Name="Polegar para Cima"/>
+	<Elem NameU="Thumbs Down" Name="Polegar para Baixo"/>
+	<Elem NameU="Guesture V" Name="Gesto de V"/>
+	<Elem NameU="Shake hands" Name="Apertar as mãos"/>
+	<Elem NameU="Woman" Name="Mulher"/>
+	<Elem NameU="Man" Name="Homem"/>
+	<Elem NameU="Home" Name="Casa"/>
+	<Elem NameU="Lock" Name="Fechar"/>
+	<Elem NameU="Unlock" Name="Abrir"/>
+	<Elem NameU="Key" Name="Chave"/>
+	<Elem NameU="Happy" Name="Feliz"/>
+	<Elem NameU="Sad" Name="Triste"/>
+	<Elem NameU="Surprised" Name="Surpreso"/>
+	<Elem NameU="Laugh" Name="Rir"/>
+	<Elem NameU="Sick" Name="Doente"/>
+	<Elem NameU="Angry" Name="Zangado"/>
+	<Elem NameU="Heart" Name="Coração"/>
+	<Elem NameU="Basketball" Name="Basquete"/>
+	<Elem NameU="Football" Name="Futebol"/>
+	<Elem NameU="Glasses" Name="Óculos"/>
+	<Elem NameU="Rocket" Name="Foguetão"/>
+	<Elem NameU="Time" Name="Tempo"/>
+	<Elem NameU="Folder" Name="Pasta"/>
+	<Elem NameU="Disc" Name="Disco"/>
+	<Elem NameU="Coffee" Name="Café"/>
+	<Elem NameU="Pencil" Name="Lápis"/>
+	<Elem NameU="Unsafety" Name="Insegurança"/>
+	<Elem NameU="Safety" Name="Segurança"/>
+	<Elem NameU="Zoom" Name="Zoom"/>
+	<Elem NameU="Phone" Name="Telefone"/>
+	<Elem NameU="Device" Name="Dispositivo"/>
+	<Elem NameU="Bomb" Name="Bomba"/>
+	<Elem NameU="Information" Name="Informação"/>
+	<Elem NameU="Comment" Name="Comentário"/>
+	<Elem NameU="Calendar" Name="Calendário"/>
+	<Elem NameU="Bar Chart" Name="Gráfio de Barras"/>
+	<Elem NameU="Pie Chart" Name="Gráfico de Tarte"/>
+	<Elem NameU="Euro" Name="Euro"/>
+	<Elem NameU="Dollar" Name="Dólar"/>
+	<Elem NameU="Gift" Name="Prenda"/>
+	<Elem NameU="Gear" Name="Equipamento"/>
+	<Elem NameU="Music" Name="Música"/>
+	<Elem NameU="Cross" Name="Cruzar"/>
+	<Elem NameU="Shopping Cart" Name="Carrinho de Compras"/>
+	<Elem NameU="Undo" Name="Desfazer"/>
+	<Elem NameU="Redo" Name="Refazer"/>
+	<Elem NameU="Link" Name="Link"/>
+	<Elem NameU="Briefcase" Name="Mala"/>
+	<Elem NameU="Lightning" Name="Iluminação"/>
+	<Elem NameU="Battery" Name="Bateria"/>
+	<Elem NameU="At" Name="Em"/>
+</Lib>

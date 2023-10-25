@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Azure Intune">
+	<Elem NameU="Account Portal" Name="Portal de Conta"/>
+	<Elem NameU="Administration" Name="Administração"/>
+	<Elem NameU="Alerts" Name="Alertas"/>
+	<Elem NameU="Apps" Name="Apps"/>
+	<Elem NameU="Certificate Compliance" Name="Conformidade de Certificado"/>
+	<Elem NameU="Client Software Deployment Wizard" Name="Assistente de Instalação de Implementação de Software de Cliente"/>
+	<Elem NameU="Company Portal" Name="Portal da Empresa"/>
+	<Elem NameU="Computer Inventory" Name="Inventário de Computador"/>
+	<Elem NameU="Conditional Access_Exchange" Name="Acesso Condicional_Troca"/>
+	<Elem NameU="Conditional Access_Sharepoint" Name="Acesso Condicional_Ponto de Partilha"/>
+	<Elem NameU="Connector" Name="Conector"/>
+	<Elem NameU="Dashboard" Name="Painel"/>
+	<Elem NameU="Data Migration Wizard" Name="Assistente de Instalação de Migração de Dados"/>
+	<Elem NameU="Detected Software" Name="Software Detetado"/>
+	<Elem NameU="Device Group" Name="Grupo do Dispositivo"/>
+	<Elem NameU="Device Health" Name="Saúde do Dispositivo"/>
+	<Elem NameU="Device History" Name="História do Dispositivo"/>
+	<Elem NameU="Device OS" Name="SO do Dispositivo"/>
+	<Elem NameU="End Protection" Name="Proteção Final"/>
+	<Elem NameU="Exchange Connector" Name="Conector de Troca"/>
+	<Elem NameU="Groups" Name="Grupos"/>
+	<Elem NameU="Hybrid" Name="Híbrido"/>
+	<Elem NameU="Intune Certificate Profiles" Name="Perfis de Certificado Intune"/>
+	<Elem NameU="Intune Connector (system center)" Name="Conector Intune (centro de sistema)"/>
+	<Elem NameU="Intune Email Profiles" Name="Perfis de Email Intune"/>
+	<Elem NameU="Intune Managed App" Name="App Gerida por Intune"/>
+	<Elem NameU="Intune Mobile Application Management" Name="Gestão de Aplicação Móvel Intune"/>
+	<Elem NameU="Intune VPN Profiles" Name="Perfis de VPN Intune"/>
+	<Elem NameU="Intune Wi-Fi Profiles" Name="Perfis de Wi-Fi Intune"/>
+	<Elem NameU="Inventory license" Name="Licença de Inventário"/>
+	<Elem NameU="Inventory Software" Name="Software de Inventário"/>
+	<Elem NameU="License Group" Name="Grupo de Licenças"/>
+	<Elem NameU="License Installation" Name="Instalação de Licença"/>
+	<Elem NameU="Microsoft Intune" Name="Microsoft Intune"/>
+	<Elem NameU="Mobile Inventory" Name="Inventário de Mobile"/>
+	<Elem NameU="Noncompliant Apps" Name="Apps em Não Conformidade"/>
+	<Elem NameU="Policy" Name="Política"/>
+	<Elem NameU="Protection" Name="Proteção"/>
+	<Elem NameU="Reports" Name="Relatórios"/>
+	<Elem NameU="Settings" Name="Definições"/>
+	<Elem NameU="Subscription Portal" Name="Portal de Subscrição"/>
+	<Elem NameU="Terms And Conditions" Name="Termos e Condições"/>
+	<Elem NameU="Update" Name="Atualização"/>
+	<Elem NameU="User group" Name="Grupo de Usuário"/>
+	<Elem NameU="User Management" Name="Gestão de Usuário"/>
+</Lib>

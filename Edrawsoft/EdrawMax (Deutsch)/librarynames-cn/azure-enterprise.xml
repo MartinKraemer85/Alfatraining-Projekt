@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Azure Enterprise">
+    <Elem NameU="Active Directory Federation Services Proxy" Name="活动目录联合代理服务器"/>
+    <Elem NameU="AD FS" Name="AD FS"/>
+    <Elem NameU="Android Phone" Name="安卓手机"/>
+    <Elem NameU="Application (blank for text)" Name="应用程序（空白文本）"/>
+    <Elem NameU="App Generic" Name="通用应用程序"/>
+    <Elem NameU="Application Server" Name="应用程序服务器"/>
+    <Elem NameU="Azure Pack" Name="Azure安装包"/>
+    <Elem NameU="Backup local" Name="本地备份"/>
+    <Elem NameU="Backup Online" Name="在线备份"/>
+    <Elem NameU="Calendar" Name="日历"/>
+    <Elem NameU="Certificate" Name="证书"/>
+    <Elem NameU="Client Application" Name="客户端应用程序"/>
+    <Elem NameU="Cloud" Name="云"/>
+    <Elem NameU="Cluster Server" Name="集群服务器"/>
+    <Elem NameU="Code File" Name="代码文件"/>
+    <Elem NameU="Connectors" Name="连接器"/>
+    <Elem NameU="Database Generic" Name="通用数据库"/>
+    <Elem NameU="Database Server" Name="数据库服务器"/>
+    <Elem NameU="Database Synchronization" Name="数据库同步"/>
+    <Elem NameU="Direct Access (feature)" Name="直接访问（特点）"/>
+    <Elem NameU="Device" Name="设备"/>
+    <Elem NameU="Document DB File" Name="文档数据库文件"/>
+    <Elem NameU="Document" Name="文档"/>
+    <Elem NameU="Domain Controller" Name="域控制器"/>
+    <Elem NameU="Enterprise Building" Name="企业建筑"/>
+    <Elem NameU="File General" Name="通用文件"/>
+    <Elem NameU="Filter" Name="过滤器"/>
+    <Elem NameU="Firewall" Name="防火墙"/>
+    <Elem NameU="Folder" Name="文件夹"/>
+    <Elem NameU="Gateway" Name="网关"/>
+    <Elem NameU="Generic App Named Text" Name="应用程序"/>
+    <Elem NameU="Generic Code" Name="通用代码"/>
+    <Elem NameU="Graph" Name="图形"/>
+    <Elem NameU="Health Monitoring" Name="健康监控"/>
+    <Elem NameU="Healthy" Name="健康"/>
+    <Elem NameU="Import Generic" Name="通用输入"/>
+    <Elem NameU="Internet (hollow)" Name="网络（空心）"/>
+    <Elem NameU="Internet" Name="网络"/>
+    <Elem NameU="iPhone" Name="苹果手机"/>
+    <Elem NameU="Key Permissions" Name="密钥许可"/>
+    <Elem NameU="Keyboard" Name="键盘"/>
+    <Elem NameU="Laptop Computer" Name="笔记本电脑"/>
+    <Elem NameU="Load Balancer (Generic)" Name="负载平衡器（通用）"/>
+    <Elem NameU="Load Testing" Name="负载测试"/>
+    <Elem NameU="lock Unlocked Accessible" Name="解锁"/>
+    <Elem NameU="Lock Protected" Name="锁保护"/>
+    <Elem NameU="Maintenance" Name="维护"/>
+    <Elem NameU="Management Console" Name="管理控制台"/>
+    <Elem NameU="Message" Name="信息"/>
+    <Elem NameU="Monitor Running Rpps" Name="运行监控"/>
+    <Elem NameU="Monitor" Name="监视器"/>
+    <Elem NameU="Mouse" Name="鼠标"/>
+    <Elem NameU="Network Card" Name="网卡"/>
+    <Elem NameU="Not Allowed" Name="禁止"/>
+    <Elem NameU="Performance Monitor" Name="性能监控"/>
+    <Elem NameU="Performance" Name="性能"/>
+    <Elem NameU="Phone" Name="手机"/>
+    <Elem NameU="Plug And Play" Name="即插即用系统"/>
+    <Elem NameU="PowerPoint" Name="PPT"/>
+    <Elem NameU="Powershell Script File" Name="Powershell 脚本文件"/>
+    <Elem NameU="Protocol Stack" Name="协议栈"/>
+    <Elem NameU="Queue General" Name="通用队列"/>
+    <Elem NameU="RMS Connector" Name="RMS连接器"/>
+    <Elem NameU="Router" Name="路由器"/>
+    <Elem NameU="Rpd Remoting File" Name="Rpd远程文件"/>
+    <Elem NameU="Script File" Name="脚本文件"/>
+    <Elem NameU="Secure Virtual Machine" Name="安全虚拟机"/>
+    <Elem NameU="Server (blade)" Name="刀片服务器"/>
+    <Elem NameU="Server (generic)" Name="通用服务器"/>
+    <Elem NameU="Server Directory" Name="服务器目录"/>
+    <Elem NameU="Server Farm" Name="服务器群"/>
+    <Elem NameU="Server Rack" Name="机架式服务器"/>
+    <Elem NameU="Settings" Name="设置"/>
+    <Elem NameU="Shared Folder" Name="共享文件夹"/>
+    <Elem NameU="Smartcard" Name="智能卡"/>
+    <Elem NameU="Startup Task" Name="启动任务"/>
+    <Elem NameU="Storage" Name="存储"/>
+    <Elem NameU="Stored Procedures" Name="存储过程"/>
+    <Elem NameU="Table" Name="表格"/>
+    <Elem NameU="Tablet" Name="平板电脑"/>
+    <Elem NameU="Tool" Name="工具"/>
+    <Elem NameU="Triggers" Name="触发器"/>
+    <Elem NameU="Tunnel" Name="隧道"/>
+    <Elem NameU="UDF Function" Name="自定义函数"/>
+    <Elem NameU="Unhealthy" Name="不健康"/>
+    <Elem NameU="USB" Name="USB"/>
+    <Elem NameU="User -Enterprise" Name="企业用户"/>
+    <Elem NameU="User Permissions" Name="用户权限"/>
+    <Elem NameU="Video" Name="视频"/>
+    <Elem NameU="Virtual Machine" Name="虚拟机"/>
+    <Elem NameU="Web Server" Name="网络服务器"/>
+    <Elem NameU="Web" Name="万维网"/>
+    <Elem NameU="WebSite (generic)" Name="通用网站"/>
+    <Elem NameU="Windows Server" Name="Windows服务器"/>
+    <Elem NameU="Wireless Connection" Name="无线连接"/>
+    <Elem NameU="Workstation Client" Name="工作站客户端"/>
+    <Elem NameU="XML Web Service" Name="XML网络服务"/>
+</Lib>

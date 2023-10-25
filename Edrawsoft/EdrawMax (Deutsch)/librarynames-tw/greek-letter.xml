@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Greek Letter">
+    <Elem NameU="Pi" Name="Pi"/>
+    <Elem NameU="Alpha" Name="Alpha"/>
+    <Elem NameU="Beta" Name="Beta"/>
+    <Elem NameU="Gamma" Name="Gamma"/>
+    <Elem NameU="Delta" Name="Delta"/>
+    <Elem NameU="Epsilon" Name="Epsilon"/>
+    <Elem NameU="Zeta" Name="Zeta"/>
+    <Elem NameU="Eta" Name="Eta"/>
+    <Elem NameU="Theta" Name="Theta"/>
+    <Elem NameU="Iota" Name="Iota"/>
+    <Elem NameU="Kappa" Name="Kappa"/>
+    <Elem NameU="Lambda" Name="Lambda"/>
+    <Elem NameU="Mu" Name="Mu"/>
+    <Elem NameU="Nu" Name="Nu"/>
+    <Elem NameU="Xi" Name="Xi"/>
+    <Elem NameU="Omicron" Name="Omicron"/>
+    <Elem NameU="Rho" Name="Rho"/>
+    <Elem NameU="Sigma" Name="Sigma"/>
+    <Elem NameU="Tau" Name="Tau"/>
+    <Elem NameU="Upsilon" Name="Upsilon"/>
+    <Elem NameU="Phi" Number="2" Name="Phi"/>
+    <Elem NameU="Chi" Name="Chi"/>
+    <Elem NameU="Psi" Name="Psi"/>
+    <Elem NameU="Omega" Name="Omega"/>
+    <Elem NameU="Alpha Capital" Name="Alpha大寫"/>
+    <Elem NameU="Beta Capital" Name="Beta大寫"/>
+    <Elem NameU="Gamma Capital" Name="Gamma大寫"/>
+    <Elem NameU="Delta Capital" Name="Delta大寫"/>
+    <Elem NameU="Epsilon Capital" Name="Epsilon大寫"/>
+    <Elem NameU="Zeta Capital" Name="Zeta大寫"/>
+    <Elem NameU="Eta Capital" Name="Eta大寫"/>
+    <Elem NameU="Theta Capital" Name="Theta大寫"/>
+    <Elem NameU="Iota Capital" Name="Iota大寫"/>
+    <Elem NameU="Kappa Capital" Name="Kappa 大寫"/>
+    <Elem NameU="Lambda Capital" Name="Lambda大寫"/>
+    <Elem NameU="Mu Capital" Name="Mu大寫"/>
+    <Elem NameU="Nu Capital" Name="Nu大寫"/>
+    <Elem NameU="Xi Capital" Name="Xi大寫"/>
+    <Elem NameU="Omicron Capital" Name="Omicron大寫"/>
+    <Elem NameU="Pi Capital" Name="Pi大寫"/>
+    <Elem NameU="Rho Capital" Name="Rho大寫"/>
+    <Elem NameU="Sigma Capital" Name="Sigma大寫"/>
+    <Elem NameU="Tau Capital" Name="Tau大寫"/>
+    <Elem NameU="Upsilon Capital" Name="Upsilon大寫"/>
+    <Elem NameU="Phi Capital" Number="2" Name="Phi大寫"/>
+    <Elem NameU="Chi Capital" Name="Chi大寫"/>
+    <Elem NameU="Psi Capital" Name="Psi大寫"/>
+    <Elem NameU="Omega Capital" Name="Omega大寫"/>
+</Lib>

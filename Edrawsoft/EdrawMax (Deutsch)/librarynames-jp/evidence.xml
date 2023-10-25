@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Evidence">
+	<Elem NameU="Shoe Print" Name="靴の跡"/>
+	<Elem NameU="Right Footprint" Name="右の足跡"/>
+	<Elem NameU="Left Footprint" Name="左の足跡"/>
+	<Elem NameU="High Heel Shoe Print(Right)" Name="ハイヒールの足跡（右）"/>
+	<Elem NameU="High Heel Shoe Print(Left)" Name="ハイヒールの足跡（左）"/>
+	<Elem NameU="Blood Drop" Name="血痕"/>
+	<Elem NameU="Blood Spill" Name="出血"/>
+	<Elem NameU="Blood Pool" Name="血だまり"/>
+	<Elem NameU="Debris" Name="破片"/>
+	<Elem NameU="Shattered Glass" Name="ガラスの破片"/>
+	<Elem NameU="Glove" Name="手袋"/>
+	<Elem NameU="Bloody Glove" Name="血の付いた手袋"/>
+	<Elem NameU="Wallet" Name="財布"/>
+	<Elem NameU="Mobile Phone" Name="携帯電話"/>
+	<Elem NameU="Cigarette End" Name="吸い殻"/>
+	<Elem NameU="Ashtray" Name="灰皿"/>
+	<Elem NameU="Chemical Bottle" Name="化学瓶"/>
+	<Elem NameU="Drug Bottle" Name="薬瓶"/>
+</Lib>

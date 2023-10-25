@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Machines">
+    <Elem NameU="Automatic chucker" Name="自动卡盘车床"/>
+    <Elem NameU="Automatic screw machine" Name="自动车床"/>
+    <Elem NameU="Automatic universal grinder" Name="自动万能磨床"/>
+    <Elem NameU="Ball mill" Name="球磨机"/>
+    <Elem NameU="Bed-type horizontal-spindle production mill" Name="床型水平轴研磨机"/>
+    <Elem NameU="Centerless grinder" Name="无心磨床"/>
+    <Elem NameU="CMM" Name="坐标测量机"/>
+    <Elem NameU="CNC chucke" Name="数控车床"/>
+    <Elem NameU="CNC coordinate measuring" Name="数控坐标测量"/>
+    <Elem NameU="CNC turret punch press" Name="数控转塔冲床"/>
+    <Elem NameU="CNC vertical machining center" Name="数控立式加工中心"/>
+    <Elem NameU="Compact CNC turning center" Name="小型数控车削中心"/>
+    <Elem NameU="Computer-assisted lathe" Name="电脑辅助车床"/>
+    <Elem NameU="Corrective roller leveler" Name="矫正辊式矫直机"/>
+    <Elem NameU="Deburring machine" Name="去毛刺机"/>
+    <Elem NameU="Drill bit" Name="钻头"/>
+    <Elem NameU="Drill-tap machine" Name="钻床"/>
+    <Elem NameU="Engine lathe" Name="普通车床"/>
+    <Elem NameU="Floor plate" Name="楼板"/>
+    <Elem NameU="Gang-tooled turning machine" Name="多轴车床"/>
+    <Elem NameU="Gear" Name="齿轮"/>
+    <Elem NameU="Grinder" Name="研磨机"/>
+    <Elem NameU="Grinding machine" Name="磨床"/>
+    <Elem NameU="Grinding mill" Name="磨碎机"/>
+    <Elem NameU="Heavy-duty band sawing machine" Name="重型带锯机"/>
+    <Elem NameU="High-speed flying optic laser system" Name="高速激光设备"/>
+    <Elem NameU="Hob sharpener" Name="滚刀磨床"/>
+    <Elem NameU="Horizontal hydraulic hone" Name="卧式液压机"/>
+    <Elem NameU="Horizontal jig mill" Name="卧式架轧机"/>
+    <Elem NameU="Horizontal machining center" Name="卧式加工中心"/>
+    <Elem NameU="Horizontal mill" Name="水平轧机"/>
+    <Elem NameU="Horizontal spindle grinder" Name="卧式磨床"/>
+    <Elem NameU="Hydra-mechanical press brake" Name="液压折弯机"/>
+    <Elem NameU="Hydraulic press brake" Name="液压折弯机 2"/>
+    <Elem NameU="Industrial oven" Number="2" Name="工业烤箱"/>
+    <Elem NameU="Internal grinding machine" Name="内圆磨床"/>
+    <Elem NameU="Lapping and polishing system" Name="研磨抛光机"/>
+    <Elem NameU="Mechanical ironworker" Name="机械冲剪机"/>
+    <Elem NameU="Mechanical press" Name="机械压力机"/>
+    <Elem NameU="Mist collector" Name="集雾器"/>
+    <Elem NameU="Multiple-spindle drill" Number="2" Name="多轴钻机"/>
+    <Elem NameU="Parts washer" Name="零件清洗机"/>
+    <Elem NameU="Power metal press" Name="强力金属压机"/>
+    <Elem NameU="Power squaring shear" Name="平行刃口剪切机"/>
+    <Elem NameU="Production band saw" Number="2" Name="带锯机"/>
+    <Elem NameU="Punch press" Name="冲压机"/>
+    <Elem NameU="Radial drill" Name="摇臂钻床"/>
+    <Elem NameU="Rolling mill" Name="轧钢机"/>
+    <Elem NameU="Rotary surface grinder" Number="2" Name="回转平面磨床"/>
+    <Elem NameU="Seam welder" Name="缝焊机"/>
+    <Elem NameU="Spray nozzle" Name="喷嘴"/>
+    <Elem NameU="Stamping machine" Number="3" Name="冲床"/>
+    <Elem NameU="Transfer press" Name="多工位压力机"/>
+    <Elem NameU="Universal turning center" Name="通用车削机"/>
+    <Elem NameU="Vertical automatic cutting tool presetting machine" Name="立式自动切削预调机床"/>
+    <Elem NameU="Vertical band saw" Name="立式带锯"/>
+    <Elem NameU="Vertical compression hydraulic press bender" Name="立式压缩液压机"/>
+    <Elem NameU="Vertical lathe" Name="立式车床"/>
+    <Elem NameU="Vertical machining center" Name="立式加工中心"/>
+    <Elem NameU="Vertical spindle rotary surface grinder" Name="立轴旋转平面磨床"/>
+    <Elem NameU="Vertical deburring" Number="2" Name="立式去毛刺机"/>
+    <Elem NameU="Coal mill" Name="煤磨机"/>
+    <Elem NameU="Yeast molding machine" Name="酵母发酵机"/>
+    <Elem NameU="Pulverizer 1" Name="粉碎机 1"/>
+    <Elem NameU="Pulverizer 2" Name="粉碎机 2"/>
+    <Elem NameU="Pulverizer 3" Name="粉碎机 3"/>
+    <Elem NameU="ESP" Name="电子稳定系统"/>
+    <Elem NameU="Mix" Name="搅拌机"/>
+    <Elem NameU="Mash preparation" Name="捣碎准备"/>
+    <Elem NameU="Wet grains" Name="Wet grains"/>
+    <Elem NameU="Low-level economizer" Name="低压省煤器"/>
+    <Elem NameU="Homogenization" Name="均化器"/>
+    <Elem NameU="Homogeneous Emulsion" Name="均质乳化机"/>
+    <Elem NameU="Jacketed kettle" Name="夹层锅"/>
+    <Elem NameU="Fruit washing machine" Name="洗果机"/>
+    <Elem NameU="Plate Filter Press" Name="板式压滤机"/>
+    <Elem NameU="Pick up the fruit machine" Name="拣果机"/>
+    <Elem NameU="Beater" Name="搅拌器"/>
+    <Elem NameU="Can washer" Name="洗瓶机"/>
+    <Elem NameU="Tin seamer" Name="封罐机"/>
+    <Elem NameU="Steam sterilizer" Name="蒸汽灭菌器"/>
+    <Elem NameU="Granulator" Name="制粒机"/>
+    <Elem NameU="Ultra high temperature instantaneous sterilization machine" Name="超高温灭菌机"/>
+</Lib>

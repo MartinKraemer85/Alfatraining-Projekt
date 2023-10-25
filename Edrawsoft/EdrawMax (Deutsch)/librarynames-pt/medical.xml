@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Medical">
+	<Elem NameU="Woman" Name="Mulher"/>
+	<Elem NameU="Man" Name="Homem"/>
+	<Elem NameU="Molecular Structure" Name="Estrutura Molecular"/>
+	<Elem NameU="Cerebrum" Name="Cérebro"/>
+	<Elem NameU="Heart" Name="Coração"/>
+	<Elem NameU="DNA" Name="ADN"/>
+	<Elem NameU="Electrocardiogram" Name="Electrocardiograma"/>
+	<Elem NameU="Baby" Name="Bebé"/>
+	<Elem NameU="Family" Name="Família"/>
+	<Elem NameU="Analysis" Name="Análise"/>
+	<Elem NameU="Report" Name="Relatório"/>
+	<Elem NameU="Ambulance" Name="Ambulância"/>
+	<Elem NameU="Medical box" Name="Caixa médica"/>
+	<Elem NameU="Respirator" Name="Respirador"/>
+	<Elem NameU="Stethoscope" Name="Estetoscópio"/>
+	<Elem NameU="Heart with Cross" Name="Coração com Cruz"/>
+	<Elem NameU="Pill" Name="Comprimido"/>
+	<Elem NameU="Capsule" Name="Cápsula"/>
+	<Elem NameU="Hospital" Name="Hospital"/>
+	<Elem NameU="Microscope" Name="Miscroscópio"/>
+	<Elem NameU="Thermometer" Name="Termómetro"/>
+	<Elem NameU="Test" Name="Teste"/>
+	<Elem NameU="Test 2" Name="Teste 2"/>
+	<Elem NameU="Rehabilitation Equipment" Name="Equipamento de Reabilitação"/>
+	<Elem NameU="Walking Stick" Name="Bengala"/>
+	<Elem NameU="Walking Stick 2" Name="Bengala 2"/>
+	<Elem NameU="Wheelchair" Name="Cadeira de Rodas"/>
+	<Elem NameU="Rehab Equipment" Name="Equipamento de Reabilitação"/>
+	<Elem NameU="Rehab Equipment 1" Name="Equipamento de Reabilitação 1"/>
+	<Elem NameU="Rehab Equipment 2" Name="Equipamento de Reabilitação 2"/>
+	<Elem NameU="Rehab Equipment 3" Name="Equipamento de Reabilitação 3"/>
+	<Elem NameU="Rehab Equipment 4" Name="Equipamento de Reabilitação 4"/>
+	<Elem NameU="Hospital Bed 1" Name="Cama de Hospital 1"/>
+	<Elem NameU="Hospital Bed 2" Name="Cama de Hospital 2"/>
+	<Elem NameU="Hospital Bed 3" Name="Cama de Hospital 3"/>
+	<Elem NameU="Operating table" Name="Mesa de cirurgia"/>
+	<Elem NameU="Scale" Name="Balança"/>
+	<Elem NameU="Hazard Warning Sign" Name="Sinal de Aviso de Perigo"/>
+	<Elem NameU="Handicap Sign" Name="Sinal de Incapacidade"/>
+	<Elem NameU="Plastic Infusion Bag" Name="Saco de Infusão Plástico"/>
+	<Elem NameU="Nurse Cap" Name="Chapéu de Enfermeira"/>
+	<Elem NameU="Injector" Name="Injetor"/>
+	<Elem NameU="Tooth" Name="Dente"/>
+	<Elem NameU="Liver" Name="Fígado"/>
+	<Elem NameU="Lung" Name="Pulmão"/>
+	<Elem NameU="Stomach" Name="Estômago"/>
+	<Elem NameU="Spleen" Name="Baço"/>
+	<Elem NameU="Ear" Name="Orelha"/>
+	<Elem NameU="Intestines" Name="Intestinos"/>
+	<Elem NameU="X-ray Film" Name="Filme de Raio-X"/>
+	<Elem NameU="X-ray Film (Broken Bone)" Name="Filme de Raio-X (Osso Partido)"/>
+	<Elem NameU="Doctor" Name="Médico"/>
+	<Elem NameU="Nurse" Name="Enfermeira"/>
+	<Elem NameU="Pills" Name="Comprimidos"/>
+	<Elem NameU="Medicine Bottle" Name="Garrafa de Medicamento"/>
+	<Elem NameU="Virus 1" Name="Vírus 1"/>
+	<Elem NameU="Virus 2" Name="Vírus 2"/>
+	<Elem NameU="Heart-shaped electrocardiogram (ecg)" Name="Electrocardiograma em Forma de Coração (ecg)"/>
+	<Elem NameU="Drinking" Name="Beber"/>
+</Lib>

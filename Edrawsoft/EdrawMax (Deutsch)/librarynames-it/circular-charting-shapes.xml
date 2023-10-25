@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Circular Charting Shapes">
+	<Elem NameU="Circular Motion" Name="Movimento Circolare"/>
+	<Elem NameU="Circle" Name="Cerchio"/>
+	<Elem NameU="Trapezoid Ring" Name="Anello Trapezoidale"/>
+	<Elem NameU="Basic Loop" Name="Circuito Base"/>
+	<Elem NameU="Basic Loop 2" Name="Circuito Base 2"/>
+	<Elem NameU="Block Loop" Name="Circuito a Blocchi"/>
+	<Elem NameU="Circle Arrow Loop" Name="Circuito con Cerchi e Frecce"/>
+	<Elem NameU="Divergent Circle" Name="Cerchio Divergente"/>
+	<Elem NameU="Divergent Blocks" Name="Blocchi Divergenti"/>
+	<Elem NameU="Circle Arrow Loop 2" Name="Circuito con Cerchi e Frecce 2"/>
+	<Elem NameU="Divergent Circle 2" Name="Cerchio Divergente 2"/>
+	<Elem NameU="Highlight Circle" Name="Cerchio Evidenziato"/>
+	<Elem NameU="Circles" Name="Cerchi"/>
+	<Elem NameU="Stack Circles" Name="Cerchi Accatastati"/>
+	<Elem NameU="Gradient Circle" Name="Cerchio Gradiente"/>
+	<Elem NameU="Circle Sector" Name="Settore Circolare"/>
+	<Elem NameU="Idea Wheel" Name="Ruota delle Idee"/>
+	<Elem NameU="Variable Radian Pie" Name="Torta con Radiante Variabile"/>
+	<Elem NameU="Variable Radian Doughnut" Name="Ciambella con Radiante Variabile"/>
+	<Elem NameU="Circle Pie" Name="Torta Circolare"/>
+	<Elem NameU="Bevel-style Circle Pie" Name="Torta Circolare in Stile Smussato"/>
+	<Elem NameU="Bevel-style Circle" Name="Cerchio in Stile Smussato"/>
+	<Elem NameU="Circle 5" Name="Cerchio a 5"/>
+	<Elem NameU="Bevel-style Circle 2" Name="Cerchio in Stile Smussato 2"/>
+	<Elem NameU="Circle 6" Name="Cerchio 6"/>
+	<Elem NameU="Circle 7" Name="Cerchio 7"/>
+	<Elem NameU="Bevel-style Circle 3" Name="Cerchio in Stile Smussato 3"/>
+	<Elem NameU="Circle 8" Name="Cerchio 8"/>
+	<Elem NameU="Circle 9" Name="Cerchio 9"/>
+	<Elem NameU="Sector Rings" Name="Anelli Settoriali"/>
+	<Elem NameU="Trapezoid Rings" Name="Anelli Trapezoidali"/>
+	<Elem NameU="Venn Cycle" Name="Diagramma di Venn"/>
+	<Elem NameU="Multi-arrow Circle" Name="Cerchio MultiFrecce"/>
+	<Elem NameU="Arrow Circle" Name="Cerchio con Frecce"/>
+	<Elem NameU="Annulus" Name="Anello"/>
+</Lib>

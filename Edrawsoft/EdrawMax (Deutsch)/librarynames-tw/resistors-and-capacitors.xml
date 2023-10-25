@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Resistors and Capacitors">
+    <Elem NameU="Resistor" Name="電阻"/>
+    <Elem NameU="Alternate resistor" Name="交流電阻"/>
+    <Elem NameU="Variable resistor" Name="可變電阻"/>
+    <Elem NameU="Pre-set resistor" Name="預設電阻"/>
+    <Elem NameU="Potentiometer resistor" Name="電位電阻器"/>
+    <Elem NameU="Potentiometer (Trimmer)" Name="電位計（微調器）"/>
+    <Elem NameU="Potentiometer (Trimmer) 2" Name="電位計（微調器）2"/>
+    <Elem NameU="Resistor (Adjustable contact)" Name="電阻器（可調觸點）"/>
+    <Elem NameU="Resistor (Shunt)" Name="電阻器（分路）"/>
+    <Elem NameU="Varistor (Symmetrical)" Name="變阻器（對稱）"/>
+    <Elem NameU="Resistor (Nonlinear)" Name="電阻器（非線性）"/>
+    <Elem NameU="Resistor (Tapped)" Name="電阻器（抽頭）"/>
+    <Elem NameU="Memristor" Name="記憶電阻器"/>
+    <Elem NameU="Memristor 2" Name="記憶電阻器 2"/>
+    <Elem NameU="Magnetoresistor" Name="磁電阻"/>
+    <Elem NameU="Photoconductive transducer" Name="光電導傳感器"/>
+    <Elem NameU="Capacitors" Name="電容器"/>
+    <Elem NameU="Capacitors 2" Name="電容器 2"/>
+    <Elem NameU="Capacitor 3" Name="電容器器 3"/>
+    <Elem NameU="Capacitor with step" Name="步進電容器"/>
+    <Elem NameU="Capacitor with tapping" Name="分接電容器"/>
+    <Elem NameU="Capacitor (US)" Name="電容器（美國）"/>
+    <Elem NameU="Electrolytic capacitor (US)" Name="電解電容器（美國）"/>
+    <Elem NameU="Capacitor (UK)" Name="電容器（英國）"/>
+    <Elem NameU="Differential capacitor" Name="差動電容器"/>
+    <Elem NameU="Tuning variable capacitor (US)" Number="2" Name="調諧可變電容器（美國"/>
+    <Elem NameU="Trimmer variable capacitor (US)" Name=" 微調可變電容器（美國）1"/>
+    <Elem NameU="Trimmer variable capacitor(US)" Name=" 微調可變電容器（美國）2"/>
+    <Elem NameU="Feed through capacitor" Name="穿心式電容器"/>
+    <Elem NameU="Ganged capacitor" Name="同軸可變電容器"/>
+    <Elem NameU="Multiple capacitor" Name="多聯電容器"/>
+    <Elem NameU="Multiple electrolytic capacitor (Common negative)" Name="多電解電容器（常用負極）"/>
+    <Elem NameU="Multiple electrolytic capacitor (Common positive)" Name="多電解電容器（常用正極）"/>
+</Lib>

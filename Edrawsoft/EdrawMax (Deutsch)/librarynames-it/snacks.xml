@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Snacks">
+	<Elem NameU="Candy 1" Name="Caramella 1"/>
+	<Elem NameU="Candy 2" Name="Caramella 2"/>
+	<Elem NameU="Marshmallow 1" Name="Marshmallow 1"/>
+	<Elem NameU="Marshmallow 2" Name="Marshmallow 2"/>
+	<Elem NameU="Chocolate 1" Name="Cioccolata 1"/>
+	<Elem NameU="Chocolate 2" Name="Cioccolata 2"/>
+	<Elem NameU="Macarons" Name="Maracon"/>
+	<Elem NameU="Lollipop 1" Name="Lecca Lecca 1"/>
+	<Elem NameU="Lollipop 2" Name="Lecca Lecca 2"/>
+	<Elem NameU="Lollipop 3" Name="Lecca Lecca 3"/>
+	<Elem NameU="Candy Cane" Name="Bastoncino di Zucchero"/>
+	<Elem NameU="Christmas Candy" Name="Dolcetto Natalizio"/>
+	<Elem NameU="Cookie 1" Name="Biscotto 1"/>
+	<Elem NameU="Cookie 2" Name="Biscotto 2"/>
+	<Elem NameU="Biscuits" Name="Biscotti"/>
+	<Elem NameU="Egg Yolk Puff" Name="Pasticcini"/>
+	<Elem NameU="Cashew Nuts" Name="Arachidi"/>
+	<Elem NameU="Peanut" Name="Nocciolina"/>
+	<Elem NameU="Macadamia Nuts" Name="Noci Macadamia"/>
+	<Elem NameU="Chestnuts" Name="Castagne"/>
+	<Elem NameU="Walnuts" Name="Noci"/>
+	<Elem NameU="Sunflower Seeds" Name="Semi di Girasole"/>
+	<Elem NameU="Pistachio Nuts" Name="Pistacchi"/>
+	<Elem NameU="Ice Lolly" Name="Ghiacciolo"/>
+	<Elem NameU="Popsicle" Name="Ghiacciolo"/>
+	<Elem NameU="Ice Cream 1" Name="Gelato 1"/>
+	<Elem NameU="Ice Cream 2" Name="Gelato 2"/>
+	<Elem NameU="Ice Cream 3" Name="Gelato 3"/>
+	<Elem NameU="Ice Cream 4" Name="Gelato 4"/>
+	<Elem NameU="Ice Cream 5" Name="Gelato 5"/>
+	<Elem NameU="Jelly 1" Name="Marmellata 1"/>
+	<Elem NameU="Jelly 2" Name="Marmellata 2"/>
+	<Elem NameU="Potato Chips" Name="Patatine"/>
+	<Elem NameU="Popcorn" Name="Popcorn"/>
+	<Elem NameU="French Fries" Name="Patate Fritte"/>
+	<Elem NameU="Candied Hawthorn Stick" Name="Bastoncino di biancospino candito"/>
+	<Elem NameU="Barbecue" Name="Barbecue"/>
+</Lib>

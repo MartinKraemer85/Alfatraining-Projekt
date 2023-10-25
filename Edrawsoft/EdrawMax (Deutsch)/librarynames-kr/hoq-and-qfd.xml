@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="HOQ and QFD">
+    <Elem NameU="Main Matrix" Name="메인 행렬"/>
+    <Elem NameU="Single Column" Name="단일 열"/>
+    <Elem NameU="Single Row" Name="단일 행"/>
+    <Elem NameU="Right Matrix" Name="오른쪽 행렬"/>
+    <Elem NameU="Bottom Matrix" Name="아래쪽 행렬"/>
+    <Elem NameU="Roof Matrix" Name="루프 행렬"/>
+    <Elem NameU="Left Roof Matrix" Name="왼쪽 행렬"/>
+    <Elem NameU="Simple QFD" Name="간단 QFD"/>
+    <Elem NameU="QFD" Name="QFD"/>
+    <Elem NameU="HOQ" Name="HOQ"/>
+    <Elem NameU="Text Block" Name="텍스트 블록"/>
+    <Elem NameU="Legend" Name="기호표"/>
+    <Elem NameU="Legend 2" Name="기호표 2"/>
+    <Elem NameU="12-Role Flag" Name="12가지 표시"/>
+    <Elem NameU="10-Role Flag" Name="10가지 표시"/>
+    <Elem NameU="Flag" Name="기"/>
+    <Elem NameU="Arrow Flag" Name="화살표 기"/>
+</Lib>

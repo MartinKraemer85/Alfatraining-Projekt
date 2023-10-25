@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Miscellaneous Flowchart Shapes">
+	<Elem NameU="Start/Node" Name="Início/Nó"/>
+	<Elem NameU="End/Node" Name="Final/Nó"/>
+	<Elem NameU="Process(circle)" Name="Processo(círculo)"/>
+	<Elem NameU="Data store" Name="Armazenamento de dados"/>
+	<Elem NameU="External entity" Name="Entidade externa"/>
+	<Elem NameU="Transmittal tape" Name="Fita de transmissão"/>
+	<Elem NameU="Divided process" Name="Processo dividido"/>
+	<Elem NameU="Rounded process" Name="Processo arredondado"/>
+	<Elem NameU="Create request" Name="Criar pedido"/>
+	<Elem NameU="Framed rectangle" Name="Retângulo emoldurado"/>
+	<Elem NameU="Opened rectangle" Name="Retângulo aberto"/>
+	<Elem NameU="Delay" Name="Atraso"/>
+	<Elem NameU="Summing junction" Name="Junção de resumo"/>
+	<Elem NameU="Drum storage" Name="Armazenamento de tambor"/>
+	<Elem NameU="OR" Name="OU"/>
+	<Elem NameU="Collate" Name="Recolher"/>
+	<Elem NameU="Extract" Name="Extrair"/>
+	<Elem NameU="Off-line storage" Name="Armazenamento off-line"/>
+	<Elem NameU="Merge" Name="Unir"/>
+	<Elem NameU="Sort" Name="Ordenar"/>
+	<Elem NameU="Deck of cards" Name="Baralho de cartas"/>
+	<Elem NameU="File of cards" Name="Ficheiro de cartas"/>
+	<Elem NameU="Microform" Name="Microforma"/>
+	<Elem NameU="Microform recording" Name="Gravação de microforma"/>
+	<Elem NameU="Microform processing" Name="Processamento de microfroma"/>
+	<Elem NameU="Duplicating" Name="Duplicando"/>
+	<Elem NameU="Tagged process" Name="Processo marcado"/>
+	<Elem NameU="Lined Shaded process" Name="Processo Coberto Revestido"/>
+	<Elem NameU="Tagged document" Name="Documento marcado"/>
+	<Elem NameU="Lined Document" Name="Documento Revestido"/>
+	<Elem NameU="Variable start" Name="Início de variável"/>
+	<Elem NameU="Variable procedure" Name="Procedimento de varíavel"/>
+	<Elem NameU="Database" Name="Base de dados"/>
+	<Elem NameU="Primitive from call control" Name="Primitiva de controle de chamada"/>
+	<Elem NameU="Primitive to call control" Name="Primitiva para controle de chamada"/>
+	<Elem NameU="Message from user" Name="Mensagem de utilizador"/>
+	<Elem NameU="Message to user" Name="Mensagem para utilizador"/>
+	<Elem NameU="Output" Name="Saída"/>
+	<Elem NameU="Feedback" Name="Feedback"/>
+	<Elem NameU="Check" Name="Verificar"/>
+	<Elem NameU="And gate" Name="E porta"/>
+	<Elem NameU="Or gate" Name="Ou porta"/>
+	<Elem NameU="XOR" Name="XOR"/>
+	<Elem NameU="Vertical XOR" Name="XOR Vertical"/>
+	<Elem NameU="Vertical P And" Name="P Vertical E"/>
+	<Elem NameU="Refinement" Name="Refinamento"/>
+	<Elem NameU="Interrupt" Name="Interromper"/>
+	<Elem NameU="External control" Name="Controle externo"/>
+	<Elem NameU="Divided event" Name="Evento dividido"/>
+	<Elem NameU="Branch-return" Name="Ramo-retorno"/>
+	<Elem NameU="Branch-no return" Name="Ramo-sem retorno"/>
+	<Elem NameU="Curve Connector" Name="Conetor Curvo"/>
+</Lib>

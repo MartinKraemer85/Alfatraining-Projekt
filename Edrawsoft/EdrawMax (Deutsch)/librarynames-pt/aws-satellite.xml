@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="AWS Satellite">
+	<Elem NameU="AWS-Ground-Station" Name="Estação terrestre AWS"/>
+	<Elem NameU="Satellite" Name="Satélite"/>
+</Lib>

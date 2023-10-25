@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Database Services">
+	<Elem NameU="Advanced database and application migration" Name="고급 데이터베이스 및 응용 프로그램 마이그레이션 ADAM"/>
+	<Elem NameU="Cloud database" Name="클라우드 데이터베이스 Cassandra"/>
+	<Elem NameU="Data transmission service" Name="데이터 전송 서비스 DTS"/>
+	<Elem NameU="Database backup service" Name="데이터베이스 백업 서비스 DBS"/>
+	<Elem NameU="Database expert service" Name="데이터베이스 전문가 서비스"/>
+	<Elem NameU="Database gateway" Name="데이터베이스 게이트웨이"/>
+	<Elem NameU="DBFS" Name="DBFS"/>
+	<Elem NameU="Distributed relational database service" Name="분산 관계형 데이터베이스 서비스"/>
+	<Elem NameU="DMS" Name="DMS"/>
+	<Elem NameU="HBase" Name="HBase"/>
+	<Elem NameU="Hybrid database management" Name="하이브리드 데이터베이스 관리"/>
+	<Elem NameU="HybridDB for MySQL" Name="MySQL용 하이브리드DB  "/>
+	<Elem NameU="HybridDB for Postgre" Name="Postgre용 HybridDB"/>
+	<Elem NameU="Maria DB" Name="Maria DB"/>
+	<Elem NameU="Memcache" Name="Memcache"/>
+	<Elem NameU="MongoDB" Name="MongoDB"/>
+	<Elem NameU="Ocean base" Name="Ocean base"/>
+	<Elem NameU="Open search" Name="오픈 서치"/>
+	<Elem NameU="Polar DB" Name="Polar DB"/>
+	<Elem NameU="RDS My SQL" Name="클라우드 데이터베이스 RDS My SQL"/>
+	<Elem NameU="RDS_postgresql" Name="클라우드 데이터베이스 Postgresql"/>
+	<Elem NameU="RDS PPA" Name="클라우드 데이터베이스 RDS PPA"/>
+	<Elem NameU="Redis cloud database" Name="클라우드 데이터베이스 Redis"/>
+</Lib>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Gallery>
+    <Template Gallery="Basic Diagram" Template="Block Diagram" Icon="./basic-diagram/block-diagram.png" MenuIcon="./recommendMenu/block-diagram.png"/>
+    <Template Gallery="Flowchart" Template="Basic Flowchart" Icon="./flowchart/basic-flowchart.png" MenuIcon="./recommendMenu/basic-flowchart.png"/>
+    <Template Gallery="Mind Map" Template="mindmap" Icon="./mind-map/mind-map.png" MenuIcon="./recommendMenu/mind-map.png"/>
+	<Template Gallery="Project Management" Template="Roadmap" Icon="./project-management/roadmap.png" MenuIcon="./recommendMenu/roadmap.png"/>
+	<Template Gallery="Organizational Chart" Template="Org Chart(Automated)" Icon="./organization-chart/organization-chart.png" MenuIcon="./recommendMenu/organization-chart.png"/>
+	<Template Gallery="Software Development" Template="UML Modeling" Icon="./software-development/uml-model-diagram.png" MenuIcon="./recommendMenu/uml-model-diagram.png"/>
+	<Template Gallery="Building Plan" Template="Floor Plan" Icon="./building-plan/floor-plan.png" MenuIcon="./recommendMenu/floor-plan.png"/>
+	<Template Gallery="Electrical Engineering" Template="Basic Electrical" Icon="./electrical-engineering/basic-electrical.png" MenuIcon="./recommendMenu/basic-electrical.png"/> 
+	<Template Gallery="Project Management" Template="Gantt Charts" Icon="./project-management/gantt.png" MenuIcon="./recommendMenu/gantt.png"/>
+	<Template Gallery="Software Development" Template="Software Architecture" Icon="./software-development/software-architecture.png" MenuIcon="./recommendMenu/software-architecture.png"/>
+    <Template Gallery="Network Diagram" Template="Basic Network Diagram" Icon="./network/basic-network-diagram.png" MenuIcon="./recommendMenu/basic-network-diagram.png"/>   
+    <Template Gallery="Flowchart" Template="Cross Functional Flowchart" Icon="./flowchart/cross-functional-vertical.png" MenuIcon="./recommendMenu/cross-functional-vertical.png"/>	    	 	 	
+    <Template Gallery="Database Modeling" Template="Chen ERD" Icon="./database/chen-erd.png" MenuIcon="./recommendMenu/chen-erd.png"/>
+    <Template Gallery="Industrial Engineering" Template="Process P&amp;ID" Icon="./industrial-engineering/process-pid.png" MenuIcon="./recommendMenu/process-pid.png"/>	
+</Gallery>

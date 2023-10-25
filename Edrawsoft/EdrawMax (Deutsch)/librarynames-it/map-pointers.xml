@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Map Pointers">
+	<Elem NameU="Location 1" Name="Luogo 1"/>
+	<Elem NameU="Location 2" Name="Luogo 2"/>
+	<Elem NameU="Location 3" Name="Luogo 3"/>
+	<Elem NameU="Location" Name="Luogo"/>
+	<Elem NameU="Location 4" Name="Luogo 4"/>
+	<Elem NameU="Location 6" Name="Luogo 6"/>
+	<Elem NameU="Location 7" Name="Luogo 7"/>
+	<Elem NameU="Location 8" Name="Luogo 8"/>
+	<Elem NameU="Location 9" Name="Luogo 9"/>
+	<Elem NameU="Location 10" Name="Luogo 10"/>
+	<Elem NameU="Location 11" Name="Luogo 11"/>
+	<Elem NameU="Location 12" Name="Luogo 12"/>
+	<Elem NameU="Location 13" Name="Luogo 13"/>
+	<Elem NameU="Location 14" Name="Luogo 14"/>
+	<Elem NameU="Location 15" Name="Luogo 15"/>
+	<Elem NameU="Location 16" Name="Luogo 16"/>
+	<Elem NameU="Location 17" Name="Luogo 17"/>
+	<Elem NameU="Location 18" Name="Luogo 18"/>
+	<Elem NameU="Location 19" Name="Luogo 19"/>
+	<Elem NameU="Flags" Name="Bandiere"/>
+	<Elem NameU="Callout Flag" Name="Bandiera Callout"/>
+	<Elem NameU="Aircraft" Name="Aeroplano"/>
+	<Elem NameU="Chess" Name="Scacchi"/>
+	<Elem NameU="Box Callout with all directions" Name="Casella di Callout con tutte le direzioni"/>
+	<Elem NameU="Oval Callout with all directions" Name="Callout Ovale con tutte le direzioni"/>
+	<Elem NameU="Circular Callout" Name="Callout Circolare"/>
+	<Elem NameU="Rectangle width Line" Name="Rettangolo con Linea"/>
+	<Elem NameU="Line Text" Name="Riga di Testo"/>
+	<Elem NameU="Compass" Name="Bussola"/>
+</Lib>

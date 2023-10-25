@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Fashion Items">
+    <Elem NameU="Women Bag 1" Name="여성 가방 1"/>
+    <Elem NameU="Women Bag 2" Name="여성 가방 2"/>
+    <Elem NameU="Women Bag 3" Name="여성 가방 3"/>
+    <Elem NameU="Women Bag 4" Name="여성 가방 4"/>
+    <Elem NameU="Women Bag 5" Name="여성 가방 5"/>
+    <Elem NameU="Women Bag 6" Name="여성 가방 6"/>
+    <Elem NameU="Women Bag 8" Name="여성 가방 8"/>
+    <Elem NameU="Women Bag 7" Name="여성 가방 7"/>
+    <Elem NameU="Backpack" Name="백팩"/>
+    <Elem NameU="Purse 1" Name="지갑 1"/>
+    <Elem NameU="Purse 2" Name="지갑 2"/>
+    <Elem NameU="Men Purse" Name="남자 지갑"/>
+    <Elem NameU="Men Bag 1" Name="남성 가방 1"/>
+    <Elem NameU="Men Bag 2" Name="남성 가방 2"/>
+    <Elem NameU="Travelling Bag 1" Name="여행 가방 1"/>
+    <Elem NameU="Travelling Bag 2" Name="여행 가방 2"/>
+    <Elem NameU="Cap 1" Name="모자 1"/>
+    <Elem NameU="Cap 2" Name="모자 2"/>
+    <Elem NameU="Cap 3" Name="모자 3"/>
+    <Elem NameU="Cap 4" Name="모자 4"/>
+    <Elem NameU="Cap 5" Name="모자 5"/>
+    <Elem NameU="Cap 6" Name="모자 6"/>
+    <Elem NameU="Cap 7" Name="모자 7"/>
+    <Elem NameU="Cap 8" Name="모자 8"/>
+    <Elem NameU="Cap 9" Name="모자 9"/>
+    <Elem NameU="Cap 10" Name="모자 10"/>
+    <Elem NameU="Cap 11" Name="모자 11"/>
+    <Elem NameU="glasses 1" Name="안경 1"/>
+    <Elem NameU="glasses 2" Name="안경 2"/>
+    <Elem NameU="glasses 3" Name="안경 3"/>
+    <Elem NameU="glasses 4" Name="안경 4"/>
+    <Elem NameU="Ring 1" Name="반지 1"/>
+    <Elem NameU="Ring 2" Name="반지 2"/>
+    <Elem NameU="Ring 3" Name="반지 3"/>
+    <Elem NameU="Earrings 1" Name="귀걸이 1"/>
+    <Elem NameU="Earrings 2" Name="귀걸이 2"/>
+    <Elem NameU="Earrings 3" Name="귀걸이 3"/>
+    <Elem NameU="Earrings 4" Name="귀걸이 4"/>
+    <Elem NameU="Earrings 5" Name="귀걸이 5"/>
+    <Elem NameU="Earrings 6" Name="귀걸이 6"/>
+    <Elem NameU="Earrings 7" Name="귀걸이 7"/>
+    <Elem NameU="Earrings 8" Name="귀걸이 8"/>
+    <Elem NameU="Earrings 9" Name="귀걸이 9"/>
+    <Elem NameU="Earrings 10" Name="귀걸이 10"/>
+    <Elem NameU="Earrings 11" Name="귀걸이 11"/>
+    <Elem NameU="Earrings 12" Name="귀걸이 12"/>
+    <Elem NameU="Earrings 13" Name="귀걸이 13"/>
+    <Elem NameU="Earrings 14" Name="귀걸이 14"/>
+    <Elem NameU="Earrings 15" Name="귀걸이 15"/>
+    <Elem NameU="Earrings 16" Name="귀걸이 16"/>
+    <Elem NameU="Earrings 17" Name="귀걸이 17"/>
+    <Elem NameU="Necklace 1" Name="목걸이 1"/>
+    <Elem NameU="Necklace 2" Name="목걸이 2"/>
+    <Elem NameU="Necklace 3" Name="목걸이 3"/>
+    <Elem NameU="Bracelet 1" Name="목걸이 1"/>
+    <Elem NameU="Bracelet 2" Name="목걸이 2"/>
+    <Elem NameU="Brooch 1" Name="브로치 1"/>
+    <Elem NameU="Brooch 2" Name="브로치 2"/>
+    <Elem NameU="Brooch 3" Name="브로치 3"/>
+    <Elem NameU="Accessories 1" Name="액세서리 1"/>
+    <Elem NameU="Accessories 2" Name="액세서리 2"/>
+    <Elem NameU="Scarves" Name="스카프"/>
+    <Elem NameU="Watch 1" Name="시계 1"/>
+    <Elem NameU="Watch 2" Name="시계 2"/>
+    <Elem NameU="Watch 3" Name="시계 3"/>
+    <Elem NameU="Watch 4" Name="시계 4"/>
+    <Elem NameU="Watch 5" Name="시계 5"/>
+    <Elem NameU="Scarf" Name="스카프"/>
+    <Elem NameU="Tie 1" Name="타이 1"/>
+    <Elem NameU="Tie 2" Name="타이 2"/>
+    <Elem NameU="Tie 3" Name="타이 3"/>
+    <Elem NameU="Lipstick" Name="口红"/>
+    <Elem NameU="Eyebrow pencil" Name="아이브로우 펜슬"/>
+    <Elem NameU="Liquid eyeliner" Name="리퀴드 아이라이너"/>
+    <Elem NameU="Cosmetic Brush 1" Name="메이크업 브러쉬 1"/>
+    <Elem NameU="Cosmetic Brush 2" Name="메이크업 브러쉬2"/>
+    <Elem NameU="Mascara" Name="마스카라"/>
+    <Elem NameU="Perfume 1" Name="향수 1"/>
+    <Elem NameU="Perfume 2" Name="향수 2"/>
+    <Elem NameU="Perfume 3" Name="향수 3"/>
+    <Elem NameU="Facial Cleanser" Name="클렌저"/>
+    <Elem NameU="Skin Care" Name="스킨 케어"/>
+    <Elem NameU="Body Wash" Name="바디워시"/>
+    <Elem NameU="Shampoo 1" Name="샴푸 1"/>
+    <Elem NameU="Shampoo 2" Name="샴푸 2"/>
+    <Elem NameU="Leather belt" Name="가죽 벨트"/>
+    <Elem NameU="wig 1" Name="가발 1"/>
+    <Elem NameU="wig 2" Name="가발 2"/>
+    <Elem NameU="wig 3" Name="가발 3"/>
+    <Elem NameU="Curling Comb" Name="컬링 빗"/>
+    <Elem NameU="Comb 2" Name="빗 2"/>
+    <Elem NameU="Blower 1" Name="헤어드라이어 1"/>
+    <Elem NameU="Blower 2" Name="헤어드라이어 2"/>
+    <Elem NameU="Manicure 1" Name="네일 1"/>
+    <Elem NameU="Manicure 2" Name="네일 2"/>
+    <Elem NameU="Manicure 3" Name="네일 3"/>
+</Lib>

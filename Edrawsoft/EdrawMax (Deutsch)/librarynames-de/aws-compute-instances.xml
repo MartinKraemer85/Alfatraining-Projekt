@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="AWS Compute Instances">
+	<Elem NameU="EC2_A1-Instance" Name="EC2_A1 Instanz"/>
+	<Elem NameU="EC2_C4-Instance" Name="EC2_C4 Instanz"/>
+	<Elem NameU="EC2_C5-Instance" Name="EC2_C5 Instanz"/>
+	<Elem NameU="EC2_C5n-Instance" Name="EC2_C5n Instanz"/>
+	<Elem NameU="EC2_D2-Instance" Name="EC2_D2 Instanz"/>
+	<Elem NameU="EC2_DB-on-Instance" Name="EC2_Database-Instanz"/>
+	<Elem NameU="EC2_F1-Instance" Name="EC2_F1-Instanz"/>
+	<Elem NameU="EC2_G3-Instance" Name="EC2_G3-Instanz"/>
+	<Elem NameU="EC2_H1-Instance" Name="EC2_H1-Instanz"/>
+	<Elem NameU="EC2_High-Memory-Instance" Name="EC2_Hohe Speicherinstanz"/>
+	<Elem NameU="EC2_I3-Instance" Name="EC2_I3-Instanz"/>
+	<Elem NameU="EC2_Instance" Name="EC2_instance"/>
+	<Elem NameU="EC2_Instances" Name="EC2_instance"/>
+	<Elem NameU="EC2_Instance-with-CloudWatch" Name="EC2-Instanz mit Wolkenbeobachtung"/>
+	<Elem NameU="EC2_M4-Instance" Name="EC2_M4-Instanz"/>
+	<Elem NameU="EC2_M5a-Instance" Name="EC2_M5a Instanz"/>
+	<Elem NameU="EC2_M5-Instance" Name="EC2_M5-Instanz"/>
+	<Elem NameU="EC2_Optimized-Instance" Name="EC2-optimierte Instanz"/>
+	<Elem NameU="EC2_P2-Instance" Name="EC2_P2-Instanz"/>
+	<Elem NameU="EC2_P3-Instance" Name="EC2_P3-Instanz"/>
+	<Elem NameU="EC2_R4-Instance" Name="EC2_R4-Instanz"/>
+	<Elem NameU="EC2_R5a-Instance" Name="EC2_R5a Instanz"/>
+	<Elem NameU="EC2_R5-Instance" Name="EC2_R5-Instanz"/>
+	<Elem NameU="EC2_Spot-instance" Name="EC2 Spot Instanz"/>
+	<Elem NameU="EC2_T3a-Instance" Name="EC2_T3a Instanz"/>
+	<Elem NameU="EC2_T3-Instance copy" Name="EC2_T3 Instanzkopie"/>
+	<Elem NameU="EC2_T3-Instance" Name="EC2_T3-Instanz"/>
+	<Elem NameU="EC2_X1e-Instance" Name="EC2_X1e-Instanz"/>
+	<Elem NameU="EC2_X1-Instance" Name="EC2_X1-Instanz"/>
+	<Elem NameU="EC2_z1d-Instance" Name="EC2_z1d Instanz"/>
+</Lib>

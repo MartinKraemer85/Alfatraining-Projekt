@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Media">
+	<Elem NameU="Clapboard" Name="下見板"/>
+	<Elem NameU="TV" Name="TV"/>
+	<Elem NameU="Radio" Name="ラジオ"/>
+	<Elem NameU="Film" Name="映画"/>
+	<Elem NameU="Monitoring" Name="モニタリング"/>
+	<Elem NameU="Microphone" Name="マイクロフォン"/>
+	<Elem NameU="Receiver" Name="受信機"/>
+	<Elem NameU="Satellite" Name="衛星"/>
+	<Elem NameU="Video player" Name="ビデオプレーヤー"/>
+	<Elem NameU="Broadcast" Name="放送"/>
+	<Elem NameU="Microphone 1" Name="マイクロフォン 1"/>
+	<Elem NameU="Microphone 2" Name="マイクロフォン 2"/>
+	<Elem NameU="Earphone" Name="イヤホン"/>
+	<Elem NameU="Hot News" Name="ホットニュース"/>
+	<Elem NameU="Press Card" Name="プレスカード"/>
+	<Elem NameU="Video Camera" Name="ビデオカメラ"/>
+	<Elem NameU="News Truck" Name="ニューストラック"/>
+	<Elem NameU="News Van" Name="ニュースバン"/>
+	<Elem NameU="Interview" Name="インタビュー"/>
+	<Elem NameU="Video Shooting" Name="ビデオ撮影"/>
+	<Elem NameU="Taking Photos 1" Name="写真を撮る 1"/>
+	<Elem NameU="Taking Photo 2" Name="写真を撮る 2"/>
+	<Elem NameU="Global" Name="グローバル"/>
+	<Elem NameU="Press Conference" Name="記者会見"/>
+	<Elem NameU="Focus" Name="フォーカス"/>
+	<Elem NameU="Discover" Name="発見"/>
+	<Elem NameU="World Map" Name="世界地図"/>
+	<Elem NameU="Clock" Name="時計"/>
+	<Elem NameU="Notepad" Name="メモ帳"/>
+	<Elem NameU="Data Analysis" Name="データ分析"/>
+	<Elem NameU="People" Name="人"/>
+	<Elem NameU="Newspaper" Name="新聞紙"/>
+	<Elem NameU="Projection screen" Name="投影スクリーン"/>
+	<Elem NameU="Computer" Name="コンピューター"/>
+	<Elem NameU="LCD TV" Name="LCD TV"/>
+	<Elem NameU="Mobile" Name="モバイル"/>
+</Lib>

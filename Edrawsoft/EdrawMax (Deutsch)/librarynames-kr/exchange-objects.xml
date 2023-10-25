@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Exchange Objects">
+    <Elem NameU="Exchange Organization" Name="Exchange 조직"/>
+    <Elem NameU="Massage Formats" Name="메시지 형식"/>
+    <Elem NameU="Exchange Servers" Name="Exchange 서버"/>
+    <Elem NameU="Exchange Server" Name="Exchange 서버"/>
+    <Elem NameU="Public Folders" Name="공용 폴더"/>
+    <Elem NameU="Storage Group" Name="저장 그룹"/>
+    <Elem NameU="Recipient Update Service" Name="수신자 업데이트 서비스"/>
+    <Elem NameU="Recipient Policy" Name="수신자 정책"/>
+    <Elem NameU="Message Delivery" Name="메시지 전송"/>
+    <Elem NameU="POP virtual server" Name="POP 가상 서버"/>
+    <Elem NameU="Exchange Virtual Server" Name="가상 서버"/>
+    <Elem NameU="Dialog" Name="대화"/>
+    <Elem NameU="HTTP Virtual Directory" Name="HTTP 가상 디렉토리"/>
+    <Elem NameU="Public Store" Name="공용 저장소"/>
+    <Elem NameU="Mailbox Store" Name="이메일 저장소"/>
+    <Elem NameU="IMAP Virtual Server" Name="IMAP 가상 서버"/>
+    <Elem NameU="NNTP Virtual Server" Name="NNTP 가상 서버"/>
+</Lib>

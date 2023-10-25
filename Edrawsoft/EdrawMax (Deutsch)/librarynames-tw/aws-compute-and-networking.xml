@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="AWS Compute and Networking">
+    <Elem NameU="AMI" Name="AMI系統映像"/>
+    <Elem NameU="CloudWatch" Name="CloudWatch 雲和網絡監控服務"/>
+    <Elem NameU="DB on Instance" Name="資料庫實例"/>
+    <Elem NameU="Elastic IP" Name="彈性IP"/>
+    <Elem NameU="Instance" Name="實例"/>
+    <Elem NameU="Instances" Name="多個實例"/>
+    <Elem NameU="Instance Contents" Name="實例內容"/>
+    <Elem NameU="Amazon EC2" Name="Amazon EC2"/>
+    <Elem NameU="Cluster" Name="集群"/>
+    <Elem NameU="HDFS Cluster" Name="HDFS 集群"/>
+    <Elem NameU="Amazon EMR" Name="Amazon EMR"/>
+    <Elem NameU="Route 53 Hosted Zone" Name="路線53托管區"/>
+    <Elem NameU="Route 53 Route Table" Name="路線53路由表"/>
+    <Elem NameU="Route 53" Name="路線53"/>
+    <Elem NameU="VPC Customer Gateway" Name="VPC客戶網關"/>
+    <Elem NameU="VPC Internet Gateway" Name="VPC互聯網網關"/>
+    <Elem NameU="VPC Contents" Name="VPC內容"/>
+    <Elem NameU="VPC Router" Name="VPC路由器"/>
+    <Elem NameU="VPC VPN Connection" Name="VPC VPN連接"/>
+    <Elem NameU="VPC VPN Gateway" Name="VPC VPN網關"/>
+    <Elem NameU="VPN Connection" Name="VPN連接"/>
+    <Elem NameU="VPC" Name="虛擬私有雲"/>
+    <Elem NameU="Auto Scaling" Name="自動擴展"/>
+    <Elem NameU="AWS Direct Connect" Name="AWS直接連接"/>
+    <Elem NameU="EC2 Optimized Instance" Name="EC2 優化實例"/>
+    <Elem NameU="Elastic Load Balancing" Name="彈性負載均衡"/>
+    <Elem NameU="Elastic Network Instance" Name="彈性網絡實例"/>
+    <Elem NameU="EMR Engine" Name="EMR 引擎"/>
+    <Elem NameU="EMR MapR M3 Engine" Name="EMR MapR M3 引擎"/>
+    <Elem NameU="EMR MapR M5 Engine" Name="EMR MapR M5 引擎"/>
+    <Elem NameU="EMR MapR M7 Engine" Name="EMR MapR M7 引擎"/>
+    <Elem NameU="Kinesis Enabled App" Name="Kinesis 啟用應用程式"/>
+    <Elem NameU="VPC Peering" Name="VPC Peering 對等體"/>
+    <Elem NameU="WorkSpaces" Name="桌面雲"/>
+    <Elem NameU="Lambda" Name="Lambda雲計算服務"/>
+</Lib>

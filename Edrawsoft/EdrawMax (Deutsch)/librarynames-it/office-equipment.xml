@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Office Equipment">
+	<Elem NameU="Desktop pc" Name="Computer Fisso"/>
+	<Elem NameU="PC" Name="PC"/>
+	<Elem NameU="Telephone" Name="Telefono"/>
+	<Elem NameU="Phone" Name="Telefonino"/>
+	<Elem NameU="Fax" Name="Fax"/>
+	<Elem NameU="PC Monitor" Name="Schermo PC"/>
+	<Elem NameU="Keyboard" Name="Tastiera"/>
+	<Elem NameU="Tower PC" Name="Computer Tower"/>
+	<Elem NameU="Mouse" Name="Mouse"/>
+	<Elem NameU="Modem" Name="Modem"/>
+	<Elem NameU="Scanner" Name="Scanner"/>
+	<Elem NameU="Printer" Name="Stampante"/>
+	<Elem NameU="Xerox" Name="Xerox"/>
+	<Elem NameU="Plotter" Name="Plotter"/>
+	<Elem NameU="Document Shredder" Name="Tritadocumenti"/>
+	<Elem NameU="Router" Name="Router"/>
+	<Elem NameU="Switch" Name="Interruttore"/>
+	<Elem NameU="Wireless Hub" Name="Hub Wireless"/>
+	<Elem NameU="Hub" Name="Hub"/>
+	<Elem NameU="Office Lamp" Name="Lampada da Ufficio"/>
+	<Elem NameU="Projector" Name="Proiettore"/>
+	<Elem NameU="Overhead Projector" Name="Proiettore Sopraelevato"/>
+	<Elem NameU="Projector Screen" Name="Schermo Proiettore"/>
+	<Elem NameU="Marker Board" Name="Lavagna per Appunti"/>
+	<Elem NameU="Plasma Panel" Name="Pannello al Plasma"/>
+	<Elem NameU="Cash Register" Name="Registratore di Cassa"/>
+	<Elem NameU="POS-Terminal" Name="Terminale POS"/>
+	<Elem NameU="Paper Tray" Name="Cassetto della Carta"/>
+	<Elem NameU="Coat Rack" Name="Appendiabiti"/>
+	<Elem NameU="Square Waste Can" Name="Cestino Quadrato"/>
+</Lib>

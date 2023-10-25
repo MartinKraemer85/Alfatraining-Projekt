@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Animals-Insect">
+    <Elem NameU="Beetles 1" Name="딱정벌레 1"/>
+    <Elem NameU="Beetles 2" Name="딱정벌레 2"/>
+    <Elem NameU="Beetles 3" Name="딱정벌레 3"/>
+    <Elem NameU="Mantis" Name="사마귀"/>
+    <Elem NameU="Fly" Name="파리"/>
+    <Elem NameU="Bees 1" Name="꿀벌1"/>
+    <Elem NameU="Bees 2" Name="꿀벌2"/>
+    <Elem NameU="Caterpillar" Name="애벌레"/>
+    <Elem NameU="Butterfly 1" Name="나비1"/>
+    <Elem NameU="Butterfly 2" Name="나비2"/>
+    <Elem NameU="Butterfly3" Name="나비3"/>
+    <Elem NameU="Dragonfly" Name="잠자리"/>
+    <Elem NameU="Glowworm" Name="반딧불"/>
+    <Elem NameU="Snail" Name="달팽이"/>
+    <Elem NameU="Scorpion" Name="전갈"/>
+    <Elem NameU="Grasshopper" Name="메뚜기"/>
+    <Elem NameU="Cicada" Name="매미"/>
+    <Elem NameU="Earthworm 1" Name="지렁이1"/>
+    <Elem NameU="Earthworm 2" Name="지렁이2"/>
+    <Elem NameU="Spider" Name="거미"/>
+    <Elem NameU="Ant 2" Name="개미2"/>
+    <Elem NameU="Ant 1" Name="개미1"/>
+    <Elem NameU="Mosquito" Name="모기"/>
+    <Elem NameU="Moth" Name="나방"/>
+    <Elem NameU="Cockroach" Name="바퀴벌레"/>
+    <Elem NameU="Lucanidae" Name="루카니대"/>
+    <Elem NameU="Dicelosternus Corallinus" Name="다수스테누스 코랄리누스"/>
+</Lib>

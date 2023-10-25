@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="AWS Management &amp; Governance">
+	<Elem NameU="CloudWatch" Name="Obsevar Nuvem"/>
+	<Elem NameU="CloudWatch_Alarm" Name="Observar Nuvem com Alarme"/>
+	<Elem NameU="CloudWatch_Event-Event-Based" Name="Observação na nuvem de eventos baseados em eventos"/>
+	<Elem NameU="CloudWatch_Event-Time-Based" Name="Observe o tempo do evento com base na nuvem"/>
+	<Elem NameU="CloudWatch_Rule" Name="Regras de observação da nuvem"/>
+	<Elem NameU="AWS-App-Config" Name="Configuração do aplicativo AWS"/>
+	<Elem NameU="AWS-Auto-Scaling" Name="Escalonamento automático AWS"/>
+	<Elem NameU="AWS-CloudFormation" Name="Formação de nuvem AWS"/>
+	<Elem NameU="AWS-CloudTrail" Name="Rastreamento de nuvem AWS"/>
+	<Elem NameU="AWS-CloudFormation_Change-Set" Name="A nuvem AWS forma um conjunto de mudanças"/>
+	<Elem NameU="AWS-CloudFormation_Stack" Name="A nuvem AWS forma uma pilha"/>
+	<Elem NameU="AWS-CloudFormation_Template" Name="Modelo de formação de nuvem AWS"/>
+	<Elem NameU="AWS-Command-Line-Interface" Name="Modelo de formação de nuvem AWS"/>
+	<Elem NameU="AWS-Config" Name="Configuração AWS"/>
+	<Elem NameU="AWS-Control-Tower" Name="Torre de controle AWS"/>
+	<Elem NameU="AWS-License-Manager" Name="Gerenciador de licençaAWS"/>
+	<Elem NameU="AWS-Managed-Services" Name="Serviços gerenciados AWS"/>
+	<Elem NameU="AWS-Management-Console" Name="Console de gerenciamentoAWS"/>
+	<Elem NameU="AWS-OpsWorks" Name="AWS OpsWorks"/>
+	<Elem NameU="AWS-OpsWorks_Apps" Name="Aplicativo AWS OpsWorks"/>
+	<Elem NameU="AWS-OpsWorks_Deployments" Name="Implantações AWS-OpsWorks"/>
+	<Elem NameU="AWS-OpsWorks_Instances" Name="Instâncias AWS-OpsWorks"/>
+	<Elem NameU="AWS-OpsWorks_Layers" Name="Camadas AWS-OpsWorks"/>
+	<Elem NameU="AWS-OpsWorks_Monitoring" Name="Monitoramento AWS-OpsWorks"/>
+	<Elem NameU="AWS-OpsWorks_Permissions" Name="Permissões AWS-OpsWorks"/>
+	<Elem NameU="AWS-OpsWorks_Resources" Name="Recursos AWS-OpsWorks"/>
+	<Elem NameU="AWS-OpsWorks_Stack2" Name="AWS-OpsWorks Stack2"/>
+	<Elem NameU="AWS-Organizations_Account" Name="Conta da organização AWS"/>
+	<Elem NameU="AWS-Organizations_Organizational-unit" Name="Unidade organizacional AWS"/>
+	<Elem NameU="AWS-Organizations" Name="Organização AWS"/>
+	<Elem NameU="AWS-Personal-Health-Dashboard" Name="Painel de saúde pessoal AWS"/>
+	<Elem NameU="AWS-Service-Catalog" Name="Catálogo de serviços da AWS"/>
+	<Elem NameU="AWS-Systems-Manager" Name="Administrador do sistema AWS"/>
+	<Elem NameU="AWS-Trusted-Advisor" Name="Conselheiro de confiança AWS"/>
+	<Elem NameU="AWS-Systems-Manager_Automation" Name="Automação do administrador do sistema AWS"/>
+	<Elem NameU="AWS-Systems-Manager_Documents" Name="Documentação do administrador do sistema AWS"/>
+	<Elem NameU="AWS-Systems-Manager_Inventory" Name="Inventário do administrador do sistema AWS"/>
+	<Elem NameU="AWS-Systems-Manager_Maintenance-Windows" Name="Janela de manutenção do administrador do sistema AWS"/>
+	<Elem NameU="AWS-Systems-Manager_Parameter-Store" Name="Armazenamento de parâmetros do administrador do sistema AWS"/>
+	<Elem NameU="AWS-Systems-Manager_Patch-Manager" Name="AWS System Administrator Patch Manager"/>
+	<Elem NameU="AWS-Systems-Manager_Run-Command" Name="O administrador do sistema AWS executa o comando"/>
+	<Elem NameU="AWS-Systems-Manager_State-Manager" Name="O administrador do sistema executa o comando AWS"/>
+	<Elem NameU="AWS-Trusted-Advisor_Checklist" Name="Lista de consultores confiáveis ​​da AWS"/>
+	<Elem NameU="AWS-Trusted-Advisor_Checklist-Cost" Name="Custo da lista de consultores confiáveis ​​da AWS"/>
+	<Elem NameU="AWS-Trusted-Advisor_Checklist-Fault-Tolerant" Name="Tolerância a falhas da lista de consultores confiáveis ​​da AWS"/>
+	<Elem NameU="AWS-Trusted-Advisor_Checklist-Performance" Name="Desempenho da lista de consultores confiáveis ​​da AWS"/>
+	<Elem NameU="AWS-Trusted-Advisor_Checklist-Security" Name="Segurança da lista de consultores confiáveis ​​da AWS"/>
+	<Elem NameU="AWS-Well-Architected-Tool" Name="Ferramentas completas da AWS"/>
+	<Elem NameU="Management-and-Governance" Name="Gestão e governança"/>
+	<Elem NameU="Systems-Manager_OpsCenter" Name="OpsCenter do administrador do sistema"/>
+</Lib>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="AWS Analytics">
+	<Elem NameU="Analytics" Name="Analytik"/>
+	<Elem NameU="AWS-Data-Pipeline" Name="AWS-Datenpipeline"/>
+	<Elem NameU="AWS-Glue" Name="AWS-Kleber"/>
+	<Elem NameU="AWS-Lake-Formation" Name="AWS-Data Lake-Architektur"/>
+	<Elem NameU="Athena" Name="Athena"/>
+	<Elem NameU="CloudSearch" Name="Cloud-Suche"/>
+	<Elem NameU="CloudSearch_Search-documents" Name="Cloud-Suchdokument"/>
+	<Elem NameU="Elasticsearch-Service" Name="Elastischer Suchdienst"/>
+	<Elem NameU="EMR" Name="EMR"/>
+	<Elem NameU="EMR_Cluster" Name="EMR-Cluster"/>
+	<Elem NameU="EMR_HDFS-cluster" Name="EMR HDFS-Cluster"/>
+	<Elem NameU="EMR_EMR-engine" Name="EMR EMR-Motor"/>
+	<Elem NameU="EMR_EMR-engine-MapR-M3" Name="EMR_EMR Motorkennfeld M3"/>
+	<Elem NameU="EMR_EMR-engine-MapR-M5" Name="EMR_EMR Motor MP-5"/>
+	<Elem NameU="EMR_EMR-engine-MapR-M7" Name="EMR_EMR Motor MapR-M7"/>
+	<Elem NameU="Kinesis" Name="Kinesis"/>
+	<Elem NameU="Kinesis-Data-Analytics" Name="Kinesis-Datenanalyse"/>
+	<Elem NameU="Kinesis-Data-Firehose" Name="Kinesis-Datenfirewall"/>
+	<Elem NameU="Kinesis-Data-Streams" Name="Kinesis-Datenfluss"/>
+	<Elem NameU="Kinesis-Video-Streams" Name="Kinesis Video-Streaming"/>
+	<Elem NameU="Managed-Streaming-for-Kafka" Name="Für Kafka verwaltete Streaming-Medien"/>
+	<Elem NameU="Quicksight" Name="Schnelle Sicht"/>
+	<Elem NameU="Redshift" Name="Rotverschiebung"/>
+	<Elem NameU="Redshift_Dense-compute-node" Name="Redshift-Rechenknoten mit hoher Dichte"/>
+	<Elem NameU="Redshift_Dense-storage-node" Name="Rotverschiebungsstreifen mit hoher Dichte"/>
+	<Elem NameU="AWS-Data-lake_Resource-icon" Name="Data Lake-Ressourcensymbol"/>
+	<Elem NameU="AWS-Glue_Crawlers" Name="AWS Glue Crawler"/>
+	<Elem NameU="AWS-Glue_Data-catalog" Name="Datenverzeichnis kleben"/>
+</Lib>

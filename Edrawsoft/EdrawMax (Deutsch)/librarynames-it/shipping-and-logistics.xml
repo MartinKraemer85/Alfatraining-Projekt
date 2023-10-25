@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Shipping and Logistics">
+	<Elem NameU="Home Delivery Service 1" Name="Servizio di Consegna 1"/>
+	<Elem NameU="Customer Service" Name="Assistenza Clienti"/>
+	<Elem NameU="Location" Name="Luogo"/>
+	<Elem NameU="Courier on Scooter" Name="Corriere su Scooter"/>
+	<Elem NameU="Courier" Name="Corriere"/>
+	<Elem NameU="Home Delivery 2" Name="Servizio di Consegna 2"/>
+	<Elem NameU="Courier with Delivery Cart" Name="Corriere con Furgone"/>
+	<Elem NameU="Scanning Delivery Information" Name="Scansione Informazioni di Consegna"/>
+	<Elem NameU="Multifunction Barcode Reader" Name="Lettore Codici a Barre Multifunzione"/>
+	<Elem NameU="Delivery Safety" Name="Consegna Sicura"/>
+	<Elem NameU="Carton Box" Name="Scatola di Cartone"/>
+	<Elem NameU="Paper Express Envelope" Name="Busta di Carta"/>
+	<Elem NameU="Logistics Basket" Name="Carrello per Logistica"/>
+	<Elem NameU="24-hour Delivery Truck" Name="Corriere con Consegna in 24 ore"/>
+	<Elem NameU="Lifting Cargo Container" Name="Container di Merci con Sollevamento"/>
+	<Elem NameU="Ocean Shipping" Name="Spedizione via Mare"/>
+	<Elem NameU="Plane" Name="Aeroplano"/>
+	<Elem NameU="Helicopter" Name="Elicottero"/>
+	<Elem NameU="Barcode" Name="Codice a Barre"/>
+	<Elem NameU="Checklist" Name="Lista"/>
+	<Elem NameU="Telephone Counseling 1" Name="Consulenza Telefonica 1"/>
+	<Elem NameU="Telephone Counseling 2" Name="Consulenza Telefonica 2"/>
+	<Elem NameU="Timer" Name="Timer"/>
+	<Elem NameU="Scale Cart" Name="Carrello con Bilancia"/>
+	<Elem NameU="Platform Cart Delivery" Name="Consegna con Carrello Trasportatore"/>
+	<Elem NameU="Forklift" Name="Carrello Elevatore"/>
+	<Elem NameU="Conveyer Belt" Name="Nastro Trasportatore"/>
+	<Elem NameU="Goods Shelf" Name="Scaffale"/>
+	<Elem NameU="Warehouse" Name="Magazzino"/>
+</Lib>

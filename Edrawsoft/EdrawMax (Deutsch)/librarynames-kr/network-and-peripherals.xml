@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Network and Peripherals">
+    <Elem NameU="Ethernet" Name="이더넷"/>
+    <Elem NameU="Ring network" Name="링 네트워크"/>
+    <Elem NameU="Straight bus" Name="직선 버스"/>
+    <Elem NameU="FDDI ring" Name="FDDI링 네트워크"/>
+    <Elem NameU="Token ring" Name="토큰 링"/>
+    <Elem NameU="Star network" Name="Star 네트워크"/>
+    <Elem NameU="Communication link" Name="통신 링크"/>
+    <Elem NameU="Flash link" Name="플래시 링크"/>
+    <Elem NameU="Flexi Node Link" Name="탄력적 노드 링크"/>
+    <Elem NameU="Internet Cloud" Name="인터넷 클라우드"/>
+    <Elem NameU="Internet Cloud 2" Name="인터넷 클라우드 2"/>
+    <Elem NameU="Internet Cloud 3" Name="인터넷 클라우드 3"/>
+    <Elem NameU="Earth" Name="지구"/>
+    <Elem NameU="Cable" Name="케이블"/>
+    <Elem NameU="Cable 2" Name="케이블 2"/>
+    <Elem NameU="Arrow 1" Name="화살표 1"/>
+    <Elem NameU="Arrow symbol 2" Name="화살표 기호 2"/>
+    <Elem NameU="Arrow symbol 3" Name="화살표 기호 3"/>
+    <Elem NameU="Arrow symbol 4" Name="화살표 기호 4"/>
+    <Elem NameU="Arrow symbol 5" Name="화살표 기호 5"/>
+    <Elem NameU="Optical fiber" Name="광섬유"/>
+    <Elem NameU="Cloud symbol 1" Name="클라우드 기호 1"/>
+    <Elem NameU="Cloud symbol 2" Name="클라우드 기호 2"/>
+    <Elem NameU="Wifi Symbol" Name="와이파이 기호"/>
+    <Elem NameU="Lights" Name="신호등"/>
+    <Elem NameU="Bridge" Name="브리지"/>
+    <Elem NameU="Server" Name="서버"/>
+    <Elem NameU="Router" Name="라우터"/>
+    <Elem NameU="Wireless Router" Name="무선 라우터"/>
+    <Elem NameU="Bridge" Name="브리지"/>
+    <Elem NameU="Hub" Name="허브 2"/>
+    <Elem NameU="Switch" Name="스위치"/>
+    <Elem NameU="DVS 1" Name="DVS 1"/>
+    <Elem NameU="DVS 2" Name="DVS 2"/>
+    <Elem NameU="DVS 3" Name="DVS 3"/>
+    <Elem NameU="Video Splitter" Name="비디오 분배기"/>
+    <Elem NameU="Disk Arrays" Name="디스크 어레이"/>
+    <Elem NameU="Wifi Device" Name="Wifi 장비"/>
+    <Elem NameU="Firewall 1" Name="방화벽 1"/>
+    <Elem NameU="Firewall 2" Name="방화벽 2"/>
+    <Elem NameU="Modem" Name="모뎀"/>
+    <Elem NameU="ADSL Modem" Name="ADSL 모뎀"/>
+    <Elem NameU="TP Link" Name="TP-Link"/>
+    <Elem NameU="AP" Name="AP"/>
+    <Elem NameU="AP 2" Name="AP 2"/>
+    <Elem NameU="User" Name="사용자"/>
+</Lib>

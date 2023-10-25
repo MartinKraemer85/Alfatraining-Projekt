@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Active Directory">
+	<Elem NameU="Domain" Name="Dominio"/>
+	<Elem NameU="Computer" Name="Computer"/>
+	<Elem NameU="User" Name="Utente"/>
+	<Elem NameU="Group" Name="Gruppo"/>
+	<Elem NameU="Container" Name="Contenitore"/>
+	<Elem NameU="Print Queue" Name="Coda di Stampa"/>
+	<Elem NameU="Contact" Name="Contatti"/>
+	<Elem NameU="Organizational Unit" Name="Unità Organizzativa"/>
+	<Elem NameU="Policy" Name="Policy"/>
+	<Elem NameU="Volume" Name="Volume"/>
+	<Elem NameU="Generic object" Name="Oggetto generico"/>
+	<Elem NameU="Server" Name="Server"/>
+	<Elem NameU="Site" Name="Sito"/>
+	<Elem NameU="Site link" Name="Link del sito"/>
+	<Elem NameU="Site link bridge" Name="Ponte di link del sito"/>
+	<Elem NameU="NTDS site settings" Name="Impostazioni NTDS del sito"/>
+	<Elem NameU="IP subnet" Name="Sottorete IP"/>
+	<Elem NameU="Certificate Template" Name="Modello di Certificazione"/>
+	<Elem NameU="Licensing Site" Name="Licenza del Sito"/>
+	<Elem NameU="Connection" Name="Connessione"/>
+	<Elem NameU="Directory Connector" Name="Connettore Directory"/>
+	<Elem NameU="Domain 2D" Name="Dominio 2D"/>
+	<Elem NameU="Domain 3D" Name="Dominio 3D"/>
+	<Elem NameU="Domain controller 2D" Name="Controller Dominio 2D"/>
+	<Elem NameU="Domain controller 3D" Name="Controller Dominio 3D"/>
+	<Elem NameU="Application 2D" Name="Applicazione 2D"/>
+	<Elem NameU="Application 3D" Name="Applicazione 3D"/>
+	<Elem NameU="Site or subnet 2D" Name="Sito o subnet 2D"/>
+	<Elem NameU="Site or subnet 3D" Name="Sito o subnet 3D"/>
+	<Elem NameU="Client" Name="Cliente"/>
+	<Elem NameU="Database" Name="Database"/>
+	<Elem NameU="Comm-link" Name="Comm-link"/>
+	<Elem NameU="Replication connection" Name="Connessione replicata"/>
+	<Elem NameU="Site link 3D" Name="link del sito 3D"/>
+	<Elem NameU="Site link bridge 3D" Name="Ponte di link del sito 3D"/>
+	<Elem NameU="WAN" Name="WAN"/>
+</Lib>

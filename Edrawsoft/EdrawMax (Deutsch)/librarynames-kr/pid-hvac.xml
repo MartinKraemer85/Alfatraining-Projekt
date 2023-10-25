@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID HVAC">
+    <Elem NameU="Actuator" Number="2" Name="액추에이터"/>
+    <Elem NameU="Air cleaner" Name="공기 청정기"/>
+    <Elem NameU="Air conditioner" Name="에어컨"/>
+    <Elem NameU="Air conditioner 2" Name="에어컨 2"/>
+    <Elem NameU="Air conditioner 3" Name="에어컨 3"/>
+    <Elem NameU="Air curtain" Name="에어 커튼"/>
+    <Elem NameU="Air handling unit" Name="공기 처리 장치"/>
+    <Elem NameU="Btu totalizer" Name="Btu 토털 라이저"/>
+    <Elem NameU="Building chiller" Name="건물 냉각기"/>
+    <Elem NameU="Building heat make-up unit" Name="건물 난방 보충 장치"/>
+    <Elem NameU="Carbon filter" Name="탄소 필터"/>
+    <Elem NameU="Chilled water cooling coils" Name="냉각수 냉각 코일"/>
+    <Elem NameU="Chiller system" Name="냉각 시스템"/>
+    <Elem NameU="Chiller" Name="냉각 장치"/>
+    <Elem NameU="Chiller-heater" Name="냉각기-가열기"/>
+    <Elem NameU="Commercial storage tank" Name="상업용 저장 탱크"/>
+    <Elem NameU="Condenser" Name="콘덴서"/>
+    <Elem NameU="Containment barrier" Name="격리 장벽"/>
+    <Elem NameU="Deaerator" Name="탈기기"/>
+    <Elem NameU="Dehumidifier" Name="제습기"/>
+    <Elem NameU="Diffuser" Name="Diffuser"/>
+    <Elem NameU="Double damper 1" Name="더블 댐퍼 1"/>
+    <Elem NameU="Double damper 2" Name="더블 댐퍼 2"/>
+    <Elem NameU="Electronic flow hood" Name="전자 흐름 후드"/>
+    <Elem NameU="Energy-recovery ventilator" Name="에너지 회복 송풍기"/>
+    <Elem NameU="Exhaust fan" Name="배기 팬"/>
+    <Elem NameU="Expansion joint" Name="확장 조인트"/>
+    <Elem NameU="Furnace" Name="용광로"/>
+    <Elem NameU="Gas-electric wall-mount" Name="가스 전기 벽면 장착"/>
+    <Elem NameU="Gas-fired infrared heater" Name="가스 연소 적외선 히터"/>
+    <Elem NameU="Grilled heat exchanger" Name="열교환기"/>
+    <Elem NameU="Heat pump" Name="히트 펌프"/>
+    <Elem NameU="Heater damper" Name="히터 댐퍼"/>
+    <Elem NameU="Heating coil" Name="가열 코일"/>
+    <Elem NameU="Heating and cooling unit" Name="가열 및 냉각 장치"/>
+    <Elem NameU="Heavy-duty water heater" Name="중부하용 온수기"/>
+    <Elem NameU="High-velocity exhaust system" Name="고속 배기 시스템"/>
+    <Elem NameU="HVAC unit" Name="에어컨 유닛"/>
+    <Elem NameU="Indirect fired industrial heater" Name="간접 연소 산업용 히터"/>
+    <Elem NameU="Portable air conditioner" Name="휴대용 에어컨"/>
+    <Elem NameU="Pressurization unit" Name="가압 유닛"/>
+    <Elem NameU="Radiator coil" Name="라디에이터 코일"/>
+    <Elem NameU="Roof vent" Name="옥상 통풍구"/>
+    <Elem NameU="Rooftop air conditioner" Name="옥상 에어컨"/>
+    <Elem NameU="Rooftop unit" Name="옥상 유닛 "/>
+    <Elem NameU="Round damper" Name="원형 댐퍼"/>
+    <Elem NameU="Simple air handing unit" Name="간단한 공기 전달 장치"/>
+    <Elem NameU="Simple filter" Name="단순 필터"/>
+    <Elem NameU="Single damper" Name="싱글 댐퍼"/>
+    <Elem NameU="Thermal purge unit" Name="열 정화 장치"/>
+    <Elem NameU="Triple damper" Name="트리플 댐퍼"/>
+    <Elem NameU="Triple damper with circular opening" Name="원형 개구부가 있는 트리플 댐퍼"/>
+    <Elem NameU="Unit ventilator" Name="유닛 송풍기"/>
+    <Elem NameU="Vent hood" Name="벤트 후드"/>
+    <Elem NameU="Ventilation system" Name="송풍 시스템"/>
+    <Elem NameU="Ventilator" Name="송풍기"/>
+    <Elem NameU="Water heater" Name="온수기"/>
+    <Elem NameU="Window air conditioner" Name="창문 에어컨"/>
+    <Elem NameU="Coiler" Name="코일러"/>
+    <Elem NameU="Coil fan" Name="코일 팬"/>
+    <Elem NameU="Fan" Name="팬"/>
+    <Elem NameU="Exhaust fan" Name="배기팬"/>
+    <Elem NameU="Smoke extractor exhaust fan" Name="연기 추출 배기팬"/>
+    <Elem NameU="Air handling system" Name="공기 처리 시스템"/>
+    <Elem NameU="Main Freezing Engine" Name="주요 냉동 엔진"/>
+    <Elem NameU="Fan coil unit " Name="팬 코일 유닛"/>
+    <Elem NameU="Frequency control" Name="주파수 컨트롤"/>
+    <Elem NameU="Smart Temperature Controller" Name="스마트 온도 조절기"/>
+</Lib>

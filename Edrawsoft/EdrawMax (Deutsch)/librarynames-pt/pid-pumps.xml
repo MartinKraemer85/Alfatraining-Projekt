@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="PID Pumps">
+	<Elem NameU="3-D ISA Pump" Name="Bomba 3-D ISA"/>
+	<Elem NameU="3-D Pump" Name="Bomba 3-D"/>
+	<Elem NameU="Air powered pump" Name="Bomba a ar"/>
+	<Elem NameU="Air-operated diaphragm pump" Name="Bomba de diafragma operada a ar"/>
+	<Elem NameU="Centrifugal pump 1" Name="Bomba centrífuga 1"/>
+	<Elem NameU="Centrifugal pump 2" Name="Bomba centrífuga 2"/>
+	<Elem NameU="Centrifugal pump 3" Name="Bomba centrífuga 3"/>
+	<Elem NameU="Centrifugal pump 4" Name="Bomba centrífuga 4"/>
+	<Elem NameU="Centrifugal pump 5" Name="Bomba centrífuga 5"/>
+	<Elem NameU="Centrifugal pump with integral pump-motor shaft" Name="Bomba centrífuga com eixo bomba-motor integral"/>
+	<Elem NameU="Centrifugal thermoplastic pump" Name="Bomba centrífuga termoplástica"/>
+	<Elem NameU="Chemical pump 1" Name="Bomba química 1"/>
+	<Elem NameU="Chemical pump 2" Name="Bomba química 2"/>
+	<Elem NameU="Chemical pump 3" Name="Bomba química 3"/>
+	<Elem NameU="Classic pump 4" Name="Bomba química 4"/>
+	<Elem NameU="Cool pump" Name="Bomba fresca"/>
+	<Elem NameU="Corrosion resistant submersible pump" Name="Bomba submersível resistente à corrosão"/>
+	<Elem NameU="Corrosion-resistant continuous duty pump" Name="Bomba de tarefa contínua resistente à corrosão"/>
+	<Elem NameU="Diaphragm pump" Name="Bomba de diafragma"/>
+	<Elem NameU="Diaphragm pump 2" Name="Boma de diafragma 2"/>
+	<Elem NameU="End-suction centrifugal pump" Name="Bomba centrífuga de sucção de extremidade"/>
+	<Elem NameU="Explosion-proof pump" Name="Bomba à prova de explosão"/>
+	<Elem NameU="Flanged pump" Name="Bomba flangeada"/>
+	<Elem NameU="Flex-mounted centrifugal pump" Name="Bomba centrífuga de montagem flexionada"/>
+	<Elem NameU="Heavy-duty plastic centrifugal pump" Name="Bomba centrífuga de plástico resistente"/>
+	<Elem NameU="High temp heat trans pump" Name="Bomba de transferência de calor de alta temperatura"/>
+	<Elem NameU="High volume pump" Name="Bomba de alto volume"/>
+	<Elem NameU="High-viscosity pump" Name="Bomba de alta viscosidade"/>
+	<Elem NameU="High-viscosity pump (left)" Name="Bomba de alta viscosidade (esquerda)"/>
+	<Elem NameU="High-viscosity pump (right)" Name="Bomba de alta viscosidade (direita)"/>
+	<Elem NameU="Horizontal pump 1" Name="Bomba horizontal 1"/>
+	<Elem NameU="Horizontal pump 2 (left)" Name="Bomba horizontal 2 (esquerda)"/>
+	<Elem NameU="Horizontal pump 2 (right)" Name="Bomba horizontal 2 (direita)"/>
+	<Elem NameU="Horizontal pump 3" Name="Bomba horizontal 3"/>
+	<Elem NameU="Horizontal solids handling vortex pump" Name="Bomba de vórtice de manuseamento de sólidos horizontal"/>
+	<Elem NameU="Horizontal split case pump" Name="Bomba de invólucro separado horizontal"/>
+	<Elem NameU="Isolating diaphragm pump" Name="Bomba de diafragma isolante"/>
+	<Elem NameU="Large volume chemical and submersible pump" Name="Bomba submersível e química de grande volume"/>
+	<Elem NameU="Mag drive non-metallic pump" Name="Bomba não metálica de condução magnética"/>
+	<Elem NameU="Mag drive pump 1" Name="Bomba de condução magnética 1"/>
+	<Elem NameU="Mag drive pump 2" Name="Bomba de condução magnética 2"/>
+	<Elem NameU="Oil pump" Name="Bomba de óleo"/>
+	<Elem NameU="Oil well pump" Name="Bomba de poço de óleo"/>
+	<Elem NameU="Plunger pump" Name="Bomba de pistão"/>
+	<Elem NameU="Positive displacement gear pump" Name="Bomba de equipamento de deslocamento positivo"/>
+	<Elem NameU="Pump for highly-corrosive applications" Name="Bomba para aplicações altamente corrosivas"/>
+	<Elem NameU="Pump" Name="Bomba"/>
+	<Elem NameU="Pumping trap" Name="Armadilha de bombeamento"/>
+	<Elem NameU="Rotary vacuum pump" Name="Bomba de vácuo rotativa"/>
+	<Elem NameU="sealless pump" Name="bomba sem selar"/>
+	<Elem NameU="self-priming centrifugal pump" Name="bomba centrífuga de auto-preparação"/>
+	<Elem NameU="sewage pump" Name="bomba de esgoto"/>
+	<Elem NameU="Simple pump" Name="Bomba simples"/>
+	<Elem NameU="Simple vertical pump" Name="Bomba simples vertical"/>
+	<Elem NameU="Solids-handling self-priming pump" Name="Bomba de auto-preparação de manuseamento de sólidos"/>
+	<Elem NameU="SRH pump" Name="Bomba SHR"/>
+	<Elem NameU="Standard-flange positive displacement pump" Name="Bomba de deslocamento positivo de flange-padrão"/>
+	<Elem NameU="Submersible sump pump" Name="Bomba de reservatório submersível"/>
+	<Elem NameU="Sump pump" Name="Bomba de reservatório"/>
+	<Elem NameU="Threaded gear" Name="Equipamento rosqueado"/>
+	<Elem NameU="Vacuum pump" Name="Bomba de vácuo"/>
+	<Elem NameU="Vertical pump (down)" Name="Bomba vertical (baixo)"/>
+	<Elem NameU="Vertical pump (up)" Name="Bomba vertical (cima)"/>
+	<Elem NameU="Vertical pump" Name="Bomba vertical"/>
+	<Elem NameU="White pump" Name="Bomba branca"/>
+	<Elem NameU="Yellow pump" Name="Bomba amarela"/>
+	<Elem NameU="Condensate pump" Name="Bomba condensada"/>
+	<Elem NameU="CIP Pump" Name="Bomba CIP"/>
+	<Elem NameU="Raw Water Pump" Name="Bomba de Águas Brutas"/>
+	<Elem NameU="Plunger Pump" Name="Bomba de Êmbolo"/>
+	<Elem NameU="Hot Living Water Pump for Low Area" Name="Bomba de Águas Quentes Vivas para Área Baixa"/>
+	<Elem NameU="Hot Living Water Pump for High Area" Name="Bomba de Águas Quentes Vivas para Área Alta"/>
+	<Elem NameU="Freezing Pump" Name="Bomba de Congelamento"/>
+	<Elem NameU="Cooling Pump" Name="Bomba de Refrigeração"/>
+</Lib>

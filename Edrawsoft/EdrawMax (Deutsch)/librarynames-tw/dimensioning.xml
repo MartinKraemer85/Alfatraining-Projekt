@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Dimensioning">
+    <Elem NameU="Horizontal" Name="水平"/>
+    <Elem NameU="Vertical" Name="垂直"/>
+    <Elem NameU="Aligned even" Name="對齊(延長線長度相等)"/>
+    <Elem NameU="Aligned out even" Name="對齊(外部標註、延長線長度不等)"/>
+    <Elem NameU="Aligned uneven" Name="對齊(延長線長度不等)"/>
+    <Elem NameU="Aligned out uneven" Name="對齊(外部標註、延長線相等)"/>
+    <Elem NameU="Multi-aligned even" Name="多層對齊"/>
+    <Elem NameU="Horizontal outside" Name="外部水平標註"/>
+    <Elem NameU="Vertical outside" Name="外部垂直標註"/>
+    <Elem NameU="Arc radius" Name="弧半徑"/>
+    <Elem NameU="Radius outside" Name="在外部標註半徑"/>
+    <Elem NameU="Radius" Name="半徑"/>
+    <Elem NameU="Diameter" Name="直徑"/>
+    <Elem NameU="Diameter outside" Name="在外部標註直徑"/>
+    <Elem NameU="Angle center" Name="角中心"/>
+    <Elem NameU="Angle even" Name="角度(延長線長度相等)"/>
+    <Elem NameU="Angle uneven" Name="角度(延長線長度不相等)"/>
+    <Elem NameU="Angle outside" Name="外部角度標註"/>
+    <Elem NameU="Ordinate multi horizontal" Name="多條水平坐標線"/>
+    <Elem NameU="Ordinate multi vertical" Name="多條垂直坐標線"/>
+    <Elem NameU="Room measure" Name="空間度量"/>
+    <Elem NameU="Centerline" Name="中線"/>
+</Lib>

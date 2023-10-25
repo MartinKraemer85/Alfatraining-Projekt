@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Electrical Science">
+	<Elem NameU="Power Supply" Number="3" Name="전원 공급 장치"/>
+	<Elem NameU="Switch" Number="5" Name="스위치"/>
+	<Elem NameU="SPST" Name="SPST"/>
+	<Elem NameU="Battery" Name="배터리"/>
+	<Elem NameU="Electroscope" Name="전기 스코프"/>
+	<Elem NameU="Light Bulb" Number="10" Name="전구"/>
+	<Elem NameU="Voltmeter" Number="4" Name="전압계"/>
+	<Elem NameU="Ammeter" Number="2" Name="전류계"/>
+	<Elem NameU="Amperometer" Number="2" Name="전류계"/>
+	<Elem NameU="Voltmeter 1" Name="전압계 1"/>
+	<Elem NameU="Voltmeter 2" Name="전압계 2"/>
+	<Elem NameU="Ammeter 1" Name="전류계 1"/>
+	<Elem NameU="Ammeter 2" Name="전류계 2"/>
+	<Elem NameU="Resistance" Name="저항"/>
+	<Elem NameU="Resistance1" Name="저항1"/>
+	<Elem NameU="Resistance2" Name="저항2"/>
+	<Elem NameU="Sliding Rheostat" Name="가변 저항기 슬라이딩"/>
+	<Elem NameU="Two Hole Socket" Name="두 구멍 소켓"/>
+	<Elem NameU="Three Hole Socket" Name="세 구멍 소켓"/>
+	<Elem NameU="Electric Bell" Number="2" Name="전기 벨"/>
+	<Elem NameU="Diode LED" Name="다이오드 LED"/>
+	<Elem NameU="Diode" Name="다이오드"/>
+	<Elem NameU="Contact" Name="접촉기"/>
+	<Elem NameU="Accumulator" Name="축열기"/>
+	<Elem NameU="Earth electrode" Name="접지 전극"/>
+	<Elem NameU="Protected earth electrode" Name="보호 접지 전극"/>
+	<Elem NameU="Inductor" Name="인덕터"/>
+	<Elem NameU="Electric Motor" Name="전기 모터"/>
+	<Elem NameU="Key Switch" Name="키 스위치"/>
+	<Elem NameU="Pull Switch" Name="풀 스위치"/>
+</Lib>

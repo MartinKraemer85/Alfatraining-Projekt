@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Azure System Center">
+    <Elem NameU="Central Administration Site" Name="中心管理站點"/>
+    <Elem NameU="Central Administration Site_SQL" Name="中心管理站點_SQL"/>
+    <Elem NameU="Cloud Distribution Point" Name="雲分配點"/>
+    <Elem NameU="Distribution Point" Name="分配點"/>
+    <Elem NameU="Management Point" Name="管理點"/>
+    <Elem NameU="Primary Site" Name="主要站點"/>
+    <Elem NameU="Roles (class for multiple versions)" Name="規則 (多個試點的層級)"/>
+    <Elem NameU="Secondary Site" Name="次要站點"/>
+    <Elem NameU="Software Update Point" Name="軟體更新點"/>
+    <Elem NameU="System Center Admin Console" Name="系統中心管理控制台"/>
+</Lib>

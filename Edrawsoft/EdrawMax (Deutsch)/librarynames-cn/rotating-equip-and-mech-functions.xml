@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Rotating Equip and Mech Functions">
+    <Elem NameU="Motor" Name="旋转机器 1"/>
+    <Elem NameU="Step motor" Name="旋转机器 2"/>
+    <Elem NameU="DC motor" Name="旋转机器 3"/>
+    <Elem NameU="AC motor" Name="旋转机器 4"/>
+    <Elem NameU="Motor generator" Name="电动发电机"/>
+    <Elem NameU="Synchronous generator" Name="同步发电机"/>
+    <Elem NameU="Hand generator" Name="手摇发电机"/>
+    <Elem NameU="Synchronous generator" Name="同步发电机"/>
+    <Elem NameU="Synchronous converter" Name="同步转换器"/>
+    <Elem NameU="Armature" Name="电枢"/>
+    <Elem NameU="Brush" Name="电刷"/>
+    <Elem NameU="Field" Name="场"/>
+    <Elem NameU="Permanent Magnet" Name="永磁体"/>
+    <Elem NameU="Winding connection" Name="绕组连接"/>
+    <Elem NameU="1-phase" Name="1-阶"/>
+    <Elem NameU="2-phase" Name="2-阶"/>
+    <Elem NameU="3-phase Wye" Name="3相怀"/>
+    <Elem NameU="6-phase Diametrical" Name="6相对径"/>
+    <Elem NameU="6-phase Double-delta" Name="6相双三角"/>
+    <Elem NameU="Synchro" Name="同步机"/>
+    <Elem NameU="Brake" Name="制动器"/>
+    <Elem NameU="Gearing" Name="齿轮"/>
+    <Elem NameU="Rotation" Name="旋转"/>
+    <Elem NameU="Clutch" Name="离合器"/>
+    <Elem NameU="Clutch 2" Name="离合器 2"/>
+    <Elem NameU="Delayed action" Name="被延迟的动作"/>
+    <Elem NameU="Manual control" Name="手动控制"/>
+    <Elem NameU="Restricted blocking device " Name="受限制的闭锁装置"/>
+    <Elem NameU="Pushing" Name="推动"/>
+    <Elem NameU="Push" Name="推"/>
+    <Elem NameU="Pulling" Name="拉"/>
+    <Elem NameU="Turning" Name="转弯"/>
+    <Elem NameU="Key" Name="关键点"/>
+    <Elem NameU="Handwheel" Name="方向盘"/>
+    <Elem NameU="Touching" Name="触摸"/>
+    <Elem NameU="Remote Handle" Name="控手柄"/>
+    <Elem NameU="Emergency switch" Name="应急开关"/>
+    <Elem NameU="Roller" Name="滚轴"/>
+    <Elem NameU="Crank" Name="曲柄"/>
+    <Elem NameU="Blocking device" Name="闭锁装置"/>
+    <Elem NameU="Movement left blocked" Name="左方运动封锁"/>
+    <Elem NameU="Movement right blocked" Name="右方运动封锁"/>
+    <Elem NameU="Latching device" Name="闭锁设备"/>
+    <Elem NameU="Mechanical interlock" Name="机械联锁装置"/>
+    <Elem NameU="Automatic return" Name="自动返回"/>
+    <Elem NameU="Detent" Name="制动销"/>
+</Lib>

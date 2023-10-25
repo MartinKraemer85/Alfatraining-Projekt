@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<Lib nameU="Elastic Computing">
+
+<Elem Name="バッチ計算" NameU="Batch compute"/>
+
+<Elem Name="ブロックストレージ" NameU="Block storage"/>
+
+<Elem Name="コンテナサービス" NameU="Container Service"/>
+
+<Elem Name="専用ホスト" NameU="Dedicated host"/>
+
+<Elem Name="E-HPC" NameU="E-HPC"/>
+
+<Elem Name="エラスティックな計算サービス" NameU="Elastic compute service"/>
+
+<Elem Name="エラスティックなスケーリングサービス" NameU="Elastic scaling service"/>
+
+<Elem Name="FPGA" NameU="FPGA"/>
+
+<Elem Name="関数の計算" NameU="Function compute"/>
+
+<Elem Name="関数グラフ" NameU="Function graph"/>
+
+<Elem Name="GPU" NameU="GPU"/>
+
+<Elem Name="リソースオーケストレーション" NameU="Resource orchestration"/>
+
+<Elem Name="サーバーロードバランサー" NameU="Server load balancer"/>
+
+<Elem Name="簡単なアプリケーションサーバー" NameU="Simple application server"/>
+
+<Elem Name="スーパーな計算クラスター" NameU="Super computing cluster"/>
+
+<Elem Name="仮想プライベートクラウド" NameU="Virtual private cloud"/>
+
+<Elem Name="X-dragonクラウドサーバー" NameU="X-dragon cloud server"/>
+
+</Lib>

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Arrow Shapes">
+
+<Elem Name="Flèche Droite" NameU="Right Arrow"/>
+
+<Elem Name="Flèche Arrière" NameU="Back Arrow"/>
+
+<Elem Name="Flèche du Nord-Ouest" NameU="Northwest Arrow"/>
+
+<Elem Name="Flèche vers le bas" NameU="Down Arrow"/>
+
+<Elem Name="Flèche Gauche" NameU="Left Arrow"/>
+
+<Elem Name="Flèche unique vers le haut" NameU="Up Single Arrow"/>
+
+<Elem Name="Bas" NameU="Single Arrow Down"/>
+
+<Elem Name="Flèche épaisse" NameU="Thick Arrow"/>
+
+<Elem Name="Flèche en forme de brassard" NameU="Armband Shaped Arrow"/>
+
+<Elem Name="Flèche vers le haut" NameU="Up Arrow"/>
+
+<Elem Name="Flèche pentagonale" NameU="Pentagonal Arrow"/>
+
+<Elem Name="Flèche sud-ouest" NameU="Southwest Arrow"/>
+
+<Elem Name="Flèche sud-est" NameU="Southeast Arrow"/>
+
+<Elem Name="Flèche double vers l'arrière" NameU="Backward Double Arrow"/>
+
+<Elem Name="Flèche stylisée" NameU="Stylized Arrow"/>
+
+<Elem Name="Flèches multiples" NameU="Multiple Arrows"/>
+
+<Elem Name="Flèche double vers l'avant" NameU="Forward Double Arrow"/>
+
+<Elem Name="Flèche bidirectionnelle" NameU="Two-Way Arrow"/>
+
+<Elem Name="Double flèche vers le haut" NameU="Double Arrow Up"/>
+
+<Elem Name="Flèche à quatre directions" NameU="Four-Way Arrow"/>
+
+<Elem Name="Circle Arrow" NameU="Circle Arrow"/>
+
+<Elem Name="Flèche interactive" NameU="Interactive Arrow"/>
+
+<Elem Name="Flèche recyclable" NameU="Recyclable Arrow"/>
+
+<Elem Name="Flèche de boucle flexible" NameU="Flexible Loop Arrow"/>
+
+<Elem Name="Flèche de type S" NameU="S-type Arrow"/>
+
+<Elem Name="Flèche" NameU="Arrow"/>
+
+<Elem Name="Flèche ouverte" NameU="Open-end Arrow"/>
+
+<Elem Name="Flèche du coude" NameU="Elbow Arrow"/>
+
+<Elem Name="Flèche courbée" NameU="Bent Arrow"/>
+
+<Elem Name="Flèche de type U" NameU="U-type Arrow"/>
+
+</Lib>

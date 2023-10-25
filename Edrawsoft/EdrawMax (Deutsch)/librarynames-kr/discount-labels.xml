@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Discount labels">
+    <Elem NameU="Price Sticker 1" Name="가격 스티커 1"/>
+    <Elem NameU="Price Sticker 2" Name="가격 스티커 2"/>
+    <Elem NameU="Price Sticker 3" Name="가격 스티커 3"/>
+    <Elem NameU="Price Sticker 4" Name="가격 스티커 4"/>
+    <Elem NameU="Price Sticker 5" Name="가격 스티커 5"/>
+    <Elem NameU="Price Sticker 6" Name="가격 스티커 6"/>
+    <Elem NameU="Price Sticker 7" Name="가격 스티커 7"/>
+    <Elem NameU="Price Sticker 8" Name="가격 스티커 8"/>
+    <Elem NameU="Price Sticker 9" Name="가격 스티커 9"/>
+    <Elem NameU="Price Sticker 10" Name="가격 스티커 10"/>
+    <Elem NameU="Price Sticker 11" Name="가격 스티커 11"/>
+    <Elem NameU="Price Sticker 12" Name="가격 스티커 12"/>
+    <Elem NameU="Price Sticker 13" Name="가격 스티커 13"/>
+    <Elem NameU="Price Sticker 14" Name="가격 스티커 14"/>
+    <Elem NameU="Price Sticker 15" Name="가격 스티커 15"/>
+    <Elem NameU="Price Sticker 16" Name="가격 스티커 16"/>
+    <Elem NameU="Price Sticker 17" Name="가격 스티커 17"/>
+    <Elem NameU="Price Sticker 18" Name="가격 스티커 18"/>
+    <Elem NameU="Price Sticker 19" Name="가격 스티커 19"/>
+    <Elem NameU="Price Sticker 20" Name="가격 스티커 20"/>
+    <Elem NameU="Price Sticker 21" Name="가격 스티커 21"/>
+    <Elem NameU="Gift 1" Name="선물1"/>
+    <Elem NameU="Gift 2" Name="선물2"/>
+    <Elem NameU="Ribbons 1" Name="리본1"/>
+    <Elem NameU="Ribbons 2" Name="리본2"/>
+    <Elem NameU="Ribbons 3" Name="리본3"/>
+    <Elem NameU="Ribbons 4" Name="리본4"/>
+    <Elem NameU="Coupons 1" Name="쿠폰1"/>
+    <Elem NameU="Coupons 2" Name="쿠폰2"/>
+</Lib>

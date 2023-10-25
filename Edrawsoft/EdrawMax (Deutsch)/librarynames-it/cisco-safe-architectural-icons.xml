@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Cisco Safe Architectural Icons">
+	<Elem NameU="ACI Controller" Name="Controller ACI"/>
+	<Elem NameU="ACI Leaf Switch" Name="Interruttore Leaf ACI"/>
+	<Elem NameU="ACI Spine Switch" Name="Interruttore Spine ACI"/>
+	<Elem NameU="Adaptive Security Appliance" Name="Dispositivo di Sicurezza Adattivo"/>
+	<Elem NameU="Automated System" Name="Sistemo Automatizzato"/>
+	<Elem NameU="Blade Server" Name="Server Blade"/>
+	<Elem NameU="Catalyst Switch" Name="Interruttore Catalizzatore"/>
+	<Elem NameU="Corporate Device" Name="Dispositivo Aziendale"/>
+	<Elem NameU="Email Security" Name="Sicurezza Email"/>
+	<Elem NameU="Fabric Switch" Name="Interruttore Fabric"/>
+	<Elem NameU="Firepower Appliance" Name="Dispositivo Firepower"/>
+	<Elem NameU="Firewall" Name="Firewall"/>
+	<Elem NameU="Generic Appliance" Name="Dispositivo Generico"/>
+	<Elem NameU="Intrusion Detection" Name="Rilevamento Intrusione"/>
+	<Elem NameU="Load Balancer" Name="Equilibratore di Carico"/>
+	<Elem NameU="Nexus Switch" Name="Interruttore Nexus"/>
+	<Elem NameU="Nexus Data Center Switch" Name="Interruttore Centro Dati Nexus"/>
+	<Elem NameU="Nexus Fabric Switch" Name="Interruttore Fabric Nexus"/>
+	<Elem NameU="Nexus 1kv" Name="Nexus 1kv"/>
+	<Elem NameU="Phone" Name="Telefono"/>
+	<Elem NameU="Router" Name="Router"/>
+	<Elem NameU="Stacked Switch" Name="Interruttore Accatastato"/>
+	<Elem NameU="Secure Server" Name="Server Sicuro"/>
+	<Elem NameU="Server" Name="Server"/>
+	<Elem NameU="Storage" Name="Archivio"/>
+	<Elem NameU="Switch" Name="Interruttore"/>
+	<Elem NameU="L3 Switch" Name="Interruttore L3"/>
+	<Elem NameU="TLS Appliance" Name="Dispositivo TLS"/>
+	<Elem NameU="Unified Access Switch" Name="Interruttore Accesso Unificato"/>
+	<Elem NameU="Web Application Firewall" Name="Firewall Applicazione Web"/>
+	<Elem NameU="Web Security" Name="Sicurezza Web"/>
+	<Elem NameU="Wide Area Application Engine (WAE)" Name="Motore di Applicazione ad Ampio Raggio (WAE)"/>
+	<Elem NameU="Wireless Access Point" Name="Access Point Wireless"/>
+	<Elem NameU="Wireless LAN Controller" Name="Controller LAN Wireless"/>
+</Lib>

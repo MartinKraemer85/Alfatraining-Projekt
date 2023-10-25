@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Bathroom">
+
+<Elem Name="流し台" NameU="Sink"/>
+
+<Elem Name="洗面台 2" NameU="Countertop sink"/>
+
+<Elem Name="洗面台" NameU="Pedestal sink"/>
+
+<Elem Name="ビデ" NameU="Bidet"/>
+
+<Elem Name="便器" NameU="Squat wc"/>
+
+<Elem Name="シャワー" NameU="Shower"/>
+
+<Elem Name="コーナーシャワー" NameU="Corner shower"/>
+
+<Elem Name="コーナー バス" NameU="Corner bath"/>
+
+<Elem Name="浴室" NameU="Bathroom"/>
+
+<Elem Name="シャワー排水口" NameU="Shower Drain"/>
+
+<Elem Name="蛇口 1" NameU="Water Tap 1"/>
+
+<Elem Name="蛇口 2" NameU="Water Tap 2"/>
+
+<Elem Name="蛇口 3" NameU="Water Tap 3"/>
+
+<Elem Name="蛇口 4" NameU="Water Tap 4"/>
+
+<Elem Name="蛇口 5" NameU="Water Tap 5"/>
+
+<Elem Name="ゴミ箱" NameU="Dustbin"/>
+
+<Elem Name="トイレペーパー" NameU="Toilet Paper"/>
+
+<Elem Name="タオル掛け" NameU="Towel Rack"/>
+
+<Elem Name="トイレ" NameU="Toilet"/>
+
+<Elem Name="バスタブ" NameU="Bathtub"/>
+
+<Elem Name="シャワードレン2" NameU="Shower Drain 2"/>
+
+<Elem Name="ライト" NameU="Light"/>
+
+<Elem Name="シャワーランプ" NameU="Shower Lamp"/>
+
+<Elem Name="戸棚" NameU="Cabinet"/>
+
+</Lib>

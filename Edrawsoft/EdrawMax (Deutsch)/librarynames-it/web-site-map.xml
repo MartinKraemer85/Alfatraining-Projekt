@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Web Site Map">
+	<Elem NameU="Generic" Name="Generico"/>
+	<Elem NameU="HTML" Name="HTML"/>
+	<Elem NameU="Script (server-side)" Name="Script (lato server)"/>
+	<Elem NameU="Graphic (bitmap)" Name="Grafica (bitmap)"/>
+	<Elem NameU="Script (client-side)" Name="Script (lato client)"/>
+	<Elem NameU="Java" Name="Java"/>
+	<Elem NameU="Graphic (vector)" Name="Grafica (vettore)"/>
+	<Elem NameU="Audio" Name="Audio"/>
+	<Elem NameU="Video" Name="Video"/>
+	<Elem NameU="Style sheet" Name="Foglio di stile"/>
+	<Elem NameU="Multimedia" Name="Multimedia"/>
+	<Elem NameU="Plug-in" Name="Plug-in"/>
+	<Elem NameU="XML" Name="XML"/>
+	<Elem NameU="ActiveX" Name="ActiveX"/>
+	<Elem NameU="Files" Name="File"/>
+	<Elem NameU="Archive" Name="Archivio"/>
+	<Elem NameU="Program" Name="Programma"/>
+	<Elem NameU="Word Document" Name="Documento Word"/>
+	<Elem NameU="Spreadsheet" Name="Foglio di Calcolo"/>
+	<Elem NameU="Presentation" Name="Presentazione"/>
+	<Elem NameU="Database" Name="Database"/>
+	<Elem NameU="Cloud" Name="Cloud"/>
+	<Elem NameU="Save" Name="Salva"/>
+	<Elem NameU="FTP" Name="FTP"/>
+	<Elem NameU="MailTo" Name="MailTo"/>
+	<Elem NameU="Newsgroup" Name="Newsgroup"/>
+	<Elem NameU="Comment" Name="Commento"/>
+	<Elem NameU="RSS" Name="RSS"/>
+	<Elem NameU="Social" Name="Social"/>
+	<Elem NameU="Server" Name="Server"/>
+	<Elem NameU="PC" Name="PC"/>
+	<Elem NameU="Security" Name="Sicurezza"/>
+	<Elem NameU="Shopping Cart" Name="Carrello"/>
+	<Elem NameU="Support" Name="Assistenza"/>
+	<Elem NameU="Search" Name="Ricerca"/>
+	<Elem NameU="Search 2" Name="Ricerca 2"/>
+	<Elem NameU="Page jump" Name="Vai a Pagina"/>
+	<Elem NameU="Document" Name="Documento"/>
+	<Elem NameU="Home page" Name="Pagina Principale"/>
+	<Elem NameU="Connector" Name="Connettore"/>
+</Lib>

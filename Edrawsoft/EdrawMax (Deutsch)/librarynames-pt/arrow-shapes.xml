@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Arrow Shapes">
+	<Elem NameU="Right Arrow" Name="Seta para a Direita"/>
+	<Elem NameU="Back Arrow" Name="Seta para Trás"/>
+	<Elem NameU="Northwest Arrow" Name="Seta Noroeste"/>
+	<Elem NameU="Down Arrow" Name="Seta para Baixo"/>
+	<Elem NameU="Left Arrow" Name="Seta para a Esquerda"/>
+	<Elem NameU="Up Single Arrow" Name="Seta Única para Cima"/>
+	<Elem NameU="Single Arrow Down" Name="Seta Única para Baixo"/>
+	<Elem NameU="Thick Arrow" Name="Seta Espessa"/>
+	<Elem NameU="Armband Shaped Arrow" Name="Seta em Forma de Braçadeira"/>
+	<Elem NameU="Up Arrow" Name="Seta para Cima"/>
+	<Elem NameU="Pentagonal Arrow" Name="Seta Pentagonal"/>
+	<Elem NameU="Southwest Arrow" Name="Seta Sudoeste"/>
+	<Elem NameU="Southeast Arrow" Name="Seta Sudeste"/>
+	<Elem NameU="Backward Double Arrow" Name="Dupla Seta para Trás"/>
+	<Elem NameU="Stylized Arrow" Name="Seta Estilizada"/>
+	<Elem NameU="Multiple Arrows" Name="Múltiplas Setas"/>
+	<Elem NameU="Forward Double Arrow" Name="Dupla Seta para a Frente"/>
+	<Elem NameU="Two-Way Arrow" Name="Seta de Dois-Sentidos"/>
+	<Elem NameU="Double Arrow Up" Name="Dupla Seta para Cima"/>
+	<Elem NameU="Four-Way Arrow" Name="Seta de Quatro Sentidos"/>
+	<Elem NameU="Circle Arrow" Name="Seta Circular"/>
+	<Elem NameU="Interactive Arrow" Name="Seta Interativa"/>
+	<Elem NameU="Recyclable Arrow" Name="Seta Reciclável"/>
+	<Elem NameU="Flexible Loop Arrow" Name="Seta de Ciclo Flexível"/>
+	<Elem NameU="S-type Arrow" Name="Seta Tipo-S"/>
+	<Elem NameU="Arrow" Name="Seta"/>
+	<Elem NameU="Open-end Arrow" Name="Seta de Final Aberto"/>
+	<Elem NameU="Elbow Arrow" Name="Seta em Cotovelo"/>
+	<Elem NameU="Bent Arrow" Name="Seta Dobrada"/>
+	<Elem NameU="U-type Arrow" Name="Seta Tipo-U"/>
+</Lib>

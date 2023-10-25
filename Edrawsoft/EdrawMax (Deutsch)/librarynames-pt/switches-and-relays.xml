@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Switches and Relays">
+	<Elem NameU="Switch 1P" Name="Interruptor 1P"/>
+	<Elem NameU="Isolator 1P" Name="Isolador 1P"/>
+	<Elem NameU="Circuit breaker 1P" Name="Interruptor 1P"/>
+	<Elem NameU="Switch Disconnector 1P" Name="Interruptor-seccionador 1P"/>
+	<Elem NameU="SPST" Name="SPST"/>
+	<Elem NameU="SPDT" Name="SPDT"/>
+	<Elem NameU="DPST" Name="DPST"/>
+	<Elem NameU="DPDT" Name="DPDT"/>
+	<Elem NameU="Manual switch 1P" Name="Interruptor manual 1P"/>
+	<Elem NameU="Circuit break thermal" Name="Quebra de circuito térmico"/>
+	<Elem NameU="Residual current circuit break" Name="Quebra de circuito de corrente residual"/>
+	<Elem NameU="Make Contact" Name="Fazer Contacto"/>
+	<Elem NameU="Break Contact" Name="Quebrar Contacto"/>
+	<Elem NameU="Two way contact" Name="Contacto de duas vias"/>
+	<Elem NameU="Passing Make-contact" Name="Fazer-contacto Passar"/>
+	<Elem NameU="Spring return" Name="Retorno de mola"/>
+	<Elem NameU="Stay put" Name="Fica imóvel"/>
+	<Elem NameU="Limit Switch" Name="Interruptor de Limite"/>
+	<Elem NameU="Spring Return 2" Name="Retorno de Mola 2"/>
+	<Elem NameU="Spring Return 3" Name="Retorno de Mola 3"/>
+	<Elem NameU="Limit switch n/o" Name="Interruptor de limite n/o"/>
+	<Elem NameU="Limit switch n/c" Name="Interruptor de limite n/c"/>
+	<Elem NameU="Switch 2P" Name="Interruptor 2P"/>
+	<Elem NameU="Isolator 2P" Name="Isolador 2P"/>
+	<Elem NameU="Switch 3P" Name="Interruptor 3P"/>
+	<Elem NameU="Isolator 3P" Name="Isolador 3P"/>
+	<Elem NameU="2P change over" Name="Mudar 2P"/>
+	<Elem NameU="2 position switch" Name="Interruptor de 2 posições"/>
+	<Elem NameU="3 position switch" Name="Interruptor de 3 posições"/>
+	<Elem NameU="3 position selector switch" Name="Interruptor selector de 3 posições"/>
+	<Elem NameU="4 position switch" Name="Interruptor de 4 posições"/>
+	<Elem NameU="Manual switch" Name="Interruptor manual"/>
+	<Elem NameU="Proximity switch" Name="Interruptor de proximidade"/>
+	<Elem NameU="Pushbutton make" Name="Botão de apertar fazer"/>
+	<Elem NameU="Pushbutton break" Name="Botão de apertar quebrar"/>
+	<Elem NameU="Pushbutton 2-circuit" Name="Botão de apertar 2-circuitos"/>
+	<Elem NameU="Selector switch" Name="Interruptor selector"/>
+	<Elem NameU="Shorting selector" Name="Selector em curto-circuito"/>
+	<Elem NameU="Proximity limit switch" Name="Interruptor de limite de proximidade"/>
+	<Elem NameU="Time delay make" Name="Atraso temporal fazer"/>
+	<Elem NameU="Time delay break" Name="Atraso temporal quebrar"/>
+	<Elem NameU="Time delay make 2" Name="Atraso temporal fazer 2"/>
+	<Elem NameU="Time delay break 2" Name="Atraso temporal quebrar 2"/>
+	<Elem NameU="Safety interlock" Name="Inteligação de segurança"/>
+	<Elem NameU="Flow actuate" Name="Acionar fluxo"/>
+	<Elem NameU="Liquid level actuated" Name="Nível líquido acionado"/>
+	<Elem NameU="Liquid level actuated 2" Name="Nível líquido acionado 2"/>
+	<Elem NameU="Gas flow actuated" Name="Acionado fluxo de gás"/>
+	<Elem NameU="Pressure actuated" Name="Pressão acionada"/>
+	<Elem NameU="Thermostat" Name="Termóstato"/>
+	<Elem NameU="Temperature actuated" Name="Temperatura acionada"/>
+	<Elem NameU="Temperature switch" Name="Interruptor de temperatura"/>
+	<Elem NameU="Inertia switch" Name="Interruptor de inércia"/>
+	<Elem NameU="Mercury" Name="Mercúrio"/>
+	<Elem NameU="Mercury switch 2" Name="Interrutpor de mercúrio 2"/>
+	<Elem NameU="Change-Over Contact" Name="Contato reversível"/>
+	<Elem NameU="Fuse" Name="Fusível"/>
+	<Elem NameU="Reed switch" Name="Interruptor de cana"/>
+	<Elem NameU="Relay contacts" Name="Contactos da relé"/>
+	<Elem NameU="Relay coil" Name="Bobina da relé"/>
+	<Elem NameU="Relay" Name="Relé"/>
+</Lib>

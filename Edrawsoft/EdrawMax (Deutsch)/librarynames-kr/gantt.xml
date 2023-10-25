@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Gantt">
+    <Elem NameU="Data Source Example" Name="데이터 소스 예시"/>
+    <Elem NameU="Gantt" Name="간트 차트"/>
+    <Elem NameU="Gantt-White" Name="화이트 배경 간트 차트"/>
+    <Elem NameU="Gantt-Gray" Name="그레이 배경 간트 차트"/>
+</Lib>

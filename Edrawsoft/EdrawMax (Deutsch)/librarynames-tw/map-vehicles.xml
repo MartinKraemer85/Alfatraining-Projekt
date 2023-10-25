@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Map Vehicles">
+    <Elem NameU="Yellow car(2D)" Name="黃色的轎車(二維)"/>
+    <Elem NameU="Green car(2D)" Name="綠色的轎車(二維)"/>
+    <Elem NameU="Red car(2D)" Name="紅色的轎車(二維)"/>
+    <Elem NameU="Limousine" Name="豪華轎車"/>
+    <Elem NameU="Truck" Name="卡車"/>
+    <Elem NameU="Green car(3D)" Name="綠色的轎車(三維)"/>
+    <Elem NameU="Green car(3D) 2" Name="綠色的轎車(三維) 2"/>
+    <Elem NameU="Red car(3D)" Name="紅色的轎車(三維)"/>
+    <Elem NameU="Red car(3D) 2" Name="紅色的轎車(三維) 2"/>
+    <Elem NameU="Black car(3D)" Name="黑色的轎車(三維)"/>
+    <Elem NameU="Black car(3D) 2" Name="黑色的轎車(三維) 2"/>
+    <Elem NameU="Truck(3D)" Name="卡車(三維)"/>
+    <Elem NameU="Truck(3D) 2" Name="卡車(三維) 2"/>
+    <Elem NameU="Orange truck(3D)" Name="橘色的卡車(三維)"/>
+    <Elem NameU="Orange truck(3D) 2" Name="橘色的卡車(三維) 2"/>
+</Lib>

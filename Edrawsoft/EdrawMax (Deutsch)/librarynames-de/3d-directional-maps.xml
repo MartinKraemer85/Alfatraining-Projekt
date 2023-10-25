@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="3D Directional Maps">
+  <Elem NameU="Road 1" Name="Straße 1"/>
+  <Elem NameU="Road 2" Name="Straße 2"/>
+  <Elem NameU="Road 3" Name="Straße 3"/>
+  <Elem NameU="Road 5" Name="Straße 5"/>
+  <Elem NameU="Elevated 1" Name="Hochstraße 1"/>
+  <Elem NameU="Elevated 2" Name="Hochstraße 2"/>
+  <Elem NameU="Tree roads" Name="Drei Straßen"/>
+  <Elem NameU="Cross roads" Name="Kreuzungen"/>
+  <Elem NameU="Straight road 1" Name="Gerade Straße 1"/>
+  <Elem NameU="Straight road 2" Name="Gerade Straße 2"/>
+  <Elem NameU="Corner 1" Name="Ecke 1"/>
+  <Elem NameU="Corner 2" Name="Ecke 2"/>
+  <Elem NameU="Cross walks" Name="Straßenkreuzung"/>
+  <Elem NameU="Road 4" Name="Straße 4"/>
+  <Elem NameU="Bridge" Name="Brücke"/>
+  <Elem NameU="Bridge 2" Name="Brücke 2"/>
+  <Elem NameU="River" Name="Fluss"/>
+  <Elem NameU="Tree 1" Name="Baum 1"/>
+  <Elem NameU="Tree 2" Name="Baum 2"/>
+  <Elem NameU="Pedestrian bridge" Name="Fußgängerbrücke"/>
+  <Elem NameU="One way" Name="Einbahnstraße"/>
+  <Elem NameU="Land 1" Name="Land 1"/>
+  <Elem NameU="Land 2" Name="Land 2"/>
+  <Elem NameU="Land 3" Name="Land 3"/>
+  <Elem NameU="Land 4" Name="Land 4"/>
+  <Elem NameU="Land 5" Name="Land 5"/>
+  <Elem NameU="Land 6" Name="Land 6"/>
+  <Elem NameU="Land 7" Name="Land 7"/>
+  <Elem NameU="Land 8" Name="Land 8"/>
+  <Elem NameU="Land 9" Name="Land 9"/>
+  <Elem NameU="Small Block" Name="Kleiner Block"/>
+  <Elem NameU="Small Block 2" Name="Kleiner Block 2"/>
+  <Elem NameU="Long Block" Name="Langer Block"/>
+  <Elem NameU="Long Block 2" Name="Langer Block 2"/>
+  <Elem NameU="Square Block" Name="Quadratischer Block"/>
+  <Elem NameU="Block" Name="Block"/>
+  <Elem NameU="Block 2" Name="Block 2"/>
+  <Elem NameU="Building Block" Name="Gebäude Block"/>
+  <Elem NameU="House" Name="Häuserblock"/>
+  <Elem NameU="Office" Name="Büro"/>
+  <Elem NameU="Building" Name="Gebäude"/>
+  <Elem NameU="Factory" Name="Fabrik"/>
+  <Elem NameU="Petrol Station" Name="Tankstelle"/>
+  <Elem NameU="Store" Name="Shop"/>
+  <Elem NameU="Hospital" Name="Krankenhaus"/>
+  <Elem NameU="Airport" Name="Flughafen"/>
+  <Elem NameU="Mark" Name="Marke"/>
+</Lib>

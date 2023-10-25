@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Cisco Safe Design Icons">
+    <Elem NameU="Access Point" Name="連通點"/>
+    <Elem NameU="ACI Controller" Name="ACI 控制器"/>
+    <Elem NameU="ACI Leaf Switch" Name="ACI 轉換"/>
+    <Elem NameU="ACI Spine Switch" Name="ACI 轉換2"/>
+    <Elem NameU="Adaptive Security Appliance" Name="自適應安全設備"/>
+    <Elem NameU="Automated System" Name="自動系統"/>
+    <Elem NameU="Blade Server" Name="刀鋒伺服器"/>
+    <Elem NameU="Catalyst Data Center Switch" Name="Catalyst資料中心轉換"/>
+    <Elem NameU="Catalyst Switch Stack" Name="Catalyst堆疊開關"/>
+    <Elem NameU="Corporate Device" Name="組合設備"/>
+    <Elem NameU="Email Security" Number="2" Name="郵件安全"/>
+    <Elem NameU="Firepower Appliance" Name="防火墻設備"/>
+    <Elem NameU="Firewall" Name="防火墻"/>
+    <Elem NameU="Intrustion Detection" Name="入侵檢測"/>
+    <Elem NameU="L3 Switch" Name="L3 轉換"/>
+    <Elem NameU="L2 Switch" Name="L2 轉換"/>
+    <Elem NameU="Load Balancer" Name="負載平衡器"/>
+    <Elem NameU="Mobile Device" Name="手機設備"/>
+    <Elem NameU="Nexus 1kv" Name="Nexus流量1kv"/>
+    <Elem NameU="Nexus Data Center Switch" Name="Nexus資料中心轉換器"/>
+    <Elem NameU="Nexus Fabric Switch" Name="Nexus光釺轉換器"/>
+    <Elem NameU="Nexus Switch" Name="Nexus轉換"/>
+    <Elem NameU="Phone" Name="手機"/>
+    <Elem NameU="Router" Name="路徑"/>
+    <Elem NameU="Server1" Name="伺服器1"/>
+    <Elem NameU="Server2" Name="伺服器2"/>
+    <Elem NameU="Web Security" Name="網頁安全"/>
+    <Elem NameU="WLAN Controller" Name="WLAN連接器"/>
+    <Elem NameU="Wireless Switch" Name="無線網絡"/>
+    <Elem NameU="Wireless Corporate Device" Name="無線網絡組合設備"/>
+    <Elem NameU="User" Name="用戶"/>
+    <Elem NameU="Users" Name="用戶群"/>
+    <Elem NameU="Actor1" Name="角色1"/>
+    <Elem NameU="Actor2" Name="角色2"/>
+    <Elem NameU="Radware" Name="網絡公司Radware"/>
+    <Elem NameU="Blank Device" Name="空白設備"/>
+    <Elem NameU="Blank Service" Name="可用服務"/>
+    <Elem NameU="Call manager" Name="呼叫經理"/>
+    <Elem NameU="Cisco AMP" Name="軟件名Cisco AMP"/>
+    <Elem NameU="Cisco AnyConnect.53" Name="軟件名Cisco AnyConnect.53"/>
+    <Elem NameU="Client Firewall" Name="用戶防火墻"/>
+    <Elem NameU="Encryption Offload" Name="加密卸載"/>
+    <Elem NameU="vLoad- balancer" Name="vLoad平衡器"/>
+    <Elem NameU="Virtual Secure Server" Name="虛擬安全伺服器"/>
+    <Elem NameU="Storage" Name="存儲"/>
+    <Elem NameU="Cisco Cloud Web Security" Name="Cisco雲端儲存網絡安全"/>
+    <Elem NameU="vWeb Security" Name="vWeb安全"/>
+    <Elem NameU="vWLAN Controller" Name="vWLAN連通器"/>
+    <Elem NameU="vWAF Security" Name="vWAF安全"/>
+    <Elem NameU="Interface Label-G1" Name="界面標記 G1"/>
+    <Elem NameU="Interface Label-M0" Name="界面標記 M0"/>
+    <Elem NameU="Interface Label-E1" Name="界面標記 E1"/>
+    <Elem NameU="Mgmt-Uplink" Name="Mgmt-Uplink 軟體"/>
+    <Elem NameU="Label 1" Name="標記 1"/>
+    <Elem NameU="Label 2" Name="標記 2"/>
+    <Elem NameU="Label 3" Name="標記 3"/>
+    <Elem NameU="VLAN Tag" Name="VLAN 標籤"/>
+    <Elem NameU="HSRP" Name="熱備份路由器協議"/>
+</Lib>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="UML Statechart">
+	<Elem NameU="State" Name="狀態"/>
+	<Elem NameU="Submachine State" Name="子機狀態"/>
+	<Elem NameU="Composite State" Name="複合狀態"/>
+	<Elem NameU="Start State" Name="起始狀態"/>
+	<Elem NameU="End State" Name="結束狀態"/>
+	<Elem NameU="Decision" Name="決定"/>
+	<Elem NameU="History" Name="歷史"/>
+	<Elem NameU="Detail History" Name="詳細歷史"/>
+	<Elem NameU="Constraint" Name="約束"/>
+	<Elem NameU="Note" Name="筆記"/>
+	<Elem NameU="Transition (joint)" Name="過渡（聯合）"/>
+	<Elem NameU="Transition (branch)" Name="過渡（分支）"/>
+	<Elem NameU="Transition Arc" Name="過渡弧"/>
+	<Elem NameU="Transition" Name="過渡"/>
+	<Elem NameU="Flow Final" Name="流決賽"/>
+</Lib>

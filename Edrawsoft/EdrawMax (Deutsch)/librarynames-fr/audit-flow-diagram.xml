@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Audit Flow Diagram">
+
+<Elem Name="Processus" NameU="Process"/>
+
+<Elem Name="Décision" NameU="Decision"/>
+
+<Elem Name="I/O" NameU="I/O"/>
+
+<Elem Name="Début/Fin" NameU="Terminator"/>
+
+<Elem Name="Visualisation" NameU="Display"/>
+
+<Elem Name="Retard" NameU="Delay"/>
+
+<Elem Name="Oui ou Non" NameU="Yes or No"/>
+
+<Elem Name="Documents à lignes" NameU="Lined document"/>
+
+<Elem Name="Document multiple" NameU="Multi documents"/>
+
+<Elem Name="Stockage sur disque" NameU="Disk storage"/>
+
+<Elem Name="Base de données" NameU="Database"/>
+
+<Elem Name="Événement" NameU="Event"/>
+
+<Elem Name="Processus balisé" NameU="Tagged Process"/>
+
+<Elem Name="Document balisé" NameU="Tagged Document"/>
+
+<Elem Name="Opération manuelle" NameU="Manual Operation"/>
+
+<Elem Name="Fichier manuel" NameU="Manual File"/>
+
+<Elem Name="Sur la page de référence" NameU="On-page Reference"/>
+
+<Elem Name="Référence hors page" NameU="Off-page Reference"/>
+
+<Elem Name="Processus divisé" NameU="Divided Process"/>
+
+<Elem Name="Multi Proc / doc" NameU="Multi Proc/doc"/>
+
+<Elem Name="Processus ombré ligné" NameU="Lined-shaded Process"/>
+
+<Elem Name="Disquette" NameU="Diskette"/>
+
+<Elem Name="Bande magnétique" NameU="Magnetic Tape"/>
+
+<Elem Name="Transmission de données" NameU="Data Transmission"/>
+
+<Elem Name="Saisie manuelle" NameU="Manual Input"/>
+
+<Elem Name="Check (vérification)" NameU="Check (Audit)"/>
+
+<Elem Name="Comparer" NameU="Compare"/>
+
+<Elem Name="Événement divisé" NameU="Divided Event"/>
+
+<Elem Name="Titre Block" NameU="Title Block"/>
+
+<Elem Name="Note" NameU="Note"/>
+
+<Elem Name="Point de référence" NameU="Reference Point"/>
+
+<Elem Name="Connecteur de courbe" NameU="Curve connector"/>
+
+</Lib>

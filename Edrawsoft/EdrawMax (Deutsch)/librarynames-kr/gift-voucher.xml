@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Gift Voucher">
+    <Elem NameU="Gift Ribbon" Name="선물 리본"/>
+    <Elem NameU="Gift Ribbon 2" Name="선물 리본 2"/>
+    <Elem NameU="Gift Ribbon 3" Name="선물 리본 3"/>
+    <Elem NameU="Gift Ribbon 4" Name="선물 리본 4"/>
+    <Elem NameU="Gift Ribbon 5" Name="선물 리본 5"/>
+    <Elem NameU="Gift Ribbon 6" Name="선물 리본 6"/>
+    <Elem NameU="Bow" Name="리본"/>
+    <Elem NameU="Bow 2" Name="리본 2"/>
+    <Elem NameU="Price Tag" Name="가격 태그"/>
+    <Elem NameU="Price Tag 2" Name="가격 태그 2"/>
+    <Elem NameU="Price Tag 3" Name="가격 태그 3"/>
+    <Elem NameU="Price Sticker" Name="가격 스티커"/>
+    <Elem NameU="Price Sticker 2" Name="가격 스티커 2"/>
+    <Elem NameU="Price Sticker 3" Name="가격 스티커 3"/>
+    <Elem NameU="Price Sticker 4" Name="가격 스티커 4"/>
+    <Elem NameU="Price Sticker 5" Name="가격 스티커 5"/>
+    <Elem NameU="Gift" Name="선물"/>
+    <Elem NameU="Gift 2" Name="선물 2"/>
+    <Elem NameU="Thank You Tag" Name="감사 태그"/>
+    <Elem NameU="Price Up" Name="가격 인상"/>
+    <Elem NameU="Price Down" Name="가격 인하"/>
+    <Elem NameU="Sale Tag" Name="세일 태그"/>
+    <Elem NameU="Sale Tag 2" Name="세일 태그 2"/>
+    <Elem NameU="Sale Banner" Name="세일 배너"/>
+    <Elem NameU="Ribbons" Name="리본"/>
+    <Elem NameU="Ribbons 2" Name="리본 2"/>
+    <Elem NameU="Ribbons 3" Name="리본 3"/>
+</Lib>

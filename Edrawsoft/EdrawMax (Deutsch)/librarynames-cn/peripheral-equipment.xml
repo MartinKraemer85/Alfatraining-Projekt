@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Peripheral Equipment">
+    <Elem NameU="Airport Express" Name="充电器"/>
+    <Elem NameU="Camera 1" Name="相机 1"/>
+    <Elem NameU="Camera 2" Name="相机 2"/>
+    <Elem NameU="CRT Projector" Name="CRT 投影仪"/>
+    <Elem NameU="Copier" Name="复印机"/>
+    <Elem NameU="Data Center" Name="数据中心"/>
+    <Elem NameU="Digital Telephone" Name="数字电话"/>
+    <Elem NameU="Earphone" Name="耳机"/>
+    <Elem NameU="Fax" Name="传真机"/>
+    <Elem NameU="Keyboard" Name="键盘"/>
+    <Elem NameU="Microphone" Name="麦克风"/>
+    <Elem NameU="Omnidirectional microphone" Name="全向麦克风"/>
+    <Elem NameU="Telephone conference terminal" Name="电话会议终端"/>
+    <Elem NameU="Mobile HDD" Name="移动硬盘"/>
+    <Elem NameU="Mouse" Name="鼠标"/>
+    <Elem NameU="Mouse 2" Name="鼠标 2"/>
+    <Elem NameU="Projector" Name="放映机"/>
+    <Elem NameU="Multi-function Device" Name="多功能一体机"/>
+    <Elem NameU="Plotter" Name="绘图机"/>
+    <Elem NameU="Printer" Name="打印机"/>
+    <Elem NameU="Scanner" Name="扫描机"/>
+    <Elem NameU="Screen" Name="演示屏"/>
+    <Elem NameU="Speakers" Name="音响"/>
+    <Elem NameU="Telephone" Name="电话"/>
+    <Elem NameU="Visual telephone" Name="可视电话"/>
+    <Elem NameU="Memory card" Name="存储卡"/>
+    <Elem NameU="U Disk" Name="U盘"/>
+    <Elem NameU="Web Camera" Name="网络摄像头"/>
+    <Elem NameU="Credit card machine" Name="刷卡机"/>
+    <Elem NameU="Amplifier" Name="扩音器"/>
+    <Elem NameU="DVD" Name="数字化视频光盘"/>
+    <Elem NameU="Mixer" Name="混频器"/>
+    <Elem NameU="Server" Name="服务器"/>
+</Lib>

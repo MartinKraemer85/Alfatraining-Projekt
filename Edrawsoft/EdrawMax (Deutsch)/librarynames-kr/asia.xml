@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Asia">
+    <Elem NameU="Afghanistan" Name="아프가니스탄"/>
+    <Elem NameU="Armenia" Name="아르메니아"/>
+    <Elem NameU="Azerbaijan" Name="아제르바이잔"/>
+    <Elem NameU="Bahrain" Name="바레인"/>
+    <Elem NameU="Bangladesh" Name="방글라데시"/>
+    <Elem NameU="Bhutan" Name="부탄"/>
+    <Elem NameU="Brunei" Name="브루나이"/>
+    <Elem NameU="Burma (Myanmar)" Name="미얀마"/>
+    <Elem NameU="Cambodia" Name="캄보디아"/>
+    <Elem NameU="China" Name="중국"/>
+    <Elem NameU="Cyprus" Name="키프로스"/>
+    <Elem NameU="Oman" Name="오만"/>
+    <Elem NameU="Georgia" Name="그루지야"/>
+    <Elem NameU="India" Name="인도"/>
+    <Elem NameU="Indonesia" Name="印尼"/>
+    <Elem NameU="Iran" Name="이란"/>
+    <Elem NameU="Iraq" Name="이라크"/>
+    <Elem NameU="Israel" Name="이스라엘"/>
+    <Elem NameU="Japan" Name="일본"/>
+    <Elem NameU="Jordan" Name="요르단"/>
+    <Elem NameU="Kazakhstan" Name="카자흐스탄"/>
+    <Elem NameU="Kuwait" Name="쿠웨이트"/>
+    <Elem NameU="Kyrgyzstan" Name="키르기스스탄"/>
+    <Elem NameU="Laos" Name="라오스"/>
+    <Elem NameU="Lebanon" Name="레바논"/>
+    <Elem NameU="Malaysia" Name="말레이시아"/>
+    <Elem NameU="Pakistan" Name="파키스탄"/>
+    <Elem NameU="Papua New Guinea" Name="파푸아 뉴기니"/>
+    <Elem NameU="Philippines" Name="필리핀"/>
+    <Elem NameU="Qatar" Name="카타르"/>
+    <Elem NameU="Saudi Arabia" Name="사우디 아라비아"/>
+    <Elem NameU="Singapore" Name="싱가폴"/>
+    <Elem NameU="South Korea" Name="한국"/>
+    <Elem NameU="North Korea" Name="북한"/>
+    <Elem NameU="Sri Lanka" Name="스리랑카"/>
+    <Elem NameU="Syria" Name="시리아"/>
+    <Elem NameU="Thailand" Name="태국"/>
+    <Elem NameU="Turkey" Name="터키"/>
+    <Elem NameU="Turkmenistan" Name="투르크 메니스탄"/>
+    <Elem NameU="United Arab Emirates" Name="아랍 에미리트"/>
+    <Elem NameU="Uzbekistan" Name="우즈베키스탄"/>
+    <Elem NameU="Vietnam" Name="베트남"/>
+    <Elem NameU="Yemen" Name="예멘"/>
+    <Elem NameU="Aral Sea" Name="아랄 해"/>
+    <Elem NameU="Caspian Sea" Name="카스피 해"/>
+    <Elem NameU="Lake Balkhash" Name="발카쉬 호수"/>
+    <Elem NameU="China and Mongolia" Name="중국과 몽골"/>
+    <Elem NameU="Central Asia" Name="중앙 아시아"/>
+    <Elem NameU="Southeast Asia" Name="동남 아시아"/>
+    <Elem NameU="Middle east Asia" Name="중동 아시아"/>
+    <Elem NameU="Southern Asia" Name="남아시아"/>
+    <Elem NameU="East Asia" Name="동아시아"/>
+</Lib>

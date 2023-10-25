@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Electrical Science">
+	<Elem NameU="Power Supply" Number="3" Name="电源"/>
+	<Elem NameU="Switch" Number="5" Name="开关"/>
+	<Elem NameU="SPST" Name="单刀单掷开关"/>
+	<Elem NameU="Battery" Name="电池"/>
+	<Elem NameU="Electroscope" Name="验电器"/>
+	<Elem NameU="Light Bulb" Number="10" Name="灯泡"/>
+	<Elem NameU="Voltmeter" Number="4" Name="电压表"/>
+	<Elem NameU="Ammeter" Number="2" Name="电流表"/>
+	<Elem NameU="Amperometer" Number="2" Name="电流表"/>
+	<Elem NameU="Voltmeter 1" Name="电压表 1"/>
+	<Elem NameU="Voltmeter 2" Name="电压表 2"/>
+	<Elem NameU="Ammeter 1" Name="电流表 1"/>
+	<Elem NameU="Ammeter 2" Name="电流表 2"/>
+	<Elem NameU="Resistance" Name="电阻"/>
+	<Elem NameU="Resistance1" Name="电阻1"/>
+	<Elem NameU="Resistance2" Name="电阻2"/>
+	<Elem NameU="Sliding Rheostat" Name="滑动变阻器"/>
+	<Elem NameU="Two Hole Socket" Name="双孔插座"/>
+	<Elem NameU="Three Hole Socket" Name="三孔插座"/>
+	<Elem NameU="Electric Bell" Number="2" Name="电铃"/>
+	<Elem NameU="Diode LED" Name="二极管LED"/>
+	<Elem NameU="Diode" Name="二极管"/>
+	<Elem NameU="Contact" Name="接触器"/>
+	<Elem NameU="Accumulator" Name="蓄电池"/>
+	<Elem NameU="Earth electrode" Name="接地电极"/>
+	<Elem NameU="Protected earth electrode" Name="保护接地电极"/>
+	<Elem NameU="Inductor" Name="电感器"/>
+	<Elem NameU="Electric Motor" Name="电动机"/>
+	<Elem NameU="Key Switch" Name="按键开关"/>
+	<Elem NameU="Pull Switch" Name="拉线开关"/>
+</Lib>

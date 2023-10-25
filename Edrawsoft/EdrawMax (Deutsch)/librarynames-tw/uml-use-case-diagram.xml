@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="UML Use Case Diagram">
+    <Elem NameU="Actor" Name="角色"/>
+    <Elem NameU="Use Case" Name="用例"/>
+    <Elem NameU="Use Case with Extention Points" Name="帶擴展點的用例"/>
+    <Elem NameU="Use Case with Extension Points" Name="帶擴展點的用例"/>
+    <Elem NameU="System Container" Name="系統容器"/>
+    <Elem NameU="System Actor" Name="系統參與者"/>
+    <Elem NameU="Collaboration" Name="協作"/>
+    <Elem NameU="Note" Name="注釋"/>
+    <Elem NameU="Association" Name="協會"/>
+    <Elem NameU="Generalization" Name="泛化"/>
+    <Elem NameU="Include" Name="包含"/>
+    <Elem NameU="Extend" Name="擴展"/>
+    <Elem NameU="Interface" Name="接口"/>
+    <Elem NameU="Right-angle Connector" Name="直角連接"/>
+</Lib>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Doors and Windows">
+	<Elem NameU="Window" Name="Finestra"/>
+	<Elem NameU="Open Window" Name="Finestra Aperta"/>
+	<Elem NameU="Glider Window" Name="Finestra Scorrevole"/>
+	<Elem NameU="Casement Window" Name="Finestra Intelaiata"/>
+	<Elem NameU="Bay window" Name="Vetrina"/>
+	<Elem NameU="Double Casement Window" Name="Finestra Doppia Intelaiata"/>
+	<Elem NameU="Opening" Name="Apertura"/>
+	<Elem NameU="Door" Name="Porta"/>
+	<Elem NameU="Double Hung Door" Name="Porta Doppia Incardinata"/>
+	<Elem NameU="Double Door" Name="Porta Doppia"/>
+	<Elem NameU="Uneven Door" Name="Porta non Uniforme"/>
+	<Elem NameU="Opposing Door" Name="Porta Opposta"/>
+	<Elem NameU="Revolving Door" Name="Porta Girevole"/>
+	<Elem NameU="Sliding Door" Name="Porta Scorrevole"/>
+	<Elem NameU="Double Sliding Door" Name="Porta Doppia Scorrevole"/>
+	<Elem NameU="By-pass Door" Name="Porta con By-pass"/>
+	<Elem NameU="Bi-fold Door" Name="Porta Pieghevole"/>
+	<Elem NameU="Double Bi-fold Door" Name="Porta Pieghevole Doppia"/>
+	<Elem NameU="Sliding Glass Door" Name="Porta Scorrevole di Vetro"/>
+	<Elem NameU="Overhead Door" Name="Porta a Scorrimento Rialzato"/>
+	<Elem NameU="Garden Window" Name="Finestra da Giardino"/>
+	<Elem NameU="Folding Door " Name="Porta Pieghevole"/>
+</Lib>

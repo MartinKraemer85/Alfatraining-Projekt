@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="GCP Extras">
+
+<Elem Name="アプリケーションプログラム" NameU="Application Program"/>
+
+<Elem Name="青い六角形" NameU="Blue hexagon"/>
+
+<Elem Name="クラウドIoTのコア" NameU="Cloud IoT core"/>
+
+<Elem Name="クラウドデータフロー" NameU="Cloud dataflow"/>
+
+<Elem Name="クラウドデータサービス" NameU="Cloud data service"/>
+
+<Elem Name="計算手順" NameU="Computational procedure"/>
+
+<Elem Name="マネージャーアプリケーション" NameU="Manager application"/>
+
+<Elem Name="抵抗暗号化" NameU="Forseti encryption"/>
+
+<Elem Name="ォルセティのアイコン" NameU="Forseti icons"/>
+
+<Elem Name="標準なGCP" NameU="Genaral GCP"/>
+
+<Elem Name="Googleのクラウドプラットフォーム" NameU="Google cloud platform"/>
+
+<Elem Name="GCP暗号化" NameU="GCP encryption"/>
+
+<Elem Name="Kubernetesアイコン" NameU="Kubernetes icons"/>
+
+<Elem Name="Kubernetes" NameU="Kubernetes"/>
+
+<Elem Name="スケーリング自動編集" NameU="Modifier autoscaling"/>
+
+<Elem Name="修飾子仮想カスタムプログラム" NameU="Modifier Virtual custom program"/>
+
+<Elem Name="修飾子の高度なCPU手順" NameU="Modifier advanced CPU procedure"/>
+
+<Elem Name="修飾子の高度なメモリ手順" NameU="Modifier advanced memory procedure"/>
+
+<Elem Name="修飾子vm" NameU="Modifier used vm"/>
+
+<Elem Name="モディファイア共有センターの手順F1" NameU="Modifier share center procedure F1"/>
+
+<Elem Name="モディファイア共有センターの手順G1" NameU="Modifier share center procedure G1"/>
+
+<Elem Name="修飾子の標準手順" NameU="Modifier standard procedure"/>
+
+<Elem Name="ストレージの変更" NameU="Modifier storage"/>
+
+<Elem Name="予測API" NameU="Prediction API"/>
+
+<Elem Name="tensorFlowアイコン" NameU="TensorFlow Icon"/>
+
+</Lib>

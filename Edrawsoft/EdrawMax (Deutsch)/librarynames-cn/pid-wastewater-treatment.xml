@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Wastewater Treatment">
+    <Elem NameU="Absorber" Name="吸收器"/>
+    <Elem NameU="Aeration basin 1" Name="曝气池 1"/>
+    <Elem NameU="Aeration basin 2" Name="曝气池 2"/>
+    <Elem NameU="Aeration digester 1" Name="曝气消化池 1"/>
+    <Elem NameU="Aeration digester 2" Name="曝气消化池 2"/>
+    <Elem NameU="Air diffuser system" Name="空气扩散装置"/>
+    <Elem NameU="Anaerobic sequencing batch reactor" Name="厌氧序批式反应器"/>
+    <Elem NameU="Asphalt filter" Name="沥青过滤器"/>
+    <Elem NameU="Bag filtration system" Name="袋式过滤器"/>
+    <Elem NameU="Belt filter press" Name="带式压滤机"/>
+    <Elem NameU="Biological treatment plant" Name="生物处理设备"/>
+    <Elem NameU="Blue filter" Name="蓝色过滤器"/>
+    <Elem NameU="Bubble diffuser in sludge tank" Name="污水槽气泡扩散器"/>
+    <Elem NameU="Carbon absorber" Name="碳吸收器"/>
+    <Elem NameU="Chemical feeder" Name="化学品加料机"/>
+    <Elem NameU="Central Water Softener" Name="中央软水器"/>
+    <Elem NameU="Central Water Purifier" Name="中央净水器"/>
+    <Elem NameU="Civic Tap Water" Name="民用自来水"/>
+    <Elem NameU="Chlorinator" Name="加氯器"/>
+    <Elem NameU="Clarifier (side view)" Name="澄清器（侧面）"/>
+    <Elem NameU="Clarifier 1" Name="澄清器 1"/>
+    <Elem NameU="Clarifier 2" Name="澄清器 2"/>
+    <Elem NameU="Clarifier and thickener drive" Name="澄清器和浓缩器"/>
+    <Elem NameU="Clarifier with recarb tank" Name="带罐澄清器"/>
+    <Elem NameU="Clean water system" Number="2" Name="净水系统"/>
+    <Elem NameU="Close-coupled self-primer" Name="紧密耦合自吸泵"/>
+    <Elem NameU="Containment basin" Name="储水池"/>
+    <Elem NameU="Covered dome tank" Name="圆顶水箱"/>
+    <Elem NameU="Cooling tower make up" Name="冷却塔组"/>
+    <Elem NameU="Dewatering system" Name="排水系统"/>
+    <Elem NameU="Digester" Name="消化池"/>
+    <Elem NameU="Disc and drum filter" Name="鼓式过滤器"/>
+    <Elem NameU="Dissolved air flotation" Name="溶气浮选装置"/>
+    <Elem NameU="Drying system" Name="干燥装置"/>
+    <Elem NameU="Digester gas tanks" Name="油箱消化池"/>
+    <Elem NameU="Elevated tank 1" Name="高位槽 1"/>
+    <Elem NameU="Elevated tank 2" Name="高位槽 2"/>
+    <Elem NameU="Elevated tank 3" Name="高位槽 3"/>
+    <Elem NameU="Elevated tank 4" Name="高位槽 4"/>
+    <Elem NameU="Environmental gas process" Name="气体处理"/>
+    <Elem NameU="Explosion-proof enclosure" Name="防爆维护"/>
+    <Elem NameU="Filter housing" Name="过滤器外壳"/>
+    <Elem NameU="Filter press" Name="压榨过滤机"/>
+    <Elem NameU="Filter" Name="过滤器"/>
+    <Elem NameU="Filter 2" Name="过滤器 2"/>
+    <Elem NameU="Filter 3" Name="过滤器 3"/>
+    <Elem NameU="Filter 4" Name="过滤器 4"/>
+    <Elem NameU="Flocculators" Name="絮凝器"/>
+    <Elem NameU="Flow gate" Name="流阀"/>
+    <Elem NameU="Flume" Name="引水渠"/>
+    <Elem NameU="Fluted elevated tank" Name="高位槽"/>
+    <Elem NameU="Giant skeeter" Name="大蜻蜓"/>
+    <Elem NameU="Gravity belt thickener" Name="重力带式机械浓缩机"/>
+    <Elem NameU="Grit chamber" Name="沉砂池"/>
+    <Elem NameU="Incinerator" Name="焚化炉"/>
+    <Elem NameU="Inclined plate clarifier " Name="斜板澄清器"/>
+    <Elem NameU="Liquid solution feeder" Name="溶液给料机"/>
+    <Elem NameU="Low-speed aerator drive for wastewater treatment" Name="低速通风废水处理"/>
+    <Elem NameU="Luxury Pipeline Machines" Name="豪华立式管线机"/>
+    <Elem NameU="Land" Name="地面"/>
+    <Elem NameU="Main Engine of Reverse Osmosis" Name="反渗透主机"/>
+    <Elem NameU="Membranes" Name="滤膜"/>
+    <Elem NameU="Micro screen" Name="超微细筛机"/>
+    <Elem NameU="Motorized flow gate (closed)" Name="电动阀式浇口（关闭）"/>
+    <Elem NameU="Motorized flow gate (open)" Name="电动阀式浇口（打开）"/>
+    <Elem NameU="Oil skimmer" Name="浮油回收器"/>
+    <Elem NameU="Oil-water separator 1" Name="油水分离器 1"/>
+    <Elem NameU="Oil-water separator 2" Name="油水分离器 2"/>
+    <Elem NameU="Oily water separation and recycling system" Name="油水分离和回收装置"/>
+    <Elem NameU="Oxygen generator" Name="制氧机"/>
+    <Elem NameU="Paddle dryer" Name="桨式干燥机"/>
+    <Elem NameU="Plate clarifier" Name="板式澄清器"/>
+    <Elem NameU="Polymer injection system" Name="聚合物注入装置"/>
+    <Elem NameU="Polymer mixing system" Name="聚合物混合装置"/>
+    <Elem NameU="Precision Filter" Name="精细过滤器"/>
+    <Elem NameU="Pre-filter" Name="预滤器"/>
+    <Elem NameU="Primary clarifier" Name="主澄清器"/>
+    <Elem NameU="Rotary drum thickener" Name="转鼓浓缩机"/>
+    <Elem NameU="Screen" Name="筛子"/>
+    <Elem NameU="Screw drive" Name="螺杆传动"/>
+    <Elem NameU="Scrubber module" Name="洗涤器设备"/>
+    <Elem NameU="Simple elevated tank" Name="简单高位槽"/>
+    <Elem NameU="Simple evaporator" Name="简单蒸发器"/>
+    <Elem NameU="Simple filter 1" Name="过滤器 5"/>
+    <Elem NameU="Simple filter 2" Name="过滤器 6"/>
+    <Elem NameU="Sludge digester" Name="污泥消化池"/>
+    <Elem NameU="Sludge lagoon" Name="污泥塘"/>
+    <Elem NameU="Spherical storage tank 1" Name="球形储罐 1"/>
+    <Elem NameU="Spherical storage tank 2" Name="球形储罐 2"/>
+    <Elem NameU="Spigot" Name="水龙头"/>
+    <Elem NameU="Submersible mixer" Name="潜水式搅拌器"/>
+    <Elem NameU="Treatment basin" Name="处理池"/>
+    <Elem NameU="Treatment tanks" Name="处理罐"/>
+    <Elem NameU="Vacuum filter" Name="真空过滤器"/>
+    <Elem NameU="Wash water treatment and recovery system" Name="洗水处理和回收系统"/>
+    <Elem NameU="Wastewater evaporator" Name="废水蒸发器"/>
+    <Elem NameU="Wastewater grinder" Name="废水研磨机"/>
+    <Elem NameU="Wastewater tank" Name="污水罐"/>
+    <Elem NameU="Water filter" Name="滤水器"/>
+    <Elem NameU="Water treatment basins (top view)" Name="水处理池（俯视）"/>
+    <Elem NameU="Water treatment plant" Name="水处理厂"/>
+    <Elem NameU="Water treatment storage" Name="水处理罐"/>
+    <Elem NameU="Water treatment system" Name="水处理系统"/>
+    <Elem NameU="Wet dust collector" Name="湿式收尘器"/>
+    <Elem NameU="Bathtub" Name="浴缸"/>
+    <Elem NameU="Shower head" Name="喷头"/>
+    <Elem NameU="Water purifier" Name="净水器"/>
+    <Elem NameU="Sedimentation Basin" Name="沉淀池"/>
+    <Elem NameU="Settling tank" Name="沉淀池 2"/>
+    <Elem NameU="Sludge thickener" Name="污泥浓缩池"/>
+    <Elem NameU="Water channel" Name="水渠"/>
+    <Elem NameU="Pond" Name="池塘"/>
+    <Elem NameU="Drain" Name="排水池"/>
+    <Elem NameU="Hydrolysis of grit chamber" Name="水解沉砂池"/>
+    <Elem NameU="Hydrolyzation &amp; Acidification Pool" Name="水解酸化池"/>
+    <Elem NameU="Ash disposal pond" Name="灰处理池"/>
+    <Elem NameU="Reservoir" Name="蓄水池"/>
+    <Elem NameU="Biological reaction tank" Name="生物反应池"/>
+    <Elem NameU="Container" Name="容器"/>
+    <Elem NameU="Hydrocyclone" Name="旋液分离器"/>
+    <Elem NameU="Evaporator" Name="蒸发器"/>
+    <Elem NameU="Evaporation" Name="蒸发装置"/>
+    <Elem NameU="Filling Machine" Name="灌装机"/>
+    <Elem NameU="Small Bottle" Name="小瓶灌装机"/>
+    <Elem NameU="Grille" Name="格栅"/>
+</Lib>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Qualifying Symbols">
+    <Elem NameU="Preset, general" Name="預置"/>
+    <Elem NameU="Temperature dependence" Name="溫度相關"/>
+    <Elem NameU="Radiation" Name="輻射"/>
+    <Elem NameU="Material" Name="材料"/>
+    <Elem NameU="Pulse" Name="脈衝"/>
+    <Elem NameU="Alternating pulse" Name="交替脈衝"/>
+    <Elem NameU="Step function" Name="階躍函數"/>
+    <Elem NameU="Step function 2" Name="階躍函數 2"/>
+    <Elem NameU="Square wave" Name="方波"/>
+    <Elem NameU="Sawtooth" Name="鋸齒波"/>
+    <Elem NameU="Sawtooch 2" Name="鋸齒波 2"/>
+    <Elem NameU="Sine wave" Name="正弦波"/>
+    <Elem NameU="Chopped square wave" Name="截方波"/>
+    <Elem NameU="Square wave" Name="方波"/>
+    <Elem NameU="Positive polarity" Name="正極性"/>
+    <Elem NameU="Negative polarity" Name="負極性"/>
+    <Elem NameU="Alternating current" Name="交流電"/>
+    <Elem NameU="Neutral symbol" Name="中性符號"/>
+    <Elem NameU="Midware symbol" Name="中間件符號"/>
+    <Elem NameU="Multiple-phase" Name="多相"/>
+    <Elem NameU="3 separate windings" Name="3 個分離繞組"/>
+    <Elem NameU="2-phase 3-wire" Name="兩相三線"/>
+    <Elem NameU="2-phase 4-wire" Name="兩相四線"/>
+    <Elem NameU="3-phase (V)" Name="三相(V 形)"/>
+    <Elem NameU="3-Phase (T)" Name="三相(T 形)"/>
+    <Elem NameU="3-phase Delta 1" Name="三相三角連接 1"/>
+    <Elem NameU="3-phase Delta 2" Name="三相三角連接 2"/>
+    <Elem NameU="3-phase Delta 3" Name="三相三角連接 3"/>
+    <Elem NameU="3-phase Delta 4" Name="三相三角連接 4"/>
+    <Elem NameU="3-phase star" Name="三相星形連接"/>
+    <Elem NameU="3-phase zigzag" Name="三相之字繞組"/>
+    <Elem NameU="3-phase 4-wire" Name="三相四線"/>
+    <Elem NameU="4-phase" Name="四相"/>
+    <Elem NameU="6-phase double star" Name="六相雙星形"/>
+    <Elem NameU="6-phase double delta" Name="六相雙三角形"/>
+    <Elem NameU="6-phase hexagonal" Name="六相六角形"/>
+    <Elem NameU="6-phase fork" Name="六相叉式"/>
+    <Elem NameU="One-way signal" Name="單向信號"/>
+    <Elem NameU="Either way signal" Name="任意方向信號"/>
+    <Elem NameU="Both ways signal" Name="雙向信號"/>
+    <Elem NameU="Analog signals" Name="模擬信號"/>
+    <Elem NameU="Digital signals" Name="數字信號"/>
+    <Elem NameU="Special connector" Name="特殊連接線"/>
+    <Elem NameU="Coaxial symbol" Name="同軸符號"/>
+    <Elem NameU="Electret" Name="駐極體"/>
+</Lib>

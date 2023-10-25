@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Infographic Charts">
+
+<Elem Name="Barres" NameU="Bar Chart"/>
+
+<Elem Name="Histogramme" NameU="Column Chart"/>
+
+<Elem Name="Secteur" NameU="Pie"/>
+
+<Elem Name="Anneau" NameU="Doughnut"/>
+
+<Elem Name="Indicateur en cercle" NameU="Circle Indicator"/>
+
+<Elem Name="Indicateur semi-circulaire" NameU="Semicircular Indicator"/>
+
+<Elem Name="Indicateur en barre" NameU="Bar Indicator"/>
+
+<Elem Name="Indicateur de la colonne" NameU="Column Indicator"/>
+
+<Elem Name="Indicateur de batterie" NameU="Battery Indicator"/>
+
+<Elem Name="Indicateur de pourcentage" NameU="Percentage Indicator"/>
+
+<Elem Name="Graphique d'horloge" NameU="Clock Chart"/>
+
+<Elem Name="Femme" NameU="Woman"/>
+
+<Elem Name="Homme" NameU="Man"/>
+
+<Elem Name="Hommes" NameU="Men"/>
+
+<Elem Name="Femmes" NameU="Women"/>
+
+<Elem Name="Personnes" NameU="People"/>
+
+<Elem Name="Tableau des tubes à essai" NameU="Test Tube Chart"/>
+
+<Elem Name="Tableau des gouttes d'eau" NameU="Water Drop Chart"/>
+
+<Elem Name="Flèche vers le haut" NameU="Up Arrow"/>
+
+<Elem Name="Aimer Pouce" NameU="Like Thumb"/>
+
+<Elem Name="Tableau d'analyse des données" NameU="Data Analysis Table"/>
+
+<Elem Name="Échelle" NameU="Scale Map"/>
+
+<Elem Name="Graphique du cercle empilé" NameU="Stacked Circle Chart"/>
+
+<Elem Name="Tarte aux roses" NameU="Rose Pie"/>
+
+</Lib>

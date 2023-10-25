@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Conceptual Website Shapes">
+    <Elem NameU="Main page" Name="메인 페이지"/>
+    <Elem NameU="Page" Name="페이지"/>
+    <Elem NameU="Pages" Name="페이지"/>
+    <Elem NameU="External page" Name="외부 페이지"/>
+    <Elem NameU="Page element" Name="페이지 요소"/>
+    <Elem NameU="Page elements" Name="페이지 요소"/>
+    <Elem NameU="External page element" Name="외부 페이지 요소"/>
+    <Elem NameU="Service" Name="서비스"/>
+    <Elem NameU="Database" Name="데이터베이스"/>
+    <Elem NameU="Popup" Name="팝업"/>
+    <Elem NameU="Form" Name="표"/>
+    <Elem NameU="Cloud" Name="클라우드"/>
+    <Elem NameU="Related pages" Name="연관 페이지"/>
+    <Elem NameU="Dynamic connector" Name="다이나믹 연결선"/>
+    <Elem NameU="Home page" Name="홈페이지"/>
+    <Elem NameU="Page jump" Name="페이지 뛰어넘기"/>
+    <Elem NameU="Gateway" Name="게이트웨이"/>
+    <Elem NameU="Keypath" Name="키 경로"/>
+</Lib>

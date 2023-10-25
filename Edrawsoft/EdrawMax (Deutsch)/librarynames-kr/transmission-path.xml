@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Transmission Path">
+    <Elem NameU="Wire" Number="2" Name="선"/>
+    <Elem NameU="Multi-line bus" Name="다선 버스"/>
+    <Elem NameU="Multi-line bus elbow" Name="다선 버스 엘보"/>
+    <Elem NameU="Straight bus" Name="직행 버스"/>
+    <Elem NameU="Elbow bus" Number="2" Name="엘보 버스"/>
+    <Elem NameU="Junction" Name="접점"/>
+    <Elem NameU="Junction/ crossing" Name="접점/교차점"/>
+    <Elem NameU="Terminal" Name="터미널"/>
+    <Elem NameU="Terminal list" Name="터미널 목록"/>
+    <Elem NameU="Terminal block" Name="터미널 블록"/>
+    <Elem NameU="Terminal 3-phase" Name="터미널 3상"/>
+    <Elem NameU="Test point" Name="테스트 포인트"/>
+    <Elem NameU="Label" Name="레이블"/>
+    <Elem NameU="Transmission path" Number="4" Name="전송 경로"/>
+    <Elem NameU="Left direction flow" Name="흐름 방향 왼쪽"/>
+    <Elem NameU="Right direction flow" Name="흐름 방향 오른쪽"/>
+    <Elem NameU="Outware flow" Name="아웃웨어 흐름"/>
+    <Elem NameU="Inware flow" Name="인웨어 흐름"/>
+    <Elem NameU="Line / Cable" Name="전선/케이블"/>
+    <Elem NameU="Underground cable" Name="지하 케이블"/>
+    <Elem NameU="Submarine cable" Name="해저 케이블"/>
+    <Elem NameU="Loaded cable" Name="로드 케이블"/>
+    <Elem NameU="Optical cable" Name="광 케이블"/>
+    <Elem NameU="Cable termination" Name="케이블 종단"/>
+    <Elem NameU="Lead group" Name="리드 그룹"/>
+    <Elem NameU="2 conductors cable" Name="2 개의 도체 케이블"/>
+    <Elem NameU="Cable group" Name="케이블 그룹"/>
+    <Elem NameU="Anticreepage device" Name="크리피지 방지 장치"/>
+    <Elem NameU="Line concentrator" Name="라인 집중 장치"/>
+    <Elem NameU="Overground enclosure" Name="지상 인클로저"/>
+    <Elem NameU="Telephone line" Name="전화선"/>
+    <Elem NameU="Telegraphy line" Name="전신선"/>
+    <Elem NameU="Video line" Name="비디오 라인"/>
+    <Elem NameU="Two-wire line" Name="2선식"/>
+    <Elem NameU="Four-wire line" Name="4선식"/>
+    <Elem NameU="Bus width" Name="버스 너비"/>
+</Lib>

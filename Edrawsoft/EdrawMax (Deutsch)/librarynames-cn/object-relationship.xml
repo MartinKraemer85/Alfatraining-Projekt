@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Object Relationship">
+    <Elem NameU="Entity" Name="实体"/>
+    <Elem NameU="Relationship" Name="关系"/>
+    <Elem NameU="View" Name="视图"/>
+    <Elem NameU="Parent to category" Name="父表与类别"/>
+    <Elem NameU="Category" Name="类别"/>
+    <Elem NameU="Data store" Name="数据存储"/>
+    <Elem NameU="Category to child" Name="类别与子表"/>
+    <Elem NameU="Table inheritance" Name="表继承"/>
+    <Elem NameU="Type" Name="类型"/>
+    <Elem NameU="Type inheritance" Name="类型继承"/>
+    <Elem NameU="Dynamic connector" Name="动态连接线"/>
+</Lib>

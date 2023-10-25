@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Equipment-Crushers">
+    <Elem NameU="Crusher" Name="분쇄기"/>
+    <Elem NameU="Coarse crushers" Name="거친 분쇄기"/>
+    <Elem NameU="Medium crushers" Name="중형 분쇄기"/>
+    <Elem NameU="Fine crushers" Name="미세 분쇄기"/>
+    <Elem NameU="Various crushers" Name="다양한 분쇄기 "/>
+    <Elem NameU="Hammer crusher" Name="해머 분쇄기"/>
+    <Elem NameU="Impact crusher" Name="임팩트 분쇄기"/>
+    <Elem NameU="Jaw crusher" Name="죠 분쇄기"/>
+    <Elem NameU="Roller crusher" Name="롤러 분쇄기"/>
+    <Elem NameU="Cone crusher" Name="원추형 분쇄기"/>
+    <Elem NameU="Vibration crusher" Name="진동 분쇄기"/>
+    <Elem NameU="Hammer crusher" Name="해머 분쇄기"/>
+</Lib>

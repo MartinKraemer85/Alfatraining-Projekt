@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="PID Valves">
+	<Elem NameU="Ball valve" Name="Válvula de esfera"/>
+	<Elem NameU="Check valve horiz" Name="Válvula de retenção horizontal"/>
+	<Elem NameU="Check valve vert" Name="Válvula de retenção vertical"/>
+	<Elem NameU="Ctrl valve" Name="Válvula de controle"/>
+	<Elem NameU="Ctrl valve flange" Name="Flange de válvula de controle"/>
+	<Elem NameU="Ctrl valve gray fit" Name="Ajuste cinzento de válvula de controle"/>
+	<Elem NameU="Ctrl valve horiz" Name="Válvula de controle horizontal"/>
+	<Elem NameU="Ctrl valve vert" Name="Válvula de controle vertical"/>
+	<Elem NameU="Cindervalve" Name="Cindervalve"/>
+	<Elem NameU="Hand valve 1" Name="Válvula manual 1"/>
+	<Elem NameU="Hand valve 2" Name="Válvula manual 2"/>
+	<Elem NameU="Motor valve" Name="Válvula a motor"/>
+	<Elem NameU="Pinch valve" Name="Válvula de aperto"/>
+	<Elem NameU="Plastic swing check valve" Name="Válvula de retenção de oscilação plástica"/>
+	<Elem NameU="PVC two-way valve" Name="Válvula de duas-vias PVC"/>
+	<Elem NameU="Safety valve" Name="Válvula de segurança"/>
+	<Elem NameU="Valve" Name="Válvula"/>
+	<Elem NameU="Rotary valve" Name="Válvula rotativa"/>
+</Lib>

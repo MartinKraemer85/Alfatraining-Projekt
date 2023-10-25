@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Tables and Chairs">
+
+<Elem Name="椅子" NameU="Chair"/>
+
+<Elem Name="スツール" NameU="Stool"/>
+
+<Elem Name="リクライニングチェア" NameU="Recliner"/>
+
+<Elem Name="スリングチェア" NameU="Sling chair"/>
+
+<Elem Name="ラウンジチェア" NameU="Lounge chair"/>
+
+<Elem Name="テーブルと椅子のセット" NameU="Table with Chairs"/>
+
+<Elem Name="テーブルと椅子の配列" NameU="Style Station"/>
+
+<Elem Name="ラウンジチェア" NameU="lounge chair"/>
+
+<Elem Name="ラウンジチェア" NameU="Lounge Chair"/>
+
+<Elem Name="バーカウンター" NameU="Bar Counter"/>
+
+<Elem Name="椅子とテーブル" NameU="The Chair and Table"/>
+
+<Elem Name="ソファとソファテーブル" NameU="Sofa and Sofa Table"/>
+
+<Elem Name="2人の円卓" NameU="Double table"/>
+
+<Elem Name="4人の円卓" NameU="Circular dining table for four"/>
+
+<Elem Name="8人の円卓" NameU="Eight people circular dining table"/>
+
+<Elem Name="長円形の食卓" NameU="Oval dining table"/>
+
+<Elem Name="方形テーブル" NameU="Double square table"/>
+
+<Elem Name="角テーブル" NameU="Square table"/>
+
+<Elem Name="長方形のダイニングテーブル" NameU="Oblong dining table"/>
+
+<Elem Name="正方形のダイニングテーブル" NameU="Square dining table"/>
+
+<Elem Name="ダイニングテーブル" NameU="Dining table"/>
+
+<Elem Name="円テーブル" NameU="Circular table"/>
+
+<Elem Name="楕円形のテーブル" NameU="Oval table"/>
+
+<Elem Name="会議用テーブル" NameU="Conference table"/>
+
+<Elem Name="長方形テーブル" NameU="Rectangle table"/>
+
+<Elem Name="ダイヤモンドテーブル" NameU="Diamond table"/>
+
+<Elem Name="コーナーテーブル" NameU="Corner table"/>
+
+<Elem Name="半円のテーブル" NameU="Semicircle table"/>
+
+<Elem Name="アーチ形のテーブル" NameU="The fan table"/>
+
+<Elem Name="ピンポン台" NameU="Ping-pong table"/>
+
+<Elem Name="デスク" NameU="Desk"/>
+
+<Elem Name="化粧台" NameU="Dressing table"/>
+
+</Lib>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LocalStrings Version="8.0">
+	<!-- NameU is the enumerate defiened in LocalizeUtil. Should be kept in same order! -->
+	<String NameU="Unknow" Name="Unknow" />
+	<String NameU="ID" Name="ID" />
+	<String NameU="Task Name" Name="작업 이름" />
+	<String NameU="Start" Name="시작" />
+	<String NameU="Finish" Name="완료" />
+	<String NameU="Duration" Name="지속시간" />
+	<String NameU="Complete" Name="완료" />
+	<String NameU="Resource" Name="자원" />
+	<String NameU="Cost" Name="비용" />
+	<String NameU="Real Start" Name="실제 시작 시간" />
+	<String NameU="Real Finish" Name="실제 종료 시간" />
+	<String NameU="Real Duration" Name="실제 지속 시간" />
+	<String NameU="Priority" Name="우선 순위" />
+	<String NameU="Hyperlink" Name="하이퍼링크" />
+	<String NameU="Symbols" Name="기호" />
+	<String NameU="Custom Date" Name="사용자 지정 날짜" />
+	<String NameU="Custom Duration" Name="사용자 지정 지속 시간" />
+	<String NameU="Custom Text" Name="사용자 지정 텍스트" />
+	<String NameU="Custom Number" Name="사용자 지정 숫자" />
+	<String NameU="Custom Percent" Name="사용자 지정 퍼센트" />
+	<String NameU="Custom Currency" Name="사용자 지정 환율" />
+	<String NameU="Right Label" Name="오른쪽 레이블" />
+	<String NameU="Left Label" Name="왼쪽 레이블" />
+	<String NameU="Task Level" Name="작업 레벨" />	
+	<String NameU="Dependency" Name="종속관계" />
+	<String NameU="Task Comment" Name="작업 주석" />
+	<String NameU="Text" Name="텍스트" />
+	<String NameU="String" Name="문자열" />
+	<String NameU="Number" Name="숫자" />
+	<String NameU="DateTime" Name="날짜" />
+	<String NameU="Duration" Name="지속시간" />
+	<String NameU="Currency" Name="환율" />
+	<String NameU="Boolean" Name="부울" />
+	<String NameU="FixedList" Name="고정 목록" />
+	<String NameU="VariableList" Name="변수 목록" />
+	<String NameU="Color" Name="색상" />
+	<String NameU="Percentage" Name="퍼센트" />
+	<String NameU="Scientific" Name="과학적" />
+	<String NameU="Image" Name="이미지" />
+	<String NameU="General" Name="일반" />
+	<String NameU="Fraction" Name="점수" />
+	<String NameU="Custom" Name="사용자 지정" />
+	<String NameU='Search results for "%1"' Name='검색 결과"%1"' />
+	<String NameU="Page" Name="페이지" />
+	<String NameU="Layer" Name="레이어" />
+	<String NameU="Background" Name="배경" />
+	<String NameU="SelfDefine" Name="사용자 지정" />
+	<String NameU="Personal Cloud" Name="개인 클라우드" />
+  <String NameU="Public Cloud" Name="퍼블릭 클라우드" />
+  <String NameU="Team Cloud" Name="팀 클라우드" />
+  <String NameU="A few Seconds ago" Name="몇초전" />
+  <String NameU="minute ago" Name="분전" />
+  <String NameU="minutes ago" Name="몇분전" />  
+  <String NameU="hour ago" Name="시간전" />
+  <String NameU="hours ago" Name="몇시간전" />  
+  <String NameU="day ago" Name="하루전" />
+  <String NameU="days ago" Name="며칠전" />  
+  <String NameU="month ago" Name="월전" />
+  <String NameU="months ago" Name="몇개월전" />  
+  <String NameU="year ago" Name="년전" />
+  <String NameU="years ago" Name="몇년전" />
+  <String NameU="Name" Name="이름" />
+  <String NameU="First Name" Name="명" />
+  <String NameU="Last Name" Name="성" />
+  <String NameU="Phone" Name="전화" />  
+  <String NameU="ReportsTo" Name="보고 상대" />
+  <String NameU="Report" Name="보고" />
+  <String NameU="IsAssistant" Name="조수" />
+  <String NameU="Assist" Name="협조" />
+  <String NameU="Gantt" Name="간트차트" />
+  <String NameU="Time Bar" Name="타임바" />
+  <String NameU="Diamond Milestone" Name="다이아몬드 마일스톤" />
+  <String NameU="Main Idea" Name="메인 아이디어" />
+  <String NameU="Main Topic" Name="메인 주제" />
+  <String NameU="Sub Topic" Name="서브 주제" />
+  <String NameU="Summary" Name="요약" />
+  <String NameU="Position" Name="직위" />
+  <String NameU="Assistant" Name="조수" />  
+  	<String NameU="Floating Topic" Name="부동 주제" />
+	<String NameU="Relationship" Name="관계선" />
+	<String NameU="X Value" Name="x축 좌표" />
+	<String NameU="Y Value" Name="y축 좌표" />
+	<String NameU="Bubble value" Name="버블 수치" />
+	<String NameU="Value" Name="수치" />
+	<String NameU="Region" Name="지역" />
+	<String NameU="Add your text here" Name="텍스트를 입력하세요" />
+	<String NameU="Drag a picture here to replace the current picture" Name="사진을 드래그하여 기존 사진을 교체하세요." />
+	<String NameU="Yes" Name="예" />
+	<String NameU="No" Name="아니요" />
+	<String NameU="Option" Name="옵션" />
+	<String NameU="LastHalfYear" Name="H1" />
+	<String NameU="SecondHalfYear" Name="H2" />
+	<String NameU="FirstQuarter" Name="Q1" />
+	<String NameU="SecondQuarter" Name="Q2" />
+	<String NameU="ThirdQuarter" Name="Q3" />
+	<String NameU="FourthQuarter" Name="Q4" />
+	<String NameU="FirstWeek" Name="1 주" />
+	<String NameU="SecondWeek" Name="2 주" />
+	<String NameU="ThirdWeek" Name="3 주" />
+	<String NameU="FourthWeek" Name="4 주" />
+	<String NameU="FifthWeek" Name="5 주" />
+	<String NameU="SixWeek" Name="6 주" />
+</LocalStrings>

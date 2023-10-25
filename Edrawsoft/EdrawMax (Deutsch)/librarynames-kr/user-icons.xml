@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="User Icons">
+    <Elem NameU="Add User" Name="사용자 추가"/>
+    <Elem NameU="Delete Users" Name="사용자 삭제"/>
+    <Elem NameU="Remove User" Name="사용자 지우기"/>
+    <Elem NameU="Administrator" Name="관리자"/>
+    <Elem NameU="Export User" Name="사용자 출력"/>
+    <Elem NameU="Import User" Name="사용자 가져오기"/>
+    <Elem NameU="Download User" Name="사용자 다운로드"/>
+    <Elem NameU="Upload User" Name="사용자 업로드"/>
+    <Elem NameU="Internet Users" Name="인터넷 사용자"/>
+    <Elem NameU="Warning User" Name="사용자 경고"/>
+    <Elem NameU="Edit User" Name="사용자 편집"/>
+    <Elem NameU="Special User" Name="특별 사용자"/>
+    <Elem NameU="Lock User" Name="사용자 잠금"/>
+    <Elem NameU="Unlock User" Name="사용자 잠금 해제"/>
+    <Elem NameU="Mail User" Name="이메일 사용자"/>
+    <Elem NameU="User Pass" Name="사용자증"/>
+    <Elem NameU="Reject User" Name="사용자 거부" />
+    <Elem NameU="Looking for Users" Name="사용자 찾기"/>
+    <Elem NameU="Star User" Name="스타 사용자"/>
+    <Elem NameU="Load User" Name="사용자 로드"/>
+    <Elem NameU="Unknown User" Name="알 수 없는 사용자"/>
+    <Elem NameU="Outlook User" Name="Outlook사용자"/>
+    <Elem NameU="CSV File" Name="csv파일"/>
+    <Elem NameU="Cloud User" Name="클라우드 사용자"/>
+    <Elem NameU="Mobile Users" Name="모바일 사용자"/>
+    <Elem NameU="Communication" Name="통신"/>
+    <Elem NameU="UM User" Name="UM사용자"/>
+    <Elem NameU="Response Group" Name="응답 그룹"/>
+    <Elem NameU="Tenant Management" Name="임차인 관리"/>
+    <Elem NameU="Role Grouping" Name="역할 그룹"/>
+    <Elem NameU="Dynamic Communication Group" Name="다이나믹 커뮤니케이션 그룹"/>
+    <Elem NameU="User" Number="3" Name="사용자"/>
+    <Elem NameU="Commercial VoIP User" Name="비지니스용 VoIP사용자"/>
+</Lib>

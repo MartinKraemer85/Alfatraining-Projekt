@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Video and Audio Ports">
+	<Elem NameU="RCA Plug" Name="Tomada RCA"/>
+	<Elem NameU="RCA Plug 2" Name="Tomada RCA 2"/>
+	<Elem NameU="RCA Plug 3" Name="Tomada RCA 3"/>
+	<Elem NameU="RCA Plug 4" Name="Tomada RCA 4"/>
+	<Elem NameU="RCA Jack" Name="Conector RCA"/>
+	<Elem NameU="Cable Jack" Name="Cabo Conector"/>
+	<Elem NameU="Cable Plug" Name="Cabo de Tomada"/>
+	<Elem NameU="RCA Jack 2" Name="Conector RCA 2"/>
+	<Elem NameU="Digital input" Name="Entrada digital"/>
+	<Elem NameU="Digital input 2" Name="Entrada digital 2"/>
+	<Elem NameU="VGA Plug" Name="Tomada VGA"/>
+	<Elem NameU="VGA Jack" Name="Conector VGA"/>
+	<Elem NameU="Jack 2" Name="Conector 2"/>
+	<Elem NameU="Video input" Name="Entrada de Vídeo"/>
+	<Elem NameU="HDMI Plug" Name="Tomada HDMI"/>
+	<Elem NameU="HDMI Jack" Name="Conector HDMI"/>
+	<Elem NameU="USB Plug" Name="Entrada USB"/>
+	<Elem NameU="S terminal Jack" Name="Conector de terminal S"/>
+	<Elem NameU="S terminal Plug" Name="Tomada de terminal S"/>
+	<Elem NameU="DVI-I(Single Link)" Name="DVI-I (Link-Único)"/>
+	<Elem NameU="DVI-I(Dual Link)" Name="DVI-I (Link Duplo)"/>
+	<Elem NameU="DVI-D(Single Link)" Name="DVI-D (Link-Único)"/>
+	<Elem NameU="DVI-D(Dual Link)" Name="DVI-D (Link Duplo)"/>
+	<Elem NameU="DVI-A" Name="DVI-A"/>
+	<Elem NameU="Coaxial TV" Name="TV Coaxial"/>
+	<Elem NameU="XLR Neutrik" Name="XLR Neutrik"/>
+	<Elem NameU="Display" Name="Visor"/>
+	<Elem NameU="Mini Display" Name="Visor Mini"/>
+	<Elem NameU="F Connector" Name="Conector F"/>
+	<Elem NameU="DFP" Name="DFP"/>
+	<Elem NameU="DFP Jack" Name="Conector DFP"/>
+	<Elem NameU="SUPER VGA" Name="VGA SUPER"/>
+	<Elem NameU="Mini Display Jack" Name="Conector de Visor Mini"/>
+	<Elem NameU="USB Jack" Name="Conector USB"/>
+	<Elem NameU="Display Jack" Name="Conector de Visor"/>
+	<Elem NameU="Jack" Name="Conector"/>
+	<Elem NameU="Coaxial TV Jack" Name="Conector de TV Coaxial"/>
+	<Elem NameU="TV" Name="TV"/>
+	<Elem NameU="Computer" Name="Computador"/>
+	<Elem NameU="Devices" Name="Dispositivos"/>
+</Lib>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Gift Voucher">
+    <Elem NameU="Gift Ribbon" Name="禮物絲帶"/>
+    <Elem NameU="Gift Ribbon 2" Name="禮物絲帶 2"/>
+    <Elem NameU="Gift Ribbon 3" Name="禮物絲帶 3"/>
+    <Elem NameU="Gift Ribbon 4" Name="禮物絲帶 4"/>
+    <Elem NameU="Gift Ribbon 5" Name="禮物絲帶 5"/>
+    <Elem NameU="Gift Ribbon 6" Name="禮物絲帶 6"/>
+    <Elem NameU="Bow" Name="蝴蝶結"/>
+    <Elem NameU="Bow 2" Name="蝴蝶結 2"/>
+    <Elem NameU="Price Tag" Name="價格標籤"/>
+    <Elem NameU="Price Tag 2" Name="價格標籤 2"/>
+    <Elem NameU="Price Tag 3" Name="價格標籤 3"/>
+    <Elem NameU="Price Sticker" Name="價格標籤"/>
+    <Elem NameU="Price Sticker 2" Name="價格標籤 2"/>
+    <Elem NameU="Price Sticker 3" Name="價格標籤 3"/>
+    <Elem NameU="Price Sticker 4" Name="價格標籤 4"/>
+    <Elem NameU="Price Sticker 5" Name="價格標籤 5"/>
+    <Elem NameU="Gift" Name="禮物"/>
+    <Elem NameU="Gift 2" Name="禮物 2"/>
+    <Elem NameU="Thank You Tag" Name="致謝標籤"/>
+    <Elem NameU="Price Up" Name="漲價"/>
+    <Elem NameU="Price Down" Name="降價"/>
+    <Elem NameU="Sale Tag" Name="出售標籤"/>
+    <Elem NameU="Sale Tag 2" Name="出售標籤 2"/>
+    <Elem NameU="Sale Banner" Name="打折橫幅"/>
+    <Elem NameU="Ribbons" Name="緞帶"/>
+    <Elem NameU="Ribbons 2" Name="緞帶 2"/>
+    <Elem NameU="Ribbons 3" Name="緞帶 3"/>
+</Lib>

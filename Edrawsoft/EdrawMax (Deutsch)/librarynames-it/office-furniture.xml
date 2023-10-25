@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Office Furniture">
+	<Elem NameU="Single Cubicle" Name="Cubicolo Singolo"/>
+	<Elem NameU="Two Seats Cubicle" Name="Cubicolo a Due Posti"/>
+	<Elem NameU="Cubicle" Name="Cubicolo"/>
+	<Elem NameU="Straight workstation" Name="Stazione di Lavoro Dritta"/>
+	<Elem NameU="Council workstation" Name="Stazione di Lavoro per Riunione"/>
+	<Elem NameU="L workstation" Name="Stazione di Lavoro a L"/>
+	<Elem NameU="Table" Name="Tavolo"/>
+	<Elem NameU="Round table" Name="Tavolo rotondo"/>
+	<Elem NameU="Desk" Name="Scrivania"/>
+	<Elem NameU="Racetrack table" Name="Tavolo allungato"/>
+	<Elem NameU="Boat table" Name="Tavolo a barca"/>
+	<Elem NameU="4 seat table" Name="Tavolo con 4 posti"/>
+	<Elem NameU="6 seat table" Name="Tavolo con 6 posti"/>
+	<Elem NameU="8 seat table" Name="Tavolo con 8 posti"/>
+	<Elem NameU="10 seat rounded table" Name="Tavolo rotondo con 10 posti"/>
+	<Elem NameU="10 seat boat table" Name="Tavolo a barca con 10 posti"/>
+	<Elem NameU="10 seat table" Name="Tavolo con 10 posti"/>
+	<Elem NameU="12 seat table" Name="Tavolo con 12 posti"/>
+	<Elem NameU="Multi-chair round table" Name="Tavolo rotondo con più sedie"/>
+	<Elem NameU="Corner table" Name="Tavolo ad angolo"/>
+	<Elem NameU="Round corner" Name="Angolo arrotondato"/>
+	<Elem NameU="Work surface" Name="Superficie di lavoro"/>
+	<Elem NameU="Corner surface" Name="Superficie angolata"/>
+	<Elem NameU="Work peninsula" Name="Penisola di lavoro"/>
+	<Elem NameU="Bookshelf" Name="Scaffale"/>
+	<Elem NameU="Credenza" Name="Credenza"/>
+	<Elem NameU="Pedestal" Name="Piedistallo"/>
+	<Elem NameU="Cabinet" Name="Armadietto"/>
+	<Elem NameU="Storage unit" Name="Unità di Archiviazione"/>
+	<Elem NameU="Susp coat bar" Name="Appendiabiti sospeso"/>
+	<Elem NameU="Susp open shelf" Name="Scaffale aperto sospeso"/>
+	<Elem NameU="Suspended lateral file" Name="Schedario laterale sospeso"/>
+	<Elem NameU="File" Name="Schedario"/>
+	<Elem NameU="Lateral file" Name="Schedario laterale"/>
+	<Elem NameU="Flat file" Name="Schedario piatto"/>
+	<Elem NameU="Swivel tilt chair" Name="Sedia reclinabile"/>
+	<Elem NameU="2 seat sofa" Name="Divano a 2 posti"/>
+	<Elem NameU="3 seat sofa" Name="Divano a 3 posti"/>
+	<Elem NameU="4 seat sofa" Name="Divano a 4 posti"/>
+	<Elem NameU="90 deg table" Name="Tavolo a 90°"/>
+	<Elem NameU="Chair" Name="Sedia"/>
+	<Elem NameU="30 deg seat" Name="Sedia a 90°"/>
+	<Elem NameU="Desk chair" Name="Sedia da scrivania"/>
+	<Elem NameU="High stool" Name="Sgabello elevato"/>
+	<Elem NameU="Stool" Name="Sgabello"/>
+	<Elem NameU="Panel" Name="Pannello"/>
+	<Elem NameU="2 panel" Name="2 pannelli"/>
+	<Elem NameU="3 panel" Name="3 pannelli"/>
+	<Elem NameU="4 panel" Name="4 pannelli"/>
+	<Elem NameU="Cross panel" Name="Pannello a croce"/>
+	<Elem NameU="16 seat table" Name="Tavolo con 16 posti"/>
+</Lib>

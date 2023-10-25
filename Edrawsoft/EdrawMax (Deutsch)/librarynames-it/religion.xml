@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Religion">
+	<Elem NameU="Church 1" Name="Chiesa 1"/>
+	<Elem NameU="Church 2" Name="Chiesa 2"/>
+	<Elem NameU="Church 3" Name="Chiesa 3"/>
+	<Elem NameU="Virgin Mary and Jesus" Name="Maria e Gesù"/>
+	<Elem NameU="Jesus with a Lamb" Name="Gesù con Agnello"/>
+	<Elem NameU="Jesus in Red Robe" Name="Gesù con Veste Rossa"/>
+	<Elem NameU="Jesus Statue" Name="Statua di Gesù"/>
+	<Elem NameU="Jesus in White Robe" Name="Gesù con Veste Bianca"/>
+	<Elem NameU="Jesus on the Cross" Name="Gesù sulla Croce"/>
+	<Elem NameU="Jesus and Children" Name="Gesù con Bambini"/>
+	<Elem NameU="Jesus with the Cross" Name="Gesù con Croce"/>
+	<Elem NameU="Jesus Washing the Disciples's Feet" Name="Gesù che Lava i Piedi dei Discepoli"/>
+	<Elem NameU="Jesus Prays in Gethsemane" Name="Gesù Prega a Gerusalemme"/>
+	<Elem NameU="Moses and the Ten Commandments" Name="Mosè e i Dieci Comandamenti"/>
+	<Elem NameU="Jesus Walking on the Sea" Name="Gesù che Cammina sulle Acque"/>
+	<Elem NameU="Jesus Riding a Donkey" Name="Gesù che Cavalca un Asino"/>
+	<Elem NameU="The Wheat" Name="Frumento"/>
+	<Elem NameU="Lamb" Name="Agnello"/>
+	<Elem NameU="Healing the Sick" Name="Guarigione degli Ammalati"/>
+	<Elem NameU="Baptising" Name="Battesimo"/>
+	<Elem NameU="Pastor 1" Name="Pastore 1"/>
+	<Elem NameU="Pastor 2" Name="Pastore 2"/>
+	<Elem NameU="Church Sister" Name="Suore"/>
+	<Elem NameU="Praying 1" Name="Preghiera 1"/>
+	<Elem NameU="Praying 2" Name="Preghiera 2"/>
+	<Elem NameU="Pray to Lord" Name="Preghiera a Dio"/>
+	<Elem NameU="Praying Hands" Name="Mani che Pregano"/>
+	<Elem NameU="Tablets of Stone" Name="Tavole di Pietra"/>
+	<Elem NameU="The Holy Eucharist" Name="Sacra Eucarestia"/>
+	<Elem NameU="The Holy Cup" Name="Sacro Calice"/>
+	<Elem NameU="5 Loaves and 2 Fish" Name="5 Pani e 2 Pesci"/>
+	<Elem NameU="Offerings" Name="Offerte"/>
+	<Elem NameU="3 Crosses" Name="3 Croci"/>
+	<Elem NameU="The Cross and the Olive Branch" Name="Croce e Ramo d'Ulivo"/>
+	<Elem NameU="Cross 1" Name="Croce 1"/>
+	<Elem NameU="Cross 2" Name="Croce 2"/>
+	<Elem NameU="A Cross on the Bible" Name="Croce e Bibbia"/>
+	<Elem NameU="The Cross and the Doves" Name="Croce e Colombe"/>
+	<Elem NameU="The Holy Bible 1" Name="Sacra Bibbia 1"/>
+	<Elem NameU="The Holy Bible 2" Name="Sacra Bibbia 2"/>
+	<Elem NameU="Opened Bible" Name="Bibbia Aperta"/>
+	<Elem NameU="Cross on Bible" Name="Croce su Bibbia"/>
+	<Elem NameU="Fish" Name="Pesce"/>
+	<Elem NameU="Lambs" Name="Agnelli"/>
+	<Elem NameU="Dove" Name="Colomba"/>
+	<Elem NameU="Candle" Name="Candela"/>
+	<Elem NameU="Church Candlestick" Name="Candeliere della Chiesa"/>
+	<Elem NameU="Angel Wings" Name="Candelabro"/>
+	<Elem NameU="Cross Pendent 1" Name="Ciondolo a Croce 1"/>
+	<Elem NameU="Cross Pendent 2" Name="Ciondolo a Croce 2"/>
+	<Elem NameU="Cross Necklace 1" Name="Collana con Croce 1"/>
+	<Elem NameU="Cross Necklace 2" Name="Collana con Croce 2"/>
+</Lib>

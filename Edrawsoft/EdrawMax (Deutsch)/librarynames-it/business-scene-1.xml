@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Business Scene 1">
+	<Elem NameU="White Collar" Name="Colletto Bianco"/>
+	<Elem NameU="Sign the contact" Name="Firma del contratto"/>
+	<Elem NameU="Conference" Name="Conferenza"/>
+	<Elem NameU="Sorting files" Name="Organizzazione file"/>
+	<Elem NameU="Meeting 1" Name="Riunione 1"/>
+	<Elem NameU="Talking" Name="Parlare"/>
+	<Elem NameU="Meeting 2" Name="Riunione 2"/>
+	<Elem NameU="Working" Name="Lavorare"/>
+	<Elem NameU="Employee" Name="Impiegato"/>
+	<Elem NameU="Speech" Name="Discorso"/>
+	<Elem NameU="Manager sign files" Name="Manager che firma documenti"/>
+	<Elem NameU="Discuss" Name="Discutere"/>
+	<Elem NameU="Negotiation" Name="Negoziazione"/>
+	<Elem NameU="Awards ceremony" Name="Cerimonia di premiazione"/>
+	<Elem NameU="Globalization" Name="Globalizzazione"/>
+	<Elem NameU="Reception" Name="Ricezione"/>
+	<Elem NameU="Video conference" Name="Video conferenza"/>
+	<Elem NameU="Three people meeting" Name="Riunione con tre persone "/>
+	<Elem NameU="Two people discuss" Name="Due persone che discutono"/>
+	<Elem NameU="Training" Name="Formazione"/>
+	<Elem NameU="Report work" Name="Consegna lavoro"/>
+	<Elem NameU="Sign contract" Name="Firma contratto"/>
+	<Elem NameU="Group meeting" Name="Riunione di gruppo"/>
+	<Elem NameU="Payment" Name="Pagamento"/>
+	<Elem NameU="Secretary" Name="Segretaria"/>
+	<Elem NameU="Timing" Name="Tempismo"/>
+	<Elem NameU="New idea 1" Name="Nuova idea 1"/>
+	<Elem NameU="The horn propaganda" Name="Megafono per propaganda"/>
+	<Elem NameU="New idea 2" Name="Nuova idea 2"/>
+	<Elem NameU="Reporting" Name="Segnalazione"/>
+	<Elem NameU="New idea 3" Name="Nuova idea 3"/>
+	<Elem NameU="Presentation" Name="Presentazione"/>
+	<Elem NameU="New idea 4" Name="Nuova idea 4"/>
+	<Elem NameU="Goal Setting" Name="Impostazione Obiettivi"/>
+	<Elem NameU="Checking" Name="Controllo"/>
+	<Elem NameU="Shopping" Name="Acquisti"/>
+	<Elem NameU="Deadline" Name="Scadenza"/>
+	<Elem NameU="Purchase" Name="Acquisto"/>
+	<Elem NameU="Make Profit" Name="Fare Profitto"/>
+	<Elem NameU="Pathway" Name="Percorso"/>
+	<Elem NameU="Unemployment" Name="Disoccupazione"/>
+	<Elem NameU="Ride a bike" Name="In bici"/>
+	<Elem NameU="Business Trip" Name="Viaggio di lavoro"/>
+	<Elem NameU="Coffee time" Name="Pausa caffè"/>
+	<Elem NameU="By train" Name="In treno"/>
+	<Elem NameU="By Bus" Name="In bus"/>
+	<Elem NameU="By airplane" Name="In aereo"/>
+	<Elem NameU="Firm Framework 1" Name="Quadro Solido 1"/>
+	<Elem NameU="Firm Framework 2" Name="Quadro Solido 2"/>
+	<Elem NameU="Firm Framework 3" Name="Quadro Solido 3"/>
+	<Elem NameU="Firm Framework 4" Name="Quadro Solido 4"/>
+	<Elem NameU="Firm Framework 5" Name="Quadro Solido 5"/>
+	<Elem NameU="Firm Framework 6" Name="Quadro Solido 6"/>
+	<Elem NameU="Firm Framework 7" Name="Quadro Solido 7"/>
+	<Elem NameU="Firm Framework 8" Name="Quadro Solido 8"/>
+</Lib>

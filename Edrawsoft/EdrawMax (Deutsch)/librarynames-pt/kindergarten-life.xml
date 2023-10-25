@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Kindergarten Life">
+	<Elem NameU="Teacher" Name="Professor"/>
+	<Elem NameU="Teacher and Two Students" Name="Professor e Dois Estudantes"/>
+	<Elem NameU="Teaching Student" Name="Ensinar Estudante"/>
+	<Elem NameU="Teacher and Students 1" Name="Professor e Estudantes 1"/>
+	<Elem NameU="Teacher and Students 2" Name="Professor e Estudantes 2"/>
+	<Elem NameU="Kids" Name="Crianças"/>
+	<Elem NameU="Girl 1" Name="Menina 1"/>
+	<Elem NameU="Boy 1" Name="Menino 1"/>
+	<Elem NameU="Girl 2" Name="Menina 2"/>
+	<Elem NameU="Boy 2" Name="Menino 2"/>
+	<Elem NameU="Girl 3" Name="Menina 3"/>
+	<Elem NameU="Brushing Teeth" Name="Escova dos Dentes"/>
+	<Elem NameU="Dining" Name="Jantar"/>
+	<Elem NameU="Boy Playing Toy 1" Name="Brinquedo de menino 1"/>
+	<Elem NameU="Boy Playing Toy 2" Name="Brinquedo de menino 2"/>
+	<Elem NameU="Girl Playing Toy" Name="Brinquedo de Menina"/>
+	<Elem NameU="Reading 1" Name="Ler 1"/>
+	<Elem NameU="Reading 2" Name="Ler 2"/>
+	<Elem NameU="Reading 3" Name="Ler 3"/>
+	<Elem NameU="Learning 1" Name="Aprender 1"/>
+	<Elem NameU="Learning 2" Name="Aprender 2"/>
+	<Elem NameU="Boy Raising Hand" Name="Menino a Levantar a Mão"/>
+	<Elem NameU="Playing Guitar" Name="Tocar Guitarra"/>
+	<Elem NameU="Dancing" Name="Dançar"/>
+	<Elem NameU="Writing" Name="Escrever"/>
+	<Elem NameU="Drawing" Name="Desenhar"/>
+	<Elem NameU="Kindergarten Graduation 1" Name="Formatura da Pré-Escola 1"/>
+	<Elem NameU="Kindergarten Graduation 2" Name="Formatura da Pré-Escola 2"/>
+	<Elem NameU="Kindergarten Graduation 3" Name="Formatura da Pré-Escola 3"/>
+	<Elem NameU="Bicycling" Name="Andar de Bicicleta"/>
+	<Elem NameU="Riding on Rocking Horse" Name="Andar a Cavalo"/>
+	<Elem NameU="Playing on the Seesaw" Name="Brincar no Balanço"/>
+	<Elem NameU="Playing on the Slide" Name="Brincar no Escorrega"/>
+	<Elem NameU="Playing on the Swing" Name="Brincar no Baloiço"/>
+	<Elem NameU="School Bus" Name="Ônibus Escolar"/>
+</Lib>

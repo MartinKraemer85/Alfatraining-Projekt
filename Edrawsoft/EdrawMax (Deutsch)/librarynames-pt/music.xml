@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Music">
+	<Elem NameU="Keyboard Player" Name="Teclista"/>
+	<Elem NameU="Drummer" Name="Baterista"/>
+	<Elem NameU="Bass Player" Name="Baixista"/>
+	<Elem NameU="Cellist" Name="Violoncelista"/>
+	<Elem NameU="Violinist" Name="Violinista"/>
+	<Elem NameU="Saxophonist" Name="Saxofonista"/>
+	<Elem NameU="Conductor" Name="Maestro"/>
+	<Elem NameU="Guitar Player" Name="Guitarrista"/>
+	<Elem NameU="Flute Player" Name="Flautista"/>
+	<Elem NameU="Drum" Name="Bateria"/>
+	<Elem NameU="Piano" Name="Piano"/>
+	<Elem NameU="Male Singer" Name="Cantor Masculino"/>
+	<Elem NameU="Female Singer" Name="Cantora Feminina"/>
+	<Elem NameU="Accordionist" Name="Acordeonista"/>
+	<Elem NameU="Ballet" Name="Ballet"/>
+	<Elem NameU="Violin" Name="Violino"/>
+	<Elem NameU="Guitar" Name="Guitarra"/>
+	<Elem NameU="Accordion" Name="Acordião"/>
+	<Elem NameU="Bass" Name="Baixo"/>
+	<Elem NameU="Zither" Name="Cítara"/>
+	<Elem NameU="Saxophone" Name="Saxofone"/>
+	<Elem NameU="Keyboard" Name="Teclado"/>
+	<Elem NameU="Xiao (Flute)" Name="Xiao (Flauta)"/>
+	<Elem NameU="Trombone" Name="Trombone"/>
+	<Elem NameU="Horn" Name="Corneta"/>
+	<Elem NameU="Dish Player" Name="Tocador de Pratos"/>
+	<Elem NameU="Microphone" Name="Microfone"/>
+	<Elem NameU="Radio" Name="Rádio"/>
+	<Elem NameU="Cassette" Name="Cassete"/>
+	<Elem NameU="Headset" Name="Headset"/>
+	<Elem NameU="Speaker" Name="Alto-falante"/>
+	<Elem NameU="Volume" Name="Volume"/>
+	<Elem NameU="Gourd Rattles" Name="Maracas"/>
+	<Elem NameU="Snare Drum" Name="Tarol"/>
+	<Elem NameU="Rattle" Name="Matraca"/>
+	<Elem NameU="Pipa" Name="Pipa"/>
+	<Elem NameU="Ruan" Name="Ruan"/>
+	<Elem NameU="Liuqin" Name="Liuqin"/>
+	<Elem NameU="Yueqin" Name="Yueqin"/>
+	<Elem NameU="Cucurbit Flute" Name="Flauta de Abóbora"/>
+	<Elem NameU="Guzheng" Name="Guzheng"/>
+	<Elem NameU="Erhu" Name="Erhu"/>
+</Lib>

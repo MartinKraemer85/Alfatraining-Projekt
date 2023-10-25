@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Family Tree">
+	<Elem NameU="Tree" Name="트리"/>
+	<Elem NameU="Tree 4" Name="트리"/>
+	<Elem NameU="Tree 5" Name="트리"/>
+	<Elem NameU="Tree 6" Name="트리"/>
+	<Elem NameU="Profile Photo With Title" Name="프로필 사진"/>
+	<Elem NameU="Profile No Photo" Name="사진 없는 프로필"/>
+	<Elem NameU="Rounded Profile Photo" Name="원형 프로필 사진"/>
+	<Elem NameU="Profile Left Photo" Name="프로필 사진 왼쪽"/>
+	<Elem NameU="Profile Left  Photo" Name="프로필 사진 왼쪽"/>
+	<Elem NameU="Rounded Profile Vertical 1" Name="수직 원형 프로필1"/>
+	<Elem NameU="Rounded Profile Vertical 2" Name="수직 원형 프로필2"/>
+	<Elem NameU="Rounded Profile Vertical 3" Name="수직 원형 프로필3"/>
+	<Elem NameU="Rounded Profile Vertical" Name="수직 원형 프로필"/>
+	<Elem NameU="Profile Photo" Name="프로필 사진"/>
+</Lib>

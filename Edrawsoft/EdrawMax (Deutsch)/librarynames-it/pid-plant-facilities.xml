@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="PID Plant Facilities">
+	<Elem NameU="Access ladder" Name="Scala di accesso"/>
+	<Elem NameU="Brick exhaust stack with deck" Name="Tubo di scarico a mattoncini con pedane"/>
+	<Elem NameU="Brick exhaust stack" Name="Tubo di scarico a mattoncini"/>
+	<Elem NameU="Chain link fence (green)" Name="Recinzione metallica (verde)"/>
+	<Elem NameU="Chain link fence with barbed wire (green)" Name="Recinzione metallica con filo spinato (verde)"/>
+	<Elem NameU="Chain link fence with barbed wire" Name="Recinzione metallica con filo spinato"/>
+	<Elem NameU="Chain link fence" Name="Recinzione metallica"/>
+	<Elem NameU="Communications tower" Name="Torre di comunicazione"/>
+	<Elem NameU="Dark smoke" Name="Fumo scuro"/>
+	<Elem NameU="Emergency shower" Name="Doccia di emergenza"/>
+	<Elem NameU="Enclosed ladder" Name="Scala circoscritta"/>
+	<Elem NameU="Exhaust stack with warning stripes" Name="Tubo di scarico con strisce di avviso"/>
+	<Elem NameU="Exhaust stack" Name="Tubo di scarico"/>
+	<Elem NameU="Exposed ladder" Name="Scala scoperta"/>
+	<Elem NameU="Guard screen" Name="Griglia di protezione"/>
+	<Elem NameU="Industrial platform 1" Name="Piattaforma industriale 1"/>
+	<Elem NameU="Industrial platform 2" Name="Piattaforma industriale 2"/>
+	<Elem NameU="Industrial stairs" Name="Scale industriali"/>
+	<Elem NameU="Industrial structure" Name="Struttura industriale"/>
+	<Elem NameU="Light smoke" Name="Fumo chiaro"/>
+	<Elem NameU="Mezzanine decking" Name="Soppalco pavimentato"/>
+	<Elem NameU="Mezzanine with office" Name="Soppalco con ufficio"/>
+	<Elem NameU="Oil rig" Name="Petroliera"/>
+	<Elem NameU="Oil well" Name="Pozzo di petrolio"/>
+	<Elem NameU="Processing plant" Name="Centrale di lavorazione"/>
+	<Elem NameU="Pulp mill" Name="Cartiera"/>
+	<Elem NameU="Pyramid communication tower" Name="Torre di comunicazione piramidale"/>
+	<Elem NameU="Refinery" Name="Raffineria"/>
+	<Elem NameU="Smooth exhaust stairs" Name="Scale di scarico"/>
+	<Elem NameU="Steel grating 1" Name="Reticolo in acciaio 1"/>
+	<Elem NameU="Steel grating 2" Name="Reticolo in acciaio 2"/>
+	<Elem NameU="Vertical stairs" Name="Scale verticali"/>
+	<Elem NameU="Chimney" Name="Camino"/>
+</Lib>

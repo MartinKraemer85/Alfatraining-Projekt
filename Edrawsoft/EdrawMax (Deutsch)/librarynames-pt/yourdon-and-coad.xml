@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Yourdon and Coad">
+	<Elem NameU="Class and Object" Name="Classe e Objeto"/>
+	<Elem NameU="Class" Name="Classe"/>
+	<Elem NameU="Object State" Name="Estado do Objeto"/>
+	<Elem NameU="Gen-spec Structure" Name="Estrutura gen-spec"/>
+	<Elem NameU="Whole-part Structure" Name="Estrutura de parte-completa"/>
+	<Elem NameU="Condition" Name="Condição"/>
+	<Elem NameU="Loop" Name="Ciclo"/>
+	<Elem NameU="External Interactor" Name="Interactor Externo"/>
+	<Elem NameU="Data Process" Name="Processo de Dados"/>
+	<Elem NameU="Multiple Process" Name="Processo Múltiplo"/>
+	<Elem NameU="State" Name="Estado"/>
+	<Elem NameU="Multiple State" Name="Estado Múltiplo"/>
+	<Elem NameU="Stop State" Name="Parar Estado"/>
+	<Elem NameU="Stop State 2" Name="Parar Estado 2"/>
+	<Elem NameU="Process" Name="Processo"/>
+	<Elem NameU="Center to Center" Name="Centro para Centro"/>
+	<Elem NameU="Loop on Center" Name="Ciclo no Centro"/>
+	<Elem NameU="Data Store" Name="Armazenamento de Dados"/>
+	<Elem NameU="Connector" Name="Conector"/>
+	<Elem NameU="Semicircle" Name="Semicírculo"/>
+</Lib>

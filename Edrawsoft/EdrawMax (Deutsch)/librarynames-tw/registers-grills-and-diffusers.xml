@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Registers Grills and Diffusers">
+    <Elem NameU="Supply diffuser" Name="供風分佈器"/>
+    <Elem NameU="Return diffuser" Name="回流分佈器"/>
+    <Elem NameU="Grille diffuser" Name="格柵擴散器"/>
+    <Elem NameU="Linear diffuser" Name="線型出風口"/>
+    <Elem NameU="Troffer diffuser" Name="暗燈槽擴散器"/>
+    <Elem NameU="Grille (side)" Name="格柵 (側面)"/>
+</Lib>

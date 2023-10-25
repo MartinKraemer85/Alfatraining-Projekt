@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="User Icons">
+	<Elem NameU="Add User" Name="Adicionar Usuário"/>
+	<Elem NameU="Delete Users" Name="Apagar Usuários"/>
+	<Elem NameU="Remove User" Name="Remover Usuários"/>
+	<Elem NameU="Administrator" Name="Administrador"/>
+	<Elem NameU="Export User" Name="Exportar Usuário"/>
+	<Elem NameU="Import User" Name="Importar Usuário"/>
+	<Elem NameU="Download User" Name="Transferir Usuário"/>
+	<Elem NameU="Upload User" Name="Carregar Usuário"/>
+	<Elem NameU="Internet Users" Name="Usuários da Internet"/>
+	<Elem NameU="Warning User" Name="Aviso de Usuário"/>
+	<Elem NameU="Edit User" Name="Editar Usuário"/>
+	<Elem NameU="Special User" Name="Usuário Especial"/>
+	<Elem NameU="Lock User" Name="Bloquear Usuário"/>
+	<Elem NameU="Unlock User" Name="Desbloquear Usuário"/>
+	<Elem NameU="Mail User" Name="Usuário de Correio"/>
+	<Elem NameU="User Pass" Name="Pass de Usuário"/>
+	<Elem NameU="Reject User" Name="Rejeitar Usuário"/>
+	<Elem NameU="Looking for Users" Name="Procurando por Usuários"/>
+	<Elem NameU="Star User" Name="Usuário Estrela"/>
+	<Elem NameU="Load User" Name="Carregar Usuário"/>
+	<Elem NameU="Unknown User" Name="Usuário Desconhecido"/>
+	<Elem NameU="Outlook User" Name="Usuário de Outlook"/>
+	<Elem NameU="CSV File" Name="Ficheiro CSV"/>
+	<Elem NameU="Cloud User" Name="Usuário de Cloud"/>
+	<Elem NameU="Mobile Users" Name="Usuários de Móvel"/>
+	<Elem NameU="Communication" Name="Comunicação"/>
+	<Elem NameU="UM User" Name="Usuário UM"/>
+	<Elem NameU="Response Group" Name="Grupo de Resposta"/>
+	<Elem NameU="Tenant Management" Name="Gestor de Locatário"/>
+	<Elem NameU="Role Grouping" Name="Agrupamento por Papel"/>
+	<Elem NameU="Dynamic Communication Group" Name="Grupo de Comunicação Dinâmica"/>
+	<Elem NameU="User" Name="Usuário"/>
+	<Elem NameU="Commercial VoIP User" Name="Usuário de VoIP Comercial"/>
+</Lib>

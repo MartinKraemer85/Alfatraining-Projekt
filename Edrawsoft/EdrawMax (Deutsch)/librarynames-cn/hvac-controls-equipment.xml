@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="HVAC Controls Equipment">
+    <Elem NameU="Duct" Name="导管"/>
+    <Elem NameU="Return duct" Name="回风管"/>
+    <Elem NameU="Return duct 2" Name="回风管 2"/>
+    <Elem NameU="Supply duct" Name="供气风管"/>
+    <Elem NameU="Supply duct 2" Name="供气风管 2"/>
+    <Elem NameU="2-fan sections" Name="2扇区"/>
+    <Elem NameU="3-fan sections" Name="3扇区"/>
+    <Elem NameU="4-fan sections" Name="4扇区"/>
+    <Elem NameU="VAV box" Name="变风量末端装置"/>
+    <Elem NameU="DD VAV box" Name="DD 变风量空调箱"/>
+    <Elem NameU="Fain coil housing" Name="风机盘管壳"/>
+    <Elem NameU="Unit heater" Name="单体式供暖机组"/>
+    <Elem NameU="Centrifugal fan" Name="离心式风扇"/>
+    <Elem NameU="Propeller fan" Name="螺旋桨式风扇"/>
+    <Elem NameU="Vane axial fan" Name="轴流风机"/>
+    <Elem NameU="Damper" Name="减震器"/>
+    <Elem NameU="Filter" Name="过滤器"/>
+    <Elem NameU="Air flow station" Name="空气流站"/>
+    <Elem NameU="Humidifier" Name="空气流站"/>
+    <Elem NameU="Htg/clg coil" Name="高温凝胶/轻型导弹巡洋舰线圈"/>
+    <Elem NameU="Pump" Name="泵"/>
+    <Elem NameU="Valve" Name="阀"/>
+    <Elem NameU="Gate valve" Name="闸门阀"/>
+    <Elem NameU="Water flow meter" Name="流量表"/>
+    <Elem NameU="Chiller" Name="冷却装置"/>
+    <Elem NameU="Cooling tower" Name="冷却塔"/>
+    <Elem NameU="Boiler" Name="锅炉"/>
+    <Elem NameU="Equipment" Name="设备"/>
+    <Elem NameU="VSD" Name="VSD"/>
+    <Elem NameU="Start" Name="开始"/>
+    <Elem NameU="Side to side pipe" Number="2" Name="横向管"/>
+    <Elem NameU="Top to bottom pipe" Number="2" Name="竖向管"/>
+    <Elem NameU="Side to bottom pipe" Number="2" Name="垂直管道"/>
+    <Elem NameU="Pipe flow arrow" Name="管道流向箭头"/>
+</Lib>

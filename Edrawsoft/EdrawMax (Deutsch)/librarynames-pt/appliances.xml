@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Appliances">
+	<Elem NameU="LED" Name="LED"/>
+	<Elem NameU="Floor lamp" Name="Lâmpada de chão"/>
+	<Elem NameU="Wall lamp" Name="Lâmpada de parede"/>
+	<Elem NameU="Spotlight" Name="Holofote"/>
+	<Elem NameU="Tube light" Name="Luz de tubo"/>
+	<Elem NameU="LED downlight" Name="Luz descendente LED"/>
+	<Elem NameU="Shower lamp" Name="Lâmpada de chuveiro"/>
+	<Elem NameU="Fan" Name="Ventoinha"/>
+	<Elem NameU="Air exhaust fan" Name="Ventoinha de exaustão de ar"/>
+	<Elem NameU="Gas stoves" Name="Fogões a gás"/>
+	<Elem NameU="Refrg" Name="Frigorífico"/>
+	<Elem NameU="Chest freezer" Name="Arca frigorífica"/>
+	<Elem NameU="Cooker" Name="Fogão"/>
+	<Elem NameU="Range" Name="Fogão e forno"/>
+	<Elem NameU="Microwave" Name="Micro-ondas"/>
+	<Elem NameU="Dishwasher" Name="Máquina de lavar a louça"/>
+	<Elem NameU="Washing machine" Name="Máquina de lavar"/>
+	<Elem NameU="Water cooler" Name="Refrigerador de água"/>
+	<Elem NameU="Oven" Name="Forno"/>
+	<Elem NameU="Tumble dryer" Name="Máquina de secar"/>
+	<Elem NameU="Coffee maker" Name="Máquina de café"/>
+	<Elem NameU="Disinfection cabinet" Name="Cabine de desinfecção"/>
+	<Elem NameU="Flat-panel TV" Name="TV Plana"/>
+	<Elem NameU="Keyboard" Name="Teclado"/>
+	<Elem NameU="Video game" Name="Jogo de computador"/>
+	<Elem NameU="Food cooler" Name="Refrigerador de comida"/>
+	<Elem NameU="Vending machine" Name="Máquina de vendas automática"/>
+	<Elem NameU="Water heater" Name="Aquecedor de água"/>
+	<Elem NameU="Pendant lamp" Name="Lâmpada pendente"/>
+	<Elem NameU="Gas Stoves" Name="Fogão a Gás"/>
+</Lib>

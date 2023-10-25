@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Optical Symbols">
+    <Elem NameU="7 segment display" Name="7字段顯示"/>
+    <Elem NameU="7 segment display with DP" Name="7字段顯示帶數位"/>
+    <Elem NameU="9 segment display" Name="9字段顯示"/>
+    <Elem NameU="9 segment display with DP" Name="9字段顯示帶數位"/>
+    <Elem NameU="LED" Name="LED"/>
+    <Elem NameU="LED 2" Name="LED 2"/>
+    <Elem NameU="Light activated SCR" Name="光機可控硅整流器"/>
+    <Elem NameU="Opto-coupler" Name="光耦合器"/>
+    <Elem NameU="Opto-transistor" Name="光電晶體管"/>
+    <Elem NameU="Photo resistor" Name="光敏電阻器"/>
+    <Elem NameU="Photo resistor 2" Name="光敏電阻器 2"/>
+    <Elem NameU="Photo resistor" Name="光敏電阻器"/>
+    <Elem NameU="Solar cell" Name="太陽能電池"/>
+</Lib>

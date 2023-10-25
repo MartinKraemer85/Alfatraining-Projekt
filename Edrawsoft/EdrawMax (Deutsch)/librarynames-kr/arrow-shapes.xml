@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Arrow Shapes">
+    <Elem NameU="Right Arrow" Name="오른쪽 화살표"/>
+    <Elem NameU="Back Arrow" Name="뒤로 화살표"/>
+    <Elem NameU="Down Arrow" Name="아래쪽 화살표"/>
+    <Elem NameU="Up Arrow" Name="위쪽 화살표"/>
+    <Elem NameU="Left Arrow" Name="왼쪽 화살표"/>
+    <Elem NameU="Thick Arrow" Name="굵은 화살표"/>
+    <Elem NameU="Up Single Arrow" Name="단일 화살표 위로"/>
+    <Elem NameU="Armband Shaped Arrow" Name="완장 모양의 화살표"/>
+    <Elem NameU="Pentagonal Arrow" Name="펜타곤 화살표"/>
+    <Elem NameU="Diamond Arrow" Name="다이아몬드 화살표"/>
+    <Elem NameU="Multiple Arrows" Name="다중 병열 화살표"/>
+    <Elem NameU="Forward Double Arrow" Name="앞으로 이중 화살표"/>
+    <Elem NameU="Stylized Arrow" Name="원점 화살표"/>
+    <Elem NameU="S-type Arrow" Name="S모양 화살표"/>
+    <Elem NameU="Arrow" Number="6" Name="화살표"/>
+    <Elem NameU="Dynamic Arrow" Number="2" Name="동적 화살표"/>
+    <Elem NameU="Arrow" Number="2" Name="화살표"/>
+    <Elem NameU="Open-end Arrow" Name="개방형 화살표"/>
+    <Elem NameU="Arrow" Number="2" Name="화살표"/>
+    <Elem NameU="Return Arrow" Name="리턴 화살표"/>
+    <Elem NameU="Elbow Arrow" Number="2" Name="꺾인 화살표"/>
+    <Elem NameU="Bent Arrow" Number="2" Name="굽은 화살표"/>
+    <Elem NameU="Two-Way Arrow" Name="양방향 화살표"/>
+    <Elem NameU="Bent Arrow" Number="2" Name="굽은 화살표"/>
+    <Elem NameU="U-type Arrow" Name="U모양 화살표"/>
+    <Elem NameU="Single Arrow Down" Name="아래쪽 단일 화살표"/>
+    <Elem NameU="Stylized Arrow" Name="원점 화살표"/>
+    <Elem NameU="Southwest Arrow" Name="남서쪽 화살표"/>
+    <Elem NameU="Northwest Arrow" Name="북서쪽 화살표"/>
+    <Elem NameU="Southeast Arrow" Name="남동쪽 화살표"/>
+    <Elem NameU="Backward Double Arrow" Name="뒤로 이중 화살표"/>
+    <Elem NameU="Four-Way Arrow" Name="4방향 화살표"/>
+    <Elem NameU="Double Arrow Up" Name="이중 화살표 위로"/>
+    <Elem NameU="Interactive Arrow" Name="인터랙티브 화살표"/>
+    <Elem NameU="Anti-clockwise Arrow" Name="반시계방향 화살표"/>
+    <Elem NameU="Flexible Loop Arrow" Number="2" Name="루프 화살표"/>
+    <Elem NameU="Clockwise Arrow" Name="시계 방향 화살표"/>
+    <Elem NameU="Double Arrow" Name="이중 화살표"/>
+    <Elem NameU="Recyclable Arrow" Name="재활용 가능한 화살표"/>
+    <Elem NameU="Circle Arrow" Number="3" Name="순환 화살표"/>
+    <Elem NameU="Arrow Round Forward" Name="앞으로 라운드 화살표"/>
+    <Elem NameU="Arrow Round" Number="2" Name="라운드 화살표"/>
+    <Elem NameU="Arrow Double Round" Name="이중 라운드 화살표"/>
+    <Elem NameU="Arrow Round Backward" Name="뒤로 라운드 화살표"/>
+    <Elem NameU="Arrow Round Hollow" Name="라운드 화살표 중공"/>
+    <Elem NameU="North Arrow Round" Name="북쪽 화살표"/>
+    <Elem NameU="Arrow Round Upward" Name="화살표 반올림 위쪽"/>
+    <Elem NameU="Arched Round" Name="아치형 화살표"/>
+    <Elem NameU="Arrow North East" Name="북동쪽 화살표"/>
+    <Elem NameU="Double Arrow Down" Name="아래쪽 이중 화살표"/>
+    <Elem NameU="Curved Arrow Right" Name="곡선 화살표 오른쪽으로"/>
+    <Elem NameU="Curved Arrow Down" Name="곡선 화살표 아래로"/>
+    <Elem NameU="Curved Arrow Up" Name="곡선 화살표 위로"/>
+    <Elem NameU="Long Curved Arrow" Name="긴 곡선 화살표"/>
+    <Elem NameU="Return Arrow" Name="리턴 화살표"/>
+    <Elem NameU="Curved Arrow Left" Name="왼쪽 곡선 화살표"/>
+    <Elem NameU="Arch Arrow" Name="아치모양 화살표"/>
+    <Elem NameU="Short Arch Arrow" Name="짧은 아치모양 화살표"/>
+    <Elem NameU="Style Arrow Curved" Number="2" Name="곡선 화살표"/>
+    <Elem NameU="Right-turn Arrow" Name="우회전 화살표"/>
+    <Elem NameU="Left-turn Arrow" Name="좌회전 화살표"/>
+    <Elem NameU="Two-direction Arrow" Name="양방향 화살표"/>
+    <Elem NameU="Multi Arrow Gradient" Name="다중 화살표 그라디언트"/>
+    <Elem NameU="Arrow Square" Name="사각형 화살표"/>
+    <Elem NameU="Big Head Arrow" Name="큰 머리 화살표"/>
+    <Elem NameU="Arrow With Hollow Circle" Name="중공 원 화살표"/>
+    <Elem NameU="Highlight Arrow Down" Name="아래쪽 하이라이트 화살표"/>
+    <Elem NameU="Highlight Arrow Up" Name="위쪽 하이라이트 화살표"/>
+    <Elem NameU="Style Arrow Curved" Number="2" Name="곡선 화살표"/>
+    <Elem NameU="Arrow Moving Up" Name="위로 이동 화살표"/>
+    <Elem NameU="Arrow Move Up" Name="위로 이동 화살표"/>
+    <Elem NameU="Arrow Going Up" Name="화살표 위로"/>
+    <Elem NameU="Arrow Moving Down" Name="화살표 아래로"/>
+    <Elem NameU="Arrow Move Down" Name="화살표 아래로"/>
+    <Elem NameU="Wave Arrow" Name="웨이브 모양 화살표"/>
+    <Elem NameU="Arrow Vertical Moving" Name="수직 이동 3D 화살표"/>
+    <Elem NameU="Arrow Moving Further" Name="점점 멀어지는 화살표"/>
+    <Elem NameU="Wave Arrow" Name="웨이브 모양 화살표"/>
+    <Elem NameU="Arrow Moving Closer" Name="가까이 이동하는 화살표"/>
+    <Elem NameU="Arrow Moving Backward" Name="뒤로 이동하는 화살표"/>
+    <Elem NameU="Arrow Moving Closer" Name="가까이 이동하는 화살표"/>
+    <Elem NameU="Arrow Moving Left" Name="왼쪽으로 이동하는 화살표"/>
+    <Elem NameU="Verticle Arrow Right" Name="3D 세로 화살표(오른쪽)"/>
+    <Elem NameU="3D Curved Arrow" Name="3D 굽은 화살표"/>
+    <Elem NameU="3D Straight Arrow" Name="3D 직선 화살표 "/>
+    <Elem NameU="3d Arrow Going Left" Name="3D 화살표(왼쪽)"/>
+    <Elem NameU="3D Arch Arrow" Name="3D 아치모양 화살표"/>
+    <Elem NameU="Cycle Arrow 3D" Name="순환 화살표（3D）"/>
+    <Elem NameU="Head-to-head Arrow" Name="일대일 화살표"/>
+    <Elem NameU="Two-direction Arrow" Name="양방향 화살표"/>
+    <Elem NameU="Infographic Arrow" Number="16" Name="인포그래픽 화살표"/>
+</Lib>

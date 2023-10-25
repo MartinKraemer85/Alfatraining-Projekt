@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Implementation and Migration">
+	<Elem NameU="Plateau" Name="稳定期"/>
+	<Elem NameU="Gap" Name="差距"/>
+	<Elem NameU="Deliverable" Name="交付成果"/>
+	<Elem NameU="Work Package" Name="工作包"/>
+	<Elem NameU="Implementation Event" Name="实施事项"/>
+</Lib>

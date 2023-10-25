@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Elevations">
+    <Elem NameU="Frame" Name="框架"/>
+    <Elem NameU="Frame 2" Name="框架 2"/>
+    <Elem NameU="Divider - H" Name="垂直分隔物"/>
+    <Elem NameU="Divider - V" Name="水平分隔物"/>
+    <Elem NameU="Divider - H 2" Name="垂直分隔物2"/>
+    <Elem NameU="Divider - V 2" Name="水平分隔物2"/>
+    <Elem NameU="Diveder 2" Name="分隔物 2"/>
+    <Elem NameU="Rect" Name="板"/>
+    <Elem NameU="Door Left" Name="左门"/>
+    <Elem NameU="Door Right" Name="右门"/>
+    <Elem NameU="Door Double" Name="双门"/>
+    <Elem NameU="Bedside cabinet" Name="床头柜"/>
+    <Elem NameU="Sofa" Name="沙发"/>
+    <Elem NameU="Washbasin" Name="洗脸盆"/>
+    <Elem NameU="Plants" Name="盆栽"/>
+    <Elem NameU="Fireplace" Name="壁炉"/>
+    <Elem NameU="Painting" Name="挂画"/>
+    <Elem NameU="Wall" Name="墙壁"/>
+    <Elem NameU="Flue" Name="烟道"/>
+    <Elem NameU="Table facet" Name="台面"/>
+    <Elem NameU="L table facet" Name="L形台面"/>
+    <Elem NameU="Drainage pipe" Name="排水管"/>
+    <Elem NameU="Outlet" Name="排放孔"/>
+    <Elem NameU="Intake" Name="通风口"/>
+	<Elem NameU="Toilet" Name="厕所"/>
+    <Elem NameU="Gas stove" Name="燃气灶"/>
+</Lib>

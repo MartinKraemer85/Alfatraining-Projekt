@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Equipment-Valves">
+	<Elem NameU="Gate valve, Hand-operated" Name="Válvula de guilhotina, Operada manualmente"/>
+	<Elem NameU="Gate valve" Name="Válvula de guilhotina"/>
+	<Elem NameU="Normally closed gate valve" Name="Válvula de guilhotina habitualmente fechada"/>
+	<Elem NameU="Globe valve, Hand-operated" Name="Válvula de globo, Operada manualmente"/>
+	<Elem NameU="Globe valve" Name="Válvula de globo"/>
+	<Elem NameU="Rotary valve" Name="Válvula rotativa"/>
+	<Elem NameU="Needle valve" Name="Válvula de agulha"/>
+	<Elem NameU="Control valve" Name="Válvula de controle"/>
+	<Elem NameU="Piston-operated valve" Name="Válvula operada a pistão"/>
+	<Elem NameU="Back Pressure Regulator" Name="Regulador de Contrapressão"/>
+	<Elem NameU="Plug or cock valve" Name="Ligação ou Válvula de Torneira"/>
+	<Elem NameU="Check valve" Name="Válvula de retenção"/>
+	<Elem NameU="Check valve 2" Name="Válvula de retenção 2"/>
+	<Elem NameU="Butterfly valve" Name="Válvula borboleta"/>
+	<Elem NameU="Flanged valve, Hand-operated" Name="Válvula falangeada, Operada manualmente"/>
+	<Elem NameU="Flanged valve 2" Name="Válvula flangeada 2"/>
+	<Elem NameU="Angle valve, Hand-operated" Name="Válvula de ângulo, Operada manualmente"/>
+	<Elem NameU="Angle globe valve" Name="Válvula de globe de ângulo"/>
+	<Elem NameU="Relief valve" Name="Válvula de escape"/>
+	<Elem NameU="Angle blowdown valve" Name="Válvula de purga de ângulo"/>
+	<Elem NameU="Ball" Name="Bola"/>
+	<Elem NameU="Normally closed ball valve" Name="Válvula de bola habitualmente fechada"/>
+	<Elem NameU="Diaghragm" Name="Diafragma"/>
+	<Elem NameU="Plug valve" Name="Válvula de obturador"/>
+	<Elem NameU="Solenoid valve" Name="Válvula solenoide"/>
+	<Elem NameU="Hydraulic valve" Name="Válvula hidráulica"/>
+	<Elem NameU="Motor-operated valve" Name="Válvula operada a motor"/>
+	<Elem NameU="Pilot gate valve" Name="Válvula de porta piloto"/>
+	<Elem NameU="Weight gate valve" Name="Válvula de porta de peso"/>
+	<Elem NameU="Powered valve" Name="Válvula alimentada"/>
+	<Elem NameU="Float-operated valve" Name="Válvula operada por flutuação"/>
+	<Elem NameU="3-way valve" Name="Válvula de 3-vias"/>
+	<Elem NameU="3-way plug valve" Name="Válvula de tomada de 3-vias"/>
+	<Elem NameU="3-way valve 2" Name="Válvula de 3-vias 2"/>
+	<Elem NameU="4-way plug valve" Name="Válvula de tomada de 4-vias"/>
+	<Elem NameU="4-way valve" Name="Válvula de 4-vias"/>
+	<Elem NameU="Electro-hydraulic gate valve" Name="Válvula de porta eletro-hidráulica"/>
+	<Elem NameU="Balanced diaphragm gate valve" Name="Válvula de porta de diafragma balanceado"/>
+	<Elem NameU="Spring gate valve" Name="Válvula de porta de mola"/>
+	<Elem NameU="Ram valve" Name="Válvula de aríete"/>
+	<Elem NameU="Slide valve" Name="Válvula de deslize"/>
+	<Elem NameU="Metering coke" Name="Coque de medição"/>
+	<Elem NameU="Knife valve" Name="Válvula de faca"/>
+	<Elem NameU="Excess flow valve" Name="Válvula de excesso de fluxo"/>
+	<Elem NameU="Post indicator valve" Name="Válvula de pós indicador"/>
+	<Elem NameU="Self draining valve" Name="Válvula de auto-drenagem"/>
+	<Elem NameU="Diaphragm valve" Name="Válvula de diafragma"/>
+	<Elem NameU="Pinch valve" Name="Válvula de aperto"/>
+	<Elem NameU="Minimum flow valve" Name="Válvula de fluxo mínimo"/>
+	<Elem NameU="Auto recirculation valve" Name="Válvula de auto-recirculação"/>
+	<Elem NameU="Gauge" Name="Bitola"/>
+	<Elem NameU="Bleeder valve" Name="Válvula de sangrador"/>
+	<Elem NameU="Integrated block and bleed valve" Name="Válvula de sangrador e bloco integrada"/>
+	<Elem NameU="Manual integrated block and bleed valve" Name="Válvula de sangrador e bloco integrada manual"/>
+	<Elem NameU="Orifice" Name="Orifício"/>
+	<Elem NameU="Rotameter" Name="Rotâmetro"/>
+	<Elem NameU="Quarter turn valve double acting" Name="Válvula de quarto de giro de dupla atuação"/>
+	<Elem NameU="Quarter turn valve spring acting" Name="Válvula de quarto de giro de atuação de mola"/>
+	<Elem NameU="Water flow meter" Name="Caudalímetro de água"/>
+	<Elem NameU="Self-operating release valve" Name="Válvula de escape auto-operada"/>
+</Lib>

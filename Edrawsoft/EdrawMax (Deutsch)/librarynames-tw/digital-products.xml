@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Digital Products">
+	<Elem NameU="Bluetooth Headset" Name="藍牙耳機"/>
+	<Elem NameU="Camera" Name="照相機"/>
+	<Elem NameU="Camera 2" Name="照相機 2"/>
+	<Elem NameU="CD Player" Name="CD機"/>
+	<Elem NameU="Earphone" Name="耳機"/>
+	<Elem NameU="Gamepad" Name="遊戲機手柄"/>
+	<Elem NameU="Google Glass" Name="谷歌眼鏡"/>
+	<Elem NameU="iPad" Name="蘋果平板電腦"/>
+	<Elem NameU="iPhone" Name="蘋果手機"/>
+	<Elem NameU="iPod Shuffle" Name="iPod Shuffle"/>
+	<Elem NameU="iPod" Name="iPod"/>
+	<Elem NameU="Joystick" Name="遊戲操作桿"/>
+	<Elem NameU="Mobile Power" Name="移動電源"/>
+	<Elem NameU="Navigator" Name="導航器"/>
+	<Elem NameU="Pad" Name="Pad"/>
+	<Elem NameU="PSP" Name="PSP"/>
+	<Elem NameU="SmartWatch" Name="智能手錶"/>
+	<Elem NameU="Smartphone" Name="智能手機"/>
+	<Elem NameU="Tablet Computer" Name="平板電腦"/>
+	<Elem NameU="Video Camera" Name="攝像機"/>
+	<Elem NameU="XBox" Name="XBox"/>
+</Lib>

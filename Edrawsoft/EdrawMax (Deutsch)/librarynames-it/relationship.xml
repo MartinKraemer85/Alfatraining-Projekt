@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Relationship">
+	<Elem NameU="Line connector" Name="Connettore lineare"/>
+	<Elem NameU="Right angle connector" Name="Connettore ad angolo retto"/>
+	<Elem NameU="Double line connector" Name="Connettore a linea doppia"/>
+	<Elem NameU="Message" Name="Messaggio"/>
+	<Elem NameU="Aggregation" Name="Aggregazione"/>
+	<Elem NameU="Composition" Name="Composizione"/>
+	<Elem NameU="Inheritance" Name="Ereditarietà"/>
+	<Elem NameU="Dependency" Name="Dipendenza"/>
+	<Elem NameU="Association" Name="Associazione"/>
+	<Elem NameU="Interface" Name="Interfaccia"/>
+	<Elem NameU="Interface Type Imp" Name="Implementazione a Interfaccia"/>
+	<Elem NameU="Required Interface" Name="Interfaccia Richiesta"/>
+	<Elem NameU="Include" Name="Includi"/>
+	<Elem NameU="Extend" Name="Estendi"/>
+	<Elem NameU="Constraint" Name="Comprimi"/>
+	<Elem NameU="Directed Association" Name="Associazione Diretta"/>
+	<Elem NameU="Synchronous Message" Name="Messaggio Sincrono"/>
+	<Elem NameU="ASynchronous Message" Name="Messaggio Asincrono"/>
+	<Elem NameU="Return Message" Name="Messaggio di Ritorno"/>
+	<Elem NameU="Initial State" Name="Stato Iniziale"/>
+	<Elem NameU="Parameter" Name="Parametro"/>
+	<Elem NameU="1 or more" Name="1 o più"/>
+	<Elem NameU="1 and only 1" Name="1 e solo 1"/>
+	<Elem NameU="0 or 1" Name="0 o 1"/>
+	<Elem NameU="M : 1" Name="M : 1"/>
+	<Elem NameU="1 : 1" Name="1 : 1"/>
+	<Elem NameU="One to many caption" Name="Da uno a molti"/>
+	<Elem NameU="Many to many caption" Name="Da molti a molti"/>
+	<Elem NameU="One to one caption" Name="Da uno a uno"/>
+	<Elem NameU="Variable to variable" Name="Da variabile a variabile"/>
+</Lib>

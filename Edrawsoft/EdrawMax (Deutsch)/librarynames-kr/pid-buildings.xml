@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Buildings">
+    <Elem NameU="Arch-style building" Name="아치형 빌딩"/>
+    <Elem NameU="Commercial building 1" Name="상업 건물 1"/>
+    <Elem NameU="Commercial building 2" Name="상업 건물 2"/>
+    <Elem NameU="Factory 1" Name="공장 1"/>
+    <Elem NameU="Factory 2" Name="공장 2"/>
+    <Elem NameU="Factory 3" Name="공장 3"/>
+    <Elem NameU="Industrial building 1" Name="공업 건물 1"/>
+    <Elem NameU="Industrial building 2" Name="공업 건물 2"/>
+    <Elem NameU="Industrial building 3" Name="공업 건물 3"/>
+    <Elem NameU="Industrial building 4" Name="공업 건물 4"/>
+    <Elem NameU="Industrial building 5" Name="공업 건물 5"/>
+    <Elem NameU="Industrial building 6" Name="공업 건물 6"/>
+    <Elem NameU="Industrial building 7" Name="공업 건물 7"/>
+    <Elem NameU="Industrial building with slanted roof" Name="경사진 루프의 공업 건물"/>
+    <Elem NameU="Industrial building with stack" Name="굴뚝 있는 공업 건물"/>
+    <Elem NameU="Modular office 1" Name="모듈형 사무실 1"/>
+    <Elem NameU="Modular office 2" Name="모듈형 사무실 2"/>
+    <Elem NameU="Outdoor enclosure" Name="실외 인클로저"/>
+    <Elem NameU="Shelter" Name="피난처"/>
+    <Elem NameU="Utility building (gray)" Name="유틸리티 빌딩 (회색)"/>
+    <Elem NameU="Utility building (green)" Name="유틸리티 빌딩 (녹색)"/>
+    <Elem NameU="Pig and Bull House" Name="가축집"/>
+</Lib>

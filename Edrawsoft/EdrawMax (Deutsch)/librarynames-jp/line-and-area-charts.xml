@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Line and Area Charts">
+	<Elem NameU="Line Chart 1" Name="折れ線グラフ1"/>
+	<Elem NameU="Line Chart 2" Name="折れ線グラフ2"/>
+	<Elem NameU="Line Chart 3" Name="折れ線グラフ3"/>
+	<Elem NameU="Step Line Chart" Name="ステップ折れ線グラフ"/>
+	<Elem NameU="Step Line Chart 2" Name="ステップ折れ線グラフ2"/>
+	<Elem NameU="100% Line Chart" Name="100％折れ線グラフ"/>
+	<Elem NameU="Area Chart 1" Name="面グラフ1"/>
+	<Elem NameU="Area Chart 2" Name="面グラフ2"/>
+	<Elem NameU="Step Area Chart" Name="ステップ面グラフ"/>
+	<Elem NameU="Step Area Chart 2" Name="ステップ面グラフ2"/>
+	<Elem NameU="Collective Area Chart" Name="集合面グラフ"/>
+	<Elem NameU="Collective Area Chart 2" Name="集合面グラフ 2"/>
+</Lib>

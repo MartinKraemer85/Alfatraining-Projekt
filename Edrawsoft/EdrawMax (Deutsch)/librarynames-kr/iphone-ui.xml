@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="iPhone UI">
+    <Elem NameU="iPhone 5" Name="iPhone 5&#x9;"/>
+    <Elem NameU="iPhone 6" Name="iPhone 6&#x9;"/>
+    <Elem NameU="iPhone 6 Plus" Name="iPhone 6 Plus&#x9;"/>
+    <Elem NameU="Status Bar" Number="4" Name="상태바"/>
+    <Elem NameU="Navigation Bar 1" Name="내비게이션 바1"/>
+    <Elem NameU="Navigation Bar 2" Name="내비게이션 바2"/>
+    <Elem NameU="Navigation Bar 3" Name="내비게이션 바3"/>
+    <Elem NameU="Button and NavBar Tool" Number="2" Name="버튼과 내비게이션 바 도구"/>
+    <Elem NameU="Three Buttons Control 1" Name="세 개의 버튼 컨트롤1"/>
+    <Elem NameU="Three Buttons Control 2" Name="세 개의 버튼 컨트롤2"/>
+    <Elem NameU="Two Buttons Control 1" Name="두 개의 버튼 컨트롤1"/>
+    <Elem NameU="Two Buttons Control 2" Name="두 개의 버튼 컨트롤2"/>
+    <Elem NameU="Search bar" Name="검색창"/>
+    <Elem NameU="Message Bar" Name="메시지 바"/>
+    <Elem NameU="Dialog box" Number="3" Name="대화 상자"/>
+    <Elem NameU="Menu bar" Number="4" Name="메뉴바"/>
+    <Elem NameU="Menu Bar 1" Name="메뉴바 1"/>
+    <Elem NameU="Menu Bar 2" Name="메뉴바 2"/>
+    <Elem NameU="Menu Bar 3" Name="메뉴바 3"/>
+    <Elem NameU="Menu Bar 4" Name="메뉴바 4"/>
+    <Elem NameU="Menu Bar 5" Name="메뉴바 5"/>
+    <Elem NameU="Menu Bar 6" Name="메뉴바 6"/>
+    <Elem NameU="Menu Bar 7" Name="메뉴바 7"/>
+    <Elem NameU="Menu Bar 8" Name="메뉴바 8"/>
+    <Elem NameU="Menu Bar 9" Name="메뉴바 9"/>
+    <Elem NameU="Menu Bar 10" Name="메뉴바 10"/>
+    <Elem NameU="Slider" Number="2" Name="슬라이더"/>
+    <Elem NameU="Progress bar" Name="진행 표시 바"/>
+    <Elem NameU="Line between" Name="중간선"/>
+    <Elem NameU="Circular Progress View" Number="2" Name="진행 과정 보기"/>
+    <Elem NameU="Dialog 1" Name="대화 상자 1"/>
+    <Elem NameU="Dialog 2" Name="대화 상자 2"/>
+    <Elem NameU="Dialog 3" Name="대화 상자 3"/>
+    <Elem NameU="Dialog 4" Name="대화 상자 4"/>
+    <Elem NameU="Time" Number="2" Name="시간"/>
+    <Elem NameU="Weather" Name="날씨"/>
+    <Elem NameU="Menu" Name="메뉴"/>
+    <Elem NameU="Phone keyboard" Name="전화 키보드"/>
+    <Elem NameU="Phone buttons" Name="전화 버튼"/>
+    <Elem NameU="MENU-Call Related Features" Name="메뉴-통화 관련 기능"/>
+    <Elem NameU="Code keyboard" Name="코드 키보드"/>
+    <Elem NameU="Keyboard Control" Number="2" Name="키보드 컨트롤"/>
+    <Elem NameU="Number Keyboard" Name="숫자 키보드"/>
+    <Elem NameU="Symbols keyboard" Name="기호 키보드"/>
+    <Elem NameU="Message" Name="메시지"/>
+    <Elem NameU="Messages" Name="정보"/>
+    <Elem NameU="Image" Name="이미지"/>
+    <Elem NameU="User" Name="사용자"/>
+    <Elem NameU="Turn On" Name="켜기"/>
+    <Elem NameU="Turn Off" Name="끄기"/>
+    <Elem NameU="Delete Button" Name="버튼 삭제"/>
+    <Elem NameU="Back" Name="뒤로"/>
+    <Elem NameU="Slider 1" Name="슬라이더 1"/>
+    <Elem NameU="Slider 2" Name="슬라이더 2"/>
+    <Elem NameU="Button Bar" Number="2" Name="버튼바"/>
+    <Elem NameU="Button" Name="버튼"/>
+    <Elem NameU="Small Blue Button" Name="파란 버튼"/>
+    <Elem NameU="Small Red Button" Name="빨간 버튼"/>
+    <Elem NameU="Small Black" Name="검정"/>
+    <Elem NameU="Header Button" Name="제목 버튼"/>
+    <Elem NameU="Header Back" Name="헤더 뒤로"/>
+    <Elem NameU="Header Forward" Name="헤더 앞으로"/>
+    <Elem NameU="Up/Down Button" Name="위/아래 버튼"/>
+    <Elem NameU="Radio Button On" Name="단일 버튼 켜기"/>
+    <Elem NameU="Checkbox Button Off" Name="체크 박스 버튼 끄기"/>
+    <Elem NameU="Checkbox On Button" Name="버튼위 체크 박스"/>
+    <Elem NameU="Ok Blue" Name="확인 파란색"/>
+    <Elem NameU="Ok Green" Name="확인 녹색"/>
+    <Elem NameU="Close Blue Button" Name="파란색 버튼 끄기"/>
+    <Elem NameU="Close White" Name="화이트 끄기"/>
+    <Elem NameU="Up Blue Button" Name="파란색 버튼 위쪽"/>
+    <Elem NameU="Up White Button" Name="화이트 버튼 위쪽"/>
+    <Elem NameU="Add Green Transparent Button" Name="녹색 투명 버튼 추가"/>
+    <Elem NameU="Delete Transparent Button" Name="투명 버튼 삭제"/>
+    <Elem NameU="Rec Button" Name="“녹화”버튼"/>
+    <Elem NameU="App Button" Name="앱 버튼"/>
+    <Elem NameU="Volume Control" Name="볼륨 조절"/>
+    <Elem NameU="Checkbox" Name="체크박스"/>
+    <Elem NameU="Refresh" Name="새로 고침"/>
+    <Elem NameU="Unread Message" Name="읽지 않은 메시지"/>
+    <Elem NameU="Add and Delete" Name="추가와 삭제"/>
+    <Elem NameU="Close" Name="끄기"/>
+    <Elem NameU="OK Blue" Name="확인 파란색"/>
+    <Elem NameU="Add Blue" Name="추가 파란색"/>
+    <Elem NameU="Icons" Name="아이콘"/>
+    <Elem NameU="Star" Name="별"/>
+    <Elem NameU="Pause" Name="중지"/>
+    <Elem NameU="Information" Name="정보"/>
+    <Elem NameU="Left and Right" Name="오른쪽 왼쪽"/>
+    <Elem NameU="Up and Down" Name="위 아래"/>
+    <Elem NameU="Near Me" Name="근처"/>
+    <Elem NameU="Icon Group 1" Name="아이콘 그룹 1"/>
+    <Elem NameU="Icon Group 2" Name="아이콘 그룹 2"/>
+    <Elem NameU="Icon Group 3" Name="아이콘 그룹 3"/>
+    <Elem NameU="App Icon" Name="앱 아이콘"/>
+    <Elem NameU="Block" Name="블록"/>
+    <Elem NameU="Text" Name="텍스트"/>
+    <Elem NameU="Text Selection Frame" Name="텍스트 선택 프레임"/>
+    <Elem NameU="Selection Frame" Name="선택 프레임"/>
+    <Elem NameU="Alert" Name="경보"/>
+</Lib>

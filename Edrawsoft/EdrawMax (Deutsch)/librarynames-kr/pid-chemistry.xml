@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Chemistry">
+    <Elem NameU="Air scrubber" Name="에어 스크러버"/>
+    <Elem NameU="Air stripper" Name="에어 스트리퍼"/>
+    <Elem NameU="Burn tower" Name="굴뚝"/>
+    <Elem NameU="Chemical mixing tank" Name="화학 혼합 탱크"/>
+    <Elem NameU="Chemical processing tower" Name="화학 처리 타워"/>
+    <Elem NameU="Crude unit" Name="Crude unit"/>
+    <Elem NameU="Crystallizer 1" Name="결정기"/>
+    <Elem NameU="Crystallizer 2" Name="결정기"/>
+    <Elem NameU="Crystallizer 3" Name="결정기"/>
+    <Elem NameU="Crystallizer 4" Name="결정기"/>
+    <Elem NameU="Crystallizer 5" Name="결정기"/>
+    <Elem NameU="Distillation column" Name="증류탑"/>
+    <Elem NameU="Dryer tower" Name="건조 타워"/>
+    <Elem NameU="Dryer unit" Name="건조기"/>
+    <Elem NameU="Evaporation process" Name="증발 과정"/>
+    <Elem NameU="Evaporator" Number="2" Name="증발기"/>
+    <Elem NameU="Filter system" Number="2" Name="필터 시스템"/>
+    <Elem NameU="Filter 1" Name="필터"/>
+    <Elem NameU="Filter 2" Name="필터"/>
+    <Elem NameU="Filter 3" Name="필터"/>
+    <Elem NameU="Fractionator" Name="분별기"/>
+    <Elem NameU="Gas and liquid separator" Name="가스 및 액체 분리기"/>
+    <Elem NameU="Gas processor" Name="가스 프로세서"/>
+    <Elem NameU="Heated desiccant dryer" Name="가열식 건조제"/>
+    <Elem NameU="Heatless desiccant dryer" Name="무열 건조제"/>
+    <Elem NameU="Process column" Name="공예탑"/>
+    <Elem NameU="Process mixer" Name="믹서"/>
+    <Elem NameU="Refinery tower" Name="정유 타워"/>
+    <Elem NameU="Ribbon blender" Name="리본 블렌더"/>
+    <Elem NameU="Segmented flux capacitor" Name="분할된 플럭스 커패시터"/>
+    <Elem NameU="Simple air stripper" Name="간단한 에어 스트리퍼"/>
+    <Elem NameU="Simple draft-tube baffle crystallizer" Name="간단한 드래프트 튜브 배플 결정기"/>
+    <Elem NameU="Simple fluidized baffle crystallizer" Name="간단한 유동 배플 결정기"/>
+    <Elem NameU="Stripper" Name="스트리퍼"/>
+    <Elem NameU="Thermal oxidizer" Name="열 산화제"/>
+    <Elem NameU="Thermal processing tower" Name="열처리 타워"/>
+    <Elem NameU="Ammonia separator liquid level" Name="암모니아 분리기"/>
+    <Elem NameU="Cyclone separator" Number="2" Name="사이클론 분리기"/>
+    <Elem NameU="Centrifugal separation" Name="원심 분리"/>
+    <Elem NameU="Cyclone Dust Extractor" Name="사이클론 먼지 추출기"/>
+    <Elem NameU="Circulation Type Cyclone Dust Extractor" Name="순환식 사이클론 집진기"/>
+    <Elem NameU="Cyclone Separator" Name="사이클론 분리기"/>
+    <Elem NameU="Dust chamber" Name="먼지 챔버"/>
+    <Elem NameU="Dedusting by Water Curtain" Name="워터 커튼으로 먼지 제거"/>
+    <Elem NameU="Electrostatic Precipitator" Name="전기 집진기"/>
+    <Elem NameU="High-efficient Desulfurization Dust Extractor" Name="고효율 탈황 집진기"/>
+    <Elem NameU="Bag-type Dust Remover" Name="가방형 먼지 제거기"/>
+    <Elem NameU="Gravitational separator" Name="중력 분리기"/>
+    <Elem NameU="Tails separator" Name="꼬리 분리기"/>
+    <Elem NameU="Moisture Separator" Name="수분 분리기"/>
+    <Elem NameU="Pulsed jet cloth filter" Name="펄스 제트 천 필터"/>
+    <Elem NameU="High-speed Centrifugal Atomizer" Name="고속 원심 분무기"/>
+    <Elem NameU="Reboiler" Name="리보일러"/>
+    <Elem NameU="Desulfurizer" Name="탈황기"/>
+    <Elem NameU="Mixer" Name="믹서"/>
+    <Elem NameU="Crystallization tower" Name="결정화 타워"/>
+    <Elem NameU="Distillation Tower" Name="증류탑"/>
+    <Elem NameU="Thionizer" Name="Thionizer"/>
+    <Elem NameU="Absorption Tower" Name="흡수탑"/>
+    <Elem NameU="FGD Absorber" Name="FGD 흡수기"/>
+    <Elem NameU="Oxidation Tower" Name="산화 타워"/>
+    <Elem NameU="Recovery tower" Name="복구 타워"/>
+    <Elem NameU="Reboiler" Name="리보일러"/>
+    <Elem NameU="Reaction Tower" Name="반응 타워"/>
+    <Elem NameU="Reactor" Name="반응기"/>
+    <Elem NameU="Scrubbing tower" Name="스크러빙 타워"/>
+    <Elem NameU="Stabilization Tower" Name="안정화 타워"/>
+    <Elem NameU="Ammonia Absorption Tower" Name="암모니아 흡수 탑"/>
+    <Elem NameU="Tank" Number="2" Name="탱크"/>
+    <Elem NameU="Protein Skimmer" Name="단백질 스키머"/>
+    <Elem NameU="Air conditioner" Name="에어컨"/>
+    <Elem NameU="Ammonia Storage Device" Name="암모니아 저장 장치"/>
+    <Elem NameU="Ammoniation Reactor" Name="암모니아화 반응기"/>
+    <Elem NameU="SCR Reactor" Name="SCR반응기"/>
+    <Elem NameU="After fermentation tank" Name="발효 처리 탱크"/>
+    <Elem NameU="Level of anaerobic reaction tank" Name="혐기성 반응조 레벨"/>
+    <Elem NameU="Fermentor" Name="발효기"/>
+    <Elem NameU="Fermentation" Name="발효"/>
+    <Elem NameU="Garbage Disposal" Name="쓰레기 처리"/>
+    <Elem NameU="Gas torch" Name="가스 토치"/>
+    <Elem NameU="Modifier" Name="개질제"/>
+    <Elem NameU="Modifier Absorption System" Name="개질제 흡수 시스템"/>
+    <Elem NameU="Stabilizer absorption system" Name="안정제 흡수 시스템"/>
+    <Elem NameU="Stabilizer" Name="안정제"/>
+    <Elem NameU="Rectification" Name="정류"/>
+    <Elem NameU="Ozone Generator" Name="오존 발생기"/>
+    <Elem NameU="Commingler" Name="믹서"/>
+    <Elem NameU="Cyclotron precipitation" Name="사이클로트론 침전"/>
+    <Elem NameU="Conditioning system" Name="컨디셔닝 시스템"/>
+    <Elem NameU="Uht-system" Name="Uht-system"/>
+    <Elem NameU="Deaerator" Name="탈기기"/>
+    <Elem NameU="Deoxygenation" Name="탈 산소화"/>
+    <Elem NameU="Oxygenizer" Name="산 소화기"/>
+    <Elem NameU="Evaporator" Name="증발기"/>
+    <Elem NameU="Microbial Strain" Name="미생물 균주"/>
+</Lib>

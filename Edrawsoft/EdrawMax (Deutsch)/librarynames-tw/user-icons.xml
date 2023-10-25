@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="User Icons">
+    <Elem NameU="Add User" Name="添加用戶"/>
+    <Elem NameU="Delete Users" Name="删除用戶"/>
+    <Elem NameU="Remove User" Name="移除用戶"/>
+    <Elem NameU="Administrator" Name="管理員"/>
+    <Elem NameU="Export User" Name="導出用戶"/>
+    <Elem NameU="Import User" Name="導入用戶"/>
+    <Elem NameU="Download User" Name="下載用戶"/>
+    <Elem NameU="Upload User" Name="上傳用戶"/>
+    <Elem NameU="Internet Users" Name="網絡用戶"/>
+    <Elem NameU="Warning User" Name="警告用戶"/>
+    <Elem NameU="Edit User" Name="編輯用戶"/>
+    <Elem NameU="Special User" Name="特殊用戶"/>
+    <Elem NameU="Lock User" Name="鎖定用戶"/>
+    <Elem NameU="Unlock User" Name="解鎖用戶"/>
+    <Elem NameU="Mail User" Name="郵件用戶"/>
+    <Elem NameU="User Pass" Name="用戶通過"/>
+    <Elem NameU="Reject User" Name="拒絕用戶"/>
+    <Elem NameU="Looking for Users" Name="找尋用戶"/>
+    <Elem NameU="Star User" Name="星標用戶"/>
+    <Elem NameU="Load User" Name="加載用戶"/>
+    <Elem NameU="Unknown User" Name="未知用戶"/>
+    <Elem NameU="Outlook User" Name="Outlook用戶"/>
+    <Elem NameU="CSV File" Name="csv檔案"/>
+    <Elem NameU="Cloud User" Name="雲端硬碟用戶"/>
+    <Elem NameU="Mobile Users" Name="移動用戶"/>
+    <Elem NameU="Communication" Name="通信"/>
+    <Elem NameU="UM User" Name="UM用戶"/>
+    <Elem NameU="Response Group" Name="響應組"/>
+    <Elem NameU="Tenant Management" Name="租戶管理"/>
+    <Elem NameU="Role Grouping" Name="角色分組"/>
+    <Elem NameU="Dynamic Communication Group" Name="動態通信組"/>
+    <Elem NameU="User" Number="3" Name="用戶"/>
+    <Elem NameU="Commercial VoIP User" Name="商用VoIP用戶"/>
+</Lib>

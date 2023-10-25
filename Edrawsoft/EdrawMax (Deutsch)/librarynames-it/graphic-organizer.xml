@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Graphic Organizer">
+	<Elem NameU="Bee" Name="Ape"/>
+	<Elem NameU="Crab" Name="Granchio"/>
+	<Elem NameU="Fish" Name="Pesce"/>
+	<Elem NameU="Frog" Name="Rana"/>
+	<Elem NameU="Cow" Name="Mucca"/>
+	<Elem NameU="Caterpillar" Name="Bruco"/>
+	<Elem NameU="Elephant" Name="Elefante"/>
+	<Elem NameU="Bear" Name="Orso"/>
+	<Elem NameU="Duck" Name="Papera"/>
+	<Elem NameU="Kangaroo" Name="Canguro"/>
+	<Elem NameU="Giraffe" Name="Giraffa"/>
+	<Elem NameU="Rabbit" Name="Coniglio"/>
+	<Elem NameU="Bird" Name="Uccello"/>
+	<Elem NameU="Spider Web" Name="Ragnatela"/>
+	<Elem NameU="Ice Cream" Name="Gelato"/>
+	<Elem NameU="Tree" Name="Albero"/>
+	<Elem NameU="Apple" Name="Mela"/>
+	<Elem NameU="Tomato" Name="Pomodoro"/>
+	<Elem NameU="Sun" Name="Sole"/>
+	<Elem NameU="Balloon" Name="Palloncino"/>
+	<Elem NameU="Flower" Name="Fiore"/>
+	<Elem NameU="Leaf" Name="Foglia"/>
+	<Elem NameU="Trees" Name="Alberi"/>
+	<Elem NameU="Candy 1" Name="Caramella 1"/>
+	<Elem NameU="Candy 2" Name="Caramella 2"/>
+	<Elem NameU="Cloud" Name="Nuvola"/>
+	<Elem NameU="Water Drop" Name="Goccia d'Acqua"/>
+	<Elem NameU="Hand" Name="Mano"/>
+	<Elem NameU="House" Name="Casa"/>
+	<Elem NameU="Umbrella" Name="Ombrello"/>
+	<Elem NameU="Rainbow" Name="Arcobaleno"/>
+	<Elem NameU="Lolipop" Name="Lecca Lecca"/>
+	<Elem NameU="Ice Sucker" Name="Ghiacciolo"/>
+	<Elem NameU="Heart" Name="Cuore"/>
+	<Elem NameU="Strawberry" Name="Fragola"/>
+	<Elem NameU="Frame 1" Name="Cornice 1"/>
+	<Elem NameU="Frame 2" Name="Cornice 2"/>
+</Lib>

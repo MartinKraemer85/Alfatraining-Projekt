@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Business">
+	<Elem NameU="Global" Name="Globale"/>
+	<Elem NameU="Research" Name="Ricerca"/>
+	<Elem NameU="International" Name="Internazionale"/>
+	<Elem NameU="Hot Air Balloon" Name="Mongolfiera"/>
+	<Elem NameU="City" Name="Città"/>
+	<Elem NameU="Skyscraper" Name="Grattacielo"/>
+	<Elem NameU="Branch" Name="Succursale"/>
+	<Elem NameU="Business Office" Name="Ufficio Aziendale"/>
+	<Elem NameU="Purchase" Name="Acquisto"/>
+	<Elem NameU="Warehouse" Name="Magazzino"/>
+	<Elem NameU="Goods" Name="Beni"/>
+	<Elem NameU="Goods 2" Name="Beni 2"/>
+	<Elem NameU="Labor" Name="Manodopera"/>
+	<Elem NameU="CEO" Name="Amministratore Delegato"/>
+	<Elem NameU="CEO 2" Name="Amministratore Delegato 2"/>
+	<Elem NameU="Communication" Name="Comunicazione"/>
+	<Elem NameU="Customer Service" Name="Servizio Clienti"/>
+	<Elem NameU="Customer Service 2" Name="Servizio Clienti 2"/>
+	<Elem NameU="Direction" Name="Direzione"/>
+	<Elem NameU="Competition" Name="Competizione"/>
+	<Elem NameU="Team Work" Name="Lavoro di Squadra"/>
+	<Elem NameU="Binding" Name="Rilegatura"/>
+	<Elem NameU="Invoice" Name="Fattura"/>
+	<Elem NameU="Letter" Name="Lettera"/>
+	<Elem NameU="Award" Name="Premio"/>
+	<Elem NameU="Award 2" Name="Premio 2"/>
+	<Elem NameU="Income" Name="Introiti"/>
+	<Elem NameU="Expenses" Name="Spese"/>
+	<Elem NameU="Cost" Name="Costi"/>
+	<Elem NameU="Tax" Name="Tasse"/>
+	<Elem NameU="R &amp;amp; D" Name="Ricerca e Sviluppo"/>
+	<Elem NameU="Cash Register" Name="Registro di Cassa"/>
+</Lib>

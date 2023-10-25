@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Architecture">
+    <Elem NameU="Building" Name="楼房"/>
+    <Elem NameU="Bank" Name="银行"/>
+    <Elem NameU="Beauty Salon" Name="美容院"/>
+    <Elem NameU="Beach Villa" Number="2" Name="海滩别墅"/>
+    <Elem NameU="Cafeteria" Name="餐厅"/>
+    <Elem NameU="Castle" Name="城堡"/>
+    <Elem NameU="Cathedral" Name="大教堂"/>
+    <Elem NameU="Church" Name="教堂"/>
+    <Elem NameU="Coffee House" Name="咖啡馆"/>
+    <Elem NameU="Clothing Store" Name="服装店"/>
+    <Elem NameU="Consulate" Name="领事馆"/>
+    <Elem NameU="Factory" Name="工厂"/>
+    <Elem NameU="Family Apartment" Name="家庭旅馆"/>
+    <Elem NameU="Guest House" Name="宾馆"/>
+    <Elem NameU="Gymnasium" Name="健身房"/>
+    <Elem NameU="Hospital" Name="医院"/>
+    <Elem NameU="Hotel" Name="酒店"/>
+    <Elem NameU="House 1" Name="房子1"/>
+    <Elem NameU="House 2" Name="房子2"/>
+    <Elem NameU="House 3" Name="房子3"/>
+    <Elem NameU="Library" Name="图书馆"/>
+    <Elem NameU="Kindergarten" Name="幼儿园"/>
+    <Elem NameU="Market" Name="市场"/>
+    <Elem NameU="Mansion 1" Name="大厦1"/>
+    <Elem NameU="Mansion 2" Name="大厦2"/>
+    <Elem NameU="Mansion 3" Name="大厦3"/>
+    <Elem NameU="Mansion 4" Name="大厦4"/>
+    <Elem NameU="Movie Theater" Name="电影院"/>
+    <Elem NameU="Newspaper Kiosk" Name="报刊亭"/>
+    <Elem NameU="Office Building 1" Name="写字楼1"/>
+    <Elem NameU="Office Building 2" Name="写字楼2"/>
+    <Elem NameU="Office Building 3" Name="写字楼3"/>
+    <Elem NameU="Post Office" Name="邮局"/>
+    <Elem NameU="Police Station" Name="警察局"/>
+    <Elem NameU="School" Name="学校"/>
+    <Elem NameU="School Building" Name="学校大楼"/>
+    <Elem NameU="Self-Serve Gas Station" Name="自助加油站"/>
+    <Elem NameU="Shop" Name="店"/>
+    <Elem NameU="Student Dorm Building" Name="学生宿舍"/>
+    <Elem NameU="Supermarket" Name="超市"/>
+    <Elem NameU="Twin Tower" Name="双子塔"/>
+    <Elem NameU="University" Name="大学"/>
+    <Elem NameU="Villa" Name="别墅"/>
+    <Elem NameU="Hot-air balloon 1" Name="热气球1"/>
+    <Elem NameU="Hot-air balloon 2" Name="热气球2"/>
+    <Elem NameU="Hot-air balloon 3" Name="热气球3"/>
+    <Elem NameU="Blue Cloud" Name="蓝色的云"/>
+    <Elem NameU="Yellow Cloud" Name="黄色的云"/>
+    <Elem NameU="Red Cloud" Name="红色的云"/>
+    <Elem NameU="Family" Name="家庭"/>
+</Lib>

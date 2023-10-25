@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Relationship Matrix">
+	<Elem NameU="Basic Matrix" Name="Matrice Base"/>
+	<Elem NameU="Basic Matrix-Vertical Title" Name="Matrice Base-Titolo Verticale"/>
+	<Elem NameU="Basic Matrix-Angled Title" Name="Matrice Base-Titolo Angolato"/>
+	<Elem NameU="Relationship Matrix" Name="Matrice di Relazione"/>
+	<Elem NameU="Involvement Matrix" Name="Matrice di Coinvolgimento"/>
+	<Elem NameU="Involvement Matrix 2" Name="Matrice di Coinvolgimento 2"/>
+	<Elem NameU="Single Column" Name="Colonna Singola"/>
+	<Elem NameU="Single Row" Name="Riga Singola"/>
+	<Elem NameU="Legend" Name="Legenda"/>
+	<Elem NameU="Legend 2" Name="Legenda 2"/>
+	<Elem NameU="Text Block" Name="Blocco di Testo"/>
+	<Elem NameU="12-Role Flag" Name="Segnale a 12 Parti"/>
+	<Elem NameU="10-Role Flag" Name="Segnale a 10 Parti"/>
+	<Elem NameU="Colorful Circle Flag" Name="Segnale Circolare Colorato"/>
+	<Elem NameU="Numbering" Name="Numerazione"/>
+	<Elem NameU="Progress" Name="Avanzamento"/>
+	<Elem NameU="Check Box" Name="Casella di Spunta"/>
+	<Elem NameU="Yes/No" Name="Sì/No"/>
+	<Elem NameU="Play Flag" Name="Segnali di Riproduzione"/>
+	<Elem NameU="Four Directions" Name="Quattro Direzioni"/>
+	<Elem NameU="6-Role Flag" Name="Segnale a 6 Parti"/>
+</Lib>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Kitchen and Dining Room">
+    <Elem NameU="Closet" Number="7" Name="櫥櫃"/>
+    <Elem NameU="Island" Number="2" Name="島"/>
+    <Elem NameU="Square Dining Table" Name="方形餐桌"/>
+    <Elem NameU="Square Dining Table with Rounded Corners" Name="方形圓角餐桌"/>
+    <Elem NameU="Round Dining Table" Name="圓形餐桌"/>
+    <Elem NameU="Rectangular Dining Table with Rounded Corners" Name="長方形圓角餐桌"/>
+    <Elem NameU="Rectangular Dining Table" Name="長方形餐桌"/>
+    <Elem NameU="Gas stoves" Number="6" Name="燃氣灶"/>
+    <Elem NameU="Range with grill" Name="帶烤架的煤氣灶"/>
+    <Elem NameU="Four-element gas range" Name="四爐煤氣灶"/>
+    <Elem NameU="Six-element gas range" Name="六爐煤氣灶"/>
+    <Elem NameU="Gas range" Name="煤氣灶"/>
+    <Elem NameU="Cooker with low oven" Name="有低烤箱的爐灶"/>
+    <Elem NameU="Cooker" Name="爐子"/>
+    <Elem NameU="Range" Name="爐灶"/>
+    <Elem NameU="Flat electic range" Name="電爐"/>
+    <Elem NameU="Slide-in electric range" Name="滑動電爐"/>
+    <Elem NameU="Wall oven" Name="壁爐"/>
+    <Elem NameU="Microwave" Name="微波爐"/>
+    <Elem NameU="Dishwasher" Name="洗碗機"/>
+    <Elem NameU="Washing machine" Name="洗衣機"/>
+    <Elem NameU="Trash compactor" Name="垃圾壓實機"/>
+    <Elem NameU="Food cooler" Name="食物冷卻器"/>
+    <Elem NameU="Sink" Name="水槽"/>
+    <Elem NameU="Juicer" Name="榨汁機"/>
+    <Elem NameU="Bread machine 1" Name="麵包機 1"/>
+    <Elem NameU="Bread machine 2" Name="麵包機 2"/>
+    <Elem NameU="Vending machine" Name="售貨機"/>
+    <Elem NameU="Sink" Number="9" Name="水槽"/>
+    <Elem NameU="Basin" Name="水池"/>
+    <Elem NameU="Double basin" Name="雙水池"/>
+    <Elem NameU="Pedestal sink" Name="支柱水槽"/>
+    <Elem NameU="Countertop sink" Name="檯面水槽"/>
+    <Elem NameU="Dispenser" Name="飲水機"/>
+    <Elem NameU="Towel rack" Name="毛巾架"/>
+    <Elem NameU="Circular dining table" Name="圓形餐桌"/>
+    <Elem NameU="Circular table" Name="圓桌"/>
+    <Elem NameU="Dining table" Name="餐桌"/>
+    <Elem NameU="Oblong dining table" Name="長方形餐桌"/>
+    <Elem NameU="Oval dining table" Name="橢圓餐桌"/>
+    <Elem NameU="Square table" Name="方桌"/>
+    <Elem NameU="Ref" Number="2" Name="冰箱"/>
+    <Elem NameU="Cabinet" Number="3" Name="櫥櫃"/>
+    <Elem NameU="Toaster" Number="2" Name="電烤箱"/>
+    <Elem NameU="Oven" Name="烤箱"/>
+    <Elem NameU="Electric barbecue" Name="電燒烤爐"/>
+    <Elem NameU="Saucepan" Number="2" Name="平底鍋"/>
+    <Elem NameU="Slow cooker" Name="慢燉鍋"/>
+    <Elem NameU="Slow cooker 2" Name="慢燉鍋 2"/>
+    <Elem NameU="Induction cooker" Name="電磁爐"/>
+    <Elem NameU="Pan" Name="鍋"/>
+    <Elem NameU="Dish" Number="2" Name="盤"/>
+    <Elem NameU="Fruit plate" Number="2" Name="果盤"/>
+    <Elem NameU="Chopping board" Name="案板"/>
+    <Elem NameU="Smoke machine" Name="油煙機"/>
+    <Elem NameU="Disinfection cabinet" Name="消毒櫃"/>
+    <Elem NameU="Refrigerator" Name="冰櫃"/>
+    <Elem NameU="Refrigerator 2" Name="冰櫃 2"/>
+    <Elem NameU="Flue" Name="煙道"/>
+    <Elem NameU="Placement" Name="擺放"/>
+    <Elem NameU="Chest freezer" Name="冷卻櫃"/>
+    <Elem NameU="Built-in refrigerator" Name="內置冰箱"/>
+    <Elem NameU="Water cooler" Name="水冷卻器"/>
+    <Elem NameU="Coffee maker" Name="咖啡機"/>
+    <Elem NameU="Water heater" Name="熱水器"/>
+</Lib>

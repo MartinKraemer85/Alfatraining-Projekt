@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Network Locations">
+    <Elem NameU="Common Buildings 1" Name="通用建築 1"/>
+    <Elem NameU="Common Buildings 3" Name="通用建築 3"/>
+    <Elem NameU="Common Buildings 2" Name="通用建築 2"/>
+    <Elem NameU="Common Buildings 4" Name="通用建築 4"/>
+    <Elem NameU="Common Buildings 5" Name="通用建築 5"/>
+    <Elem NameU="Community" Name="社區"/>
+    <Elem NameU="Enterprise" Name="企業"/>
+    <Elem NameU="Residential" Name="住宅"/>
+    <Elem NameU="Business center" Name="商務中心"/>
+    <Elem NameU="Office Building" Name="辦公樓"/>
+    <Elem NameU="Hotel" Name="酒店"/>
+    <Elem NameU="City" Name="城市"/>
+    <Elem NameU="City Block" Name="城市街區"/>
+    <Elem NameU="Central Building" Name="中心建築"/>
+    <Elem NameU="Town" Name="城鎮"/>
+    <Elem NameU="Building" Name="建築"/>
+    <Elem NameU="Residence" Name="居民房"/>
+    <Elem NameU="Factory" Name="工廠"/>
+    <Elem NameU="Financial" Name="金融"/>
+    <Elem NameU="Law" Name="司法"/>
+    <Elem NameU="Manufacturing" Name="製造業"/>
+    <Elem NameU="Retail" Name="零售"/>
+    <Elem NameU="Trade" Name="貿易"/>
+    <Elem NameU="Education" Name="教育"/>
+    <Elem NameU="Traffic" Name="交通"/>
+    <Elem NameU="Telephone Poles" Name="電線桿"/>
+    <Elem NameU="Government" Name="政府"/>
+    <Elem NameU="University" Name="大學"/>
+    <Elem NameU="Generic Building" Name="主樓"/>
+    <Elem NameU="Branch Office" Name="分公司"/>
+    <Elem NameU="Small Business" Name="小型商業樓"/>
+    <Elem NameU="Home Regular" Name="一般居民房"/>
+    <Elem NameU="Telecommute Home" Name="帶通信居民房"/>
+    <Elem NameU="Home Office" Name="家庭辦公室"/>
+    <Elem NameU="IP Hotel" Name="IP酒店"/>
+    <Elem NameU="Intranet" Name="內部網"/>
+    <Elem NameU="Satellite" Name="衛星"/>
+    <Elem NameU="Satellite Dish" Name="衛星接收器"/>
+    <Elem NameU="Radio Tower 1" Name="無線電塔 1"/>
+    <Elem NameU="Radio Tower 2" Name="無線電塔 2"/>
+    <Elem NameU="Railroad" Name="鐵路"/>
+    <Elem NameU="Network management platform" Name="網絡管理平台"/>
+    <Elem NameU="Service-Server" Name="伺服器"/>
+    <Elem NameU="TELLIN" Name="TELLIN"/>
+    <Elem NameU="ISP/IC " Name="ISP/IC"/>
+    <Elem NameU="ASP " Name="ASP"/>
+    <Elem NameU="CSP " Name="CSP"/>
+    <Elem NameU="Portal" Name="門戶"/>
+    <Elem NameU="Dial-up users" Name="撥號用戶"/>
+    <Elem NameU="Internet Cloud" Name="因特網雲圖"/>
+    <Elem NameU="Internet Cloud 2" Name="因特網雲圖 2"/>
+    <Elem NameU="Internet Cloud 3" Name="因特網雲圖 3"/>
+    <Elem NameU="Workgroup" Name="工作群"/>
+</Lib>

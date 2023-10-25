@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Electrical and Telecom">
+    <Elem NameU="Electrical switchbox" Name="전기 스위치 박스"/>
+    <Elem NameU="Single pole switch" Name="단극 스위치"/>
+    <Elem NameU="Three-way switch" Name="3 방향 스위치"/>
+    <Elem NameU="1P switch" Name="1P 스위치"/>
+    <Elem NameU="2P switch" Name="2P 스위치"/>
+    <Elem NameU="4P switch" Name="4P 스위치"/>
+    <Elem NameU="1DP switch" Name="1DP 스위치"/>
+    <Elem NameU="2DP switch" Name="2DP 스위치"/>
+    <Elem NameU="Water tap" Name="수도꼭지"/>
+    <Elem NameU="Lum. ceiling mount" Name="매입식 천장 조명"/>
+    <Elem NameU="Encl ceiling lum" Name="밀폐식 천장 조명"/>
+    <Elem NameU="Wall light" Name="벽 조명"/>
+    <Elem NameU="Circuit breaker" Name="회로 차단기"/>
+    <Elem NameU="Multi-light bar" Name="복수 조명등 막대"/>
+    <Elem NameU="Light bar" Name="조명등 막대"/>
+    <Elem NameU="Downlight" Name="다운 라이트"/>
+    <Elem NameU="Outdoor lighting" Name="야외 조명"/>
+    <Elem NameU="Singleplex receptacle" Name="싱글플렉스 소켓"/>
+    <Elem NameU="Duplex receptacle" Name="이중 소켓"/>
+    <Elem NameU="Double Duplex Receptacle Outlet(Quad)" Name="이중 소켓"/>
+    <Elem NameU="Triplex Receptacle Outlet" Name="3중 콘센트"/>
+    <Elem NameU="Fourplex receptacle" Name="4중 콘센트"/>
+    <Elem NameU="Range Outlet" Name="Range 콘센트"/>
+    <Elem NameU="Dryer Outlet" Name="건조기 콘센트"/>
+    <Elem NameU="Waterproof Receptacle Outlet" Name="방수 콘센트"/>
+    <Elem NameU="Switch and Convenience Outlet" Name="스위치와  편리 콘센트"/>
+    <Elem NameU="Split Wired Duplex Outlet" Name="분할 이중 콘센트"/>
+    <Elem NameU="Split Wired Triplex Outlet" Name="분할 3중 콘센트"/>
+    <Elem NameU="Duplex Special Purpose Outlet" Name="이중 전용 콘센트"/>
+    <Elem NameU="Dishwasher Outlet" Name="식기 세척기 콘센트"/>
+    <Elem NameU="Drop Cord" Name="드롭 코드"/>
+    <Elem NameU="Fan Outlet" Name="선풍기 콘센트"/>
+    <Elem NameU="Junction Box" Name="합류 박스"/>
+    <Elem NameU="Lamp Holder" Name="램프 홀더"/>
+    <Elem NameU="Lamp Holder with Pull Switch" Name="풀 스위치가 있는 램프 홀더"/>
+    <Elem NameU="Pull Switch" Name="풀 스위치"/>
+    <Elem NameU="Vapor Discharge Lamp Switch" Name="증기 방전 램프 스위치"/>
+    <Elem NameU="Exit Light Outlet" Name="출구 라이트 콘센트"/>
+    <Elem NameU="Clock Outlet" Name="시계 콘센트"/>
+    <Elem NameU="Blanked Outlet" Name="블랭킹 콘센트"/>
+    <Elem NameU="Television Outlet" Name="티비 콘센트"/>
+    <Elem NameU="Exhaust Fan" Name="환풍기"/>
+    <Elem NameU="Water Heater" Name="온수기"/>
+    <Elem NameU="Telephone Jack" Name="전화 잭"/>
+    <Elem NameU="Electrical Panel" Name="전기 패널"/>
+    <Elem NameU="Battery" Name="배터리"/>
+    <Elem NameU="Batten fluores" Name="막대 형광등"/>
+    <Elem NameU="Distribution box" Name="배포 박스"/>
+    <Elem NameU="Modular fluores" Name="모듈식 형광등"/>
+    <Elem NameU="Office fluores" Name="사무실 형광등"/>
+    <Elem NameU="Pull-cord switch" Name="잡아 당기는 코드 스위치"/>
+    <Elem NameU="Emerg. light" Name="긴급 라이트"/>
+    <Elem NameU="Emerg. sign" Name="긴급 표시"/>
+    <Elem NameU="Switches" Name="스위치"/>
+    <Elem NameU="Dimmer switch" Name="조광 스위치"/>
+    <Elem NameU="Socket outlet" Name="소켓 아울렛"/>
+    <Elem NameU="Socket outlet 2" Name="소켓 아울렛 2"/>
+    <Elem NameU="Telephone outlet" Name="전화선 콘센트"/>
+    <Elem NameU="Stereo outlet" Name="스테레오 콘센트"/>
+    <Elem NameU="Ceiling fan" Number="2" Name="천장 팬"/>
+    <Elem NameU="Combination fan" Name="조합팬"/>
+    <Elem NameU="Service panels" Name="서비스 패널"/>
+    <Elem NameU="Thermostat" Name="자동 온도 조절기"/>
+    <Elem NameU="Air conditioning" Name="에어컨"/>
+    <Elem NameU="Hold open unit" Name="개방 유지 장치"/>
+    <Elem NameU="Detector" Name="탐지기"/>
+    <Elem NameU="Fire alarm" Name="화재 경보"/>
+    <Elem NameU="Monitor" Name="모니터"/>
+    <Elem NameU="Alarm" Name="경보"/>
+    <Elem NameU="Doorbell" Name="초인종"/>
+    <Elem NameU="Smoke detector" Name="연기 감지기"/>
+    <Elem NameU="Household Circuit Breaker Box" Name="가정용 안전 개폐기"/>
+    <Elem NameU="Call" Name="콜"/>
+    <Elem NameU="Tel" Name="전화"/>
+    <Elem NameU="Main control" Name="메인 컨트롤"/>
+    <Elem NameU="Ground" Name="접지"/>
+    <Elem NameU="Line" Name="라인"/>
+    <Elem NameU="Wire" Name="와이어"/>
+    <Elem NameU="Cut line" Number="2" Name="줄 잘라내기"/>
+</Lib>

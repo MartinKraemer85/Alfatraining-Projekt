@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="VHF-UHF-SHF">
+	<Elem NameU="Directional coupler" Name="Acoplador direcional"/>
+	<Elem NameU="Mode suppressor" Name="Supressor de modo"/>
+	<Elem NameU="Mode filter" Name="Filtro de modo"/>
+	<Elem NameU="Mode filter indication" Name="Indicação de filtro de modo"/>
+	<Elem NameU="Discontinuity" Name="Descontinuidade"/>
+	<Elem NameU="Equivalent series" Name="Série equivalente"/>
+	<Elem NameU="Equivalent shunt" Name="Desvio equivalente"/>
+	<Elem NameU="Capacitive reactance" Name="Reactância capacitativa"/>
+	<Elem NameU="Inductive reactance" Name="Reactância indutiva"/>
+	<Elem NameU="Inductance capacitance" Name="Capacitância indutância"/>
+	<Elem NameU="Resistance" Name="Resistência"/>
+	<Elem NameU="E-H tuner" Name="Sintonizador E-H"/>
+	<Elem NameU="Conductance" Name="Condutância"/>
+	<Elem NameU="Inductive susceptance" Name="Susceptância indutiva"/>
+	<Elem NameU="Capacitive susceptance" Name="Susceptância capacitativa"/>
+	<Elem NameU="Slide screw tuner" Name="Sintonizador de parafuso de deslize"/>
+	<Elem NameU="Multistub tuner" Name="Sintonizador de múltipla ponta"/>
+	<Elem NameU="Power divider" Name="Divisor de energia"/>
+	<Elem NameU="Three-port junction" Name="Junção de três-portos"/>
+	<Elem NameU="Four-port junction" Name="Junção de 4-portos"/>
+	<Elem NameU="Rotary joint" Name="Junta rotativa"/>
+	<Elem NameU="Isolator" Name="Isolador"/>
+	<Elem NameU="Phase shifter" Name="Alavanca de fase"/>
+	<Elem NameU="Gyrator" Name="Girador"/>
+	<Elem NameU="Circulator fixed" Name="Circulador fixo"/>
+	<Elem NameU="Circulator reversible" Name="Circulador reversível"/>
+	<Elem NameU="Shortcut to Field polarization rotator" Name="Atalho para rotador de polarização de Campo"/>
+	<Elem NameU="Field polarization amplitude modulator" Name="Modulador de amplitude de polarização de campo"/>
+	<Elem NameU="Resonator" Name="Ressonador"/>
+	<Elem NameU="Slow-wave coupler" Name="Acoplador de onda-lenta"/>
+	<Elem NameU="Helical coupler" Name="Acoplador helicoidal"/>
+	<Elem NameU="Balun" Name="Balun"/>
+	<Elem NameU="Frequency filter" Name="Filtro de frequência"/>
+	<Elem NameU="Phase shifter (matched)" Name="Alavanca de fase (combinado)"/>
+	<Elem NameU="Ferrite bead ring" Name="Anel de conta de ferrite"/>
+	<Elem NameU="Line stretcher" Name="Esticador de linha"/>
+	<Elem NameU="Maser" Name="Maser"/>
+	<Elem NameU="Maser amplifier" Name="Amplificador de maser"/>
+	<Elem NameU="Laser" Name="Laser"/>
+	<Elem NameU="Laser generator" Name="Gerador de laser"/>
+	<Elem NameU="Ruby laser" Name="Laser de rubi"/>
+</Lib>

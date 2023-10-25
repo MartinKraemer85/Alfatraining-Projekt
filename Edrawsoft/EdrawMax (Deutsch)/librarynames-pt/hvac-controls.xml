@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="HVAC Controls">
+	<Elem NameU="Timer" Name="Temporizador"/>
+	<Elem NameU="Level" Name="Nível"/>
+	<Elem NameU="Smoke" Name="Fumo"/>
+	<Elem NameU="I/O point" Name="Ponto I/O"/>
+	<Elem NameU="Actuator" Name="Atuador"/>
+	<Elem NameU="Temperature Sensor" Name="Sensor de Temperatura"/>
+	<Elem NameU="Humidity Sensor" Name="Sensor de Humidade"/>
+	<Elem NameU="Enthalpy  Sensor" Name="Sensor de Entalpia"/>
+	<Elem NameU="Pressure Sensor" Name="Sensor de Pressão"/>
+	<Elem NameU="Flow Sensor" Name="Sensor de Fluxo"/>
+	<Elem NameU="Velocity Sensor" Name="Sensor de Velocidade"/>
+	<Elem NameU="Voltage  Sensor" Name="Sensor de Voltagem"/>
+	<Elem NameU="General  Sensor" Name="Sensor Geral"/>
+	<Elem NameU="Rotation Sensor" Name="Sensor de Rotação"/>
+	<Elem NameU="Light  Sensor" Name="Sensor de Luz"/>
+	<Elem NameU="Vibration Sensor" Name="Sensor de Vibração"/>
+	<Elem NameU="Current Sensor" Name="Sensor de Corrente"/>
+	<Elem NameU="Power Sensor" Name="Sensor de Energia"/>
+	<Elem NameU="Air Quality Sensor" Name="Sensor de Qualidade de Ar"/>
+	<Elem NameU="End Switch" Name="Interruptor Final"/>
+	<Elem NameU="Power Connection" Name="Conexão à Energia"/>
+	<Elem NameU="Wiring Note" Name="Nota de Fiação"/>
+</Lib>

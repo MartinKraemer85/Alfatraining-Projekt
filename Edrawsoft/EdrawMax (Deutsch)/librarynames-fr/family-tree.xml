@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Family Tree">
+	<Elem NameU="Tree" Name="Arbre"/>
+	<Elem NameU="Tree 4" Name="Arbre"/>
+	<Elem NameU="Tree 5" Name="Arbre"/>
+	<Elem NameU="Tree 6" Name="Arbre"/>
+	<Elem NameU="Profile Photo With Title" Name="Photo de profil"/>
+	<Elem NameU="Profile No Photo" Name="Photo de profil"/>
+	<Elem NameU="Rounded Profile Photo" Name="丸みのあるプロフィール写真"/>
+	<Elem NameU="Profile Left Photo" Name="プロフィール左写真"/>
+	<Elem NameU="Profile Left  Photo" Name="プロフィール左写真"/>
+	<Elem NameU="Rounded Profile Vertical 1" Name="丸みのあるプロファイル垂直1"/>
+	<Elem NameU="Rounded Profile Vertical 2" Name="丸みのあるプロファイル垂直2"/>
+	<Elem NameU="Rounded Profile Vertical 3" Name="丸みのあるプロファイル垂直3"/>
+	<Elem NameU="Rounded Profile Vertical" Name="丸みのあるプロファイル垂直"/>
+	<Elem NameU="Profile Photo" Name="Photo de profil"/>
+</Lib>

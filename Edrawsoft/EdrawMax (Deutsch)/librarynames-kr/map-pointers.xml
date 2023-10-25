@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Map Pointers">
+    <Elem NameU="Location 1" Name="위치"/>
+    <Elem NameU="Location 2" Name="위치"/>
+    <Elem NameU="Location 3" Name="위치"/>
+    <Elem NameU="Location" Name="위치"/>
+    <Elem NameU="Location 4" Name="위치"/>
+    <Elem NameU="Location 6" Name="위치"/>
+    <Elem NameU="Location 7" Name="위치"/>
+    <Elem NameU="Location 8" Name="위치"/>
+    <Elem NameU="Location 9" Name="위치"/>
+    <Elem NameU="Location 10" Name="위치"/>
+    <Elem NameU="Location 11" Name="위치"/>
+    <Elem NameU="Location 12" Name="위치"/>
+    <Elem NameU="Location 13" Name="위치"/>
+    <Elem NameU="Location 14" Name="위치"/>
+    <Elem NameU="Location 15" Name="위치"/>
+    <Elem NameU="Location 16" Name="위치"/>
+    <Elem NameU="Location 17" Name="위치"/>
+    <Elem NameU="Location 18" Name="위치"/>
+    <Elem NameU="Location 19" Name="위치"/>
+    <Elem NameU="Flags" Number="3" Name="플래그"/>
+    <Elem NameU="Callout Flag" Name="플래그 설명"/>
+    <Elem NameU="Aircraft" Number="3" Name="비행기"/>
+    <Elem NameU="Chess" Number="2" Name="체스"/>
+    <Elem NameU="Box Callout with all directions" Name="박스 설명"/>
+    <Elem NameU="Oval Callout with all directions" Name="타원형 버블 설명"/>
+    <Elem NameU="Circular Callout" Name="원형 설명"/>
+    <Elem NameU="Rectangle width Line" Name="사각형 너비"/>
+    <Elem NameU="Line Text" Number="3" Name="선 텍스트"/>
+    <Elem NameU="Compass" Name="나침반"/>
+</Lib>

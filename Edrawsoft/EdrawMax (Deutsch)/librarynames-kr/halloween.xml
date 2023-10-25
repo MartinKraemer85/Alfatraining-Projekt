@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Halloween">
+    <Elem NameU="Signs 1" Name="표지판 1"/>
+    <Elem NameU="Signs 2" Name="표지판 2"/>
+    <Elem NameU="Pumpkin" Name="호박"/>
+    <Elem NameU="Pumpkin1" Name="호박1"/>
+    <Elem NameU="Pumpkin2" Name="호박2"/>
+    <Elem NameU="Pumpkin3" Name="호박3"/>
+    <Elem NameU="Pumpkin4" Name="호박4"/>
+    <Elem NameU="Pumpkin5" Name="호박5"/>
+    <Elem NameU="Pumpkin6" Name="호박6"/>
+    <Elem NameU="Pumpkin7" Name="호박7"/>
+    <Elem NameU="Pumpkin8" Name="호박8"/>
+    <Elem NameU="Bats" Name="박쥐"/>
+    <Elem NameU="Bats1" Name="박쥐1"/>
+    <Elem NameU="Bats2" Name="박쥐2"/>
+    <Elem NameU="Bats3" Name="박쥐3"/>
+    <Elem NameU="Tree" Name="나무"/>
+    <Elem NameU="Tree1" Name="나무1"/>
+    <Elem NameU="Tree2" Name="나무2"/>
+    <Elem NameU="Tree3" Name="나무3"/>
+    <Elem NameU="Tree4" Name="나무4"/>
+    <Elem NameU="Cobwebs" Name="거미줄"/>
+    <Elem NameU="Cobwebs1" Name="거미줄1"/>
+    <Elem NameU="Cobwebs2" Name="거미줄2"/>
+    <Elem NameU="Spider" Name="거미"/>
+    <Elem NameU="Spider1" Name="거미1"/>
+    <Elem NameU="Spider2" Name="거미2"/>
+    <Elem NameU="Spider3" Name="거미3"/>
+    <Elem NameU="Cat" Name="고양이"/>
+    <Elem NameU="Haunted House" Name="유령의 집"/>
+    <Elem NameU="Haunted House1" Name="유령의 집1"/>
+    <Elem NameU="Haunted House2" Name="유령의 집2"/>
+    <Elem NameU="Cross" Name="십자가"/>
+    <Elem NameU="Cross1" Name="십자가"/>
+    <Elem NameU="Ghost" Name="유령"/>
+    <Elem NameU="Ghost1" Name="유령1"/>
+    <Elem NameU="Ghost2" Name="유령2"/>
+    <Elem NameU="Witch Hat" Name="마녀 모자"/>
+    <Elem NameU="Witch Hat1" Name="마녀 모자1"/>
+    <Elem NameU="Witch Hat2" Name="마녀 모자2"/>
+    <Elem NameU="Broom" Name="비"/>
+    <Elem NameU="Broom1" Name="비1"/>
+    <Elem NameU="Witch" Name="마녀"/>
+    <Elem NameU="Witch1" Name="마녀1"/>
+    <Elem NameU="Stockpot" Name="스톡 포트"/>
+    <Elem NameU="Part Finger " Name="손가락"/>
+    <Elem NameU="Mask" Name="마스크"/>
+    <Elem NameU="Mask1" Name="마스크1"/>
+    <Elem NameU="Sweet" Name="롤리팝"/>
+    <Elem NameU="Sweet1" Name="롤리팝1"/>
+    <Elem NameU="Zombie" Name="좀비"/>
+    <Elem NameU="No face bride" Name="얼굴 없는 신부"/>
+</Lib>

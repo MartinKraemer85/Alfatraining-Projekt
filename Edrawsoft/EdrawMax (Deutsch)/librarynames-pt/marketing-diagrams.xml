@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Marketing Diagrams">
+	<Elem NameU="Step Process" Name="Processo de Passo"/>
+	<Elem NameU="Market Analysis" Name="Análise de Mercado"/>
+	<Elem NameU="Marketing Mix" Name="Mistura de Marketing"/>
+	<Elem NameU="Scope" Name="Âmbito"/>
+	<Elem NameU="Adoption Process" Name="Processo de Adoção"/>
+	<Elem NameU="Normal Curve" Name="Curva Normal"/>
+	<Elem NameU="Text Block" Name="Bloco de Texto"/>
+	<Elem NameU="3D Box" Name="Caixa 3D"/>
+	<Elem NameU="3D Circle" Name="Círculo 3D"/>
+	<Elem NameU="Five Force Model" Name="Modelo de Cinco Forças"/>
+	<Elem NameU="Six Markets Model" Name="Modelo de Seis Mercados"/>
+	<Elem NameU="Six Sigma" Name="Seis Sigma"/>
+	<Elem NameU="Funnel" Name="Funil"/>
+	<Elem NameU="Continuum Diagram" Name="Diagrama de Continuum"/>
+	<Elem NameU="Leadship Continuum Diagram" Name="Diagrama de Continuum de Liderança"/>
+	<Elem NameU="Product Life Cycle" Name="Ciclo de Vida de Produto"/>
+</Lib>

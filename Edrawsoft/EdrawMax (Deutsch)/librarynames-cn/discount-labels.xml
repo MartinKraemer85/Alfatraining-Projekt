@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Discount labels">
+    <Elem NameU="Price Sticker 1" Name="价格贴纸1"/>
+    <Elem NameU="Price Sticker 2" Name="价格贴纸2"/>
+    <Elem NameU="Price Sticker 3" Name="价格贴纸3"/>
+    <Elem NameU="Price Sticker 4" Name="价格贴纸4"/>
+    <Elem NameU="Price Sticker 5" Name="价格贴纸5"/>
+    <Elem NameU="Price Sticker 6" Name="价格贴纸6"/>
+    <Elem NameU="Price Sticker 7" Name="价格贴纸7"/>
+    <Elem NameU="Price Sticker 8" Name="价格贴纸8"/>
+    <Elem NameU="Price Sticker 9" Name="价格贴纸9"/>
+    <Elem NameU="Price Sticker 10" Name="价格贴纸10"/>
+    <Elem NameU="Price Sticker 11" Name="价格贴纸11"/>
+    <Elem NameU="Price Sticker 12" Name="价格贴纸12"/>
+    <Elem NameU="Price Sticker 13" Name="价格贴纸13"/>
+    <Elem NameU="Price Sticker 14" Name="价格贴纸14"/>
+    <Elem NameU="Price Sticker 15" Name="价格贴纸15"/>
+    <Elem NameU="Price Sticker 16" Name="价格贴纸16"/>
+    <Elem NameU="Price Sticker 17" Name="价格贴纸17"/>
+    <Elem NameU="Price Sticker 18" Name="价格贴纸18"/>
+    <Elem NameU="Price Sticker 19" Name="价格贴纸19"/>
+    <Elem NameU="Price Sticker 20" Name="价格贴纸20"/>
+    <Elem NameU="Price Sticker 21" Name="价格贴纸21"/>
+    <Elem NameU="Gift 1" Name="礼物1"/>
+    <Elem NameU="Gift 2" Name="礼物2"/>
+    <Elem NameU="Ribbons 1" Name="色带1"/>
+    <Elem NameU="Ribbons 2" Name="色带2"/>
+    <Elem NameU="Ribbons 3" Name="色带3"/>
+    <Elem NameU="Ribbons 4" Name="色带4"/>
+    <Elem NameU="Coupons 1" Name="优惠券1"/>
+    <Elem NameU="Coupons 2" Name="优惠券2"/>
+</Lib>

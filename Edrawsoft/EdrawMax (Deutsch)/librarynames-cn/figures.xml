@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Figures">
+    <Elem NameU="Lying Position 1" Name="躺姿1"/>
+	<Elem NameU="Lying Position 2" Name="躺姿2"/>
+	<Elem NameU="Lying Position 3" Name="躺姿3"/>
+	<Elem NameU="Lying Position 4" Name="躺姿4"/>
+	<Elem NameU="Lying Position 5" Name="躺姿5"/>
+	<Elem NameU="Lying Position 6" Name="躺姿6"/>
+	<Elem NameU="Side Lying Position 1" Name="侧卧姿1"/>
+	<Elem NameU="Side Lying Position 2" Name="侧卧姿2"/>
+	<Elem NameU="Side Lying Position 3" Name="侧卧姿3"/>
+	<Elem NameU="Front Standing (Male)" Name="正面站姿(男)"/>
+	<Elem NameU="Side Standing (Male)" Name="侧面站姿(男)"/>
+	<Elem NameU="Front Standing (Female)" Name="正面站姿(女)"/>
+	<Elem NameU="Side Standing (Female)" Name="侧面站姿(女)"/>
+	<Elem NameU="Prone Position 1" Name="趴姿1"/>
+	<Elem NameU="Prone Position 2" Name="趴姿2"/>
+	<Elem NameU="Prone Position 3" Name="趴姿3"/>
+	<Elem NameU="Hanged Figure" Name="吊着的人"/>
+	<Elem NameU="Sitting 1" Name="坐姿1"/>
+	<Elem NameU="Sitting 2" Name="坐姿2"/>
+	<Elem NameU="Sitting 3" Name="坐姿3"/>
+	<Elem NameU="Bound Figure" Name="被捆绑的人"/>
+	<Elem NameU="Runaway Figure 1" Name="逃跑的人1"/>
+	<Elem NameU="Runaway Figure 2" Name="逃跑的人2"/>
+	<Elem NameU="Runaway Figure 3" Name="逃跑的人3"/>
+</Lib>

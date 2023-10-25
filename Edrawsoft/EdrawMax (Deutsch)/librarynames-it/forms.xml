@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Forms">
+	<Elem NameU="H1 Header" Name="Intestazione H1"/>
+	<Elem NameU="H2 Header" Name="Intestazione H2"/>
+	<Elem NameU="H3 Header" Name="Intestazione H3"/>
+	<Elem NameU="12pt Label" Name="Etichetta 12pt"/>
+	<Elem NameU="10pt Label" Name="Etichetta 10pt"/>
+	<Elem NameU="9pt Label" Name="Etichetta 9pt"/>
+	<Elem NameU="Basic Table" Name="Tabella Semplice"/>
+	<Elem NameU="Company Address" Name="Indirizzo Azienda"/>
+	<Elem NameU="Primary Business Address" Name="Indirizzo Aziendale Primario"/>
+	<Elem NameU="Contact Information" Name="Informazioni di Contatto"/>
+	<Elem NameU="Logo Placeholder" Name="Logo Segnaposto"/>
+	<Elem NameU="Billing Address" Name="Indirizzo di Fatturazione"/>
+	<Elem NameU="Quotation" Name="Citazione"/>
+	<Elem NameU="Product, Price, Description" Name="Prodotto, Prezzo, Descrizione"/>
+	<Elem NameU="Statistics" Name="Statistiche"/>
+	<Elem NameU="Information Box" Name="Riquadro Informazioni"/>
+	<Elem NameU="Information Line" Name="Riga Informazioni"/>
+	<Elem NameU="Signature Line with Date" Name="Riga Firma con Data"/>
+	<Elem NameU="Signature Line" Name="Riga Firma"/>
+	<Elem NameU="Simple Signature Block" Name="Blocco Firma Semplice"/>
+	<Elem NameU="Comments" Name="Commenti"/>
+	<Elem NameU="Detail Signature Block" Name="Blocco Firma Dettagliato"/>
+	<Elem NameU="Check Box" Name="Casella di Spunta"/>
+	<Elem NameU="Radio Button" Name="Pulsante"/>
+	<Elem NameU="Text Block" Name="Casella di Testo"/>
+	<Elem NameU="Link Text" Name="Collegamento Testuale"/>
+</Lib>

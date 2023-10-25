@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Transmission Path">
+    <Elem NameU="Wire" Number="2" Name="電線"/>
+    <Elem NameU="Multi-line bus" Name="多線總線"/>
+    <Elem NameU="Multi-line bus elbow" Name="多線總線肘"/>
+    <Elem NameU="Straight bus" Name="直總線"/>
+    <Elem NameU="Elbow bus" Number="2" Name="肘部總線"/>
+    <Elem NameU="Junction" Name="接合點"/>
+    <Elem NameU="Junction/ crossing" Name="接合點/交叉點"/>
+    <Elem NameU="Terminal" Name="端子"/>
+    <Elem NameU="Terminal list" Name="端子列表"/>
+    <Elem NameU="Terminal block" Name="端子板"/>
+    <Elem NameU="Terminal 3-phase" Name="三相端接設備"/>
+    <Elem NameU="Test point" Name="測試點"/>
+    <Elem NameU="Label" Name="標籤"/>
+    <Elem NameU="Transmission path" Number="4" Name="傳輸路徑"/>
+    <Elem NameU="Left direction flow" Name="流方向 左"/>
+    <Elem NameU="Right direction flow" Name="流方向 右"/>
+    <Elem NameU="Outware flow" Name="線外流向"/>
+    <Elem NameU="Inware flow" Name="線內流向"/>
+    <Elem NameU="Line / Cable" Name="電線/電纜"/>
+    <Elem NameU="Underground cable" Name="地下電纜"/>
+    <Elem NameU="Submarine cable" Name="海底電纜"/>
+    <Elem NameU="Loaded cable" Name="負載電纜"/>
+    <Elem NameU="Optical cable" Name="光線"/>
+    <Elem NameU="Cable termination" Name="電纜終端"/>
+    <Elem NameU="Lead group" Name="引線組"/>
+    <Elem NameU="2 conductors cable" Name="2 導體電纜"/>
+    <Elem NameU="Cable group" Name="電纜組"/>
+    <Elem NameU="Anticreepage device" Name="防漏電設備"/>
+    <Elem NameU="Line concentrator" Name="集線器"/>
+    <Elem NameU="Overground enclosure" Name="高架外殼"/>
+    <Elem NameU="Telephone line" Name="電話線路"/>
+    <Elem NameU="Telegraphy line" Name="電報線路"/>
+    <Elem NameU="Video line" Name="視頻線路"/>
+    <Elem NameU="Two-wire line" Name="雙線線路"/>
+    <Elem NameU="Four-wire line" Name="四線線路"/>
+    <Elem NameU="Bus width" Name="總線寬度"/>
+</Lib>

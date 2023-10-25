@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Registers Grills and Diffusers">
+	<Elem NameU="Supply diffuser" Name="Difusor de fornecimento"/>
+	<Elem NameU="Return diffuser" Name="Difusor de Retorno"/>
+	<Elem NameU="Grille diffuser" Name="Difusor de Grelha"/>
+	<Elem NameU="Linear diffuser" Name="Difusor Linear"/>
+	<Elem NameU="Troffer diffuser" Name="Difusor Troffer"/>
+	<Elem NameU="Grille (side)" Name="Grade (lado)"/>
+</Lib>

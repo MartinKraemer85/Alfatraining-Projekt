@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Process Steps">
+    <Elem NameU="Multi-Style Process" Name="다중 스타일 프로세스"/>
+    <Elem NameU="process" Number="4" Name="프로세스"/>
+    <Elem NameU="Vertical Process" Name="수직 프로세스"/>
+    <Elem NameU="Process" Name="프로세스"/>
+    <Elem NameU="process" Number="5" Name="프로세스"/>
+    <Elem NameU="Highlight Process" Name="하이라이트 프로세스"/>
+    <Elem NameU="process" Number="6" Name="프로세스"/>
+</Lib>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Network Locations">
+    <Elem NameU="Common Buildings 1" Name="일반 건축 1"/>
+    <Elem NameU="Common Buildings 3" Name="일반 건축 3"/>
+    <Elem NameU="Common Buildings 2" Name="일반 건축 2"/>
+    <Elem NameU="Common Buildings 4" Name="일반 건축 4"/>
+    <Elem NameU="Common Buildings 5" Name="일반 건축 5"/>
+    <Elem NameU="Community" Name="커뮤니티"/>
+    <Elem NameU="Enterprise" Name="기업"/>
+    <Elem NameU="Residential" Name="주택"/>
+    <Elem NameU="Business center" Name="비지니스 센터"/>
+    <Elem NameU="Office Building" Name="사무실 빌딩"/>
+    <Elem NameU="Hotel" Name="호텔"/>
+    <Elem NameU="City" Name="도시"/>
+    <Elem NameU="City Block" Name="도시 블록"/>
+    <Elem NameU="Central Building" Name="중심 건축"/>
+    <Elem NameU="Town" Name="타운"/>
+    <Elem NameU="Building" Name="건축"/>
+    <Elem NameU="Residence" Name="주민구역"/>
+    <Elem NameU="Factory" Name="공장"/>
+    <Elem NameU="Financial" Name="금융"/>
+    <Elem NameU="Law" Name="사법"/>
+    <Elem NameU="Manufacturing" Name="제조업"/>
+    <Elem NameU="Retail" Name="판매"/>
+    <Elem NameU="Trade" Name="무역"/>
+    <Elem NameU="Education" Name="교육"/>
+    <Elem NameU="Traffic" Name="교통"/>
+    <Elem NameU="Telephone Poles" Name="전선"/>
+    <Elem NameU="Government" Name="정부"/>
+    <Elem NameU="University" Name="대학"/>
+    <Elem NameU="Generic Building" Name="일반 빌딩"/>
+    <Elem NameU="Branch Office" Name="지사"/>
+    <Elem NameU="Small Business" Name="작은 상업 건축"/>
+    <Elem NameU="Home Regular" Name="일반 주택"/>
+    <Elem NameU="Telecommute Home" Name="통신 가능한 주택"/>
+    <Elem NameU="Home Office" Name="홈 오피스"/>
+    <Elem NameU="IP Hotel" Name="IP 호텔"/>
+    <Elem NameU="Intranet" Name="인트라넷"/>
+    <Elem NameU="Satellite" Name="위성"/>
+    <Elem NameU="Satellite Dish" Name="위성 접시"/>
+    <Elem NameU="Radio Tower 1" Name="무선 타워 1"/>
+    <Elem NameU="Radio Tower 2" Name="무선 타워 2"/>
+    <Elem NameU="Railroad" Name="철도"/>
+    <Elem NameU="Network management platform" Name="네트워크 관리 플랫폼"/>
+    <Elem NameU="Service-Server" Name="서버"/>
+    <Elem NameU="TELLIN" Name="TELLIN"/>
+    <Elem NameU="ISP/IC " Name="ISP/IC"/>
+    <Elem NameU="ASP " Name="ASP"/>
+    <Elem NameU="CSP " Name="CSP"/>
+    <Elem NameU="Portal" Name="포털"/>
+    <Elem NameU="Dial-up users" Name="전화 접속 사용자"/>
+    <Elem NameU="Internet Cloud" Name="인터넷 클라우드"/>
+    <Elem NameU="Internet Cloud 2" Name="인터넷 클라우드 2"/>
+    <Elem NameU="Internet Cloud 3" Name="인터넷 클라우드 3"/>
+    <Elem NameU="Workgroup" Name="작업 그룹"/>
+</Lib>

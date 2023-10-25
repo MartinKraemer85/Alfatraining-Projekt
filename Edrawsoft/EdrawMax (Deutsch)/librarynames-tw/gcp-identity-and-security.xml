@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="GCP Identity and Security">
+    <Elem NameU="BeyondCorp" Name="BeyondCorp"/>
+    <Elem NameU="Cloud IAM" Name="雲 IAM"/>
+    <Elem NameU="Cloud security scan" Name="雲安全掃描"/>
+    <Elem NameU="Data loss protection API" Name="資料損失保護 API"/>
+    <Elem NameU="Identity perception agency" Name="身份感知代理"/>
+    <Elem NameU="Main management task" Name="主要管理服務"/>
+    <Elem NameU="Safety key execution" Name="安全密鑰執行"/>
+</Lib>

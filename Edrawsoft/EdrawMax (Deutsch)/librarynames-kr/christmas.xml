@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Christmas">
+    <Elem NameU="Christmas Tree 1" Name="크리스마스 트리 1"/>
+    <Elem NameU="Christmas Tree 2" Name="크리스마스 트리 2"/>
+    <Elem NameU="Christmas Tree 3" Name="크리스마스 트리 3"/>
+    <Elem NameU="Christmas Tree 4" Name="크리스마스 트리 4"/>
+    <Elem NameU="Christmas Tree 5" Name="크리스마스 트리 5"/>
+    <Elem NameU="Christmas Tree 6" Name="크리스마스 트리 6"/>
+    <Elem NameU="Santa Claus 1" Name="산타 클로스 1"/>
+    <Elem NameU="Santa Claus 2" Name="산타 클로스 2"/>
+    <Elem NameU="Snowman 1" Name="눈사람 1"/>
+    <Elem NameU="Snowman 2" Name="눈사람 2"/>
+    <Elem NameU="House" Name="하우스"/>
+    <Elem NameU="Reindeer" Name="순록"/>
+    <Elem NameU="Elk 1" Name="순록차 1"/>
+    <Elem NameU="Elk 2" Name="순록차 2"/>
+    <Elem NameU="Reindeer 1" Name="순록 1"/>
+    <Elem NameU="Reindeer 2" Name="순록 2"/>
+    <Elem NameU="Bells 1" Name="벨 1"/>
+    <Elem NameU="Bells 2" Name="벨 2"/>
+    <Elem NameU="Christmas Wreath" Name="크리스마스 화환"/>
+    <Elem NameU="Gift" Number="12" Name="선물"/>
+    <Elem NameU="Candy cane" Number="3" Name="캔디"/>
+    <Elem NameU="Christmas Ginger Bread" Number="2" Name="진저 브레드"/>
+    <Elem NameU="Hat" Number="2" Name="크리스마스 모자"/>
+    <Elem NameU="Christmas Stockings" Number="3" Name="크리스마스 양말"/>
+    <Elem NameU="Gloves" Number="2" Name="장갑"/>
+    <Elem NameU="ScarvesGloves" Name="면 장갑"/>
+    <Elem NameU="Reindeer ears" Number="2" Name="순록 장식"/>
+    <Elem NameU="Star" Number="2" Name="별"/>
+    <Elem NameU="Snowflake" Number="15" Name="눈꽃"/>
+    <Elem NameU="Candy" Number="7" Name="캔디"/>
+    <Elem NameU="Candle" Name="촛불"/>
+    <Elem NameU="Ball" Number="3" Name="볼"/>
+    <Elem NameU="Christmas decorations" Number="7" Name="크리스마스 장식"/>
+    <Elem NameU="Balloon" Name="풍선"/>
+    <Elem NameU="Leaf of chinese ilex" Number="2" Name="중국 일렉스잎"/>
+    <Elem NameU="Flower vine" Name="화환"/>
+    <Elem NameU="Flags" Number="5" Name="기"/>
+    <Elem NameU="Leaf" Number="3" Name="잎"/>
+    <Elem NameU="Merry Christmas" Number="3" Name="메리크리스마스"/>
+</Lib>

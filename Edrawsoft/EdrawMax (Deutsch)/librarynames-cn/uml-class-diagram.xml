@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="UML Class Diagram">
+    <Elem NameU="Class" Name="类"/>
+    <Elem NameU="Simple Class" Name="简单类"/>
+    <Elem NameU="Active Class" Name="活动类"/>
+    <Elem NameU="Interface" Name="接口"/>
+    <Elem NameU="Simple Interface" Name="简单界面"/>
+    <Elem NameU="Multiplicity" Name="多重"/>
+    <Elem NameU="Enumeration" Name="枚举"/>
+    <Elem NameU="Data Type" Name="数据类型"/>
+    <Elem NameU="Signal" Name="信号"/>
+    <Elem NameU="Primitive" Name="原始的"/>
+    <Elem NameU="Constraint" Name="约束"/>
+    <Elem NameU="Package" Name="包"/>
+    <Elem NameU="Profile" Name="概述"/>
+    <Elem NameU="Model" Name="模型"/>
+    <Elem NameU="Package Container" Name="包装容器"/>
+    <Elem NameU="Object" Name="对象"/>
+    <Elem NameU="Note" Name="注释"/>
+    <Elem NameU="Association" Name="关联"/>
+    <Elem NameU="Generalization" Name="泛化"/>
+    <Elem NameU="Realization" Name="实现"/>
+    <Elem NameU="Aggregation" Name="聚合"/>
+    <Elem NameU="Composition" Name="组合"/>
+    <Elem NameU="Dependency" Name="依赖"/>
+    <Elem NameU="Association" Name="关联"/>
+    <Elem NameU="Link" Name="链接"/>
+</Lib>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib nameU="MS Azure Cloud">
+	<Elem NameU="Accounts - Microsoft Account" Name="Konto - Microsoft-Konto"/>
+	<Elem NameU="Accounts - Work Account" Name="Konto - Arbeitskonto"/>
+	<Elem NameU="Azure Advisor" Name="Azure berater"/>
+	<Elem NameU="Analysis Service" Name="Analysedienst"/>
+	<Elem NameU="Azure Acitve Directory Access Control" Name="Azure Acitve Directory Access Control"/>
+	<Elem NameU="Azure Active Directory Health Monitoring" Name="Azure Active Directory Gesundheitsüberwachung"/>
+	<Elem NameU="Azure Active Directory" Name="Azure Active Directory"/>
+	<Elem NameU="Azure API Management" Name="Azure API Management"/>
+	<Elem NameU="Azure App Service - Mobile App (Was Mobile Services)" Name="Azure App Service - Mobile App (Was Mobile Services)"/>
+	<Elem NameU="Azure App Service - Web App (Was Websites)" Name="Azure App Service - Web App (Was Webseiten)"/>
+	<Elem NameU="Azure App Service - Worker Pools" Name="Azure App Service - Worker Pools"/>
+	<Elem NameU="Azure App Service" Name="Azure App Service"/>
+	<Elem NameU="Azure Application Gateway" Name="Azure Application Gateway"/>
+	<Elem NameU="Azure Application Insights" Name="Azure Application Insights"/>
+	<Elem NameU="Azure Automation - Runbooks" Name="Azure Automation - Runbooks"/>
+	<Elem NameU="Azure Automation" Name="Azure Automatisierung"/>
+	<Elem NameU="Azure Backup - Backup Agent" Name="Azure Backup - Backup Agent"/>
+	<Elem NameU="Azure Backup - Recovery Vault" Name="Azure Backup - Recovery Vault"/>
+	<Elem NameU="Azure Backup" Name="Azure Backup"/>
+	<Elem NameU="Azure Batch" Name="Azure Batch"/>
+	<Elem NameU="Azure BizTalk Services - Hybrid Connection Manager" Name="Azure BizTalk Services - Hybrid Connection Manager"/>
+	<Elem NameU="Azure BizTalk Services - Hybrid Connections" Name="Azure BizTalk Services - Hybridverbindungen"/>
+	<Elem NameU="Azure BizTalk Services" Name="Azure BizTalk Services"/>
+	<Elem NameU="Azure Bot Services" Name="Azure Bot Services"/>
+	<Elem NameU="Azure Cache Including Redis" Name="Azurer Cache mit Redis"/>
+	<Elem NameU="Azure Cloud Service" Name="Azure Cloud Service"/>
+	<Elem NameU="Azure Cloud Services - Web Role" Name="Azure Cloud Services - Webrolle"/>
+	<Elem NameU="Azure Cloud Services - Web Roles" Name="Azure Cloud Services - Webrollen"/>
+	<Elem NameU="Azure Cloud Services - Worker Role" Name="Azure Cloud Services - Worker Rolle"/>
+	<Elem NameU="Azure Cloud Services - Worker Roles" Name="Azure Cloud Services - Worker Roles"/>
+	<Elem NameU="Azure Cognitive Services" Name="Azure Cognitive Services"/>
+	<Elem NameU="Azure Compute - Autoscaling" Name="Azure Compute - Autoscaling"/>
+	<Elem NameU="Azure Container Registry" Name="Azurer Containerregister"/>
+	<Elem NameU="Azure Container Service" Name="Azure Container Service"/>
+	<Elem NameU="Azure Content Delivery Network (CDN)" Name="Azure Content Delivery Network (CDN)"/>
+	<Elem NameU="Azure Cortona Management Suite" Name="Azure Cortona Management Suite"/>
+	<Elem NameU="Azure Data Catalog" Name="Azurer Datenkatalog"/>
+	<Elem NameU="Azure Data Factory" Name="Azure Data Factory"/>
+	<Elem NameU="Azure Data Lake Analytics" Name="Azure Data Lake Analytics"/>
+	<Elem NameU="Azure Data Lake Store" Name="Azure Data Lake Store"/>
+	<Elem NameU="Azure Data Lake" Name="Azure Data Lake"/>
+	<Elem NameU="Azure Data Warehouse" Name="Azure Data Warehouse"/>
+	<Elem NameU="Azure Database General_COLOR" Name="Azure Datenbank General_COLOR"/>
+	<Elem NameU="Azure DataServices Category Rollup" Name="Azure DataServices Kategorie Rollup"/>
+	<Elem NameU="Azure DevTest Labs" Name="Azure DevTest Labs"/>
+	<Elem NameU="Azure DNS" Name="Azurer DNS"/>
+	<Elem NameU="Azure DocumentDB - Database" Name="Azure DocumentDB - Datenbank"/>
+	<Elem NameU="Azure DocumentDB - DocDB Account" Name="Azure DocumentDB - DocDB-Konto"/>
+	<Elem NameU="Azure DocumentDB - DocDB Collections 1" Name="Azure DocumentDB - DocDB Sammlungen 1"/>
+	<Elem NameU="Azure DocumentDB - Document 2" Name="Azure DocumentDB - Dokument 2"/>
+	<Elem NameU="Azure DocumentDB" Name="Azure DocumentDB"/>
+	<Elem NameU="Azure Event Hubs" Name="Azure Event Hubs"/>
+	<Elem NameU="Azure ExpressRoute" Name="Azure ExpressRoute"/>
+	<Elem NameU="Azure Functions" Name="Azure Funktionen"/>
+	<Elem NameU="Azure HDInsight" Name="Azure HDInsight"/>
+	<Elem NameU="Azure HockeyApp" Name="Azure HockeyApp"/>
+	<Elem NameU="Azure IoT Hub" Name="Azurblau IoT Hub"/>
+	<Elem NameU="Azure Key Vault" Name="Azure Key Vault"/>
+	<Elem NameU="Azure load Balancer (Automatic)" Name="Azure Last Balancer (Automatik)"/>
+	<Elem NameU="Azure Load Balancer (Feature)" Name="Azure Load Balancer (Feature)"/>
+	<Elem NameU="Azure Logic Apps" Name="Azure Logic Apps"/>
+	<Elem NameU="Azure Machine Learning" Name="Azurblau-Lernen"/>
+	<Elem NameU="Azure Management Portal" Name="Azure Management Portal"/>
+	<Elem NameU="Azure Media Services" Name="Azure Media Services"/>
+	<Elem NameU="Azure Mobile Engagement" Name="Azure Mobile Engagement"/>
+	<Elem NameU="Azure Monitor" Name="Azure Monitor"/>
+	<Elem NameU="Azure Multi-Factor Authentication" Name="Azure Multi-Faktor-Authentifizierung"/>
+	<Elem NameU="Azure MySQL ClearDB Database" Name="Azure MySQL ClearDB Datenbank"/>
+	<Elem NameU="Azure Notification Hubs" Name="Azure Notification Hubs"/>
+	<Elem NameU="Azure RemoteApp" Name="Azure RemoteApp"/>
+	<Elem NameU="Azure Rights Management (RMS)" Name="Azure Rights Management (RMS)"/>
+	<Elem NameU="Azure Scheduler" Name="Azurer Scheduler"/>
+	<Elem NameU="Azure SDK" Name="Azure SDK"/>
+	<Elem NameU="Azure Search" Name="Azure Suche"/>
+	<Elem NameU="Azure Security Center" Name="Azure Security Center"/>
+	<Elem NameU="Azure Service Bus" Name="Azure Servicebus"/>
+	<Elem NameU="Azure Service Bus Queues" Name="Azure Service Bus Warteschlangen"/>
+	<Elem NameU="Azure Service Bus Relay" Name="Azure Service Bus Relay"/>
+	<Elem NameU="Azure Service Bus Topics" Name="Azure Service Bus Themen"/>
+	<Elem NameU="Azure Service Fabric" Name="Azure Service-Stoff"/>
+	<Elem NameU="Azure Site Recovery" Name="Azure Site Recovery"/>
+	<Elem NameU="Azure SQL Database (Generic)" Name="Azure SQL Datenbank (generisch)"/>
+	<Elem NameU="Azure SQL Database Premium" Name="Azure SQL Datenbank Premium"/>
+	<Elem NameU="Azure SQL Database" Name="Azure SQL Datenbank"/>
+	<Elem NameU="Azure SQL DataSync" Name="Azure SQL DataSync"/>
+	<Elem NameU="Azure SQL DataWarehouse" Name="Azure SQL DataWarehouse"/>
+	<Elem NameU="Azure SQL Stretch Database" Name="Azure SQL Stretch Datenbank"/>
+	<Elem NameU="Azure Stack" Name="Azurer Stapel"/>
+	<Elem NameU="Azure Storage - Blob" Name="Azure Storage - Blob"/>
+	<Elem NameU="Azure Storage - Files" Name="Azure Storage - Dateien"/>
+	<Elem NameU="Azure Storage - Queue" Name="Azure Storage - Warteschlange"/>
+	<Elem NameU="Azure Storage - Table" Name="Azure Storage - Tabelle"/>
+	<Elem NameU="Azure Storage" Name="Azure Storage"/>
+	<Elem NameU="Storage" Name="Speicher"/>
+	<Elem NameU="Azure Store" Name="Azurer Speicher"/>
+	<Elem NameU="Azure StorSimple" Name="Azure StorSimple"/>
+	<Elem NameU="Azure Stream Analytics" Name="Azure Stream Analytics"/>
+	<Elem NameU="Azure Subscription" Name="Azure Abonnement"/>
+	<Elem NameU="Azure Traffic Manager" Name="Azure Traffic Manager"/>
+	<Elem NameU="Azure VM Symbol Only" Name="Azure VM Symbol nur"/>
+	<Elem NameU="Azure Virtual Machine" Name="Azure Virtual Machine"/>
+	<Elem NameU="Azure Virtual Machines - Availability Set" Name="Azure Virtual Machines - Verfügbarkeit Set"/>
+	<Elem NameU="Azure Virtual Machines - Linux Penguin Shadow" Name="Azure virtuelle Maschinen - Linux-Pinguin-Schatten"/>
+	<Elem NameU="Azure Virtual Network" Name="Azure virtuelles Netzwerk"/>
+	<Elem NameU="Azure VM Container" Name="Azure VM Container"/>
+	<Elem NameU="Azure VM Scale Set" Name="Azure VM Scale Set"/>
+	<Elem NameU="Azure VPN Gateway" Name="Azure VPN Gateway"/>
+	<Elem NameU="Azure WebApp - WebJobs" Name="Azure WebApp - WebJobs"/>
+	<Elem NameU="Microsoft Azure" Name="Microsoft Azure"/>
+	<Elem NameU="Network Security Group" Name="Netzwerksicherheitsgruppe"/>
+	<Elem NameU="OMS Log Analytics" Name="OMS Log Analytics"/>
+	<Elem NameU="Operations Management Suite (OMS)" Name="Operations Management Suite (OMS)"/>
+	<Elem NameU="OS Image" Name="OS-Bild"/>
+	<Elem NameU="Resource Group" Name="Ressourcengruppe"/>
+	<Elem NameU="Service Endpoint" Name="Service Endpunkt"/>
+	<Elem NameU="SQL Database Pools" Name="SQL-Datenbank-Pools"/>
+	<Elem NameU="Unidentified Feature Object" Name="Nicht identifiziertes Feature-Objekt"/>
+	<Elem NameU="VHD Data Disk" Name="VHD Datendiskette"/>
+	<Elem NameU="VHD" Name="VHD"/>
+	<Elem NameU="Visual Studio Team Services - Bitbucket Code Source" Name="Visual Studio Team Services - Bitbucket Code Quelle"/>
+	<Elem NameU="Visual Studio Team Services - CodePlex Source" Name="Visual Studio Team Services - CodePlex Quelle"/>
+	<Elem NameU="Visual Studio Team Services - Dropbox Code Source" Name="Visual Studio Team Services - Dropbox Code Quelle"/>
+	<Elem NameU="Visual Studio Team Services - Git Repository" Name="Visual Studio Team Services - Git Repository"/>
+	<Elem NameU="Visual Studio Team Services - GitHub" Name="Visual Studio Team Services - GitHub"/>
+	<Elem NameU="Visual Studio Team Services" Name="Visual Studio Team Services"/>
+	<Elem NameU="Webhooks" Name="Webhooks"/>
+	<Elem NameU="Power BI Embedded" Name="Power BI Embedded"/>
+	<Elem NameU="Cloud Office 365" Name="Cloud Office 365"/>
+	<Elem NameU="Office 365 subscription" Name="Office 365 Abonnement"/>
+	<Elem NameU="Office 365" Name="Office 365"/>
+	<Elem NameU="Azure Cache Redis Product icon_COLOR" Name="Azure Cache Redis Produkt icon_COLOR"/>
+	<Elem NameU="Azure Cognative Services - Computer Vision_COLOR" Name="Azure Cognative Services - Computer Vision_COLOR"/>
+	<Elem NameU="Azure Cognative Services - Emotion_COLOR" Name="Azure Cognative Services - Emotion_COLOR"/>
+	<Elem NameU="Azure Cognative Services - luis_COLOR" Name="Azure Cognative Services - luis_COLOR"/>
+	<Elem NameU="Azure Cognative Services - Recommendations_COLOR" Name="Azure Cognative Services - Empfehlungen_COLOR"/>
+	<Elem NameU="Azure Cognative Services - Speech_COLOR" Name="Azure Cognative Services - Speech_COLOR"/>
+	<Elem NameU="Azure Cognative Services - Textanalytics_COLOR" Name="Azure Cognative Services - Textanalytics_COLOR"/>
+	<Elem NameU="Azure Cognative Services - Web-Language-Model_COLOR" Name="Azure Cognative Services - Web-Sprache-Model_COLOR"/>
+</Lib>

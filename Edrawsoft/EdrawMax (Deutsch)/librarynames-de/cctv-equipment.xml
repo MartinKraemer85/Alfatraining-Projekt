@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="CCTV Equipment">
+
+<Elem Name="Bluetooth Headset" NameU="Bluetooth Headset"/>
+
+<Elem Name="Kamera" NameU="Camera"/>
+
+<Elem Name="Kamera 2" NameU="Camera 2"/>
+
+<Elem Name="CD-Player" NameU="CD Player"/>
+
+<Elem Name="Kopfhörer" NameU="Earphone"/>
+
+<Elem Name="Gamepad" NameU="Gamepad"/>
+
+<Elem Name="Google Glass" NameU="Google Glass"/>
+
+<Elem Name="iPad" NameU="iPad"/>
+
+<Elem Name="iPhone" NameU="iPhone"/>
+
+<Elem Name="iPod Shuffle" NameU="iPod Shuffle"/>
+
+<Elem Name="iPod" NameU="iPod"/>
+
+<Elem Name="Joystick" NameU="Joystick"/>
+
+<Elem Name="Mobile Power" NameU="Mobile Power"/>
+
+<Elem Name="Navigator" NameU="Navigator"/>
+
+<Elem Name="Pad" NameU="Pad"/>
+
+<Elem Name="PSP" NameU="PSP"/>
+
+<Elem Name="SmartWatch" NameU="SmartWatch"/>
+
+<Elem Name="Smartphone" NameU="Smartphone"/>
+
+<Elem Name="Tablet Computer" NameU="Tablet Computer"/>
+
+<Elem Name="Videokamera" NameU="Video Camera"/>
+
+<Elem Name="XBox" NameU="XBox"/>
+
+<Elem Name="Black monitor" NameU="Black monitor"/>
+
+<Elem Name="White monitor" NameU="White monitor"/>
+
+<Elem Name="Security camera" NameU="Security camera"/>
+
+<Elem Name="Dome Camera" NameU="Dome Camera"/>
+
+<Elem Name="Ball Machine" NameU="Ball Machine"/>
+
+<Elem Name="Infrared light 1" NameU="Infrared light 1"/>
+
+<Elem Name="Infrared light 2" NameU="Infrared light 2"/>
+
+<Elem Name="IPC" NameU="IPC"/>
+
+<Elem Name="Alarm" NameU="Alarm"/>
+
+<Elem Name="Alarm 2" NameU="Alarm 2"/>
+
+<Elem Name="Smoke alarm" NameU="Smoke alarm"/>
+
+<Elem Name="Monitor" NameU="Monitor"/>
+
+<Elem Name="DVR" NameU="DVR"/>
+
+<Elem Name="DVR 2" NameU="DVR 2"/>
+
+<Elem Name="Security Peripherals 1" NameU="Security Peripherals 1"/>
+
+<Elem Name="Security Peripherals 2" NameU="Security Peripherals 2"/>
+
+<Elem Name="ATM" NameU="ATM"/>
+
+<Elem Name="Monitors" NameU="Monitors"/>
+
+<Elem Name="TV wall" NameU="TV wall"/>
+
+</Lib>

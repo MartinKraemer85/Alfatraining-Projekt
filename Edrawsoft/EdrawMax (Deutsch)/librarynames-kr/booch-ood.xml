@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Booch OOD">
+    <Elem NameU="Class Properties" Name="클래스 속성"/>
+    <Elem NameU="Class Relationship" Name="클래스 관계"/>
+    <Elem NameU="Class" Name="클래스"/>
+    <Elem NameU="Instantiated Class" Name="인스턴스화 클래스"/>
+    <Elem NameU="Visibility Adomment" Name="장식"/>
+    <Elem NameU="Object Relationship" Name="개체 관계"/>
+    <Elem NameU="Data Flow" Name="데이터 흐름"/>
+    <Elem NameU="Synchronous" Name="동기"/>
+    <Elem NameU="Simple" Name="심플"/>
+    <Elem NameU="Barking" Name="Barking"/>
+    <Elem NameU="Asynchronous" Name="비동기"/>
+    <Elem NameU="Timeout" Name="시간 초과"/>
+    <Elem NameU="Processor/Device" Name="처리/장비"/>
+    <Elem NameU="State Icon" Name="상태"/>
+    <Elem NameU="Main Module" Name="메인 모듈"/>
+    <Elem NameU="History" Name="기록"/>
+    <Elem NameU="Subsystem Name" Name="하위 시스템 이름"/>
+    <Elem NameU="Module" Name="모듈"/>
+    <Elem NameU="OIG Object" Name="OIG 대상"/>
+    <Elem NameU="Arrow" Name="화살표"/>
+    <Elem NameU="CRC: Class Card" Name="CRC: 카드"/>
+    <Elem NameU="Message" Name="메세지"/>
+    <Elem NameU="Reference" Name="참고"/>
+</Lib>

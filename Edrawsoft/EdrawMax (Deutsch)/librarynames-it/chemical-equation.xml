@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Chemical Equation">
+	<Elem NameU="Benzene" Name="Benzene"/>
+	<Elem NameU="Benzene 2" Name="Benzene 2"/>
+	<Elem NameU="Cyclopentane" Name="Ciclopentano"/>
+	<Elem NameU="Hexagon Text Ring" Name="Anello di Testo Esagonale"/>
+	<Elem NameU="Pentagon Text Ring" Name="Anello di Testo Pentagonale"/>
+	<Elem NameU="Benzene 3" Name="Benzene 3"/>
+	<Elem NameU="Benzene 4" Name="Benzene 4"/>
+	<Elem NameU="Benzene 5" Name="Benzene 5"/>
+	<Elem NameU="Benzene 6" Name="Benzene 6"/>
+	<Elem NameU="Benzene 7" Name="Benzene 7"/>
+	<Elem NameU="Pentagon Text Ring 2" Name="Anello di Testo Pentagonale 2"/>
+	<Elem NameU="Pentagon Text Ring 3" Name="Anello di Testo Pentagonale 3"/>
+	<Elem NameU="Double Line" Name="Doppia Linea"/>
+	<Elem NameU="Carbon" Name="Carbonio"/>
+	<Elem NameU="Nitrogen Atom" Name="Atomo di Azoto"/>
+	<Elem NameU="Hydrogen" Name="Idrogeno"/>
+	<Elem NameU="Fluorin" Name="Fluoro"/>
+	<Elem NameU="Oxygen" Name="Ossigeno"/>
+	<Elem NameU="Oxygen 2" Name="Ossigeno 2"/>
+	<Elem NameU="Chlorine" Name="Cloro"/>
+	<Elem NameU="Iodine" Name="Iodio"/>
+	<Elem NameU="Bromine" Name="Bromo"/>
+	<Elem NameU="Hydroxy" Name="Idrossidi"/>
+	<Elem NameU="Nitryl" Name="Diossido di Azoto"/>
+	<Elem NameU="Amido" Name="Amido"/>
+	<Elem NameU="Imidogen" Name="Imidogen"/>
+	<Elem NameU="CH3" Name="CH3"/>
+	<Elem NameU="CH2" Name="CH2"/>
+	<Elem NameU="CH" Name="CH"/>
+	<Elem NameU="Ethylene" Name="Etilene"/>
+	<Elem NameU="HCCH" Name="HCCH"/>
+	<Elem NameU="CHCH" Name="CHCH"/>
+	<Elem NameU="CC" Name="CC"/>
+	<Elem NameU="Aldehyde" Name="Aldeidi"/>
+	<Elem NameU="Carboxyl" Name="Carbossilici"/>
+	<Elem NameU="Ester" Name="Estere"/>
+	<Elem NameU="Equivalence" Name="Equivalenza"/>
+	<Elem NameU="Act on" Name="Agisce su"/>
+	<Elem NameU="Act on 2" Name="Agisce su 2"/>
+	<Elem NameU="Act on 3" Name="Agisce su 3"/>
+	<Elem NameU="Act on 4" Name="Agisce su 4"/>
+	<Elem NameU="Act on 5" Name="Agisce su 5"/>
+	<Elem NameU="Act on 6" Name="Agisce su 6"/>
+	<Elem NameU="Act on 7" Name="Agisce su 7"/>
+	<Elem NameU="Line Bond" Name="Linea di Legame"/>
+	<Elem NameU="Bold Bond" Name="Linea Spessa"/>
+	<Elem NameU="Activator" Name="Attivatore"/>
+	<Elem NameU="Left Brace" Name="Parentesi Graffa Sinistra"/>
+	<Elem NameU="Right Brace" Name="Parentesi Graffa Destra"/>
+	<Elem NameU="Left Rounded Bracket" Name="Parentesi Tonda Sinistra"/>
+	<Elem NameU="Right Rounded Bracket" Name="Parentesi Tonda Destra"/>
+	<Elem NameU="Left Square Bracket" Name="Parentesi Quadra Sinistra"/>
+	<Elem NameU="Right Square Bracket" Name="Parentesi Quadra Destra"/>
+	<Elem NameU="Open Parenthesis" Name="Parentesi Aperta"/>
+	<Elem NameU="Close Parenthesis, Close Paren" Name="Parentesi Chiusa"/>
+</Lib>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Callout">
+	<Elem NameU="Callout - Curved Line" Name="콜아웃-곡선"/>
+	<Elem NameU="Callout - Bending Line" Name="콜아웃-휘어진 선"/>
+	<Elem NameU="Callout - Straight Line" Name="콜아웃-직선"/>
+	<Elem NameU="Round Callout" Name="둥근 콜아웃"/>
+	<Elem NameU="Oval Callout" Name="타원형 콜아웃"/>
+	<Elem NameU="Rectangular Callout" Name="사각형 콜아웃"/>
+	<Elem NameU="Information Line" Name="정보선"/>
+	<Elem NameU="Interrupt Line" Name="차단선"/>
+	<Elem NameU="Cross Section 1" Name="단면 1"/>
+	<Elem NameU="Cross Section 2" Name="단면 2"/>
+	<Elem NameU="Cross Section 3" Name="단면 3"/>
+	<Elem NameU="Datum (Position)" Name="데이텀(위치)"/>
+	<Elem NameU="Datum 1" Name="데이텀 1"/>
+	<Elem NameU="Datum 2" Name="데이텀 2"/>
+	<Elem NameU="Datum" Name="데이텀"/>
+	<Elem NameU="Level" Name="수평"/>
+	<Elem NameU="Reference" Name="참조"/>
+	<Elem NameU="Ceiling" Name="천장"/>
+	<Elem NameU="North Arrow 1" Name="북쪽 화살표 1"/>
+	<Elem NameU="North Arrow 2" Name="북쪽 화살표 2"/>
+	<Elem NameU="North Arrow 3" Name="북쪽 화살표 3"/>
+	<Elem NameU="North Arrow 4" Name="북쪽 화살표 4"/>
+	<Elem NameU="North Arrow 5" Name="북쪽 화살표 5"/>
+	<Elem NameU="Revision Cloud" Name="수정 구름"/>
+	<Elem NameU="Scale" Name="배율"/>
+	<Elem NameU="Scale Symbol" Name="배율 상징"/>
+	<Elem NameU="Note Symbol" Name="노트 상징"/>
+	<Elem NameU="Reference Triangle" Name="참조 삼각형"/>
+	<Elem NameU="Reference Rectangle" Name="참조 사각형"/>
+	<Elem NameU="Reference Hexagon" Name="참조 육각형"/>
+	<Elem NameU="Reference Oval" Name="참조 타원형"/>
+	<Elem NameU="Reference Circle" Name="참조 원형"/>
+	<Elem NameU="Reference Callout" Name="참조 콜아웃"/>
+	<Elem NameU="Alley" Name="골목"/>
+	<Elem NameU="Apartment-1" Name="아파트-1"/>
+	<Elem NameU="Apartment-2" Name="아파트-2"/>
+	<Elem NameU="Bathroom" Name="욕실"/>
+	<Elem NameU="Bedroom" Name="침실"/>
+	<Elem NameU="Meeting Room" Name="회의실"/>
+	<Elem NameU="Car Drugs" Name="의약품 운송 차량"/>
+	<Elem NameU="Kitchen" Name="주방"/>
+	<Elem NameU="Murder Scene" Name="살해 현장"/>
+	<Elem NameU="Office" Name="사무실"/>
+	<Elem NameU="Pool" Name="수영장"/>
+	<Elem NameU="Public Toilet" Name="공중 화장실"/>
+	<Elem NameU="Convenience Store" Name="편의점"/>
+	<Elem NameU="Dining Room" Name="식사 공간"/>
+</Lib>

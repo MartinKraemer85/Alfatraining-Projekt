@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Equipment-Valves">
+    <Elem NameU="Gate valve, Hand-operated" Name="수동식 게이트 밸브"/>
+    <Elem NameU="Gate valve" Name="게이트 밸브"/>
+    <Elem NameU="Normally closed gate valve" Name="일반적으로 닫힌 게이트 밸브"/>
+    <Elem NameU="Globe valve, Hand-operated" Name="수동식 글로브 밸브"/>
+    <Elem NameU="Globe valve" Name="글로브 밸브"/>
+    <Elem NameU="Rotary valve" Name="회전 밸브"/>
+    <Elem NameU="Needle valve" Name="니들 밸브"/>
+    <Elem NameU="Control valve" Name="컨트롤 밸브"/>
+    <Elem NameU="Piston-operated valve" Name="피스톤 작동 밸브"/>
+    <Elem NameU="Back Pressure Regulator" Name="배압 조절기"/>
+    <Elem NameU="Plug or cock valve" Name="플러그 또는 콕 밸브"/>
+    <Elem NameU="Check valve" Name="체크 밸브"/>
+    <Elem NameU="Check valve 2" Name="체크 밸브 2"/>
+    <Elem NameU="Butterfly valve" Name="버터플라이 밸브"/>
+    <Elem NameU="Flanged valve, Hand-operated" Name="수동식 플랜지 밸브"/>
+    <Elem NameU="Flanged valve 2" Name="플랜지 밸브 2"/>
+    <Elem NameU="Angle valve, Hand-operated" Name="수동식 앵글 밸브"/>
+    <Elem NameU="Angle globe valve" Name="앵글 글로브 밸브"/>
+    <Elem NameU="Relief valve" Name="릴리프 밸브"/>
+    <Elem NameU="Angle valve, Hand-operated" Name="수동식 앵글 밸브"/>
+    <Elem NameU="Angle blowdown valve" Name="앵글 블로우 다운 밸브"/>
+    <Elem NameU="Ball" Name="공"/>
+    <Elem NameU="Normally closed ball valve" Name="일반적으로 닫힌 볼 밸브"/>
+    <Elem NameU="Diaghragm" Name="횡격막"/>
+    <Elem NameU="Plug valve" Name="플러그 밸브"/>
+    <Elem NameU="Solenoid valve" Name="솔레노이드 벨브"/>
+    <Elem NameU="Hydraulic valve" Name="수압 밸브"/>
+    <Elem NameU="Motor-operated valve" Name="모터 작동 밸브"/>
+    <Elem NameU="Pilot gate valve" Name="파일럿 게이트 밸브"/>
+    <Elem NameU="Weight gate valve" Name="중력 게이트 밸브"/>
+    <Elem NameU="Powered valve" Name="동력 밸브"/>
+    <Elem NameU="Float-operated valve" Name="플로트 작동 밸브"/>
+    <Elem NameU="Needle valve" Name="니들 밸브"/>
+    <Elem NameU="3-way valve" Name="3 방향 밸브"/>
+    <Elem NameU="3-way plug valve" Name="3 방향 플러그 밸브"/>
+    <Elem NameU="3-way valve 2" Name="3 방향 밸브 2"/>
+    <Elem NameU="4-way plug valve" Name="4 방향 플러그 밸브"/>
+    <Elem NameU="4-way valve" Name="4 방향 밸브"/>
+    <Elem NameU="Electro-hydraulic gate valve" Name="전기 수압 게이트 밸브"/>
+    <Elem NameU="Balanced diaphragm gate valve" Name="균형 다이어프램 게이트 밸브"/>
+    <Elem NameU="Spring gate valve" Name="스프링 게이트 밸브"/>
+    <Elem NameU="Ram valve" Name="램 밸브"/>
+    <Elem NameU="Slide valve" Name="슬라이드 밸브"/>
+    <Elem NameU="Metering coke" Name="계량"/>
+    <Elem NameU="Knife valve" Name="나이프 밸브"/>
+    <Elem NameU="Excess flow valve" Name="초과 유량 밸브"/>
+    <Elem NameU="Post indicator valve" Name="포스트 표시기 밸브"/>
+    <Elem NameU="Self draining valve" Name="자체 배수 밸브"/>
+    <Elem NameU="Diaphragm valve" Name="다이어프램 밸브"/>
+    <Elem NameU="Pinch valve" Name="핀치 밸브"/>
+    <Elem NameU="Minimum flow valve" Name="최소 유량 밸브"/>
+    <Elem NameU="Auto recirculation valve" Name="자동 재순환 밸브"/>
+    <Elem NameU="Gauge" Name="계량기"/>
+    <Elem NameU="Bleeder valve" Name="배기 밸브"/>
+    <Elem NameU="Integrated block and bleed valve" Name="통합 블록 및 블리드 밸브"/>
+    <Elem NameU="Manual integrated block and bleed valve" Name="수동 통합 블록 및 블리드 밸브"/>
+    <Elem NameU="Orifice" Name="구멍"/>
+    <Elem NameU="Rotameter" Name="로터 측정기"/>
+    <Elem NameU="Quarter turn valve double acting" Name="1/4 회전 밸브 복동"/>
+    <Elem NameU="Quarter turn valve spring acting" Name="1/4 회전 밸브 스프링 작동"/>
+    <Elem NameU="Water flow meter" Name="유량 측정기"/>
+    <Elem NameU="Self-operating release valve" Name="자동 작동 릴리스 밸브"/>
+</Lib>

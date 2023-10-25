@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LibNames Version="8.0">
+<Library NameU="Column Chart" Name="Grafico colonna"/>
+<Library NameU="Funnel Chart" Name="Grafico a imbuto"/>
+<Library NameU="Gauge Chart" Name="Grafico di Gauge"/>
+<Library NameU="Line and Area Charts" Name="Grafico con linea e area"/>
+<Library NameU="Pie and Doughnut Charts" Name="Grafico a torta e ciambella"/>
+<Library NameU="Radar Chart" Name="Grafico a radar"/>
+<Library NameU="Scatter and Bubble Charts" Name="Grafico a dispersione e a bolle"/>
+
+<Library NameU="2D Block" Name="Blocco 2D"/>
+<Library NameU="2D Block Diagram" Name="Diagramma blocco 2D"/>
+<Library NameU="2D Directional Maps" Name="Mappa direzionale 2D"/>
+<Library NameU="2D Landmarks" Name="Punto di riferimento 2D"/>
+<Library NameU="3D Block" Name="Blocco 3D"/>
+<Library NameU="3D Block Diagram" Name="Diagramma blocco 3D"/>
+<Library NameU="3D Directional Maps" Name="Mappa direzionale 3D"/>
+<Library NameU="3D Landmarks" Name="Punto di riferimento 3D"/>
+<Library NameU="3D Network Diagram Shapes" Name="Forme di diagramma di rete 3D"/>
+<Library NameU="AWS App Services" Name="Servizi app AWS"/>
+<Library NameU="AWS Compute and Networking" Name="Informatica e network AWS"/>
+<Library NameU="AWS Database" Name="Database AWS"/>
+<Library NameU="AWS Deployment and Management" Name="Implementazione e gestione AWS"/>
+<Library NameU="AWS Non-Service Specific" Name="Non specifico per il servizio AWS"/>
+<Library NameU="AWS On-Demand Workforce" Name="Lavoro su richiesta AWS"/>
+<Library NameU="AWS SDKs" Name="AWS SDK"/>
+<Library NameU="AWS Storage Content and Delivery" Name="Contenuto e consegna AWS"/>
+<Library NameU="AWS Analytics" Name="AWS Analytics"/>
+<Library NameU="AWS App Services" Name="Servizi app AWS"/>
+<Library NameU="AWS Application Integration" Name="Integrazione delle applicazioni AWS"/>
+<Library NameU="AWS AR &amp; VR" Name="AWS AR e VR"/>
+<Library NameU="AWS Blockchain" Name="Blockchain AWS"/>
+<Library NameU="AWS Business Applications" Name="Applicazioni aziendali AWS"/>
+<Library NameU="AWS Compute" Name="Calcolare AWS"/>
+<Library NameU="AWS Compute and Networking" Name="Informatica e network AWS"/>
+<Library NameU="AWS Compute Instances" Name="Istanze di AWS Compute"/>
+<Library NameU="AWS Cost Management" Name="Gestione dei costi AWS"/>
+<Library NameU="AWS Customer Enablement" Name="Abilitazione dei clienti AWS"/>
+<Library NameU="AWS Customer Engagement" Name="Coinvolgimento dei clienti AWS"/>
+<Library NameU="AWS Database" Name="Database AWS"/>
+<Library NameU="AWS Deployment and Management" Name="Implementazione e gestione AWS"/>
+<Library NameU="AWS Developer Tools" Name="Strumenti per sviluppatori AWS"/>
+<Library NameU="AWS End User Computing" Name="Informatica per utenti finali AWS"/>
+<Library NameU="AWS Game Tech" Name="Tecnologia di gioco AWS"/>
+<Library NameU="AWS General" Name="AWS Generale"/>
+<Library NameU="AWS Group Icons" Name="Icone del gruppo AWS"/>
+<Library NameU="AWS Internet of Things" Name="Internet of Things di AWS"/>
+<Library NameU="AWS Machine Learning" Name="Apprendimento automatico di AWS"/>
+<Library NameU="AWS Management &amp; Governance" Name="Gestione e governance di AWS"/>
+<Library NameU="AWS Media Services" Name="Servizi multimediali AWS"/>
+<Library NameU="AWS Migration &amp; Transfer" Name="Migrazione e trasferimento AWS"/>
+<Library NameU="AWS Mobile" Name="AWS Mobile"/>
+<Library NameU="AWS Networking &amp; Content Delivery" Name="Reti AWS e distribuzione di contenuti"/>
+<Library NameU="AWS Non-Service Specific" Name="Servizio non specifico AWS"/>
+<Library NameU="AWS On-Demand Workforce" Name="Lavoro su richiesta AWS"/>
+<Library NameU="AWS Quantum Technologies" Name="Forza lavoro AWS On-Demand"/>
+<Library NameU="AWS Robotics" Name="Robotica AWS"/>
+<Library NameU="AWS Satellite" Name="Satellite AWS"/>
+<Library NameU="AWS SDKs" Name="AWS SDKs"/>
+<Library NameU="AWS Security, Identity, &amp; Compliance" Name="Sicurezza, identità e conformità AWS"/>
+<Library NameU="AWS Storage" Name="Archiviazione AWS"/>
+<Library NameU="AWS Storage Content and Delivery" Name="Contenuto e consegna AWS"/>
+<Library NameU="Active Directory" Name="Directory attiva"/>
+<Library NameU="Active Directory Objects" Name="Oggetti directory attiva"/>
+<Library NameU="Africa" Name="Africa"/>
+<Library NameU="Alarm and Access Control" Name="Allarme e controllo dell'accesso"/>
+<Library NameU="Analog and Digital Logic" Name="Logica analogica e digitale"/>
+<Library NameU="Android UI" Name="Android UI"/>
+<Library NameU="Animal Cells" Name="Cellule animali"/>
+<Library NameU="Animals" Name="Animali"/>
+<Library NameU="Head" Name="Testa"/>
+<Library NameU="Insect" Name="Insetto"/>
+<Library NameU="Sea Life" Name="Vita marina"/>
+<Library NameU="Terricole" Name="Vita terrestre"/>
+<Library NameU="Appliances" Name="Elettrodomestici"/>
+<Library NameU="Architecture" Name="Architettura"/>
+<Library NameU="Arrow Connectors" Name="Connettori a freccia"/>
+<Library NameU="Project Timeline" Name="Cronologia del progetto"/>
+<Library NameU="Arrow Shapes" Name="Forme a freccia"/>
+<Library NameU="Architecture Diagram" Name="Diagramma di architettura"/>
+<Library NameU="Asia" Name="Asia"/>
+<Library NameU="Basic Drawing Shapes" Name="Forme di disegno di base"/>
+<Library NameU="Astronomy" Name="Astronomia"/>
+<Library NameU="Athletic Ground" Name="Campo di atletica"/>
+<Library NameU="Audit Flow Diagram" Name="Diagramma di flusso"/>
+<Library NameU="Australia" Name="Australia"/>
+<Library NameU="BPMN-Shapes" Name="Forme BPMN"/>
+<Library NameU="Backgrounds" Name="Sfondo"/>
+<Library NameU="Ball and Stick Model" Name="Modello a sfere e bastoncini"/>
+<Library NameU="Bar Chart" Name="Grafico a barre"/>
+<Library NameU="Basic Drawing Shapes" Name="Forme di disegno di base"/>
+<Library NameU="Basic Electrical Symbols" Name="Simboli elettrici di base"/>
+<Library NameU="Basic Flowchart Shapes" Name="Forme per diagramma di flusso di base"/>
+<Library NameU="Bathroom" Name="Bagno"/>
+<Library NameU="Bedroom" Name="Camera da letto"/>
+<Library NameU="Birthday" Name="Compleanno"/>
+<Library NameU="Booch OOD" Name="Booch OOD"/>
+<Library NameU="Borders" Name="Confini"/>
+<Library NameU="Brainstorming" Name="Brainstorming"/>
+<Library NameU="Bubble Shapes" Name="Bolle"/>
+<Library NameU="Building Core" Name="Centro dell'edificio"/>
+<Library NameU="Business" Name="Azienda"/>
+<Library NameU="Business-Flat" Name="Azienda - Piano"/>
+<Library NameU="Business Icons" Name="Icone per aziende"/>
+<Library NameU="Business Card Templates" Name="Modelli di biglietti da visita"/>
+<Library NameU="Business Card Text" Name="Testo di biglietti da visita"/>
+<Library NameU="Business Scene" Name="Scena aziendale"/>
+<Library NameU="Canvas Templates" Name="Modelli di canvas"/>	
+<Library NameU="CCTV Equipment" Name="Circuito CCTV"/>
+<Library NameU="COM and OLE" Name="COM e OLE"/>
+<Library NameU="Commom Objects" Name="Oggetti comuni"/>
+<Library NameU="Cabinets and Bookcases" Name="Armadietti e librerie"/>
+<Library NameU="Calendar" Name="Calendario"/>
+<Library NameU="Callouts" Name="Didascalia"/>
+<Library NameU="Canada" Name="Canada"/>
+<Library NameU="Carnival" Name="Carnevale"/>
+<Library NameU="Carpet" Name="Tappeto"/>
+<Library NameU="Cause and Effect Diagram" Name="Diagramma di causa ed effetto"/>
+<Library NameU="Certificate" Name="Certificato"/>
+<Library NameU="Chemical Equation" Name="Equazione chimica"/>
+<Library NameU="Chen ERD" Name="Chen ERD"/>
+<Library NameU="Child Dress" Name="Vestiti per bambini"/>
+<Library NameU="Children's Day" Name="Festa dei bambini"/>
+<Library NameU="Christmas" Name="Natale"/>
+<Library NameU="Circular Charting Shapes" Name="Forme circolari per grafici"/>
+<Library NameU="Cisco Basic" Name="Cisco Base"/>
+<Library NameU="Cisco Buildings" Name="Cisco Edifici"/>
+<Library NameU="Cisco IBM Products" Name="Cisco Prodotti IBM"/>
+<Library NameU="Cisco LAN" Name="Cisco LAN"/>
+<Library NameU="Cisco Miscellaneous" Name="Cisco Misto"/>
+<Library NameU="Cisco People" Name="Cisco Persone"/>
+<Library NameU="Cisco Products 1" Name="Cisco Prodotti 1"/>
+<Library NameU="Cisco Products 2" Name="Cisco Prodotti 2"/>
+<Library NameU="Cisco Routers" Name="Cisco Router"/>
+<Library NameU="Cisco Switches" Name="Cisco Interruttori"/>
+<Library NameU="Cisco WAN" Name="Cisco WAN"/>
+<Library NameU="Cisio Media" Name="Cisco Media"/>
+<Library NameU="Cisco Security Stealthwatch" Name="Cisco Sicurezza"/>
+<Library NameU="Column" Name="Colonna"/>
+<Library NameU="Common Shapes" Name="Forme comuni"/>
+<Library NameU="Comparison Chart" Name="Grafico di paragone"/>
+<Library NameU="Comparison Indicators" Name="Indicatori di paragone"/>
+<Library NameU="Composite Assemblies" Name="Insieme composito"/>
+<Library NameU="Computers and Monitors" Name="Computer e monitor"/>
+<Library NameU="Concept Map" Name="Mappa concettuale"/>
+<Library NameU="Conceptual Website Shapes" Name="Forme sito web concettuale"/>
+<Library NameU="Connectors" Name="Connettori"/>
+<Library NameU="Container" Name="Contenitore"/>
+<Library NameU="Cross Functional Flowchart" Name="Diagramma di flusso interfunzionale"/>
+<Library NameU="Custom Organization Chart" Name="Grafico di organizzazione personalizzato"/>
+<Library NameU="Custom Timeline" Name="Linea temporale personalizzata"/>
+<Library NameU="Data Flow" Name="Flusso di dati"/>
+<Library NameU="Data Flow Model Diagram" Name="Diagramma modello flusso di dati"/>
+<Library NameU="Decision Tree" Name="Albero decisionale"/>
+<Library NameU="Design Libraryent" Name="Libraryento di design"/>
+<Library NameU="Design-Libraryent" Name="Libraryento di design"/>
+<Library NameU="Detailed Network Diagram" Name="Diagramma di rete dettagliato"/>
+<Library NameU="Digital Products" Name="Prodotti digitali"/>
+<Library NameU="Dimensioning" Name="Dimensionamento"/>
+<Library NameU="Dining Room (Elevation)" Name="Sala da pranzo (elevazione)"/>
+<Library NameU="EPC Diagram Shapes" Name="Forme diagramma EPC"/>
+<Library NameU="Easter" Name="Pasqua"/>
+<Library NameU="Education" Name="Istruzione"/>
+<Library NameU="Electrical Audio" Name="Audio elettrico"/>
+<Library NameU="Electrical Instruments" Name="Strumenti elettrici"/>
+<Library NameU="Electrical and Telecom" Name="Elettrico e telecomunicazioni"/>
+<Library NameU="Electrical Science" Name="Scienze elettriche"/>
+<Library NameU="Elevations" Name="Elevazioni"/>
+<Library NameU="Enterprise Application" Name="Applicazione aziendale"/>
+<Library NameU="Entity Relationship" Name="Relazioni di entità"/>
+<Library NameU="Environment" Name="Ambiente"/>
+<Library NameU="Equipment-Centrifuges" Name="Attrezzature-centrifuga"/>
+<Library NameU="Equipment-Compressors" Name="Attrezzature-compressori"/>
+<Library NameU="Equipment-Crushers" Name="Attrezzature-frantumatore"/>
+<Library NameU="Equipment-Dryers" Name="Attrezzature-asciugatrice"/>
+<Library NameU="Equipment-Filters" Name="Attrezzature-filtro"/>
+<Library NameU="Equipment-General" Name="Attrezzature-generale"/>
+<Library NameU="Equipment-Heat Exchanges" Name="Attrezzature-scambio di calore"/>
+<Library NameU="Equipment-Instruments" Name="Attrezzature-strumenti"/>
+<Library NameU="Equipment-Mixers" Name="Attrezzature-miscelatore"/>
+<Library NameU="Equipment-Motors" Name="Attrezzature-motori"/>
+<Library NameU="Equipment-Peripheral" Name="Attrezzature-periferico"/>
+<Library NameU="Equipment-Pumps" Name="Attrezzature-pompe"/>
+<Library NameU="Equipment-Stream Flag" Name="Attrezzature-flusso bandiera"/>
+<Library NameU="Equipment-Valves" Name="Attrezzature-valvole"/>
+<Library NameU="Equipment-Vessels" Name="Attrezzature-recipiente"/>
+<Library NameU="Europe" Name="Europa"/>
+<Library NameU="Event Flow Diagram" Name="Diagramma di flusso eventi"/>
+<Library NameU="Exchange Objects" Name="Scambio di oggetti"/>
+<Library NameU="Express-G" Name="Express-G"/>
+<Library NameU="Family Tree" Name="Albero genealogico"/>
+<Library NameU="Fault Tree Analysis Shapes" Name="Forme analisi dei guasti"/>
+<Library NameU="Finance" Name="Finanza"/>
+<Library NameU="Fire and Emergency" Name="Incendio ed emergenza"/>
+<Library NameU="Five Forces Diagram" Name="Diagramma cinque forze"/>
+<Library NameU="Flags" Name="Bandiere"/>
+<Library NameU="Food" Name="Cibo"/>
+<Library NameU="Forms" Name="Forme"/>
+<Library NameU="Fruit" Name="Frutta"/>
+<Library NameU="Funnel" Name="Imbuto"/>
+<Library NameU="Gantt" Name="Gantt"/>
+<Library NameU="Garden" Name="Giardino"/>
+<Library NameU="Gauges" Name="Indicatori"/>
+<Library NameU="Genogram" Name="Genogramma"/>
+<Library NameU="Gift Voucher" Name="Buono regalo"/>
+<Library NameU="Girl Dress 1" Name="Abito ragazza 1"/>
+<Library NameU="Girl Dress 2" Name="Abito ragazza 2"/>
+<Library NameU="Girl Dress 3" Name="Abito ragazza 3"/>
+<Library NameU="Girl Dress 4" Name="Abito ragazza 4"/>
+<Library NameU="Girl Dress 5" Name="Abito ragazza 5"/>
+<Library NameU="Girl Dress 6" Name="Abito ragazza 6"/>
+<Library NameU="Girl Dress 7" Name="Abito ragazza 7"/>
+<Library NameU="Girl Dress 8" Name="Abito ragazza 8"/>
+<Library NameU="Greek Letter" Name="Lettera greca"/>
+<Library NameU="Guestures" Name="Gesti"/>
+<Library NameU="HOQ and QFD" Name="HOQ e QFD"/>
+<Library NameU="HVAC Controls" Name="Controlli HVAC"/>
+<Library NameU="HVAC Controls Equipment" Name="Attrezzatura controlli HVAC"/>
+<Library NameU="HVAC Ductwork" Name="Canalizzazione HVAC"/>
+<Library NameU="HVAC Equipment" Name="Attrezzature HVAC"/>
+<Library NameU="Half-length" Name="Mezza lunghezza"/>
+<Library NameU="Halloween" Name="Halloween"/>
+<Library NameU="Highlight Flowchart Shapes" Name="Forme diagramma di flusso evidenziate"/>
+<Library NameU="Highlight Shapes" Name="Forme evidenziate"/>
+<Library NameU="Human Organs" Name="Organi umani"/>
+<Library NameU="IDEF0" Name="IDEF0"/>
+<Library NameU="IDEF2" Name="IDEF2"/>
+<Library NameU="IOS 6 UI" Name="IOS 6 UI"/>
+<Library NameU="IOS 7 UI" Name="IOS 7 UI"/>
+<Library NameU="IOS 8 UI" Name="IOS 8 UI"/>
+<Library NameU="Icons" Name="Icone"/>
+<Library NameU="Image Container" Name="Contenitore immagine"/>
+<Library NameU="Infographic Charts" Name="Grafico infografiche"/>
+<Library NameU="Initiation and Annunciation" Name="Iniziazione e annunciazione"/>
+<Library NameU="Integrated Circuit Components" Name="Componenti circuiti integrati"/>
+<Library NameU="Jackson" Name="Jackson"/>
+<Library NameU="Jacobson Use Case" Name="Jacobson scenari di utilizzo"/>
+<Library NameU="Kitchen (Elevation)" Name="Cucina (elevazione)"/>
+<Library NameU="Kitchen and Dining Room" Name="Cucina e sala da pranzo"/>
+<Library NameU="LDAP Objects" Name="Oggetti LDAP"/>
+<Library NameU="Laboratory Equipment" Name="Attrezzature di laboratorio"/>
+<Library NameU="Language Level Shapes" Name="Forme livello linguistico"/>
+<Library NameU="Lighting" Name="Illuminazione"/>
+<Library NameU="Lighting and Handbag (Elevation)" Name="Luce e borse (elevazione)"/>
+<Library NameU="Line and Area" Name="Linea e area"/>
+<Library NameU="List Shapes" Name="Forme lista"/>
+<Library NameU="Maintenance Symbol" Name="Simbolo manutenzione"/>
+<Library NameU="Man Suit" Name="Abito da uomo"/>
+<Library NameU="Map Vehicles" Name="Mappa veicoli"/>
+<Library NameU="Maps and Charts" Name="Mappa e grafici"/>
+<Library NameU="Mark" Name="Segno"/>
+<Library NameU="Marketing Diagrams" Name="Diagramma di marketing"/>
+<Library NameU="Marketing Shapes" Name="Forme di marketing"/>
+<Library NameU="Martin ERD" Name="Martin ERD"/>
+<Library NameU="Mathematical Symbol" Name="Simboli matematici"/>
+<Library NameU="Matrix" Name="Matrice"/>
+<Library NameU="Mechanics" Name="Meccanica"/>
+<Library NameU="Medical" Name="Medico"/>
+<Library NameU="Memory Objects" Name="Memoria ogetti"/>
+<Library NameU="Mind Map Shapes" Name="Forme mappa mentale"/>
+<Library NameU="Miscellaneous Flowchart Shapes" Name="Forme diagramma di flusso miste"/>
+<Library NameU="Models" Name="Modelli"/>
+<Library NameU="Molecular Model" Name="Modello molecolare"/>
+<Library NameU="Money" Name="Denaro"/>
+<Library NameU="Music" Name="Musica"/>
+<Library NameU="Nassi-Shneiderman" Name="Nassi-Shneiderman"/>
+<Library NameU="Network Locations" Name="Località rete"/>
+<Library NameU="Network Symbols" Name="Simboli rete"/>
+<Library NameU="Network and Peripherals" Name="Rete e periferiche"/>
+<Library NameU="New Year" Name="Nuovo anno"/>
+<Library NameU="News" Name="Notizie"/>
+<Library NameU="ORM Diagram" Name="Diagramma ORM"/>
+<Library NameU="Object Relationship" Name="Relazione oggetti"/>
+<Library NameU="Office" Name="Ufficio"/>
+<Library NameU="Office Equipment" Name="Apparecchiature da ufficio"/>
+<Library NameU="Office Furniture" Name="Mobili ufficio"/>
+<Library NameU="Optical Symbols" Name="Simboli ottici"/>
+<Library NameU="Optics" Name="Ottica"/>
+<Library NameU="Organization Chart Shapes" Name="Forme struttura organizzativa "/>
+<Library NameU="Organization Structure" Name="Struttura organizzativa"/>
+<Library NameU="PERT Chart Shapes" Name="Forme grafico PERT"/>
+<Library NameU="PEST" Name="PEST"/>
+<Library NameU="PID Blowers" Name="Ventilatore PID"/>
+<Library NameU="PID Boilers" Name="Caldaia PID"/>
+<Library NameU="PID Buildings" Name="Edifici PID"/>
+<Library NameU="PID Chemistry" Name="Chimica PID"/>
+<Library NameU="PID Computer Keys" Name="Tasti computer PID"/>
+<Library NameU="PID Containers" Name="Contenitori PID"/>
+<Library NameU="PID Ductwork" Name="Condotti PID"/>
+<Library NameU="PID Flow Meters" Name="Flussometro PID"/>
+<Library NameU="PID Food Processing" Name="Trasformazione alimenti PID"/>
+<Library NameU="PID HVAC" Name="PID HVAC"/>
+<Library NameU="PID Heaters" Name="Riscaldatori PID"/>
+<Library NameU="PID Industry" Name="Industria PID"/>
+<Library NameU="PID Lights" Name="Luci PID"/>
+<Library NameU="PID Logistics" Name="Logistica PID"/>
+<Library NameU="PID Machines" Name="Macchine PID"/>
+<Library NameU="PID Material Handling" Name="Gestione materiali PID"/>
+<Library NameU="PID Meters" Name="Misuratori PID"/>
+<Library NameU="PID Mixers" Name="Miscelatori PID"/>
+<Library NameU="PID Motors" Name="Motori PID"/>
+<Library NameU="PID Plant Facilities" Name="Strutture impiantistiche PID"/>
+<Library NameU="PID Power" Name="Potenza PID"/>
+<Library NameU="PID Process Cooling" Name="Processo di raffreddamento PID"/>
+<Library NameU="PID Process Heating" Name="Processo di riscaldamento PID"/>
+<Library NameU="PID Pumps" Name="Pompe PID"/>
+<Library NameU="PID Push Buttons" Name="Pulsanti PID"/>
+<Library NameU="PID Safety" Name="Sicurezza PID"/>
+<Library NameU="PID Tanks" Name="Taniche PID"/>
+<Library NameU="PID Valves" Name="Valvole PID"/>
+<Library NameU="PID Valves Symbols" Name="Simboli valvole PID"/>
+<Library NameU="PID Wastewater Treatment" Name="Trattamento acque reflue PID"/>
+<Library NameU="PID Wires and Cables" Name="Fili e cavi PID"/>
+<Library NameU="People" Name="Persone"/>
+<Library NameU="People-Flat" Name="Persone - Piano"/>
+<Library NameU="People Outline" Name="Sagoma persone"/>
+<Library NameU="Peripheral Equipment" Name="Attrezzatura periferica"/>
+<Library NameU="Pie and Doughnut" Name="Torta e ciambella"/>
+<Library NameU="Piping and Connection Shapes" Name="Forme condotti e connessioni"/>
+<Library NameU="Plant Cell" Name="Cellula vegetale"/>
+<Library NameU="Plants" Name="Piante"/>
+<Library NameU="Plumbing" Name="Impianto idraulico"/>
+<Library NameU="Presentation Symbols" Name="Simboli presentazione"/>
+<Library NameU="Process Steps" Name="Passi processo"/>
+<Library NameU="Process Shapes" Name="Forme processo"/>
+<Library NameU="Professions" Name="Professioni"/>
+<Library NameU="Program Flowchart" Name="Programma diagramma di flusso"/>
+<Library NameU="Pyramid Chart" Name="Grafico a piramide"/>
+<Library NameU="Qualifying Symbols" Name="Simboli qualificazione"/>
+<Library NameU="ROOM" Name="ROOM"/>
+<Library NameU="Rack Equipment" Name="Attrezzatura rack"/>
+<Library NameU="Registers Grills and Diffusers" Name="Registri griglie e diffusori"/>
+<Library NameU="Relationship" Name="Relazione"/>
+<Library NameU="Relationship Matrix" Name="Matrice di relazione"/>
+<Library NameU="Religion" Name="Religione"/>
+<Library NameU="Resistors and Capacitors" Name="Resistenze e condensatori"/>
+<Library NameU="Road Signs" Name="Segnali stradali"/>
+<Library NameU="Rotating Equip and Mech Functions" Name="Attrezzatura rotante e funzioni meccaniche"/>
+<Library NameU="SDL Diagram" Name="Diagramma SDL"/>
+<Library NameU="SSADM" Name="SSADM"/>
+<Library NameU="Scatter and Bubble" Name="Dispersione e a bolle"/>
+<Library NameU="School" Name="Scuola"/>
+<Library NameU="Semiconductor Devices" Name="Dispositivi a semiconduttore"/>
+<Library NameU="Servers" Name="Server"/>
+<Library NameU="Shlaer-Mellor OOA" Name="Shlaer-Mellor OOA"/>
+<Library NameU="Six Sigma" Name="Sei sigma"/>
+<Library NameU="Six Sigma Matrix" Name="Matrice sei sigma"/>
+<Library NameU="Sofas" Name="Poltrone"/>
+<Library NameU="Source and Battery" Name="Fonte e batteria"/>
+<Library NameU="South America" Name="Sud America"/>
+<Library NameU="Spider" Name="Ragno"/>
+<Library NameU="Status Table" Name="Tabella stato"/>
+<Library NameU="Subway" Name="Metropolitana"/>
+<Library NameU="Switches and Relays" Name="Interruttori e relè"/>
+<Library NameU="Symbols" Name="Simboli"/>
+<Library NameU="TQM Diagram Shapes" Name="Forme diagramma TQM"/>
+<Library NameU="Tables and Chairs" Name="Tavole e sedie"/>
+<Library NameU="Technology" Name="Tecnologia"/>
+<Library NameU="Technology-Flat" Name="Tecnologia - Piano"/>
+<Library NameU="Telecom Switch and Peripheral Equip" Name="Interruttore di telecomunicazione e apparecchiature periferiche"/>
+<Library NameU="Terminals and Connectors" Name="Terminali e connettori"/>
+<Library NameU="Text" Name="Testo"/>
+<Library NameU="Text Block" Name="Blocco di testo"/>
+<Library NameU="Text Box" Name="Casella di testo"/>
+<Library NameU="Timeline" Name="Linea temporale"/>
+<Library NameU="Titles" Name="Titoli"/>
+<Library NameU="Touch Gesture" Name="Gesti touch"/>
+<Library NameU="Tourism" Name="Turismo"/>
+<Library NameU="Transformers and Windings" Name="Trasformatori e avvolgimenti"/>
+<Library NameU="Transmission Path" Name="Percorso di trasmissione"/>
+<Library NameU="Transportation" Name="Trasporti"/>
+<Library NameU="UML Activity State Diagram" Name="UML Diagramma stato attività"/>
+<Library NameU="UML Class Diagram" Name="UML Diagramma classe"/>
+<Library NameU="UML Communication Diagram" Name="UML Diagramma comunicazione"/>
+<Library NameU="UML Component Diagram" Name="UML Diagramma componenti"/>
+<Library NameU="UML Deployment Diagram" Name="UML Diagramma distribuzione"/>
+<Library NameU="UML Sequence Diagram" Name="UML Diagramma sequenza"/>
+<Library NameU="UML Statechart Diagram" Name="UML Diagramma statechart"/>
+<Library NameU="UML Use Case Diagram" Name="UML Diagramma scenari di uso"/>
+<Library NameU="USA" Name="Stati Uniti"/>
+<Library NameU="VHF-UHF-SHF" Name="VHF-UHF-SHF"/>
+<Library NameU="Valentine's Day" Name="San Valentino"/>
+<Library NameU="Value Chain" Name="Catena di valori"/>
+<Library NameU="Value Stream Mapping" Name="Mappa flusso valori"/>
+<Library NameU="Vector Icons" Name="Icone vettori"/>
+<Library NameU="Vehicles" Name="Veicoli"/>
+<Library NameU="Venn Chart" Name="Grafico di Venn"/>
+<Library NameU="Venn Shapes" Name="Forme di Venn"/>
+<Library NameU="Video Surveillance" Name="Video sorveglianza"/>
+<Library NameU="Video and Audio Ports" Name="Porte audio e video"/>
+<Library NameU="WBS Shapes" Name="Forme WBS"/>
+<Library NameU="Wall Shell and Structure" Name="Parete, guscio e struttura"/>
+<Library NameU="Wall, Door, Window and Structure" Name="Parete, porta, finestra e struttura"/>
+<Library NameU="Wardrobe" Name="Armadio"/>
+<Library NameU="Weather" Name="Meteo"/>
+<Library NameU="Web Site Map" Name="Mappa sito web"/>
+<Library NameU="Doors and Windows" Name="Porte e finestre"/>
+<Library NameU="Windows and Doors (Elevation)" Name="Porte e finestre (elevazione)"/>
+<Library NameU="Windows7  UI" Name="Windows7  UI"/>
+<Library NameU="Wireframe" Name="Wireframe"/>
+<Library NameU="WorkFlow Department" Name="Dipartimento flusso di lavoro"/>
+<Library NameU="WorkFlow Objects" Name="Oggetti flusso di lavoro"/>
+<Library NameU="WorkFlow Steps" Name="Passi flusso di lavoro"/>
+<Library NameU="Yourdon and Coad" Name="Yourdon e Coad"/>
+<Library NameU="iPad UI" Name="iPad UI"/>
+<Library NameU="Kids Expressions" Name="Espressione bambini"/>
+<Library NameU="Kids Professions" Name="Professioni bambini"/>
+<Library NameU="Kids Sports" Name="Sport bambini"/>
+<Library NameU="Kids Transportation" Name="Trasporti bambini"/>
+<Library NameU="Kindergarten Life" Name="Vita nell'asilo"/>
+<Library NameU="School Life" Name="Vita a scuola"/>
+<Library NameU="Map Pointers" Name="Puntatori mappa"/>
+<Library NameU="World Map" Name="Mappa del mondo"/>
+<Library NameU="Lines" Name="Linee"/>
+<Library NameU="Fashion" Name="Moda"/>
+<Library NameU="Basic Charts" Name="Grafici di base"/>
+<Library NameU="Insect" Name="Insetti"/>
+<Library NameU="Animal" Name="Animali"/>
+<Library NameU="Terricole" Name="Animali terrestri"/>
+<Library NameU="Sea Life" Name="Animali marini"/>
+<Library NameU="Business Flat" Name="Piano azienda"/>
+<Library NameU="Business Scene 1" Name="Scena aziendale 1"/>
+<Library NameU="Business Scene 2" Name="Scena aziendale 2"/>
+<Library NameU="Office Flat" Name="Piano ufficio"/>
+<Library NameU="Marketing" Name="Marketing"/>
+<Library NameU="Shopping" Name="Shopping"/>
+<Library NameU="Discount Labels" Name="Etichetta sconto"/>
+<Library NameU="Business Scene 1" Name="Scena aziendale 1"/>
+<Library NameU="Desig-Libraryent" Name="Libraryento design"/>
+<Library NameU="Bow" Name="Arco"/>
+<Library NameU="Heart" Name="Cuore"/>
+<Library NameU="Ornament" Name="Decorazione"/>
+<Library NameU="Social Media Icons" Name="Icone social media"/>
+<Library NameU="Sticker" Name="Sticker"/>
+<Library NameU="Gestures" Name="Gesti"/>
+<Library NameU="Education Flat" Name="Educazione piano"/>
+<Library NameU="Fashion Models" Name="Fashion model"/>
+<Library NameU="Fashion Clothes" Name="Vestiti alla moda"/>
+<Library NameU="Fashion Items" Name="Oggetti alla moda"/>
+<Library NameU="Festival" Name="Festival"/>
+<Library NameU="Bread" Name="Pane"/>
+<Library NameU="Drink" Name="Bevande"/>
+<Library NameU="Fruit" Name="Frutta"/>
+<Library NameU="Snacks" Name="Spuntini"/>
+<Library NameU="Tableware" Name="Stoviglie"/>
+<Library NameU="Vegetable" Name="Verdura"/>
+<Library NameU="Nature" Name="Natura"/>
+<Library NameU="Flowers" Name="Fiori"/>
+<Library NameU="Leaves" Name="Foglie"/>
+<Library NameU="Trees" Name="Alberi"/>
+<Library NameU="Landscape" Name="Paesaggi"/>
+<Library NameU="Sagoma" Name="Silhouette"/>
+<Library NameU="Business People" Name="Uomini d'affari"/>
+<Library NameU="Facial Expressions" Name="Espressioni facciali"/>
+<Library NameU="Facial Expressions" Name="Espressioni facciali"/>
+<Library NameU="Profession" Name="Professione"/>
+<Library NameU="Profession Half-length" Name="Professione mezza-lunghezza"/>
+<Library NameU="People Activity Pictogram" Name="Pittogramma attività persone"/>
+<Library NameU="3D People Pictogram" Name="Pittogramma persone 3D"/>
+<Library NameU="Aerospace and Military" Name="Aerospaziale e militare"/>
+<Library NameU="Aerospace Technology" Name="Tecnologia aerospaziale"/>
+<Library NameU="Shipping and Logistics" Name="Spedizione e logistica"/>
+<Library NameU="Social Life" Name="Vita sociale"/>
+<Library NameU="News Media" Name="Notizie media"/>
+<Library NameU="Media" Name="Media"/>
+<Library NameU="Building" Name="Edificio"/>
+<Library NameU="Buildings" Name="Edifici"/>
+<Library NameU="Sports" Name="Sport"/>
+<Library NameU="Sport Silhouette" Name="Sagoma sport"/>
+<Library NameU="Sport Libraryents" Name="Libraryenti sport"/>
+<Library NameU="Fitness" Name="Fitness"/>
+<Library NameU="Electronics" Name="Elettronica"/>
+<Library NameU="Artificial Intelligence" Name="Intelligenza artificiale"/>
+<Library NameU="Biotechnology" Name="Biotecnologia"/>
+<Library NameU="Aerospace Technology" Name="Tecnologia aerospaziale"/>
+<Library NameU="Silhouette" Name="Sagoma"/>
+<Library NameU="Amazon Web Services" Name="Servizi Amazon web"/>
+<Library NameU="AWS SDKs" Name="AWS SDK"/>
+<Library NameU="MS Azure Cloud" Name="Cloud Azure Microsoft"/>
+<Library NameU="MS Azure Cloud" Name="Cloud Azure MS"/>	
+<Library NameU="Google Cloud" Name="Cloud Google"/>
+            <Library NameU="Cisco Network" Name="Rete Cisco"/>
+<Library NameU="Cisco Network Topology" Name="Topologia rete Cisco"/>
+<Library NameU="Cisco Product Icons" Name="Icone prodotti Cisco"/>
+<Library NameU="Cisco Teleprsence Icons" Name="Icone tele presenza Cisco"/>
+<Library NameU="Cisco Wireless Icons" Name="Icone wireless Cisco"/>
+<Library NameU="Cisco Safe Icons" Name="Icone sicurezza Cisco"/>
+<Library NameU="Finance" Name="Finanza - Piano"/>
+<Library NameU="Marketing" Name="Marketing"/>
+<Library NameU="Graphic Organizer" Name="Organizzatore grafico"/>
+<Library NameU="List Shapes (Dynamic)" Name="Elenco forme (dinamico)"/>
+<Library NameU="Enterprise Architecture" Name="Architettura di impresa"/>
+<Library NameU="Cisco Telepresence Icons" Name="Icone tele presenza Cisco"/>
+<Library NameU="Drink" Name="Bevanda"/>
+<Library NameU="User" Name="Utente"/>	
+<Library NameU="GCP Big Data" Name="Big data GCP"/>  
+<Library NameU="GCP Compute" Name="GCP computare"/>  
+<Library NameU="GCP Developer Tools" Name="GCP strumenti sviluppatore"/>  
+<Library NameU="GCP Extras" Name="GCP extra"/>  
+<Library NameU="GCP Identity and Security" Name="GCP identità e sicurezza"/>  
+<Library NameU="GCP Internet of Things" Name="GCP internet delle cose"/>  
+<Library NameU="GCP Management Tools" Name="GCP strumenti gestione"/>  
+<Library NameU="GCP Networking" Name="GCP rete"/>  
+<Library NameU="GCP Storage and Databases" Name="GCP memorizzazione e database"/>  
+<Library NameU="Azure Cloud" Name="Cloud Azure"/> 
+<Library NameU="Azure Intune" Name="Azure Intune"/>   
+<Library NameU="Azure Deprecated" Name="Azure Deprecato"/>  
+<Library NameU="Azure Enterprise" Name="Azure Impresa"/>  
+<Library NameU="Azure General Symbols" Name="Azure Simboli generali"/>  
+<Library NameU="Azure Microsoft Products" Name="Azure prodotti Microsoft"/>  
+<Library NameU="Azure VMs by Function" Name="Azure Funzione VMs"/>    
+<Library NameU="Azure System Center" Name="Azure Centro di sistema"/>  	
+<Library NameU="Cisco Security Stealthwatc" Name="Cisco sicurezza"/>	
+<Library NameU="Cisco Safe Threat Icons" Name="Cisco icone sicurezza pericolo"/>	
+<Library NameU="Cisco Safe Architectural Icons" Name="Cisco icone sicurezza architettonica"/>	
+<Library NameU="Cisco Safe Capability Icons" Name="Cisco icone sicurezza capacità"/>	
+<Library NameU="Cisco Safe Design Icons" Name="Cisco icone sicurezza design"/>	
+<Library NameU="Big Data" Name="Big data"/>
+<Library NameU="Smart Home" Name="Casa smart"/>
+<Library NameU="Internet Of Things" Name="Internet delle cose"/>
+<Library NameU="Website Wireframe 1" Name="Wireframe sito web 1"/>
+<Library NameU="Website Wireframe 2" Name="Wireframe sito web 2"/>
+<Library NameU="Windows UI" Name="Windows UI"/>
+<Library NameU="IOS UI" Name="IOS UI"/>
+<Library NameU="Wireframe Icons" Name="Icone wireframe"/>
+<Library NameU="iOS Icons" Name="Icone iOS"/>
+<Library NameU="Daily Life" Name="Vita quotidiana"/>
+<Library NameU="Education Icons" Name="Icone educazione"/>
+<Library NameU="Medical Icons" Name="Icone ambito medico"/>
+<Library NameU="Office Icons" Name="Icone ufficio"/>
+<Library NameU="User Icons" Name="Icone utente"/>
+<Library NameU="Wireframe Icons" Name="Icone wireframe"/>
+<Library NameU="Mid Autumn Festival" Name="Festival autunnale"/>
+<Library NameU="Dragon Boat" Name="Barca del drago"/>
+<Library NameU="Dragon Boat Festival" Name="Festival barca del drago"/>
+<Library NameU="Family" Name="Famiglia"/>
+<Library NameU="Father's Day" Name="Festa del papà"/>
+<Library NameU="Spring Festival" Name="Festival primaverile"/>
+<Library NameU="Thanksgiving Day" Name="Giorno del ringraziamento"/>
+<Library NameU="Valentines Day" Name="San Valentino"/>
+<Library NameU="Wedding Day" Name="Giorno del matrimonio"/>
+<Library NameU="Users" Name="Utente"/>
+<Library NameU="Holiday Cards" Name="Biglietti di auguri"/>
+<Library NameU="Design" Name="Design"/>
+<Library NameU="Business Flat Icons" Name="Icone di affari in stile piatto faccia"/>
+<Library NameU="Business Outline Icons" Name="Icone del Profilo Aziendale"/>
+<Library NameU="Business Two Color Icons" Name="Icone di affari a due colori"/>
+<Library NameU="Daily Life Flat Icons" Name="Icone Piane della Vita Quotidiana"/>
+<Library NameU="Daily Life Outline Icons" Name="Icone del Contorno della Vita Quotidiana"/>
+<Library NameU="Education Flat Icons" Name="Icone piatte sull'istruzione"/>
+<Library NameU="Education Outline Icons" Name="Icone di contorno sull'istruzione"/>
+<Library NameU="Medical Flat Icons" Name="Icone piatte mediche"/>
+<Library NameU="Medical Outline Icons" Name="Icone di contorno medico"/>
+<Library NameU="Social Media Flat Icons" Name="Icone piatte di Social Media"/>
+<Library NameU="Social Media Colorful Icons" Name="Icone di contorno dei social media"/>
+<Library NameU="Users Outline Icons" Name="Icone utente lineari minimaliste"/>
+<Library NameU="Users Flat Icons" Name="Icone di contorno Utenti"/>
+<Library NameU="Roadmap" Name="Tabella di marcia"/>
+<Library NameU="Facial Expression" Name="Espressione Facciale"/>
+<Library NameU="PPT Illustration" Name="Illustrazione PPT "/>
+<Library NameU="Org Chart(Automated)" Name="Organigramma (automatico)"/>
+<Library NameU="Org Chart(Manual)" Name="Organigramma (manuale)"/>
+<Library NameU="Smart Shapes" Name="Forme intelligenti"/>
+<Library NameU="Number" Name="Numero"/>
+<Library NameU="Business Layer" Name="Livello aziendale"/>
+<Library NameU="Application Layer" Name="Livello applicazione"/>
+<Library NameU="Technology Layer" Name="Livello tecnologia"/>
+<Library NameU="Relationships" Name="Relazioni"/>
+<Library NameU="Physical" Name="Fisico"/>
+<Library NameU="Strategy" Name="Strategia"/>
+<Library NameU="Motivation" Name="otivazione"/>
+<Library NameU="Implementation and Migration" Name="Implementazione e migrazione"/>
+<Library NameU="ArchiMate" Name="Archimate"/>
+<Library NameU="Figures" Name="Figure"/>
+<Library NameU="Outdoor Scene" Name="Scena all'aperto"/>
+<Library NameU="Evidence" Name="Prova"/>
+<Library NameU="Weapons" Name="Armi"/>
+<Library NameU="Indoor Scene" Name="Scena interna"/>
+<Library NameU="Callout" Name="Callout"/>
+<Library NameU="Crime Scene Images" Name="Immagini scena del crimine"/>
+<Library NameU="Internet of Things (IOT)" Name="Internet delle cose (IoT)"/>
+<Library NameU="Sports Elements" Name="Elementi sportivi"/>
+<Library NameU="Consumer Electronics" Name="Elettronica di consumo"/>
+</LibNames>

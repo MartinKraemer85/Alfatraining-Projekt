@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Bathroom">
+	<Elem NameU="Sink" Name="Pia"/>
+	<Elem NameU="Countertop sink" Name="Pia de bancada"/>
+	<Elem NameU="Pedestal sink" Name="Pia de pedestal"/>
+	<Elem NameU="Bidet" Name="Bidé"/>
+	<Elem NameU="Squat wc" Name="WC de agachamento"/>
+	<Elem NameU="Shower" Name="Chuveiro"/>
+	<Elem NameU="Corner shower" Name="Chuveiro de canto"/>
+	<Elem NameU="Corner bath" Name="Banheira de canto"/>
+	<Elem NameU="Bathroom" Name="Banheiro"/>
+	<Elem NameU="Shower Drain" Name="Drenagem do Chuveiro"/>
+	<Elem NameU="Water Tap 1" Name="Torneira da Água 1"/>
+	<Elem NameU="Water Tap 2" Name="Torneira da Água 2"/>
+	<Elem NameU="Water Tap 3" Name="Torneira da Água 3"/>
+	<Elem NameU="Water Tap 4" Name="Torneira da Água 4"/>
+	<Elem NameU="Water Tap 5" Name="Torneira da Água 5"/>
+	<Elem NameU="Dustbin" Name="Caixote do Lixo"/>
+	<Elem NameU="Toilet Paper" Name="Papel Higiênico"/>
+	<Elem NameU="Towel Rack" Name="Suporte de Toalhas"/>
+	<Elem NameU="Toilet" Name="Banheiro"/>
+	<Elem NameU="Bathtub" Name="Banheira"/>
+	<Elem NameU="Shower Drain 2" Name="Drenagem do Chuveiro 2"/>
+	<Elem NameU="Light" Name="Luz"/>
+	<Elem NameU="Shower Lamp" Name="Lâmpada de Chuveiro"/>
+	<Elem NameU="Cabinet" Name="Armário"/>
+</Lib>

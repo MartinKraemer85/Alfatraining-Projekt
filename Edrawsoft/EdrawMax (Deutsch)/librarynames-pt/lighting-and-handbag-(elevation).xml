@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Lighting and Handbag (Elevation)">
+	<Elem NameU="Lighting 1" Name="Iluminação 1"/>
+	<Elem NameU="Lighting 2" Name="Iluminação 2"/>
+	<Elem NameU="Lighting 3" Name="Iluminação 3"/>
+	<Elem NameU="Lighting 4" Name="Iluminação 4"/>
+	<Elem NameU="Lighting 5" Name="Iluminação 5"/>
+	<Elem NameU="Lighting 6" Name="Iluminação 6"/>
+	<Elem NameU="Lighting 7" Name="Iluminação 7"/>
+	<Elem NameU="Lighting 8" Name="Iluminação 8"/>
+	<Elem NameU="Lighting 9" Name="Iluminação 9"/>
+	<Elem NameU="Lighting 10" Name="Iluminação 10"/>
+	<Elem NameU="Lighting 11" Name="Iluminação 11"/>
+	<Elem NameU="Lighting 12" Name="Iluminação 12"/>
+	<Elem NameU="Handbag 1" Name="Bolsa 1"/>
+	<Elem NameU="Handbag 2" Name="Bolsa 2"/>
+	<Elem NameU="Handbag 3" Name="Bolsa 3"/>
+	<Elem NameU="Handbag 4" Name="Bolsa 4"/>
+	<Elem NameU="Handbag 5" Name="Bolsa 5"/>
+	<Elem NameU="Clothing" Name="Roupas"/>
+	<Elem NameU="Shoe 1" Name="Sapato 1"/>
+	<Elem NameU="Shoe 2" Name="Sapato 2"/>
+	<Elem NameU="Shoe 3" Name="Sapato 3"/>
+	<Elem NameU="Shoe 4" Name="Sapato 4"/>
+	<Elem NameU="Shoe 5" Name="Sapato 5"/>
+	<Elem NameU="Model 1" Name="Modelo 1"/>
+	<Elem NameU="Model 2" Name="Modelo 2"/>
+	<Elem NameU="Model 3" Name="Modelo 3"/>
+	<Elem NameU="Model 4" Name="Modelo 4"/>
+	<Elem NameU="Model 5" Name="Modelo 5"/>
+	<Elem NameU="Model 6" Name="Modelo 6"/>
+	<Elem NameU="Showing stand" Name="Suporte de Exibição"/>
+	<Elem NameU="Diamond" Name="Diamante"/>
+</Lib>

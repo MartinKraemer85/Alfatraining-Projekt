@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Language Level Shapes">
+    <Elem NameU="Flowchart Shapes" Name="流程圖形狀"/>
+    <Elem NameU="Function or Subrouting" Name="函數或子程式"/>
+    <Elem NameU="Switch" Name="開關"/>
+    <Elem NameU="Cloud" Name="雲朵"/>
+    <Elem NameU="Conditional invocation" Name="有條件的調用"/>
+    <Elem NameU="Lexical inclusion" Name="詞彙包含"/>
+    <Elem NameU="Invocation" Name="調用"/>
+    <Elem NameU="Invocation w-Jump" Name="帶有跨線的調用"/>
+    <Elem NameU="Data flow" Name="資料流"/>
+    <Elem NameU="Flag flow" Name="標誌流"/>
+    <Elem NameU="Bracket" Name="括號"/>
+</Lib>

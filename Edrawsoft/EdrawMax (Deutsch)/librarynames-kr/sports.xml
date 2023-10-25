@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Sports">
+    <Elem NameU="Dribbling" Name="드리블"/>
+    <Elem NameU="Layup" Name="레이업"/>
+    <Elem NameU="Shooting BasketBall" Name="농구 슈팅"/>
+    <Elem NameU="Shooting Football" Name="축구 슈팅"/>
+    <Elem NameU="Tackling" Name="태클"/>
+    <Elem NameU="Playing Football 3" Name="축구 3"/>
+    <Elem NameU="Table Tennis 1" Name="탁구1"/>
+    <Elem NameU="Table Tennis 2" Name="탁구2"/>
+    <Elem NameU="Table Tennis 3" Name="탁구3"/>
+    <Elem NameU="Badminton 1" Name="배드민턴 1"/>
+    <Elem NameU="Badminton 2" Name="배드민턴 2"/>
+    <Elem NameU="Volleyball 1" Name="배구 1"/>
+    <Elem NameU="Volleyball 2" Name="배구 2"/>
+    <Elem NameU="Volleyball 3" Name="배구 3"/>
+    <Elem NameU="Volleyball 4" Name="배구 4"/>
+    <Elem NameU="Volleyball 5" Name="배구 5"/>
+    <Elem NameU="Rugby 1" Name="럭비 1"/>
+    <Elem NameU="Rugby 2" Name="럭비 2"/>
+    <Elem NameU="Rugby 3" Name="럭비 3"/>
+    <Elem NameU="Baseball 1" Name="야구1"/>
+    <Elem NameU="Baseball 2" Name="야구2"/>
+    <Elem NameU="Baseball 3" Name="야구3"/>
+    <Elem NameU="Hockey 1" Name="하키 1"/>
+    <Elem NameU="Hockey 2" Name=" 하키2"/>
+    <Elem NameU="Hockey 3" Name="하키 3"/>
+    <Elem NameU="Bowling 1" Name="볼링 1"/>
+    <Elem NameU="Bowling 2" Name="볼링 2"/>
+    <Elem NameU="Skating 1" Name="스케이팅 1"/>
+    <Elem NameU="Skating 2" Name="스케이팅 2"/>
+    <Elem NameU="Skating 3" Name="스케이팅 3"/>
+    <Elem NameU="Skiing 1" Name="스키 1"/>
+    <Elem NameU="Skiing 2" Name="스키 2"/>
+    <Elem NameU="Skiing 3" Name="스키 3"/>
+    <Elem NameU="Jogging 1" Name="조깅 1"/>
+    <Elem NameU="Jogging 2" Name="조깅 2"/>
+    <Elem NameU="Running on Treadmill 1" Name="런닝머신에서 달리기 1"/>
+    <Elem NameU="Swimming" Name="수영"/>
+    <Elem NameU="Running on Treadmill 2" Name="런닝머신에서 달리기 2"/>
+    <Elem NameU="Climbing" Name="암벽"/>
+    <Elem NameU="Yoga 1" Name="요가 1"/>
+    <Elem NameU="Cycling" Name="사이클링"/>
+    <Elem NameU="Yoga 2" Name="요가 2"/>
+    <Elem NameU="Yoga 3" Name="요가 3"/>
+    <Elem NameU="Yoga 4" Name="요가 4"/>
+    <Elem NameU="Pole Vaulting" Name="장대 높이뛰기"/>
+    <Elem NameU="High Jump" Name="높이 뛰기"/>
+    <Elem NameU="Long Jump 1" Name="멀리 뛰기 1"/>
+    <Elem NameU="Long Jump 2" Name="멀리 뛰기 2"/>
+    <Elem NameU="Taekwondo 1" Name="태권도 1"/>
+    <Elem NameU="Taekwondo 2" Name="태권도 2"/>
+    <Elem NameU="Fencing" Name="펜싱"/>
+    <Elem NameU="Pommel Horse 2" Name="기계체조 안마 2"/>
+    <Elem NameU="Pommel Horse 1" Name="기계체조 안마 1"/>
+    <Elem NameU="Hurdling" Name="허들링"/>
+    <Elem NameU="Drinking Water" Name="물 마시는 중"/>
+</Lib>

@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="TQM Diagram Shapes">
+
+<Elem Name="Verkehr" NameU="Transportation"/>
+
+<Elem Name="Eingehende Waren" NameU="Inbound goods"/>
+
+<Elem Name="Speicher" NameU="Storage"/>
+
+<Elem Name="Prozedur" NameU="Procedure"/>
+
+<Elem Name="Vorgang" NameU="Operation"/>
+
+<Elem Name="Vorgang oder Prüfung" NameU="Operation or inspection"/>
+
+<Elem Name="Thema" NameU="Issue"/>
+
+<Elem Name="Organisat.-funktion" NameU="Organization function"/>
+
+<Elem Name="2-teilige Funktion" NameU="2-part function"/>
+
+<Elem Name="Externe Organisation" NameU="External organization"/>
+
+<Elem Name="Externer Prozess" NameU="External process"/>
+
+<Elem Name="Prüfung/ Messung" NameU="Inspection/ measurement"/>
+
+<Elem Name="Metrisch" NameU="Metric"/>
+
+<Elem Name="2-teiliges Maß" NameU="2-part metrix"/>
+
+<Elem Name="Systemdatenbank" NameU="System database"/>
+
+<Elem Name="Systemunterstützung" NameU="System support"/>
+
+<Elem Name="Systemfunktion" NameU="System function"/>
+
+<Elem Name="Verzögerung" NameU="Delay"/>
+
+<Elem Name="Verbinder(TQM)" NameU="Connector(TQM)"/>
+
+<Elem Name="Off-Page-Referenz" NameU="Off-page reference"/>
+
+<Elem Name="Verbundene Themen" NameU="Connected issues"/>
+
+<Elem Name="Fertigung" NameU="Fabrication"/>
+
+<Elem Name="Verschieben" NameU="Move"/>
+
+<Elem Name="Speicher" NameU="Store"/>
+
+<Elem Name="Prüfung" NameU="Inspection"/>
+
+<Elem Name="Auswählbarer Prozess" NameU="Selectable process"/>
+
+<Elem Name="Rückkopplungspfeil" NameU="Feedback arrow"/>
+
+<Elem Name="Kräftediagramm" NameU="Force-field analysis"/>
+
+<Elem Name="Kategorie" NameU="Category"/>
+
+<Elem Name="Wirkung" NameU="Effect"/>
+
+<Elem Name="Fischrahmen" NameU="Fish frame"/>
+
+<Elem Name="Ergebnis" NameU="Result"/>
+
+<Elem Name="Nein- Ergebnis" NameU="No result"/>
+
+<Elem Name="Zweig: Rückkehr" NameU="Branch-return"/>
+
+<Elem Name="Zweig: ohne Rückkehr" NameU="Branch-no return"/>
+
+<Elem Name="Unterbrechung" NameU="Interrupt"/>
+
+<Elem Name="Externes Steuerelement" NameU="External control"/>
+
+<Elem Name="Verbesserung" NameU="Refinement"/>
+
+<Elem Name="Decision (TQM)" NameU="Decision (TQM)"/>
+
+<Elem Name="Multi In / Out Entscheidung" NameU="Mulit in/out decision"/>
+
+<Elem Name="Arbeitsablaufschleife" NameU="Work flow loop"/>
+
+<Elem Name="Vertikale Schwimmbahn" NameU="Vertical Swimlane"/>
+
+<Elem Name="Horizontale Schwimmbahn" NameU="Horizontal Swinlane"/>
+
+<Elem Name="Ursache" NameU="Cause"/>
+
+<Elem Name="Sekundäre Ursache" NameU="Secondary Cause"/>
+
+<Elem Name="Lichtbogenverbinder" NameU="Arc connector"/>
+
+<Elem Name="Kurvenstecker" NameU="Curve connector"/>
+
+</Lib>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Tableware">
+    <Elem NameU="Wine Bottle 2" Name="와인잔 2"/>
+    <Elem NameU="Wine Bottle 3" Name="와인잔 3"/>
+    <Elem NameU="Wine Bottle 4" Name="와인잔 4"/>
+    <Elem NameU="Wine Bottle 5" Name="와인잔 5"/>
+    <Elem NameU="Wine Bottle 6" Name="와인잔 6"/>
+    <Elem NameU="Wine Bottle 7" Name="와인잔 7"/>
+    <Elem NameU="Wine Bottle 8" Name="와인잔 8"/>
+    <Elem NameU="Wine Bottle" Name="와인잔"/>
+    <Elem NameU="Wine Bottle 9" Name="와인잔 9"/>
+    <Elem NameU="Wine Glass 1" Name="와인잔1"/>
+    <Elem NameU="Wine Glass 2" Name="와인잔 2"/>
+    <Elem NameU="Wine Glass 3" Name="와인잔 3"/>
+    <Elem NameU="Wine Glass 4" Name="와인잔 4"/>
+    <Elem NameU="Wine Glass 5" Name="와인잔 5"/>
+    <Elem NameU="Wine Glass 6" Name="와인잔 6"/>
+    <Elem NameU="Wine Glass 7" Name="와인잔7"/>
+    <Elem NameU="Wooden spoon" Number="2" Name="나무 숟가락"/>
+    <Elem NameU="Large wooden spoon" Name="큰 나무 숟가락"/>
+    <Elem NameU="Long wooden spoon" Name="긴 나무 숟가락"/>
+    <Elem NameU="Spoon" Name="스푼"/>
+    <Elem NameU="Fork" Name="포크"/>
+    <Elem NameU="Circular plate" Name="원형 그릇"/>
+    <Elem NameU="Oval plate" Name="타원형 그릇"/>
+    <Elem NameU="Bowl" Name="사발"/>
+    <Elem NameU="Fruit Knife" Name="과일칼"/>
+    <Elem NameU="Kitchen Knife" Name="나이프"/>
+    <Elem NameU="Chopping board" Name="도마"/>
+    <Elem NameU="Teapot" Name="찻 주전자"/>
+    <Elem NameU="Bread maker" Name="제빵기"/>
+    <Elem NameU="Induction cooker" Name="인덕션 쿠커"/>
+    <Elem NameU="Microwave oven" Name="전자레인지"/>
+    <Elem NameU="Pan" Name="팬"/>
+    <Elem NameU="Chef" Name="셰프"/>
+    <Elem NameU="Canteen" Name="식당"/>
+</Lib>

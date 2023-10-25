@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Semiconductor Devices">
+    <Elem NameU="Transistor PNP" Name="트랜지스터 PNP"/>
+    <Elem NameU="Transistor NPN" Name="트랜지스터 NPN"/>
+    <Elem NameU="JFET(PNP)" Name="JFET(PNP)"/>
+    <Elem NameU="JFET(NPN)" Name="JFET(NPN)"/>
+    <Elem NameU="MOSFET(P)" Name="MOSFET(P)"/>
+    <Elem NameU="MOSFET(N)" Name="MOSFET(N)"/>
+    <Elem NameU="MOSFET Inductive Channel (N)" Name="MOSFET유도 채널 (N)"/>
+    <Elem NameU="MOSFET Inductive Channel (P)" Name="MOSFET유도 채널 (P)"/>
+    <Elem NameU="MOSFET No Bulk (N)" Name="MOSFET（N형）"/>
+    <Elem NameU="MOSFET No Bulk (P)" Name="MOSFET（P형）"/>
+    <Elem NameU="Gual Gate MOSFET (P)" Name="Gual 게이트 MOSFET(P)"/>
+    <Elem NameU="Gual Gate MOSFET (N)" Name="Gual 게이트 MOSFET(N)"/>
+    <Elem NameU="Diode" Name="다이오드"/>
+    <Elem NameU="Diode 2" Name="다이오드 2"/>
+    <Elem NameU="Transistor PNP 2" Name="트랜지스터 PNP 2"/>
+    <Elem NameU="Transistor PNP Photo" Name="트랜지스터 PNP（포토）"/>
+    <Elem NameU="Transistor NPN 2" Name="트랜지스터 NPN 2"/>
+    <Elem NameU="Transistor NPN Photo" Name="트랜지스터 NPN（포토）"/>
+    <Elem NameU="Four layer diode" Name="4 레이어 다이오드"/>
+    <Elem NameU="MOSFET" Name="MOSFET"/>
+    <Elem NameU="Diac" Name="Diac"/>
+    <Elem NameU="Triac" Name="Triac"/>
+    <Elem NameU="Junction - P Channel" Name="접합- P채널"/>
+    <Elem NameU="Junction - N Channel" Name="접합- N채널"/>
+    <Elem NameU="Transverse" Name="횡축"/>
+    <Elem NameU="Ohmic" Name="Ohmic"/>
+    <Elem NameU="Unijunction" Name="단접합"/>
+    <Elem NameU="Darlington" Name="복합 트랜지스터"/>
+    <Elem NameU="Latch" Name="래치"/>
+    <Elem NameU="IGFET N-Type" Name="N 형 IGFET"/>
+    <Elem NameU="IGFET P-Type" Name="P 형 IGFET"/>
+    <Elem NameU="Gunn diode" Name="Gunn 다이오드"/>
+    <Elem NameU="Breakdown" Name="파괴"/>
+    <Elem NameU="Varactor varicap" Name="버랙터 다이오드"/>
+    <Elem NameU="Tunnel diode" Name="터널 다이오드"/>
+    <Elem NameU="Backward diode" Name="반대 다이오드"/>
+    <Elem NameU="Schottky diode" Name="Schottky 다이오드"/>
+    <Elem NameU="Zener diode" Name="Zener 다이오드"/>
+    <Elem NameU="Varactor" Name="버랙터 다이오드"/>
+    <Elem NameU="Transorb" Name="Transorb"/>
+    <Elem NameU="Transorb 2" Name="Transorb 2"/>
+    <Elem NameU="Controlled switch" Name="컨트롤 스위치"/>
+    <Elem NameU="Controlled rectifier" Name="컨트롤 정류기"/>
+    <Elem NameU="Turn off rectifier" Name="정류기 끄기"/>
+    <Elem NameU="Four layer diode" Name="4레이어 다이오드"/>
+    <Elem NameU="Photodiode" Name="포토 다이오드"/>
+    <Elem NameU="Breakdown diode" Name="파괴 다이오드"/>
+    <Elem NameU="Tube diode" Name="튜브 다이오드"/>
+    <Elem NameU="Tube triode" Name="튜브 삼극관"/>
+    <Elem NameU="Tube tetrode" Name="튜브 사극관"/>
+    <Elem NameU="Tube pentode" Name="튜브 오극관"/>
+    <Elem NameU="Turn-off triode" Name="삼극관 끄기"/>
+    <Elem NameU="Diode vacuum tubes" Name="진공 다이오드"/>
+    <Elem NameU="Double diode" Number="2" Name="더블 다이오드 1"/>
+    <Elem NameU="Double triode" Name="더블 삼극관"/>
+    <Elem NameU="Tetrode" Name="사극관"/>
+    <Elem NameU="Pentode" Name="오극관"/>
+    <Elem NameU="Photocell" Name="광전지"/>
+</Lib>

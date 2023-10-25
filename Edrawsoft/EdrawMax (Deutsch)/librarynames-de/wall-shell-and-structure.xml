@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Wall Shell and Structure">
+
+<Elem Name="Zimmer" NameU="Room"/>
+
+<Elem Name="Raum" NameU="Space"/>
+
+<Elem Name="Wand" NameU="Wall"/>
+
+<Elem Name="Vertikale Wand" NameU="Vertical Wall"/>
+
+<Elem Name="Gebogene Wand" NameU="Curved Wall"/>
+
+<Elem Name="Äußere Mauer" NameU="Outer Wall"/>
+
+<Elem Name="Vertikale Außenwand" NameU="Vertical Outer Wall"/>
+
+<Elem Name="Gebogene Außenwand" NameU="Curved Outer Wall"/>
+
+<Elem Name="Vorhangfassade" NameU="Curtain Wall"/>
+
+<Elem Name="Fensterwand" NameU="Window Wall"/>
+
+<Elem Name="Pilaster" NameU="Pilaster"/>
+
+<Elem Name="Eckpilaster" NameU="Corner Pilaster"/>
+
+<Elem Name="Rechteckige Spalte" NameU="Rectanglar Column"/>
+
+<Elem Name="Kreissäule" NameU="Circular Column"/>
+
+<Elem Name="Strahl" NameU="Beam"/>
+
+<Elem Name="Gitterherkunft" NameU="Grid Origin"/>
+
+<Elem Name="Gitterlinie" NameU="Grid Line"/>
+
+<Elem Name="L Raum" NameU="L Space"/>
+
+<Elem Name="T Raum" NameU="T Space"/>
+
+</Lib>

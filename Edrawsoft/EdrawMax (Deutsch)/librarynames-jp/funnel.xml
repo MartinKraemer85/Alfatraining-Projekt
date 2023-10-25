@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Funnel">
+
+<Elem Name="垂直ファンネル" NameU="Vertical Funnel"/>
+
+<Elem Name="水平ファンネル" NameU="Horizontal Funnel"/>
+
+<Elem Name="ファンネルチャート" NameU="Funnel Chart"/>
+
+</Lib>

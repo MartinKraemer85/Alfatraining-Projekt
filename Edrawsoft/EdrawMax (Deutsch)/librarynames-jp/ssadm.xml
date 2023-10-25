@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib nameU="SSADM"><Elem NameU="Entity Type" Name="エンティティのタイプ"/><Elem NameU="External Entity" Name="外部エンティティ"/><Elem NameU="Relationships" Name="関係"/><Elem NameU="Process Box" Name="処理ボックス"/><Elem NameU="DFD Process" Name="DFD 処理"/><Elem NameU="DFD Datastore" Name="DFD データストア"/><Elem NameU="DFD Flow" Name="DFD フロー"/><Elem NameU="Entity Life History" Name="エンティティの履歴"/><Elem NameU="Entity Description" Name="エンティティの説明"/><Elem NameU="Overview" Name="概要"/><Elem NameU="Resource Flow" Name="資源のフロー"/><Elem NameU="Transition" Name="転移"/></Lib>

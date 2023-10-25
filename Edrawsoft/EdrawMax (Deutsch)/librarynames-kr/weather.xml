@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Weather">
+    <Elem NameU="Sunny" Name="맑음"/>
+    <Elem NameU="Cloudy" Name="구름 많음"/>
+    <Elem NameU="Overcast" Name="흐림"/>
+    <Elem NameU="Rainy" Name="비옴"/>
+    <Elem NameU="Drizzle" Name="보슬비"/>
+    <Elem NameU="Snowy" Name="눈에 덮인"/>
+    <Elem NameU="Heavy Snow" Name="폭설"/>
+    <Elem NameU="Sleet" Name="진눈깨비"/>
+    <Elem NameU="Hailstone" Name="우박"/>
+    <Elem NameU="Hailstone and Snow" Name="우박과 눈"/>
+    <Elem NameU="Thunderstorm" Name="폭우"/>
+    <Elem NameU="Thunder" Name="우뢰"/>
+    <Elem NameU="Snow and Thunder" Name="눈과 천둥"/>
+    <Elem NameU="Thunderstorm and Hailstone" Name="뇌우와 우박"/>
+    <Elem NameU="Showery Rain" Name="소나기"/>
+    <Elem NameU="Showery Snow" Name="눈"/>
+    <Elem NameU="Clear to Cloudy" Name="맑음에서 흐림"/>
+    <Elem NameU="Foggy and Sun" Name="안개와 해"/>
+    <Elem NameU="Foggy 1" Name="안개 1"/>
+    <Elem NameU="Foggy 2" Name="안개 2"/>
+    <Elem NameU="Tornado" Name="회오리바람"/>
+    <Elem NameU="Windy" Name="바람이 많이 부는"/>
+    <Elem NameU="Windy and Dusty" Name="바람과 먼지"/>
+    <Elem NameU="Floating Dust" Name="먼지"/>
+    <Elem NameU="Wind Vane" Name="바람개비"/>
+    <Elem NameU="Dust Tester" Name="먼지 테스터"/>
+    <Elem NameU="Rainbow Cloudy" Name="무지개 흐림"/>
+    <Elem NameU="Rainbow Rainy" Name="레인보우 비"/>
+    <Elem NameU="Clear at Night" Name="맑은 밤"/>
+    <Elem NameU="Cloudy at Night" Name="구름 많은 밤"/>
+    <Elem NameU="Overcast at Night" Name="흐린밤"/>
+    <Elem NameU="Rainy at Night" Name="비 내리는 밤"/>
+    <Elem NameU="Heavy Rain at Night" Name="폭우 내리는 밤"/>
+    <Elem NameU="Heavy Snow at Night" Name="폭설 내리는 밤"/>
+    <Elem NameU="Snowy at Night" Name="눈 내리는 밤"/>
+    <Elem NameU="Thunderstorm at Night" Name="뇌우 오는 밤"/>
+    <Elem NameU="Thunder at Night" Name="번개 치는 밤"/>
+    <Elem NameU="Sleet at Night" Name="진눈깨비가 오는 밤"/>
+    <Elem NameU="Foggy at Night" Name="안개가 많은 밤"/>
+    <Elem NameU="Tornado at Night" Name="회오리바람이 부는 밤"/>
+    <Elem NameU="Hailstone at Night" Name="우박 내리는 밤"/>
+</Lib>

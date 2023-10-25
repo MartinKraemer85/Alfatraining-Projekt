@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Venn Chart">
+    <Elem NameU="Venn-2 circles" Name="벤 차트 원형"/>
+    <Elem NameU="Venn-3 circles" Name="벤 차트 원형"/>
+    <Elem NameU="Venn-3 circles 2" Name="벤 차트 원형 2"/>
+    <Elem NameU="Dynamic Venn-2" Name="다이나믹 벤  차트-2"/>
+    <Elem NameU="Dynamic Venn" Name="다이나믹 벤 차트"/>
+    <Elem NameU="Venn multi-layers" Name="다층 벤 차트"/>
+    <Elem NameU="Venn multi-layers 2" Name="다층 벤 차트 2"/>
+    <Elem NameU="Cylinder Venn" Name="원통형 벤 차트"/>
+    <Elem NameU="Cylinder Venn 2" Name="원통형 벤 차트 2"/>
+    <Elem NameU="Custom venn" Name="사용자 지정 벤"/>
+</Lib>

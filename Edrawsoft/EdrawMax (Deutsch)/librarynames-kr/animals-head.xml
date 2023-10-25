@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Animals-Head">
+    <Elem NameU="Cow" Name="소"/>
+    <Elem NameU="Sheep" Name="양"/>
+    <Elem NameU="Hippopotamus" Name="하마"/>
+    <Elem NameU="Rabbit" Name="토끼"/>
+    <Elem NameU="Deer" Name="사슴"/>
+    <Elem NameU="Fox 1" Name="여우 1"/>
+    <Elem NameU="Fox 2" Name="여우 2"/>
+    <Elem NameU="Mouse 1" Name="쥐 1"/>
+    <Elem NameU="Mouse 2" Name="쥐 2"/>
+    <Elem NameU="Fish" Name="물고기"/>
+    <Elem NameU="Horse" Name="말"/>
+    <Elem NameU="Panda" Name="팬더"/>
+    <Elem NameU="Elephant" Name="코끼리"/>
+    <Elem NameU="Dog 1" Name="개 1"/>
+    <Elem NameU="Dog 2" Name="개 2"/>
+    <Elem NameU="Dog 3" Name="개 3"/>
+    <Elem NameU="Monkey" Name="원숭이"/>
+    <Elem NameU="Hedgehog" Name="고슴도치"/>
+    <Elem NameU="Duck" Name="오리"/>
+    <Elem NameU="Pig" Name="돼지"/>
+    <Elem NameU="Koala" Name="코알라"/>
+    <Elem NameU="Rhinoceros" Name="코뿔소"/>
+    <Elem NameU="Lion" Name="사자"/>
+    <Elem NameU="Tiger" Name="호랑이"/>
+    <Elem NameU="Giraffe" Name="기린"/>
+    <Elem NameU="Zebra" Name="얼룩말"/>
+    <Elem NameU="Octopus" Name="문어"/>
+    <Elem NameU="Goat" Name="염소"/>
+    <Elem NameU="Bird" Name="새"/>
+    <Elem NameU="Owl" Name="부엉이"/>
+</Lib>

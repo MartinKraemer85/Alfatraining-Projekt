@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Value Chain">
+	<Elem NameU="Basic Value Chain" Name="Cadeia de Valor Básica"/>
+	<Elem NameU="Value List" Name="Lista de Valor"/>
+	<Elem NameU="Value List 2" Name="Lista de Valor 2"/>
+	<Elem NameU="Value List 3" Name="Lista de Valor 3"/>
+	<Elem NameU="Value List 4" Name="Lista de Valor 4"/>
+	<Elem NameU="Arrow" Name="Seta"/>
+	<Elem NameU="Arrow 2" Name="Seta 2"/>
+	<Elem NameU="Arrow Axis" Name="Eixo da Seta"/>
+	<Elem NameU="Chevron" Name="Chevron"/>
+</Lib>

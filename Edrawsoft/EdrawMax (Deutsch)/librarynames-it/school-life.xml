@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="School Life">
+	<Elem NameU="School Bus" Name="Scuolabus"/>
+	<Elem NameU="Blackboard" Name="Lavagna"/>
+	<Elem NameU="Platform" Name="Cattedra"/>
+	<Elem NameU="Male Teacher" Name="Maestro"/>
+	<Elem NameU="Female Teacher" Name="Maestra"/>
+	<Elem NameU="Student Sitting 1" Name="Studenti Seduti 1"/>
+	<Elem NameU="Student Sitting 2" Name="Studenti Seduti 2"/>
+	<Elem NameU="Student Sitting 3" Name="Studenti Seduti 3"/>
+	<Elem NameU="Student Sitting 4" Name="Studenti Seduti 4"/>
+	<Elem NameU="Girl Writing" Name="Bambina che Scrive"/>
+	<Elem NameU="Boy Writing" Name="Bambino che Scrive"/>
+	<Elem NameU="Painting" Name="Pittura"/>
+	<Elem NameU="Girl Reading 1" Name="Bambina che Legge 1"/>
+	<Elem NameU="Girl Reading 2" Name="Bambina che Legge 2"/>
+	<Elem NameU="Boy Reading" Name="Bambino che Legge"/>
+	<Elem NameU="Student Standing 1" Name="Studenti in Piedi 1"/>
+	<Elem NameU="Student Standing 2" Name="Studenti in Piedi 2"/>
+	<Elem NameU="Student Standing 3" Name="Studenti in Piedi 3"/>
+	<Elem NameU="Student Standing 4" Name="Studenti in Piedi 4"/>
+	<Elem NameU="Student Singing" Name="Studenti che Cantano"/>
+	<Elem NameU="Student Dancing" Name="Studenti che Ballano"/>
+	<Elem NameU="Student with Football" Name="Studente con Pallone da Calcio"/>
+	<Elem NameU="Student Raising Dumbbells" Name="Studente che Solleva Pesi"/>
+	<Elem NameU="Student with Trophy" Name="Studente con Trofeo"/>
+	<Elem NameU="Students on the Podium" Name="Studente sul Podio"/>
+	<Elem NameU="Cleaning Desk" Name="Pulizia Banco"/>
+	<Elem NameU="Weeping Floor" Name="Pulizia Pavimenti"/>
+	<Elem NameU="Worried Student" Name="Studente Preoccupato"/>
+	<Elem NameU="Teacher Talking with Student" Name="Insegnante che Parla alla Classe"/>
+	<Elem NameU="School Bullying" Name="Bullismo"/>
+	<Elem NameU="Students with Good Grades" Name="Studente con Buoni Voti"/>
+	<Elem NameU="Student with Poor Grades" Name="Studente con Brutti Voti"/>
+	<Elem NameU="Student Jumping Rope" Name="Studente che Salta la Corda"/>
+	<Elem NameU="Classmate" Name="Compagno di Classe"/>
+	<Elem NameU="Tug of War" Name="Tiro alla Fune"/>
+	<Elem NameU="Student Playing Basketball" Name="Studente che Gioca a Basket"/>
+	<Elem NameU="Student Playing Baseball" Name="Studente che Gioca a Baseball"/>
+	<Elem NameU="Student Playing Football" Name="Studente che Gioca a Calcio"/>
+	<Elem NameU="Students" Name="Studenti"/>
+	<Elem NameU="I Love School" Name="Amo la Scuola"/>
+</Lib>

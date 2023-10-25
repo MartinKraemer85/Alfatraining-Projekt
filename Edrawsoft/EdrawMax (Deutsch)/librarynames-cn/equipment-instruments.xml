@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Equipment-Instruments">
+    <Elem NameU="Indicator" Name="指示器"/>
+    <Elem NameU="Behind Control Panel" Name="控制面板后"/>
+    <Elem NameU="On Central Control Panel" Name="中央控制面板上"/>
+    <Elem NameU="On Local Control Pane" Name="本地控制面板上"/>
+    <Elem NameU="Behind a Local Control Panel" Name="本地控制面板后"/>
+    <Elem NameU="Indicator 2" Name="指示器 2"/>
+    <Elem NameU="Indicator 3" Name="指示器 3"/>
+    <Elem NameU="Indicator 4" Name="指示器 4"/>
+    <Elem NameU="Indicator 5" Name="指示器 5"/>
+    <Elem NameU="Odometer" Name="里程计"/>
+    <Elem NameU="Pressure gauge" Name="压力计"/>
+    <Elem NameU="Flowmeter" Name="流量计"/>
+    <Elem NameU="Thermometer" Name="温度计"/>
+    <Elem NameU="Shared Indicator" Name="共享指示器"/>
+    <Elem NameU="Displayed configurable device" Name="可配置显示设备"/>
+    <Elem NameU="Shared Indicator 2" Name="共享指示器 2"/>
+    <Elem NameU="Computer Indicator" Name="计算机指示器"/>
+    <Elem NameU="Programmable Indicator" Name="可编程指示器"/>
+    <Elem NameU="Displayed programmable device" Name="可编程显示设备"/>
+    <Elem NameU="Computer" Name="计算机"/>
+    <Elem NameU="Unit control panel" Name="单元控制面板"/>
+    <Elem NameU="Temp Indicator" Name="温度计"/>
+    <Elem NameU="Temp Transmitter" Name="温度变送器"/>
+    <Elem NameU="Temp Recorder" Name="温度自动记录器"/>
+    <Elem NameU="Temp Controller" Name="温度控制器"/>
+    <Elem NameU="Flow Indicator" Name="流量指示器"/>
+    <Elem NameU="Flow Transmitter" Name="流量变送器"/>
+    <Elem NameU="Flow Recorder" Name="流量记录仪"/>
+    <Elem NameU="Flow Controller" Name="流量控制器"/>
+    <Elem NameU="Level Indicator" Name="液面指示器"/>
+    <Elem NameU="Pressure Indicator" Name="压力指示器"/>
+    <Elem NameU="Level Transmitter" Name="能级传送器"/>
+    <Elem NameU="Level Recorder" Name="电平记录器"/>
+    <Elem NameU="Level Controller" Name="液面控制器"/>
+    <Elem NameU="Pressure Transmitter" Name="压力变送器"/>
+    <Elem NameU="Pressure Recorder" Name="压力记录器"/>
+    <Elem NameU="Pressure Controller" Name="电压调整器"/>
+    <Elem NameU="Pressure Indicating" Name="压力指示"/>
+    <Elem NameU="Pressure Recording" Name="压力记录"/>
+    <Elem NameU="Level Alarm" Name="液面警报器"/>
+    <Elem NameU="Flow Element" Name="流元件"/>
+    <Elem NameU="Temperature Element" Name="温度元件"/>
+    <Elem NameU="Level Gauge" Name="水准仪"/>
+    <Elem NameU="Analyzer Transmitter" Name="分析仪发送器"/>
+    <Elem NameU="Transducer" Name="传感器"/>
+    <Elem NameU="Specialty item" Name="专业项目"/>
+    <Elem NameU="Sampler" Name="取样器"/>
+    <Elem NameU="Straightening vanes" Name="整流叶片"/>
+    <Elem NameU="Diaphragm meter" Name="隔膜计"/>
+    <Elem NameU="Rotary meter" Name="转速表"/>
+    <Elem NameU="Magnetic" Name="磁性的"/>
+    <Elem NameU="Pitot tube type flow element" Name="皮托管式流量元件"/>
+    <Elem NameU="Pitot tube" Name="皮托管"/>
+    <Elem NameU="Wedge meter" Name="楔形流量计"/>
+    <Elem NameU="Target meter" Name="目标仪表"/>
+    <Elem NameU="Weir meter" Name="堰式流量计"/>
+    <Elem NameU="Ultrasonic meter" Name="超声波测量仪"/>
+    <Elem NameU="V-cone meter" Name="V形锥流量计"/>
+    <Elem NameU="Venturi meter" Name="文德里流量计"/>
+    <Elem NameU="Quick change orifice fitting" Name="快换孔板接头"/>
+    <Elem NameU="Turbine meter" Name="涡轮流量计"/>
+    <Elem NameU="Rotometer" Name="转速表"/>
+    <Elem NameU="Double" Name="双倍"/>
+    <Elem NameU="Steam traced" Name="蒸汽伴热"/>
+    <Elem NameU="Venturi" Name="文式管"/>
+    <Elem NameU="Flowmeter" Name="流量计"/>
+    <Elem NameU="Vortex sensor" Name="涡流传感器"/>
+    <Elem NameU="And gate" Name="及闸"/>
+    <Elem NameU="Or gate" Name="或门"/>
+    <Elem NameU="Not gate" Name="反相器"/>
+    <Elem NameU="Correcting element" Name="校正元件"/>
+    <Elem NameU="Diamond" Name="菱形"/>
+    <Elem NameU="Pressure gauges" Name="压力表"/>
+    <Elem NameU="Thermometers" Name="温度计"/>
+    <Elem NameU="Averaging pitot tube" Name="均速皮托管"/>
+    <Elem NameU="Level meter" Name="电平计"/>
+    <Elem NameU="Coriolis flow sensor" Name="科里奥利流量传感器"/>
+    <Elem NameU="Flow nozzle meter" Name="喷嘴流量计"/>
+    <Elem NameU="Flume meter" Name="水槽计"/>
+    <Elem NameU="Manhole" Name="检修孔"/>
+    <Elem NameU="Socket, Connection Nozzle" Name="接管座"/>
+    <Elem NameU="Support bracket" Name="支架"/>
+    <Elem NameU="Support leg" Name="支腿"/>
+    <Elem NameU="Support ring" Name="支撑环"/>
+    <Elem NameU="Support skirt" Name="支撑裙板"/>
+</Lib>

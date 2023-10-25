@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib nameU="Money">
+	<Elem NameU="Cash 1" Name="現金 1"/>
+	<Elem NameU="Cash 2" Name="現金 2"/>
+	<Elem NameU="Money Box" Name="貯金箱"/>
+	<Elem NameU="Wallet" Name="財布"/>
+	<Elem NameU="Money in the Safe" Name="金庫の中の金"/>
+	<Elem NameU="Money Bag 1" Name="お金袋 1"/>
+	<Elem NameU="Money Bag 2" Name="お金袋 2"/>
+	<Elem NameU="Gold Coin" Name="金貨"/>
+	<Elem NameU="Dollar 1" Name="ドル 1"/>
+	<Elem NameU="Dollar 2" Name="ドル 2"/>
+	<Elem NameU="Pound Coin" Name="ポンドコイン"/>
+	<Elem NameU="Euro Coin" Name="ユーロコイン"/>
+	<Elem NameU="Dollar" Name="ドル"/>
+	<Elem NameU="Pound" Name="ポンド"/>
+	<Elem NameU="Euro" Name="ユーロ"/>
+	<Elem NameU="Yuan" Name="人民元"/>
+	<Elem NameU="Yen" Name="日本円"/>
+	<Elem NameU="Dollar Bag" Name="ドル 袋"/>
+	<Elem NameU="Pound Bag" Name="ポンド 袋"/>
+	<Elem NameU="Euro Bag" Name="ユーロ 袋"/>
+	<Elem NameU="Yuan Bag" Name="人民幣 袋"/>
+	<Elem NameU="Yen Bag" Name="日本円 袋"/>
+</Lib>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib nameU="Wedding Day">
+	<Elem NameU="Cupid" Name="Cupid"/>
+	<Elem NameU="Heart" Name="Heart"/>
+	<Elem NameU="Rings" Name="Rings"/>
+	<Elem NameU="Cake" Name="Cake"/>
+	<Elem NameU="Tableware" Name="Tableware"/>
+	<Elem NameU="Cupcake" Name="Cupcake"/>
+	<Elem NameU="Champagne Glasses" Name="Champagne Glasses"/>
+	<Elem NameU="Champagne" Name="Champagne"/>
+	<Elem NameU="Flowers" Name="Flowers"/>
+	<Elem NameU="Bouquet 1" Name="Bouquet 1"/>
+	<Elem NameU="Bouquet 2" Name="Bouquet 2"/>
+	<Elem NameU="Bouquet 3" Name="Bouquet 3"/>
+	<Elem NameU="Pigeons" Name="Pigeons"/>
+	<Elem NameU="Ribbon 1" Name="Ribbon 1"/>
+	<Elem NameU="Ribbon 2" Name="Ribbon 2"/>
+	<Elem NameU="Ribbon 3" Name="Ribbon 3"/>
+	<Elem NameU="Ribbon 4" Name="Ribbon 4"/>
+	<Elem NameU="Pigeon" Name="Pigeon"/>
+	<Elem NameU="Swans" Name="Swans"/>
+	<Elem NameU="Symbol" Name="Symbol"/>
+	<Elem NameU="Candelabrum" Name="Candelabrum"/>
+	<Elem NameU="Love letter" Name="Love letter"/>
+	<Elem NameU="Gift" Name="Gift"/>
+	<Elem NameU="Calendar" Name="Calendar"/>
+	<Elem NameU="Church" Name="Church"/>
+	<Elem NameU="Women Shoes" Name="Women Shoes"/>
+	<Elem NameU="Men Shoes" Name="Men Shoes"/>
+	<Elem NameU="Wedding Suit" Name="Wedding Suit"/>
+	<Elem NameU="Evening Dress" Name="Evening Dress"/>
+	<Elem NameU="Wedding Dress 1" Name="Wedding Dress 1"/>
+	<Elem NameU="Wedding Dress 2" Name="Wedding Dress 2"/>
+	<Elem NameU="Wedding Dress 3" Name="Wedding Dress 3"/>
+	<Elem NameU="Wedding Couple 1" Name="Wedding Couple 1"/>
+	<Elem NameU="Wedding Couple 2" Name="Wedding Couple 2"/>
+	<Elem NameU="Wedding Couple 3" Name="Wedding Couple 3"/>
+	<Elem NameU="Wedding Couple 4" Name="Wedding Couple 4"/>
+	<Elem NameU="Flower Wreath 1" Name="Flower Wreath 1"/>
+	<Elem NameU="Flower Wreath 2" Name="Flower Wreath 2"/>
+	<Elem NameU="Flower Wreath 3" Name="Flower Wreath 3"/>
+	<Elem NameU="Flower Wreath 4" Name="Flower Wreath 4"/>
+	<Elem NameU="Wedding Flower 1" Name="Wedding Flower 1"/>
+	<Elem NameU="Wedding Flower 2" Name="Wedding Flower 2"/>
+	<Elem NameU="Wedding Flower 3" Name="Wedding Flower 3"/>
+	<Elem NameU="Wedding Flower 4" Name="Wedding Flower 4"/>
+	<Elem NameU="Wedding Flower 5" Name="Wedding Flower 5"/>
+	<Elem NameU="Wedding Flower 6" Name="Wedding Flower 6"/>
+	<Elem NameU="Wedding Flower 7" Name="Wedding Flower 7"/>
+	<Elem NameU="Bird 1" Name="Bird 1"/>
+	<Elem NameU="Bird 2" Name="Bird 2"/>
+</Lib>

@@ -1,0 +1,35 @@
+<Lib NameU="Kitchen (Elevation)">
+  <Elem Name="冰箱 1" NameU="Refrigerator 1"/>
+  <Elem Name="冰箱 2" NameU="Refrigerator 2"/>
+  <Elem Name="冰箱 3" NameU="Refrigerator 3"/>
+  <Elem Name="冰箱 4" NameU="Refrigerator 4"/>
+  <Elem Name="冰箱 5" NameU="Refrigerator 5"/>
+  <Elem Name="冰箱 6" NameU="Refrigerator 6"/>
+  <Elem Name="冰箱 7" NameU="Refrigerator 7"/>
+  <Elem Name="冰箱 8" NameU="Refrigerator 8"/>
+  <Elem Name="双开门冰箱" NameU="Two-door refrigerator"/>
+  <Elem Name="抽油烟机 1" NameU="kitchen ventilator 1"/>
+  <Elem Name="抽油烟机 2" NameU="kitchen ventilator 2"/>
+  <Elem Name="抽油烟机 3" NameU="kitchen ventilator 3"/>
+  <Elem Name="抽油烟机 4" NameU="Kitchen ventilator 4"/>
+  <Elem Name="微波炉" NameU="Microwave oven"/>
+  <Elem Name="锅铲" NameU="Turner"/>
+  <Elem Name="锅铲" NameU="Truner"/>
+  <Elem Name="汤勺" NameU="Soup ladle"/>
+  <Elem Name="厨具" NameU="kitchen ware"/>
+  <Elem Name="茶壶" NameU="Teapot"/>
+  <Elem Name="茶杯" NameU="Teacup"/>
+  <Elem Name="水壶" NameU="kettle"/>
+  <Elem Name="蒸笼" NameU="Steamer"/>
+  <Elem Name="煎锅" NameU="Frying pan"/>
+  <Elem Name="保暖锅" NameU="Chafing dish"/>
+  <Elem Name="炖锅" NameU="Saucepan"/>
+  <Elem Name="煤气炉" NameU="Gas cooker"/>
+  <Elem Name="消毒柜" NameU="Disinfection cabinet"/>
+  <Elem Name="消毒柜 2" NameU="Disinfection cabinet 2"/>
+  <Elem Name="抽油烟机" NameU="Range hood"/>
+  <Elem Name="洗衣机" NameU="Washer"/>
+  <Elem Name="清洁剂" NameU="Detergent"/>
+  <Elem Name="洗发水" NameU="Shampoo"/>
+  <Elem Name="沐浴露" NameU="Shower Cream"/>
+</Lib>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="PPT Illustration">
+	<Elem NameU="Working" Name="Arbeiten"/>
+	<Elem NameU="Idea" Name="Idee"/>
+	<Elem NameU="Recording" Name="Aufnahme"/>
+	<Elem NameU="Exercise" Name="Trainieren"/>
+	<Elem NameU="Pressure" Name="Druck"/>
+	<Elem NameU="Checklist" Name="Checkliste"/>
+	<Elem NameU="Wander" Name="Wandern"/>
+	<Elem NameU="Running" Name="Laufen"/>
+	<Elem NameU="Depressed" Name="Deprimiert"/>
+	<Elem NameU="Learning" Name="Lernen"/>
+	<Elem NameU="Thinking" Name="Denken"/>
+	<Elem NameU="Success" Name="Erfolg"/>
+	<Elem NameU="Brainstorming" Name="Brainstorming"/>
+	<Elem NameU="Discussing" Name="Besprechen"/>
+	<Elem NameU="Collaborate" Name="Zusammenarbeiten"/>
+	<Elem NameU="Search" Name="Suche"/>
+	<Elem NameU="Communicate" Name="Kommunizieren"/>
+	<Elem NameU="Presentation" Name="Präsentation"/>
+	<Elem NameU="Nervours" Name="Nerven"/>
+	<Elem NameU="Shopping" Name="Einkaufen"/>
+	<Elem NameU="Decision" Name="Entscheidung"/>
+	<Elem NameU="Alarm Clock" Name="Wecker"/>
+	<Elem NameU="Object" Name="Objekt"/>
+	<Elem NameU="Analyze" Name="Analysieren"/>
+	<Elem NameU="Conversion" Name="Konvertierung"/>
+	<Elem NameU="Calculate" Name="Berechnen"/>
+	<Elem NameU="Plant" Name="Pflanzen"/>
+	<Elem NameU="Trophy" Name="Trophäe"/>
+	<Elem NameU="Coffee" Name="Kaffee"/>
+	<Elem NameU="Sand Clock" Name="Sanduhr"/>
+	<Elem NameU="Cup" Name="Tasse"/>
+	<Elem NameU="Gear" Name="Zahnrad"/>
+	<Elem NameU="Trash Bin" Name="Mülleimer"/>
+	<Elem NameU="Computer" Name="Computer"/>
+	<Elem NameU="Lamp" Name="Lampe"/>
+	<Elem NameU="Globe" Name="Weltkugel"/>
+	<Elem NameU="Dog" Name="Hund"/>
+	<Elem NameU="Puppy" Name="Welpe"/>
+	<Elem NameU="Note Book" Name="Notizbuch"/>
+	<Elem NameU="Calendar" Name="Kalender"/>
+	<Elem NameU="Cactus" Name="Kaktus"/>
+	<Elem NameU="404" Name="404"/>
+	<Elem NameU="Upward" Name="Aufwärts"/>
+	<Elem NameU="Deal" Name="Deal"/>
+	<Elem NameU="Book" Name="Buch"/>
+</Lib>

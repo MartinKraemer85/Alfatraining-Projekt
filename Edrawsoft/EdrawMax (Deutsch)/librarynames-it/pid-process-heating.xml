@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="PID Process Heating">
+	<Elem NameU="Batch oven" Name="Forno per lotti"/>
+	<Elem NameU="Calender" Name="Calendario"/>
+	<Elem NameU="Circulation heater" Name="Riscaldatore a circolazione"/>
+	<Elem NameU="Compensator" Name="Compensatore"/>
+	<Elem NameU="Condenser 1" Name="Condensatore 1"/>
+	<Elem NameU="Condenser 2" Name="Condensatore 2"/>
+	<Elem NameU="Conveyorized oven" Name="Forno trasportatore"/>
+	<Elem NameU="Evaporator" Name="Evaporatore"/>
+	<Elem NameU="Expansion loop" Name="Circuito di espansione"/>
+	<Elem NameU="Flameless thermal oxidizer" Name="Ossidante termico senza fiamma"/>
+	<Elem NameU="Heat exchanger 1" Name="Scambiatore di calore 1"/>
+	<Elem NameU="Heat exchanger 2" Name="Scambiatore di calore 2"/>
+	<Elem NameU="Heat exchanger 3" Name="Scambiatore di calore 3"/>
+	<Elem NameU="Heat exchanger 4" Name="Scambiatore di calore 4"/>
+	<Elem NameU="Heat exchanger 5" Name="Scambiatore di calore 5"/>
+	<Elem NameU="Heat exchanger 6" Name="Scambiatore di calore 6"/>
+	<Elem NameU="Heat exchanger 7" Name="Scambiatore di calore 7"/>
+	<Elem NameU="Heat exchanger 8" Name="Scambiatore di calore 8"/>
+	<Elem NameU="Heat exchanger 9" Name="Scambiatore di calore 9"/>
+	<Elem NameU="Heat recovery system 1" Name="Sistema recupero di calore 1"/>
+	<Elem NameU="Heat recovery system 2" Name="Sistema recupero di calore 2"/>
+	<Elem NameU="Heat recovery system" Name="Sistema recupero di calore 1"/>
+	<Elem NameU="Heat transfer system" Name="Sistema trasferimento di calore"/>
+	<Elem NameU="Hot oil heater" Name="Riscaldatore a petrolio"/>
+	<Elem NameU="Hot oil system" Name="Sistema a petrolio"/>
+	<Elem NameU="Immersion heater" Name="Riscaldatore a immersione"/>
+	<Elem NameU="Indirect large volume water heater" Name="Riscaldatore d'acqua indiretto"/>
+	<Elem NameU="Low-emission burner" Name="Bruciatore a basse emissioni"/>
+	<Elem NameU="Power burner" Name="Bruciatore di energia"/>
+	<Elem NameU="Process heater" Name="Riscaldatore di processo"/>
+	<Elem NameU="Shell and tube condenser" Name="Condensatore a fascio tubiero e mantello"/>
+	<Elem NameU="Simple condenser" Name="Condensatore semplice"/>
+	<Elem NameU="Simple heat exchanger" Name="Scambiatore di calore semplice"/>
+	<Elem NameU="Simple steam generator 1" Name="Generatore di vapore semplice 1"/>
+	<Elem NameU="Simple steam generator 2" Name="Generatore di vapore semplice 2"/>
+	<Elem NameU="Steam generator 1" Name="Generatore di vapore 1"/>
+	<Elem NameU="Steam generator 2" Name="Generatore di vapore 2"/>
+	<Elem NameU="Steam mixer" Name="Miscelatore di condensa"/>
+	<Elem NameU="Steam trap" Name="Scaricatore di condensa"/>
+	<Elem NameU="Thermal fluid heater" Name="Riscaldatore di fluidi termico"/>
+	<Elem NameU="Turbocoil hot oil heater" Name="Riscaldatore a petrolio con turbo induttore"/>
+	<Elem NameU="Warming oven" Name="Forno riscaldante"/>
+	<Elem NameU="Water heater system" Name="Sistema di riscaldamento idrico"/>
+	<Elem NameU="Preheater" Name="Preriscaldatore"/>
+	<Elem NameU="Air preheater" Name="Preriscaldatore ad aria"/>
+	<Elem NameU="Electric Heater" Name="Riscaldatore Elettrico"/>
+	<Elem NameU="Rotary air-preheater" Name="Preriscaldatore ad aria rotativo"/>
+	<Elem NameU="Vertical preheater" Name="Preriscaldatore verticale"/>
+	<Elem NameU="Drying equipment" Name="Equipaggiamento per essiccazione"/>
+	<Elem NameU="Distillation" Name="Distillazione"/>
+	<Elem NameU="Drying" Name="Essiccazione"/>
+	<Elem NameU="Superheater" Name="Surriscaldatore"/>
+	<Elem NameU="Yeast drying tower" Name="Torretta per essiccazione del lievito"/>
+	<Elem NameU="Rotary dryer" Name="Essiccatore rotativo"/>
+	<Elem NameU="Drying columns" Name="Colonne essiccanti"/>
+	<Elem NameU="Dryer" Name="Essiccatore"/>
+	<Elem NameU="Heat Exchange System" Name="Sistema di Scambio di Calore"/>
+	<Elem NameU="Solar collector" Name="Collettore energia solare"/>
+</Lib>

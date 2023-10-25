@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Common Objects">
+	<Elem NameU="TV" Name="TV"/>
+	<Elem NameU="Sofa" Name="소파"/>
+	<Elem NameU="Refrigerator" Name="냉장고"/>
+	<Elem NameU="Table" Name="테이블"/>
+	<Elem NameU="Gloves" Name="장갑"/>
+	<Elem NameU="Chair" Name="의자"/>
+	<Elem NameU="Bowl" Name="사발"/>
+	<Elem NameU="Chopsticks" Name="젓가락"/>
+	<Elem NameU="Rice Scoop" Name="국자"/>
+	<Elem NameU="Knife" Name="나이프"/>
+	<Elem NameU="Spoon" Name="스푼"/>
+	<Elem NameU="Fork" Name="포크"/>
+	<Elem NameU="Soup Ladle" Name="스프 국자"/>
+	<Elem NameU="Ice Pop" Name="아이스팝"/>
+	<Elem NameU="Ice Cream" Name="아이스크림"/>
+	<Elem NameU="Bowknot" Name="리본"/>
+	<Elem NameU="Tie" Name="타이"/>
+	<Elem NameU="Shoes" Name="신발"/>
+	<Elem NameU="Comb" Name="빗"/>
+	<Elem NameU="Glasses" Name="안경"/>
+	<Elem NameU="Binoculars" Name="쌍안경"/>
+	<Elem NameU="Telescope" Name="망원경"/>
+	<Elem NameU="Magnifier" Name="확대경"/>
+	<Elem NameU="Telephone" Name="전화"/>
+	<Elem NameU="Mobile Phone" Name="폰"/>
+	<Elem NameU="Trumpet" Name="트럼펫"/>
+	<Elem NameU="Calendar" Name="달력"/>
+	<Elem NameU="Protractor" Name="각도기"/>
+	<Elem NameU="Ruler" Name="자"/>
+	<Elem NameU="Set Square" Name="세트 스퀘어"/>
+	<Elem NameU="Binder Clip" Name="바인더 클립"/>
+	<Elem NameU="Scissors" Name="가위"/>
+	<Elem NameU="Stapler" Name="지게차"/>
+	<Elem NameU="Magazine" Name="잡지"/>
+	<Elem NameU="Book" Name="책"/>
+	<Elem NameU="Backpack" Name="백팩"/>
+	<Elem NameU="Pen" Name="펜"/>
+	<Elem NameU="Pencil" Name="연필"/>
+	<Elem NameU="Paintbrush" Name="페인트 브러시"/>
+	<Elem NameU="Rubber" Name="고무"/>
+	<Elem NameU="Palette" Name="팔레트"/>
+	<Elem NameU="Shovel" Name="삽"/>
+	<Elem NameU="Brush" Name="브러쉬"/>
+	<Elem NameU="Paint Box" Name="페인트 박스"/>
+	<Elem NameU="Building Blocks" Name="빌딩 블록"/>
+	<Elem NameU="Remote Control Car" Name="리모컨 카"/>
+	<Elem NameU="Music Notes" Name="음악 노트"/>
+	<Elem NameU="Ring Tower Toy" Name="링 타워 장난감"/>
+	<Elem NameU="Spinning Top" Name="팽이"/>
+	<Elem NameU="Abacus" Name="주판"/>
+	<Elem NameU="Jigsaw Puzzle" Name="퍼즐"/>
+	<Elem NameU="Ball" Name="공"/>
+	<Elem NameU="Photo Frame" Name="사진 프레임"/>
+	<Elem NameU="Alarm Clock" Name="알람"/>
+	<Elem NameU="Slide" Name="슬라이드"/>
+	<Elem NameU="Cubes" Name="큐브"/>
+	<Elem NameU="Rocking Horse" Name="목마"/>
+	<Elem NameU="Pinwheel" Name="바람개비"/>
+	<Elem NameU="Toy Bear" Name="토이 곰"/>
+	<Elem NameU="Water the Flowers" Name="꽃에 물주기"/>
+	<Elem NameU="Umbrella" Name="우산"/>
+	<Elem NameU="Checkers" Name="체커"/>
+	<Elem NameU="Mailbox" Name="우체함"/>
+</Lib>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="South America">
+    <Elem NameU="Argentina" Name="阿根廷"/>
+    <Elem NameU="Belize" Name="伯利茲"/>
+    <Elem NameU="Bolivia" Name="玻利維亞"/>
+    <Elem NameU="Brazil" Name="巴西"/>
+    <Elem NameU="Chile" Name="智利"/>
+    <Elem NameU="Colombia" Name="哥倫比亞"/>
+    <Elem NameU="Costa Rica" Name="哥斯達黎加"/>
+    <Elem NameU="Cuba" Name="古巴"/>
+    <Elem NameU="Dominican republic" Name="多米尼加共和國"/>
+    <Elem NameU="El Salvador" Name="塞爾瓦多"/>
+    <Elem NameU="Equador" Name="厄瓜多爾"/>
+    <Elem NameU="French Guiana" Name="法屬蓋亞那"/>
+    <Elem NameU="Guatemala" Name="危地馬拉"/>
+    <Elem NameU="Guyana" Name="奎亞納"/>
+    <Elem NameU="Haiti" Name="海地"/>
+    <Elem NameU="Honduras" Name="洪都拉斯"/>
+    <Elem NameU="Jamaica" Name="牙買加"/>
+    <Elem NameU="Mexico" Name="墨西哥"/>
+    <Elem NameU="Nicaragua" Name="尼加拉瓜"/>
+    <Elem NameU="Panama" Name="巴拿馬"/>
+    <Elem NameU="Paraguay" Name="巴拉圭"/>
+    <Elem NameU="Peru" Name="秘魯"/>
+    <Elem NameU="Puerto Rico" Name="波多黎哥"/>
+    <Elem NameU="Suriname" Name="蘇里南"/>
+    <Elem NameU="Trinidad and Tobago" Name="特立尼達和多巴哥"/>
+    <Elem NameU="Uruguay" Name="烏拉圭"/>
+    <Elem NameU="Venezuela" Name="委內瑞拉"/>
+    <Elem NameU="Central America" Name="中美洲"/>
+    <Elem NameU="South America" Name="南美洲"/>
+</Lib>

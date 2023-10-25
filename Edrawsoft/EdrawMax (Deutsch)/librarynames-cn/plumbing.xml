@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Plumbing">
+    <Elem NameU="Boiler" Name="热水器"/>
+    <Elem NameU="Boiler 2" Name="热水器 2"/>
+    <Elem NameU="Heat exchanges" Name="热交换"/>
+    <Elem NameU="Heating / cooling coil" Name="加热/冷却线圈"/>
+    <Elem NameU="Pump" Name="泵"/>
+    <Elem NameU="Pump 2" Name="泵 2"/>
+    <Elem NameU="Heater /  cooler" Name="加热器 /  冷却器"/>
+    <Elem NameU="Heater / cooler horizontal" Name="加热器 /  冷却器 水平"/>
+    <Elem NameU="Radiator" Name="散热器"/>
+    <Elem NameU="Convector" Name="换流器"/>
+    <Elem NameU="Radiant panel" Name="辐射板"/>
+    <Elem NameU="Radiant panel 2" Name="辐射板 2"/>
+    <Elem NameU="Open tank" Name="开式水箱"/>
+    <Elem NameU="Closed tank" Name="闭式水箱"/>
+    <Elem NameU="Water surface" Name="水面"/>
+    <Elem NameU="Pipe coils" Name="盘管"/>
+    <Elem NameU="Sink" Name="水槽"/>
+    <Elem NameU="Basin" Name="水池"/>
+    <Elem NameU="Toilet" Name="马桶"/>
+    <Elem NameU="Bath" Name="浴缸"/>
+    <Elem NameU="Basin (side)" Name="水池 （侧面）"/>
+    <Elem NameU="Toilet (side)" Name="马桶（侧面）"/>
+    <Elem NameU="Bath (side)" Name="浴缸（侧面）"/>
+    <Elem NameU="End view" Name="侧视图"/>
+    <Elem NameU="Shower head" Name="喷头"/>
+    <Elem NameU="Towel rail" Name="毛巾杆"/>
+</Lib>

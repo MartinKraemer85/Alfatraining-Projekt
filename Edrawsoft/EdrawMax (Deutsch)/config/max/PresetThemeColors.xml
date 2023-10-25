@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ThemeColors Version="10.0">
+    <ThemeColor Shadow="#21000000" Name="Novel" CN="新颖" DE="Roman" ES="Novela" FR="Roman" IT="Romanzo" JP="新着" PT="Romance" RU="" ID="83">
+        <ColorScheme Accent4="#ffff7e79" Accent8="#fffe9d17" Accent3="#ff4155c6" Accent5="#ffffcc53" Accent6="#ff8dc0ff" Accent7="#ff7991ff" Accent2="#ff467dfe" Accent1="#ff4ed7c5"/>
+        <ColorScheme Accent4="#ff467dfe" Accent8="#ff7991ff" Accent3="#ff4ed7c5" Accent5="#ff4155c6" Accent6="#ffff7e79" Accent7="#ffffcc53" Accent2="#ff00399d" Accent1="#ffff6863"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#21000000" Name="Charm" CN="旖旎" DE="Charmant" ES="Encantador" FR="charmant" IT="affascinante" JP="魅力的な" PT="encantador" RU="" ID="70">
+        <ColorScheme Accent5="#ff4444ff" Accent8="#ffe61496" Accent2="#ff4087f3" Accent6="#ffec0404" Accent1="#fffa493a" Accent3="#fffbbf04" Accent7="#ff6f56e6" Accent4="#ff34ab52"/>
+        <ColorScheme Accent5="#ffff9518" Accent8="#fff05d18" Accent2="#ffff7800" Accent6="#ff91c936" Accent1="#ff18acff" Accent3="#ff8f2edc" Accent7="#ff2ec9dd" Accent4="#ff11246f"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#21000000" Name="Antique" CN="古韵" DE="Alter Reim" ES="Rima antigua" FR="Rime ancienne" IT="Antica rima" JP="古代の韻" PT="Rima antiga" RU="" ID="71">
+        <ColorScheme Accent5="#ff2f80ed" Accent8="#ff2d9cdb" Accent2="#fff2c94c" Accent6="#ff9b51e0" Accent1="#ff219653" Accent3="#fff2994a" Accent7="#ff27ae60" Accent4="#ffeb5757"/>
+        <ColorScheme Accent5="#ffff62b4" Accent8="#ff88d554" Accent2="#ff14d7d7" Accent6="#ff42cbfd" Accent1="#ffc968ed" Accent3="#fffc9587" Accent7="#ff318eff" Accent4="#ff6b63c7"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#21000000" Name="Fresh" CN="清新" DE="Erfrischend" ES="Refrescante" FR="Rafraîchissant" IT="Rinfrescante" JP="さわやか" PT="caloroso" RU="" ID="72">
+        <ColorScheme Accent5="#ff80ce25" Accent8="#ffff760d" Accent2="#ff77b8a0" Accent6="#ffff947a" Accent1="#ffffbf11" Accent3="#ff8397ff" Accent7="#ffff6291" Accent4="#ffbf83ff"/>
+        <ColorScheme Accent5="#fff4ade9" Accent8="#ff277aff" Accent2="#ff93b899" Accent6="#ffadb6d7" Accent1="#ffff8bff" Accent3="#fff39eb0" Accent7="#ff76e6f0" Accent4="#ff61a8fc"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#21000000" Name="Live" CN="热烈" DE="warm" ES="Calentar" FR="Chaud" IT="caldo" JP="暖かい" PT="" RU="" ID="73">
+        <ColorScheme Accent5="#fff8c15a" Accent8="#fff98749" Accent2="#ff42bfe1" Accent6="#fff1476c" Accent1="#ffcf57b5" Accent3="#fff3655d" Accent7="#ff3752a5" Accent4="#ff41c883"/>
+        <ColorScheme Accent5="#ff47cef3" Accent8="#ff6a40dc" Accent2="#ff35b58f" Accent6="#ff9bc94b" Accent1="#ff8070f5" Accent3="#ff9640dc" Accent7="#ff67dcbf" Accent4="#ffc5c74a"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#21000000" Name="Crystal" CN="清透" DE="klar" ES="Claro" FR="Clair" IT="Chiaro" JP="晴れ" PT="Claro" RU="" ID="74">
+        <ColorScheme Accent5="#ffff5f5f" Accent8="#ff3ed23e" Accent2="#ff5a7ef8" Accent6="#fff0ce46" Accent1="#ff263368" Accent3="#ff42b296" Accent7="#fff58548" Accent4="#ff3dcfd1"/>
+        <ColorScheme Accent5="#ff85b318" Accent8="#ff48d9f5" Accent2="#fff58551" Accent6="#ff91b4ff" Accent1="#fff26bc1" Accent3="#fff046a1" Accent7="#ffff61a8" Accent4="#ffffba23"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#21000000" Name="Broad" CN="磅礴" DE="Majestätisch" ES="Majestuoso" FR="Majestueux" IT="Maestoso" JP="荘厳" PT="Majestoso" RU="" ID="75">
+        <ColorScheme Accent5="#fff5c759" Accent8="#ff8e60e9" Accent2="#ffff7869" Accent6="#fff55151" Accent1="#ff3b71c8" Accent3="#ff488df5" Accent7="#ff9ec842" Accent4="#ff63dcd2"/>
+        <ColorScheme Accent5="#ffebe061" Accent8="#ff46d28c" Accent2="#fff0599b" Accent6="#fffa845c" Accent1="#ff59d2f0" Accent3="#ffbed24e" Accent7="#ffb459f0" Accent4="#ff3d8783"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#21000000" Name="Sprinkle" CN="纷飞" DE="Wirbelnd" ES="Remolino" FR="Tourbillonnant" IT="Vorticoso" JP="渦巻く" PT="Rodopiante" RU="" ID="76">
+        <ColorScheme Accent5="#ffb3dc5a" Accent8="#fff0599d" Accent2="#ffffc941" Accent6="#ff8e5eef" Accent1="#fffa945d" Accent3="#ff4cdae6" Accent7="#ff50d0f0" Accent4="#ffff5f5f"/>
+        <ColorScheme Accent5="#ff52dc97" Accent8="#fff55ba1" Accent2="#ff52c852" Accent6="#fff4826e" Accent1="#ff5670e6" Accent3="#ffaedc63" Accent7="#ffeede46" Accent4="#ff4693f0"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#21000000" Name="Tranquil" CN="宁静" DE="friedlich" ES="pacífico" FR="paisible" IT="tranquillo" JP="平和な" PT="pacífico" RU="" ID="77">
+        <ColorScheme Accent5="#ff6bdec6" Accent8="#ff4ae1aa" Accent2="#ff8c5fe6" Accent6="#ff4359e6" Accent1="#ff5298f7" Accent3="#ffb8e366" Accent7="#ff8c67fa" Accent4="#ff42a75d"/>
+        <ColorScheme Accent5="#ff3bcbb6" Accent8="#ff68e4e6" Accent2="#ff6ac054" Accent6="#ff333baf" Accent1="#ff45b896" Accent3="#ff4ad5fb" Accent7="#ff7a51f4" Accent4="#ff4196df"/>
+    </ThemeColor>
+    <ThemeColor  Shadow="#21000000" Name="Opulent" CN="秀丽" DE="wunderschönen" ES="hermoso" FR="belle" IT="bellissimo" JP="綺麗な" PT="lindo" RU="" ID="78">
+        <ColorScheme Accent5="#ff71c34a" Accent8="#ff3ba9b3" Accent2="#fff19650" Accent6="#ff88d554" Accent1="#fffa6048" Accent3="#fff0cb50" Accent7="#ffd3e656" Accent4="#ff22764c"/>
+        <ColorScheme Accent5="#ff3b90c8" Accent8="#ff333baf" Accent2="#ff6be4cc" Accent6="#ff215ef6" Accent1="#ff6cc9b9" Accent3="#ff68dee6" Accent7="#ff9b46f0" Accent4="#ff43bde5"/>
+    </ThemeColor>
+    <ThemeColor  Shadow="#21000000" Name="Placid" CN="悠然" DE="Gemächlich" ES="Sin prisa" FR="Tranquille" IT="Piacevole" JP="のんびり" PT="Vagarosamente" RU="" ID="79">
+        <ColorScheme Accent5="#ffff6991" Accent8="#ff58d7cb" Accent2="#ffa8df41" Accent6="#ff69afff" Accent1="#ff7c49fa" Accent3="#ff35b58f" Accent7="#fff17663" Accent4="#fff0c43d"/>
+        <ColorScheme Accent5="#ff52dc97" Accent8="#ff3cb591" Accent2="#ff4fe3f0" Accent6="#ffeede2a" Accent1="#ff8e65f5" Accent3="#ffe66256" Accent7="#ffeb6d71" Accent4="#ff354cb4"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#21000000" Name="Natural" CN="自然" DE="natürliche" ES="Natural" FR="Nature" IT="naturale" JP="自然" PT="Natural" RU="природа" ID="30">
+        <ColorScheme Accent3="#ff9e9c9a" Accent6="#ffa284dd" Accent2="#fff78181" Accent1="#ff5fb7f1" Accent7="#ffffcd55" Accent5="#ffdda3cf" Accent4="#ff98bc25" Accent8="#ff9fbbc7"/>
+        <ColorScheme Accent2="#ffe37557" Accent1="#ff50bec1" Accent8="#ff697da1" Accent3="#ff96af75" Accent4="#ff30af96" Accent6="#ff83a59f" Accent7="#ffe1b277" Accent5="#ffff9763"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#21000000" Name="Dream" CN="梦境" DE="Traum" ES="Sueño" FR="Dream" IT="sogno" JP="どり" PT="Sonho" RU="сон" ID="31">
+        <ColorScheme Accent7="#ff315a9c" Accent4="#ffa57f7f" Accent3="#ff6eaad5" Accent6="#ff5cb8c0" Accent8="#ff877f7a" Accent1="#ffaa92ce" Accent2="#ffe27391" Accent5="#ff54ba80"/>
+        <ColorScheme Accent1="#ffabb2bc" Accent2="#ff4e718e" Accent8="#ff404184" Accent3="#ff72b4fa" Accent4="#ff5d6f99" Accent6="#ff6a579c" Accent7="#ffa86a5b" Accent5="#ff48909e"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#21000000" Name="Garden" CN="花园" DE="Garten" ES="Jardín" FR="Le jardin" IT="Giardino" JP="ガーデン" PT="Jardim" RU="сад" ID="32">
+        <ColorScheme Accent3="#ff233041" Accent6="#ff378a7c" Accent7="#ffff7979" Accent8="#ffa6b9b0" Accent1="#ff37944d" Accent5="#ff3fb59e" Accent4="#fff4454b" Accent2="#fffabe11"/>
+        <ColorScheme Accent1="#ff345e47" Accent2="#ff8d4d63" Accent4="#ff874546" Accent8="#ffaa2234" Accent3="#ff2b4662" Accent6="#ff16734c" Accent7="#ffeeae0d" Accent5="#ffd4702d"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#21000000" Name="Candy" CN="糖果" DE="Süßigkeiten" ES="Caramelo" FR="Bonbon" IT="caramella" JP="あめ" PT="Doces" RU="конфет" ID="33">
+        <ColorScheme Accent5="#ff7dbd8d" Accent1="#ff4ebabd" Accent3="#ff70bdf2" Accent6="#ffffcc56" Accent2="#ffdca4cf" Accent4="#ffe38d76" Accent7="#ff4badd0" Accent8="#ffeb88b3"/>
+        <ColorScheme Accent1="#ffa7c356" Accent2="#ffd6bc97" Accent4="#ffb7d358" Accent8="#ff53a9d1" Accent3="#fffd984f" Accent6="#ffea8791" Accent7="#ffc49bd8" Accent5="#ff58c594"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#21000000" Name="Blossom" CN="盛放" DE="In voller Blüte" ES="Florecer" FR="épanouissement" IT="In piena fioritura" JP="盛り付ける" PT="Em plena floração" RU="посев" ID="34">
+        <ColorScheme Accent3="#ff999999" Accent6="#ff8acf57" Accent7="#fffd8851" Accent8="#ffe54648" Accent1="#ff42c181" Accent5="#ffffbf28" Accent4="#ff00aeee" Accent2="#ff4c85d9"/>
+        <ColorScheme Accent1="#ff4268e2" Accent2="#ffa062e7" Accent4="#ff89d948" Accent8="#fff56769" Accent3="#ffdf44bb" Accent6="#ffea4e7f" Accent7="#ff7b8bf1" Accent5="#ff33c6d6"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#21000000" Name="Elegant" CN="雅致" DE="elegant" ES="Elegancia" FR="élégant" IT="elegante" JP="上品である" PT="Elegante" RU="элегантн" ID="35">
+        <ColorScheme Accent3="#ff4565ab" Accent6="#ff44b154" Accent7="#ff7a98d8" Accent8="#ffb6c716" Accent1="#ffffcd55" Accent5="#ff567bea" Accent4="#ffea8125" Accent2="#ff8fb633"/>
+        <ColorScheme Accent1="#ffff8962" Accent2="#ff4bc3c7" Accent4="#ffbea76b" Accent8="#ff5096c2" Accent3="#ff687adf" Accent6="#fff5a03f" Accent7="#ff94ca62" Accent5="#ff39c164"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#33000000" Name="BPMN" ID="4">
+        <ColorScheme Accent6="#fff7ab60" Accent1="#ff9d8c7f" Accent7="#ff556074" Accent3="#ff6aa4ab" Accent5="#ffe98885" Accent2="#ff8ba987" Accent4="#ff5b8fc9" Accent8="#ffa8ad5c"/>
+        <ColorScheme Accent3="#ff517ea3" Accent4="#ffe37da9" Accent6="#ffdab089" Accent7="#ffc6ae26" Accent2="#ffc7c7c7" Accent8="#ff54b9c9" Accent5="#ffbc85aa" Accent1="#ff7b6148"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#21000000" Name="Jolly" CN="愉快" ID="82">
+        <ColorScheme Accent4="#ffeb8f9b" Accent5="#ff37c6c0" Accent2="#ff173679" Accent1="#ff53a2f0" Accent3="#ff3eb7d2" Accent8="#fffdb933" Accent7="#ff1971b8" Accent6="#ffe1618e"/>
+        <ColorScheme Accent4="#ff305ed2" Accent5="#ff8d5ad9" Accent2="#ff2ca9e0" Accent1="#ff547fd5" Accent3="#ff74c673" Accent8="#ff4bac94" Accent7="#ffe366be" Accent6="#ff9dc852"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#21000000" Name="Town" CN="乡村" DE="Ländliche" ES="Campo" FR="Campagne" IT="Rurale" JP="田舎" PT="Rural" RU="кантр" ID="36">
+        <ColorScheme Accent7="#ff919671" Accent4="#ff6386c6" Accent3="#ff82aac4" Accent6="#ff7ba79d" Accent8="#ff958989" Accent1="#ff775f55" Accent2="#ffdd8047" Accent5="#ffd3919f"/>
+        <ColorScheme Accent1="#ffd5d033" Accent2="#ff8290a3" Accent4="#ff657daf" Accent8="#ff8d86c2" Accent3="#ff719f82" Accent6="#ffb3bf7b" Accent7="#ffdd8b84" Accent5="#ff5da7b8"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#21000000" Name="Fluency" CN="流年" DE="Fleeting time" ES="Año" FR="Année courante" IT="Tempo di volo" JP="年が流れる" PT="Tempo de expedição" RU="LiuNian" ID="37">
+        <ColorScheme Accent3="#ff71666f" Accent6="#fff08f8f" Accent7="#ffb09e9e" Accent8="#ff8a4f62" Accent1="#ff8c8c9e" Accent5="#ff645454" Accent4="#ffe94444" Accent2="#ff5d2f46"/>
+        <ColorScheme Accent1="#ff595969" Accent2="#fff1ad0d" Accent4="#ff9f7e67" Accent8="#ffe66b6d" Accent3="#ffb17791" Accent6="#ffb85f53" Accent7="#ff6c657d" Accent5="#ff782f25"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#21000000" Name="Secret" CN="秘密" DE="Geheim" ES="Secreto" FR="Secret" IT="Segreto" JP="秘密" PT="Segredo" RU="секрет" ID="38">
+        <ColorScheme Accent2="#fffbbe30" Accent4="#ff3cb09d" Accent7="#ffea8e8c" Accent8="#ff276286" Accent6="#ff3fa3bd" Accent5="#ffea9556" Accent1="#fff07894" Accent3="#ff6688c3"/>
+        <ColorScheme Accent1="#ffe0609c" Accent2="#ff9d89bd" Accent4="#ff518edd" Accent8="#fff3c24e" Accent3="#ff3ca5a5" Accent6="#ffeb7956" Accent7="#ff67ba6a" Accent5="#ffef89a4"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#21000000" Name="Spring" CN="春意" DE="Erwachen des Frühlings" ES="Primavera" FR="Printemps" IT="Risveglio della primavera" JP="春の気配" PT="Despertar Da Primavera" RU="весн" ID="39">
+        <ColorScheme Accent2="#ff59bf91" Accent7="#ff76dcd6" Accent8="#ff8ddabd" Accent3="#ff26482f" Accent4="#ff61926d" Accent1="#ffa7d8d0" Accent5="#ffc6dc6d" Accent6="#ff78b8da"/>
+        <ColorScheme Accent1="#ffb7dea1" Accent2="#ffd3e3ac" Accent4="#ff8b9e9b" Accent8="#ff2eb9a4" Accent3="#ff5cbd6a" Accent6="#ffe3e378" Accent7="#fff4d153" Accent5="#ff8bd075"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#21000000" Name="Brisk" CN="轻快" DE="Korsika" ES="Ligereza" FR="Doucement" IT="Brisco" JP="軽やかである" PT="Suborno" RU="легк" ID="40">
+        <ColorScheme Accent5="#ffeda329" Accent1="#ff3cd1d8" Accent3="#ff3e62a3" Accent6="#ff83c969" Accent2="#ff32af83" Accent4="#ff2b9fd6" Accent7="#ffa993cc" Accent8="#fff6adaa"/>
+        <ColorScheme Accent1="#ffd5d033" Accent2="#ff8290a3" Accent4="#ff3cd184" Accent8="#ff38b0d1" Accent3="#ff349f9c" Accent6="#fff18955" Accent7="#ff6785d1" Accent5="#ffff9ea0"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#21000000" Name="Angel" CN="天使" DE="Engel" ES="ángel" FR="Angel" IT="angelo" JP="天使" PT="Anjo" RU="ангел" ID="41">
+        <ColorScheme Accent3="#ff2da7a7" Accent6="#ffef8f8a" Accent7="#ff2da2bf" Accent8="#ff627dc6" Accent1="#fff56582" Accent5="#ffffc000" Accent4="#ff678ed0" Accent2="#ff1e6188"/>
+        <ColorScheme Accent1="#ffef8f8a" Accent2="#ff2da2bf" Accent4="#ff4d81c1" Accent8="#ff3bb9b1" Accent3="#ff575a87" Accent6="#ff3f7e91" Accent7="#ffee686a" Accent5="#ffe27ab9"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#21000000" Name="Lucid" CN="清朗" DE="Klar und hell" ES="Chiang" FR="Clean" IT="Chiaro e luminoso" JP="清朗である" PT="Claro e Claro" RU="прекрасн" ID="42">
+        <ColorScheme Accent3="#ff424f88" Accent6="#ff34c2c2" Accent7="#ffef8f8a" Accent8="#ffa49ed7" Accent1="#ff8c8c9e" Accent5="#fff0637f" Accent4="#ffffcd55" Accent2="#ff7b9fd9"/>
+        <ColorScheme Accent1="#ff476482" Accent2="#ffeaa2b8" Accent4="#ffebaa5b" Accent8="#ff4a83b9" Accent3="#ff5ca0aa" Accent6="#fff78181" Accent7="#ff71bfd4" Accent5="#ff43c2b8"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#21000000" Name="Passion" CN="激情" DE="Passion" ES="Pasión" FR="Passion" IT="Passione" JP="激情" PT="Paixão" RU="страст" ID="43">
+        <ColorScheme Accent3="#ff1cade4" Accent6="#ff39639d" Accent7="#ff474b78" Accent8="#ff7d3c4a" Accent1="#ff6b7678" Accent5="#ffeb641b" Accent4="#ffda1f28" Accent2="#ff464646"/>
+        <ColorScheme Accent1="#ff437d6d" Accent2="#ff995b36" Accent4="#ff391e8c" Accent8="#ff346f31" Accent3="#ff830a69" Accent6="#ff841d27" Accent7="#ffe88206" Accent5="#ffb02a2a"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#21000000" Name="Harmony" CN="和谐" DE="Harmonisch" ES="Armonía" FR="Harmonie" IT="Armonia" JP="调和" PT="Harmonioso" RU="гармон" ID="44">
+        <ColorScheme Accent3="#ff85acbd" Accent6="#ffec5e6c" Accent7="#ffac7281" Accent8="#ff777ea3" Accent1="#ff8c8c9e" Accent5="#ffd9b985" Accent4="#ff6a83a2" Accent2="#ffdd7e7a"/>
+        <ColorScheme Accent1="#ffc6b198" Accent2="#ff884550" Accent4="#ff91a164" Accent8="#ff4d5370" Accent3="#ff59836b" Accent6="#ffe8a076" Accent7="#ff5482b3" Accent5="#ffd09d49"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#21000000" Name="Soft" CN="柔和" DE="weich" ES="Ternura" FR="Doux" IT="morbido" JP="柔らかい" PT="Suave" RU="мягк" ID="45">
+        <ColorScheme Accent2="#ff66bdf4" Accent4="#ffa09be6" Accent7="#ff67bbce" Accent8="#ff6972b3" Accent6="#ff7889de" Accent5="#ff83afda" Accent1="#ffe18ecd" Accent3="#ff7b95d9"/>
+        <ColorScheme Accent1="#fff9b745" Accent2="#ffa6ce6a" Accent4="#ff627594" Accent8="#ffeb71a0" Accent3="#ff6bc3bd" Accent6="#ffe896a9" Accent7="#ff528dd5" Accent5="#ff9bb3e1"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#21000000" Name="Mild" CN="淡雅" DE="Elegant und ruhig" ES="Suavidad" FR="élégant" IT="Elegante e tranquillo" JP="淡い" PT="Elegante e silencioso" RU="Нежн аромат" ID="46">
+        <ColorScheme Accent3="#ff98b999" Accent6="#ffc0beb0" Accent8="#ffe5b7b8" Accent7="#ffcdc49a" Accent2="#ff676a56" Accent5="#ffabcdd6" Accent4="#ff9eccbb" Accent1="#ffc6cb93"/>
+        <ColorScheme Accent1="#ff8d9cb1" Accent2="#ff83b3e3" Accent4="#ffa3beda" Accent8="#ff7eb38d" Accent3="#ff82bec3" Accent6="#ffe8b69e" Accent7="#ff908563" Accent5="#ffdfd07a"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#21000000" Name="Business" CN="商务" DE="Wirtschaft und Finanzen" ES="Comercio" FR="Commerceb" IT="Affari d'affari" JP="ビジネス" PT="Assuntos comerciais" RU="делов" ID="47">
+        <ColorScheme Accent7="#ff4ea6c8" Accent6="#fff2a42f" Accent2="#ff5a97fb" Accent1="#ff597ffa" Accent4="#ffe65b4e" Accent5="#ff636cad" Accent3="#ffc275a7" Accent8="#ff2aa651"/>
+        <ColorScheme Accent2="#ff53c1b5" Accent4="#ff4e62b8" Accent6="#ff4e9063" Accent1="#ffeb7a88" Accent5="#fff5d012" Accent3="#ff4f7b91" Accent7="#ffc7392f" Accent8="#ff2168b3"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#21000000" Name="Elegance" CN="优雅" DE="Gnade" ES="Elegancia" FR="élégant" IT="grazia" JP="優雅である" PT="elegante" RU="элегантн" ID="48">
+        <ColorScheme Accent6="#ffaa92ce" Accent3="#ff1bbc9d" Accent5="#ff34c2c3" Accent8="#fff9a5a5" Accent1="#ff2ca2be" Accent7="#ffa0c3bd" Accent4="#ff7cb9e6" Accent2="#ff365b88"/>
+        <ColorScheme Accent2="#ff3c7c86" Accent4="#ff3988b8" Accent6="#ff6b73a1" Accent1="#ffb9947b" Accent5="#ff529ee1" Accent3="#ff70c37d" Accent7="#ffe8768b" Accent8="#ff709fa3"/>
+    </ThemeColor>    
+    <ThemeColor Shadow="#21000000" Name="Vitality" CN="活力" DE="Vitalität" ES="Vitalidad" FR="Vitalité" IT="vitalità" JP="活力" PT="dinâmica" RU="динамичн" ID="49">
+        <ColorScheme Accent3="#ff26a1ff" Accent8="#fffa864c" Accent5="#fffa88d8" Accent7="#ff7bdd5f" Accent4="#ffffcb46" Accent1="#ff307fff" Accent2="#ffff6063" Accent6="#ff5cd3f3"/>
+        <ColorScheme Accent3="#ff2ed555" Accent8="#ffff4e95" Accent5="#ffff5c82" Accent7="#ff43ccd8" Accent4="#ffc158ee" Accent1="#ff9c75ff" Accent2="#ff62dad6" Accent6="#ffa537ff"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#21000000" Name="Sunset" CN="晚霞" DE="Sonnenuntergang leuchten" ES="Atardecer" FR="le" IT="Luce solare" JP="夕焼け" PT="O pôr-do-sol" RU="закат" ID="50">
+        <ColorScheme Accent7="#ffd3678b" Accent6="#fff2a42f" Accent2="#ff35b595" Accent1="#ff8e9e9d" Accent4="#ff389ab6" Accent5="#ffe67036" Accent3="#ff3c91d3" Accent8="#ff4d6989"/>
+        <ColorScheme Accent2="#ffa98daf" Accent4="#ff24a28f" Accent6="#fff47391" Accent1="#ffe26269" Accent5="#ff409eea" Accent3="#ff7bb839" Accent7="#ff5376ab" Accent8="#ffc36057"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#21000000" Name="Fashion" CN="时尚" DE="Mode" ES="moda" FR="La mode" IT="moda" JP="ファッション" PT="moda" RU="Мод" ID="51">
+        <ColorScheme Accent7="#ff8887d6" Accent6="#ff9dc861" Accent2="#ff5bbcf0" Accent1="#ffed5978" Accent4="#ff58a1c8" Accent5="#ffe58a49" Accent3="#ff42bfbd" Accent8="#ffe9a28d"/>
+        <ColorScheme Accent2="#ff7bc47d" Accent4="#ff3abf97" Accent6="#ffe686b8" Accent1="#ffbe9dc0" Accent5="#ff589aea" Accent3="#ffe8cc5c" Accent7="#ff9078a5" Accent8="#fff78f6c"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#21000000" Name="Vintage" CN="古老" DE="uralt" ES="antigua" FR="ancienne" IT="antica" JP="古い" PT="antiga" RU="стар" ID="52">
+        <ColorScheme Accent7="#ff4ea6c8" Accent6="#fffbc459" Accent2="#ffd99fcc" Accent1="#ff54b8b9" Accent4="#ffda826f" Accent5="#ff79b586" Accent3="#ff6eb8ed" Accent8="#ffe37eaa"/>
+        <ColorScheme Accent2="#ffd1b58d" Accent4="#ffa8bfa9" Accent6="#ff6d749e" Accent1="#ff9ebc4e" Accent5="#ffcbc680" Accent3="#ff867051" Accent7="#ffb8876b" Accent8="#ffdfb67c"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#21000000" Name="Rhythm" CN="韵律" ID="80">
+        <ColorScheme Accent3="#ffb8e366" Accent8="#ff79b3ff" Accent5="#ff4ae1aa" Accent7="#ffffd747" Accent4="#ffffa1b7" Accent1="#ff4ad5fb" Accent2="#ffffb986" Accent6="#ff68e4e6"/>
+        <ColorScheme Accent3="#ff77d55d" Accent8="#ff5db6ff" Accent5="#ff3bcbb6" Accent7="#ffb597ff" Accent4="#ff45a3f0" Accent1="#ff9da2ff" Accent2="#ff6bdec6" Accent6="#ff7880f3"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#21000000" Name="Youth" CN="青春" ID="81">
+        <ColorScheme Accent4="#ffff9ebb" Accent5="#ff41eaa4" Accent2="#ffb8e366" Accent1="#ff6eb4ff" Accent3="#ffffe838" Accent8="#ffffd747" Accent7="#ff4ad5fb" Accent6="#ff68e4e6"/>
+        <ColorScheme Accent4="#ff45a3f0" Accent5="#ff3bcbb6" Accent2="#ff6bdec6" Accent1="#ff9da2ff" Accent3="#ff77d55d" Accent8="#ffffb082" Accent7="#ffb597ff" Accent6="#ff7880f3"/>
+    </ThemeColor>
+    <ColorPool>
+        <Color V="#af1121"/>
+        <Color V="#cc0c30"/>
+        <Color V="#e84462"/>
+        <Color V="#f56582"/>
+        <Color V="#f89bad"/>
+        <Color V="#298091"/>
+        <Color V="#38aac1"/>
+        <Color V="#40c1dd"/>
+        <Color V="#5fdaef"/>
+        <Color V="#a5efff"/>
+        <Color V="#f25126"/>
+        <Color V="#ff7e37"/>
+        <Color V="#ff9518"/>
+        <Color V="#ffb713"/>
+        <Color V="#fdc55b"/>
+        <Color V="#129682"/>
+        <Color V="#16b69e"/>
+        <Color V="#19cbb1"/>
+        <Color V="#66d8c7"/>
+        <Color V="#83ebdc"/>
+        <Color V="#9b2d61"/>
+        <Color V="#c74e8e"/>
+        <Color V="#e268a9"/>
+        <Color V="#f787c8"/>
+        <Color V="#f1c3dc"/>
+        <Color V="#608913"/>
+        <Color V="#75a128"/>
+        <Color V="#99bd25"/>
+        <Color V="#b3d04b"/>
+        <Color V="#d2e18f"/>
+        <Color V="#1f28af"/>
+        <Color V="#3641d9"/>
+        <Color V="#6c42f3"/>
+        <Color V="#8e6bf8"/>
+        <Color V="#ab91f8"/>
+        <Color V="#fbc900"/>
+        <Color V="#fbdd2d"/>
+        <Color V="#f0ea2c"/>
+        <Color V="#fbf64e"/>
+        <Color V="#fdff85"/>
+        <Color V="#9b51e0"/>
+        <Color V="#c351e8"/>
+        <Color V="#d36efa"/>
+        <Color V="#bf83ff"/>
+        <Color V="#dca2ff"/>
+        <Color V="#307f45"/>
+        <Color V="#3ca057"/>
+        <Color V="#50ad76"/>
+        <Color V="#62bc85"/>
+        <Color V="#90d6ab"/>
+        <Color V="#e7372a"/>
+        <Color V="#fa493a"/>
+        <Color V="#f96363"/>
+        <Color V="#ff7979"/>
+        <Color V="#ff9189"/>
+        <Color V="#2543a5"/>
+        <Color V="#2e57d0"/>
+        <Color V="#3469f1"/>
+        <Color V="#628cff"/>
+        <Color V="#88b0f5"/>
+        <Color V="#762f00"/>
+        <Color V="#963900"/>
+        <Color V="#a94124"/>
+        <Color V="#d05e3f"/>
+        <Color V="#e37557"/>
+        <Color V="#198cd9"/>
+        <Color V="#2c9df5"/>
+        <Color V="#43b4ff"/>
+        <Color V="#3bd0fb"/>
+        <Color V="#66e3ff"/>
+        <Color V="#784e36"/>
+        <Color V="#955e42"/>
+        <Color V="#b57250"/>
+        <Color V="#d5865e"/>
+        <Color V="#f4996b"/>
+        <Color V="#8a7f77"/>
+        <Color V="#b3ad9d"/>
+        <Color V="#cecbba"/>
+        <Color V="#e6dfd0"/>
+        <Color V="#f3efdc"/>
+        <Color V="#191919"/>
+        <Color V="#303030"/>
+        <Color V="#454545"/>
+        <Color V="#595959"/>
+        <Color V="#7c7c7c"/>
+        <Color V="#bcbcbc"/>
+        <Color V="#cbcbcb"/>
+        <Color V="#dadada"/>
+        <Color V="#e7e7e7"/>
+        <Color V="#f3f3f3"/>
+		<Color V="#ffffff"/>
+    </ColorPool>
+</ThemeColors>

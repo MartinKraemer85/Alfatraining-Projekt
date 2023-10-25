@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Fault Tree Analysis Shapes">
+	<Elem NameU="AND gate" Name="Porta AND"/>
+	<Elem NameU="OR gate" Name="Porta OR"/>
+	<Elem NameU="Inhibit gate" Name="Porta di inibizione"/>
+	<Elem NameU="Priority AND gate" Name="Porta AND prioritaria"/>
+	<Elem NameU="Exclusive OR gate" Name="Porta OR esclusiva"/>
+	<Elem NameU="Combination" Name="Combinazione"/>
+	<Elem NameU="Intermediate event" Name="Evento intermedio"/>
+	<Elem NameU="Basic event" Name="Evento base"/>
+	<Elem NameU="Undeveloped event" Name="Evento non sviluppato"/>
+	<Elem NameU="Initiating event" Name="Inizializzazione evento"/>
+	<Elem NameU="Conditional even" Name="Evento condizionale"/>
+	<Elem NameU="Transfer symbol" Name="Simbolo di trasferimento"/>
+	<Elem NameU="Curve connector" Name="Connettore curvo"/>
+</Lib>

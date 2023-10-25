@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="PID Containers">
+	<Elem NameU="Liter bottle" Name="Garrafa pequena"/>
+	<Elem NameU="Blue barrel" Name="Barril azul"/>
+	<Elem NameU="Bottle" Name="Garrafa"/>
+	<Elem NameU="Bucket" Name="Balde"/>
+	<Elem NameU="Bulk container" Name="Contentor de lote"/>
+	<Elem NameU="Can" Name="Lata"/>
+	<Elem NameU="Can 2" Name="Lata 2"/>
+	<Elem NameU="Can 3" Name="Lata 3"/>
+	<Elem NameU="Cardboard box 1" Name="Caixa de cartão 1"/>
+	<Elem NameU="Cardboard box 2" Name="Caixa de cartão 2"/>
+	<Elem NameU="Cardboard box with up arrows, closed" Name="Caixa de cartão com setas para cima, fechado"/>
+	<Elem NameU="Cardboard box with up arrows, sealed" Name="Caixa de cartão com setas para cima, selado"/>
+	<Elem NameU="Cardboard box,closed" Name="Caixa de cartão, fechada"/>
+	<Elem NameU="Cardboard box, no flaps" Name="Caixa de cartão, sem abas"/>
+	<Elem NameU="Cardboard box, open" Name="Caixa de cartão, aberta"/>
+	<Elem NameU="Cardboard box,top view,closed" Name="Caixa de cartão, vista de topo, fechada"/>
+	<Elem NameU="Cardboard box,top view,open" Name="Caixa de cartão, vista de topo, aberta"/>
+	<Elem NameU="Cardboard box,top view,sealed" Name="Caixa de cartão, vista de topo, selada"/>
+	<Elem NameU="Container 1" Name="Contentor 1"/>
+	<Elem NameU="Crate" Name="Caixa"/>
+	<Elem NameU="Fiberglass square mesh grating(perspective view)" Name="Quadrado de fibra de vidro com grades de rede (vista em perspetiva)"/>
+	<Elem NameU="Fiberglass square mesh grating(top view)" Name="Quadrado de fibra de vidro com grades de rede (vista de topo)"/>
+	<Elem NameU="Gray barrel" Name="Barril cinzento"/>
+	<Elem NameU="Green barrel" Name="Barril verde"/>
+	<Elem NameU="Open-head shipping container" Name="Contentor de transporte de cabeça aberta"/>
+	<Elem NameU="Pallet" Name="Palete"/>
+	<Elem NameU="Pill bottle" Name="Garrafa de comprimidos"/>
+	<Elem NameU="Plastic container" Name="Contentor plástico"/>
+	<Elem NameU="Plastic container 2" Name="Contentor plástico 2"/>
+	<Elem NameU="Plastic container 3" Name="Contentor plástico 3"/>
+	<Elem NameU="Cup" Name="Copo"/>
+	<Elem NameU="Plastic pallet" Name="Palete de plástico"/>
+	<Elem NameU="Prescription bottle" Name="Garrafa de prescrição"/>
+	<Elem NameU="Sealed box with bar code" Name="Caixa selada com código de barras"/>
+	<Elem NameU="Simple box sealed with OSHA tape" Name="Caixa simples selada com fita OSHA"/>
+	<Elem NameU="Simple box top view,closed" Name="Caixa simples vista de topo, fechada"/>
+	<Elem NameU="Yellow  barrel" Name="Barril amarelo"/>
+	<Elem NameU="Bathtub" Name="Banheira"/>
+</Lib>

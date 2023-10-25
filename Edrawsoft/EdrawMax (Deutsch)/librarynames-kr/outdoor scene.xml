@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Outdoor Scene">
+	<Elem NameU="Reference Point" Name="기준점"/>
+	<Elem NameU="Hedge" Name="생울타리"/>
+	<Elem NameU="Cactus" Name="선인장"/>
+	<Elem NameU="Shrub" Name="관목"/>
+	<Elem NameU="Potted Plant" Name="식물 화분"/>
+	<Elem NameU="Wooden Fence" Name="나무 울타리"/>
+	<Elem NameU="Metal Fence" Name="철제 울타리"/>
+	<Elem NameU="Lamp Post" Name="가로등 기둥"/>
+	<Elem NameU="Street" Name="거리"/>
+	<Elem NameU="Junction" Name="교차로"/>
+	<Elem NameU="Road Lane Divider" Name="차선 분리대"/>
+	<Elem NameU="Police Car" Name="경찰"/>
+	<Elem NameU="Police Car (Top)" Name="경찰차(윗면)"/>
+	<Elem NameU="Mid-Size Coupe" Name="중형 쿠페"/>
+	<Elem NameU="Mid-Size Car" Name="중형차"/>
+	<Elem NameU="Compact Car" Name="소형차"/>
+	<Elem NameU="Compact Car (Top)" Name="소형차(윗면)"/>
+	<Elem NameU="Sports Utility Vehicle" Name="SUV"/>
+	<Elem NameU="Sports Utility Vehicle (Top)" Name="SUV(윗면)"/>
+	<Elem NameU="Compass" Name="나침반"/>
+	<Elem NameU="Small-Size Pickup Truck" Name="소형 픽업트럭"/>
+</Lib>

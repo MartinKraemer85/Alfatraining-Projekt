@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="GCP Management Tools">
+	<Elem NameU="Management Tools" Name="Strumento di Gestione"/>
+	<Elem NameU="Cloud point" Name="Cloud point"/>
+	<Elem NameU="Debugger" Name="Debugger"/>
+	<Elem NameU="Error report" Name="Segnalazione Errori"/>
+	<Elem NameU="Log in" Name="Accesso"/>
+	<Elem NameU="Stackdriver" Name="Software Google Stackdriver"/>
+	<Elem NameU="Track" Name="Monitoraggio"/>
+</Lib>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?><Lib nameU="Connectors">
+<Elem NameU="Point connector" Name="點到點連接線"/>
+<Elem NameU="Oblique connector 2" Name="斜線連接線 2"/>
+<Elem NameU="Multi-tree square" Name="多樹枝直角"/>
+<Elem NameU="Multi-tree sloped" Name="多樹枝斜角"/>
+<Elem NameU="One to many" Name="一對多"/>
+<Elem NameU="Mid-arrow" Name="中間帶箭頭連接線"/>
+<Elem NameU="Jumper" Name="帶弧連接線"/>
+<Elem NameU="Multi-lines" Name="多線"/>
+<Elem NameU="Straight Connector" Name="直線連接線"/>
+<Elem NameU="Arc Connector" Name="弧線連接線"/>
+<Elem NameU="Curve Connector" Name="曲線連接線"/>
+<Elem NameU="Oblique Connector" Name="斜線連接線"/>
+<Elem NameU="Angled Connector" Name="彎折連接線"/>
+<Elem NameU="Double Lines" Name="雙線"/>
+<Elem NameU="Multi-lines Elbow" Name="肘形多線"/>
+<Elem NameU="Top to Bottom" Name="頂部到底部"/>
+<Elem NameU="Side to Side" Name="側邊到側邊"/>
+<Elem NameU="Control Transfer" Name="控制傳遞"/>
+<Elem NameU="Comm-link" Name="通信鏈路"/>
+<Elem NameU="Flow Director" Name="流導向符號"/>
+<Elem NameU="Flexible Arrow" Name="可變箭頭符號"/>
+<Elem NameU="Single Arrow" Name="單向箭頭符號"/>
+<Elem NameU="Double Arrow" Name="雙向箭頭符號"/>
+<Elem NameU="Open-end Arrow" Name="單端開口箭頭符號"/>
+<Elem NameU="Arrow" Name="箭頭符號"/>
+<Elem NameU="Round Tail Arrow" Name="圓頭箭頭符號"/>
+<Elem NameU="Fancy Arrow" Name="特殊設計箭頭符號"/>
+<Elem NameU="Arrow with Tail" Name="帶尾箭頭符號"/>
+<Elem NameU="Elbow Arrow" Name="直角箭頭符號"/>
+<Elem NameU="Bent Arrow" Name="轉彎箭頭符號"/>
+<Elem NameU="Dynamic Arrow" Name="動態箭頭"/>
+<Elem NameU="Side to side 1" Name="側邊到側邊 1"/>
+<Elem NameU="Side to side 2" Name="側邊到側邊 2"/>
+<Elem NameU="Sides" Name="側面"/>
+<Elem NameU="Bottom to top 1" Name="底部到頂部 1"/>
+<Elem NameU="Bottom to top 2" Name="底部到頂部 2"/>
+<Elem NameU="Tops or bottoms" Name="底部到頂部"/>
+<Elem NameU="Top/bottom to side" Name="頂部/底部到側邊"/>
+<Elem NameU="Side to top/bottom" Name="側邊到頂部/底部"/>
+<Elem NameU="Bottom to side 1" Name="底部到側邊 1"/>
+<Elem NameU="Bottom to side 2" Name="底部到側邊 2"/>
+<Elem NameU="Bottom to side 3" Name="底部到側邊 3"/>
+<Elem NameU="Side to top" Name="側邊到頂部"/>
+<Elem NameU="Square loop" Name="直角循環"/>
+<Elem NameU="Universal connector" Name="通用連接線"/>
+<Elem NameU="Dynamic connector" Name="動態連接線"/>
+<Elem NameU="Line connector" Name="直線連接線"/>
+<Elem NameU="Line-arc connector" Name="直線弧線連接線"/></Lib>

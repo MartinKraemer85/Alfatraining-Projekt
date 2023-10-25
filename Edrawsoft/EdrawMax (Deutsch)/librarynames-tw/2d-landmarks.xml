@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="2D Landmarks">
+    <Elem NameU="City" Name="城市"/>
+    <Elem NameU="Bank" Name="銀行"/>
+    <Elem NameU="Book store" Name="書店"/>
+    <Elem NameU="Beauty salon" Name="美容院"/>
+    <Elem NameU="Medical clinic" Name="醫療診所"/>
+    <Elem NameU="Hotel" Number="2" Name="酒店"/>
+    <Elem NameU="Post office" Name="郵局"/>
+    <Elem NameU="Police" Name="警廳"/>
+    <Elem NameU="Movie theater" Name="電影院"/>
+    <Elem NameU="Restaurant" Name="餐廳"/>
+    <Elem NameU="Market" Name="商場"/>
+    <Elem NameU="Supermarket" Name="超級商場"/>
+    <Elem NameU="Coffee shop" Name="咖啡店"/>
+    <Elem NameU="Library" Name="圖書館"/>
+    <Elem NameU="Town hall" Name="市政廳"/>
+    <Elem NameU="School" Name="學校"/>
+    <Elem NameU="Cathedral" Name="大教堂"/>
+    <Elem NameU="Motel" Name="汽車旅館"/>
+    <Elem NameU="Town Hall" Name="市政廳"/>
+    <Elem NameU="Condos" Name="公寓"/>
+    <Elem NameU="Public house" Name="公共場所"/>
+    <Elem NameU="Petrol station" Name="加油站"/>
+    <Elem NameU="Gas station" Name="加油站"/>
+    <Elem NameU="Barn" Name="穀倉"/>
+    <Elem NameU="Barn 2" Name="穀倉 2"/>
+    <Elem NameU="Building" Name="建築物"/>
+    <Elem NameU="Factory" Name="工廠"/>
+    <Elem NameU="Hospital" Name="醫院"/>
+    <Elem NameU="Stadium" Name="體育場"/>
+    <Elem NameU="Wildlife Park" Name="野生動物園"/>
+    <Elem NameU="Mountains" Name="山"/>
+    <Elem NameU="Park" Name="公園"/>
+    <Elem NameU="Holiday Bungalow" Name="度假別墅"/>
+    <Elem NameU="Beach" Name="沙灘"/>
+    <Elem NameU="Fountain Plaza" Name="噴泉廣場"/>
+    <Elem NameU="Amusement Park" Name="遊樂園"/>
+    <Elem NameU="Waterfall" Name="瀑布"/>
+    <Elem NameU="River" Name="河流"/>
+    <Elem NameU="Lake" Name="湖泊"/>
+    <Elem NameU="Tree 1" Name="樹 1"/>
+    <Elem NameU="Tree 2" Name="樹 2"/>
+    <Elem NameU="Tree 3" Name="樹 3"/>
+    <Elem NameU="Tree 4" Name="樹 4"/>
+    <Elem NameU="Cruise ship" Name="遊船"/>
+    <Elem NameU="Port" Name="港口"/>
+    <Elem NameU="Crane" Number="2" Name="起重機"/>
+    <Elem NameU="Excavator" Name="挖掘機"/>
+    <Elem NameU="Hoist" Name="吊車"/>
+    <Elem NameU="Airport" Name="飛機場"/>
+    <Elem NameU="Freighter" Name="貨船"/>
+    <Elem NameU="Stop Light" Name="紅綠燈"/>
+    <Elem NameU="Direction Guide" Name="方向引導"/>
+    <Elem NameU="location" Name="定位"/>
+    <Elem NameU="Direction sign" Name="方向指示標誌"/>
+    <Elem NameU="Parking place" Name="停車位置"/>
+</Lib>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Arrow Shapes">
+
+<Elem Name="Rechter Pfeil" NameU="Right Arrow"/>
+
+<Elem Name="Zurück Pfeil" NameU="Back Arrow"/>
+
+<Elem Name="Nordwestpfeil" NameU="Northwest Arrow"/>
+
+<Elem Name="Pfeil nach unten" NameU="Down Arrow"/>
+
+<Elem Name="Linker Pfeil" NameU="Left Arrow"/>
+
+<Elem Name="Einzelner Pfeil nach oben" NameU="Up Single Arrow"/>
+
+<Elem Name="Fette Pfeilspitze nach unten" NameU="Single Arrow Down"/>
+
+<Elem Name="Dicker Pfeil" NameU="Thick Arrow"/>
+
+<Elem Name="Armband geformter Pfeil" NameU="Armband Shaped Arrow"/>
+
+<Elem Name="Aufwärtspfeil" NameU="Up Arrow"/>
+
+<Elem Name="Fünfeckiger Pfeil" NameU="Pentagonal Arrow"/>
+
+<Elem Name="Südwestpfeil" NameU="Southwest Arrow"/>
+
+<Elem Name="Südostpfeil" NameU="Southeast Arrow"/>
+
+<Elem Name="Backward Double Arrow" NameU="Backward Double Arrow"/>
+
+<Elem Name="Stilisierter Pfeil" NameU="Stylized Arrow"/>
+
+<Elem Name="Mehrere Pfeile" NameU="Multiple Arrows"/>
+
+<Elem Name="Doppelpfeil vorwärts" NameU="Forward Double Arrow"/>
+
+<Elem Name="Two-Way Arrow" NameU="Two-Way Arrow"/>
+
+<Elem Name="Doppelpfeil nach oben" NameU="Double Arrow Up"/>
+
+<Elem Name="Vierwegepfeil" NameU="Four-Way Arrow"/>
+
+<Elem Name="Kreispfeil im Uhrzeigersinn 3" NameU="Circle Arrow"/>
+
+<Elem Name="Interaktiver Pfeil" NameU="Interactive Arrow"/>
+
+<Elem Name="Recycelbarer Pfeil" NameU="Recyclable Arrow"/>
+
+<Elem Name="Flexibler Schleifenpfeil" NameU="Flexible Loop Arrow"/>
+
+<Elem Name="S-Typ Pfeil" NameU="S-type Arrow"/>
+
+<Elem Name="Pfeil" NameU="Arrow"/>
+
+<Elem Name="Pfeil mit offenem Ende" NameU="Open-end Arrow"/>
+
+<Elem Name="Ellbogenpfeil" NameU="Elbow Arrow"/>
+
+<Elem Name="Gebogener Pfeil" NameU="Bent Arrow"/>
+
+<Elem Name="U-Typ Pfeil" NameU="U-type Arrow"/>
+
+</Lib>

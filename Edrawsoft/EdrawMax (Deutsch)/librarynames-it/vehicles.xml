@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Vehicles">
+	<Elem NameU="Electric Scooter" Name="Scooter Elettrico"/>
+	<Elem NameU="Bicycle" Name="Bicicletta"/>
+	<Elem NameU="Car 1" Name="Automobile 1"/>
+	<Elem NameU="Car 2" Name="Automobile 2"/>
+	<Elem NameU="Food Truck" Name="Camioncino"/>
+	<Elem NameU="Bus" Name="Autobus"/>
+	<Elem NameU="MPV" Name="MVP"/>
+	<Elem NameU="Pickup Truck" Name="Furgoncino"/>
+	<Elem NameU="Box Truck" Name="Furgone"/>
+	<Elem NameU="Mini Car" Name="Mini auto"/>
+	<Elem NameU="Sports Car" Name="Auto Sportiva"/>
+	<Elem NameU="Car 3" Name="Automobile 3"/>
+	<Elem NameU="Heavy Truck" Name="Furgone Pesante"/>
+	<Elem NameU="Jeep" Name="Jeep"/>
+	<Elem NameU="Ambulance" Name="Ambulanza"/>
+	<Elem NameU="Fire Truck" Name="Camion dei Pompieri"/>
+	<Elem NameU="Taxi" Name="Taxi"/>
+	<Elem NameU="Van" Name="Camper"/>
+	<Elem NameU="Crane" Name="Gru"/>
+	<Elem NameU="Excavator" Name="Escavatore"/>
+	<Elem NameU="Military Vehicle 1" Name="Veicolo Militare 1"/>
+	<Elem NameU="Military Vehicle 2" Name="Veicolo Militare 2"/>
+	<Elem NameU="Military Vehicle 3" Name="Veicolo Militare 3"/>
+	<Elem NameU="Police Car" Name="Autopattuglia"/>
+	<Elem NameU="Concrete Mixer" Name="Autobetoniera"/>
+	<Elem NameU="Forklift" Name="Carrello Elevatore"/>
+	<Elem NameU="Double-decker Bus" Name="Autobus a Due Piani"/>
+	<Elem NameU="Motorcycle" Name="Motocicletta"/>
+	<Elem NameU="Tractor" Name="Trattore"/>
+	<Elem NameU="Electric Bike" Name="Bici Elettrica"/>
+	<Elem NameU="Tank Truck" Name="Autocisterna"/>
+	<Elem NameU="Train" Name="Treno"/>
+	<Elem NameU="Subway" Name="Metropolitana"/>
+	<Elem NameU="Plane 1" Name="Aeroplano 1"/>
+	<Elem NameU="Plane 2" Name="Aeroplano 2"/>
+	<Elem NameU="Plane 3" Name="Aeroplano 3"/>
+	<Elem NameU="Helicopter 1" Name="Elicottero 1"/>
+	<Elem NameU="Helicopter 2" Name="Elicottero 2"/>
+	<Elem NameU="Patrol Boat" Name="Petroliera"/>
+	<Elem NameU="Sailboat" Name="Barca a Vela"/>
+	<Elem NameU="Steamship" Name="Nave a Vapore"/>
+	<Elem NameU="Cruise" Name="Nave da Crociera"/>
+</Lib>

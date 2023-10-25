@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Plant Facilities">
+    <Elem NameU="Access ladder" Name="액세스 사다리"/>
+    <Elem NameU="Brick exhaust stack with deck" Name="데크가 있는 벽돌 배기 스택"/>
+    <Elem NameU="Brick exhaust stack" Name="벽돌 배기 스택"/>
+    <Elem NameU="Chain link fence (green)" Name="체인 링크 펜스 (그린)"/>
+    <Elem NameU="Chain link fence with barbed wire (green)" Name="체인 링크 울타리 (녹색)"/>
+    <Elem NameU="Chain link fence with barbed wire" Name="가시 철사가 있는 울타리"/>
+    <Elem NameU="Chain link fence" Name="가시 철사"/>
+    <Elem NameU="Communications tower" Name="통신 타워"/>
+    <Elem NameU="Dark smoke" Name="다크 연기"/>
+    <Elem NameU="Emergency shower" Name="비상 샤워 장치"/>
+    <Elem NameU="Enclosed ladder" Name="사다리 1"/>
+    <Elem NameU="Exhaust stack with warning stripes" Name="경고 표시가 있는 굴뚝"/>
+    <Elem NameU="Exhaust stack" Name="굴뚝"/>
+    <Elem NameU="Exposed ladder" Name="사다리 2"/>
+    <Elem NameU="Guard screen" Number="2" Name="가드 화면"/>
+    <Elem NameU="Industrial platform 1" Name="생산 플랫폼 1"/>
+    <Elem NameU="Industrial platform 2" Name="생산 플랫폼 2"/>
+    <Elem NameU="Industrial stairs" Name="계단"/>
+    <Elem NameU="Industrial structure" Name="생산 장비"/>
+    <Elem NameU="Industrial platform 1" Name="생산 플랫폼 1"/>
+    <Elem NameU="Light smoke" Name="연한 연기"/>
+    <Elem NameU="Mezzanine decking" Name="Mezzanine decking"/>
+    <Elem NameU="Mezzanine with office" Name="Mezzanine with office"/>
+    <Elem NameU="Oil rig" Name="오일 장비"/>
+    <Elem NameU="Oil well" Name="유정"/>
+    <Elem NameU="Processing plant" Name="가공 공장"/>
+    <Elem NameU="Pulp mill" Name="펄프 밀"/>
+    <Elem NameU="Pyramid communication tower" Name="피라미드 통신 타워"/>
+    <Elem NameU="Refinery" Name="정련소"/>
+    <Elem NameU="Smooth exhaust stairs" Number="2" Name="계단 2"/>
+    <Elem NameU="Steel grating 1" Name="강철 격자 1"/>
+    <Elem NameU="Steel grating 2" Name="강철 격자 2"/>
+    <Elem NameU="Vertical stairs" Number="2" Name="계단 4"/>
+    <Elem NameU="Chimney" Number="2" Name="굴뚝 2"/>
+</Lib>

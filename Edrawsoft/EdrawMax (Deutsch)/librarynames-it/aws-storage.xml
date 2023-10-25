@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="AWS Storage">
+	<Elem NameU="Elastic-Block-Store-EBS" Name="Elastic-Block-Store-EBS"/>
+	<Elem NameU="Elastic-Block-Store-EBS_Snapshot" Name="Elastic-Block-Store-EBS Snapshot"/>
+	<Elem NameU="Elastic-Block-Store-EBS_Volume" Name="Elastic-Block-Store-EBS Volume"/>
+	<Elem NameU="Elastic-File-System_EFS_File-system" Name="Elastic-File-System_EFS_File system"/>
+	<Elem NameU="Elastic-File-System_EFS" Name="Elastic-File-System_EFS"/>
+	<Elem NameU="FSx" Name="FSx"/>
+	<Elem NameU="FSx-for-Lustre" Name="FSx gloss"/>
+	<Elem NameU="FSx-for-Windows-File-Server" Name="FSx per Windows File Server"/>
+	<Elem NameU="S3-Glacier" Name="S3-Glacier"/>
+	<Elem NameU="S3-Glacier_Archive" Name="S3-Glacier Archivio"/>
+	<Elem NameU="S3-Glacier_Vault" Name="S3-Glacier Libreria"/>
+	<Elem NameU="Simple-_Storage-Service-S3" Name="Simple-_Storage-Service-S3"/>
+	<Elem NameU="Simple-Storage-Service-S3_Bucket" Name="Simple-_Storage-Service-S3_Bucket"/>
+	<Elem NameU="Simple-Storage-Service-S3_Bucket-with-Objects" Name="Simple-_Storage-Service-S3_Bucket con Oggetti"/>
+	<Elem NameU="Simple-Storage-Service-S3_Object" Name="Simple-_Storage-Service-S3_Oggetto"/>
+	<Elem NameU="AWS-Backup" Name="Backup AWS"/>
+	<Elem NameU="AWS-Snowball" Name="AWS-Snowball"/>
+	<Elem NameU="AWS-Snowball-Edge" Name="AWS-Snowball-Edge"/>
+	<Elem NameU="AWS-Snow-Family_Snowball-Import-Export" Name="AWS Snow Family Snowball Import Export"/>
+	<Elem NameU="AWS-Snowmobile" Name="AWS-Snowmobile"/>
+	<Elem NameU="AWS-Storage-Gateway" Name="AWS-Storage-Gateway"/>
+	<Elem NameU="AWS-Storage-Gateway_Cached-Volume" Name="AWS-Storage-Gateway_Volume Caching"/>
+	<Elem NameU="AWS-Storage-Gateway_File-Gateway" Name="AWS-Storage-Gateway_File-Gateway"/>
+	<Elem NameU="AWS-Storage-Gateway_Non-Cached-Volume" Name="AWS-Storage-Gateway_Volume No Caching"/>
+	<Elem NameU="AWS-Storage-Gateway_Tape-Gateway" Name="AWS Storage Gateway Tape Gateway"/>
+	<Elem NameU="AWS-Storage-Gateway_Virtual-Tape-Library" Name="AWS-Storage-Gateway_Libreria Virtuale"/>
+	<Elem NameU="AWS-Storage-Gateway_Volume-Gateway" Name="AWS Storage Gateway Volume Gateway"/>
+	<Elem NameU="CloudEndure-Disaster-Recovery" Name="CloudEndure Disaster Recovery"/>
+	<Elem NameU="EFS-InfrequentAccess" Name="EFS-InfrequentAccess"/>
+	<Elem NameU="EFS-Standard" Name="EFS-Standard"/>
+	<Elem NameU="Multiple-volumes_Resource-Icon" Name="Volumi multipli_Resource-Icon"/>
+	<Elem NameU="Storage" Name="Archiviazione"/>
+	<Elem NameU="EFS-InfrequentAccess_primary" Name="EFS-InfrequentAccess_primary"/>
+	<Elem NameU="EFS-Standard_primary" Name="EFS-Standard_primary"/>
+	<Elem NameU="General-Access-Points" Name="Punti di accesso generali"/>
+	<Elem NameU="VPC-Access-Points" Name="Punti di accesso VPC"/>
+</Lib>

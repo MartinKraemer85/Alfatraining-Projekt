@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Daily Life">
+    <Elem NameU="Toilet Paper" Name="휴지"/>
+    <Elem NameU="Vase" Name="꽃병"/>
+    <Elem NameU="Makeup Mirror" Name="메이크업 거울"/>
+    <Elem NameU="Table Lamp" Name="테이블 램프"/>
+    <Elem NameU="Watch" Name="시계"/>
+    <Elem NameU="Light Bulb" Name="전구"/>
+    <Elem NameU="Reading Lamp" Name="열독등"/>
+    <Elem NameU="Electric Light" Name="전등"/>
+    <Elem NameU="key" Name="키"/>
+    <Elem NameU="Gas" Name="가스"/>
+    <Elem NameU="Electric Fan" Name="선풍기"/>
+    <Elem NameU="Plug" Name="플러그"/>
+    <Elem NameU="Watch" Name="시계"/>
+    <Elem NameU="Goblet" Name="고블릿"/>
+    <Elem NameU="Knife and Fork" Name="나이프와 포크"/>
+    <Elem NameU="Spoon and Knife" Name="숟가락과 나이프"/>
+    <Elem NameU="Red Wine Glass" Name="와인잔"/>
+    <Elem NameU="Beer Mug" Name="맥주컵"/>
+    <Elem NameU="Coffee" Name="커피"/>
+    <Elem NameU="Lock" Name="잠금"/>
+    <Elem NameU="Store" Name="쇼핑몰"/>
+    <Elem NameU="Medicine Box" Name="약상자"/>
+    <Elem NameU="Straw Hat" Name="밀짚 모자"/>
+    <Elem NameU="Flip Flop" Name="슬리퍼"/>
+    <Elem NameU="Air Conditioning" Name="에어컨"/>
+    <Elem NameU="Air Conditioner" Name="에어컨"/>
+    <Elem NameU="Clothes" Name="옷"/>
+    <Elem NameU="Diary" Name="일기"/>
+    <Elem NameU="Photo" Name="사진"/>
+    <Elem NameU="Bathtub" Name="욕조"/>
+    <Elem NameU="Flats" Name="아파트"/>
+    <Elem NameU="Brush" Name="브러쉬"/>
+    <Elem NameU="Palette" Name="팔레트"/>
+    <Elem NameU="Umbrella" Name="우산"/>
+    <Elem NameU="Bachelor Cap" Name="학사모"/>
+    <Elem NameU="Glasses" Name="안경"/>
+    <Elem NameU="Headset" Name="헤드셋"/>
+    <Elem NameU="Music" Name="음악"/>
+    <Elem NameU="Game Remote Control" Name="게임 컨트롤"/>
+    <Elem NameU="Ice Cream" Name="아이스크림"/>
+    <Elem NameU="Mobile Phone" Name="핸드폰"/>
+    <Elem NameU="Potted Plant" Name="화분"/>
+    <Elem NameU="Video Playback" Name="동영상 돌려보기"/>
+    <Elem NameU="Flask" Name="플라스크"/>
+    <Elem NameU="Heart" Name="하트"/>
+    <Elem NameU="Birthday Cake" Name="생일 케익"/>
+    <Elem NameU="Telescope" Name="망원경"/>
+    <Elem NameU="No Smoking" Name="흡연금지"/>
+    <Elem NameU="Candle" Name="캔들"/>
+    <Elem NameU="Fire" Name="불"/>
+    <Elem NameU="Aims" Name="목적"/>
+    <Elem NameU="Dialogue" Name="대화"/>
+    <Elem NameU="Navigation" Name="네비게이션"/>
+    <Elem NameU="Hammer" Name="해머"/>
+    <Elem NameU="Microphone" Name="마이크로폰"/>
+</Lib>

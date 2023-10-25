@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib nameU="Medical">
+	<Elem NameU="Woman" Name="女性"/>
+	<Elem NameU="Man" Name="男性"/>
+	<Elem NameU="Molecular Structure" Name="分子モデル図"/>
+	<Elem NameU="Cerebrum" Name="大脳"/>
+	<Elem NameU="Heart" Name="心臓"/>
+	<Elem NameU="DNA" Name="DNA"/>
+	<Elem NameU="Electrocardiogram" Name="心電図"/>
+	<Elem NameU="Baby" Name="胎児"/>
+	<Elem NameU="Family" Name="家族"/>
+	<Elem NameU="Analysis" Name="分析"/>
+	<Elem NameU="Report" Name="報告書"/>
+	<Elem NameU="Ambulance" Name="救急車"/>
+	<Elem NameU="Medical box" Name="救急箱"/>
+	<Elem NameU="Respirator" Name="人工呼吸器"/>
+	<Elem NameU="Stethoscope" Name="聴診器"/>
+	<Elem NameU="Heart with Cross" Name="赤十字心"/>
+	<Elem NameU="Pill" Name="ピル"/>
+	<Elem NameU="Capsule" Name="カプセル"/>
+	<Elem NameU="Hospital" Name="病院"/>
+	<Elem NameU="Microscope" Name="顕微鏡"/>
+	<Elem NameU="Thermometer" Name="体温計"/>
+	<Elem NameU="Test" Name="試験"/>
+	<Elem NameU="Test 2" Name="試験 2"/>
+	<Elem NameU="Rehabilitation Equipment" Name="リハビリ設備"/>
+	<Elem NameU="Walking Stick" Name="杖　1"/>
+	<Elem NameU="Walking Stick 2" Name="杖 2"/>
+	<Elem NameU="Wheelchair" Name="車椅子"/>
+	<Elem NameU="Rehab Equipment" Name="リハビリ設備"/>
+	<Elem NameU="Rehab Equipment 1" Name="リハビリ機器 1"/>
+	<Elem NameU="Rehab Equipment 2" Name="リハビリ機器 2"/>
+	<Elem NameU="Rehab Equipment 3" Name="リハビリ機器 3"/>
+	<Elem NameU="Rehab Equipment 4" Name="リハビリ機器 4"/>
+	<Elem NameU="Hospital Bed 1" Name="病床 1"/>
+	<Elem NameU="Hospital Bed 2" Name="病床 2"/>
+	<Elem NameU="Hospital Bed 3" Name="病床 3"/>
+	<Elem NameU="Operating table" Name="手術台"/>
+	<Elem NameU="Scale" Name="体重計"/>
+	<Elem NameU="Hazard Warning Sign" Name="危険物質"/>
+	<Elem NameU="Handicap Sign" Name="ハンディキャップ標識"/>
+	<Elem NameU="Plastic Infusion Bag" Name="プラスチック製輸液バッグ"/>
+	<Elem NameU="Nurse Cap" Name="ナースキャップ"/>
+	<Elem NameU="Injector" Name="注射器"/>
+	<Elem NameU="Tooth" Name="歯"/>
+	<Elem NameU="Liver" Name="肝"/>
+	<Elem NameU="Lung" Name="肺"/>
+	<Elem NameU="Stomach" Name="胃"/>
+	<Elem NameU="Spleen" Name="脾臓"/>
+	<Elem NameU="Ear" Name="耳"/>
+	<Elem NameU="Intestines" Name="腸"/>
+	<Elem NameU="X-ray Film" Name="X線フィルム　1"/>
+	<Elem NameU="X-ray Film (Broken Bone)" Name="X線フィルム 2"/>
+	<Elem NameU="Doctor" Name="医者"/>
+	<Elem NameU="Nurse" Name="看護師"/>
+	<Elem NameU="Pills" Name="ピル"/>
+	<Elem NameU="Medicine Bottle" Name="薬瓶"/>
+	<Elem NameU="Virus 1" Name="ウイルス 1"/>
+	<Elem NameU="Virus 2" Name="ウイルス 2"/>
+	<Elem NameU="Heart-shaped electrocardiogram (ecg)" Name="ハート型心電図 (ecg)"/>
+	<Elem NameU="Drinking" Name="飲酒"/>
+</Lib>

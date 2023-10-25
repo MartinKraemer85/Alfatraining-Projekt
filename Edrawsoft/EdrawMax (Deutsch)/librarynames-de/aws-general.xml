@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="AWS General">
+	<Elem NameU="AWS-Email" Name="AWS-E-Mail"/>
+	<Elem NameU="AWS-Marketplace" Name="AWS-Markt"/>
+	<Elem NameU="Client" Name="Klient"/>
+	<Elem NameU="Disk" Name="Scheibe"/>
+	<Elem NameU="Forums" Name="Forum"/>
+	<Elem NameU="General" Name="Allgemeines"/>
+	<Elem NameU="Generic_Firewall" Name="Allgemeine Firewall"/>
+	<Elem NameU="Generic-database" Name="Allgemeine Datenbank"/>
+	<Elem NameU="Internet-alt1" Name="Internet alt 1"/>
+	<Elem NameU="Internet-alt2" Name="Internet alt 2"/>
+	<Elem NameU="Internet-gateway" Name="Internet-Gateway"/>
+	<Elem NameU="Mobile-client" Name="mobiler Client"/>
+	<Elem NameU="Multimedia" Name="Multimedia"/>
+	<Elem NameU="Office-building" Name="Bürogebäude"/>
+	<Elem NameU="SAML-token" Name="SAML-Token"/>
+	<Elem NameU="SDK" Name="SDK"/>
+	<Elem NameU="SSL-padlock" Name="SSL Vorhängeschloss"/>
+	<Elem NameU="Tape-storage" Name="Bandspeicher"/>
+	<Elem NameU="Toolkit" Name="Toolkit"/>
+	<Elem NameU="Traditional-server" Name="Traditioneller Server"/>
+	<Elem NameU="User" Name="Nutzer"/>
+	<Elem NameU="Users" Name="Benutzernummer"/>
+</Lib>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Column Chart">
+    <Elem NameU="Simple Column Chart" Name="심플 기둥 차트"/>
+    <Elem NameU="Column Chart" Name="기둥 차트"/>
+    <Elem NameU="Gradient Column Chart" Name="그라데이션 기둥 차트"/>
+    <Elem NameU="Single Series Column Chart 1" Name="단일 계열 기둥 차트"/>
+    <Elem NameU="Single Series Column Chart 2" Name="단일 계열 기둥 차트 2"/>
+    <Elem NameU="Single Series Column Chart 3" Name="단일 계열 기둥 차트 3"/>
+    <Elem NameU="Single Series Column Chart 4" Name="단일 계열 기둥 차트 4"/>
+    <Elem NameU="Clustered Column Chart 1" Name="클러스터형 기둥 차트 1"/>
+    <Elem NameU="Clustered Column Chart 2" Name="클러스터형 기둥 차트 2"/>
+    <Elem NameU="Clustered Column Chart 3" Name="클러스터형 기둥 차트 3"/>
+    <Elem NameU="Stacked Column Chart 1" Name="클러스터형 원기둥 차트 1"/>
+    <Elem NameU="Stacked Column Chart 2" Name="클러스터형 원기둥 차트 2"/>
+    <Elem NameU="Stacked Column Chart 3" Name="클러스터형 원기둥 차트 3"/>
+    <Elem NameU="100% Stacked Column Chart 1" Name="백분율 기둥 차트 1"/>
+    <Elem NameU="100% Stacked Column Chart 2" Name="백분율 기둥 차트 2"/>
+    <Elem NameU="100% Stacked Column Chart 3" Name="백분율 기둥 차트 3"/>
+    <Elem NameU="Gradient Single Column Chart" Name="그라데이션 단일 기둥 차트"/>
+</Lib>

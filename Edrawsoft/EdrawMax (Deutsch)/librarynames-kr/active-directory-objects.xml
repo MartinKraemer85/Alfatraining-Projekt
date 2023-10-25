@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Active Directory Objects">
+    <Elem NameU="Domain" Name="도메인"/>
+    <Elem NameU="Computer" Name="컴퓨터"/>
+    <Elem NameU="User" Name="사용자"/>
+    <Elem NameU="Group" Name="그룹"/>
+    <Elem NameU="Container" Name="컨테이너"/>
+    <Elem NameU="Print Queue" Name="인쇄 대기열"/>
+    <Elem NameU="Contact" Name="연락처"/>
+    <Elem NameU="Organizational Unit" Name="조직 구성 단위"/>
+    <Elem NameU="Policy" Name="정책"/>
+    <Elem NameU="Volume" Name="볼륨"/>
+    <Elem NameU="Generic object" Name="일반 개체"/>
+    <Elem NameU="Server" Name="서버"/>
+    <Elem NameU="Site" Name="사이트"/>
+    <Elem NameU="Site link" Name="사이트 링크"/>
+    <Elem NameU="Site link bridge" Name="사이크 링크 브릿지"/>
+    <Elem NameU="NTDS site settings" Name="NTDS 사이트 설정"/>
+    <Elem NameU="IP subnet" Name="IP 서브넷"/>
+    <Elem NameU="Certificate Template" Name="인증서 템플릿"/>
+    <Elem NameU="Licensing Site" Name="라이선싱 사이트"/>
+    <Elem NameU="Connection" Name="연결"/>
+    <Elem NameU="Directory Connector" Name="디렉토리 연결"/>
+</Lib>

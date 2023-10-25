@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Express-G">
+	<Elem NameU="Entity" Name="Entidade"/>
+	<Elem NameU="Base type" Name="Tipo base"/>
+	<Elem NameU="Enumerate type" Name="Tipo enumeração"/>
+	<Elem NameU="Defined type" Name="Tipo definido"/>
+	<Elem NameU="Select type" Name="Tipo selecionar"/>
+	<Elem NameU="Boundary" Name="Fronteira"/>
+	<Elem NameU="Pointer" Name="Indicador"/>
+	<Elem NameU="Cardinality" Name="Cardinalidade"/>
+	<Elem NameU="Inverse cardinality" Name="Cardinalidade Inversa"/>
+	<Elem NameU="Normal relationship" Name="Relação normal"/>
+	<Elem NameU="Tree structure" Name="Estrutura em árvore"/>
+	<Elem NameU="Relationship pointer" Name="Indicador de relações"/>
+	<Elem NameU="Subtype" Name="Subtipo"/>
+	<Elem NameU="Schema" Name="Esquema"/>
+	<Elem NameU="Used entity" Name="Entidade utilizada"/>
+	<Elem NameU="Referenced entity" Name="Entidade referenciada"/>
+	<Elem NameU="To page reference" Name="Referência para página"/>
+	<Elem NameU="From page reference" Name="Referência a partir de página"/>
+	<Elem NameU="Label" Name="Etiqueta"/>
+	<Elem NameU="Page reference" Name="Referência de página"/>
+</Lib>

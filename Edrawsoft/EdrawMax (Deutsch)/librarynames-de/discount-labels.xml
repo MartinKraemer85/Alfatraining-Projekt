@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib nameU="Discount Labels">
+	<Elem NameU="Price Sticker 1" Name="Preis Aufkleber 1"/>
+	<Elem NameU="Price Sticker 2" Name="Preis Aufkleber 2"/>
+	<Elem NameU="Price Sticker 3" Name="Preis Aufkleber 3"/>
+	<Elem NameU="Price Sticker 4" Name="Preis Aufkleber 4"/>
+	<Elem NameU="Price Sticker 5" Name="Preis Aufkleber 5"/>
+	<Elem NameU="Price Sticker 6" Name="Preis Aufkleber 6"/>
+	<Elem NameU="Price Sticker 7" Name="Preis Aufkleber 7"/>
+	<Elem NameU="Price Sticker 8" Name="Preis Aufkleber 8"/>
+	<Elem NameU="Price Tag 1" Name="Preisschild 1"/>
+	<Elem NameU="Price Tag 2" Name="Preisschild 2"/>
+	<Elem NameU="Price Tag 3" Name="Preisschild 3"/>
+	<Elem NameU="Price Sticker 9" Name="Preis Aufkleber 9"/>
+	<Elem NameU="Price Sticker 10" Name="Preis Aufkleber 10"/>
+	<Elem NameU="Price Sticker 11" Name="Preis Aufkleber 11"/>
+	<Elem NameU="Price Sticker 12" Name="Preis Aufkleber 12"/>
+	<Elem NameU="Best Price" Name="Bester Preis"/>
+	<Elem NameU="Price Sticker 13" Name="Preis Aufkleber 13"/>
+	<Elem NameU="Price Sticker 14" Name="Preis Aufkleber 14"/>
+	<Elem NameU="Price Sticker 15" Name="Preis Aufkleber 15"/>
+	<Elem NameU="Price Sticker 16" Name="Preis Aufkleber 16"/>
+	<Elem NameU="Price Sticker 17" Name="Preis Aufkleber 17"/>
+	<Elem NameU="Special Offer" Name="Sonderangebot"/>
+	<Elem NameU="Price Sticker 18" Name="Preis Aufkleber 18"/>
+	<Elem NameU="FREE" Name="FREI"/>
+	<Elem NameU="Price Sticker 19" Name="Preis Aufkleber 19"/>
+	<Elem NameU="Gift 1" Name="Geschenk 1"/>
+	<Elem NameU="Gift 2" Name="Geschenk 2"/>
+	<Elem NameU="Thank You Tag" Name="Danke Tag"/>
+	<Elem NameU="Price Up" Name="Preis hoch"/>
+	<Elem NameU="Price Down" Name="Preis runter"/>
+	<Elem NameU="Sale Tag 1" Name="Verkaufstag 1"/>
+	<Elem NameU="Sale Tag 2" Name="Verkaufstag 2"/>
+	<Elem NameU="Sale Banner" Name="Verkaufsbanner"/>
+	<Elem NameU="Ribbons 1" Name="Bänder 1"/>
+	<Elem NameU="Ribbons 2" Name="Bänder 2"/>
+	<Elem NameU="Ribbons 3" Name="Bänder 3"/>
+	<Elem NameU="Ribbons 4" Name="Bänder 4"/>
+	<Elem NameU="Ribbons 5" Name="Bänder 5"/>
+	<Elem NameU="Ribbons 6" Name="Bänder 6"/>
+	<Elem NameU="Coupons 1" Name="Gutscheine 1"/>
+	<Elem NameU="Coupons 2" Name="Gutscheine 2"/>
+</Lib>

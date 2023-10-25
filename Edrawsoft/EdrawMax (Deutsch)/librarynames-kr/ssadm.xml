@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="SSADM">
+    <Elem NameU="Entity Type" Name="엔터티 유형"/>
+    <Elem NameU="External Entity" Name="엔터티 확장"/>
+    <Elem NameU="Relationships" Name="관계"/>
+    <Elem NameU="Process Box" Name="프로세스 박스"/>
+    <Elem NameU="DFD Process" Name="DFD 처리"/>
+    <Elem NameU="DFD Datastore" Name="DFD 데이터 저장"/>
+    <Elem NameU="DFD Flow" Name="DFD 플로우"/>
+    <Elem NameU="Entity Life History" Name="엔터티 라이프 히스토리"/>
+    <Elem NameU="Entity Description" Name="엔터티 설명"/>
+    <Elem NameU="Overview" Name="개요"/>
+    <Elem NameU="Resource Flow" Name="리소스 흐름 "/>
+    <Elem NameU="Transition" Name="전환"/>
+</Lib>

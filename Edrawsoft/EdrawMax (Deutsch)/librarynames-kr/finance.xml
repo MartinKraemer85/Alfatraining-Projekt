@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Finance">
+    <Elem NameU="Diamond" Name="다이아몬드"/>
+    <Elem NameU="Gold Coin" Name="골드 코인"/>
+    <Elem NameU="Savings" Name="저금"/>
+    <Elem NameU="Gold Bars" Name="골드바"/>
+    <Elem NameU="Gold ingot" Name="금괴"/>
+    <Elem NameU="Golden Eggs" Name="황금알"/>
+    <Elem NameU="Coin" Name="코인"/>
+    <Elem NameU="Accounting" Name="회계"/>
+    <Elem NameU="Cash" Name="캐시"/>
+    <Elem NameU="Cash Payment" Name="현금 결제"/>
+    <Elem NameU="Mail Payment" Name="Mail Payment"/>
+    <Elem NameU="Bank Card" Name="은행 카드"/>
+    <Elem NameU="Wallet" Name="지갑"/>
+    <Elem NameU="Money Bag" Name="돈주머니"/>
+    <Elem NameU="Cash Box" Name="현금박스"/>
+    <Elem NameU="Dollar Exchange" Name="달러 환율"/>
+    <Elem NameU="Return on Investment" Name="ROI"/>
+    <Elem NameU="Roulette" Name="룰렛"/>
+    <Elem NameU="Dollar" Name="달러"/>
+    <Elem NameU="RMB" Name="위안화"/>
+    <Elem NameU="Target" Name="타깃"/>
+    <Elem NameU="Bank" Name="은행"/>
+    <Elem NameU="Law Hammer" Name="법률 해머"/>
+    <Elem NameU="Scales of Justice" Name="정의"/>
+    <Elem NameU="Analysis" Name="분석"/>
+    <Elem NameU="Dollar Security" Name="달러 "/>
+    <Elem NameU="Online Payment" Name="온라인 결제"/>
+    <Elem NameU="Reports" Name="보고"/>
+    <Elem NameU="Loss" Name="손실"/>
+    <Elem NameU="Profit" Name="이윤"/>
+    <Elem NameU="Pie Chart" Name="파이 차트"/>
+    <Elem NameU="Exchange" Name="환율"/>
+    <Elem NameU="Loan" Name="대출"/>
+    <Elem NameU="Investment" Name="투자"/>
+    <Elem NameU="Mobile Payment" Name="모바일 결제"/>
+    <Elem NameU="Security" Name="보증금"/>
+    <Elem NameU="Safe" Name="금고"/>
+    <Elem NameU="Hourglass" Name="모래시계"/>
+    <Elem NameU="Choice" Name="선택"/>
+    <Elem NameU="Antique" Name="앤티크"/>
+</Lib>

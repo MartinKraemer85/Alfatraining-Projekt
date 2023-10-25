@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="HVAC Controls">
+    <Elem NameU="Temperature Sensor" Name="온도 센서"/>
+    <Elem NameU="Humidity Sensor" Name="온도 센서"/>
+    <Elem NameU="Enthalpy  Sensor" Name="엔탈피 센서"/>
+    <Elem NameU="Pressure Sensor" Name="압력 센서"/>
+    <Elem NameU="Flow Sensor" Name="플로우 센서"/>
+    <Elem NameU="Velocity Sensor" Name="속도 센서"/>
+    <Elem NameU="Voltage  Sensor" Name="전압 센서"/>
+    <Elem NameU="General  Sensor" Name="일반 센서"/>
+    <Elem NameU="Rotation Sensor" Name="회전 센서"/>
+    <Elem NameU="Light  Sensor" Name="라이트 센서"/>
+    <Elem NameU="Vibration Sensor" Name="진동 센서"/>
+    <Elem NameU="Current Sensor" Name="전류 센서"/>
+    <Elem NameU="Power Sensor" Name="파워 센서"/>
+    <Elem NameU="Air Quality Sensor" Name="공기 퀄리티 센서"/>
+    <Elem NameU="Timer" Name="타이머"/>
+    <Elem NameU="Level" Name="레벨"/>
+    <Elem NameU="End Switch" Name="엔드 센서"/>
+    <Elem NameU="Smoke" Name="담배"/>
+    <Elem NameU="Power Connection" Name="전원 연결"/>
+    <Elem NameU="I/O point" Name="I / O포인트"/>
+    <Elem NameU="Actuator" Name="액추에이터"/>
+    <Elem NameU="Wiring Note" Name="배선 메모"/>
+</Lib>

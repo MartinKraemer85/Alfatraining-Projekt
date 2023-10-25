@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Data Flow Model Diagram">
+	<Elem NameU="External Entity" Name="Entidade Externa"/>
+	<Elem NameU="Entity" Name="Entidade"/>
+	<Elem NameU="Process 2" Name="Processo 2"/>
+	<Elem NameU="Process" Name="Processo"/>
+	<Elem NameU="Process w/location" Name="Processo c/localização"/>
+	<Elem NameU="Data Store" Name="Armazenamento de Dados"/>
+	<Elem NameU="Interface" Name="Interface"/>
+	<Elem NameU="Jump" Name="Saltar"/>
+	<Elem NameU="Angled Connector" Name="Conector de Ângulo"/>
+	<Elem NameU="Top to Bottom Variable" Name="Variável de Topo para o Fundo"/>
+	<Elem NameU="Bottom to Side" Name="Fundo para o Lado"/>
+	<Elem NameU="Side to Side" Name="Lado para Lado"/>
+	<Elem NameU="Side to Same Side" Name="Lado para Mesmo Lado"/>
+	<Elem NameU="Top to Top Side" Name="Topo para Topo Lateral"/>
+	<Elem NameU="Straight Connector" Name="Conector Direito"/>
+	<Elem NameU="Dynamical Connector" Name="Conector Dinâmico"/>
+	<Elem NameU="Line Curve Connector" Name="Conector de Linha Curva"/>
+</Lib>

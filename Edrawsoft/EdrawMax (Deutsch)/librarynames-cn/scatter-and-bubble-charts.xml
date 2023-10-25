@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Scatter and Bubble Charts">
+    <Elem NameU="Scatter Chart 1" Name="散点图1"/>
+    <Elem NameU="Scatter Chart 2" Name="散点图2"/>
+    <Elem NameU="Bubble Chart 1" Name="气泡图1"/>
+    <Elem NameU="Bubble Chart 2" Name="气泡图2"/>
+    <Elem NameU="Bubble Chart 3" Name="气泡图3"/>
+</Lib>

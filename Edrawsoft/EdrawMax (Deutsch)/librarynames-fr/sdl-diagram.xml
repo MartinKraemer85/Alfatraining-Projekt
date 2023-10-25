@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="SDL Diagram">
+
+<Elem Name="Départ" NameU="Start"/>
+
+<Elem Name="Début variable" NameU="Variable start"/>
+
+<Elem Name="Procédure" NameU="Procedure"/>
+
+<Elem Name="Procédure variable" NameU="Variable procedure"/>
+
+<Elem Name="Création de rêquete" NameU="Create request"/>
+
+<Elem Name="Autre solution" NameU="Alternative"/>
+
+<Elem Name="Retour" NameU="Return"/>
+
+<Elem Name="Message de l'utilisateur" NameU="Message from user"/>
+
+<Elem Name="Message à l'utilisateur" NameU="Message to user"/>
+
+<Elem Name="Primitive de contrôle d'appel" NameU="Primitive to call control"/>
+
+<Elem Name="Enregistrement" NameU="Save"/>
+
+<Elem Name="Document" NameU="Document"/>
+
+<Elem Name="Stockage sur disque" NameU="Disk storage"/>
+
+<Elem Name="Processus divisé" NameU="Divided process"/>
+
+<Elem Name="Événement divisé" NameU="Divided event"/>
+
+<Elem Name="Terminaison" NameU="Terminator"/>
+
+<Elem Name="Référence sur la page" NameU="On-page reference"/>
+
+<Elem Name="Référence hors page" NameU="Off-page reference"/>
+
+<Elem Name="Décision" NameU="Decision"/>
+
+<Elem Name="Primitif du contrôle d'appel" NameU="Primitive from call control"/>
+
+<Elem Name="Multi Document" NameU="Multi Document"/>
+
+<Elem Name="Connecteur de courbe" NameU="Curve Connector"/>
+
+</Lib>

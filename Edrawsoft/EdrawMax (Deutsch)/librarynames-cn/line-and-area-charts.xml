@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Line and Area Charts">
+    <Elem NameU="Line Chart 1" Name="线形图 1"/>
+    <Elem NameU="Line Chart 2" Name="线形图 2"/>
+    <Elem NameU="Line Chart 3" Name="线形图 3"/>
+    <Elem NameU="Step Line Chart" Name="梯形图"/>
+    <Elem NameU="Step Line Chart 2" Name="梯形图 2"/>
+    <Elem NameU="Line Chart 3" Name="线形图 3"/>
+    <Elem NameU="100% Line Chart" Name="百分比折线图"/>
+    <Elem NameU="Area Chart 1" Name="面积图"/>
+    <Elem NameU="Area Chart 2" Name="面积图"/>
+    <Elem NameU="Step Area Chart" Name="百分比面积图"/>
+    <Elem NameU="Step Area Chart 2" Name="百分比面积图3"/>
+    <Elem NameU="Collective Area Chart" Name="集体面积图"/>
+    <Elem NameU="Collective Area Chart 2" Name="集体面积图 2"/>
+</Lib>

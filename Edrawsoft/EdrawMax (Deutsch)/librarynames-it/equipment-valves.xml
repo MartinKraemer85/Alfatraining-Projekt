@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Equipment-Valves">
+	<Elem NameU="Gate valve, Hand-operated" Name="Valvola a saracinesca, Operata manualmente"/>
+	<Elem NameU="Gate valve" Name="Valvola a Saracinesca"/>
+	<Elem NameU="Normally closed gate valve" Name="Valvola a saracinesca chiusa normalmente"/>
+	<Elem NameU="Globe valve, Hand-operated" Name="Valvola a globo, Operata manualmente"/>
+	<Elem NameU="Globe valve" Name="Valvola a globo"/>
+	<Elem NameU="Rotary valve" Name="Valvola rotativa"/>
+	<Elem NameU="Needle valve" Name="Valvola a spillo"/>
+	<Elem NameU="Control valve" Name="Valvola di controllo"/>
+	<Elem NameU="Piston-operated valve" Name="Valvola operata a pistoni"/>
+	<Elem NameU="Back Pressure Regulator" Name="Regolatore Contro-pressione"/>
+	<Elem NameU="Plug or cock valve" Name="Valvola con tappo o erogatore"/>
+	<Elem NameU="Check valve" Name="Valvola di controllo"/>
+	<Elem NameU="Check valve 2" Name="Valvola di controllo 2"/>
+	<Elem NameU="Butterfly valve" Name="Valvola a farfalla"/>
+	<Elem NameU="Flanged valve, Hand-operated" Name="Valvola flangiata, Operata manualmente"/>
+	<Elem NameU="Flanged valve 2" Name="Valvola flangiata"/>
+	<Elem NameU="Angle valve, Hand-operated" Name="Valvola angolare, Operata manualmente"/>
+	<Elem NameU="Angle globe valve" Name="Valvola a globo angolare"/>
+	<Elem NameU="Relief valve" Name="Valvola di scarico"/>
+	<Elem NameU="Angle blowdown valve" Name="Valvola angolare di scarico"/>
+	<Elem NameU="Ball" Name="Sfera"/>
+	<Elem NameU="Normally closed ball valve" Name="Valvola sferica chiusura normale"/>
+	<Elem NameU="Diaghragm" Name="Diagramma"/>
+	<Elem NameU="Plug valve" Name="Valvola a tappo"/>
+	<Elem NameU="Solenoid valve" Name="Valvola solenoide"/>
+	<Elem NameU="Hydraulic valve" Name="Valvola Idraulica"/>
+	<Elem NameU="Motor-operated valve" Name="Valvola automatica"/>
+	<Elem NameU="Pilot gate valve" Name="Valvola a saracinesca con pilota"/>
+	<Elem NameU="Weight gate valve" Name="Valvola a saracinesca con peso"/>
+	<Elem NameU="Powered valve" Name="Valvola alimentata"/>
+	<Elem NameU="Float-operated valve" Name="Valvola galleggiante"/>
+	<Elem NameU="3-way valve" Name="Valvola con uscita a 3"/>
+	<Elem NameU="3-way plug valve" Name="Valvola a tappo con uscita a 3"/>
+	<Elem NameU="3-way valve 2" Name="Valvola con uscita a 32"/>
+	<Elem NameU="4-way plug valve" Name="Valvola a tappo con uscita a 4"/>
+	<Elem NameU="4-way valve" Name="Valvola con uscita a 4"/>
+	<Elem NameU="Electro-hydraulic gate valve" Name="Valvola a saracinesca elettro-idraulica"/>
+	<Elem NameU="Balanced diaphragm gate valve" Name="Valvola a saracinesca con diagramma bilanciato"/>
+	<Elem NameU="Spring gate valve" Name="Valvola a saracinesca a molla"/>
+	<Elem NameU="Ram valve" Name="Valvola ariete"/>
+	<Elem NameU="Slide valve" Name="Valvola a scorrimento"/>
+	<Elem NameU="Metering coke" Name="Coke di misurazione"/>
+	<Elem NameU="Knife valve" Name="Valvola a coltello"/>
+	<Elem NameU="Excess flow valve" Name="Valvola flusso eccessivo"/>
+	<Elem NameU="Post indicator valve" Name="Valvola per indicazione di apertura"/>
+	<Elem NameU="Self draining valve" Name="Valvola auto-drenante"/>
+	<Elem NameU="Diaphragm valve" Name="Valvola a diaframma"/>
+	<Elem NameU="Pinch valve" Name="Valvola a pizzico"/>
+	<Elem NameU="Minimum flow valve" Name="Valvola a flusso minimo"/>
+	<Elem NameU="Auto recirculation valve" Name="Valvola con ricircolo automatico"/>
+	<Elem NameU="Gauge" Name="Manometro"/>
+	<Elem NameU="Bleeder valve" Name="Valvola di sfiato"/>
+	<Elem NameU="Integrated block and bleed valve" Name="Valvola di sfiato con blocco integrato"/>
+	<Elem NameU="Manual integrated block and bleed valve" Name="Valvola di sfiato con blocco integrato manuale"/>
+	<Elem NameU="Orifice" Name="Orifizio"/>
+	<Elem NameU="Rotameter" Name="Rotametro"/>
+	<Elem NameU="Quarter turn valve double acting" Name="Valvola a un quarto di giro a doppia mandata"/>
+	<Elem NameU="Quarter turn valve spring acting" Name="Valvola a molla a un quarto di giro"/>
+	<Elem NameU="Water flow meter" Name="Misuratore flusso idrico"/>
+	<Elem NameU="Self-operating release valve" Name="Valvola di rilascio autonoma"/>
+</Lib>

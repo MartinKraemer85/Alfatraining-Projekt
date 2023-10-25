@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="AWS Cost Management">
+	<Elem NameU="AWS-Budgets" Name="AWS预算"/>
+	<Elem NameU="AWS-Cost-and-Usage-Report" Name="AWS成本和使用情况报告"/>
+	<Elem NameU="AWS-Cost-Explorer" Name="AWS成本资源管理器"/>
+	<Elem NameU="AWS-Cost-Management" Name="AWS成本管理"/>
+	<Elem NameU="Reserved-Instance-Reporting" Name="预留实例报告"/>
+	<Elem NameU="Savings-Plans" Name="储蓄计划"/>
+</Lib>

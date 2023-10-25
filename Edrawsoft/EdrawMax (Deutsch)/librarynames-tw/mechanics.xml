@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Mechanics">
+	<Elem NameU="Rest" Name="墻面或地面"/>
+	<Elem NameU="Weight" Name="砝碼"/>
+	<Elem NameU="Ball" Name="球"/>
+	<Elem NameU="Staircase" Name="台階"/>
+	<Elem NameU="Balance" Number="2" Name="天平"/>
+	<Elem NameU="leverage" Name="槓桿"/>
+	<Elem NameU="Steelyard" Name="桿秤"/>
+	<Elem NameU="Spring" Name="彈簧"/>
+	<Elem NameU="Stub" Name="末節"/>
+	<Elem NameU="Stick" Name="插入"/>
+	<Elem NameU="Spring Balance" Name="彈簧秤"/>
+	<Elem NameU="Weight 2" Name="砝碼"/>
+    <Elem NameU="Weight 3" Name="砝碼"/>
+	<Elem NameU="Flume" Name="水槽"/>
+	<Elem NameU="Mathematical Pendulum" Name="單擺"/>
+	<Elem NameU="Block" Name="阻塞"/>
+	<Elem NameU="Pulley Block" Name="滑輪組"/>
+	<Elem NameU="Crown Block" Name="定滑輪"/>
+	<Elem NameU="Travelling Block 1" Name="動滑輪 1"/>
+	<Elem NameU="Travelling Block 2" Name="動滑輪 2"/>
+	<Elem NameU="Travelling Block 3" Name="動滑輪 3"/>
+	<Elem NameU="Travelling Bulley Block 1" Name="布裡動滑輪 1"/>
+	<Elem NameU="Travelling Bulley Block 2" Name="布裡動滑輪 2"/>
+	<Elem NameU="Elevator" Name="電梯"/>
+	<Elem NameU="Vector" Name="載體"/>
+	<Elem NameU="Angle" Name="角度"/>
+	<Elem NameU="Parabolic Motion Path" Name="拋物線運動軌跡"/>
+	<Elem NameU="Elliptical Motion Path" Name="橢圓運動軌跡"/>
+	<Elem NameU="Line Motion Path" Name="直線運動路徑"/>
+	<Elem NameU="Bevel" Name="斜角"/>
+	<Elem NameU="Semi-Circle Slot Vehicle" Name="半圓槽車"/>
+	<Elem NameU="1/4 Circle Slot Vehicle" Name="1/4圓槽車"/>
+	<Elem NameU="Trailer" Name="拖車"/>
+	<Elem NameU="Flat Vehicle" Name="平板車"/>
+	<Elem NameU="Transmittal Strap" Name="傳送帶"/>
+	<Elem NameU="Push" Name="拖動"/>
+	<Elem NameU="Pull" Number="2" Name="拉動"/>>
+	<Elem NameU="Earth" Name="地球"/>
+	<Elem NameU="Electroscope" Name="驗電器"/>
+	<Elem NameU="Beaker" Name="燒杯"/>
+	<Elem NameU="Measuring Cylinder" Name="量筒"/>
+	<Elem NameU="Weight" Number="3" Name="砝碼"/>
+	<Elem NameU="weight beam" Name="彈簧測力計"/>
+	<Elem NameU="caliper" Name="卡尺"/>
+	<Elem NameU="Simple Pendulum" Name="單擺"/>
+	<Elem NameU="Rest" Number="5" Name="墻面或地面"/>
+	<Elem NameU="Coordinates" Number="2" Name="坐標系"/>
+	<Elem NameU="Magnet" Number="6" Name="磁鐵"/>
+	<Elem NameU="Electromagnetic Relay" Name="電磁繼電器"/>
+	<Elem NameU="Ticker-Tape Timer" Name="磁帶計時器"/>
+	<Elem NameU="Slide block" Name="滑塊"/>
+	<Elem NameU="Cantilever Beam" Number="6" Name="懸臂梁"/>
+	<Elem NameU="Simply Supported Beam" Name="簡支梁"/>
+	<Elem NameU="Overhanging Beam" Name="外伸梁"/>
+	<Elem NameU="Concentrated Load" Name="集中負載"/>
+	<Elem NameU="Uniformly Distributed Load" Name="均布負載"/>
+	<Elem NameU="Triangular Load" Name="三角負載"/>
+</Lib>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Shipping and Logistics">
+    <Elem NameU="Home Delivery Service 1" Name="送貨上門 1"/>
+    <Elem NameU="Customer Service" Name="客服"/>
+    <Elem NameU="Location" Name="定位"/>
+    <Elem NameU="Courier on Scooter" Name="快遞員騎電動車"/>
+    <Elem NameU="Courier" Name="快遞員"/>
+    <Elem NameU="Home Delivery 2" Name="送貨上門 2"/>
+    <Elem NameU="Courier with Delivery Cart" Name="快遞員推車"/>
+    <Elem NameU="Scanning Delivery Information" Name="掃描快遞信息"/>
+    <Elem NameU="Multifunction Barcode Reader" Name="掃碼器"/>
+    <Elem NameU="Delivery Safety" Name="物流安全"/>
+    <Elem NameU="Carton Box" Name="紙箱"/>
+    <Elem NameU="Paper Express Envelope" Name="快遞包裝袋"/>
+    <Elem NameU="Logistics Basket" Name="貨籃"/>
+    <Elem NameU="24-hour Delivery Truck" Name="24小時運貨車"/>
+    <Elem NameU="Lifting Cargo Container" Name="吊起集裝箱"/>
+    <Elem NameU="Ocean Shipping" Name="海運"/>
+    <Elem NameU="Plane" Name="飛機"/>
+    <Elem NameU="Helicopter" Name="直升機"/>
+    <Elem NameU="Barcode" Name="條形碼"/>
+    <Elem NameU="Checklist" Name="清單"/>
+    <Elem NameU="Telephone Counseling 1" Name="電話咨詢 1"/>
+    <Elem NameU="Telephone Counseling 2" Name="電話咨詢 2"/>
+    <Elem NameU="Timer" Name="計時器"/>
+    <Elem NameU="Scale Cart" Name="推式電子秤"/>
+    <Elem NameU="Platform Cart Delivery" Name="平板推車運貨"/>
+    <Elem NameU="Forklift" Name="叉車"/>
+    <Elem NameU="Conveyer Belt" Name="傳送帶"/>
+    <Elem NameU="Goods Shelf" Name="貨架"/>
+    <Elem NameU="Warehouse" Name="倉庫"/>
+    <Elem NameU="Product location inquiry" Name="產品位置查詢"/>
+    <Elem NameU="Station" Name="車站"/>
+    <Elem NameU="Dispatch" Name="派遣"/>
+    <Elem NameU="Fresh delivery" Name="新交貨"/>
+    <Elem NameU="Fresh Receipt" Name="新收據"/>
+    <Elem NameU="Customs declaration" Name="報關單"/>
+    <Elem NameU="Inspection" Name="檢查"/>
+    <Elem NameU="Warehouse picking" Name="倉庫領料"/>
+    <Elem NameU="Guaranteed timeliness" Name="保證的及時性"/>
+    <Elem NameU="Protect goods" Name="保護貨物"/>
+    <Elem NameU="Protection" Name="保護"/>
+    <Elem NameU="International logistics" Name="國際物流"/>
+    <Elem NameU="Freight accounting" Name="運費會計"/>
+    <Elem NameU="Goods to be transported" Name="待運貨物"/>
+    <Elem NameU="Customs loading" Name="海關裝貨"/>
+    <Elem NameU="Cargo insurance" Name="貨物保險"/>
+    <Elem NameU="Fragile goods" Name="易碎品"/>
+    <Elem NameU="Goods sorting" Name="貨物分類"/>
+</Lib>

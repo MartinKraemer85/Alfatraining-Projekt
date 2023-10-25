@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="3D Landmarks">
+    <Elem NameU="North" Number="2" Name="북"/>
+    <Elem NameU="Direction" Name="방향"/>
+    <Elem NameU="Airport" Name="공항"/>
+    <Elem NameU="Apartment" Name="아파트"/>
+    <Elem NameU="Bank" Name="은행"/>
+    <Elem NameU="Bridge" Name="다리"/>
+    <Elem NameU="Building" Name="건물"/>
+    <Elem NameU="City" Name="도시"/>
+    <Elem NameU="City 2" Name="도시 2"/>
+    <Elem NameU="Church" Name="교회"/>
+    <Elem NameU="Convenience Store" Name="편의점"/>
+    <Elem NameU="Factory" Name="공장"/>
+    <Elem NameU="Factory 2" Name="공장 2"/>
+    <Elem NameU="Fire Department" Name="소방서"/>
+    <Elem NameU="Gas Station" Name="주유소"/>
+    <Elem NameU="Hospital" Name="병원"/>
+    <Elem NameU="Hotel" Name="호텔"/>
+    <Elem NameU="Motel" Name="모텔"/>
+    <Elem NameU="Office Building" Name="오피스 빌딩"/>
+    <Elem NameU="Office Building 2" Name="오피스 빌딩 2"/>
+    <Elem NameU="Police Office" Name="경찰서"/>
+    <Elem NameU="School" Name="학교"/>
+    <Elem NameU="Skyscraper" Name="마천루"/>
+    <Elem NameU="Small House" Name="작은 집"/>
+    <Elem NameU="Suburban Home" Name="교외 집"/>
+    <Elem NameU="Supermarket" Name="슈퍼마켓"/>
+    <Elem NameU="Stadium" Name="경기장"/>
+    <Elem NameU="Town Hall" Name="시청"/>
+    <Elem NameU="Town House" Name="타운하우스"/>
+    <Elem NameU="Train Station" Name="기차역"/>
+    <Elem NameU="Warehouse" Name="창고"/>
+    <Elem NameU="Wharf" Name="부두"/>
+    <Elem NameU="Park" Name="공원"/>
+    <Elem NameU="River" Name="강"/>
+    <Elem NameU="Lake" Name="호수"/>
+    <Elem NameU="Ocean" Name="바다"/>
+    <Elem NameU="Tree" Name="나무"/>
+    <Elem NameU="Tree 2" Name="나무 2"/>
+    <Elem NameU="Stop Light" Name="신호등"/>
+    <Elem NameU="Scale" Name="눈금"/>
+    <Elem NameU="Scale 2" Name="눈금 2"/>
+    <Elem NameU="Callout" Name="설명선"/>
+</Lib>

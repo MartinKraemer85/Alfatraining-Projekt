@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="GCP Compute">
+
+<Elem Name="Procédure d'application" NameU="App procedure"/>
+
+<Elem Name="Fonctionnalité cloud" NameU="Cloud functionality"/>
+
+<Elem Name="Procédure de calcul" NameU="Computational procedure"/>
+
+<Elem Name="Système de Gestion" NameU="Manager system"/>
+
+<Elem Name="Gestionnaire d'optimisation OS" NameU="Manager optimization OS"/>
+
+<Elem Name="GPU" NameU="GPU"/>
+
+</Lib>

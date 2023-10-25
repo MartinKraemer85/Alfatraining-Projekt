@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Blowers">
+    <Elem NameU="3-D ISA Blower" Name="3-D工業標準結構鼓風機"/>
+    <Elem NameU="Air compressor" Number="2" Name="空氣壓縮機"/>
+    <Elem NameU="Blower" Name="鼓風機"/>
+    <Elem NameU="Centrifugal air blower" Name="離心鼓風機"/>
+    <Elem NameU="Fan-powered terminal unit" Name="風機動力型終端設備"/>
+    <Elem NameU="Fiberglass fan air" Name="玻璃纖維風扇"/>
+    <Elem NameU="Fume exhauster" Name="抽煙機"/>
+    <Elem NameU="Gas pump" Name="氣泵"/>
+    <Elem NameU="Gray shaded fan" Name="灰色陰影風扇"/>
+    <Elem NameU="HVAC compressor" Name="HVAC壓縮機"/>
+    <Elem NameU="Inline air filter" Name="內聯空氣過濾器"/>
+    <Elem NameU="Mixed flow inline fan" Name="混流內聯風扇"/>
+    <Elem NameU="Plastic blower" Name="塑料風機"/>
+    <Elem NameU="Pressure blower" Name="高壓鼓風機"/>
+    <Elem NameU="radial fume exhauster" Name="徑向通風抽風機"/>
+    <Elem NameU="Reciprocating compressor" Name="往復式壓縮機"/>
+    <Elem NameU="Regenerative blower" Name="回熱鼓風機"/>
+    <Elem NameU="Simple blower" Name="簡易式鼓風機"/>
+    <Elem NameU="Turbo blower" Name="渦輪鼓風機"/>
+    <Elem NameU="Vaneaxial fan" Name="葉片軸流式扇風機"/>
+    <Elem NameU="Vortex blower" Name="漩渦風機"/>
+    <Elem NameU="Draught Fan" Name="通風風扇"/>
+    <Elem NameU="Draught fan" Number="2" Name="通風風扇"/>
+    <Elem NameU="Dilution air blower" Name="稀釋風機"/>
+    <Elem NameU="Airlock" Name="氣閘"/>
+    <Elem NameU="Pressure fan" Name="壓風機"/>
+    <Elem NameU="Blower room" Name="鼓風機室"/>
+    <Elem NameU="Flue Gas Induced Fan " Name="煙氣引風機"/>
+    <Elem NameU="Compressor" Name="壓縮機"/>
+    <Elem NameU="Compressor Unit" Name="壓縮機組"/>
+    <Elem NameU="Filter press" Name="壓濾機"/>
+</Lib>

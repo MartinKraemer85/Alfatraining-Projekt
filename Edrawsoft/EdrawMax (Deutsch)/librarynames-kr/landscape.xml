@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Landscape">
+    <Elem NameU="Great Wall" Name="만리장성"/>
+    <Elem NameU="Volcano" Name="화산"/>
+    <Elem NameU="Snow Mountain" Name="설산"/>
+    <Elem NameU="Desert" Name="사막"/>
+    <Elem NameU="Mountains" Name="산악"/>
+    <Elem NameU="Lakes" Name="호수"/>
+    <Elem NameU="Forest" Name="숲"/>
+    <Elem NameU="Waterfall 1" Name="폭포1"/>
+    <Elem NameU="Waterfall 2" Name="폭포2"/>
+    <Elem NameU="Stream" Name="강"/>
+    <Elem NameU="Sunrise" Name="일출"/>
+    <Elem NameU="Beach 1" Name="해변1"/>
+    <Elem NameU="Beach 2" Name="해변2"/>
+    <Elem NameU="Beach 3" Name="해변3"/>
+    <Elem NameU="Holiday Bungalow" Name="홀리데이 별장"/>
+    <Elem NameU="Castle" Name="캐슬"/>
+    <Elem NameU="Windmill" Name="풍차"/>
+    <Elem NameU="Park" Name="공원"/>
+    <Elem NameU="Stone Bridge" Name="돌다리"/>
+    <Elem NameU="Amusement Park" Name="놀이 공원"/>
+    <Elem NameU="Lake Park" Name="호수 공원"/>
+    <Elem NameU="Village" Name="마을"/>
+    <Elem NameU="Beijing Bird's Nest Stadium" Name="베이징 올림픽 파크"/>
+    <Elem NameU="Taj Mahal" Name="타지마할"/>
+    <Elem NameU="Sydney Opera House" Name="시드니 오페라 하우스"/>
+    <Elem NameU="Eiffel Tower" Name="에펠탑"/>
+    <Elem NameU="Pisa Leaning Tower" Name="피사사탑"/>
+</Lib>

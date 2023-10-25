@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="AWS Group Icons">
+	<Elem NameU="Auto-Scaling" Name="Usuário"/>
+	<Elem NameU="AWS-Cloud" Name="Nuvem AWS"/>
+	<Elem NameU="AWS-Cloud-alt" Name="Alternativa de nuvem AWS"/>
+	<Elem NameU="AWS-Step-Function" Name="Função passo a passo da AWS"/>
+	<Elem NameU="Corporate-data-center" Name="Data Center Corporativo"/>
+	<Elem NameU="EC2-instance-container" Name="Contêiner de instância EC2"/>
+	<Elem NameU="Elastic-Beanstalk-container" Name="Contêiner de instância EC2"/>
+	<Elem NameU="Region" Name="Região"/>
+	<Elem NameU="Server-contents" Name="Conteúdo do servidor"/>
+	<Elem NameU="Spot-fleet" Name="Local da Frota"/>
+	<Elem NameU="Virtual-private-cloud-VPC" Name="Nuvem Privada Virtual VPC"/>
+	<Elem NameU="VPC-subnet-private" Name="Sub-rede VPC dedicada"/>
+	<Elem NameU="VPC-subnet-public" Name="Sub-rede VPC pública"/>
+</Lib>

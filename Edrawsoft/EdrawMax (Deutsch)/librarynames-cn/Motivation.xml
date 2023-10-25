@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Motivation">
+	<Elem NameU="Stakeholder" Name="利益相关者"/>
+	<Elem NameU="Driver" Name="驱动因素"/>
+	<Elem NameU="Assessment" Name="评估"/>
+	<Elem NameU="Goal" Name="目标"/>
+	<Elem NameU="Outcome" Name="结果"/>
+	<Elem NameU="Principle" Name="原则"/>
+	<Elem NameU="Requirement" Name="要求"/>
+	<Elem NameU="Constraint" Name="约束"/>
+	<Elem NameU="Influence" Name="影响"/>
+	<Elem NameU="Meaning" Name="意义"/>
+	<Elem NameU="Value" Name="价值"/>
+</Lib>

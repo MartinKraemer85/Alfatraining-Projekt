@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib nameU="UML Communication Diagram">
+	<Elem NameU="Object" Name="Objet"/>
+	<Elem NameU="Actor" Name="Acteur"/>
+	<Elem NameU="Message" Name="Message"/>
+</Lib>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="CCTV Equipment">
+    <Elem NameU="Black monitor" Name="黑色摄像头"/>
+    <Elem NameU="White monitor" Name="白色摄像头"/>
+    <Elem NameU="Security camera" Name="摄像机"/>
+    <Elem NameU="Dome Camera" Name="半球形摄像机"/>
+    <Elem NameU="Ball Machine" Name="球形摄像头"/>
+    <Elem NameU="Infrared light 1" Name="红外灯 1"/>
+    <Elem NameU="Infrared light 2" Name="红外灯 2"/>
+    <Elem NameU="IPC" Name="工控机"/>
+    <Elem NameU="Alarm" Name="警报器"/>
+    <Elem NameU="Alarm 2" Name="警报器 2"/>
+    <Elem NameU="Smoke alarm" Name="烟雾警报器"/>
+    <Elem NameU="Monitor" Name="警报器"/>
+    <Elem NameU="DVR" Name="数字视频录像机"/>
+    <Elem NameU="DVR 2" Name="硬盘录像机 2"/>
+    <Elem NameU="Security Peripherals 1" Name="安全外设 1"/>
+    <Elem NameU="Security Peripherals 2" Name="安全外设 2"/>
+    <Elem NameU="ATM" Name="自动取款机"/>
+    <Elem NameU="Monitors" Name="监视器"/>
+    <Elem NameU="TV wall" Name="TV 墙"/>
+</Lib>

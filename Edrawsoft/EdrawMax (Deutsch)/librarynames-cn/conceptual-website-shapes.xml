@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Conceptual Website Shapes">
+    <Elem NameU="Main page" Name="主页"/>
+    <Elem NameU="Page" Name="网页"/>
+    <Elem NameU="Pages" Name="网页（多页）"/>
+    <Elem NameU="External page" Name="外部网页"/>
+    <Elem NameU="Page element" Name="页面元素"/>
+    <Elem NameU="Page elements" Name="页面元素"/>
+    <Elem NameU="External page element" Name="外部页面元素"/>
+    <Elem NameU="Service" Name="服务"/>
+    <Elem NameU="Database" Name="数据库"/>
+    <Elem NameU="Popup" Name="弹出窗口"/>
+    <Elem NameU="Form" Name="表格"/>
+    <Elem NameU="Cloud" Name="云"/>
+    <Elem NameU="Related pages" Name="相关网页"/>
+    <Elem NameU="Dynamic connector" Name="动态连接点"/>
+    <Elem NameU="Home page" Name="主页"/>
+    <Elem NameU="Page jump" Name="页面跳转"/>
+    <Elem NameU="Gateway" Name="网关"/>
+    <Elem NameU="Keypath" Name="关键路径"/>
+</Lib>

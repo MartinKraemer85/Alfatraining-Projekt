@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Pyramid Chart">
+    <Elem NameU="Basic Pyramid" Name="기본 피라미드"/>
+    <Elem NameU="Inverted Basic Pyramid" Name="역피라미드형"/>
+    <Elem NameU="Pyramid" Name="피라미드"/>
+    <Elem NameU="Pyramid 2" Name="피라미드 2"/>
+    <Elem NameU="Inverted Pyramid" Name="역 피라미드"/>
+    <Elem NameU="Inverted Pyramid 2" Name="역 피라미드 2"/>
+    <Elem NameU="Gradient Pyramid" Name="그라데이션 피라미드"/>
+    <Elem NameU="Pyramid 3" Name="피라미드 3"/>
+    <Elem NameU="3D Pyramid" Name="3D피라미드"/>
+    <Elem NameU="Inverted 3D Pyramid" Name="역 3D피라미드"/>
+    <Elem NameU="3D Pyramid 2" Name="3D 피라미드 2"/>
+    <Elem NameU="3D Pyramid 3" Name="3D피라미드 3"/>
+    <Elem NameU="Pyramid 4" Name="피라미드 4"/>
+    <Elem NameU="Inverted Pyramid 3" Name="역 3D피라미드 3"/>
+    <Elem NameU="Triangle Pyramid" Name="삼각형 피라미드"/>
+    <Elem NameU="Triangle Pyramid 2" Name="삼각형 피라미드 2"/>
+    <Elem NameU="Circle Pyramid" Name="원형 피라미드"/>
+    <Elem NameU="Inverted Circle Pyramid" Name="역 원형 피라미드"/>
+    <Elem NameU="Custom Pyramid" Name="사용자 지정 피라미드"/>
+</Lib>

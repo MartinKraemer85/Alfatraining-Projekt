@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Birthday">
+    <Elem NameU="Cake" Name="蛋糕"/>
+    <Elem NameU="Rabbit" Name="兔子"/>
+    <Elem NameU="Cake" Name="蛋糕"/>
+    <Elem NameU="Cupcake" Number="4" Name="紙杯蛋糕"/>
+    <Elem NameU="Bear" Name="熊"/>
+    <Elem NameU="Birthday Greeting" Name="生日賀詞"/>
+    <Elem NameU="Heart" Name="愛心"/>
+    <Elem NameU="Flower" Number="2" Name="花"/>
+    <Elem NameU="Cake" Name="蛋糕"/>
+    <Elem NameU="Diamond" Name="鑽石"/>
+    <Elem NameU="Heart Shaped Box" Name="心形盒"/>
+    <Elem NameU="Camera" Name="照相機"/>
+    <Elem NameU="Cheers" Number="2" Name="乾杯"/>
+    <Elem NameU="Gift" Name="禮物"/>
+    <Elem NameU="Candle" Name="蠟燭"/>
+    <Elem NameU="Balloon" Name="氣球"/>
+    <Elem NameU="Bunting" Name="彩旗"/>
+    <Elem NameU="Camera" Name="照相機"/>
+    <Elem NameU="Cheers" Name="乾杯"/>
+    <Elem NameU="Wine Bottle" Name="酒瓶"/>
+    <Elem NameU="Letter" Number="2" Name="字母"/>
+    <Elem NameU="Candle" Name="蠟燭"/>
+    <Elem NameU="Guitar" Name="吉他"/>
+    <Elem NameU="Fruit Juice" Number="2" Name="果汁"/>
+    <Elem NameU="Medal" Name="獎章"/>
+    <Elem NameU="Ice Cream" Name="冰淇淋"/>
+    <Elem NameU="Mask" Number="2" Name="面具"/>
+    <Elem NameU="Donut" Name="甜甜圈"/>
+    <Elem NameU="Ice Cream" Name="冰淇淋"/>
+    <Elem NameU="Birthday Hat" Number="6" Name="生日帽"/>
+    <Elem NameU="Candy" Name="糖果"/>
+    <Elem NameU="Firecracker" Name="鞭炮"/>
+    <Elem NameU="Surprise" Name="驚喜"/>
+    <Elem NameU="Balloon" Name="氣球"/>
+    <Elem NameU="Magic Wand" Number="2" Name="魔法棒"/>
+    <Elem NameU="Donut" Number="2" Name="甜甜圈"/>
+    <Elem NameU="Star" Number="3" Name="星星"/>
+    <Elem NameU="Balloon" Name="氣球"/>
+    <Elem NameU="Birthday Crown" Number="2" Name="生日皇冠"/>
+    <Elem NameU="Moustache" Name="小鬍子"/>
+    <Elem NameU="Gift" Name="禮物"/>
+    <Elem NameU="Candle Glasses" Number="2" Name="蠟燭杯"/>
+    <Elem NameU="Gift" Number="5" Name="禮物"/>
+    <Elem NameU="Chocolate Cake" Name="巧克力蛋糕"/>
+    <Elem NameU="Birthday Cake" Number="4" Name="生日蛋糕"/>
+    <Elem NameU="Cupcake" Number="7" Name="紙杯蛋糕"/>
+    <Elem NameU="Birthday Cake" Number="3" Name="生日蛋糕"/>
+    <Elem NameU="Peach" Name="壽桃"/>
+    <Elem NameU="Candy" Number="3" Name="糖果"/>
+    <Elem NameU="Wine Glass" Name="酒杯"/>
+    <Elem NameU="Wine" Name="酒"/>
+    <Elem NameU="Lollipop" Number="10" Name="棒棒糖"/>
+    <Elem NameU="Birthday Surprise" Name="生日驚喜"/>
+    <Elem NameU="Ribbon" Number="2" Name="絲帶"/>
+    <Elem NameU="Bunting" Number="2" Name="彩旗"/>
+    <Elem NameU="Fireworks" Number="4" Name="煙花"/>
+    <Elem NameU="Happy Birthday" Name="生日快樂1"/>
+    <Elem NameU="Bunting" Name="彩旗"/>
+    <Elem NameU="Biscuits" Number="3" Name="餅乾"/>
+    <Elem NameU="Digital Candle" Number="10" Name="數字蠟燭"/>
+</Lib>

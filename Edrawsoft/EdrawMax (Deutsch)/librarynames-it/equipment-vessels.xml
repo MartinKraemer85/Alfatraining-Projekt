@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Equipment-Vessels">
+	<Elem NameU="Vertical vessel" Name="Contenitore verticale"/>
+	<Elem NameU="Horizontal vessel" Name="Contenitore orizzontale"/>
+	<Elem NameU="Jacketed mixing vessel (autoclave)" Name="Serbatoio di miscelazione rivestito (autoclave)"/>
+	<Elem NameU="Half pipe mixing vessel" Name="Serbatoio di miscelazione a mezzo tubo"/>
+	<Elem NameU="Column" Name="Colonna"/>
+	<Elem NameU="Tray column" Name="Colonna di supporto"/>
+	<Elem NameU="Tray column 2" Name="Colonna di supporto 2"/>
+	<Elem NameU="Tray column 3" Name="Colonna di supporto 3"/>
+	<Elem NameU="Fluidized bed column" Name="Colonna base fluidizzata"/>
+	<Elem NameU="Bubble cap trays column" Name="Colonna di supporto con piatti a campana"/>
+	<Elem NameU="Staggered baffle trays column" Name="Colonna di supporto con deflettore sfalsato"/>
+	<Elem NameU="Valve trays column" Name="Colonna di supporto per valvola"/>
+	<Elem NameU="Packing column" Name="Colonna di riempimento"/>
+	<Elem NameU="Packing column 2" Name="Colonna di riempimento 2"/>
+	<Elem NameU="Drum" Name="Separatore"/>
+	<Elem NameU="Knock-out drum" Name="Separatore COD"/>
+	<Elem NameU="Bag" Name="Borsa"/>
+	<Elem NameU="Bag (ISO)" Name="Borsa (ISO)"/>
+	<Elem NameU="Barrel" Name="Barile"/>
+	<Elem NameU="Barrel (ISO)" Name="Barile (ISO)"/>
+	<Elem NameU="Gas bottle" Name="Bombola del Gas"/>
+	<Elem NameU="Boiler" Name="Caldaia"/>
+	<Elem NameU="Dome boiler" Name="Caldaia a cupola"/>
+	<Elem NameU="Hot liquid boiler" Name="Caldaia con liquidi caldi"/>
+	<Elem NameU="Tank" Name="Cisterna"/>
+	<Elem NameU="Tank 2" Name="Cisterna 2"/>
+	<Elem NameU="Tank 3" Name="Cisterna 3"/>
+	<Elem NameU="Tank 4" Name="Cisterna 4"/>
+	<Elem NameU="Open tank" Name="Cisterna aperta"/>
+	<Elem NameU="Covered tank" Name="Cisterna coperta"/>
+	<Elem NameU="Floating roof tank" Name="Cisterna con tetto fluttuante"/>
+	<Elem NameU="Open bulk storage" Name="Magazzino aperto"/>
+	<Elem NameU="Dome roof tank" Name="Cisterna con tetto a cupola"/>
+	<Elem NameU="Cone roof tank" Name="Cisterna con tetto conico"/>
+	<Elem NameU="Internal floating roof tank" Name="Cisterna con tetto fluttuante interno"/>
+	<Elem NameU="Double wall tank" Name="Cisterna con parete doppia"/>
+	<Elem NameU="Onion tank" Name="Cisterna a cipolla"/>
+	<Elem NameU="Thermal insulation vessel" Name="Contenitore con isolamento termico"/>
+	<Elem NameU="Heating-cooling jacket vessel" Name="Contenitore termofrigorifero rivestito"/>
+	<Elem NameU="Brackets vessel" Name="Contenitore con supporti"/>
+	<Elem NameU="Dished ends vessel" Name="Contenitore con fondi bombati"/>
+	<Elem NameU="Pit vessel" Name="Contenitore con cavità"/>
+	<Elem NameU="Electrical heating vessel" Name="Imbarcazione elettricamente riscaldata"/>
+	<Elem NameU="Wastewater treatment" Name="Trattamento acque di scarico"/>
+	<Elem NameU="Bin" Name="Bidone"/>
+</Lib>

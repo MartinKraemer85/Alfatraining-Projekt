@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Pie and Doughnut Charts">
+    <Elem NameU="Pie Chart" Name="餅圖"/>
+    <Elem NameU="Gradient Pie Chart" Name="漸變色餅圖"/>
+    <Elem NameU="Pie Chart 2" Name="餅圖 2"/>
+    <Elem NameU="Pie Chart 3" Name="餅圖 3"/>
+    <Elem NameU="100% Gradient Pie Chart" Name="漸變百分比餅圖"/>
+    <Elem NameU="100% Gradient Pie Chart2" Name="漸變百分比餅圖 2"/>
+    <Elem NameU="Doughnut Chart 1" Name="環型圖 1"/>
+    <Elem NameU="100% Gradient Doughnut Chart" Name="百分比圓環圖"/>
+    <Elem NameU="100% Doughnut Chart" Name="百分比圓環圖"/>
+    <Elem NameU="Gradient Doughnut Chart 1" Name="漸變百分比環型圖"/>
+    <Elem NameU="Gradient Doughnut Chart 2" Name="漸變百分比環型圖 2"/>
+    <Elem NameU="Gradient Doughnut Chart 3" Name="漸變百分比環型圖 3"/>
+    <Elem NameU="Doughnut Chart 2" Name="環型圖 2"/>
+    <Elem NameU="Doughnut Chart 3" Name="環型圖 3"/>
+    <Elem NameU="Doughnut Chart 4" Name="環型圖 4"/>
+    <Elem NameU="Doughnut Chart 5" Name="環型圖 5"/>
+    <Elem NameU="Rose Chart 1" Name="玫瑰圖1"/>
+    <Elem NameU="Rose Chart 2" Name="玫瑰圖2"/>
+    <Elem NameU="Gradient Rose Chart 1" Name="漸變玫瑰圖1"/>
+    <Elem NameU="Gradient Rose Chart 2" Name="漸變玫瑰圖2"/>
+    <Elem NameU="Gradient Rose Chart 3" Name="漸變玫瑰圖3"/>
+    <Elem NameU="Rose Chart 3" Name="玫瑰圖3"/>
+    <Elem NameU="Gradient Rose Chart 4" Name="梯度玫瑰圖4"/>
+</Lib>

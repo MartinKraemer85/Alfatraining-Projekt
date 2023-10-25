@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Snacks">
+    <Elem NameU="Candy 1" Name="캔디 1"/>
+    <Elem NameU="Candy 2" Name="캔디 2"/>
+    <Elem NameU="Marshmallow 1" Name="마시멜로 1"/>
+    <Elem NameU="Marshmallow 2" Name="마시멜로 2"/>
+    <Elem NameU="Chocolate 1" Name="쵸콜렛 1"/>
+    <Elem NameU="Chocolate 2" Name="쵸콜렛 2"/>
+    <Elem NameU="Macarons" Name="마카롱"/>
+    <Elem NameU="Lollipop 1" Name="롤리팝 1"/>
+    <Elem NameU="Lollipop 2" Name="롤리팝 2"/>
+    <Elem NameU="Lollipop 3" Name="롤리팝 3"/>
+    <Elem NameU="Candy Cane" Name="캔디"/>
+    <Elem NameU="Christmas Candy" Name="크리스마스 캔디"/>
+    <Elem NameU="Cookie 1" Name="쿠키 1"/>
+    <Elem NameU="Cookie 2" Name="쿠키 2"/>
+    <Elem NameU="Biscuits" Name="과자"/>
+    <Elem NameU="Egg Yolk Puff" Name="에그 퍼프"/>
+    <Elem NameU="Cashew Nuts" Name="캐슈넛"/>
+    <Elem NameU="Peanut" Name="땅콩"/>
+    <Elem NameU="Macadamia Nuts" Name="마카다미아"/>
+    <Elem NameU="Chestnuts" Name="밤"/>
+    <Elem NameU="Walnuts" Name="호두"/>
+    <Elem NameU="Sunflower Seeds" Name="해바라기 씨"/>
+    <Elem NameU="Pistachio Nuts" Name="피스타치오"/>
+    <Elem NameU="Ice Lolly" Name="아이스 롤리"/>
+    <Elem NameU="Popsicle" Name="아이스 캔디"/>
+    <Elem NameU="Ice Cream 1" Name="아이스크림 1"/>
+    <Elem NameU="Ice Cream 2" Name="아이스크림 2"/>
+    <Elem NameU="Ice Cream 3" Name="아이스크림 3"/>
+    <Elem NameU="Ice Cream 4" Name="아이스크림 4"/>
+    <Elem NameU="Ice Cream 5" Name="아이스크림 5"/>
+    <Elem NameU="Jelly 1" Name="젤리 1"/>
+    <Elem NameU="Jelly 2" Name="젤리 2"/>
+    <Elem NameU="Potato Chips" Name="감자 칩"/>
+    <Elem NameU="Popcorn" Name="팝콘"/>
+    <Elem NameU="French Fries" Name="감자 튀김"/>
+    <Elem NameU="Candied Hawthorn Stick" Name="설탕 스틱"/>
+    <Elem NameU="Barbecue" Name="바비큐"/>
+</Lib>

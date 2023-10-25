@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Subway">
+    <Elem NameU="Metro line" Number="2" Name="지하철 선로"/>
+    <Elem NameU="Metro corner" Number="4" Name="지하철 코너"/>
+    <Elem NameU="Metro curve" Number="2" Name="지하철 곡선"/>
+    <Elem NameU="Station" Number="5" Name="역"/>
+    <Elem NameU="Transfer station" Number="4" Name="환승역"/>
+    <Elem NameU="Cross Station" Number="2" Name="교차역"/>
+    <Elem NameU="Cross station" Number="2" Name="교차역"/>
+    <Elem NameU="Label" Number="2" Name="레이블"/>
+    <Elem NameU="Subway" Name="지하철"/>
+    <Elem NameU="Airplane" Name="비행기"/>
+    <Elem NameU="Railway Station" Name="철도"/>
+    <Elem NameU="Bus Station" Name="버스역"/>
+</Lib>

@@ -14,6 +14,7 @@ Welcome to Plattenfreude's documentation! ;)
    Model
    HowToDocu
    Helper
+   Flow
 
 
 Indices and tables

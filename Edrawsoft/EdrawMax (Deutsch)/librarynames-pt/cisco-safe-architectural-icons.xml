@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Cisco Safe Architectural Icons">
+	<Elem NameU="ACI Controller" Name="Controlador ACI"/>
+	<Elem NameU="ACI Leaf Switch" Name="Interruptor de Folha ACI"/>
+	<Elem NameU="ACI Spine Switch" Name="Interruptor de Espinha ACI"/>
+	<Elem NameU="Adaptive Security Appliance" Name="Aparelho de Segurança Adaptativo"/>
+	<Elem NameU="Automated System" Name="Sistema Automatizado"/>
+	<Elem NameU="Blade Server" Name="Sevidor de Lâmina"/>
+	<Elem NameU="Catalyst Switch" Name="Catalyst Switch"/>
+	<Elem NameU="Corporate Device" Name="Dispositivo Corporativo"/>
+	<Elem NameU="Email Security" Name="Segurança de Email"/>
+	<Elem NameU="Fabric Switch" Name="Interruptor de Malha"/>
+	<Elem NameU="Firepower Appliance" Name="Aparelho de Poder"/>
+	<Elem NameU="Firewall" Name="Firewall"/>
+	<Elem NameU="Generic Appliance" Name="Aparelho Genérico"/>
+	<Elem NameU="Intrusion Detection" Name="Deteção de Intrusos"/>
+	<Elem NameU="Load Balancer" Name="Balanceador de Carga"/>
+	<Elem NameU="Nexus Switch" Name="Nexus Switch"/>
+	<Elem NameU="Nexus Data Center Switch" Name="Centro de Dados Nexus Switch"/>
+	<Elem NameU="Nexus Fabric Switch" Name="Interruptor de Malha Nexus"/>
+	<Elem NameU="Nexus 1kv" Name="Nexus 1kv"/>
+	<Elem NameU="Phone" Name="Telefone"/>
+	<Elem NameU="Router" Name="Roteador"/>
+	<Elem NameU="Stacked Switch" name=""/>
+	<Elem NameU="Secure Server" Name="Servidor Seguro"/>
+	<Elem NameU="Server" Name="Servidor"/>
+	<Elem NameU="Storage" Name="Armazenamento"/>
+	<Elem NameU="Switch" Name="Switch"/>
+	<Elem NameU="L3 Switch" Name="Switch L3"/>
+	<Elem NameU="TLS Appliance" Name="Aparelho TLS"/>
+	<Elem NameU="Unified Access Switch" Name="Interruptor de Acesso Unificado"/>
+	<Elem NameU="Web Application Firewall" Name="Firewall de Aplicação Web"/>
+	<Elem NameU="Web Security" Name="Segurança Web"/>
+	<Elem NameU="Wide Area Application Engine (WAE)" Name="Motor de Aplicação de Área Abrangente (WAE)"/>
+	<Elem NameU="Wireless Access Point" Name="Ponto de Acesso Sem Fios"/>
+	<Elem NameU="Wireless LAN Controller" Name="Controlador de LAN Sem Fios"/>
+</Lib>

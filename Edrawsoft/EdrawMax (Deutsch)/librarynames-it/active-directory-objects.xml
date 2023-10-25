@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Active Directory Objects">
+	<Elem NameU="Domain" Name="Dominio"/>
+	<Elem NameU="Computer" Name="Computer"/>
+	<Elem NameU="User" Name="Utente"/>
+	<Elem NameU="Group" Name="Gruppo"/>
+	<Elem NameU="Container" Name="Contenitore"/>
+	<Elem NameU="Print Queue" Name="Coda di Stampa"/>
+	<Elem NameU="Contact" Name="Contatti"/>
+	<Elem NameU="Organizational Unit" Name="Unità Organizzativa"/>
+	<Elem NameU="Policy" Name="Policy"/>
+	<Elem NameU="Volume" Name="Volume"/>
+	<Elem NameU="Generic object" Name="Oggetto generico"/>
+	<Elem NameU="Server" Name="Server"/>
+	<Elem NameU="Site" Name="Sito"/>
+	<Elem NameU="Site link" Name="Link sito"/>
+	<Elem NameU="Site link bridge" Name="Ponte di link sito"/>
+	<Elem NameU="NTDS site settings" Name="Impostazioni NTDS del sito"/>
+	<Elem NameU="IP subnet" Name="Subnet IP"/>
+	<Elem NameU="Certificate Template" Name="Modello di Certificato"/>
+	<Elem NameU="Licensing Site" Name="Licenza Sito"/>
+	<Elem NameU="Connection" Name="Connessione"/>
+	<Elem NameU="Directory Connector" Name="Connettore Directory"/>
+</Lib>

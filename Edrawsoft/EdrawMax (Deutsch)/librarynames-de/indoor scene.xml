@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Indoor Scene">
+	<Elem NameU="Wall" Name="Wand"/>
+	<Elem NameU="Door" Name="Tür"/>
+	<Elem NameU="L-Shaped Room 1" Name="L-förmiger Raum 1"/>
+	<Elem NameU="L-Shaped Room 2" Name="L-förmiger Raum 2"/>
+	<Elem NameU="Double Doors" Name="Doppeltüren"/>
+	<Elem NameU="Oval Dining Table" Name="Ovaler Esstisch"/>
+	<Elem NameU="Chair" Name="Stuhl"/>
+	<Elem NameU="Bunk Bed" Name="Etagenbett"/>
+	<Elem NameU="Double Bed 1" Name="Doppelbett 1"/>
+	<Elem NameU="Double Bed 2" Name="Doppelbett 2"/>
+	<Elem NameU="Rectangular Dining Table" Name="Rechteckiger Esstisch"/>
+	<Elem NameU="Light" Name="Licht"/>
+	<Elem NameU="Table Lamp" Name="Tischleuchte"/>
+	<Elem NameU="Wall" Name="Wand"/>
+	<Elem NameU="Square Dining Table" Name="Quadratischer Esstisch"/>
+	<Elem NameU="Sofa" Name="Sofa"/>
+	<Elem NameU="King Size Bed" Name="King Size-Bett"/>
+	<Elem NameU="Cabinet" Name="Schrank"/>
+	<Elem NameU="Double Chair" Name="Sofa"/>
+	<Elem NameU="Recliner Chair" Name="Liegestuhl"/>
+	<Elem NameU="Stool" Name="Hocker"/>
+	<Elem NameU="Armchair" Name="Sessel"/>
+	<Elem NameU="Round Table" Name="Runder Tisch"/>
+	<Elem NameU="Table Tennis Table" Name="Tischtennisplatte"/>
+	<Elem NameU="Grand Piano" Name="Flügel"/>
+	<Elem NameU="Small Upright Piano" Name="Kleines Klavier"/>
+	<Elem NameU="Palm Plant" Name="Palme"/>
+	<Elem NameU="Bedside Table" Name="Nachttisch"/>
+	<Elem NameU="Double Dresser" Name="Zweiteilige Kommode"/>
+	<Elem NameU="Triple Dresser" Name="Dreiteilige Kommode"/>
+	<Elem NameU="Desk" Name="Schreibtisch"/>
+	<Elem NameU="TV Cabinet" Name="Fernsehschrank"/>
+	<Elem NameU="TV(Top View)" Name="Fernseher (von oben)"/>
+	<Elem NameU="Single Bed" Name="Einzelbett"/>
+	<Elem NameU="Window" Name="Fenster"/>
+	<Elem NameU="Sink 1" Name="Waschbecken 1"/>
+	<Elem NameU="Sink 2" Name="Waschbecken 2"/>
+	<Elem NameU="Sink 3" Name="Waschbecken 3"/>
+	<Elem NameU="Reference Point" Name="Referenzpunkt"/>
+	<Elem NameU="Shower Cubicle" Name="Duschkabine"/>
+	<Elem NameU="Bathtub 1" Name="Badewanne 1"/>
+	<Elem NameU="Bathtub 2" Name="Badewanne 2"/>
+	<Elem NameU="Oval Bathtub" Name="Ovale Badewanne"/>
+	<Elem NameU="Flush Toilet 1" Name="Toilette 1"/>
+	<Elem NameU="Flush Toilet 2" Name="Toilette 2"/>
+	<Elem NameU="Sink With Base 1" Name="Spüle mit Unterbau 1"/>
+	<Elem NameU="Sink With Base 2" Name="Spüle mit Unterbau 2"/>
+	<Elem NameU="Countertop Sink" Name="Spüle der Arbeitsfläche"/>
+	<Elem NameU="Compass" Name="Kompass"/>
+	<Elem NameU="Bidet" Name="Bidet"/>
+</Lib>

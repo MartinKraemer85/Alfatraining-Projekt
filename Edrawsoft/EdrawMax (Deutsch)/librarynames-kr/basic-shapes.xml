@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="2D Block Diagram">
+    <Elem NameU="Rectangle" Name="사각형"/>
+	<Elem NameU="Rounded Rectangle" Name="둥근 사각형"/>
+	<Elem NameU="Circle" Name="원"/>
+	<Elem NameU="Triangle" Name="삼각형"/>
+	<Elem NameU="Diamond" Name="다이아몬드"/>
+	<Elem NameU="Arrow" Name="화살"/>
+	<Elem NameU="Box Callout 1" Name="상자 설명 선 1"/>
+	<Elem NameU="Line" Name="선"/>
+	<Elem NameU="ConnectLine" Name="커넥트 라인"/>
+</Lib>

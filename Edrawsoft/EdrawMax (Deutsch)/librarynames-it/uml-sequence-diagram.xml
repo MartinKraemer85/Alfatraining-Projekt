@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="UML Sequence Diagram">
+	<Elem NameU="Object Lifeline" Name="Linea Vitale Oggetto"/>
+	<Elem NameU="Lifeline" Name="Linea Vitale"/>
+	<Elem NameU="Message" Name="Messaggio"/>
+	<Elem NameU="Message Return" Name="Messaggio di Ritorno"/>
+	<Elem NameU="Object Deletion" Name="Cancellazione Messaggio"/>
+	<Elem NameU="Self Delegation" Name="Auto-delega"/>
+	<Elem NameU="Note" Name="Nota"/>
+	<Elem NameU="Constraint" Name="Vincolo"/>
+	<Elem NameU="Actor" Name="Attore"/>
+	<Elem NameU="Actor Lifeline" Name="Linea Vitale Attore"/>
+	<Elem NameU="Sequence Object" Name="Oggetto di Sequenza"/>
+	<Elem NameU="Activation" Name="Attivazione"/>
+	<Elem NameU="Activation(break)" Name="Attivazione (interruzione)"/>
+	<Elem NameU="Package" Name="Pacchetto"/>
+	<Elem NameU="Alternative Fragment" Name="Frammento Alternativo"/>
+	<Elem NameU="Loop Fragment" Name="Frammento di Circuito"/>
+	<Elem NameU="Entity" Name="Entità"/>
+	<Elem NameU="Boundary" Name="Delimitazione"/>
+	<Elem NameU="Control" Name="Controllo"/>
+	<Elem NameU="Asynchronous Message" Name="Messaggio Asincrono"/>
+	<Elem NameU="Curve Self Delegation" Name="Auto-delega curva"/>
+	<Elem NameU="Choice Fragment" Name="Frammento di Scelta"/>
+	<Elem NameU="End Point" Name="Punto Finale"/>
+</Lib>

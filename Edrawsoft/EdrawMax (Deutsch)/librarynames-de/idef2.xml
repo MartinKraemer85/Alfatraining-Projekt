@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="IDEF2">
+
+<Elem Name="Prozess, Aktivitätsfeld" NameU="Process box"/>
+
+<Elem Name="Titelblock" NameU="Title block"/>
+
+<Elem Name="Bechriftung" NameU="N-type line"/>
+
+<Elem Name="Textblock" NameU="Text block"/>
+
+<Elem Name="Verbinder, 1 Abschnitt" NameU="1 legged connector"/>
+
+<Elem Name="IDEF0 Verbinder" NameU="Forking connector"/>
+
+<Elem Name="Hinweistext am Seiten" NameU="Side text callout"/>
+
+<Elem Name="Dynamischer Anschluss" NameU="Dynamic connector"/>
+
+</Lib>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Comparison Chart">
+	<Elem NameU="Blank Comparison Table" Name="빈 비교표"/>
+	<Elem NameU="Blank Comparison Table - Green" Name="빈 비교표 - 그린"/>
+	<Elem NameU="Blank Comparison Table - Dark Red" Name="빈 비교표 - 레드"/>
+	<Elem NameU="Comparison Table" Name="비교표"/>
+	<Elem NameU="Comparison Table 2" Name="비교표 2"/>
+	<Elem NameU="Product Comparison" Name="제품 비교표"/>
+	<Elem NameU="Yes/No" Name="예/아니요"/>
+	<Elem NameU="Check Box" Name="체크 박스"/>
+	<Elem NameU="Progress" Name="진행률"/>
+	<Elem NameU="Progress 2" Name="진행률 2"/>
+	<Elem NameU="Progress 3" Name="진행률 3"/>
+	<Elem NameU="Priority" Name="우선순위"/>
+	<Elem NameU="3-State Priority" Name="3 상태 우선순위"/>
+	<Elem NameU="3-State Alert" Name="3 상태 경보"/>
+	<Elem NameU="6-State Status" Name="6 상태 기호"/>
+	<Elem NameU="4-Direction Arrow" Name="4 방향 화살표"/>
+	<Elem NameU="4-Direction Arrow 2" Name="4 방향 화살표 2"/>
+	<Elem NameU="Progress Status" Name="진행 상황"/>
+	<Elem NameU="Trafic Light" Name="신호등"/>
+	<Elem NameU="Rating" Name="등급"/>
+	<Elem NameU="Quality" Name="퀄리티"/>
+	<Elem NameU="Lock/UnLock" Name="잠금/잠금해제"/>
+	<Elem NameU="10-State Flag" Name="10 상태 플래그"/>
+	<Elem NameU="12-State Flag" Name="12 상태 플래그"/>
+	<Elem NameU="Numbering" Name="숫자"/>
+	<Elem NameU="Message" Name="메세지"/>
+	<Elem NameU="Message 2" Name="메세지 2"/>
+	<Elem NameU="Spacing Bar" Name="간격바"/>
+</Lib>

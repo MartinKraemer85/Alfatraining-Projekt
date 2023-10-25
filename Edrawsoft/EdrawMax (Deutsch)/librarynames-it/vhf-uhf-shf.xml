@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="VHF-UHF-SHF">
+	<Elem NameU="Directional coupler" Name="Accoppiatore direzionale"/>
+	<Elem NameU="Mode suppressor" Name="Soppressore tono"/>
+	<Elem NameU="Mode filter" Name="Filtro tono"/>
+	<Elem NameU="Mode filter indication" Name="Indicatore filtro tono"/>
+	<Elem NameU="Discontinuity" Name="Discontinuità"/>
+	<Elem NameU="Equivalent series" Name="Serie equivalente"/>
+	<Elem NameU="Equivalent shunt" Name="Deviatore equivalente"/>
+	<Elem NameU="Capacitive reactance" Name="Reattanza capacitiva"/>
+	<Elem NameU="Inductive reactance" Name="Reattanza induttiva"/>
+	<Elem NameU="Inductance capacitance" Name="Capacitanza induttanza"/>
+	<Elem NameU="Resistance" Name="Resistenza"/>
+	<Elem NameU="E-H tuner" Name="Tuner E-H"/>
+	<Elem NameU="Conductance" Name="Conduttanza"/>
+	<Elem NameU="Inductive susceptance" Name="Suscettanza induttiva"/>
+	<Elem NameU="Capacitive susceptance" Name="Suscettanza capacitiva"/>
+	<Elem NameU="Slide screw tuner" Name="Tuner a viti scorrevoli"/>
+	<Elem NameU="Multistub tuner" Name="Tuner multi-matrice"/>
+	<Elem NameU="Power divider" Name="Divisore energetico"/>
+	<Elem NameU="Three-port junction" Name="Giunto a tre porte"/>
+	<Elem NameU="Four-port junction" Name="Giunto a quattro porte"/>
+	<Elem NameU="Rotary joint" Name="Giunto rotativo"/>
+	<Elem NameU="Isolator" Name="Isolatore"/>
+	<Elem NameU="Phase shifter" Name="Alteratore di fase"/>
+	<Elem NameU="Gyrator" Name="Giratore"/>
+	<Elem NameU="Circulator fixed" Name="Circolatore fisso"/>
+	<Elem NameU="Circulator reversible" Name="Circolatore reversibile"/>
+	<Elem NameU="Shortcut to Field polarization rotator" Name="Rotatore con polarizzazione di campo"/>
+	<Elem NameU="Field polarization amplitude modulator" Name="Modulatore ampiezza polarizzazione di campo"/>
+	<Elem NameU="Resonator" Name="Risonatore"/>
+	<Elem NameU="Slow-wave coupler" Name="Accoppiatore a onda lenta"/>
+	<Elem NameU="Helical coupler" Name="Accoppiatore a elica"/>
+	<Elem NameU="Balun" Name="Accoppiatore circolare"/>
+	<Elem NameU="Frequency filter" Name="Filtro di frequenza"/>
+	<Elem NameU="Phase shifter (matched)" Name="Alteratore di fase"/>
+	<Elem NameU="Ferrite bead ring" Name="Anello di ferrite"/>
+	<Elem NameU="Line stretcher" Name="Tendi-linea"/>
+	<Elem NameU="Maser" Name="Maser"/>
+	<Elem NameU="Maser amplifier" Name="Amplificatore maser"/>
+	<Elem NameU="Laser" Name="Laser"/>
+	<Elem NameU="Laser generator" Name="Generatore laser"/>
+	<Elem NameU="Ruby laser" Name="Laser a rubino"/>
+</Lib>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Physical">
+	<Elem NameU="Equipment" Name="Apparecchiatura"/>
+	<Elem NameU="Facility" Name="Struttura"/>
+	<Elem NameU="Distribution Network" Name="Rete di distribuzione"/>
+	<Elem NameU="Material" Name="Materiale"/>
+</Lib>

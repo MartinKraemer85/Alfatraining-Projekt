@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Cabinets and Bookcases">
+
+<Elem Name="作業台" NameU="Work surface"/>
+
+<Elem Name="コーナー作業テーブル" NameU="Corner surface"/>
+
+<Elem Name="独立型作業台" NameU="Island"/>
+
+<Elem Name="コーナーカウンター" NameU="Corner counter"/>
+
+<Elem Name="プラッターカウンター" NameU="Platter counter"/>
+
+<Elem Name="ベベルカウンター" NameU="Bevel counter"/>
+
+<Elem Name="ベントカウンター" NameU="Bent counter"/>
+
+<Elem Name="独立型作業テーブル" NameU="Work peninsula"/>
+
+<Elem Name="ベース キャビネット 3" NameU="Base end-shelf"/>
+
+<Elem Name="ベース キャビネット 4" NameU="Base corner"/>
+
+<Elem Name="ベース コーナー キャビネット" NameU="Base blind corner"/>
+
+<Elem Name="三角形のベース キャビネット" NameU="Base end angle"/>
+
+<Elem Name="本棚" NameU="Bookcase"/>
+
+<Elem Name="独立型エンドシェルフ" NameU="Peninsula end-shelf"/>
+
+<Elem Name="エンド シェルフ（ベース）" NameU="Wall end-shelf"/>
+
+<Elem Name="ベース コーナー キャビネット" NameU="Wall corner"/>
+
+<Elem Name="三角形のウォール キャビネット" NameU="Wall angle cabinet"/>
+
+<Elem Name="トラック端（角度付き）" NameU="Track end-bevel"/>
+
+<Elem Name="45度トラック" NameU="Track 45 deg."/>
+
+<Elem Name="ロッカー" NameU="Locker"/>
+
+<Elem Name="ハンドル" NameU="Handle"/>
+
+<Elem Name="ベース" NameU="Base"/>
+
+<Elem Name="引き出し" NameU="Drawer"/>
+
+<Elem Name="キャビネット" NameU="Cabinet"/>
+
+<Elem Name="キャビネット 2 引き出し" NameU="Cabinet 2 drawers"/>
+
+<Elem Name="ベース　半島" NameU="Base peninsula"/>
+
+<Elem Name="トラック コーナー" NameU="Track corner"/>
+
+<Elem Name="トレイ トラック" NameU="Tray track"/>
+
+</Lib>

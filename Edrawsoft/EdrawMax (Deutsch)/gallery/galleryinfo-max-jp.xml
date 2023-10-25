@@ -1,0 +1,1477 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Galleries Default="Basic Diagram">
+
+	<Galleries NameU="General" Name="ベーシック" Icon="./category/basic.png">
+	<Gallery NameU="Basic Diagram" Name="基本図" Version="1.0" Icon="./category/basic-diagrams.png" Description="事前定義されたテンプレートとシンボルを使用して、最もよく使われる基本的な図を作成します。">
+		
+		<Templates NameU="Block Diagram" Name="ブロック図" Icon="./basic-diagram/block-diagram.png" Description="帰還ループと機能分解、階層、データ構造、データフローブロック、データブロックなどを表現するための幾何学図形と矢印線が含まれています。">
+			<Library Path="./general/3d-block-diagram.edt" Name="3D幾何学図形"/>
+			<Library Path="./general/connectors.edt" Name="コネクタ"/>
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形"/>
+		</Templates>
+		
+		<Templates NameU="Arrows" Name="矢印" Icon="./basic-diagram/arrows.png" Description="プロジェクトやプロセスの必要なタスクの順序、プロジェクト全体のための最良なスケジュール、及び潜在的なスケジュールとリソースの問題とその解決策を示します。">
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形"/>
+			<Library Path="./general/arrow-shapes.edt" Name="矢印"/>
+		</Templates>
+			
+		<Templates NameU="Timelines" Name="タイムライン"  Icon="./basic-diagram/timeline.png" Description="Create your timeline diagrams online with Edraw Max">
+			<Library Path="./business/timeline.edt" Name="タイムライン"/>
+		</Templates>
+
+		<Templates NameU="Circle-Spoke Diagram" Name="サークル図"  Icon="./basic-diagram/circle-spoke-diagram.png" Description="同じレベルに分けられた各情報ブロックを示すために使用します。">
+			<Library Path="./business/circular-charting-shapes.edt" Name="サイクル図"/>
+		</Templates>
+
+		<Templates NameU="Circular Diagram" Name="サイクル図"  Icon="./basic-diagram/circular-diagram.png" Description="財務、販売報告書、損益計算書、予算、統計分析、会計業務、市場予測、及び年間報告書に使用するチャートやグラフが含まれています.">
+			<Library Path="./business/circular-charting-shapes.edt" Name="サイクル図"/>
+		</Templates>
+
+		<Templates NameU="Lists" Name="リスト"  Icon="./basic-diagram/lists.png" Description="連続のない情報ブロック、またはグループ化された情報ブロックを表示するために使用します。 図形の水平と垂直の両方の表示スペースを最大化にします。">
+			<Library Path="./business/list-shapes.edt" Name="リスト"/>
+		</Templates>		
+
+		<Templates NameU="Venn Diagram" Name="ベン図"  Icon="./basic-diagram/venn-diagram.png" Description="複数の集合の関係や、集合の範囲を視覚的に図式化に使用します。">
+			<Library Path="./business/venn-chart.edt" Name="ベン図"/>
+		</Templates>
+		
+		<Templates NameU="Presentation" Name="プレゼンテーション"  Icon="./basic-diagram/presentation.png" Description="Shows the required order of tasks in a project or process, the best schedule for the entire project, and potential scheduling and resource problems and their solutions">
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形"/>
+			<Library Path="./general/arrow-shapes.edt" Name="矢印"/>
+		</Templates>
+			
+	</Gallery>
+	
+	<Gallery NameU="Flowchart" Name="フローチャート" Version="1.0"  Icon="./category/flowchart.png"  Description="事前定義されたテンプレートとシンボルを使用して、様々なフローチャートを作成します。">
+		<Templates NameU="Basic Flowchart" Name="基本フローチャート"  Icon="./flowchart/basic-flowchart.png" Description="フローチャート、組織図、情報追跡図、工程計画図、構造予測図を作成します。">			
+			<Library Path="./general/arrow-shapes.edt" Name="矢印"/>
+			<Library Path="./general/callouts.edt" Name="吹き出し"/>
+			<Library Path="./flowchart/basic-flowchart-shapes.edt" Name="基本図形"/>
+		</Templates>
+
+		<Templates NameU="Data Flow Diagram" Name="データフロー図"  Icon="./flowchart/data-flow-diagram.png" Description="構造分析、情報の流れ、プロセス指向、データ指向、及びデータプロセスなどのデータフローチャートを作成します">
+			<Library Path="./flowchart/data-flow.edt" Name="データフロー"/>
+		</Templates>
+
+		<Templates NameU="Cross Functional Flowchart" Name="部門連係フローチャート"  Icon="./flowchart/cross-functional-vertical.png" Description="Show the relationship between a business process and the organizational or functional units, such as departments, that are responsible for steps in that process.">			
+			<Library Path="./flowchart/basic-flowchart-shapes.edt" Name="基本図形"/>
+			<Library Path="./flowchart/cross-functional-flowchart.edt" Name="部門連係フローチャート"/>
+		</Templates>
+
+		<Templates NameU="BPMN" Name="BPMN"  Icon="./flowchart/bpmn.png" Description="ビジネスプロセスモデリング表記法1.1標準に準じたフローチャートを作成します。">			
+			<Library Path="./general/callouts.edt" Name="吹き出し"/>		
+			<Library Path="./bpmn/bpmn-shapes.edt" Name="BPMN"/>
+		</Templates>
+
+		<Templates NameU="Event Flow Diagram" Name="イベントフロー図"  Icon="./flowchart/event-flow-diagram.png" Description="イベントとプロセスとの関係を説明します。">
+			<Library Path="./flowchart/event-flow-diagram.edt" Name="イベントフロー図"/>
+		</Templates>
+
+		<Templates NameU="IDEF Diagram" Name="IDEF図"  Icon="./flowchart/IDEF-diagram.png" Description="IDEFプロセスチャートを使用してモデルの階層図を作成し、モデルの構成管理、需要と利益の分析、要件の定義、継続的改善を行います。">
+			<Library Path="./flowchart/idef0.edt" Name="IDEF0"/>
+			<Library Path="./flowchart/idef2.edt" Name="IDEF2"/>
+		</Templates>
+
+		<Templates NameU="SDL Diagram" Name="SDL図"  Icon="./flowchart/SDL-diagram.png" Description=" CCITT仕様に基づき、仕様及び記述言語（SDL）を使用して、通信システム及びネットワークのオブジェクト指向の図を作成します。">
+			<Library Path="./flowchart/sdl-diagram.edt" Name="SDL図"/>
+		</Templates>
+
+		<Templates NameU="Workflow Diagram" Name="ワークフロー図"  Icon="./flowchart/workflow-diagram.png" Description="情報の流れ、ビジネスプロセスの自動化、ビジネスプロセスのリエンジニアリング、会計、管理、及び人的資源のタスクに関する図を作成します。 文書6シグマとISO 9000のプロセスにも適用されます。">
+			<Library Path="./flowchart/workflow-department.edt" Name="ワークフロー部門"/>
+			<Library Path="./flowchart/workflow-objects.edt" Name="ワークフローオの対象物"/>
+			<Library Path="./flowchart/workflow-steps.edt" Name="ワークフローの手順"/>
+		</Templates>
+		
+		<Templates NameU="Audit Diagram" Name="監査図" Icon="./flowchart/audit-diagram.png" Description="会計、財務管理、財務情報の追跡、資金管理、意思決定フローチャート、及び財務在庫の監査図を作成します。文書6シグマとISO 9000のプロセスにも適用されます。">
+			<Library Path="./finance/audit-flow-diagram.edt" Name="監査フロー図"/>
+		</Templates>	
+		
+	</Gallery>
+	
+	<Gallery NameU="Mind Map" Name="マインドマップ" Version="1.0" Icon="./category/mind-maps.png" Description="事前定義されたテンプレートとシンボルを使用して、様々なタイプのマインドマップを作成します。">
+		<Templates NameU="mindmap" Name="マインドマップ"  Icon="./mind-map/mind-map.png" Description="ブレーンストーミング、問題解決、合理的分析、意思決定のためのマインドマップ（思考プロセスの図形表現）を作成します。">
+			<Library Path="./mind-map/brainstorming.edt" Name="ブレーンストーミング"/>
+			<Library Path="./mind-map/mind-map-shapes.edt" Name="マインドマップ図形"/>
+		</Templates>		
+			
+		<Templates NameU="Concept Map" Name="コンセプトマップ"  Icon="./mind-map/concept-map.png" Description="Create mind maps (graphical representations of thought processes) for brainstorming, problem solving, rational analysis, and decision marking.">
+			<Library Path="./mind-map/concept-map.edt" Name="コンセプトマップ"/>
+		</Templates>
+		
+		<Templates NameU="Bubble Diagram" Name="バブル図"  Icon="./mind-map/bubble-diagram.png" Description="Create mind maps (graphical representations of thought processes) for brainstorming, problem solving, rational analysis, and decision marking.">
+			<Library Path="./mind-map/bubble-shapes.edt" Name="バブル図"/>
+		</Templates>
+		
+	</Gallery>
+	
+	<Gallery NameU="Organizational Chart" Name="組織図" Version="1.0" Icon="./category/organization-chart.png" Description="事前定義されたテンプレートとシンボルを使用して組織図を作成します。">
+		<Templates NameU="Org Chart(Automated)" Name="組織図（自動）"  Icon = "./organization-chart/organization-chart.png" Description="Create organizational chart for human resources management, staff organization, office administration, and management structures.">
+			<Library Path="./organization-chart/organization-chart-shapes.edt" Name="組織図（自動）" />
+		</Templates>	
+
+		<Templates NameU="Org Chart(Manual)" Name="組織図（手動）"  Icon = "./organization-chart/custom-organization-chart.png" Description="Create your organizational structure PPT presentation with built-in templates in Edraw Max">			
+			<Library Path="./organization-chart/organization-structure.edt" Name="組織図（手動）" />
+		</Templates>
+
+		<Templates NameU="Family Tree" Name="ジェノグラム（家系図）"  Icon="./organization-chart/family-tree.png" Description="Create your organizational structure PPT presentation with built-in templates in Edraw Max">
+			<Library Path="./family-tree/family-tree.edt" Name="ジェノグラム（家系図）" />
+			<Library Path="./organization-chart/organization-chart-shapes.edt" Name="組織図の図形" />
+		</Templates>
+
+	</Gallery>
+	
+	<Gallery NameU="Graphs and Charts" Name="グラフとチャート" Version="1.0" Icon="./category/graphs-and-charts.png" Description="事前定義されたテンプレートとシンボルを使用して、棒グラフ、円グラフ、折れ線グラフ、散布図、及びバブルチャートを作成します。">
+		<Templates NameU="Column" Name="縦棒グラフ" Icon="./chart/column.png" Description="カスタム化された縦棒、積み上げ縦棒、及び100％積み上げ縦棒グラフを作成するための特定な図形が含まれています。">
+			<Library Path="./graphs-and-charts/infographic-charts.edt" Name="インフォグラフィックチャート"/>
+			<Library Path="./graphs-and-charts/column-chart.edt" Name="縦棒グラフ"/>
+		</Templates>
+
+		<Templates NameU="Bar" Name="横棒グラフ" Icon="./chart/bar.png" Description="簡単な横棒、積み上げ横棒、及び100％積み上げ横棒グラフを作成するための特定な図形が含まれています。">
+			<Library Path="./graphs-and-charts/infographic-charts.edt" Name="インフォグラフィックチャート"/>
+			<Library Path="./graphs-and-charts/bar-chart.edt" Name="横棒グラフ"/>
+		</Templates>
+
+		<Templates NameU="Pie" Name="円グラフ" Icon="./chart/pie.png" Description="円グラフを作成するための特定な図形が含まれています。">
+			<Library Path="./graphs-and-charts/infographic-charts.edt" Name="インフォグラフィックチャート"/>
+			<Library Path="./graphs-and-charts/pie-and-doughnut-charts.edt" Name="円グラフとドーナツグラフ"/>
+		</Templates>
+
+		<Templates NameU="Doughnut" Name="ドーナツグラフ" Icon="./chart/doughnut.png" Description="ドーナツグラフを作成するための特定な図形が含まれています。">
+			<Library Path="./graphs-and-charts/infographic-charts.edt" Name="インフォグラフィックチャート"/>
+			<Library Path="./graphs-and-charts/pie-and-doughnut-charts.edt" Name="円グラフとドーナツグラフ"/>
+		</Templates>
+
+		<Templates NameU="Line" Name="折れ線グラフ" Icon="./chart/line.png" Description="折れ線グラフを作成するための特定な図形が含まれています。">
+			<Library Path="./graphs-and-charts/infographic-charts.edt" Name="インフォグラフィックチャート"/>
+			<Library Path="./graphs-and-charts/line-and-area-charts.edt" Name="折れ線グラフと面グラフ"/>
+		</Templates>
+
+		<Templates NameU="Area" Name="面グラフ" Icon="./chart/area.png" Description="面グラフを作成するための特定な図形が含まれています。">
+			<Library Path="./graphs-and-charts/infographic-charts.edt" Name="インフォグラフィックチャート"/>
+			<Library Path="./graphs-and-charts/line-and-area-charts.edt" Name="折れ線グラフと面グラフ"/>
+		</Templates>
+
+		<Templates NameU="Scatter" Name="散布図" Icon="./chart/scatter.png" Description="散布図を作成するための特定な図形が含まれています。">
+			<Library Path="./graphs-and-charts/infographic-charts.edt" Name="インフォグラフィックチャート"/>
+			<Library Path="./graphs-and-charts/scatter-and-bubble-charts.edt" Name="散布図とバブルチャート"/>
+		</Templates>
+
+		<Templates NameU="Bubble Chart" Name="バブルチャート" Icon="./chart/bubble-chart.png" Description="バブルチャートを作成するための特定な図形が含まれています。">
+			<Library Path="./graphs-and-charts/infographic-charts.edt" Name="インフォグラフィックチャート"/>
+			<Library Path="./graphs-and-charts/scatter-and-bubble-charts.edt" Name="散布図とバブルチャート"/>
+
+		</Templates>
+
+		<Templates NameU="Gauges" Name="ゲージ" Icon="./chart/gauges.png" Description="ゲージチャート">			
+			<Library Path="./graphs-and-charts/infographic-charts.edt" Name="インフォグラフィックチャート"/>
+			<Library Path="./graphs-and-charts/gauge-chart.edt" Name="ゲージチャート"/>
+
+		</Templates>
+
+		<Templates NameU="Comparison Chart" Name="比較図" Icon="./chart/comparison-chart.png" Description="商品、テクノロジー、ビジネスなどの比較図を作成します。">
+			<Library Path="./graphs-and-charts/infographic-charts.edt" Name="インフォグラフィックチャート"/>
+			<Library Path="./graphs-and-charts/comparison-chart.edt" Name="比較図"/>
+		</Templates>
+
+		<Templates NameU="Spider and Radar" Name="レーダーチャート" Icon="./chart/spider-and-radar.png" Description="レーダーチャートを作成するための特定な図形が含まれています。">
+			<Library Path="./graphs-and-charts/infographic-charts.edt" Name="インフォグラフィックチャート"/>
+			<Library Path="./graphs-and-charts/radar-chart.edt" Name="レーダーチャート"/>
+
+		</Templates>
+	</Gallery>
+	
+	<Gallery NameU="Form" Name="フォーム" Version="1.0"  Icon="./category/forms.png" Description="事前定義されたテンプレートを使用してフォームを作成します。">
+		<Templates NameU="Report Form" Name="レポートフォーム" Icon="./form/report-form.png" Description="レポートフォームを作成するための特定な図形が含まれています。">
+			<Library Path="./business/forms.edt" Name="フォーム"/>
+			<Library Path="./graphs-and-charts/column-chart.edt" Name="縦棒グラフ"/>
+			<Library Path="./graphs-and-charts/bar-chart.edt" Name="横棒グラフ"/>
+			<Library Path="./graphs-and-charts/pie-and-doughnut-charts.edt" Name="円グラフとドーナツグラフ"/>
+			<Library Path="./graphs-and-charts/line-and-area-charts.edt" Name="折れ線グラフと面グラフ"/>
+			<Library Path="./graphs-and-charts/scatter-bubble-charts.edt" Name="散布図とバブルチャート"/>
+			<Library Path="./graphs-and-charts/gauge-chart.edt" Name="ゲージチャート"/>
+			<Library Path="./graphs-and-charts/radar-chart.edt" Name="レーダーチャート"/>
+		</Templates>
+
+		<Templates NameU="Invoice" Name="請求書" Icon="./form/invoice.png" Description="請求書や領収書を作成するための特定な図形が含まれています。">
+			<Library Path="./business/forms.edt" Name="フォーム"/>
+		</Templates>
+
+		<Templates NameU="Sales Form" Name="営業フォーム" Icon="./form/sales.png" Description="注文、会社書類、注文明細書、予算などを作成するための特定な図形が含まれています。">
+			<Library Path="./business/forms.edt" Name="フォーム"/>
+		</Templates>
+
+		<Templates NameU="Expense Report" Name="経費明細書" Icon="./form/expense-report.png" Description="経費明細書などを作成するための特定な図形が含まれています。">
+			<Library Path="./business/forms.edt" Name="フォーム"/>
+		</Templates>
+
+		<Templates NameU="Inventory List" Name="在庫表" Icon="./form/inventory-list.png" Description="在庫表などを作成するための特定な図形が含まれています。">
+			<Library Path="./business/forms.edt" Name="フォーム"/>
+		</Templates>
+		<Templates NameU="Quote Form" Name="見積書" Icon="./form/quote-form.png" Description="見積書などを作成するための特定な図形が含まれています。">
+			<Library Path="./business/forms.edt" Name="フォーム"/>
+		</Templates>
+	</Gallery>
+		
+	</Galleries>
+	
+	<Galleries NameU="Business" Name="ビジネス" Icon="./category/business.png">
+	
+	<Gallery NameU="Business Management" Name="ビジネス管理" Version="1.0"  Description="Create the most commonly used business diagrams with predefined templates and symbols.">
+
+		<Templates NameU="Enterprise Architecture" Name="ビジネスアーキテクチャ（BA）"  Icon="./business-diagram/enterprise-architecture.png" Description="エンタープライズアーキテクチャを作成して、組織が現在と将来の目標を効果的に達成する方法を確定します。">
+			<Library Path="./business/enterprise-architecture.edt" Name="ビジネスアーキテクチャ（BA）"/>
+		</Templates>
+
+		<Templates NameU="Agenda" Name="アジェンダ"  Icon="./business-diagram/agenda.png" Description="Edraw Maxでアジェンダをオンラインで作成して管理します。">
+			<Library Path="./business/list-shapes.edt" Name="リスト" />
+
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形" />
+
+		</Templates>
+
+		<Templates NameU="Business Process" Name="ビジネスプロセス"  Icon="./business-diagram/business-process.png" Description="プロセスの順序、またはい複数の概念の依存関係を示すために使用します。図の水平と垂直の両方の表示スペースを最大化にします。">
+			<Library Path="./business/process-steps.edt" Name="プロセスステップ"/>
+		</Templates>
+
+		<Templates NameU="Human Resource" Name="人的資源管理（HR）"  Icon="./business-diagram/human-resource.png" Description="Edraw Maxを使用して人的資源管理図をオンラインで作成及び管理します。">
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形"/>
+		</Templates>
+
+		<Templates NameU="Team Cooperation" Name="コラボレーション図"  Icon="./business-diagram/team-cooperation.png" Description="Edraw Maxでコラボレーション図をオンラインで作成します。">
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形"/>
+		</Templates>
+
+		<Templates NameU="Vision and Mission" Name="ビジョンとミッション"  Icon="./business-diagram/vision-mission.png" Description="Edraw Maxの組み込みテンプレートを使用して、ビジョンとミッションを作成します。">
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形"/>
+		</Templates>
+	</Gallery>
+		
+	<Gallery NameU="Quality Management" Name="品質管理" Version="1.0" Description="Create quality management diagrams, cause and effect diagrams and other management charts with predefined templates and symbols.">
+		<Templates NameU="Decision Making" Name="意思決定図"  Icon="./management/decision-making.png" Description="代替案を選択した後、最終案を確定するために意思決定図を作成します">
+			<Library Path="./business/list-shapes.edt" Name="リスト"/>
+			<Library Path="./business/circular-charting-shapes.edt" Name="基本図形"/>
+		</Templates>	
+
+		<Templates NameU="Fault Tree Analysis" Name="フォルトツリー解析図"  Icon="./management/fault-tree-analysis.png" Description="フォルトツリー解析図を作成して、ビジネスプロセスを記録します。 文書6シグマとISO 9000のプロセスにも適用されます。">
+			<Library Path="./business/fault-tree-analysis-shapes.edt" Name="フォルトツリーの図形" />
+		</Templates>	
+
+		<Templates NameU="Plan-Do-Check-Act" Name="Plan-Do-Check-Act"  Icon="./management/plan-do-check-act.png" Description="デミングサークル（PDCA）を作成して、製品ライフサイクルの管理、プロジェクト管理、人事管理（HRM）、サプライチェーン管理（SCM）、及びその他のビジネス分野におけるプロセスの品質と効果を向上させます。">
+
+			<Library Path="./business/circular-charting-shapes.edt" Name="循環図"/>
+			<Library Path="./business/process-steps.edt" Name="プロセスステップ"/>
+
+
+		</Templates>	
+
+		<Templates NameU="Cause and Effect Diagram" Name="特性要因図" Icon="./management/cause-and-effect(fishbone).png" Description="特性要因図（魚の骨図または石川図とも呼ばれている）を作成して、所定の状況に影響を与たり一因となる要因を体系的に検討します。文書6シグマとISO 9000のプロセスにも適用されます。">
+			<Library Path="./business/cause-and-effect-diagram.edt" Name="特性要因図"/>
+		</Templates>	
+
+		<Templates NameU="House of Quality" Name="HOQ図" Icon="./management/house-of-quality.png" Description="消費者の要求を満足させることを目的にした品質屋を作成して、消費の需要を設計目標と主要な品質保証ポイントで表現し生産段階全体で使用します。">
+			<Library Path="./project-management/hoq-and-qfd.edt" Name="HOQ と QFD"/>
+		</Templates>	
+
+		<Templates NameU="Relation Diagram" Name="関係図" Icon="./management/relations-diagram.png" Description="関係図を作成して、要因、領域、またはプロセス間の複雑な関係をすべて示します。">
+			<Library Path="./database-modeling/entity-relationship.edt" Name="実体関係"/>
+		</Templates>	
+
+		<Templates NameU="Seven Basic Tools of Quality" Name="品質の7つの基本ツール" Icon="./management/seven-basic-tools-of-quality.png" Description="品質の7つの基本的なツールのチャートと図を作成します。">
+			<Library Path="./business/circular-charting-shapes.edt" Name="円形チャート"/>
+			<Library Path="./business/process-steps.edt" Name="プロセスステップ"/>
+		</Templates>	
+
+		<Templates NameU="TQM Diagram" Name="TQM図" Icon="./management/tqm.png" Description="ビジネスプロセスリエンジニアリング、総合品質管理（TQM）、継続的な改善のための特性要因図、トップダウン図、及びくクロスファンクショナルプロセスフロー図を作成します。 文書6シグマとISO 9000のプロセスにも適用されます。">
+			<Library Path="./business/tqm-diagram-shapes.edt" Name="TQM図の図形"/>
+		</Templates>	
+
+		<Templates NameU="Value Stream Mapping" Name="バリュー・ストリーム・マッピング(VSM)" Icon="./management/value-stream-mapping.png" Description="バリューストリームマップを作成して、リーン製造工程における材料と情報の流れを示します。">
+			<Library Path="./business/value-stream-mapping.edt" Name="バリュー・ストリーム・マッピング"/>
+		</Templates>	
+	</Gallery>
+	
+	
+	<Gallery NameU="Strategy and Planning" Name="戦略と計画" Version="1.0"  Icon="./category/strategy-and-planning.png" Description="PEST分析やポーターのファイブブフォース分析図など、最も使用される戦略図を作成します。">
+		<Templates NameU="Affinity Diagram" Name=" 親和図法" Icon="./strategic-planning/affinity-diagram.png" Description="親和図を作成して大量の言語データを収集し、自然な関係に基づいてグループ化にします。">
+			<Library Path="./business/list-shapes.edt" Name="リスト" />
+		</Templates>	
+
+		<Templates NameU="Matrix Diagram" Name="マトリックス"  Icon="./strategic-planning/matrix-diagram.png" Description="SWOTマトリックス、位置行列、ansoffマトリックス、成長マトリックスのためのチャートとグラフが含まれています。">
+			<Library Path="./marketing/matrix.edt" Name="マトリックス" />
+		</Templates>
+
+		<Templates NameU="Competitive Analysis" Name="競争分析" Icon="./strategic-planning/competitive-analysis.png" Description="競合他社に関する情報の収集、競合他社の長所と短所の評価などを含む競争分析用のグラフと図表を作成し、競争上の優位性を向上させるための戦略を構築できます。">
+			<Library Path="./business/list-shapes.edt" Name="リスト" />
+		</Templates>	
+
+		<Templates NameU="Five Forces Analysis" Name="ファイブフォース分析" Icon="./strategic-planning/five-forces-analysis.png" Description="ファイブフォース分析図を作成して、企業の競争力と地位を評価できます。">
+			<Library Path="./business/circular-charting-shapes.edt" Name="ファイブフォース分析の図形" />
+		</Templates>	
+
+		<Templates NameU="Force Field Analysis" Name="フォースフィールド分析" Icon="./strategic-planning/force-field-analysis.png" Description="フォースフィールド分析図を作成して意思決定を行います。変化に対する賛成の力と反対の力を分析し、決定の背後にある理由も伝えます。">
+			<Library Path="./business/list-shapes.edt" Name="リスト" />
+
+			<Library Path="./business/process-steps.edt" Name="プロセスステップ" />
+
+		</Templates>	
+
+		<Templates NameU="Performance Prism" Name="パフォーマンスプリズム" Icon="./strategic-planning/performance-prism.png" Description="実体が競争力を維持し、利害関係者を満足させるために、パフォーマンスプリズムを作成して必要なパフォーマンス指標や基準を設定します。">
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形" />
+		</Templates>	
+	
+		<Templates NameU="Value Chain Analysis" Name="バリューチェイン分析" Icon="./strategic-planning/value-chain-analysis.png" Description="原材料から納品までの、サービスの生産に関わるさまざまなプロセスを表現します。">
+			<Library Path="./business/value-chain.edt" Name="バリューチェイン" />
+		</Templates>	
+
+	</Gallery>
+	
+	<Gallery NameU="Marketing" Name="マーケティング" Version="1.0"  Icon="./category/maketing.png" Description="最もよく使われるマーケティングチャートと図を作成します。">
+		
+
+		<Templates NameU="Comparisons" Name="比較図"  Icon="./marketing/comparisons.png" Description="比較図を作成して、競合他社をよりよく理解し、市場を拡大することに役たちます。">
+			<Library Path="./marketing/marketing-diagrams.edt" Name="マーケティング図表"/>
+			<Library Path="./marketing/marketing-shapes.edt" Name="マーケティングの図形"/>
+		</Templates>
+
+		<Templates NameU="Customer Journey Mapping" Name="カスタマージャーニー地図"  Icon="./marketing/customer-journey-mapping.png" Description="効果的なカスタマージャーニーマッピングを作成して、業務に関わるカスタマージャーニーを把握し、最終的な目標を達成します。">
+			<Library Path="./marketing/marketing-diagrams.edt" Name="マーケティング図表"/>
+			<Library Path="./marketing/marketing-shapes.edt" Name="マーケティングの図形"/>
+		</Templates>
+		
+		<Templates NameU="User Research" Name="ユーザーリサーチ"  Icon="./marketing/user-research.png" Description="Create an effective customer journey mapping to grasp the customer journey with your company to achieve your ultimate goal.">
+			<Library Path="./canvas/sticker.edt" Name="ステッカー"/>
+			<Library Path="./general/container.edt" Name="画像コンテナ"/>
+		</Templates>
+
+		<Templates NameU="Funnel Charts" Name="ファンネルチャート"  Icon="./marketing/funnel-charts.png" Description="ファンネルチャートを作成して、販売プロセスの段階及び各段階における潜在的な収益を把握します。">
+			<Library Path="./marketing/pyramid-chart.edt" Name="ピラミッドチャート"/>
+		</Templates>
+
+		<Templates NameU="Marketing Diagrams" Name="マーケティング図"  Icon="./marketing/marketing-diagrams.png" Description="様々なマーケティング図を作成して、チームのプロセス、戦略、ワークフローを視覚的に表現します。">
+			<Library Path="./marketing/marketing-diagrams.edt" Name="マーケティング図表"/>
+			<Library Path="./marketing/marketing-shapes.edt" Name="マーケティングの図形"/>
+		</Templates>
+
+		<Templates NameU="Puzzles" Name="パズル"  Icon="./marketing/puzzles.png" Description="既存のテンプレートとベクトルパズルシンボルを使用して、自分のパズルゲームをデザインします。">
+			<Library Path="./marketing/marketing-shapes.edt" Name="マーケティングの図形"/>
+		</Templates>
+
+		<Templates NameU="Pyramid Diagrams" Name="ピラミッド図"  Icon="./marketing/pyramid-diagrams.png" Description="ピラミッドダイアグラムを作成して、階層ベース及び基盤ベースの関係、プロセスステップ、組織レイヤーなどを視覚化にします。">
+			<Library Path="./marketing/pyramid-chart.edt" Name="ピラミッド"/>
+		</Templates>
+
+		<Templates NameU="Sales" Name="セールス"  Icon="./marketing/sales.png" Description="営業とマーケティングのグラフと図表を作成してデータを視覚化にし、営業状況の分析と営業実績の向上に役立ちます。">
+			<Library Path="./marketing/marketing-diagrams.edt" Name="マーケティング図表"/>
+			<Library Path="./marketing/marketing-shapes.edt" Name="マーケティングの図形"/>
+		</Templates>
+
+		<Templates NameU="Target Diagrams" Name="ターゲット"  Icon="./marketing/target-diagrams.png" Description="情報を広めるためのターゲット型の図形を作成します。 ターゲット図はマーケティング、ビジネス、経済学に幅広く使用されています。">
+			<Library Path="./business/circular-charting-shapes.edt" Name="ターゲットの図"/>
+		</Templates>
+		
+		<Templates NameU="PEST Analysis" Name="PEST分析" Icon="./marketing/pest-anlysis.png" Description="PEST分析は、組織とその市場に影響を与える可能性がある政治的、経済的、社会的、及び技術的な側面を評価する標準的なビジネスプラクティスです。">
+			<Library Path="./business/pest.edt" Name="PEST図形" />
+		</Templates>	
+	</Gallery>
+	
+	<Gallery NameU="Analysis Canvas" Name="分析キャンバス" Version="1.0" Icon="./category/analysis-canvas.png" Description="最もよく使われる分析キャンバス図を作成します。">
+		<Templates NameU="Business Analysis" Name="ビジネス分析" Icon="./analysis-canvas/business-analysis.png" Description="ビジネス分析キャンバスを作成します。">
+			<Library Path="./canvas/canvas-templates.edt" Name="キャンバステンプレート"/>
+			<Library Path="./canvas/sticker.edt" Name="ステッカー"/>
+		</Templates>	
+
+		<Templates NameU="Product Planning" Name="製品企画" Icon="./analysis-canvas/product-planning.png" Description="製品企画キャンバスを作成します。">
+			<Library Path="./canvas/canvas-templates.edt" Name="キャンバステンプレート"/>
+			<Library Path="./canvas/sticker.edt" Name="ステッカー"/>
+		</Templates>	
+
+		<Templates NameU="Project Progress Analysis" Name="プロジェクトの進捗分析" Icon="./analysis-canvas/project-progress-analysis.png" Description="プロジェクトの進捗分析図を作成します。">
+			<Library Path="./canvas/canvas-templates.edt" Name="キャンバステンプレート"/>
+			<Library Path="./canvas/sticker.edt" Name="ステッカー"/>
+		</Templates>	
+
+		<Templates NameU="Strategy Analysis" Name="戦略分析" Icon="./analysis-canvas/strategy-analysis.png" Description="戦略分析キャンバスを作成します。">
+			<Library Path="./canvas/canvas-templates.edt" Name="キャンバステンプレート"/>
+			<Library Path="./canvas/sticker.edt" Name="ステッカー"/>
+		</Templates>	
+
+		<Templates NameU="Team Management" Name="チーム管理" Icon="./analysis-canvas/team-mangement.png" Description="プロジェクトのチーム管理キャンバスを作成します。">
+			<Library Path="./canvas/canvas-templates.edt" Name="キャンバステンプレート"/>
+			<Library Path="./canvas/sticker.edt" Name="ステッカー"/>
+		</Templates>	
+
+	</Gallery>
+	
+	</Galleries>
+	<Galleries NameU="Project Management" Name="プロジェクト管理" Icon="./category/project.png">
+		<Gallery NameU="Project Management" Name="プロジェクト管理" Version="1.0" Icon="./category/project-management.png" Description="最もよく使われるプロジェクト管理チャートと図を作成します。">
+		<Templates NameU="Gantt Charts" Name="ガントチャート" Icon="./project-management/gantt.png" Description="プロジェクトスケジュールのガントチャートを作成します。">
+			<Library Path="./project-management/gantt.edt" Name="ガント"/>
+		</Templates>	
+
+		<Templates NameU="Kanban Diagrams" Name="カンバン図" Icon="./project-management/kanban-diagrams.png" Description="カンバン図を作成して、プロセスとそのプロセスを通過する実際の作業の両方を視覚化します。">
+			<Library Path="./business/list-shapes.edt" Name="リスト"/>
+		</Templates>
+
+		<Templates NameU="Roadmap" Name="ロードマップ"  Icon="./project-management/roadmap.png" Description="Create your roadmap diagrams online with Edraw Max">
+			<Library Path="./canvas/sticker.edt" Name="ステッカー"/>
+			<Library Path="./general/container.edt" Name="画像コンテナ"/>
+			<Library Path="./roadmap/roadmap.edt" Name="ロードマップ"/>			
+		</Templates>
+		
+		<Templates NameU="Project Timeline" Name="プロジェクトスケジュール" Icon="./project-management/project-timeline.png" Description="Create Project Timeline for project schedule.">
+			<Library Path="./project-management/project-timeline.edt" Name="プロジェクトスケジュール"/>
+		</Templates>
+
+		<Templates NameU="Checklists" Name="チェックリスト" Icon="./project-management/checklists.png" Description="費用対効果の高いプロジェクト管理ツールとしてチェックリストを使用します。">
+			<Library Path="./project-management/status-table.edt" Name="進捗管理表"/>
+		</Templates>	
+
+		<Templates NameU="Project Calendar" Name="プロジェクトカレンダー" Icon="./project-management/calendar.png" Description="作業カレンダースケジュールと週次タスクスケジュールを作成します。">
+			<Library Path="./project-management/calendar.edt" Name="カレンダー"/>
+		</Templates>	
+
+		<Templates NameU="Relationship Matrix" Name="関係マトリックス" Icon="./project-management/retionship-matrix.png" Description="プロジェクトのタスク、人、アクション、テクノロジーの関係を視覚化します。">
+			<Library Path="./project-management/relationship-matrix.edt" Name="関係マトリックス"/>
+		</Templates>
+
+		<Templates NameU="Risk Management" Name="リスクマネジメント"  Icon="./project-management/risk-management.png" Description="Create your roadmap diagrams online with Edraw Max">
+			<Library Path="./canvas/sticker.edt" Name="ステッカー"/>
+			<Library Path="./general/container.edt" Name="画像コンテナ"/>			
+		</Templates>
+
+		<Templates NameU="PERT Chart" Name="PERT図" Icon="./project-management/pert-chart.png" Description="プロジェクトやタスクの管理、タイムテーブル、作業の構造分解、クリティカルパス法、プロジェクトライフサイクル、目標設定、スケジュール、及び課題のためのPERT図を作成します。">
+			<Library Path="./project-management/pert-chart.edt" Name="PERT図"/>
+		</Templates>	
+
+		<Templates NameU="Decision Tree" Name="決定木" Icon="./project-management/decision-tree.png" Description="特に、高いコストとリスクを伴う意思決定を行う際に、適切な選択を行うのに役立ちます。">
+			<Library Path="./project-management/decision-tree.edt" Name="決定木"/>
+		</Templates>	
+		
+		<Templates NameU="Status Table" Name="進捗管理表" Icon="./project-management/status-table.png" Description="Help make good choices, especially decisions that involve high costs and risks.">
+			<Library Path="./project-management/status-table.edt" Name="進捗管理表"/>
+		</Templates>
+		
+		<Templates NameU="WBS Diagram" Name="WBS図" Icon="./project-management/wbs-diagram.png" Description="Help make good choices, especially decisions that involve high costs and risks.">
+			<Library Path="./project-management/wbs-shapes.edt" Name="WBS 図形"/>
+		</Templates>
+		
+	</Gallery>	
+	</Galleries>
+
+	<Galleries NameU="Software And Database" Name="ソフトウェアとデータベース" Icon="./category/software-and-database.png">
+	
+	<Gallery NameU="Software Development" Name="ソフトウェア開発" Version="1.0"  Icon="./category/software-development.png" Description="事前定義されたテンプレートとシンボルを使用して、UML、データフロー、 COMとOLE図を作成します。">
+		<Templates NameU="UML Modeling" Name="UMLモデル図" Icon="./software-development/uml-model-diagram.png" Description="UML表記を使用して、UMLモデルと静的構造図（クラスとオブジェクト）、ユースケース図、コラボレーション図、シーケンス図、コンポーネント図、デプロイメント図、アクティビティ図を作成するための特定な図形と設定が含まれています。">
+			<Library Path="./database-modeling/object-relationship.edt" Name="関係"/>
+
+			<Library Path="./uml-modeling/uml-activity-state-diagram.edt" Name="UML アクティビティ図"/>
+
+			<Library Path="./uml-modeling/uml-class-diagram.edt" Name="UML クラス図"/>
+
+			<Library Path="./Basic Shape/Arrow Connectors.edt" Name="UML コラボレーション図"/>
+
+			<Library Path="./uml-modeling/uml-communication-diagram.edt" Name="UML コミュニケーション図"/>
+
+			<Library Path="./uml-modeling/uml-component-diagram.edt" Name="UML コンポーネント図"/>
+
+			<Library Path="./uml-modeling/uml-deployment-diagram.edt" Name="UML デプロイメント図"/>
+
+			<Library Path="./uml-modeling/uml-sequence-diagram.edt" Name="UML シーケンス図"/>
+
+			<Library Path="./uml-modeling/uml-use-case-diagram.edt" Name="UML ユースケース図"/>
+
+			<Library Path="./uml-modeling/uml-statechart.edt" Name="UML ステートチャート"/>
+		</Templates>
+		
+		<Templates NameU="Software Architecture" Name="ソフトウェアアーキテクチャ" Icon = "./software-development/software-architecture.png" Description="Create structural diagrams, flowcharts, and memory diagrams.">
+			<Library Path="./software-engineering/architecture-diagram.edt" Name="アーキテクチャ図"/>
+		</Templates>
+
+		<Templates NameU="Booch OOD" Name="Booch OOD" Icon="./software-development/booch-ood.png" Description="Booch OOD（オブジェクト指向の設計）表記を使用してクラス図とオブジェクト図を作成するための特定な図形と設定が含まれています。">
+			<Library Path="./software-engineering/booch-ood.edt" Name="Booch OOD"/>
+		</Templates>
+
+		<Templates NameU="COM and OLE" Name="COMとOLE" Icon="./software-development/com-and-ole.png" Description="オブジェクト指向プログラミングでCOM及びOLEの図、または公開されたインターフェース、COMインターフェース、及びOLEインターフェースの図を作成するための特定な図形と設定が含まれています。">
+			<Library Path="./software-engineering/com-and-ole.edt" Name="COMとOLE"/>
+		</Templates>
+		
+		<Templates NameU="Data Flow Model Diagram" Name="データフロー図" Icon="./software-development/data-flow-model-diagram.png" Description="Gane-Sarson（DFD）表記を使用してデータフロー図を作成するための特定な図形と設定が含まれています。">
+			<Library Path="./software-engineering/data-flow-model-diagram.edt" Name="データフロー図"/>
+		</Templates>
+
+		<Templates NameU="Enterprise Application" Name="企業アプリケーション" Icon="./software-development/enterprise-application.png" Description="PC、メインフレーム、及びアーキテクチャレイヤーを表す図形を使用して、エンタープライズアーキテクチャ図を作成します。">
+			<Library Path="./software-engineering/enterprise-application.edt" Name="企業アプリケーション"/>
+		</Templates>
+
+		<Templates NameU="Jacobson Use Case" Name="Jacobsonユースケース" Icon="./software-development/jacobson-use-case.png" Description="Jacobsonのユースケース図を作成するための特定な図形と設定が含まれています。">
+			<Library Path="./software-engineering/jacobson-use-case.edt" Name="Jacobsonユースケース"/>
+		</Templates>
+
+		<Templates NameU="Jackson" Name="Jackson" Icon="./software-development/jackson.png" Description="Jackson方法を使用して、プログラム設計のデータ構造図を作成します。">
+			<Library Path="./software-engineering/jackson.edt" Name="Jackson"/>
+		</Templates>
+
+		<Templates NameU="Program Flowchart" Name="プログラムフローチャート" Icon="./software-development/program-flowchart.png" Description="基本的なプログラムフローチャートを作成します。">
+			<Library Path="./software-engineering/program-flowchart.edt" Name="プログラムフローチャート"/>
+		</Templates>
+
+		<Templates NameU="Program Structure" Name="プログラム構造" Icon="./software-development/program-structure.png" Description="構造図、フローチャート、メモリ図を作成します。">
+			<Library Path="./software-engineering/language-level-shapes.edt" Name="言語レベルの図形"/>
+
+			<Library Path="./software-engineering/memory-objects.edt" Name="メモリオブジェクト"/>
+		</Templates>
+
+		<Templates NameU="Nassi-Shneiderman" Name="Nassi-Shneiderman" Icon="./software-development/nassi-shneiderman.png" Description="Nassi-Shneiderman図を作成するための特定な図形と設定が含まれています.">
+			<Library Path="./software-engineering/nassi-shneiderman.edt" Name="Nassi-Shneiderman"/>
+		</Templates>
+
+		<Templates NameU="Room" Name="ROOM" Icon="./software-development/room.png" Description="ROOM表記を使用して、適時性、動的内部構造、反応性、並行性、及び分散に基づいてリアルタイムシステムをモデル化します。">
+			<Library Path="./software-engineering/room.edt" Name="ROOM"/>
+		</Templates>
+
+		<Templates NameU="Shlaer-Mellor OOA" Name="Shlaer-Mellor OOA" Icon="./software-development/shlaer-mellor ooa.png" Description="Shlaer-Mellor OOA図を作成するための特定な図形と設定が含まれています。">
+			<Library Path="./software-engineering/shlaer-mellor-ooa.edt" Name="Shlaer-Mellor OOA"/>
+		</Templates>
+
+		<Templates NameU="SSADM" Name="SSADM" Icon="./software-development/ssadm.png" Description="SSADM図（構造化システム分析及び設計方法の略称）を作成するための特定な図形と設定が含まれています。">
+			<Library Path="./software-engineering/ssadm.edt" Name="SSADM"/>
+		</Templates>
+
+		<Templates NameU="Yourdon and Coad" Name="YourdonとCoad" Icon="./software-development/yourdon-and-coad.png" Description="YourdonとCoadクラス図を作成するための特定な図形と設定が含まれています。">
+			<Library Path="./software-engineering/yourdon-and-coad.edt" Name="YourdonとCoad"/>
+		</Templates>
+		
+		<Templates NameU="ArchiMate" Name="ArchiMate" Icon="./software-development/archimate.png">
+            <Library Path="./archimate/Application Layer.edt" Name="アプリケーションレイヤー"/>
+            <Library Path="./archimate/Business Layer.edt" Name="ビジネスレイヤー"/>
+            <Library Path="./archimate/Implementation and Migration.edt" Name="導入と移行"/>
+            <Library Path="./archimate/Motivation.edt" Name="動機付け"/>
+            <Library Path="./archimate/Physical.edt" Name="物理"/>
+            <Library Path="./archimate/Relationships.edt" Name="関係"/>
+            <Library Path="./archimate/Strategy.edt" Name="戦略"/>
+            <Library Path="./archimate/Technology Layer.edt" Name="技術レイヤー"/>
+        </Templates>
+	</Gallery>
+
+	<Gallery NameU="Database Modeling" Name="データベース" Version="1.0" Icon="./category/database-modeling.png" Description="事前定義されたテンプレートとシンボルを使用してデータベースモデルを作成します。">
+		<Templates NameU="Chen ERD" Name="Chen ERD" Icon="./database/chen-erd.png" Description="Chen ERD表記に基づいて実体関係図を作成するための特定な図形と設定が含まれています。">
+			<Library Path="./database-modeling/chen-erd.edt" Name="Chen ERD"/>
+		</Templates>
+
+		<Templates NameU="Database Model Diagram" Name="データベースモデル図" Icon="./database/database-model-diagram.png" Description="データベースモデル図を作成するための特定な図形と設定が含まれています。 IDEF1X及び関係表記法をサポートします。">
+			<Library Path="./database-modeling/entity-relationship.edt" Name="実体関係"/>
+
+			<Library Path="./database-modeling/object-relationship.edt" Name="オブジェクト関係"/>
+		</Templates>
+
+		<Templates NameU="Express-G" Name="Express-G" Icon="./database/express-g.png" Description="Express-G表記を使用して実体レベルとスキーマレベルの図、及び製品データモデルを作成するための特定な図形と設定が含まれています。">
+			<Library Path="./database-modeling/express-g.edt" Name="Express-G"/>
+		</Templates>
+
+		<Templates NameU="Martin ERD" Name="Martin ERD" Icon="./database/martin-erd.png" Description="Martin ERD表記に基づいて実体関係図を作成するための特定な図形と設定が含まれています。">
+			<Library Path="./database-modeling/martin-erd.edt" Name="Martin ERD"/>
+		</Templates>
+		<Templates NameU="ORM Diagram" Name="ORM図" Icon="./database/orm-diagram.png" Description="オブジェクト指向の分析と設計でオブジェクト関係モデルと静的図を作成するための特定な図形（オブジェクト、制約、コネクタ、注釈、及び関係）と設定が含まれています。">
+			<Library Path="./database-modeling/orm-diagram.edt" Name="RM図"/>
+		</Templates>
+	</Gallery>
+		
+	</Galleries>
+
+	<Galleries NameU="Floor Plan" Name="建築設計" Icon="./category/BuildPlan.png">
+    	<Gallery NameU="Floor Plan" Name="建築設計" Version="1.0" Icon="./category/building-plans.png" Description="事前定義されたテンプレートとシンボルを使用して、間取り図、オフィスレイアウト、配管レイアウト、家の配線図などを作成します。">
+		<Templates NameU="Floor Plan" Name="間取り" Icon="./building-plan/floor-plan.png" Description="商業ビルの設計、空間計画、建築レイアウト、建設文書、構造図、施設計画のために使用します。">
+			<Library Path="./floor-plan/" Name="寸法と工学系"/>
+
+			<Library Path="./floor-plan/doors-and-windows.edt" Name="ドアと窓"/>
+
+			<Library Path="./floor-plan/wall-shell-and-structure.edt" Name="壁、骨組、構造"/>
+
+			<Library Path="./floor-plan/building-core-path.edt" Name="建物のコア"/>
+
+			<Library Path="./floor-plan/bathroom" Name="浴室"/>
+
+			<Library Path="./floor-plan/bedromm.edt" Name="ベッドルーム"/>
+
+			<Library Path="./floor-plan/kitchen-and-dining-room.edt" Name="台所とダイニングルーム"/>
+		</Templates>
+		<Templates NameU="Home Plan" Name="住宅設計" Icon="./building-plan/home-plan.png" Description="台所と浴室の設計、建築と建設文書、空間計画、改造、追加のために使用します。">
+			<Library Path="./floor-plan/doors-and-windows.edt" Name="ドアと窓"/>
+
+			<Library Path="./floor-plan/wall-shell-and-structure.edt" Name="壁、骨組、構造"/>
+
+			<Library Path="./floor-plan/dimensioning.edt" Name="寸法と工学系"/>
+
+			<Library Path="./floor-plan/bedromm.edt" Name="ベッドルーム"/>
+
+			<Library Path="./floor-plan/bathroom" Name="浴室"/>
+
+			<Library Path="./floor-plan/carpet.edt" Name="カーペット"/>
+
+			<Library Path="./floor-plan/kitchen-and-dining-room.edt" Name="台所とダイニングルーム"/>
+
+			<Library Path="./floor-plan/plants.edt" Name="植物"/>
+
+			<Library Path="./floor-plan/sofas.edt" Name="ソーファー"/>
+
+			<Library Path="./floor-plan/tables-and-chairs.edt" Name="テーブルと椅子"/>
+		</Templates>
+
+		<Templates NameU="Office Layout" Name="オフィスレイアウト" Icon="./building-plan/office-layout.png" Description="施設管理、移動管理、事務用品在庫、資産在庫、オフィススペース計画、及びキュービクルのフロアチャート、間取り図、及び青写真を作成します。">
+			<Library Path="./floor-plan/doors-and-windows.edtt" Name="ドアと窓"/>
+
+			<Library Path="./floor-plan/wall-shell-and-structure.edt" Name="壁、骨組、構造"/>
+
+			<Library Path="./floor-plan/" Name="寸法と工学系"/>
+
+			<Library Path="./floor-plan/office-equipment.edt" Name="オフィス設備"/>
+
+			<Library Path="./floor-plan/office-furniture.edt" Name="事務用家具"/>
+		</Templates>
+
+		<Templates NameU="Electrical and Telecom Plan" Name="電気通信設計" Icon="./building-plan/electrical-and-telecom-plan.png" Description="施工や設計に使用されるコンセント、スイッチなどの電気と通信関連の間取り図を作成します。">
+			<Library Path="./floor-plan/electrical-and-telecom.edt" Name="電気と電気通信"/>
+			<Library Path="./floor-plan/wall-shell-and-structure.edt" Name="壁、骨組、構造"/>
+
+			<Library Path="./floor-plan/doors-and-windows.edt" Name="ドアと窓"/>
+
+			<Library Path="./floor-plan/" Name="寸法と工学系"/>
+
+			<Library Path="./floor-plan/lighting.edt" Name="照明"/>
+
+
+		</Templates>
+
+		<Templates NameU="Seating Plan" Name="座席設計" Icon="./building-plan/seating-plan.png" Description="観覧席、観覧席、座席の設計図を作成します。">
+			<Library Path="./floor-plan/doors-and-windows.edt" Name="ドアと窓"/>
+
+			<Library Path="./floor-plan/wall-shell-and-structure.edt" Name="壁の殻と構造"/>
+
+			<Library Path="./floor-plan/" Name="寸法と工学系"/>
+
+			<Library Path="./floor-plan/sofas.edt" Name="ソーファー"/>
+
+			<Library Path="../floor-plan/tables-and-chairs.edt" Name="テーブルと椅子"/>
+		</Templates>
+
+		<Templates NameU="Security and Access Plan" Name="セキュリティと入退室設備" Icon="./building-plan/security-and-access-plan.png" Description="安全管理システム、安全システム設計、内部安全システム、外部安全システム、安全制御監視など安全システム設計に使われる設計図を作成します。">
+			<Library Path="./floor-plan/doors-and-windows.edt" Name="ドアと窓"/>
+
+			<Library Path="./floor-plan/alarm-and-access-control.edt" Name="警報とアクセス制御"/>
+
+			<Library Path="./floor-plan/dimensioning.edt" Name="寸法と工学系"/>
+
+			<Library Path="./floor-plan/alarm-and-access-control.edt" Name="警報とアクセス制御"/>
+
+			<Library Path="./floor-plan/video-surveillance.edt" Name="ビデオ監視"/>
+
+			<Library Path="./floor-plan/initiation-and-annunciation.edt" Name="開始と予告"/>
+		</Templates>
+
+		<Templates NameU="Garden Design" Name="庭園設計" Icon="./building-plan/garden-design.png" Description="庭園設計のための設計図を作成します。">
+			<Library Path="./floor-plan/doors-and-windows.edt" Name="ドアと窓"/>
+
+			<Library Path="./floor-plan/plants.edt" Name="植物"/>
+
+			<Library Path="./floor-plan/garden.edt" Name="庭園"/>
+		</Templates>
+
+		<Templates NameU="Fire and Emergency Plan" Name="避難退出経路図" Icon="./building-plan/fire-and-emergency-plan.png" Description="避難退出経路図を作成します。">
+			<Library Path="./floor-plan/wall-shell-and-structure.edt" Name="壁、骨組、構造"/>
+
+			<Library Path="./floor-plan/doors-and-windows.edt" Name="ドアと窓"/>
+
+			<Library Path="./floor-plan/" Name="寸法と工学系"/>
+
+			<Library Path="./floor-plan/fire-and-emergency.edt" Name="避難退出経路図"/>
+
+		</Templates>
+
+		<Templates NameU="Reflected Ceiling Plan" Name="天井伏図" Icon="./building-plan/reflected-ceiling-plan.png" Description="商業ビルの天井タイルと照明パネルのレイアウトの設計図を作成します。">
+			<Library Path="./floor-plan/doors-and-windows.edt" Name="ドアと窓"/>
+
+			<Library Path="./floor-plan/building-core-path.edt" Name="建物のコア"/>
+
+			<Library Path="./floor-plan/" Name="寸法と工学系"/>
+
+			<Library Path="./floor-plan/electrical-and-telecom.edt" Name="電気と電気通信"/>
+
+			<Library Path="./floor-plan/lighting.edt" Name="照明"/>
+
+			<Library Path="./floor-plan/registers-grills-and-diffusers.edt" Name="グリルとディフューザー"/>
+		</Templates>
+
+		<Templates NameU="Plumbing and Piping Plan" Name="給排水設備と配管設計" Icon="./building-plan/plumbing-and-piping.png" Description="廃水処理システム、お湯と水供給システム、ウォーターライン、配管レイアウトの設計図を作成します。">
+			<Library Path="./floor-plan/doors-and-windows.edt" Name="ドアと窓"/>
+
+			<Library Path="./floor-plan/" Name="寸法と工学系"/>
+
+			<Library Path="./floor-plan/plumbing.edt" Name="配管"/>
+		</Templates>
+
+		<Templates NameU="Elevations" Name="正面図" Icon="./building-plan/elevations.png" Description="キャビネット、家の設計、キッチンの設計図を作成します。">
+			<Library Path="./elevations/dining-room-(elevation).edt" Name="ダイニングルーム（正面図）"/>
+
+			<Library Path="./elevations/elevations.edt" Name="正面図"/>
+
+			<Library Path="./elevations/kitchen-(elevation).edt" Name="キッチン(正面図)"/>
+
+			<Library Path="./elevations/lighting-and-handbag-(elevation).edt" Name="照明とハンドバッグ (正面図)"/>
+
+			<Library Path="./elevations/windows-and-doors-(elevation).edt" Name="ドアと窓(正面図)"/>
+
+		</Templates>
+
+		<Templates NameU="Wardrobe" Name="ワードローブ" Icon="./building-plan/wardrobe.png" Description="ワードローブ計画の正面図を作成します。">
+			<Library Path="./floor-plan/" Name="寸法と工学系"/>
+
+			<Library Path="./elevations/wardrobe.edt" Name="ワードローブ"/>
+		</Templates>
+	</Gallery>
+	
+	<Gallery NameU="Crime Scene Images" Name="犯罪シーンの画像" Version="1.0">
+         <Templates NameU="Crime Scene Images" Name="犯罪シーンの画像" Icon="./crimeScene/crimeScene.png">
+
+			<Library Path="./crimeScene/Figures.edt" Name="人物"/>
+			<Library Path="./crimeScene/Outdoor Scene.edt" Name="屋外シーン"/>
+			<Library Path="./crimeScene/Evidence.edt" Name="証拠"/>
+			<Library Path="./crimeScene/Weapons.edt" Name="武器"/>
+			<Library Path="./crimeScene/Indoor Scene.edt" Name="屋内シーン"/>
+			<Library Path="./crimeScene/Callout.edt" Name="コールアウト"/>
+
+		</Templates>
+    </Gallery>
+	
+	</Galleries>
+	
+	<Galleries NameU="Network" Name="ネットワーク" Icon="./category/network.png">
+	
+	<Gallery NameU="Network Diagram" Name="ネットワーク図" Version="1.0" Description="Create network diagrams with predefined templates and symbols.">		
+		<Templates NameU="Basic Network Diagram" Name="基本ネットワーク図" Icon="./network/basic-network-diagram.png" Description="基本的なネットワークとコンピューター機器の図形を使用して、簡単なネットワーク設計とネットワークアーキテクチャ図を作成します。">
+			<Library Path="./network-diagrams/computers-and-monitors.edt" Name="コンピューターとモニター"/>
+
+			<Library Path="./network-diagrams/servers.edt" Name="サーバー"/>
+
+			<Library Path="./network-diagrams/network-and-peripherals.edt" Name="ネットワークと周辺機器"/>
+		</Templates>
+
+		<Templates NameU="Cisco Network Topology" Name="Ciscoネットワークトポロジ" Icon="./network/cisco-network-topology.png" Description="Ciscoネットワークとコンピューターのアイコンを使用して、基本的なCiscoのネットワーク設計とネットワークアーキテクチャ図を作成します。">
+			<Library Path="./cisco-network/cisco-network-topology.edt" Name="Ciscoネットワークトポロジ"/>
+		</Templates>
+
+		<Templates NameU="Cisco Product Icons" Name="Cisco 製品アイコン" Icon="./network/cisco-product-icons.png" Description="ネットワークアーキテクチャ図を作成するためのいくつかのCisco製品アイコンが含まれています。">
+			<Library Path="./cisco-network/cisco-product-icons.edt" Name="Cisco 製品アイコン"/>
+
+			<Library Path="./cisco-network/cisco-telepresence-icons.edt" Name="Cisco テレプレゼンスアイコン"/>
+
+			<Library Path="./cisco-network/ciscon-wireless-icons.edt" Name="Cisco ワイヤレスアイコン"/>
+		</Templates>
+
+		<Templates NameU="Cisco Safe Icons" Name="Cisco 安全アイコン" Icon="./network/cisco-safe-icons.png" Description="安全脅威構成図、安全アーキテクチャ制御、安全設計図を作成するためのいくつかのCisco安全なアイコンが含まれています。">
+			<Library Path="./cisco-network/ciso-security-stealthwatch.edt" Name="Cisco セキュリティステルスウォッチ"/>
+
+			<Library Path="./cisco-network/cisco-safe-threat-icons (1).edt" Name="Cisco 安全脅威アイコン"/>
+
+			<Library Path="./cisco-network/cisco-safe-design-icons.edt" Name="Cisco 安全デザインアイコン"/>
+
+			<Library Path="./cisco-network/" Name="Cisco 安全建築アイコン"/>
+
+			<Library Path="./cisco-network/cisco-safe-capability-icons.edt" Name="Cisco 安全機能アイコン"/>
+		</Templates>
+
+		<Templates NameU="Detail Network Diagram" Name="詳細ネットワーク図" Icon="./network/detail-network-diagram.png" Description="完全なネットワークとコンピューター機器の図形を使用して、詳細な物理図、論理図、ネットワークアーキテクチャ図を作成します。">
+			<Library Path="./network-diagrams/detailed-network-diagram.edt" Name="詳細なネットワーク図"/>
+			<Library Path="./network-diagrams/computers-and-monitors.edt" Name="コンピューターとモニター"/>
+
+			<Library Path="./network-diagrams/servers.edt" Name="サーバー"/>
+
+			<Library Path="./network-diagrams/network-and-peripherals.edt" Name="ネットワークと周辺機器"/>
+
+			<Library Path="./network-diagrams/peripheral-equipment.edt" Name="周辺機器"/>
+		</Templates>
+
+		<Templates NameU="Logical Network Diagram" Name="論理ネットワーク図" Icon="./network/logical-network-diagram.png" Description="論理ネットワーク図を作成するためのネットワーク及びコンピューター機器の図形が含まれています。">
+			<Library Path="./network-diagrams/computers-and-monitors.edt" Name="コンピューターとモニター"/>
+
+			<Library Path="./network-diagrams/servers.edt" Name="サーバー"/>
+
+			<Library Path="./network-diagrams/network-symbols.edt" Name="ネットワーク記号"/>
+		</Templates>
+
+		<Templates NameU="Rack Diagram" Name="ラック図" Icon="./network/rack-diagram.png" Description="ラックシステムを設計するためのラック及びネットワーク機器の図形が含まれています。">
+			<Library Path="./network-diagrams/rack-equipment.edt" Name="ラック装置"/>
+		</Templates>
+
+		<Templates NameU="LDAP" Name="LDAP" Icon="./network/ldap.png" Description="ディレクトリサービスのドキュメント化に使用される一般的なLDAP（ライトウェイトディレクトリアクセスプロトコル）オブジェクトを表す図形が含まれています。">
+			<Library Path="./network-diagrams/ldap-objects.edt" Name="LDAPオブジェクト"/>
+		</Templates>
+
+		<Templates NameU="Active Directory" Name="Active Directory" Icon="./network/active-directory.png" Description="Active Directoryサービスを記録するための特定な図形と設定が含まれています。">
+			<Library Path="./network-diagrams/active-directory-objects.edt" Name="Active Directoryオブジェクト"/>
+
+			<Library Path="./network-diagrams/active-directory.edt" Name="Active Directory"/>
+
+			<Library Path="./network-diagrams/exchange-objects.edt" Name="オブジェクト変更"/>
+		</Templates>
+
+		<Templates NameU="Network Location Diagram" Name="ネット位置" Icon="./network/network-location-diagram.png" Description="ネットワーク位置図を作成するためのネットワーク位置の図形がいくつか含まれています。">
+			<Library Path="./network-diagrams/network-locations.edt" Name="ネットワークの場所"/>
+			<Library Path="./network-diagrams/computers-and-monitors.edt" Name="コンピューターとモニター"/>			
+		</Templates>
+
+		<Templates NameU="Video and Audio Ports" Name="AV端子" Icon="./network/video-and-audio-ports.png" Description="ビデオとオーディオポート図のシンボルが含まれています。">
+			<Library Path="./network-diagrams/video-and-audio-ports.edt" Name="ビデオとオーディオポート"/>
+		</Templates>
+	</Gallery>
+	
+	<Gallery NameU="Cloud Service" Name="クラウドサービス" Version="1.0" Description="Create network diagrams with predefined templates and symbols.">
+	<Templates NameU="AWS" Name="AWS" Icon="./cloud-service/aws.png" Description="Amazonのアーキテクチャ図を作成します。">
+			<Library Path="./amazon-web-services/aws-app-services.edt" Name="AWS アプリサービス"/>
+
+			<Library Path="./amazon-web-services/aws-compute-and-networking.edt" Name="AWS計算とネットワーキング"/>
+
+			<Library Path="./amazon-web-services/aws-database.edt" Name="AWS データベース"/>
+
+			<Library Path="./amazon-web-services/aws-deployment-and-management.edt" Name="AWS 導入と管理"/>
+
+			<Library Path="./amazon-web-services/aws-non-service-specific.edt" Name="AWS 非サービス細部"/>
+
+			<Library Path="./amazon-web-services/aws-on-demand-workforce.edt" Name="AWS オンデマンド労働力"/>
+
+			<Library Path="./amazon-web-services/aws-sdks.edt" Name="AWS SDKs"/>
+
+			<Library Path="./amazon-web-services/aws-storage-content-and-delivery.edt" Name="AWS ストレージのコンテンツと配信"/>
+		</Templates>
+
+		<Templates NameU="Azure" Name="Azure" Icon="./cloud-service/azure.png" Description="Microsoft Azure、クラウド、企業アーキテクチャー図を作成します。">
+			<Library Path="./ms-azure-cloud/azure-deprecated.edt" Name="Azure Deprecated"/>
+
+			<Library Path="./ms-azure-cloud/azure-enterprise.edt" Name="Azure enterprise"/>
+
+			<Library Path="./ms-azure-cloud/azure-general-symbols.edt" Name="Azure 常用記号"/>
+
+			<Library Path="./ms-azure-cloud/azure-intune.edt" Name="Azure インチューン"/>
+
+			<Library Path="./ms-azure-cloud/azure-microsoft-products.edt" Name="Azure Microsoft製品"/>
+
+			<Library Path="./ms-azure-cloud/azure-system-center.edt" Name="Azure システムセンター"/>
+
+			<Library Path="./ms-azure-cloud/azure-vms-by-function.edt" Name="Azure VM by function"/>
+
+			<Library Path="./ms-azure-cloud/microsoft-azure-cloud.edt" Name="Microsoft Azure cloud"/>
+		</Templates>
+
+		<Templates NameU="GCP" Name="GCP" Icon="./cloud-service/gcp.png" Description="Googleクラウドプラットフォーム図を作成する.">
+			<Library Path="./google-cloud/gcp-big-data.edt" Name="GCP ビッグデータ"/>
+
+			<Library Path="./google-cloud/gcp-compute.edt" Name="GCP 計算"/>
+
+			<Library Path="./google-cloud/gcp-developer-tools.edt" Name="GCP 開発者ツール"/>
+
+			<Library Path="./google-cloud/gcp-extras.edt" Name="GCP エクストラ"/>
+
+			<Library Path="./google-cloud/gcp-identity-and-security.edt" Name="GCP アイデンティティとセキュリティ"/>
+
+			<Library Path="./google-cloud/gcp-internet-of-things.edt" Name="GCP モノのインターネット"/>
+
+			<Library Path="./google-cloud/gcp-management-tools.edt" Name="GCP 管理ツール"/>
+
+			<Library Path="./google-cloud/gcp-networking.edt" Name="GCP ネットワーキング"/>
+
+			<Library Path="./google-cloud/gcp-storage-and-databases.edt" Name="GCP ストレージとデータベース"/>
+		</Templates>
+	</Gallery>
+	
+	</Galleries>
+	
+	<Galleries NameU="Engineering" Name="エンジニアリング" Icon="./category/engineering.png">
+	
+	
+	<Gallery NameU="Electrical Engineering" Name="電気工学" Version="1.0" Icon="./category/electrical-engineering.png" Description="事前定義されたテンプレートとシンボルを使用して回路/配線図を作成します。">
+		<Templates NameU="Basic Electrical" Name="基本電気回路図" Icon="./electrical-engineering/basic-electrical.png" Description="回路図、単線、配線図と青写真を作成します。 スイッチ、リレー、伝送経路、半導体、回路、及びチューブの図形が含まれています。">
+			<Library Path="./electrical/basic-electrical-symbols.edt" Name="基本電気記号"/>
+
+			<Library Path="./electrical/qualifying-symbols.edt" Name="補助記号"/>
+
+			<Library Path="./electrical/semiconductor-devices.edt" Name="半導体デバイス"/>
+
+			<Library Path="./electrical/switches-and-relays.edt" Name="スイッチとリレー"/>
+
+			<Library Path="./electrical/transmission-path.edt" Name="伝送経路"/>
+		</Templates>
+
+		<Templates NameU="Circuits and Logic" Name="論理回路" Icon="./electrical-engineering/circuits-and-logic.png" Description="吹き出し付き回路とプリント基板の図、集積回路図、デジタル及びアナログの論理設計を作成します。 端子、コネクタ、及び伝送経路の図形が含まれています。">
+			<Library Path="./electrical/transmission-path.edt" Name="伝送経路"/>
+
+			<Library Path="./electrical/terminals-and-connectors.edt" Name="端子とコネクタ"/>
+
+			<Library Path="./electrical/integrated-circuit-components.edt" Name="集積回路の構成部品"/>
+
+			<Library Path="./electrical/analog-and-digital-logic.edt" Name="アナログ及びデジタル論理"/>
+
+			<Library Path="./electrical/basic-electrical-symbols.edt" Name="基本電気記号"/>
+		</Templates>
+
+		<Templates NameU="Industrial Control Systems" Name="産業用制御システム" Icon="./electrical-engineering/industrial-control-systems.png" Description="産業用電力システムの吹き出し付きの図を作成します。 回転機械、半導体、半導体デバイス、スイッチ、リレー、及びトランスの図形が含まれています。">
+			<Library Path="./electrical/basic-electrical-symbols.edt" Name="基本電気記号"/>
+
+			<Library Path="./electrical/rotating-equip-and-mech-functions.edt" Name="回転装置とメカニズム機能"/>
+
+			<Library Path="./electrical/switches-and-relays.edt" Name="スイッチとリレー"/>
+
+			<Library Path="./electrical/terminals-and-connectors.edt" Name="端子とコネクタ"/>
+
+			<Library Path="./electrical/transformers-and-windings.edt" Name="変圧器と巻線"/>
+
+			<Library Path="./electrical/transmission-path.edt" Name="伝送経路"/>
+		</Templates>
+
+		<Templates NameU="Systems" Name="系統図" Icon="./electrical-engineering/systems.png" Description="吹き出し付きの電気回路図、メンテナンスと修理の図、ユーティリティインフラストラクチャの設計を作成します。 静的、通信、及び固体装置の形状が含まれています。">
+			<Library Path="./electrical/composite-assemblies.edt" Name="複合アセンブリ"/>
+
+			<Library Path="./electrical/maintenance-symbol.edt" Name="メンテナンス記号"/>
+
+			<Library Path="./electrical/maps-and-charts.edt" Name="マップとチャート"/>
+
+			<Library Path="./electrical/switches-and-relays.edt" Name="スイッチとリレー"/>
+
+			<Library Path="./electrical/telecom-switch-and-peripheral-equip.edt" Name="テレコムスイッチ及び周辺機器"/>
+
+			<Library Path="./electrical/terminals-and-connectors.edt" Name="端子とコネクタ"/>
+
+			<Library Path="./electrical/transformers-and-windings.edt" Name="変圧器と巻線"/>
+
+			<Library Path="./electrical/transmission-path.edt" Name="伝送経路"/>
+
+			<Library Path="./electrical/vhf-uhf-shf.edt" Name="VHF-UHF-SHF"/>
+		</Templates>
+	</Gallery>
+	
+	<Gallery NameU="Industrial Engineering" Name="工業自動化" Version="1.0" Icon="./category/industrial-engineering.png" Description="事前定義されたテンプレートとシンボルを使用してP&amp;ID図を作成してください。">
+		<Templates NameU="Process P&amp;ID" Name="プロセス P&amp;ID" Icon="./industrial-engineering/process-pid.png" Description="プロセスフロー図から、実際の製造プロセス、反応、材料処理、分離、精製、及びその他の工程操作に使用します。">
+			<Library Path="./pid/pid-ductwork.edt" Name="PID配管"/>
+
+			<Library Path="./pid/pid-valves.edt" Name="PID バルブ"/>
+
+			<Library Path="./pid/pid-valves-symbols.edt" Name="PID バルブ記号"/>
+
+			<Library Path="./pid/pid-flow-meters.edt" Name="PID流量計"/>
+
+			<Library Path="./pid/pid-industry.edt" Name="PID 工業"/>
+
+			<Library Path="./pid/pid-material-handling.edt" Name="PID 材料処理"/>
+
+			<Library Path="./pid/pid-plant-facilities.edt" Name="PID 工場設備"/>
+
+			<Library Path="./pid/pid-computer-keys.edt" Name="PID コンピュータキー"/>
+
+			<Library Path="./pid/pid-process-cooling.edt" Name="PID 冷却プロセス"/>
+
+			<Library Path="./pid/pid-process-heating.edt" Name="PID 加熱プロセス"/>
+
+			<Library Path="./pid/pid-lights.edt" Name="PID 照明"/>
+
+			<Library Path="./pid/pid-push-buttons.edt" Name="PID 押しボタン"/>
+		</Templates>
+
+		<Templates NameU="Utility-Generation P&amp;ID" Name="事業用発電 P&amp;ID" Icon="./industrial-engineering/utility-generation-pid.png" Description="ボイラー、冷却塔、流体ヒーター、空気圧縮機などの供給処理システムを展示します。">
+			<Library Path="./pid/pid-ductwork.edt" Name="PID 配管"/>
+
+			<Library Path="./pid/pid-blowers.edt" Name="PID ブロワー"/>
+
+			<Library Path="./pid/pid-boilers.edt" Name="PID ボイラー"/>
+
+			<Library Path="./pid/pid-chemistry.edt" Name="PID 化学"/>
+
+			<Library Path="./pid/pid-heaters.edt" Name="PID ヒーター"/>
+
+			<Library Path="./pid/pid-hvac.edt" Name="PID HVAC"/>
+
+			<Library Path="./pid/pid-logistics.edt" Name="PID ロジスティクス"/>
+
+			<Library Path="./pid/pid-machines.edt" Name="PID 機械"/>
+
+			<Library Path="./pid/pid-ミキサー.edt" Name="PID ミキサー"/>
+
+			<Library Path="./pid/pid-motors.edt" Name="PID 原動機"/>
+
+			<Library Path="./pid/pid-power.edt" Name="PID 電力"/>
+
+			<Library Path="./pid/pid-pumps.edt" Name="PID パンプ"/>
+
+			<Library Path="./pid/pid-tanks.edt" Name="PID タンク"/>
+		</Templates>
+		<Templates NameU="Environmental P&amp;ID" Name="環境 P&amp;ID" Icon="./industrial-engineering/environmental-pid.png" Description="洗浄や汚水処理などの汚染防止プロセスに応用されます。">
+			<Library Path="./pid/pid-ductwork.edt" Name="PID 配管"/>
+
+			<Library Path="./pid/pid-boilers.edt" Name="PID ボイラー"/>
+
+			<Library Path="./pid/pid-chemistry.edt" Name="PID 化学"/>
+
+			<Library Path="./pid/pid-containers.edt" Name="PID コンテナ"/>
+
+			<Library Path="./pid/pid-industry.edt" Name="PID 工業"/>
+
+			<Library Path="./pid/pid-mixers.edt" Name="PID ミキサー"/>
+
+			<Library Path="./pid/pid-motors.edt" Name="PID 原動機"/>
+
+			<Library Path="./pid/pid-plant-facilities.edt" Name="PID 工場設備"/>
+
+			<Library Path="./pid/pid-power.edt" Name="PID 電力"/>
+
+			<Library Path="./pid/pid-pumps.edt" Name="PID パンプ"/>
+
+			<Library Path="./pid/pid-tanks.edt" Name="PID タンク"/>
+
+			<Library Path="./pid/pid-wastewater-treatment.edt" Name="PID 汚水処理"/>
+		</Templates>
+
+		<Templates NameU="Auxillary System P&amp;ID" Name="補助システム P&amp;ID" Icon="./industrial-engineering/auxillary-system-pid.png" Description="コンプレッサー、潤滑及び冷却システム、油圧システム、ポンプスケール、及び主要機器に関連するその他の補助機器を表示します。">
+			<Library Path="./pid/pid-ductwork.edt" Name="PID ダクトワーク"/>
+
+			<Library Path="./pid/pid-boilers.edt" Name="PID ボイラー"/>
+
+			<Library Path="./pid/pid-chemistry.edt" Name="PID 化学"/>
+
+			<Library Path="./pid/pid-containers.edt" Name="PID コンテナ"/>
+
+			<Library Path="./pid/pid-industry.edt" Name="PID 工業"/>
+
+			<Library Path="./pid/pid-mixers.edt" Name="PID ミキサー"/>
+
+			<Library Path="./pid/pid-motors.edt" Name="PID 原動機"/>
+
+			<Library Path="./pid/pid-plant-facilities.edt" Name="PID 工場設備"/>
+
+			<Library Path="./pid/pid-power.edt" Name="PID 力"/>
+
+			<Library Path="./pid/pid-pumps.edt" Name="PID パンプ"/>
+
+			<Library Path="./pid/pid-tanks.edt" Name="PID タンク"/>
+
+			<Library Path="./pid/pid-wastewater-treatment.edt" Name="PID 廃水処理"/>
+		</Templates>
+
+		<Templates NameU="Distribution P&amp;ID" Name="配送 P&amp;ID" Icon="./industrial-engineering/ditribution-pid.png" Description="公共事業、化学薬品、その他の非プロセスストリームの配給工程を示します。">
+			<Library Path="./pid/pid-ductwork.edt" Name="PID 配管"/>
+
+			<Library Path="./pid/pid-industry.edt" Name="PID 工業"/>
+
+			<Library Path="./pid/pid-logistics.edt" Name="PID ロジスティクス"/>
+
+			<Library Path="./pid/pid-plant-facilities.edt" Name="PID 工場設備"/>
+
+			<Library Path="./pid/pid-buildings.edt" Name="PID 建物"/>
+
+			<Library Path="./pid/pid-lights.edt" Name="PID 照明"/>
+
+			<Library Path="./pid/pid-meters.edt" Name="PID メーター"/>
+
+			<Library Path="./pid/pid-push-buttons.edt" Name="PID 押しボタン"/>
+
+			<Library Path="./pid/pid-safety.edt" Name="PID 安全"/>
+		</Templates>
+		
+		<Templates NameU="Process Flow Diagram" Name="プロセスフロー図" Icon="./industrial-engineering/process-flow-diagram.png" Description="配管システム、配管サポート、液体転送システムのプロセスフロー図を作成します。">
+			<Library Path="./process-engineering/equipment-stream-flag.edt" Name="設備ストリームフラグ"/>
+
+			<Library Path="./process-engineering/piping-and-connection-shapes.edt" Name="配管とコネクタ"/>
+
+			<Library Path="./process-engineering/equipment-general.edt" Name="設備-基本"/>
+
+			<Library Path="./process-engineering/equipment-pumps.edt" Name="設備-ポンプ"/>
+
+			<Library Path="./process-engineering/equipment-heat-exchanges.edt" Name="機器-熱交換"/>
+
+			<Library Path="./process-engineering/equipment-vessels.edt" Name="機器-容器"/>
+
+			<Library Path="./process-engineering/equipment-valves.edt" Name="機器-バルブ"/>
+
+			<Library Path="./process-engineering/equipment-Instruments.edt" Name="機器-計器"/>
+		</Templates>
+
+		<Templates NameU="Piping and Instrumentation Diagram" Name="配管計装図" Icon="./industrial-engineering/piping-and-instrumentation-diagram.png" Description="配管システム、配管サポート、液体転送システムの配管図と計装図を作成します。">
+			<Library Path="./process-engineering/piping-and-connection-shapes.edt" Name="配管とコネクタ"/>
+
+			<Library Path="./process-engineering/equipment-general.edt" Name="設備-基本"/>
+
+			<Library Path="./process-engineering/equipment-centrifuges.edt" Name="設備-遠心分離機"/>
+
+			<Library Path="./process-engineering/equipment-compressors.edt" Name="設備-コンプレッサー"/>
+
+			<Library Path="./process-engineering/equipment-crushers.edt" Name="設備-クラッシャー"/>
+
+			<Library Path="./process-engineering/equipment-filters.edt" Name="設備-フィルター"/>
+
+			<Library Path="./process-engineering/equipment-heat-exchanges.edt" Name="設備-熱交換"/>
+
+			<Library Path="./process-engineering/equipment-mixers.edt" Name="設備-ミキサー"/>
+
+			<Library Path="./process-engineering/equipment-motors.edt" Name="設備-モーター"/>
+
+			<Library Path="./process-engineering/equipment-peripheral.edt" Name="設備-周辺設備"/>
+
+			<Library Path="./process-engineering/equipment-pumps.edt" Name="設備-ポンプ"/>
+
+			<Library Path="./process-engineering/equipment-vessels.edt" Name="設備-容器"/>
+
+			<Library Path="./process-engineering/equipment-valves.edt" Name="設備-バルブ"/>
+
+			<Library Path="./process-engineering/equipment-Instruments.edt" Name="設備-計器"/>
+		</Templates>
+
+	</Gallery>
+	
+	<Gallery NameU="Map" Name="地図" Version="1.0" Icon="./category/map.png" Description="事前定義されたテンプレートとシンボルを使用して、地形図、道路地図、地下鉄の路線図などを作成します。">
+		<Templates NameU="Directional Map 3D" Name="道路地図（3D）" Icon="./map/directional-map-3D.png" Description="道路、車両、交差点、建物のランドマークなどの交通機関に関しての図形が含まれています。">
+			<Library Path="./maps/3d-directional-maps.edt" Name="3D道路地図"/>
+
+			<Library Path="./maps/3d-landmarks.edt" Name="3Dランドマーク"/>
+
+			<Library Path="./maps/map-pointers.edt" Name="マップ ポインター"/>
+
+			<Library Path="./maps/map-vehicles.edt" Name="マップ 車両"/>
+		</Templates>
+
+		<!-- <Templates NameU="Geo Map" Name="地形図" Icon="./map/geo-map.png" Description="地形図を作成するための特定な図形と設定が含まれています。">
+			<Library Path="./maps/africa.edt" Name="アフリカ"/>
+			<Library Path="./maps/asia.edt" Name="アジア"/>
+			<Library Path="./maps/australia.edt" Name="オーストラリア"/>
+			<Library Path="./maps/canada.edt" Name="カナダ"/>
+			<Library Path="./maps/europe.edt" Name="ヨーロッパ"/>
+			<Library Path="./maps/south-america.edt" Name="南アメリカ"/>
+			<Library Path="./maps/world-map.edt" Name="世界地図"/>
+			<Library Path="./maps/usa.edt" Name="アメリカ"/>
+
+		</Templates> -->
+
+		<Templates NameU="Directional Map" Name="道路地図" Icon="./map/directional-map.png" Description="高速道路、パークウェイ、交差点、交通標識、ルート、線路、鉄道トラック、中継ターミナル、河川、建物、交通手段などの図形が含まれています。">
+			<Library Path="./maps/2d-directional-maps.edt" Name="2D道路地図"/>
+
+			<Library Path="./maps/2d-landmarks.edt" Name="2Dランドマーク"/>
+
+			<Library Path="./maps/map-pointers.edt" Name="マップ ポインター"/>
+
+			<Library Path="./maps/map-vehicles.edt" Name="マップ 車両"/>
+		</Templates>
+
+		<Templates NameU="Subway Map" Name="地下鉄路線図" Icon="./map/subway-map.png" Description="地下鉄路線図を作成するための特定な図形と設定が含まれています。">
+			<Library Path="./maps/subway.edt" Name="地下鉄"/>
+		</Templates>
+	</Gallery>
+	
+	</Galleries>
+
+	<Galleries NameU="Design" Name="設計" Icon="./category/design.png">
+	
+	<Gallery NameU="Graphic Design" Name="グラフィックデザイン" Version="1.0" Icon="./category/graphic-design.png" Description="Edraw Maxを使用して、数分間でカバー、バナー、パンフレット、チラシ/ラベル、ニュースレター、ポスターをデザインできます。 実際な設計スキルは必要ありません。">
+		<Templates NameU="Annual Reports" Name="年間報告書" Icon="./graphic-design/annual-reports.png" Description="年間報告書や事業計画を作成するための特定な図形が含まれています。">
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形"/>
+		</Templates>
+		<Templates NameU="Banner" Name="バナー" Icon="./graphic-design/banner.png" Description="バナーを作成するための特定な図形が含まれています。">
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形"/>
+		</Templates>
+
+		<Templates NameU="Brochure" Name="パンフレット" Icon="./graphic-design/brochure.png" Description="パンフレットを作成するための特定な図形が含まれています。">
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形"/>
+		</Templates>
+
+		<Templates NameU="Certificate" Name="証明書" Icon="./graphic-design/certificate.png" Description="証明書を作成するための特定な図形が含まれています。">
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形"/>
+		</Templates>
+
+		<Templates NameU="Cover" Name="カバー" Icon="./graphic-design/cover.png" Description="カバーを作成するための特定な図形が含まれています。">
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形"/>
+		</Templates>
+
+		<Templates NameU="Flyer" Name="チラシ" Icon="./graphic-design/flyer.png" Description="チラシを作成するための特定な図形が含まれています。">
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形"/>
+		</Templates>
+
+		<Templates NameU="Label" Name="ラベル" Icon="./graphic-design/label.png" Description="ラベルやCDカバーを作成するための特定な図形が含まれています。">
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形"/>
+		</Templates>
+
+		<Templates NameU="Magazines" Name="雑誌" Icon="./graphic-design/magazines.png" Description="雑誌、書類、カタログを作成するための特定な図形が含まれています。">
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形"/>
+		</Templates>
+
+		<Templates NameU="Newsletter" Name="ニュースレター" Icon="./graphic-design/newsletter.png" Description="ニュースレターを作成するための特定な図形が含まれています。">
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形"/>
+		</Templates>
+
+		<Templates NameU="Picture Collage" Name="コラージュ" Icon="./graphic-design/picture-collage.png" Description="豊富な形状とテンプレートを使用しておしゃれな写真のコラージュを作成します。">
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形"/>
+		</Templates>
+
+		<Templates NameU="Poster" Name="ポスター" Icon="./graphic-design/poster.png" Description="ポスターを作成するための特定な図形が含まれています。">
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形"/>
+		</Templates>
+	</Gallery>
+	
+	<Gallery NameU="Infographic" Name="インフォグラフィック" Version="1.0" Icon="./category/infographics.png" Description="事前定義されたのテンプレートとシンボルを使用して、自分のユーニックなカスタムインフォグラフィックを数分間で作成します。設計スキルは必要ありません。">
+
+		<Templates NameU="Architecture" Name="建築" Icon="./infographic/architecture.png" Description="建築に関してのインフォグラフィックを作成します。">
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形"/>
+
+			<Library Path="./graphs-and-charts/infographic-charts.edt" Name="インフォグラフィックチャート"/>
+		</Templates>
+
+		<Templates NameU="Business" Name="ビジネス" Icon="./infographic/business.png" Description="ビジネスに関してのインフォグラフィックを作成します。">
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形"/>
+
+			<Library Path="./graphs-and-charts/infographic-charts.edt" Name="インフォグラフィックチャート"/>
+		</Templates>
+
+		<Templates NameU="Education" Name="教育" Icon="./infographic/edcation.png" Description="教育に関してのインフォグラフィックを作成します。">
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形"/>
+		</Templates>
+
+		<Templates NameU="Environment" Name="環境" Icon="./infographic/environment.png" Description="環境に関してのインフォグラフィックを作成します。">
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形"/>
+
+			<Library Path="./graphs-and-charts/infographic-charts.edt" Name="インフォグラフィックチャート"/>
+		</Templates>
+
+		<Templates NameU="Food" Name="食べ物" Icon="./infographic/food.png" Description="食べ物に関してのインフォグラフィックを作成します。">
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形"/>
+		</Templates>
+
+		<Templates NameU="Medical" Name="医療" Icon="./infographic/medical.png" Description="医療用に関してのインフォグラフィックを作成します。">
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形"/>
+			<Library Path="./graphs-and-charts/infographic-charts.edt" Name="インフォグラフィックチャート"/>
+		</Templates>
+
+		<Templates NameU="Music" Name="音楽" Icon="./infographic/music.png" Description="音楽に関してのインフォグラフィックを作成します。">
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形"/>
+
+			<Library Path="./graphs-and-charts/infographic-charts.edt" Name="インフォグラフィックチャート"/>
+		</Templates>
+
+		<Templates NameU="News" Name="ニュース" Icon="./infographic/news.png" Description="ニュースに関してのインフォグラフィックを作成します。">
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形"/>
+			<Library Path="./graphs-and-charts/infographic-charts.edt" Name="インフォグラフィックチャート"/>
+		</Templates>
+
+		<Templates NameU="Technology" Name="テクノロジー" Icon="./infographic/technology.png" Description="テクノロジーに関してインフォグラフィックを作成します。">
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形"/>
+		</Templates>
+
+		<Templates NameU="Tourism" Name="観光" Icon="./infographic/tourism.png" Description="観光産業に関してのインフォグラフィックを作成します。">
+			
+			<Library Path="./graphs-and-charts/infographic-charts.edt" Name="インフォグラフィックチャート"/>
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形"/>
+		</Templates>
+
+		<Templates NameU="Transportation" Name="交通機関" Icon="./infographic/transportation.png" Description="交通機関に関してのインフォグラフィックを作成します。">
+			
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形"/>
+			<Library Path="./graphs-and-charts/infographic-charts.edt" Name="インフォグラフィックチャート"/>
+		</Templates>
+	</Gallery>
+
+	<Gallery NameU="Card" Name="カード" Version="1.0"  Icon="./category/card.png"  Description="事前定義されたテンプレートとシンボルで美しいカードを作成します。デザインのスキルは必要ありません。">
+		<Templates NameU="Business Card" Name="名刺" Icon="./card/business-cards.png" Description="名刺を作成するための特定な図形が含まれています。">
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形"/>
+			<Library Path="./general/business.edt" Name="ビジネス"/>
+			<Library Path="./general/business-scene-1.edt" Name="ビジネスシーン1"/>
+			<Library Path="./general/business-scene-2.edt" Name="ビジネスシーン2"/>
+		</Templates>
+
+		<Templates NameU="Thank You Card" Name="感謝状" Icon="./card/thank-you-card.png" Description="感謝状を作成するための特定な図形が含まれています。">
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形"/>
+		</Templates>
+
+		<Templates NameU="Invitation Card" Name="招待状" Icon="./card/invitation-card.png" Description="招待状を作成するための特定な図形が含まれています。">
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形"/>
+		</Templates>
+
+		<Templates NameU="Postcard" Name="はがき" Icon="./card/postcard.png" Description="はがきを作成するための特定な図形が含まれています。">
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形"/>
+
+		</Templates>
+
+		<Templates NameU="Birthday Card" Name="誕生日カード" Icon="./card/birthday-card.png" Description="誕生日カードを作成するための特定な図形が含まれています。">
+		
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形"/>
+		</Templates>
+
+		<Templates NameU="Christmas" Name="クリスマス" Icon="./card/chrismas.png" Description="クリスマスカードを作成するための特定な図形が含まれています。">
+			
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形"/>
+		</Templates>
+
+		<Templates NameU="Halloween" Name="ハロウィン" Icon="./card/halloween.png" Description="ハロウィンカードを作成するための特定な図形が含まれています。">
+			
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形"/>
+		</Templates>
+
+		<Templates NameU="Carnival" Name="カーニバル" Icon="./card/carnival.png" Description="カーニバルカードを作成するための特定な図形が含まれています。">
+			
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形"/>
+		</Templates>
+
+		<Templates NameU="Childrens Day" Name="こどもの日" Icon="./card/childrens-day.png" Description="こどもの日のカードを作成するための特定な図形が含まれています。">
+			
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形"/>
+		</Templates>
+
+		<Templates NameU="Easter" Name="復活祭" Icon="./card/easter.png" Description="復活祭のカードを作成するための特定な図形が含まれています。">
+			
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形"/>
+		</Templates>
+
+		<Templates NameU="New Year" Name="年賀状" Icon="./card/new-year.png" Description="年賀状を作成するための特定な図形が含まれています。">
+					
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形"/>
+		</Templates>
+
+		<Templates NameU="Valentines Day" Name="バレンタインデー" Icon="./card/valentines-day.png" Description="バレンタインデーのカードを作成するための特定な図形が含まれています。">		
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形"/>
+		</Templates>
+	</Gallery>
+	
+	<Gallery NameU="UI&amp;UX" Name="UI&amp;UX" Version="1.0" Description="Create a wireframe to translate your ideas for a website / an APP into reality.">
+		<Templates NameU="Website Wireframe" Name="ウェブサイトのワイヤーフレーム" Icon="./wireframe/web-site-wireframe.png" Description="Webサイトの骨格フレームワークを示します。">
+			<Library Path="./wireframe/website-wireframe-1.edt" Name="ウェブサイトのワイヤーフレーム 1"/>
+
+			<Library Path="./wireframe/website-wireframe-2.edt" Name="ウェブサイトのワイヤーフレーム 2"/>
+
+			<Library Path="./wireframe/wireframe-icons.edt" Name="ワイヤーフレームアイコン"/>
+		</Templates>
+
+		<Templates NameU="Windows UI" Name="Windows UI" Icon="./wireframe/windows-ui.png" Description="Windows UIをデザインするための特定な図形が含まれています。">
+			<Library Path="./wireframe/windows-ui.edt" Name="Windows UI"/>
+		</Templates>
+
+		<Templates NameU="iPhone UI" Name="iPhone UI" Icon="./wireframe/iphone-ui.png" Description="iphone UIワイヤーフレームを作成するために使用されます。">
+			<Library Path="./wireframe/iphone-ui.edt" Name="iPhone UI"/>
+
+			<Library Path="./wireframe/touch-gesture.edt" Name="タッチジェスチャー"/>
+		</Templates>
+
+		<Templates NameU="Android UI" Name="Android UI" Icon="./wireframe/android-ui.png" Description="Android UIワイヤーフレームを作成するために使用されます。">
+			<Library Path="./wireframe/android-ui.edt" Name="Android UI"/>
+
+			<Library Path="./wireframe/touch-gesture.edt" Name="タッチジェスチャー"/>
+		</Templates>
+
+		<Templates NameU="iPad UI" Name="iPad UI" Icon="./wireframe/ipad-ui.png" Description="iPad UIワイヤーフレームを作成するために使用されます。">
+			<Library Path="./wireframe/ipad-ui.edt" Name="iPad UI"/>
+
+			<Library Path="./wireframe/touch-gesture.edt" Name="タッチジェスチャー"/>
+		</Templates>
+
+		<Templates NameU="Conceptual Web Site" Name="ウェブサイト概念図" Icon="./wireframe/conceptual-web-site.png" Description="ホームページ、ウェブサイト、ハイパーリンクドキュメントの概念図と高度なアーキテクチャを設計します。">
+			<Library Path="./wireframe/conceptual-website-shapes.edt" Name="ウェブサイト概念図"/>
+		</Templates>
+		<Templates NameU="Website Map" Name="サイトマップ" Icon="./wireframe/web-site-map.png" Description="HTTPサーバー、ネットワークサーバー、及びローカルハードドライブにウェブサイトのサイトマップを書きます。">
+			<Library Path="./wireframe/web-site-map.edt" Name="ウェブサイトマップ"/>
+		</Templates>
+	</Gallery>
+	
+	</Galleries>
+	
+	<Galleries NameU="Science and Education" Name="科学と教育" Icon="./category/education.png">
+	
+	<Gallery NameU="Science" Name="科学" Version="1.0" Description="Create biology diagrams / math diagrams / chemistry diagrams / astronomy diagrams with ease. Best educational toolkit for teachers and students.">
+		<Templates NameU="Mechanics" Name="力学" Icon="./science/mechanics.png" Description="テンプレートを使用して、物理力学のイラストを作成します。">
+			<Library Path="./science/mechanics.edt" Name="力学"/>
+		</Templates>
+
+		<Templates NameU="Optics" Name="光学" Icon="./science/optics.png" Description="テンプレートを使用して、物理光学のイラストを作成します。">
+			<Library Path="./science/optics.edt" Name="光学"/>
+		</Templates>
+
+		<Templates NameU="Chemistry Equation" Name="化学方程式" Icon="./science/chemistry-equation.png" Description="テンプレートを使用して、化学方程式の図を作成します。">
+			<Library Path="./science/chemical-equation.edt" Name="化学方程式"/>
+		</Templates>
+
+		<Templates NameU="Laboratory Equipment" Name="実験器具" Icon="./science/laboratory-equipment.png" Description="テンプレートを使用して、化学実験装置の図を作成します。">
+			<Library Path="./science/laboratory-equipment.edt" Name="実験器具"/>
+		</Templates>
+
+		<Templates NameU="Molecular Model" Name="分子モデル" Icon="./science/molecular-model.png" Description="テンプレートを使用して、化学分子モデルの図を作成します。">
+			<Library Path="./science/molecular-model.edt" Name="分子モデル"/>
+
+			<Library Path="./science/ball-and-stick-model.edt" Name="ボールとスティックのモデル"/>
+		</Templates>
+
+		<Templates NameU="Mathematics" Name="数学" Icon="./science/mathematics.png" Description="テンプレートを使用して、平面と立体の幾何学図形、三角関数、ギリシャ文字のあるな数学教育用のイラストを作成します。">
+			<Library Path="./science/mathematical-symbol.edt" Name="数学記号"/>
+		</Templates>
+		
+		<Templates NameU="Genogram" Name="ジェノグラム" Icon="./science/genogram.png" Description="Use the template to create educational math illustrations with the shapes of plane and solid geometric figures, trigonometrical functions, greek letters.">
+			<Library Path="./family-tree/genogram.edt" Name="ジェノグラム"/>
+		</Templates>
+
+		<Templates NameU="Human Organs" Name="人間の臓器" Icon="./science/human-organs.png" Description="テンプレートを使用して、教育用の人間の臓器の図を作成します。">
+			<Library Path="./science/human-organs.edt" Name="人間の臓器"/>
+		</Templates>
+
+		<Templates NameU="Biology" Name="生物学" Icon="./science/biology.png" Description="テンプレートを使用して細胞図を作成します。">
+			<Library Path="./science/biotechnology.edt" Name="バイオテクノロジー"/>
+
+			<Library Path="./science/animal-cells.edt" Name="動物細胞"/>
+
+			<Library Path="./science/plant-cell.edt" Name="植物細胞"/>
+		</Templates>
+		<Templates NameU="Astronomy" Name="天文学" Icon="./science/astronomy.png" Description="テンプレートを使用して天文学図を作成します。
+		
+		">
+			<Library Path="./science/astronomy.edt" Name="天文学"/>
+		</Templates>
+		
+		<Templates NameU="Courses Learning" Name="学習" Icon="./science/courses-learning.png" Description="Use the template to create physics mechanics illustration.">
+			<Library Path="./canvas/sticker.edt" Name="ステッカー"/>			
+			<Library Path="./canvas/canvas-templates.edt" Name="カンバス"/>
+		</Templates>
+	</Gallery>
+	
+	<Gallery NameU="Graphic Organizer" Name="思考ツール" Version="1.0" Description="It is a pedagogical tool that uses visual symbols to express knowledge, concepts, thoughts, or ideas, and the relationships between them. ">
+		<Templates NameU="Compare and Contract" Name="比較図" Icon="./graphic-organizer/compare-and-contract.png" Description="2つの対象物の共通点と相違点を伝えるために使用されます。">
+			<Library Path="./business/venn-chart.edt" Name="ベン図"/>
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形"/>
+		</Templates>
+
+		<Templates NameU="Grid and Matrix" Name="グリッドとマトリックス" Icon="./graphic-organizer/grid-and-matrix.png" Description="グリッドとマトリックスを使用して、2つの軸でアイテムを比較します。多くの場合、グリッドは多くの情報を含むストーリーボードの最良選択です。">			
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形"/>
+			<Library Path="./marketing/matrix.edt" Name="マトリックス" />
+		</Templates>
+
+		<Templates NameU="Main Idea and Detail" Name="メインアイデアと詳細" Icon="./graphic-organizer/main-idea-and-detail.png" Description="メインアイデアと詳細グラフは、主要な概念とその従属要素間の階層関係を示しています。">
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形"/>
+
+			<Library Path="./business/circular-charting-shapes.edt" Name="円形チャートの図形"/>
+		</Templates>
+
+		<Templates NameU="Sequence Chart" Name="シーケンスチャート" Icon="./graphic-organizer/sequence-chart.png" Description="シーケンスチャートは、一連のステップまたはイベントを、それらが発生する順序で示します。">
+			<Library Path="./business/process-steps.edt" Name="プロセスステップ"/>
+
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形"/>
+		</Templates>
+
+		<Templates NameU="Spider Chart" Name="レーダーチャート" Icon="./graphic-organizer/spider-chart.png" Description="スパイダーチャートは、放射状で、非線形の方法でアイデアまたはトピックをグラフィカルに表現したものです。">
+			<Library Path="./graphs-and-charts/radar-chart.edt" Name="レーダーチャート"/>
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形"/>
+		</Templates>
+
+		<Templates NameU="Storyboard" Name="ストーリーボード" Icon="./graphic-organizer/storyboard.png" Description="ストーリーマップは、登場人物、プロット、設定、問題、及び解決策の概要を示し、事前書き込みと読解などの活動を支援する学習ツールです。">
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形"/>
+			<Library Path="./business/list-shapes.edt" Name="リスト"/>
+		</Templates>
+
+		<Templates NameU="T-Chart" Name="Tチャート" Icon="./graphic-organizer/t-chart.png" Description="Tチャートは、本や本の登場人物、科学現象、社会調査、イベントなど、あらゆるコンテンツ領域やジャンルで比較するために使用されます。">
+			<Library Path="./general/basic-drawing-shapes.edt" Name="基本図形"/>
+
+			<Library Path="./business/list-shapes.edt" Name="リスト"/>
+
+			<Library Path="./business/process-steps.edt" Name="プロセスステップ"/>
+		</Templates>
+	</Gallery>
+	
+	</Galleries>
+	
+</Galleries>

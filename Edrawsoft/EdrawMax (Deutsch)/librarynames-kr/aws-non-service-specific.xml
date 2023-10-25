@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="AWS Non-Service Specific">
+    <Elem NameU="AWS Cloud" Name="AWS클라우드"/>
+    <Elem NameU="Management Console" Name="관리통제 콘솔"/>
+    <Elem NameU="Client" Name="클라이언트"/>
+    <Elem NameU="Availability Zone" Name="가용성 영역"/>
+    <Elem NameU="Region" Name="지역"/>
+    <Elem NameU="Security Group" Name="보안 그룹"/>
+    <Elem NameU="Server Contents" Name="서버 콘텐츠"/>
+    <Elem NameU="AWS Cloud Contents" Name="AWS 클라우드 콘텐츠"/>
+    <Elem NameU="Corporate Data Center" Number="2" Name="기업 데이터 센터"/>
+    <Elem NameU="Disk" Name="디스크"/>
+    <Elem NameU="Forums" Name="포럼"/>
+    <Elem NameU="Generic Database" Name="일반 데이터베이스"/>
+    <Elem NameU="Internet" Name="인터넷트"/>
+    <Elem NameU="Mobile Client" Name="모바일 클라이언트"/>
+    <Elem NameU="Multimedia" Name="멀티미디어"/>
+    <Elem NameU="Tape Storage" Name="테이프 저장소"/>
+    <Elem NameU="Traditional Server" Name="기존 서버"/>
+    <Elem NameU="User" Name="사용자"/>
+    <Elem NameU="Users" Name="사용자들"/>
+    <Elem NameU="Virtual Private Cloud" Name="가상 프라이빗 클라우드"/>
+    <Elem NameU="aws" Name="aws"/>
+</Lib>

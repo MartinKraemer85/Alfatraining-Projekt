@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Shopping">
+	<Elem NameU="Shopping Mall" Name="Centro Commerciale"/>
+	<Elem NameU="Shopping Cart" Name="Carrello"/>
+	<Elem NameU="Shopping Basket" Name="Cestino della Spesa"/>
+	<Elem NameU="Shopping Bag 1" Name="Busta della Spesa 1"/>
+	<Elem NameU="Shopping Bag 2" Name="Busta della Spesa 2"/>
+	<Elem NameU="Shop 1" Name="Negozio 1"/>
+	<Elem NameU="Shop 2" Name="Negozio 2"/>
+	<Elem NameU="Open Plate 1" Name="Insegna Aperto 1"/>
+	<Elem NameU="Open Plate 2" Name="Insegna Aperto 2"/>
+	<Elem NameU="Discount Label 1" Name="Etichetta Sconto 1"/>
+	<Elem NameU="Discount Label 2" Name="Etichetta Sconto 2"/>
+	<Elem NameU="Discount Label 3" Name="Etichetta Sconto 3"/>
+	<Elem NameU="Discount Label 4" Name="Etichetta Sconto 4"/>
+	<Elem NameU="Discount Label 5" Name="Etichetta Sconto 5"/>
+	<Elem NameU="Discount Label 6" Name="Etichetta Sconto 6"/>
+	<Elem NameU="Discount Label 7" Name="Etichetta Sconto 7"/>
+	<Elem NameU="Discount Label 8" Name="Etichetta Sconto 8"/>
+	<Elem NameU="Open 24 Hours 1" Name="Aperto 24/24 1"/>
+	<Elem NameU="Open 24 Hours 2" Name="Aperto 24/24 2"/>
+	<Elem NameU="Bank Card" Name="Bancomat"/>
+	<Elem NameU="Shopper 1" Name="Acquirente 1"/>
+	<Elem NameU="Shopper 2" Name="Acquirente 2"/>
+	<Elem NameU="Shopper 3" Name="Acquirente 3"/>
+	<Elem NameU="Shopper 4" Name="Acquirente 4"/>
+	<Elem NameU="Shopper 5" Name="Acquirente 5"/>
+	<Elem NameU="Shopper 6" Name="Acquirente 6"/>
+	<Elem NameU="Shopper 7" Name="Acquirente 7"/>
+	<Elem NameU="Shopper 8" Name="Acquirente 8"/>
+	<Elem NameU="Shopper 9" Name="Acquirente 9"/>
+	<Elem NameU="Shopper 10" Name="Acquirente 10"/>
+	<Elem NameU="Shopper 11" Name="Acquirente 11"/>
+	<Elem NameU="Couple" Name="Coppia"/>
+	<Elem NameU="Friends 1" Name="Amici 1"/>
+	<Elem NameU="Friends 2" Name="Amici 2"/>
+	<Elem NameU="Shopper 12" Name="Acquirente 12"/>
+	<Elem NameU="Shopper 13" Name="Acquirente 13"/>
+	<Elem NameU="Necklace" Name="Collana"/>
+	<Elem NameU="T-Shirt" Name="Maglietta"/>
+	<Elem NameU="High Heels Shoes" Name="Scarpe con Tacco"/>
+	<Elem NameU="Sneaker" Name="Scarpe da Ginnastica"/>
+	<Elem NameU="Handbag" Name="Borsetta"/>
+	<Elem NameU="Jewelry 1" Name="Gioielli 1"/>
+	<Elem NameU="Jewelry 2" Name="Gioielli 2"/>
+	<Elem NameU="Jewelry 3" Name="Gioielli 3"/>
+	<Elem NameU="Lamp" Name="Lampada"/>
+	<Elem NameU="Watch" Name="Orologio"/>
+	<Elem NameU="Lipstick" Name="Rossetto"/>
+	<Elem NameU="Sunglasses" Name="Occhiali da Sole"/>
+	<Elem NameU="Gift" Name="Regalo"/>
+	<Elem NameU="Nail Polish" Name="Smalto"/>
+	<Elem NameU="Handbag 1" Name="Borsetta 1"/>
+	<Elem NameU="Handbag 2" Name="Borsetta 2"/>
+	<Elem NameU="Handbag 3" Name="Borsetta 3"/>
+	<Elem NameU="Hat" Name="Cappello"/>
+	<Elem NameU="Shopping Tote" Name="Busta per la Spesa"/>
+	<Elem NameU="Online Shopping 1" Name="Shopping Online 1"/>
+	<Elem NameU="Online Shopping 2" Name="Shopping Online 2"/>
+	<Elem NameU="POS Machine" Name="Dispositivo POS"/>
+	<Elem NameU="Private Car" Name="Macchina Privata"/>
+	<Elem NameU="Truck" Name="Furgone"/>
+</Lib>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Biotechnology">
+	<Elem NameU="Brain" Name="Cervello"/>
+	<Elem NameU="Neuron" Name="Neurone"/>
+	<Elem NameU="DNA 1" Name="DNA 1"/>
+	<Elem NameU="DNA 2" Name="DNA 2"/>
+	<Elem NameU="Cells" Name="Cellule"/>
+	<Elem NameU="Molecular Structure 1" Name="Struttura Molecolare 1"/>
+	<Elem NameU="Molecular Structure 2" Name="Struttura Molecolare 2"/>
+	<Elem NameU="Molecular Structure 3" Name="Struttura Molecolare 3"/>
+	<Elem NameU="Molecular Structure 4" Name="Struttura Molecolare 4"/>
+	<Elem NameU="Plant Cell" Name="Cellula Vegetale"/>
+	<Elem NameU="Animal Cells" Name="Cellule Animali"/>
+	<Elem NameU="Microbial Culture Medium" Name="Terreno di Coltura Microbica"/>
+	<Elem NameU="Surgical Scissors" Name="Forbici Chirurgiche"/>
+	<Elem NameU="Injector" Name="Iniettore"/>
+	<Elem NameU="Microscopes" Name="Microscopi"/>
+	<Elem NameU="Specimen" Name="Campione"/>
+	<Elem NameU="Plant Specimens" Name="Campioni Vegetali"/>
+	<Elem NameU="Glass Pipette" Name="Pipetta di Vetro"/>
+	<Elem NameU="Test Tube" Name="Provetta"/>
+	<Elem NameU="Glassware 1" Name="Oggetto in Vetro 1"/>
+	<Elem NameU="Glassware 2" Name="Oggetto in Vetro 2"/>
+	<Elem NameU="Experiment 1" Name="Esperimento 1"/>
+	<Elem NameU="Experiment 2" Name="Esperimento 2"/>
+	<Elem NameU="Experimenter 1" Name="Sperimentatore 1"/>
+	<Elem NameU="Experimenter 2" Name="Sperimentatore 2"/>
+	<Elem NameU="Experimenter 3" Name="Sperimentatore 3"/>
+	<Elem NameU="Biology And Technology" Name="Biologia e Tecnologia"/>
+</Lib>

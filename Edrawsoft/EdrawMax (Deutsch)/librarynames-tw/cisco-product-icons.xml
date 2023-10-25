@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Cisco Product Icons">
+	<Elem NameU="Access Gateway" Name="接入網關"/>
+	<Elem NameU="Accesspoint" Name="接入點"/>
+	<Elem NameU="Ace" Name="Ace"/>
+	<Elem NameU="ACS" Name="ACS"/>
+	<Elem NameU="ADM" Name="複用器"/>
+	<Elem NameU="Androgenous Person" Name="雄性人"/>
+	<Elem NameU="Antenna" Name="天線"/>
+	<Elem NameU="Asic Processor" Name="Asic處理器"/>
+	<Elem NameU="ASR 1000 Series" Name="ASR 1000系列"/>
+	<Elem NameU="Ata" Name="資料"/>
+	<Elem NameU="Atm 3800" Name="Atm 3800"/>
+	<Elem NameU="Atm Fast Gigabit Etherswitch" Name="Atm快速千兆以太網交換機"/>
+	<Elem NameU="Atm Router" Name="Atm路由器"/>
+	<Elem NameU="Atm Switch" Name="Atm交換機"/>
+	<Elem NameU="Atm Tag Switch Router" Name="Atm標籤交換路由器"/>
+	<Elem NameU="Avs" Name="平均值"/>
+	<Elem NameU="AXP" Name="AXP"/>
+	<Elem NameU="Bbfw Media" Name="Bbfw媒體"/>
+	<Elem NameU="Bbfw" Name="Bbfw"/>
+	<Elem NameU="Bbsm" Name="寬帶服務管理器"/>
+	<Elem NameU="Branch Office" Name="分支機構"/>
+	<Elem NameU="Breakout Box" Name="分線盒"/>
+	<Elem NameU="Bridge" Name="橋"/>
+	<Elem NameU="Broadband Router" Name="寬帶路由器"/>
+	<Elem NameU="Bts 10200" Name="Bts 10200"/>
+	<Elem NameU="Cable Modem" Name="電纜資料機"/>
+	<Elem NameU="Callmanager" Name="呼叫管理器"/>
+	<Elem NameU="Car" Name="車"/>
+	<Elem NameU="Carrier RoutingSystem" Name="載波路由系統"/>
+	<Elem NameU="Cddi-Fddi" Name="Cddi-Fddi"/>
+	<Elem NameU="Cdm" Name="Cdm"/>
+	<Elem NameU="Cellular Phone" Name="便攜式電話"/>
+	<Elem NameU="Centri Firewall" Name="中央防火墻"/>
+	<Elem NameU="Cisco 1000" Name="思科1000"/>
+	<Elem NameU="Cisco asa 5500" Name="思科asa 5500"/>
+	<Elem NameU="Cisco Ca" Name="思科Ca"/>
+	<Elem NameU="Cisco File Engine" Name="思科檔案引擎"/>
+	<Elem NameU="Cisco Hub" Name="思科集線器"/>
+	<Elem NameU="Cisco unified presence server" Name="思科統一狀態伺服器"/>
+	<Elem NameU="Cisco Unityexpress" Name="思科統一快遞"/>
+	<Elem NameU="Ciscosecurity" Name="思科安全"/>
+	<Elem NameU="Ciscoworks" Name="思科工作"/>
+	<Elem NameU="Class 4_5Switch" Name="4_5類開關"/>
+	<Elem NameU="Cloud" Name="雲端硬碟"/>
+	<Elem NameU="Communications Server" Name="通信伺服器"/>
+	<Elem NameU="Contact Center" Name="聯絡中心"/>
+	<Elem NameU="Content Engine" Name="內容引擎"/>
+	<Elem NameU="Content Service Router" Name="內容伺服路由器"/>
+	<Elem NameU="Content Service Switch 1100" Name="內容服務交換機1100"/>
+	<Elem NameU="Content Switch Module" Name="內容切換模塊"/>
+	<Elem NameU="Content Switch" Name="內容切換"/>
+	<Elem NameU="Content Transformation Engine (cte)" Name="內容轉換發動機"/>
+	<Elem NameU="Cs-Mars" Name="Cs-Mars"/>
+	<Elem NameU="Csm-s" Name="Csm-s"/>
+	<Elem NameU="Csu_Dsu" Name="Csu_Dsu"/>
+	<Elem NameU="CUBE" Name="CUBE"/>
+	<Elem NameU="Detector" Name="探測器"/>
+	<Elem NameU="Director-Class Fibre Channel Director" Name="控制器類光纖通道控制器"/>
+	<Elem NameU="Directory Server" Name="目錄伺服器"/>
+	<Elem NameU="Diskette" Name="軟盤"/>
+	<Elem NameU="Distributed Director" Name="分佈式伺服器"/>
+	<Elem NameU="Dot-Dot" Name="圓點"/>
+	<Elem NameU="Dpt" Name="Dpt"/>
+	<Elem NameU="Dslam" Name="數字用戶局端設備"/>
+	<Elem NameU="Dual Mode Ap" Name="雙模Ap"/>
+	<Elem NameU="Dwdm Filter" Name="密集波分複用濾波器"/>
+	<Elem NameU="End Office" Name="終端辦公室"/>
+	<Elem NameU="Fax" Name="傳真"/>
+	<Elem NameU="Fc Storage" Name="光纖通道存儲"/>
+	<Elem NameU="Fddi Ring" Name="Fddi環"/>
+	<Elem NameU="Fibre Channel Disk Subsystem" Name="光纖通道磁盤子系統"/>
+	<Elem NameU="Fibre Channel Fabric Switch" Name="光纖通道結構交換機"/>
+	<Elem NameU="File Cabinet" Name="檔案櫃"/>
+	<Elem NameU="File Server" Name="檔案伺服器"/>
+	<Elem NameU="FileServer" Name="檔案伺服器"/>
+	<Elem NameU="Firewall Service Module (fwsm)" Name="防火墻服務模塊（fwsm）"/>
+	<Elem NameU="Firewall" Name="防火墙"/>
+	<Elem NameU="Front end Processor" Name="前端處理器"/>
+	<Elem NameU="Gatekeeper" Name="網守"/>
+	<Elem NameU="General Applicance" Name="普遍應用"/>
+	<Elem NameU="Generic Building" Name="通用建築"/>
+	<Elem NameU="Generic Gateway" Name="通用網關"/>
+	<Elem NameU="Generic Processor" Name="通用處理器"/>
+	<Elem NameU="Generic Softswitch" Name="通用軟交換"/>
+	<Elem NameU="Gigabit Switch Atm Tag Router" Name="千兆交換機Atm標籤路由器"/>
+	<Elem NameU="Government Building" Name="政府大樓"/>
+	<Elem NameU="Ground Terminal" Name="地面終端站"/>
+	<Elem NameU="Guard" Name="守衛"/>
+	<Elem NameU="H.323" Name="H.323"/>
+	<Elem NameU="Handheld" Name="手持式"/>
+	<Elem NameU="HootPhone" Name="汽笛"/>
+	<Elem NameU="Host" Name="主持人"/>
+	<Elem NameU="Hp Mini" Name="Hp迷你版"/>
+	<Elem NameU="Hub" Name="集線器"/>
+	<Elem NameU="Iad Router" Name="載入路由器"/>
+	<Elem NameU="Ibm Mainframe" Name="Ibm大型機"/>
+	<Elem NameU="Ibm Mini as400" Name="Ibm迷你as400"/>
+	<Elem NameU="Ibm Tower" Name="Ibm大廈"/>
+	<Elem NameU="Icm" Name="信息管理"/>
+	<Elem NameU="Ics" Name="集成電路"/>
+	<Elem NameU="Intelliswitch Stack" Name="智能交換機堆棧"/>
+	<Elem NameU="Internet Streamer" Name="互聯網流媒體"/>
+	<Elem NameU="Ios Firewall" Name="ios防火墻"/>
+	<Elem NameU="Ios Slb" Name="Ios 伺服器負載均衡"/>
+	<Elem NameU="Ip Communicator" Name="Ip通信器"/>
+	<Elem NameU="Ip Dsl" Name="Ip地址"/>
+	<Elem NameU="Ip Phone" Name="Ip電話"/>
+	<Elem NameU="Ip Telephony Router" Name="Ip電話路由器"/>
+	<Elem NameU="Ip" Name="Ip"/>
+	<Elem NameU="Iptc" Name="國際報業電信委員會"/>
+	<Elem NameU="Iptv Content Manager" Name="Iptv內容管理器"/>
+	<Elem NameU="Iptv Server" Name="Iptv伺服器"/>
+	<Elem NameU="Iscsi Router" Name="Iscsi路由器"/>
+	<Elem NameU="Isdn Switch" Name="Isdn交換機"/>
+	<Elem NameU="Itp" Name="Itp"/>
+	<Elem NameU="Jbod" Name="磁碟組"/>
+	<Elem NameU="Key" Name="鑰匙"/>
+	<Elem NameU="Keys" Name="鑰匙"/>
+	<Elem NameU="Lan to Lan" Name="區域網到區域網"/>
+	<Elem NameU="Laptop" Name="筆記本電腦"/>
+	<Elem NameU="Layer 2 Remote Switch" Name="二層遠程交換機"/>
+	<Elem NameU="Layer 3 Switch" Name="三層交換機"/>
+	<Elem NameU="Lightweight Ap" Name="輕型無線AP"/>
+	<Elem NameU="Localdirector" Name="地導向器"/>
+	<Elem NameU="Lock" Name="鎖"/>
+	<Elem NameU="Longreach Cpe" Name="長距離Cpe"/>
+	<Elem NameU="Mac Woman" Name="Mac 女人"/>
+	<Elem NameU="Macintosh" Name="麥金塔"/>
+	<Elem NameU="Man_Woman" Name="男人_女人"/>
+	<Elem NameU="Mas Gateway" Name="Mas 網關"/>
+	<Elem NameU="Mau" Name="Mau"/>
+	<Elem NameU="Mcu" Name="單片機"/>
+	<Elem NameU="Mdu" Name="主顯示器"/>
+	<Elem NameU="Me 1100" Name="Me 1100"/>
+	<Elem NameU="Mediator" Name="調解人"/>
+	<Elem NameU="Meetingplace" Name="會場"/>
+	<Elem NameU="MeshAp" Name="網格AP"/>
+	<Elem NameU="Metro 1500" Name="地鐵1500"/>
+	<Elem NameU="Mgx 8000 Multiservice Switch" Name="Mgx 8000多業務交換機"/>
+	<Elem NameU="Microphone" Name="話筒"/>
+	<Elem NameU="Microwebserver" Name="微網路伺服器"/>
+	<Elem NameU="Mini Vax" Name="迷你VAX"/>
+	<Elem NameU="Mobile Access Ip Phone" Name="移動接入Ip電話"/>
+	<Elem NameU="Mobile Access Router" Name="移動接入路由器"/>
+	<Elem NameU="Mobile Streamer" Name="移動拖纜"/>
+	<Elem NameU="Modem" Name="資料機"/>
+	<Elem NameU="Moh Server" Name="Moh伺服器"/>
+	<Elem NameU="MSE" Name="MSE"/>
+	<Elem NameU="Mulitswitch Device" Name="多開關裝置"/>
+	<Elem NameU="Multi-Fabric Server Switch" Name="多結構伺服器交換機"/>
+	<Elem NameU="Multilayer Remote Switch" Name="多層遙控開關"/>
+	<Elem NameU="Mux" Name="多路復用器"/>
+	<Elem NameU="MXE" Name="MXE"/>
+	<Elem NameU="Nac Appliance" Name="Nac設備"/>
+	<Elem NameU="Nac Applicance Feb06" Name="Nac應用Feb06"/>
+	<Elem NameU="Nac Applicance Feb06 MGR" Name="Nac應用程式Feb06 MGR"/>
+	<Elem NameU="NCE Router" Name="NCE路由器"/>
+	<Elem NameU="NCE" Name="NCE"/>
+	<Elem NameU="Netflow Router" Name="網流路由器"/>
+	<Elem NameU="Netranger" Name="Netranger"/>
+	<Elem NameU="Netsonar" Name="網聲納"/>
+	<Elem NameU="Network Management" Name="網絡管理"/>
+	<Elem NameU="Nexus 1000" Name="Nexus 1000"/>
+	<Elem NameU="Nexus 2000" Name="Nexus 2000"/>
+	<Elem NameU="Nexus 5000" Name="Nexus 5000"/>
+	<Elem NameU="Nexus 7000" Name="Nexus 7000"/>
+	<Elem NameU="Octel" Name="八進位"/>
+	<Elem NameU="Ons15500" Name="Ons15500"/>
+	<Elem NameU="Optical Amplifier" Name="光放大器"/>
+	<Elem NameU="Optical Services Router" Name="光服務路由器"/>
+	<Elem NameU="Optical Transport" Name="光傳輸"/>
+	<Elem NameU="Pad x.28" Name="Pad x.28"/>
+	<Elem NameU="Pad" Name="Pad"/>
+	<Elem NameU="Page Icon" Name="頁面圖標"/>
+	<Elem NameU="Pbx Switch" Name="Pbx交換機"/>
+	<Elem NameU="Pbx" Name="Pbx"/>
+	<Elem NameU="Pc Adapter Card" Name="個人計算機適配卡"/>
+	<Elem NameU="Pc Man" Name="個人計算機管理員"/>
+	<Elem NameU="Pc Routercard" Name="路由器卡"/>
+	<Elem NameU="Pc Software" Name="個人計算機軟體"/>
+	<Elem NameU="Pc Video" Name="個人計算機視頻"/>
+	<Elem NameU="Pc" Name="個人計算機"/>
+	<Elem NameU="Pda" Name="Pda"/>
+	<Elem NameU="Phone" Name="電話"/>
+	<Elem NameU="Phone_Fax" Name="電話傳真"/>
+	<Elem NameU="Pix Firewall" Name="Pix防火墙"/>
+	<Elem NameU="Pmc" Name="Pmc"/>
+	<Elem NameU="Printer" Name="印表機"/>
+	<Elem NameU="Programmable Switch" Name="可編程交換機"/>
+	<Elem NameU="Protocol Translator" Name="協議轉換器"/>
+	<Elem NameU="Pxf" Name="Pxf"/>
+	<Elem NameU="Radio Tower" Name="無線電塔"/>
+	<Elem NameU="Ratemux" Name="Ratemux"/>
+	<Elem NameU="Relational Database" Name="關係資料庫"/>
+	<Elem NameU="Repeater" Name="中繼器"/>
+	<Elem NameU="RF modem" Name="射頻資料機"/>
+	<Elem NameU="Route Switch Processor" Name="路由交換機處理器"/>
+	<Elem NameU="Router With Silicon Switch" Name="帶硅開關的路由器"/>
+	<Elem NameU="Router" Name="路由器"/>
+	<Elem NameU="Router_Firewall" Name="路由器防火墙"/>
+	<Elem NameU="Routerin Building" Name="路由器開發"/>
+	<Elem NameU="Rpsrps" Name="Rpsrps系統"/>
+	<Elem NameU="Running Man" Name="奔跑吧兄弟"/>
+	<Elem NameU="Safeharbor Icon" Name="安全港圖標"/>
+	<Elem NameU="Sattelite Dish" Name="衛星天線"/>
+	<Elem NameU="Sattelite" Name="衛星"/>
+	<Elem NameU="Scanner" Name="掃描儀"/>
+	<Elem NameU="Server Switch" Name="伺服器交換機"/>
+	<Elem NameU="Server With Router" Name="帶路由器的伺服器"/>
+	<Elem NameU="Service Control" Name="服務控制"/>
+	<Elem NameU="Service Module" Name="服務模塊"/>
+	<Elem NameU="Service Router" Name="業務路由器"/>
+	<Elem NameU="Services" Name="公共服務系統"/>
+	<Elem NameU="Set Top Box" Name="機頂盒"/>
+	<Elem NameU="Simulitlayer Switch" Name="模擬層交換機"/>
+	<Elem NameU="Sip Proxy Werver" Name="Sip代理伺服器"/>
+	<Elem NameU="Sitting Woman" Name="坐著的女人"/>
+	<Elem NameU="Small Business" Name="小企業"/>
+	<Elem NameU="Small Hub" Name="小型集線器"/>
+	<Elem NameU="SoftPhone" Name="軟體電話"/>
+	<Elem NameU="Softswitch Pgw Mgc" Name="軟交換Pgw Mgc"/>
+	<Elem NameU="Software Based Server" Name="基於軟體的伺服器"/>
+	<Elem NameU="Space Router" Name="空間路由器"/>
+	<Elem NameU="Speaker" Name="揚聲器"/>
+	<Elem NameU="Ssc" Name="子系統控制器"/>
+	<Elem NameU="Ssl Terminator" Name="Ssl終結符"/>
+	<Elem NameU="Standard Host" Name="標準主機"/>
+	<Elem NameU="Standing Man" Name="站著的男人"/>
+	<Elem NameU="Standing Woman" Name="站著的女人"/>
+	<Elem NameU="Stb" Name="機頂盒"/>
+	<Elem NameU="Storage Router" Name="存儲路由器"/>
+	<Elem NameU="Storage Server" Name="存儲伺服器"/>
+	<Elem NameU="Stp" Name="Stp"/>
+	<Elem NameU="Streamer" Name="流注"/>
+	<Elem NameU="Sun Workstation" Name="Sun工作站"/>
+	<Elem NameU="Supercomputer" Name="超級計算機"/>
+	<Elem NameU="Svx" Name="Svx"/>
+	<Elem NameU="System Controller" Name="系統控制器"/>
+	<Elem NameU="Tablet" Name="片劑"/>
+	<Elem NameU="Tape Array" Name="磁帶陣列"/>
+	<Elem NameU="Tdm Router" Name="Tdm 路由器"/>
+	<Elem NameU="Telecommuter House pc" Name="遠程辦公個人計算機"/>
+	<Elem NameU="Telecommuter House" Name="遠程辦公樓"/>
+	<Elem NameU="Telecommuter icon" Name="遠程辦公圖標"/>
+	<Elem NameU="Terminal" Name="終點站"/>
+	<Elem NameU="Token" Name="代幣"/>
+	<Elem NameU="TP MCU" Name="TP單片機"/>
+	<Elem NameU="Transpath" Name="傳輸路徑"/>
+	<Elem NameU="Truck" Name="卡車"/>
+	<Elem NameU="Turret" Name="炮塔"/>
+	<Elem NameU="Tv" Name="電視"/>
+	<Elem NameU="Ubr910" Name="Ubr910"/>
+	<Elem NameU="Umg Series" Name="Umg系列"/>
+	<Elem NameU="Unity Server" Name="統一伺服器"/>
+	<Elem NameU="Universal Gateway" Name="通用網關"/>
+	<Elem NameU="University" Name="大學"/>
+	<Elem NameU="Upc" Name="通用條形碼"/>
+	<Elem NameU="Ups" Name="不間斷電源"/>
+	<Elem NameU="Vault" Name="拱頂"/>
+	<Elem NameU="Video Camera" Name="攝錄像機"/>
+	<Elem NameU="Vip" Name="貴賓"/>
+	<Elem NameU="Virtual Layer Switch" Name="虛擬層交換機"/>
+	<Elem NameU="Virtual Switch Controller (vsc3000)" Name="虛擬交換機控制器（vsc3000）"/>
+	<Elem NameU="Voice Atm Switch" Name="語音Atm交換機"/>
+	<Elem NameU="Voice Commserver" Name="語音通信伺服器"/>
+	<Elem NameU="Voice Router" Name="語音路由"/>
+	<Elem NameU="Voice Switch" Name="語音開關"/>
+	<Elem NameU="Vpn Concentrator" Name="Vpn集中器"/>
+	<Elem NameU="Vpn Gateway" Name="Vpn網關"/>
+	<Elem NameU="VSD" Name="VSD"/>
+	<Elem NameU="VSS" Name="車速感測器"/>
+	<Elem NameU="Wae" Name="無線應用環境"/>
+	<Elem NameU="Wavelength Router" Name="波長路由器"/>
+	<Elem NameU="Web Browser" Name="網路瀏覽器"/>
+	<Elem NameU="Web Cluster" Name="網頁集群"/>
+	<Elem NameU="Wi-Fi tag" Name="Wi-Fi標籤"/>
+	<Elem NameU="Wireless Bridge" Name="無線網橋"/>
+	<Elem NameU="Wireless Location Appliance" Name="無線定位設備"/>
+	<Elem NameU="Wireless Router" Name="無線路由器"/>
+	<Elem NameU="Wireless Transport" Name="無線運輸"/>
+	<Elem NameU="Wireless" Name="無線"/>
+	<Elem NameU="Wism" Name="Wism"/>
+	<Elem NameU="Wlan Controller" Name="Wlan控制器"/>
+	<Elem NameU="Workgroup Director" Name="工作組負責人"/>
+	<Elem NameU="Workgroup Switch" Name="組型交換機"/>
+	<Elem NameU="Workstation" Name="(計算機)工作站"/>
+	<Elem NameU="Www Server" Name="Www伺服器"/>
+	<Elem NameU="3x74 (floor)" Name="3x74 (floor)"/>
+	<Elem NameU="10GE_FCoE" Name="10GE_FCoE"/>
+	<Elem NameU="100baset hub" Name="100baset集線器"/>
+	<Elem NameU="3174 (desktop)" Name="3174（桌面）"/>
+	<Elem NameU="3200 mobile access router" Name="3200移動接入路由器"/>
+	<Elem NameU="6700 series" Name="6700系列"/>
+	<Elem NameU="7500ars (7513)" Name="7500ars (7513)"/>
+	<Elem NameU="10700" Name="10700"/>
+	<Elem NameU="15200" Name="15200"/>
+</Lib>

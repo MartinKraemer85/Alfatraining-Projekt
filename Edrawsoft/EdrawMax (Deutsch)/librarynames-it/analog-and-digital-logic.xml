@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Analog and Digital Logic">
+	<Elem NameU="And" Name="And"/>
+	<Elem NameU="OR" Name="OR"/>
+	<Elem NameU="XOR" Name="XOR"/>
+	<Elem NameU="NAND" Name="XAND"/>
+	<Elem NameU="NOR" Name="NOR"/>
+	<Elem NameU="NXOR" Name="NXOR"/>
+	<Elem NameU="NNOR" Name="NNOR"/>
+	<Elem NameU="And (IEC)" Name="And (IEC)"/>
+	<Elem NameU="NAND (IEC)" Name="NAND (IEC)"/>
+	<Elem NameU="OR (IEC)" Name="OR (IEC)"/>
+	<Elem NameU="NOR (IEC)" Name="NOR (IEC)"/>
+	<Elem NameU="NOT (IEC)" Name="NOT (IEC)"/>
+	<Elem NameU="XOR (IEC)" Name="XOR (IEC)"/>
+	<Elem NameU="Inverter" Name="Invertitore"/>
+	<Elem NameU="Buffer" Name="Buffer"/>
+	<Elem NameU="Transfer gate" Name="Porta di trasferimento"/>
+	<Elem NameU="Clock" Name="Clock"/>
+	<Elem NameU="Coefficient scaler" Name="Ablatore coefficiente"/>
+	<Elem NameU="Mux" Name="Mux"/>
+	<Elem NameU="Mux-Demux" Name="Mux-Demux"/>
+	<Elem NameU="Demux" Name="Demux"/>
+	<Elem NameU="D Type Flip-Flop" Name="Flip-Flop Tipo D"/>
+	<Elem NameU="D Type Flip-Flop With Clear" Name="Flip-Flop Tipo D con Clear"/>
+	<Elem NameU="D Type RS Flip-Flop" Name="Flip-Flop RS Tipo D"/>
+	<Elem NameU="JK Flip-Flop" Name="Flip-Flop JK"/>
+	<Elem NameU="JK Flip-Flop With Clear" Name="Flip-Flop JK con Clear"/>
+	<Elem NameU="JK Flip-Flop With SR" Name="Flip-Flop JK con SR"/>
+	<Elem NameU="RS Latch" Name="Commutazione RS"/>
+	<Elem NameU="RS Latch Synchronous" Name="Sincrono Commutazione RS"/>
+	<Elem NameU="T Type Flip-Flop" Name="Flip-Flop Tipo T"/>
+	<Elem NameU="Amplifier" Name="Amplificatore"/>
+	<Elem NameU="Converter" Name="Convertitore"/>
+	<Elem NameU="Logic gate 1" Name="Porta logica 1"/>
+	<Elem NameU="Flip-flop" Name="Flip-Flop"/>
+	<Elem NameU="Analog to digital" Name="Da analogico a digitale"/>
+	<Elem NameU="Digital to analog" Name="Da digitale ad analogico"/>
+	<Elem NameU="Analog symbol" Name="Simbolo analogico"/>
+	<Elem NameU="Digital symbol" Name="Simbolo digitale"/>
+	<Elem NameU="Negative logic dot" Name="Punto logico negativo"/>
+	<Elem NameU="Function potentiom..." Name="Potenziometro delle funzioni"/>
+	<Elem NameU="Positional servo" Name="Meccanismo posizionale"/>
+	<Elem NameU="Delay element" Name="Elemento di ritardo"/>
+	<Elem NameU="I/O port" Name="Porta I/O"/>
+	<Elem NameU="Signal waveforms" Name="Segnale forme d'onda"/>
+	<Elem NameU="Three-state buffer" Name="Buffer a tre stati"/>
+	<Elem NameU="Tri-state gate" Name="Porta a tre stati"/>
+	<Elem NameU="Tri-state gate 2" Name="Porta a tre stati 2"/>
+	<Elem NameU="Integrator" Name="Integratore"/>
+	<Elem NameU="Summing amplifier" Name="Amplificatore di somma"/>
+	<Elem NameU="Controlled amplifier" Name="Amplificatore controllato"/>
+	<Elem NameU="Multiplier" Name="Moltiplicatore"/>
+	<Elem NameU="Divider" Name="Divisore"/>
+	<Elem NameU="Function generator 2" Name="Generatore Funzioni 2"/>
+	<Elem NameU="Generalized integrator" Name="Integratore Generalizzato"/>
+	<Elem NameU="Operational amplifier" Name="Amplificatore operativo"/>
+	<Elem NameU="Operational amplifier 2" Name="Amplificatore operativo 2"/>
+	<Elem NameU="Schmitt Trigger" Name="Trigger di Schmitt"/>
+	<Elem NameU="Generic" Name="Generico"/>
+	<Elem NameU="Multiplier-divider" Name="Moltiplicatore-divisore"/>
+	<Elem NameU="Exponential" Name="Esponenziale"/>
+	<Elem NameU="Cotangent" Name="Cotangente"/>
+</Lib>

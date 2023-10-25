@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Equipment-Peripheral">
+    <Elem NameU="Impact separator" Name="衝擊式分離機"/>
+    <Elem NameU="Gravity Separator" Name="重力分離器"/>
+    <Elem NameU="Cyclone separator" Name="旋風分離器"/>
+    <Elem NameU="Electromagnetic separator" Name="電磁離析器"/>
+    <Elem NameU="Electrostatic precipitator separator" Name="靜電除塵分離器"/>
+    <Elem NameU="Solidifier" Name="固化劑"/>
+    <Elem NameU="Permanent magnet separator" Name="永磁分離器"/>
+    <Elem NameU="Spray nozzle" Name="噴霧嘴"/>
+    <Elem NameU="Rotary table feeder" Name="旋轉進料器"/>
+    <Elem NameU="Proportional feeder" Name="比例式給料機"/>
+    <Elem NameU="Rotary valve feeder" Name="旋轉閥給料機"/>
+    <Elem NameU="Metering proportional feeder" Name="計量比例式給料機"/>
+    <Elem NameU="Injector" Name="注射器"/>
+    <Elem NameU="Reducer" Name="減速器"/>
+    <Elem NameU="Rupture disc" Name="安全隔膜"/>
+    <Elem NameU="Viewing glass" Name="取光鏡"/>
+    <Elem NameU="Viewing glass with lighting" Name="帶燈取光鏡"/>
+    <Elem NameU="Back draft damper" Name="逆通風阻尼器"/>
+    <Elem NameU="Conveyor" Name="輸送機"/>
+    <Elem NameU="Box truck" Name="倉柵式貨車"/>
+    <Elem NameU="Manual forklift" Name="手動叉車"/>
+    <Elem NameU="Truck forklift" Name="鏟車"/>
+    <Elem NameU="Industrial truck" Name="工業用卡車"/>
+    <Elem NameU="Rolling bin truck" Name="旋轉式垃圾車"/>
+    <Elem NameU="Ship" Name="船"/>
+    <Elem NameU="Elevator" Name="電梯"/>
+    <Elem NameU="Z-form elevator" Name="Z形電梯"/>
+    <Elem NameU="Lift" Name="電梯"/>
+    <Elem NameU="Hoists" Name="起重機"/>
+    <Elem NameU="Aerator with sparger" Name="有配電器的增氧機"/>
+    <Elem NameU="Bag filling machine" Name="裝袋機"/>
+    <Elem NameU="Belt skimmer" Name="帶式撇油器"/>
+    <Elem NameU="Screening" Name="篩選機"/>
+    <Elem NameU="Bucket elevator" Name="斗式提升機"/>
+    <Elem NameU="Elevator 1" Name="電梯 1"/>
+    <Elem NameU="Elevator 2" Name="電梯 2"/>
+    <Elem NameU="Skip hoist" Name="翻斗提升機"/>
+    <Elem NameU="Conveyor" Name="輸送機"/>
+    <Elem NameU="Conveyor (Chain,Closed)" Name="輸送機 (鏈式，關)"/>
+    <Elem NameU="Conveyor (Screw,Closed)" Name="輸送機 (螺旋式，關)"/>
+    <Elem NameU="Roller conveyor" Name="滾筒（柱）式輸送機"/>
+    <Elem NameU="Overhead conveyor" Name="高架輸送器"/>
+    <Elem NameU="Screw conveyor" Name="螺旋輸送機"/>
+    <Elem NameU="Scraper conveyor" Name="刮板式運輸機"/>
+    <Elem NameU="Conveyor (Vibrating, Closed)" Name="輸送機 (振動式, 關)"/>
+    <Elem NameU="Piston extruder shaping machines" Name="活塞式擠出機成型機器"/>
+    <Elem NameU="Screw extruder shaping machines" Name="螺旋式擠出機成型機器"/>
+    <Elem NameU="Horizontal shaping machines" Name="卧式成型機器"/>
+    <Elem NameU="Vertical shaping machines" Name="垂直成型機器"/>
+    <Elem NameU="Pelletizing disc" Name="粒化盤"/>
+    <Elem NameU="Piston press" Name="活塞壓塊機"/>
+    <Elem NameU="Roller press" Name="滾壓機"/>
+    <Elem NameU="Crane" Name="吊車"/>
+    <Elem NameU="Cyclone" Name="旋風器"/>
+    <Elem NameU="Curved gas vent" Name="彎曲氣孔"/>
+    <Elem NameU="Firing system" Name="點火系統"/>
+    <Elem NameU="Flame arrestor" Name="阻焰器"/>
+    <Elem NameU="Palletizer" Name="托盤堆垛機"/>
+    <Elem NameU="Chimney" Name="煙囪"/>
+    <Elem NameU="Gas flare" Name="廢氣燃燒器"/>
+</Lib>

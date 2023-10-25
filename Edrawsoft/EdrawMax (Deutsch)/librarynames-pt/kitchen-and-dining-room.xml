@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Kitchen and Dining Room">
+	<Elem NameU="Closet" Name="Armário de roupa"/>
+	<Elem NameU="Gas stoves" Name="Fogões a gás"/>
+	<Elem NameU="Range with grill" Name="Fogão com grelhador"/>
+	<Elem NameU="Four-element gas range" Name="Fogão a gás de quatro-elementos"/>
+	<Elem NameU="Six-element gas range" Name="Fogão a gás de seis-elementos"/>
+	<Elem NameU="Gas range" Name="Fogão a gás"/>
+	<Elem NameU="Cooker with low oven" Name="Fogão com forno baixo"/>
+	<Elem NameU="Cooker" Name="Fogão"/>
+	<Elem NameU="Range" Name="Fogão"/>
+	<Elem NameU="Flat electic range" Name="Fogão elétrico plano"/>
+	<Elem NameU="Slide-in electric range" Name="Fogão elétrico de deslize"/>
+	<Elem NameU="Wall oven" Name="Forno de parede"/>
+	<Elem NameU="Microwave" Name="Micro-ondas"/>
+	<Elem NameU="Dishwasher" Name="Máquina de lavar a louça"/>
+	<Elem NameU="Washing machine" Name="Máquina de lavar"/>
+	<Elem NameU="Trash compactor" Name="Compactador de lixo"/>
+	<Elem NameU="Food cooler" Name="Refrigerador de comida"/>
+	<Elem NameU="Juicer" Name="Máquina de Sumos"/>
+	<Elem NameU="Bread machine 1" Name="Máquina de pão 1"/>
+	<Elem NameU="Bread machine 2" Name="Máquina de pão 2"/>
+	<Elem NameU="Vending machine" Name="Máquina de vendas automáticas"/>
+	<Elem NameU="Basin" Name="Bacia"/>
+	<Elem NameU="Double basin" Name="Bacia dupla"/>
+	<Elem NameU="Pedestal sink" Name="Pia de pedestal"/>
+	<Elem NameU="Countertop sink" Name="Pia de bancada"/>
+	<Elem NameU="Dispenser" Name="Dispensador"/>
+	<Elem NameU="Towel rack" Name="Suporte de toalhas"/>
+	<Elem NameU="Circular dining table" Name="Mesa de jantar redonda"/>
+	<Elem NameU="Circular table" Name="Mesa redonda"/>
+	<Elem NameU="Dining table" Name="Mesa de jantar"/>
+	<Elem NameU="Oblong dining table" Name="Mesa de jantar oblonga"/>
+	<Elem NameU="Oval dining table" Name="Mesa de jantar oval"/>
+	<Elem NameU="Square table" Name="Mesa quadrada"/>
+	<Elem NameU="Ref" Name="Ref"/>
+	<Elem NameU="Cabinet" Name="Armário"/>
+	<Elem NameU="Toaster" Name="Torradeira"/>
+	<Elem NameU="Oven" Name="Forno"/>
+	<Elem NameU="Electric barbecue" Name="Barbecue elétrico"/>
+	<Elem NameU="Saucepan" Name="Caçarola"/>
+	<Elem NameU="Slow cooker" Name="Fogareiro lento"/>
+	<Elem NameU="Slow cooker 2" Name="Fogareiro lento 2"/>
+	<Elem NameU="Induction cooker" Name="Placa de indução"/>
+	<Elem NameU="Pan" Name="Panela"/>
+	<Elem NameU="Dish" Name="Prato"/>
+	<Elem NameU="Fruit plate" Name="Prato de frutas"/>
+	<Elem NameU="Chopping board" Name="Tábua de corte"/>
+	<Elem NameU="Smoke machine" Name="Máquina de fumo"/>
+	<Elem NameU="Disinfection cabinet" Name="Armário de desinfecção"/>
+	<Elem NameU="Refrigerator" Name="Refrigerador"/>
+	<Elem NameU="Refrigerator 2" Name="Refrigerador 2"/>
+	<Elem NameU="Flue" Name="Cano de chaminé"/>
+	<Elem NameU="Placement" Name="Posicionamento"/>
+	<Elem NameU="Chest freezer" Name="Arca frigorífica"/>
+	<Elem NameU="Built-in refrigerator" Name="Refrigerador embutido"/>
+	<Elem NameU="Water cooler" Name="Refrigerador de água"/>
+	<Elem NameU="Coffee maker" Name="Cafeteira"/>
+	<Elem NameU="Water heater" Name="Aquecedor de água"/>
+	<Elem NameU="Island" Name="Ilha"/>
+	<Elem NameU="Square Dining Table" Name="Mesa de Jantar Quadrangular"/>
+	<Elem NameU="Square Dining Table with Rounded Corners" Name="Mesa de Jantar Quadrangular de Cantos Redondos"/>
+	<Elem NameU="Round Dining Table" Name="Mesa de Jantar Redonda"/>
+	<Elem NameU="Rectangular Dining Table with Rounded Corners" Name="Mesa de Jantar Retangular de Cantos Redondos"/>
+	<Elem NameU="Rectangular Dining Table" Name="Mesa de Jantar Retangular"/>
+	<Elem NameU="Sink" Name="Pia"/>
+</Lib>

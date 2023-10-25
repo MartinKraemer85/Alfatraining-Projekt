@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Asia">
+    <Elem NameU="Afghanistan" Name="阿富汗"/>
+    <Elem NameU="Armenia" Name="亚美尼亚"/>
+    <Elem NameU="Azerbaijan" Name="阿塞拜疆"/>
+    <Elem NameU="Bahrain" Name="巴林群岛"/>
+    <Elem NameU="Bangladesh" Name="孟加拉国"/>
+    <Elem NameU="Bhutan" Name="不丹"/>
+    <Elem NameU="Brunei" Name="文莱"/>
+    <Elem NameU="Burma (Myanmar)" Name="缅甸"/>
+    <Elem NameU="Cambodia" Name="柬埔寨"/>
+    <Elem NameU="China" Name="中国"/>
+    <Elem NameU="Cyprus" Name="塞蒲路斯"/>
+    <Elem NameU="Oman" Name="阿曼"/>
+    <Elem NameU="Georgia" Name="格鲁吉亚"/>
+    <Elem NameU="India" Name="印度"/>
+    <Elem NameU="Indonesia" Name="印尼"/>
+    <Elem NameU="Iran" Name="伊朗"/>
+    <Elem NameU="Iraq" Name="伊拉克"/>
+    <Elem NameU="Israel" Name="以色列"/>
+    <Elem NameU="Japan" Name="日本"/>
+    <Elem NameU="Jordan" Name="约旦"/>
+    <Elem NameU="Kazakhstan" Name="哈萨克斯坦"/>
+    <Elem NameU="Kuwait" Name="科威特"/>
+    <Elem NameU="Kyrgyzstan" Name="吉尔吉斯坦"/>
+    <Elem NameU="Laos" Name="老挝"/>
+    <Elem NameU="Lebanon" Name="黎巴嫩"/>
+    <Elem NameU="Malaysia" Name="马来西亚"/>
+    <Elem NameU="Pakistan" Name="巴基斯坦"/>
+    <Elem NameU="Papua New Guinea" Name="巴布亚新几内亚"/>
+    <Elem NameU="Philippines" Name="菲律宾"/>
+    <Elem NameU="Qatar" Name="卡塔尔"/>
+    <Elem NameU="Saudi Arabia" Name="沙特阿拉伯"/>
+    <Elem NameU="Singapore" Name="新加坡"/>
+    <Elem NameU="South Korea" Name="南韩"/>
+    <Elem NameU="North Korea" Name="北韩"/>
+    <Elem NameU="Sri Lanka" Name="斯里兰卡"/>
+    <Elem NameU="Syria" Name="叙利亚共和国"/>
+    <Elem NameU="Thailand" Name="泰国"/>
+    <Elem NameU="Turkey" Name="土耳其"/>
+    <Elem NameU="Turkmenistan" Name="土库曼斯坦"/>
+    <Elem NameU="United Arab Emirates" Name="阿拉伯联合酋长国"/>
+    <Elem NameU="Uzbekistan" Name="乌兹别克斯坦"/>
+    <Elem NameU="Vietnam" Name="越南"/>
+    <Elem NameU="Yemen" Name="也门"/>
+    <Elem NameU="Aral Sea" Name="咸海"/>
+    <Elem NameU="Caspian Sea" Name="里海"/>
+    <Elem NameU="Lake Balkhash" Name="巴尔喀什湖"/>
+    <Elem NameU="China and Mongolia" Name="中国和蒙古"/>
+    <Elem NameU="Central Asia" Name="中亚"/>
+    <Elem NameU="Southeast Asia" Name="东南亚"/>
+    <Elem NameU="Middle east Asia" Name="中东"/>
+    <Elem NameU="Southern Asia" Name="南亚"/>
+    <Elem NameU="East Asia" Name="东亚"/>
+</Lib>

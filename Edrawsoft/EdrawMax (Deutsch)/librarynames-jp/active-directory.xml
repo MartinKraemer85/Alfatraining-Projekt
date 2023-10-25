@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Active Directory">
+
+<Elem Name="ドメイン" NameU="Domain"/>
+
+<Elem Name="コンピュータ" NameU="Computer"/>
+
+<Elem Name="ユーザー" NameU="User"/>
+
+<Elem Name="グループ" NameU="Group"/>
+
+<Elem Name="コンテナ" NameU="Container"/>
+
+<Elem Name="印刷キュー" NameU="Print Queue"/>
+
+<Elem Name="コンタクト" NameU="Contact"/>
+
+<Elem Name="組織単位" NameU="Organizational Unit"/>
+
+<Elem Name="ポリシー" NameU="Policy"/>
+
+<Elem Name="ボリューム" NameU="Volume"/>
+
+<Elem Name="ジェネリックプログラミング" NameU="Generic object"/>
+
+<Elem Name="サーバ" NameU="Server"/>
+
+<Elem Name="サイト " NameU="Site"/>
+
+<Elem Name="サイトリンク" NameU="Site link"/>
+
+<Elem Name="サイトリンクブリッジ" NameU="Site link bridge"/>
+
+<Elem Name="NTDSサイトの設定" NameU="NTDS site settings"/>
+
+<Elem Name="IPサブネット" NameU="IP subnet"/>
+
+<Elem Name="デジタル証明書のテンプレート" NameU="Certificate Template"/>
+
+<Elem Name="ライセンスサイト" NameU="Licensing Site"/>
+
+<Elem Name="コネクション" NameU="Connection"/>
+
+<Elem Name="ディレクトリコネクタ" NameU="Directory Connector"/>
+
+<Elem Name="ドメイン 2D" NameU="Domain 2D"/>
+
+<Elem Name="ドメイン 3D" NameU="Domain 3D"/>
+
+<Elem Name="ドメインコントローラ2D" NameU="Domain controller 2D"/>
+
+<Elem Name="ドメインコントローラ3D" NameU="Domain controller 3D"/>
+
+<Elem Name="アプリケーション2D" NameU="Application 2D"/>
+
+<Elem Name="アプリケーション3D" NameU="Application 3D"/>
+
+<Elem Name="サイトまたはサブネット2D" NameU="Site or subnet 2D"/>
+
+<Elem Name="サイトまたはサブネット3D" NameU="Site or subnet 3D"/>
+
+<Elem Name="クライアント" NameU="Client"/>
+
+<Elem Name="データベース" NameU="Database"/>
+
+<Elem Name="通信リンク" NameU="Comm-link"/>
+
+<Elem Name="レプリケーション接続" NameU="Replication connection"/>
+
+<Elem Name="サイトリンク3D" NameU="Site link 3D"/>
+
+<Elem Name="サイトリンクブリッジ3D" NameU="Site link bridge 3D"/>
+
+<Elem Name="WAN" NameU="WAN"/>
+
+</Lib>

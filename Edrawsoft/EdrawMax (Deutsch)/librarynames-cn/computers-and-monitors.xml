@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Computers and Monitors">
+	<Elem NameU="Desktop PC" Name="台式电脑"/>
+	<Elem NameU="Desktop PC 2" Name="台式电脑 2"/>
+	<Elem NameU="Tower Box" Name="机箱"/>
+	<Elem NameU="Surface" Name="笔记本"/>
+	<Elem NameU="Laptop Computer" Name="笔记本电脑"/>
+	<Elem NameU="LCD Monitor" Name="LCD 显示器"/>
+	<Elem NameU="iMac" Name="iMac"/>
+	<Elem NameU="Mac Air" Name="Mac Air"/>
+	<Elem NameU="Mac Computer" Name="Mac电脑"/>
+	<Elem NameU="Mac Pro" Number="2" Name="Mac Pro"/>
+	<Elem NameU="Mini Mac" Name="Mini Mac"/>
+	<Elem NameU="Tablet Computer" Name="平板电脑"/>
+	<Elem NameU="Pad" Name="Pad"/>
+	<Elem NameU="LCD Monitor 2" Name="LCD 显示器 2"/>
+	<Elem NameU="Query computer" Name="查询计算机"/>
+	<Elem NameU="Query computer 2" Name="查询计算机 2"/>
+</Lib>

@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="2D Directional Maps">
+
+<Elem Name="道路" NameU="Road"/>
+
+<Elem Name="道路（角丸）" NameU="Road round"/>
+
+<Elem Name="コーナー" NameU="Corner"/>
+
+<Elem Name="コーナー（角丸）" NameU="Corner round"/>
+
+<Elem Name="T字路" NameU="3 Ways"/>
+
+<Elem Name="T字路（角丸）" NameU="3 Ways round"/>
+
+<Elem Name="交差点" NameU="4 Ways"/>
+
+<Elem Name="交差点（角丸）" NameU="4 Ways round"/>
+
+<Elem Name="カーブ 1" NameU="Curve 1"/>
+
+<Elem Name="カーブ（角丸） 1" NameU="Curve round 1"/>
+
+<Elem Name="カーブ 2" NameU="Curve 2"/>
+
+<Elem Name="カーブ（角丸） 2" NameU="Curve round 2"/>
+
+<Elem Name="環状交差点（ラウンドアバウト）" NameU="Roundabout"/>
+
+<Elem Name="クローバー型インターチェンジ" NameU="Cloverleaf interchange"/>
+
+<Elem Name="ダイヤモンド型インターチェンジ" NameU="Diamond interchange"/>
+
+<Elem Name="橋" NameU="Bridge"/>
+
+<Elem Name="曲がった道路" NameU="Flexible road"/>
+
+<Elem Name="地域" NameU="Region"/>
+
+<Elem Name="ゲート" NameU="Gate"/>
+
+<Elem Name="車道ブレーク" NameU="Roadway break"/>
+
+<Elem Name="細い道" NameU="Thin road"/>
+
+<Elem Name="都市/町村" NameU="City/town dot"/>
+
+<Elem Name="JCT番号" NameU="Junction number"/>
+
+<Elem Name="都市" NameU="City"/>
+
+<Elem Name="銀行" NameU="Bank"/>
+
+<Elem Name="書店" NameU="Book store"/>
+
+<Elem Name="美容院" NameU="Beauty salon"/>
+
+<Elem Name="診療所" NameU="Medical clinic"/>
+
+<Elem Name="ホテル" NameU="Hotel"/>
+
+<Elem Name="郵便局" NameU="Post office"/>
+
+<Elem Name="警察署" NameU="Police"/>
+
+<Elem Name="映画館" NameU="Movie theater"/>
+
+<Elem Name="レストラン" NameU="Restaurant"/>
+
+<Elem Name="マーケット" NameU="Market"/>
+
+<Elem Name="スーパーマーケット" NameU="Supermarket"/>
+
+<Elem Name="喫茶店" NameU="Coffee shop"/>
+
+<Elem Name="図書館" NameU="Library"/>
+
+<Elem Name="役所" NameU="Town hall"/>
+
+<Elem Name="学校" NameU="School"/>
+
+<Elem Name="カテドラル" NameU="Cathedral"/>
+
+<Elem Name="モーテル" NameU="Motel"/>
+
+<Elem Name="町役場" NameU="Town Hall"/>
+
+<Elem Name="アパート" NameU="Condos"/>
+
+<Elem Name="旅館" NameU="Public house"/>
+
+<Elem Name="ガソリンスタンド" NameU="Petrol station"/>
+
+<Elem Name="ガスステーション" NameU="Gas station"/>
+
+<Elem Name="倉庫" NameU="Barn"/>
+
+<Elem Name="倉庫 2" NameU="Barn 2"/>
+
+<Elem Name="建物" NameU="Building"/>
+
+<Elem Name="工場" NameU="Factory"/>
+
+<Elem Name="病院" NameU="Hospital"/>
+
+<Elem Name="スタジアム" NameU="Stadium"/>
+
+<Elem Name="ワイルドライフパーク" NameU="Wildlife Park"/>
+
+<Elem Name="山" NameU="Mountains"/>
+
+<Elem Name="公園" NameU="Park"/>
+
+<Elem Name="ホリデーバンガロー" NameU="Holiday Bungalow"/>
+
+<Elem Name="ビーチ" NameU="Beach"/>
+
+<Elem Name="噴水広場" NameU="Fountain Plaza"/>
+
+<Elem Name="遊園地" NameU="Amusement Park"/>
+
+<Elem Name="滝" NameU="Waterfall"/>
+
+<Elem Name="河" NameU="River"/>
+
+<Elem Name="湖" NameU="Lake"/>
+
+<Elem Name="木 1" NameU="Tree 1"/>
+
+<Elem Name="木 2" NameU="Tree 2"/>
+
+<Elem Name="木 3" NameU="Tree 3"/>
+
+<Elem Name="木 4" NameU="Tree 4"/>
+
+<Elem Name="クルーズ" NameU="Cruise ship"/>
+
+<Elem Name="ポート" NameU="Port"/>
+
+<Elem Name="クレーン" NameU="Crane"/>
+
+<Elem Name="油圧ショベル" NameU="Excavator"/>
+
+<Elem Name="ホイスト" NameU="Hoist"/>
+
+<Elem Name="空港" NameU="Airport"/>
+
+<Elem Name="荷船" NameU="Freighter"/>
+
+<Elem Name="交通信号機" NameU="Stop Light"/>
+
+<Elem Name="方向" NameU="Direction Guide"/>
+
+<Elem Name="ロケーション標識" NameU="location"/>
+
+<Elem Name="道路標識" NameU="Direction sign"/>
+
+<Elem Name="駐車場" NameU="Parking place"/>
+
+</Lib>

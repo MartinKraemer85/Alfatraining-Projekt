@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Containers">
+    <Elem NameU="Liter bottle" Number="2" Name="리터 병"/>
+    <Elem NameU="Blue barrel" Name="파란 통"/>
+    <Elem NameU="Bottle" Name="병"/>
+    <Elem NameU="Bucket" Name="통"/>
+    <Elem NameU="Bulk container" Name="벌크 컨테이너"/>
+    <Elem NameU="Can" Name="캔"/>
+    <Elem NameU="Can 2" Name="캔 2"/>
+    <Elem NameU="Can 3" Name="캔 3"/>
+    <Elem NameU="Cardboard box 1" Name="박스 1"/>
+    <Elem NameU="Cardboard box 2" Name="박스 2"/>
+    <Elem NameU="Cardboard box with up arrows, closed" Name="위로 향한 화살표가 있는 박스,닫힘"/>
+    <Elem NameU="Cardboard box with up arrows, sealed" Name="위로 향한 화살표가 있는 박스,밀봉됨"/>
+    <Elem NameU="Cardboard box,closed" Name="밀봉된 박스"/>
+    <Elem NameU="Cardboard box, no flaps" Name="플랩 없는 박스"/>
+    <Elem NameU="Cardboard box, open" Name="열린 박스"/>
+    <Elem NameU="Cardboard box,top view,closed" Name="밀봉된 박스,평면도,닫힘"/>
+    <Elem NameU="Cardboard box,top view,open" Name="열린 박스,평면도"/>
+    <Elem NameU="Cardboard box,top view,sealed" Name="밀봉된 박스,평면도"/>
+    <Elem NameU="Container 1" Name="컨테이너 1"/>
+    <Elem NameU="Crate" Name="나무 상자"/>
+    <Elem NameU="Fiberglass square mesh grating(perspective view)" Name="유리 섬유 사각 메쉬 격자 (투시도)"/>
+    <Elem NameU="Fiberglass square mesh grating(top view)" Name="유리 섬유 사각 메쉬 격자 (평면도)"/>
+    <Elem NameU="Gray barrel" Name="그레이 배럴"/>
+    <Elem NameU="Green barrel" Name="그린 배럴"/>
+    <Elem NameU="Open-head shipping container" Name="오픈 헤드 선적 컨테이너"/>
+    <Elem NameU="Pallet" Name="짚자리"/>
+    <Elem NameU="Pill bottle" Name="약병"/>
+    <Elem NameU="Plastic container" Name="플라스틱 용기 "/>
+    <Elem NameU="Plastic container 2" Name="플라스틱 용기  2"/>
+    <Elem NameU="Plastic container 3" Name="플라스틱 용기  3"/>
+    <Elem NameU="Cup" Name="컵"/>
+    <Elem NameU="Plastic pallet" Name="플라스틱 팔레트"/>
+    <Elem NameU="Prescription bottle" Name="처방전병"/>
+    <Elem NameU="Sealed box with bar code" Name="바코드가 있는 밀봉된 상자"/>
+    <Elem NameU="Simple box sealed with OSHA tape" Name="OSHA 테이프로 밀봉된 상자"/>
+    <Elem NameU="Simple box top view,closed" Name="밀봉된 박스，평면도,닫힘"/>
+    <Elem NameU="Yellow  barrel" Name="노란색 배럴"/>
+    <Elem NameU="Bathtub" Name="욕조"/>
+</Lib>

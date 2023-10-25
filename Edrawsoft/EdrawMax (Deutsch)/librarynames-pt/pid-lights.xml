@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="PID Lights">
+	<Elem NameU="Light1- green" Name="Luz1- verde"/>
+	<Elem NameU="Light1- orange" Name="Luz1-  laranja"/>
+	<Elem NameU="Light1- red" Name="Luz1-  vermelha"/>
+	<Elem NameU="Light2- green" Name="Luz2-  verde"/>
+	<Elem NameU="Light2- orange" Name="Luz2- laranja"/>
+	<Elem NameU="Light2- red" Name="Luz2- vermelha"/>
+	<Elem NameU="Light3- green" Name="Luz3- verde"/>
+	<Elem NameU="Light3- red" Name="Luz3- vermelha"/>
+	<Elem NameU="Light3- yellow" Name="Luz3- amarela"/>
+	<Elem NameU="Light4- green" Name="Luz4- verde"/>
+	<Elem NameU="Light4- red" Name="Luz4- vermelha"/>
+	<Elem NameU="Light4- yellow" Name="Luz4- amarela"/>
+	<Elem NameU="Light5- green" Name="Luz5- verde"/>
+	<Elem NameU="Light5- orange" Name="Luz5- laranja"/>
+	<Elem NameU="Light5- red" Name="Luz5- vermelha"/>
+	<Elem NameU="Light6- green" Name="Luz6- verde"/>
+	<Elem NameU="Light6- red" Name="Luz6- vermelha"/>
+	<Elem NameU="Light6- yellow" Name="Luz6- amarela"/>
+	<Elem NameU="Light7- green" Name="Luz7- verde"/>
+	<Elem NameU="Light7- orange" Name="Luz7- laranja"/>
+	<Elem NameU="Light7- red" Name="Luz7- vermelha"/>
+	<Elem NameU="Light8- green" Name="Luz8- verde"/>
+	<Elem NameU="Light8- red" Name="Luz8- vermelha"/>
+	<Elem NameU="Light8- yellow" Name="Luz8- amarela"/>
+	<Elem NameU="Light9- green" Name="Luz9- verde"/>
+	<Elem NameU="Light9- red" Name="Luz9- vermelha"/>
+	<Elem NameU="Light9- yellow" Name="Luz9- amarela"/>
+	<Elem NameU="Light10- green" Name="Luz10- verde"/>
+	<Elem NameU="Light10- red" Name="Luz10- vermelha"/>
+	<Elem NameU="Light10- yellow" Name="Luz10- amarela"/>
+	<Elem NameU="Light11- green" Name="Luz11- verde"/>
+	<Elem NameU="Light11- red" Name="Luz11- vermelha"/>
+	<Elem NameU="Light11- yellow" Name="Luz11- amarela"/>
+	<Elem NameU="Light12- green" Name="Luz12- verde"/>
+	<Elem NameU="Light12- red" Name="Luz12- vermelha"/>
+	<Elem NameU="Light12- yellow" Name="Luz12- amarela"/>
+</Lib>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Azure Intune">
+    <Elem NameU="Account Portal" Name="계정 포털"/>
+    <Elem NameU="Administration" Name="관리"/>
+    <Elem NameU="Alerts" Name="경고"/>
+    <Elem NameU="Apps" Name="응용프로그램"/>
+    <Elem NameU="Certificate Compliance" Name="인증서 준수"/>
+    <Elem NameU="Client Software Deployment Wizard" Name="클라이언트 소프트웨어 배포 마법사"/>
+    <Elem NameU="Company Portal" Name="회사 포털"/>
+    <Elem NameU="Computer Inventory" Name="컴퓨터 인벤토리"/>
+    <Elem NameU="Conditional Access_Exchange" Name="조건부 액세스_Exchange"/>
+    <Elem NameU="Conditional Access_Sharepoint" Name="조건부 액세스_파일 공유"/>
+    <Elem NameU="Connector" Name="커넥터"/>
+    <Elem NameU="Dashboard" Name="대시보드"/>
+    <Elem NameU="Data Migration Wizard" Name="&#xd;&#xa;데이터 마이그레이션 관리자"/>
+    <Elem NameU="Detected Software" Name="검색한 소프트웨어"/>
+    <Elem NameU="Device Group" Name="장치 그룹"/>
+    <Elem NameU="Device Health" Name="장치 상태"/>
+    <Elem NameU="Device History" Name="장치 기록"/>
+    <Elem NameU="Device OS" Name="장치 OS"/>
+    <Elem NameU="End Protection" Name="보호 종료"/>
+    <Elem NameU="Exchange Connector" Name="교환 커넥터"/>
+    <Elem NameU="Groups" Name="그룹"/>
+    <Elem NameU="Hybrid" Name="하이브리드"/>
+    <Elem NameU="Intune Certificate Profiles" Name="증서"/>
+    <Elem NameU="Intune Connector (system center)" Name="Intune Connector (시스템 센터)"/>
+    <Elem NameU="Intune Email Profiles" Name="Intune 전자 메일 "/>
+    <Elem NameU="Intune Managed App" Name="Intune 관리 앱"/>
+    <Elem NameU="Intune Mobile Application Management" Name="Intune 모바일 응용 프로그램 관리"/>
+    <Elem NameU="Intune VPN Profiles" Name="VPN 프로필"/>
+    <Elem NameU="Intune Wi-Fi Profiles" Name="Wi-Fi 프로필"/>
+    <Elem NameU="Inventory license" Name="인벤토리 라이선스"/>
+    <Elem NameU="Inventory Software" Name="인벤토리 소프트웨어"/>
+    <Elem NameU="License Group" Name="라이선스 그룹"/>
+    <Elem NameU="License Installation" Name="라이선스 설치"/>
+    <Elem NameU="Microsoft Intune" Name="마이크로소프트 Intune"/>
+    <Elem NameU="Mobile Inventory" Name="모바일 인벤토리"/>
+    <Elem NameU="Noncompliant Apps" Name="호환되지 않는 앱"/>
+    <Elem NameU="Policy" Name="정책"/>
+    <Elem NameU="Protection" Name="보호"/>
+    <Elem NameU="Reports" Name="보고"/>
+    <Elem NameU="Settings" Name="설정"/>
+    <Elem NameU="Subscription Portal" Name="구독 플랫폼"/>
+    <Elem NameU="Terms And Conditions" Name="사용 약관"/>
+    <Elem NameU="Update" Name="업데이트"/>
+    <Elem NameU="User group" Name="사용자 그룹"/>
+    <Elem NameU="User Management" Name="사용자 관리"/>
+</Lib>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="People Activity Pictogram">
+	<Elem NameU="Cross the Road" Name="Attraversamento Pedonale"/>
+	<Elem NameU="Mom &amp;amp; Son" Name="Mamma e Figlio"/>
+	<Elem NameU="Ride Horse" Name="Andare a Cavallo"/>
+	<Elem NameU="Father &amp;amp; Kid" Name="Padre e Bambino"/>
+	<Elem NameU="Mom &amp;amp; Daughter" Name="Mamma e Figlia"/>
+	<Elem NameU="Walking" Name="Camminare"/>
+	<Elem NameU="Carriage" Name="Trasporto"/>
+	<Elem NameU="Woman" Name="Donna"/>
+	<Elem NameU="Man" Name="Uomo"/>
+	<Elem NameU="Child" Name="Bambino"/>
+	<Elem NameU="Couple" Name="Coppia"/>
+	<Elem NameU="Family" Name="Famiglia"/>
+	<Elem NameU="Worker Digging Sand" Name="Lavoratore che Spala Sabbia"/>
+	<Elem NameU="Shopping" Name="Shopping"/>
+	<Elem NameU="Old Man" Name="Anziano"/>
+	<Elem NameU="Go up Stairs" Name="Salire Scale"/>
+	<Elem NameU="Throwing Rubbish" Name="Buttare Spazzatura"/>
+	<Elem NameU="Riding Bicycle" Name="Pedalare"/>
+	<Elem NameU="Running" Name="Correre"/>
+	<Elem NameU="Champion" Name="Campione"/>
+	<Elem NameU="Photographer" Name="Fotografo"/>
+	<Elem NameU="Mail Man" Name="Postino"/>
+	<Elem NameU="Man with Umbrella" Name="Uomo con Ombrello"/>
+	<Elem NameU="Making a Phone Call" Name="Fare una Telefonata"/>
+	<Elem NameU="Answering Phone" Name="Rispondere al Telefono"/>
+	<Elem NameU="Listening Music" Name="Ascoltare Musica"/>
+	<Elem NameU="Watering Flowers" Name="Annaffiare i Fiori"/>
+	<Elem NameU="Reading" Name="Leggere"/>
+	<Elem NameU="Teaching" Name="Insegnare"/>
+	<Elem NameU="Playing Basketball" Name="Giocare a Basket"/>
+	<Elem NameU="People with a Loudspeaker" Name="Persone con Megafono"/>
+	<Elem NameU="Woman with a Hat" Name="Donna con Cappello"/>
+	<Elem NameU="Walking the Dog" Name="Portare a Spasso il Cane"/>
+	<Elem NameU="Having a Date" Name="Appuntamento"/>
+	<Elem NameU="Making a Proposal" Name="Proposta di Matrimonio"/>
+	<Elem NameU="Thinking" Name="Pensare"/>
+	<Elem NameU="Working" Name="Lavorare"/>
+	<Elem NameU="Writing" Name="Scrivere"/>
+	<Elem NameU="Wheelchair" Name="Carrozzina"/>
+	<Elem NameU="Illness" Name="Malattia"/>
+</Lib>

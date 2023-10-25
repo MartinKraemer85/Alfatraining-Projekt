@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Circular Charting Shapes">
+	<Elem NameU="Circular Motion" Name="Movimento Circular"/>
+	<Elem NameU="Circle" Name="Círculo"/>
+	<Elem NameU="Trapezoid Ring" Name="Anel Trapezoidal"/>
+	<Elem NameU="Basic Loop" Name="Ciclo Básico"/>
+	<Elem NameU="Basic Loop 2" Name="Ciclo Básico 2"/>
+	<Elem NameU="Block Loop" Name="Ciclo de Bloco"/>
+	<Elem NameU="Circle Arrow Loop" Name="Ciclo de Seta de Círulo"/>
+	<Elem NameU="Divergent Circle" Name="Círculo Divergente"/>
+	<Elem NameU="Divergent Blocks" Name="Blocos Divergentes"/>
+	<Elem NameU="Circle Arrow Loop 2" Name="ciclo de Seta de Círculo 2"/>
+	<Elem NameU="Divergent Circle 2" Name="Círuclo Divergente 2"/>
+	<Elem NameU="Highlight Circle" Name="Círculo Destacado"/>
+	<Elem NameU="Circles" Name="Círculos"/>
+	<Elem NameU="Stack Circles" Name="Círculos em Conjunto"/>
+	<Elem NameU="Gradient Circle" Name="Círculo de Gradiente"/>
+	<Elem NameU="Circle Sector" Name="Setor de Círculo"/>
+	<Elem NameU="Idea Wheel" Name="Roda de Ideia"/>
+	<Elem NameU="Variable Radian Pie" Name="Tarte de Radianos Variável"/>
+	<Elem NameU="Variable Radian Doughnut" Name="Rosquinha de Radianos Variável"/>
+	<Elem NameU="Circle Pie" Name="Tarte Circular"/>
+	<Elem NameU="Bevel-style Circle Pie" Name="Tarte Circular estilo-bisel"/>
+	<Elem NameU="Bevel-style Circle" Name="Círculo estilo-bisel"/>
+	<Elem NameU="Circle 5" Name="Círculo 5"/>
+	<Elem NameU="Bevel-style Circle 2" Name="Círculo estilo-bisel 2"/>
+	<Elem NameU="Circle 6" Name="Círculo 6"/>
+	<Elem NameU="Circle 7" Name="Círculo 7"/>
+	<Elem NameU="Bevel-style Circle 3" Name="Círculo estilo-bisel 3"/>
+	<Elem NameU="Circle 8" Name="Círculo 8"/>
+	<Elem NameU="Circle 9" Name="Círculo 9"/>
+	<Elem NameU="Sector Rings" Name="Anéis de Setor"/>
+	<Elem NameU="Trapezoid Rings" Name="Anéis Trapezoidais"/>
+	<Elem NameU="Venn Cycle" Name="Ciclo de Venn"/>
+	<Elem NameU="Multi-arrow Circle" Name="Círculo de Múltiplas-Setas"/>
+	<Elem NameU="Arrow Circle" Name="Círculo de Seta"/>
+	<Elem NameU="Annulus" Name="Anel"/>
+</Lib>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Azure Microsoft Products">
+    <Elem NameU="Access" Name="Access軟體"/>
+    <Elem NameU="Excel" Name="Excel軟體"/>
+    <Elem NameU="Exchange" Name="Exchange軟體"/>
+    <Elem NameU="Lync" Name="Lync軟體"/>
+    <Elem NameU="Outlook" Name="Outlook軟體"/>
+    <Elem NameU="PowerApps" Name="PowerApps軟體"/>
+    <Elem NameU="PowerPoint" Name="PowerPoint軟體"/>
+    <Elem NameU="Sharepoint" Name="Sharepoint軟體"/>
+    <Elem NameU="Visio" Name="Visio軟體"/>
+    <Elem NameU="Word" Name="Word軟體"/>
+    <Elem NameU="Cortana Blue" Name="Cortana Blue軟體"/>
+    <Elem NameU="BI Product" Name="BI Product軟體"/>
+</Lib>

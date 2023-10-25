@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="GCP Big Data">
+    <Elem NameU="Google software BigQuery" Name="谷歌 BigQuery"/>
+    <Elem NameU="Cloud data flow" Name="云数据流"/>
+    <Elem NameU="Cloud database" Name="云数据库"/>
+    <Elem NameU="Cloud data" Name="云数据"/>
+    <Elem NameU="Cloud data service" Name="云数据服务"/>
+    <Elem NameU="Google software cloud PubSub" Name="云PubSub"/>
+    <Elem NameU="Data studio" Name="数据工作室"/>
+    <Elem NameU="Genomics" Name="基因组学"/>
+</Lib>

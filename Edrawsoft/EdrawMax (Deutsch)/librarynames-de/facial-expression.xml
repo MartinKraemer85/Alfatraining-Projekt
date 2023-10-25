@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Facial Expression">
+	<Elem NameU="Neutral" Name="Neutral"/>
+	<Elem NameU="LOL" Name="LOL"/>
+	<Elem NameU="Ashtonished" Name="Erstaunt"/>
+	<Elem NameU="Kissing heart" Name="Küssendes Herz"/>
+	<Elem NameU="Bummed" Name="Gammelnd"/>
+	<Elem NameU="Crying with laughter" Name="Tränen lachen"/>
+	<Elem NameU="No words" Name="Keine Worte"/>
+	<Elem NameU="Laughing" Name="Lachen"/>
+	<Elem NameU="Heart eyes" Name="Herz-Augen"/>
+	<Elem NameU="Sweat grinning" Name="Schwitzend grinsen"/>
+	<Elem NameU="Slightly smile" Name="Leichtes Lächeln"/>
+	<Elem NameU="Smile" Name="Lächeln"/>
+	<Elem NameU="Sleepy" Name="Schläfrig"/>
+	<Elem NameU="Blush" Name="Erröten"/>
+	<Elem NameU="Crying" Name="Weinen"/>
+	<Elem NameU="Cool" Name="Cool"/>
+	<Elem NameU="Angry" Name="Verärgert"/>
+	<Elem NameU="Dizzy face" Name="Verwirrtes Gesicht"/>
+	<Elem NameU="Unamused" Name="Unlustig"/>
+	<Elem NameU="Hurt" Name="Verletzt"/>
+	<Elem NameU="Sick" Name="Krank"/>
+	<Elem NameU="Sleeping" Name="Schlafend"/>
+	<Elem NameU="Confused" Name="Verwirrt"/>
+	<Elem NameU="Face with tongue" Name="Gesicht mit Zunge"/>
+	<Elem NameU="Vomiting" Name="Kotzen"/>
+	<Elem NameU="Strength" Name="Stärke"/>
+	<Elem NameU="Dollar eyes" Name="Dollar-Augen"/>
+	<Elem NameU="Wink" Name="Zwinkern"/>
+	<Elem NameU="Woozy" Name="Verrückt"/>
+</Lib>

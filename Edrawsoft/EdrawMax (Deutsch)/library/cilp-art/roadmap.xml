@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Roadmap">
+  <Elem NameU="Container" Name="容器"/>
+  <Elem NameU="Container" Name="容器"/>
+  <Elem NameU="Container" Name="容器"/>
+  <Elem NameU="Roadmap Card" Name="路线图卡片"/>
+  <Elem NameU="Roadmap Card" Name="路线图卡片"/>
+  <Elem NameU="Roadmap Card" Name="路线图卡片"/>
+  <Elem NameU="Swim Lane" Name="泳道"/>
+  <Elem NameU="Swim Lane" Name="泳道"/>
+  <Elem NameU="Swim Lane" Name="泳道"/>
+  <Elem NameU="Roadmap Group" Name="路线图组合"/>
+  <Elem NameU="Roadmap Group" Name="路线图组合"/>
+  <Elem NameU="Roadmap Group" Name="路线图组合"/>
+</Lib>

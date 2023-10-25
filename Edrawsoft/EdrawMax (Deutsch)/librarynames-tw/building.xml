@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Building">
+    <Elem NameU="Cafe" Name="咖啡店"/>
+    <Elem NameU="Villa" Name="別墅"/>
+    <Elem NameU="Hospital" Name="醫院"/>
+    <Elem NameU="Gas" Name="加油站"/>
+    <Elem NameU="Hotel" Name="賓館"/>
+    <Elem NameU="Flower Shop" Name="花店"/>
+    <Elem NameU="Church" Name="教堂"/>
+    <Elem NameU="Beach Villa" Name="海灘別墅"/>
+    <Elem NameU="Castle" Name="城堡"/>
+    <Elem NameU="Post Office" Name="郵局"/>
+    <Elem NameU="Market" Name="市集"/>
+    <Elem NameU="Newsstand" Name="報攤"/>
+    <Elem NameU="Villa" Name="別墅"/>
+    <Elem NameU="Church" Name="教堂"/>
+    <Elem NameU="Cake Shop" Name="蛋糕店"/>
+    <Elem NameU="Factory" Name="工廠"/>
+    <Elem NameU="Villa" Name="別墅"/>
+    <Elem NameU="Bank" Name="銀行"/>
+    <Elem NameU="Church" Name="教堂"/>
+    <Elem NameU="Villa" Name="別墅"/>
+    <Elem NameU="Clothing Store" Name="服裝店"/>
+    <Elem NameU="Hotel" Name="賓館"/>
+    <Elem NameU="Gym" Name="健身房"/>
+    <Elem NameU="Villa" Number="2" Name="別墅"/>
+    <Elem NameU="Church" Name="教堂"/>
+    <Elem NameU="School" Name="學校"/>
+    <Elem NameU="Apartment" Name="公寓"/>
+    <Elem NameU="Nursing Home" Name="療養院"/>
+    <Elem NameU="Building" Name="建築"/>
+    <Elem NameU="Bookstore" Name="書店"/>
+    <Elem NameU="Library" Name="圖書館"/>
+    <Elem NameU="Newsstand" Name="報攤"/>
+    <Elem NameU="Police Station" Name="警察局"/>
+    <Elem NameU="Museum" Name="博物館"/>
+    <Elem NameU="Homestay" Name="寄宿家庭"/>
+    <Elem NameU="Memorial" Name="紀念館"/>
+    <Elem NameU="Restaurant" Name="餐廳"/>
+    <Elem NameU="Hospital" Name="醫院"/>
+    <Elem NameU="Post Office" Name="郵局"/>
+    <Elem NameU="Apartment" Name="公寓"/>
+    <Elem NameU="Office Building" Name="辦公樓"/>
+    <Elem NameU="Building" Name="建築"/>
+</Lib>

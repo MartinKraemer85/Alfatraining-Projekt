@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Calendar">
+  <Elem NameU="Big Calendar" Name="カレンダー大　１"/>
+  <Elem NameU="Big Calendar" Name="カレンダー大　２"/>
+  <Elem NameU="Calendar with Image" Name="画像付きカレンダー "/>
+  <Elem NameU="Medium Calendar" Name="カレンダー中　１ "/>
+  <Elem NameU="Horizontal Calendar" Name="カレンダー横"/>
+  <Elem NameU="Horizontal Calendar" Name="カレンダー横"/>
+  <Elem NameU="Horizontal Calendar" Name="カレンダー横"/>
+  <Elem NameU="Medium Calendar" Name="カレンダー中"/>
+  <Elem NameU="Medium Calendar" Name="カレンダー中"/>
+  <Elem NameU="Medium Calendar" Name="カレンダー中"/>
+  <Elem NameU="Medium Calendar" Name="カレンダー中"/>
+  <Elem NameU="Small Calendar" Name="カレンダー小"/>
+  <Elem NameU="Small Calendar" Name="カレンダー小"/>
+  <Elem NameU="Week Task Calendar" Name="週間カレンダー"/>
+  <Elem NameU="Week Task Calendar" Name="週間カレンダー"/>
+  <Elem NameU="Week Task Calendar" Name="週間カレンダー"/>
+  <Elem NameU="Task Sticker" Name="タスクステッカー"/>
+  <Elem NameU="Task Sticker" Name="タスクステッカー"/>
+  <Elem NameU="Task Sticker" Name="タスクステッカー"/>
+  <Elem NameU="Task Sticker" Name="タスクステッカー"/>
+</Lib>

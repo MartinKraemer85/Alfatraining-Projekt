@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="AWS Compute and Networking">
+    <Elem NameU="AMI" Name="AMI"/>
+    <Elem NameU="CloudWatch" Name="CloudWatch 클라우드 및 네트워크 모니터링"/>
+    <Elem NameU="DB on Instance" Name="데이터베이스 인스턴스"/>
+    <Elem NameU="Elastic IP" Name="탄력적인 IP"/>
+    <Elem NameU="Instance" Name="인스턴스"/>
+    <Elem NameU="Instances" Name="여러 인스턴스"/>
+    <Elem NameU="Instance Contents" Name="인스턴스 내용"/>
+    <Elem NameU="Amazon EC2" Name="Amazon EC2"/>
+    <Elem NameU="Cluster" Name="클러스터"/>
+    <Elem NameU="HDFS Cluster" Name="HDFS 클러스터"/>
+    <Elem NameU="Amazon EMR" Name="Amazon EMR"/>
+    <Elem NameU="Route 53 Hosted Zone" Name="경로 53 호스팅 영역"/>
+    <Elem NameU="Route 53 Route Table" Name="경로 53 경로 테이블"/>
+    <Elem NameU="Route 53" Name="경로 53"/>
+    <Elem NameU="VPC Customer Gateway" Name="VPC 고객 게이트웨이"/>
+    <Elem NameU="VPC Internet Gateway" Name="VPC 인터넷 게이트웨이"/>
+    <Elem NameU="VPC Contents" Name="VPC 내용"/>
+    <Elem NameU="VPC Router" Name="VPC 라우터"/>
+    <Elem NameU="VPC VPN Connection" Name="VPC VPN 연결"/>
+    <Elem NameU="VPC VPN Gateway" Name="VPC VPN 게이트웨이"/>
+    <Elem NameU="VPN Connection" Name="VPN 연결"/>
+    <Elem NameU="VPC" Name="VPC"/>
+    <Elem NameU="Auto Scaling" Name="자동 크기 조정"/>
+    <Elem NameU="AWS Direct Connect" Name="AWS 직접 연결"/>
+    <Elem NameU="EC2 Optimized Instance" Name="EC2 최적화 인스턴스"/>
+    <Elem NameU="Elastic Load Balancing" Name="탄력적 부하 균형"/>
+    <Elem NameU="Elastic Network Instance" Name="탄성 네트워크 인스턴스"/>
+    <Elem NameU="EMR Engine" Name="EMR 엔진"/>
+    <Elem NameU="EMR MapR M3 Engine" Name="EMR MapR M3 엔진"/>
+    <Elem NameU="EMR MapR M5 Engine" Name="EMR MapR M5 엔진"/>
+    <Elem NameU="EMR MapR M7 Engine" Name="EMR MapR M7 엔진"/>
+    <Elem NameU="Kinesis Enabled App" Name="Kinesis 앱 활성화"/>
+    <Elem NameU="VPC Peering" Name="VPC Peering"/>
+    <Elem NameU="WorkSpaces" Name="작업 영역"/>
+    <Elem NameU="Lambda" Name="람다"/>
+</Lib>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Decision Tree">
+    <Elem NameU="Decision Made Node" Name="決策節點"/>
+    <Elem NameU="Chance Event Node" Name="事件節點"/>
+    <Elem NameU="Endpoints" Name="結束"/>
+    <Elem NameU="Branches of alternatives" Name="可替代分支"/>
+    <Elem NameU="Branches of alternatives 2" Name="可替代分支 2"/>
+    <Elem NameU="Rejected Alternative" Name="拒絕替代"/>
+    <Elem NameU="Rejected Alternative 2" Name="拒絕替代 2"/>
+    <Elem NameU="Outcome or utility" Name="結果或應用程式"/>
+    <Elem NameU="Probability" Name="幾率"/>
+    <Elem NameU="Expected Value" Name="預期值"/>
+    <Elem NameU="Node Designating a Choice" Name="節點指定一個選擇"/>
+    <Elem NameU="Payoff" Name="回報"/>
+</Lib>

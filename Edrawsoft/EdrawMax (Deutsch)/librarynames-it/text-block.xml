@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Text Block">
+	<Elem NameU="Text Block" Name="Blocco di Testo"/>
+	<Elem NameU="Creative Box" Name="Casella Creativa"/>
+	<Elem NameU="Creative Box 2" Name="Casella Creativa 2"/>
+	<Elem NameU="Creative Box 3" Name="Casella Creativa 3"/>
+	<Elem NameU="Creative Box 4" Name="Casella Creativa 4"/>
+	<Elem NameU="Creative Box 5" Name="Casella Creativa 5"/>
+	<Elem NameU="Creative Box 6" Name="Casella Creativa 6"/>
+	<Elem NameU="Creative Box 7" Name="Casella Creativa 7"/>
+	<Elem NameU="Creative Box 8" Name="Casella Creativa 8"/>
+	<Elem NameU="Creative Box 9" Name="Casella Creativa 9"/>
+	<Elem NameU="Creative Box 10" Name="Casella Creativa 10"/>
+	<Elem NameU="Creative Box 11" Name="Casella Creativa 11"/>
+	<Elem NameU="Creative Box 12" Name="Casella Creativa 12"/>
+	<Elem NameU="Creative Box 13" Name="Casella Creativa 13"/>
+	<Elem NameU="Creative Box 14" Name="Casella Creativa 14"/>
+	<Elem NameU="Creative Box 15" Name="Casella Creativa 15"/>
+	<Elem NameU="Text Box" Name="Casella di Testo"/>
+	<Elem NameU="Text Box 2" Name="Casella di Testo 2"/>
+	<Elem NameU="Text Box 3" Name="Casella di Testo 3"/>
+	<Elem NameU="Text Box 4" Name="Casella di Testo 4"/>
+	<Elem NameU="Text Box 5" Name="Casella di Testo 5"/>
+	<Elem NameU="Text Box 6" Name="Casella di Testo 6"/>
+	<Elem NameU="Text Box 7" Name="Casella di Testo 7"/>
+	<Elem NameU="Text Box 8" Name="Casella di Testo 8"/>
+	<Elem NameU="Text Box 9" Name="Casella di Testo 9"/>
+	<Elem NameU="Text Box 10" Name="Casella di Testo 10"/>
+	<Elem NameU="Text Box 11" Name="Casella di Testo 11"/>
+	<Elem NameU="Text Box 12" Name="Casella di Testo 12"/>
+	<Elem NameU="Multi-Style Rectangle" Name="Rettangolo Multistile"/>
+	<Elem NameU="Multi-Style Rectangle 2" Name="Rettangolo Multistile 2"/>
+	<Elem NameU="Arc Rectangle" Name="Rettangolo ad Arco"/>
+	<Elem NameU="Hexagon" Name="Esagono"/>
+	<Elem NameU="Trapezoid" Name="Trapezio"/>
+	<Elem NameU="Trapeziod 2" Name="Trapezio 2"/>
+	<Elem NameU="Trapeziod 3" Name="Trapezio 3"/>
+	<Elem NameU="Circle" Name="Cerchio"/>
+	<Elem NameU="Circle 2" Name="Cerchio 2"/>
+	<Elem NameU="Circle 3" Name="Cerchio 3"/>
+	<Elem NameU="Box" Name="Casella"/>
+	<Elem NameU="Basic Circle" Name="Cerchio Semplice"/>
+	<Elem NameU="Circle 4" Name="Cerchio 4"/>
+	<Elem NameU="Circle 5" Name="Cerchio 5"/>
+	<Elem NameU="Circle 6" Name="Cerchio 6"/>
+	<Elem NameU="Circle 7" Name="Cerchio 7"/>
+	<Elem NameU="Circle 8" Name="Cerchio 8"/>
+	<Elem NameU="Circle 9" Name="Cerchio 9"/>
+	<Elem NameU="Circle 10" Name="Cerchio 10"/>
+	<Elem NameU="Circle 11" Name="Cerchio 11"/>
+	<Elem NameU="Circle 12" Name="Cerchio 12"/>
+	<Elem NameU="Circle 13" Name="Cerchio 13"/>
+	<Elem NameU="Ball" Name="Palla"/>
+	<Elem NameU="Water-drop" Name="Goccia"/>
+	<Elem NameU="Diamond" Name="Diamante"/>
+	<Elem NameU="3D Diamond" Name="Diamante 3D"/>
+	<Elem NameU="3D Diamond 2" Name="Diamante 3D 2"/>
+	<Elem NameU="Round Rectangle" Name="Rettangolo Arrotondato"/>
+	<Elem NameU="Basic Rectangle" Name="Rettangolo Semplice"/>
+	<Elem NameU="Rectangle" Name="Rettangolo"/>
+	<Elem NameU="Rectangle 3" Name="Rettangolo 3"/>
+	<Elem NameU="Rectangle 4" Name="Rettangolo 4"/>
+	<Elem NameU="Rectangle 5" Name="Rettangolo 5"/>
+	<Elem NameU="Rectangle 6" Name="Rettangolo 6"/>
+	<Elem NameU="Rectangle 7" Name="Rettangolo 7"/>
+	<Elem NameU="3D Rectangle 2" Name="Rettangolo 3D 2"/>
+	<Elem NameU="Triangle" Name="Triangolo"/>
+	<Elem NameU="Triangle 2" Name="Triangolo 2"/>
+	<Elem NameU="Triangle 3" Name="Triangolo 3"/>
+	<Elem NameU="Triangle 4" Name="Triangolo 4"/>
+</Lib>

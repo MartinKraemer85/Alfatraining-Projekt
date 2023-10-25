@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="COM and OLE">
+	<Elem NameU="COM Object" Name="Oggetto COM"/>
+	<Elem NameU="Vtable" Name="Vtable"/>
+	<Elem NameU="OLE Server App" Name="App Server OLE"/>
+	<Elem NameU="Object Model" Name="Modello di Oggetto"/>
+	<Elem NameU="Reference" Name="Riferimento"/>
+	<Elem NameU="Weak Reference" Name="Riferimento Debole"/>
+	<Elem NameU="Interface" Name="Interfaccia"/>
+	<Elem NameU="Process Boundary" Name="Confine Processo"/>
+	<Elem NameU="Document or File" Name="Documento o File"/>
+	<Elem NameU="Embedded Document" Name="Documento Incorporato"/>
+	<Elem NameU="Data Store" Name="Archiviazione Dati"/>
+	<Elem NameU="Connector" Name="Connettore"/>
+	<Elem NameU="Boundary" Name="Confine"/>
+</Lib>

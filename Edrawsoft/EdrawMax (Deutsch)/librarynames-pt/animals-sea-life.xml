@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Animals-Sea Life">
+	<Elem NameU="Goldfish" Name="Peixe-dourado"/>
+	<Elem NameU="Fish" Name="Peixe"/>
+	<Elem NameU="Kiss Fish 1" Name="Beijador 1"/>
+	<Elem NameU="Kiss Fish 2" Name="Beijador 2"/>
+	<Elem NameU="Nemo" Name="Nemo"/>
+	<Elem NameU="Hippocampus 1" Name="Hipocampo 1"/>
+	<Elem NameU="Hippocampus 2" Name="Hipocampo 2"/>
+	<Elem NameU="Jellyfish 1" Name="Medusa 1"/>
+	<Elem NameU="Jellyfish 2" Name="Medusa 2"/>
+	<Elem NameU="Sea lion 1" Name="Leão marinho 1"/>
+	<Elem NameU="Sea lion 2" Name="Leão marinho 2"/>
+	<Elem NameU="Dolphin 1" Name="Golfinho 1"/>
+	<Elem NameU="Dolphin 2" Name="Golfinho 2"/>
+	<Elem NameU="Dolphin 3" Name="Golfinho 3"/>
+	<Elem NameU="Penguin 1" Name="Pinguim 1"/>
+	<Elem NameU="Penguin 2" Name="Pinguim 2"/>
+	<Elem NameU="Octopus" Name="Polvo"/>
+	<Elem NameU="Starfish 1" Name="Estrela do mar 1"/>
+	<Elem NameU="Starfish 2" Name="Estrela do mar 2"/>
+	<Elem NameU="Starfish 3" Name="Estrela do mar 3"/>
+	<Elem NameU="Shark" Name="Tubarão"/>
+	<Elem NameU="Walrus" Name="Morsa"/>
+	<Elem NameU="Seal 1" Name="Foca 1"/>
+	<Elem NameU="Seal 2" Name="Foca 2"/>
+	<Elem NameU="Seashell" Name="Concha do mar"/>
+	<Elem NameU="Spiral Shell 1" Name="Concha Espiral 1"/>
+	<Elem NameU="Spiral Shell 2" Name="Concha Espiral 2"/>
+	<Elem NameU="Spiral Shell 3" Name="Concha Espiral 3"/>
+</Lib>

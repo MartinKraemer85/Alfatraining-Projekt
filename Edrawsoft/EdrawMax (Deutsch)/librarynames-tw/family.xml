@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Family">
+<Elem NameU="Father" Name="爸爸"/>
+<Elem NameU="Mother" Name="媽媽"/>
+<Elem NameU="Grandfather" Name="(外)祖父"/>
+<Elem NameU="Grandmother" Name="(外)祖母"/>
+<Elem NameU="Uncle" Name="舅父；叔父；伯父；姑父"/>
+<Elem NameU="Aunt" Name="姑母；姨母；伯母；嬸母；舅母"/>
+<Elem NameU="Son 1" Name="兒子 1"/>
+<Elem NameU="Son 2" Name="兒子 2"/>
+<Elem NameU="Daughter 1" Name="女兒 1"/>
+<Elem NameU="Daughter 2" Name="女兒 2"/>
+<Elem NameU="Baby" Name="嬰兒"/>
+<Elem NameU="Wedding Couple" Name="新婚夫婦"/>
+<Elem NameU="Father and Mother" Name="爸爸和媽媽"/>
+<Elem NameU="Grandparents" Name="(外)祖父母"/>
+<Elem NameU="Parents and Kids" Name="父母和孩子 1"/>
+<Elem NameU="Mother,Baby and Stroller" Name="媽媽,嬰兒和嬰兒車"/>
+<Elem NameU="Parents and Kids 2" Name="父母和孩子 2"/>
+<Elem NameU="Grandfather, Father and Son" Name="(外)祖父,爸爸和兒子"/>
+<Elem NameU="Father and Son" Name="爸爸和兒子"/>
+<Elem NameU="Parents and Daughter" Name="父母和女兒"/>
+<Elem NameU="Sisters" Name="姐妹"/>
+<Elem NameU="Brother and Sister" Name="兄妹"/>
+<Elem NameU="Sister and Brother" Name="姐弟"/>
+<Elem NameU="Brothers" Name="兄弟"/>
+<Elem NameU="Father and Uncle" Name="爸爸和叔叔"/>
+<Elem NameU="Father and Kids" Name="爸爸和孩子們"/>
+<Elem NameU="Mother and Kids" Name="媽媽和孩子們"/>
+<Elem NameU="Uncle and Aunt" Name="叔叔和阿姨"/>
+<Elem NameU="Grandmother and Granddaughter" Name="(外)祖母和(外)孫女"/>
+<Elem NameU="Grandfather and Grandson" Name="(外)祖父和(外)孫子"/>
+<Elem NameU="Grandmother, Mother and Daughter" Name="(外)祖母,媽媽和女兒"/>
+<Elem NameU="Parents and Kids 3" Name="父母和孩子 3"/>
+<Elem NameU="Family Group 1" Name="一家人 1"/>
+<Elem NameU="Family Group 2" Name="一家人 2"/></Lib>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="AWS Robotics">
+	<Elem NameU="AWS-RoboMaker" Name="AWS RoboMaker"/>
+	<Elem NameU="Robotics" Name="Robotica"/>
+	<Elem NameU="AWS-RoboMaker_Cloud-Extension-ROS" Name="AWS RoboMaker Cloud Extension ROS"/>
+	<Elem NameU="AWS-RoboMaker_Development-Environment" Name="Ambiente di sviluppo AWS RoboMaker"/>
+	<Elem NameU="AWS-RoboMaker_Fleet-Management" Name="Gestione della flotta di AWS RoboMaker"/>
+	<Elem NameU="AWS-RoboMaker_Simulation" Name="Simulazione AWS RoboMaker"/>
+</Lib>

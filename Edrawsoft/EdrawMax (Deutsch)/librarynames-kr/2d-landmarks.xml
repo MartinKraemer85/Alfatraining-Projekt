@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="2D Landmarks">
+    <Elem NameU="City" Name="도시"/>
+    <Elem NameU="Bank" Name="은행"/>
+    <Elem NameU="Book store" Name="서점"/>
+    <Elem NameU="Beauty salon" Name="미용실"/>
+    <Elem NameU="Medical clinic" Name="병원"/>
+    <Elem NameU="Hotel" Number="2" Name="호텔"/>
+    <Elem NameU="Post office" Name="우체국"/>
+    <Elem NameU="Police" Name="경찰서"/>
+    <Elem NameU="Movie theater" Name="영화관"/>
+    <Elem NameU="Restaurant" Name="식당"/>
+    <Elem NameU="Market" Name="상점"/>
+    <Elem NameU="Supermarket" Name="슈퍼마켓"/>
+    <Elem NameU="Coffee shop" Name="카페"/>
+    <Elem NameU="Library" Name="도서관"/>
+    <Elem NameU="Town hall" Name="시청"/>
+    <Elem NameU="School" Name="학교"/>
+    <Elem NameU="Cathedral" Name="성당"/>
+    <Elem NameU="Motel" Name="모텔"/>
+    <Elem NameU="Town Hall" Name="시청"/>
+    <Elem NameU="Condos" Name="콘도"/>
+    <Elem NameU="Public house" Name="공공장소"/>
+    <Elem NameU="Petrol station" Name="주유소"/>
+    <Elem NameU="Gas station" Name="주유소"/>
+    <Elem NameU="Barn" Name="창고"/>
+    <Elem NameU="Barn 2" Name="창고 2"/>
+    <Elem NameU="Building" Name="선물"/>
+    <Elem NameU="Factory" Name="공장"/>
+    <Elem NameU="Hospital" Name="병원"/>
+    <Elem NameU="Stadium" Name="경기장"/>
+    <Elem NameU="Wildlife Park" Name="동물원"/>
+    <Elem NameU="Mountains" Name="산"/>
+    <Elem NameU="Park" Name=""/>
+    <Elem NameU="Holiday Bungalow" Name="홀리데이 방갈로"/>
+    <Elem NameU="Beach" Name="해변"/>
+    <Elem NameU="Fountain Plaza" Name="분수 공원"/>
+    <Elem NameU="Amusement Park" Name="놀이동산"/>
+    <Elem NameU="Waterfall" Name="폭포"/>
+    <Elem NameU="River" Name="강"/>
+    <Elem NameU="Lake" Name="호수"/>
+    <Elem NameU="Tree 1" Name="나무 1"/>
+    <Elem NameU="Tree 2" Name="나무 2"/>
+    <Elem NameU="Tree 3" Name="나무 3"/>
+    <Elem NameU="Tree 4" Name="나무 4"/>
+    <Elem NameU="Cruise ship" Name="크루즈"/>
+    <Elem NameU="Port" Name="항구"/>
+    <Elem NameU="Crane" Number="2" Name="크레인"/>
+    <Elem NameU="Excavator" Name="포크레인"/>
+    <Elem NameU="Hoist" Name="호이스트"/>
+    <Elem NameU="Airport" Name="공항"/>
+    <Elem NameU="Freighter" Name="화물선"/>
+    <Elem NameU="Stop Light" Name="신호등"/>
+    <Elem NameU="Direction Guide" Name="방향안내"/>
+    <Elem NameU="location" Name="위치"/>
+    <Elem NameU="Direction sign" Name="방향 표시"/>
+    <Elem NameU="Parking place" Name="주차장"/>
+</Lib>

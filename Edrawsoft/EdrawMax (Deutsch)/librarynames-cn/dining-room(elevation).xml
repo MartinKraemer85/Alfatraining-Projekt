@@ -1,0 +1,18 @@
+<Lib NameU="Dining Room (Elevation)">
+  <Elem Name="瓶子 1" NameU="Bottle 1"/>
+  <Elem Name="瓶子 2" NameU="Bottle 2"/>
+  <Elem Name="瓶子 3" NameU="Bottle 3"/>
+  <Elem Name="瓶子 4" NameU="Bottle 4"/>
+  <Elem Name="瓶子 5" NameU="Bottle 5"/>
+  <Elem Name="瓶子 6" NameU="Bottle 6"/>
+  <Elem Name="瓶子 7" NameU="Bottle 7"/>
+  <Elem Name="玻璃杯 1" NameU="Glass 1"/>
+  <Elem Name="玻璃杯 2" NameU="Glass 2"/>
+  <Elem Name="玻璃杯 3" NameU="Glass 3"/>
+  <Elem Name="玻璃杯 4" NameU="Glass 4"/>
+  <Elem Name="玻璃杯 5" NameU="Glass 5"/>
+  <Elem Name="玻璃杯 6" NameU="Glass 6"/>
+  <Elem Name="玻璃杯 7" NameU="Glass 7"/>
+  <Elem Name="油瓶" NameU="Glass-bottle"/>
+  <Elem Name="桶" NameU="Barrel"/>
+</Lib>

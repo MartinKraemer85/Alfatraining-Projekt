@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Peripheral Equipment">
+    <Elem NameU="Airport Express" Name="충전기"/>
+    <Elem NameU="Camera 1" Name="카메라 1"/>
+    <Elem NameU="Camera 2" Name="카메라 2"/>
+    <Elem NameU="CRT Projector" Name="CRT 프로젝터"/>
+    <Elem NameU="Copier" Name="복사기"/>
+    <Elem NameU="Data Center" Name="데이터 센터"/>
+    <Elem NameU="Digital Telephone" Name="디지털 전화"/>
+    <Elem NameU="Earphone" Name="이어폰"/>
+    <Elem NameU="Fax" Name="팩스"/>
+    <Elem NameU="Keyboard" Name="키보드"/>
+    <Elem NameU="Microphone" Name="마이크로폰"/>
+    <Elem NameU="Omnidirectional microphone" Name="무 지향성 마이크"/>
+    <Elem NameU="Telephone conference terminal" Name="전화 회의 터미널"/>
+    <Elem NameU="Mobile HDD" Name="모바일 HDD"/>
+    <Elem NameU="Mouse" Name="마우스"/>
+    <Elem NameU="Mouse 2" Name="마우스 2"/>
+    <Elem NameU="Projector" Name="프로젝터"/>
+    <Elem NameU="Multi-function Device" Name="멀티 기능 장비"/>
+    <Elem NameU="Plotter" Name="플로터"/>
+    <Elem NameU="Printer" Name="인쇄기"/>
+    <Elem NameU="Scanner" Name="스캐너"/>
+    <Elem NameU="Screen" Name="스크린"/>
+    <Elem NameU="Speakers" Name="스피커"/>
+    <Elem NameU="Telephone" Name="전화"/>
+    <Elem NameU="Visual telephone" Name="전화"/>
+    <Elem NameU="Memory card" Name="메모리 카드"/>
+    <Elem NameU="U Disk" Name="U디스크"/>
+    <Elem NameU="Web Camera" Name="웹캠"/>
+    <Elem NameU="Credit card machine" Name="카드 머신"/>
+    <Elem NameU="Amplifier" Name="증폭기"/>
+    <Elem NameU="DVD" Name="DVD"/>
+    <Elem NameU="Mixer" Name="믹서"/>
+    <Elem NameU="Server" Name="서버"/>
+</Lib>

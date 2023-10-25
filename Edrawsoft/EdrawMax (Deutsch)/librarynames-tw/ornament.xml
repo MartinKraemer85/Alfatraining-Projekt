@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Ornament">
+    <Elem NameU="Head 1" Name="標題 1"/>
+    <Elem NameU="Head 2" Name="標題 2"/>
+    <Elem NameU="Head 3" Name="標題 3"/>
+    <Elem NameU="Head 4" Name="標題 4"/>
+    <Elem NameU="Head 5" Name="標題 5"/>
+    <Elem NameU="Head 6" Name="標題 6"/>
+    <Elem NameU="Head 7" Name="標題 7"/>
+    <Elem NameU="Head 8" Name="標題 8"/>
+    <Elem NameU="Head 9" Name="標題 9"/>
+    <Elem NameU="Head 10" Name="標題 10"/>
+    <Elem NameU="Head 11" Name="標題 11"/>
+    <Elem NameU="Head 12" Name="標題 12"/>
+    <Elem NameU="Head 13" Name="標題 13"/>
+    <Elem NameU="Head 14" Name="標題 14"/>
+    <Elem NameU="Head 15" Name="標題 15"/>
+    <Elem NameU="Head 16" Name="標題 16"/>
+    <Elem NameU="Head 17" Name="標題 17"/>
+    <Elem NameU="Head 18" Name="標題 18"/>
+    <Elem NameU="Head 19" Name="標題 19"/>
+    <Elem NameU="Head 20" Name="標題 20"/>
+    <Elem NameU="Head 21" Name="標題 21"/>
+    <Elem NameU="Head 22" Name="標題 22"/>
+    <Elem NameU="Head 23" Name="標題 23"/>
+    <Elem NameU="Head 24" Name="標題 24"/>
+    <Elem NameU="Head 25" Name="標題 25"/>
+    <Elem NameU="Head 26" Name="標題 26"/>
+    <Elem NameU="Head 27" Name="標題 27"/>
+    <Elem NameU="Head 28" Name="標題 28"/>
+    <Elem NameU="Head 29" Name="標題 29"/>
+    <Elem NameU="Element 1" Name="圖案 1"/>
+    <Elem NameU="Element 2" Name="圖案 2"/>
+    <Elem NameU="Element 3" Name="圖案 3"/>
+    <Elem NameU="Element 4" Name="圖案 4"/>
+    <Elem NameU="Element 5" Name="圖案 5"/>
+    <Elem NameU="Element 6" Name="圖案 6"/>
+    <Elem NameU="Element 7" Name="圖案 7"/>
+    <Elem NameU="Element 8" Name="圖案 8"/>
+    <Elem NameU="Element 9" Name="圖案 9"/>
+    <Elem NameU="Element 10" Name="圖案 10"/>
+    <Elem NameU="Element 11" Name="圖案 11"/>
+    <Elem NameU="Element 12" Name="圖案 12"/>
+    <Elem NameU="Element 13" Name="圖案 13"/>
+    <Elem NameU="Element 14" Name="圖案 14"/>
+    <Elem NameU="Element 15" Name="圖案 15"/>
+    <Elem NameU="Element 16" Name="圖案 16"/>
+    <Elem NameU="Element 17" Name="圖案 17"/>
+    <Elem NameU="Element 18" Name="圖案 18"/>
+    <Elem NameU="Element 19" Name="圖案 19"/>
+    <Elem NameU="Element 20" Name="圖案 20"/>
+    <Elem NameU="Element 21" Name="圖案 21"/>
+    <Elem NameU="Element 22" Name="圖案 22"/>
+    <Elem NameU="Element 23" Name="圖案 23"/>
+    <Elem NameU="Element 24" Name="圖案 24"/>
+    <Elem NameU="Element 25" Name="圖案 25"/>
+    <Elem NameU="Element 26" Name="圖案 26"/>
+    <Elem NameU="Element 27" Name="圖案 27"/>
+    <Elem NameU="Element 28" Name="圖案 28"/>
+    <Elem NameU="Element 29" Name="圖案 29"/>
+    <Elem NameU="Element 30" Name="圖案 30"/>
+    <Elem NameU="Element 31" Name="圖案 31"/>
+    <Elem NameU="Element 32" Name="圖案 32"/>
+    <Elem NameU="Element 33" Name="圖案 33"/>
+    <Elem NameU="Element 34" Name="圖案 34"/>
+    <Elem NameU="Element 35" Name="圖案 35"/>
+    <Elem NameU="Element 36" Name="圖案 36"/>
+    <Elem NameU="Element 37" Name="圖案 37"/>
+    <Elem NameU="Element 38" Name="圖案 38"/>
+    <Elem NameU="Element 39" Name="圖案 39"/>
+    <Elem NameU="Element 40" Name="圖案 40"/>
+    <Elem NameU="Element 41" Name="圖案 41"/>
+    <Elem NameU="Element 42" Name="圖案 42"/>
+    <Elem NameU="Element 43" Name="圖案 43"/>
+    <Elem NameU="Element 44" Name="圖案 44"/>
+    <Elem NameU="Element 45" Name="圖案 45"/>
+    <Elem NameU="Element 46" Name="圖案 46"/>
+    <Elem NameU="Element 47" Name="圖案 47"/>
+    <Elem NameU="Element 48" Name="圖案 48"/>
+    <Elem NameU="Element 49" Name="圖案 49"/>
+    <Elem NameU="Element 50" Name="圖案 50"/>
+    <Elem NameU="Element 51" Name="圖案 51"/>
+    <Elem NameU="Element 52" Name="圖案 52"/>
+    <Elem NameU="Element 53" Name="圖案 53"/>
+    <Elem NameU="Element 54" Name="圖案 54"/>
+    <Elem NameU="Element 55" Name="圖案 55"/>
+    <Elem NameU="Element 56" Name="圖案 56"/>
+    <Elem NameU="Element 57" Name="圖案 57"/>
+    <Elem NameU="Corner 58" Name="角圖案 58"/>
+    <Elem NameU="Corner 1" Name="角圖案 1"/>
+    <Elem NameU="Corner 2" Name="角圖案 2"/>
+    <Elem NameU="Corner 3" Name="角圖案 3"/>
+    <Elem NameU="Corner 4" Name="角圖案 4"/>
+    <Elem NameU="Corner 5" Name="角圖案 5"/>
+    <Elem NameU="Corner 6" Name="角圖案 6"/>
+    <Elem NameU="Corner 7" Name="角圖案 7"/>
+    <Elem NameU="Corner 8" Name="角圖案 8"/>
+    <Elem NameU="Corner 9" Name="角圖案 9"/>
+    <Elem NameU="Corner 10" Name="角圖案 10"/>
+    <Elem NameU="Corner 11" Name="角圖案 11"/>
+    <Elem NameU="Corner 12" Name="角圖案 12"/>
+    <Elem NameU="Corner 13" Name="角圖案 13"/>
+    <Elem NameU="Corner 14" Name="角圖案 14"/>
+    <Elem NameU="Corner 15" Name="角圖案 15"/>
+    <Elem NameU="Corner 16" Name="角圖案 16"/>
+    <Elem NameU="Corner 17" Name="角圖案 17"/>
+    <Elem NameU="Corner 18" Name="角圖案 18"/>
+    <Elem NameU="Corner 19" Name="角圖案 19"/>
+    <Elem NameU="Corner 20" Name="角圖案 20"/>
+    <Elem NameU="Corner 21" Name="角圖案 21"/>
+    <Elem NameU="Corner 22" Name="角圖案 22"/>
+    <Elem NameU="Corner 23" Name="角圖案 23"/>
+    <Elem NameU="Corner 24" Name="角圖案 24"/>
+    <Elem NameU="Corner 25" Name="角圖案 25"/>
+    <Elem NameU="Corner 26" Name="角圖案 26"/>
+    <Elem NameU="Corner 27" Name="角圖案 27"/>
+    <Elem NameU="Corner 28" Name="角圖案 28"/>
+    <Elem NameU="Corner 29" Name="角圖案 29"/>
+    <Elem NameU="Corner 30" Name="角圖案 30"/>
+    <Elem NameU="Corner 31" Name="角圖案 31"/>
+    <Elem NameU="Corner 32" Name="角圖案 32"/>
+    <Elem NameU="Corner 33" Name="角圖案 33"/>
+    <Elem NameU="Corner 34" Name="角圖案 34"/>
+    <Elem NameU="Corner 35" Name="角圖案 35"/>
+    <Elem NameU="Line 1" Name="線 1"/>
+    <Elem NameU="Line 2" Name="線 2"/>
+    <Elem NameU="Line 3" Name="線 3"/>
+    <Elem NameU="Line 4" Name="線 4"/>
+    <Elem NameU="Line 5" Name="線 5"/>
+    <Elem NameU="Flower Pattern 1" Name="花圖案 1"/>
+    <Elem NameU="Flower Pattern 2" Name="花圖案 2"/>
+    <Elem NameU="Flower Pattern 3" Name="花圖案 3"/>
+    <Elem NameU="Flower Pattern 4" Name="花圖案 4"/>
+    <Elem NameU="Flower Pattern 5" Name="花圖案 5"/>
+    <Elem NameU="Auspicious Clouds 1" Name="祥雲 1"/>
+    <Elem NameU="Flower Pattern 6" Name="花圖案 6"/>
+    <Elem NameU="Auspicious Clouds 2" Name="祥雲 2"/>
+    <Elem NameU="Auspicious Clouds 3" Name="祥雲 3"/>
+    <Elem NameU="Auspicious Clouds 4" Name="祥雲 4"/>
+    <Elem NameU="Auspicious Clouds 5" Name="祥雲 5"/>
+    <Elem NameU="Ink Imprinting 1" Name="水墨彩 1"/>
+    <Elem NameU="Ink Imprinting 2" Name="水墨彩 2"/>
+    <Elem NameU="Ink Imprinting 3" Name="水墨彩 3"/>
+    <Elem NameU="Ink Imprinting 4" Name="水墨彩 4"/>
+    <Elem NameU="Ink Imprinting 5" Name="水墨彩 5"/>
+    <Elem NameU="Ink Imprinting 6" Name="水墨彩 6"/>
+    <Elem NameU="Ink Imprinting 7" Name="水墨彩 7"/>
+    <Elem NameU="Lantern" Name="燈籠"/>
+    <Elem NameU="Feather 1" Name="羽毛 1"/>
+    <Elem NameU="Feather 2" Name="羽毛 2"/>
+    <Elem NameU="Border 1" Name="邊框 1"/>
+    <Elem NameU="Border 2" Name="邊框 2"/>
+    <Elem NameU="Border 3" Name="邊框 3"/>
+    <Elem NameU="Border 5" Name="邊框 5"/>
+    <Elem NameU="Border 6" Name="邊框 6"/>
+    <Elem NameU="Border 7" Name="邊框 7"/>
+    <Elem NameU="Border 8" Name="邊框 8"/>
+    <Elem NameU="Border 9" Name="邊框 9"/>
+    <Elem NameU="Border 10" Name="邊框 10"/>
+    <Elem NameU="Border 11" Name="邊框 11"/>
+    <Elem NameU="Border 12" Name="邊框 12"/>
+    <Elem NameU="Border 13" Name="邊框 13"/>
+    <Elem NameU="Border 14" Name="邊框 14"/>
+    <Elem NameU="Border 15" Name="邊框 15"/>
+    <Elem NameU="Border 16" Name="邊框 16"/>
+    <Elem NameU="Border 17" Name="邊框 17"/>
+    <Elem NameU="Border 18" Name="邊框 18"/>
+    <Elem NameU="Border 19" Name="邊框 19"/>
+    <Elem NameU="Border 20" Name="邊框 20"/>
+    <Elem NameU="Border 21" Name="邊框 21"/>
+    <Elem NameU="Border 22" Name="邊框 22"/>
+    <Elem NameU="Border 23" Name="邊框 23"/>
+    <Elem NameU="Border 24" Name="邊框 24"/>
+    <Elem NameU="Border 25" Name="邊框 25"/>
+    <Elem NameU="Border 26" Name="邊框 26"/>
+    <Elem NameU="Border 27" Name="邊框 27"/>
+    <Elem NameU="Border 28" Name="邊框 28"/>
+    <Elem NameU="Border 29" Name="邊框 29"/>
+    <Elem NameU="Border 30" Name="邊框 30"/>
+    <Elem NameU="Border 31" Name="邊框 31"/>
+    <Elem NameU="Border 33" Name="邊框 33"/>
+    <Elem NameU="Border 34" Name="邊框 34"/>
+    <Elem NameU="Border 35" Name="邊框 35"/>
+    <Elem NameU="Border 36" Name="邊框 36"/>
+    <Elem NameU="Border 37" Name="邊框 37"/>
+    <Elem NameU="Border 38" Name="邊框 38"/>
+    <Elem NameU="Border 39" Name="邊框 39"/>
+    <Elem NameU="Border 40" Name="邊框 40"/>
+    <Elem NameU="Border 41" Name="邊框 41"/>
+</Lib>

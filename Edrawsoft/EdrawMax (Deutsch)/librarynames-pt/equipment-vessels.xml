@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Equipment-Vessels">
+	<Elem NameU="Vertical vessel" Name="Vasos verticais"/>
+	<Elem NameU="Horizontal vessel" Name="Vasos horizontais"/>
+	<Elem NameU="Jacketed mixing vessel (autoclave)" Name="Vaso de mistura revestido (autoclave)"/>
+	<Elem NameU="Half pipe mixing vessel" Name="Vaso de mistura de meio tubo"/>
+	<Elem NameU="Column" Name="Coluna"/>
+	<Elem NameU="Tray column" Name="Coluna bandeja"/>
+	<Elem NameU="Tray column 2" Name="Coluna bandeja 2"/>
+	<Elem NameU="Tray column 3" Name="Coluna bandeja 3"/>
+	<Elem NameU="Fluidized bed column" Name="Coluna de cama fluidizada"/>
+	<Elem NameU="Bubble cap trays column" Name="Coluna de bandeja de limite em bolha"/>
+	<Elem NameU="Staggered baffle trays column" Name="Coluna de bandejas de defletor escalonado"/>
+	<Elem NameU="Valve trays column" Name="Coluna de bandeja de válvula"/>
+	<Elem NameU="Packing column" Name="Coluna de embalamento"/>
+	<Elem NameU="Packing column 2" Name="Coluna de embalamento 2"/>
+	<Elem NameU="Drum" Name="Tambor"/>
+	<Elem NameU="Knock-out drum" Name="Tambor nocaute"/>
+	<Elem NameU="Bag" Name="Saco"/>
+	<Elem NameU="Bag (ISO)" Name="Saco (ISO)"/>
+	<Elem NameU="Barrel" Name="Barril"/>
+	<Elem NameU="Barrel (ISO)" Name="Barril (ISO)"/>
+	<Elem NameU="Gas bottle" Name="Garrafa de Gás"/>
+	<Elem NameU="Boiler" Name="Caldeira"/>
+	<Elem NameU="Dome boiler" Name="Caldeira de Cúpula"/>
+	<Elem NameU="Hot liquid boiler" Name="Caldeira de líquido quente"/>
+	<Elem NameU="Tank" Name="Tanque"/>
+	<Elem NameU="Tank 2" Name="Tanque 2"/>
+	<Elem NameU="Tank 3" Name="Tanque 3"/>
+	<Elem NameU="Tank 4" Name="Tanque 4"/>
+	<Elem NameU="Open tank" Name="Tanque aberto"/>
+	<Elem NameU="Covered tank" Name="Tanque coberto"/>
+	<Elem NameU="Floating roof tank" Name="Tanque de cobertura flutuante"/>
+	<Elem NameU="Open bulk storage" Name="Armazenamento de lote aberto"/>
+	<Elem NameU="Dome roof tank" Name="Tanque de cobertura em cúpula"/>
+	<Elem NameU="Cone roof tank" Name="Tanque de cobertura em cone"/>
+	<Elem NameU="Internal floating roof tank" Name="Tanque de cobertura flutuante interna"/>
+	<Elem NameU="Double wall tank" Name="Tanque de parede dupla"/>
+	<Elem NameU="Onion tank" Name="Tanque de cebola"/>
+	<Elem NameU="Thermal insulation vessel" Name="Vaso de isolamento térmico"/>
+	<Elem NameU="Heating-cooling jacket vessel" Name="Vaso de revestimento de aquecimento-arrefecimento"/>
+	<Elem NameU="Brackets vessel" Name="Vaso de suportes"/>
+	<Elem NameU="Dished ends vessel" Name="Vasos de ponta em prato"/>
+	<Elem NameU="Pit vessel" Name="Vaso de fosso"/>
+	<Elem NameU="Electrical heating vessel" Name="Vaso de aquecimento elétrico"/>
+	<Elem NameU="Wastewater treatment" Name="Tratamento de águas residuais"/>
+	<Elem NameU="Bin" Name="Caixote"/>
+</Lib>

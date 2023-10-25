@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Express-G">
+    <Elem NameU="Entity" Name="엔터티"/>
+    <Elem NameU="Base type" Name="기본 유형"/>
+    <Elem NameU="Enumerate type" Name="열거 유형"/>
+    <Elem NameU="Defined type" Name="정의된 유형"/>
+    <Elem NameU="Select type" Name="유형 선택"/>
+    <Elem NameU="Boundary" Name="테두리"/>
+    <Elem NameU="Pointer" Name="포인터"/>
+    <Elem NameU="Cardinality" Name="반전 카디널리티"/>
+    <Elem NameU="Inverse cardinality" Name="카디널리티"/>
+    <Elem NameU="Normal relationship" Name="보통 관계"/>
+    <Elem NameU="Tree structure" Name="트리 구조"/>
+    <Elem NameU="Relationship pointer" Name="관계 포인터"/>
+    <Elem NameU="Subtype" Name="하위 유형/부모 유형"/>
+    <Elem NameU="Schema" Name="스키마"/>
+    <Elem NameU="Used entity" Name="사용된 엔티티"/>
+    <Elem NameU="Referenced entity" Name="사용된 엔터티"/>
+    <Elem NameU="To page reference" Name="페이지 참조로"/>
+    <Elem NameU="From page reference" Name="페이지 참조에서"/>
+    <Elem NameU="Label" Name="레이블"/>
+    <Elem NameU="Page reference" Name="페이지 참조"/>
+</Lib>

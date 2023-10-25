@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Medical Icons">
+	<Elem NameU="Ear" Name="Orecchio"/>
+	<Elem NameU="Eye" Name="Occhio"/>
+	<Elem NameU="Child" Name="Bambino"/>
+	<Elem NameU="Patient" Name="Paziente"/>
+	<Elem NameU="Ppatient" Name="Paziente"/>
+	<Elem NameU="Patient Family" Name="Famiglia Paziente"/>
+	<Elem NameU="Nurse" Name="Infermiere"/>
+	<Elem NameU="Dentist" Name="Dentista"/>
+	<Elem NameU="Doctors" Name="Dottori"/>
+	<Elem NameU="Emergency Call" Name="Chiamata di Emergenza"/>
+	<Elem NameU="Medical" Name="Medico"/>
+	<Elem NameU="Clinic" Name="Clinico"/>
+	<Elem NameU="Electrocardiogram" Name="Elettrocardiogramma"/>
+	<Elem NameU="Online Treatment" Name="Trattamento Online"/>
+	<Elem NameU="Doctor Qualification" Name="Qualifiche Dottore"/>
+	<Elem NameU="First Aid" Name="Primo Soccorso"/>
+	<Elem NameU="Poison" Name="Veleno"/>
+	<Elem NameU="Shantou" Name="Shantou"/>
+	<Elem NameU="Stomach" Name="Stomaco"/>
+	<Elem NameU="Bones" Name="Ossa"/>
+	<Elem NameU="Rib Cage" Name="Gabbia Toracica"/>
+	<Elem NameU="lung" Name="Polmone"/>
+	<Elem NameU="Heart" Name="Cuore"/>
+	<Elem NameU="Kidney" Name="Rene"/>
+	<Elem NameU="Foot" Name="Piede"/>
+	<Elem NameU="Hand" Name="Mano"/>
+	<Elem NameU="Tooth" Name="Dente"/>
+	<Elem NameU="Mouth" Name="Bocca"/>
+	<Elem NameU="Nose" Name="Naso"/>
+	<Elem NameU="Receipt" Name="Ricevuta"/>
+	<Elem NameU="Bank Card" Name="Bancomat"/>
+	<Elem NameU="Care" Name="Cura"/>
+	<Elem NameU="Heart-Shaped Electrocardiogram" Name="Elettrocardiogramma a Forma di Cuore"/>
+	<Elem NameU="Stethoscope" Name="Stetoscopio"/>
+	<Elem NameU="Medical Label" Name="Etichetta Medica"/>
+	<Elem NameU="24 Hours" Name="24 Ore"/>
+	<Elem NameU="Schedule Check" Name="Visita Programmata"/>
+	<Elem NameU="Calendar" Name="Calendario"/>
+	<Elem NameU="Schedule" Name="Tabella di Marcia"/>
+	<Elem NameU="Condition" Name="Condizioni"/>
+	<Elem NameU="View Medical Records" Name="Referti Medici"/>
+	<Elem NameU="Medical Expenses" Name="Spese Mediche"/>
+	<Elem NameU="Medical Case" Name="Caso Medico"/>
+	<Elem NameU="Medical Order" Name="Ordine Medico"/>
+	<Elem NameU="File" Name="Documento"/>
+	<Elem NameU="Medical Book" Name="Libro Medico"/>
+	<Elem NameU="Medical System" Name="Sistema Medico"/>
+	<Elem NameU="Medical Safety" Name="Sicurezza Medica"/>
+	<Elem NameU="Medicine Box" Name="Cassetta dei Medicinali"/>
+	<Elem NameU="Ribbon" Name="Fiocco"/>
+	<Elem NameU="Ambulance" Name="Ambulanza"/>
+	<Elem NameU="Position" Name="Posizione"/>
+	<Elem NameU="Stretcher Bed" Name="Barella"/>
+	<Elem NameU="Helicopter" Name="Elicottero"/>
+	<Elem NameU="Hospital Bed" Name="Letto di Ospedale"/>
+	<Elem NameU="Infusion Bags" Name="Sacche per Infusione"/>
+	<Elem NameU="Wheelchair" Name="Sedia a Rotelle"/>
+	<Elem NameU="Infusion" Name="Infusione"/>
+	<Elem NameU="Hanging Bottle" Name="Flebo"/>
+	<Elem NameU="Capsule" Name="Capsula"/>
+	<Elem NameU="Pill" Name="Pillola"/>
+	<Elem NameU="Medicine Bottle" Name="Flacone Medicinale"/>
+	<Elem NameU="X-Ray Film" Name="Radiografia"/>
+	<Elem NameU="B Super" Name="Super B"/>
+	<Elem NameU="CT" Name="CT"/>
+	<Elem NameU="Crutch" Name="Stampella"/>
+	<Elem NameU="Scale" Name="Bilancia"/>
+	<Elem NameU="Band Aid" Name="Medicazione"/>
+	<Elem NameU="Syringe" Name="Siringa"/>
+	<Elem NameU="Thermometer" Name="Termometro"/>
+	<Elem NameU="Balance" Name="Bilanciere"/>
+	<Elem NameU="Microscope" Name="Microscopio"/>
+	<Elem NameU="DNA" Name="DNA"/>
+	<Elem NameU="Test" Name="Test"/>
+	<Elem NameU="Beaker" Name="Becher"/>
+	<Elem NameU="Test Tube" Name="Provetta"/>
+	<Elem NameU="Increase" Name="Incremento"/>
+	<Elem NameU="Cut Back" Name="Riduzione"/>
+	<Elem NameU="liquid" Name="Liquido"/>
+	<Elem NameU="Chinese Medicine Grinding Tank" Name="Macinatore Medicina Cinese"/>
+	<Elem NameU="Pharmacy" Name="Farmacia"/>
+	<Elem NameU="Girl" Name="Bambina"/>
+	<Elem NameU="Boy" Name="Bambino"/>
+	<Elem NameU="Scalpel" Name="Bisturi"/>
+	<Elem NameU="Medical Respirator" Name="Respiratore Medico"/>
+	<Elem NameU="Tweezers" Name="Pinze"/>
+	<Elem NameU="Scissors" Name="Forbici"/>
+	<Elem NameU="Dropper" Name="Contagocce"/>
+	<Elem NameU="Molecular Structure" Name="Struttura Molecolare"/>
+	<Elem NameU="Tooth Cleaner" Name="Pulizia Dentale"/>
+	<Elem NameU="Eye Chart" Name="Diagramma per la Vista"/>
+</Lib>

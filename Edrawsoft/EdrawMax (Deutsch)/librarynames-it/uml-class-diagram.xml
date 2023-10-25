@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="UML Class Diagram">
+	<Elem NameU="Class" Name="Classe"/>
+	<Elem NameU="Package" Name="Pacchetto"/>
+	<Elem NameU="Interface" Name="Interfaccia"/>
+	<Elem NameU="Aggregation" Name="Aggregazione"/>
+	<Elem NameU="Dependency" Name="Dipendenza"/>
+	<Elem NameU="Composition" Name="Composizione"/>
+	<Elem NameU="Generalization" Name="Generalizzazione"/>
+	<Elem NameU="Association" Name="Associazione"/>
+	<Elem NameU="Multiplicity" Name="Moltitudine"/>
+	<Elem NameU="Constraint" Name="Vincolo"/>
+	<Elem NameU="Note" Name="Nota"/>
+	<Elem NameU="Simple Class" Name="Classe Semplice"/>
+	<Elem NameU="Active Class" Name="Classe Attiva"/>
+	<Elem NameU="Simple Interface" Name="Interfaccia Semplice"/>
+	<Elem NameU="Enumeration" Name="Enumerazione"/>
+	<Elem NameU="Data Type" Name="Tipo Dati"/>
+	<Elem NameU="Signal" Name="Segnale"/>
+	<Elem NameU="Primitive" Name="Primitive"/>
+	<Elem NameU="Profile" Name="Profilo"/>
+	<Elem NameU="Model" Name="Modello"/>
+	<Elem NameU="Package Container" Name="Contenitore Pacchetto"/>
+	<Elem NameU="Realization" Name="Realizzazione"/>
+	<Elem NameU="Link" Name="Link"/>
+	<Elem NameU="Object" Name="Oggetto"/>
+</Lib>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Plant Cell">
+    <Elem NameU="Pollen1" Name="꽃가루1"/>
+    <Elem NameU="Pollen2" Name="꽃가루2"/>
+    <Elem NameU="Pollen3" Name="꽃가루3"/>
+    <Elem NameU="Pollen4" Name="꽃가루4"/>
+    <Elem NameU="Pollen5" Name="꽃가루5"/>
+    <Elem NameU="Pollen6" Name="꽃가루6"/>
+    <Elem NameU="Pollen7" Name="꽃가루7"/>
+    <Elem NameU="Pollen8" Name="꽃가루8"/>
+    <Elem NameU="Pollen9" Name="꽃가루9"/>
+    <Elem NameU="Plant cell model diagram1" Name="식물 세포 모델 다이어그램1"/>
+    <Elem NameU="Plant cell model diagram2" Name="식물 세포 모델 다이어그램2"/>
+    <Elem NameU="Collenchymas" Name="Collenchymas"/>
+    <Elem NameU="Onion tissue" Name="양파 조직"/>
+</Lib>

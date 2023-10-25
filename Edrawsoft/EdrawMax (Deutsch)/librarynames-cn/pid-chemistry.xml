@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Chemistry">
+    <Elem NameU="Air scrubber" Name="空气洗涤器"/>
+    <Elem NameU="Air stripper" Name="空气吹提器"/>
+    <Elem NameU="Burn tower" Name="烟囱"/>
+    <Elem NameU="Chemical mixing tank" Name="混合罐"/>
+    <Elem NameU="Chemical processing tower" Name="化学处理塔"/>
+    <Elem NameU="Crude unit" Name="常减压装置"/>
+    <Elem NameU="Crystallizer 1" Name="结晶器"/>
+    <Elem NameU="Crystallizer 2" Name="结晶器"/>
+    <Elem NameU="Crystallizer 3" Name="结晶器"/>
+    <Elem NameU="Crystallizer 4" Name="结晶器"/>
+    <Elem NameU="Crystallizer 5" Name="结晶器"/>
+    <Elem NameU="Distillation column" Name="蒸馏塔"/>
+    <Elem NameU="Dryer tower" Name="干燥塔"/>
+    <Elem NameU="Dryer unit" Name="干燥装置"/>
+    <Elem NameU="Evaporation process" Name="蒸发过程"/>
+    <Elem NameU="Evaporator" Number="2" Name="蒸发器"/>
+    <Elem NameU="Filter system" Number="2" Name="过滤系统"/>
+    <Elem NameU="Filter 1" Name="过滤器"/>
+    <Elem NameU="Filter 2" Name="过滤器"/>
+    <Elem NameU="Filter 3" Name="过滤器"/>
+    <Elem NameU="Fractionator" Name="分馏器"/>
+    <Elem NameU="Gas and liquid separator" Name="气液分离装置"/>
+    <Elem NameU="Gas processor" Name="气体处理机"/>
+    <Elem NameU="Heated desiccant dryer" Name="加热除湿干燥机"/>
+    <Elem NameU="Heatless desiccant dryer" Name="加热除湿干燥机"/>
+    <Elem NameU="Process column" Name="工艺塔"/>
+    <Elem NameU="Process mixer" Name="混合器"/>
+    <Elem NameU="Refinery tower" Name="提纯塔"/>
+    <Elem NameU="Ribbon blender" Name="带式搅拌器"/>
+    <Elem NameU="Segmented flux capacitor" Name="分离式通量电容器"/>
+    <Elem NameU="Simple air stripper" Name="简易空气吹提器"/>
+    <Elem NameU="Simple draft-tube baffle crystallizer" Name="简易吸出管挡板结晶器"/>
+    <Elem NameU="Simple fluidized baffle crystallizer" Name="简易流态化挡板结晶器"/>
+    <Elem NameU="Stripper" Name="汽提塔"/>
+    <Elem NameU="Thermal oxidizer" Name="直燃式焚烧炉"/>
+    <Elem NameU="Thermal processing tower" Name="热处理塔"/>
+    <Elem NameU="Ammonia separator liquid level" Name="氨分离器"/>
+    <Elem NameU="Cyclone separator" Number="2" Name="旋风分离器"/>
+    <Elem NameU="Centrifugal separation" Name="离心分离"/>
+    <Elem NameU="Cyclone Dust Extractor" Name="旋风除尘器"/>
+    <Elem NameU="Circulation Type Cyclone Dust Extractor" Name="循环式旋风除尘器"/>
+    <Elem NameU="Cyclone Separator" Name="旋风分离器"/>
+    <Elem NameU="Dust chamber" Name="除尘室"/>
+    <Elem NameU="Dedusting by Water Curtain" Name="水幕除尘"/>
+    <Elem NameU="Electrostatic Precipitator" Name="静电除尘器"/>
+    <Elem NameU="High-efficient Desulfurization Dust Extractor" Name="高效脱硫除尘装置"/>
+    <Elem NameU="Bag-type Dust Remover" Name="布袋除尘器"/>
+    <Elem NameU="Gravitational separator" Name="重力式分离器"/>
+    <Elem NameU="Tails separator" Name="粗粉分离器"/>
+    <Elem NameU="Moisture Separator" Name="水气分离器"/>
+    <Elem NameU="Pulsed jet cloth filter" Name="脉冲布袋除尘器"/>
+    <Elem NameU="High-speed Centrifugal Atomizer" Name="高速离心雾化器"/>
+    <Elem NameU="Reboiler" Name="重沸器"/>
+    <Elem NameU="Desulfurizer" Name="脱硫装置"/>
+    <Elem NameU="Mixer" Name="混合器"/>
+    <Elem NameU="Crystallization tower" Name="结晶塔"/>
+    <Elem NameU="Distillation Tower" Name="蒸馏塔"/>
+    <Elem NameU="Thionizer" Name="脱硫塔"/>
+    <Elem NameU="Absorption Tower" Name="吸收塔"/>
+    <Elem NameU="FGD Absorber" Name="FGD吸收塔"/>
+    <Elem NameU="Oxidation Tower" Name="氧化塔"/>
+    <Elem NameU="Recovery tower" Name="还原塔"/>
+    <Elem NameU="Reboiler" Name="重沸器"/>
+    <Elem NameU="Reaction Tower" Name="反应塔"/>
+    <Elem NameU="Reactor" Name="反应器"/>
+    <Elem NameU="Scrubbing tower" Name="洗涤塔"/>
+    <Elem NameU="Stabilization Tower" Name="稳定塔"/>
+    <Elem NameU="Ammonia Absorption Tower" Name="氨吸收塔"/>
+    <Elem NameU="Tank" Number="2" Name="罐"/>
+    <Elem NameU="Protein Skimmer" Name="蛋白质分离器"/>
+    <Elem NameU="Air conditioner" Name="空调"/>
+    <Elem NameU="Ammonia Storage Device" Name="氨存储设备"/>
+    <Elem NameU="Ammoniation Reactor" Name="氨反应器"/>
+    <Elem NameU="SCR Reactor" Name="SCR反应器"/>
+    <Elem NameU="After fermentation tank" Name="酵后处理罐"/>
+    <Elem NameU="Level of anaerobic reaction tank" Name="厌氧反应池"/>
+    <Elem NameU="Fermentor" Name="发酵罐"/>
+    <Elem NameU="Fermentation" Name="发酵"/>
+    <Elem NameU="Garbage Disposal" Name="垃圾处理"/>
+    <Elem NameU="Gas torch" Name="气焊枪"/>
+    <Elem NameU="Modifier" Name="改性剂"/>
+    <Elem NameU="Modifier Absorption System" Name="改性剂吸收系统"/>
+    <Elem NameU="Stabilizer absorption system" Name="稳定剂吸收系统"/>
+    <Elem NameU="Stabilizer" Name="稳定剂"/>
+    <Elem NameU="Rectification" Name="精馏"/>
+    <Elem NameU="Ozone Generator" Name="臭氧发生器"/>
+    <Elem NameU="Commingler" Name="混合器"/>
+    <Elem NameU="Cyclotron precipitation" Name="回旋沉淀"/>
+    <Elem NameU="Conditioning system" Name="空调系统"/>
+    <Elem NameU="Uht-system" Name="超高温灭菌乳系统"/>
+    <Elem NameU="Deaerator" Name="除氧器"/>
+    <Elem NameU="Deoxygenation" Name="脱氧"/>
+    <Elem NameU="Oxygenizer" Name="氧化器"/>
+    <Elem NameU="Evaporator" Name="蒸发器"/>
+    <Elem NameU="Microbial Strain" Name="菌种"/>
+</Lib>

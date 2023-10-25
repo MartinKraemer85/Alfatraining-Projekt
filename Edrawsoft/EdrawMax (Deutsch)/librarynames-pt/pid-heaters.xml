@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="PID Heaters">
+	<Elem NameU="Batch oven" Name="Forno de lote"/>
+	<Elem NameU="Boiler" Name="Caldeira"/>
+	<Elem NameU="Boiler with flames" Name="Caldeira com chamas"/>
+	<Elem NameU="Evaporator" Name="Evaporador"/>
+	<Elem NameU="Fossil-fired boiler" Name="Caldeira a Combustível Fóssil"/>
+	<Elem NameU="Heater" Name="Aquecedor"/>
+	<Elem NameU="Heat exchanger" Name="Permutador de calor"/>
+	<Elem NameU="Oil fired boiler" Name="Caldeira a Óleo"/>
+	<Elem NameU="Steam boiler" Name="Caldeira a vapor"/>
+	<Elem NameU="Steam mixer" Name="Misturador de vapor"/>
+	<Elem NameU="Thermal fluid heater" Name="Aquecedor de fluídos térmicos"/>
+	<Elem NameU="Thermal recycle boiler" Name="Caldeira de reciclagem térmica"/>
+	<Elem NameU="Superheater" Name="Super aquecedor"/>
+</Lib>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="AWS Security, Identity, &amp; Compliance">
+	<Elem NameU="AD-Connector" Name="AD连接器"/>
+	<Elem NameU="Cloud-Directory" Name="云目录"/>
+	<Elem NameU="Cognito" Name="认知"/>
+	<Elem NameU="Detective" Name="侦探"/>
+	<Elem NameU="GuardDuty" Name="守卫职责"/>
+	<Elem NameU="Inspector" Name="检验员"/>
+	<Elem NameU="Inspector_Agent" Name="检验员"/>
+	<Elem NameU="Macie" Name="梅西"/>
+	<Elem NameU="AWS-Artifact" Name="AWS工件"/>
+	<Elem NameU="AWS-Certificate-Authority" Name="AWS证书颁发机构"/>
+	<Elem NameU="AWS-Certificate-Manager" Name="AWS证书管理器"/>
+	<Elem NameU="AWS-CloudHSM" Name="AWS云HSM"/>
+	<Elem NameU="AWS-Directory-Service" Name="AWS目录服务"/>
+	<Elem NameU="AWS-Firewall-Manager" Name="AWS防火墙管理器"/>
+	<Elem NameU="AWS-Identity-and-_Access-Management_IAM" Name="AWS身份和访问管理IAM"/>
+	<Elem NameU="AWS-Identity-and-Access-Management-IAM_Access-Analyzer" Name="AWS身份和访问管理IAM-访问分析器"/>
+	<Elem NameU="AWS-Identity-and-Access-Management-IAM_Add-on" Name="AWS身份和访问管理IAM-附加组件"/>
+	<Elem NameU="AWS-Identity-and-Access-Management-IAM_AWS-STS" Name="AWS身份和访问管理IAM-AWS-STS"/>
+	<Elem NameU="AWS-Identity-and-Access-Management-IAM_AWS-STS-Alternate" Name="AWS身份和访问管理IAM-AWS-STS-替代"/>
+	<Elem NameU="AWS-Identity-and-Access-Management-IAM_Data-Encryption-Key" Name="AWS身份和访问管理IAM-数据加密密钥"/>
+	<Elem NameU="AWS-Identity-and-Access-Management-IAM_Encrypted-Data" Name="AWS身份和访问管理IAM-加密数据"/>
+	<Elem NameU="AWS-Identity-and-Access-Management-IAM_Long-term-Security-Credential" Name="AWS身份和访问管理IAM-长期安全证书"/>
+	<Elem NameU="AWS-Identity-and-Access-Management-IAM_MFA-Token" Name="AWS身份和访问管理IAM-MFA令牌"/>
+	<Elem NameU="AWS-Identity-and-Access-Management-IAM_Permissions" Name="AWS身份和访问管理IAM-权限"/>
+	<Elem NameU="AWS-Identity-and-Access-Management-IAM_Role" Name="AWS身份和访问管理IAM-角色"/>
+	<Elem NameU="AWS-Identity-and-Access-Management-IAM_Temporary-Security-Credential" Name="AWS身份和访问管理IAM-临时安全凭证"/>
+	<Elem NameU="AWS-Key-Management-Service" Name="AWS密钥管理服务"/>
+	<Elem NameU="AWS-Managed-Microsoft-AD" Name="AWS管理的Microsoft AD"/>
+	<Elem NameU="AWS-Resource-Access-Manager" Name="AWS资源访问管理器"/>
+	<Elem NameU="AWS-Secrets-Manager" Name="AWS安全管理器"/>
+	<Elem NameU="AWS-Security-Hub" Name="AWS安全中心"/>
+	<Elem NameU="AWS-Shield" Name="AWS盾牌"/>
+	<Elem NameU="AWS-Shield_Shield-Advanced" Name="AWS高级盾牌"/>
+	<Elem NameU="AWS-Single-Sign-On" Name="AWS单一登录"/>
+	<Elem NameU="AWS-WAF" Name="AWS WAF"/>
+	<Elem NameU="AWS-WAF_Filtering-rule" Name="AWS WAF过滤规则"/>
+	<Elem NameU="Security-Hub_Finding" Name="安全中心查找"/>
+	<Elem NameU="Security-Identity-and-Compliance" Name="安全身份与合规"/>
+	<Elem NameU="Simple-AD" Name="简单广告"/>
+</Lib>

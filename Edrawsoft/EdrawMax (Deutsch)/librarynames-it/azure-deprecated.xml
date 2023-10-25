@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Azure Deprecated">
+	<Elem NameU="Azure App Service - Logic App" Name="App di Servizio Azure - App per la Logica"/>
+	<Elem NameU="Azure Application Gateway v1 OLD" Name="Gateway Applicazione Azure v1 OLD"/>
+	<Elem NameU="Azure Batch" Name="Azure Batch"/>
+	<Elem NameU="Azure Bot" Name="Bot Azure"/>
+	<Elem NameU="Azure Content Delivery Network (CDN) v1_OLD" Name="Rete per la Distribuzione dei Contenuti Azure (CDN) v1_VECCHIA"/>
+	<Elem NameU="Azure Machine Learning" Name="Apprendimento Automatico Azure"/>
+	<Elem NameU="Azure Notification Hubs- Notification Topic" Name="Hub di Notifica Azure - Argomento di Notifica"/>
+	<Elem NameU="Compute" Name="Elaborazione"/>
+	<Elem NameU="Data Lake BEN" Name="Data Lake BEN"/>
+	<Elem NameU="Datalake Analytics BEN" Name="Analisi Datalake BEN"/>
+	<Elem NameU="Datalake Store BEN" Name="Archivio Datalake BEN"/>
+	<Elem NameU="Data Services" Name="Servizi Dati"/>
+	<Elem NameU="DataWarehouse" Name="DataWarehouse"/>
+	<Elem NameU="Service Bus Old" Name="Service Bus Old"/>
+	<Elem NameU="Service Bus Queue Old" Name="Service Bus Queue Old"/>
+	<Elem NameU="Service Bus Relay Old" Name="Service Bus Relay Old"/>
+	<Elem NameU="Service Bus Topic Old" Name="Service Bus Topic Old"/>
+	<Elem NameU="Service Package" Name="Pacchetto Servizio"/>
+	<Elem NameU="SQL Data Warehouse" Name="Magazzino Dati SQL"/>
+	<Elem NameU="SQL Reporting" Name="Presentazione SQL"/>
+	<Elem NameU="SQL Stretch Database (DB)" Name="Stretch Database SQL (DB"/>
+</Lib>

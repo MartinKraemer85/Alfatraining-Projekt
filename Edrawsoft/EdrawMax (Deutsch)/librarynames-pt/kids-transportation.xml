@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Kids Transportation">
+	<Elem NameU="Plane" Name="Avião"/>
+	<Elem NameU="Helicopter" Name="Helicóptero"/>
+	<Elem NameU="Rocket" Name="Foguetão"/>
+	<Elem NameU="Spacecraft" Name="Nave espacial"/>
+	<Elem NameU="Ship" Name="Navio"/>
+	<Elem NameU="Sailboat" Name="Veleiro"/>
+	<Elem NameU="Submarine" Name="Submarino"/>
+	<Elem NameU="Speed Boat" Name="Lancha"/>
+	<Elem NameU="Bus" Name="Ônibus"/>
+	<Elem NameU="Train" Name="Comboio"/>
+	<Elem NameU="Metro" Name="Metrô"/>
+	<Elem NameU="Pickup" Name="Pickup"/>
+	<Elem NameU="Mini Bus" Name="Mini Ônibus"/>
+	<Elem NameU="Car" Name="Carro"/>
+	<Elem NameU="Taxi" Name="Táxi"/>
+	<Elem NameU="Police Car" Name="Carro da Polícia"/>
+	<Elem NameU="Ambulance" Name="Ambulância"/>
+	<Elem NameU="Fire Engine" Name="Carro de Bombeiros"/>
+	<Elem NameU="Street Sprinkler" Name="Aspersor de Rua"/>
+	<Elem NameU="Truck" Name="Caminhão"/>
+	<Elem NameU="Street Sweeper" Name="Varredor de Rua"/>
+	<Elem NameU="Mixer Truck" Name="Caminhão Betoneira"/>
+	<Elem NameU="Tank Truck" Name="Caminhão Tanque"/>
+	<Elem NameU="Road Roller" Name="Rolo Compactador"/>
+	<Elem NameU="Excavator" Name="Escavadora"/>
+	<Elem NameU="Crane" Name="Guindaste"/>
+	<Elem NameU="Forklift" Name="Empilhadeira"/>
+	<Elem NameU="Electric Scooter" Name="Scooter Elétrica"/>
+	<Elem NameU="Motorbike" Name="Moto"/>
+	<Elem NameU="Bicycle" Name="Bicicleta"/>
+	<Elem NameU="Segway" Name="Segway"/>
+	<Elem NameU="Bike" Name="Bicicleta"/>
+	<Elem NameU="Swing Car" Name="Carro de Balanço"/>
+	<Elem NameU="Swing Scooter" Name="Scooter de Balanço"/>
+</Lib>

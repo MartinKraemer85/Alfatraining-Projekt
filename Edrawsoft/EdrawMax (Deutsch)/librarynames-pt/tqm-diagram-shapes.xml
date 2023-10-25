@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="TQM Diagram Shapes">
+	<Elem NameU="Transportation" Name="Transportes"/>
+	<Elem NameU="Inbound goods" Name="Mercadorias a receber"/>
+	<Elem NameU="Storage" Name="Armazenamento"/>
+	<Elem NameU="Procedure" Name="Procedimento"/>
+	<Elem NameU="Operation" Name="Operação"/>
+	<Elem NameU="Operation or inspection" Name="Operação ou inspeção"/>
+	<Elem NameU="Issue" Name="Problema"/>
+	<Elem NameU="Organization function" Name="Função de organização"/>
+	<Elem NameU="2-part function" Name="Função de 2-partes"/>
+	<Elem NameU="External organization" Name="Organização externa"/>
+	<Elem NameU="External process" Name="Processo externo"/>
+	<Elem NameU="Inspection/ measurement" Name="Inspeção/ medição"/>
+	<Elem NameU="Metric" Name="Métrico"/>
+	<Elem NameU="2-part metrix" Name="Matriz de 2-partes"/>
+	<Elem NameU="System database" Name="Base de dados de sistema"/>
+	<Elem NameU="System support" Name="Suporte de sistema"/>
+	<Elem NameU="System function" Name="Função de sistema"/>
+	<Elem NameU="Delay" Name="Atraso"/>
+	<Elem NameU="Connector(TQM)" Name="Conector (TQM)"/>
+	<Elem NameU="Off-page reference" Name="Referência fora de página"/>
+	<Elem NameU="Connected issues" Name="Problemas conectados"/>
+	<Elem NameU="Fabrication" Name="Fabrico"/>
+	<Elem NameU="Move" Name="Mover"/>
+	<Elem NameU="Store" Name="Armazenar"/>
+	<Elem NameU="Inspection" Name="Inspeção"/>
+	<Elem NameU="Selectable process" Name="Processo selecionável"/>
+	<Elem NameU="Feedback arrow" Name="Seta de feedback"/>
+	<Elem NameU="Force-field analysis" Name="Análise de campo de forças"/>
+	<Elem NameU="Category" Name="Categoria"/>
+	<Elem NameU="Effect" Name="Efeito"/>
+	<Elem NameU="Fish frame" Name="Moldura de peixe"/>
+	<Elem NameU="Result" Name="Resultado"/>
+	<Elem NameU="No result" Name="Resultado"/>
+	<Elem NameU="Branch-return" Name="Filiar-retorno"/>
+	<Elem NameU="Branch-no return" Name="Filial-sem retorno"/>
+	<Elem NameU="Interrupt" Name="Interromper"/>
+	<Elem NameU="External control" Name="Controle externo"/>
+	<Elem NameU="Refinement" Name="Refinamento"/>
+	<Elem NameU="Decision (TQM)" Name="Decisão (TQM)"/>
+	<Elem NameU="Mulit in/out decision" Name="Decisão multi-in/out"/>
+	<Elem NameU="Work flow loop" Name="Ciclo de fluxo de trabalho"/>
+	<Elem NameU="Vertical Swimlane" Name="Swimlane Vertical"/>
+	<Elem NameU="Horizontal Swinlane" Name="Swimlane Horizontal"/>
+	<Elem NameU="Cause" Name="Causa"/>
+	<Elem NameU="Secondary Cause" Name="Causa Secundária"/>
+	<Elem NameU="Arc connector" Name="Conector em Arco"/>
+	<Elem NameU="Curve connector" Name="Conector em Curva"/>
+</Lib>

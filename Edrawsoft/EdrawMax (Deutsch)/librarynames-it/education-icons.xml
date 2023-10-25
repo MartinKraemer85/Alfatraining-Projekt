@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Education Icons">
+	<Elem NameU="Newspaper" Name="Giornale"/>
+	<Elem NameU="Algorithm" Name="Algoritmo"/>
+	<Elem NameU="English Letters" Name="Lettere Inglesi"/>
+	<Elem NameU="Planetary Motion" Name="Movimento Planetario"/>
+	<Elem NameU="Flask" Name="Fiasco"/>
+	<Elem NameU="Cell" Name="Cellula"/>
+	<Elem NameU="Microscope" Name="Microscopio"/>
+	<Elem NameU="Globe" Name="Globo"/>
+	<Elem NameU="Notebook" Name="Blocco Note"/>
+	<Elem NameU="History" Name="Storia"/>
+	<Elem NameU="Dance" Name="Danza"/>
+	<Elem NameU="Discussion" Name="Discussione"/>
+	<Elem NameU="Psychology" Name="Psicologia"/>
+	<Elem NameU="Graduate" Name="Diploma"/>
+	<Elem NameU="Brush Pot" Name="Porta-pennelli"/>
+	<Elem NameU="Book" Name="Libro"/>
+	<Elem NameU="School Bag" Name="Zaino"/>
+	<Elem NameU="Open Book" Name="Libro Aperto"/>
+	<Elem NameU="Automatic Pencil" Name="Penna Automatica"/>
+	<Elem NameU="Paint Box" Name="Scatola con Colori"/>
+	<Elem NameU="Chinese Brush" Name="Pennello Cinese"/>
+	<Elem NameU="Eraser" Name="Gomma per Cancellare"/>
+	<Elem NameU="Compasses" Name="Compassi"/>
+	<Elem NameU="Glasses" Name="Occhiali"/>
+	<Elem NameU="Blackboard" Name="Lavagna"/>
+	<Elem NameU="Trencher Cap" Name="Tocco"/>
+	<Elem NameU="Testimonials" Name="Tributi"/>
+	<Elem NameU="School Bus" Name="Autobus"/>
+	<Elem NameU="Glue" Name="Colla"/>
+</Lib>

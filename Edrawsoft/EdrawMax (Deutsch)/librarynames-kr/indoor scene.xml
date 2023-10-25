@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Indoor Scene">
+	<Elem NameU="Wall" Name="벽"/>
+	<Elem NameU="Door" Name="문"/>
+	<Elem NameU="L-Shaped Room 1" Name="L자형 방 1"/>
+	<Elem NameU="L-Shaped Room 2" Name="L자형 방 2"/>
+	<Elem NameU="Double Doors" Name="이중문"/>
+	<Elem NameU="Oval Dining Table" Name="타원형 식탁"/>
+	<Elem NameU="Chair" Name="의자"/>
+	<Elem NameU="Bunk Bed" Name="2층 침대"/>
+	<Elem NameU="Double Bed 1" Name="2인용 침대 1"/>
+	<Elem NameU="Double Bed 2" Name="2인용 침대 2"/>
+	<Elem NameU="Rectangular Dining Table" Name="사각형 식탁"/>
+	<Elem NameU="Light" Name="조명"/>
+	<Elem NameU="Table Lamp" Name="테이블 램프"/>
+	<Elem NameU="Wall" Name="벽"/>
+	<Elem NameU="Square Dining Table" Name="정사각형 식탁"/>
+	<Elem NameU="Sofa" Name="소파"/>
+	<Elem NameU="King Size Bed" Name="킹사이즈 침대"/>
+	<Elem NameU="Cabinet" Name="수납장"/>
+	<Elem NameU="Double Chair" Name="2인용 의자"/>
+	<Elem NameU="Recliner Chair" Name="리클라이너 의자"/>
+	<Elem NameU="Stool" Name="스툴"/>
+	<Elem NameU="Armchair" Name="안락의자"/>
+	<Elem NameU="Round Table" Name="원형 테이블"/>
+	<Elem NameU="Table Tennis Table" Name="탁구대"/>
+	<Elem NameU="Grand Piano" Name="그랜드 피아노"/>
+	<Elem NameU="Small Upright Piano" Name="작은 업라이트 피아노"/>
+	<Elem NameU="Palm Plant" Name="야자나무"/>
+	<Elem NameU="Bedside Table" Name="협탁"/>
+	<Elem NameU="Double Dresser" Name="이중 서랍장"/>
+	<Elem NameU="Triple Dresser" Name="삼중 서랍장"/>
+	<Elem NameU="Desk" Name="책상"/>
+	<Elem NameU="TV Cabinet" Name="TV 장식장"/>
+	<Elem NameU="TV(Top View)" Name="TV(윗면)"/>
+	<Elem NameU="Single Bed" Name="1인용 침대"/>
+	<Elem NameU="Window" Name="창문"/>
+	<Elem NameU="Sink 1" Name="개수대 1"/>
+	<Elem NameU="Sink 2" Name="개수대 2"/>
+	<Elem NameU="Sink 3" Name="개수대 3"/>
+	<Elem NameU="Reference Point" Name="기준점"/>
+	<Elem NameU="Shower Cubicle" Name="샤워 부스"/>
+	<Elem NameU="Bathtub 1" Name="욕조 1"/>
+	<Elem NameU="Bathtub 2" Name="욕조 2"/>
+	<Elem NameU="Oval Bathtub" Name="타원형 욕조"/>
+	<Elem NameU="Flush Toilet 1" Name="수세식 변기 1"/>
+	<Elem NameU="Flush Toilet 2" Name="수세식 변기 2"/>
+	<Elem NameU="Sink With Base 1" Name="개수대 및 수납장 1"/>
+	<Elem NameU="Sink With Base 2" Name="개수대 및 수납장 2"/>
+	<Elem NameU="Countertop Sink" Name="카운터탑 개수대"/>
+	<Elem NameU="Compass" Name="나침반"/>
+	<Elem NameU="Bidet" Name="비데"/>
+</Lib>

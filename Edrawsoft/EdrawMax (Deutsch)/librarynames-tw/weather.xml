@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Weather">
+    <Elem NameU="Sunny" Name="陰天"/>
+    <Elem NameU="Cloudy" Name="多雲"/>
+    <Elem NameU="Overcast" Name="陰天"/>
+    <Elem NameU="Rainy" Name="多雨"/>
+    <Elem NameU="Drizzle" Name="細雨"/>
+    <Elem NameU="Snowy" Name="多雪"/>
+    <Elem NameU="Heavy Snow" Name="暴雪"/>
+    <Elem NameU="Sleet" Name="雨夾雪"/>
+    <Elem NameU="Hailstone" Name="冰雹"/>
+    <Elem NameU="Hailstone and Snow" Name="冰加雪"/>
+    <Elem NameU="Thunderstorm" Name="暴雨"/>
+    <Elem NameU="Thunder" Name="雷"/>
+    <Elem NameU="Snow and Thunder" Name="雷加雪"/>
+    <Elem NameU="Thunderstorm and Hailstone" Name="雷加冰"/>
+    <Elem NameU="Showery Rain" Name="陣雨"/>
+    <Elem NameU="Showery Snow" Name="陣雪"/>
+    <Elem NameU="Clear to Cloudy" Name="晴轉多雲"/>
+    <Elem NameU="Foggy and Sun" Name="晴天有霧"/>
+    <Elem NameU="Foggy 1" Name="有霧 1"/>
+    <Elem NameU="Foggy 2" Name="有霧 2"/>
+    <Elem NameU="Tornado" Name="龍捲風"/>
+    <Elem NameU="Windy" Name="多風"/>
+    <Elem NameU="Windy and Dusty" Name="風暴"/>
+    <Elem NameU="Floating Dust" Name="飄塵"/>
+    <Elem NameU="Wind Vane" Name="風向標"/>
+    <Elem NameU="Dust Tester" Name="耐塵試驗機"/>
+    <Elem NameU="Rainbow Cloudy" Name="彩虹雲"/>
+    <Elem NameU="Rainbow Rainy" Name="彩虹雨"/>
+    <Elem NameU="Clear at Night" Name="清亮的夜晚"/>
+    <Elem NameU="Cloudy at Night" Name="多雲的夜晚"/>
+    <Elem NameU="Overcast at Night" Name="陰暗的夜晚"/>
+    <Elem NameU="Rainy at Night" Name="多雨的夜晚"/>
+    <Elem NameU="Heavy Rain at Night" Name="暴雨的夜晚"/>
+    <Elem NameU="Heavy Snow at Night" Name="暴雪的夜晚"/>
+    <Elem NameU="Snowy at Night" Name="下雪的夜晚"/>
+    <Elem NameU="Thunderstorm at Night" Name="雷雨的夜晚"/>
+    <Elem NameU="Thunder at Night" Name="打雷的夜晚"/>
+    <Elem NameU="Sleet at Night" Name="雨夾雪的夜晚"/>
+    <Elem NameU="Foggy at Night" Name="多霧的夜晚"/>
+    <Elem NameU="Tornado at Night" Name="有龍捲風的夜晚"/>
+    <Elem NameU="Hailstone at Night" Name="有冰雹的夜晚"/>
+</Lib>

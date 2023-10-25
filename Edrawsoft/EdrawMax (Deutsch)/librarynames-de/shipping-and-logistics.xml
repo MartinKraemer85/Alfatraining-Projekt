@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Shipping and Logistics">
+
+<Elem Name="Hauslieferdienst 1" NameU="Home Delivery Service 1"/>
+
+<Elem Name="Kundendienst" NameU="Customer Service"/>
+
+<Elem Name="Ort" NameU="Location"/>
+
+<Elem Name="Kurier auf dem Weg" NameU="Courier on Scooter"/>
+
+<Elem Name="Kurier" NameU="Courier"/>
+
+<Elem Name="Hauslieferdienst 2" NameU="Home Delivery 2"/>
+
+<Elem Name="Kurier mit Lieferwagen" NameU="Courier with Delivery Cart"/>
+
+<Elem Name="Lieferinformationen scannen" NameU="Scanning Delivery Information"/>
+
+<Elem Name="Multifunktions Barcode-Leser" NameU="Multifunction Barcode Reader"/>
+
+<Elem Name="Liefersicherheit" NameU="Delivery Safety"/>
+
+<Elem Name="Kartonschachtel" NameU="Carton Box"/>
+
+<Elem Name="Papier Express Umschlag" NameU="Paper Express Envelope"/>
+
+<Elem Name="Logistikkorb" NameU="Logistics Basket"/>
+
+<Elem Name="24-Stunden Lieferwagen" NameU="24-hour Delivery Truck"/>
+
+<Elem Name="Heben des Frachtcontainers" NameU="Lifting Cargo Container"/>
+
+<Elem Name="Seeschifffahrt" NameU="Ocean Shipping"/>
+
+<Elem Name="Flugzeug" NameU="Plane"/>
+
+<Elem Name="Helikopter" NameU="Helicopter"/>
+
+<Elem Name="Barcode" NameU="Barcode"/>
+
+<Elem Name="Checkliste" NameU="Checklist"/>
+
+<Elem Name="Telefonberatung 1" NameU="Telephone Counseling 1"/>
+
+<Elem Name="Telefonberatung 2" NameU="Telephone Counseling 2"/>
+
+<Elem Name="Timer" NameU="Timer"/>
+
+<Elem Name="Skalieren Wagen" NameU="Scale Cart"/>
+
+<Elem Name="Plattform Warenkorb Lieferung" NameU="Platform Cart Delivery"/>
+
+<Elem Name="Gabelstapler" NameU="Forklift"/>
+
+<Elem Name="Förderband" NameU="Conveyer Belt"/>
+
+<Elem Name="Warenregal" NameU="Goods Shelf"/>
+
+<Elem Name="Warenhaus" NameU="Warehouse"/>
+
+<Elem Name="Lagerauswahl" NameU="Warehouse picking"/>
+
+<Elem Name="Schutz" NameU="Protection"/>
+
+<Elem Name="Produktstandortanfrage" NameU="Product location inquiry"/>
+
+<Elem Name="Bahnhof" NameU="Station"/>
+
+<Elem Name="Versand" NameU="Dispatch"/>
+
+<Elem Name="Frische Lieferung" NameU="Fresh delivery"/>
+
+<Elem Name="Frischer Beleg" NameU="Fresh Receipt"/>
+
+<Elem Name="Zollerklärung" NameU="Customs declaration"/>
+
+<Elem Name="Inspektion" NameU="Inspection"/>
+
+<Elem Name="Garantierte Aktualität " NameU="Guaranteed timeliness"/>
+
+<Elem Name="Waren schützen" NameU="Protect goods"/>
+
+<Elem Name="International Logistik" NameU="International logistics"/>
+
+<Elem Name="Frachtbuchhaltung" NameU="Freight accounting"/>
+
+<Elem Name="Zu transportierende Waren" NameU="Goods to be transported"/>
+
+<Elem Name="Zollbelastung" NameU="Customs loading"/>
+
+<Elem Name="Transportversicherung" NameU="Cargo insurance"/>
+
+<Elem Name="Empfindliche Güter" NameU="Fragile goods"/>
+
+<Elem Name="Warensortierung" NameU="Goods sorting"/>
+
+</Lib>

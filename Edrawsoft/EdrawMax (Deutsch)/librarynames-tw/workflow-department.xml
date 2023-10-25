@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="WorkFlow Department">
+    <Elem NameU="Accounting" Name="會計"/>
+    <Elem NameU="Accounts Receivable" Name="應收賬款"/>
+    <Elem NameU="Accounts Payable" Name="應付賬款"/>
+    <Elem NameU="Audit" Name="審計"/>
+    <Elem NameU="Bank" Name="銀行"/>
+    <Elem NameU="Board of directors" Name="董事會"/>
+    <Elem NameU="Copy Center" Name="複印中心"/>
+    <Elem NameU="Customer Service" Name="客服"/>
+    <Elem NameU="Data Center" Name="資料中心"/>
+    <Elem NameU="Delivery" Name="遞送"/>
+    <Elem NameU="Design" Name="設計"/>
+    <Elem NameU="Devices Management" Name="設備管理"/>
+    <Elem NameU="Employee" Name="員工"/>
+    <Elem NameU="Engineering" Name="工程"/>
+    <Elem NameU="Facilities" Name="設備"/>
+    <Elem NameU="Human Resource" Name="人力資源"/>
+    <Elem NameU="Information services" Name="咨詢服務"/>
+    <Elem NameU="Branch" Name="分公司"/>
+    <Elem NameU="Inventory" Name="庫存"/>
+    <Elem NameU="Legal Department" Name="法務部"/>
+    <Elem NameU="Mail Service" Name="郵件服務"/>
+    <Elem NameU="Marketing" Name="銷售"/>
+    <Elem NameU="Management" Name="管理"/>
+    <Elem NameU="Manufacturing" Name="生產"/>
+    <Elem NameU="Motorpool" Name="車輛調配"/>
+    <Elem NameU="Onsite Service" Name="現場服務"/>
+    <Elem NameU="Packaging" Name="包裝"/>
+    <Elem NameU="Payroll" Name="薪資"/>
+    <Elem NameU="Publications" Name="出版"/>
+    <Elem NameU="Purchasing" Name="採購"/>
+    <Elem NameU="Quality Assurance" Name="品質保證"/>
+    <Elem NameU="Receiving" Name="接收"/>
+    <Elem NameU="Reception" Name="接待"/>
+    <Elem NameU="Research" Name="研發"/>
+    <Elem NameU="Sales" Name="銷售"/>
+    <Elem NameU="Security" Name="安防"/>
+    <Elem NameU="Shipping" Name="貨運"/>
+    <Elem NameU="Suppliers" Name="供應商"/>
+    <Elem NameU="Telecommunications" Name="通訊"/>
+    <Elem NameU="Treasurer" Name="財務"/>
+    <Elem NameU="Warehouse" Name="倉庫"/>
+</Lib>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<Lib nameU="Monitoring and Management">
+
+<Elem Name="アプリケーション構成管理" NameU="Application configuration management"/>
+
+<Elem Name="アプリケーションのリアルタイム監視サービス" NameU="Application real-time monitoring service"/>
+
+<Elem Name="クラウド監視システム" NameU="Cloud monitoring system"/>
+
+<Elem Name="リソースアクセス管理" NameU="Resource access management"/>
+
+</Lib>

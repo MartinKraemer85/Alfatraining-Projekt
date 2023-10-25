@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Material Handling">
+    <Elem NameU="Advanced classification system" Name="고급 분류 시스템"/>
+    <Elem NameU="Hero-mechanical conveyor 1" Name="컨베이어 1"/>
+    <Elem NameU="Hero-mechanical conveyor 2" Name="컨베이어 2"/>
+    <Elem NameU="Hero-mechanical conveyor 3" Name="컨베이어 3"/>
+    <Elem NameU="Hero-mechanical conveyor 4" Name="컨베이어 4"/>
+    <Elem NameU="Hero-mechanical conveyor 5" Name="컨베이어 5"/>
+    <Elem NameU="Hero-mechanical conveyor 6" Name="컨베이어 6"/>
+    <Elem NameU="Hero-mechanical conveyor 7" Name="컨베이어 7"/>
+    <Elem NameU="Hero-mechanical conveyor 8" Name="컨베이어 8"/>
+    <Elem NameU="AGI mixer" Name="AGI 믹서"/>
+    <Elem NameU="Air swept pulverizer" Name="공기 청소 분쇄기"/>
+    <Elem NameU="Airswept tubular dryer" Name="Airswept 관형 건조기"/>
+    <Elem NameU="Bag dump station" Name="백 덤프 스테이션"/>
+    <Elem NameU="Baghouse dust collector" Name="백하우스 집진기"/>
+    <Elem NameU="Ball mill" Name="볼 제분기"/>
+    <Elem NameU="Bulk bag discharger" Name="벌크 백 배출기"/>
+    <Elem NameU="Bulk bag feeder" Name="벌크 백 피더"/>
+    <Elem NameU="Bulk bag filler" Name="벌크 백 피더 2"/>
+    <Elem NameU="Bulk bag filling station" Name="벌크 백 피더 3"/>
+    <Elem NameU="Bulk bag loader" Name="벌크 백 로더"/>
+    <Elem NameU="Bulk railcar" Name="벌크 열차"/>
+    <Elem NameU="Cartridge dust collector" Name="카트리지 집진기"/>
+    <Elem NameU="Centrifugal type sifter" Name="원심식 체"/>
+    <Elem NameU="Centrifuge" Name="원심 분리기"/>
+    <Elem NameU="Clarifier" Name="정화기"/>
+    <Elem NameU="Colloid mixer" Name="콜로이드 믹서"/>
+    <Elem NameU="Compact spray dryer" Name="소형 분무 건조기"/>
+    <Elem NameU="Cone crusher" Name="콘 크러셔"/>
+    <Elem NameU="Conical screw processor" Name="원추형 나사 프로세서"/>
+    <Elem NameU="Cyclone1" Name="집진 장치 1"/>
+    <Elem NameU="Cyclone2" Name="집진 장치 2"/>
+    <Elem NameU="Disc pulverizer1" Name="디스크 분쇄기 1"/>
+    <Elem NameU="Disc pulverizer2" Name="디스크 분쇄기 2"/>
+    <Elem NameU="Double roll crusher" Name="더블 롤 크러셔"/>
+    <Elem NameU="Dryer cooler" Name="건조기 냉각기"/>
+    <Elem NameU="Dust collector1" Name="집진기 1"/>
+    <Elem NameU="Dust collector2" Name="집진기 2"/>
+    <Elem NameU="Dust collector3" Name="집진기 3"/>
+    <Elem NameU="Dust collector4" Name="집진기 4"/>
+    <Elem NameU="Dust collector5" Name="집진기 5"/>
+    <Elem NameU="Dust collector6" Name="집진기 6"/>
+    <Elem NameU="Dust reclaim" Name="먼지 회수"/>
+    <Elem NameU="Elevator for powders and pellets" Name="분말 및 펠릿 용 엘리베이터"/>
+    <Elem NameU="Feeder" Name="공급기"/>
+    <Elem NameU="Flow meter" Name="유량 측정기"/>
+    <Elem NameU="Fluidizing conveyor" Name="공기 컨베이어"/>
+    <Elem NameU="Gravimetric feeder1" Name="중량 측정 공급기 1"/>
+    <Elem NameU="Gravimetric feeder2" Name="중량 측정 공급기 2"/>
+    <Elem NameU="Grinder" Name="분쇄기"/>
+    <Elem NameU="Grinding mill" Name="분쇄롤"/>
+    <Elem NameU="Hammer mill 1" Name="해머밀 1"/>
+    <Elem NameU="Hammer mill 2" Name="해머밀 2"/>
+    <Elem NameU="High vacuum conveyer" Number="2" Name="진공 컨베이어"/>
+    <Elem NameU="Homomixer" Name="호모믹서"/>
+    <Elem NameU="Hopper1" Name="호퍼 1"/>
+    <Elem NameU="Hopper2" Name="호퍼 2"/>
+    <Elem NameU="Hopper3" Name="호퍼 3"/>
+    <Elem NameU="Loss in weight feeder" Name="중량 감속식 공급장치"/>
+    <Elem NameU="Mill classification system" Name="분류 시스템"/>
+    <Elem NameU="Modular feeder" Name="모듈러 공급기"/>
+    <Elem NameU="Particles" Name="입자"/>
+    <Elem NameU="Pipeline mixer" Name="파이프 라인 믹서"/>
+    <Elem NameU="Plant vacuum system" Name="식물 진공 시스템"/>
+    <Elem NameU="Powder mixer" Name="파우더 믹서"/>
+    <Elem NameU="Refiner" Name="정제기"/>
+    <Elem NameU="Rotary airlock feeder1" Name="회전 공급기 1"/>
+    <Elem NameU="Rubber granulator" Name="고무그릴레이터"/>
+    <Elem NameU="Self-dumping hopper" Name="셀프 덤핑 호퍼"/>
+    <Elem NameU="Shredder" Name="슈레더"/>
+    <Elem NameU="Silo" Name="사일로"/>
+    <Elem NameU="Simple agglomeration" Name="단순 응집"/>
+    <Elem NameU="Simple air classifier" Name="공기 분류기"/>
+    <Elem NameU="Simple centrifugal scalper" Name="원심 스캘퍼"/>
+    <Elem NameU="Simple classifier mill" Name="분류기 밀"/>
+    <Elem NameU="Simple dyna-slide feeder" Name="다이나 슬라이드 공급기"/>
+    <Elem NameU="Simple feeder" Name="공급기"/>
+    <Elem NameU="Simple filter" Name="필터기"/>
+    <Elem NameU="Simple fine grinding mill" Name=" 분쇄기"/>
+    <Elem NameU="Simple hammermill" Name="해머밀"/>
+    <Elem NameU="Simple hopper with material" Name="호퍼"/>
+    <Elem NameU="Simple roller mill" Name="롤러 밀"/>
+    <Elem NameU="Simple rotary airlock feeder" Name="회전 공급기"/>
+    <Elem NameU="Simple screener" Name="스크리너"/>
+    <Elem NameU="Simple shredder" Name="분쇄기"/>
+    <Elem NameU="Simple silo" Name="사일로"/>
+    <Elem NameU="Simple solids processing" Name="고체 처리"/>
+    <Elem NameU="Simple transporter" Name="전송 장치"/>
+    <Elem NameU="Simple vibrating screen" Name="진동 스크리너"/>
+    <Elem NameU="Simple weigh hopper" Name="무게 호퍼"/>
+    <Elem NameU="Spiral conveyor with hopper" Name="호퍼가있는 나선형 컨베이어"/>
+    <Elem NameU="Stainless steel heavy-duty mixer" Name="스테인레스 스틸 헤비 듀티 믹서"/>
+    <Elem NameU="Three stage wet collector" Name="3 단계 습식 수집기"/>
+    <Elem NameU="Truck loader" Name="트럭 로더"/>
+    <Elem NameU="Truck" Name="트럭"/>
+    <Elem NameU="Vacuum boost" Name="진공 부스트"/>
+    <Elem NameU="Vacuum pressure unloader" Name="진공 압력 언로더"/>
+    <Elem NameU="Vertical shaft impactor" Name="수직축 임팩터"/>
+    <Elem NameU="Vibrating bin discharger with dual outlets" Name="이중 배출구가 있는 진동 배출기"/>
+    <Elem NameU="Volumetric feeder machine" Name="체적 공급기"/>
+    <Elem NameU="Volumetric feeder" Name="체적 공급기"/>
+    <Elem NameU="Wire mesh container" Name="철망 컨테이너"/>
+</Lib>

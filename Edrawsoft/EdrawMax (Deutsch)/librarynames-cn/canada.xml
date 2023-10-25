@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Canada">
+    <Elem NameU="Alberta" Name="艾伯塔省"/>
+    <Elem NameU="British Columbia" Name="卑诗省"/>
+    <Elem NameU="Manitoba" Name="马里拖巴省"/>
+    <Elem NameU="New Brunswick" Name="新不伦瑞克省"/>
+    <Elem NameU="Newfoundland" Name="纽芬兰省"/>
+    <Elem NameU="Nothern Territories" Name="加拿大北方"/>
+    <Elem NameU="Nova Scotia" Name="新斯科夏省"/>
+    <Elem NameU="Ontario" Name="安大略省"/>
+    <Elem NameU="Prince Edward Island" Name="爱德华王子岛省"/>
+    <Elem NameU="Quebec" Name="魁北克省"/>
+    <Elem NameU="Saskatchewan" Name="萨斯喀彻省"/>
+    <Elem NameU="Yukon" Name="育空省"/>
+    <Elem NameU="Canada" Name="加拿大"/>
+</Lib>

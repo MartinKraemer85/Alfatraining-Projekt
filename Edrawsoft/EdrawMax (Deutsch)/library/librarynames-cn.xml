@@ -1,0 +1,678 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LibNames Version="8.0">
+    <Library NameU="Basic" Name="常规" SegName="图表;常用基本符号;智能图形;流程图;思维导图;组织架构图;家庭树" SynName="changgui"/>
+    <Library NameU="Column Chart" Name="柱状图" SynName="zhuzhuangtu;长条图;changtiaotu;棒形图;bangxingtu"/>
+    <Library NameU="Funnel Chart" Name="漏斗图"  SynName="loudoutu;AARRR"/>
+    <Library NameU="Gauge Chart" Name="仪表图" SynName= "yibiaotu;表盘图表;biaopantubiao;速度计图表;shudujitubiao"/>
+    <Library NameU="Line and Area Charts" Name="线型图" ErrorName="线形图" 
+     SynName="xianxingtu;点状图;dianzhuangtu;停顿图;tingduntu;形状图;xaingzhuangtu;折线图;zhexiantu;曲线图;quxiantu" />
+    <Library NameU="Pie and Doughnut Charts" Name="环形图" ErrorName="环型图" SynName="huanxingtu;圆饼图;yuanbingtu;饼状图;bingzhuangtu;扇形统计图;shanxingtongjitu;统计图;tongjitu"/>
+    <Library NameU="Radar Chart" Name="蜘蛛（雷达）图" ErrorName="蜘蛛图;雷达图;蜘蛛(雷达)图"/>
+    <Library NameU="Scatter and Bubble Charts" Name="散点图与气泡图" ErrorName="散点气泡图;散点图和气泡图" SegName="散点图;气泡图" 
+     SynName="Scatter Chart;bubble chart;X-Y 图;散布图;sandiantuyuqipaotu;x-ytu;sanbutu" />
+    <Library NameU="Medical" Name="医学" SynName="yixue;shekang;社康;menzhen;门诊;yiyuan;医院"/>
+    <Library NameU="2D Block" Name="2D框图"/>
+    <Library NameU="2D Block Diagram" Name="2D框图"/>
+    <Library NameU="2D Directional Maps" Name="2D 方向图" SegName="2D;方向图" SynName="fengxiangbiao;风向标"/>
+    <Library NameU="2D Landmarks" Name="2D 路标" SegName="2D;路标" SynName="jianzhu;建筑"/>
+    <Library NameU="3D Block" Name="3D框图"/>
+    <Library NameU="3D Block Diagram" Name="3D框图"/>
+    <Library NameU="3D Directional Maps" Name="3D 方向图" SegName="3D;方向图" SynName="jianzhu;建筑"/>
+    <Library NameU="3D Landmarks" Name="3D 路标"/>
+    <Library NameU="3D Network Diagram Shapes" Name="3D 网络图"/>
+    <Library NameU="AWS App Services" Name="AWS 应用服务"/>
+    <Library NameU="AWS Compute and Networking" Name="AWS 计算与网络"/>
+    <Library NameU="AWS Database" Name="AWS 数据库"/>
+    <Library NameU="AWS Deployment and Management" Name="AWS 配置管理"/>
+    <Library NameU="AWS Non-Service Specific" Name="AWS 非服务特定"/>
+    <Library NameU="AWS On-Demand Workforce" Name="AWS 按需劳动力"/>
+    <Library NameU="AWS SDKs" Name="AWS SDKs"/>
+    <Library NameU="AWS Storage Content and Delivery" Name="AWS 存储内容及传输"/>
+	<Library NameU="AWS Analytics" Name="亚马逊分析" ErrorName="亚马孙" SegName="亚马逊;分析" SynName="fenxi"/>
+	<Library NameU="AWS App Services" Name="AWS App服务"/>
+	<Library NameU="AWS Application Integration" Name="亚马逊应用程序集成" ErrorName="亚马孙" SegName="亚马逊;应用程序;集成" SynName="yingyongchengxujicheng"/>
+	<Library NameU="AWS AR &amp;VR" Name="亚马逊AR和VR" ErrorName="亚马孙" SegName="亚马逊;AR;VR"/>
+	<Library NameU="AWS Blockchain" Name="亚马逊区块链" ErrorName="亚马孙" SegName="亚马逊;区块链" SynName="yamaxunqukuailian"/>
+	<Library NameU="AWS Business Applications" Name="亚马逊业务应用程序" ErrorName="亚马孙" SegName="亚马逊;业务应用程序" SynName="yewuyinggongchengxu"/>
+	<Library NameU="AWS Compute" Name="AWS 计算" ErrorName="AWS计算" SegName="AWS;计算" SynName="jisuan"/>
+	<Library NameU="AWS Compute and Networking" Name="AWS 计算与网络"/>
+	<Library NameU="AWS Compute Instances" Name="AWS 计算实例" ErrorName="AWS计算实例" SegName="AWS;计算实例" SynName="jisuanshili"/>
+	<Library NameU="AWS Cost Management" Name="AWS 成本管理" ErrorName="AWS成本管理" SegName="AWS;成本管理" SynName="chengbenguanli"/>
+	<Library NameU="AWS Customer Enablement" Name="AWS 客户支持" ErrorName="AWS客户支持" SegName="AWS;客户支持" SynName="kehuzhichi"/>
+	<Library NameU="AWS Customer Engagement" Name="AWS 客户参与" ErrorName="AWS客户参与" SegName="AWS;客户参与" SynName="kehucanyu"/>
+	<Library NameU="AWS Database" Name="AWS 数据库" ErrorName="AWS数据库" SegName="AWS;数据库" SynName="shujuku"/>
+	<Library NameU="AWS Deployment and Management" Name="AWS 配置管理"/>
+	<Library NameU="AWS Developer Tools" Name="AWS 开发人员工具" ErrorName="AWS开发人员工具" SegName="AWS;开发人员工具" SynName="kafarenyuangongju"/>
+	<Library NameU="AWS End User Computing" Name="AWS 最终用户计算" ErrorName="AWS最终用户计算" SegName="AWS;最终用户计算" SynName="zuizhongyonghujisuan"/>
+	<Library NameU="AWS Game Tech" Name="AWS 游戏技术" ErrorName="AWS游戏技术" SegName="AWS;游戏技术" SynName="youxijishu"/>
+	<Library NameU="AWS General" Name="AWS 常规" ErrorName="AWS常规" SegName="AWS;常规" SynName="changgui"/>
+	<Library NameU="AWS Group Icons" Name="AWS 组图标" ErrorName="AWS组图标" SegName="AWS;组图标" SynName="zutubiao"/>
+	<Library NameU="AWS Internet of Things" Name="AWS 物联网" ErrorName="AWS物联网" SegName="AWS;物联网" SynName="wulianwang"/>
+	<Library NameU="AWS Machine Learning" Name="AWS 机器学习" ErrorName="AWS机器学习" SegName="AWS;机器学习" SynName="jiqixuexi"/>
+	<Library NameU="AWS Management &amp;Governance" Name="AWS 管理与治理" ErrorName="AWS管理与治理" SegName="AWS;管理;与;治理"/>
+	<Library NameU="AWS Media Services" Name="AWS 媒体服务" ErrorName="AWS媒体服务" SegName="AWS;媒体服务" SynName="meitifuwu"/>
+	<Library NameU="AWS Migration &amp;Transfer" Name="AWS 迁移和转移" ErrorName="AWS迁移和转移" SegName="AWS;迁移;转移"/>
+	<Library NameU="AWS Mobile" Name="AWS 移动" ErrorName="AWS移动" SegName="AWS;迁移" SynName="qinayi"/>
+	<Library NameU="AWS Networking &amp;Content Delivery" Name="AWS网络和内容交付" SegName="AWS;网络;内容支付" SynName="wangluoheneirongjiaofu"/>
+	<Library NameU="AWS Non-Service Specific" Name="AWS 非服务特定"/>
+	<Library NameU="AWS On-Demand Workforce" Name="AWS 按需劳动力"/>
+	<Library NameU="AWS Quantum Technologies" Name="AWS 量子技术" ErrorName="AWS量子技术" SegName="AWS;量子技术" SynName="liangzijishu"/>
+	<Library NameU="AWS Robotics" Name="AWS 机器人技术" ErrorName="AWS机器人技术" SegName="AWS;机器人技术" SynName="jiqirenjishu"/>
+	<Library NameU="AWS Satellite" Name="AWS卫星" ErrorName="AWS卫星" SegName="AWS;卫星" SynName="weixing"/>
+	<Library NameU="AWS SDKs" Name="AWS SDKs"/>
+	<Library NameU="AWS Security, Identity, &amp;Compliance" Name="AWS 安全性，身份和合规性"  ErrorName="AWS安全性，身份和合规性" SegName="AWS;安全性;身份;合规性"/>
+	<Library NameU="AWS Storage" Name="AWS 存储" ErrorName="AWS存储" SegName="AWS;存储" SynName="cunchu"/>
+	<Library NameU="AWS Storage Content and Delivery" Name="AWS 存储内容及传输" SynName="cunchuneirongjichuanshu"/>
+    <Library NameU="Active Directory" Name="活动目录" SynName="huodongmulu;Active Directory;AD;Windows Server;mulufuwu;目录服务"/>
+    <Library NameU="Active Directory Objects" Name="活动目录对象" SynName="huodongmuluduixiang"/>
+    <Library NameU="Africa" Name="非洲" SynName="feizhou"/>
+    <Library NameU="Alarm and Access Control" Name="报警和门禁控制" SegName="报警;门禁控制" SynName="baojinghemenjinkongzhi"/>
+    <Library NameU="Analog and Digital Logic" Name="模拟和数字逻辑" SegName="模拟;数字逻辑" SynName="moniheshuziluoji"/>
+	<Library NameU="Alibaba Cloud" Name="阿里云符号" SegName="阿里;云" SynName="aliyunfuhao"/>
+	<Library NameU="Alibaba Cloud AI" Name="阿里云 AI"/>
+    <Library NameU="AI" Name="AI" SynName ="rengongzhineng;人工智能"/>
+	<Library NameU="Others" Name="阿里云其他符号" SegName="阿里云;其他符号" SynName="aliyunheqitafuhao"/>
+	<Library NameU="Alibaba Cloud Enterprise application" Name="阿里云企业应用" SynName="aliyunqiyeyingyong"/>
+	<Library NameU="Alibaba Cloud Big Data" Name="阿里云大数据" SynName="aliyundashuju"/>
+	<Library NameU="Architecture Diagram" Name="架构图" SynName="jiagoutu"/>
+	<Library NameU="Security" Name="阿里云安全服务" SegName="阿里云;安全服务" SynName="aliyunanquanfuwu"/>
+	<Library NameU="Alibaba Cloud IOT" Name="阿里云IOT" SegName="阿里云;IOT" SynName="hulianwnag;Internet of Things;物联网"/>
+	<Library NameU="Alibaba Cloud Media" Name="阿里云媒体" SegName="阿里云;云媒体" SynName="aliyunmeiti"/>
+	<Library NameU="Middleware" Name="阿里云中间件" SegName="阿里云;中间件" SynName="aliyunzhongjianjian"/>
+	<Library NameU="Communication" Name="阿里云通信" SegName="阿里云;通信" SynName="aliyuntongxin"/>
+	<Library NameU="Elastic Computing" Name="阿里云弹性计算" SegName="阿里云;弹性计算" SynName="aliyuntanxingjisuan"/>
+	<Library NameU="Storage" Name="阿里云存储" SegName="阿里云;存储" SynName="aliyuncunchu"/>
+	<Library NameU="Networking" Name="阿里云网络服务" SegName="阿里云;网络服务" SynName="aliyunwangluofuwu"/>
+	<Library NameU="Database Services" Name="阿里云数据库" SegName="阿里云;数据库" SynName="aliyunshujuku"/>
+	<Library NameU="Monitoring and Management" Name="阿里云监控与管理" SegName="阿里云;监控;管理" SynName="aliyunjiankongyuguanli"/>
+    <Library NameU="Android UI" Name="Android UI" SegName="Android;UI" SynName="anzhuo;安卓"/>
+    <Library NameU="UML Modeling" Name="UML Modeling" SynName="tongyijianmoyuyan;统一建模语言"/>
+	<Library NameU="Project Timeline" Name="项目时间线" SynName="xiangmushijianxian;lichengbei;里程碑;gerenchengjiu;个人成就"/>
+    <Library NameU="Animal Cells" Name="动物细胞" SynName="dongwuxibao;shengwu;生物"/>
+    <Library NameU="Animals" Name="动物" />
+    <Library NameU="Head" Name="头像"/>
+    <Library NameU="Insect" Name="昆虫"/>
+    <Library NameU="Sea Life" Name="海洋生物"/>
+    <Library NameU="Terricole" Name="陆地动物"/>
+    <Library NameU="Appliances" Name="家电" SynName="jiadian;dianqi;电器"/>
+    <Library NameU="Architecture" Name="建筑"/>
+    <Library NameU="Arrow Connectors" Name="可连接箭头"/>
+    <Library NameU="Arrow Shapes" Name="箭头形状" SegName="箭头;形状" SynName="→;指向;jiantouxingzhuang;zhixiang"/>
+    <Library NameU="Asia" Name="亚洲"/>
+    <Library NameU="Basic Drawing Shapes" Name="基本绘图形状" SegName="基本" SynName="基本绘图符号;jibenhuituleixing;jibenhuitufuhao" />
+    <Library NameU="Astronomy" Name="天文学" SynName="tianwenxue;wuli;物理"/>
+    <Library NameU="Athletic Ground" Name="运动场" SynName="yundongcheng;体育场"/>
+    <Library NameU="Audit Flow Diagram" Name="审计流程图形状" SegName="审计;流程图" SynName="shenjiliuchengtuxingzhuang"/>
+    <Library NameU="Australia" Name="澳洲"/>
+    <Library NameU="BPMN-Shapes" Name="BPMN 业务流程建模" SegName="BPMN;业务流程;建模" />
+    <Library NameU="Backgrounds" Name="背景"/>
+    <Library NameU="Ball and Stick Model" Name="球棍模型" SegName="qiugunmoxing;Ball-and-stick models;kongjiantianchong;空间填充;huaxuefenzi;化学分子"/>
+    <Library NameU="Bar Chart" Name="条形图" SynName="tiaoxingtu;长条图;changtiaotu;柱状图;zhuxingtu;棒形图;bangxingtu" />
+    <Library NameU="Basic Electrical Symbols" Name="基本电路符号" SynName="jibendianlufuhao"/>
+    <Library NameU="Basic Flowchart Shapes" Name="基本流程图形状" SynName="jibenliuchengtuxingzhuang"/>
+    <Library NameU="Bathroom" Name="浴室" SynName="yushi;linyufang;淋浴房;xizao洗澡"/>
+    <Library NameU="Bedroom" Name="卧室" SynName="woshi;qinshi;寝室;shuijiao;睡觉"/>
+    <Library NameU="Birthday" Name="生日"/>
+    <Library NameU="Booch OOD" Name="Booch OOD" SynName="mianxiangduixiang;面向对象;duixiangdaoxiangsheji;对象导向设计"/>
+    <Library NameU="Borders" Name="边框和标题"/>
+    <Library NameU="Brainstorming" Name="头脑风暴" SegName="头脑;风暴"  SynName="脑力激荡;组织想法;tounaofengbao;naolijidang;zuzhixiangfa" />
+    <Library NameU="Bubble Shapes" Name="气泡图" SynName="qipaotu"/>
+    <Library NameU="Building Core" Name="建筑物核心" SegName="建筑物;核心" SynName="jianzhuwuhexin"/>
+    <Library NameU="Business" Name="商业"/>
+    <Library NameU="Business-Flat" Name="商业-扁平"/>
+    <Library NameU="Business Icons" Name="商业图标"/>
+    <Library NameU="Business Card Templates" Name="名片模板"/>
+    <Library NameU="Business Card Text" Name="商业卡片文本"/>
+    <Library NameU="Business Scene" Name="商业场景"/>
+    <Library NameU="Canvas Templates" Name="画布模板" SynName="huabumoban;kanban;看板"/>	
+    <Library NameU="CCTV Equipment" Name="安控设备" SynName="ankongshebei"/>
+    <Library NameU="COM and OLE" Name="COM 和 OLE" SegName="COM;OLE" SynName="duixianglianjieyuqianru;对象链接与嵌入;charuduixiang;插入对象"/>
+    <Library NameU="Commom Objects" Name="常见物品"/>
+    <Library NameU="Cabinets and Bookcases" Name="橱柜和书柜" SynName="chuguiheshugui"/>
+    <Library NameU="Calendar" Name="日历" SynName="rili;riqi;日期"/>
+    <Library NameU="Callouts" Name="标注" SynName="标记;记号;biaozhu;biaoji;fuhao"/>
+    <Library NameU="Canada" Name="加拿大"/>
+    <Library NameU="Carnival" Name="狂欢节"/>
+    <Library NameU="Carpet" Name="地毯" SynName="ditan;didian地垫"/>
+    <Library NameU="Cause and Effect Diagram" Name="因果图形状" SynName="yinguotuxingzhuang;因果分析;yinguotufenxi;鱼骨图;yuguotu" />
+    <Library NameU="Certificate" Name="证书"/>
+    <Library NameU="Chemical Equation" Name="化学方程式" SegName="化学;方程式" SynName="huaxuefangchengshi"/>
+    <Library NameU="Chen ERD" Name="Chen ERD"/>
+    <Library NameU="Child Dress" Name="儿童服装"/>
+    <Library NameU="Children's Day" Name="儿童节"/>
+    <Library NameU="Christmas" Name="圣诞节"/>
+    <Library NameU="Circular Charting Shapes" Name="圆形图表形状" SynName="yuanxingtubiaoxingzhuang"/>
+    <Library NameU="Cisco Basic" Name="Cisco 基本设备"/>
+    <Library NameU="Cisco Buildings" Name="Cisco 建筑符号"/>
+    <Library NameU="Cisco IBM Products" Name="Cisco IBM 产品"/>
+    <Library NameU="Cisco LAN" Name="Cisco 局域网符号"/>
+    <Library NameU="Cisco Miscellaneous" Name="Cisco 其它"/>
+    <Library NameU="Cisco People" Name="Cisco 人物符号"/>
+    <Library NameU="Cisco Products 1" Name="Cisco 产品 1"/>
+    <Library NameU="Cisco Products 2" Name="Cisco 产品 2"/>
+    <Library NameU="Cisco Routers" Name="Cisco 路由器"/>
+    <Library NameU="Cisco Switches" Name="Cisco 交换机"/>
+    <Library NameU="Cisco WAN" Name="Cisco 广域网符号"/>
+    <Library NameU="Cisio Media" Name="Cisco 媒体符号"/>
+    <Library NameU="Cisco Security Stealthwatch" Name="科思全方位安全保护" SegName="Cisco;全方位;安全保护"/>
+    <Library NameU="Column" Name="柱形图"/>
+    <Library NameU="Common Shapes" Name="常用形状"/>
+    <Library NameU="Comparison Chart" Name="比较图" SynName="bijiaotu;对比图;duibitu"/>
+	<Library NameU="Sports" Name="体育运动"/>
+    <Library NameU="Comparison Indicators" Name="比较指示图"/>
+    <Library NameU="Composite Assemblies" Name="复合组件" SynName="fuhezujian"/>
+    <Library NameU="Computers and Monitors" Name="计算机和显示器" SynName="jisuanjihexianshiqi;diannao;电脑;zhuji;主机;bijibendiannao;笔记本电脑"/>
+    <Library NameU="Concept Map" Name="概念图符号" SynName="concept map;xingainianfuhao" />
+    <Library NameU="Conceptual Website Shapes" Name="网站总体设计形状" SegName="网站;设计"/>
+    <Library NameU="Connectors" Name="连接符" ErrorName="链接符;链接线" SegName="连接"  SynName="连接线;关系线;lianjiefu;lianjiexian;guanxixian" />
+    <Library NameU="Container" Name="容器" SynName="rongqi"/>
+    <Library NameU="Cross Functional Flowchart" Name="泳道图" SynName="跨职能流程图;yongdaotu;kuaizhinengliuchengtu" />
+    <Library NameU="Custom Organization Chart" Name="自定义组织结构图" SynName="zidingyizuzhijiegoutu"/>
+    <Library NameU="Custom Timeline" Name="自定义时间线" SynName="zidingyishijianxian"/>
+    <Library NameU="Data Flow" Name="数据流程图形状" SegName="数据;流程图" SynName="shujuliuchengtu"/>
+    <Library NameU="Data Flow Model Diagram" Name="数据流模型图" SynName="shujuliumoxingtu;Gane-Sarson;DFD"/>
+    <Library NameU="Decision Tree" Name="决策树" SynName="jueceshu;Decision Tree;ID3;C4.5 ;CART"/>
+	<Library NameU="Design Element" Name="设计元素" SynName="shejiyuansu"/>
+    <Library NameU="Design Libraryent" Name="设计元素" SynName="shejiyuansu"/>
+    <Library NameU="Detailed Network Diagram" Name="详细网络图" SynName="xiangxiwangluotu"/>
+    <Library NameU="Digital Products" Name="数码产品" SynName="dianzichanpin;电子产品;dianzishebei;电子设备"/>
+    <Library NameU="Dimensioning" Name="尺寸标注" SegName="尺寸;标注" SynName="chicunbiaozhu;changdu;长度;kuandu;宽度;jiaodu;角度"/>
+    <Library NameU="Dining Room (Elevation)" Name="餐厅（立面）" SegName="餐厅;立面"/>
+    <Library NameU="EPC Diagram Shapes" Name="EPC 图表形状" SynName="shijianqudongliuchenglian;shijianqudongguochenglian;事件驱动流程链;事件驱动过程链" />
+    <Library NameU="Easter" Name="复活节" SynName="fuhuojie"/>
+    <Library NameU="Education" Name="教育" SynName="jiaoyu"/>
+    <Library NameU="Electrical Audio" Name="电子音频" SynName="dainziyinpin"/>
+    <Library NameU="Electrical Instruments" Name="电子仪器" SynName="dainziyiqi"/>
+    <Library NameU="Electrical and Telecom" Name="电气和电信" ErrorName="电汽" SegName="电气;电信" SynName="dianqihedianxin"/>
+	<Library NameU="Electrical Science" Name="电学" SynName="dianxue;electricity;wulixue;物理学"/>
+    <Library NameU="Elevations" Name="立面图" SynName="limiantu"/>
+    <Library NameU="Enterprise Application" Name="企业应用" SynName="qiyeyingyong"/>
+    <Library NameU="Entity Relationship" Name="实体关系图" 
+    SynName="shitiguanxitu;Entity Relationship Diagram;ER 图;shitilianximoxing;实体联系模型;shitilianximoshitu;实体联系模式图;ER 模型;shujukusheji;数据库设计"/>
+    <Library NameU="Environment" Name="环境" SynName="huanjing"/>
+    <Library NameU="Equipment-Centrifuges" Name="设备-离心机" SegName="设备;离心机" SynName="shebei-lixinji"/>
+    <Library NameU="Equipment-Compressors" Name="设备-压缩机" SegName="设备;压缩机" SynName="shebei-yasuoji"/>
+    <Library NameU="Equipment-Crushers" Name="设备-破碎仪" SegName="设备;破碎仪" SynName="shebei-posuiyi"/>
+    <Library NameU="Equipment-Dryers" Name="设备-烘干机" SegName="设备;烘干机" SynName="shebei-hongganji"/>
+    <Library NameU="Equipment-Filters" Name="设备-过滤器" SegName="设备;过滤器" SynName="shebei-guoluqi"/>
+    <Library NameU="Equipment-General" Name="常用设备" SegName="设备" SynName="shebie"/>
+    <Library NameU="Equipment-Heat Exchanges" Name="设备-热交换" SegName="设备;热交换" SynName="shebei-rejiaohuan"/>
+    <Library NameU="Equipment-Instruments" Name="设备-仪器" SegName="设备;仪器" SynName="shebei-yiqi"/>
+    <Library NameU="Equipment-Mixers" Name="设备-搅拌器" SegName="设备;搅拌器" SynName="shebei-jiaobanqi"/>
+    <Library NameU="Equipment-Motors" Name="设备-电动机" SegName="设备;电动机" SynName="shebei-daindongji"/>
+    <Library NameU="Equipment-Peripheral" Name="设备-外围设备" SegName="设备;外围设备" SynName="shebei-waiweishebei"/>
+    <Library NameU="Equipment-Pumps" Name="设备-泵" SegName="设备;泵" SynName="shebei-beng"/>
+    <Library NameU="Equipment-Stream Flag" Name="设备-流标志" SegName="设备;流标志" SynName="shebei-liubiaozhi"/>
+    <Library NameU="Equipment-Valves" Name="设备-阀门" SegName="设备;阀门" SynName="shebei-famen"/>
+    <Library NameU="Equipment-Vessels" Name="设备-容器" SegName="设备;容器" SynName="shebei-rongqi"/>
+    <Library NameU="Europe" Name="欧洲" SynName="ouzhou"/>
+    <Library NameU="Event Flow Diagram" Name="事件流程图" SegName="事件;流程图" SynName="shijianliuchengtu"/>
+    <Library NameU="Exchange Objects" Name="交换对象" SynName="jiaohuandduixaing"/>
+    <Library NameU="Express-G" Name="Express-G" SynName="shujukutu;数据库图"/>
+    <Library NameU="Family Tree" Name="家庭树" SegName="家庭" 
+             SynName="谱系图;族谱图;世系图;家系图;家族树;家庭关系图;家谱图;jiatingshu;puxitu;zuputu;shixitu;jiaxitu;jiatingshu;jiatingguanxitu;jiaputu"/>
+    <Library NameU="Fault Tree Analysis Shapes" Name="故障树分析形状" SynName="guzhangshufenxixingzhuang;FTA"/>
+    <Library NameU="Finance" Name="金融" SynName="jinrong"/>
+    <Library NameU="Fire and Emergency" Name="消防疏散图" SynName="xiaofangshusantu;119;huozai;火灾;taosheng;逃生"/>
+    <Library NameU="Five Forces Diagram" Name="五力图形状" SynName="wulituxingzhuang;botewulifenximuxing;波特五力分析模型;qiyezhanlue;企业战略"/>
+    <Library NameU="Flags" Name="旗帜" SynName="qizhi" />
+    <Library NameU="Food" Name="食品" SynName="shipin"/>
+    <Library NameU="Forms" Name="表单" SynName="biaodan"/>
+    <Library NameU="Fruit" Name="水果" SynName="shuiguo"/>
+    <Library NameU="Funnel" Name="漏斗图" SynName="loudoutu"/>
+    <Library NameU="Gantt" Name="甘特图" SynName="gantetu;Gantt chart;hengdaotu;横道图;tuxingtu;条状图;gongzuojihua;工作计划;renwujindu;任务进度;jindutu;进度图"/>
+    <Library NameU="Garden" Name="花园" SynName="huayuan"/>
+    <Library NameU="Gauges" Name="仪表图" SynName="yibiaotu;表盘图表;速度计图表;biaopantubiao;sudujitubiao" />
+	<Library NameU="Genogram" Name="家谱图"  
+     SynName="谱系图;puxitu;族谱图;zuputu;世系图;shixitu;家系图;jiaxitu;家族树;jiazushu;家庭关系图;jiatingguanxitu;家谱图;jiaputu"/>
+    <Library NameU="Gift Voucher" Name="礼券"/>
+    <Library NameU="Girl Dress 1" Name="女士服装 1"/>
+    <Library NameU="Girl Dress 2" Name="女士服装 2"/>
+    <Library NameU="Girl Dress 3" Name="女士服装 3"/>
+    <Library NameU="Girl Dress 4" Name="女士服装 4"/>
+    <Library NameU="Girl Dress 5" Name="女士服装 5"/>
+    <Library NameU="Girl Dress 6" Name="女士服装 6"/>
+    <Library NameU="Girl Dress 7" Name="女士服装 7"/>
+    <Library NameU="Girl Dress 8" Name="女士服装 8"/>
+    <Library NameU="Greek Letter" Name="希腊字母" SegName="希腊;字母" SynName="xilazimu"/>
+    <Library NameU="Guestures" Name="手势"/>
+    <Library NameU="HOQ and QFD" Name="质量屋" SynName="zhiliangwu;QFD;HOQ"/>
+    <Library NameU="HVAC Controls" Name="暖通控制" SynName="nuantongkongzhi"/>
+    <Library NameU="HVAC Controls Equipment" Name="暖通空调控制设备" SegName="暖通;空调;控制设备" SynName="nuantongkongtiaokongzhishebei"/>
+    <Library NameU="HVAC Ductwork" Name="暖通空调管道系统" SegName="暖通;空调;管道系统" SynName="nuantongkongtiaoguandaoxitong"/>
+    <Library NameU="HVAC Equipment" Name="暖通空调设备" SegName="暖通;空调设备" SynName="nuantongkongtiaoshebei"/>
+    <Library NameU="Half-length" Name="人-半身"/>
+    <Library NameU="Halloween" Name="万圣节"/>
+    <Library NameU="Highlight Flowchart Shapes" Name="高光流程图"/>
+    <Library NameU="Highlight Shapes" Name="高光图形"/>
+    <Library NameU="Human Organs" Name="人体器官" SegName="人体;器官" SynName="rentiqiguan;yixue;医学;jiepou;解剖;shengli;生理"/>
+    <Library NameU="IDEF0" Name="IDEF0 图形状" SegName="IDEF"/>
+    <Library NameU="IDEF2" Name="IDEF2 图形状" SegName="IDEF"/>
+    <Library NameU="IOS 6 UI" Name="IOS 6 UI"/>
+    <Library NameU="IOS 7 UI" Name="IOS 7 UI"/>
+    <Library NameU="IOS 8 UI" Name="IOS 8 UI"/>
+    <Library NameU="Icons" Name="图标"/>
+	<Library NameU="Image Container" Name="图片吸附框" SegName="图片;吸附框" SynName="tupianxifukuang"/>
+    <Library NameU="Infographic Charts" Name="信息图表" SynName="xinxitubiao"/>
+    <Library NameU="Initiation and Annunciation" Name="启动和通知" SegName="启动;通知" SynName="qidonghetonghua"/>
+    <Library NameU="Integrated Circuit Components" Name="集成电路组件" SynName="jichengdianluzujian"/>
+    <Library NameU="Jackson" Name="Jackson" SynName="shujujiegou;数据结构"/>
+    <Library NameU="Jacobson Use Case" Name="Jacobson 使用实例" SynName="yonglitu;OOSE;用例图"/>
+    <Library NameU="Kitchen (Elevation)" Name="厨房（正面图）" SegName="厨房;正面图" SynName="chufang(zhengmiantu)"/>
+    <Library NameU="Kitchen and Dining Room" Name="厨房和餐厅" SegName="厨房;餐厅" SynName="chufanghecanting;zuofan;chifan;做饭;吃饭"/>
+    <Library NameU="LDAP Objects" Name="LDAP 对象"/>
+    <Library NameU="Laboratory Equipment" Name="实验器皿" SegName="实验;器皿" SynName="shiyanqimin;huaxue;化学;rongqi;容器"/>
+    <Library NameU="Language Level Shapes" Name="语言级别形状" SynName="yuyanjibiexingzhuang"/>
+    <Library NameU="Lighting" Name="照明设备" SynName="zhaomingshebei;deng;灯"/>
+    <Library NameU="Lighting and Handbag (Elevation)" Name="灯和手提包（立面）" SegName="灯;手提包" SynName="dengheshoutibao"/>
+    <Library NameU="Line and Area" Name="线形图和面积图" SynName="xianxingtuhemianjitu"/>
+    <Library NameU="List Shapes" Name="列表形状" SegName="列表" SynName="liebiaoxingzhuang"/>
+    <Library NameU="Maintenance Symbol" Name="维护符号" SynName="weihufuhao"/>
+    <Library NameU="Man Suit" Name="男士套装" SynName="nanshitaozhuang"/>
+    <Library NameU="Map Vehicles" Name="交通工具" SynName="jiaotonggongju;jiaoche;轿车;qiche;汽车;kache;卡车"/>
+    <Library NameU="Maps and Charts" Name="图和表" SynName="tuhebiao"/>
+	<Library NameU="Mark" Name="标记" SynName="biaoji"/>
+    <Library NameU="Marketing Diagrams" Name="营销图表" SynName="yingxiaotubiao"/>
+    <Library NameU="Marketing Shapes" Name="营销形状" SynName="yingxiaoxingzhuang"/>
+    <Library NameU="Martin ERD" Name="Martin ERD" SynName="shujukusheji;数据库设计"/>
+    <Library NameU="Mathematical Symbol" Name="数学符号" SegName="数学" SynName="shuxuefuhao;gongshi;公式;jisuan;计算"/>
+    <Library NameU="Matrix" Name="矩阵" SynName="jizheng;因素关系;yinsuguanxi"/>
+    <Library NameU="Mechanics" Name="力学" SynName="lixue;物理学"/>
+    <Library NameU="Medical" Name="医学" SynName="yixue"/>
+    <Library NameU="Memory Objects" Name="内存对象" SynName="neicunduixiang"/>
+    <Library NameU="Mind Map Shapes" Name="思维导图"/>
+    <Library NameU="Miscellaneous Flowchart Shapes" Name="混合流程图形状" SegName="混合流程图" SynName="hunheliuchengtuxingzhuang"/>
+    <Library NameU="Models" Name="模特"/>
+    <Library NameU="Molecular Model" Name="分子模型" SynName="fenzimoxing"/>
+    <Library NameU="Money" Name="货币"/>
+    <Library NameU="Music" Name="音乐"/>
+    <Library NameU="Nassi-Shneiderman" Name="纳西-施奈德曼" ErrorName="纳西·施奈德曼;纳西.施奈德曼" SynName="naxi-shinaideman"/>
+    <Library NameU="Network Locations" Name="网络位置" SynName="wanluoweizhi"/>
+    <Library NameU="Network Symbols" Name="网络符号" SynName="wangluofuhao"/>
+    <Library NameU="Network and Peripherals" Name="网络和外设" SegName="网络;外设" SynName="wangluohewaishe"/>
+	<Library NameU="Network Plan Technology" Name="网络计划技术" SynName="wangluojihuajishu"/>
+    <Library NameU="New Year" Name="新年"/>
+    <Library NameU="News" Name="新闻"/>
+    <Library NameU="ORM Diagram" Name="ORM 图" SynName="Object Relational Mapping;duixiangguanxiyingshe;对象关系映射"/>
+    <Library NameU="Object Relationship" Name="对象关系图" SynName="duixiangguanxitu"/>
+    <Library NameU="Office" Name="办公用品" SynName="bangongyongqin"/>
+    <Library NameU="Office Furniture" Name="办公室家具" SynName="bangongshijiaju;gongzuo;工作"/>
+    <Library NameU="Office Equipment" Name="办公室设备" SynName="bangongshishebei;gongzuo;工作"/>
+    <Library NameU="Optical Symbols" Name="光学符号" SynName="guangxuefuhao"/>
+    <Library NameU="Optics" Name="光学" SynName="guangxue;Optics;wulixue;物理学"/>
+    <Library NameU="Org Chart(Automated)" Name="组织架构图（自动）" SegName="组织;架构"  
+     SynName="企业架构;组织关系;部门关系;人员关系;qiyejiegou;zuzhiguanxi;bumenguanxi;renyuanguanxi"/>
+    <Library NameU="Org Chart(Manual)" Name="组织架构图（手动）" SegName="组织;架构"  
+     SynName="企业架构;组织关系;部门关系;人员关系;qiyejiegou;zuzhiguanxi;bumenguanxi;renyuanguanxi"/>
+    <Library NameU="PERT Chart Shapes" Name="PERT 图形状" SynName="jihuapinggu;计划评估"/>
+    <Library NameU="PEST" Name="PEST" SynName="huanjingfenxi;环境分析"/>
+    <Library NameU="PID Blowers" Name="PID 鼓风机" SegName="PID;鼓风机" SynName="gufengji"/>
+    <Library NameU="PID Boilers" Name="PID 锅炉" SegName="PID;锅炉" SynName="guolu"/>
+    <Library NameU="PID Buildings" Name="PID 建筑" SegName="PID;建筑" SynName="jianzhu"/>
+    <Library NameU="PID Chemistry" Name="PID 化学"  SegName="PID;化学" SynName="huaxue"/>
+    <Library NameU="PID Computer Keys" Name="PID 电脑键盘" SegName="PID;电脑键盘" SynName="diannaojianpan"/>
+    <Library NameU="PID Containers" Name="PID 容器"  SegName="PID;容器" SynName="rongqi"/>
+    <Library NameU="PID Ductwork" Name="PID 管道"  SegName="PID;管道" SynName="guandao"/>
+    <Library NameU="PID Flow Meters" Name="PID 流量计" SegName="PID;流量计" SynName="liuliangji"/>
+    <Library NameU="PID Food Processing" Name="PID 食品加工" SegName="PID;食品加工" SynName="shipinjiagong"/>
+    <Library NameU="PID HVAC" Name="PID HVAC" SegName="PID;HVAC"/>
+    <Library NameU="PID Heaters" Name="PID 加热器" SegName="PID;加热器" SynName="jiareqi"/>
+    <Library NameU="PID Industry" Name="PID 工业" SegName="PID;工业" SynName="gongye"/>
+    <Library NameU="PID Lights" Name="PID 灯" SegName="PID;灯" SynName="deng"/>
+    <Library NameU="PID Logistics" Name="PID 物流" SegName="PID;物流" SynName="wuliu"/>
+    <Library NameU="PID Machines" Name="PID 机器" SegName="PID;机器" SynName="jiqi"/>
+    <Library NameU="PID Material Handling" Name="PID 物料运输" SegName="PID;物料运输" SynName="wuliapyunshu"/>
+    <Library NameU="PID Meters" Name="PID 仪表" SegName="PID;仪表" SynName="yibiap"/>
+    <Library NameU="PID Mixers" Name="PID 搅拌器" SegName="PID;搅拌器" SynName="jiaobanqi"/>
+    <Library NameU="PID Motors" Name="PID 发动机" SegName="PID;发动机" SynName="fadongji"/>
+    <Library NameU="PID Plant Facilities" Name="PID 工厂设施" SegName="PID;工厂设施" SynName="gongchangsheshi"/>
+    <Library NameU="PID Power" Name="PID 电源" SegName="PID;电源" SynName="dianyuan"/>
+    <Library NameU="PID Process Cooling" Name="PID 制程冷却" SegName="PID;制程冷却" SynName="zhichenglengque"/>
+    <Library NameU="PID Process Heating" Name="PID 制程加热" SegName="PID;制程加热" SynName="zhichengjiare"/>
+    <Library NameU="PID Pumps" Name="PID 泵" SegName="PID;泵" SynName="beng"/>
+    <Library NameU="PID Push Buttons" Name="PID 按钮" SegName="PID;按钮" SynName="anniu"/>
+    <Library NameU="PID Safety" Name="PID 安全" SegName="PID;安全" SynName="anquan"/>
+    <Library NameU="PID Tanks" Name="PID 水槽" SegName="PID;水槽" SynName="shuicao"/>
+    <Library NameU="PID Valves" Name="PID 阀门" SegName="PID;阀门" SynName="menfa"/>
+    <Library NameU="PID Valves Symbols" Name="PID 阀门符号" SegName="PID;阀门" SynName="menfa"/>
+    <Library NameU="PID Wastewater Treatment" Name="PID 废水处理" SegName="PID;废水处理" SynName="feishuichuli"/>
+    <Library NameU="PID Wires and Cables" Name="PID 电线电缆" SegName="PID;电线;电缆" SynName="dianxiandianlan"/>
+    <Library NameU="People" Name="人物"/>
+    <Library NameU="People-Flat" Name="人物-扁平"/>
+    <Library NameU="People Outline" Name="人物轮廓"/>
+    <Library NameU="Peripheral Equipment" Name="周边设备" SynName="zhoubianshebei"/>
+    <Library NameU="Pie and Doughnut" Name="饼图和环型图" SynName="bingtuhehuanxingtu"/>
+    <Library NameU="Piping and Connection Shapes" Name="管道和连接线" SegName="设备;管道;连接线" SynName="guandaohelianjiexian"/>
+    <Library NameU="Plant Cell" Name="植物细胞" SynName="zhiwuxibao"/>
+    <Library NameU="Plants" Name="植物" SynName="zhiwu;penzai;盆栽;hua;花;cao;草"/>
+    <Library NameU="Plumbing" Name="水管设施" SynName="shuiguansheshi"/>
+    <Library NameU="Presentation Symbols" Name="演示符号" SynName="yanshifuhao"/>
+    <Library NameU="Process Steps" Name="流程步骤" SegName="流程;步骤" SynName="liuchengbuzhou"/>
+    <Library NameU="Process Shapes" Name="流程形状" SynName="liuchengxingzhuang"/>
+    <Library NameU="Professions" Name="职业" SynName="zhiye"/>
+    <Library NameU="Program Flowchart" Name="程序流程图" SegName="程序;流程图" SynName="chengxuliuchengtu;chengxukuangtu;guochengliuchengtu;程序框图;过程流程图"/>
+    <Library NameU="Pyramid Chart" Name="金字塔图" SegName="金字塔;图"/>
+    <Library NameU="Qualifying Symbols" Name="限定符号" SynName="xiandingfuhao"/>
+    <Library NameU="ROOM" Name="ROOM" SynName="shishiduixiangdaoxiangjianmo;实时对象导向建模"/>
+    <Library NameU="Rack Equipment" Name="机架图" SynName="jijiatu"/>
+    <Library NameU="Registers Grills and Diffusers" Name="寄存器和扩散器" SegName="寄存器;扩散器" SynName="jicunqihekuosanqi"/>
+    <Library NameU="Relationship" Name="关系" SynName="guanxi"/>
+    <Library NameU="Relationship Matrix" Name="关系矩阵" SynName="guanxijuzhen"/>
+    <Library NameU="Religion" Name="宗教" SynName="zongjiao"/>
+    <Library NameU="Resistors and Capacitors" Name="电阻和电容" SegName="电阻;电容" SynName="dainzuhedianrong"/>
+    <Library NameU="Road Signs" Name="路标" SynName="lubiao;zhishipai;指示牌"/>
+    <Library NameU="Rotating Equip and Mech Functions" Name="旋转设备和机械功能" SegName="旋转设备;机械功能" SynName="xuanzhuanshebeihejixiegongneng"/>
+    <Library NameU="SDL Diagram" Name="SDL 图表形状" SegName="SDL;图表"/>
+    <Library NameU="SSADM" Name="SSADM" SynName="jiegouhuasheji;结构化设计"/>
+    <Library NameU="Scatter and Bubble" Name="散点图和气泡图" SynName="sandiantuheqipaotu"/>
+    <Library NameU="School" Name="学校" SynName="xuexiao"/>
+    <Library NameU="Semiconductor Devices" Name="半导体器件" SynName="bandaotiqijian"/>
+    <Library NameU="Servers" Name="服务器" SynName="fuwuqi"/>
+    <Library NameU="Shlaer-Mellor OOA" Name="Shlaer-Mellor OOA" SynName="mianxiangduixiangfenxi;面向对象分析"/>
+    <Library NameU="Six Sigma" Name="六西格玛" SynName="liuxigema;Six Sigma;六标准差;liubiaozhuncha;摩托罗拉;motuluola"/>
+    <Library NameU="Six Sigma Matrix" Name="六西格玛" SynName="liuxigema"/>
+    <Library NameU="Sofas" Name="沙发" SynName="shafa"/>
+    <Library NameU="Source and Battery" Name="电源和电池" SegName="电源;电池" SynName="dainyuanhedianchi"/>
+    <Library NameU="South America" Name="南美洲" SynName="naimeizhou"/>
+    <Library NameU="Spider" Name="雷达图" SynName="leidatu"/>
+    <Library NameU="Status Table" Name="状态表" SynName="zhuangtaibiao"/>
+    <Library NameU="Subway" Name="地铁" SynName="ditie;jieyun;捷运"/>
+    <Library NameU="Switches and Relays" Name="开关和继电器" SegName="开关;继电器" SynName="kaiguanhejidainqi"/>
+    <Library NameU="Symbols" Name="符号" SynName="fuhao"/>
+    <Library NameU="TQM Diagram Shapes" Name="TQM 图形状" SynName="quanmianzhiliangguanli;全面质量管理"/>
+    <Library NameU="Tables and Chairs" Name="桌子和椅子" SegName="桌子;椅子" SynName="zhuoziheyizi"/>
+    <Library NameU="Technology" Name="技术" SynName="jishu"/>
+    <Library NameU="Technology-Flat" Name="技术-扁平" SynName="jishu-bianping"/>
+    <Library NameU="Telecom Switch and Peripheral Equip" Name="电信交换机和外围设备" SegName="电信交换机;外围设备" SynName="dianxinjiaohuanjihewaiweishebei"/>
+    <Library NameU="Terminals and Connectors" Name="端子和连接器" SegName="端子;连接器" SynName="daunzihelianjieqi"/>
+	<Library NameU="Text" Name="文本" SynName="文字;wenben;wenzi"/>
+    <Library NameU="Text Block" Name="文本块" SynName="wenbenkuai"/>
+    <Library NameU="Text Box" Name="文本框" SynName="wenbenkuang"/>
+    <Library NameU="Timeline" Name="时间线" SynName="时间轴;shijianxian;shijianzhou"/>
+    <Library NameU="Titles" Name="标题" SynName="biaoti"/>
+    <Library NameU="Touch Gesture" Name="触摸手势" SegName="触摸;手势" SynName="chumoshoushi;pingguo;苹果;chukong;触控;jiaohu;交互"/>
+    <Library NameU="Tourism" Name="旅游" SynName="luyou"/>
+    <Library NameU="Transformers and Windings" Name="变压器和绕组" SegName="变压器;绕组" SynName="bianyaqiheraozu"/>
+    <Library NameU="Transmission Path" Name="传输路径" SegName="chuanshulujing"/>
+    <Library NameU="Transportation" Name="交通" SynName="jiaotong"/>
+    <Library NameU="UML Activity State Diagram" Name="UML 活动" ErrorName="UML活动" SegName="UML;活动" SynName="UML huodong"/>
+    <Library NameU="UML Class Diagram" Name="UML 类图" ErrorName="UML类图" SegName="UML;类图" SynName="UML leitu"/>
+    <Library NameU="UML Communication Diagram" Name="UML 协作" ErrorName="UML协作" SegName="UML;协作"
+    SynName ="UML xiezuo;collaboration diagram;tongxintu;通信图;hezuotu;合作图"/>
+    <Library NameU="UML Component Diagram" Name="UML 组件" ErrorName="UML组件" SegName="UML;组件"
+    SynName="UML zujian;Component Diagram;goujiantu;构件图"/>
+    <Library NameU="UML Deployment Diagram" Name="UML 部署" ErrorName="UML部署" SegName="UML;部署"
+    SynName="UML bushu;Deployment Diagram;peizhitu;配置图"/>
+    <Library NameU="UML Sequence Diagram" Name="UML 序列" ErrorName="UML序列" SegName="UML;序列"
+    SynName="UML xulie;Sequence Diagram;shixutu;时序图;xunxutu;循序图;xunhuantu;循环图"/>
+    <Library NameU="UML Statechart Diagram" Name="UML 状态图" ErrorName="UML状态图" SegName="UML;状态图" SynName="UML zhuangtaitu;Statechart Diagram"/>
+    <Library NameU="UML Use Case Diagram" Name="UML 用例" ErrorName="UML用例" SegName="UML;用例"
+    SynName="UML yongli;Use Case Diagram"/>
+    <Library NameU="USA" Name="美国" SynName="meiguo"/>
+    <Library NameU="VHF-UHF-SHF" Name="VHF-UHF-SHF" SegName="VHF;UHF;SHF"/>
+    <Library NameU="Valentine's Day" Name="情人节"/>
+    <Library NameU="Value Chain" Name="价值链" SynName="jiazhilian"/>
+    <Library NameU="Value Stream Mapping" Name="价值流形状" SynName="jizhiliuxingzhuang;VSM"/>
+    <Library NameU="Vector Icons" Name="矢量图标"/>
+    <Library NameU="Vehicles" Name="交通工具" SynName="jiaotonggongju"/>
+    <Library NameU="Venn Chart" Name="维恩图形状"  ErrorName="韦恩图形状" SegName="维恩图;形状"  SynName="韦恩图符号;韦恩图;weientuxingzhuang;weientufuhao,weientu" />
+    <Library NameU="Venn Shapes" Name="维恩图形状"/>
+    <Library NameU="Video Surveillance" Name="视频监控" SegName="视频;监控" SynName="shipinjiankong"/>
+    <Library NameU="Video and Audio Ports" Name="视频音频端口" SynName="shipinyinpinduankou"/>
+    <Library NameU="WBS Shapes" Name="WBS 形状" SynName="gongzuofenjiejiegou;工作分解结构"/>
+    <Library NameU="Wall Shell and Structure" Name="墙，框架和结构" SegName="墙;框架;和;结构" SynName="qiang,kuangjiahejiegou"/>
+    <Library NameU="Wall, Door, Window and Structure" Name="墙，门，窗户和结构"/>
+    <Library NameU="Wardrobe" Name="衣柜（立面图）" SynName="yigui"/>
+    <Library NameU="Weather" Name="天气" SynName="tianqi"/>
+    <Library NameU="Web Site Map" Name="网站图形状" SegName="网站图" SynName="Web;wangzhantuxingzhuang"/>
+    <Library NameU="Doors and Windows" Name="窗户和门" SegName="窗户;门" SynName="chuanghuhemen"/>
+	<Library NameU="Windows and Doors (Elevation)" Name="窗户和门（正面图）" SegName="窗户;门" SynName="chuanghumen"/>
+    <Library NameU="Windows7  UI" Name="Windows7  UI"/>
+    <Library NameU="Wireframe" Name="线框" SynName="xiankuang"/>
+    <Library NameU="WorkFlow Department" Name="工作流部门" SegName="工作流;部门" SynName="gongzuoliubumen"/>
+    <Library NameU="WorkFlow Objects" Name="工作流对象" SegName="工作流;对象" SynName="gongzuoliuduixiang"/>
+    <Library NameU="WorkFlow Steps" Name="工作流步骤" SegName="工作流;步骤" SynName="gongzuoliubuzhou"/>
+    <Library NameU="Yourdon and Coad" Name="Yourdon 和 Coad" SegName="Yourdon;Coad" SynName="mianxiangduixianng;面向对象"/>
+    <Library NameU="iPad UI" Name="iPad UI" SegName="ipad;UI" SynName="qingguo;苹果;qingbandiannao;平板电脑"/>
+	<Library NameU="Kids Expressions" Name="卡通表情"/>
+	<Library NameU="Kids Professions" Name="卡通职业"/>
+	<Library NameU="Kids Sports" Name="卡通运动"/>
+	<Library NameU="Kids Transportation" Name="卡通交通"/>
+	<Library NameU="Kindergarten Life" Name="幼儿园生活"/>
+	<Library NameU="School Life" Name="校园生活"/>
+	<Library NameU="Map Pointers" Name="地图标记点" SegName="地图;标记点" SynName="ditubiaojidian;dingwei;定位"/>
+	<Library NameU="World Map" Name="世界地图"/>
+	<Library NameU="Lines" Name="线条" SynName="线段;xiantiao;xianduan" />
+	<Library NameU="Fashion" Name="时装"/>
+	<Library NameU="Basic Charts" Name="基本图表"/>
+	<Library NameU="Insect" Name="昆虫"/>
+	<Library NameU="Animal" Name="动物"/>
+	<Library NameU="Terricole" Name="陆地动物"/>
+	<Library NameU="Sea Life" Name="海洋动物"/>
+	<Library NameU="Business Flat" Name="商业-扁平"/>
+	<Library NameU="Business Scene 1" Name="商业场景1"/>
+	<Library NameU="Business Scene 2" Name="商业场景2"/>
+	<Library NameU="Office Flat" Name="办公用品-扁平"/>
+	<Library NameU="Marketing" Name="营销"/>
+	<Library NameU="Shopping" Name="购物"/>
+	<Library NameU="Discount labels" Name="折扣标签"/>
+	<Library NameU="Business Scene 1" Name="商业场景1"/>
+	<Library NameU="Desig-Libraryent" Name="设计元素"/>
+	<Library NameU="Bow" Name="蝴蝶结"/>
+	<Library NameU="Heart" Name="心形"/>
+	<Library NameU="Ornament" Name="装饰物"/>
+	<Library NameU="Social Media" Name="社交媒体"/>
+	<Library NameU="Sticker" Name="贴纸"/>
+	<Library NameU="Gestures" Name="手势"/>
+	<Library NameU="Education Flat" Name="教学用品-扁平"/>
+	<Library NameU="Fashion Models" Name="时装模特"/>
+	<Library NameU="Fashion Clothes" Name="时装"/>
+	<Library NameU="Fashion Items" Name="时尚单品"/>
+	<Library NameU="Festival" Name="节日"/>
+	<Library NameU="Bread" Name="面包"/>
+	<Library NameU="Drink" Name="饮料"/>
+	<Library NameU="Fruit" Name="水果"/>
+	<Library NameU="Snacks" Name="零食"/>
+	<Library NameU="Tableware" Name="餐具"/>
+	<Library NameU="Vegetable" Name="蔬菜"/>
+	<Library NameU="Nature" Name="自然"/>
+	<Library NameU="Flowers" Name="花"/>
+	<Library NameU="Leaves" Name="叶"/>
+	<Library NameU="Trees" Name="树"/>
+	<Library NameU="Landscape" Name="风景"/>
+	<Library NameU="Silhouette" Name="剪影"/>
+	<Library NameU="Business People" Name="商务人士"/>
+	<Library NameU="Facial Expressions" Name="表情"/>
+	<Library NameU="Facial Expressions" Name="表情"/>
+	<Library NameU="Profession" Name="职业"/>
+	<Library NameU="Profession Half-length" Name="职业-半身图"/>
+	<Library NameU="People Activity Pictogram" Name="人物-象形图"/>
+	<Library NameU="3D People Pictogram" Name="3D人物象形图"/>
+	<Library NameU="Aerospace and Military" Name="航空军事"/>
+	<Library NameU="Aerospace Technology" Name="航空军事"/>
+	<Library NameU="Shipping and Logistics" Name="航运物流"/>
+	<Library NameU="Social Life" Name="社会生活"/>
+	<Library NameU="News Media" Name="新闻媒体"/>
+	<Library NameU="Media" Name="媒体"/>
+	<Library NameU="Building" Name="建筑-新"/>
+	<Library NameU="Buildings" Name="建筑物"/>
+	<Library NameU="Sports" Name="体育运动"/>
+	<Library NameU="Sport Silhouette" Name="体育运动剪影"/>
+	<Library NameU="Sport Libraryents" Name="体育器材"/>
+	<Library NameU="Fitness" Name="健身"/>
+	<Library NameU="Electronics" Name="电子设备"/>
+	<Library NameU="Artificial Intelligence" Name="人工智能"/>
+	<Library NameU="Biotechnology" Name="生物科技" SynName="shengwukeji"/>
+	<Library NameU="Aerospace Technology" Name="航空航天科技"/>
+	<Library NameU="Silhouette" Name="剪影"/>
+	<Library NameU="Amazon Web Services" Name="AWS亚马逊网络服务" SegName="AWS;亚马逊;网络服务" SynName="yamaxunwangluofuwu"/>
+	<Library NameU="AWS SDKs" Name="AWS 软件开发工具包"/>
+	<Library NameU="MS Azure Cloud" Name="微软Azure云计算" SynName="yunduanfuwu;云端服务"/>
+	<Library NameU="Microsoft Azure Cloud" Name="Azure 云计算" SynName="yunjisuan"/>	
+	<Library NameU="Google Cloud" Name="谷歌云平台" SegName="谷歌;云平台" SynName="gugeyunpingtai"/>
+    <Library NameU="Cisco Network" Name="思科网络" SegName="思科;网络" SynName="sikewangluo;Cisco"/>
+	<Library NameU="Cisco Network Topology" Name="思科网络拓扑" SegName="思科;网络;拓扑" SynName="sikewangluotuopu"/>
+	<Library NameU="Cisco Product Icons" Name="思科产品图标" SegName="思科;产品" SynName="sikechanpintubiao"/>
+	<Library NameU="Cisco Teleprsence Icons" Name="思科网真图标" SegName="思科;网真" SynName="sikewangzhentubiao"/>
+	<Library NameU="Cisco Wireless Icons" Name="思科无线图标"/>
+	<Library NameU="Cisco Safe Icons" Name="思科安全图标"/>
+	<Library NameU="Finance" Name="财务-扁平"/>
+	<Library NameU="Marketing" Name="市场"/>
+	<Library NameU="Graphic Organizer" Name="图形组织"/>
+	<Library NameU="List Shapes (Dynamic)" Name="列表形状（动态）"/>
+	<Library NameU="Enterprise Architecture" Name="企业架构图" 
+    SynName="qiyejiagoutu;qiyejiagoutu;企业结构图;zuzhijiegoutu;组织结构图;zuzhiguanxitu;组织关系图" />
+	<Library NameU="Cisco Telepresence Icons" Name="思科网真图标"/>
+	<Library NameU="Drink" Name="饮料"/>
+	<Library NameU="User" Name="用户"/>	
+	<Library NameU="Number" Name="数字"/>
+  <Library NameU="GCP Big Data" Name="谷歌云平台大数据" SegName="谷歌云;平台大数据" SynName="gugeyunpingtaidashuju"/>  
+  <Library NameU="GCP Compute" Name="谷歌云平台计算" SegName="谷歌云;平台计算" SynName="gugeyunpingtaijisuan"/>  
+  <Library NameU="GCP Developer Tools" Name="谷歌云平台开发工具" SegName="谷歌云;平台开发工具" SynName="gugeyunpingtaikaifagongju"/>  
+  <Library NameU="GCP Extras" Name="谷歌云平台其它符号" SegName="谷歌云;平台;其它符号" SynName="gugeyunpingtaiqitafuhao"/>  
+  <Library NameU="GCP Identity and Security" Name="谷歌云平台身份与安全" SegName="谷歌云;平台身份;安全" SynName="gugeyunpingtaishenfenanquan"/>  
+  <Library NameU="GCP Internet of Things" Name="谷歌云端平台物联网" SegName="谷歌;云端;平台物联网" SynName="gugeyunduanpingtaihulianwang"/>  
+  <Library NameU="GCP Management Tools" Name="谷歌云平台管理工具" SegName="谷歌云;平台管理工具" SynName="gugeyunpingtaiguanligongju"/>  
+  <Library NameU="GCP Networking" Name="谷歌云平台网络" SegName="谷歌云;平台网络" SynName="gugeyunpingtaiwangluo"/>  
+  <Library NameU="GCP Storage and Databases" Name="谷歌云平台存储与数据库" SegName="谷歌云;平台存储;数据库" SynName="gugeyunpingtaicunchuyushujuku"/>  
+  <Library NameU="Azure Cloud" Name="Azure 云符号"/> 
+  <Library NameU="Azure Intune" Name="Azure 云符号"/>   
+  <Library NameU="Azure Deprecated" Name="Azure 启用" SegName="Azure;启用"/>  
+  <Library NameU="Azure Enterprise" Name="Azure 企业" SegName="Azure;企业"/>  
+  <Library NameU="Azure General Symbols" Name="Azure 常用符号" SegName="Azure;常用符号"/>  
+  <Library NameU="Azure Microsoft Products" Name="Azure 微软产品" SegName="Azure;微软产品"/>  
+  <Library NameU="Azure VMs by Function" Name="Azure 按功能划分的虚拟机" SegName="Azure;按功能划分的虚拟机"/>    
+  <Library NameU="Azure System Center" Name="Azure 系统中心" SegName="Azure;系统中心"/>  	
+  <Library NameU="Cisco Security Stealthwatc" Name="思科全方位安全保护" SynName="sikequanfangweianquanbaohu"/>	
+  <Library NameU="Cisco Safe Threat Icons" Name="思科安全威胁符号" SegName="思科;安全威胁"
+   SynName= "sikeanquanfuhao"/>	
+  <Library NameU="Cisco Safe Architectural Icons" Name="思科安全架构符号" SegName="思科;安全架构" 
+  SynName="sikeanquanjiagoufuhao"/>	
+  <Library NameU="Cisco Safe Capability Icons" Name="思科安全能力符号" SegName ="思科;安全能力"
+  SynName="sikeanquannenglifuhao"/>	
+  <Library NameU="Cisco Safe Design Icons" Name="思科安全设计符号" SegName ="思科;安全设计"
+  SynName="sikeanquanshejifuhao"/>	
+  <Library NameU="Big Data" Name="大数据" SynName="dashuju"/>
+  <Library NameU="Smart Home" Name="智能家居" SynName="zhinengjiaju"/>
+  <Library NameU="Internet Of Things" Name="物联网" SynName="hulianwang"/>
+  <Library NameU="Website Wireframe 1" Name="网站线框图 1" SegName="网站;线框图" SynName="Web"/>
+  <Library NameU="Website Wireframe 2" Name="网站线框图 2" SegName="网站;线框图" SynName="Web"/>
+  <Library NameU="Windows UI" Name="Windows UI" SynName="Web"/>
+  <Library NameU="IOS UI" Name="IOS UI"/>
+  <Library NameU="iPhone UI" Name="iPhone UI" SynName="pingguo;苹果"/>
+  <Library NameU="Wireframe Icons" Name="线框图图标"/>
+  <Library NameU="iOS Icons" Name="IOS 图标" SegName="IOS" SynName="pingguo;苹果"/>
+  <Library NameU="Daily Life" Name="日常生活"/>
+  <Library NameU="Education Icons" Name="教育符号"/>
+  <Library NameU="Medical Icons" Name="医学符号"/>
+  <Library NameU="Office Icons" Name="办公符号"/>
+  <Library NameU="User Icons" Name="用户符号"/>
+  <Library NameU="Wireframe Icons" Name="线框图图标"/>
+  <Library NameU="Mid Autumn" Name="中秋节"/>
+  <Library NameU="Dragon Boat" Name="端午节"/>
+  <Library NameU="Dragon Boat Festival" Name="端午节"/>
+  <Library NameU="Family" Name="家庭"/>
+  <Library NameU="Father's Day" Name="父亲节"/>
+  <Library NameU="Spring Festival" Name="春节"/>
+  <Library NameU="Thanksgiving Day" Name="感恩节"/>
+  <Library NameU="Valentines Day" Name="情人节"/>
+  <Library NameU="Wedding Day" Name="结婚纪念日"/>
+  <Library NameU="Users" Name="用户"/>
+	<Library NameU="Holiday Cards" Name="节日卡片"/>
+	<Library NameU="Design" Name="设计"/>
+	<Library NameU="Business Flat Icons" Name="面性扁平风商业图标"/>
+	<Library NameU="Business Outline Icons" Name="线性简约商业图标"/>
+	<Library NameU="Business Two Color Icons" Name="拼色商务办公图标"/>
+	<Library NameU="Daily Life Flat Icons" Name="面性扁平风日常生活图标"/>
+	<Library NameU="Daily Life Outline Icons" Name="线性简约日常生活图标"/>
+	<Library NameU="Education Flat Icons" Name="面性扁平风教育图标"/>
+	<Library NameU="Education Outline Icons" Name="线性简约教育图标"/>
+	<Library NameU="Medical Flat Icons" Name="面性扁平风医学图标"/>
+	<Library NameU="Medical Outline Icons" Name="线性简约医学图标"/>
+	<Library NameU="Social Media Flat Icons" Name="面性扁平风社交媒体图标"/>
+	<Library NameU="Social Media Colorful Icons" Name="多彩社交媒体图标"/>
+	<Library NameU="Users Outline Icons" Name="线性简约用户图标"/>
+	<Library NameU="Users Flat Icons" Name="面性扁平风用户图标"/>
+	<Library NameU="Roadmap" Name="路线图"/>
+	<Library NameU="Facial Expression" Name="表情符号"/>
+	<Library NameU="PPT Illustration" Name="PPT插画"/>
+	<Library NameU="Tencent Cloud-Artificial Intelligence" Name="腾讯云-人工智能" SegName="腾讯云;人工智能" SynName="AI;rengongzhinneg" />
+	<Library NameU="Tencent Cloud-Big Data" Name="腾讯云-大数据" SegName="腾讯云;大数据" SynName="dashuju" />
+	<Library NameU="Tencent Cloud-Basic" Name="腾讯云-基础" SegName="腾讯云;基础" SynName="jichu"/>
+	<Library NameU="Tencent Cloud-Database" Name="腾讯云-数据库" SegName="腾讯云;数据库" SynName="shujuku"/>
+	<Library NameU="Tencent Cloud-Developer Service" Name="腾讯云-开发者服务" SegName="腾讯云;开发者服务" SynName="kaifazhefuwu"/>
+	<Library NameU="Tencent Cloud-Enterprise Application" Name="腾讯云-企业应用" SegName="腾讯云;企业应用" SynName="qiyeyingyong"/>
+	<Library NameU="Tencent Cloud-Industry Application" Name="腾讯云-行业应用" SegName="腾讯云;行业应用" SynName="hangyeyingyong"/>
+	<Library NameU="Tencent Cloud-Security" Name="腾讯云-安全" SegName="腾讯云;安全" SynName="anquan"/>
+	<Library NameU="Tencent Cloud" Name="腾讯云" SegName="腾讯;云" SynName="tengxunyun"/>
+	<Library NameU="Business Diagram" Name="商务" SynName="shangwu"/>
+	<Library NameU="Smart Shapes" Name="智能图形" ErrorName="只能图形;职能图形" SegName="智能;图形" 
+             SynName="智能形状;智能符号;zhinengtuxing;zhinengxingzhuang;zhinengfuhao" />
+	<Library NameU="Chart" Name="图表" SynName="tubiao"/>
+	<Library NameU="Database Modeling" Name="数据库图" SynName="shujukutu"/>
+	<Library NameU="Engineering" Name="工程" SegName="电子工程;工业自动化;PID符号;地图" SynName="gongcheng"/>
+	<Library NameU="Electrical" Name="电子工程" SegName="电子;工程" SynName="dianzigongcheng"/>
+	<Library NameU="ERD &amp;Database" Name="数据库" SynName="shujuku"/>																	
+	<Library NameU="Fashion Design" Name="时装设计" SynName="shizhuangsheji"/>
+	<Library NameU="Family Tree" Name="家庭树" SegName="家庭" 
+             SynName="谱系图;puxitu;族谱图;zuputu;世系图;shixitu;家系图;jiaxitu;家族树;jiazushu;家庭关系图;jiatingguanxitu;家谱图;jiaputu" />	
+	<Library NameU="Flowchart" Name="流程图" 
+             SynName="程序框图;程式方块图;liucengtu;chengxukuangtu;chengshifangkuaitu"/>
+	<Library NameU="Floor Plan" Name="房屋平面图" SegName="房屋;平面图" SynName="pingmianbuzhitu;bujitu;布局图;jiazhuangtu;家装图;zhuangxiu;装修"/>
+	<Library NameU="General" Name="常用基本符号" SegName="常用;基本符号" 
+             SynName="changyongjibenfuhao;常规图形;常用符号;常规形状;changguituxing;changyongfuhao;changguifuhao"/>
+	<Library NameU="Graphs and Charts" Name="图表" SynName="tubiao"/>
+	<Library NameU="Icons" Name="图标" SynName="tubiao"/>
+	<Library NameU="Illustration" Name="示例图" SynName="shilitu"/>
+	<Library NameU="Maps" Name="地图" SynName="ditu"/>
+	<Library NameU="Marketing" Name="营销图表" SynName="yingxiaotubiao"/>
+	<Library NameU="Mind Map" Name="思维导图" SegName="思维;导图;灵感" 
+             SynName="心智图;脑图;心智地图;脑力激荡图;灵感触发图;概念地图;思维地图;siweidaotu;naotu;xinzhitu;naolijidangtu;lingganchufatu;gainianditu;siweiditu"/>
+	<Library NameU="Roadmap" Name="路线图"/>
+	<Library NameU="Cisco Network" Name="思科网络" SynName="sikewangluo"/>
+	<Library NameU="MS Azure Cloud" Name="微软Azure云计算" SegName="微软;Azure;云计算"/>	
+	<Library NameU="Alibaba Cloud" Name="阿里云符号" SegName="阿里;云" SynName="aliyunfuhao"/>
+	<Library NameU="Network Diagram" Name="网络图" SynName="Network planning;wangluotu;gongchengguanli;工程管理"/>
+	<Library NameU="Organizational Chart" Name="组织架构图" SegName="组织;企业;架构" 
+             SynName="组织结构;企业架构;组织关系;部门关系;人员关系;zuzhijiagoutu;zuzhijiegoutu;qiyejiagou;zuzhiguanxi;bumenguanxi;renyuanguanxi"/>
+	<Library NameU="Project Management" Name="项目管理" SynName="xiangmuguanli;PM;专案管理;zhuananguanli;计划管理;jihuaguanli" />		
+    <Library NameU="Science" Name="科学" SynName="kexue"/>
+	<Library NameU="Software" Name="软件架构图" SynName="ruanjianjiagoutu"/>
+	<Library NameU="Wireframe" Name="线框图" SynName="xiankuangtu;yemianshiyitu;页面示意图;pingmulantu;屏幕蓝图;yuanxingtu;原型图;shejijiaohu;交互设计"/>
+	<Library NameU="Forms" Name="表单" SynName="biaodan"/>
+	<Library NameU="Business Card" Name="商业卡片" SynName="shangyekapian"/>
+	<Library NameU="Presentation" Name="演示文稿" SynName="yanshiwengao"/>
+	<Library NameU="Clip Art" Name="剪贴画" SynName="jiantiehua"/>
+	<Library NameU="Industrial Automation" Name="工业自动化" SegName="工业;自动化" SynName="gongyezidonghua"/>			
+	<Library NameU="P&amp;&amp;ID Symbols" Name="P&amp;&amp;ID 符号"/>
+	<Library NameU="Card" Name="卡片" SynName="kapian"/>
+	<Library NameU="ERD and Database" Name="ERD和数据库"/>
+	<Library NameU="Infographic" Name="信息图"/>
+	<Library NameU="Map" Name="地图" SynName="ditu"/>
+	<Library NameU="PID" Name="PID符号"/>
+	<Library NameU="Graphic Design" Name="平面设计"/>
+	<Library NameU="Graphic Organizer" Name="学前教育"/>	
+	<Library NameU="Basic Shapes" Name="基本形状"/>
+	<Library NameU="Flowchart Shapes" Name="流程图形状"/>
+	<Library NameU="Cloud Service" Name="云服务" SegName="AWS亚马逊网络服务;谷歌云平台;微软Azure云计算;阿里云符号;腾讯云" SynName="yunfuwu"/>
+	<Library NameU="Equipment-Solar System" Name="设备-光伏系统" SegName="设备;光伏系统" SynName="guangfuxitong"/>
+    <Library NameU="Crime Scene Images" Name="犯罪现场图"/>
+    <Library NameU="ArchiMate" Name="ArchiMate"/>
+    <Library NameU="Figures" Name="人物"/>
+    <Library NameU="Outdoor Scene" Name="户外现场"/>
+    <Library NameU="Evidence" Name="证据"/>
+    <Library NameU="Weapons" Name="武器"/>
+    <Library NameU="Indoor Scene" Name="室内现场"/>
+    <Library NameU="Callout" Name="标注"/>
+    <Library NameU="Business Layer" Name="业务层"/>
+    <Library NameU="Application Layer" Name="应用层"/>
+    <Library NameU="Technology Layer" Name="技术层"/>
+    <Library NameU="Relationships" Name="关系"/>
+    <Library NameU="Physical" Name="物理"/>
+    <Library NameU="Strategy" Name="策略"/>
+    <Library NameU="Motivation" Name="动机"/>
+    <Library NameU="Implementation and Migration" Name="实施和迁移"/> 
+	<Library NameU="Internet of Things (IOT)" Name="物联网"/>
+	<Library NameU="Sports Elements" Name="运动元素"/>
+	<Library NameU="Consumer Electronics" Name="消费电子产品"/>
+</LibNames>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Cisco Security Stealthwatch">
+    <Elem NameU="Agent" Name="檢查"/>
+    <Elem NameU="Aggregator" Name="聚合"/>
+    <Elem NameU="Cisco Stealthwatch Learning Network License" Name="網絡許可證"/>
+    <Elem NameU="Cisco Stealthwatch UDP Director" Name="UDP導向器"/>
+    <Elem NameU="Cloud" Name="雲儲存"/>
+    <Elem NameU="Cloud License" Name="雲儲存許可證"/>
+    <Elem NameU="Concentrator" Name="集中器"/>
+    <Elem NameU="Database Storage Array" Name="資料儲存數組"/>
+    <Elem NameU="Desktop/Client" Name="桌面/用戶"/>
+    <Elem NameU="Firewall" Name="防火墻"/>
+    <Elem NameU="Flow Collector Management" Name="流程收集管理"/>
+    <Elem NameU="Flow Sensor" Name="流量傳感器"/>
+    <Elem NameU="Laptop" Name="筆記本"/>
+    <Elem NameU="Learning Agent" Name="處理中心"/>
+    <Elem NameU="Legacy Server" Name="舊版伺服器"/>
+    <Elem NameU="Management Console" Name="管理界面"/>
+    <Elem NameU="Phone" Name="手機"/>
+    <Elem NameU="Proxy License" Name="代理許可證"/>
+    <Elem NameU="Router" Name="路徑"/>
+    <Elem NameU="Server" Name="伺服器"/>
+    <Elem NameU="Switch" Name="交換"/>
+    <Elem NameU="Tablet" Name="平板電腦"/>
+    <Elem NameU="Threat Feed" Name="安全警告"/>
+    <Elem NameU="User" Name="用戶"/>
+    <Elem NameU="Virtual Machine" Name="虛擬機"/>
+    <Elem NameU="Web Proxy" Name="網絡代理"/>
+    <Elem NameU="Wifi / WAP" Name="無線網絡/WAP"/>
+    <Elem NameU="Wireless Controller" Name="無限接收器"/>
+</Lib>

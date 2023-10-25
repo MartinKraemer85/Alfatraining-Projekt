@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="AWS Mobile">
+	<Elem NameU="API-Gateway_Endpoint" Name="Endpoint gateway API"/>
+	<Elem NameU="API-Gateway" Name="Gateway API"/>
+	<Elem NameU="Pinpoint" Name="Pinpoint"/>
+	<Elem NameU="AWS-Amplify" Name="AWS-Amplify"/>
+	<Elem NameU="AWS-AppSync" Name="AWS-AppSyncS"/>
+	<Elem NameU="AWS-Device-Farm" Name="AWS-Device-Farm"/>
+	<Elem NameU="Mobile" Name="Mobile"/>
+</Lib>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Optical Symbols">
+    <Elem NameU="7 segment display" Name="7 세그먼트 디스플레이"/>
+    <Elem NameU="7 segment display with DP" Name="7 세그먼트 디스플레이 DP"/>
+    <Elem NameU="9 segment display" Name="9 세그먼트 디스플레이"/>
+    <Elem NameU="9 segment display with DP" Name="9 세그먼트 디스플레이 DP"/>
+    <Elem NameU="LED" Name="LED"/>
+    <Elem NameU="LED 2" Name="LED2"/>
+    <Elem NameU="Light activated SCR" Name="빛 활성화 SCR"/>
+    <Elem NameU="Opto-coupler" Name="광 커플러"/>
+    <Elem NameU="Opto-transistor" Name="광 트랜지스터"/>
+    <Elem NameU="Photo resistor" Name="포토 레지스터"/>
+    <Elem NameU="Photo resistor 2" Name="포토 레지스터 2"/>
+    <Elem NameU="Photo resistor" Name="포토 레지스터"/>
+    <Elem NameU="Solar cell" Name="태양 전지"/>
+</Lib>

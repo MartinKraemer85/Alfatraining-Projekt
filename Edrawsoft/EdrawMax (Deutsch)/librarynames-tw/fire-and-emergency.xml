@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Fire and Emergency">
+    <Elem NameU="Slide Door Left" Name="左推门"/>
+    <Elem NameU="Slide Door Right" Name="右推门"/>
+    <Elem NameU="Fire Break Glass" Name="消防玻璃"/>
+    <Elem NameU="Emergency Ambulance" Name="救护车"/>
+    <Elem NameU="Emergency Access" Number="2" Name="紧急通道"/>
+    <Elem NameU="Emergency Exit" Number="2" Name="紧急出口"/>
+    <Elem NameU="Use Stairs in Fire" Name="火灾中请使用楼梯"/>
+    <Elem NameU="Use Stairs" Name="使用电梯"/>
+    <Elem NameU="Fire Ladder" Name="消防云梯"/>
+    <Elem NameU="Handicap Accessible" Name="残障人士"/>
+    <Elem NameU="Arrow" Name="箭头"/>
+    <Elem NameU="Indicating Arrow" Number="3" Name="指示箭头"/>
+    <Elem NameU="Assembly Point" Name="集结点"/>
+    <Elem NameU="Refuge Area" Name="避难场所"/>
+    <Elem NameU="You are Here" Name="您在此"/>
+    <Elem NameU="Emergency Exit" Number="2" Name="紧急出口"/>
+    <Elem NameU="Fire Extinguisher" Name="灭火器"/>
+    <Elem NameU="Fire Hydrant" Number="2" Name="消防栓"/>
+    <Elem NameU="Emergency Phone" Number="2" Name="紧急电话"/>
+    <Elem NameU="Call 911" Name="拨打 911"/>
+    <Elem NameU="Fire Extinguisher" Name="灭火器"/>
+    <Elem NameU="Fire Alarm Call Point" Name="消防警铃按钮"/>
+    <Elem NameU="Fire Hose" Number="2" Name="消防水带"/>
+    <Elem NameU="Gas Shutoff Valve" Name="气体截流阀"/>
+    <Elem NameU="Automatic Sprinkler Control Valve" Name="自动喷水灭火控制阀"/>
+    <Elem NameU="Automatic Sprinkler Connection" Name="自动喷水灭火连接"/>
+    <Elem NameU="Single Automatic Sprinkler Connection" Name="单自动喷水灭火连接"/>
+    <Elem NameU="Combined Automatic Sprinkler/Standpipe Connection" Name="结合自动喷水灭火/立管连接"/>
+    <Elem NameU="Standpipe Connection" Name="立管连接"/>
+    <Elem NameU="Fire Axe" Name="消防斧"/>
+    <Elem NameU="Fire Fighting Equipment" Name="消防器材"/>
+    <Elem NameU="Alarm" Name="警铃"/>
+    <Elem NameU="Fire Alarm" Name="消防警铃"/>
+    <Elem NameU="Manual activating Device" Name="手动激活设备"/>
+    <Elem NameU="Electric Panel Shutoff" Name="电路切断面板"/>
+    <Elem NameU="Child Care Center" Name="呵護兒童"/>
+    <Elem NameU="Smoke Detector" Name="煙霧探測器"/>
+    <Elem NameU="Fire Sprinkler" Number="2" Name="消防灑水車"/>
+    <Elem NameU="Air Conditioning Vents" Name="空調出風口"/>
+    <Elem NameU="Vents" Name="通風孔"/>
+    <Elem NameU="Not an Exit" Name="禁止通行"/>
+    <Elem NameU="Don't Go Back" Name="禁止逆行"/>
+    <Elem NameU="Don't use the Elevator" Name="不要使用電梯"/>
+    <Elem NameU="No Fire" Name="禁止煙火"/>
+    <Elem NameU="No Smoking" Name="禁止吸煙"/>
+    <Elem NameU="No Cooking" Name="禁止烹飪"/>
+    <Elem NameU="Radiation Hazard" Name="輻射危險"/>
+    <Elem NameU="Non-ionising Radiation" Name="非電離輻射"/>
+    <Elem NameU="Explosives" Name="爆炸物"/>
+    <Elem NameU="Toxic Gas" Name="有毒氣體"/>
+    <Elem NameU="Medical Waste" Name="醫療垃圾"/>
+    <Elem NameU="Flammable Material" Name="易燃物質"/>
+    <Elem NameU="Comburent" Name="助燃"/>
+    <Elem NameU="Dangerous Chemical" Name="危險化學品"/>
+    <Elem NameU="Corrosive Material" Name="腐蝕性物質"/>
+    <Elem NameU="Noise" Name="噪音"/>
+    <Elem NameU="Be Careful Suffocation" Name="當心窒息"/>
+    <Elem NameU="Harmful Goods" Name="有毒物品"/>
+    <Elem NameU="Chemical Weapon" Name="禁止化學武器"/>
+    <Elem NameU="Warning Sign" Name="警告牌"/>
+    <Elem NameU="High Voltage Sign" Name="小心高電壓"/>
+    <Elem NameU="Laser Hazzard Sign" Name="激光危險標誌"/>
+    <Elem NameU="Radiation Danger" Name="輻射危險"/>
+</Lib>

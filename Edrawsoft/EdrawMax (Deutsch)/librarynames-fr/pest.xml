@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib nameU="PEST">
+	<Elem NameU="Basic PEST" Name="PEST simple"/>
+	<Elem NameU="PEST Matrix" Name="Matrice PEST"/>
+	<Elem NameU="PEST Bar" Name="PEST en barre"/>
+	<Elem NameU="PEST Box" Name="PEST en bloc"/>
+	<Elem NameU="PEST Box-Bevel" Name="PEST en bloc biseauté"/>
+	<Elem NameU="Circular PEST" Name="PEST circulaire"/>
+	<Elem NameU="PEST" Name="PEST"/>
+	<Elem NameU="Circle" Name="Cercle"/>
+	<Elem NameU="Text Box" Name="Bloc de texte"/>
+</Lib>

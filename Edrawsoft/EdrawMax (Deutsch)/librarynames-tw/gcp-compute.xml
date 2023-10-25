@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="GCP Compute">
+    <Elem NameU="App procedure" Name="APP 程式"/>
+    <Elem NameU="Cloud functionality" Name="雲端功能"/>
+    <Elem NameU="Computational procedure" Name="計算程式"/>
+    <Elem NameU="Manager system" Name="管理員系統"/>
+    <Elem NameU="Manager optimization OS" Name="管理員優化作業系統"/>
+    <Elem NameU="GPU" Name="GPU"/>
+</Lib>

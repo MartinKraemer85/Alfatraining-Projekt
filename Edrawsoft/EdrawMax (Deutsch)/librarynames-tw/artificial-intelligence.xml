@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Artificial Intelligence">
+    <Elem NameU="Robot" Name="機器人"/>
+    <Elem NameU="Intelligent Sound" Name="智能語音"/>
+    <Elem NameU="AI 1" Name="人工智能1"/>
+    <Elem NameU="Intelligent Knowledge" Name="智能知識"/>
+    <Elem NameU="Technology And The Brain 2" Name="技術與大腦2"/>
+    <Elem NameU="Technology And The Brain 1" Name="技術與大腦1"/>
+    <Elem NameU="AI 2" Name="人工智能2"/>
+    <Elem NameU="Mechanical Brain" Name="機械大腦"/>
+    <Elem NameU="Human Thinking" Name="人腦思考"/>
+    <Elem NameU="Mental Focus" Name="精神集中"/>
+    <Elem NameU="Creativity" Name="創造性"/>
+    <Elem NameU="Abstract Thinking 2" Name="抽象思維2"/>
+    <Elem NameU="Abstract Thinking 1" Name="抽象思維1"/>
+    <Elem NameU="Discovery 1" Name="探索 1"/>
+    <Elem NameU="Discovery 2" Name="探索 2"/>
+    <Elem NameU="Communication" Name="智能機器"/>
+    <Elem NameU="People with Intelligence" Name="人與人工智能"/>
+    <Elem NameU="Automaton 1" Name="小機器人1"/>
+    <Elem NameU="Automaton 2" Name="小機器人2"/>
+    <Elem NameU="Automaton 3" Name="小機器人3"/>
+    <Elem NameU="Automaton 4" Name="小機器人4"/>
+    <Elem NameU="Robot Dog" Name="機械狗"/>
+    <Elem NameU="Manipulator 1" Name="機械手1"/>
+    <Elem NameU="Manipulator 2" Name="機械手2"/>
+    <Elem NameU="People With Intelligence" Name="人與人工智能"/>
+    <Elem NameU="Wire" Name="無線"/>
+    <Elem NameU="Machinery" Name="機械"/>
+    <Elem NameU="Smart Home" Name="智能家居"/>
+    <Elem NameU="Intelligent Mop" Name="智能拖把"/>
+    <Elem NameU="Smart Glasses" Name="智能眼鏡"/>
+    <Elem NameU="Blood Pressure Bracelet" Name="可測量血壓的智能手環"/>
+    <Elem NameU="Dust Robot" Name="除塵機器人"/>
+    <Elem NameU="Smartwatch" Name="智能手錶"/>
+    <Elem NameU="Moving Bracelet" Name="移動手環"/>
+    <Elem NameU="VR Glasses" Name="VR眼鏡"/>
+    <Elem NameU="Mechanical Arm" Name="機械臂"/>
+    <Elem NameU="Chip Pattern 1" Name="芯片式樣1"/>
+    <Elem NameU="Chip Pattern 2" Name="芯片式樣2"/>
+    <Elem NameU="Chip Pattern 3" Name="芯片式樣3"/>
+    <Elem NameU="Line" Name="線條"/>
+    <Elem NameU="Fingerprint 1" Name="指紋1"/>
+    <Elem NameU="Fingerprint 2" Name="指紋2"/>
+    <Elem NameU="Fingerprint Scanning" Name="掃描指紋"/>
+    <Elem NameU="Fingerprint Scanner" Name="指紋掃描器"/>
+    <Elem NameU="Aiming" Name="對準"/>
+    <Elem NameU="iPhone" Name="蘋果手機"/>
+    <Elem NameU="Robot Cooking" Name="機器人在做飯"/>
+    <Elem NameU="Robot Walking a Dog" Name="機器人在遛狗"/>
+    <Elem NameU="Robot Cleaning Floor" Name="機器人清潔地板"/>
+    <Elem NameU="Robot Watering Flower" Name="機器人在澆花"/>
+    <Elem NameU="Robot Throwing Trash" Name="機器人在扔垃圾"/>
+    <Elem NameU="Robot Cleaning the House" Name="機器人在打掃房間"/>
+    <Elem NameU="Robot Sweeping the Floor" Name="機器人在掃地"/>
+    <Elem NameU="Robot Serving Food" Name="機器人在上菜"/>
+    <Elem NameU="Robot Playing Go" Name="機器人在下圍棋"/>
+    <Elem NameU="Robot Playing Computer" Name="機器人在玩電腦"/>
+    <Elem NameU="Robot Playing Go with Human" Name="機器人在和人下圍棋"/>
+    <Elem NameU="Robotic Arm" Name="機械臂"/>
+    <Elem NameU="AI Visual Identity" Name="人工智能視覺識別"/>
+    <Elem NameU="AI for Cognition" Name="人工智能認知"/>
+    <Elem NameU="Artificial Intelligence" Name="人工智能"/>
+</Lib>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Bar">
+
+<Elem Name="Graphique à barres simple" NameU="Simple bar chart"/>
+
+<Elem Name="Gradient ba" NameU="Gradient ba"/>
+
+<Elem Name="Diagramme à barres série unique" NameU="Single series bar chart"/>
+
+<Elem Name="Diagramme à barres de cluster" NameU="Cluster bar chart"/>
+
+<Elem Name="Diagramme à barres de cluster 2" NameU="Cluster bar chart 2"/>
+
+<Elem Name="Graphique à barres empilées" NameU="Stacked bar chart"/>
+
+<Elem Name="Graphique à barres empilées 2" NameU="Stacked bar chart 2"/>
+
+<Elem Name="Graphique à barres unique" NameU="Single bar chart"/>
+
+<Elem Name="Diagramme à barres empilées en pourcentage" NameU="Percentage stacked bar chart"/>
+
+<Elem Name="Graphique à barres empilées en pourcentage2" NameU="Percentage stacked bar chart2"/>
+
+<Elem Name="Diagramme à barres en pourcentage" NameU="Percentage bar chart"/>
+
+</Lib>

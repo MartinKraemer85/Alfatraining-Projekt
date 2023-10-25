@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Website Wireframe 2">
+    <Elem NameU="Navigation menu 1" Name="导航菜单 1"/>
+    <Elem NameU="Navigation menu 2" Name="导航菜单 2"/>
+    <Elem NameU="Navigation menu 3" Name="导航菜单 3"/>
+    <Elem NameU="Navigation menu 4" Name="导航菜单 4"/>
+    <Elem NameU="Navigation menu 5" Name="导航菜单 5"/>
+    <Elem NameU="Navigation menu 6" Name="导航菜单 6"/>
+    <Elem NameU="Navigation menu 7" Name="导航菜单 7"/>
+    <Elem NameU="Basic Tabs" Name="基本选项卡"/>
+    <Elem NameU="Basic Tabs 2" Name="基本选项卡 2"/>
+    <Elem NameU="Basic Tabs 3" Name="基本选项卡 3"/>
+    <Elem NameU="Breadcrumbs" Name="面包屑"/>
+    <Elem NameU="Breadcrumbs 2" Name="面包屑 2"/>
+    <Elem NameU="Sign in form 1" Name="登录窗口 1"/>
+    <Elem NameU="Sign in form 2" Name="登录窗口 2"/>
+    <Elem NameU="Sign in form 3" Name="登录窗口 3"/>
+    <Elem NameU="Sign in form 4" Name="登录窗口 4"/>
+    <Elem NameU="Sign in form 5" Name="登录窗口 5"/>
+    <Elem NameU="Image 1" Name="图像 1"/>
+    <Elem NameU="Image 2" Name="图像 2"/>
+    <Elem NameU="Image with header" Name="带标题的图像"/>
+    <Elem NameU="Tick button" Name="确认按钮"/>
+    <Elem NameU="Button 1" Name="按钮 1"/>
+    <Elem NameU="Button 2" Name="按钮 2"/>
+    <Elem NameU="Button 3" Name="按钮 3"/>
+    <Elem NameU="Button 4" Name="按钮 4"/>
+    <Elem NameU="Button 5" Name="按钮 5"/>
+    <Elem NameU="Button 6" Name="按钮 6"/>
+    <Elem NameU="Button 7" Name="按钮 7"/>
+    <Elem NameU="Button 8" Name="按钮 8"/>
+    <Elem NameU="List with icon" Name="带图标的列表"/>
+    <Elem NameU="Ordered List" Name="有序列表"/>
+    <Elem NameU="Check List" Name="核对列表"/>
+    <Elem NameU="Unordered bullet List" Name="无序列表"/>
+    <Elem NameU="Message box" Name="消息框"/>
+    <Elem NameU="Message box with image" Name="带图像的消息框"/>
+    <Elem NameU="Text block with image 1" Name="带图像的文本框 1"/>
+    <Elem NameU="Text block with image 2" Name="带图像的文本框 2"/>
+    <Elem NameU="Video" Name="视频"/>
+    <Elem NameU="Icon with text" Name="带文本的图标"/>
+    <Elem NameU="Text block with image above" Name="上方有图像的文本框"/>
+    <Elem NameU="Stacked Navigation" Name="堆叠导航 "/>
+    <Elem NameU="Stacked Navigation 2" Name="堆叠导航  2"/>
+    <Elem NameU="Side Navigation Bar" Name="侧导航栏"/>
+    <Elem NameU="Icon List" Name="图标列表"/>
+    <Elem NameU="List Header" Name="表头"/>
+    <Elem NameU="List Header 1" Name="表头 1"/>
+    <Elem NameU="List Header 2" Name="表头 2"/>
+    <Elem NameU="List Header 3" Name="表头 3"/>
+    <Elem NameU="Thumbnails" Name="缩略图"/>
+    <Elem NameU="Default table" Name="默认表格"/>
+    <Elem NameU="Pagination" Name="页码"/>
+    <Elem NameU="Pagination 1" Name="页码 1"/>
+    <Elem NameU="Facebook" Name="脸书"/>
+    <Elem NameU="Twitter" Name="推特"/>
+    <Elem NameU="Google Plus" Name="Google +"/>
+    <Elem NameU="Instagram" Name="Instagram"/>
+    <Elem NameU="Gmail" Name="Gmail"/>
+    <Elem NameU="Linkedin" Name="领英"/>
+</Lib>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib nameU="Event Flow Diagram"><Elem NameU="Event" Name="イベント"/><Elem NameU="Act" Name="アクト"/><Elem NameU="General Entity" Name="一般的なエンティティ"/><Elem NameU="Node" Name="ノード"/><Elem NameU="OR" Name="OR"/><Elem NameU="And" Name="And"/><Elem NameU="External Actor" Name="外部の俳優"/><Elem NameU="Machine Act" Name="自動操作"/><Elem NameU="Machine Entity" Name="機械のエンティティ"/><Elem NameU="Manual Act" Name="手動アクト"/><Elem NameU="Manual Entity" Name="手動エンティティ"/><Elem NameU="Unit" Name="単位"/></Lib>

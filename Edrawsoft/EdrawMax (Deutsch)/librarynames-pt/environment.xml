@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Environment">
+	<Elem NameU="Watering Can" Name="Regador"/>
+	<Elem NameU="House" Name="Casa"/>
+	<Elem NameU="Tree" Name="Árvore"/>
+	<Elem NameU="Energy-Saving Car" Name="Carro de Poupar-Energia"/>
+	<Elem NameU="Environmental Protection" Name="Proteção Ambiental"/>
+	<Elem NameU="Green Seedling" Name="Muda Verde"/>
+	<Elem NameU="插头" name=""/>
+	<Elem NameU="Environmental Label" Name="Etiqueta Ambiental"/>
+	<Elem NameU="太阳能" name=""/>
+	<Elem NameU="Magnifier" Name="Lupa"/>
+	<Elem NameU="Butterfly" Name="Borboleta"/>
+	<Elem NameU="Energy Saving Lamp" Name="Lâmpada de Poupança de Energia"/>
+	<Elem NameU="Trash Can" Name="Caixote do Lixo"/>
+	<Elem NameU="Battery" Name="Bateria"/>
+	<Elem NameU="Letter" Name="Carta"/>
+	<Elem NameU="Notebook" Name="Caderno"/>
+	<Elem NameU="Conserve Water" Name="Conservar Água"/>
+	<Elem NameU="Factory" Name="Fábrica"/>
+	<Elem NameU="Environmental Protection Logo" Name="Logo de Proteção Ambiental"/>
+	<Elem NameU="Gas" Name="Gás"/>
+	<Elem NameU="Gasoline" Name="Gasolina"/>
+	<Elem NameU="Protect the Earth" Name="Proteger a Terra"/>
+	<Elem NameU="Air Temperature" Name="Temperatura do Ar"/>
+	<Elem NameU="Wind Energy" Name="Energia Eólica"/>
+	<Elem NameU="Flower" Name="Flor"/>
+	<Elem NameU="Sun" Name="Sol"/>
+	<Elem NameU="Car" Name="Carro"/>
+	<Elem NameU="Bicycle" Name="Bicicleta"/>
+	<Elem NameU="Power Station" Name="Central Elétrica"/>
+	<Elem NameU="Electric Light" Name="Luz Elétrica"/>
+	<Elem NameU="Water" Name="Água"/>
+	<Elem NameU="Apple" Name="Maçã"/>
+	<Elem NameU="Umbrella" Name="Sombrinha"/>
+	<Elem NameU="Drink" Name="Beber"/>
+	<Elem NameU="Fire" Name="Incêndio"/>
+	<Elem NameU="Protect Environment" Name="Proteger o Ambiente"/>
+	<Elem NameU="Chimney" Name="Chaminé"/>
+	<Elem NameU="High Voltage Power Line Tower" Name="Torre de Alta Voltagem"/>
+	<Elem NameU="Eco Bag" Name="Saco Ecológico"/>
+	<Elem NameU="Cactus" Name="Cacto"/>
+	<Elem NameU="Thunder" Name="Trovão"/>
+	<Elem NameU="Snowflake" Name="Floco de Neve"/>
+	<Elem NameU="Green Leaf" Name="Folha Verde"/>
+	<Elem NameU="Protect Nature" Name="Proteger a Natureza"/>
+	<Elem NameU="Plant" Name="Planta"/>
+	<Elem NameU="Cedar" Name="Cedro"/>
+	<Elem NameU="Solar Energy" Name="Energia Solar"/>
+	<Elem NameU="Forest" Name="Floresta"/>
+	<Elem NameU="Wind" Name="Vento"/>
+	<Elem NameU="Badge" Name="Distintivo"/>
+	<Elem NameU="Wine Bottle" Name="Garrafa de Vinho"/>
+	<Elem NameU="Environmentally Friendly Carton" Name="Cartão Amigo do Ambiente"/>
+	<Elem NameU="Cconserve Water" Name="Conservar Água"/>
+	<Elem NameU="Environmental Protection Icon" Name="Ícone de Proteção Ambiental"/>
+	<Elem NameU="Paper" Name="Papel"/>
+	<Elem NameU="Road Sign" Name="Sinal de Trânsito"/>
+	<Elem NameU="Hot Air Balloon" Name="Balão de Ar Quente"/>
+	<Elem NameU="Cloud" Name="Nuvem"/>
+	<Elem NameU="Medal" Name="Medalha"/>
+	<Elem NameU="Water Resources" Name="Recursos Hídricos"/>
+	<Elem NameU="Earth" Name="Terra"/>
+	<Elem NameU="Moon" Name="Lua"/>
+	<Elem NameU="Bird" Name="Pássaro"/>
+	<Elem NameU="Dolphin" Name="Golfinho"/>
+	<Elem NameU="Weather" Name="Tempos"/>
+	<Elem NameU="Sink" Name="Pia"/>
+	<Elem NameU="Environmental Awareness" Name="Consciência Ambiental"/>
+	<Elem NameU="Windmill" Name="Moinho"/>
+	<Elem NameU="Earth Car" Name="Carro Terrestre"/>
+	<Elem NameU="Thermometer" Name="Termómetro"/>
+	<Elem NameU="Barrels of Gasoline" Name="Barris de Gasolina"/>
+	<Elem NameU="Polar Bear" Name="Urso Polar"/>
+	<Elem NameU="Footprint" Name="Pegada"/>
+	<Elem NameU="Digging" Name="Escavação"/>
+	<Elem NameU="Garbage Collection" Name="Coleção de Lixo"/>
+	<Elem NameU="Sowing" Name="Sementeira"/>
+	<Elem NameU="Cans" Name="Latas"/>
+	<Elem NameU="Mountain" Name="Montanha"/>
+	<Elem NameU="Whale" Name="Baleia"/>
+	<Elem NameU="Iceberg" Name="Icebergue"/>
+	<Elem NameU="Leaves" Name="Folhas"/>
+	<Elem NameU="Rain" Name="Chuva"/>
+</Lib>

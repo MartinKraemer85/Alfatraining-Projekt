@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Industry">
+    <Elem NameU="Asphalt Mixture Tank" Name="瀝青混合料槽"/>
+    <Elem NameU="Asphalt Expansion Tank" Name="瀝青膨脹罐"/>
+    <Elem NameU="Animal manure lagoon" Name="畜糞池"/>
+    <Elem NameU="The chariot liquid slag pool" Name="液態渣池"/>
+    <Elem NameU="Blow tank" Name="泄料桶"/>
+    <Elem NameU="Cycle of intelligent control" Name="智能控制週期"/>
+    <Elem NameU="Dry yeast powder storehouse" Name="乾酵母粉倉"/>
+    <Elem NameU="High Efficiency Steam Turbine" Name="高效汽輪機"/>
+    <Elem NameU="Hopper" Name="漏斗"/>
+    <Elem NameU="Hydrocyclone" Name="旋液分離器"/>
+    <Elem NameU="Mother liquor tank" Name="母液槽"/>
+    <Elem NameU="Mother liquor" Name="母液"/>
+    <Elem NameU="Methylal Metering Tank" Name="二甲氧基甲烷計量罐"/>
+    <Elem NameU="Maturity" Name="成熟度"/>
+    <Elem NameU="Limestone powder storehouse" Name="石灰粉倉"/>
+    <Elem NameU="Level 3 high-speed shearing machine" Name="三級高速剪切機"/>
+    <Elem NameU="Shearer" Name="剪切機"/>
+    <Elem NameU="Sintering machine" Name="燒結機"/>
+    <Elem NameU="Finished Products Tank" Name="成品罐"/>
+    <Elem NameU="Points bin" Name="分倉"/>
+    <Elem NameU="Stock bin" Name="料倉"/>
+    <Elem NameU="Smoke Abatement Pipe" Name="消煙管"/>
+    <Elem NameU="Conveyor" Name="傳送帶"/>
+    <Elem NameU="Thin stillage" Name="酒槽水"/>
+    <Elem NameU="Turbine" Name="渦輪"/>
+    <Elem NameU="Set" Name="機組"/>
+    <Elem NameU="Main Stem Pipeline" Name="幹線管道"/>
+</Lib>

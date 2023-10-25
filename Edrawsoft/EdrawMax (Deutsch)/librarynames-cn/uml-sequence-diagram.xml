@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="UML Sequence Diagram">
+    <Elem NameU="Object Lifeline" Name="对象生命线"/>
+    <Elem NameU="Lifeline" Name="生命线"/>
+    <Elem NameU="Sequence Object" Name="序列对象"/>
+    <Elem NameU="Activation" Name="激活"/>
+    <Elem NameU="Activation(break)" Name="激活中断"/>
+    <Elem NameU="Package" Name="包"/>
+    <Elem NameU="Alternative Fragment" Name="替代片段"/>
+    <Elem NameU="Loop Fragment" Name="循环片段"/>
+    <Elem NameU="Choice Fragment" Name="选择片段"/>
+    <Elem NameU="Alt Fragment" Name="抉择片段"/>
+    <Elem NameU="Opt Fragment" Name="选项片段"/>
+    <Elem NameU="Par Fragment" Name="并行片段"/>
+    <Elem NameU="Custom Fragment" Name="自定义片段"/>
+    <Elem NameU="Object Deletion" Name="对象删除"/>
+    <Elem NameU="Actor" Name="角色"/>
+    <Elem NameU="Actor Lifeline" Name="角色生命线"/>
+    <Elem NameU="Entity" Name="实体"/>
+    <Elem NameU="Boundary" Name="边界"/>
+    <Elem NameU="Control" Name="控制"/>
+    <Elem NameU="Constraint" Name="约束"/>
+    <Elem NameU="End Point" Name="终点"/>
+    <Elem NameU="Note" Name="注释"/>
+    <Elem NameU="Message" Name="自调用"/>
+    <Elem NameU="Message Return" Name="过渡 1"/>
+    <Elem NameU="Asynchronous Message" Name="异步消息"/>
+    <Elem NameU="Self Delegation" Name="自授权"/>
+    <Elem NameU="Curve Self Delegation" Name="曲线自委托"/>
+</Lib>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Strategy">
+	<Elem NameU="Resource" Name="리소스"/>
+	<Elem NameU="Capability" Name="역량"/>
+	<Elem NameU="Value Stream" Name="가치 흐름"/>
+	<Elem NameU="Course of Action" Name="행동 방침"/>
+</Lib>

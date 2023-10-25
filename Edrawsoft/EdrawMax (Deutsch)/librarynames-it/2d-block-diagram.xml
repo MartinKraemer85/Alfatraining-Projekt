@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="2D Block Diagram">
+	<Elem NameU="Triangle" Name="Triangolo"/>
+	<Elem NameU="Isosceles Triangle" Name="Triangolo Isoscele"/>
+	<Elem NameU="Regular Triangle" Name="Triangolo Regolare"/>
+	<Elem NameU="Right Angled Triangle" Name="Triangolo ad Angolo Retto"/>
+	<Elem NameU="Rectangle" Name="Rettangolo"/>
+	<Elem NameU="Rounded Rectangle" Name="Rettangolo Arrotondato"/>
+	<Elem NameU="Rounded Square" Name="Quadrato Arrotondato"/>
+	<Elem NameU="Circle" Name="Cerchio"/>
+	<Elem NameU="Oval" Name="Ovale"/>
+	<Elem NameU="Parallelogram" Name="Parallelogramma"/>
+	<Elem NameU="Pentagon" Name="Pentagono"/>
+	<Elem NameU="Hexagon" Name="Esagono"/>
+	<Elem NameU="Trapezoid" Name="Trapezio"/>
+	<Elem NameU="Rhombus" Name="Rombo"/>
+	<Elem NameU="Half Circle" Name="Semicerchio"/>
+	<Elem NameU="Diamond" Name="Diamante"/>
+	<Elem NameU="Circle with Wavy Edge" Name="Cerchio con Bordi Ondulati"/>
+	<Elem NameU="Candy Shape" Name="Caramella"/>
+	<Elem NameU="Broken Corner Rectangle" Name="Rettangolo con Angoli Tratteggiati"/>
+	<Elem NameU="Arch" Name="Arco"/>
+	<Elem NameU="Funnel" Name="Imbuto"/>
+	<Elem NameU="Round Head Rectangle" Name="Rettangolo con Estremità Arrotondate"/>
+	<Elem NameU="Triangle - Long" Name="Triangolo - Lungo"/>
+	<Elem NameU="Snip Corner Triangle" Name="Triangolo con Angolo Tagliato"/>
+	<Elem NameU="Trapezoid - Vertical" Name="Trapezio - Verticale"/>
+	<Elem NameU="Trapezoid - Horizontal" Name="Trapezio - Orizzontale"/>
+	<Elem NameU="Inverted Trapezoid" Name="Trapezio Invertito"/>
+	<Elem NameU="Hexagon - Long" Name="Esagono - Lungo"/>
+	<Elem NameU="Curve Head Rectangle" Name="Rettangolo con Estremità Curva"/>
+	<Elem NameU="Pointed Left Rectangle" Name="Rettangolo Puntato a Sinistra"/>
+	<Elem NameU="Flat Banner 1" Name="Banner Piatto 1"/>
+	<Elem NameU="Flat Banner 2" Name="Banner Piatto 2"/>
+	<Elem NameU="Rounded Right Rectangle" Name="Rettangolo Arrotondato a Destra"/>
+	<Elem NameU="Circle with Rectangle" Name="Cerchio con Rettangolo"/>
+	<Elem NameU="Irregular Shape" Name="Forma Irregolare"/>
+	<Elem NameU="Snip One Side Triangle" Name="Triangolo con Lato Tagliato"/>
+	<Elem NameU="Corner Shape" Name="Forma Angolata"/>
+	<Elem NameU="Curve Shape with Right Angle" Name="Forma Curva Angolata a Destra"/>
+	<Elem NameU="Snip One Side Rectangle" Name="Rettangolo con Lato Tagliato"/>
+	<Elem NameU="Irregular Rectangle" Name="Rettangolo Irregolare"/>
+	<Elem NameU="L Shape" Name="Forma a L"/>
+	<Elem NameU="Snip Diagonal Corner Rectangle" Name="Rettangolo con Angolo Diagonale Tagliato"/>
+	<Elem NameU="Regular Rhombus" Name="Rombo Regolare"/>
+	<Elem NameU="Badge" Name="Tessera"/>
+	<Elem NameU="4-Point Star" Name="Stella a 4 Punte"/>
+	<Elem NameU="Cloud with One Side Flat" Name="Nuvola con Lato Piatto"/>
+	<Elem NameU="Bar with Wavy Edge" Name="Barra con Bordi Ondulati"/>
+	<Elem NameU="Irregular Bar" Name="Barra Irregolare"/>
+	<Elem NameU="Chevron" Name="Parentesi Uncinata"/>
+	<Elem NameU="Chevron Group" Name="Gruppo Parentesi Uncinate"/>
+	<Elem NameU="6-Point Star - Hollow" Name="Stella a 6 Punte - Cava"/>
+	<Elem NameU="Special Shape" Name="Forma Speciale"/>
+	<Elem NameU="3 Rhombuses" Name="3 Rombi"/>
+	<Elem NameU="Stacked Pentagons" Name="Pentagoni Sovrapposti"/>
+	<Elem NameU="Stacked Squares" Name="Quadrati Sovrapposti"/>
+	<Elem NameU="Stacked Triangles" Name="Triangoli Sovrapposti"/>
+	<Elem NameU="Hollow Cloud" Name="Nuvola Cava"/>
+	<Elem NameU="Cloud" Name="Nuvola"/>
+	<Elem NameU="6-Point Star" Name="Stella a 6 Punte"/>
+	<Elem NameU="Flower 1" Name="Fiore 1"/>
+	<Elem NameU="Flower 2" Name="Fiore 2"/>
+	<Elem NameU="Flower 3" Name="Fiore 3"/>
+	<Elem NameU="Royal Style Block" Name="Blocco in Stile Regale"/>
+	<Elem NameU="5-Point Star" Name="Stella a 5 Punte"/>
+	<Elem NameU="5-Point Star with Circle" Name="Stella a 5 Punte con Cerchio"/>
+	<Elem NameU="4-Point Star with Circle" Name="Stella a 4 Punte con Cerchio"/>
+	<Elem NameU="Heart" Name="Cuore"/>
+	<Elem NameU="Teardrop" Name="Lacrima"/>
+	<Elem NameU="Hexagon with Triange" Name="Esagono con Triangolo"/>
+	<Elem NameU="Petals" Name="Petali"/>
+	<Elem NameU="Windmill" Name="Mulino"/>
+	<Elem NameU="Three Cicles" Name="Tre Cerchi"/>
+	<Elem NameU="Circular" Name="Circolare"/>
+	<Elem NameU="Four Sections Circle" Name="Cerchio con Quattro Sezioni"/>
+	<Elem NameU="Flower" Name="Fiore"/>
+	<Elem NameU="Trees" Name="Alberi"/>
+	<Elem NameU="Maple Leaf" Name="Foglia d'Acero"/>
+	<Elem NameU="Ginkgo Leaf" Name="Foglia di Ginko"/>
+	<Elem NameU="Leaf" Name="Foglia"/>
+	<Elem NameU="Location" Name="Luogo"/>
+	<Elem NameU="Chess" Name="Scacchi"/>
+	<Elem NameU="Jelly Fish" name="Medusa"/>
+	<Elem NameU="Incomplete Circle" Name="Cerchio Incompleto"/>
+	<Elem NameU="Puzzle" Name="Puzzle"/>
+	<Elem NameU="Tree" Name="Albero"/>
+	<Elem NameU="Hot-Air Balloon" Name="Mongolfiera"/>
+	<Elem NameU="Balloon" Name="Palloncino"/>
+	<Elem NameU="Chain" Name="Catena"/>
+	<Elem NameU="World" Name="Mondo"/>
+</Lib>

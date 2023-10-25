@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Column Chart">
+    <Elem NameU="Simple Column Chart" Name="簡單柱狀圖"/>
+    <Elem NameU="Column Chart" Name="柱狀圖"/>
+    <Elem NameU="Gradient Column Chart" Name="漸變色柱狀圖"/>
+    <Elem NameU="Single Series Column Chart 1" Name="單係列柱狀圖"/>
+    <Elem NameU="Single Series Column Chart 2" Name="單係列柱狀圖 2"/>
+    <Elem NameU="Single Series Column Chart 3" Name="單係列柱狀圖 3"/>
+    <Elem NameU="Single Series Column Chart 4" Name="單係列柱狀圖 4"/>
+    <Elem NameU="Clustered Column Chart 1" Name="簇狀柱形圖 1"/>
+    <Elem NameU="Clustered Column Chart 2" Name="簇狀柱形圖 2"/>
+    <Elem NameU="Clustered Column Chart 3" Name="簇狀柱形圖 3"/>
+    <Elem NameU="Stacked Column Chart 1" Name="簇狀柱形圖 1"/>
+    <Elem NameU="Stacked Column Chart 2" Name="簇狀柱形圖 2"/>
+    <Elem NameU="Stacked Column Chart 3" Name="簇狀柱形圖 3"/>
+    <Elem NameU="100% Stacked Column Chart 1" Name="百分比堆積柱形圖 1"/>
+    <Elem NameU="100% Stacked Column Chart 2" Name="百分比堆積柱形圖 2"/>
+    <Elem NameU="100% Stacked Column Chart 3" Name="百分比堆積柱形圖 3"/>
+    <Elem NameU="Gradient Single Column Chart" Name="漸變色單柱圖"/>
+</Lib>

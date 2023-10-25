@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LibNames Version="8.0">
+    <Library NameU="2D Block" Name="Простые блоки"/>
+    <Library NameU="2D Directional Maps" Name="Маршрутная карта"/>
+    <Library NameU="2D Landmarks" Name="Ориентиры"/>
+    <Library NameU="3D Block" Name="Трехмерные блоки"/>
+    <Library NameU="3D Directional Maps" Name="Трехмерная маршрутная карта"/>
+    <Library NameU="3D Landmarks" Name="Фигуры Трехмерная маршрутной карты"/>
+    <Library NameU="3D Network Diagram Shapes" Name="Трехмерная смема сети"/>
+    <Library NameU="AWS App Services" Name="AWS"/>
+    <Library NameU="AWS Compute and Networking" Name="AWS Расчет и сеть"/>
+    <Library NameU="AWS Database" Name="AWS База данных"/>
+    <Library NameU="AWS Deployment and Management" Name="AWS Конфигурационное управление"/>
+    <Library NameU="AWS Non-Service Specific" Name="AWS подпобная схема"/>
+    <Library NameU="AWS On-Demand Workforce" Name="AWS рабочая сила по потребности"/>
+    <Library NameU="AWS SDKs" Name="AWS SDKs"/>
+    <Library NameU="AWS Storage Content and Delivery" Name="AWS Хранение и передача"/>
+    <Library NameU="Active Directory" Name="Активный каталог"/>
+    <Library NameU="Active Directory Objects" Name="Объекты активного каталога"/>
+    <Library NameU="Africa" Name="Африка"/>
+    <Library NameU="Alarm and Access Control" Name="План охранных систем и контроля доступа"/>
+    <Library NameU="Analog and Digital Logic" Name="Аналоговые и цифровые логические компоненты"/>
+    <Library NameU="Android UI" Name="Android UI"/>
+    <Library NameU="Animal Cells" Name="Животные клетки"/>
+    <Library NameU="Head" Name="Животные"/>
+	<Library NameU="Sea Life" Name="Животные"/>
+	<Library NameU="Insect" Name="Животные"/>
+	<Library NameU="Terricole" Name="Животные"/>
+	<Library NameU="Animals" Name="Животные"/>
+    <Library NameU="Appliances" Name="Техники для дома"/>
+    <Library NameU="Architecture" Name="Архитектура"/>
+    <Library NameU="Arrow Connectors" Name="Фигурные стрелки"/>
+    <Library NameU="Arrow Shapes" Name="Фигуры стрелки"/>
+    <Library NameU="Asia" Name="Азия"/>
+    <Library NameU="Astronomy" Name="Астрономия"/>
+    <Library NameU="Athletic Ground" Name="Спортивная площадка"/>
+    <Library NameU="Audit Diagram Shapes" Name="Фигуры схемы аудита"/>
+    <Library NameU="Australia" Name="Австралия"/>
+    <Library NameU="BPMN-Shapes" Name="Нотация и модель бизнес-процессов"/>
+    <Library NameU="Backgrounds" Name="Фон"/>
+    <Library NameU="Ball and Stick Model" Name="Мяч и пряника модель"/>
+    <Library NameU="Bar" Name="Горизонтальная столбчатая диаграмма"/>
+    <Library NameU="Basic Drawing Shapes" Name="Простые фигуры"/>
+    <Library NameU="Basic Electrical Symbols" Name="Принципиальная электротехническая система"/>
+    <Library NameU="Basic Flowchart Shapes" Name="Простая блок-схема"/>
+    <Library NameU="Bathroom" Name="Ванная"/>
+    <Library NameU="Bedroom" Name="Спальня"/>
+    <Library NameU="Birthday" Name="День рождения"/>
+    <Library NameU="Booch OOD" Name="Booch OOD"/>
+    <Library NameU="Borders" Name="Границы"/>
+    <Library NameU="Brainstorming" Name="Схема мозгового штурма"/>
+    <Library NameU="Bubble Shapes" Name="Пузырьковая диаграмма"/>
+    <Library NameU="Building Core" Name="Структурные элементы"/>
+    <Library NameU="Business" Name="Бизнес"/>
+    <Library NameU="Business - Flat" Name="Бизнес - плоский"/>
+    <Library NameU="Business Card Templates" Name="Шаблоны визитной карточки"/>
+    <Library NameU="Business Card Text" Name="Тексты визитной карточки"/>
+    <Library NameU="Business Scene" Name="Бизнес-сцены"/>
+    <Library NameU="CCTV Equipment" Name="CCTV оборудование"/>
+    <Library NameU="COM and OLE" Name="COM и OLE"/>
+    <Library NameU="Cabinets and Bookcases" Name="Шкафы"/>
+    <Library NameU="Calendar" Name="Календарь"/>
+    <Library NameU="Callouts" Name="Примечания"/>
+    <Library NameU="Canada" Name="Канада"/>
+    <Library NameU="Carnival" Name="Карнавал"/>
+    <Library NameU="Carpet" Name="Ковер"/>
+    <Library NameU="Cause and Effect Diagram" Name="Схема причинно-следственных связей"/>
+    <Library NameU="Certificate" Name="Сертификаты"/>
+    <Library NameU="Chemical Equation" Name="Химическое уравнение"/>
+    <Library NameU="Chen ERD" Name="Chen ERD"/>
+    <Library NameU="Child Dress" Name="Деская одежда"/>
+    <Library NameU="Children's Day" Name="Международный день защиты детей"/>
+    <Library NameU="Christmas" Name="Рождество"/>
+    <Library NameU="Circular Charting Shapes" Name="Круговая диаграмма"/>
+    <Library NameU="Cisco Basic" Name="Cisco принципиальная схема сети"/>
+    <Library NameU="Cisco Buildings" Name="Cisco Строительство"/>
+    <Library NameU="Cisco IBM Products" Name="Cisco IBM Продукты"/>
+    <Library NameU="Cisco LAN" Name="Cisco LAN"/>
+    <Library NameU="Cisco Miscellaneous" Name="Cisco Другое"/>
+    <Library NameU="Cisco People" Name="Cisco Люди"/>
+    <Library NameU="Cisco Products 1" Name="Cisco Продукт 1"/>
+    <Library NameU="Cisco Products 2" Name="Cisco Продукт 2"/>
+    <Library NameU="Cisco Routers" Name="Cisco маршрутизаторы"/>
+    <Library NameU="Cisco Switches" Name="Cisco переключатели"/>
+    <Library NameU="Cisco WAN" Name="Cisco WAN"/>
+    <Library NameU="Cisio Media" Name="Cisco СМИ"/>
+    <Library NameU="Column" Name="Колонка"/>
+    <Library NameU="Common Shapes" Name="Общие"/>
+    <Library NameU="Comparison Chart" Name="Диаграмма сравнения"/>
+    <Library NameU="Comparison Indicators" Name="Сравнительный индикатор"/>
+    <Library NameU="Composite Assemblies" Name="Комплексные блоки"/>
+    <Library NameU="Computers and Monitors" Name="Компьютеры и мониторы"/>
+    <Library NameU="Concept Map" Name="Концептуальная схема"/>
+    <Library NameU="Conceptual Website Shapes" Name="Концептуальная схема вед-сайта"/>
+    <Library NameU="Connectors" Name="Соединители"/>
+    <Library NameU="Cross Functional Flowchart" Name="Кросс-функциональная блок-схема"/>
+    <Library NameU="Custom Organization Chart" Name="Пользовательская организационная диаграмма"/>
+    <Library NameU="Custom Timeline" Name="Временная шкала"/>
+	<Library NameU="Data Flow" Name="Схема потоков данных"/>
+    <Library NameU="Data Flow Diagram Shapes" Name="Схема потоков данных"/>
+    <Library NameU="Data Flow Model Diagram" Name="Схема модели потоков данных"/>
+    <Library NameU="Decision Tree" Name="Дерево решения"/>
+    <Library NameU="Detailed Network Diagram" Name="Подробная схема сети"/>
+    <Library NameU="Digital Products" Name="Цифровая продукция"/>
+    <Library NameU="Dimensioning" Name="Размеры"/>
+    <Library NameU="Dining Room (Elevation)" Name="Столовая (Высота)"/>
+    <Library NameU="EPC Diagram Shapes" Name="Схема EPC"/>
+    <Library NameU="Easter" Name="Пасха"/>
+    <Library NameU="Education" Name="Образование"/>
+    <Library NameU="Electrical Audio" Name="Электро аудио"/>
+    <Library NameU="Electrical Instruments" Name="Электрические инструменты"/>
+    <Library NameU="Electrical and Telecom" Name="Схема электрических и телекоммуникационных соединений"/>
+    <Library NameU="Elevations" Name="Схема возвышенности"/>
+    <Library NameU="Enterprise Application" Name="Корпоративное приложение"/>
+    <Library NameU="Entity Relationship" Name="Отношения"/>
+    <Library NameU="Environment" Name="Обстоятельство"/>
+    <Library NameU="equipment-Centrifuges" Name="Оборудование-Центрифуги"/>
+    <Library NameU="equipment-Compressors" Name="Оборудование-Компрессоры"/>
+    <Library NameU="equipment-Crushers" Name="Оборудование-Измельчители"/>
+    <Library NameU="equipment-Dryers" Name="Оборудование-Сушилки"/>
+    <Library NameU="equipment-Filters" Name="Оборудование-Фильтры"/>
+    <Library NameU="equipment-General" Name="Оборудование-Общие"/>
+    <Library NameU="equipment-Heat Exchanges" Name="Оборудование-теплообмена"/>
+    <Library NameU="equipment-Instruments" Name="Оборудование-Инструменты"/>
+    <Library NameU="equipment-Mixers" Name="Оборудование-Смесители"/>
+    <Library NameU="equipment-Motors" Name="Оборудование-Двигатели"/>
+    <Library NameU="equipment-Peripheral" Name="Оборудование-Периферийное"/>
+    <Library NameU="equipment-Pumps" Name="Оборудование-Насосы"/>
+    <Library NameU="equipment-Stream Flag" Name="Оборудование-поток Флага"/>
+    <Library NameU="equipment-Valves" Name="Оборудование-вентили"/>
+    <Library NameU="equipment-Vessels" Name="Оборудование-Сосуды"/>
+    <Library NameU="Europe" Name="Европа"/>
+    <Library NameU="Event Flow Diagram" Name="Схема Событий"/>
+    <Library NameU="Exchange Objects" Name="Объекты обмена"/>
+    <Library NameU="Express-G" Name="Express-G"/>
+    <Library NameU="Family Tree" Name="Дерево семьи"/>	
+    <Library NameU="Fault Tree Analysis Shapes" Name="Фигуры дерева ошибка"/>
+	<Library NameU="Father's Day" Name="день отца"/>
+    <Library NameU="Finance" Name="Экономика"/>
+    <Library NameU="Fire and Emergency" Name="Пожар и чрезвычайная ситуация"/>
+    <Library NameU="Five Forces Shapes" Name="Пять сил портера"/>
+    <Library NameU="Flags" Name="Флаг"/>
+    <Library NameU="Food" Name="Еда"/>
+    <Library NameU="Forms" Name="Диаграмма"/>
+    <Library NameU="Fruit" Name="Фрукты"/>
+    <Library NameU="Gantt" Name="Диаграмма Ганта"/>
+    <Library NameU="Garden" Name="Сад"/>
+    <Library NameU="Gauges" Name="Измерительная диаграмма"/>
+    <Library NameU="Gift Voucher" Name="Купон"/>
+    <Library NameU="Girl Dress 1" Name="Женская одежда 1"/>
+    <Library NameU="Girl Dress 2" Name="Женская одежда 2"/>
+    <Library NameU="Girl Dress 3" Name="Женская одежда 3"/>
+    <Library NameU="Girl Dress 4" Name="Женская одежда 4"/>
+    <Library NameU="Girl Dress 5" Name="Женская одежда 5"/>
+    <Library NameU="Girl Dress 6" Name="Женская одежда 6"/>
+    <Library NameU="Girl Dress 7" Name="Женская одежда 7"/>
+    <Library NameU="Girl Dress 8" Name="Женская одежда 8"/>
+    <Library NameU="Greek Letter" Name="Греческое письмо"/>
+    <Library NameU="Guestures" Name="Жесты"/>
+    <Library NameU="HOQ and QFD" Name="HOQ и QFD"/>
+    <Library NameU="HVAC Controls" Name="План отопления, вентиляции и кондиционирования"/>
+    <Library NameU="HVAC Controls Equipment" Name="Оборудование плана отопления, вентиляции и кондиционирования"/>
+    <Library NameU="HVAC Ductwork" Name="Провод плана отопления, вентиляции и кондиционирования"/>
+    <Library NameU="HVAC Equipment" Name="Оборудование плана отопления, вентиляции и кондиционирования"/>
+    <Library NameU="Half-length" Name="Половина-высота"/>
+    <Library NameU="Halloween" Name="День всех святых"/>
+    <Library NameU="Highlight Flowchart Shapes" Name="Глянцевая диаграмма"/>
+    <Library NameU="Highlight Shapes" Name="Глянцевые фигуры"/>
+    <Library NameU="Human Organs" Name="Органы человека"/>
+    <Library NameU="IDEF0 Diagram Shapes" Name="IDEF0 Фигуры диаграммы"/>
+    <Library NameU="IDEF2 Diagram Shapes" Name="IDEF2 фигуры диаграммы"/>
+    <Library NameU="IOS 6 UI" Name="IOS 6 UI"/>
+    <Library NameU="IOS 7 UI" Name="IOS 7 UI"/>
+    <Library NameU="IOS 8 UI" Name="IOS 8 UI"/>
+    <Library NameU="Icons" Name="Иконки"/>
+    <Library NameU="Infographic Charts" Name="Информационная диаграмма"/>
+    <Library NameU="Initiation and Annunciation" Name="Инцинирование и оповещение"/>
+    <Library NameU="Integrated Circuit Components" Name="Компоненты интегральных микросхем"/>
+    <Library NameU="Jackson" Name="Jackson"/>
+    <Library NameU="Jacobson Use Case" Name="Jacobson Примеры использования"/>
+    <Library NameU="Kitchen (Elevation)" Name="Кухня(фасад)"/>
+    <Library NameU="Kitchen and Dining Room" Name="Кухня и столовая"/>
+    <Library NameU="LDAP Objects" Name="LDAP Объекты"/>
+    <Library NameU="Laboratory Equipment" Name="Лабораторное оборудование"/>
+    <Library NameU="Language Level Shapes" Name="Схема уровени языка"/>
+    <Library NameU="Lighting" Name="Осветительное устройство"/>
+    <Library NameU="Lighting and Handbag (Elevation)" Name="Освещение и сумки(фасад)"/>
+    <Library NameU="Line and Area" Name="Линейная диаграмма и диаграмма-области"/>
+    <Library NameU="List Shapes" Name="Фигуры списка"/>
+    <Library NameU="Maintenance Symbol" Name="Символы обслуживания"/>
+    <Library NameU="Man Suit" Name="Мужской костюм"/>
+    <Library NameU="Map Vehicles" Name="Транспортные средства"/>
+    <Library NameU="Maps and Charts" Name="Карты и диаграммы"/>
+	<Library NameU="Mark" Name="отметить"/>
+    <Library NameU="Marketing Diagrams" Name="Схемы и диаграммы маркетинга"/>
+    <Library NameU="Marketing Shapes" Name="фигуры схемы маркетинга"/>
+    <Library NameU="Martin ERD" Name="Martin ERD"/>
+    <Library NameU="Mathematical Symbol" Name="Математический символ"/>
+    <Library NameU="Matrix" Name="Матрица"/>
+    <Library NameU="Mechanics" Name="Механика"/>
+    <Library NameU="Medical" Name="Медик"/>
+    <Library NameU="Memory Objects" Name="Объекты памяти"/>
+    <Library NameU="Mind Map Shapes" Name="Карты мыслей"/>
+    <Library NameU="Miscellaneous Flowchart Shapes" Name="Разнообразные фигуры блок-схем"/>
+    <Library NameU="Models" Name="Модели"/>
+    <Library NameU="Molecular Model" Name="Молекулярная модель"/>
+    <Library NameU="Money" Name="Деньги"/>
+    <Library NameU="Music" Name="Музыка"/>
+    <Library NameU="Nassi-Shneiderman" Name="Диаграммы Насси - Шнейдермана"/>
+    <Library NameU="Network Locations" Name="Местонахождение интернета"/>
+    <Library NameU="Network Symbols" Name="Схема интернета"/>
+    <Library NameU="Network and Peripherals" Name="Сеть и периферия"/>
+    <Library NameU="New Year" Name="Новый год"/>
+    <Library NameU="News" Name="Новости"/>
+    <Library NameU="ORM Diagram" Name="ORM Диаграмма"/>
+    <Library NameU="Object Relationship" Name="Схема объекта отношения"/>
+    <Library NameU="Office" Name="Офис"/>
+    <Library NameU="Office Equipment" Name="Офисное оборудование"/>
+    <Library NameU="Office Furniture" Name="Офисная мебель"/>
+    <Library NameU="Optical Symbols" Name="Оптические символы"/>
+    <Library NameU="Optics" Name="Оптика"/>
+    <Library NameU="Organization Chart Shapes" Name="Организационная диаграмма"/>
+    <Library NameU="PERT Chart Shapes" Name="PERT диаграмма"/>
+    <Library NameU="PEST" Name="PEST"/>
+	<Library NameU="Building" Name="Cтроительство"/>
+    <Library NameU="PID Blowers" Name="PID воздуходувки"/>
+    <Library NameU="PID Boilers" Name="PID котлы"/>
+    <Library NameU="PID Buildings" Name="PID строительство"/>
+    <Library NameU="PID Chemistry" Name="PID химия"/>
+    <Library NameU="PID Computer Keys" Name="PID компьютерные клавиатуры"/>
+    <Library NameU="PID Containers" Name="PID Контейнеры"/>
+    <Library NameU="PID Ductwork" Name="PID Воздуховод"/>
+    <Library NameU="PID Flow Meters" Name="PID Расходомеры"/>
+    <Library NameU="PID Food Processing" Name="PID Переработка пищевых продуктов"/>
+    <Library NameU="PID HVAC" Name="PID HVAC"/>
+    <Library NameU="PID Heaters" Name="PID обогреватель"/>
+    <Library NameU="PID Industry" Name="PID промышленность"/>
+    <Library NameU="PID Lights" Name="PID лампы"/>
+    <Library NameU="PID Logistics" Name="PID логистика"/>
+    <Library NameU="PID Machines" Name="PID машина"/>
+    <Library NameU="PID Material Handling" Name="PID погрузка материалов"/>
+    <Library NameU="PID Meters" Name="PID метры"/>
+    <Library NameU="PID Mixers" Name="PID миксеры"/>
+    <Library NameU="PID Motors" Name="PID моторы"/>
+    <Library NameU="PID Plant Facilities" Name="PID мощности завода"/>
+    <Library NameU="PID Power" Name="PID питание"/>
+    <Library NameU="PID Process Cooling" Name="PID Процесс охлаждения"/>
+    <Library NameU="PID Process Heating" Name="PID Процесс нагревания"/>
+    <Library NameU="PID Pumps" Name="PID Помпы"/>
+    <Library NameU="PID Push Buttons" Name="PID Кнопки толчка"/>
+    <Library NameU="PID Safety" Name="PID Безопасность"/>
+    <Library NameU="PID Tanks" Name="PID Танки"/>
+    <Library NameU="PID Valves" Name="PID Клапаны"/>
+    <Library NameU="PID Valves Symbols" Name="PID Символы Клапан"/>
+    <Library NameU="PID Wastewater Treatment" Name="PID Канализационная очистка "/>
+    <Library NameU="PID Wires and Cables" Name="PID провода и кабели"/>
+    <Library NameU="People" Name="Люди"/>
+    <Library NameU="People - Flat" Name="Люди - плоский"/>
+    <Library NameU="People Outline" Name="Наброски людей"/>
+    <Library NameU="Peripheral Equipment" Name="Периферийное оборудование"/>
+    <Library NameU="Pie and Doughnut" Name="Круговая и кольцевая диаграмма"/>
+    <Library NameU="Piping and Connection Shapes" Name="Трубы"/>
+    <Library NameU="Plant Cell" Name="Растительные клетки"/>
+    <Library NameU="Plants" Name="Растения"/>
+    <Library NameU="Plumbing" Name="Схема водопровода"/>
+    <Library NameU="Presentation Symbols" Name="Фигуры презентации"/>
+    <Library NameU="Process Shapes" Name="Фигуры схемы процесса"/>
+    <Library NameU="Professions" Name="Профессия"/>
+    <Library NameU="Program Flowchart" Name="Структора программы"/>
+    <Library NameU="Pyramid Chart" Name="Пирамидальные фигуры"/>
+    <Library NameU="Qualifying Symbols" Name="Описательные символы"/>
+    <Library NameU="ROOM" Name="ROOM"/>
+    <Library NameU="Rack Equipment" Name="Оборудование стеллажа"/>
+    <Library NameU="Registers Grills and Diffusers" Name="Регистры Грили и диффузоры"/>
+    <Library NameU="Relationship" Name="Отношение"/>
+    <Library NameU="Relationship Matrix" Name="Матрица отношения"/>
+    <Library NameU="Religion" Name="Религия"/>
+    <Library NameU="Resistors and Capacitors" Name="Резисторы и конденсаторы"/>
+    <Library NameU="Road Signs" Name="Дорожный знак"/>
+    <Library NameU="Rotating Equip and Mech Functions" Name="Функции Вращающегося снарядитя и мехов"/>
+    <Library NameU="SDL Diagram" Name="SDL диаграмма"/>
+    <Library NameU="SSADM" Name="SSADM"/>
+    <Library NameU="Scatter and Bubble" Name="Диаграммы рассеяния и пузырьковая диаграмма"/>
+    <Library NameU="School" Name="Школа"/>
+    <Library NameU="Semiconductor Devices" Name="Полупроводниковые приборы"/>
+    <Library NameU="Servers" Name="Серверы"/>
+    <Library NameU="Shlaer-Mellor OOA" Name="Шлар-Меллор ООА"/>
+    <Library NameU="Six Sigma" Name="Схема Шесть сигм"/>
+    <Library NameU="Sofas" Name="Диван"/>
+    <Library NameU="Source and Battery" Name="Источник и батарея"/>
+    <Library NameU="South America" Name="Южная Африка"/>
+    <Library NameU="Spider" Name="Лепестковая диаграмма"/>
+    <Library NameU="Status Table" Name="Таблица состояния"/>
+    <Library NameU="Subway" Name="Метро"/>
+    <Library NameU="Switches and Relays" Name="Переключатели и реле"/>
+    <Library NameU="Symbols" Name="Символы"/>
+    <Library NameU="TQM Diagram Shapes" Name="Фигуры схемы управления качеством"/>
+    <Library NameU="Tables and Chairs" Name="Стол и стул"/>
+    <Library NameU="Technology" Name="Технология"/>
+    <Library NameU="Technology - Flat" Name="Технология - плоская"/>
+    <Library NameU="Telecom Switch and Peripheral Equip" Name="Телекоммуникационное переключательное и периферийное оборудование"/>
+    <Library NameU="Terminals and Connectors" Name="Контакты и разъемы"/>
+	<Library NameU="Text" Name="Текстовое"/>
+    <Library NameU="Text Box" Name="Текстовое окно"/>
+	<Library NameU="Thanksgiving Day" Name="день благодарения"/>
+    <Library NameU="Timeline" Name="Временная шкала"/>
+    <Library NameU="Titles" Name="Название"/>
+    <Library NameU="Touch Gesture" Name="Жест сенсорный"/>
+    <Library NameU="Tourism" Name="Туризм"/>
+    <Library NameU="Transformers and Windings" Name="Трансформаторы и Обмотки"/>
+    <Library NameU="Transmission Path" Name="Линии передачи"/>
+    <Library NameU="Transportation" Name="Транспорт"/>
+    <Library NameU="UML Activity Diagram" Name="Деятельсность UML"/>
+    <Library NameU="UML Class Diagram" Name="Тепология UML"/>
+    <Library NameU="UML Collaboration Diagram" Name="Взаимодействия UML"/>
+    <Library NameU="UML Component Diagram" Name="Компоненты UML"/>
+    <Library NameU="UML Deployment Diagram" Name="Статическая структура UML"/>
+    <Library NameU="UML Sequence Diagram" Name="Последовательности UML"/>
+    <Library NameU="UML Statechart Diagram" Name="Схема состояний UML"/>
+    <Library NameU="UML Use Case Diagram" Name="Сценарий выполнения UML"/>
+    <Library NameU="USA" Name="США"/>
+    <Library NameU="VHF-UHF-SHF" Name="VHF-UHF-SHF"/>
+    <Library NameU="Valentine's Day" Name="День Святого Валентина"/>
+    <Library NameU="Value Chain" Name="Цепочка ценностей"/>
+    <Library NameU="Value Stream Map Shapes" Name="Схема потока создания стоимости"/>
+    <Library NameU="Vector Icons" Name="Иконки векторные"/>
+    <Library NameU="Vehicles" Name="Транспортные средства"/>
+    <Library NameU="Venn Shapes" Name="Диаграмма венна"/>
+    <Library NameU="Video Surveillance" Name="Видеонаблюдение"/>
+    <Library NameU="Video and Audio Ports" Name="Разъемы аудио и видео"/>
+    <Library NameU="WBS Shapes" Name="WBS Фигура"/>
+    <Library NameU="Wall, Shell and Structure" Name="Стена,Оболочка и конструкция"/>
+    <Library NameU="Wall, Door, Window and Structure" Name="Стена,дверь,окно и конструкция"/>
+    <Library NameU="Wardrobe" Name="Гардероб"/>
+    <Library NameU="Weather" Name="Погода"/>
+    <Library NameU="Web Site Map Shapes" Name="Схема вед-сайтов"/>
+    <Library NameU="Windows and Doors (Elevation)" Name="Окна и поввроты(фасад)"/>
+	<Library NameU="Doors and Windows" Name="поввроты и Окна"/>
+    <Library NameU="Windows7  UI" Name="Windows7 UI"/>
+    <Library NameU="Wireframe" Name="Проволочная диаграмма"/>
+    <Library NameU="WorkFlow Department" Name="Департамент потока работы"/>
+    <Library NameU="WorkFlow Objects" Name="Объекты потока работы"/>
+    <Library NameU="WorkFlow Steps" Name="Шаги потока работы"/>
+    <Library NameU="Yourdon and Coad" Name="Yourdon и Coad"/>
+    <Library NameU="iPad UI" Name="iPad UI"/>
+	<Library NameU="General" Name="Общее"/>
+	<Library NameU="Card" Name="Карта"/>
+	<Library NameU="Chart" Name="Диаграмма"/>
+	<Library NameU="Map Pointers" Name="Указатели карты"/>
+	<Library NameU="World Map" Name="Карта мира"/>
+	<Library NameU="Lines" Name="Линии"/>
+	<Library NameU="Fashion" Name="Мода"/>
+	<Library NameU="Basic Charts" Name="Базовые схемы"/>
+	<Library NameU="Users" Name="Users"/>
+	<Library NameU="Holiday Cards" Name="节日卡片"/>
+	<Library NameU="Design" Name="设计"/>
+	<Library NameU="Business Flat Icons" Name="面性扁平风商业图标"/>
+	<Library NameU="Business Outline Icons" Name="线性简约商业图标"/>
+	<Library NameU="Business Two Color Icons" Name="拼色商务办公图标"/>
+	<Library NameU="Daily Life Flat Icons" Name="面性扁平风日常生活图标"/>
+	<Library NameU="Daily Life Outline Icons" Name="线性简约日常生活图标"/>
+	<Library NameU="Education Flat Icons" Name="面性扁平风教育图标"/>
+	<Library NameU="Education Outline Icons" Name="线性简约教育图标"/>
+	<Library NameU="Medical Flat Icons" Name="面性扁平风医学图标"/>
+	<Library NameU="Medical Outline Icons" Name="线性简约医学图标"/>
+	<Library NameU="Social Media Flat Icons" Name="面性扁平风社交媒体图标"/>
+	<Library NameU="Social Media Colorful Icons" Name="多彩社交媒体图标"/>
+	<Library NameU="Users Outline Icons" Name="线性简约用户图标"/>
+	<Library NameU="Users Flat Icons" Name="面性扁平风用户图标"/>
+	<Library NameU="Roadmap" Name="路线图"/>
+	<Library NameU="Facial Expression" Name="表情符号"/>
+	<Library NameU="Cloud Service" Name="Cloud Service"/>
+	<Library NameU="PPT Illustration" Name="PPT插画"/>
+	<Library NameU="Org Chart(Automated)" Name="Организационная диаграмма (автоматическая)"/>
+	<Library NameU="Org Chart(Manual)" Name="Организационная диаграмма (руководство)"/>
+</LibNames>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Ductwork">
+    <Elem NameU="Straight duct" Name="직선 덕트"/>
+    <Elem NameU="Straight duct 2" Name="직선 덕트 2"/>
+    <Elem NameU="Miter bend 1" Name="연귀 만곡부 1"/>
+    <Elem NameU="Miter bend 2" Name="연귀 만곡부 2"/>
+    <Elem NameU="Miter bend 3" Name="연귀 만곡부 3"/>
+    <Elem NameU="Miter bend 4" Name="연귀 만곡부 4"/>
+    <Elem NameU="Junction up" Name="접합 위"/>
+    <Elem NameU="Junction bottom" Name="접합 아래"/>
+    <Elem NameU="Cross" Name="크로스"/>
+    <Elem NameU="Beveled junction" Name="경사 접합"/>
+    <Elem NameU="3 way junction" Name="3방향 접합"/>
+    <Elem NameU="Y junction" Name="Y형 접합"/>
+    <Elem NameU="Transition" Name="전환"/>
+    <Elem NameU="Transition 2" Name="전환 2"/>
+    <Elem NameU="Transition 3" Name="전환 3"/>
+    <Elem NameU="Transition 4" Name="전환 4"/>
+    <Elem NameU="Transition 5" Name="전환 5"/>
+</Lib>

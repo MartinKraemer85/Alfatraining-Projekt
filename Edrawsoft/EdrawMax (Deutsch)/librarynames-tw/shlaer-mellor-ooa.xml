@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Shlaer-Mellor OOA">
+    <Elem NameU="Class Box" Name="類盒"/>
+    <Elem NameU="Small Class Box" Name="小型類盒"/>
+    <Elem NameU="Published Operation" Name="發佈操作"/>
+    <Elem NameU="Defering Operation" Name="延遲操作"/>
+    <Elem NameU="Logical Component" Name="邏輯組件"/>
+    <Elem NameU="Conditional Parameter" Name="條件參數"/>
+    <Elem NameU="Basis Marker" Name="基本標誌"/>
+    <Elem NameU="Exception" Name="異常"/>
+    <Elem NameU="Exception Handler" Name="異常處理"/>
+    <Elem NameU="Parameter List" Name="參數列表"/>
+    <Elem NameU="Module" Name="模塊"/>
+    <Elem NameU="Instance Data" Name="實例資料"/>
+    <Elem NameU="Foreign Module" Name="外部模塊"/>
+</Lib>

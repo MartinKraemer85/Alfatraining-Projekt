@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Flags">
+    <Elem NameU="Afghanistan" Name="아프가니스탄"/>
+    <Elem NameU="Albania" Name="알바니아"/>
+    <Elem NameU="Algeria" Name="알제리"/>
+    <Elem NameU="Andorra" Name="안도라"/>
+    <Elem NameU="Angola" Name="앙골라"/>
+    <Elem NameU="Argentina" Name="아르헨티나"/>
+    <Elem NameU="Armenia" Name="아르메니아"/>
+    <Elem NameU="Australia" Name="호주"/>
+    <Elem NameU="Austria" Name="오스트리아"/>
+    <Elem NameU="Azerbaijan" Name="아제르바이잔"/>
+    <Elem NameU="Bahamas" Name="바하마"/>
+    <Elem NameU="Bahrain" Name="바레인"/>
+    <Elem NameU="Bangladesh" Name="방글라데시"/>
+    <Elem NameU="Barbados" Name="바베이도스"/>
+    <Elem NameU="Belarus" Name="벨라루스"/>
+    <Elem NameU="Belgium" Name="벨기에"/>
+    <Elem NameU="Benin" Name="베냉"/>
+    <Elem NameU="Bolivia" Name="볼리비아"/>
+    <Elem NameU="Bosnia-Herzegovina" Name="보스니아-헤르체고비나"/>
+    <Elem NameU="Botswana" Name="보츠와나"/>
+    <Elem NameU="Brazil" Name="브라질"/>
+    <Elem NameU="Bulgaria" Name="불가리아"/>
+    <Elem NameU="Burkina Faso" Name="부키나파소"/>
+    <Elem NameU="Burundi" Name="부룬디"/>
+    <Elem NameU="Cameroon" Name="카메룬"/>
+    <Elem NameU="Canada" Name="캐나다"/>
+    <Elem NameU="Central Africa" Name="아프리카 중부"/>
+    <Elem NameU="Chad" Name="차드"/>
+    <Elem NameU="Chile" Name="칠리"/>
+    <Elem NameU="China" Name="중국"/>
+    <Elem NameU="Colombia" Name="콜롬비아"/>
+    <Elem NameU="Congo" Name="Congo"/>
+    <Elem NameU="Costa Rica" Name="코스타리카"/>
+    <Elem NameU="Croatia" Name="크로아티아"/>
+    <Elem NameU="Cuba" Name="쿠바"/>
+    <Elem NameU="Cyprus" Name="키프로스"/>
+    <Elem NameU="Czech Republic" Name="체코 공화국"/>
+    <Elem NameU="Denmark" Name="덴마크"/>
+    <Elem NameU="Djibouti" Name="지부티"/>
+    <Elem NameU="Dominican Republic" Name="도미니카 공화국"/>
+    <Elem NameU="Ecuador" Name="에콰도르"/>
+    <Elem NameU="El Salvador" Name="엘살바도르"/>
+    <Elem NameU="Equatorial guinea" Name="적도 기니"/>
+    <Elem NameU="Egypt" Name="이집트"/>
+    <Elem NameU="Eritrea" Name="에리트레아"/>
+    <Elem NameU="Estonia" Name="에스토니아"/>
+    <Elem NameU="Ethiopia" Name="Ethiopia"/>
+    <Elem NameU="European-Union" Name="유럽 ​​연합"/>
+    <Elem NameU="Finland" Name="핀란드"/>
+    <Elem NameU="France" Name="프랑스"/>
+    <Elem NameU="Gabon" Name="가봉"/>
+    <Elem NameU="Gambia" Name="감비아"/>
+    <Elem NameU="Georgia" Name="그루지야"/>
+    <Elem NameU="Germany" Name="독일"/>
+    <Elem NameU="Ghana" Name="가나"/>
+    <Elem NameU="Greece" Name="그리스"/>
+    <Elem NameU="Greenland" Name="그린란드"/>
+    <Elem NameU="Guatemala" Name="과테말라"/>
+    <Elem NameU="Guinea" Name="기니"/>
+    <Elem NameU="Guinea-Bissau" Name="기니 비사우"/>
+    <Elem NameU="Guyana" Name="Guyana"/>
+    <Elem NameU="Haiti" Name="아이티"/>
+    <Elem NameU="Honduras" Name="온두라스"/>
+    <Elem NameU="Hong Kong" Name="홍콩"/>
+    <Elem NameU="Hungary" Name="헝가리"/>
+    <Elem NameU="Iceland" Name="아이슬란드"/>
+    <Elem NameU="India" Name="인도"/>
+    <Elem NameU="Indonesia" Name="인도네시아"/>
+    <Elem NameU="Iran" Name="이란"/>
+    <Elem NameU="Iraq" Name="이라크"/>
+    <Elem NameU="Ireland" Name="아일랜드"/>
+    <Elem NameU="Israel" Name="이스라엘"/>
+    <Elem NameU="Italy" Name="이탈리아"/>
+    <Elem NameU="Jamaica" Name="자메이카"/>
+    <Elem NameU="Japan" Name="일본"/>
+    <Elem NameU="Jordan" Name="요르단"/>
+    <Elem NameU="Kazakhstan" Name="카자흐스탄"/>
+    <Elem NameU="Kenya" Name="케냐"/>
+    <Elem NameU="Kuwait" Name="쿠웨이트"/>
+    <Elem NameU="Kyrgayzstan" Name="키르기스스탄"/>
+    <Elem NameU="Laos" Name="라오스"/>
+    <Elem NameU="Latvia" Name="라트비아"/>
+    <Elem NameU="Lebanon" Name="레바논"/>
+    <Elem NameU="Lebowa" Name="레보와"/>
+    <Elem NameU="Lesotho" Name="레소토"/>
+    <Elem NameU="Liberia" Name="라이베리아"/>
+    <Elem NameU="Libya" Name="리비아"/>
+    <Elem NameU="Liechtenstein" Name="리히텐슈타인"/>
+    <Elem NameU="Lithuania" Name="리투아니아"/>
+    <Elem NameU="Luxembourg" Name="룩셈부르크"/>
+    <Elem NameU="Madagascar" Name="마다가스카르"/>
+    <Elem NameU="Malawi" Name="말라위"/>
+    <Elem NameU="Malaysia" Name="말레이시아"/>
+    <Elem NameU="Mali" Name="말리"/>
+    <Elem NameU="Mauritania" Name="모리타니"/>
+    <Elem NameU="Macedonia" Name="마케도니아"/>
+    <Elem NameU="Mexico" Name="멕시코"/>
+    <Elem NameU="Moldova" Name="몰다비아"/>
+    <Elem NameU="Monaco" Name="모나코"/>
+    <Elem NameU="Mongolia" Name="몽골리아"/>
+    <Elem NameU="Morocco" Name="모로코"/>
+    <Elem NameU="Mozambique" Name="모잠비크"/>
+    <Elem NameU="Namibia" Name="나미비아"/>
+    <Elem NameU="Nepal" Name="네팔"/>
+    <Elem NameU="Netherlands" Name="네덜란드"/>
+    <Elem NameU="New Zealand" Name="뉴질랜드"/>
+    <Elem NameU="Nicaragua" Name="니카라과"/>
+    <Elem NameU="Niger" Name="니제르"/>
+    <Elem NameU="Nigeria" Name="나이지리아"/>
+    <Elem NameU="North Korea" Name="북한"/>
+    <Elem NameU="Norway" Name="노르웨이"/>
+    <Elem NameU="Oman" Name="오만"/>
+    <Elem NameU="Pakistan" Name="파키스탄"/>
+    <Elem NameU="Palestine" Name="팔레스타인"/>
+    <Elem NameU="Panama" Name="파나마"/>
+    <Elem NameU="Papua New Cuinea" Name="파푸아뉴퀴니"/>
+    <Elem NameU="Paraguay" Name="파라과이"/>
+    <Elem NameU="Peru" Name="페루"/>
+    <Elem NameU="Philippines" Name="필리핀"/>
+    <Elem NameU="Poland" Name="폴란드"/>
+    <Elem NameU="Portugal" Name="포르투갈"/>
+    <Elem NameU="Puerto-Rico" Name="푸에르토 리코"/>
+    <Elem NameU="Qatar" Name="카타르"/>
+    <Elem NameU="Romania" Name="루마니아"/>
+    <Elem NameU="Russia" Name="러시아"/>
+    <Elem NameU="Rwanda" Name="르완다"/>
+    <Elem NameU="Saudi Arabia" Name="사우디 아라비아"/>
+    <Elem NameU="Senegal" Name="세네갈"/>
+    <Elem NameU="Serbia" Name="세르비아"/>
+    <Elem NameU="Sierra Leone" Name="시에라 리온"/>
+    <Elem NameU="Singapore" Name="싱가폴"/>
+    <Elem NameU="Slovakia" Name="슬로바키아"/>
+    <Elem NameU="Slovenia" Name="슬로베니아"/>
+    <Elem NameU="Somalia" Name="소말리아"/>
+    <Elem NameU="South Africa" Name="남아프리카"/>
+    <Elem NameU="South Korea" Name="한국"/>
+    <Elem NameU="Spain" Name="스페인"/>
+    <Elem NameU="Sri Lanka" Name="스리랑카"/>
+    <Elem NameU="Sudan" Name="수단"/>
+    <Elem NameU="Swaziland" Name="스와질란드"/>
+    <Elem NameU="Sweden" Name="스웨덴"/>
+    <Elem NameU="Switzerland" Name="스위스"/>
+    <Elem NameU="Syria" Name="시리아"/>
+    <Elem NameU="Taiwan" Name="대만"/>
+    <Elem NameU="Tajikistan" Name="타지키스탄"/>
+    <Elem NameU="Tanzania" Name="탄자니아"/>
+    <Elem NameU="Thailand" Name="태국"/>
+    <Elem NameU="Togo" Name="토고"/>
+    <Elem NameU="Trinidad And Tobago" Name="트리니다드 토바고"/>
+    <Elem NameU="Tunisia" Name="튀니지"/>
+    <Elem NameU="Turkey" Name="터키"/>
+    <Elem NameU="Turkmenistan" Name="투르크 메니스탄"/>
+    <Elem NameU="Uganda" Name="우간다"/>
+    <Elem NameU="Ukraine" Name="우크라이나"/>
+    <Elem NameU="United Arab" Name="아랍"/>
+    <Elem NameU="United Kingdom" Name="영국"/>
+    <Elem NameU="United States" Name="미국"/>
+    <Elem NameU="Uruguay" Name="우루과이"/>
+    <Elem NameU="Uzbekistan" Name="우즈베키스탄"/>
+    <Elem NameU="Venezuela" Name="베네수엘라"/>
+    <Elem NameU="Vietnam" Name="베트남"/>
+    <Elem NameU="Yemen" Name="예멘"/>
+    <Elem NameU="Yugoslavia" Name="유고 슬라비아"/>
+    <Elem NameU="Zaire" Name="자이르"/>
+    <Elem NameU="Zambia" Name="잠비아"/>
+    <Elem NameU="Zimbabwe" Name="짐바브웨"/>
+    <Elem NameU="Macao" Name="마카오"/>
+</Lib>

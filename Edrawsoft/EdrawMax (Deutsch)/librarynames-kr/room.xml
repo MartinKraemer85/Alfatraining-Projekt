@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="ROOM">
+    <Elem NameU="Actor Class" Name="행위자 클래스"/>
+    <Elem NameU="Actor Reference" Name="행위자 참조"/>
+    <Elem NameU="Modified Actor Ref." Name="수정된 행위자 참조"/>
+    <Elem NameU="Relay Ports" Name="릴레이 포트"/>
+    <Elem NameU="End Ports" Name="엔드 포트"/>
+    <Elem NameU="Reference Ports" Name="참조 포트"/>
+    <Elem NameU="Binding" Name="바인딩"/>
+    <Elem NameU="Layer or Export Connections" Name="레이어/내보내기 연결"/>
+    <Elem NameU="State Context" Name="상태 환경"/>
+    <Elem NameU="State" Name="상태"/>
+    <Elem NameU="Transition" Name="전환"/>
+    <Elem NameU="Texture Definitions" Name="텍스처 정의"/>
+    <Elem NameU="Transition Points" Name="전환점"/>
+    <Elem NameU="Choice Point" Name="선택점"/>
+    <Elem NameU="Transition to History" Name="기록으로 전환"/>
+    <Elem NameU="Group Transition" Name="그룹 전환"/>
+    <Elem NameU="Internal Self-Transition" Name="내부 셀프 전환"/>
+</Lib>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Office">
+    <Elem NameU="Pencil Vase" Name="筆筒"/>
+    <Elem NameU="Pen" Name="鋼筆"/>
+    <Elem NameU="Table Lamp" Name="檯燈"/>
+    <Elem NameU="Globe 1" Name="地球儀 1"/>
+    <Elem NameU="Globe 2" Name="地球儀 2"/>
+    <Elem NameU="Office Chair" Name="辦公椅"/>
+    <Elem NameU="Hourglass" Name="沙漏"/>
+    <Elem NameU="Office Chair" Name="辦公椅"/>
+    <Elem NameU="Briefcase 1" Name="公文包 1"/>
+    <Elem NameU="Briefcase 2" Name="公文包 2"/>
+    <Elem NameU="Briefcase 3" Name="公文包 3"/>
+    <Elem NameU="Calculator 1" Name="計算器 1"/>
+    <Elem NameU="Calculator 2" Name="計算器 2"/>
+    <Elem NameU="Employee's Card" Name="工牌"/>
+    <Elem NameU="File Folders 1" Name="資料夾 1"/>
+    <Elem NameU="File Folders 2" Name="資料夾 2"/>
+    <Elem NameU="Notebook 1" Name="筆記本 1"/>
+    <Elem NameU="Notebook 2" Name="筆記本 2"/>
+    <Elem NameU="Notebook 3" Name="筆記本 3"/>
+    <Elem NameU="Notebook 4" Name="筆記本 4"/>
+    <Elem NameU="Notebook 5" Name="筆記本 5"/>
+    <Elem NameU="Tablet" Name="便箋簿"/>
+    <Elem NameU="Scratchpad" Name="便箋簿"/>
+    <Elem NameU="Calendar 1" Name="日曆 1"/>
+    <Elem NameU="Calendar 2" Name="日曆 2"/>
+    <Elem NameU="Calendar 3" Name="日曆 3"/>
+    <Elem NameU="Calendar 4" Name="日曆 4"/>
+    <Elem NameU="Calendar 5" Name="日曆 5"/>
+    <Elem NameU="Calendar 6" Name="日曆 6"/>
+    <Elem NameU="Calendar 7" Name="日曆 7"/>
+    <Elem NameU="Calendar 8" Name="日曆 8"/>
+    <Elem NameU="Calendar 9" Name="日曆 9"/>
+    <Elem NameU="Calendar 10" Name="日曆 10"/>
+    <Elem NameU="Calendar 11" Name="日曆 11"/>
+    <Elem NameU="Documents Pouch" Name="文檔袋"/>
+    <Elem NameU="Address Book" Name="通訊錄"/>
+    <Elem NameU="Printer" Number="2" Name="列印機"/>
+    <Elem NameU="USB" Name="USB"/>
+    <Elem NameU="Magic pen" Name="萬能筆"/>
+    <Elem NameU="Screen" Name="銀幕"/>
+    <Elem NameU="Router" Name="路由器"/>
+    <Elem NameU="Projecter" Name="投影儀"/>
+    <Elem NameU="Cellphone" Name="手機"/>
+    <Elem NameU="Phone" Name="電話"/>
+    <Elem NameU="Note Board" Name="記事板"/>
+    <Elem NameU="Scissors" Name="剪刀"/>
+    <Elem NameU="Paper Clip" Name="回形針"/>
+    <Elem NameU="Binder Clips" Name="長尾夾"/>
+    <Elem NameU="Protractor" Name="量角器"/>
+    <Elem NameU="Rulers" Name="尺子"/>
+    <Elem NameU="Stapler" Name="訂書機"/>
+    <Elem NameU="Cutter 1" Name="美工刀 1"/>
+    <Elem NameU="Cutter 2" Name="美工刀 2"/>
+    <Elem NameU="Pencil Sharpener" Name="削筆器"/>
+    <Elem NameU="Lock" Name="鎖"/>
+    <Elem NameU="Pencil Compass" Name="圓規"/>
+    <Elem NameU="Magnifier" Name="放大鏡"/>
+    <Elem NameU="Envelope 1" Name="信封 1"/>
+    <Elem NameU="Envelope 2" Name="信封 2"/>
+    <Elem NameU="Seal" Name="印章"/>
+    <Elem NameU="Brush" Name="刷子"/>
+    <Elem NameU="Clock 1" Name="時鐘 1"/>
+    <Elem NameU="Clock 2" Name="時鐘 2"/>
+    <Elem NameU="Stopwatch" Name="秒錶"/>
+    <Elem NameU="Bank Card" Name="銀行卡"/>
+    <Elem NameU="Safe" Name="保險箱"/>
+    <Elem NameU="Folder" Name="資料夾"/>
+    <Elem NameU="Confidential File" Name="機密檔案"/>
+    <Elem NameU="Coffee Cup" Name="咖啡杯"/>
+    <Elem NameU="A Cup of Coffee" Name="一杯咖啡"/>
+    <Elem NameU="Coffee" Name="咖啡"/>
+    <Elem NameU="Report 1" Name="報告 1"/>
+    <Elem NameU="Report 2" Name="報告 2"/>
+    <Elem NameU="Information" Name="信息"/>
+    <Elem NameU="Drawing pin" Number="2" Name="圖釘"/>
+    <Elem NameU="Trash Bin" Name="垃圾箱"/>
+    <Elem NameU="Headset" Name="頭戴式耳機"/>
+    <Elem NameU="Webcam" Name="網絡攝像頭"/>
+    <Elem NameU="Newspaper" Name="報紙"/>
+    <Elem NameU="iPad" Name="蘋果平板電腦"/>
+    <Elem NameU="Laptop" Name="筆記本電腦"/>
+    <Elem NameU="Desktop" Name="臺式電腦"/>
+    <Elem NameU="Pencil" Name="鉛筆"/>
+    <Elem NameU="Pencil1" Name="鉛筆1"/>
+    <Elem NameU="Desk" Name="辦公桌"/>
+    <Elem NameU="Cabinet" Name="櫥櫃"/>
+</Lib>

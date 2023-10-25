@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Map Vehicles">
+    <Elem NameU="Yellow car(2D)" Name="노란 자동차(2D)"/>
+    <Elem NameU="Green car(2D)" Name="녹색 자동차(2D)"/>
+    <Elem NameU="Red car(2D)" Name="빨간 자동차(2D)"/>
+    <Elem NameU="Limousine" Name="화려한 자동차"/>
+    <Elem NameU="Truck" Name="트럭"/>
+    <Elem NameU="Green car(3D)" Name="녹색 자동차(3D)"/>
+    <Elem NameU="Green car(3D) 2" Name="녹색 자동차(3D) 2"/>
+    <Elem NameU="Red car(3D)" Name="빨간 자동차(3D)"/>
+    <Elem NameU="Red car(3D) 2" Name="빨간 자동차(3D) 2"/>
+    <Elem NameU="Black car(3D)" Name="검정 자동차(3D)"/>
+    <Elem NameU="Black car(3D) 2" Name="검정 자동차(3D) 2"/>
+    <Elem NameU="Truck(3D)" Name="트럭(3D)"/>
+    <Elem NameU="Truck(3D) 2" Name="트럭(3D) 2"/>
+    <Elem NameU="Orange truck(3D)" Name="오렌지색 트럭(3D)"/>
+    <Elem NameU="Orange truck(3D) 2" Name="오렌지색 트럭(3D) 2"/>
+</Lib>

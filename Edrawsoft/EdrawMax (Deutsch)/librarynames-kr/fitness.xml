@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Fitness">
+    <Elem NameU="Running on Treadmill 1" Name="런닝 머신에서 달리기1"/>
+    <Elem NameU="Running on Treadmill 2" Name="런닝 머신에서 달리기2"/>
+    <Elem NameU="Fitness Man" Name="피트니스 맨"/>
+    <Elem NameU="Yoga 1" Name="요가1"/>
+    <Elem NameU="Yoga 2" Name="요가2"/>
+    <Elem NameU="Yoga 3" Name="요가3"/>
+    <Elem NameU="Yoga 4" Name="요가4"/>
+    <Elem NameU="Exercise Bike" Name="실내 운동 자전거"/>
+    <Elem NameU="Outdoor Fitness Equipment" Name="야외 피트니스 장비"/>
+    <Elem NameU="Outdoor Rings" Name="야외 조환"/>
+    <Elem NameU="Gym Bag 1" Name="헬스가방1"/>
+    <Elem NameU="Gym Bag 2" Name="헬스가방2"/>
+    <Elem NameU="Fitness With Short Sleeves" Name="피트니스 반팔티"/>
+    <Elem NameU="Gym Shorts" Name="운동 반바지"/>
+    <Elem NameU="Fitness Coat" Name="운동 코트"/>
+    <Elem NameU="Fitness Vest" Name="운동 나시"/>
+    <Elem NameU="Fitness Short Skirt" Name="운동 스커트"/>
+    <Elem NameU="Fitness Hat" Name="운동 모자"/>
+    <Elem NameU="Dumbbell" Number="2" Name="아령"/>
+    <Elem NameU="Small Dumbbell" Name="작은 아령"/>
+    <Elem NameU="Bathroom Scale" Name="체중계"/>
+    <Elem NameU="Fitness Schedule" Name="운동 계획"/>
+    <Elem NameU="Tape Measure" Name="줄자"/>
+    <Elem NameU="Stopwatch" Name="스톱워치"/>
+    <Elem NameU="Yoga Mat" Name="요가 매트"/>
+    <Elem NameU="Skipping Rope" Name="줄넘기"/>
+    <Elem NameU="Hula Hoop" Name="훌라후프"/>
+    <Elem NameU="Tubing" Name="튜빙"/>
+    <Elem NameU="Fitball" Name="짐볼"/>
+    <Elem NameU="Sports Shoes" Name="운동화"/>
+    <Elem NameU="Towel" Name="타워"/>
+    <Elem NameU="Fitness Gloves" Name="헬스 장갑"/>
+    <Elem NameU="Fitness Kettle" Name="운동 물통"/>
+    <Elem NameU="Health Drink" Name="운동 음료수"/>
+    <Elem NameU="Care Of Soda" Name="소다"/>
+</Lib>

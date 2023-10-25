@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Cisco Telepresence Icons">
+    <Elem NameU="Personal Telepresence Endpoint" Name="个人远程监控终端"/>
+    <Elem NameU="Telepresence Endpoint" Name="远程监控终端"/>
+    <Elem NameU="Telepresence Endpoint With Twin Data Display" Name="双数据显示远程监控终端"/>
+    <Elem NameU="Telepresence Endpoint With Twin Data Display.4" Name="双数据显示远程监控终端.4"/>
+    <Elem NameU="Laptop Video Client" Name="手提电脑视频客户端"/>
+    <Elem NameU="Video IP Phone" Name="视频电话"/>
+    <Elem NameU="Non-Video IP Phone" Name="语音通话"/>
+    <Elem NameU="Primary Codec" Name="主解码器"/>
+    <Elem NameU="Secondary Codec" Name="次解码器"/>
+    <Elem NameU="Video Call Server" Name="视频电话服务器"/>
+    <Elem NameU="Unified Communications Server" Name="思科统一服务器"/>
+    <Elem NameU="Meeting Scheduling and Management Server" Name="会议安排管理服务器"/>
+    <Elem NameU="Multipoint Meeting Server" Name="多点会议服务器"/>
+    <Elem NameU="Content Recording/ Streaming Server" Name="内容记录/流媒体服务器"/>
+    <Elem NameU="Video Gateway" Name="视频网关"/>
+    <Elem NameU="IP-Gateway" Name="IP网关"/>
+    <Elem NameU="Transcoder" Name="代码转换器"/>
+    <Elem NameU="Telepresence Exchange" Name="网真交换"/>
+</Lib>

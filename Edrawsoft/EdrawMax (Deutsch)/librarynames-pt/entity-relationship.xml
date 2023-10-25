@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Entity Relationship">
+	<Elem NameU="Entity" Name="Entidade"/>
+	<Elem NameU="Entity 2" Name="Entidade 2"/>
+	<Elem NameU="Entity 3" Name="Entidade 3"/>
+	<Elem NameU="View" Name="Vista"/>
+	<Elem NameU="Relationship" Name="Relação"/>
+	<Elem NameU="Parent to Category" Name="Parente para Categoria"/>
+	<Elem NameU="Category" Name="Categoria"/>
+	<Elem NameU="Category to Child" Name="Categoria para Criança"/>
+	<Elem NameU="Dynamic Connector" Name="Conector Dinâmico"/>
+	<Elem NameU="Line Connector" Name="Conector em Linha"/>
+	<Elem NameU="Entity 5" Name="Entidade 5"/>
+	<Elem NameU="Strong Entity" Name="Entidade Forte"/>
+	<Elem NameU="Weak Entity" Name="Entidade Fraca"/>
+	<Elem NameU="Strong Relationship" Name="Relação Forte"/>
+	<Elem NameU="Weak Relationship" Name="Relação Fraca"/>
+	<Elem NameU="Attribute" Name="Atributo"/>
+	<Elem NameU="Derived Attribute" Name="Atributo Derivado"/>
+	<Elem NameU="Multi-valued Attribute" Name="Atributo de multi-valorizado"/>
+	<Elem NameU="Constraints" Name="Restrições"/>
+	<Elem NameU="Cardinality" Name="Cardinalidade"/>
+	<Elem NameU="Partial" Name="Parcial"/>
+	<Elem NameU="Weak line" Name="Linha fraca"/>
+	<Elem NameU="Participation" Name="Participação"/>
+	<Elem NameU="Participation 2" Name="Participação 2"/>
+</Lib>

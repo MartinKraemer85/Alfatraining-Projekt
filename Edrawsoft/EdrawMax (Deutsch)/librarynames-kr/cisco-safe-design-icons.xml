@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Cisco Safe Design Icons">
+    <Elem NameU="Access Point" Name="액세스 지점"/>
+    <Elem NameU="ACI Controller" Name="ACI 제어기"/>
+    <Elem NameU="ACI Leaf Switch" Name="ACI 스위치"/>
+    <Elem NameU="ACI Spine Switch" Name="ACI 스위치2"/>
+    <Elem NameU="Adaptive Security Appliance" Name="적응형 보안 어플라이언스"/>
+    <Elem NameU="Automated System" Name="자동 시스템"/>
+    <Elem NameU="Blade Server" Name="블레이드 서버"/>
+    <Elem NameU="Catalyst Data Center Switch" Name="Catalyst 데이터센터 스위치"/>
+    <Elem NameU="Catalyst Switch Stack" Name="Catalyst 스위치 스택"/>
+    <Elem NameU="Corporate Device" Name="회사 장치 "/>
+    <Elem NameU="Email Security" Number="2" Name="이메일 보안"/>
+    <Elem NameU="Firepower Appliance" Name="방화벽 장치"/>
+    <Elem NameU="Firewall" Name="방화벽"/>
+    <Elem NameU="Intrustion Detection" Name="침입탐지"/>
+    <Elem NameU="L3 Switch" Name="L3 스위치"/>
+    <Elem NameU="L2 Switch" Name="L2 스위치"/>
+    <Elem NameU="Load Balancer" Name="부하 분산 장치"/>
+    <Elem NameU="Mobile Device" Name="모바일 디바이스"/>
+    <Elem NameU="Nexus 1kv" Name="Nexus 트래픽 1kv"/>
+    <Elem NameU="Nexus Data Center Switch" Name="Nexus 데이터 센터 스위치"/>
+    <Elem NameU="Nexus Fabric Switch" Name="Nexus 패브릭 스위치"/>
+    <Elem NameU="Nexus Switch" Name="Nexus 스위치"/>
+    <Elem NameU="Phone" Name="폰"/>
+    <Elem NameU="Router" Name="경로"/>
+    <Elem NameU="Server1" Name="서버1"/>
+    <Elem NameU="Server2" Name="서버2"/>
+    <Elem NameU="Web Security" Name="웹 보안"/>
+    <Elem NameU="WLAN Controller" Name="WLAN 컨트롤러"/>
+    <Elem NameU="Wireless Switch" Name="무선 스위치"/>
+    <Elem NameU="Wireless Corporate Device" Name="무선 기업 장치"/>
+    <Elem NameU="User" Name="사용자"/>
+    <Elem NameU="Users" Name="사용자 그룹"/>
+    <Elem NameU="Actor1" Name="역할1"/>
+    <Elem NameU="Actor2" Name="역할2"/>
+    <Elem NameU="Radware" Name="Radware"/>
+    <Elem NameU="Blank Device" Name="공백 장비"/>
+    <Elem NameU="Blank Service" Name="공백 서비스"/>
+    <Elem NameU="Call manager" Name="콜 매니저"/>
+    <Elem NameU="Cisco AMP" Name="Cisco AMP"/>
+    <Elem NameU="Cisco AnyConnect.53" Name="Cisco AnyConnect.53"/>
+    <Elem NameU="Client Firewall" Name="클라이언트 방화벽"/>
+    <Elem NameU="Encryption Offload" Name="암호화 오프로드"/>
+    <Elem NameU="vLoad- balancer" Name="vLoad 분산 장치"/>
+    <Elem NameU="Virtual Secure Server" Name="가상 보안 서버"/>
+    <Elem NameU="Storage" Name="저장소"/>
+    <Elem NameU="Cisco Cloud Web Security" Name="Cisco 클라우드 웹 보안"/>
+    <Elem NameU="vWeb Security" Name="vWeb 보안"/>
+    <Elem NameU="vWLAN Controller" Name="vWLAN 컨트롤러"/>
+    <Elem NameU="vWAF Security" Name="vWAF보안"/>
+    <Elem NameU="Interface Label-G1" Name="인터페이스 레이블G1"/>
+    <Elem NameU="Interface Label-M0" Name="인터페이스 레이블M0"/>
+    <Elem NameU="Interface Label-E1" Name="인터페이스 레이블E1"/>
+    <Elem NameU="Mgmt-Uplink" Name="软件Mgmt-Uplink"/>
+    <Elem NameU="Label 1" Name="레이블 1"/>
+    <Elem NameU="Label 2" Name="레이블 2"/>
+    <Elem NameU="Label 3" Name="레이블 3"/>
+    <Elem NameU="VLAN Tag" Name="VLAN 태그"/>
+    <Elem NameU="HSRP" Name="HSRP"/>
+</Lib>

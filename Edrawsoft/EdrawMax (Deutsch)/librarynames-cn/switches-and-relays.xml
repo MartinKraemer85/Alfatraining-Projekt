@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Switches and Relays">
+    <Elem NameU="Switch 1P" Name="开关 1P"/>
+    <Elem NameU="Isolator 1P" Name="隔离器 1P"/>
+    <Elem NameU="Circuit breaker 1P" Name="断路器 1P"/>
+    <Elem NameU="Switch Disconnector 1P" Name="开关切断器 1P"/>
+    <Elem NameU="SPST" Name="SPST"/>
+    <Elem NameU="SPDT" Name="SPDT"/>
+    <Elem NameU="DPST" Name="DPST"/>
+    <Elem NameU="DPDT" Name="DPDT"/>
+    <Elem NameU="Manual switch 1P" Name="手动开关 1P"/>
+    <Elem NameU="Circuit break thermal" Name="热量断路"/>
+    <Elem NameU="Residual current circuit break" Name="剩余电流断路"/>
+    <Elem NameU="Make Contact" Name="闭合触点"/>
+    <Elem NameU="Break Contact" Name="断路器触点"/>
+    <Elem NameU="Two way contact" Name="双向触点"/>
+    <Elem NameU="Passing Make-contact" Name="交闭合触点"/>
+    <Elem NameU="Spring return" Name="弹簧复位"/>
+    <Elem NameU="Stay put" Name="保持原位"/>
+    <Elem NameU="Limit Switch" Name="限制开关"/>
+    <Elem NameU="Spring Return 2" Name="弹簧复位 2"/>
+    <Elem NameU="Spring Return 3" Name="弹簧复位 3"/>
+    <Elem NameU="Limit switch n/o" Name="限制开关 n/o"/>
+    <Elem NameU="Limit switch n/c" Name="限制开关 n/c"/>
+    <Elem NameU="Switch 2P" Name="双脚位开关"/>
+    <Elem NameU="Isolator 2P" Name="双脚位隔离开关"/>
+    <Elem NameU="Switch 3P" Name="3脚位开关"/>
+    <Elem NameU="Isolator 3P" Name="3脚位隔离开关"/>
+    <Elem NameU="2P change over" Name="双脚位转换开关"/>
+    <Elem NameU="2 position switch" Name="双脚位开关"/>
+    <Elem NameU="3 position switch" Name="3脚位开关"/>
+    <Elem NameU="3 position selector switch" Name="3脚位选择开关"/>
+    <Elem NameU="4 position switch" Name="4脚位开关"/>
+    <Elem NameU="Manual switch" Name="手动开关"/>
+    <Elem NameU="Proximity switch" Name="接近开关"/>
+    <Elem NameU="Pushbutton make" Name="按键闭合"/>
+    <Elem NameU="Pushbutton break" Name="按键断路器"/>
+    <Elem NameU="Pushbutton 2-circuit" Name="按键 2-电路"/>
+    <Elem NameU="Selector switch" Name="选择器开关"/>
+    <Elem NameU="Shorting selector" Name="短路选择器"/>
+    <Elem NameU="Proximity limit switch" Name="邻近限制开关"/>
+    <Elem NameU="Time delay make" Name="时延闭合"/>
+    <Elem NameU="Time delay break" Name="时延断路器"/>
+    <Elem NameU="Time delay make 2" Name="时延闭合 2"/>
+    <Elem NameU="Time delay break 2" Name="时延断路器 2"/>
+    <Elem NameU="Safety interlock" Name="安全联锁装置"/>
+    <Elem NameU="Flow actuate" Name="启动的电流"/>
+    <Elem NameU="Liquid level actuated" Name="液面启动"/>
+    <Elem NameU="Liquid level actuated 2" Name="液面启动 2"/>
+    <Elem NameU="Gas flow actuated" Name="气流启动"/>
+    <Elem NameU="Pressure actuated" Name="压力启动"/>
+    <Elem NameU="Thermostat" Name="调温器"/>
+    <Elem NameU="Temperature actuated" Name="温度启动"/>
+    <Elem NameU="Temperature switch" Name="温度开关"/>
+    <Elem NameU="Inertia switch" Name="延时开关"/>
+    <Elem NameU="Mercury" Name="水银开关"/>
+    <Elem NameU="Mercury switch 2" Name="水银开关 2"/>
+    <Elem NameU="Change-Over Contact" Name="转换触点"/>
+    <Elem NameU="Fuse" Name="开关断电器"/>
+    <Elem NameU="Reed switch" Name="磁簧开关"/>
+    <Elem NameU="Relay contacts" Name="继电器触点"/>
+    <Elem NameU="Relay coil" Name="继电器线圈"/>
+    <Elem NameU="Relay" Name="继电器"/>
+</Lib>

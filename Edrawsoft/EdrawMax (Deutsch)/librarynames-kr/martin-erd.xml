@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Martin ERD">
+    <Elem NameU="Data entity" Name="데이터 엔터티"/>
+    <Elem NameU="Activity entity" Name="활동 엔터티"/>
+    <Elem NameU="Data item" Name="데이터 항목"/>
+    <Elem NameU="Connection" Name="연결"/>
+    <Elem NameU="Event" Name="이벤트"/>
+    <Elem NameU="Square loop" Name="순환"/>
+    <Elem NameU="And/or branch" Name="와(과)/또는"/>
+    <Elem NameU="Top to bottom" Name="위에서 아래로"/>
+    <Elem NameU="Side to top" Name="옆에서 위로"/>
+    <Elem NameU="Side to side" Name="옆에서 옆으로"/>
+    <Elem NameU="One" Name="유일"/>
+    <Elem NameU="Many" Name="많은"/>
+    <Elem NameU="One or more" Name="하나 또는 더 많이"/>
+    <Elem NameU="Zero or one" Name="0 또는 하나"/>
+    <Elem NameU="One or more 2" Name="하나 또는 2개 이상"/>
+    <Elem NameU="Zero or more" Name="0 또는 더 많이"/>
+    <Elem NameU="One and only one" Name="유일한"/>
+    <Elem NameU="Zero or one 2" Name="0 또는 하나"/>
+</Lib>

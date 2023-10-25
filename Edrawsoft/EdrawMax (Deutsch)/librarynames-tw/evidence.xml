@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Evidence">
+	<Elem NameU="Shoe Print" Name="鞋印"/>
+	<Elem NameU="Right Footprint" Name="右腳腳印"/>
+	<Elem NameU="Left Footprint" Name="左腳腳印"/>
+	<Elem NameU="High Heel Shoe Print(Right)" Name="高跟鞋印(右)"/>
+	<Elem NameU="High Heel Shoe Print(Left)" Name="高跟鞋印(左)"/>
+	<Elem NameU="Blood Drop" Name="血滴"/>
+	<Elem NameU="Blood Spill" Name="鮮血溢出"/>
+	<Elem NameU="Blood Pool" Name="血池"/>
+	<Elem NameU="Debris" Name="碎片"/>
+	<Elem NameU="Shattered Glass" Name="碎玻璃"/>
+	<Elem NameU="Glove" Name="手套"/>
+	<Elem NameU="Bloody Glove" Name="染血手套"/>
+	<Elem NameU="Wallet" Name="錢包"/>
+	<Elem NameU="Mobile Phone" Name="行動電話"/>
+	<Elem NameU="Cigarette End" Name="菸頭"/>
+	<Elem NameU="Ashtray" Name="菸灰缸"/>
+	<Elem NameU="Chemical Bottle" Name="化學試劑瓶"/>
+	<Elem NameU="Drug Bottle" Name="藥瓶"/>
+</Lib>

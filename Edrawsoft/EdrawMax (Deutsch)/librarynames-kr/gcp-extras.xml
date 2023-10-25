@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="GCP Extras">
+    <Elem NameU="Application Program" Name="애플리케이션"/>
+    <Elem NameU="Blue hexagon" Name="파란색 육각형"/>
+    <Elem NameU="Cloud IoT core" Name="클라우드 IOT 핵심"/>
+    <Elem NameU="Cloud dataflow" Name="클라우드 데이터 흐름"/>
+    <Elem NameU="Cloud data service" Name="클라우드 데이터 서비스"/>
+    <Elem NameU="Computational procedure" Name="계산 과정"/>
+    <Elem NameU="Manager application" Name="매니저 애플리케이션"/>
+    <Elem NameU="Forseti encryption" Name="Forseti 암호화"/>
+    <Elem NameU="Forseti icons" Name="Forseti 아이콘"/>
+    <Elem NameU="Genaral GCP" Name="일반 GCP"/>
+    <Elem NameU="Google cloud platform" Name="구글 클라우드 플랫폼"/>
+    <Elem NameU="GCP encryption" Name="구글 클라우드 암호화"/>
+    <Elem NameU="Kubernetes icons" Name="Kubernetes아이콘"/>
+    <Elem NameU="Kubernetes" Name="Kubernetes"/>
+    <Elem NameU="Modifier autoscaling" Name="자동 확장 한정자"/>
+    <Elem NameU="Modifier Virtual custom program" Name="가상 사용자 지정 프로그램 한정자"/>
+    <Elem NameU="Modifier advanced CPU procedure" Name="고급 CPU 프로시저 한정자"/>
+    <Elem NameU="Modifier advanced memory procedure" Name="고급 메모리 프로시저 한정자"/>
+    <Elem NameU="Modifier used vm" Name="used vm 한정자"/>
+    <Elem NameU="Modifier share center procedure F1" Name="공유 센터 프로시저 한정자 F1"/>
+    <Elem NameU="Modifier share center procedure G1" Name="공유 센터 프로시저 한정자 G1"/>
+    <Elem NameU="Modifier standard procedure" Name="한정자 표준 프로시저"/>
+    <Elem NameU="Modifier storage" Name="한정자 스토리지"/>
+    <Elem NameU="Prediction API" Name="Prediction API"/>
+    <Elem NameU="TensorFlow Icon" Name="TensorFlow 아이콘"/>
+</Lib>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Office Furniture">
+    <Elem NameU="Single Cubicle" Name="싱글 칸막이"/>
+    <Elem NameU="Two Seats Cubicle" Number="3" Name="2 좌석 칸막이"/>
+    <Elem NameU="Cubicle" Number="7" Name="칸막이"/>
+    <Elem NameU="Straight workstation" Name="직선형 작업 공간"/>
+    <Elem NameU="Council workstation" Name="회의 작업 공간"/>
+    <Elem NameU="L workstation" Name="L형 작업 공간"/>
+    <Elem NameU="Table" Name="테이블"/>
+    <Elem NameU="Round table" Name="원형 테이블"/>
+    <Elem NameU="Desk" Name="책상"/>
+    <Elem NameU="Racetrack table" Name="타원형 테이블"/>
+    <Elem NameU="Boat table" Name="보트 테이블"/>
+    <Elem NameU="4 seat table" Name="4인용 테이블"/>
+    <Elem NameU="6 seat table" Name="6인용 테이블"/>
+    <Elem NameU="8 seat table" Name="8인용 테이블"/>
+    <Elem NameU="10 seat rounded table" Name="10인용 테이블"/>
+    <Elem NameU="10 seat boat table" Name="10인용 보트 테이블"/>
+    <Elem NameU="10 seat table" Name="10인용 테이블"/>
+    <Elem NameU="12 seat table" Name="12인용 테이블"/>
+    <Elem NameU="16 seat table" Name="16인용 테이블"/>
+    <Elem NameU="Multi-chair round table" Name="의자 많은 테이블"/>
+    <Elem NameU="Corner table" Name="코너 테이블"/>
+    <Elem NameU="Round corner" Name="둥근 테이블"/>
+    <Elem NameU="Work surface" Name="작업 표면"/>
+    <Elem NameU="Corner surface" Number="4" Name="코너 표면"/>
+    <Elem NameU="Work peninsula" Name="반원 작업 공간"/>
+    <Elem NameU="Bookshelf" Name="책장"/>
+    <Elem NameU="Credenza" Name="책장"/>
+    <Elem NameU="Pedestal" Name="받침대"/>
+    <Elem NameU="Cabinet" Number="3" Name="캐비닛"/>
+    <Elem NameU="Storage unit" Name="저장 장치"/>
+    <Elem NameU="Susp coat bar" Name="옷걸이 막대/선반"/>
+    <Elem NameU="Susp open shelf" Name="개방 선반"/>
+    <Elem NameU="Suspended lateral file" Name="서스펜션형 긴 파일"/>
+    <Elem NameU="File" Name="파일"/>
+    <Elem NameU="Lateral file" Name="긴 파일"/>
+    <Elem NameU="Flat file" Name="플랫 파일"/>
+    <Elem NameU="Swivel tilt chair" Name="회전 의자"/>
+    <Elem NameU="2 seat sofa" Name="2인 소파"/>
+    <Elem NameU="3 seat sofa" Name="3인 소파"/>
+    <Elem NameU="4 seat sofa" Name="4인 소파"/>
+    <Elem NameU="90 deg table" Name="90도 테이블"/>
+    <Elem NameU="Chair" Number="3" Name="의자"/>
+    <Elem NameU="30 deg seat" Name="30도 의자"/>
+    <Elem NameU="Desk chair" Name="의자"/>
+    <Elem NameU="High stool" Name="높은 의자"/>
+    <Elem NameU="Stool" Name="의자"/>
+    <Elem NameU="Panel" Name="패널"/>
+    <Elem NameU="2 panel" Name="2 패널"/>
+    <Elem NameU="3 panel" Name="3 패널"/>
+    <Elem NameU="4 panel" Name="4 패널"/>
+    <Elem NameU="Cross panel" Name="교차 패널"/>
+</Lib>

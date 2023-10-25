@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Office Icons">
+    <Elem NameU="Ren Min Bi" Name="위안화"/>
+    <Elem NameU="Euro" Name="유로"/>
+    <Elem NameU="Pound" Name="파운드"/>
+    <Elem NameU="Dollar" Name="달러"/>
+    <Elem NameU="Bank" Number="2" Name="은행"/>
+    <Elem NameU="Office Building" Name="오피스 빌딩"/>
+    <Elem NameU="Loss" Name="손해"/>
+    <Elem NameU="Profit" Name="이익"/>
+    <Elem NameU="Histogram" Name="히스토그램"/>
+    <Elem NameU="Pie Chart" Name="파이 차트"/>
+    <Elem NameU="Slideshow" Number="4" Name="슬라이드쇼"/>
+    <Elem NameU="Trophy" Name="트로피"/>
+    <Elem NameU="Medal" Name="메달"/>
+    <Elem NameU="Prize" Name="상"/>
+    <Elem NameU="Diamond" Name="다이아몬드"/>
+    <Elem NameU="Team" Name="팀"/>
+    <Elem NameU="Office Clerk" Name="사무실 직원"/>
+    <Elem NameU="At" Name="At"/>
+    <Elem NameU="Work Card" Name="사원 카드"/>
+    <Elem NameU="Address - Book" Name="주소지"/>
+    <Elem NameU="Briefcase" Name="서류 가방"/>
+    <Elem NameU="Calculator" Name="계산기"/>
+    <Elem NameU="Write" Name="쓰기"/>
+    <Elem NameU="Mobile Phone" Name="폰"/>
+    <Elem NameU="Phone" Number="2" Name="전화"/>
+    <Elem NameU="Network" Number="2" Name="네트워크"/>
+    <Elem NameU="Email" Number="2" Name="이메일"/>
+    <Elem NameU="Time" Name="시간"/>
+    <Elem NameU="File" Number="2" Name="파일"/>
+    <Elem NameU="Folder" Name="폴더"/>
+    <Elem NameU="Umbrella" Name="우산"/>
+    <Elem NameU="Shield" Name="쉴드"/>
+    <Elem NameU="Printer" Name="인쇄기"/>
+    <Elem NameU="Target" Name="목표"/>
+    <Elem NameU="Cooperation" Name="협업"/>
+    <Elem NameU="Alarm Clock" Name="알람"/>
+    <Elem NameU="Clock" Number="2" Name="시계"/>
+    <Elem NameU="Image" Name="사진"/>
+    <Elem NameU="USB Flash Drive" Name="USB 플래쉬 드라이브"/>
+    <Elem NameU="Computer" Name="계산기"/>
+    <Elem NameU="laptop" Name="노트북"/>
+    <Elem NameU="Message" Name="메시지"/>
+    <Elem NameU="Chat Conversation" Name="채팅 대화"/>
+    <Elem NameU="Calendar" Name="달력"/>
+    <Elem NameU="Electric Light" Name="전등"/>
+    <Elem NameU="Search For" Name="검색"/>
+    <Elem NameU="Calendar" Name="달력"/>
+    <Elem NameU="Camera" Name="카메라"/>
+    <Elem NameU="Shooting" Name="촬영"/>
+    <Elem NameU="Sad" Name="슬픔"/>
+    <Elem NameU="Happy" Name="기쁨"/>
+    <Elem NameU="Disappointing" Name="실망"/>
+    <Elem NameU="Awesome" Name="놀라운"/>
+    <Elem NameU="Caveat" Name="경고"/>
+    <Elem NameU="Problem" Name="문제"/>
+    <Elem NameU="Pen" Name="펜"/>
+    <Elem NameU="Shopping Cart" Name="쇼핑 카트"/>
+    <Elem NameU="Cart-Allow-Down" Name="쇼핑 카트 - 화살표 있음"/>
+    <Elem NameU="Cart-Plus" Name="쇼핑 카트 - 플러스"/>
+    <Elem NameU="Label" Number="2" Name="레이블"/>
+    <Elem NameU="Shopping Basket" Name="쇼핑 바구니"/>
+    <Elem NameU="Shopping Bag" Name="쇼핑백"/>
+    <Elem NameU="Shopping List" Name="쇼핑 리스트"/>
+    <Elem NameU="Paper Clip" Name="클립"/>
+    <Elem NameU="Drawing Pin" Name="핀"/>
+    <Elem NameU="Flag" Name="플래그"/>
+    <Elem NameU="Fair" Name="공평"/>
+    <Elem NameU="Scissors" Name="가위"/>
+</Lib>

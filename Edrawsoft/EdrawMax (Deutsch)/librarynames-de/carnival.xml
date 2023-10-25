@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Carnival">
+
+<Elem Name="Maske" NameU="Mask"/>
+
+<Elem Name="Feder" NameU="Feather"/>
+
+<Elem Name="Feuerwerk" NameU="Fireworks"/>
+
+<Elem Name="Clown Hat" NameU="Clown Hat"/>
+
+<Elem Name="Ammer" NameU="Bunting"/>
+
+<Elem Name="Fruchtsaft" NameU="Fruit Juice"/>
+
+<Elem Name="Sand Hammer" NameU="Sand Hammer"/>
+
+<Elem Name="Eis" NameU="Ice Cream"/>
+
+<Elem Name="Flip Flops" NameU="Flip Flop"/>
+
+<Elem Name="Kokosnussbaum" NameU="Coconut Tree"/>
+
+<Elem Name="Hut" NameU="Hat"/>
+
+<Elem Name="Clown" NameU="Clown"/>
+
+<Elem Name="Zelt" NameU="Tent"/>
+
+<Elem Name="Ballon" NameU="Balloon"/>
+
+<Elem Name="Lollipop" NameU="Lollipop"/>
+
+<Elem Name="Pferd" NameU="Horse"/>
+
+<Elem Name="Heißluftballon" NameU="Hot Air Balloon"/>
+
+<Elem Name="Schweben" NameU="Float"/>
+
+<Elem Name="Riesenrad" NameU="Ferris Wheel"/>
+
+<Elem Name="Tarnkappe" NameU="Magic Hat"/>
+
+<Elem Name="Vergnügungsparkanlagen" NameU="Amusement Park Facilities"/>
+
+<Elem Name="Trommel" NameU="Drum"/>
+
+<Elem Name="Speisewagen" NameU="Dining Car"/>
+
+<Elem Name="Horn" NameU="Horn"/>
+
+<Elem Name="Klein" NameU="Small"/>
+
+<Elem Name="Musikinstrument" NameU="Musical Instrument"/>
+
+<Elem Name="Augen und Bart" NameU="Eyes and Beard"/>
+
+<Elem Name="Kracher" NameU="Firecracker"/>
+
+<Elem Name="Papagei" NameU="Parrot"/>
+
+<Elem Name="Karussell" NameU="Carousel"/>
+
+<Elem Name="Papierwindmühlen" NameU="Paper Windmills"/>
+
+<Elem Name="Elephant" NameU="Elephant"/>
+
+<Elem Name="Feuer" NameU="Fire"/>
+
+<Elem Name="Tanzend Menschen" NameU="Dancing People"/>
+
+<Elem Name="Spielermann" NameU="Playing Person"/>
+
+<Elem Name="Künstler" NameU="Performer"/>
+
+<Elem Name="Geschäft" NameU="Store"/>
+
+<Elem Name="Drehbarer Flugstuhl" NameU="Rotating Flying Chair"/>
+
+<Elem Name="Sonne" NameU="Sun"/>
+
+<Elem Name="Akrobatik durchführen" NameU="Performing Acrobatics"/>
+
+<Elem Name="Trophäe" NameU="Trophy"/>
+
+</Lib>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="iOS Icons">
+    <Elem NameU="Phone" Name="電話"/>
+    <Elem NameU="Airplane Mode" Name="飛行模式"/>
+    <Elem NameU="Chat" Name="聊天"/>
+    <Elem NameU="Bluetooth" Name="藍牙"/>
+    <Elem NameU="Wifi" Name="WiFi"/>
+    <Elem NameU="Facetime" Name="視頻通話"/>
+    <Elem NameU="Previous" Name="上一步"/>
+    <Elem NameU="Add" Name="添加"/>
+    <Elem NameU="Next" Name="下一步"/>
+    <Elem NameU="Orientation Lock" Name="鎖定屏幕方式"/>
+    <Elem NameU="Notifications 1" Name="通知 1"/>
+    <Elem NameU="Notifications 2" Name="通知 2"/>
+    <Elem NameU="Airplay" Name="Airplay"/>
+    <Elem NameU="Keypad Filled" Name="數字鍵盤"/>
+    <Elem NameU="Keypad Filled-2" Name="數字鍵盤"/>
+    <Elem NameU="Favorites" Name="收藏"/>
+    <Elem NameU="Timer 1" Name="計時器  1"/>
+    <Elem NameU="Timer 2" Name="計時器  2"/>
+    <Elem NameU="Calculator" Name="計算器"/>
+    <Elem NameU="More 1" Name="更多 1"/>
+    <Elem NameU="More 2" Name="更多 2"/>
+    <Elem NameU="Search" Name="搜索"/>
+    <Elem NameU="Camera" Name="相機"/>
+    <Elem NameU="Contact" Name="聯繫人"/>
+    <Elem NameU="iCloud 1" Name="iCloud 1"/>
+    <Elem NameU="iCloud 2" Name="iCloud 2"/>
+    <Elem NameU="Folder 1" Name="資料夾 1"/>
+    <Elem NameU="Folder 2" Name="資料夾 2"/>
+    <Elem NameU="Reply 1" Name="回復 1"/>
+    <Elem NameU="Reply 2" Name="回復 2"/>
+    <Elem NameU="Picture" Name="圖片"/>
+    <Elem NameU="AirDrop" Name="AirDrop"/>
+    <Elem NameU="Compose" Name="編輯"/>
+    <Elem NameU="Microphone" Name="麥克風"/>
+    <Elem NameU="Top Charts" Name="收藏夾"/>
+    <Elem NameU="Bullet List Filled" Name="項目列表（填充）"/>
+    <Elem NameU="Switch 1" Name="開/關 1"/>
+    <Elem NameU="Switch 2" Name="開/關 2"/>
+    <Elem NameU="Music" Name="音樂"/>
+    <Elem NameU="Albums 1" Name="相冊 1"/>
+    <Elem NameU="Albums 2" Name="相冊 2"/>
+    <Elem NameU="News" Name="新聞"/>
+    <Elem NameU="Photos 1" Name="照片 1"/>
+    <Elem NameU="Photos 2" Name="照片 2"/>
+    <Elem NameU="OK" Name="確認"/>
+    <Elem NameU="OK Filled" Name="確認(填充)"/>
+    <Elem NameU="Alarm" Name="鬧鐘"/>
+    <Elem NameU="Recents 1" Name="最近 1"/>
+    <Elem NameU="Recents 2" Name="最近 2"/>
+    <Elem NameU="Upload" Name="上傳"/>
+    <Elem NameU="Download" Name="下載"/>
+    <Elem NameU="Load" Name="加載"/>
+    <Elem NameU="Box" Name="箱子"/>
+    <Elem NameU="Box Filled" Name="箱子(填充)"/>
+    <Elem NameU="Language 1" Name="語言 1"/>
+    <Elem NameU="Language 2" Name="語言 2"/>
+    <Elem NameU="Flag 1" Name="旗幟 1"/>
+    <Elem NameU="Flag 2" Name="旗幟 2"/>
+    <Elem NameU="Brightness 1" Name="亮度 1"/>
+    <Elem NameU="Brightness 2" Name="亮度 2"/>
+    <Elem NameU="Privacy" Name="隱私"/>
+    <Elem NameU="Lock" Name="鎖"/>
+    <Elem NameU="Arrow" Name="箭頭"/>
+    <Elem NameU="Volume" Name="音量"/>
+    <Elem NameU="Drafts" Name="草稿"/>
+    <Elem NameU="Sent" Name="已發送"/>
+    <Elem NameU="Add 1" Name="添加 1"/>
+    <Elem NameU="Add 2" Name="添加 2"/>
+    <Elem NameU="Music" Name="音樂"/>
+    <Elem NameU="FlashLight" Name="手電筒"/>
+    <Elem NameU="Near" Name="附近"/>
+    <Elem NameU="Near Filled" Name="附近（填充）"/>
+    <Elem NameU="Trash 1" Name="廢紙簍 1"/>
+    <Elem NameU="Trash 2" Name="廢紙簍 2"/>
+    <Elem NameU="Inbox" Name="收件箱"/>
+    <Elem NameU="Love Speech Bubble" Name="愛心聊天氣泡"/>
+    <Elem NameU="Copy" Name="複製"/>
+    <Elem NameU="Film" Name="電影"/>
+    <Elem NameU="Information 1" Name="信息 1"/>
+    <Elem NameU="Information 2" Name="信息 2"/>
+    <Elem NameU="Filter" Name="閱讀列表"/>
+    <Elem NameU="OK" Name="確認"/>
+    <Elem NameU="Bookmark 1" Name="書籤  1"/>
+    <Elem NameU="Bookmark 2" Name="書籤  2"/>
+    <Elem NameU="Compass" Name="指南針"/>
+    <Elem NameU="Memories" Name="回憶"/>
+    <Elem NameU="Junk" Name="垃圾郵件"/>
+    <Elem NameU="Clear" Name="清除"/>
+    <Elem NameU="All Inboxes" Name="收件箱"/>
+    <Elem NameU="Menu" Name="菜單"/>
+    <Elem NameU="Add to Reading List" Name="添加到閱讀列表"/>
+    <Elem NameU="Voicemail 1" Name="語音信箱 1"/>
+    <Elem NameU="Voicemail 2" Name="語音信箱 2"/>
+    <Elem NameU="Bookmark 1" Name="書籤  1"/>
+    <Elem NameU="Bookmark 2" Name="書籤  2"/>
+    <Elem NameU="Bookmark 3" Name="書籤 3"/>
+    <Elem NameU="Do Not Disturb" Name="勿擾模式"/>
+    <Elem NameU="Edit" Name="退出"/>
+    <Elem NameU="Battery" Name="電池"/>
+</Lib>

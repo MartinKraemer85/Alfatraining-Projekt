@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="BPMN-Shapes">
+    <Elem NameU="Task" Name="任務"/>
+    <Elem NameU="Gateway" Name="網關"/>
+    <Elem NameU="Start" Name="開始"/>
+    <Elem NameU="Intermediate" Name="中間事件"/>
+    <Elem NameU="End" Name="結束"/>
+    <Elem NameU="Start Message" Name="開始消息"/>
+    <Elem NameU="Start Message 2" Name="開始消息 2"/>
+    <Elem NameU="Intermediate Message" Name="中間信息"/>
+    <Elem NameU="Intermediate Message 2" Name="中間信息 2"/>
+    <Elem NameU="Throwing Message" Name="拋出消息"/>
+    <Elem NameU="End Message" Name="結束消息"/>
+    <Elem NameU="Start Timer" Name="開始定時器"/>
+    <Elem NameU="Start Timer 2" Name="開始定時器 2"/>
+    <Elem NameU="Intermediate Timer" Name="中間定時器"/>
+    <Elem NameU="Intermediate Timer 2" Name="中間定時器 2"/>
+    <Elem NameU="Start Escalation" Name="開始升級"/>
+    <Elem NameU="Start Escalation 2" Name="開始升級 2"/>
+    <Elem NameU="Intermediate Escalation" Name="中間升級"/>
+    <Elem NameU="Intermediate Escalation 2" Name="中間升級 2"/>
+    <Elem NameU="Intermediate Escalation 3" Name="中間升級 3"/>
+    <Elem NameU="End Escalation" Name="升級結束"/>
+    <Elem NameU="Start Error" Name="開始錯誤"/>
+    <Elem NameU="Intermediate Error" Name="中間錯誤"/>
+    <Elem NameU="End Error" Name="結束錯誤"/>
+    <Elem NameU="Start Condition" Name="開始條件"/>
+    <Elem NameU="Start Condition 2" Name="開始條件 2"/>
+    <Elem NameU="Intermediate Condition" Name="中間條件"/>
+    <Elem NameU="Intermediate Condition 2" Name="中間條件 2"/>
+    <Elem NameU="Cancel" Name="取消"/>
+    <Elem NameU="Cancel 2" Name="取消 2"/>
+    <Elem NameU="Start Link" Name="開始鏈接"/>
+    <Elem NameU="Intermediate Link" Name="中間鏈接"/>
+    <Elem NameU="Intermediate Link 2" Name="中間鏈接 2"/>
+    <Elem NameU="End Link" Name="結束鏈接"/>
+    <Elem NameU="Compensation" Name="補償"/>
+    <Elem NameU="Compensation 2" Name="補償 2"/>
+    <Elem NameU="Compensation 3" Name="補償 3"/>
+    <Elem NameU="Compensation 4" Name="補償 4"/>
+    <Elem NameU="Signal Event" Name="信號事件"/>
+    <Elem NameU="Signal Event 2" Name="信號事件 2"/>
+    <Elem NameU="Signal Event 3" Name="信號事件 3"/>
+    <Elem NameU="Signal Event 4" Name="信號事件 4"/>
+    <Elem NameU="Signal Event 5" Name="信號事件 5"/>
+    <Elem NameU="Signal Event 6" Name="信號事件 6"/>
+    <Elem NameU="Multiple Event" Name="多重事件"/>
+    <Elem NameU="Multiple Event 2" Name="多重事件 2"/>
+    <Elem NameU="Multiple Event 3" Name="多重事件 3"/>
+    <Elem NameU="Multiple Event 4" Name="多重事件 4"/>
+    <Elem NameU="Multiple Event 5" Name="多重事件 5"/>
+    <Elem NameU="Multiple Event 6" Name="多重事件 6"/>
+    <Elem NameU="Parallel Multiple Event" Name="多重並行事件"/>
+    <Elem NameU="Parallel Multiple Event 2" Name="多重並行事件 2"/>
+    <Elem NameU="Parallel Multiple Event 3" Name="多重並行事件 3"/>
+    <Elem NameU="Parallel Multiple Event 4" Name="多重並行事件 4"/>
+    <Elem NameU="Pool Title" Name="池/通道"/>
+    <Elem NameU="Pool" Name="池/通道"/>
+    <Elem NameU="Pools Block" Name="池塊"/>
+    <Elem NameU="Collapsed Sub-Process" Name="折疊子流程"/>
+    <Elem NameU="Loop Process" Name="循環流程"/>
+    <Elem NameU="Loop - Parallel Multi-Instance" Name="循環—並行多實例"/>
+    <Elem NameU="Loop - Sequential Multi-Instance" Name="循環— 連續多實例"/>
+    <Elem NameU="Compensation" Name="補償"/>
+    <Elem NameU="Ad-Hoc Process" Name="即席流程"/>
+    <Elem NameU="Loop Sub-Process" Name="循環子流程"/>
+    <Elem NameU="Multiple Instance" Name="多重實例"/>
+    <Elem NameU="Compensation Sub-Process" Name="補償子流程"/>
+    <Elem NameU="Ad-Hoc Sub-Process" Name="即席子流程"/>
+    <Elem NameU="Transaction" Name="交易"/>
+    <Elem NameU="Event Sub-Process" Name="事件子流程"/>
+    <Elem NameU="Call Activity" Name="呼叫活動"/>
+    <Elem NameU="Conversation" Name="對話"/>
+    <Elem NameU="Collapsed Conversation" Name="折疊的對話"/>
+    <Elem NameU="Call Conversation" Name="呼叫會話"/>
+    <Elem NameU="Collapsed Call Conversation" Name="折疊的呼叫會話"/>
+    <Elem NameU="Group" Name="組"/>
+    <Elem NameU="Choreography Task" Name="編排任務"/>
+    <Elem NameU="Sub-Choreography" Name="子編排任務"/>
+    <Elem NameU="Call Choreography" Name="調用編排"/>
+    <Elem NameU="Data Object" Name="資料對象"/>
+    <Elem NameU="Collection Data Object" Name="資料對象集"/>
+    <Elem NameU="Input Data" Name="輸入資料"/>
+    <Elem NameU="Output Data" Name="輸出資料"/>
+    <Elem NameU="Data Store" Name="資料存儲"/>
+    <Elem NameU="Exclusive Gateway with Marker" Name="帶標誌的互斥網關"/>
+    <Elem NameU="Event-Based Gateway" Name="事件網關"/>
+    <Elem NameU="Exclusive Event-based Gateway" Name="互斥事件網關"/>
+    <Elem NameU="Parallel Event-based Gateway" Name="並行事件網關"/>
+    <Elem NameU="Parallel Gateway" Name="並行網關"/>
+    <Elem NameU="Inclusive Gateway" Name="相融網關"/>
+    <Elem NameU="Complex Gateway" Name="複雜網關"/>
+    <Elem NameU="Sequence Flow" Name="順序流"/>
+    <Elem NameU="Sequence Flow Right-angle" Name="直角順序流"/>
+    <Elem NameU="Message Flow" Name="消息流"/>
+    <Elem NameU="Message Flow Right-angle" Name="直角信息流"/>
+    <Elem NameU="Data Association" Name="資料關聯"/>
+    <Elem NameU="Association" Name="關聯"/>
+    <Elem NameU="Association Right-angle" Name="直角聯合"/>
+    <Elem NameU="Process Marker" Name="流程標記"/>
+    <Elem NameU="Loop Marker" Name="循環標記"/>
+    <Elem NameU="Parallel MI Marker" Name="平行MI標記"/>
+    <Elem NameU="Sequential MI Marker" Name="順序MI標記"/>
+    <Elem NameU="Ad-Hoc Marker" Name="即席標記"/>
+    <Elem NameU="Compensation Marker" Name="補償標記"/>
+    <Elem NameU="Send Task" Name="發送任務"/>
+    <Elem NameU="Receive Task" Name="接受任務"/>
+    <Elem NameU="User Task" Name="用戶任務"/>
+    <Elem NameU="Manual Task" Name="手工任務"/>
+    <Elem NameU="Business Rule Task" Name="業務規則任務"/>
+    <Elem NameU="Service Task" Name="服務任務"/>
+    <Elem NameU="Script Task" Name="腳本任務"/>
+    <Elem NameU="Rectangle balloon" Name="圓角氣球"/>
+    <Elem NameU="Annotation" Name="注釋"/>
+</Lib>

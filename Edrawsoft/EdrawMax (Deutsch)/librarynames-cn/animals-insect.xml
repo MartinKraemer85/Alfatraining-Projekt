@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Animals-Insect">
+    <Elem NameU="Beetles 1" Name="甲虫1"/>
+    <Elem NameU="Beetles 2" Name="甲虫2"/>
+    <Elem NameU="Beetles 3" Name="甲虫3"/>
+    <Elem NameU="Mantis" Name="螳螂"/>
+    <Elem NameU="Fly" Name="苍蝇"/>
+    <Elem NameU="Bees 1" Name="蜜蜂1"/>
+    <Elem NameU="Bees 2" Name="蜜蜂2"/>
+    <Elem NameU="Caterpillar" Name="毛毛虫"/>
+    <Elem NameU="Butterfly 1" Name="蝴蝶1"/>
+    <Elem NameU="Butterfly 2" Name="蝴蝶2"/>
+    <Elem NameU="Butterfly3" Name="蝴蝶3"/>
+    <Elem NameU="Dragonfly" Name="蜻蜓"/>
+    <Elem NameU="Glowworm" Name="萤火虫"/>
+    <Elem NameU="Snail" Name="蜗牛"/>
+    <Elem NameU="Scorpion" Name="蝎子"/>
+    <Elem NameU="Grasshopper" Name="蚂蚱"/>
+    <Elem NameU="Cicada" Name="蝉"/>
+    <Elem NameU="Earthworm 1" Name="蚯蚓1"/>
+    <Elem NameU="Earthworm 2" Name="蚯蚓2"/>
+    <Elem NameU="Spider" Name="蜘蛛"/>
+    <Elem NameU="Ant 2" Name="蚂蚁2"/>
+    <Elem NameU="Ant 1" Name="蚂蚁1"/>
+    <Elem NameU="Mosquito" Name="蚊子"/>
+    <Elem NameU="Moth" Name="飞蛾"/>
+    <Elem NameU="Cockroach" Name="蟑螂"/>
+    <Elem NameU="Lucanidae" Name="锹型虫"/>
+    <Elem NameU="Dicelosternus Corallinus" Name="红艳天牛"/>
+</Lib>

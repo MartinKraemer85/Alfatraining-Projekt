@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Five Forces Diagram">
+    <Elem NameU="Basic Five Force Model" Name="基本五力模型"/>
+    <Elem NameU="Five Force Model" Number="8" Name="五力模型"/>
+    <Elem NameU="Arrow" Number="2" Name="箭头"/>
+</Lib>

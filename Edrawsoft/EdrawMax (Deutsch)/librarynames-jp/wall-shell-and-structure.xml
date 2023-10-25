@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Wall Shell and Structure">
+
+<Elem Name="部屋" NameU="Room"/>
+
+<Elem Name="空間" NameU="Space"/>
+
+<Elem Name="壁" NameU="Wall"/>
+
+<Elem Name="縦壁" NameU="Vertical Wall"/>
+
+<Elem Name="曲線の壁" NameU="Curved Wall"/>
+
+<Elem Name="外壁" NameU="Outer Wall"/>
+
+<Elem Name="垂直の外壁" NameU="Vertical Outer Wall"/>
+
+<Elem Name="曲がった外壁" NameU="Curved Outer Wall"/>
+
+<Elem Name="カーテンウォール" NameU="Curtain Wall"/>
+
+<Elem Name="ウィンドウウォール" NameU="Window Wall"/>
+
+<Elem Name="外壁" NameU="Pilaster"/>
+
+<Elem Name="コーナー外壁" NameU="Corner Pilaster"/>
+
+<Elem Name="正方形外壁" NameU="Rectanglar Column"/>
+
+<Elem Name="円柱" NameU="Circular Column"/>
+
+<Elem Name="梁" NameU="Beam"/>
+
+<Elem Name="グリッド線の開始位置" NameU="Grid Origin"/>
+
+<Elem Name="グリッド線" NameU="Grid Line"/>
+
+<Elem Name="L スペース" NameU="L Space"/>
+
+<Elem Name="T スペース" NameU="T Space"/>
+
+</Lib>

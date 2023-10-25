@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="AWS Deployment and Management">
+	<Elem NameU="CodeDeploy" Name="CodeDeploy"/>
+	<Elem NameU="AWS CloudFormation Stack" Name="Stack AWS CloudFormation"/>
+	<Elem NameU="AWS CloudFormation Template" Name="Modello AWS CloudFormation"/>
+	<Elem NameU="AWS CloudFormation" Name="AWS CloudFormation"/>
+	<Elem NameU="AWS Data Pipeline" Name="AWS Data Pipeline"/>
+	<Elem NameU="CloudTrail" Name="CloudTrail"/>
+	<Elem NameU="CloudWatch Alarm" Name="Allarme CloudWatch"/>
+	<Elem NameU="CloudWatch" Name="CloudWatch"/>
+	<Elem NameU="Elastic Beanstalk Application" Name="Applicazione Elastic Beanstalk"/>
+	<Elem NameU="Elastic Beanstalk Deployment" Name="Distribuzione Elastic Beanstalk"/>
+	<Elem NameU="Elastic Beanstalk" Name="Elastic Beanstalk"/>
+	<Elem NameU="Elastic Beanstalk Container" Name="Contenitore Elastic Beanstalk"/>
+	<Elem NameU="IAM Add-on" Name="Add-on IAM"/>
+	<Elem NameU="IAM Credentials" Name="Credenziali IAM"/>
+	<Elem NameU="IAM Data Encryption Key" Name="Chiave Cifratura Dati IAM"/>
+	<Elem NameU="IAM Encrypted Data" Name="Dati Criptati IAM"/>
+	<Elem NameU="IAM MFA Token" Name="Token MFA IAM"/>
+	<Elem NameU="IAM Permissions" Name="Permessi IAM"/>
+	<Elem NameU="IAM Roles" Name="Ruoli IAM"/>
+	<Elem NameU="IAM Security Token Service" Name="Servizio Token di Sicurezza IAM"/>
+	<Elem NameU="IAM Short Term Credentials" Name="Credenziali a Breve Termine IAM"/>
+	<Elem NameU="IAM STS" Name="STS IAM"/>
+	<Elem NameU="IAM" Name="IAM"/>
+	<Elem NameU="OpsWorks Apps" Name="App OpsWorks"/>
+	<Elem NameU="OpsWorks Deployments" Name="Distribuzioni OpsWorks"/>
+	<Elem NameU="OpsWorks Instances" Name="Istanze OpsWorks"/>
+	<Elem NameU="OpsWorks Layers" Name="Livelli OpsWorks"/>
+	<Elem NameU="OpsWorks Monitoring" Name="Monitoraggio OpsWorks"/>
+	<Elem NameU="OpsWorks Permissions" Name="Permessi OpsWorks"/>
+	<Elem NameU="OpsWorks Resources" Name="Risorse OpsWorks"/>
+	<Elem NameU="OpsWorks Stack" Name="Stack OpsWorks"/>
+	<Elem NameU="OpsWorks" Name="OpsWorks"/>
+</Lib>

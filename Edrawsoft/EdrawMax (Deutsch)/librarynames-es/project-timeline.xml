@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Project Timeline">
+  <Elem NameU="Time Bar" Name="Barra de Tiempo"/>
+  <Elem NameU="Time Bar" Name="Barra de Tiempo"/>
+  <Elem NameU="Time Bar" Name="Barra de Tiempo"/>
+  <Elem NameU="Time Bar" Name="Barra de Tiempo"/>
+  <Elem NameU="Time Bar" Name="Barra de Tiempo"/>
+  <Elem NameU="Time Bar" Name="Barra de Tiempo"/>
+  <Elem NameU="Interval Description" Name="Descripción del Intervalo"/>
+  <Elem NameU="Interval Description" Name="Descripción del Intervalo"/>
+  <Elem NameU="Interval Description" Name="Descripción del Intervalo"/>
+  <Elem NameU="Interval Description" Name="Descripción del Intervalo"/>
+  <Elem NameU="Interval Description" Name="Descripción del Intervalo"/>
+  <Elem NameU="Point Mission" Name="Misión Puntual"/>
+  <Elem NameU="Multi-style Mission" Name="Misión multiestilo"/>
+  <Elem NameU="Point Mission" Name="Misión Puntual"/>
+  <Elem NameU="Point Mission" Name="Misión Puntual"/>
+  <Elem NameU="Point Mission" Name="Misión Puntual"/>
+  <Elem NameU="Diamond Milestone" Name="Hito del Diamante"/>
+  <Elem NameU="Triangle Milestone 2" Name="Hito Triangular 2"/>
+  <Elem NameU="Circle Milestone" Name="Hito Circular"/>
+  <Elem NameU="Rect Milestone" Name="Hito Rectangular"/>
+  <Elem NameU="Milestone" Name="Hito"/>
+  <Elem NameU="Flag Milestone" Name="Hito de Bandera"/>
+  <Elem NameU="Line Milestone" Name="Hito Lineal"/>
+  <Elem NameU="Side Brace" Name="Abrazadera Lateral"/>
+</Lib>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Funnel">
+
+<Elem Name="Vertikaler Trichter" NameU="Vertical Funnel"/>
+
+<Elem Name="Horizontaler Trichter" NameU="Horizontal Funnel"/>
+
+<Elem Name="Trichterdiagramm" NameU="Funnel Chart"/>
+
+</Lib>

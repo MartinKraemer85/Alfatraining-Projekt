@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Cisco Product Icons">
+	<Elem NameU="Access Gateway" Name="Gateway di Accesso"/>
+	<Elem NameU="Accesspoint" Name="Punto di accesso"/>
+	<Elem NameU="Ace" Name="Ace"/>
+	<Elem NameU="ACS" Name="ACS"/>
+	<Elem NameU="ADM" Name="ADM"/>
+	<Elem NameU="Androgenous Person" Name="Persona Androgina"/>
+	<Elem NameU="Antenna" Name="Antenna"/>
+	<Elem NameU="Asic Processor" Name="Processore Asic"/>
+	<Elem NameU="ASR 1000 Series" Name="Serie ASR 1000"/>
+	<Elem NameU="Ata" Name="Ata"/>
+	<Elem NameU="Atm 3800" Name="Ata3800"/>
+	<Elem NameU="Atm Fast Gigabit Etherswitch" Name="Interruttore Rapido Gigabit Ethernet Atm"/>
+	<Elem NameU="Atm Router" Name="Router Atm"/>
+	<Elem NameU="Atm Switch" Name="Interruttore Atm"/>
+	<Elem NameU="Atm Tag Switch Router" Name="Router Tag Switch Atm"/>
+	<Elem NameU="Avs" Name="Avs"/>
+	<Elem NameU="AXP" Name="AXP"/>
+	<Elem NameU="Bbfw Media" Name="Media Bbfw"/>
+	<Elem NameU="Bbfw" Name="Bbfw"/>
+	<Elem NameU="Bbsm" Name="Bbsm"/>
+	<Elem NameU="Branch Office" Name="Succursale"/>
+	<Elem NameU="Breakout Box" Name="Breakout Box"/>
+	<Elem NameU="Bridge" Name="Ponte"/>
+	<Elem NameU="Broadband Router" Name="Router a Banda Larga"/>
+	<Elem NameU="Bts 10200" Name="Bts 10200"/>
+	<Elem NameU="Cable Modem" Name="Modem con Cavo"/>
+	<Elem NameU="Callmanager" Name="CallManager"/>
+	<Elem NameU="Car" Name="Automobile"/>
+	<Elem NameU="Carrier RoutingSystem" Name="Sistema di Carrier Routing"/>
+	<Elem NameU="Cddi-Fddi" Name="Cddi-Fddi"/>
+	<Elem NameU="Cdm" Name="Cdm"/>
+	<Elem NameU="Cellular Phone" Name="Telefono Cellulare"/>
+	<Elem NameU="Centri Firewall" Name="Firewall Centro"/>
+	<Elem NameU="Cisco 1000" Name="Cisco 1000"/>
+	<Elem NameU="Cisco asa 5500" Name="Cisco asa 5500"/>
+	<Elem NameU="Cisco Ca" Name="Cisco Ca"/>
+	<Elem NameU="Cisco File Engine" Name="File Engine di Cisco"/>
+	<Elem NameU="Cisco Hub" Name="Hub Cisco"/>
+	<Elem NameU="Cisco unified presence server" Name="Server Unified Presence Cisco"/>
+	<Elem NameU="Cisco Unityexpress" Name="Unityexpress Cisco"/>
+	<Elem NameU="Ciscosecurity" Name="Ciscosecurity"/>
+	<Elem NameU="Ciscoworks" Name="Ciscoworks"/>
+	<Elem NameU="Class 4_5Switch" Name="Interruttore Classe 4_5"/>
+	<Elem NameU="Cloud" Name="Cloud"/>
+	<Elem NameU="Communications Server" Name="Server di Comunicazione"/>
+	<Elem NameU="Contact Center" Name="Centro di Contatto"/>
+	<Elem NameU="Content Engine" Name="Motore di Contenuti"/>
+	<Elem NameU="Content Service Router" Name="Router Servizio di Contenuti"/>
+	<Elem NameU="Content Service Switch 1100" Name="Interruttore 1100 per Servizio di Contenuti"/>
+	<Elem NameU="Content Switch Module" Name="Modulo Interruttore di Contenuti"/>
+	<Elem NameU="Content Switch" Name="Interruttore Contenuti"/>
+	<Elem NameU="Content Transformation Engine (cte)" Name="Motore di Trasformazione dei Contenuti (cte)"/>
+	<Elem NameU="Cs-Mars" Name="Cs-Mars"/>
+	<Elem NameU="Csm-s" Name="Csm-s"/>
+	<Elem NameU="Csu_Dsu" Name="Csu_Dsu"/>
+	<Elem NameU="CUBE" Name="CUBE"/>
+	<Elem NameU="Detector" Name="Rilevatore"/>
+	<Elem NameU="Director-Class Fibre Channel Director" Name="Classe-Direttore Direttore Fibre Channel"/>
+	<Elem NameU="Directory Server" Name="Server della Directory"/>
+	<Elem NameU="Diskette" Name="Dischetto"/>
+	<Elem NameU="Distributed Director" Name="Direttore Distribuzione"/>
+	<Elem NameU="Dot-Dot" Name="Dot-Dot"/>
+	<Elem NameU="Dpt" Name="Dpt"/>
+	<Elem NameU="Dslam" Name="Dslam"/>
+	<Elem NameU="Dual Mode Ap" Name="Ap Bimodale"/>
+	<Elem NameU="Dwdm Filter" Name="Filtro Dwdm"/>
+	<Elem NameU="End Office" Name="Ufficio Finale"/>
+	<Elem NameU="Fax" Name="Fax"/>
+	<Elem NameU="Fc Storage" Name="Archiviazione Fc"/>
+	<Elem NameU="Fddi Ring" Name="Ring Fddi"/>
+	<Elem NameU="Fibre Channel Disk Subsystem" Name="Sottosistema Disco del Fibre Channel"/>
+	<Elem NameU="Fibre Channel Fabric Switch" Name="Fabric Switch del Fibre Channel"/>
+	<Elem NameU="File Cabinet" Name="Archivio File"/>
+	<Elem NameU="File Server" Name="Server dei File"/>
+	<Elem NameU="FileServer" Name="FileServer"/>
+	<Elem NameU="Firewall Service Module (fwsm)" Name="Modulo di Servizio del Firewall (fwsm)"/>
+	<Elem NameU="Firewall" Name="Firewall"/>
+	<Elem NameU="Front end Processor" Name="Processore Front-end"/>
+	<Elem NameU="Gatekeeper" Name="Piantone"/>
+	<Elem NameU="General Applicance" Name="Applicazione Generale"/>
+	<Elem NameU="Generic Building" Name="Edificio Generico"/>
+	<Elem NameU="Generic Gateway" Name="Gateway Generico"/>
+	<Elem NameU="Generic Processor" Name="Processore Generico"/>
+	<Elem NameU="Generic Softswitch" Name="Softswitch Generico"/>
+	<Elem NameU="Gigabit Switch Atm Tag Router" Name="Tag Router Atm con Interruttore Gigabit"/>
+	<Elem NameU="Government Building" Name="Edificio Governativo"/>
+	<Elem NameU="Ground Terminal" Name="Terminale da Terra"/>
+	<Elem NameU="Guard" Name="Sorveglianza"/>
+	<Elem NameU="H.323" Name="H.323"/>
+	<Elem NameU="Handheld" Name="Portatile"/>
+	<Elem NameU="HootPhone" Name="HootPhone"/>
+	<Elem NameU="Host" Name="Host"/>
+	<Elem NameU="Hp Mini" Name="Mini Hp"/>
+	<Elem NameU="Hub" Name="Hub"/>
+	<Elem NameU="Iad Router" Name="Router Iad"/>
+	<Elem NameU="Ibm Mainframe" Name="Mainframe Ibm"/>
+	<Elem NameU="Ibm Mini as400" Name="Mini as400 Ibm"/>
+	<Elem NameU="Ibm Tower" Name="Torretta Ibm"/>
+	<Elem NameU="Icm" Name="Icm"/>
+	<Elem NameU="Ics" Name="Ics"/>
+	<Elem NameU="Intelliswitch Stack" Name="Gruppo di Intelliswitch"/>
+	<Elem NameU="Internet Streamer" Name="Streamer Internet"/>
+	<Elem NameU="Ios Firewall" Name="Firewall Ios"/>
+	<Elem NameU="Ios Slb" Name="Slb Ios"/>
+	<Elem NameU="Ip Communicator" Name="Comunicatore Ip"/>
+	<Elem NameU="Ip Dsl" Name="Dsl Ip"/>
+	<Elem NameU="Ip Phone" Name="Telefono Ip"/>
+	<Elem NameU="Ip Telephony Router" Name="Router di Telefonia Ip"/>
+	<Elem NameU="Ip" Name="Ip"/>
+	<Elem NameU="Iptc" Name="Iptc"/>
+	<Elem NameU="Iptv Content Manager" Name="Gestione Contenuti Iptv"/>
+	<Elem NameU="Iptv Server" Name="Server Iptv"/>
+	<Elem NameU="Iscsi Router" Name="Router Iscsi"/>
+	<Elem NameU="Isdn Switch" Name="Interruttore Isdn"/>
+	<Elem NameU="Itp" Name="Itp"/>
+	<Elem NameU="Jbod" Name="Jbod"/>
+	<Elem NameU="Key" Name="Chiave"/>
+	<Elem NameU="Keys" Name="Chiavi"/>
+	<Elem NameU="Lan to Lan" Name="Da Lan a Lan"/>
+	<Elem NameU="Laptop" Name="Laptop"/>
+	<Elem NameU="Layer 2 Remote Switch" Name="Switch Remoto Livello 2"/>
+	<Elem NameU="Layer 3 Switch" Name="Switch Livello 3"/>
+	<Elem NameU="Lightweight Ap" Name="Lightweight Ap"/>
+	<Elem NameU="Localdirector" Name="Localdirector"/>
+	<Elem NameU="Lock" Name="Lucchetto"/>
+	<Elem NameU="Longreach Cpe" Name="Cpe Longreach"/>
+	<Elem NameU="Mac Woman" Name="Donna con Mac"/>
+	<Elem NameU="Macintosh" Name="Macintosh"/>
+	<Elem NameU="Man_Woman" Name="Uomo_Donna"/>
+	<Elem NameU="Mas Gateway" Name="Gateway Mas"/>
+	<Elem NameU="Mau" Name="Mau"/>
+	<Elem NameU="Mcu" Name="Mcu"/>
+	<Elem NameU="Mdu" Name="Mdu"/>
+	<Elem NameU="Me 1100" Name="Me 1100"/>
+	<Elem NameU="Mediator" Name="Mediatore"/>
+	<Elem NameU="Meetingplace" Name="MeetingPlace "/>
+	<Elem NameU="MeshAp" Name="MeshAp"/>
+	<Elem NameU="Metro 1500" Name="Metro 1500"/>
+	<Elem NameU="Mgx 8000 Multiservice Switch" Name="Interruttore Multi-servizio Mgx 8000"/>
+	<Elem NameU="Microphone" Name="Microfono"/>
+	<Elem NameU="Microwebserver" Name="Microwebserver"/>
+	<Elem NameU="Mini Vax" Name="Mini Vax"/>
+	<Elem NameU="Mobile Access Ip Phone" Name="Telefono Ip con Accesso Mobile"/>
+	<Elem NameU="Mobile Access Router" Name="Router con Accesso Mobile"/>
+	<Elem NameU="Mobile Streamer" Name="Streamer Mobile"/>
+	<Elem NameU="Modem" Name="Modem"/>
+	<Elem NameU="Moh Server" Name="Server Moh"/>
+	<Elem NameU="MSE" Name="MSE"/>
+	<Elem NameU="Mulitswitch Device" Name="Dispositivo Multiswitch"/>
+	<Elem NameU="Multi-Fabric Server Switch" Name="Interruttore di Server Multi-Fabric"/>
+	<Elem NameU="Multilayer Remote Switch" Name="Interruttore Remoto Multilivello"/>
+	<Elem NameU="Mux" Name="Mux"/>
+	<Elem NameU="MXE" Name="MXE"/>
+	<Elem NameU="Nac Appliance" Name="Dispositivo Nac"/>
+	<Elem NameU="Nac Applicance Feb06" Name="Dispositivo Nac Feb06"/>
+	<Elem NameU="Nac Applicance Feb06 MGR" Name="Dispositivo Nac Feb06 MGR"/>
+	<Elem NameU="NCE Router" Name="Router NCE"/>
+	<Elem NameU="NCE" Name="NCE"/>
+	<Elem NameU="Netflow Router" Name="ROuter Netflow"/>
+	<Elem NameU="Netranger" Name="Netranger"/>
+	<Elem NameU="Netsonar" Name="Netsonar"/>
+	<Elem NameU="Network Management" Name="Gestione di Rete"/>
+	<Elem NameU="Nexus 1000" Name="Nexus 1000"/>
+	<Elem NameU="Nexus 2000" Name="Nexus 2000"/>
+	<Elem NameU="Nexus 5000" Name="Nexus 5000"/>
+	<Elem NameU="Nexus 7000" Name="Nexus 7000"/>
+	<Elem NameU="Octel" Name="Octel"/>
+	<Elem NameU="Ons15500" Name="Onsl15500"/>
+	<Elem NameU="Optical Amplifier" Name="Amplificatore Optical"/>
+	<Elem NameU="Optical Services Router" Name="Router Servizi Optical"/>
+	<Elem NameU="Optical Transport" Name="Trasporto Optical"/>
+	<Elem NameU="Pad x.28" Name="Pad x.28"/>
+	<Elem NameU="Pad" Name="Pad"/>
+	<Elem NameU="Page Icon" Name="Icona di Pagina"/>
+	<Elem NameU="Pbx Switch" Name="Interruttore Pbx"/>
+	<Elem NameU="Pbx" Name="Pbx"/>
+	<Elem NameU="Pc Adapter Card" Name="Scheda Adattatore Pc"/>
+	<Elem NameU="Pc Man" Name="Uomo al Pc"/>
+	<Elem NameU="Pc Routercard" Name="Routercard Pc"/>
+	<Elem NameU="Pc Software" Name="Programma per Pc"/>
+	<Elem NameU="Pc Video" Name="Video Pc"/>
+	<Elem NameU="Pc" Name="Pc"/>
+	<Elem NameU="Pda" Name="Pda"/>
+	<Elem NameU="Phone" Name="Telefono"/>
+	<Elem NameU="Phone_Fax" Name="Telefono_Fax"/>
+	<Elem NameU="Pix Firewall" Name="Firewall Pix"/>
+	<Elem NameU="Pmc" Name="Pmc"/>
+	<Elem NameU="Printer" Name="Stampante"/>
+	<Elem NameU="Programmable Switch" Name="Interruttore Programmabile"/>
+	<Elem NameU="Protocol Translator" Name="Traduttore Protocollo"/>
+	<Elem NameU="Pxf" Name="Pxf"/>
+	<Elem NameU="Radio Tower" Name="Torre Radio"/>
+	<Elem NameU="Ratemux" Name="Ratemux"/>
+	<Elem NameU="Relational Database" Name="Database Relazionale"/>
+	<Elem NameU="Repeater" Name="Ripetitore"/>
+	<Elem NameU="RF modem" Name="Modem RF"/>
+	<Elem NameU="Route Switch Processor" Name="Processore Route Switch"/>
+	<Elem NameU="Router With Silicon Switch" Name="Router con Interruttore di Silicone"/>
+	<Elem NameU="Router" Name="Router"/>
+	<Elem NameU="Router_Firewall" Name="Router_Firewall"/>
+	<Elem NameU="Routerin Building" Name="Edificio di Routering"/>
+	<Elem NameU="Rpsrps" Name="Rpsrps"/>
+	<Elem NameU="Running Man" Name="Uomo che Corre"/>
+	<Elem NameU="Safeharbor Icon" Name="Icona Safe Harbor"/>
+	<Elem NameU="Sattelite Dish" Name="Parabola"/>
+	<Elem NameU="Sattelite" Name="Satellite"/>
+	<Elem NameU="Scanner" Name="Scanner"/>
+	<Elem NameU="Server Switch" Name="Interruttore di Server"/>
+	<Elem NameU="Server With Router" Name="Server con Router"/>
+	<Elem NameU="Service Control" Name="Controllo di Servizio"/>
+	<Elem NameU="Service Module" Name="Modulo di Servizio"/>
+	<Elem NameU="Service Router" Name="Router di Servizio"/>
+	<Elem NameU="Services" Name="Servizi"/>
+	<Elem NameU="Set Top Box" Name="Decoder"/>
+	<Elem NameU="Simulitlayer Switch" Name="Interruttore Multi-livello"/>
+	<Elem NameU="Sip Proxy Werver" Name="Proxy Server Sip"/>
+	<Elem NameU="Sitting Woman" Name="Donna Seduta"/>
+	<Elem NameU="Small Business" Name="Piccola Impresa"/>
+	<Elem NameU="Small Hub" Name="Piccolo Hub"/>
+	<Elem NameU="SoftPhone" Name="SoftPhone"/>
+	<Elem NameU="Softswitch Pgw Mgc" Name="Softswitch Pgw Mgc"/>
+	<Elem NameU="Software Based Server" Name="Server Basato su Software"/>
+	<Elem NameU="Space Router" Name="Router Spaziale"/>
+	<Elem NameU="Speaker" Name="Altoparlante"/>
+	<Elem NameU="Ssc" Name="Ssc"/>
+	<Elem NameU="Ssl Terminator" Name="Terminatore Ssl"/>
+	<Elem NameU="Standard Host" Name="Host Standard"/>
+	<Elem NameU="Standing Man" Name="Uomo Alzato"/>
+	<Elem NameU="Standing Woman" Name="Donna Alzata"/>
+	<Elem NameU="Stb" Name="Stb"/>
+	<Elem NameU="Storage Router" Name="Router di Archiviazione"/>
+	<Elem NameU="Storage Server" Name="Server di Archiviazione"/>
+	<Elem NameU="Stp" Name="Stp"/>
+	<Elem NameU="Streamer" Name="Streamer"/>
+	<Elem NameU="Sun Workstation" Name="Stazione di Lavoro Sun"/>
+	<Elem NameU="Supercomputer" Name="Super Computer"/>
+	<Elem NameU="Svx" Name="Svx"/>
+	<Elem NameU="System Controller" Name="Controller di Sistema"/>
+	<Elem NameU="Tablet" Name="Tablet"/>
+	<Elem NameU="Tape Array" Name="Serie di Nastri"/>
+	<Elem NameU="Tdm Router" Name="Router Tdm"/>
+	<Elem NameU="Telecommuter House pc" Name="Casa Telelavoro con Computer"/>
+	<Elem NameU="Telecommuter House" Name="Casa Telelavoro"/>
+	<Elem NameU="Telecommuter icon" Name="Icona Telelavoro"/>
+	<Elem NameU="Terminal" Name="Terminale"/>
+	<Elem NameU="Token" Name="Token"/>
+	<Elem NameU="TP MCU" Name="MCU TP"/>
+	<Elem NameU="Transpath" Name="Transpath"/>
+	<Elem NameU="Truck" Name="Camion"/>
+	<Elem NameU="Turret" Name="Torretta"/>
+	<Elem NameU="Tv" Name="TV"/>
+	<Elem NameU="Ubr910" Name="Ubr910"/>
+	<Elem NameU="Umg Series" Name="Serie Umg"/>
+	<Elem NameU="Unity Server" Name="Server di Unità"/>
+	<Elem NameU="Universal Gateway" Name="Gateway Universale"/>
+	<Elem NameU="University" Name="Università"/>
+	<Elem NameU="Upc" Name="Upc"/>
+	<Elem NameU="Ups" Name="Ups"/>
+	<Elem NameU="Vault" Name="Deposito"/>
+	<Elem NameU="Video Camera" Name="Videocamera"/>
+	<Elem NameU="Vip" Name="Vip"/>
+	<Elem NameU="Virtual Layer Switch" Name="Interruttore di Livello Virtuale"/>
+	<Elem NameU="Virtual Switch Controller (vsc3000)" Name="Controller Interruttore Virtuale (vsc3000)"/>
+	<Elem NameU="Voice Atm Switch" Name="Interruttore Voce Atm"/>
+	<Elem NameU="Voice Commserver" name=""/>
+	<Elem NameU="Voice Router" Name="Router Voce"/>
+	<Elem NameU="Voice Switch" Name="Interruttore Voce"/>
+	<Elem NameU="Vpn Concentrator" Name="Concentratore Vpn"/>
+	<Elem NameU="Vpn Gateway" Name="Gateway Vpn"/>
+	<Elem NameU="VSD" Name="VSD"/>
+	<Elem NameU="VSS" Name="VSS"/>
+	<Elem NameU="Wae" Name="Wae"/>
+	<Elem NameU="Wavelength Router" Name="Router a Lunghezza d'Onda"/>
+	<Elem NameU="Web Browser" Name="Browser Web"/>
+	<Elem NameU="Web Cluster" Name="Cluster Web"/>
+	<Elem NameU="Wi-Fi tag" Name="Etichetta Wi-Fi"/>
+	<Elem NameU="Wireless Bridge" Name="Ponte Wireless"/>
+	<Elem NameU="Wireless Location Appliance" Name="Dispositivo Localizzazione Wireless"/>
+	<Elem NameU="Wireless Router" Name="Router Wireless"/>
+	<Elem NameU="Wireless Transport" Name="Trasporto Wireless"/>
+	<Elem NameU="Wireless" Name="Wireless"/>
+	<Elem NameU="Wism" Name="Wism"/>
+	<Elem NameU="Wlan Controller" Name="Controller Wlan"/>
+	<Elem NameU="Workgroup Director" Name="Direttore Workgroup"/>
+	<Elem NameU="Workgroup Switch" Name="Interruttore Workgroup"/>
+	<Elem NameU="Workstation" Name="WorkStation"/>
+	<Elem NameU="Www Server" Name="Server WWW"/>
+	<Elem NameU="3x74 (floor)" Name="3x74 (piano)"/>
+	<Elem NameU="10GE_FCoE" Name="10GE_FCoE"/>
+	<Elem NameU="100baset hub" Name="Hub 100baset"/>
+	<Elem NameU="3174 (desktop)" Name="3174 (desktop)"/>
+	<Elem NameU="3200 mobile access router" Name="Router per accesso mobile 3200"/>
+	<Elem NameU="6700 series" Name="Serie 6700"/>
+	<Elem NameU="7500ars (7513)" Name="7500ars (7513)"/>
+	<Elem NameU="10700" Name="10700"/>
+	<Elem NameU="15200" Name="15200"/>
+</Lib>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Source and Battery">
+    <Elem NameU="Source" Name="소스"/>
+    <Elem NameU="Ideal source" Name="이상 소스"/>
+    <Elem NameU="AC source" Name="교류 소스"/>
+    <Elem NameU="DC source" Name="직류 소스"/>
+    <Elem NameU="Constant source" Name="상수 소스"/>
+    <Elem NameU="Cell" Name="배터리"/>
+    <Elem NameU="Battery" Name="배터리"/>
+    <Elem NameU="AC" Name="AC"/>
+    <Elem NameU="Current" Name="전류"/>
+    <Elem NameU="DC" Name="DC"/>
+    <Elem NameU="DC 2" Name="DC 2"/>
+    <Elem NameU="Dependent" Name="종속된 항목"/>
+    <Elem NameU="Dependent 2" Name="종속된 항목 2"/>
+    <Elem NameU="Dependent 3" Name="종속된 항목 3"/>
+    <Elem NameU="Noise" Name="소음"/>
+    <Elem NameU="Oscillator" Name="발진기"/>
+</Lib>

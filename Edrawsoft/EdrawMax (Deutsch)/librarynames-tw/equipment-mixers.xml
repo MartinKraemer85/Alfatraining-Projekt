@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Equipment-Mixers">
+    <Elem NameU="In-line mixer" Name="液體連續攪拌機"/>
+    <Elem NameU="Mixer" Name="攪拌機"/>
+    <Elem NameU="Various mixers" Number="2" Name="多種攪拌機"/>
+    <Elem NameU="Various mixers 2" Name="多種攪拌機 2"/>
+    <Elem NameU="Agitator, Stirrer" Name="攪拌器，攪拌機"/>
+    <Elem NameU="Agitator, Propeller" Name="攪拌器，螺旋槳"/>
+    <Elem NameU="Agitator, Anchor" Name="錨式攪拌器"/>
+    <Elem NameU="Agitator, Impeller" Name="葉輪攪拌器"/>
+    <Elem NameU="Agitator, Turbine" Name="渦輪式攪拌器"/>
+    <Elem NameU="Agitator, Helical" Name="螺式旋攪拌器"/>
+    <Elem NameU="Agitator, Gat Paddle" Name="槳式攪拌器"/>
+    <Elem NameU="Agitator, Disc" Name="盤式攪拌器"/>
+    <Elem NameU="Agitator, Cross-beam" Name="錯臂攪拌器"/>
+</Lib>

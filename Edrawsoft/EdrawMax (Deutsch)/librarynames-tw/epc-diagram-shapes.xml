@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="EPC Diagram Shapes">
+    <Elem NameU="Event" Name="事件"/>
+    <Elem NameU="Function" Name="職能"/>
+    <Elem NameU="Process Path" Name="進程路徑"/>
+    <Elem NameU="XOR" Name="異或"/>
+    <Elem NameU="OR" Name="或"/>
+    <Elem NameU="AND" Name="與"/>
+    <Elem NameU="Joint" Name="連接"/>
+    <Elem NameU="Yes/No" Name="是/否"/>
+    <Elem NameU="Organizational Unit" Name="組織單元"/>
+    <Elem NameU="Informational or Material" Name="信息/材料"/>
+    <Elem NameU="Information Box" Number="2" Name="信息框"/>
+    <Elem NameU="Main Process" Name="主進程"/>
+    <Elem NameU="Component" Name="組件"/>
+    <Elem NameU="Enterprise Area" Name="企業區域"/>
+    <Elem NameU="Process Group" Name="進程組"/>
+    <Elem NameU="Document" Name="文檔"/>
+    <Elem NameU="Database" Name="資料庫"/>
+    <Elem NameU="Curve Connector" Name="曲線連接線"/>
+</Lib>

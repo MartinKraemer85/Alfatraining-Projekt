@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Alibaba Cloud Media">
+
+<Elem Name="Intelligentes Medienmanagement" NameU="Intelligent media management"/>
+
+<Elem Name="Medienverarbeitung" NameU="Media processing"/>
+
+<Elem Name="RTC" NameU="RTC"/>
+
+<Elem Name="Video live" NameU="Video live"/>
+
+<Elem Name="Videoüberwachung" NameU="Video monitoring"/>
+
+<Elem Name="VOD" NameU="VOD"/>
+
+</Lib>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Azure Deprecated">
+    <Elem NameU="Azure App Service - Logic App" Name="Azure邏輯應用"/>
+    <Elem NameU="Azure Application Gateway v1 OLD" Name="Azure應用程式網關舊版"/>
+    <Elem NameU="Azure Batch" Name="Azure Batch雲計算服務"/>
+    <Elem NameU="Azure Bot" Name="Azure聊天機器人"/>
+    <Elem NameU="Azure Content Delivery Network (CDN) v1_OLD" Name="Azure CDN內容傳輸網絡舊版"/>
+    <Elem NameU="Azure Machine Learning" Name="Azure機器學習"/>
+    <Elem NameU="Azure Notification Hubs- Notification Topic" Name="Azure通知中心"/>
+    <Elem NameU="Compute" Name="計算"/>
+    <Elem NameU="Data Lake BEN" Name="資料湖柱"/>
+    <Elem NameU="Datalake Analytics BEN" Name="資料湖分析柱"/>
+    <Elem NameU="Datalake Store BEN" Name="資料湖存儲柱"/>
+    <Elem NameU="Data Services" Name="資料服務"/>
+    <Elem NameU="DataWarehouse" Name="資料倉"/>
+    <Elem NameU="Service Bus Old" Name="消息服務舊版"/>
+    <Elem NameU="Service Bus Queue Old" Name="消息服務隊列"/>
+    <Elem NameU="Service Bus Relay Old" Name="消息服務中繼"/>
+    <Elem NameU="Service Bus Topic Old" Name="消息服務主題"/>
+    <Elem NameU="Service Package" Name="服務程序包"/>
+    <Elem NameU="SQL Data Warehouse" Name="SQL資料倉"/>
+    <Elem NameU="SQL Reporting" Name="SQL報告"/>
+    <Elem NameU="SQL Stretch Database (DB)" Name="SQL拉伸資料庫"/>
+</Lib>

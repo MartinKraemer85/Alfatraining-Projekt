@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="HVAC Equipment">
+
+<Elem Name="Pumpe" NameU="Pump"/>
+
+<Elem Name="Zentrifugalpumpe" NameU="Centrifugal pump"/>
+
+<Elem Name="Hubkolbenpumpe" NameU="Reciprocating pump"/>
+
+<Elem Name="Schraubenspindelpumpe" NameU="Screw pump"/>
+
+<Elem Name="Lüfter" NameU="Fan"/>
+
+<Elem Name="Zentrifugalgebläse" NameU="Centrifugal fan"/>
+
+<Elem Name="Lüfterflügel" NameU="Fan blades"/>
+
+<Elem Name="Entfeuchter" NameU="Moisture eliminator"/>
+
+<Elem Name="Schalldämpfer" NameU="Silencer"/>
+
+<Elem Name="Schalldämpfer 2" NameU="Silencer 2"/>
+
+<Elem Name="Kondensator" NameU="Condenser"/>
+
+<Elem Name="Luftfilter" NameU="Air filter"/>
+
+<Elem Name="Rohrschlange" NameU="Pipe coil"/>
+
+<Elem Name="Dunstabzugshaube" NameU="Exhaust hood"/>
+
+<Elem Name="Dämpfer" NameU="Muffler"/>
+
+<Elem Name="Volumenstromregelung" NameU="Air volume control valve"/>
+
+<Elem Name="Filter" NameU="The filter"/>
+
+<Elem Name="Regler" NameU="Regulator"/>
+
+<Elem Name="Heizgerät" NameU="The heater"/>
+
+<Elem Name="Flächenluftkühlung" NameU="Surface air cooler"/>
+
+<Elem Name="Luftbefeuchter" NameU="Humidifier"/>
+
+<Elem Name="Hochlestungsfilter" NameU="High efficiency filter"/>
+
+<Elem Name="Ozongenerator" NameU="Ozone generator"/>
+
+<Elem Name="Primärer Filter、 Mideffekter Filter" NameU="Primary filter、 Mid-effect filter"/>
+
+<Elem Name="Luftkompressor" NameU="Air compressor"/>
+
+<Elem Name="Sauerstoff angereicherter Filter" NameU="Oxygen-enriched filter"/>
+
+<Elem Name="Membran Klarsichbox" NameU="Membrane Clear Box"/>
+
+<Elem Name="Vakuumpumpe" NameU="Vacuum pump"/>
+
+<Elem Name="Ventil" NameU="Valve"/>
+
+<Elem Name="Vakuummeter" NameU="Vacuum Gauge"/>
+
+<Elem Name="Dampfabscheider" NameU="Steam separator"/>
+
+<Elem Name="Druckhalteanlage" NameU="Pressurizer system"/>
+
+<Elem Name="Entfeuchtungsgerät" NameU="Dehumidifying system"/>
+
+<Elem Name="Druckerhöhungsgebläse" NameU="Booster fan"/>
+
+<Elem Name="Vorglühanlage" NameU="Preheating system"/>
+
+<Elem Name="Düse" NameU="Nozzle"/>
+
+<Elem Name="Boiler" NameU="Boiler"/>
+
+<Elem Name="Kaltwasserpumpe" NameU="Cold water pump"/>
+
+<Elem Name="Durchflussventil" NameU="Flow valve"/>
+
+<Elem Name="Wasserturm" NameU="Water tower"/>
+
+<Elem Name="Luftauslassgitter" NameU="Supply air grill"/>
+
+<Elem Name="Rohrleitungsnetz" NameU="Pipe network"/>
+
+<Elem Name="Kühlschlange" NameU="Cooling coil"/>
+
+<Elem Name="Lufteinlassgitter" NameU="Return air grill"/>
+
+<Elem Name="Rohrleitung" NameU="Pipeline"/>
+
+<Elem Name="Gebiet Dämpfer" NameU="Zone damper"/>
+
+<Elem Name="Außenluftungskanal" NameU="Outside air duct"/>
+
+<Elem Name="Ventilator" NameU="Ventilator"/>
+
+<Elem Name="Kältemittelsammler" NameU="Refrigerant receiver"/>
+
+<Elem Name="kühler" NameU="Chiller"/>
+
+<Elem Name="Axialventilator" NameU="Axia fan"/>
+
+<Elem Name="Durchgangstür" NameU="Access door"/>
+
+<Elem Name="Kreiselpumpe" NameU="Rotary Pump"/>
+
+<Elem Name="Trockner" NameU="Dryer"/>
+
+<Elem Name="Kondensattank" NameU="Condensate tank"/>
+
+<Elem Name="Wärmemotor" NameU="Heat engine"/>
+
+<Elem Name="Heizgerät" NameU="Unit heater"/>
+
+<Elem Name="Gerätelüfter" NameU="Unit ventilator"/>
+
+<Elem Name="Dampf" NameU="Steam"/>
+
+<Elem Name="Doppelsaugfilter" NameU="Duplex strainer"/>
+
+<Elem Name="Druckreduzierventil" NameU="Pressure-reducing valve"/>
+
+<Elem Name="Fluglinieventil" NameU="Airline valve"/>
+
+<Elem Name="Schmutzfänger" NameU="Strainer"/>
+
+<Elem Name="Automatisches 3-wege Ventil" NameU="Automatic 3-way valve"/>
+
+<Elem Name="Solenoldventil" NameU="Solenold valve"/>
+
+<Elem Name="Überdruckventil" NameU="Relief valve"/>
+
+<Elem Name="Druckmessgerät und Hahn" NameU="Pressure gauge and cock"/>
+
+<Elem Name="Thermometer" NameU="Thermometer"/>
+
+<Elem Name="Fan und Motor mit Riemenschutz" NameU="Fan and motor with belt guard"/>
+
+<Elem Name="Versorgung des Kanalteils" NameU="Supply duct-section"/>
+
+<Elem Name="Modulierender Rückluftkapillarthermostat" NameU="Modulating return air capillary thermostat"/>
+
+<Elem Name="Magnetluftventil" NameU="Solenold air valve"/>
+
+<Elem Name="Elektrischer Druckschalter" NameU="Pressure electric switch"/>
+
+</Lib>

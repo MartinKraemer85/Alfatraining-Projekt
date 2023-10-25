@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Enterprise Application">
+	<Elem NameU="Server" Name="Server"/>
+	<Elem NameU="Mainframe" Name="Struttura Principale"/>
+	<Elem NameU="Workstation" Name="Stazione di Lavoro"/>
+	<Elem NameU="Servers" Name="Server"/>
+	<Elem NameU="Mainframes" Name="Strutture Principali"/>
+	<Elem NameU="Workstations" Name="Stazioni di Lavoro"/>
+	<Elem NameU="Spare" Name="Riserva"/>
+	<Elem NameU="Laptop" Name="Computer Portatile"/>
+	<Elem NameU="Laptops" Name="Computer Portatili"/>
+	<Elem NameU="Boundary" Name="Delimitazione"/>
+	<Elem NameU="Datastore" Name="Archivio Dati"/>
+	<Elem NameU="Object" Name="Oggetto"/>
+	<Elem NameU="Process" Name="processo"/>
+	<Elem NameU="Label" Name="Etichetta"/>
+	<Elem NameU="User" Name="Utente"/>
+	<Elem NameU="Document" Name="Documento"/>
+	<Elem NameU="Component" Name="Componente"/>
+	<Elem NameU="Interface" Name="Interfaccia"/>
+</Lib>

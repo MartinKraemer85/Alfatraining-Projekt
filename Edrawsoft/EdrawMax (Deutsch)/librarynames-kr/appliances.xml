@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Appliances">
+    <Elem NameU="Pendant lamp" Name="펜던트 등"/>
+    <Elem NameU="LED" Name="LED"/>
+    <Elem NameU="Floor lamp" Name="플로어 등"/>
+    <Elem NameU="Wall lamp" Name="벽등"/>
+    <Elem NameU="Spotlight" Name="스포트라이트"/>
+    <Elem NameU="Tube light" Name="튜브 라이트"/>
+    <Elem NameU="LED downlight" Name="LED 라이트"/>
+    <Elem NameU="Shower lamp" Name="샤워 램프"/>
+    <Elem NameU="Fan" Name="팬"/>
+    <Elem NameU="Air exhaust fan" Name="에어 배기 팬"/>
+    <Elem NameU="Gas stoves" Name="가스 스토브"/>
+    <Elem NameU="Gas Stoves" Name="가스 스토브"/>
+    <Elem NameU="Refrg" Number="2" Name="냉장고"/>
+    <Elem NameU="Chest freezer" Name="냉동고"/>
+    <Elem NameU="Cooker" Name="밥 솥"/>
+    <Elem NameU="Range" Name="부뚜막"/>
+    <Elem NameU="Microwave" Name="전자레인지"/>
+    <Elem NameU="Dishwasher" Name="식기 세척기"/>
+    <Elem NameU="Washing machine" Name="세탁기"/>
+    <Elem NameU="Water cooler" Name="음료수 냉각기"/>
+    <Elem NameU="Oven" Name="오븐"/>
+    <Elem NameU="Tumble dryer" Name="회전식 건조기"/>
+    <Elem NameU="Coffee maker" Name="커피 머신"/>
+    <Elem NameU="Disinfection cabinet" Name="소독 캐비닛"/>
+    <Elem NameU="Flat-panel TV" Name="플랫 패널 TV"/>
+    <Elem NameU="Keyboard" Name="키보드"/>
+    <Elem NameU="Video game" Name="비디오 게임기"/>
+    <Elem NameU="Food cooler" Name="식품 냉동고"/>
+    <Elem NameU="Vending machine" Name="자판기"/>
+    <Elem NameU="Water heater" Name="온수기"/>
+</Lib>

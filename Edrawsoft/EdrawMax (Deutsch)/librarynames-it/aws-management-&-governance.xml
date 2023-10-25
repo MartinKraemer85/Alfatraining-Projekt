@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="AWS Management &amp; Governance">
+	<Elem NameU="CloudWatch" Name="CloudWatch"/>
+	<Elem NameU="CloudWatch_Alarm" Name="Avviso Cloud Watch"/>
+	<Elem NameU="CloudWatch_Event-Event-Based" Name="CloudWatch_Event-Event-Based"/>
+	<Elem NameU="CloudWatch_Event-Time-Based" Name="CloudWatch_Event-Time-Based"/>
+	<Elem NameU="CloudWatch_Rule" Name="Regole CloudWatch"/>
+	<Elem NameU="AWS-App-Config" Name="Configurazione App AWS"/>
+	<Elem NameU="AWS-Auto-Scaling" Name="Scalabilità automatica AWS"/>
+	<Elem NameU="AWS-CloudFormation" Name="Formazione cloud AWS"/>
+	<Elem NameU="AWS-CloudTrail" Name="AWS Cloud Tracking"/>
+	<Elem NameU="AWS-CloudFormation_Change-Set" Name="Set Modifiche AWS-CloudFormation"/>
+	<Elem NameU="AWS-CloudFormation_Stack" Name="Stack AWS-CloudFormation"/>
+	<Elem NameU="AWS-CloudFormation_Template" Name="Template AWS-CloudFormation"/>
+	<Elem NameU="AWS-Command-Line-Interface" Name="Interfaccia della riga di comando AWS"/>
+	<Elem NameU="AWS-Config" Name="Configurazione AWS"/>
+	<Elem NameU="AWS-Control-Tower" Name="Torre di controllo AWS"/>
+	<Elem NameU="AWS-License-Manager" Name="AWS License Manager"/>
+	<Elem NameU="AWS-Managed-Services" Name="Servizi gestiti da AWS"/>
+	<Elem NameU="AWS-Management-Console" Name="Console di gestione AWS"/>
+	<Elem NameU="AWS-OpsWorks" Name="AWS OpsWorks"/>
+	<Elem NameU="AWS-OpsWorks_Apps" Name="App AWS OpsWorks"/>
+	<Elem NameU="AWS-OpsWorks_Deployments" Name="Distribuzioni di AWS OpsWorks"/>
+	<Elem NameU="AWS-OpsWorks_Instances" Name="Istanze AWS OpsWorks"/>
+	<Elem NameU="AWS-OpsWorks_Layers" Name="Livelli AWS OpsWorks"/>
+	<Elem NameU="AWS-OpsWorks_Monitoring" Name="Monitoraggio AWS OpsWorks"/>
+	<Elem NameU="AWS-OpsWorks_Permissions" Name="Autorizzazioni AWS OpsWorks"/>
+	<Elem NameU="AWS-OpsWorks_Resources" Name="Risorse AWS OpsWorks"/>
+	<Elem NameU="AWS-OpsWorks_Stack2" Name="Stack AWS OpsWorks2"/>
+	<Elem NameU="AWS-Organizations_Account" Name="Account organizzazioni AWS"/>
+	<Elem NameU="AWS-Organizations_Organizational-unit" Name="Unità organizzativa AWS"/>
+	<Elem NameU="AWS-Organizations" Name="Organizzazione AWS"/>
+	<Elem NameU="AWS-Personal-Health-Dashboard" Name="AWS Personal Health Dashboard"/>
+	<Elem NameU="AWS-Service-Catalog" Name="Catalogo servizi AWS"/>
+	<Elem NameU="AWS-Systems-Manager" Name="Amministratore di sistema AWS"/>
+	<Elem NameU="AWS-Trusted-Advisor" Name="AWS Trust Advisor"/>
+	<Elem NameU="AWS-Systems-Manager_Automation" Name="Automazione amministratore di sistema AWS"/>
+	<Elem NameU="AWS-Systems-Manager_Documents" Name="Documentazione amministratore di sistema AWS"/>
+	<Elem NameU="AWS-Systems-Manager_Inventory" Name="Inventario amministratore di sistema AWS"/>
+	<Elem NameU="AWS-Systems-Manager_Maintenance-Windows" Name="Finestra manutenzione amministratore di sistema AWS"/>
+	<Elem NameU="AWS-Systems-Manager_Parameter-Store" Name="Archiviazione parametri amministratore di sistema AWS"/>
+	<Elem NameU="AWS-Systems-Manager_Patch-Manager" Name="Patch Manager amministratore di sistema AWS"/>
+	<Elem NameU="AWS-Systems-Manager_Run-Command" Name="Comando di esecuzione amministratore di sistema AWS"/>
+	<Elem NameU="AWS-Systems-Manager_State-Manager" Name="Amministratore di sistema AWS State Manager"/>
+	<Elem NameU="AWS-Trusted-Advisor_Checklist" Name="Elenco consulenti affidabili di AWS"/>
+	<Elem NameU="AWS-Trusted-Advisor_Checklist-Cost" Name="Costo elenco AWS Trusted Advisor"/>
+	<Elem NameU="AWS-Trusted-Advisor_Checklist-Fault-Tolerant" Name="Elenco consulenti affidabili AWS tolleranza agli errori"/>
+	<Elem NameU="AWS-Trusted-Advisor_Checklist-Performance" Name="Prestazioni dell'elenco di consulenti affidabili AWS"/>
+	<Elem NameU="AWS-Trusted-Advisor_Checklist-Security" Name="Sicurezza dell'elenco di consulenti attendibili AWS"/>
+	<Elem NameU="AWS-Well-Architected-Tool" Name="Strumenti completi AWS"/>
+	<Elem NameU="Management-and-Governance" Name="Gestione e governance"/>
+	<Elem NameU="Systems-Manager_OpsCenter" Name="Amministratore di sistema OpsCenter"/>
+</Lib>

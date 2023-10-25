@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Facial Expressions">
+    <Elem NameU="Man Laugh" Name="남자 웃음"/>
+    <Elem NameU="Man Happy" Name="남자 기쁨"/>
+    <Elem NameU="Man Surprised" Name="남자 놀라움 "/>
+    <Elem NameU="Man Wink" Name="남자 윙크"/>
+    <Elem NameU="Man Pleased" Name="남자 만족"/>
+    <Elem NameU="Man Indifferent" Name="남자 무관심"/>
+    <Elem NameU="Man Despise" Name="남자 경멸"/>
+    <Elem NameU="Man Angry 2" Name="남자 화남 2"/>
+    <Elem NameU="Man Angry 1" Name="남자 화남 1"/>
+    <Elem NameU="Man in Love" Name="사랑에 빠진 남자"/>
+    <Elem NameU="Man Dissatisfied" Name="남자 불만"/>
+    <Elem NameU="Man Sad" Name="남자 속상"/>
+    <Elem NameU="Man Disappointed" Name="남자 실망"/>
+    <Elem NameU="Man Uneasy" Name="남자 긴장"/>
+    <Elem NameU="Man Awkward" Name="남자 민망"/>
+    <Elem NameU="Man Cute" Name="남자 귀여움"/>
+    <Elem NameU="Man Greedy" Name="남자 욕심"/>
+    <Elem NameU="Man Crying" Name="남자 울음"/>
+    <Elem NameU="Man Disgusted" Name="남자 싫증"/>
+    <Elem NameU="Man Scared" Name="남자 두려움"/>
+    <Elem NameU="Woman Normal" Name="여자 보통"/>
+    <Elem NameU="Woman Pleased" Name="여자 만족"/>
+    <Elem NameU="Woman Happy" Name="여자 기쁨"/>
+    <Elem NameU="Woman Surprised" Name="여자 놀라움"/>
+    <Elem NameU="Woman One Eye Blink" Name="여자 윙크"/>
+    <Elem NameU="Woman Indifference" Name="여자 무관심"/>
+    <Elem NameU="Woman Dissatisfied" Name="여자 경멸"/>
+    <Elem NameU="Woman In Love" Name="사랑에 빠진 여자"/>
+    <Elem NameU="Woman Angry 1" Name="여자 화남 1"/>
+    <Elem NameU="Woman Angry 2" Name="여자 화남 2"/>
+    <Elem NameU="Woman Despise" Name="여자 경멸"/>
+    <Elem NameU="Woman Sad" Name="여자 속상"/>
+    <Elem NameU="Woman Uneasy" Name="여자 긴장"/>
+    <Elem NameU="Woman Disappointed" Name="여자 실망"/>
+    <Elem NameU="Woman Awkward" Name="여자 민망"/>
+    <Elem NameU="Woman Greedy" Name="여자 욕심"/>
+    <Elem NameU="Woman Cute" Name="여자 귀여움"/>
+    <Elem NameU="Woman Crying" Name="여자 울음"/>
+    <Elem NameU="Woman Disgusted" Name="여자 싫증"/>
+    <Elem NameU="Woman Scared" Name="여자 두려움"/>
+</Lib>

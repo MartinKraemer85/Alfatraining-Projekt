@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="AWS Developer Tools">
+	<Elem NameU="AWS-Cloud9" Name="AWS云9"/>
+	<Elem NameU="AWS-Cloud-Development-Kit" Name="AWS云开发套件"/>
+	<Elem NameU="AWS-CodeBuild" Name="AWS代码构建"/>
+	<Elem NameU="AWS-CodeCommit" Name="AWS代码提交"/>
+	<Elem NameU="AWS-CodeDeploy" Name="AWS代码部署"/>
+	<Elem NameU="AWS-CodePipeline" Name="AWS代码管道"/>
+	<Elem NameU="AWS-CodeStar" Name="AWS密码之星"/>
+	<Elem NameU="AWS-Command-Line-Interface" Name="AWS命令行界面"/>
+	<Elem NameU="AWS-Tools-And-SDKs" Name="AWS工具和SDK"/>
+	<Elem NameU="AWS-X-Ray" Name="AWS X射线"/>
+	<Elem NameU="Developer-Tools" Name="开发者工具"/>
+	<Elem NameU="DynamoDB_DAX" Name="发电机数据库DAX"/>
+	<Elem NameU="Cloud9_Resource" Name="云9资源"/>
+</Lib>

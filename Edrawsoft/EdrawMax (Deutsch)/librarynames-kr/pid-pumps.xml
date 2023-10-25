@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Pumps">
+    <Elem NameU="3-D ISA Pump" Name="3-D ISA 펌프"/>
+    <Elem NameU="3-D Pump" Name="3-D 펌프"/>
+    <Elem NameU="Air powered pump" Name="공기 구동 펌프"/>
+    <Elem NameU="Air-operated diaphragm pump" Name="공기 작동식 다이어프램 펌프"/>
+    <Elem NameU="Centrifugal pump 1" Name="원심력 펌프 1"/>
+    <Elem NameU="Centrifugal pump 2" Name="원심력 펌프 2"/>
+    <Elem NameU="Centrifugal pump 3" Name="원심력 펌프 3"/>
+    <Elem NameU="Centrifugal pump 4" Name="원심력 펌프 4"/>
+    <Elem NameU="Centrifugal pump 5" Name="원심력 펌프 5"/>
+    <Elem NameU="Centrifugal pump with integral pump-motor shaft" Name="축 있는 원심력 펌프"/>
+    <Elem NameU="Centrifugal thermoplastic pump" Name="원심 열가소성 펌프"/>
+    <Elem NameU="Chemical pump 1" Name="화학 펌프 1"/>
+    <Elem NameU="Chemical pump 2" Name="화학 펌프 2"/>
+    <Elem NameU="Chemical pump 3" Name="화학 펌프 3"/>
+    <Elem NameU="Classic pump 4" Name="클래식 펌프"/>
+    <Elem NameU="Cool pump" Name="쿨 펌프"/>
+    <Elem NameU="Corrosion resistant submersible pump" Name="부식 방지 수중 펌프"/>
+    <Elem NameU="Corrosion-resistant continuous duty pump" Name="부식 방지 연속 듀티 펌프"/>
+    <Elem NameU="Diaphragm pump" Name="다이어프램 펌프"/>
+    <Elem NameU="Diaphragm pump 2" Name="다이어프램 펌프 2"/>
+    <Elem NameU="End-suction centrifugal pump" Name="끝 흡입 원심 펌프"/>
+    <Elem NameU="Explosion-proof pump" Name="방폭 펌프"/>
+    <Elem NameU="Flanged pump" Name="플랜지 펌프"/>
+    <Elem NameU="Flex-mounted centrifugal pump" Name="원심력 펌프 6"/>
+    <Elem NameU="Heavy-duty plastic centrifugal pump" Name="튼튼한 플라스틱 원심 펌프"/>
+    <Elem NameU="High temp heat trans pump" Name="고온 열전달 펌프"/>
+    <Elem NameU="High volume pump" Name="대용량 펌프"/>
+    <Elem NameU="High-viscosity pump" Name="고점도 펌프"/>
+    <Elem NameU="High-viscosity pump (left)" Name="고점도 펌프 (왼쪽)"/>
+    <Elem NameU="High-viscosity pump (right)" Name="고점도 펌프 (오른쪽)"/>
+    <Elem NameU="Horizontal pump 1" Name="수평 펌프 1"/>
+    <Elem NameU="Horizontal pump 2 (left)" Name="수평 펌프 2 (왼쪽)"/>
+    <Elem NameU="Horizontal pump 2 (right)" Name="수평 펌프 3 (오른쪽)"/>
+    <Elem NameU="Horizontal pump 3" Name="수평 펌프 4"/>
+    <Elem NameU="Horizontal solids handling vortex pump" Name="수평 솔리드 액션 와류 펌프"/>
+    <Elem NameU="Horizontal split case pump" Name="수평 분할 케이스 펌프"/>
+    <Elem NameU="Isolating diaphragm pump" Name="격리 다이어프램 펌프"/>
+    <Elem NameU="Large volume chemical and submersible pump" Name="대용량 화학 및 수중 펌프"/>
+    <Elem NameU="Mag drive non-metallic pump" Name="매그 드라이브 비금속 펌프"/>
+    <Elem NameU="Mag drive pump 1" Name="매그 드라이브 펌프 1"/>
+    <Elem NameU="Mag drive pump 2" Name="매그 드라이브 펌프 2"/>
+    <Elem NameU="Oil pump" Name="오일 펌프"/>
+    <Elem NameU="Oil well pump" Name="유정 펌프"/>
+    <Elem NameU="Plunger pump" Name="플런저 펌프"/>
+    <Elem NameU="Positive displacement gear pump" Name="용적형 기어 펌프"/>
+    <Elem NameU="Pump for highly-corrosive applications" Name="부식성이 높은 어플리케이션용 펌프"/>
+    <Elem NameU="Pump" Name="펌프"/>
+    <Elem NameU="Pumping trap" Name="펌핑 트랩"/>
+    <Elem NameU="Rotary vacuum pump" Name="회전식 진공 펌프"/>
+    <Elem NameU="sealless pump" Name="씰리스 펌프"/>
+    <Elem NameU="self-priming centrifugal pump" Name="자가 프라이밍 원심 펌프"/>
+    <Elem NameU="sewage pump" Name="하수 펌프"/>
+    <Elem NameU="Simple pump" Name="간단한 펌프"/>
+    <Elem NameU="Simple vertical pump" Name="간단한 수직 펌프"/>
+    <Elem NameU="Solids-handling self-priming pump" Name="고체 처리 자체 프라이밍 펌프"/>
+    <Elem NameU="SRH pump" Name="SRH펌프"/>
+    <Elem NameU="Standard-flange positive displacement pump" Name="표준 플랜지 용적형 펌프"/>
+    <Elem NameU="Submersible sump pump" Name="잠수정 펌프"/>
+    <Elem NameU="Sump pump" Name="집수 펌프"/>
+    <Elem NameU="Threaded gear" Name="나사형 펌프"/>
+    <Elem NameU="Vacuum pump" Name="진공 펌프"/>
+    <Elem NameU="Vertical pump (down)" Name="수직 펌프 (아래)"/>
+    <Elem NameU="Vertical pump (up)" Name="수직 펌프 (위)"/>
+    <Elem NameU="Vertical pump" Name="수직 펌프"/>
+    <Elem NameU="White pump" Name="화이트 펌프"/>
+    <Elem NameU="Yellow pump" Name="노란색 펌프"/>
+    <Elem NameU="Condensate pump" Name="응축수 펌프"/>
+    <Elem NameU="CIP Pump" Name="CIP펌프"/>
+    <Elem NameU="Raw Water Pump" Name="원수 펌프"/>
+    <Elem NameU="Plunger Pump" Name="플런저 펌프"/>
+    <Elem NameU="Pump" Number="2" Name="펌프"/>
+    <Elem NameU="Hot Living Water Pump for Low Area" Name="저지역용 온수 펌프"/>
+    <Elem NameU="Hot Living Water Pump for High Area" Name="높은 지역용 온수 펌프"/>
+    <Elem NameU="Freezing Pump" Name="냉동 펌프"/>
+    <Elem NameU="Pump" Name="펌프"/>
+    <Elem NameU="Cooling Pump" Name="냉각 펌프"/>
+    <Elem NameU="Freezing Pump" Name="냉동 펌프"/>
+    <Elem NameU="Pump" Number="3" Name="펌프"/>
+</Lib>

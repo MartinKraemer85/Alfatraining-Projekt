@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Callout">
+	<Elem NameU="Callout-Curved Line" Name="Textbox–Gebogene Linie"/>
+	<Elem NameU="Callout-Bending Line" Name="Textbox–Gebogene Linie"/>
+	<Elem NameU="Callout-Straight Line" Name="Textbox–Gerade Linie"/>
+	<Elem NameU="Round Callout" Name="Textbox (rund)"/>
+	<Elem NameU="Oval Callout" Name="Textbox (oval)"/>
+	<Elem NameU="Rectangular Callout" Name="Textbox (rechteckig)"/>
+	<Elem NameU="Information Line" Name="Informationslinie"/>
+	<Elem NameU="Interrupt Line" Name="Unterbrechungslinie"/>
+	<Elem NameU="Cross Section 1" Name="Querschnitt 1"/>
+	<Elem NameU="Cross Section 2" Name="Querschnitt 2"/>
+	<Elem NameU="Cross Section 3" Name="Querschnitt 3"/>
+	<Elem NameU="Datum (Position)" Name="Festpunkt (Position)"/>
+	<Elem NameU="Datum 1" Name="Festpunkt 1"/>
+	<Elem NameU="Datum 2" Name="Festpunkt 2"/>
+	<Elem NameU="Datum" Name="Festpunkt"/>
+	<Elem NameU="Level" Name="Ebene"/>
+	<Elem NameU="Reference" Name="Referenz"/>
+	<Elem NameU="Ceiling" Name="Decke"/>
+	<Elem NameU="North Arrow 1" Name="Pfeil nach Norden 1"/>
+	<Elem NameU="North Arrow 2" Name="Pfeil nach Norden 2"/>
+	<Elem NameU="North Arrow 3" Name="Pfeil nach Norden 3"/>
+	<Elem NameU="North Arrow 4" Name="Pfeil nach Norden 4"/>
+	<Elem NameU="North Arrow 5" Name="Pfeil nach Norden 5"/>
+	<Elem NameU="Revision Cloud" Name="Revisionswolke"/>
+	<Elem NameU="Scale" Name="Skalieren"/>
+	<Elem NameU="Scale Symbol" Name="Skalierungssymbol"/>
+	<Elem NameU="Note Symbol" Name="Hinweissymbol"/>
+	<Elem NameU="Reference Triangle" Name="Bezugsdreieck"/>
+	<Elem NameU="Reference Rectangle" Name="Bezugsrechteck"/>
+	<Elem NameU="Reference Hexagon" Name="Bezugssechseck"/>
+	<Elem NameU="Reference Oval" Name="Bezugsoval"/>
+	<Elem NameU="Reference Circle" Name="Bezugskreis"/>
+	<Elem NameU="Reference Callout" Name="Bezugstextbox"/>
+	<Elem NameU="Alley" Name="Gasse"/>
+	<Elem NameU="Apartment-1" Name="Wohnung 1"/>
+	<Elem NameU="Apartment-2" Name="Wohnung 2"/>
+	<Elem NameU="Bathroom" Name="Badezimmer"/>
+	<Elem NameU="Bedroom" Name="Schlafzimmer"/>
+	<Elem NameU="Meeting Room" Name="Besprechungsraum"/>
+	<Elem NameU="Car Drugs" Name="Drogen im Auto"/>
+	<Elem NameU="Kitchen" Name="Küche"/>
+	<Elem NameU="Murder Scene" Name="Tatort"/>
+	<Elem NameU="Office" Name="Büro"/>
+	<Elem NameU="Pool" Name="Pool"/>
+	<Elem NameU="Public Toilet" Name="Öffentliche Toilette"/>
+	<Elem NameU="Convenience Store" Name="Gemischtwarenladen"/>
+	<Elem NameU="Dining Room" Name="Esszimmer"/>
+</Lib>

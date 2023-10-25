@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="2D Block Diagram">
+    <Elem NameU="Triangle" Name="三角形"/>
+    <Elem NameU="Isosceles Triangle" Name="等腰三角形"/>
+    <Elem NameU="Regular Triangle" Name="正三角形"/>
+    <Elem NameU="Right Angled Triangle" Name="直角三角形"/>
+    <Elem NameU="Rectangle" Name="矩形"/>
+    <Elem NameU="Rounded Rectangle" Name="圓角長方形"/>
+    <Elem NameU="Rounded Square" Name="圆角正方形"/>
+    <Elem NameU="Circle" Name="圓形"/>
+    <Elem NameU="Oval" Name="橢圓形"/>
+    <Elem NameU="Parallelogram" Name="平行四邊形"/>
+    <Elem NameU="Pentagon" Name="五角形"/>
+    <Elem NameU="Hexagon" Name="六角形"/>
+    <Elem NameU="Trapezoid" Name="梯形"/>
+    <Elem NameU="Rhombus" Name="菱形"/>
+    <Elem NameU="Half Circle" Name="半圓形"/>
+    <Elem NameU="Diamond" Name="鑽石"/>
+    <Elem NameU="Circle with Wavy Edge" Name="波浪邊圓圈"/>
+    <Elem NameU="Candy Shape" Name="糖果形狀"/>
+    <Elem NameU="Broken Corner Rectangle" Name="折角矩形"/>
+    <Elem NameU="Arch" Name="拱形"/>
+    <Elem NameU="Funnel" Name="漏斗"/>
+    <Elem NameU="Round Head Rectangle" Name="圓頭矩形"/>
+    <Elem NameU="Triangle - Long" Name="長底邊三角形"/>
+    <Elem NameU="Snip Corner Triangle" Name="剪角三角形"/>
+    <Elem NameU="Trapezoid - Vertical" Name="高梯形"/>
+    <Elem NameU="Trapezoid - Horizontal" Name="長梯形"/>
+    <Elem NameU="Inverted Trapezoid" Name="倒梯形"/>
+    <Elem NameU="Pentagon" Name="五角形"/>
+    <Elem NameU="Round Head Rectangle" Name="圓頭矩形"/>
+    <Elem NameU="Hexagon - Long" Name="長六角形"/>
+    <Elem NameU="Curve Head Rectangle" Name="彎曲矩形"/>
+    <Elem NameU="Pointed Left Rectangle" Name="左尖矩形"/>
+    <Elem NameU="Flat Banner 1" Name="扁平橫幅 1"/>
+    <Elem NameU="Flat Banner 2" Name="扁平横幅 2"/>
+    <Elem NameU="Rounded Right Rectangle" Name="右圓頭矩形"/>
+    <Elem NameU="Circle with Rectangle" Name="圓形矩形組合"/>
+    <Elem NameU="Irregular Shape" Name="不規則形狀"/>
+    <Elem NameU="Snip One Side Triangle" Name="剪斷一面三角形"/>
+    <Elem NameU="Corner Shape" Name="角"/>
+    <Elem NameU="Irregular Shape" Number="2" Name="不規則形狀"/>
+    <Elem NameU="Curve Shape with Right Angle" Name="直角+曲邊形"/>
+    <Elem NameU="Snip One Side Rectangle" Name="剪角矩形"/>
+    <Elem NameU="Irregular Rectangle" Name="不規則矩形"/>
+    <Elem NameU="L Shape" Name="L形"/>
+    <Elem NameU="Snip Diagonal Corner Rectangle" Name="花瓣式矩形"/>
+    <Elem NameU="Hexagon" Name="六角形"/>
+    <Elem NameU="Regular Rhombus" Name="常規菱形"/>
+    <Elem NameU="Badge" Name="徽章"/>
+    <Elem NameU="4-Point Star" Name="四角星"/>
+    <Elem NameU="Circle" Name="圓形"/>
+    <Elem NameU="Cloud with One Side Flat" Name="直底邊雲形狀"/>
+    <Elem NameU="Bar with Wavy Edge" Name="波浪邊條形"/>
+    <Elem NameU="Irregular Bar" Number="2" Name="標題"/>
+    <Elem NameU="Chevron" Name="V形臂章"/>
+    <Elem NameU="Chevron Group" Name="臂章組"/>
+    <Elem NameU="6-Point Star - Hollow" Name="空心六角形"/>
+    <Elem NameU="Special Shape" Name="特殊形狀"/>
+    <Elem NameU="3 Rhombuses" Name="3個菱形"/>
+    <Elem NameU="Stacked Pentagons" Name="雙五角形組合"/>
+    <Elem NameU="Stacked Squares" Name="堆疊方形"/>
+    <Elem NameU="Special Shape" Number="2" Name="特殊形狀"/>
+    <Elem NameU="Stacked Triangles" Name="堆疊三角形"/>
+    <Elem NameU="Hollow Cloud" Name="空心雲"/>
+    <Elem NameU="Cloud" Name="雲"/>
+    <Elem NameU="Special Shape" Name="特殊形狀"/>
+    <Elem NameU="6-Point Star" Name="六角星"/>
+    <Elem NameU="Flower 1" Name="花 1"/>
+    <Elem NameU="Flower 2" Name="花 2"/>
+    <Elem NameU="Flower 3" Name="花 3"/>
+    <Elem NameU="Royal Style Block" Name="皇家風格塊狀"/>
+    <Elem NameU="Special Shape" Name="特殊形狀"/>
+    <Elem NameU="5-Point Star" Number="2" Name="五角星"/>
+    <Elem NameU="5-Point Star with Circle" Name="內有圓形的五角星"/>
+    <Elem NameU="4-Point Star with Circle" Name="内有圓形的四角星"/>
+    <Elem NameU="4-Point Star" Name="四角星"/>
+    <Elem NameU="Hexagon" Name="六角形"/>
+    <Elem NameU="Special Shape" Name="特殊形狀"/>
+    <Elem NameU="Heart" Name="心形"/>
+    <Elem NameU="Teardrop" Name="淚珠形狀"/>
+    <Elem NameU="Special Shape" Number="2" Name="特殊形狀"/>
+    <Elem NameU="Hexagon with Triange" Name="含有三角形的六角形"/>
+    <Elem NameU="Special Shape" Name="特殊形狀"/>
+    <Elem NameU="Petals" Name="花瓣"/>
+    <Elem NameU="6-Point Star" Name="六角星"/>
+    <Elem NameU="Special Shape" Name="特殊形狀"/>
+    <Elem NameU="Windmill" Name="風車"/>
+    <Elem NameU="Three Cicles" Name="三個圓圈"/>
+    <Elem NameU="Circular" Name="圓形圖"/>
+    <Elem NameU="Four Sections Circle" Name="四分環形圖"/>
+    <Elem NameU="Flower" Name="花"/>
+    <Elem NameU="Trees" Name="樹林"/>
+    <Elem NameU="Maple Leaf" Name="楓葉"/>
+    <Elem NameU="Ginkgo Leaf" Name="銀杏葉"/>
+    <Elem NameU="Leaf" Name="葉子"/>
+    <Elem NameU="Location" Name="位置"/>
+    <Elem NameU="Chess" Name="國際象棋"/>
+    <Elem NameU="Jelly Fish" Name="水母"/>
+    <Elem NameU="Incomplete Circle" Name="缺邊圓"/>
+    <Elem NameU="Puzzle" Name="拼圖"/>
+    <Elem NameU="Tree" Name="樹"/>
+    <Elem NameU="Hot-Air Balloon" Name="熱氣球"/>
+    <Elem NameU="Balloon" Name="氣球"/>
+    <Elem NameU="Chain" Name="鏈條"/>
+    <Elem NameU="World" Name="世界"/>
+</Lib>

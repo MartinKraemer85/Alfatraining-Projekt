@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Comparison Chart">
+	<Elem NameU="Blank Comparison Table" Name="Tableau comparatif vierge"/>
+	<Elem NameU="Blank Comparison Table - Green" Name="Tableau comparatif vierge - vert"/>
+	<Elem NameU="Blank Comparison Table - Dark Red" Name="Tableau comparatif vierge - rouge foncé"/>
+	<Elem NameU="Comparison Table" Name="Tableau comparatif"/>
+	<Elem NameU="Comparison Table 2" Name="Tableau comparatif 2"/>
+	<Elem NameU="Product Comparison" Name="Tableau comparatif de produit"/>
+	<Elem NameU="Yes/No" Name="Oui/Non"/>
+	<Elem NameU="Check Box" Name="Cocher la case"/>
+	<Elem NameU="Progress" Name="Processus"/>
+	<Elem NameU="Progress 2" Name="Processus 2"/>
+	<Elem NameU="Progress 3" Name="Processus 3"/>
+	<Elem NameU="Priority" Name="Priorité"/>
+	<Elem NameU="3-State Priority" Name="Priorité de 3 états"/>
+	<Elem NameU="3-State Alert" Name="Alerte de 3 états"/>
+	<Elem NameU="6-State Status" Name="État de 6 statuts"/>
+	<Elem NameU="4-Direction Arrow" Name="Flèche de 4 directions"/>
+	<Elem NameU="4-Direction Arrow 2" Name="Flèche de 4 directions 2"/>
+	<Elem NameU="Progress Status" Name="Statut de processus"/>
+	<Elem NameU="Trafic Light" Name="Lumière de circulation"/>
+	<Elem NameU="Rating" Name="Commentaire"/>
+	<Elem NameU="Quality" Name="Qualité"/>
+	<Elem NameU="Lock/UnLock" Name="Verrouiller/Déverrouiller"/>
+	<Elem NameU="10-State Flag" Name="10 Drapeaux"/>
+	<Elem NameU="12-State Flag" Name="12 Drapeaux"/>
+	<Elem NameU="Numbering" Name="Numérotation"/>
+	<Elem NameU="Message" Name="Message"/>
+	<Elem NameU="Message 2" Name="Message 2"/>
+	<Elem NameU="Spacing Bar" Name="Espacement entre les barres"/>
+</Lib>

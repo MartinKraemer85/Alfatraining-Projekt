@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Themes Version="10.0">
+    <Theme ID="40" Rainbow="0" Name="Vitality" CN="活力" Effect="0">
+        <ThemeColor V="47"/>
+        <ThemeEffect V="40"/>
+        <ThemeText V="40"/>
+        <ThemeShape V="40"/>
+    </Theme>
+    <Theme ID="41" Rainbow="0" Name="Vitality" CN="活力" Effect="0">
+        <ThemeColor V="82"/>
+        <ThemeEffect V="41"/>
+        <ThemeText V="40"/>
+        <ThemeShape V="41"/>
+    </Theme>
+    <Theme ID="42" Rainbow="1" Name="Vitality" CN="活力" Effect="0">
+        <ThemeColor V="49"/>
+        <ThemeEffect V="42"/>
+        <ThemeText V="40"/>
+        <ThemeShape V="42"/>
+    </Theme>
+     <Theme ID="43" Rainbow="0" Name="Vitality" CN="活力" Effect="0">
+        <ThemeColor V="47"/>
+        <ThemeEffect V="43"/>
+        <ThemeText V="40"/>
+        <ThemeShape V="43"/>
+    </Theme>
+    <Theme ID="45" Rainbow="1" Name="Vitality" CN="活力" Effect="0">
+        <ThemeColor V="70"/>
+        <ThemeEffect V="45"/>
+        <ThemeText V="40"/>
+        <ThemeShape V="45"/>
+    </Theme>
+    <Theme ID="66" Rainbow="1" Name="Pashion" CN="活力" Effect="0">
+        <ThemeColor V="75"/>
+        <ThemeEffect V="66"/>
+        <ThemeText V="40"/>
+        <ThemeShape V="66"/>
+    </Theme>    
+    <Theme ID="31" Rainbow="0" Name="Business" CN="商务" Effect="0">
+        <ThemeColor V="47"/>
+        <ThemeEffect V="31"/>
+        <ThemeText V="41"/>
+        <ThemeShape V="31"/>
+    </Theme>
+    <Theme ID="3" Rainbow="1" Name="Sunset" CN="晚霞" Effect="0">
+        <ThemeColor V="50"/>
+        <ThemeEffect V="3"/>
+        <ThemeText V="41"/>
+        <ThemeShape V="3"/>
+    </Theme>
+</Themes>

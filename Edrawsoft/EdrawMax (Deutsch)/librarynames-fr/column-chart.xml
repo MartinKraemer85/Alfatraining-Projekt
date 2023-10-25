@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Column Chart">
+	<Elem NameU="Simple Column" Name="Histogramme"/>
+	<Elem NameU="Column1" Name="Histogramme"/>
+	<Elem NameU="Gradient Column" Name="Histogramme dégradé"/>
+	<Elem NameU="Single Series Column" Name="Histogramme en série unique"/>
+	<Elem NameU="Single Series Column 2" Name="Histogramme en série unique 2"/>
+	<Elem NameU="Single Series Column 3" Name="Histogramme en série unique 3"/>
+	<Elem NameU="Clustered Column" Name="Histogramme groupé"/>
+	<Elem NameU="Clustered Column 2" Name="Histogramme groupé 2"/>
+	<Elem NameU="Clustered Column 3" Name="Histogramme groupé 3"/>
+	<Elem NameU="Stacked Column 3" Name="Histogramme empilé 3"/>
+	<Elem NameU="Stacked Column 2" Name="Histogramme empilé 2"/>
+	<Elem NameU="100% Stacked Column 2" Name="Histogramme empilé 100% 2"/>
+	<Elem NameU="100% Stacked Column" Name="Histogramme empilé 100%"/>
+	<Elem NameU="100% Single Stacked Column" Name="Histogramme empilé 100%"/>
+	<Elem NameU="Gradient Single Column" Name="Histogramme unique dégradé"/>
+</Lib>

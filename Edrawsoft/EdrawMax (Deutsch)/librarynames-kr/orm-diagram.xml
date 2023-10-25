@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="ORM Diagram">
+    <Elem NameU="Entity" Name="엔터티"/>
+    <Elem NameU="Value" Name="값"/>
+    <Elem NameU="Unary" Name="단항"/>
+    <Elem NameU="Binary" Name="이진"/>
+    <Elem NameU="Vertical binary" Name="수직 이진"/>
+    <Elem NameU="Ternay" Name="3진"/>
+    <Elem NameU="Quaternary" Name="4진"/>
+    <Elem NameU="Exclusion constraint" Name="제약 조건"/>
+    <Elem NameU="Ext.Freq.constraint" Name="외부 빈도 제약 조건"/>
+    <Elem NameU="Frequency constraint" Name="빈도 제약 조건"/>
+    <Elem NameU="Index annotation" Name="인덱스 주석"/>
+    <Elem NameU="Ext.P constraint" Name="외부 메인 제약 조건"/>
+    <Elem NameU="Mandatory constraint" Name="강제 제약 조건"/>
+    <Elem NameU="Ext.Mand constraint" Name="외부 강제 제약 조건"/>
+    <Elem NameU="Ext.Uniq constraint" Name="외부 유일 제약 조건"/>
+    <Elem NameU="constraint connector" Name="제약 조건 커넥터"/>
+    <Elem NameU="Equality constraint" Name="평등 제약 조건"/>
+    <Elem NameU="P constraint" Name="메인 제약 조건"/>
+    <Elem NameU="Ring constraint" Name="순환 제약 조건"/>
+    <Elem NameU="Subset constraint" Name="서브셋 제약 조건"/>
+    <Elem NameU="Mand.Role connector" Name="강제 역할 커넥터"/>
+    <Elem NameU="Role connector" Name="역할 커넥터"/>
+    <Elem NameU="Subtype connector" Name="서브 유형 커넥터"/>
+    <Elem NameU="Left uniqueness constranit" Name="왼쪽 유일 커넥터"/>
+    <Elem NameU="Uniqueness constraint" Name="유일 제약 조건"/>
+    <Elem NameU="Middle uniqueness constraint" Name="중간 유일 제약 조건"/>
+    <Elem NameU="Right uniqueness constraint" Name="오른쪽 유일 제약 조건"/>
+</Lib>

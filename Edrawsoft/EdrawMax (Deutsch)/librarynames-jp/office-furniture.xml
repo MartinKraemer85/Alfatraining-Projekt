@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Office Furniture">
+
+<Elem Name="一人用個室" NameU="Single Cubicle"/>
+
+<Elem Name="2席の個室" NameU="Two Seats Cubicle"/>
+
+<Elem Name="個室" NameU="Cubicle"/>
+
+<Elem Name="直線型ワークステーション" NameU="Straight workstation"/>
+
+<Elem Name="会議用ワークステーション" NameU="Council workstation"/>
+
+<Elem Name="L字型ワークステーション" NameU="L workstation"/>
+
+<Elem Name="テーブル" NameU="Table"/>
+
+<Elem Name="丸テーブル" NameU="Round table"/>
+
+<Elem Name="机" NameU="Desk"/>
+
+<Elem Name="両端円形テーブル" NameU="Racetrack table"/>
+
+<Elem Name="ボート型テーブル" NameU="Boat table"/>
+
+<Elem Name="4席テーブル" NameU="4 seat table"/>
+
+<Elem Name="6席テーブル" NameU="6 seat table"/>
+
+<Elem Name="8席テーブル" NameU="8 seat table"/>
+
+<Elem Name="10席両端円形テーブル" NameU="10 seat rounded table"/>
+
+<Elem Name="10席ボート型テーブル" NameU="10 seat boat table"/>
+
+<Elem Name="10席テーブル" NameU="10 seat table"/>
+
+<Elem Name="12席テーブル" NameU="12 seat table"/>
+
+<Elem Name="複数の椅子が付いた丸テーブル" NameU="Multi-chair round table"/>
+
+<Elem Name="コーナーテーブル" NameU="Corner table"/>
+
+<Elem Name="扇型コーナーテーブル" NameU="Round corner"/>
+
+<Elem Name="作業テーブル" NameU="Work surface"/>
+
+<Elem Name="コーナー作業テーブル" NameU="Corner surface"/>
+
+<Elem Name="半島型のワークステーション" NameU="Work peninsula"/>
+
+<Elem Name="本棚" NameU="Bookshelf"/>
+
+<Elem Name="食器棚" NameU="Credenza"/>
+
+<Elem Name="台座" NameU="Pedestal"/>
+
+<Elem Name="棚" NameU="Cabinet"/>
+
+<Elem Name="両開き扉型キャビネット" NameU="Storage unit"/>
+
+<Elem Name="コートを掛けるバー" NameU="Susp coat bar"/>
+
+<Elem Name="開架" NameU="Susp open shelf"/>
+
+<Elem Name="フォルダ" NameU="Suspended lateral file"/>
+
+<Elem Name="ファイル ボックス" NameU="File"/>
+
+<Elem Name="ファイル ボックス 2" NameU="Lateral file"/>
+
+<Elem Name="ファイル ボックス 2" NameU="Flat file"/>
+
+<Elem Name="回転椅子" NameU="Swivel tilt chair"/>
+
+<Elem Name="2人掛けソファ" NameU="2 seat sofa"/>
+
+<Elem Name="3人掛けソファ" NameU="3 seat sofa"/>
+
+<Elem Name="4人掛けソファ" NameU="4 seat sofa"/>
+
+<Elem Name="90度テーブル" NameU="90 deg table"/>
+
+<Elem Name="椅子" NameU="Chair"/>
+
+<Elem Name="30度テーブル" NameU="30 deg seat"/>
+
+<Elem Name="デスクチェア" NameU="Desk chair"/>
+
+<Elem Name="高脚スツール" NameU="High stool"/>
+
+<Elem Name="スツール" NameU="Stool"/>
+
+<Elem Name="パネル" NameU="Panel"/>
+
+<Elem Name="2 パネル" NameU="2 panel"/>
+
+<Elem Name="3 パネル" NameU="3 panel"/>
+
+<Elem Name="4 パネル" NameU="4 panel"/>
+
+<Elem Name="十字パネル" NameU="Cross panel"/>
+
+<Elem Name="16席テーブル" NameU="16 seat table"/>
+
+</Lib>

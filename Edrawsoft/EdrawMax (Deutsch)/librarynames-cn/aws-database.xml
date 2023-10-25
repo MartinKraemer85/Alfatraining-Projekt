@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="AWS-Database">
+	<Elem NameU="Aurora" Name="极光"/>
+	<Elem NameU="DocumentDB-_with-MongoDB-compatibility" Name="发电机数据库与MongoDB的兼容性"/>
+	<Elem NameU="DynamoDB" Name="发电机数据库"/>
+	<Elem NameU="ElastiCache" Name="ElastiCache"/>
+	<Elem NameU="Managed-Apache-Cassandra-Service" Name="托管Apache Cassandra服务"/>
+	<Elem NameU="Neptune" Name="海王星"/>
+	<Elem NameU="Quantum-Ledger-_Database_QLDB" Name="量子分类帐_数据库_QLDB"/>
+	<Elem NameU="RDS" Name="RDS"/>
+	<Elem NameU="RDS-on-VMware" Name="VMware上的RDS"/>
+	<Elem NameU="DynamoDB_Attribute" Name="发电机数据库属性"/>
+	<Elem NameU="DynamoDB_Attributes" Name="发电机数据库属性"/>
+	<Elem NameU="DynamoDB_DAX" Name="发电机数据库DAX"/>
+	<Elem NameU="DynamoDB_Global-Secondary-Index" Name="发电机数据库全球二级索引"/>
+	<Elem NameU="DynamoDB_Item" Name="发电机数据库物品"/>
+	<Elem NameU="DynamoDB_Items" Name="发电机数据库物品"/>
+	<Elem NameU="DynamoDB_Table" Name="发电机数据库表"/>
+	<Elem NameU="ElastiCache_Cache-Node" Name="ElastiCache缓存节点"/>
+	<Elem NameU="ElastiCache_For-Memcached" Name="ElastiCache对于记忆快取"/>
+	<Elem NameU="ElastiCache_For-Redis" Name="ElastiCache对于Redis"/>
+	<Elem NameU="RDS_Aurora_instance" Name="RDS Aurora实例"/>
+	<Elem NameU="RDS_Aurora_instance-alt" Name="RDS Aurora实例替代"/>
+	<Elem NameU="RDS_RDS_instance" Name="RDS_RDS实例"/>
+	<Elem NameU="RDS_RDS_instance-alt" Name="RDS_RDS实例替代"/>
+	<Elem NameU="RDS_MariaDB_instance" Name="RDS_MariaDB实例"/>
+	<Elem NameU="RDS_MariaDB_instance-alt" Name="RDS_MariaDB实例替代"/>
+	<Elem NameU="RDS_MySQL_instance" Name="RDS_MySQL实例"/>
+	<Elem NameU="RDS_MySQL_instance-alt" Name="RDS_MySQL实例替代"/>
+	<Elem NameU="RDS_Oracle_instance" Name="RDS_Oracle实例"/>
+	<Elem NameU="RDS_Oracle_instance-alt" Name="RDS_Oracle实例替代"/>
+	<Elem NameU="RDS_PIOP" Name="RDS_PIOP"/>
+	<Elem NameU="RDS_PIOPS" Name="RDS_PIOPS&#9;"/>
+	<Elem NameU="RDS_PostgreSQL_instance" Name="RDS_PostgreSQL实例"/>
+	<Elem NameU="RDS_PostgreSQL_instance-alt" Name="RDS_PostgreSQL实例替代"/>
+	<Elem NameU="RDS_SQL-Server_instance" Name="RDS_SQL-Server实例"/>
+	<Elem NameU="RDS_SQL-Server_instance-alt" Name="RDS_SQL-Server实例替代"/>
+	<Elem NameU="AWS-Database-Migration-Service_Database-Migration-Workflow" Name="AWS-数据库迁移-服务_数据库迁移-工作流程"/>
+	<Elem NameU="Redshift_Dense-Compute-Node" Name="红移密集-计算节点"/>
+	<Elem NameU="Redshift_Dense-Storage-Node" Name="红移密集-存储节点"/>
+	<Elem NameU="Redshift" Name="红移"/>
+	<Elem NameU="Timestream" Name="时间流"/>
+	<Elem NameU="AWS-Database-Migration-Service" Name="AWS数据库迁移服务"/>
+	<Elem NameU="Database" Name="数据库"/>
+</Lib>

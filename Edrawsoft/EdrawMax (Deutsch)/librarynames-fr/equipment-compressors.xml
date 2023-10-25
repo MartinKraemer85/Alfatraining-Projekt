@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Equipment-Compressors">
+	<Elem NameU="Compressor" Name="Compresseur"/>
+	<Elem NameU="Compressor 2" Name="Compresseur 2"/>
+	<Elem NameU="Compressor, Vacuum pump" Name="Compresseur, Pompe à vide"/>
+	<Elem NameU="Centrifugal compressor" Name="Compresseur centrifuge"/>
+	<Elem NameU="Diaphragm compressor" Name="Compresseur à diaphragme"/>
+	<Elem NameU="Ejector compressor" Name="Compresseur d'éjecteur"/>
+	<Elem NameU="Piston compressor" Name="Compresseur à piston"/>
+	<Elem NameU="Ring compressor" Name="Compresseur à anneau"/>
+	<Elem NameU="Roller vane compressor" Name="Compresseur à palettes à galets"/>
+	<Elem NameU="Reciprocating compressor" Name="Compresseur alternatif"/>
+	<Elem NameU="Reciprocating compressor 2" Name="Compresseur alternatif 2"/>
+	<Elem NameU="Reciprocating compressor 3" Name="Compresseur alternatif 3"/>
+	<Elem NameU="Compressor silencers" Name="Silencieux de compresseurs"/>
+	<Elem NameU="Rotary compressor" Name="Compresseur rotatif"/>
+	<Elem NameU="Rotary compressor 2" Name="Compresseur rotatif 2"/>
+	<Elem NameU="Rotory compressor 3" Name="Compresseur rotatif 3"/>
+	<Elem NameU="Rotory compressor and silencers" Name="Compresseur rotatif et Silencieux"/>
+	<Elem NameU="Liquid ring compressor" Name="Compresseur à anneau liquide"/>
+	<Elem NameU="Centrifugal compressor 2" Name="Compresseur centrifuge 2"/>
+	<Elem NameU="Centrifugal compressor 3" Name="Compresseur centrifuge 3"/>
+	<Elem NameU="Selectable compressor" Name="Compresseur sélectionnable"/>
+	<Elem NameU="Axial compressor" Name="Compresseur axial"/>
+	<Elem NameU="Air compressor" Name="Compresseur d'air"/>
+	<Elem NameU="AC air compressor" Name="Compresseur d'air AC"/>
+	<Elem NameU="Screw compressor" Name="Compresseurs à vis"/>
+	<Elem NameU="Turbo compressor" Name="Turbocompresseur"/>
+</Lib>

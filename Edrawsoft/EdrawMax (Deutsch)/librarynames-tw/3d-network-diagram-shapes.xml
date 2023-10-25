@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="3D Network Diagram Shapes">
+	<Elem NameU="Oblique connector" Name="傾斜連接線"/>
+	<Elem NameU="Oblique connector 2" Name="傾斜連接線 2"/>
+	<Elem NameU="Flexi connector" Name="動態連接線"/>
+	<Elem NameU="Line connector" Name="直線連接線"/>
+	<Elem NameU="1U Server" Name="1U 伺服器"/>
+	<Elem NameU="1U Server Stack" Name="1U 伺服器堆"/>
+	<Elem NameU="2U Server" Name="2U 伺服器"/>
+	<Elem NameU="2U Server Stack" Name="2U 堆疊伺服器"/>
+	<Elem NameU="Switch" Name="交換機"/>
+	<Elem NameU="Switch Pool" Name="交換機組"/>
+	<Elem NameU="Modem Pool" Name="調製解調器組"/>
+	<Elem NameU="Terminal Server" Name="終端伺服器"/>
+	<Elem NameU="PC" Name="PC"/>
+	<Elem NameU="PC 2" Name="PC 2"/>
+	<Elem NameU="Laptop" Name="筆記本電腦"/>
+	<Elem NameU="Server" Name="伺服器"/>
+	<Elem NameU="Server 2" Name="伺服器 2"/>
+	<Elem NameU="Computer Lab" Name="計算機房"/>
+	<Elem NameU="Computer Lab 2" Name="計算機房 2"/>
+	<Elem NameU="Switch Symbol" Name="交換機符號"/>
+	<Elem NameU="ISDN Switch" Name="ISDN 交換機"/>
+	<Elem NameU="Router" Name="路由器"/>
+	<Elem NameU="CDDI-FDDI concentrator" Name="CDDI-FDDI 集中器"/>
+	<Elem NameU="Bridge" Name="網橋"/>
+	<Elem NameU="Hub" Name="集線器"/>
+	<Elem NameU="Gateway" Name="網關"/>
+	<Elem NameU="WAN" Name="WAN"/>
+	<Elem NameU="Host" Name="主機"/>
+	<Elem NameU="Office" Number="3" Name="辦公室"/>
+	<Elem NameU="Firewall" Number="2" Name="防火墻"/>
+	<Elem NameU="Ring" Name="環"/>
+	<Elem NameU="Internet" Name="因特網"/>
+	<Elem NameU="Internet Cloud" Name="因特網雲圖"/>
+	<Elem NameU="Hacker" Name="黑客"/>
+	<Elem NameU="No hackers" Name="無黑客"/>
+	<Elem NameU="Network security system" Name="網絡安全體系"/>
+	<Elem NameU="Network Planning" Name="網路規劃"/>
+	<Elem NameU="Curved Connector" Name="曲線連接線"/>
+	<Elem NameU="Token Ring" Name="令牌環"/>
+	<Elem NameU="Arrow 1" Name="箭頭 1"/>
+	<Elem NameU="Arrow 2" Name="箭頭 2"/>
+	<Elem NameU="Arrow 3" Name="箭頭 3"/>
+	<Elem NameU="Arrow 4" Name="箭頭 4"/>
+	<Elem NameU="Center drag circle" Name="中心向外拖拽圓"/>
+	<Elem NameU="Center drag circle 2" Name="中心向外拖拽圓 2"/>
+</Lib>

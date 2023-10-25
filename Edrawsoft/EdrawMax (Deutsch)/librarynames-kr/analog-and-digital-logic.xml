@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Analog and Digital Logic">
+    <Elem NameU="And" Name="And"/>
+    <Elem NameU="OR" Name="OR"/>
+    <Elem NameU="XOR" Name="XOR"/>
+    <Elem NameU="NAND" Name="NAND"/>
+    <Elem NameU="NOR" Name="NOR"/>
+    <Elem NameU="NXOR" Name="NXOR"/>
+    <Elem NameU="NNOR" Name="NNOR"/>
+    <Elem NameU="And (IEC)" Name="And (IEC)"/>
+    <Elem NameU="NAND (IEC)" Name="NAND (IEC)"/>
+    <Elem NameU="OR (IEC)" Name="OR (IEC)"/>
+    <Elem NameU="NOR (IEC)" Name="NOR (IEC)"/>
+    <Elem NameU="NOT (IEC)" Name="NOT (IEC)"/>
+    <Elem NameU="XOR (IEC)" Name="XOR (IEC)"/>
+    <Elem NameU="Inverter" Name="인버터"/>
+    <Elem NameU="Buffer" Name="완충기"/>
+    <Elem NameU="Transfer gate" Name="전송 게이트"/>
+    <Elem NameU="Clock" Name="Clock"/>
+    <Elem NameU="Coefficient scaler" Name="계수 스케일러"/>
+    <Elem NameU="Mux" Name="Mux"/>
+    <Elem NameU="Mux-Demux" Name="Mux-Demux"/>
+    <Elem NameU="Demux" Name="Demux"/>
+    <Elem NameU="D Type Flip-Flop" Name="D타입 플립플롭"/>
+    <Elem NameU="D Type Flip-Flop With Clear" Name="클리어 기능이 달린 D 타입 플립플롭"/>
+    <Elem NameU="D Type RS Flip-Flop" Name="D타입 RS 플립플롭"/>
+    <Elem NameU="JK Flip-Flop" Name="JK플립플롭"/>
+    <Elem NameU="JK Flip-Flop With Clear" Name="클리어 기능이 달린 JK플립플롭"/>
+    <Elem NameU="JK Flip-Flop With SR" Name="SR기능이 있는 JK 플립플롭"/>
+    <Elem NameU="RS Latch" Name="RS 래치"/>
+    <Elem NameU="RS Latch Synchronous" Name="동기식 RS 래치"/>
+    <Elem NameU="T Type Flip-Flop" Name="T타입 플립플롭"/>
+    <Elem NameU="Amplifier" Name="증폭기"/>
+    <Elem NameU="Converter" Name="컨버터"/>
+    <Elem NameU="Logic gate 1" Name="로직 게이트 1"/>
+    <Elem NameU="Flip-flop" Name="플립플롭"/>
+    <Elem NameU="Analog to digital" Name="아날로그에서 디지털로"/>
+    <Elem NameU="Digital to analog" Name="디지털에서 아날로그로"/>
+    <Elem NameU="Analog symbol" Name="아날로그 기호"/>
+    <Elem NameU="Digital symbol" Name="디지털 기호"/>
+    <Elem NameU="Negative logic dot" Name="부정 논리 점"/>
+    <Elem NameU="Function potentiom..." Name="기능 전위계"/>
+    <Elem NameU="Positional servo" Name="위치 서보"/>
+    <Elem NameU="Delay element" Name="지연 요소"/>
+    <Elem NameU="I/O port" Name="I/O 포트"/>
+    <Elem NameU="Signal waveforms" Name="신호 파형"/>
+    <Elem NameU="Three-state buffer" Name="3상 버퍼"/>
+    <Elem NameU="Tri-state gate" Name="트라이 스테이트 게이트"/>
+    <Elem NameU="Tri-state gate 2" Name="트라이 스테이트 게이트 2"/>
+    <Elem NameU="Integrator" Name="적분기"/>
+    <Elem NameU="Amplifier" Name="증폭기"/>
+    <Elem NameU="Summing amplifier" Name="가산 증폭기"/>
+    <Elem NameU="Controlled amplifier" Name="제어 증폭기"/>
+    <Elem NameU="Multiplier" Name="승산기"/>
+    <Elem NameU="Divider" Name="제산기"/>
+    <Elem NameU="Function generator 2" Name="함수 발생기 2"/>
+    <Elem NameU="Generalized integrator" Name="일반 적분기"/>
+    <Elem NameU="Operational amplifier" Name="연산 증폭기"/>
+    <Elem NameU="Operational amplifier 2" Name="연산 증폭기 2"/>
+    <Elem NameU="Schmitt Trigger" Name="슈미트 트리거"/>
+    <Elem NameU="Generic" Name="일반"/>
+    <Elem NameU="Multiplier" Name="승산기"/>
+    <Elem NameU="Divider" Name="제산기"/>
+    <Elem NameU="Multiplier-divider" Name="승산-제산기"/>
+    <Elem NameU="Exponential" Name="지수"/>
+    <Elem NameU="Cotangent" Name="코탄젠트"/>
+</Lib>

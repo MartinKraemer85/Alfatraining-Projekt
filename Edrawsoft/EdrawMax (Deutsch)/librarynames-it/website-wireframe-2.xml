@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Website Wireframe 2">
+	<Elem NameU="Navigation menu 1" Name="Menu di navigazione 1"/>
+	<Elem NameU="Navigation menu 2" Name="Menu di navigazione 2"/>
+	<Elem NameU="Navigation menu 3" Name="Menu di navigazione 3"/>
+	<Elem NameU="Navigation menu 4" Name="Menu di navigazione 4"/>
+	<Elem NameU="Navigation menu 5" Name="Menu di navigazione 5"/>
+	<Elem NameU="Navigation menu 6" Name="Menu di navigazione 6"/>
+	<Elem NameU="Navigation menu 7" Name="Menu di navigazione 7"/>
+	<Elem NameU="Basic Tabs" Name="Schede Base"/>
+	<Elem NameU="Basic Tabs 2" Name="Schede Base 2"/>
+	<Elem NameU="Basic Tabs 3" Name="Schede Base 3"/>
+	<Elem NameU="Breadcrumbs" Name="Breadcrumb"/>
+	<Elem NameU="Breadcrumbs 2" Name="Breadcrumb 2"/>
+	<Elem NameU="Sign in form 1" Name="Campo firma 1"/>
+	<Elem NameU="Sign in form 2" Name="Campo firma 2"/>
+	<Elem NameU="Sign in form 3" Name="Campo firma 3"/>
+	<Elem NameU="Sign in form 4" Name="Campo firma 4"/>
+	<Elem NameU="Sign in form 5" Name="Campo firma 5"/>
+	<Elem NameU="Image 1" Name="Immagine 1"/>
+	<Elem NameU="Image 2" Name="Immagine 2"/>
+	<Elem NameU="Image with header" Name="Immagine con intestazione"/>
+	<Elem NameU="Tick button" Name="Pulsante con spunta"/>
+	<Elem NameU="Button 1" Name="Pulsante 1"/>
+	<Elem NameU="Button 2" Name="Pulsante 2"/>
+	<Elem NameU="Button 3" Name="Pulsante 3"/>
+	<Elem NameU="Button 4" Name="Pulsante 4"/>
+	<Elem NameU="Button 5" Name="Pulsante 5"/>
+	<Elem NameU="Button 6" Name="Pulsante 6"/>
+	<Elem NameU="Button 7" Name="Pulsante 7"/>
+	<Elem NameU="Button 8" Name="Pulsante 8"/>
+	<Elem NameU="List with icon" Name="Elenco con icona"/>
+	<Elem NameU="Ordered List" Name="Elenco Ordinato"/>
+	<Elem NameU="Check List" Name="Elenco di Spunta"/>
+	<Elem NameU="Unordered bullet List" Name="Elenco puntato disordinato"/>
+	<Elem NameU="Message box" Name="Finestra di messaggio"/>
+	<Elem NameU="Message box with image" Name="Finestra di messaggio con immagine"/>
+	<Elem NameU="Text block with image 1" Name="Blocco di testo con immagine 1"/>
+	<Elem NameU="Text block with image 2" Name="Blocco di testo con immagine 2"/>
+	<Elem NameU="Video" Name="Video"/>
+	<Elem NameU="Icon with text" Name="Icona con testo"/>
+	<Elem NameU="Text block with image above" Name="Blocco di testo con immagine in alto"/>
+	<Elem NameU="Stacked Navigation" Name="Navigazione in Stack"/>
+	<Elem NameU="Stacked Navigation 2" Name="Navigazione in Stack 2"/>
+	<Elem NameU="Side Navigation Bar" Name="Barra di Navigazione Laterale"/>
+	<Elem NameU="Icon List" Name="Elenco di Icone"/>
+	<Elem NameU="List Header" Name="Intestazione Elenco"/>
+	<Elem NameU="List Header 1" Name="Intestazione Elenco 1"/>
+	<Elem NameU="List Header 2" Name="Intestazione Elenco 2"/>
+	<Elem NameU="List Header 3" Name="Intestazione Elenco 3"/>
+	<Elem NameU="Thumbnails" Name="Miniature"/>
+	<Elem NameU="Default table" Name="Tabella predefinita"/>
+	<Elem NameU="Pagination" Name="Impaginazione"/>
+	<Elem NameU="Pagination 1" Name="Impaginazione 2"/>
+	<Elem NameU="Facebook" Name="Facebook"/>
+	<Elem NameU="Twitter" Name="Twitter"/>
+	<Elem NameU="Google Plus" Name="Google Plus"/>
+	<Elem NameU="Instagram" Name="Instagram"/>
+	<Elem NameU="Gmail" Name="Gmail"/>
+	<Elem NameU="Linkedin" Name="Linkedin"/>
+</Lib>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="AWS SDKs">
+    <Elem NameU="Android" Name="安卓"/>
+    <Elem NameU="Toolkit for Eclipse" Name="Eclipse工具包"/>
+    <Elem NameU="Toolkit for Visual Studio" Name="可視化工作室工作包"/>
+    <Elem NameU="CLI" Name="CLI命令行界面"/>
+    <Elem NameU="iOS" Name="iOS系統"/>
+    <Elem NameU="Java" Name="Java語言"/>
+    <Elem NameU="Net" Name="網絡"/>
+    <Elem NameU="nodeJS" Name="nodeJS模型"/>
+    <Elem NameU="PHP" Name="PHP語言"/>
+    <Elem NameU="Python" Name="Python語言"/>
+    <Elem NameU="Ruby" Name="Ruby語言"/>
+    <Elem NameU="Tools for Windows PowerShell" Name="Windows PowerShell工具"/>
+    <Elem NameU="Javascript" Name="Javascript語言"/>
+</Lib>

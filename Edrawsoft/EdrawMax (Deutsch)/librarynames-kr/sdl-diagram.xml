@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="SDL Diagram">
+    <Elem NameU="Start" Name="시작"/>
+    <Elem NameU="Variable start" Name="가변 시작점"/>
+    <Elem NameU="Procedure" Name="프로시저"/>
+    <Elem NameU="Variable procedure" Name="가변 프로시저"/>
+    <Elem NameU="Create request" Name="요청 생성"/>
+    <Elem NameU="Alternative" Name="대안"/>
+    <Elem NameU="Return" Name="반환"/>
+    <Elem NameU="Decision" Number="2" Name="판정"/>
+    <Elem NameU="Message from user" Name="사용자로부터 받은 메시지"/>
+    <Elem NameU="Message to user" Name="사용자에게 보내는 메시지"/>
+    <Elem NameU="Primitive from call control" Name="호출 컨트롤로부터 받은 원시 데이터"/>
+    <Elem NameU="Primitive to call control" Name="호출 컨트롤로 보내는 원시 데이터"/>
+    <Elem NameU="Save" Name="저장"/>
+    <Elem NameU="Document" Name="파일"/>
+    <Elem NameU="Multi Document" Name="다중 파일"/>
+    <Elem NameU="Disk storage" Name="디스크 스토리지"/>
+    <Elem NameU="Divided process" Name="분할 된 프로세스"/>
+    <Elem NameU="Divided event" Name="분할 된 이벤트"/>
+    <Elem NameU="Terminator" Name="터미네이터"/>
+    <Elem NameU="On-page reference" Name="같은 페이지 참조"/>
+    <Elem NameU="Off-page reference" Name="다른 페이지 참조"/>
+    <Elem NameU="Curve Connector" Name="곡선 연결선"/>
+</Lib>

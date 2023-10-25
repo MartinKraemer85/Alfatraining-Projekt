@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="IDEF2">
+    <Elem NameU="Process box" Name="流程實體"/>
+    <Elem NameU="Title block" Name="標題框"/>
+    <Elem NameU="N-type line" Number="2" Name="N型線條"/>
+    <Elem NameU="Text block" Name="文本框"/>
+    <Elem NameU="1 legged connector" Name="單向連接線"/>
+    <Elem NameU="Forking connector" Number="2" Name="轉彎連接線"/>
+    <Elem NameU="Dynamic connector" Name="可調節連接線"/>
+    <Elem NameU="Side text callout" Name="側邊說明框"/>
+</Lib>

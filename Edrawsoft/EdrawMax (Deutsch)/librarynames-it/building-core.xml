@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Building Core">
+	<Elem NameU="North" Name="Nord"/>
+	<Elem NameU="Direction" Name="Direzione"/>
+	<Elem NameU="Arrow" Name="Freccia"/>
+	<Elem NameU="Air-conditioned location" Name="Edificio con aria condizionata"/>
+	<Elem NameU="Solid walls" Name="Mura solide"/>
+	<Elem NameU="Step" Name="Gradini"/>
+	<Elem NameU="Ornamental stair" Name="Scale ornamentali"/>
+	<Elem NameU="Scissor staircase" Name="Scalinata a forbici"/>
+	<Elem NameU="Straight staircase" Name="Scalinata dritta"/>
+	<Elem NameU="Curved staircase" Name="Scalinata curva"/>
+	<Elem NameU="Winding staircase" Name="Scalinata a chiocciola"/>
+	<Elem NameU="Z-shaped stairs" Name="Scale a Z"/>
+	<Elem NameU="Divided return stairs" Name="Scale divise a doppio senso"/>
+	<Elem NameU="Pocket door" Name="Porta rientrante"/>
+	<Elem NameU="Double pocket door" Name="Porta rientrante doppia"/>
+	<Elem NameU="Left spiral staircase" Name="Scalinata con spirale a sinistra"/>
+	<Elem NameU="Right spiral staircase" Name="Scalinata con spirale a destra"/>
+	<Elem NameU="Corner landing" Name="Pianerottolo ad angolo"/>
+	<Elem NameU="Stair landing" Name="Pianerottolo scale"/>
+	<Elem NameU="Escalator" Name="Scala mobile"/>
+	<Elem NameU="Ramp" Name="Rampa"/>
+	<Elem NameU="Handrail" Name="Corrimano"/>
+	<Elem NameU="Corner handrail" Name="Corrimano ad angolo"/>
+	<Elem NameU="Toilet" Name="Toilet"/>
+	<Elem NameU="Multi sink" Name="Lavabi multipli"/>
+	<Elem NameU="Multi urinal" Name="Orinatoi multipli"/>
+	<Elem NameU="Multi stall" Name="Box multipli"/>
+	<Elem NameU="Countertop sink" Name="Lavabo su Ripiano"/>
+	<Elem NameU="Toilet stall" Name="Bagno"/>
+	<Elem NameU="Elevator" Name="Ascensore"/>
+	<Elem NameU="Freight elevator" Name="Montacarichi"/>
+	<Elem NameU="Chute" Name="Scivolo"/>
+</Lib>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Music">
+    <Elem NameU="Keyboard Player" Name="키보드 플레이어"/>
+    <Elem NameU="Drummer" Name="드럼 연주자"/>
+    <Elem NameU="Bass Player" Name="베이스 플레이어"/>
+    <Elem NameU="Cellist" Name="첼로 연주가"/>
+    <Elem NameU="Violinist" Name="바이올린 연주자"/>
+    <Elem NameU="Saxophonist" Name="색소폰 연주자"/>
+    <Elem NameU="Conductor" Name="지휘자"/>
+    <Elem NameU="Guitar Player" Name="기타 연주자"/>
+    <Elem NameU="Flute Player" Name="플루트 플레이어"/>
+    <Elem NameU="Drum" Name="드럼"/>
+    <Elem NameU="Piano" Name="피아노"/>
+    <Elem NameU="Male Singer" Name="남자 가수"/>
+    <Elem NameU="Female Singer" Name="여자 가수"/>
+    <Elem NameU="Accordionist" Name="아코디언 연주자"/>
+    <Elem NameU="Ballet" Name="발레리노"/>
+    <Elem NameU="Violin" Name="바이올린"/>
+    <Elem NameU="Guitar" Name="기타"/>
+    <Elem NameU="Accordion" Name="아코디언"/>
+    <Elem NameU="Bass" Name="베이스"/>
+    <Elem NameU="Zither" Name="치터"/>
+    <Elem NameU="Saxophone" Name="색소폰"/>
+    <Elem NameU="Keyboard" Name="키보드"/>
+    <Elem NameU="Xiao (Flute)" Name="플루트"/>
+    <Elem NameU="Trombone" Name="트롬본"/>
+    <Elem NameU="Horn" Name="호른"/>
+    <Elem NameU="Dish Player" Name="CD플레이어"/>
+    <Elem NameU="Microphone" Name="마이크로폰"/>
+    <Elem NameU="Radio" Name="라디오"/>
+    <Elem NameU="Cassette" Name="카세트"/>
+    <Elem NameU="Headset" Name="헤드폰"/>
+    <Elem NameU="Speaker" Name="스피커"/>
+    <Elem NameU="Volume" Name="볼륨"/>
+    <Elem NameU="Gourd Rattles" Name="조롱박 딸랑이"/>
+    <Elem NameU="Snare Drum" Name="작은 드럼"/>
+    <Elem NameU="Rattle" Name="딸랑이"/>
+    <Elem NameU="Pipa" Name="비파"/>
+    <Elem NameU="Ruan" Name="Ruan"/>
+    <Elem NameU="Liuqin" Name="유금"/>
+    <Elem NameU="Yueqin" Name="월금"/>
+    <Elem NameU="Cucurbit Flute" Name="Hulusi"/>
+    <Elem NameU="Guzheng" Name="쟁"/>
+    <Elem NameU="Erhu" Name="이호"/>
+</Lib>

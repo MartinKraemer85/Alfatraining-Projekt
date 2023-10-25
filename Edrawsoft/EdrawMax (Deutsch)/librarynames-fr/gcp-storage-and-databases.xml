@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="GCP Storage and Databases">
+
+<Elem Name="Système de stockage cloud" NameU="Cloud storage system"/>
+
+<Elem Name="Centre de données cloud" NameU="Cloud data center"/>
+
+<Elem Name="Banque de données cloud" NameU="Cloud data bank"/>
+
+<Elem Name="Cloud SQL" NameU="Cloud SQL"/>
+
+<Elem Name="Stockage cloud" NameU="Cloud storage"/>
+
+<Elem Name="Application de transmission de données" NameU="Data transmission application"/>
+
+<Elem Name="Disque permanent" NameU="Permanent disk"/>
+
+</Lib>

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Connectors">
+
+<Elem Name="横と横の連結1" NameU="Point connector"/>
+
+<Elem Name="斜めコネクタ2" NameU="Oblique connector 2"/>
+
+<Elem Name="分岐線1" NameU="Multi-tree square"/>
+
+<Elem Name="分岐線2" NameU="Multi-tree sloped"/>
+
+<Elem Name="複数分岐線" NameU="One to many"/>
+
+<Elem Name="中央矢印線" NameU="Mid-arrow"/>
+
+<Elem Name="飛越線" NameU="Jumper"/>
+
+<Elem Name="四重線" NameU="Multi-lines"/>
+
+<Elem Name="ストレートコネクター" NameU="Straight Connector"/>
+
+<Elem Name="アークコネクター" NameU="Arc Connector"/>
+
+<Elem Name="曲線コネクタ" NameU="Curve Connector"/>
+
+<Elem Name="斜めコネクタ" NameU="Oblique Connector"/>
+
+<Elem Name="角度付きコネクタ" NameU="Angled Connector"/>
+
+<Elem Name="二重線" NameU="Double Lines"/>
+
+<Elem Name="マルチラインエルボ" NameU="Multi-lines Elbow"/>
+
+<Elem Name="上から下へ" NameU="Top to Bottom"/>
+
+<Elem Name="左右に" NameU="Side to Side"/>
+
+<Elem Name="コントロール転送" NameU="Control Transfer"/>
+
+<Elem Name="通信リンク" NameU="Comm-link"/>
+
+<Elem Name="フローディレクター" NameU="Flow Director"/>
+
+<Elem Name="柔軟な矢印" NameU="Flexible Arrow"/>
+
+<Elem Name="単一の矢印" NameU="Single Arrow"/>
+
+<Elem Name="二重矢印" NameU="Double Arrow"/>
+
+<Elem Name="オープンエンド矢印" NameU="Open-end Arrow"/>
+
+<Elem Name="矢印" NameU="Arrow"/>
+
+<Elem Name="丸い尾の矢印" NameU="Round Tail Arrow"/>
+
+<Elem Name="ファンシーアロー" NameU="Fancy Arrow"/>
+
+<Elem Name="テールアロー" NameU="Arrow with Tail"/>
+
+<Elem Name="エルボーアロー" NameU="Elbow Arrow"/>
+
+<Elem Name="ベントアロー" NameU="Bent Arrow"/>
+
+<Elem Name="ダイナミックアロー" NameU="Dynamic Arrow"/>
+
+</Lib>

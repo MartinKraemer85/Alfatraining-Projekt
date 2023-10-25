@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Equipment-Motors">
+	<Elem NameU="Motor" Name="モーター"/>
+	<Elem NameU="Step motor" Name="ステップモーター"/>
+	<Elem NameU="DC motor" Name="直流電動機"/>
+	<Elem NameU="AC motor" Name="交流電動機"/>
+	<Elem NameU="Motor generator" Name="電動発電機"/>
+	<Elem NameU="Gear" Name="ギア"/>
+	<Elem NameU="Generator" Name="発電機"/>
+	<Elem NameU="AC generator" Name="交流発電機"/>
+	<Elem NameU="DC generator" Name="直流発電機"/>
+	<Elem NameU="Motor-operated valve" Name="電動弁"/>
+	<Elem NameU="Motor driven turbine" Name="電動タービン"/>
+	<Elem NameU="Diesel motor" Name="ディーゼルエンジン"/>
+	<Elem NameU="Electric motor" Name="電動機"/>
+	<Elem NameU="Turbine" Name="タービン"/>
+</Lib>

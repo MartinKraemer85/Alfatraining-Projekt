@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="HVAC Ductwork">
+    <Elem NameU="Straight duct" Name="直管"/>
+    <Elem NameU="Miter bend" Name="斜面彎管"/>
+    <Elem NameU="Miter bend 2" Name="斜面彎管 2"/>
+    <Elem NameU="Miter bend 3" Name="斜面彎管 3"/>
+    <Elem NameU="Miter bend 4" Name="斜面彎管 4"/>
+    <Elem NameU="Variable bend" Name="可變彎"/>
+    <Elem NameU="Variable bend 2" Name="可變彎 2"/>
+    <Elem NameU="Branch duct" Name="支管"/>
+    <Elem NameU="Branch duct 2" Name="支管 2"/>
+    <Elem NameU="Junction bottom" Name="底部接口"/>
+    <Elem NameU="Junction up" Name="上部接口"/>
+    <Elem NameU="3 way junction" Name="三通接口"/>
+    <Elem NameU="Y junction" Name="Y形接口"/>
+    <Elem NameU="Beveled junction" Name="傾斜接口"/>
+    <Elem NameU="Transition" Name="過渡"/>
+    <Elem NameU="Offset transition" Name="偏移過渡"/>
+    <Elem NameU="Supply" Name="供給"/>
+    <Elem NameU="Return" Name="迴路"/>
+    <Elem NameU="Flexible connection 1" Name="柔性連接 1"/>
+    <Elem NameU="Flexible connector" Name="彈性接頭"/>
+    <Elem NameU="Vertical duct" Name="垂直管"/>
+    <Elem NameU="VAV box" Name="變風量空調系統末端裝置"/>
+    <Elem NameU="Sliding damper" Name="活動調節器"/>
+    <Elem NameU="Damper" Name="減震器"/>
+</Lib>

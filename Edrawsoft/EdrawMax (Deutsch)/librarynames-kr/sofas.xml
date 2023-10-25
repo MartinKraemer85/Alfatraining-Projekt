@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Sofas">
+    <Elem NameU="Sofa 1" Name="소파 1"/>
+    <Elem NameU="Sofa 2" Name="소파 2"/>
+    <Elem NameU="Sofa 3" Name="소파 3"/>
+    <Elem NameU="Sofa 4" Name="소파 4"/>
+    <Elem NameU="Sofa 5" Name="소파 5"/>
+    <Elem NameU="Sofa 6" Name="소파 6"/>
+    <Elem NameU="Sofa 7" Name="소파 7"/>
+    <Elem NameU="Sofa 8" Name="소파 8"/>
+    <Elem NameU="Sofa 9" Name="소파 9"/>
+    <Elem NameU="Sofa 10" Name="소파 10"/>
+    <Elem NameU="Sofa 11" Name="소파 11"/>
+    <Elem NameU="Sofa 12" Name="소파 12"/>
+    <Elem NameU="Sofa 13" Name="소파 13"/>
+    <Elem NameU="Sofa 14" Name="소파 14"/>
+    <Elem NameU="Sofa 15" Name="소파 15"/>
+    <Elem NameU="Sofa 16" Name="소파 16"/>
+    <Elem NameU="Sofa 17" Name="소파 17"/>
+    <Elem NameU="Sofa 18" Name="소파 18"/>
+    <Elem NameU="Sofa 19" Name="소파 19"/>
+    <Elem NameU="Sofa 20" Name="소파 20"/>
+    <Elem NameU="Sofa 21" Name="소파 21"/>
+    <Elem NameU="Sofa 22" Name="소파 22"/>
+    <Elem NameU="Sofa 23" Name="소파 23"/>
+    <Elem NameU="Sofa 24" Name="소파 24"/>
+    <Elem NameU="Sofa 25" Name="소파 25"/>
+    <Elem NameU="Sofa 26" Name="소파 26"/>
+    <Elem NameU="Sofa 27" Name="소파 27"/>
+    <Elem NameU="Curved back sofa 1" Name="곡선 소파 1"/>
+    <Elem NameU="Curved back sofa 2" Name="곡선 소파 2"/>
+    <Elem NameU="Curved sofa" Name="곡선 소파"/>
+    <Elem NameU="Sectional sofa with arms" Name="팔 부분 소파"/>
+    <Elem NameU="Armless sectional sofa" Name="단면 소파"/>
+    <Elem NameU="Curved sectional sofa" Name="곡선 소파"/>
+    <Elem NameU="1 seat sofa" Name="1 소파 의자"/>
+    <Elem NameU="2 seat sofa" Name="2 소파 의자"/>
+    <Elem NameU="3 seat sofa" Name="3 소파 의자"/>
+    <Elem NameU="4 seat sofa" Name="4 소파 의자"/>
+    <Elem NameU="Couch 1" Name="긴 소파 1"/>
+    <Elem NameU="Couch 2" Name="긴 소파 2"/>
+    <Elem NameU="Tea Table" Name="차 탁자"/>
+    <Elem NameU="Tea Table 2" Name="차 탁자 2"/>
+    <Elem NameU="Tea Table 3" Name="차 탁자 3"/>
+    <Elem NameU="Tea Table 4" Name="차 탁자 4"/>
+    <Elem NameU="Tea Table 5" Name="차 탁자 5"/>
+    <Elem NameU="Tea Table 6" Name="차 탁자 6"/>
+    <Elem NameU="Tea Table 7" Name="차 탁자 7"/>
+    <Elem NameU="Tea table 8" Name="차 탁자 8"/>
+    <Elem NameU="Tea table 9" Name="차 탁자 9"/>
+    <Elem NameU="Tea table 10" Name="차 탁자 10"/>
+    <Elem NameU="Tea table 11" Name="차 탁자 11"/>
+    <Elem NameU="Tea table 12" Name="차 탁자 12"/>
+    <Elem NameU="Sofa Table 1" Name="소파 테이블 1"/>
+    <Elem NameU="Sofa Table 2" Name="소파 테이블 2"/>
+    <Elem NameU="Sofa Table 3" Name="소파 테이블 3"/>
+    <Elem NameU="Sofa Table 4" Name="소파 테이블 4"/>
+    <Elem NameU="Sofa Table 5" Name="소파 테이블 5"/>
+</Lib>

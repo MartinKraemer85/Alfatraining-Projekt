@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Pumps">
+    <Elem NameU="3-D ISA Pump" Name="3-D 工業標準泵"/>
+    <Elem NameU="3-D Pump" Name="3-D 泵"/>
+    <Elem NameU="Air powered pump" Name="氣動泵"/>
+    <Elem NameU="Air-operated diaphragm pump" Name="氣動隔膜泵"/>
+    <Elem NameU="Centrifugal pump 1" Name="離心泵 1"/>
+    <Elem NameU="Centrifugal pump 2" Name="離心泵 2"/>
+    <Elem NameU="Centrifugal pump 3" Name="離心泵 3"/>
+    <Elem NameU="Centrifugal pump 4" Name="離心泵 4"/>
+    <Elem NameU="Centrifugal pump 5" Name="離心泵 5"/>
+    <Elem NameU="Centrifugal pump with integral pump-motor shaft" Name="帶軸離心泵"/>
+    <Elem NameU="Centrifugal thermoplastic pump" Name="熱塑塑料離心泵"/>
+    <Elem NameU="Chemical pump 1" Name="化工泵 1"/>
+    <Elem NameU="Chemical pump 2" Name="化工泵 2"/>
+    <Elem NameU="Chemical pump 3" Name="化工泵 3"/>
+    <Elem NameU="Classic pump 4" Name="經典泵"/>
+    <Elem NameU="Cool pump" Name="冷泵"/>
+    <Elem NameU="Corrosion resistant submersible pump" Name="耐腐蝕潛水泵"/>
+    <Elem NameU="Corrosion-resistant continuous duty pump" Name="耐腐持續工作泵"/>
+    <Elem NameU="Diaphragm pump" Name="隔膜泵"/>
+    <Elem NameU="Diaphragm pump 2" Name="隔膜泵 2"/>
+    <Elem NameU="End-suction centrifugal pump" Name="單吸離心泵"/>
+    <Elem NameU="Explosion-proof pump" Name="防爆泵"/>
+    <Elem NameU="Flanged pump" Name="法蘭泵"/>
+    <Elem NameU="Flex-mounted centrifugal pump" Name="離心泵 6"/>
+    <Elem NameU="Heavy-duty plastic centrifugal pump" Name="重載塑料離心泵"/>
+    <Elem NameU="High temp heat trans pump" Name="高溫熱轉換泵"/>
+    <Elem NameU="High volume pump" Name="大排量泵"/>
+    <Elem NameU="High-viscosity pump" Name="高粘度泵"/>
+    <Elem NameU="High-viscosity pump (left)" Name="高粘度泵(左向)"/>
+    <Elem NameU="High-viscosity pump (right)" Name="高粘度泵(右向)"/>
+    <Elem NameU="Horizontal pump 1" Name="卧式泵 1"/>
+    <Elem NameU="Horizontal pump 2 (left)" Name="卧式泵 2 (左向)"/>
+    <Elem NameU="Horizontal pump 2 (right)" Name="卧式泵 3 (右向)"/>
+    <Elem NameU="Horizontal pump 3" Name="卧式泵 4"/>
+    <Elem NameU="Horizontal solids handling vortex pump" Name="卧式固體處理旋渦泵"/>
+    <Elem NameU="Horizontal split case pump" Name="卧式剖分式泵"/>
+    <Elem NameU="Isolating diaphragm pump" Name="隔膜泵"/>
+    <Elem NameU="Large volume chemical and submersible pump" Name="大排量化工潛水泵"/>
+    <Elem NameU="Mag drive non-metallic pump" Name="磁力驅動非金屬泵"/>
+    <Elem NameU="Mag drive pump 1" Name="磁力驅動泵 1"/>
+    <Elem NameU="Mag drive pump 2" Name="磁力驅動泵 2"/>
+    <Elem NameU="Oil pump" Name="油泵"/>
+    <Elem NameU="Oil well pump" Name="抽油泵"/>
+    <Elem NameU="Plunger pump" Name="柱塞泵"/>
+    <Elem NameU="Positive displacement gear pump" Name="容積式齒輪泵"/>
+    <Elem NameU="Pump for highly-corrosive applications" Name="耐強腐蝕泵"/>
+    <Elem NameU="Pump" Name="泵"/>
+    <Elem NameU="Pumping trap" Name="泵抽式疏水器"/>
+    <Elem NameU="Rotary vacuum pump" Name="迴轉真空泵"/>
+    <Elem NameU="sealless pump" Name="無軸封泵"/>
+    <Elem NameU="self-priming centrifugal pump" Name="自吸離心泵"/>
+    <Elem NameU="sewage pump" Name="排污泵"/>
+    <Elem NameU="Simple pump" Name="簡單泵"/>
+    <Elem NameU="Simple vertical pump" Name="簡單立式泵"/>
+    <Elem NameU="Solids-handling self-priming pump" Name="固體處理自吸泵"/>
+    <Elem NameU="SRH pump" Name="SRH乳化泵"/>
+    <Elem NameU="Standard-flange positive displacement pump" Name="標準法蘭容積泵"/>
+    <Elem NameU="Submersible sump pump" Name="潛水液下泵"/>
+    <Elem NameU="Sump pump" Name="污水泵"/>
+    <Elem NameU="Threaded gear" Name="螺紋泵"/>
+    <Elem NameU="Vacuum pump" Name="真空泵"/>
+    <Elem NameU="Vertical pump (down)" Name="立式泵(向下)"/>
+    <Elem NameU="Vertical pump (up)" Name="立式泵(向上)"/>
+    <Elem NameU="Vertical pump" Name="立式泵"/>
+    <Elem NameU="White pump" Name="白色泵"/>
+    <Elem NameU="Yellow pump" Name="黃色泵"/>
+    <Elem NameU="Condensate pump" Name="冷凝泵"/>
+    <Elem NameU="CIP Pump" Name="CIP泵"/>
+    <Elem NameU="Raw Water Pump" Name="原水泵"/>
+    <Elem NameU="Plunger Pump" Name="活塞泵"/>
+    <Elem NameU="Pump" Number="2" Name="泵"/>
+    <Elem NameU="Hot Living Water Pump for Low Area" Name="低區生活熱水泵"/>
+    <Elem NameU="Hot Living Water Pump for High Area" Name="高區生活熱水泵"/>
+    <Elem NameU="Freezing Pump" Name="冷凍泵"/>
+    <Elem NameU="Pump" Name="泵"/>
+    <Elem NameU="Cooling Pump" Name="冷卻泵"/>
+    <Elem NameU="Freezing Pump" Name="冷凍泵"/>
+    <Elem NameU="Pump" Number="3" Name="泵"/>
+</Lib>

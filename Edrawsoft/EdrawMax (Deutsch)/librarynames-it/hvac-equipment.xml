@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="HVAC Equipment">
+	<Elem NameU="Pump" Name="Pompa"/>
+	<Elem NameU="Centrifugal pump" Name="Pompa centrifugale"/>
+	<Elem NameU="Reciprocating pump" Name="Pompa Reciproca"/>
+	<Elem NameU="Screw pump" Name="Pompa a viti"/>
+	<Elem NameU="Fan" Name="Ventilatore"/>
+	<Elem NameU="Centrifugal fan" Name="Ventilatore centrifugale"/>
+	<Elem NameU="Fan blades" Name="Pale ventilatore"/>
+	<Elem NameU="Moisture eliminator" Name="Eliminatore di umidità"/>
+	<Elem NameU="Silencer" Name="Silenziatore"/>
+	<Elem NameU="Silencer 2" Name="Silenziatore 2"/>
+	<Elem NameU="Condenser" Name="Condensatore"/>
+	<Elem NameU="Air filter" Name="Filtro d'aria"/>
+	<Elem NameU="Pipe coil" Name="Tubi"/>
+	<Elem NameU="Exhaust hood" Name="Cappa"/>
+	<Elem NameU="Muffler" Name="Marmitta"/>
+	<Elem NameU="Air volume control valve" Name="Valvola per il controllo del volume dell'aria"/>
+	<Elem NameU="The filter" Name="Filtro"/>
+	<Elem NameU="Regulator" Name="Regolatore"/>
+	<Elem NameU="The heater" Name="Riscaldatore"/>
+	<Elem NameU="Surface air cooler" Name="Raffreddatore aria di superficie"/>
+	<Elem NameU="Humidifier" Name="Umidificatore"/>
+	<Elem NameU="High efficiency filter" Name="Filtro ad alta efficienza"/>
+	<Elem NameU="Ozone generator" Name="Generatore di ozono"/>
+	<Elem NameU="Primary filter、 Mid-effect filter" Name="Filtro primario, Filtro a media efficacia"/>
+	<Elem NameU="Air compressor" Name="Compressore d'aria"/>
+	<Elem NameU="Oxygen-enriched filter" Name="Filtro con ossigeno"/>
+	<Elem NameU="Membrane Clear Box" Name="Contenitore membrane trasparente"/>
+	<Elem NameU="Vacuum pump" Name="Pompa a vuoto"/>
+	<Elem NameU="Valve" Name="Valvola"/>
+	<Elem NameU="Vacuum Gauge" Name="Manometro a vuoto"/>
+	<Elem NameU="Steam separator" Name="Separatore vapore"/>
+	<Elem NameU="Pressurizer system" Name="Sistema pressurizzante"/>
+	<Elem NameU="Dehumidifying system" Name="Sistema deumidificante"/>
+	<Elem NameU="Booster fan" Name="Ventilatore ausiliario"/>
+	<Elem NameU="Preheating system" Name="Sistema preriscaldante"/>
+	<Elem NameU="Nozzle" Name="Ugello"/>
+	<Elem NameU="Boiler" Name="Caldaia"/>
+	<Elem NameU="Cold water pump" Name="Pompa dell'acqua fredda"/>
+	<Elem NameU="Flow valve" Name="Valvola di flusso"/>
+	<Elem NameU="Water tower" Name="Torre Idrica"/>
+	<Elem NameU="Supply air grill" Name="Griglia aria di mandata"/>
+	<Elem NameU="Pipe network" Name="Rete tubolare"/>
+	<Elem NameU="Cooling coil" Name="Bobina di raffreddamento"/>
+	<Elem NameU="Return air grill" Name="Griglia aria di ritorno"/>
+	<Elem NameU="Pipeline" Name="Gasdotto"/>
+	<Elem NameU="Zone damper" Name="Smorzatore a zona"/>
+	<Elem NameU="Outside air duct" Name="Canale d'aria esterno"/>
+	<Elem NameU="Ventilator" Name="Ventilatore"/>
+	<Elem NameU="Refrigerant receiver" Name="Ricevitore refrigerante"/>
+	<Elem NameU="Chiller" Name="Refrigeratore"/>
+	<Elem NameU="Axia fan" Name="Ventilatore Assiale"/>
+	<Elem NameU="Access door" Name="Porta d'accesso"/>
+	<Elem NameU="Rotary Pump" Name="Pompa Rotativa"/>
+	<Elem NameU="Dryer" Name="Essiccatore"/>
+	<Elem NameU="Condensate tank" Name="Serbatoio di Condensazione"/>
+	<Elem NameU="Heat engine" Name="Motore di riscaldamento"/>
+	<Elem NameU="Unit heater" Name="Riscaldatore unità"/>
+	<Elem NameU="Unit ventilator" Name="Ventilatore unità"/>
+	<Elem NameU="Steam" Name="Vapore"/>
+	<Elem NameU="Duplex strainer" Name="Filtro duplex"/>
+	<Elem NameU="Pressure-reducing valve" Name="Valvola riduci-pressione"/>
+	<Elem NameU="Airline valve" Name="Valvola aviolinea"/>
+	<Elem NameU="Strainer" Name="Filtro"/>
+	<Elem NameU="Automatic 3-way valve" Name="Valvola automatica a 3 vie"/>
+	<Elem NameU="Solenold valve" Name="Valvola solenoide"/>
+	<Elem NameU="Relief valve" Name="Valvola di scarico"/>
+	<Elem NameU="Pressure gauge and cock" Name="Manometro ed erogatore"/>
+	<Elem NameU="Thermometer" Name="Termometro"/>
+	<Elem NameU="Fan and motor with belt guard" Name="Ventilatore e motore con copricinghia"/>
+	<Elem NameU="Supply duct-section" Name="Sezione canale di rifornimento"/>
+	<Elem NameU="Modulating return air capillary thermostat" Name="Termostato capillare per modulazione aria di ritorno"/>
+	<Elem NameU="Solenold air valve" Name="Valvola d'aria solenoide"/>
+	<Elem NameU="Pressure electric switch" Name="Interruttore di pressione elettrico"/>
+</Lib>

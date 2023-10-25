@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Appliances">
+    <Elem NameU="Pendant lamp" Name="吊燈"/>
+    <Elem NameU="LED" Name="LED"/>
+    <Elem NameU="Floor lamp" Name="落地燈"/>
+    <Elem NameU="Wall lamp" Name="壁燈"/>
+    <Elem NameU="Spotlight" Name="聚光燈"/>
+    <Elem NameU="Tube light" Name="日光燈"/>
+    <Elem NameU="LED downlight" Name="LED投光燈"/>
+    <Elem NameU="Shower lamp" Name="浴霸"/>
+    <Elem NameU="Fan" Name="風扇"/>
+    <Elem NameU="Air exhaust fan" Name="排氣扇"/>
+    <Elem NameU="Gas stoves" Name="燃氣灶具"/>
+    <Elem NameU="Gas Stoves" Name="燃氣灶具"/>
+    <Elem NameU="Refrg" Number="2" Name="冰箱"/>
+    <Elem NameU="Chest freezer" Name="冰櫃"/>
+    <Elem NameU="Cooker" Name="炊具"/>
+    <Elem NameU="Range" Name="爐灶"/>
+    <Elem NameU="Microwave" Name="微波爐"/>
+    <Elem NameU="Dishwasher" Name="洗碗機"/>
+    <Elem NameU="Washing machine" Name="洗衣機"/>
+    <Elem NameU="Water cooler" Name="飲水機"/>
+    <Elem NameU="Oven" Name="烤箱"/>
+    <Elem NameU="Tumble dryer" Name="滾筒烘衣機"/>
+    <Elem NameU="Coffee maker" Name="咖啡壺"/>
+    <Elem NameU="Disinfection cabinet" Name="消毒櫃"/>
+    <Elem NameU="Flat-panel TV" Name="平板電視"/>
+    <Elem NameU="Keyboard" Name="鍵盤"/>
+    <Elem NameU="Video game" Name="電子遊戲機"/>
+    <Elem NameU="Food cooler" Name="食品冷凍櫃"/>
+    <Elem NameU="Vending machine" Name="自動售貨機"/>
+    <Elem NameU="Water heater" Name="熱水器"/>
+</Lib>

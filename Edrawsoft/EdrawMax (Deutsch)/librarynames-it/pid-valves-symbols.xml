@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="PID Valves Symbols">
+	<Elem NameU="3-D 3-way solenoid valve with reset" Name="Valvola solenoide 3-D a 3 vie con molla reset"/>
+	<Elem NameU="3-D 3-way valve" Name="Valvola 3-D a 3 vie "/>
+	<Elem NameU="3-D 3-way solenoid valve" Name="Valvola solenoide 3-D a 3 vie "/>
+	<Elem NameU="3-D 4-way valve" Name="Valvola 3-D a 4 vie "/>
+	<Elem NameU="3-D Angle blowdown valve" Name="Valvola angolare di scarico 3-D"/>
+	<Elem NameU="3-D Ball valve" Name="Valvola a sfera 3-D"/>
+	<Elem NameU="3-D Blowdown valve" Name="Valvola di scarico 3-D"/>
+	<Elem NameU="3-D Butterfly valve or damper" Name="Valvola a farfalla 3-D"/>
+	<Elem NameU="3-D Check valve" Name="Valvola di ritegno 3-D"/>
+	<Elem NameU="3-D Control valve with actuator" Name="Valvola di controllo con attuatore 3-D"/>
+	<Elem NameU="3-D Cylinder actuated valve (double-acting)" Name="Valvola cilindrica attuata (doppio-effetto) 3-D"/>
+	<Elem NameU="3-D Flow regulator ,self-contained" Name="Regolatore di flusso, autonomo 3-D"/>
+	<Elem NameU="3-D Gate valve" Name="Valvola a saracinesca 3-D"/>
+	<Elem NameU="3-D Hand control valve" Name="Valvola a operazione manuale 3-D"/>
+	<Elem NameU="3-D Plug valve" Name="Valvola a tappo 3-D"/>
+	<Elem NameU="3-D Pressure-balanced diaphragm actuated" Name="Diaframma attuato a pressione equilibrata 3-D"/>
+	<Elem NameU="3-D Regulator with external pressure tap" Name="Regolatore 3-D con tappo di pressione esterno"/>
+	<Elem NameU="3-D Regulator, self-contained" Name="Regolatore 3-D, autonomo"/>
+	<Elem NameU="3-D Restriction orifice drilled in valve" Name="Valvola con orifizio di restrizione 3-D"/>
+	<Elem NameU="3-D Rotary actuated" Name="Valvola rotativa attuata 3-D"/>
+	<Elem NameU="3-D Rotary plug valve" Name="Valvola rotativa a tappo 3-D"/>
+	<Elem NameU="3-D Stop check valve" Name="Valvola di arresto 3-D"/>
+	<Elem NameU="3-D Vacuum safety valve" Name="Valvola di sicurezza a vuoto 3-D"/>
+	<Elem NameU="3-D Valve with actuator" Name="Valvola con attuatore 3-D"/>
+	<Elem NameU="3-D Valve with bleed or purge connection under disc" Name="Valvola di spurgo 3-D con connettore sotto il disco"/>
+	<Elem NameU="3-D Valve with long shaft" Name="Valvola 3-D con albero lungo"/>
+	<Elem NameU="3-D Valve,fail indeterminate" Name="Valvola 3-D, errore imprecisato"/>
+	<Elem NameU="3-D Valve,fail locked" Name="Valvola 3-D, errore di chiusura"/>
+	<Elem NameU="3-D Valve" Name="Valvola 3-D"/>
+	<Elem NameU="Valve handle 1" Name="Manici valvola 1"/>
+	<Elem NameU="Valve handle 2" Name="Manici valvola 2"/>
+	<Elem NameU="Valve wheel" Name="Ruota valvola"/>
+</Lib>

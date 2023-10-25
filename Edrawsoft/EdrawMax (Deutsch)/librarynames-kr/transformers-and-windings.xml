@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Transformers and Windings">
+    <Elem NameU="Magnetic core" Name="자기 코어"/>
+    <Elem NameU="Inductor" Name="인덕터"/>
+    <Elem NameU="Inductor (Air core)" Name="인덕터（속이 빈） "/>
+    <Elem NameU="Inductor (Air core) 2" Name="인덕터（속이 빈） 2"/>
+    <Elem NameU="Inductor (Air core) 3" Name="인덕터（속이 빈） 3"/>
+    <Elem NameU="Variable inductor" Name="가변 인덕터"/>
+    <Elem NameU="Choke" Name="초크"/>
+    <Elem NameU="Magnetic-core inductor" Name="자기 코어 인덕터"/>
+    <Elem NameU="Magnetic core inductor" Name="자기 코어 인덕터 2"/>
+    <Elem NameU="Magnetic inductor" Name="자기 인덕터"/>
+    <Elem NameU="Magnetic with gap" Name="자기 간격"/>
+    <Elem NameU="Variometer" Name="가변 인덕터"/>
+    <Elem NameU="Coaxial choke" Name="동축 초크"/>
+    <Elem NameU="Transductor" Name="변환기"/>
+    <Elem NameU="Transformer" Name="변압기"/>
+    <Elem NameU="Transformer 2" Name="변압기 2"/>
+    <Elem NameU="Saturation transformer" Name="포화 변압기"/>
+    <Elem NameU="Adjustable transformer" Name="가변 변압기"/>
+    <Elem NameU="Transformer 3" Name="변압기 3"/>
+    <Elem NameU="Mutual inductor" Name="상호 유도자"/>
+    <Elem NameU="1-phase induction volt.reg." Name="단상 유도 volt.reg."/>
+    <Elem NameU="Triplex induction volt.reg." Name="삼중 유도 volt.reg."/>
+    <Elem NameU="Induction voltage regulator" Name="유도 전압 조정기"/>
+    <Elem NameU="Current transformer" Name="전류 변압기"/>
+    <Elem NameU="Current transformer 2" Name="전류 변압기 2"/>
+    <Elem NameU="Current transformer 3" Name="전류 변압기 3"/>
+    <Elem NameU="Polyphase transformer" Name="다상 변압기"/>
+    <Elem NameU="Polyphase transformer 2" Name="다상 변압기 2"/>
+    <Elem NameU="3-winding transformer" Name="3 권선 변압기"/>
+    <Elem NameU="Potential transformer" Name="잠재적 변압기"/>
+    <Elem NameU="Potential transformer 2" Name="잠재적 변압기 2"/>
+    <Elem NameU="Transformer (Iron Core)" Name="변압기（철 코어）"/>
+    <Elem NameU="Transformer (Iron Core) 2" Name="변압기（철 코어）2"/>
+    <Elem NameU="Pot. trans. 3 windings" Name="3 권선 변압기"/>
+    <Elem NameU="Outdoor metering device" Name="야회 측정 장비"/>
+    <Elem NameU="Linear coupler" Name="선형 커플러"/>
+    <Elem NameU="Ferrite core" Name="페라이트 코어"/>
+    <Elem NameU="Iron Core" Name="철 코어"/>
+</Lib>

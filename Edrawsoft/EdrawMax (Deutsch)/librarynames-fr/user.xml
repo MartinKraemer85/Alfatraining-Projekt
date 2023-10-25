@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="User">
+
+<Elem Name="Ajouter un utilisateur" NameU="Add User"/>
+
+<Elem Name="Supprimer l'utilisateur" NameU="Delete User"/>
+
+<Elem Name="Supprimer l'utilisateur" NameU="Remove User"/>
+
+<Elem Name="Administrateur" NameU="Administrator"/>
+
+<Elem Name="Exporter l'utilisateur" NameU="Export User"/>
+
+<Elem Name="Importer l'utilisateur" NameU="Import User"/>
+
+<Elem Name="Télécharger l'utilisateur" NameU="Download User"/>
+
+<Elem Name="Uploader l'utilisateur" NameU="Upload User"/>
+
+<Elem Name="Utilisateur en ligne" NameU="Online User"/>
+
+<Elem Name="Avertissement utilisateur" NameU="Warning User"/>
+
+<Elem Name="Modifier l'utilisateur" NameU="Edit User"/>
+
+<Elem Name="J'aime le profil utilisateur" NameU="Like User Profile"/>
+
+<Elem Name="Utilisateur verrouillé" NameU="Locked User"/>
+
+<Elem Name="Utilisateur débloqué" NameU="Unlocked User"/>
+
+<Elem Name="Utilisateur de courrier" NameU="Mail User"/>
+
+<Elem Name="Approuver l'utilisateur" NameU="Approve User"/>
+
+<Elem Name="Utilisateur refusé" NameU="Denied User"/>
+
+<Elem Name="Trouver un utilisateur" NameU="Find User"/>
+
+<Elem Name="Utilisateur Commercial Skype" NameU="Skype Commercial User"/>
+
+<Elem Name="Utilisateur préféré" NameU="Favorite User"/>
+
+<Elem Name="Chargement de l'utilisateur" NameU="Loading User"/>
+
+<Elem Name="Utilisateur inconnu" NameU="Unknown User"/>
+
+<Elem Name="Magasin Utilisateur" NameU="User Store"/>
+
+<Elem Name="Utilisateur Outlook" NameU="Outlook User"/>
+
+<Elem Name="Fichier Csv" NameU="Csv File"/>
+
+<Elem Name="Utilisateur en nuage" NameU="Cloud User"/>
+
+<Elem Name="Groupe de rôle" NameU="Role Group"/>
+
+<Elem Name="Utilisateur mobile" NameU="Mobile User"/>
+
+<Elem Name="Utilisateur domestique" NameU="Home User"/>
+
+<Elem Name="Communication" NameU="Communication"/>
+
+<Elem Name="Utilisateur UM-Enabled" NameU="UM-Enabled User"/>
+
+<Elem Name="Groupe d'intervention" NameU="Response Group"/>
+
+<Elem Name="Administrateur locataire" NameU="Tenant Admin"/>
+
+<Elem Name="Groupe de distribution dynamique" NameU="Dynamic Distribution Group"/>
+
+<Elem Name="Agent de centre d'appel" NameU="Call Center Agent"/>
+
+<Elem Name="Utilisateur" NameU="User"/>
+
+<Elem Name="Utilisateurs" NameU="Users"/>
+
+<Elem Name="Réunion" NameU="Meeting"/>
+
+</Lib>

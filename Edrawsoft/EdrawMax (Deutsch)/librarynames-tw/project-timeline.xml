@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Project Timeline">
+  <Elem NameU="Time Bar" Name="時間條"/>
+  <Elem NameU="Time Bar" Name="時間條"/>
+  <Elem NameU="Time Bar" Name="時間條"/>
+  <Elem NameU="Time Bar" Name="時間條"/>
+  <Elem NameU="Time Bar" Name="時間條"/>
+  <Elem NameU="Time Bar" Name="時間條"/>
+  <Elem NameU="Interval Description" Name="間隔說明"/>
+  <Elem NameU="Interval Description" Name="間隔說明"/>
+  <Elem NameU="Interval Description" Name="間隔說明"/>
+  <Elem NameU="Interval Description" Name="間隔說明"/>
+  <Elem NameU="Interval Description" Name="間隔說明"/>
+  <Elem NameU="Point Mission" Name="點任務"/>
+  <Elem NameU="Multi-style Mission" Name="多式任務"/>
+  <Elem NameU="Point Mission" Name="點任務"/>
+  <Elem NameU="Point Mission" Name="點任務"/>
+  <Elem NameU="Point Mission" Name="點任務"/>
+  <Elem NameU="Diamond Milestone" Name="鑽石里程碑"/>
+  <Elem NameU="Triangle Milestone 2" Name="三角里程碑2"/>
+  <Elem NameU="Circle Milestone" Name="圓形里程碑"/>
+  <Elem NameU="Rect Milestone" Name="矩形里程碑"/>
+  <Elem NameU="Milestone" Name="里程碑"/>
+  <Elem NameU="Flag Milestone" Name="標記里程碑"/>
+  <Elem NameU="Line Milestone" Name="線里程碑"/>
+  <Elem NameU="Side Brace" Name="側撐"/>
+</Lib>

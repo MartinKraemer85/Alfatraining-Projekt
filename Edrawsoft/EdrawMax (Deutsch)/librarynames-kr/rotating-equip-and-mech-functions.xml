@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Rotating Equip and Mech Functions">
+    <Elem NameU="Motor" Name="모터 1"/>
+    <Elem NameU="Step motor" Name="모터 2"/>
+    <Elem NameU="DC motor" Name="DC 모터 3"/>
+    <Elem NameU="AC motor" Name="AC 모터 4"/>
+    <Elem NameU="Motor generator" Name="모터 발전기"/>
+    <Elem NameU="Synchronous generator" Name="동기 발전기"/>
+    <Elem NameU="Hand generator" Name="수동 발전기"/>
+    <Elem NameU="Synchronous generator" Name="동기 발전기"/>
+    <Elem NameU="Synchronous converter" Name="동기 전환기"/>
+    <Elem NameU="Armature" Name="전기자"/>
+    <Elem NameU="Brush" Name="브러쉬"/>
+    <Elem NameU="Field" Name="필드"/>
+    <Elem NameU="Permanent Magnet" Name="영구 자석"/>
+    <Elem NameU="Winding connection" Name="권선 연결"/>
+    <Elem NameU="1-phase" Name="1-단계"/>
+    <Elem NameU="2-phase" Name="2-단계"/>
+    <Elem NameU="3-phase Wye" Name="3상"/>
+    <Elem NameU="6-phase Diametrical" Name="6상 지름"/>
+    <Elem NameU="6-phase Double-delta" Name="6상 이중 삼각"/>
+    <Elem NameU="Synchro" Name="동기화"/>
+    <Elem NameU="Brake" Name="브레이크"/>
+    <Elem NameU="Gearing" Name="기어"/>
+    <Elem NameU="Rotation" Name="회전"/>
+    <Elem NameU="Clutch" Name="클러치"/>
+    <Elem NameU="Clutch 2" Name="클러치 2"/>
+    <Elem NameU="Delayed action" Name="지연 동작"/>
+    <Elem NameU="Manual control" Name="수동 컨트롤"/>
+    <Elem NameU="Restricted blocking device " Name="제한된 차단 장치"/>
+    <Elem NameU="Pushing" Name="푸시"/>
+    <Elem NameU="Push" Name="푸시"/>
+    <Elem NameU="Pulling" Name="당기기"/>
+    <Elem NameU="Turning" Name="회전"/>
+    <Elem NameU="Key" Name="키"/>
+    <Elem NameU="Handwheel" Name="핸들"/>
+    <Elem NameU="Touching" Name="터칭"/>
+    <Elem NameU="Remote Handle" Name="원격 핸들"/>
+    <Elem NameU="Emergency switch" Name="긴급 스위치"/>
+    <Elem NameU="Roller" Name="롤러"/>
+    <Elem NameU="Crank" Name="크랭크"/>
+    <Elem NameU="Blocking device" Name="차단 장치"/>
+    <Elem NameU="Movement left blocked" Name="왼쪽 이동 차단"/>
+    <Elem NameU="Movement right blocked" Name="오른쪽 이동 차단"/>
+    <Elem NameU="Latching device" Name="래칭 장치"/>
+    <Elem NameU="Mechanical interlock" Name="기계적 연동"/>
+    <Elem NameU="Automatic return" Name="자동 반환"/>
+    <Elem NameU="Detent" Name="멈춤쇠"/>
+</Lib>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="PID Motors">
+	<Elem NameU="3-D ISA Motor" Name="Motor ISA 3-D"/>
+	<Elem NameU="3-D Motor" Name="Motor 3-D"/>
+	<Elem NameU="Actuator" Name="Atuador"/>
+	<Elem NameU="Brake motor" Name="Travar motor"/>
+	<Elem NameU="Brushless motor" Name="Motor sem escovas"/>
+	<Elem NameU="Explosion-proof motor" Name="Motor à prova de explosão"/>
+	<Elem NameU="Motor 1" Name="Motor 1"/>
+	<Elem NameU="Motor 2" Name="Motor 2"/>
+	<Elem NameU="Motor 3" Name="Motor 3"/>
+	<Elem NameU="Motor 4" Name="Motor 4"/>
+	<Elem NameU="Pneumatic brake" Name="Travão pneumático"/>
+	<Elem NameU="Servo motor" Name="Motor servo"/>
+	<Elem NameU="Shaft encoder" Name="Codificador de eixo"/>
+	<Elem NameU="Simple motor" Name="Motor simples"/>
+	<Elem NameU="Smart motor" Name="Motor inteligente"/>
+	<Elem NameU="Speed reducer" Name="Redutor de velocidade"/>
+	<Elem NameU="Stepping motor-driver unit" Name="Unidede de acionamento de motor por pisar"/>
+</Lib>

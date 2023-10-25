@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="2D Block Diagram">
+    <Elem NameU="Process" Name="処理"/>
+	<Elem NameU="Decision" Name="判断"/>
+	<Elem NameU="Document" Name="書類"/>
+	<Elem NameU="Data" Name="データ"/>
+	<Elem NameU="Start or Terminator" Name="開始／終了"/>
+	<Elem NameU="Sub Process" Name="サブプロセス"/>
+	<Elem NameU="Start" Name="スタート"/>
+	<Elem NameU="People" Name="人々"/>
+	<Elem NameU="Database" Name="データベース"/>
+	<Elem NameU="Annotation" Name="注釈"/>
+</Lib>

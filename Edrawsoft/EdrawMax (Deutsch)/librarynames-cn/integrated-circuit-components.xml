@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Integrated Circuit Components">
+    <Elem NameU="Horizontal extension" Name="水平扩展"/>
+    <Elem NameU="Vertical extension" Name="负逻辑圆点"/>
+    <Elem NameU="IC" Name="IC"/>
+    <Elem NameU="4X Building block-top" Name="4X 组块顶部"/>
+    <Elem NameU="4X Building block-base" Name="4X 组块底部"/>
+    <Elem NameU="4X Building block-middle" Name="4X 组块中部"/>
+    <Elem NameU="4X Building block-complete" Name="4X 组块全部"/>
+    <Elem NameU="1X Building block" Name="1X 组块"/>
+    <Elem NameU="MUX 2" Name="2信道 MUX"/>
+    <Elem NameU="MUX 4" Name="4信道 MUX"/>
+    <Elem NameU="MUX 8" Name="8信道 MUX"/>
+    <Elem NameU="Ground" Name="接地"/>
+    <Elem NameU="Driver" Name="驱动程序"/>
+    <Elem NameU="4-bit a/d converter" Name="4 位模拟/数字转换器"/>
+    <Elem NameU="8-bit a/d converter" Name="8 位模拟/数字转换器"/>
+    <Elem NameU="4-bit d/a converter" Name="4 位数字/模拟转换器"/>
+    <Elem NameU="8-bit d/a converter" Name="8 位数字/模拟转换器"/>
+    <Elem NameU="Voltage converter" Name="电压转换器"/>
+    <Elem NameU="PWM" Name="PWM"/>
+    <Elem NameU="4-bit register" Name="4 位寄存器"/>
+    <Elem NameU="8-bit register" Name="8 位寄存器"/>
+    <Elem NameU="One shot" Name="单稳"/>
+    <Elem NameU="4-bit counter" Name="4 位计数器"/>
+    <Elem NameU="8-bit counter" Name="8 位计数器"/>
+    <Elem NameU="Preload counter 4" Name="4 位预载计数器"/>
+    <Elem NameU="Preload counter 8" Name="8 位预载计数器"/>
+    <Elem NameU="Analog switch 2" Name="2 信道模拟开关"/>
+    <Elem NameU="Analog switch 4" Name="4 信道模拟开关"/>
+    <Elem NameU="2-4 decoder" Name="2 - 4 译码器"/>
+    <Elem NameU="3-8 decoder" Name="3 - 8 译码器"/>
+    <Elem NameU="Contact" Name="接触"/>
+    <Elem NameU="Contact (N)" Name="接触 (N)"/>
+    <Elem NameU="Positive Transition-Sensing Contact" Name="正极转变-接触传感"/>
+    <Elem NameU="Negative Transition-Sensing Contact" Name="负极转变-接触传感"/>
+    <Elem NameU="Output (N)" Name="输出 (N)"/>
+    <Elem NameU="Output" Name="输出"/>
+    <Elem NameU="Positive Transition-Sensing Coil" Name="正极转变-传感线圈"/>
+    <Elem NameU="Negative Transition-Sensing Coil" Name="负极转变-传感线圈"/>
+    <Elem NameU="Set Latch Coil" Name="设置线圈门闩"/>
+    <Elem NameU="Reset Latch Coil" Name="重置线圈门闩"/>
+    <Elem NameU="Output 2" Name="输出 2"/>
+    <Elem NameU="Output (N) 2" Name="输出 (N) 2"/>
+</Lib>

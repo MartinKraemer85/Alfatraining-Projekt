@@ -21,12 +21,12 @@ pip freeze > requirements.txt
 
 engine = db.create_engine(f"mssql://@{config('SERVER')}/{config('DATABASE')}?driver={config('ODBC')}")
 
-# if __name__ == '__main__':
-#     app.run(host='0.0.0.0')
+if __name__ == '__main__':
+    app.run(host='0.0.0.0')
 
 #---- testing stuff ------------
-from Helper.DbHelper import DbHelper
-test = DbHelper(engine)
+# from Helper.DbHelper import DbHelper
+# test = DbHelper(engine)
 
 # test.db_update({"objectPath": "Model.Vinyl.Record.Record",
 #                 "attributes": [
@@ -45,5 +45,5 @@ test = DbHelper(engine)
 #                      ]},
 #                 })
 
-print(test.delete({"objectPath": "Model.Vinyl.Record.Record",
-                   "ids": [i for i in range(20, 100)]}))
+# print(test.delete({"objectPath": "Model.Vinyl.Record.Record",
+#                    "ids": [i for i in range(20, 100)]}))

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="AWS Migration &amp; Transfer">
+	<Elem NameU="AWS-Application-Discovery-Service" Name="Serviço de descoberta de aplicativos AWS"/>
+	<Elem NameU="AWS-Database-_Migration-Service" Name="Serviço de migração de banco de dados AWS"/>
+	<Elem NameU="AWS-DataSync" Name="Sincronização de dados AWS"/>
+	<Elem NameU="AWS-DataSync_Agent" Name="Agente de sincronização de dados AWS"/>
+	<Elem NameU="AWS-Migration-Hub" Name="AWS Migration Center"/>
+	<Elem NameU="AWS-Server-Migration-Service" Name="Serviço de migração de servidor AWS"/>
+	<Elem NameU="AWS-Snowball" Name="AWS Snowball"/>
+	<Elem NameU="AWS-Snowball-Edge" Name="AWS Snowball Edge"/>
+	<Elem NameU="AWS-Snowmobile" Name="AWS Snowmobile"/>
+	<Elem NameU="AWS-Transfer-Family" Name="Família transferida AWS"/>
+	<Elem NameU="AWS-Transfer-for-FTP_Resource-Icon" Name="Ícone de recurso de transferência para FTP para AWS"/>
+	<Elem NameU="AWS-Transfer-for-FTPS_Resource-Icon" Name="Ícone de recurso para transferência AWS para FTPS"/>
+	<Elem NameU="AWS-Transfer-for-SFTP_Resource-Icon" Name="Ícone de recurso SFTP de transferência AWS"/>
+	<Elem NameU="CloudEndure-Migration" Name="Migração CloudEndure"/>
+	<Elem NameU="Migration-and-Transfer" Name="Migração e Transferência"/>
+</Lib>

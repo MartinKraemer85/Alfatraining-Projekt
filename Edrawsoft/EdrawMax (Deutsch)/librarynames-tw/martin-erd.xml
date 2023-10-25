@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Martin ERD">
+    <Elem NameU="Data entity" Name="資料實體"/>
+    <Elem NameU="Activity entity" Name="活動實體"/>
+    <Elem NameU="Data item" Name="資料項"/>
+    <Elem NameU="Connection" Name="連接"/>
+    <Elem NameU="Event" Name="事件"/>
+    <Elem NameU="Square loop" Name="循環"/>
+    <Elem NameU="And/or branch" Name="而且/或者分支"/>
+    <Elem NameU="Top to bottom" Name="頂部到底部"/>
+    <Elem NameU="Side to top" Name="側邊到頂部"/>
+    <Elem NameU="Side to side" Name="側邊到側邊"/>
+    <Elem NameU="One" Name="唯一"/>
+    <Elem NameU="Many" Name="許多"/>
+    <Elem NameU="One or more" Name="一或者多個"/>
+    <Elem NameU="Zero or one" Name="零或者一"/>
+    <Elem NameU="One or more 2" Name="一或者多個 2"/>
+    <Elem NameU="Zero or more" Name="零或者更多"/>
+    <Elem NameU="One and only one" Name="一且只有一"/>
+    <Elem NameU="Zero or one 2" Name="零或者一 2"/>
+</Lib>

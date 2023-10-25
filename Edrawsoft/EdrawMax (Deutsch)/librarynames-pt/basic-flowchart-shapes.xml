@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Basic Flowchart Shapes">
+	<Elem NameU="Process" Name="Processo"/>
+	<Elem NameU="Decision" Name="Decisão"/>
+	<Elem NameU="Document" Name="Documento"/>
+	<Elem NameU="Data" Name="Dados"/>
+	<Elem NameU="Start or Terminator" Name="Iniciar ou Terminador"/>
+	<Elem NameU="Sub Process" Name="Sub Processo"/>
+	<Elem NameU="Predefined Process" Name="Processo Predefinido"/>
+	<Elem NameU="Yes or No" Name="Sim ou Não"/>
+	<Elem NameU="Database" Name="Base de Dados"/>
+	<Elem NameU="Stored Data" Name="Dados Armazenados"/>
+	<Elem NameU="Internal Storage" Name="Armazenamento Interno"/>
+	<Elem NameU="Sequential Data" Name="Dados Sequenciais"/>
+	<Elem NameU="Direct Data" Name="Dados Diretos"/>
+	<Elem NameU="Manual Input" Name="Entrada Manual"/>
+	<Elem NameU="Card" Name="Cartão"/>
+	<Elem NameU="Paper Tape" Name="Fita de Papel"/>
+	<Elem NameU="Delay" Name="Atraso"/>
+	<Elem NameU="Display" Name="Visor"/>
+	<Elem NameU="Manual Operation" Name="Operação Manual"/>
+	<Elem NameU="Preparation" Name="Preparação"/>
+	<Elem NameU="Parallel Mode" Name="Modo Paralelo"/>
+	<Elem NameU="Loop Limit" Name="Limite de Ciclo"/>
+	<Elem NameU="Terminator" Name="Terminador"/>
+	<Elem NameU="On-page Reference" Name="Referência na Página"/>
+	<Elem NameU="Off-page Reference" Name="Referência fora de Página"/>
+	<Elem NameU="Curved Connector" Name="Conector Curvo"/>
+	<Elem NameU="Control Transfer" Name="Transferência de Controle"/>
+	<Elem NameU="Annotation" Name="Anotação"/>
+	<Elem NameU="Start" Name="Iniciar"/>
+	<Elem NameU="People" Name="Pessoas"/>
+</Lib>

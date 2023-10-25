@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="PID Tanks">
+	<Elem NameU="5-gallon bucket" Name="Secchio da 5 galloni"/>
+	<Elem NameU="Air cylinder" Name="Cilindro di aria"/>
+	<Elem NameU="Air tank" Name="Serbatoio di aria"/>
+	<Elem NameU="Barrel" Name="Barile"/>
+	<Elem NameU="Batch tank" Name="Serbatoio ampia"/>
+	<Elem NameU="Bolt 1" Name="Bullone"/>
+	<Elem NameU="Bolt 2" Name="Bullone 2"/>
+	<Elem NameU="Brew kettle" Name="Pentolone"/>
+	<Elem NameU="Container" Name="Contenitore"/>
+	<Elem NameU="Corrosion resistant tank (medium)" Name="Serbatoio resistente alla corrosione (medio)"/>
+	<Elem NameU="Day tank" Name="Serbatoio giornaliero"/>
+	<Elem NameU="Drum" Name="Bidone"/>
+	<Elem NameU="Elliptical bulk storage tank" Name="Serbatoio ellittico grande"/>
+	<Elem NameU="Flour Storage Tank" Name="Serbatoio per farina"/>
+	<Elem NameU="Flat vessel 1" Name="Recipiente piatto 1"/>
+	<Elem NameU="Flat vessel 2" Name="Recipiente piatto 2"/>
+	<Elem NameU="Flat vessel 3" Name="Recipiente piatto 3"/>
+	<Elem NameU="Flat vessel 4" Name="Recipiente piatto 4"/>
+	<Elem NameU="Flat vessel 5" Name="Recipiente piatto 5"/>
+	<Elem NameU="Flat vessel 6" Name="Recipiente piatto 6"/>
+	<Elem NameU="Flat vessel 7" Name="Recipiente piatto 7"/>
+	<Elem NameU="Free-standing leg tank" Name="Serbatoio senza piedi"/>
+	<Elem NameU="Glass lined tank" Name="Serbatoio con strisce di vetro"/>
+	<Elem NameU="Green cylinder" Name="Cilindro verde"/>
+	<Elem NameU="Green vessel" Name="Recipiente verde"/>
+	<Elem NameU="Hatch" Name="Grata"/>
+	<Elem NameU="Heat exchanger" Name="Scambiatore di calore"/>
+	<Elem NameU="Hopper" Name="Tramoggia"/>
+	<Elem NameU="Homogenize Tank" Name="Serbatoio Omogeneizzante"/>
+	<Elem NameU="Hydropneumatic tank" Name="Serbatoio Idropneumatico"/>
+	<Elem NameU="Hot Living Water Tank" Name="Serbatoio per Acqua Calda"/>
+	<Elem NameU="Large cone-bottom polyethylene tank" Name="Serbatoio in Polietilene a fondo conico"/>
+	<Elem NameU="Liquid storage drum" Name="Bidone per liquidi"/>
+	<Elem NameU="Mix tank" Name="Serbatoio di miscelazione"/>
+	<Elem NameU="Molded polyethylene tank" Name="Serbatoio in polietilene a stampaggio"/>
+	<Elem NameU="Polyethylene chemical mix tank" Name="Serbatoio in polietilene per composti chimici"/>
+	<Elem NameU="Polyethylene mix and fill tank" Name="Serbatoio in polietilene "/>
+	<Elem NameU="Polyethylene storage tank with twin legs" Name="Serbatoio di stoccaggio in polietilene con supporti gemelli"/>
+	<Elem NameU="Polyethylene storage tank" Name="Serbatoio di riempimento in polietilene"/>
+	<Elem NameU="Polyethylene tank" Name="Serbatoio in polietilene"/>
+	<Elem NameU="Polyethylene tank with mixer" Name="Serbatoio in polietilene con miscelatore"/>
+	<Elem NameU="Pond with plant life" Name="Stagno con vegetazione"/>
+	<Elem NameU="Pond" Name="Stagno"/>
+	<Elem NameU="Pressure vessel" Name="Recipiente a pressione"/>
+	<Elem NameU="Reactor 1" Name="Reattore 1"/>
+	<Elem NameU="Reactor 2" Name="Reattore 2"/>
+	<Elem NameU="Reactor 3" Name="Reattore 3"/>
+	<Elem NameU="Reactor 4" Name="Reattore 4"/>
+	<Elem NameU="Reactor tank" Name="Serbatoio a reattore"/>
+	<Elem NameU="Reactor with agitator" Name="Reattore con agitatore"/>
+	<Elem NameU="Reactor with hatch and ladder" Name="Reattore con chiusino e scala"/>
+	<Elem NameU="Reinforced tank with mixer" Name="Serbatoio rinforzato con miscelatore"/>
+	<Elem NameU="Round reactor with legs" Name="Reattore rotondo con gambe"/>
+	<Elem NameU="Silo with spiral ladder" Name="Silo con scala a spirale"/>
+	<Elem NameU="Silo with straight ladder" Name="Silo con scala dritta"/>
+	<Elem NameU="Simple process tank" Name="Serbatoio per lavorazioni semplici"/>
+	<Elem NameU="Simple reactor" Name="Reattore semplice"/>
+	<Elem NameU="Simple tank 1" Name="Serbatoio semplice 1"/>
+	<Elem NameU="Simple tank 2" Name="Serbatoio semplice 2"/>
+	<Elem NameU="Simple tank 3" Name="Serbatoio semplice 3"/>
+	<Elem NameU="Simple tank 4" Name="Serbatoio semplice 4"/>
+	<Elem NameU="Simple tank 5" Name="Serbatoio semplice 5"/>
+	<Elem NameU="Simple tank system" Name="Sistema di cisterne semplici"/>
+	<Elem NameU="Smooth silo" Name="Silo dritto"/>
+	<Elem NameU="Spherical tank" Name="Serbatoio sferico"/>
+	<Elem NameU="Spherical tank with rivets" Name="Serbatoio sferico con rivetti"/>
+	<Elem NameU="Stabilization tank" Name="Serbatoio di stabilizzazione"/>
+	<Elem NameU="Stainless steel cylinder" Name="Cilindro in acciaio inossidabile"/>
+	<Elem NameU="Storage facility 1" Name="Magazzino 1"/>
+	<Elem NameU="Storage facility 2" Name="Magazzino 2"/>
+	<Elem NameU="Storage facility 3" Name="Magazzino 3"/>
+	<Elem NameU="Storage facility 4" Name="Magazzino 4"/>
+	<Elem NameU="Storage tank with ladder" Name="Serbatoio di stoccaggio con scala"/>
+	<Elem NameU="Storage tank" Name="Serbatoio di stoccaggio"/>
+	<Elem NameU="Tank 1" Name="Serbatoio 1"/>
+	<Elem NameU="Tank 2" Name="Serbatoio 2"/>
+	<Elem NameU="Tank 3" Name="Serbatoio 3"/>
+	<Elem NameU="Tank 4" Name="Serbatoio 4"/>
+	<Elem NameU="Tank 5" Name="Serbatoio 5"/>
+	<Elem NameU="Tank 6" Name="Serbatoio 6"/>
+	<Elem NameU="Tank 7" Name="Serbatoio 7"/>
+	<Elem NameU="Tank 8" Name="Serbatoio 8"/>
+	<Elem NameU="Tank 9" Name="Serbatoio 9"/>
+	<Elem NameU="Tank 10" Name="Serbatoio 10"/>
+	<Elem NameU="Tank 11" Name="Serbatoio 11"/>
+	<Elem NameU="Tank 12" Name="Serbatoio 12"/>
+	<Elem NameU="Tank 13" Name="Serbatoio 13"/>
+	<Elem NameU="Tank 14" Name="Serbatoio 14"/>
+	<Elem NameU="Tank 15" Name="Serbatoio 15"/>
+	<Elem NameU="Tank 16" Name="Serbatoio 16"/>
+	<Elem NameU="Dosing Tank" Name="Serbatoio di dosaggio"/>
+	<Elem NameU="Tank bank" Name="Gruppo di serbatoi"/>
+	<Elem NameU="Tank support 1" Name="Supporto serbatoio 1"/>
+	<Elem NameU="Tank support 2" Name="Supporto serbatoio 2"/>
+	<Elem NameU="Tank with cutaway" Name="Serbatoio aperto"/>
+	<Elem NameU="Tank with hatch" Name="Serbatoio con chiusino"/>
+	<Elem NameU="Tank with rivets" Name="Serbatoio con rivetti"/>
+	<Elem NameU="Tank with rivets and ladder" Name="Serbatoio con rivetti e scala"/>
+	<Elem NameU="Underground storage tank" Name="Serbatoio di stoccaggio sottoterra"/>
+	<Elem NameU="Very smooth tank" Name="Serbatoio levigato"/>
+	<Elem NameU="Domestic hot water storage tank" Name="Serbatoio di stoccaggio per acqua calda domestica"/>
+	<Elem NameU="Digestion Reaction Tank" Name="Serbatoio di Reazione e Digestione"/>
+	<Elem NameU="Ethanol storage" Name="Stoccaggio di etanolo"/>
+	<Elem NameU="Temporary storage tank" Name="Serbatoio di stoccaggio temporaneo"/>
+	<Elem NameU="The original water tank" Name="Serbatoio di acqua originale"/>
+	<Elem NameU="Insulation cans" Name="Bidoni di isolamento"/>
+	<Elem NameU="Product" Name="Prodotto"/>

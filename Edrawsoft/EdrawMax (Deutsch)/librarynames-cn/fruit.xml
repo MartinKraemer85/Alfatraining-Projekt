@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Fruit">
+    <Elem NameU="Apple 1" Name="苹果 1"/>
+    <Elem NameU="Apple 2" Name="苹果 2"/>
+    <Elem NameU="Apple 3" Name="苹果 3"/>
+    <Elem NameU="Avocado" Name="鳄梨"/>
+    <Elem NameU="Banana 1" Name="香蕉 1"/>
+    <Elem NameU="Banana 2" Name="香蕉 2"/>
+    <Elem NameU="Banana 3" Name="香蕉 3"/>
+    <Elem NameU="Blueberry" Name="蓝莓"/>
+    <Elem NameU="Cantaloupe" Name="哈密瓜"/>
+    <Elem NameU="Carambola 1" Name="杨桃 1"/>
+    <Elem NameU="Carambola 2" Name="杨桃 2"/>
+    <Elem NameU="Cherry 1" Name="樱桃 1"/>
+    <Elem NameU="Cherry 2" Name="樱桃 2"/>
+    <Elem NameU="Coconut" Name="椰子"/>
+    <Elem NameU="Durian" Name="榴莲"/>
+    <Elem NameU="Guava" Name="番石榴"/>
+    <Elem NameU="Grape" Name="葡萄"/>
+    <Elem NameU="Kiwi Fruit" Name="猕猴桃"/>
+    <Elem NameU="Leechee 1" Name="荔枝 1"/>
+    <Elem NameU="Leechee 2" Name="荔枝 2"/>
+    <Elem NameU="Lemon 1" Name="柠檬 1"/>
+    <Elem NameU="Lemon 2" Name="柠檬 2"/>
+    <Elem NameU="Loquat" Name="枇杷"/>
+    <Elem NameU="Mango" Name="芒果"/>
+    <Elem NameU="Mangosteen" Name="山竹"/>
+    <Elem NameU="Orange" Name="橘子"/>
+    <Elem NameU="Pawpaw" Name="木瓜"/>
+    <Elem NameU="Peach 1" Name="桃子 1"/>
+    <Elem NameU="Peach 2" Name="桃子 2"/>
+    <Elem NameU="Pear" Name="梨"/>
+    <Elem NameU="Pear 2" Name="梨 2"/>
+    <Elem NameU="Persimmon 1" Name="柿子 1"/>
+    <Elem NameU="Tomato" Name="西红柿"/>
+    <Elem NameU="Pineapple 1" Name="菠萝 1"/>
+    <Elem NameU="Pineapple 2" Name="菠萝 2"/>
+    <Elem NameU="Pitaya Fruit" Name="火龙果"/>
+    <Elem NameU="Pomegranate" Name="石榴"/>
+    <Elem NameU="Raspberry" Name="树莓"/>
+    <Elem NameU="Shaddock" Name="柚子"/>
+    <Elem NameU="Strawberry 1" Name="草莓 1"/>
+    <Elem NameU="Strawberry 2" Name="草莓 2"/>
+    <Elem NameU="Tomato" Name="西红柿"/>
+    <Elem NameU="Watermelon 1" Name="西瓜 1"/>
+    <Elem NameU="Watermelon 2" Name="西瓜 2"/>
+    <Elem NameU="Watermelon 3" Name="西瓜 3"/>
+</Lib>

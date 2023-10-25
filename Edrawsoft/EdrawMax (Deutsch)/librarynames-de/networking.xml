@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<Lib nameU="Networking">
+
+<Elem Name="API gateway" NameU="API gateway"/>
+
+<Elem Name="CDN" NameU="CDN"/>
+
+<Elem Name="Cloud-Unternehmensnetzwerk" NameU="Cloud enterprise network"/>
+
+<Elem Name="DCDN" NameU="DCDN"/>
+
+<Elem Name="Edge-Node-Service" NameU="Edge node service"/>
+
+<Elem Name="Elastische IP" NameU="Elastic IP"/>
+
+<Elem Name="Expressverbindung" NameU="Express connect"/>
+
+<Elem Name="Flowbag" NameU="Flowbag"/>
+
+<Elem Name="Globale Beschleunigung" NameU="Global accelaration"/>
+
+<Elem Name="IPV6 Gateway" NameU="IPV6 gateway"/>
+
+<Elem Name="NAT gateway" NameU="NAT gateway"/>
+
+<Elem Name="PCDN" NameU="PCDN"/>
+
+<Elem Name="SCDN" NameU="SCDN"/>
+
+<Elem Name="Smart Access Gateway" NameU="Smart access gateway"/>
+
+<Elem Name="VPN" NameU="VPN"/>
+
+</Lib>

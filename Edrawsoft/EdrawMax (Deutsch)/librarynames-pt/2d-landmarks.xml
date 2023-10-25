@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="2D Landmarks">
+	<Elem NameU="City" Name="Cidade"/>
+	<Elem NameU="Bank" Name="Banco"/>
+	<Elem NameU="Book store" Name="Livraria"/>
+	<Elem NameU="Beauty salon" Name="Salão de Beleza"/>
+	<Elem NameU="Medical clinic" Name="Clínica Médica"/>
+	<Elem NameU="Hotel" Name="Hotel"/>
+	<Elem NameU="Post office" Name="Correios"/>
+	<Elem NameU="Police" Name="Polícia"/>
+	<Elem NameU="Movie theater" Name="Cinema"/>
+	<Elem NameU="Restaurant" Name="Restaurante"/>
+	<Elem NameU="Market" Name="Mercado"/>
+	<Elem NameU="Supermarket" Name="Supermercado"/>
+	<Elem NameU="Coffee shop" Name="Café"/>
+	<Elem NameU="Library" Name="Biblioteca"/>
+	<Elem NameU="Town hall" Name="Prefeitura"/>
+	<Elem NameU="School" Name="Escola"/>
+	<Elem NameU="Cathedral" Name="Catedral"/>
+	<Elem NameU="Motel" Name="Motel"/>
+	<Elem NameU="Town Hall" Name="Prefeitura"/>
+	<Elem NameU="Condos" Name="Condomínios"/>
+	<Elem NameU="Public house" Name="Estabelecimento Público"/>
+	<Elem NameU="Petrol station" Name="Posto de gasolina"/>
+	<Elem NameU="Gas station" Name="Posto de Abastecimento"/>
+	<Elem NameU="Barn" Name="Celeiro"/>
+	<Elem NameU="Barn 2" Name="Celeiro 2"/>
+	<Elem NameU="Building" Name="Edifício"/>
+	<Elem NameU="Factory" Name="Fábrica"/>
+	<Elem NameU="Hospital" Name="Hospital"/>
+	<Elem NameU="Stadium" Name="Estádio"/>
+	<Elem NameU="Wildlife Park" Name="Reserva Natural"/>
+	<Elem NameU="Mountains" Name="Montanhas"/>
+	<Elem NameU="Park" Name="Parque"/>
+	<Elem NameU="Holiday Bungalow" Name="Bungalow de Férias"/>
+	<Elem NameU="Beach" Name="Praia"/>
+	<Elem NameU="Fountain Plaza" Name="Praça com Fonte"/>
+	<Elem NameU="Amusement Park" Name="Parque de Diversões"/>
+	<Elem NameU="Waterfall" Name="Cascata"/>
+	<Elem NameU="River" Name="Rio"/>
+	<Elem NameU="Lake" Name="Lago"/>
+	<Elem NameU="Tree 1" Name="Árvore 1"/>
+	<Elem NameU="Tree 2" Name="Árvore 2"/>
+	<Elem NameU="Tree 3" Name="Árvore 3"/>
+	<Elem NameU="Tree 4" Name="Árvore 4"/>
+	<Elem NameU="Cruise ship" Name="Cruzeiro"/>
+	<Elem NameU="Port" Name="Porto"/>
+	<Elem NameU="Crane" Name="Guindaste"/>
+	<Elem NameU="Excavator" Name="Escavadora"/>
+	<Elem NameU="Hoist" Name="Guincho"/>
+	<Elem NameU="Airport" Name="Aeroporto"/>
+	<Elem NameU="Freighter" Name="Cargueiro"/>
+	<Elem NameU="Stop Light" Name="Semáforo"/>
+	<Elem NameU="Direction Guide" Name="Guia de Direções"/>
+	<Elem NameU="location" Name="localização"/>
+	<Elem NameU="Direction sign" Name="Sinal de direções"/>
+	<Elem NameU="Parking place" Name="Estacionamento"/>
+</Lib>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Cisco Safe Architectural Icons">
+    <Elem NameU="ACI Controller" Name="ACI 컨트롤러"/>
+    <Elem NameU="ACI Leaf Switch" Name="ACI스위치"/>
+    <Elem NameU="ACI Spine Switch" Name="ACI스위치2"/>
+    <Elem NameU="Adaptive Security Appliance" Name="적응형 보안 어플라이언스"/>
+    <Elem NameU="Automated System" Name="자동 시스템"/>
+    <Elem NameU="Blade Server" Name="블레이드 서버"/>
+    <Elem NameU="Catalyst Switch" Name="Catalyst스위치"/>
+    <Elem NameU="Corporate Device" Name="회사 장치"/>
+    <Elem NameU="Email Security" Name="이메일 보안"/>
+    <Elem NameU="Fabric Switch" Name="패브릭 스위치"/>
+    <Elem NameU="Firepower Appliance" Name="방화벽 기능"/>
+    <Elem NameU="Firewall" Name="방화벽"/>
+    <Elem NameU="Generic Appliance" Name="일반 장비"/>
+    <Elem NameU="Intrusion Detection" Name="침입 탐지"/>
+    <Elem NameU="Load Balancer" Name="부하 분산 장치"/>
+    <Elem NameU="Nexus Switch" Name="Nexus 스위치"/>
+    <Elem NameU="Nexus Data Center Switch" Name="Nexus 데이터 센터 스위치"/>
+    <Elem NameU="Nexus Fabric Switch" Name="Nexus 패브릭 스위치"/>
+    <Elem NameU="Nexus 1kv" Name="Nexus 1kv"/>
+    <Elem NameU="Phone" Name="폰"/>
+    <Elem NameU="Router" Name="경로"/>
+    <Elem NameU="Stacked Switch" Name="스택 스위치"/>
+    <Elem NameU="Secure Server" Name="보안 서버"/>
+    <Elem NameU="Server" Name="서버"/>
+    <Elem NameU="Storage" Name="저장소"/>
+    <Elem NameU="Switch" Name="스위치"/>
+    <Elem NameU="L3 Switch" Name="L3스위치"/>
+    <Elem NameU="TLS Appliance" Name="TLS장비"/>
+    <Elem NameU="Unified Access Switch" Name="통합 액세스 스위치"/>
+    <Elem NameU="Web Application Firewall" Name="웹 애플리케이션 방화벽"/>
+    <Elem NameU="Web Security" Name="웹 보안"/>
+    <Elem NameU="Wide Area Application Engine (WAE)" Name="광역 애플리케이션 엔진(WAE)"/>
+    <Elem NameU="Wireless Access Point" Name="무선 액세스 포인트"/>
+    <Elem NameU="Wireless LAN Controller" Name="무선 LAN 컨트롤러"/>
+</Lib>

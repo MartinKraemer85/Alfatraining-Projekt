@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Doors and Windows">
+
+<Elem Name="Fenster" NameU="Window"/>
+
+<Elem Name="Fenster öffnen" NameU="Open Window"/>
+
+<Elem Name="Segelflugfenster" NameU="Glider Window"/>
+
+<Elem Name="Flügelfenster" NameU="Casement Window"/>
+
+<Elem Name="Erkerfenster" NameU="Bay window"/>
+
+<Elem Name="Doppelflügelfenster" NameU="Double Casement Window"/>
+
+<Elem Name="Eröffnung" NameU="Opening"/>
+
+<Elem Name="Tür" NameU="Door"/>
+
+<Elem Name="Doppelte Tür" NameU="Double Hung Door"/>
+
+<Elem Name="Doppeltür" NameU="Double Door"/>
+
+<Elem Name="Ungleiche Tür" NameU="Uneven Door"/>
+
+<Elem Name="Gegenüberliegende Tür" NameU="Opposing Door"/>
+
+<Elem Name="Drehtür" NameU="Revolving Door"/>
+
+<Elem Name="Schiebetür" NameU="Sliding Door"/>
+
+<Elem Name="Doppelte Schiebetür" NameU="Double Sliding Door"/>
+
+<Elem Name="Umgehungstür" NameU="By-pass Door"/>
+
+<Elem Name="Doppeltür" NameU="Bi-fold Door"/>
+
+<Elem Name="Double Bi-fold Door" NameU="Double Bi-fold Door"/>
+
+<Elem Name="Glasschiebetür" NameU="Sliding Glass Door"/>
+
+<Elem Name="Obenliegende Tür" NameU="Overhead Door"/>
+
+<Elem Name="Gartenfenster" NameU="Garden Window"/>
+
+<Elem Name="Falttür" NameU="Folding Door "/>
+
+</Lib>

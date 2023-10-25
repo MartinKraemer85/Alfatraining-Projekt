@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Jackson">
+    <Elem NameU="Procedure" Name="절차"/>
+    <Elem NameU="Procedure 2" Name="절차 2"/>
+    <Elem NameU="Process" Name="프로세스"/>
+    <Elem NameU="Process 2" Name="프로세스 2"/>
+    <Elem NameU="Tree connector" Name="나무형 연결선"/>
+    <Elem NameU="Logical connector" Name="논리 연결선"/>
+</Lib>

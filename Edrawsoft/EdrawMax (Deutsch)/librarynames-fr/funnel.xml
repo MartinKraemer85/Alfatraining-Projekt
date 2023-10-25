@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Funnel">
+
+<Elem Name="Entonnoir vertical" NameU="Vertical Funnel"/>
+
+<Elem Name="Entonnoir Horizontal" NameU="Horizontal Funnel"/>
+
+<Elem Name="Graphique en Entonnoir" NameU="Funnel Chart"/>
+
+</Lib>

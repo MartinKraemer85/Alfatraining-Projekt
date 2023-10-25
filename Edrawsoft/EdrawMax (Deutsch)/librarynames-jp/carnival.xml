@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Carnival">
+
+<Elem Name="仮面" NameU="Mask"/>
+
+<Elem Name="羽" NameU="Feather"/>
+
+<Elem Name="花火" NameU="Fireworks"/>
+
+<Elem Name="ピエロの帽子" NameU="Clown Hat"/>
+
+<Elem Name="ホオジロ" NameU="Bunting"/>
+
+<Elem Name="フルーツジュース" NameU="Fruit Juice"/>
+
+<Elem Name="サンドハンマー" NameU="Sand Hammer"/>
+
+<Elem Name="アイスクリーム" NameU="Ice Cream"/>
+
+<Elem Name="フリップフロップ" NameU="Flip Flop"/>
+
+<Elem Name="ココナッツの木" NameU="Coconut Tree"/>
+
+<Elem Name="帽子" NameU="Hat"/>
+
+<Elem Name="ピエロ" NameU="Clown"/>
+
+<Elem Name="テント" NameU="Tent"/>
+
+<Elem Name="風船" NameU="Balloon"/>
+
+<Elem Name="ロリポップ" NameU="Lollipop"/>
+
+<Elem Name="馬" NameU="Horse"/>
+
+<Elem Name="熱気球" NameU="Hot Air Balloon"/>
+
+<Elem Name="フロート" NameU="Float"/>
+
+<Elem Name="観覧車" NameU="Ferris Wheel"/>
+
+<Elem Name="マジックハット" NameU="Magic Hat"/>
+
+<Elem Name="遊園施設" NameU="Amusement Park Facilities"/>
+
+<Elem Name="太鼓" NameU="Drum"/>
+
+<Elem Name="食堂車" NameU="Dining Car"/>
+
+<Elem Name="ホーン" NameU="Horn"/>
+
+<Elem Name="小さい" NameU="Small"/>
+
+<Elem Name="楽器" NameU="Musical Instrument"/>
+
+<Elem Name="目と髭" NameU="Eyes and Beard"/>
+
+<Elem Name="爆竹" NameU="Firecracker"/>
+
+<Elem Name="オウム" NameU="Parrot"/>
+
+<Elem Name="カルーセル" NameU="Carousel"/>
+
+<Elem Name="紙風車" NameU="Paper Windmills"/>
+
+<Elem Name="象" NameU="Elephant"/>
+
+<Elem Name="火" NameU="Fire"/>
+
+<Elem Name="踊る人" NameU="Dancing People"/>
+
+<Elem Name="演奏者" NameU="Playing Person"/>
+
+<Elem Name="出演者" NameU="Performer"/>
+
+<Elem Name="お店" NameU="Store"/>
+
+<Elem Name="回転椅子" NameU="Rotating Flying Chair"/>
+
+<Elem Name="太陽" NameU="Sun"/>
+
+<Elem Name="雑技" NameU="Performing Acrobatics"/>
+
+<Elem Name="賞品" NameU="Trophy"/>
+
+</Lib>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Shopping">
+    <Elem NameU="Shop 1" Name="가게1"/>
+    <Elem NameU="Shop 2" Name="가게2"/>
+    <Elem NameU="Shopping Mall 1" Name="쇼핑 센터 1"/>
+    <Elem NameU="Shopping Bag 1" Name="쇼핑백1"/>
+    <Elem NameU="Shopping Bag 2" Name="쇼핑백2"/>
+    <Elem NameU="Shopping Basket 1" Name="쇼핑 바구니 1"/>
+    <Elem NameU="Shopping Cart 1" Name="쇼핑 카트 1"/>
+    <Elem NameU="Shopping Tote 1" Name="쇼핑백 1"/>
+    <Elem NameU="Bank Card 1" Name="은행 카드 1"/>
+    <Elem NameU="Beverage 1" Name="음료수 1"/>
+    <Elem NameU="Beverage 2" Name="음료수 2"/>
+    <Elem NameU="Beverage 3" Name="음료수 3"/>
+    <Elem NameU="Coin 1" Name="코인 1"/>
+    <Elem NameU="Gift 1" Name="선물 1"/>
+    <Elem NameU="Hangbag 1" Name="백 1"/>
+    <Elem NameU="Hangbag 2" Name="백 2"/>
+    <Elem NameU="Hangbag 3" Name="백 3"/>
+    <Elem NameU="Hat 1" Name="모자 1"/>
+    <Elem NameU="High Heels Shoes 1" Name="하이힐 1"/>
+    <Elem NameU="Jewelry 1" Name="쥬얼리1"/>
+    <Elem NameU="Jewelry 2" Name="쥬얼리2"/>
+    <Elem NameU="Jewelry 3" Name="쥬얼리3"/>
+    <Elem NameU="Lamp 1" Name="램프 1"/>
+    <Elem NameU="Lipstick 1" Name="립스틱 1"/>
+    <Elem NameU="Nail Polish 1" Name="네일 1"/>
+    <Elem NameU="Necklace 1" Name="목걸이 1"/>
+    <Elem NameU="Online Shopping 1" Name="온라인 쇼핑1"/>
+    <Elem NameU="Online Shopping 2" Name="온라인 쇼핑2"/>
+    <Elem NameU="Open 24 Hours 1" Name="24시간 영업1"/>
+    <Elem NameU="Open 24 Hours 2" Name="24시간 영업2"/>
+    <Elem NameU="Perfume 1" Name="향수 1"/>
+    <Elem NameU="Open Plate 1" Name="영업중1"/>
+    <Elem NameU="POS Macchine 1" Name="POS기 1"/>
+    <Elem NameU="Private Car 1" Name="자가용 1"/>
+    <Elem NameU="Sneaker 1" Name="운동화 1"/>
+    <Elem NameU="Sunglasses 1" Name="선글라스 1"/>
+    <Elem NameU="Truck 1" Name="트럭 1"/>
+    <Elem NameU="T-Shirt 1" Name="반팔티 1"/>
+    <Elem NameU="Wallet 1" Name="지갑 1"/>
+    <Elem NameU="Watch 1" Name="시계 1"/>
+    <Elem NameU="Shopper 1" Name="손님1"/>
+    <Elem NameU="Shopper 2" Name="손님2"/>
+    <Elem NameU="Shopper 3" Name="손님3"/>
+    <Elem NameU="Shopper 4" Name="손님4"/>
+    <Elem NameU="Shopper 5" Name="손님5"/>
+    <Elem NameU="Shopper 6" Name="손님6"/>
+    <Elem NameU="Shopper 7" Name="손님7"/>
+    <Elem NameU="Shopper 8" Name="손님8"/>
+    <Elem NameU="Shopper 9" Name="손님9"/>
+    <Elem NameU="Shopper 10" Name="손님10"/>
+    <Elem NameU="Shopper 11" Name="손님11"/>
+</Lib>

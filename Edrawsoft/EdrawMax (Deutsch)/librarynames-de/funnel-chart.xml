@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Funnel Chart">
+	<Elem NameU="Funnel chart" Name="Trichterdiagramm"/>
+	<Elem NameU="Funnel chart2" Name="Trichterdiagramm2"/>
+	<Elem NameU="Funnel chart3" Name="Trichterdiagramm3"/>
+	<Elem NameU="Funnel chart4" Name="Trichterdiagramm4"/>
+	<Elem NameU="Funnel gradient" Name="Trichtergradient"/>
+</Lib>

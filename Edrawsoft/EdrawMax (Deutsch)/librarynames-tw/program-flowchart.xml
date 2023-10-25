@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Program Flowchart">
+    <Elem NameU="Process" Name="進程"/>
+    <Elem NameU="Data" Name="資料"/>
+    <Elem NameU="Decision" Name="判定"/>
+    <Elem NameU="End" Name="結束"/>
+</Lib>

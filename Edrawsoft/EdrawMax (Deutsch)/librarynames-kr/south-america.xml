@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="South America">
+    <Elem NameU="Argentina" Name="아르헨티나"/>
+    <Elem NameU="Belize" Name="벨리즈"/>
+    <Elem NameU="Bolivia" Name="볼리비아"/>
+    <Elem NameU="Brazil" Name="브라질"/>
+    <Elem NameU="Chile" Name="칠리"/>
+    <Elem NameU="Colombia" Name="콜롬비아"/>
+    <Elem NameU="Costa Rica" Name="코스타리카"/>
+    <Elem NameU="Cuba" Name="쿠바"/>
+    <Elem NameU="Dominican republic" Name="도미니카 공화국"/>
+    <Elem NameU="El Salvador" Name="엘살바도르"/>
+    <Elem NameU="Equador" Name="에콰도르"/>
+    <Elem NameU="French Guiana" Name="프랑스 령 기아나"/>
+    <Elem NameU="Guatemala" Name="과테말라"/>
+    <Elem NameU="Guyana" Name="가이아나"/>
+    <Elem NameU="Haiti" Name="아이티"/>
+    <Elem NameU="Honduras" Name="온두라스"/>
+    <Elem NameU="Jamaica" Name="자메이카"/>
+    <Elem NameU="Mexico" Name="멕시코"/>
+    <Elem NameU="Nicaragua" Name="니카라과"/>
+    <Elem NameU="Panama" Name="파나마"/>
+    <Elem NameU="Paraguay" Name="파라과이"/>
+    <Elem NameU="Peru" Name="페루"/>
+    <Elem NameU="Puerto Rico" Name="푸에르토 리코"/>
+    <Elem NameU="Suriname" Name="수리남"/>
+    <Elem NameU="Trinidad and Tobago" Name="트리니다드 토바고"/>
+    <Elem NameU="Uruguay" Name="우루과이"/>
+    <Elem NameU="Venezuela" Name="베네수엘라"/>
+    <Elem NameU="Central America" Name="중앙 아메리카"/>
+    <Elem NameU="South America" Name="남아메리카"/>
+</Lib>

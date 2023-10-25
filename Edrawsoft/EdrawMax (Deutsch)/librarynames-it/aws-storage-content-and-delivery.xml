@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="AWS Storage Content and Delivery">
+	<Elem NameU="Download Distribution" Name="Distribuzione Download"/>
+	<Elem NameU="Edge Location" Name="Edge Location"/>
+	<Elem NameU="Streaming Distribution" Name="Distribuzione Streaming"/>
+	<Elem NameU="CloudFront" Name="CloudFront"/>
+	<Elem NameU="EBS Snapshot" Name="Snapshot EBS"/>
+	<Elem NameU="EBS Volume" Name="Volume EBS"/>
+	<Elem NameU="Glacier Archive" Name="Archivio Glacier"/>
+	<Elem NameU="Glacier Vault" Name="Deposito Glacier"/>
+	<Elem NameU="Glacier" Name="Glacier"/>
+	<Elem NameU="S3 Bucket with Objects" Name="Bucket S3 con Glacier"/>
+	<Elem NameU="S3 Bucket" Name="Bucket S3"/>
+	<Elem NameU="S3 Objects" Name="Oggetti S3"/>
+	<Elem NameU="S3" Name="S3"/>
+	<Elem NameU="AWS Import Export" Name="Importa/Esporta AWS"/>
+	<Elem NameU="AWS Storage Gateway" Name="Gateway dell'Archivio AWS"/>
+	<Elem NameU="Cached Volumn" Name="Volume con Caching"/>
+	<Elem NameU="Non-Cached Volumn" Name="Volume senza Caching"/>
+	<Elem NameU="Virtual Tape Library" Name="Libreria Virtuale di Nastri"/>
+</Lib>

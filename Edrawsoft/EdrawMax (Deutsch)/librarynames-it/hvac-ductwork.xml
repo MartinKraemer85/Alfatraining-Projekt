@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="HVAC Ductwork">
+	<Elem NameU="Straight duct" Name="Condotto diritto"/>
+	<Elem NameU="Miter bend" Name="Giunzione angolare"/>
+	<Elem NameU="Miter bend 2" Name="Giunzione angolare 2"/>
+	<Elem NameU="Miter bend 3" Name="Giunzione angolare 3"/>
+	<Elem NameU="Miter bend 4" Name="Giunzione angolare 4"/>
+	<Elem NameU="Variable bend" Name="Nodo variabile"/>
+	<Elem NameU="Variable bend 2" Name="Nodo variabile"/>
+	<Elem NameU="Branch duct" Name="Condotto diramato"/>
+	<Elem NameU="Branch duct 2" Name="Condotto diramato 2"/>
+	<Elem NameU="Junction bottom" Name="Giunzione verso il basso"/>
+	<Elem NameU="Junction up" Name="Giunzione verso l'alto"/>
+	<Elem NameU="3 way junction" Name="Giunzione a 3 vie"/>
+	<Elem NameU="Y junction" Name="Giunzione a Y"/>
+	<Elem NameU="Beveled junction" Name="Giunzione smussata"/>
+	<Elem NameU="Transition" Name="Transizione"/>
+	<Elem NameU="Offset transition" Name="Transizione di compensazione"/>
+	<Elem NameU="Supply" Name="Rifornimento"/>
+	<Elem NameU="Return" Name="Ritorno"/>
+	<Elem NameU="Flexible connection 1" Name="Connessione Flessibile 1"/>
+	<Elem NameU="Flexible connector" Name="Connessione Flessibile"/>
+	<Elem NameU="Vertical duct" Name="Condotto verticale"/>
+	<Elem NameU="VAV box" Name="Box VAV"/>
+	<Elem NameU="Sliding damper" Name="Smorzatore Scorrevole"/>
+	<Elem NameU="Damper" Name="Smorzatore"/>
+</Lib>

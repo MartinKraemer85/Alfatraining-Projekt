@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="GCP Storage and Databases">
+    <Elem NameU="Cloud storage system" Name="云存储系统"/>
+    <Elem NameU="Cloud data center" Name="云数据中心"/>
+    <Elem NameU="Cloud data bank" Name="云资料库"/>
+    <Elem NameU="Cloud SQL" Name="云SQL"/>
+    <Elem NameU="Cloud storage" Name="云存储"/>
+    <Elem NameU="Data transmission application" Name="数据传输应用"/>
+    <Elem NameU="Permanent disk" Name="永久磁盘"/>
+</Lib>

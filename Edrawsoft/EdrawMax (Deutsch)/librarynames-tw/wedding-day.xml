@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Wedding Day">
+    <Elem NameU="Cupid" Name="丘比特"/>
+    <Elem NameU="Heart" Name="愛心"/>
+    <Elem NameU="Rings" Name="戒指"/>
+    <Elem NameU="Cake" Name="蛋糕"/>
+    <Elem NameU="Tableware" Name="餐具"/>
+    <Elem NameU="Cupcake" Name="甜點"/>
+    <Elem NameU="Champagne Glasses" Name="高腳杯"/>
+    <Elem NameU="Champagne" Name="香檳"/>
+    <Elem NameU="Flowers" Name="花"/>
+    <Elem NameU="Bouquet 1" Name="花束"/>
+    <Elem NameU="Bouquet 2" Name="花束"/>
+    <Elem NameU="Bouquet 3" Name="花束"/>
+    <Elem NameU="Pigeons" Name="鴿子"/>
+    <Elem NameU="Ribbon 1" Name="絲帶"/>
+    <Elem NameU="Ribbon 2" Name="絲帶"/>
+    <Elem NameU="Ribbon 3" Name="絲帶"/>
+    <Elem NameU="Ribbon 4" Name="絲帶"/>
+    <Elem NameU="Pigeon" Name="鴿子"/>
+    <Elem NameU="Swans" Name="天鵝"/>
+    <Elem NameU="Symbol" Name="信物"/>
+    <Elem NameU="Candelabrum" Name="大燭臺"/>
+    <Elem NameU="Love letter" Name="情書"/>
+    <Elem NameU="Gift" Name="禮物"/>
+    <Elem NameU="Calendar" Name="日曆"/>
+    <Elem NameU="Church" Name="教堂"/>
+    <Elem NameU="Women Shoes" Name="女鞋"/>
+    <Elem NameU="Men Shoes" Name="男鞋"/>
+    <Elem NameU="Wedding Suit" Name="結婚禮服"/>
+    <Elem NameU="Evening Dress" Name="晚宴服"/>
+    <Elem NameU="Wedding Dress 1" Name="婚禮服"/>
+    <Elem NameU="Wedding Dress 2" Name="婚禮服"/>
+    <Elem NameU="Wedding Dress 3" Name="婚禮服"/>
+    <Elem NameU="Wedding Couple 1" Name="新人"/>
+    <Elem NameU="Wedding Couple 2" Name="新人"/>
+    <Elem NameU="Wedding Couple 3" Name="新人"/>
+    <Elem NameU="Wedding Couple 4" Name="新人"/>
+    <Elem NameU="Flower Wreath 1" Name="花環"/>
+    <Elem NameU="Flower Wreath 2" Name="花環"/>
+    <Elem NameU="Flower Wreath 3" Name="花環"/>
+    <Elem NameU="Flower Wreath 4" Name="花環"/>
+    <Elem NameU="Wedding Flower 1" Name="捧花"/>
+    <Elem NameU="Wedding Flower 2" Name="捧花"/>
+    <Elem NameU="Wedding Flower 3" Name="捧花"/>
+    <Elem NameU="Wedding Flower 4" Name="捧花"/>
+    <Elem NameU="Wedding Flower 5" Name="捧花"/>
+    <Elem NameU="Wedding Flower 6" Name="捧花"/>
+    <Elem NameU="Wedding Flower 7" Name="捧花"/>
+    <Elem NameU="Bird 1" Name="鳥"/>
+    <Elem NameU="Bird 2" Name="鳥"/>
+</Lib>

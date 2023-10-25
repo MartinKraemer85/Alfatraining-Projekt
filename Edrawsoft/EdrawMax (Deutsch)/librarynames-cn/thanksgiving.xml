@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Thanksgiving Day">
+	<Elem NameU="Pumpkin" Name="南瓜"/>
+	<Elem NameU="Pumpkin Pie 1" Name="南瓜饼 1"/>
+	<Elem NameU="Pumpkin Pie 2" Name="南瓜饼 2"/>
+	<Elem NameU="Pumpkin Pie 3" Name="南瓜饼 3"/>
+	<Elem NameU="Pumpkin Pie 4" Name="南瓜饼 4"/>
+	<Elem NameU="Cranberry 1" Name="小红莓 1"/>
+	<Elem NameU="Cranberry 2" Name="小红莓 2"/>
+	<Elem NameU="Grilled Chicken" Name="烧鸡"/>
+	<Elem NameU="Roast Turkey" Name="烤火鸡"/>
+	<Elem NameU="Turkey 1" Name="火鸡 1"/>
+	<Elem NameU="Turkey 2" Name="火鸡 2"/>
+	<Elem NameU="Turkey 3" Name="火鸡 3"/>
+	<Elem NameU="Indians" Name="印第安人"/>
+	<Elem NameU="Hazelnut" Name="榛子"/>
+	<Elem NameU="Gift Card" Name="贺卡"/>
+	<Elem NameU="Hat 1" Name="帽子 1"/>
+	<Elem NameU="Hat 2" Name="帽子 2"/>
+	<Elem NameU="Feather Hat" Name="羽毛帽子"/>
+	<Elem NameU="Napkin" Name="餐巾"/>
+	<Elem NameU="Corn" Name="玉米"/>
+	<Elem NameU="Candle" Name="蜡烛"/>
+	<Elem NameU="Barley 1" Name="麦穗 1"/>
+	<Elem NameU="Barley 2" Name="麦穗 2"/>
+	<Elem NameU="Leaf 1" Name="叶子 1"/>
+	<Elem NameU="Leaf 2" Name="叶子 2"/>
+	<Elem NameU="Sunflower" Name="太阳花"/>
+	<Elem NameU="Mushroom" Name="蘑菇"/>
+</Lib>

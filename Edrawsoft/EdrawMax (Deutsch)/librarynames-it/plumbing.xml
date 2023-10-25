@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Plumbing">
+	<Elem NameU="Boiler" Name="Caldaia"/>
+	<Elem NameU="Boiler 2" Name="Caldaia 2"/>
+	<Elem NameU="Heat exchanges" Name="Scambiatori di calore"/>
+	<Elem NameU="Heating / cooling coil" Name="Batteria di riscaldamento / raffreddamento"/>
+	<Elem NameU="Pump" Name="Pompa"/>
+	<Elem NameU="Pump 2" Name="Pompa 2"/>
+	<Elem NameU="Heater /  cooler" Name="Riscaldatore / raffreddatore"/>
+	<Elem NameU="Heater / cooler horizontal" Name="Riscaldatore / raffreddatore orizzontale"/>
+	<Elem NameU="Radiator" Name="Radiatore"/>
+	<Elem NameU="Convector" Name="Convettore"/>
+	<Elem NameU="Radiant panel" Name="Pannello radiante"/>
+	<Elem NameU="Radiant panel 2" Name="Pannello radiante 2"/>
+	<Elem NameU="Open tank" Name="Serbatoio aperto"/>
+	<Elem NameU="Closed tank" Name="Serbatoio chiuso"/>
+	<Elem NameU="Water surface" Name="Superficie d'acqua"/>
+	<Elem NameU="Pipe coils" Name="Tubature"/>
+	<Elem NameU="Sink" Name="Rubinetto"/>
+	<Elem NameU="Basin" Name="Lavabo"/>
+	<Elem NameU="Toilet" Name="Water"/>
+	<Elem NameU="Bath" Name="Vasca"/>
+	<Elem NameU="Basin (side)" Name="Lavabo (vista laterale)"/>
+	<Elem NameU="Toilet (side)" Name="Water (vista laterale)"/>
+	<Elem NameU="Bath (side)" Name="Vasca (vista laterale)"/>
+	<Elem NameU="End view" Name="Vista terminale"/>
+	<Elem NameU="Shower head" Name="Soffione"/>
+	<Elem NameU="Towel rail" Name="Torretta rotaia"/>
+</Lib>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Transportation">
+    <Elem NameU="Road 1" Name="道路1"/>
+    <Elem NameU="Road 2" Name="道路2"/>
+    <Elem NameU="Road 3" Name="道路3"/>
+    <Elem NameU="Road 4" Name="道路4"/>
+    <Elem NameU="Police Car" Name="警車"/>
+    <Elem NameU="Police" Name="警察"/>
+    <Elem NameU="Traffic Police" Name="交警"/>
+    <Elem NameU="Bus" Name="公車"/>
+    <Elem NameU="Car 1" Name="轎車1"/>
+    <Elem NameU="Car 2" Name="轎車2"/>
+    <Elem NameU="Taxi" Name="的士"/>
+    <Elem NameU="Motorcycle" Name="摩托車"/>
+    <Elem NameU="Train" Name="火車"/>
+    <Elem NameU="Ship Rudder" Name="方向舵"/>
+    <Elem NameU="Bicycle" Name="自行車"/>
+    <Elem NameU="Sailing Boat" Name="帆船"/>
+    <Elem NameU="Excavator" Name="挖掘機"/>
+    <Elem NameU="Truck" Name="卡車"/>
+    <Elem NameU="Cement Truck" Name="水泥卡車"/>
+    <Elem NameU="Tank Truck" Name="油罐車"/>
+    <Elem NameU="Man" Name="男人"/>
+    <Elem NameU="Woman" Name="女人"/>
+    <Elem NameU="Pedestrian 1" Name="行人1"/>
+    <Elem NameU="Pedestrian 2" Name="行人2"/>
+    <Elem NameU="Zebra crossing" Name="斑馬線"/>
+    <Elem NameU="Traffic Light 1" Name="紅綠燈1"/>
+    <Elem NameU="Traffic Light 2" Name="紅綠燈2"/>
+    <Elem NameU="Speed Camera" Name="超速攝像頭"/>
+    <Elem NameU="Road Sign" Name="路標"/>
+    <Elem NameU="Footway" Name="人行道"/>
+    <Elem NameU="No Smoking" Name="禁止吸煙"/>
+    <Elem NameU="Do Not Enter Sign" Name="禁止駛入"/>
+    <Elem NameU="Stop Sign" Name="停車標誌"/>
+    <Elem NameU="No Fire" Name="嚴禁明火"/>
+    <Elem NameU="Road Sign" Name="路標"/>
+    <Elem NameU="No Horn" Name="禁止鳴笛"/>
+    <Elem NameU="Bus Sign" Name="公車標誌"/>
+    <Elem NameU="Stop Sign" Name="停車標誌"/>
+    <Elem NameU="Parking 1" Name="泊車標誌1"/>
+    <Elem NameU="Parking 2" Name="泊車標誌2"/>
+    <Elem NameU="No parking" Name="禁止停車"/>
+    <Elem NameU="Circular Intersection" Name="交通轉盤"/>
+    <Elem NameU="No Taxi" Name="禁止的士通行"/>
+    <Elem NameU="No Straight Nor Right Turn" Name="禁止直行和向右轉彎"/>
+    <Elem NameU="No Straight Nor Left Turn" Name="禁止直行和向左轉彎"/>
+    <Elem NameU="No U-Turn" Name="禁止掉頭"/>
+    <Elem NameU="No Left Turn" Name="禁止向左轉彎"/>
+    <Elem NameU="No Right Turn" Name="禁止向右轉彎"/>
+    <Elem NameU="No Pedestrians" Name="禁止行人通行"/>
+    <Elem NameU="No Overtaking" Name="禁止超車"/>
+    <Elem NameU="No Entry" Name="禁止駛入"/>
+    <Elem NameU="No Left Nor Right Turn" Name="禁止向左和向右轉彎"/>
+    <Elem NameU="No Bicycles" Name="禁止自行車通行"/>
+    <Elem NameU="No Cars" Name="禁止機動車通行"/>
+    <Elem NameU="No Trucks" Name="禁止卡車通行"/>
+    <Elem NameU="Two-Way Traffic" Name="雙向交通"/>
+    <Elem NameU="Crossroad Ahead" Name="前方十字路口"/>
+    <Elem NameU="Side Road (Right)" Name="右輔路"/>
+    <Elem NameU="Side Road (Left)" Name="左輔路"/>
+    <Elem NameU="Traffic Signal Ahead" Name="交通信號燈"/>
+    <Elem NameU="Overhead Electric Cable" Name="頭頂有電線"/>
+    <Elem NameU="T Intersection Ahead" Name="T形交叉"/>
+    <Elem NameU="Y Intersection Ahead" Name="Y形交叉"/>
+    <Elem NameU="Hump Bridge Ahead" Name="前方駝峰橋"/>
+    <Elem NameU="Dangerous" Name="危險"/>
+    <Elem NameU="Caution Drop Down" Name="當心墜落"/>
+    <Elem NameU="Caution No Motor Vehicle" Name="注意非機動車"/>
+    <Elem NameU="Barricade 1" Name="路障 1"/>
+    <Elem NameU="Barricade 2" Name="路障 2"/>
+    <Elem NameU="Floor Stand Sign" Name="A字警示牌"/>
+    <Elem NameU="Red Pylon" Name="紅色交通路錐"/>
+    <Elem NameU="Yellow Warning Stipe" Name="黃色警告線"/>
+    <Elem NameU="OSHA tape (red-white striped)" Name="OSHA警示膠帶(紅白條紋)"/>
+    <Elem NameU="OSHA tape (yellow-black checked)" Name="OSHA警示膠帶(黃色格子)"/>
+    <Elem NameU="OSHA tape (yellow-black striped)" Name="警示膠帶(黑黃條紋)"/>
+    <Elem NameU="Green Light 1" Name="綠燈 1"/>
+    <Elem NameU="Red Light 1" Name="紅燈 1"/>
+    <Elem NameU="Yellow Light 1" Name="黃燈 1"/>
+    <Elem NameU="Green Light 2" Name="綠燈 2"/>
+    <Elem NameU="Red Light 2" Name="紅燈 2"/>
+    <Elem NameU="Yellow Light 2" Name="黃燈 2"/>
+    <Elem NameU="Green Light 3" Name="綠燈 3"/>
+    <Elem NameU="Red Light 3" Name="紅燈 3"/>
+    <Elem NameU="Yellow Light 3" Name="黃燈 3"/>
+    <Elem NameU="Red Light 4" Name="紅燈 4"/>
+    <Elem NameU="Gas-station" Name="加油站"/>
+    <Elem NameU="Street lamp 1" Name="路燈1"/>
+    <Elem NameU="Street lamp 2" Name="路燈2"/>
+    <Elem NameU="Instrument" Name="儀器"/>
+    <Elem NameU="Steering Wheel 1" Name="方向盤1"/>
+    <Elem NameU="Steering Wheel 2" Name="方向盤2"/>
+    <Elem NameU="Direction 1" Name="指示方向1"/>
+    <Elem NameU="Direction 2" Name="指示方向2"/>
+    <Elem NameU="Direction 3" Name="指示方向3"/>
+    <Elem NameU="Trumpet" Name="喇叭"/>
+    <Elem NameU="Ban on the horn" Name="禁止鳴笛"/>
+    <Elem NameU="Mansion" Name="大廈"/>
+    <Elem NameU="School" Name="學校"/>
+    <Elem NameU="Shop" Name="商店"/>
+    <Elem NameU="Tree 1" Name="樹1"/>
+    <Elem NameU="Tree 2" Name="樹2"/>
+</Lib>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Education Icons">
+
+<Elem Name="Zeitung" NameU="Newspaper"/>
+
+<Elem Name="Algorithmus" NameU="Algorithm"/>
+
+<Elem Name="Englische Buchstaben" NameU="English Letters"/>
+
+<Elem Name="Planetenbewegung" NameU="Planetary Motion"/>
+
+<Elem Name="Flasche" NameU="Flask"/>
+
+<Elem Name="Zelle" NameU="Cell"/>
+
+<Elem Name="Mikroskop" NameU="Microscope"/>
+
+<Elem Name="Globe" NameU="Globe"/>
+
+<Elem Name="Notizbuch" NameU="Notebook"/>
+
+<Elem Name="Geschichte" NameU="History"/>
+
+<Elem Name="Tanzen" NameU="Dance"/>
+
+<Elem Name="Diskussion" NameU="Discussion"/>
+
+<Elem Name="Psychologie" NameU="Psychology"/>
+
+<Elem Name="Absolvent" NameU="Graduate"/>
+
+<Elem Name="Bürstentopf" NameU="Brush Pot"/>
+
+<Elem Name="Buch" NameU="Book"/>
+
+<Elem Name="Schulranzen" NameU="School Bag"/>
+
+<Elem Name="Offenes Buch" NameU="Open Book"/>
+
+<Elem Name="Automatischer Bleistift" NameU="Automatic Pencil"/>
+
+<Elem Name="Farbkasten" NameU="Paint Box"/>
+
+<Elem Name="Chinesischer Pinsel" NameU="Chinese Brush"/>
+
+<Elem Name="Radiergummi" NameU="Eraser"/>
+
+<Elem Name="Zirkel" NameU="Compasses"/>
+
+<Elem Name="Gläser" NameU="Glasses"/>
+
+<Elem Name="Blackboard" NameU="Blackboard"/>
+
+<Elem Name="Grabenkappe" NameU="Trencher Cap"/>
+
+<Elem Name="Referenzen" NameU="Testimonials"/>
+
+<Elem Name="Schulbus" NameU="School Bus"/>
+
+<Elem Name="Kleber" NameU="Glue"/>
+
+</Lib>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Storage">
+    <Elem NameU="Cloud photos" Name="클라우드 사진"/>
+    <Elem NameU="Cloud storage gateway" Name="클라우드 저장 게이트"/>
+    <Elem NameU="Hybrid backup recovery" Name="하이브리드 백업"/>
+    <Elem NameU="Hybrid cloud storage array" Name="하이브리드 클라우드 스토리지 어레이"/>
+    <Elem NameU="Hybrid disaster recovery" Name="하이브리드 재해 복구"/>
+    <Elem NameU="Lightning cube" Name="번개 큐브"/>
+    <Elem NameU="Network attached storage" Name="파일 저장 NAS"/>
+    <Elem NameU="Objective storage service" Name="목표 저장 서비스"/>
+    <Elem NameU="Table storage" Name="표 저장"/>
+</Lib>

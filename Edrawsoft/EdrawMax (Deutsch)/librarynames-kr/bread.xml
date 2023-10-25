@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Bread">
+    <Elem NameU="Cake Volume" Name="케이크"/>
+    <Elem NameU="Pineapple Bread" Name="파인애플빵"/>
+    <Elem NameU="Toast" Name="토스트"/>
+    <Elem NameU="Cream Bun 1" Name="크림빵 1"/>
+    <Elem NameU="Cream Bun 2" Name="크림빵 2"/>
+    <Elem NameU="Croissant" Name="크루아상"/>
+    <Elem NameU="Spring Onion Bread" Name="양파빵"/>
+    <Elem NameU="Hotdog 1" Name="핫도그 1"/>
+    <Elem NameU="Hotdog 2" Name="핫도그 2"/>
+    <Elem NameU="Hot Dog Bun" Name="핫도그"/>
+    <Elem NameU="Waffle" Name="와플"/>
+    <Elem NameU="French Bread" Name="프렌치빵"/>
+    <Elem NameU="Doughnut" Name="도넛"/>
+    <Elem NameU="Cupcake 1" Name="컵케익 1"/>
+    <Elem NameU="Cupcake 2" Name="컵케익 2"/>
+    <Elem NameU="Egg Tart" Name="에그 타르트"/>
+    <Elem NameU="Triangle Cake" Name="삼각 케익"/>
+    <Elem NameU="Cake" Name="케익"/>
+    <Elem NameU="Chocolate Cake" Name="쵸콜렛 케익"/>
+    <Elem NameU="Macaron 1" Name="마카롱 1"/>
+    <Elem NameU="Macaron 2" Name="마카롱 2"/>
+    <Elem NameU="Apple Pie" Name="애플파이"/>
+    <Elem NameU="Baguette 1" Name="바게트 1"/>
+    <Elem NameU="Baguette 2" Name="바게트 2"/>
+    <Elem NameU="Red Bean Bread" Name="단팥빵"/>
+    <Elem NameU="Bread" Name="빵"/>
+    <Elem NameU="Swirl Bread 1" Name="Swirl 빵 1"/>
+    <Elem NameU="Swirl Bread 2" Name="Swirl 빵2"/>
+    <Elem NameU="French Bread 1" Name="프렌치빵 1"/>
+    <Elem NameU="French Bread 2" Name="프렌치빵 2"/>
+    <Elem NameU="Kalach Bread" Name="Kalach빵"/>
+    <Elem NameU="Meat Floss Buns" Name="미트 플로스 빵"/>
+    <Elem NameU="Lechem" Name="레흐빵"/>
+    <Elem NameU="Fried Bread" Name="튀긴 빵"/>
+    <Elem NameU="Muffin" Name="머핀"/>
+    <Elem NameU="Fruit  Dessert Tray 1" Name="과일 디저트 1"/>
+    <Elem NameU="Fruit  Dessert Tray 2" Name="과일 디저트 2"/>
+    <Elem NameU="Chocolate Cake in Triangle Shape" Name="쵸콜렛 삼각 케익"/>
+    <Elem NameU="Black Forest Cake" Name="슈바르츠밸더 키르쉬토르테"/>
+    <Elem NameU="Birthday Cake" Name="생일 케익"/>
+    <Elem NameU="Wedding Cake" Name="웨딩 케익"/>
+    <Elem NameU="Strawberry Cupcakes" Name="딸기 컵케익"/>
+    <Elem NameU="Yule Log" Name="크리스마스 케익"/>
+    <Elem NameU="Swiss Roll" Name="롤빵"/>
+    <Elem NameU="Cupcake 1" Name="컵케익 1"/>
+    <Elem NameU="Cupcake 2" Name="컵케익 2"/>
+    <Elem NameU="Cupcake 3" Name="컵케익 3"/>
+    <Elem NameU="Cupcake 4" Name="컵케익 4"/>
+    <Elem NameU="Cupcake 5" Name="컵케익 5"/>
+    <Elem NameU="Cupcake 6" Name="컵케익 6"/>
+    <Elem NameU="Cupcake 7" Name="컵케익 7"/>
+    <Elem NameU="Cupcake 8" Name="컵케익 8"/>
+    <Elem NameU="Mooncake 1" Name="유에삥 2"/>
+    <Elem NameU="Mooncake 2" Name="유에삥 1"/>
+</Lib>

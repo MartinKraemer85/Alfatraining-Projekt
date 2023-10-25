@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Bar Chart">
+
+<Elem Name="Standards Histogramm" NameU="Simple histogram"/>
+
+<Elem Name="Histogramm 1" NameU="Histogram1"/>
+
+<Elem Name="Gradient Histogramm" NameU="Gradient histogram"/>
+
+<Elem Name="Einzelserien Histogramm 1" NameU="Single series histogram1"/>
+
+<Elem Name="Einzelserien Histogramm" NameU="Single series histogram"/>
+
+<Elem Name="Einzelserien Histogramm 2" NameU="Single series histogram2"/>
+
+<Elem Name="Einzelserien Histogramm 3" NameU="Single series histogram3"/>
+
+<Elem Name="Cluster-Histogramm" NameU="Cluster histogram"/>
+
+<Elem Name="Cluster-Histogramm 2" NameU="Cluster histogram 2"/>
+
+<Elem Name="Cluster-Histogramm 3" NameU="Cluster histogram 3"/>
+
+<Elem Name="Cluster-Histogramm 4" NameU="Stacked histogram 3"/>
+
+<Elem Name="Gestapeltes Histogramm" NameU="Stacked histogram"/>
+
+<Elem Name="Gestapeltes Histogramm 2" NameU="Stacked histogram 2"/>
+
+<Elem Name="Prozent gestapeltes Histogramm 3" NameU="Percent Stacked Histogram 3"/>
+
+<Elem Name="Prozent gestapeltes Histogramm 2" NameU="Percent Stacked Histogram 2"/>
+
+<Elem Name="Prozent gestapeltes Histogramm" NameU="Percent Stacked Histogram"/>
+
+<Elem Name="Prozent Einzelserien-Histogramm" NameU="Percent Single Series Histogram"/>
+
+<Elem Name="Prozentuales Gradientenhistogramm einer einzelnen Serie" NameU="Percent single series gradient histogram"/>
+
+</Lib>

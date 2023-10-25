@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="USA">
+    <Elem NameU="Alabama" Name="앨라배마"/>
+    <Elem NameU="Alaska" Name="알래스카"/>
+    <Elem NameU="Arizona" Name="애리조나"/>
+    <Elem NameU="Arkansas" Name="Arkansas"/>
+    <Elem NameU="California" Name="캘리포니아"/>
+    <Elem NameU="Colorado" Name="콜로라도"/>
+    <Elem NameU="Connecticut" Name="코네티컷"/>
+    <Elem NameU="Delaware" Name="델라웨어"/>
+    <Elem NameU="Florida" Name="플로리다"/>
+    <Elem NameU="Georgia" Name="그루지야"/>
+    <Elem NameU="Hawaii" Name="하와이"/>
+    <Elem NameU="Idaho" Name="아이다호"/>
+    <Elem NameU="Illinois" Name="일리노이"/>
+    <Elem NameU="Indiana" Name="인디애나"/>
+    <Elem NameU="Iowa" Name="아이오와"/>
+    <Elem NameU="Kansas" Name="캔자스"/>
+    <Elem NameU="Kentucky" Name="켄터키"/>
+    <Elem NameU="Louisiana" Name="루이지애나"/>
+    <Elem NameU="Maine" Name="메인"/>
+    <Elem NameU="Maryland" Name="메릴랜드"/>
+    <Elem NameU="Massachusetts" Name="매사추세츠주"/>
+    <Elem NameU="Michigan" Name="미시간"/>
+    <Elem NameU="Minnesota" Name="미네소타"/>
+    <Elem NameU="Mississippi" Name="미시시피"/>
+    <Elem NameU="Missouri" Name="미주르"/>
+    <Elem NameU="Montana" Name="몬태나주"/>
+    <Elem NameU="Nebraska" Name="네브라스카"/>
+    <Elem NameU="Nevada" Name="네바다"/>
+    <Elem NameU="New Hampshire" Name="뉴햄프셔"/>
+    <Elem NameU="New Jersey" Name="뉴저지"/>
+    <Elem NameU="New Mexico" Name="뉴 멕시코"/>
+    <Elem NameU="New York" Name="뉴욕"/>
+    <Elem NameU="North Carolina" Name="노스 캐롤라이나"/>
+    <Elem NameU="North Dakota" Name="노스 다코타"/>
+    <Elem NameU="Ohio" Name="오하이오"/>
+    <Elem NameU="Oklahoma" Name="오클라호마"/>
+    <Elem NameU="Oregon" Name="오레곤 "/>
+    <Elem NameU="Pennsylvania" Name="펜실베니아"/>
+    <Elem NameU="Rhode Island" Name="로드 아일랜드"/>
+    <Elem NameU="South Carolina" Name="사우스 캐롤라이나"/>
+    <Elem NameU="South Dakota" Name="사우스 다코타"/>
+    <Elem NameU="Tennessee" Name="테네시"/>
+    <Elem NameU="Texas" Name="텍사스"/>
+    <Elem NameU="Utah" Name="유타"/>
+    <Elem NameU="Vermont" Name="버몬트"/>
+    <Elem NameU="Virginia" Name="버지니아"/>
+    <Elem NameU="Washington" Name="워싱톤"/>
+    <Elem NameU="West Virginia" Name="웨스트 버기"/>
+    <Elem NameU="Wisconsin" Name="위스콘신"/>
+    <Elem NameU="Wyoming" Name="와이오밍"/>
+    <Elem NameU="Great Lakes" Name="5대호"/>
+    <Elem NameU="USA" Name="미국"/>
+</Lib>

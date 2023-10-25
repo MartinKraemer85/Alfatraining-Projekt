@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="3D Landmarks">
+    <Elem NameU="North" Number="2" Name="北"/>
+    <Elem NameU="Direction" Name="方向"/>
+    <Elem NameU="Airport" Name="机场"/>
+    <Elem NameU="Apartment" Name="公寓"/>
+    <Elem NameU="Bank" Name="银行"/>
+    <Elem NameU="Bridge" Name="桥"/>
+    <Elem NameU="Building" Name="建筑"/>
+    <Elem NameU="City" Name="城市"/>
+    <Elem NameU="City 2" Name="城市 2"/>
+    <Elem NameU="Church" Name="教堂"/>
+    <Elem NameU="Convenience Store" Name="便利店"/>
+    <Elem NameU="Factory" Name="工厂"/>
+    <Elem NameU="Factory 2" Name="工厂 2"/>
+    <Elem NameU="Fire Department" Name="消防局"/>
+    <Elem NameU="Gas Station" Name="加油站"/>
+    <Elem NameU="Hospital" Name="医院"/>
+    <Elem NameU="Hotel" Name="旅馆"/>
+    <Elem NameU="Motel" Name="汽车旅馆"/>
+    <Elem NameU="Office Building" Name="办公大楼"/>
+    <Elem NameU="Office Building 2" Name="办公大楼 2"/>
+    <Elem NameU="Police Office" Name="办公大楼"/>
+    <Elem NameU="School" Name="学校"/>
+    <Elem NameU="Skyscraper" Name="摩天楼"/>
+    <Elem NameU="Small House" Name="小房子"/>
+    <Elem NameU="Suburban Home" Name="郊区住宅"/>
+    <Elem NameU="Supermarket" Name="超市"/>
+    <Elem NameU="Stadium" Name="体育场"/>
+    <Elem NameU="Town Hall" Name="市政厅"/>
+    <Elem NameU="Town House" Name="市政厅"/>
+    <Elem NameU="Train Station" Name="火车站"/>
+    <Elem NameU="Warehouse" Name="仓库"/>
+    <Elem NameU="Wharf" Name="码头"/>
+    <Elem NameU="Park" Name="公园"/>
+    <Elem NameU="River" Name="河"/>
+    <Elem NameU="Lake" Name="湖"/>
+    <Elem NameU="Ocean" Name="海"/>
+    <Elem NameU="Tree" Name="树"/>
+    <Elem NameU="Tree 2" Name="树 2"/>
+    <Elem NameU="Stop Light" Name="红绿灯"/>
+    <Elem NameU="Scale" Name="比例"/>
+    <Elem NameU="Scale 2" Name="比例 2"/>
+    <Elem NameU="Callout" Name="标注"/>
+</Lib>

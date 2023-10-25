@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Business Layer">
+	<Elem NameU="Business Actor" Name="商務執行者"/>
+	<Elem NameU="Business Collaboration" Name="商務共同作業"/>
+	<Elem NameU="Business Process" Name="商務流程"/>
+	<Elem NameU="Business Function" Name="商務功能"/>
+	<Elem NameU="Business Interaction" Name="商務互動"/>
+	<Elem NameU="Business Event" Name="商務事件"/>
+	<Elem NameU="Business Service" Name="商務服務"/>
+	<Elem NameU="Business Interface" Name="商務介面"/>
+	<Elem NameU="Business Object" Name="商務目標"/>
+	<Elem NameU="Product" Name="產品"/>
+	<Elem NameU="Contract" Name="合約"/>
+	<Elem NameU="Representation" Name="表述"/>
+</Lib>

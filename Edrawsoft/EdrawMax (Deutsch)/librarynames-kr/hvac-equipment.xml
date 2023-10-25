@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="HVAC Equipment">
+    <Elem NameU="Pump" Name="펌프"/>
+    <Elem NameU="Rotary Pump" Name="회전 펌프"/>
+    <Elem NameU="Centrifugal pump" Name="원심력 펌프"/>
+    <Elem NameU="Reciprocating pump" Name="왕복식 펌프"/>
+    <Elem NameU="Screw pump" Name="스크루 펌프"/>
+    <Elem NameU="Fan" Name="팬"/>
+    <Elem NameU="Centrifugal fan" Name="원심력 팬"/>
+    <Elem NameU="Fan blades" Name="팬 블레이드"/>
+    <Elem NameU="Moisture eliminator" Name="제습기"/>
+    <Elem NameU="Silencer" Name="소음기"/>
+    <Elem NameU="Silencer 2" Name="소음기 2"/>
+    <Elem NameU="Condenser" Name="콘덴서"/>
+    <Elem NameU="Air filter" Name="공기 필터기"/>
+    <Elem NameU="Dryer" Name="건조기"/>
+    <Elem NameU="Pipe coil" Name="파이프 코일"/>
+    <Elem NameU="Exhaust hood" Name="배기 후드"/>
+    <Elem NameU="Muffler" Name="소음기"/>
+    <Elem NameU="Air volume control valve" Name="풍량 조절 밸브"/>
+    <Elem NameU="The filter" Name="필터기"/>
+    <Elem NameU="Regulator" Name="조절기"/>
+    <Elem NameU="The heater" Name="가열기"/>
+    <Elem NameU="Surface air cooler" Name="표면 공기 냉각기"/>
+    <Elem NameU="Humidifier" Name="가습기"/>
+    <Elem NameU="High efficiency filter" Name="고효율 필터"/>
+    <Elem NameU="Ozone generator" Name="오존 발생기"/>
+    <Elem NameU="Primary filter、 Mid-effect filter" Name="기본 필터, 일반 필터"/>
+    <Elem NameU="Air compressor" Name="공기 압축기"/>
+    <Elem NameU="Oxygen-enriched filter" Name="산소가 풍부한 필터"/>
+    <Elem NameU="Membrane Clear Box" Name="막 처리 장치"/>
+    <Elem NameU="Vacuum pump" Name="진공 펌프"/>
+    <Elem NameU="Valve" Name="밸브"/>
+    <Elem NameU="Vacuum Gauge" Name="진공 게이지"/>
+    <Elem NameU="Steam separator" Name="스팀 분리기"/>
+    <Elem NameU="Pressurizer system" Name="가압기 시스템"/>
+    <Elem NameU="Dehumidifying system" Name="제습 시스템"/>
+    <Elem NameU="Booster fan" Name="부스터 팬"/>
+    <Elem NameU="Preheating system" Name="예열 시스템"/>
+    <Elem NameU="Nozzle" Name="노즐"/>
+    <Elem NameU="Boiler" Name="보일러"/>
+    <Elem NameU="Cold water pump" Name="냉수 펌프"/>
+    <Elem NameU="Flow valve" Name="유량 밸브"/>
+    <Elem NameU="Water tower" Name="급수탑"/>
+    <Elem NameU="Supply air grill" Name="급기 그릴"/>
+    <Elem NameU="Pipe network" Name="파이프 네트워크"/>
+    <Elem NameU="Cooling coil" Name="냉각 코일"/>
+    <Elem NameU="Return air grill" Name="리턴 에어 그릴"/>
+    <Elem NameU="Pipeline" Name="파이프라인"/>
+    <Elem NameU="Zone damper" Name="존 댐퍼"/>
+    <Elem NameU="Outside air duct" Name="외부 공기 덕트"/>
+    <Elem NameU="Ventilator" Name="통풍 장비"/>
+    <Elem NameU="Refrigerant receiver" Name="냉매받이"/>
+    <Elem NameU="Chiller" Name="냉각 장치"/>
+    <Elem NameU="Axia fan" Name="축 팬"/>
+    <Elem NameU="Access door" Name="점검구"/>
+    <Elem NameU="Condensate tank" Name="응축수 탱크"/>
+    <Elem NameU="Heat engine" Name="열 엔진"/>
+    <Elem NameU="Unit heater" Name="유닛 히터"/>
+    <Elem NameU="Unit ventilator" Name="단위 환풍기"/>
+    <Elem NameU="Steam" Name="스팀"/>
+    <Elem NameU="Duplex strainer" Name="이중 여과기"/>
+    <Elem NameU="Pressure-reducing valve" Name="감압 밸브"/>
+    <Elem NameU="Airline valve" Name="기류 밸브"/>
+    <Elem NameU="Strainer" Name="여과기"/>
+    <Elem NameU="Automatic 3-way valve" Name="자동 3방향 밸브"/>
+    <Elem NameU="Solenold valve" Name="솔레노이드 밸브"/>
+    <Elem NameU="Relief valve" Name="릴리프 밸브"/>
+    <Elem NameU="Pressure gauge and cock" Name="압력 게이지 및 콕"/>
+    <Elem NameU="Thermometer" Name="온도계"/>
+    <Elem NameU="Fan and motor with belt guard" Name="벨트 가드가 있는 팬 및 모터"/>
+    <Elem NameU="Supply duct-section" Name="공급 덕트 섹션"/>
+    <Elem NameU="Modulating return air capillary thermostat" Name="환기 모세관 온도 조절기"/>
+    <Elem NameU="Solenold air valve" Name="솔레노이드 공기 밸브"/>
+    <Elem NameU="Pressure electric switch" Name="압력 전기 스위치"/>
+</Lib>

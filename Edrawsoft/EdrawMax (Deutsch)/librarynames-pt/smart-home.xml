@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Smart Home">
+	<Elem NameU="Laptop Computer 1" Name="Computador Portátil 1"/>
+	<Elem NameU="Laptop Computer 2" Name="Computador Portátil 2"/>
+	<Elem NameU="Laptop Computer 3" Name="Computador Portátil 3"/>
+	<Elem NameU="Desktop Computer 1" Name="Computador de Secretária 1"/>
+	<Elem NameU="Desktop Computer 2" Name="Computador de Secretária 2"/>
+	<Elem NameU="High Definition Television" Name="Televisão de Alta Definição"/>
+	<Elem NameU="Smart Home System Control Host" Name="Anfitrião de Controle de Sistema de Casa Inteligente"/>
+	<Elem NameU="Visual Intercom" Name="Intercomunicador Visual"/>
+	<Elem NameU="Home Theater" Name="Cinema Caseiro"/>
+	<Elem NameU="Router" Name="Roteador"/>
+	<Elem NameU="Smart Home Control 1" Name="Controle de Casa Inteligente 1"/>
+	<Elem NameU="Smart Home Control 2" Name="Controle de Casa Inteligente 2"/>
+	<Elem NameU="Projector 1" Name="Projetor 1"/>
+	<Elem NameU="Projector 2" Name="Projetor 2"/>
+	<Elem NameU="Bullet Camera" Name="Câmera de Bala"/>
+	<Elem NameU="Dome Camera" Name="Câmera Dome"/>
+	<Elem NameU="Telephone Set 1" Name="Conjunto de Telefone 1"/>
+	<Elem NameU="Telephone Set 2" Name="Conjunto de Telefone 2"/>
+	<Elem NameU="Digital Camera" Name="Câmera Digital"/>
+	<Elem NameU="Mobile Phone 1" Name="Telemóvel 1"/>
+	<Elem NameU="Mobile Phone 2" Name="Telemóvel 2"/>
+	<Elem NameU="MP4" Name="MP4"/>
+	<Elem NameU="Digital Remote Control" Name="Controle Remoto Digital"/>
+	<Elem NameU="Remote Control" Name="Controle Remoto"/>
+	<Elem NameU="Touch Remote Control" Name="Controle Remoto por Toque"/>
+	<Elem NameU="Loudspeaker" Name="Alto-falante"/>
+	<Elem NameU="Communication Switching Module" Name="Módulo de Ligação de Comunicação"/>
+	<Elem NameU="Network Center Switch" Name="Centro de Rede Switch"/>
+	<Elem NameU="Set-top Box" Name="Set-top Box"/>
+	<Elem NameU="DVD" Name="DVD"/>
+	<Elem NameU="Telephone Exchange 1" Name="Intercâmbio de Telefone 1"/>
+	<Elem NameU="Telephone Exchange 2" Name="Intercâmbio de Telefone 1"/>
+	<Elem NameU="Range Hoods" Name="Exaustores"/>
+	<Elem NameU="Split AC" Name="AC Dividido"/>
+	<Elem NameU="Water Heater 1" Name="Aquecedor de Água 1"/>
+	<Elem NameU="Water Heater 2" Name="Aquecedor de Água 2"/>
+	<Elem NameU="Vertical Air Conditioner" Name="Ar Condicionado Vertical"/>
+	<Elem NameU="Smart Refrigerator" Name="Frigorífico Inteligente"/>
+	<Elem NameU="Front-load Washing Machine" Name="Máquina de Lavar de Carregamento Frontal"/>
+	<Elem NameU="Top-load Washing Machine" Name="Máquina de Lavar de Carregamento de Topo"/>
+	<Elem NameU="Air Purifier" Name="Purificador de Ar"/>
+	<Elem NameU="Humidifier" Name="Humidificador"/>
+	<Elem NameU="Vacuum Cleaner" Name="Aspirador"/>
+	<Elem NameU="Heater 1" Name="Aquecedor 1"/>
+	<Elem NameU="Heater 2" Name="Aquecedor 2"/>
+	<Elem NameU="Window AC" Name="AC de Janela"/>
+	<Elem NameU="Air System" Name="Sistema de Ar"/>
+	<Elem NameU="Robotic Vacuum Cleaner 1" Name="Aspirador Robótico 1"/>
+	<Elem NameU="Robotic Vacuum Cleaner 2" Name="Aspirador Robótico 2"/>
+	<Elem NameU="Printer" Name="Impressora"/>
+	<Elem NameU="Bulb" Name="Lâmpada"/>
+	<Elem NameU="Energy-saving bulb" Name="Lâmpada de poupança de energia"/>
+	<Elem NameU="Fluorescent Lamp" Name="Lâmpada Fluorescente"/>
+	<Elem NameU="Ceiling Lamp" Name="Lâmpada de Teto"/>
+	<Elem NameU="Bedside lamp" Name="Lâmpada de Mesinha de Cabeceira"/>
+	<Elem NameU="Light Strips" Name="Tiras de Iluminação"/>
+	<Elem NameU="Smart Switches" Name="Interruptores Inteligentes"/>
+	<Elem NameU="Switch" Name="Interruptor"/>
+	<Elem NameU="Electronic Doorbell" Name="Campainha Elétrica"/>
+	<Elem NameU="Doorbell" Name="Campainha"/>
+	<Elem NameU="Shower Head" Name="Cabeça de Chuveiro"/>
+	<Elem NameU="Sprinkler" Name="Aspersor"/>
+	<Elem NameU="Electronic Door Lock" Name="Fechadura de Porta Eletrónica"/>
+	<Elem NameU="Dishwasher" Name="Máquina de Lavar a Louça"/>
+	<Elem NameU="Microwave Oven" Name="Forno Micro-Ondas"/>
+	<Elem NameU="Oven" Name="Forno"/>
+	<Elem NameU="Bread Maker" Name="Máquina de Fazer Pão"/>
+	<Elem NameU="Rice Cooker" Name="Máquina de Cozinhar Arroz"/>
+	<Elem NameU="Electric Kettle 1" Name="Chaleira Elétrica 1"/>
+	<Elem NameU="Electric Kettle 2" Name="Chaleira Elétrica 2"/>
+	<Elem NameU="Smart Juicer 1" Name="Máquina de Sumos Inteligente 1"/>
+	<Elem NameU="Smart Juicer 2" Name="Máquina de Sumos Inteligente 2"/>
+	<Elem NameU="Intelligent Water Dispenser" Name="Dispensador de Água Inteligente"/>
+	<Elem NameU="Milk Dispenser" Name="Dispensador de Leite"/>
+	<Elem NameU="Coffee Maker" Name="Cafeteira"/>
+	<Elem NameU="Water Purifier" Name="Purificador de Água"/>
+	<Elem NameU="Water Dispenser" Name="Dispensador de Água"/>
+	<Elem NameU="Fan" Name="Ventilador"/>
+	<Elem NameU="Electric Iron" Name="Ferro Elétrico"/>
+	<Elem NameU="Heated Blanket" Name="Cobertor Aquecido"/>
+	<Elem NameU="Motorized Curtain" Name="Cortinha Monitorizada"/>
+	<Elem NameU="Sink" Name="Pia"/>
+	<Elem NameU="Toilet" Name="Banheiro"/>
+	<Elem NameU="Smart Thermostat" Name="Termostato Inteligente"/>
+	<Elem NameU="Electronic Thermometer" Name="Termómetro Elétrico"/>
+	<Elem NameU="PM2.5 Detector" Name="Detetor PM2.5"/>
+	<Elem NameU="Blood Pressure Monitor" Name="Monitor de Tensão Arterial"/>
+	<Elem NameU="Smart Power Plugs" Name="Tomadas Inteligentes"/>
+	<Elem NameU="Electric Meter" Name="Aparelho Elétrico"/>
+	<Elem NameU="Intelligent Water Meter" Name="Hidrômetro Inteligente"/>
+	<Elem NameU="Water Meter 1" Name="Hidrômetro 1"/>
+	<Elem NameU="Water Meter 2" Name="Hidrômetro 2"/>
+	<Elem NameU="Gas meter" Name="Contador de gás"/>
+	<Elem NameU="Fire Detector 1" Name="Detetor de Incêndio 1"/>
+	<Elem NameU="Fire Detector 2" Name="Detetor de Incêndio 2"/>
+	<Elem NameU="Fire Alarm 1" Name="Alarme de Incêndio 1"/>
+	<Elem NameU="Fire Alarm 2" Name="Alarme de Incêndio 2"/>
+	<Elem NameU="Fire Bell" Name="Campainha de Incêndio"/>
+	<Elem NameU="Mailbox 1" Name="Caixa de correio 1"/>
+	<Elem NameU="Mailbox 2" Name="Caixa de correio 2"/>
+</Lib>

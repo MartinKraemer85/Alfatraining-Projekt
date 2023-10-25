@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Workflow Department">
+	<Elem NameU="Accounting" Name="Contabilidade"/>
+	<Elem NameU="Accounts Receivable" Name="Contas a Receber"/>
+	<Elem NameU="Accounts Payable" Name="Contas a Pagar"/>
+	<Elem NameU="Audit" Name="Auditoria"/>
+	<Elem NameU="Bank" Name="Banco"/>
+	<Elem NameU="Board of directors" Name="Conselho de Administração"/>
+	<Elem NameU="Copy Center" Name="Centro de Cópias"/>
+	<Elem NameU="Customer Service" Name="Serviço de Apoio ao Cliente"/>
+	<Elem NameU="Data Center" Name="Centro de Dados"/>
+	<Elem NameU="Delivery" Name="Entrega"/>
+	<Elem NameU="Design" Name="Design"/>
+	<Elem NameU="Devices Management" Name="Gestão de Dispositivos"/>
+	<Elem NameU="Employee" Name="Funcionário"/>
+	<Elem NameU="Engineering" Name="Engenharia"/>
+	<Elem NameU="Facilities" Name="Instalações"/>
+	<Elem NameU="Human Resource" Name="Recursos Humanos"/>
+	<Elem NameU="Information services" Name="Serviços de Informação"/>
+	<Elem NameU="Branch" Name="Filial"/>
+	<Elem NameU="Inventory" Name="Inventário"/>
+	<Elem NameU="Legal Department" Name="Departamento Legal"/>
+	<Elem NameU="Mail Service" Name="Serviço de Correios"/>
+	<Elem NameU="Marketing" Name="Marketing"/>
+	<Elem NameU="Management" Name="Gestão"/>
+	<Elem NameU="Manufacturing" Name="Produção"/>
+	<Elem NameU="Motorpool" Name="Motorpool"/>
+	<Elem NameU="Onsite Service" Name="Serviço no Local"/>
+	<Elem NameU="Packaging" Name="Embalagem"/>
+	<Elem NameU="Payroll" Name="FOlha de pagamento"/>
+	<Elem NameU="Publications" Name="Publicações"/>
+	<Elem NameU="Purchasing" Name="Compras"/>
+	<Elem NameU="Quality Assurance" Name="Garantia de Qualidade"/>
+	<Elem NameU="Receiving" Name="Receber"/>
+	<Elem NameU="Reception" Name="Recepção"/>
+	<Elem NameU="Research" Name="Pesquisa"/>
+	<Elem NameU="Sales" Name="Vendas"/>
+	<Elem NameU="Security" Name="Segurança"/>
+	<Elem NameU="Shipping" Name="Transporte"/>
+	<Elem NameU="Suppliers" Name="Fornecedores"/>
+	<Elem NameU="Telecommunications" Name="Telecomunicações"/>
+	<Elem NameU="Treasurer" Name="Tesoureiro"/>
+	<Elem NameU="Warehouse" Name="Armazém"/>
+</Lib>

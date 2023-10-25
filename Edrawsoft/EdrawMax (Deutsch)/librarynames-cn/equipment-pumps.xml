@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Equipment-Pumps">
+    <Elem NameU="Compressor" Name="压缩机"/>
+    <Elem NameU="Reciprocating compressor" Name="往复式压缩机"/>
+    <Elem NameU="Reciprocating compressor 2" Name="往复式压缩机2"/>
+    <Elem NameU="Compressor silencers" Name="压缩机消音器"/>
+    <Elem NameU="Centrifugal" Name="离心式"/>
+    <Elem NameU="Rotary compressor" Name="旋转式压缩机"/>
+    <Elem NameU="Rotary compressor 2" Name="旋转压缩机2"/>
+    <Elem NameU="Rotory compressor and silencers" Name="压缩机和消音器"/>
+    <Elem NameU="Liquid ring compressor" Name="液环压缩机"/>
+    <Elem NameU="Centrifugal compressor" Name="离心式压缩机"/>
+    <Elem NameU="Centrifugal compressor 2" Name="离心压缩机2"/>
+    <Elem NameU="Centrifugal compressor 3" Name="离心压缩机3"/>
+    <Elem NameU="Centrifugal blower" Name="离心式鼓风机"/>
+    <Elem NameU="Selectable compressor" Name="可选压缩机"/>
+    <Elem NameU="Axial compressor" Name="轴流压缩机"/>
+    <Elem NameU="Pump" Name="泵"/>
+    <Elem NameU="Centrifugal pump" Name="离心泵"/>
+    <Elem NameU="Centrifugal pump 2" Name="离心泵 2"/>
+    <Elem NameU="Centrifugal pump 3" Name="离心泵 3"/>
+    <Elem NameU="Centrifugal pump 4" Name="离心泵 4"/>
+    <Elem NameU="Gas blower" Name="鼓风机"/>
+    <Elem NameU="Vertical pump" Name="立式泵"/>
+    <Elem NameU="Liquid ring vacuum pump" Name="液环真空泵"/>
+    <Elem NameU="Positive displacement pump" Name="容积式泵"/>
+    <Elem NameU="Horizontal pump" Name="卧式泵"/>
+    <Elem NameU="Vertical pump" Name="立式泵"/>
+    <Elem NameU="Sump pump" Name="污水泵"/>
+    <Elem NameU="Positive displacement pump 2" Name="容积泵2"/>
+    <Elem NameU="Rotary pump" Name="旋转泵"/>
+    <Elem NameU="Rotary gear pump" Name="旋转齿轮泵"/>
+    <Elem NameU="Peristaltic pump" Name="蠕动泵"/>
+    <Elem NameU="Gear pump" Name="齿轮泵"/>
+    <Elem NameU="Proportioning pump" Name="比例泵"/>
+    <Elem NameU="Vacuum pump" Name="真空泵"/>
+    <Elem NameU="Screw pump" Name="螺杆泵"/>
+    <Elem NameU="Screw pump 2" Name="螺杆泵2"/>
+    <Elem NameU="Cavity pump" Name="腔式泵"/>
+    <Elem NameU="Submersible pump" Name="潜水泵"/>
+    <Elem NameU="Reciprocating pump" Number="2" Name="往复泵"/>
+    <Elem NameU="Positive displacement pump" Name="容积式泵"/>
+    <Elem NameU="Turbine pump" Name="涡轮泵"/>
+    <Elem NameU="Pump 2" Name="泵2"/>
+    <Elem NameU="Fan" Name="扇子"/>
+    <Elem NameU="Selectable fan" Name="风扇可选风扇"/>
+    <Elem NameU="Fan blades" Name="风扇叶片"/>
+    <Elem NameU="Fan blades 2" Name="风扇叶片2"/>
+    <Elem NameU="Triple fan blades" Name="三扇叶片"/>
+    <Elem NameU="Axial flow fan" Name="轴流风机"/>
+    <Elem NameU="Turbine driver" Name="涡轮驱动器"/>
+    <Elem NameU="Doubleflow turbine" Name="双流式水轮机"/>
+    <Elem NameU="Motor driven turbine" Name="电动涡轮"/>
+    <Elem NameU="Ejector" Name="喷射器"/>
+    <Elem NameU="Spray" Name="喷雾"/>
+    <Elem NameU="Motor" Name="电动机"/>
+    <Elem NameU="Diesel motor" Name="柴油发动机"/>
+    <Elem NameU="ISO Liquid pump" Name="ISO液体泵"/>
+    <Elem NameU="ISO centrifugal pump" Name="ISO离心泵"/>
+    <Elem NameU="ISO diaphragm pump" Name="ISO隔膜泵"/>
+    <Elem NameU="ISO gear pump" Name="ISO齿轮泵"/>
+    <Elem NameU="ISO Progressive pump" Name="ISO螺杆泵"/>
+    <Elem NameU="ISO positive displacement pump" Name="ISO容积泵"/>
+    <Elem NameU="ISO reciprocating piston pump" Name="ISO往复活塞泵"/>
+    <Elem NameU="ISO screw pump" Name="ISO螺杆泵"/>
+</Lib>

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Enterprise Architecture">
+
+<Elem Name="ボックス" NameU="Box"/>
+
+<Elem Name="角の丸いボックス" NameU="Rounded Box"/>
+
+<Elem Name="アプリケーション" NameU="Application"/>
+
+<Elem Name="コンポーネント" NameU="Component"/>
+
+<Elem Name="書類" NameU="Document"/>
+
+<Elem Name="書類 2" NameU="Document 2"/>
+
+<Elem Name="Appサービス" NameU="App Service"/>
+
+<Elem Name="フォーム" NameU="Form"/>
+
+<Elem Name="システム" NameU="System"/>
+
+<Elem Name="レポート" NameU="Report"/>
+
+<Elem Name="データベース" NameU="Datebase"/>
+
+<Elem Name="HWサーバー" NameU="HW Server"/>
+
+<Elem Name="Eメール" NameU="Email"/>
+
+<Elem Name="ETL作業" NameU="ETL Job"/>
+
+<Elem Name="人" NameU="Person"/>
+
+<Elem Name="組織単位" NameU="Org Unit"/>
+
+<Elem Name="役割" NameU="Role"/>
+
+<Elem Name="契約" NameU="Contract"/>
+
+<Elem Name="ネットワーク" NameU="Network"/>
+
+<Elem Name="サイト" NameU="Site"/>
+
+<Elem Name="ワークステーション" NameU="Workstation"/>
+
+<Elem Name="モバイル機器" NameU="Mobile Device"/>
+
+<Elem Name="配置" NameU="Deployment Instace"/>
+
+<Elem Name="ネットワークノード" NameU="Network Node"/>
+
+<Elem Name="プロジェクト" NameU="Project"/>
+
+<Elem Name="ビジネスフロー" NameU="Business Flow"/>
+
+<Elem Name="プログラム" NameU="Program"/>
+
+<Elem Name="目標" NameU="Goal"/>
+
+<Elem Name="影響" NameU="Impact"/>
+
+<Elem Name="役割の関連付け" NameU="Role Association"/>
+
+<Elem Name="実現" NameU="Fulfillment"/>
+
+<Elem Name="エンタープライズコンテナー" NameU="Enterprise Container"/>
+
+<Elem Name="ビジネスモデルコンテナー" NameU="Business Model Container"/>
+
+<Elem Name="コンテナー" NameU="Container"/>
+
+<Elem Name="ガバナンスコンテナー" NameU="Governance Container"/>
+
+</Lib>

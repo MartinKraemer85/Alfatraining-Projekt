@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Environment">
+    <Elem NameU="Watering Can" Name="浇水壶"/>
+    <Elem NameU="House" Name="房子"/>
+    <Elem NameU="Tree" Name="树"/>
+    <Elem NameU="Energy-Saving Car" Name="节能汽车"/>
+    <Elem NameU="Environmental Protection" Name="环境保护"/>
+    <Elem NameU="Green Seedling" Name=" 绿苗"/>
+    <Elem NameU="插头" Name="插头"/>
+    <Elem NameU="Environmental Label" Name="环保标签"/>
+    <Elem NameU="太阳能" Name="太阳能"/>
+    <Elem NameU="Magnifier" Name="放大镜"/>
+    <Elem NameU="Butterfly" Name="蝴蝶"/>
+    <Elem NameU="Energy Saving Lamp" Name="节能灯"/>
+    <Elem NameU="Trash Can" Name="垃圾桶"/>
+    <Elem NameU="Battery" Number="2" Name="电池"/>
+    <Elem NameU="Letter" Name="信件"/>
+    <Elem NameU="Notebook" Name="笔记本"/>
+    <Elem NameU="Conserve Water" Name="节约用水"/>
+    <Elem NameU="Factory" Name="工厂"/>
+    <Elem NameU="Environmental Protection Logo" Name="环保标志"/>
+    <Elem NameU="Gas" Name="气体"/>
+    <Elem NameU="Gasoline" Name="汽油"/>
+    <Elem NameU="Protect the Earth" Name="保护地球"/>
+    <Elem NameU="Air Temperature" Name="气温"/>
+    <Elem NameU="Factory" Name="工厂"/>
+    <Elem NameU="Environmental Protection Logo" Name="环保标志"/>
+    <Elem NameU="Wind Energy" Name="风能"/>
+    <Elem NameU="插头" Name="插头"/>
+    <Elem NameU="Energy Saving Lamp" Name="节能灯"/>
+    <Elem NameU="Flower" Name="花"/>
+    <Elem NameU="Sun" Name="太阳"/>
+    <Elem NameU="Car" Name="汽车"/>
+    <Elem NameU="Bicycle" Name="自行车"/>
+    <Elem NameU="Factory" Name="工厂"/>
+    <Elem NameU="Power Station" Name="发电厂"/>
+    <Elem NameU="Tree" Name="树"/>
+    <Elem NameU="Electric Light" Name="电灯"/>
+    <Elem NameU="Water" Name="水"/>
+    <Elem NameU="Apple" Name="苹果"/>
+    <Elem NameU="Umbrella" Name="伞"/>
+    <Elem NameU="Drink" Name="饮料"/>
+    <Elem NameU="Fire" Name="火"/>
+    <Elem NameU="Protect Environment" Name="保护环境"/>
+    <Elem NameU="Energy Saving Lamp" Name="节能灯"/>
+    <Elem NameU="Chimney" Name=" 烟囱"/>
+    <Elem NameU="High Voltage Power Line Tower" Name="高压电线塔"/>
+    <Elem NameU="Protect Environment" Name="保护环境"/>
+    <Elem NameU="Eco Bag" Name="环保袋"/>
+    <Elem NameU="Cactus" Name="仙人掌"/>
+    <Elem NameU="Thunder" Name="雷"/>
+    <Elem NameU="Watering Can" Name="浇水壶"/>
+    <Elem NameU="Snowflake" Name="雪花"/>
+    <Elem NameU="Green Leaf" Name="绿叶"/>
+    <Elem NameU="Protect Nature" Name="保护自然"/>
+    <Elem NameU="Plant" Name="工厂"/>
+    <Elem NameU="Flower" Name="花"/>
+    <Elem NameU="Conserve Water" Name="节约用水"/>
+    <Elem NameU="Cedar" Name="雪松"/>
+    <Elem NameU="Solar Energy" Name="太阳能"/>
+    <Elem NameU="Forest" Name="森林"/>
+    <Elem NameU="Wind" Name="风"/>
+    <Elem NameU="Badge" Name="徽章"/>
+    <Elem NameU="Wine Bottle" Name="红酒瓶"/>
+    <Elem NameU="Environmentally Friendly Carton" Name="环保纸箱"/>
+    <Elem NameU="Environmental Protection Logo" Name="环保标志"/>
+    <Elem NameU="Environmental Protection" Name="环境保护"/>
+    <Elem NameU="Cconserve Water" Name="节约用水"/>
+    <Elem NameU="Environmental Protection Icon" Number="4" Name="环保标志"/>
+    <Elem NameU="Factory" Number="2" Name="工厂"/>
+    <Elem NameU="Paper" Name="纸"/>
+    <Elem NameU="Road Sign" Name="路标"/>
+    <Elem NameU="Hot Air Balloon" Name="热气球"/>
+    <Elem NameU="Cloud" Name="云"/>
+    <Elem NameU="Bicycle" Name="自行车"/>
+    <Elem NameU="Medal" Name="勋章"/>
+    <Elem NameU="Conserve Water" Name="节约用水"/>
+    <Elem NameU="Sun" Name="太阳"/>
+    <Elem NameU="Water Resources" Name="水资源"/>
+    <Elem NameU="Earth" Name="地球"/>
+    <Elem NameU="Moon" Name="月亮"/>
+    <Elem NameU="Bird" Name="鸟"/>
+    <Elem NameU="Dolphin" Name="海豚"/>
+    <Elem NameU="Energy-Saving Car" Name="节能汽车"/>
+    <Elem NameU="Weather" Name="天气"/>
+    <Elem NameU="Sink" Number="2" Name="水箱"/>
+    <Elem NameU="Environmental Awareness" Name="环保意识"/>
+    <Elem NameU="Eco Bag" Name="环保袋"/>
+    <Elem NameU="Windmill" Name="风车"/>
+    <Elem NameU="Earth Car" Name="地球车"/>
+    <Elem NameU="Thermometer" Name="温度计"/>
+    <Elem NameU="Barrels of Gasoline" Name="汽油桶"/>
+    <Elem NameU="Polar Bear" Name="北极熊"/>
+    <Elem NameU="Footprint" Name="脚印"/>
+    <Elem NameU="Bird" Name="鸟"/>
+    <Elem NameU="Paper" Name="纸"/>
+    <Elem NameU="Protect the Earth" Name="保护地球"/>
+    <Elem NameU="Digging" Name="挖掘"/>
+    <Elem NameU="Garbage Collection" Name="垃圾收集"/>
+    <Elem NameU="Sowing" Name="播种"/>
+    <Elem NameU="Trash Can" Name="垃圾桶"/>
+    <Elem NameU="Cans" Name="罐头"/>
+    <Elem NameU="Solar Energy" Name="太阳能"/>
+    <Elem NameU="Mountain" Name="山"/>
+    <Elem NameU="Whale" Name="鲸"/>
+    <Elem NameU="Iceberg" Name="冰山"/>
+    <Elem NameU="Leaves" Name="树叶"/>
+    <Elem NameU="Rain" Name="雨"/>
+    <Elem NameU="Conserve Water" Name="节约用水"/>
+</Lib>

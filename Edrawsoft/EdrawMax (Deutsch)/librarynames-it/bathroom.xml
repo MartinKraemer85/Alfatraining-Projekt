@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Bathroom">
+	<Elem NameU="Sink" Name="Lavabo"/>
+	<Elem NameU="Countertop sink" Name="Lavandino sopra-piano"/>
+	<Elem NameU="Pedestal sink" Name="Lavandino Piedistallo"/>
+	<Elem NameU="Bidet" Name="Bidè"/>
+	<Elem NameU="Squat wc" Name="Toilet Turca"/>
+	<Elem NameU="Shower" Name="Doccia"/>
+	<Elem NameU="Corner shower" Name="Doccia ad angolo"/>
+	<Elem NameU="Corner bath" Name="Vasca ad angolo"/>
+	<Elem NameU="Bathroom" Name="Bagno"/>
+	<Elem NameU="Shower Drain" Name="Scarico della Doccia"/>
+	<Elem NameU="Water Tap 1" Name="Rubinetto 1"/>
+	<Elem NameU="Water Tap 2" Name="Rubinetto 2"/>
+	<Elem NameU="Water Tap 3" Name="Rubinetto 3"/>
+	<Elem NameU="Water Tap 4" Name="Rubinetto 4"/>
+	<Elem NameU="Water Tap 5" Name="Rubinetto 5"/>
+	<Elem NameU="Dustbin" Name="Pattumiera"/>
+	<Elem NameU="Toilet Paper" Name="Carta Igienica"/>
+	<Elem NameU="Towel Rack" Name="Porta Asciugamani"/>
+	<Elem NameU="Toilet" Name="Toletta"/>
+	<Elem NameU="Bathtub" Name="Vasca da Bagno"/>
+	<Elem NameU="Shower Drain 2" Name="Scarico della Doccia 2"/>
+	<Elem NameU="Light" Name="Luce"/>
+	<Elem NameU="Shower Lamp" Name="Luce da Doccia"/>
+	<Elem NameU="Cabinet" Name="Armadietto"/>
+</Lib>

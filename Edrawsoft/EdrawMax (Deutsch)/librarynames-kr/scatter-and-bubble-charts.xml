@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Scatter and Bubble Charts">
+    <Elem NameU="Scatter Chart 1" Name="분산형 차트1"/>
+    <Elem NameU="Scatter Chart 2" Name="분산형 차트2"/>
+    <Elem NameU="Bubble Chart 1" Name="버블 차트1"/>
+    <Elem NameU="Bubble Chart 2" Name="버블 차트2"/>
+    <Elem NameU="Bubble Chart 3" Name="버블 차트3"/>
+</Lib>

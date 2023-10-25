@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Road Signs">
+	<Elem NameU="Roundabout" Name="Rotunda"/>
+	<Elem NameU="Road narrows on both sides ahead" Name="Estrada estreita de ambos os lados adiante"/>
+	<Elem NameU="Hump Back Bridge" Name="Ponte Com Lomba"/>
+	<Elem NameU="Horse Riders" Name="Cavaleiros"/>
+	<Elem NameU="Height restriction warning" Name="Aviso de restrição de peso"/>
+	<Elem NameU="Falling Rocks" Name="Queda de Pedras"/>
+	<Elem NameU="Slippery Road" Name="Perigo de Derrapagem"/>
+	<Elem NameU="Children Crossing" Name="Crianças a Atravessar"/>
+	<Elem NameU="Sheep" Name="Ovelha"/>
+	<Elem NameU="Cattle" Name="Gado"/>
+	<Elem NameU="Cattle Grid" Name="Grelha de Gado"/>
+	<Elem NameU="Steep hill downwards" Name="Declive acentuado a subir"/>
+	<Elem NameU="Steep hill upwards" Name="Declive acentuado a descer"/>
+	<Elem NameU="Danger place" Name="Local de perigo"/>
+	<Elem NameU="Intersection 1" Name="Intersecção 1"/>
+	<Elem NameU="Intersection 2" Name="Intersecção 2"/>
+	<Elem NameU="Bend" Name="Curva"/>
+	<Elem NameU="Double bend" Name="Curva dupla"/>
+	<Elem NameU="Two ways traffic" Name="Via de dois sentidos"/>
+	<Elem NameU="Mobile bridge" Name="Ponte móvel"/>
+	<Elem NameU="Traffic Lights" Name="Semáforos"/>
+	<Elem NameU="Pedestrian crossing" Name="Travessia de peões"/>
+	<Elem NameU="Road work" Name="Trabalhos na via"/>
+	<Elem NameU="Back up" Name="Dar distância"/>
+	<Elem NameU="Give way" Name="Dar passagem"/>
+	<Elem NameU="Crossing" Name="Cruzamento"/>
+	<Elem NameU="Stop" Name="Parar"/>
+	<Elem NameU="Roundable" Name="Contornável"/>
+	<Elem NameU="Cycle track" Name="Ciclovia"/>
+	<Elem NameU="Pass this side" Name="Passar por este lado"/>
+	<Elem NameU="Direction to be followed" Name="Direção a seguir"/>
+	<Elem NameU="One way street" Name="Via de um sentido"/>
+	<Elem NameU="No entry" Name="Sem entrada"/>
+	<Elem NameU="No entry both directions" Name="Sem entrada ambas as direções"/>
+	<Elem NameU="No pedestrians" Name="Proibido a peões"/>
+	<Elem NameU="No vehicles designed to carry more than 8 passengers (excluding driver) or local buses" Name="Proibido a veículos de mais de 8 passageiros (excluindo o condutor) ou ônibus locais"/>
+	<Elem NameU="No towed caravans" Name="Proibido a caravanas a reboque"/>
+	<Elem NameU="No goods vehicles exceeding maximum gross weight shown (in tonnes)" Name="Proibido a veículos de mercadorias que excedam o peso bruto máximo apresentado (em toneladas)"/>
+	<Elem NameU="Maximum length (imperial only)" Name="Comprimento máximo (apenas imperial)"/>
+	<Elem NameU="No cycling" Name="Proibido a bicicletas"/>
+	<Elem NameU="No motorcycles" Name="Proibido a motociclos"/>
+	<Elem NameU="No horse-drawn vehicles" Name="Proibido a veículos movidos por animais"/>
+	<Elem NameU="No motor vehicles except solo motorcycles" Name="Proibido a veículos a motor excepto motocicletas"/>
+	<Elem NameU="No motor vehicles" Name="Proibido a veículos a motor"/>
+	<Elem NameU="No Overtaking" Name="Proibido ultrapassar"/>
+	<Elem NameU="No vehicles carrying explosives" Name="Proibido a veículos de transporte de explosivos"/>
+	<Elem NameU="No U-turns" Name="Proibido inverter a marcha"/>
+	<Elem NameU="No articulated vehicles" Name="Proibido a veículos articulados"/>
+	<Elem NameU="No Stopping" Name="Proibido Parar"/>
+	<Elem NameU="No left turn" Name="Proibido virar à esquerda"/>
+	<Elem NameU="No right turn" Name="Proibido virar à direita"/>
+	<Elem NameU="Maximum height (imperial only)" Name="Peso máximo (apenas imperial)"/>
+	<Elem NameU="Maximum height (metric and imperial)" Name="Peso máximo (métrico e imperial)"/>
+	<Elem NameU="Maximum width (imperial only)" Name="Largura máxima (apenas imperial)"/>
+	<Elem NameU="Maximum width (metric and imperial)" Name="Largura máxima (métrico e imperial)"/>
+	<Elem NameU="Minimum speed" Name="Velocidade mínima"/>
+	<Elem NameU="Maximum speed" Name="Velocidade máxima"/>
+	<Elem NameU="National speed limit" Name="Limite de velocidade nacional"/>
+	<Elem NameU="Shared cycle" Name="Ciclovia partilhada"/>
+	<Elem NameU="Segregated cycle 1" Name="Ciclovia segregada 1"/>
+	<Elem NameU="Segregated cycle 2" Name="Ciclovia segregada 2"/>
+	<Elem NameU="Entering 20mph zone" Name="A entrar zona de 20mph"/>
+	<Elem NameU="Maximum weight" Name="Peso máximo"/>
+	<Elem NameU="Speed Camera in Operation" Name="Radar em Funcionamento"/>
+	<Elem NameU="Unsuitable for motor vehicles warning" Name="Aviso de inadequado para veículos a motor"/>
+	<Elem NameU="Escape lane 1" Name="Faixa de escape 1"/>
+	<Elem NameU="Escape lane 2" Name="Faixa de escape 2"/>
+	<Elem NameU="SOS Point" Name="Ponto SOS"/>
+	<Elem NameU="No through road" Name="Sem estrada de passagem"/>
+	<Elem NameU="Parking" Name="Estacionamento"/>
+	<Elem NameU="No passing without stopping" Name="Proibido passar sem parar"/>
+	<Elem NameU="No parking" Name="Proibido estacionar"/>
+	<Elem NameU="Speed limit" Name="Limite de velocidade"/>
+	<Elem NameU="Heigh limit" Name="Limite de altura"/>
+	<Elem NameU="Width limit" Name="Limite de largura"/>
+	<Elem NameU="Weight limit" Name="Limite de peso"/>
+	<Elem NameU="Priority over oncoming traffic" Name="Prioridade sobre tráfego em sentido contrário"/>
+	<Elem NameU="Streetcar or regular buses" Name="Bonde ou ônibus regular"/>
+	<Elem NameU="Taxi status" Name="Estado do táxi"/>
+	<Elem NameU="Speed 30-zone" Name="Zona de limite de velocidade-30"/>
+	<Elem NameU="End speed 30-zone" Name="Fim de zona de limite de velocidade-30"/>
+	<Elem NameU="Pedestrian crossing 2" Name="Travessia de peões 2"/>
+	<Elem NameU="Police" Name="Polícia"/>
+	<Elem NameU="Hotel" Name="Hotel"/>
+	<Elem NameU="Restaurant" Name="Restaurante"/>
+	<Elem NameU="Break down service" Name="Serviço de reboque"/>
+	<Elem NameU="P+R" Name="P+R"/>
+	<Elem NameU="Restroom" Name="Lavabo"/>
+	<Elem NameU="Fuel" Name="Combustível"/>
+	<Elem NameU="Telephone" Name="Telefone"/>
+	<Elem NameU="Recommended speed" Name="Velocidade recomendada"/>
+	<Elem NameU="Nodal point of motorway" Name="Ponto nodal de estrada"/>
+	<Elem NameU="Motorway" Name="Estrada"/>
+	<Elem NameU="End motorway" Name="Final de estrada"/>
+	<Elem NameU="Populated zone" Name="Zona habitada"/>
+	<Elem NameU="End populated zone" Name="Fim de zona habitada"/>
+	<Elem NameU="Parking with clock" Name="Estacionamento com controle de tempo"/>
+	<Elem NameU="Number sign" Name="Sinal de número"/>
+	<Elem NameU="Number sign (federal highway)" Name="Sinal de número (estrada federal)"/>
+	<Elem NameU="Exit" Name="Saída"/>
+	<Elem NameU="Direction to place" Name="Direção para local"/>
+	<Elem NameU="Board of announcement of exit" Name="Painel de anúncio de saída"/>
+	<Elem NameU="Speed Camera Sign" Name="Sinal de radar de velocidade"/>
+</Lib>

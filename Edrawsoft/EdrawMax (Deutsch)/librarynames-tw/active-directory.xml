@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Active Directory">
+    <Elem NameU="Domain 2D" Name="域二維圖"/>
+    <Elem NameU="Domain 3D" Name="域三維圖"/>
+    <Elem NameU="Domain controller 2D" Name="域控制器二維圖"/>
+    <Elem NameU="Domain controller 3D" Name="域控制器三維圖"/>
+    <Elem NameU="Application 2D" Name="應用程式二維圖"/>
+    <Elem NameU="Application 3D" Name="應用程式三維圖"/>
+    <Elem NameU="Site or subnet 2D" Name="站點/網絡二維圖"/>
+    <Elem NameU="Site or subnet 3D" Name="站點/網絡三維圖"/>
+    <Elem NameU="Client" Name="客戶端"/>
+    <Elem NameU="Database" Name="資料庫"/>
+    <Elem NameU="Comm-link" Name="通信鏈路"/>
+    <Elem NameU="Replication connection" Name="雙向連接"/>
+    <Elem NameU="Site link 3D" Name="站點連接二維圖"/>
+    <Elem NameU="Site link bridge 3D" Name="站點連接網橋三維圖"/>
+    <Elem NameU="WAN" Name="WAN"/>
+</Lib>

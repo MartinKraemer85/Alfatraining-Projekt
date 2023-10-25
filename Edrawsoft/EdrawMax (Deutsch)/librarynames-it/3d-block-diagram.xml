@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="3D Block Diagram">
+	<Elem NameU="Cylinder 1" Name="Cilindro 1"/>
+	<Elem NameU="Cylinder 2" Name="Cilindro 2"/>
+	<Elem NameU="Cylinder 3" Name="Cilindro 3"/>
+	<Elem NameU="Cylinder 4" Name="Cilindro 4"/>
+	<Elem NameU="Cylinder 5" Name="Cilindro 5"/>
+	<Elem NameU="Horizontal Cylinder" Name="Cilindro Orizzontale"/>
+	<Elem NameU="Sphere" Name="Sfera"/>
+	<Elem NameU="Cone 3" Name="Cono 3"/>
+	<Elem NameU="Rectangular box" Name="Riquadro rettangolare"/>
+	<Elem NameU="Cube" Name="Cubo"/>
+	<Elem NameU="3D Rectangle" Name="Rettangolo 3D"/>
+	<Elem NameU="Cuboid" Name="Cuboide"/>
+	<Elem NameU="4-side pyramid" Name="Piramide a 4 lati"/>
+	<Elem NameU="Tetrahedron" Name="Tetraedro"/>
+	<Elem NameU="Pentagonal cone" Name="Cono pentagonale"/>
+	<Elem NameU="Pyramid with flat top" Name="Piramide con superficie piatta"/>
+	<Elem NameU="Pentagonal pyramid with flat top" Name="Piramide pentagonale con superficie piatta"/>
+	<Elem NameU="Polyhedral cone" Name="Cono poliedrico"/>
+	<Elem NameU="Pyramid with rectangular box" Name="Piramide con riquadro rettangolare"/>
+	<Elem NameU="Dodecahedron" Name="Dodecaedro"/>
+	<Elem NameU="Octahedron" Name="Ottaedro"/>
+	<Elem NameU="Icosahedron" Name="Icosaedro"/>
+	<Elem NameU="Polyhedron" Name="Poliedro"/>
+	<Elem NameU="Polyhedron 2" Name="Poliedro 2"/>
+	<Elem NameU="Irregular polyhedron" Name="Poliedro irregolare"/>
+	<Elem NameU="Cone" Name="Cono"/>
+	<Elem NameU="Top Shaped 2" Name="Sagomato 2"/>
+	<Elem NameU="Half Sphere" Name="Mezza Sfera"/>
+	<Elem NameU="Irregular Cylinder" Name="Cilindro Irregolare"/>
+</Lib>

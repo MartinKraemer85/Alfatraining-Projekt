@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<Lib nameU="Monitoring and Management">
+
+<Elem Name="Gestion de la configuration des applications" NameU="Application configuration management"/>
+
+<Elem Name="Service de surveillance en temps réel des applications" NameU="Application real-time monitoring service"/>
+
+<Elem Name="Système de surveillance cloud" NameU="Cloud monitoring system"/>
+
+<Elem Name="Gestion de l'accès aux ressources" NameU="Resource access management"/>
+
+</Lib>

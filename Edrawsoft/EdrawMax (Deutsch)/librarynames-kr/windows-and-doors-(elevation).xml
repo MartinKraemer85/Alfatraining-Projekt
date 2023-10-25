@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Windows and Doors (Elevation)">
+    <Elem NameU="Window 1" Name="창문 1"/>
+    <Elem NameU="Window 2" Name="창문 2"/>
+    <Elem NameU="Window 3" Name="창문 3"/>
+    <Elem NameU="Window 4" Name="창문 4"/>
+    <Elem NameU="Window 5" Name="창문 5"/>
+    <Elem NameU="Window 6" Name="창문 6"/>
+    <Elem NameU="Window 7" Name="창문 7"/>
+    <Elem NameU="Window 8" Name="창문 8"/>
+    <Elem NameU="Window 9" Name="창문 9"/>
+    <Elem NameU="Window 10" Name="창문 10"/>
+    <Elem NameU="Window 11" Name="창문 11"/>
+    <Elem NameU="Window 12" Name="창문 12"/>
+    <Elem NameU="Window 13" Name="창문 13"/>
+    <Elem NameU="Window 14" Name="창문 14"/>
+    <Elem NameU="Window 15" Name="창문 15"/>
+    <Elem NameU="Window 16" Name="창문 16"/>
+    <Elem NameU="Window 17" Name="창문 17"/>
+    <Elem NameU="Door 1" Name="문 1"/>
+    <Elem NameU="Door 2" Name="문 2"/>
+    <Elem NameU="Door 3" Name="문 3"/>
+    <Elem NameU="Door 4" Name="문 4"/>
+    <Elem NameU="Door 5" Name="문 5"/>
+    <Elem NameU="Door" Number="2" Name="문"/>
+    <Elem NameU="Arched doorway" Name="아치형 문"/>
+    <Elem NameU="Cabinet" Number="6" Name="캐비닛"/>
+    <Elem NameU="Roof Eaves" Name="지붕 처마"/>
+    <Elem NameU="Door handle" Name="문 핸들"/>
+</Lib>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Shopping">
+    <Elem NameU="Shop 1" Name="商店1"/>
+    <Elem NameU="Shop 2" Name="商店2"/>
+    <Elem NameU="Shopping Mall 1" Name="購物中心 1"/>
+    <Elem NameU="Shopping Bag 1" Name="購物袋1"/>
+    <Elem NameU="Shopping Bag 2" Name="購物袋2"/>
+    <Elem NameU="Shopping Basket 1" Name="購物籃 1"/>
+    <Elem NameU="Shopping Cart 1" Name="購物車 1"/>
+    <Elem NameU="Shopping Tote 1" Name="大購物袋 1"/>
+    <Elem NameU="Bank Card 1" Name="銀行卡 1"/>
+    <Elem NameU="Beverage 1" Name="飲料 1"/>
+    <Elem NameU="Beverage 2" Name="飲料 2"/>
+    <Elem NameU="Beverage 3" Name="飲料 3"/>
+    <Elem NameU="Coin 1" Name="硬幣 1"/>
+    <Elem NameU="Gift 1" Name="禮物 1"/>
+    <Elem NameU="Hangbag 1" Name="手提包 1"/>
+    <Elem NameU="Hangbag 2" Name="手提包 2"/>
+    <Elem NameU="Hangbag 3" Name="手提包 3"/>
+    <Elem NameU="Hat 1" Name="帽子 1"/>
+    <Elem NameU="High Heels Shoes 1" Name="高跟鞋 1"/>
+    <Elem NameU="Jewelry 1" Name="珠寶1"/>
+    <Elem NameU="Jewelry 2" Name="珠寶2"/>
+    <Elem NameU="Jewelry 3" Name="珠寶3"/>
+    <Elem NameU="Lamp 1" Name="檯燈 1"/>
+    <Elem NameU="Lipstick 1" Name="口紅 1"/>
+    <Elem NameU="Nail Polish 1" Name="指甲油 1"/>
+    <Elem NameU="Necklace 1" Name="項鏈 1"/>
+    <Elem NameU="Online Shopping 1" Name="網購1"/>
+    <Elem NameU="Online Shopping 2" Name="網購2"/>
+    <Elem NameU="Open 24 Hours 1" Name="24小時營業1"/>
+    <Elem NameU="Open 24 Hours 2" Name="24小時營業2"/>
+    <Elem NameU="Perfume 1" Name="香水 1"/>
+    <Elem NameU="Open Plate 1" Name="營業中1"/>
+    <Elem NameU="POS Macchine 1" Name="POS機 1"/>
+    <Elem NameU="Private Car 1" Name="私家車 1"/>
+    <Elem NameU="Sneaker 1" Name="運動鞋 1"/>
+    <Elem NameU="Sunglasses 1" Name="太陽鏡 1"/>
+    <Elem NameU="Truck 1" Name="卡車 1"/>
+    <Elem NameU="T-Shirt 1" Name="短袖 1"/>
+    <Elem NameU="Wallet 1" Name="錢包 1"/>
+    <Elem NameU="Watch 1" Name="手錶 1"/>
+    <Elem NameU="Shopper 1" Name="顧客1"/>
+    <Elem NameU="Shopper 2" Name="顧客2"/>
+    <Elem NameU="Shopper 3" Name="顧客3"/>
+    <Elem NameU="Shopper 4" Name="顧客4"/>
+    <Elem NameU="Shopper 5" Name="顧客5"/>
+    <Elem NameU="Shopper 6" Name="顧客6"/>
+    <Elem NameU="Shopper 7" Name="顧客7"/>
+    <Elem NameU="Shopper 8" Name="顧客8"/>
+    <Elem NameU="Shopper 9" Name="顧客9"/>
+    <Elem NameU="Shopper 10" Name="顧客10"/>
+    <Elem NameU="Shopper 11" Name="顧客11"/>
+</Lib>

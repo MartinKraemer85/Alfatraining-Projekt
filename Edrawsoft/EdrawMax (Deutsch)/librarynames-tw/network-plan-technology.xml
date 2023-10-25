@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Network Plan Technology">
+    <Elem NameU="Activity Node" Number="2" Name="任務節點"/>
+    <Elem NameU="Connector" Name="連接線"/>
+    <Elem NameU="Right angle connector" Name="連接線"/>
+    <Elem NameU="Activity Node" Number="7" Name="任務節點"/>
+    <Elem NameU="Time parameter" Name="時間參數"/>
+    <Elem NameU="Dummy Activity" Name="虛工作"/>
+    <Elem NameU="Time Scale" Number="2" Name="時間標尺"/>
+</Lib>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Data Flow">
+
+<Elem Name="外部実体" NameU="External Entity"/>
+
+<Elem Name="実体" NameU="Entity"/>
+
+<Elem Name="プロセス" NameU="Process"/>
+
+<Elem Name="回線コネクタ" NameU="Line Connector"/>
+
+<Elem Name="状態" NameU="State"/>
+
+<Elem Name="オブジェクト" NameU="Object"/>
+
+<Elem Name="データ処理" NameU="Data Process"/>
+
+<Elem Name="乗算プロセス" NameU="Multiply Process"/>
+
+<Elem Name="開始状態" NameU="Start State"/>
+
+<Elem Name="停止状態" NameU="Stop State"/>
+
+<Elem Name="データストア" NameU="Data Store"/>
+
+<Elem Name="実体関係" NameU="Entity Relationship"/>
+
+<Elem Name="楕円形のプロセス" NameU="Oval Process"/>
+
+<Elem Name="Center to Center" NameU="Center to Center"/>
+
+<Elem Name="中央のループ" NameU="Loop on Center"/>
+
+<Elem Name="オブジェクトの呼び出し" NameU="Object Callout"/>
+
+<Elem Name="曲線コネクタ" NameU="Curve Connector"/>
+
+</Lib>

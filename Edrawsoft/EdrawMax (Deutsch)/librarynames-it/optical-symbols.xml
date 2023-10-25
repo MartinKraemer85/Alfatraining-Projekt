@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Optical Symbols">
+	<Elem NameU="7 segment display" Name="Display a 7 segmenti"/>
+	<Elem NameU="7 segment display with DP" Name="Display a 7 segmenti con DP"/>
+	<Elem NameU="9 segment display" Name="Display a 9 segmenti"/>
+	<Elem NameU="9 segment display with DP" Name="Display a 9 segmenti con DP"/>
+	<Elem NameU="LED" Name="LED"/>
+	<Elem NameU="LED 2" Name="LED"/>
+	<Elem NameU="Light activated SCR" Name="SCR con luce attivata"/>
+	<Elem NameU="Opto-coupler" Name="Optoisolatore"/>
+	<Elem NameU="Opto-transistor" Name="Optotransistor"/>
+	<Elem NameU="Photo resistor" Name="Unità fotoresistente"/>
+	<Elem NameU="Photo resistor 2" Name="Unità fotoresistente 2"/>
+	<Elem NameU="Solar cell" Name="Cella solare"/>
+</Lib>

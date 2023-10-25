@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PEST">
+    <Elem NameU="Basic PEST" Name="基本PEST"/>
+    <Elem NameU="PEST Matrix" Name="PEST矩陣"/>
+    <Elem NameU="PEST Bar" Name="條狀PEST"/>
+    <Elem NameU="PEST Box" Name="塊狀PEST"/>
+    <Elem NameU="PEST Box-Bevel" Name="斜面PEST"/>
+    <Elem NameU="Circular PEST" Name="圓形PEST"/>
+    <Elem NameU="PEST" Number="3" Name="PERT"/>
+    <Elem NameU="Circle" Name="圓"/>
+    <Elem NameU="Text Box" Number="3" Name="文本塊"/>
+</Lib>

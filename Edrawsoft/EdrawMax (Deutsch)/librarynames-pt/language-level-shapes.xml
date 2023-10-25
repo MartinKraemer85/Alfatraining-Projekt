@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Language Level Shapes">
+	<Elem NameU="Flowchart Shapes" Name="Formas de fluxograma"/>
+	<Elem NameU="Function or Subrouting" Name="Função ou Subroteamento"/>
+	<Elem NameU="Switch" Name="Interruptor"/>
+	<Elem NameU="Cloud" Name="Cloud"/>
+	<Elem NameU="Conditional invocation" Name="Invocação condicional"/>
+	<Elem NameU="Lexical inclusion" Name="Inclusão léxica"/>
+	<Elem NameU="Invocation" Name="Invocação"/>
+	<Elem NameU="Invocation w-Jump" Name="Invocação salto-W"/>
+	<Elem NameU="Data flow" Name="Fluxo de dados"/>
+	<Elem NameU="Flag flow" Name="Fluxo de bandeira"/>
+	<Elem NameU="Bracket" Name="Suporte"/>
+</Lib>

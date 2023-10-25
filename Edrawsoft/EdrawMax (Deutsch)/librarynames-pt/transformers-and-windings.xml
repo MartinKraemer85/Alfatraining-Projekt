@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Transformers and Windings">
+	<Elem NameU="Magnetic core" Name="Núcleo magnético"/>
+	<Elem NameU="Inductor" Name="Indutor"/>
+	<Elem NameU="Inductor (Air core)" Name="Indutor (Núcleo de ar)"/>
+	<Elem NameU="Inductor (Air core) 2" Name="Indutor (Núcleo de ar) 2"/>
+	<Elem NameU="Inductor (Air core) 3" Name="Indutor (Núcleo de ar) 3"/>
+	<Elem NameU="Variable inductor" Name="Indutor variável"/>
+	<Elem NameU="Choke" Name="Estrangulamento"/>
+	<Elem NameU="Magnetic-core inductor" Name="Indutor de núcleo-magnético"/>
+	<Elem NameU="Magnetic core inductor" Name="Indutor de núcleo magnético"/>
+	<Elem NameU="Magnetic inductor" Name="Indutor magnético"/>
+	<Elem NameU="Magnetic with gap" Name="Indutor com Intervalo"/>
+	<Elem NameU="Variometer" Name="Variómetro"/>
+	<Elem NameU="Coaxial choke" Name="Estrangulador coaxial"/>
+	<Elem NameU="Transductor" Name="Transdutor"/>
+	<Elem NameU="Transformer" Name="Transformador"/>
+	<Elem NameU="Transformer 2" Name="Transformador 2"/>
+	<Elem NameU="Saturation transformer" Name="Transformador de saturação"/>
+	<Elem NameU="Adjustable transformer" Name="Transformador ajustável"/>
+	<Elem NameU="Transformer 3" Name="Transformador 3"/>
+	<Elem NameU="Mutual inductor" Name="Indutor mútuo"/>
+	<Elem NameU="1-phase induction volt.reg." Name="Reg. Volt. de Indução de 1 Fase"/>
+	<Elem NameU="Triplex induction volt.reg." Name="Reg. Volt. de Indução Triplex"/>
+	<Elem NameU="Induction voltage regulator" Name="Regulador de voltagem de indução"/>
+	<Elem NameU="Current transformer" Name="Transformador de corrente"/>
+	<Elem NameU="Current transformer 2" Name="Transformador de corrente 2"/>
+	<Elem NameU="Current transformer 3" Name="Transformador de corrente 3"/>
+	<Elem NameU="Polyphase transformer" Name="Transformador de polifase"/>
+	<Elem NameU="Polyphase transformer 2" Name="Transformador de polifase 2"/>
+	<Elem NameU="3-winding transformer" Name="Transformador de 3-enrolamentos"/>
+	<Elem NameU="Potential transformer" Name="Transformador de potencial"/>
+	<Elem NameU="Potential transformer 2" Name="Transformador de potencial 2"/>
+	<Elem NameU="Transformer (Iron Core)" Name="Transformador (Núcleo de Ferro)"/>
+	<Elem NameU="Transformer (Iron Core) 2" Name="Transformador (Núcleo de Ferro) 2"/>
+	<Elem NameU="Pot. trans. 3 windings" Name="Enrolamentos de trans. pot. 3"/>
+	<Elem NameU="Outdoor metering device" Name="Dispositivo de medição exterior"/>
+	<Elem NameU="Linear coupler" Name="Acoplador linear"/>
+	<Elem NameU="Ferrite core" Name="Núcleo de Ferrite"/>
+	<Elem NameU="Iron Core" Name="Núcleo de Ferro"/>
+</Lib>

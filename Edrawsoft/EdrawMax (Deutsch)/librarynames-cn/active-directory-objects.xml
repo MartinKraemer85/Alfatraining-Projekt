@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Active Directory Objects">
+    <Elem NameU="Domain" Name="域"/>
+    <Elem NameU="Computer" Name="计算机"/>
+    <Elem NameU="User" Name="用户"/>
+    <Elem NameU="Group" Name="组"/>
+    <Elem NameU="Container" Name="容器"/>
+    <Elem NameU="Print Queue" Name="打印队列"/>
+    <Elem NameU="Contact" Name="联系人"/>
+    <Elem NameU="Organizational Unit" Name="组织单元"/>
+    <Elem NameU="Policy" Name="策略"/>
+    <Elem NameU="Volume" Name="卷"/>
+    <Elem NameU="Generic object" Name="一般对象"/>
+    <Elem NameU="Server" Name="服务器"/>
+    <Elem NameU="Site" Name="站点"/>
+    <Elem NameU="Site link" Name="站点链接"/>
+    <Elem NameU="Site link bridge" Name="网站链接网桥"/>
+    <Elem NameU="NTDS site settings" Name="NTDS站点设置"/>
+    <Elem NameU="IP subnet" Name="IP 子网"/>
+    <Elem NameU="Certificate Template" Name="证书模板"/>
+    <Elem NameU="Licensing Site" Name="颁发许可得站点"/>
+    <Elem NameU="Connection" Name="连接"/>
+    <Elem NameU="Directory Connector" Name="目录连接线"/>
+</Lib>

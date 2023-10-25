@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="PID Material Handling">
+	<Elem NameU="Advanced classification system" Name="Sistema di classificazione avanzato"/>
+	<Elem NameU="Hero-mechanical conveyor 1" Name="Trasportatore aeromeccanico 1"/>
+	<Elem NameU="Hero-mechanical conveyor 2" Name="Trasportatore aeromeccanico 2"/>
+	<Elem NameU="Hero-mechanical conveyor 3" Name="Trasportatore aeromeccanico 3"/>
+	<Elem NameU="Hero-mechanical conveyor 4" Name="Trasportatore aeromeccanico 4"/>
+	<Elem NameU="Hero-mechanical conveyor 5" Name="Trasportatore aeromeccanico 5"/>
+	<Elem NameU="Hero-mechanical conveyor 6" Name="Trasportatore aeromeccanico 6"/>
+	<Elem NameU="Hero-mechanical conveyor 7" Name="Trasportatore aeromeccanico 7"/>
+	<Elem NameU="Hero-mechanical conveyor 8" Name="Trasportatore aeromeccanico 8"/>
+	<Elem NameU="AGI mixer" Name="Betoniera AGI"/>
+	<Elem NameU="Air swept pulverizer" Name="Polverizzatore ad aria"/>
+	<Elem NameU="Airswept tubular dryer" Name="Essiccatore tubolare ad aria"/>
+	<Elem NameU="Bag dump station" Name="Stazione di scarico"/>
+	<Elem NameU="Baghouse dust collector" Name="Raccoglitore polveri di molatura"/>
+	<Elem NameU="Ball mill" Name="Frantoio a sfera"/>
+	<Elem NameU="Bulk bag discharger" Name="Scaricatore sacchi"/>
+	<Elem NameU="Bulk bag feeder" Name="Alimentatore sacchi"/>
+	<Elem NameU="Bulk bag filler" Name="Riempitore sacchi"/>
+	<Elem NameU="Bulk bag filling station" Name="Stazione di riempimento sacchi"/>
+	<Elem NameU="Bulk bag loader" Name="Caricatore sacchi"/>
+	<Elem NameU="Bulk railcar" Name="Automotrice di trasporto"/>
+	<Elem NameU="Cartridge dust collector" Name="Raccoglitore polveri di cartuccia"/>
+	<Elem NameU="Centrifugal type sifter" Name="Setaccio a centrifuga"/>
+	<Elem NameU="Centrifuge" Name="Centrifuga"/>
+	<Elem NameU="Clarifier" Name="Calorifero"/>
+	<Elem NameU="Colloid mixer" Name="Betoniera Colloide"/>
+	<Elem NameU="Compact spray dryer" Name="Essiccatore spray compatto"/>
+	<Elem NameU="Cone crusher" Name="Frantoio a cono"/>
+	<Elem NameU="Conical screw processor" Name="Processore conico a viti"/>
+	<Elem NameU="Cyclone1" Name="Ciclone 1"/>
+	<Elem NameU="Cyclone2" Name="Ciclone 2"/>
+	<Elem NameU="Disc pulverizer1" Name="Polverizzatore a piastra 1"/>
+	<Elem NameU="Disc pulverizer2" Name="Polverizzatore a piastra 2"/>
+	<Elem NameU="Double roll crusher" Name="Frantoio a doppio rullo"/>
+	<Elem NameU="Dryer cooler" Name="Raffreddatore-Essiccatore"/>
+	<Elem NameU="Dust collector1" Name="Raccoglitore di Polveri1"/>
+	<Elem NameU="Dust collector2" Name="Raccoglitore di Polveri2"/>
+	<Elem NameU="Dust collector3" Name="Raccoglitore di Polveri3"/>
+	<Elem NameU="Dust collector4" Name="Raccoglitore di Polveri4"/>
+	<Elem NameU="Dust collector5" Name="Raccoglitore di Polveri5"/>
+	<Elem NameU="Dust collector6" Name="Raccoglitore di Polveri6"/>
+	<Elem NameU="Dust reclaim" Name="Riciclo polveri"/>
+	<Elem NameU="Elevator for powders and pellets" Name="Montacarichi per polveri e pellet"/>
+	<Elem NameU="Feeder" Name="Alimentatore"/>
+	<Elem NameU="Flow meter" Name="Flussometro"/>
+	<Elem NameU="Fluidizing conveyor" Name="Trasportatore fluidizzante"/>
+	<Elem NameU="Gravimetric feeder1" Name="Alimentatore gravimetrico1"/>
+	<Elem NameU="Gravimetric feeder2" Name="Alimentatore gravimetrico2"/>
+	<Elem NameU="Grinder" Name="Macinatore"/>
+	<Elem NameU="Grinding mill" Name="Frantoio a macina"/>
+	<Elem NameU="Hammer mill 1" Name="Frantoio a martello 1"/>
+	<Elem NameU="Hammer mill 2" Name="Frantoio a martello 2"/>
+	<Elem NameU="High vacuum conveyer" Name="Trasportatore per alto vuoto"/>
+	<Elem NameU="Homomixer" Name="Miscelatore per emulsione"/>
+	<Elem NameU="Hopper1" Name="Tramoggia1"/>
+	<Elem NameU="Hopper2" Name="Tramoggia2"/>
+	<Elem NameU="Hopper3" Name="Tramoggia3"/>
+	<Elem NameU="Loss in weight feeder" Name="Alimentatore gravimetrico"/>
+	<Elem NameU="Mill classification system" Name="Sistema di classificazione dei mulini"/>
+	<Elem NameU="Modular feeder" Name="Alimentatore modulare"/>
+	<Elem NameU="Particles" Name="Particelle"/>
+	<Elem NameU="Pipeline mixer" Name="Miscelatore con trasportatore"/>
+	<Elem NameU="Plant vacuum system" Name="Sistema a vuoto per piante"/>
+	<Elem NameU="Powder mixer" Name="Miscelatore polveri"/>
+	<Elem NameU="Refiner" Name="Raffinatore"/>
+	<Elem NameU="Rotary airlock feeder1" Name="Alimentatore rotativo per camera stagna"/>
+	<Elem NameU="Rubber granulator" Name="Granulatore in gomma"/>
+	<Elem NameU="Self-dumping hopper" Name="Tramoggia auto-scaricante"/>
+	<Elem NameU="Shredder" Name="Trinciatrice"/>
+	<Elem NameU="Silo" Name="Silo"/>
+	<Elem NameU="Simple agglomeration" Name="Agglomerazione semplice"/>
+	<Elem NameU="Simple air classifier" Name="Classificatore d'aria semplice"/>
+	<Elem NameU="Simple centrifugal scalper" Name="Scalper centrifugale semplice"/>
+	<Elem NameU="Simple classifier mill" Name="Classificatore mulini semplice"/>
+	<Elem NameU="Simple dyna-slide feeder" Name="Alimentatore dyna-slide semplice"/>
+	<Elem NameU="Simple feeder" Name="Alimentatore semplice"/>
+	<Elem NameU="Simple filter" Name="Filtro semplice"/>
+	<Elem NameU="Simple fine grinding mill" Name="Frantoio semplice a macina sottile"/>
+	<Elem NameU="Simple hammermill" Name="Frantoio a martello semplice"/>
+	<Elem NameU="Simple hopper with material" Name="Tramoggia semplice con materiale"/>
+	<Elem NameU="Simple roller mill" Name="Frantoio a rullo semplice"/>
+	<Elem NameU="Simple rotary airlock feeder" Name="Alimentatore rotativo per camera a stagna semplice"/>
+	<Elem NameU="Simple screener" Name="Operatore semplice"/>
+	<Elem NameU="Simple shredder" Name="Trinciatrice semplice"/>
+	<Elem NameU="Simple silo" Name="Silo semplice"/>
+	<Elem NameU="Simple solids processing" Name="Elaborazione dei solidi semplice"/>
+	<Elem NameU="Simple transporter" Name="Trasportatore semplice"/>
+	<Elem NameU="Simple vibrating screen" Name="Griglia vibrante semplice"/>
+	<Elem NameU="Simple weigh hopper" Name="Tramoggia gravimetrica semplice"/>
+	<Elem NameU="Spiral conveyor with hopper" Name="Trasportatore a spirale con tramoggia"/>
+	<Elem NameU="Stainless steel heavy-duty mixer" Name="Miscelatore robusto in acciaio inossidabile"/>
+	<Elem NameU="Three stage wet collector" Name="Raccolta umido a tre stadi"/>
+	<Elem NameU="Truck loader" Name="Aspirafoglie"/>
+	<Elem NameU="Truck" Name="Furgone"/>
+	<Elem NameU="Vacuum boost" Name="Boost di vuoto"/>
+	<Elem NameU="Vacuum pressure unloader" Name="Caricatore pressione di vuoto"/>
+	<Elem NameU="Vertical shaft impactor" Name="Dispositivo d'urto con albero verticale"/>
+	<Elem NameU="Vibrating bin discharger with dual outlets" Name="Scaricatore vibrante con doppia uscita"/>
+	<Elem NameU="Volumetric feeder machine" Name="Macchina di alimentazione volumetrica"/>
+	<Elem NameU="Volumetric feeder" Name="Alimentatore volumetrico"/>
+	<Elem NameU="Wire mesh container" Name="Contenitore reti metalliche"/>
+</Lib>

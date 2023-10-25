@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Piping and Connection Shapes">
+    <Elem NameU="Major pipeline" Name="주요 파이프 라인"/>
+    <Elem NameU="Connect pipeline" Name="파이프 라인 연결"/>
+    <Elem NameU="Major Straight line pipe" Name="주요 직선 파이프"/>
+    <Elem NameU="Straight line pipe" Name="직선 파이프"/>
+    <Elem NameU="Process connection" Name="프로세스 연결"/>
+    <Elem NameU="Future line" Name="퓨처 라인"/>
+    <Elem NameU="Battery limit line" Name="배터리 제한선"/>
+    <Elem NameU="Electronic serial" Name="전자 시리얼"/>
+    <Elem NameU="Heat trace" Name="열 추적"/>
+    <Elem NameU="Side by side" Name="나란히"/>
+    <Elem NameU="Top-bottom" Name="상하"/>
+    <Elem NameU="One-to-many" Name="일대다"/>
+    <Elem NameU="Traced line" Name="추적된 선"/>
+    <Elem NameU="Multi-lines" Name="여러 줄"/>
+    <Elem NameU="Mid arrow" Name="화살표"/>
+    <Elem NameU="Multi-lines elbow" Name="여러 줄 엘보"/>
+    <Elem NameU="Top to top" Name="위에서 위로"/>
+    <Elem NameU="Electrical signal" Name="전기 신호"/>
+    <Elem NameU="Sonic signal" Name="소닉 신호"/>
+    <Elem NameU="Nuclear" Name="원자력"/>
+    <Elem NameU="Pneumatic control" Name="공압 제어"/>
+    <Elem NameU="Pneumatic binary signal line" Name="공압 바이너리 신호 라인"/>
+    <Elem NameU="Electric signal line" Name="전기 신호선"/>
+    <Elem NameU="Electric binary signal line" Number="2" Name="전기 바이너리 신호선"/>
+    <Elem NameU="Hydraulic signal line" Name="유압 신호선"/>
+    <Elem NameU="Sleeve joint" Name="슬리브 조인트"/>
+    <Elem NameU="General joint" Name="일반 조인트"/>
+    <Elem NameU="Butt weld" Name="맞대기 용접"/>
+    <Elem NameU="Welded connection" Name="용접 연결"/>
+    <Elem NameU="Mechanical Link" Name="기계 링크"/>
+    <Elem NameU="Soldered/ Solvent" Name="납땜 / 용제"/>
+    <Elem NameU="Double Containment" Name="이중 봉쇄"/>
+    <Elem NameU="Flange" Name="플랜지"/>
+    <Elem NameU="End caps" Name="엔드 캡"/>
+    <Elem NameU="End caps 2" Name="엔드 캡 2"/>
+    <Elem NameU="Breather" Name="배기관"/>
+    <Elem NameU="Drip pan elbow" Name="드립 팬 엘보"/>
+    <Elem NameU="Flange" Name="플랜지"/>
+    <Elem NameU="Union" Name="연합"/>
+    <Elem NameU="Socket weld" Name="소켓 용접"/>
+    <Elem NameU="Screwed connection" Name="나사 연결"/>
+    <Elem NameU="Orifice plate" Name="오리피스 플레이트"/>
+    <Elem NameU="Flanged dummy cover" Name="플랜지 더미 커버"/>
+    <Elem NameU="Electrical Bounded" Name="전기 경계"/>
+    <Elem NameU="Slope requirements line" Name="경사 요건 라인"/>
+    <Elem NameU="Reducer" Name="감속기"/>
+    <Elem NameU="Electrically insulated" Name="전기 절연"/>
+    <Elem NameU="In-line mixer" Name="인라인 믹서"/>
+    <Elem NameU="Separator" Name="분리기"/>
+    <Elem NameU="Bursting disc" Name="파열 디스크"/>
+    <Elem NameU="Flame arrester" Name="화염 방지기"/>
+    <Elem NameU="Drain silencer" Name="드레인 소음기"/>
+    <Elem NameU="Exhaust silencer" Name="배기 소음기"/>
+    <Elem NameU="Strainer" Name="스트레이너"/>
+    <Elem NameU="Exhaust head" Name="배기 헤드"/>
+    <Elem NameU="Triangle separator" Name="삼각형 구분자"/>
+    <Elem NameU="Triangle separator 2" Name="삼각형 구분자 2"/>
+    <Elem NameU="Tundish" Name="턴디시"/>
+    <Elem NameU="Open vent" Name="오픈식 통풍구"/>
+    <Elem NameU="Syphon drain" Name="사이펀 배수"/>
+    <Elem NameU="Hydrant" Name="소화전"/>
+    <Elem NameU="Swivel joint" Name="스위블 조인트"/>
+    <Elem NameU="Expansion joint" Name="신축 이음 장치"/>
+    <Elem NameU="Hose" Name="호스"/>
+    <Elem NameU="Flexible hose" Name="휘어지는 호스"/>
+    <Elem NameU="Flow indicator" Name="흐름 표시기"/>
+    <Elem NameU="Bell mouth" Name="벨구"/>
+    <Elem NameU="Removable spool" Name="탈착식 스풀"/>
+    <Elem NameU="Basket strainer" Name="바스켓 스트레이너"/>
+    <Elem NameU="Breather" Name="배기관"/>
+    <Elem NameU="Damper" Name="댐퍼"/>
+    <Elem NameU="Breakthrough" Name="돌파구"/>
+    <Elem NameU="Orifice" Name="오리피스"/>
+    <Elem NameU="Clamped flange coupling" Name="클램프 플랜지 커플링"/>
+    <Elem NameU="Compensate" Name="보상"/>
+    <Elem NameU="Coupling" Name="결합"/>
+    <Elem NameU="Y-type strainer" Name="Y 스트레이너"/>
+    <Elem NameU="Y-strainer" Name="Y 스트레이너"/>
+    <Elem NameU="Diverter valve" Name="전환기 밸브"/>
+    <Elem NameU="Blind disc" Name="블라인드 디스크"/>
+    <Elem NameU="Spectacle blind" Name="스펙타클 블라인드"/>
+    <Elem NameU="Interchangeable blind" Name="교체 가능한 블라인드"/>
+    <Elem NameU="Open disc" Name="오픈 디스크"/>
+    <Elem NameU="Orifice plate" Name="오리피스 플레이트"/>
+    <Elem NameU="Pulsation dampener" Name="맥동 감쇠기"/>
+    <Elem NameU="Duplex strainer" Name="이중 스트레이너"/>
+    <Elem NameU="Vent silencer" Name="바람 소음기"/>
+    <Elem NameU="Basket strainer" Name="바스켓 스트레이너"/>
+    <Elem NameU="Cone strainer" Name="콘 스트레이너"/>
+    <Elem NameU="Detonation arrestor" Name="폭발 방지기"/>
+    <Elem NameU="Flame arrestor" Name="화염 방지기 2"/>
+    <Elem NameU="In-line silencer" Name="인라인 소음기"/>
+    <Elem NameU="Steam trap" Name="스팀 트랩"/>
+    <Elem NameU="Desuperheater" Name="완열기"/>
+    <Elem NameU="Ejector or eductor" Name="이젝터 또는 이덕터"/>
+    <Elem NameU="Exhaust head" Name="배기 헤드"/>
+    <Elem NameU="Rotary valve" Name="회전 밸브"/>
+    <Elem NameU="Expansion joint 2" Name="신축 이음 장치 2"/>
+    <Elem NameU="Bursting disc" Name="파열 디스크"/>
+    <Elem NameU="Electrically insulated" Name="전기 절연"/>
+    <Elem NameU="Flame arrestor" Name="화염 방지기 2"/>
+    <Elem NameU="Explosion-Proof flame arrestor" Name="폭발 방지 화염 방지기"/>
+    <Elem NameU="Detonation-Proof flame arrestor" Name="폭발 방지 화염 방지기 2"/>
+    <Elem NameU="Fire-Resistant flame arrestor" Name="내화성 화염 방지기"/>
+    <Elem NameU="Fire-Resistant, Explosion-Proof flame arrestor" Name="내화성, 방폭형 화염 방지기"/>
+    <Elem NameU="Pilot operated relief valve with renote sensor" Name="원격 센서 파일럿 작동식 릴리프 밸브"/>
+    <Elem NameU="Valve manifold" Name="밸브 매니 폴드"/>
+</Lib>

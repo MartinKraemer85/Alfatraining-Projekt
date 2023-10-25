@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Power">
+    <Elem NameU="3-phase switching enclosure" Name="三相開關盒"/>
+    <Elem NameU="AC drive" Number="2" Name="交流驅動"/>
+    <Elem NameU="Bushing" Name="套管"/>
+    <Elem NameU="Car battery" Name="車用蓄電池"/>
+    <Elem NameU="Circuit breaker" Name="斷路器"/>
+    <Elem NameU="Combustion turbine" Name="燃氣輪機"/>
+    <Elem NameU="DC power supply" Name="直流電源"/>
+    <Elem NameU="Diesel backed UPS system" Name="柴油支援UPS系統"/>
+    <Elem NameU="Diesel generator" Name="柴油發電機"/>
+    <Elem NameU="Generator" Name="發電機"/>
+    <Elem NameU="Insulator" Name="絕緣體"/>
+    <Elem NameU="Meter gauge" Name="儀表"/>
+    <Elem NameU="Meter" Name="電子儀表"/>
+    <Elem NameU="Nuclear power plant" Name="核電站"/>
+    <Elem NameU="Socket" Name="插座"/>
+    <Elem NameU="Pad-mounted gear" Name="護具裝置"/>
+    <Elem NameU="Pedestal" Name="基座"/>
+    <Elem NameU="Porcelain insulator" Name="瓷絕緣體"/>
+    <Elem NameU="Power monitor" Name="功率監控器"/>
+    <Elem NameU="Nuclear reactors" Name="核反應堆"/>
+    <Elem NameU="Power plant" Name="發電廠"/>
+    <Elem NameU="Industrial wind generators 1" Name="工業風力發電機 1"/>
+    <Elem NameU="Industrial wind generators 2" Name="工業風力發電機 2"/>
+    <Elem NameU="Industrial wind generators 3" Name="工業風力發電機 3"/>
+    <Elem NameU="Concentrated Solar plants 1" Name="集中太陽能發電廠 1"/>
+    <Elem NameU="Concentrated Solar plants 2" Name="集中太陽能發電廠 2"/>
+    <Elem NameU="Recloser" Name="重合器"/>
+    <Elem NameU="Rectifier 1" Name="整流器 1"/>
+    <Elem NameU="Rectifier 2" Name="整流器 2"/>
+    <Elem NameU="SCR assembly" Name="半導體控制整流器組裝"/>
+    <Elem NameU="Simple motor drive" Name="馬達驅動"/>
+    <Elem NameU="Simple recloser" Name="重合器 2"/>
+    <Elem NameU="Simple substation" Name="簡易變電站"/>
+    <Elem NameU="Simple power panel" Name="電源板"/>
+    <Elem NameU="Splice box" Name="電纜分線箱"/>
+    <Elem NameU="Starter" Name="起動機"/>
+    <Elem NameU="Surge arrestor" Name="電涌放電器"/>
+    <Elem NameU="Transformer" Name="變壓器"/>
+    <Elem NameU="Transformer component" Name="變壓器組件"/>
+    <Elem NameU="Transformer monitor" Name="變壓器監控器"/>
+    <Elem NameU="Transmission tower" Name="輸電塔"/>
+    <Elem NameU="Uninterruptable power supply" Name="不間斷電源"/>
+    <Elem NameU="Utility pole 1" Name="電線桿 1"/>
+    <Elem NameU="Utility pole 2" Name="電線桿 2"/>
+    <Elem NameU="Utility pole 3" Name="電線桿 3"/>
+    <Elem NameU="Utility pole 4" Name="電線桿 4"/>
+    <Elem NameU="Utility pole 5" Name="電線桿 5"/>
+    <Elem NameU="Utility pole with cables" Name="帶電線的電線桿"/>
+    <Elem NameU="Utility pole with two sets of cables" Name="雙線電線桿"/>
+    <Elem NameU="Vacuum switch" Name="真空開關"/>
+    <Elem NameU="Variable-speed drive" Name="變速轉動"/>
+    <Elem NameU="Biogas power generation" Name="沼氣發電"/>
+    <Elem NameU="Cogeneration Unit" Name="供熱機組"/>
+    <Elem NameU="Dynamo" Name="發電機"/>
+    <Elem NameU="Temperature Measurement Resistor" Name="測溫變阻器"/>
+    <Elem NameU="Electrolyzer" Name="電解器"/>
+    <Elem NameU="Control system" Name="控制系統"/>
+</Lib>

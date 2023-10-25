@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Equipment-Crushers">
+    <Elem NameU="Crusher" Name="破碎機"/>
+    <Elem NameU="Coarse crushers" Name="粗破碎機"/>
+    <Elem NameU="Medium crushers" Name="中破碎機"/>
+    <Elem NameU="Fine crushers" Name="細破碎機"/>
+    <Elem NameU="Various crushers" Name="多種破碎機"/>
+    <Elem NameU="Hammer crusher" Name="錘式破碎機"/>
+    <Elem NameU="Impact crusher" Name="衝擊式破碎機"/>
+    <Elem NameU="Jaw crusher" Name="顎式破碎機"/>
+    <Elem NameU="Roller crusher" Name="滾筒式碎石機"/>
+    <Elem NameU="Cone crusher" Name="圓錐破碎機"/>
+    <Elem NameU="Vibration crusher" Name="振動破碎機"/>
+    <Elem NameU="Hammer crusher" Name="錘式破碎機"/>
+</Lib>

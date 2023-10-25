@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Cross Functional Flowchart">
+	<Elem NameU="Horizontal Swimlane" Name="水平泳道"/>
+	<Elem NameU="Vertical Swimlane" Name="垂直泳道"/>
+	<Elem NameU="Horizontal Separator" Name="水平分隔符"/>
+	<Elem NameU="Vertical Separator" Name="垂直分隔符"/>
+</Lib>

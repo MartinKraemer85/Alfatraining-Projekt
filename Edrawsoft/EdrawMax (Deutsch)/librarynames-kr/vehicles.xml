@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Vehicles">
+    <Elem NameU="Electric Scooter" Name="전기 스쿠터"/>
+    <Elem NameU="Bicycle" Name="자전거"/>
+    <Elem NameU="Car 1" Name="자동차 1"/>
+    <Elem NameU="Car 2" Name="자동차 2"/>
+    <Elem NameU="Food Truck" Name="푸드 트럭"/>
+    <Elem NameU="Bus" Name="버스"/>
+    <Elem NameU="MPV" Name="MPV"/>
+    <Elem NameU="Pickup Truck" Name="픽업 트럭"/>
+    <Elem NameU="Box Truck" Name="박스 트럭"/>
+    <Elem NameU="Mini Car" Name="미니 자동차"/>
+    <Elem NameU="Sports Car" Name="스포츠카"/>
+    <Elem NameU="Car 3" Name="자동차 3"/>
+    <Elem NameU="Heavy Truck" Name="대형 트럭"/>
+    <Elem NameU="Jeep" Name="지프"/>
+    <Elem NameU="Ambulance" Name="구급차"/>
+    <Elem NameU="Fire Truck" Name="자동차"/>
+    <Elem NameU="Taxi" Name="택시"/>
+    <Elem NameU="Van" Name="밴"/>
+    <Elem NameU="Crane" Name="기중기"/>
+    <Elem NameU="Excavator" Name="포크레인"/>
+    <Elem NameU="Military Vehicle 1" Name="군용 차량 1"/>
+    <Elem NameU="Military Vehicle 2" Name="군용 차량 2"/>
+    <Elem NameU="Military Vehicle 3" Name="군용 차량 3"/>
+    <Elem NameU="Police Car" Name="경찰차"/>
+    <Elem NameU="Concrete Mixer" Name="콘크리트 믹서"/>
+    <Elem NameU="Forklift" Name="지게차"/>
+    <Elem NameU="Double-decker Bus" Name="이층 버스"/>
+    <Elem NameU="Motorcycle" Name="오토바이"/>
+    <Elem NameU="Tractor" Name="트랙터"/>
+    <Elem NameU="Electric Bike" Name="전기 자전거"/>
+    <Elem NameU="Tank Truck" Name="탱크 트럭"/>
+    <Elem NameU="Train" Name="기차"/>
+    <Elem NameU="Subway" Name="지하철"/>
+    <Elem NameU="Plane 1" Name="비행기 1"/>
+    <Elem NameU="Plane 2" Name="비행기 2"/>
+    <Elem NameU="Plane 3" Name="비행기 3"/>
+    <Elem NameU="Helicopter 1" Name="헬리콥터1"/>
+    <Elem NameU="Helicopter 2" Name="헬리콥터2"/>
+    <Elem NameU="Patrol Boat" Name="순찰선"/>
+    <Elem NameU="Sailboat" Name="요트"/>
+    <Elem NameU="Steamship" Name="기선"/>
+    <Elem NameU="Cruise" Name="크루즈"/>
+</Lib>

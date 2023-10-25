@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Tourism">
+    <Elem NameU="The Grand Palace" Name="방콕 왕궁"/>
+    <Elem NameU="London Eye" Name="런던 아이"/>
+    <Elem NameU="Statue of Liberty" Name="자유의 여신상"/>
+    <Elem NameU="Rome Colosseum" Name="로마 콜로세움"/>
+    <Elem NameU="Great Wall" Name="만리장성"/>
+    <Elem NameU="Sydney Opera House" Name="시드니 오페라 하우스"/>
+    <Elem NameU="The Pyramids" Name="피라미드"/>
+    <Elem NameU="Church" Name="교회"/>
+    <Elem NameU="Leaning Tower of Pisa" Name="피사 사탑"/>
+    <Elem NameU="Eiffel Tower" Name="에펠탑"/>
+    <Elem NameU="The Louvre" Name="루브르궁"/>
+    <Elem NameU="Merloin" Name="머라이언"/>
+    <Elem NameU="Big Ben" Name="빅 벤"/>
+    <Elem NameU="Triumphal Arch" Name="개선문"/>
+    <Elem NameU="Burj Al Arab Hotel" Name="아랍 호텔"/>
+    <Elem NameU="Dutch Windmill" Name="네덜란드 풍차"/>
+    <Elem NameU="Taj Mahal" Name="타지마할"/>
+    <Elem NameU="British Museum" Name="영국 박물관"/>
+    <Elem NameU="Chichen Itza" Name="치첸 이차"/>
+    <Elem NameU="Parliament House" Name="국회 의사당"/>
+    <Elem NameU="The White House" Name="백악관"/>
+    <Elem NameU="Pavilion" Name="누각"/>
+    <Elem NameU="Water Villa" Name="워터 빌라"/>
+    <Elem NameU="Waterfall 1" Name="폭포 1"/>
+    <Elem NameU="Waterfall 2" Name="폭포 2"/>
+    <Elem NameU="Fountain" Name="분수"/>
+    <Elem NameU="Telephone Booth" Name="전화 부스"/>
+    <Elem NameU="Pillar box" Name="기둥 상자"/>
+    <Elem NameU="Direction Board" Name="표시판"/>
+    <Elem NameU="Travel Suitcase" Name="여행 트렁크"/>
+    <Elem NameU="Luggage" Name="수하물"/>
+    <Elem NameU="Person with Suitcase" Name="트렁크 들고 다니는 사람"/>
+    <Elem NameU="Brother and Sister" Name="형제"/>
+    <Elem NameU="Couple Walking" Name="커플 산책"/>
+    <Elem NameU="People with Camera" Name="카메라 들고 다니는 사람"/>
+    <Elem NameU="Family" Name="가족"/>
+    <Elem NameU="Surfboard" Name="서핑 보드"/>
+    <Elem NameU="Beach Umbrella" Name="양산"/>
+    <Elem NameU="Liqueur" Name="리큐어"/>
+    <Elem NameU="Coconut Palm" Name="코코넛 나무"/>
+    <Elem NameU="Dolphin" Name="돌고래"/>
+    <Elem NameU="Starfish" Name="불가사리"/>
+    <Elem NameU="Seashell" Name="조개"/>
+    <Elem NameU="Spiral Shell 1" Name="나선형 쉘1"/>
+    <Elem NameU="Spiral Shell 2" Name="나선형 쉘2"/>
+    <Elem NameU="Spiral Shell 3" Name="나선형 쉘3"/>
+    <Elem NameU="Shark" Name="상어"/>
+    <Elem NameU="Fish" Name="생선"/>
+    <Elem NameU="Giraffe" Name="기린"/>
+    <Elem NameU="Swim goggles" Name="수영 안경"/>
+    <Elem NameU="Sunglasses 1" Name="선글라스1"/>
+    <Elem NameU="Sunglasses 2" Name="선글라스2"/>
+    <Elem NameU="Cap 1" Name="모자1"/>
+    <Elem NameU="Cap 2" Name="모자2"/>
+    <Elem NameU="Bikini" Name="비키니"/>
+    <Elem NameU="Packet" Name="패킷"/>
+    <Elem NameU="Beach shoes" Name="해변 신발"/>
+    <Elem NameU="Beach chair 1" Name="해변 의자1"/>
+    <Elem NameU="Beach chair 2" Name="해변 의자2"/>
+    <Elem NameU="The beach area" Name="해변"/>
+    <Elem NameU="Bank Card" Name="은행카드"/>
+    <Elem NameU="Cloud" Name="구름"/>
+    <Elem NameU="Aircraft 1" Name="비행기1"/>
+    <Elem NameU="Aircraft 2" Name="비행기2"/>
+    <Elem NameU="Aircraft 3" Name="비행기3"/>
+    <Elem NameU="Car" Name="자동차"/>
+    <Elem NameU="Bus" Name="버스"/>
+    <Elem NameU="Double Decker Bus" Name="이층 버스"/>
+    <Elem NameU="Family Car" Name="가족 자동차"/>
+    <Elem NameU="Cruise Ship" Name="크루즈"/>
+    <Elem NameU="Sailing" Name="항행"/>
+    <Elem NameU="Sunny" Name="맑음"/>
+    <Elem NameU="Cloudy" Name="구름 많음"/>
+    <Elem NameU="Overcast" Name="흐림"/>
+    <Elem NameU="Rainy" Name="비"/>
+    <Elem NameU="Thunderstorm" Name="뇌우"/>
+    <Elem NameU="Thunder" Name="뇌우"/>
+    <Elem NameU="Heavy Snow" Name="폭설"/>
+    <Elem NameU="Rain and Snow" Name="진눈깨비"/>
+    <Elem NameU="Umbrella" Name="우산"/>
+    <Elem NameU="Location Mark" Name="위치 표시"/>
+    <Elem NameU="Compass" Name="나침반"/>
+    <Elem NameU="People" Name="사람"/>
+</Lib>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Qualifying Symbols">
+	<Elem NameU="Preset, general" Name="Predefinido, geral"/>
+	<Elem NameU="Temperature dependence" Name="Dependência de temperatura"/>
+	<Elem NameU="Radiation" Name="Radiação"/>
+	<Elem NameU="Material" Name="Material"/>
+	<Elem NameU="Pulse" Name="Pulso"/>
+	<Elem NameU="Alternating pulse" Name="Pulso alternado"/>
+	<Elem NameU="Step function" Name="Função de passo"/>
+	<Elem NameU="Step function 2" Name="Função de passo 2"/>
+	<Elem NameU="Square wave" Name="Onda quadrada"/>
+	<Elem NameU="Sawtooth" Name="Serra"/>
+	<Elem NameU="Sawtooch 2" Name="Serra 2"/>
+	<Elem NameU="Sine wave" Name="Onda sinusoidal"/>
+	<Elem NameU="Chopped square wave" Name="Onda quadrada cortada"/>
+	<Elem NameU="Positive polarity" Name="Polaridade positiva"/>
+	<Elem NameU="Negative polarity" Name="Polaridade negativa"/>
+	<Elem NameU="Alternating current" Name="Corrente alternada"/>
+	<Elem NameU="Neutral symbol" Name="Símbolo neutro"/>
+	<Elem NameU="Midware symbol" name=""/>
+	<Elem NameU="Multiple-phase" Name="Símbolo de midware"/>
+	<Elem NameU="3 separate windings" Name="3 enrolamentos separados"/>
+	<Elem NameU="2-phase 3-wire" Name="2-fases 3-fios"/>
+	<Elem NameU="2-phase 4-wire" Name="2-fases 4-fios"/>
+	<Elem NameU="3-phase (V)" Name="3-fases (V)"/>
+	<Elem NameU="3-Phase (T)" Name="3-fases (T)"/>
+	<Elem NameU="3-phase Delta 1" Name="3-fases Delta 1"/>
+	<Elem NameU="3-phase Delta 2" Name="3-fases Delta 2"/>
+	<Elem NameU="3-phase Delta 3" Name="3-fases Delta 3"/>
+	<Elem NameU="3-phase Delta 4" Name="3-fases Delta 4"/>
+	<Elem NameU="3-phase star" Name="3-fases estrela"/>
+	<Elem NameU="3-phase zigzag" Name="3-fases zigue-zague"/>
+	<Elem NameU="3-phase 4-wire" Name="3-fases 4-fios"/>
+	<Elem NameU="4-phase" Name="4-fases"/>
+	<Elem NameU="6-phase double star" Name="6-fases estrela dupla"/>
+	<Elem NameU="6-phase double delta" Name="6-fases delta duplo"/>
+	<Elem NameU="6-phase hexagonal" Name="6-fases hexagonal"/>
+	<Elem NameU="6-phase fork" Name="6-fases garfo"/>
+	<Elem NameU="One-way signal" Name="Sinal de uma-via"/>
+	<Elem NameU="Either way signal" Name="Sinal de qualquer dupla"/>
+	<Elem NameU="Both ways signal" Name="Sinal de via dupla"/>
+	<Elem NameU="Analog signals" Name="Sinais analógicos"/>
+	<Elem NameU="Digital signals" Name="Sinais digitais"/>
+	<Elem NameU="Special connector" Name="Conector especial"/>
+	<Elem NameU="Coaxial symbol" Name="Símbolo coaxial"/>
+	<Elem NameU="Electret" Name="Eletreto"/>
+</Lib>

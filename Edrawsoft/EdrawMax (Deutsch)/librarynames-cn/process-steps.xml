@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Process Steps">
+    <Elem NameU="Multi-Style Process" Name="多样式流程"/>
+    <Elem NameU="process" Number="4" Name="流程"/>
+    <Elem NameU="Vertical Process" Name="垂直流程"/>
+    <Elem NameU="Process" Name="流程"/>
+    <Elem NameU="process" Number="5" Name="流程"/>
+    <Elem NameU="Highlight Process" Name="突出显示流程"/>
+    <Elem NameU="process" Number="6" Name="流程"/>
+</Lib>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="GCP Storage and Databases">
+    <Elem NameU="Cloud storage system" Name="클라우드 저장 시스템"/>
+    <Elem NameU="Cloud data center" Name="클라우드 데이터 센터"/>
+    <Elem NameU="Cloud data bank" Name="클라우드 데이터베이스 "/>
+    <Elem NameU="Cloud SQL" Name="클라우드 SQL"/>
+    <Elem NameU="Cloud storage" Name="클라우드 저장소"/>
+    <Elem NameU="Data transmission application" Name="데이터 전송 애플리케이션"/>
+    <Elem NameU="Permanent disk" Name="영구 디스크"/>
+</Lib>

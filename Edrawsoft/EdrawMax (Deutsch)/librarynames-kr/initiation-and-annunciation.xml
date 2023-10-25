@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Initiation and Annunciation">
+    <Elem NameU="Multiplex panel" Name="멀티플렉스 패널"/>
+    <Elem NameU="Control panel" Name="컨트롤 패널"/>
+    <Elem NameU="CPU" Name="CPU"/>
+    <Elem NameU="Keyboard" Name="키보드"/>
+    <Elem NameU="Printer" Name="인쇄기"/>
+    <Elem NameU="Intercom" Name="인터폰"/>
+    <Elem NameU="Two way radio" Name="송수신 겸용 무전기"/>
+    <Elem NameU="Document destroyer" Name="서류 분쇄기"/>
+</Lib>

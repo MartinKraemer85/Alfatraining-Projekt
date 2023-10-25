@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Equipment-Peripheral">
+	<Elem NameU="Impact separator" Name="Separatore di impatto"/>
+	<Elem NameU="Gravity Separator" Name="Separatore di Gravità"/>
+	<Elem NameU="Cyclone separator" Name="Separatore Ciclone"/>
+	<Elem NameU="Electromagnetic separator" Name="Separatore elettromagnetico"/>
+	<Elem NameU="Electrostatic precipitator separator" Name="Separatore precipitatore elettrostatico"/>
+	<Elem NameU="Solidifier" Name="Solidificatore"/>
+	<Elem NameU="Permanent magnet separator" Name="Separatore magnetico permanente"/>
+	<Elem NameU="Spray nozzle" Name="Spruzzatore"/>
+	<Elem NameU="Rotary table feeder" Name="Alimentatore tavola rotante"/>
+	<Elem NameU="Proportional feeder" Name="Alimentatore proporzionale"/>
+	<Elem NameU="Rotary valve feeder" Name="Alimentatore valvola rotativa"/>
+	<Elem NameU="Metering proportional feeder" Name="Alimentatore proporzionale di misurazione"/>
+	<Elem NameU="Injector" Name="Iniettore"/>
+	<Elem NameU="Reducer" Name="Riduttore"/>
+	<Elem NameU="Rupture disc" Name="Disco di rottura"/>
+	<Elem NameU="Viewing glass" Name="Lastra di visione"/>
+	<Elem NameU="Viewing glass with lighting" Name="Lastra di visione con luce"/>
+	<Elem NameU="Back draft damper" Name="Regolatore di tiraggio"/>
+	<Elem NameU="Conveyor" Name="Convogliatore"/>
+	<Elem NameU="Box truck" Name="Furgoncino"/>
+	<Elem NameU="Manual forklift" Name="Carrello elevatore manuale"/>
+	<Elem NameU="Truck forklift" Name="Carrello elevatore con furgone"/>
+	<Elem NameU="Industrial truck" Name="Furgone industriale"/>
+	<Elem NameU="Rolling bin truck" Name="Carrello con rotelle"/>
+	<Elem NameU="Ship" Name="Nave"/>
+	<Elem NameU="Elevator" Name="Elevatore"/>
+	<Elem NameU="Z-form elevator" Name="Elevatore a Z"/>
+	<Elem NameU="Lift" Name="Sollevatore"/>
+	<Elem NameU="Hoists" Name="Montacarichi"/>
+	<Elem NameU="Aerator with sparger" Name="Aeratore con diffusore"/>
+	<Elem NameU="Bag filling machine" Name="Macchina riempitrice"/>
+	<Elem NameU="Belt skimmer" Name="Separatore strisce"/>
+	<Elem NameU="Screening" Name="Proiezione"/>
+	<Elem NameU="Bucket elevator" Name="Sollevatore secchi"/>
+	<Elem NameU="Elevator 1" Name="Elevatore 1"/>
+	<Elem NameU="Elevator 2" Name="Elevatore 2"/>
+	<Elem NameU="Skip hoist" Name="Sollevatore cassoni"/>
+	<Elem NameU="Conveyor (Chain,Closed)" Name="Convogliatore (Catena, Chiuso)"/>
+	<Elem NameU="Conveyor (Screw,Closed)" Name="Convogliatore (Vite, Chiuso)"/>
+	<Elem NameU="Roller conveyor" Name="Convogliatore cilindrico"/>
+	<Elem NameU="Overhead conveyor" Name="Convogliatore sopraelevato"/>
+	<Elem NameU="Screw conveyor" Name="Convogliatore a vite"/>
+	<Elem NameU="Scraper conveyor" Name="Convogliatore a raschietto"/>
+	<Elem NameU="Conveyor (Vibrating, Closed)" Name="Convogliatore (Vibrante, Chiuso)"/>
+	<Elem NameU="Piston extruder shaping machines" Name="Profilatrice pistone-estrudente"/>
+	<Elem NameU="Screw extruder shaping machines" Name="Profilatrice vite-estrudente"/>
+	<Elem NameU="Horizontal shaping machines" Name="Profilatrice orizzontale"/>
+	<Elem NameU="Vertical shaping machines" Name="Profilatrice verticale"/>
+	<Elem NameU="Pelletizing disc" Name="Disco pellettizzante"/>
+	<Elem NameU="Piston press" Name="Pressa a pistone"/>
+	<Elem NameU="Roller press" Name="Pressa a rullo"/>
+	<Elem NameU="Crane" Name="Gru"/>
+	<Elem NameU="Cyclone" Name="Ciclone"/>
+	<Elem NameU="Curved gas vent" Name="Condotto di scarico gas curvo"/>
+	<Elem NameU="Firing system" Name="Sistema di riscaldamento"/>
+	<Elem NameU="Flame arrestor" Name="Barriera antifiamme"/>
+	<Elem NameU="Palletizer" Name="Pellettatrice"/>
+	<Elem NameU="Chimney" Name="Canna fumaria"/>
+	<Elem NameU="Gas flare" Name="Combustione di gas"/>
+</Lib>

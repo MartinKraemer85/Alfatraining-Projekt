@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Human Organs">
+    <Elem NameU="Eye" Name="눈"/>
+    <Elem NameU="Nose" Name="코"/>
+    <Elem NameU="Ear" Name="귀"/>
+    <Elem NameU="Oral" Name="구강"/>
+    <Elem NameU="Throat" Name="목"/>
+    <Elem NameU="Ear" Name="귀"/>
+    <Elem NameU="Arm" Name="팔"/>
+    <Elem NameU="Leg" Name="다리"/>
+    <Elem NameU="Foot" Name="발"/>
+    <Elem NameU="Teeth" Name="이빨"/>
+    <Elem NameU="Tooth decay" Name="충치"/>
+    <Elem NameU="Stomach" Name="위"/>
+    <Elem NameU="Kidney" Name="신장"/>
+    <Elem NameU="Spleen" Name="비장"/>
+    <Elem NameU="Liver" Name="간장"/>
+    <Elem NameU="Lung1" Name="폐1"/>
+    <Elem NameU="Lung2" Name="폐2"/>
+    <Elem NameU="Lung3" Name="폐3"/>
+    <Elem NameU="Heart" Name="심장"/>
+    <Elem NameU="Uterus" Name="자궁"/>
+    <Elem NameU="Fetus" Name="태아"/>
+    <Elem NameU="Intestine" Name="장"/>
+    <Elem NameU="Brain1" Name="뇌1"/>
+    <Elem NameU="Brain2" Name="뇌2"/>
+    <Elem NameU="Brain3" Name="뇌3"/>
+    <Elem NameU="Needle" Name="바늘"/>
+    <Elem NameU="Skull" Name="두개골"/>
+    <Elem NameU="Rib cage" Name="갈비뼈"/>
+    <Elem NameU="Spine1" Name="척추1"/>
+    <Elem NameU="Spine2" Name="척추2"/>
+    <Elem NameU="Spine3" Name="척추3"/>
+    <Elem NameU="Spine4" Name="척추4"/>
+    <Elem NameU="Hip bone" Name="엉덩이 뼈"/>
+    <Elem NameU="Bones of hand" Name="손 뼈"/>
+    <Elem NameU="The skeletal foot" Name="발 골격"/>
+    <Elem NameU="Human skeleton" Name="인간 골격"/>
+</Lib>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Indoor Scene">
+    <Elem NameU="Wall" Name="墙壁"/>
+	<Elem NameU="Door" Name="门"/>
+	<Elem NameU="L-Shaped Room 1" Name="L形房间1"/>
+	<Elem NameU="L-Shaped Room 2" Name="L形房间2"/>
+	<Elem NameU="Double Doors" Name="双门"/>
+	<Elem NameU="Oval Dining Table" Name="椭圆形餐桌"/>
+	<Elem NameU="Chair" Name="椅子"/>
+	<Elem NameU="Bunk Bed" Name="双层床"/>
+	<Elem NameU="Double Bed 1" Name="大床1"/>
+	<Elem NameU="Double Bed 2" Name="大床2"/>
+	<Elem NameU="Rectangular Dining Table" Name="长方形餐桌"/>
+	<Elem NameU="Light" Name="灯"/>
+	<Elem NameU="Table Lamp" Name="台灯"/>
+	<Elem NameU="Wall" Name="墙"/>
+	<Elem NameU="Square Dining Table" Name="方形餐桌"/>
+	<Elem NameU="Sofa" Name="沙发"/>
+	<Elem NameU="King Size Bed" Name="超大床"/>
+	<Elem NameU="Cabinet" Name="柜子"/>
+	<Elem NameU="Double Chair" Name="双人椅"/>
+	<Elem NameU="Recliner Chair" Name="安乐椅"/>
+	<Elem NameU="Stool" Name="凳子"/>
+	<Elem NameU="Armchair" Name="躺椅"/>
+	<Elem NameU="Round Table" Name="圆桌"/>
+	<Elem NameU="Table Tennis Table" Name="乒乓球台"/>
+	<Elem NameU="Grand Piano" Name="大钢琴"/>
+	<Elem NameU="Small Upright Piano" Name="小型立式钢琴"/>
+	<Elem NameU="Palm Plant" Name="棕榈科植物"/>
+	<Elem NameU="Bedside Table" Name="床头柜"/>
+	<Elem NameU="Double Dresser" Name="双联梳妆台"/>
+	<Elem NameU="Triple Dresser" Name="三联梳妆台"/>
+	<Elem NameU="Desk" Name="书桌"/>
+	<Elem NameU="TV Cabinet" Name="电视柜"/>
+	<Elem NameU="TV (Top View)" Name="电视机(俯视)"/>
+	<Elem NameU="Single Bed" Name="单人床"/>
+	<Elem NameU="Window" Name="窗口"/>
+	<Elem NameU="Sink 1" Name="水池1"/>
+	<Elem NameU="Sink 2" Name="水池2"/>
+	<Elem NameU="Sink 3" Name="水池3"/>
+	<Elem NameU="Reference Point" Name="引用点"/>
+	<Elem NameU="Shower Cubicle" Name="淋浴间"/>
+	<Elem NameU="Bathtub 1" Name="浴缸1"/>
+	<Elem NameU="Bathtub 2" Name="浴缸2"/>
+	<Elem NameU="Oval Bathtub" Name="椭圆形浴缸"/>
+	<Elem NameU="Flush Toilet 1" Name="抽水马桶1"/>
+	<Elem NameU="Flush Toilet 2" Name="抽水马桶2"/>
+	<Elem NameU="Sink With Base 1" Name="带基座水池1"/>
+	<Elem NameU="Sink With Base 2" Name="带基座水池2"/>
+	<Elem NameU="Countertop Sink" Name="台面水池"/>
+	<Elem NameU="Compass" Name="罗盘"/>
+	<Elem NameU="Bidet" Name="坐浴盆"/>
+</Lib>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Molecular Model">
+	<Elem NameU="Atomic Structure 1" Name="Struttura Anatomica 1"/>
+	<Elem NameU="Atomic Structure 2" Name="Struttura Anatomica 2"/>
+	<Elem NameU="Atomic Structure 3" Name="Struttura Anatomica 3"/>
+	<Elem NameU="Atomic Structure 4" Name="Struttura Anatomica "/>
+	<Elem NameU="Black Molecule" Name="Molecola Nera"/>
+	<Elem NameU="Red Molecule" Name="Molecola Rossa"/>
+	<Elem NameU="Blue Molecule" Name="Molecola Blu"/>
+	<Elem NameU="Bridge" Name="Ponte"/>
+	<Elem NameU="Bridge B" Name="Ponte B"/>
+	<Elem NameU="Black Molecule B" Name="Molecola Nera B"/>
+	<Elem NameU="Black Molecule C" Name="Molecola Nera C"/>
+	<Elem NameU="Red Molecule B" Name="Molecola Rossa B"/>
+	<Elem NameU="Red Molecule C" Name="Molecola Rossa C"/>
+	<Elem NameU="Blue Molecule B" Name="Molecola Blu B"/>
+	<Elem NameU="Blue Red Molecule C" Name="Molecola Blu C"/>
+	<Elem NameU="Black Molecule D" Name="Molecola Nera D"/>
+	<Elem NameU="Red Molecule D" Name="Molecola Rossa D"/>
+	<Elem NameU="Blue Molecule D" Name="Molecola Blu D"/>
+	<Elem NameU="Black Molecule E" Name="Molecola Nera E"/>
+	<Elem NameU="Red Molecule E" Name="Molecola Rossa E"/>
+	<Elem NameU="Blue Molecular E" Name="Molecola Blu E"/>
+	<Elem NameU="Line bridge" Name="Ponte lineare"/>
+	<Elem NameU="Line bridge B" Name="Ponte lineare B"/>
+	<Elem NameU="Half ball" Name="Semicerchio"/>
+	<Elem NameU="Half ball 2" Name="Semicerchio 2"/>
+</Lib>

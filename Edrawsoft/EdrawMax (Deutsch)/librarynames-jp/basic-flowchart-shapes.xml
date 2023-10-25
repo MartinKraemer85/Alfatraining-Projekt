@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib nameU="Basic Flowchart Shapes">
+	<Elem NameU="Process" Name="処理"/>
+	<Elem NameU="Decision" Name="判断"/>
+	<Elem NameU="Document" Name="書類"/>
+	<Elem NameU="Data" Name="データ"/>
+	<Elem NameU="Start or Terminator" Name="開始／終了"/>
+	<Elem NameU="Sub Process" Name="サブプロセス"/>
+	<Elem NameU="Predefined Process" Name="予備処理"/>
+	<Elem NameU="Start" Number="2" Name="スタート"/>
+    <Elem NameU="People" Number="2" Name="人々"/>
+	<Elem NameU="Yes or No" Name="YESまたはNO"/>
+	<Elem NameU="Database" Name="データベース"/>
+	<Elem NameU="Stored Data" Name="記憶データ"/>
+	<Elem NameU="Internal Storage" Name="内部記憶"/>
+	<Elem NameU="Sequential Data" Name="順次アクセス記憶"/>
+	<Elem NameU="Direct Data" Name="直接アクセス記憶"/>
+	<Elem NameU="Manual Input" Name="手操作入力"/>
+	<Elem NameU="Card" Name="カード"/>
+	<Elem NameU="Paper Tape" Name="せん孔テープ"/>
+	<Elem NameU="Delay" Name="延期"/>
+	<Elem NameU="Display" Name="表示"/>
+	<Elem NameU="Manual Operation" Name="手作業"/>
+	<Elem NameU="Preparation" Name="準備"/>
+	<Elem NameU="Parallel Mode" Name="並行処理"/>
+	<Elem NameU="Loop Limit" Name="ループ端"/>
+	<Elem NameU="Terminator" Name="端末"/>
+	<Elem NameU="On-page Reference" Name="ページ上参照"/>
+	<Elem NameU="Off-page Reference" Name="外部ページ参照"/>
+	<Elem NameU="Curved Connector" Name="曲線コネクタ"/>
+	<Elem NameU="Control Transfer" Name="制御移行"/>
+	<Elem NameU="Annotation" Name="注釈"/>
+</Lib>

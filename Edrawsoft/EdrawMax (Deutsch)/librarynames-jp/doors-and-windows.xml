@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Doors and Windows">
+
+<Elem Name="窓" NameU="Window"/>
+
+<Elem Name="開き窓" NameU="Open Window"/>
+
+<Elem Name="引き違い窓" NameU="Glider Window"/>
+
+<Elem Name="開き窓 4" NameU="Casement Window"/>
+
+<Elem Name="出窓" NameU="Bay window"/>
+
+<Elem Name="引き違い窓 2" NameU="Double Casement Window"/>
+
+<Elem Name="開口部" NameU="Opening"/>
+
+<Elem Name="ドア" NameU="Door"/>
+
+<Elem Name="スイング ドア" NameU="Double Hung Door"/>
+
+<Elem Name="両開きドア" NameU="Double Door"/>
+
+<Elem Name="非対称ドア" NameU="Uneven Door"/>
+
+<Elem Name="向き合うドア" NameU="Opposing Door"/>
+
+<Elem Name="回転ドア" NameU="Revolving Door"/>
+
+<Elem Name="引き戸" NameU="Sliding Door"/>
+
+<Elem Name="両引き戸" NameU="Double Sliding Door"/>
+
+<Elem Name="バイパスドア" NameU="By-pass Door"/>
+
+<Elem Name="折り畳みドア" NameU="Bi-fold Door"/>
+
+<Elem Name="折り畳み式両開きドア" NameU="Double Bi-fold Door"/>
+
+<Elem Name="引き違い戸（ガラス）" NameU="Sliding Glass Door"/>
+
+<Elem Name="オーバーヘッドドア" NameU="Overhead Door"/>
+
+<Elem Name="出窓 2" NameU="Garden Window"/>
+
+<Elem Name="折り畳みドア" NameU="Folding Door "/>
+
+</Lib>

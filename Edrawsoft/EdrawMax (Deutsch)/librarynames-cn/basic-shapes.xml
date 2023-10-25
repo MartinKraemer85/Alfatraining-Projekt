@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="2D Block Diagram">
+    <Elem NameU="Rectangle" Name="长方形"/>
+	<Elem NameU="Rounded Rectangle" Name="圆角矩形"/>
+	<Elem NameU="Circle" Name="圆"/>
+	<Elem NameU="Triangle" Name="三角形"/>
+	<Elem NameU="Diamond" Name="菱形"/>
+	<Elem NameU="Arrow" Name="箭头"/>
+	<Elem NameU="Box Callout 1" Name="盒子形标注"/>
+	<Elem NameU="Line" Name="线"/>
+	<Elem NameU="ConnectLine" Name="连接线"/>
+</Lib>

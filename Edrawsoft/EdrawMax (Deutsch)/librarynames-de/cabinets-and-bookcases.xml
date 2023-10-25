@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Cabinets and Bookcases">
+
+<Elem Name="Work surface" NameU="Work surface"/>
+
+<Elem Name="Corner surface" NameU="Corner surface"/>
+
+<Elem Name="Island" NameU="Island"/>
+
+<Elem Name="Corner counter" NameU="Corner counter"/>
+
+<Elem Name="Platter counter" NameU="Platter counter"/>
+
+<Elem Name="Bevel counter" NameU="Bevel counter"/>
+
+<Elem Name="Bent counter" NameU="Bent counter"/>
+
+<Elem Name="Work peninsula" NameU="Work peninsula"/>
+
+<Elem Name="Base end-shelf" NameU="Base end-shelf"/>
+
+<Elem Name="Base corner" NameU="Base corner"/>
+
+<Elem Name="Base blind corner" NameU="Base blind corner"/>
+
+<Elem Name="Base end angle" NameU="Base end angle"/>
+
+<Elem Name="Bookcase" NameU="Bookcase"/>
+
+<Elem Name="Peninsula end-shelf" NameU="Peninsula end-shelf"/>
+
+<Elem Name="Wall end-shelf" NameU="Wall end-shelf"/>
+
+<Elem Name="Wall corner" NameU="Wall corner"/>
+
+<Elem Name="Wall angle cabinet" NameU="Wall angle cabinet"/>
+
+<Elem Name="Track end-bevel" NameU="Track end-bevel"/>
+
+<Elem Name="Track 45 deg." NameU="Track 45 deg."/>
+
+<Elem Name="Locker" NameU="Locker"/>
+
+<Elem Name="Handle" NameU="Handle"/>
+
+<Elem Name="Base" NameU="Base"/>
+
+<Elem Name="Schublade" NameU="Drawer"/>
+
+<Elem Name="Kabinett" NameU="Cabinet"/>
+
+<Elem Name="Schrank 2 Schubladen" NameU="Cabinet 2 drawers"/>
+
+<Elem Name="Basishalbinsel" NameU="Base peninsula"/>
+
+<Elem Name="Spur Ecke" NameU="Track corner"/>
+
+<Elem Name="Tray track" NameU="Tray track"/>
+
+</Lib>

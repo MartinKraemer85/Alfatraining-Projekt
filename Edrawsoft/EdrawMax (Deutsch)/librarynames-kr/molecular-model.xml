@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Molecular Model">
+    <Elem NameU="Atomic Structure 1" Name="원자 구조 1"/>
+    <Elem NameU="Atomic Structure 2" Name="원자 구조 2"/>
+    <Elem NameU="Atomic Structure 3" Name="원자 구조 3"/>
+    <Elem NameU="Atomic Structure 4" Name="원자 구조 4"/>
+    <Elem NameU="Black Molecule" Name="블랙 분자"/>
+    <Elem NameU="Red Molecule" Name="적색 분자"/>
+    <Elem NameU="Blue Molecule" Name="블루 분자"/>
+    <Elem NameU="Bridge" Name="브리지"/>
+    <Elem NameU="Bridge B" Name="브리지 B"/>
+    <Elem NameU="Black Molecule B" Name="블랙 분자 B"/>
+    <Elem NameU="Black Molecule C" Name="블랙 분자 C"/>
+    <Elem NameU="Red Molecule B" Name="적색 분자 B"/>
+    <Elem NameU="Red Molecule C" Name="적색 분자 C"/>
+    <Elem NameU="Blue Molecule B" Name="블루 분자 B"/>
+    <Elem NameU="Blue Red Molecule C" Name="블루 분자 C"/>
+    <Elem NameU="Black Molecule D" Name="블랙 분자 D"/>
+    <Elem NameU="Red Molecule D" Name="적색 분자 D"/>
+    <Elem NameU="Blue Molecule D" Name="블루 분자 D"/>
+    <Elem NameU="Black Molecule E" Name="블랙 분자 E"/>
+    <Elem NameU="Red Molecule E" Name="적색 분자 E"/>
+    <Elem NameU="Blue Molecular E" Name="블루 분자 E"/>
+    <Elem NameU="Line bridge" Name="라인"/>
+    <Elem NameU="Line bridge B" Name="라인 B"/>
+    <Elem NameU="Half ball" Name="반구"/>
+    <Elem NameU="Half ball 2" Name="반구 2"/>
+</Lib>

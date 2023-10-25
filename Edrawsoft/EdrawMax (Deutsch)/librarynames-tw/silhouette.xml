@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Silhouette">
+    <Elem NameU="Woman 1" Name="女士1"/>
+    <Elem NameU="Woman 2" Name="女士2"/>
+    <Elem NameU="Woman 3" Name="女士3"/>
+    <Elem NameU="Woman 4" Name="女士4"/>
+    <Elem NameU="Woman 5" Name="女士5"/>
+    <Elem NameU="Woman 6" Name="女士6"/>
+    <Elem NameU="Woman 7" Name="女士7"/>
+    <Elem NameU="Woman 8" Name="女士8"/>
+    <Elem NameU="Woman 9" Name="女士9"/>
+    <Elem NameU="Man 1" Name="男士1"/>
+    <Elem NameU="Man 2" Name="男士2"/>
+    <Elem NameU="Man 3" Name="男士3"/>
+    <Elem NameU="Man 4" Name="男士4"/>
+    <Elem NameU="Man 5" Name="男士5"/>
+    <Elem NameU="Man 6" Name="男士6"/>
+    <Elem NameU="Man 8" Name="男士8"/>
+    <Elem NameU="Man 7" Name="男士7"/>
+    <Elem NameU="Shake Hands 1" Name="握手1"/>
+    <Elem NameU="Shake Hands 2" Name="握手2"/>
+    <Elem NameU="Woman Go to Work" Name="去上班的女士"/>
+    <Elem NameU="Woman Walking" Name="走路的女士"/>
+    <Elem NameU="Man Go to Work" Name="走路的男士"/>
+    <Elem NameU="Talk" Name="談話"/>
+    <Elem NameU="Rest" Name="休息"/>
+    <Elem NameU="Man Play Computer" Name="用電腦的男士"/>
+    <Elem NameU="Man Business Travel" Name="商務旅行的男士"/>
+    <Elem NameU="On the Phone" Name="電話中"/>
+    <Elem NameU="Talk on the Phone 1" Name="電話中1"/>
+    <Elem NameU="Talk on the Phone 2" Name="電話中2"/>
+    <Elem NameU="Call Someone" Name="給某人打電話"/>
+    <Elem NameU="Talk with Loudspeaker" Name="用擴音器講話"/>
+    <Elem NameU="Woman with Trophy" Name="獲得獎杯的女士"/>
+    <Elem NameU="Man with Trophy" Name="獲得獎杯的男士"/>
+    <Elem NameU="Thinking 1" Name="思考 1"/>
+    <Elem NameU="Thinking 2" Name="思考 2"/>
+    <Elem NameU="Cheers" Name="歡呼"/>
+    <Elem NameU="Man Celebrating" Name="慶祝祝的男子"/>
+    <Elem NameU="Business Talk" Name="商業會談"/>
+    <Elem NameU="Shake Hands 3" Name="握手 3"/>
+    <Elem NameU="Working" Name="工作"/>
+    <Elem NameU="Cheering" Name="歡呼"/>
+    <Elem NameU="People Cheering" Name="一群人歡呼"/>
+    <Elem NameU="Girl Reading" Name="看書的女孩"/>
+    <Elem NameU="Reading with Friend" Name="跟朋友看書"/>
+    <Elem NameU="School Boy" Name="男學生"/>
+    <Elem NameU="School Girl" Name="女學生"/>
+    <Elem NameU="Champion" Name="冠軍"/>
+    <Elem NameU="Shopping" Number="3" Name="購物"/>
+    <Elem NameU="Business Travel" Name="出差"/>
+    <Elem NameU="Shopping" Number="2" Name="購物"/>
+    <Elem NameU="Shopping Together" Name="一起購物"/>
+    <Elem NameU="Shopping with Friends" Number="2" Name="結伴購物"/>
+    <Elem NameU="Shopping with Cart" Name="購物車"/>
+    <Elem NameU="Shopping" Name="購物"/>
+    <Elem NameU="Playing Drums" Name="打架子鼓"/>
+    <Elem NameU="Playing Piano" Name="彈鋼琴"/>
+    <Elem NameU="Playing Violin" Name="拉小提琴"/>
+    <Elem NameU="Man Playing Violin" Name="拉小提琴的男士"/>
+    <Elem NameU="Playing Flute" Name="吹長笛"/>
+    <Elem NameU="Woman Singer" Name="女歌手"/>
+    <Elem NameU="Man Singer" Name="男歌手"/>
+    <Elem NameU="Playing Saxophone" Name="演奏薩克斯風"/>
+    <Elem NameU="Ballet Dancer" Name="芭蕾舞者"/>
+    <Elem NameU="Interview" Name="採訪"/>
+    <Elem NameU="Taking a Photo" Number="3" Name="照相"/>
+    <Elem NameU="Go Travelling" Name="旅遊"/>
+    <Elem NameU="Brothers" Name="兄弟"/>
+    <Elem NameU="Couple" Name="夫妻"/>
+    <Elem NameU="Travel Alone" Name="獨自旅遊"/>
+    <Elem NameU="Happy Family" Name="幸福之家"/>
+</Lib>

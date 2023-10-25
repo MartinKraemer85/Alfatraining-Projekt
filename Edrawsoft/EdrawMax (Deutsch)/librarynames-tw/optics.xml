@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Optics">
+    <Elem NameU="Reflecting Surface" Name="反射面"/>
+    <Elem NameU="Convex Lens Symbol" Name="凸透鏡符號"/>
+    <Elem NameU="Concave Lens Symbol" Name="凹透鏡符號"/>
+    <Elem NameU="Convex Lens" Name="凸透鏡"/>
+    <Elem NameU="Concave Lens" Name="凹透鏡"/>
+    <Elem NameU="Spherical Surface" Name="球面"/>
+    <Elem NameU="Spherical Surface 2" Name="球面 2"/>
+    <Elem NameU="Mirror" Name="鏡子"/>
+    <Elem NameU="Body" Name="身體"/>
+    <Elem NameU="Ray 1" Name="射線 1"/>
+    <Elem NameU="Ray 2" Name="射線 2"/>
+    <Elem NameU="Ray 3" Name="射線 3"/>
+    <Elem NameU="Prism" Name="棱鏡"/>
+    <Elem NameU="Semicircle Glass" Name="半圓玻璃"/>
+    <Elem NameU="Holophote" Name="全息電話"/>
+    <Elem NameU="Beam of Light" Name="光束"/>
+    <Elem NameU="Parallel Beam of Light" Name="平行光束"/>
+    <Elem NameU="Bulb" Name="燈泡"/>
+    <Elem NameU="Point Light Source" Name="點光源"/>
+    <Elem NameU="Grid 1" Name="網格 1"/>
+    <Elem NameU="Grid 2" Name="網格 2"/>
+    <Elem NameU="Sine Wave" Name="正弦波"/>
+    <Elem NameU="Principal Optics Axis" Name="主光學軸"/>
+    <Elem NameU="Angle" Name="角度"/>
+    <Elem NameU="Description" Name="說明"/>
+    <Elem NameU="Label" Name="標籤"/>
+    <Elem NameU="Line" Name="直線"/>
+    <Elem NameU="Dash Line" Name="虛線"/>
+    <Elem NameU="Level" Name="水平"/>
+    <Elem NameU="Eye" Name="眼睛"/>
+    <Elem NameU="Eyeball" Name="眼球"/>
+    <Elem NameU="Arrow" Name="箭頭"/>
+    <Elem NameU="Candle" Name="蠟燭"/>
+    <Elem NameU="Legend" Name="說明"/>
+    <Elem NameU="Legend1" Name="說明 1"/>
+    <Elem NameU="Legend2" Name="說明 2"/>
+    <Elem NameU="Legend3" Name="說明 3"/>
+    <Elem NameU="Legend4" Name="說明 4"/>
+    <Elem NameU="Legend5" Name="說明 5"/>
+    <Elem NameU="Legend6" Name="說明 6"/>
+    <Elem NameU="Legend7" Name="說明 7"/>
+    <Elem NameU="Legend8" Name="說明 8"/>
+    <Elem NameU="Legend9" Name="說明 9"/>
+    <Elem NameU="Legend10" Name="說明 10"/>
+</Lib>

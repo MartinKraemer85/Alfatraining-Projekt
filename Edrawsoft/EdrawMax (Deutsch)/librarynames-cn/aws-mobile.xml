@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="AWS Mobile">
+	<Elem NameU="API-Gateway_Endpoint" Name="API网关端点"/>
+	<Elem NameU="API-Gateway" Name="API网关"/>
+	<Elem NameU="Pinpoint" Name="查明"/>
+	<Elem NameU="AWS-Amplify" Name="AWS放大"/>
+	<Elem NameU="AWS-AppSync" Name="AWS应用同步"/>
+	<Elem NameU="AWS-Device-Farm" Name="AWS设备农场"/>
+	<Elem NameU="Mobile" Name="移动"/>
+</Lib>

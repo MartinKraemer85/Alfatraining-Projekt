@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Europe">
+    <Elem NameU="Albania" Name="알바니아"/>
+    <Elem NameU="Austria" Name="오스트리아"/>
+    <Elem NameU="Belarus" Name="벨라루스"/>
+    <Elem NameU="Belgium" Name="벨기에"/>
+    <Elem NameU="Bosnia and Herzegovina" Name="보스니아 헤르체고비나"/>
+    <Elem NameU="Bulgaria" Name="불가리아"/>
+    <Elem NameU="Croatia" Name="크로아티아"/>
+    <Elem NameU="Czech Republic" Name="체코 공화국"/>
+    <Elem NameU="Denmark" Name="덴마크"/>
+    <Elem NameU="Estonia" Name="에스토니아"/>
+    <Elem NameU="Finland" Name="핀란드"/>
+    <Elem NameU="France" Name="프랑스"/>
+    <Elem NameU="Germany" Name="독일"/>
+    <Elem NameU="Greece" Name="그리스"/>
+    <Elem NameU="Hungary" Name="헝가리"/>
+    <Elem NameU="Ireland" Name="아일랜드"/>
+    <Elem NameU="Iceland" Name="아이슬란드"/>
+    <Elem NameU="Italy" Name="이탈리아"/>
+    <Elem NameU="Latvia" Name="라트비아"/>
+    <Elem NameU="Lithuania" Name="리투아니아"/>
+    <Elem NameU="Luxembourg" Name="룩셈부르크"/>
+    <Elem NameU="Macedonia" Name="마케도니아"/>
+    <Elem NameU="Moldova" Name="몰다비아"/>
+    <Elem NameU="Netherlands" Name="네덜란드"/>
+    <Elem NameU="Norway" Name="노르웨이"/>
+    <Elem NameU="Poland" Name="폴란드"/>
+    <Elem NameU="Portugal" Name="포르투갈"/>
+    <Elem NameU="Romania" Name="루마니아"/>
+    <Elem NameU="Russia" Name="러시아"/>
+    <Elem NameU="Slovakia" Name="슬로바키아"/>
+    <Elem NameU="Slovenia" Name="슬로베니아"/>
+    <Elem NameU="Spain" Name="스페인"/>
+    <Elem NameU="Sweden" Name="스웨덴"/>
+    <Elem NameU="Switzerland" Name="스위스"/>
+    <Elem NameU="Ukraine" Name="우크라이나"/>
+    <Elem NameU="United Kingdom" Name="영국"/>
+    <Elem NameU="Yugoslavia" Name="유고 슬라비아"/>
+    <Elem NameU="Europe" Name="유럽"/>
+</Lib>

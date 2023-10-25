@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Tableware">
+    <Elem NameU="Wine Bottle 2" Name="酒瓶 2"/>
+    <Elem NameU="Wine Bottle 3" Name="酒瓶 3"/>
+    <Elem NameU="Wine Bottle 4" Name="酒瓶 4"/>
+    <Elem NameU="Wine Bottle 5" Name="酒瓶 5"/>
+    <Elem NameU="Wine Bottle 6" Name="酒瓶 6"/>
+    <Elem NameU="Wine Bottle 7" Name="酒瓶 7"/>
+    <Elem NameU="Wine Bottle 8" Name="酒瓶 8"/>
+    <Elem NameU="Wine Bottle" Name="酒瓶"/>
+    <Elem NameU="Wine Bottle 9" Name="酒瓶 9"/>
+    <Elem NameU="Wine Glass 1" Name="酒杯1"/>
+    <Elem NameU="Wine Glass 2" Name="酒杯 2"/>
+    <Elem NameU="Wine Glass 3" Name="酒杯 3"/>
+    <Elem NameU="Wine Glass 4" Name="酒杯 4"/>
+    <Elem NameU="Wine Glass 5" Name="酒杯 5"/>
+    <Elem NameU="Wine Glass 6" Name="酒杯 6"/>
+    <Elem NameU="Wine Glass 7" Name="酒杯7"/>
+    <Elem NameU="Wooden spoon" Number="2" Name="木勺"/>
+    <Elem NameU="Large wooden spoon" Name="大木勺"/>
+    <Elem NameU="Long wooden spoon" Name="长木勺"/>
+    <Elem NameU="Spoon" Name="汤勺"/>
+    <Elem NameU="Fork" Name="餐叉"/>
+    <Elem NameU="Circular plate" Name="圆形盘"/>
+    <Elem NameU="Oval plate" Name="椭圆盘"/>
+    <Elem NameU="Bowl" Name="碗"/>
+    <Elem NameU="Fruit Knife" Name="水果刀"/>
+    <Elem NameU="Kitchen Knife" Name="菜刀"/>
+    <Elem NameU="Chopping board" Name="案板"/>
+    <Elem NameU="Teapot" Name="茶壶"/>
+    <Elem NameU="Bread maker" Name="面包机"/>
+    <Elem NameU="Induction cooker" Name="电磁炉"/>
+    <Elem NameU="Microwave oven" Name="微波炉"/>
+    <Elem NameU="Pan" Name="平底锅"/>
+    <Elem NameU="Chef" Name="厨师"/>
+    <Elem NameU="Canteen" Name="食堂"/>
+</Lib>

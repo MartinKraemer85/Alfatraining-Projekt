@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Funnel">
+	<Elem NameU="Vertical Funnel" Name="Imbuto Verticale"/>
+	<Elem NameU="Horizontal Funnel" Name="Imbuto Orizzontale"/>
+	<Elem NameU="Funnel Chart" Name="Grafico a Imbuto"/>
+</Lib>

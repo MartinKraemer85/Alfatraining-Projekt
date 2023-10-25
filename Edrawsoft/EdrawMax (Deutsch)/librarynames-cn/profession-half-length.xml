@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Profession Half-length">
+    <Elem NameU="CEO" Name="总裁"/>
+    <Elem NameU="Customer Service" Name="客服"/>
+    <Elem NameU="Programmer" Name="程序员"/>
+    <Elem NameU="Male  Employee" Name="男职员"/>
+    <Elem NameU="Female  Employee" Name="女职员"/>
+    <Elem NameU="Boy Student" Name="男学生"/>
+    <Elem NameU="Girl Student" Name="女学生"/>
+    <Elem NameU="Male Teacher" Name="男教师"/>
+    <Elem NameU="Female Teacher" Name="女教师"/>
+    <Elem NameU="Policeman" Name="警察"/>
+    <Elem NameU="Policewoman" Name="女警察"/>
+    <Elem NameU="Air Hostess" Name="空姐"/>
+    <Elem NameU="Detective" Name="侦探"/>
+    <Elem NameU="Architect" Name="建筑师"/>
+    <Elem NameU="Chef" Name="厨师"/>
+    <Elem NameU="Salesperson" Name="销售员"/>
+    <Elem NameU="Female Doctor" Name="女医生"/>
+    <Elem NameU="Male Doctor" Name="男医生"/>
+    <Elem NameU="Nurse 1" Name="护士1"/>
+    <Elem NameU="Nurse 2" Name="护士2"/>
+    <Elem NameU="Nurse 3" Name="护士3"/>
+    <Elem NameU="Kindergarten Teacher" Name="幼儿教师"/>
+    <Elem NameU="Hair-style Designer" Name="理发师"/>
+    <Elem NameU="Pilot" Name="飞行员"/>
+    <Elem NameU="Hip Hopper" Name="说唱歌手"/>
+    <Elem NameU="Referee" Name="裁判"/>
+    <Elem NameU="Painter" Name="画家"/>
+    <Elem NameU="Professor" Name="教授"/>
+    <Elem NameU="Santa Claus" Name="圣诞老人"/>
+    <Elem NameU="Mother" Name="母亲"/>
+    <Elem NameU="Blind Person" Name="盲人"/>
+    <Elem NameU="Female Graduate" Name="女毕业生"/>
+    <Elem NameU="Priest" Name="牧师"/>
+    <Elem NameU="Lawyer" Name="律师"/>
+    <Elem NameU="Male Graduate" Name="男毕业生"/>
+    <Elem NameU="Businessman 1" Name="商务人士1"/>
+    <Elem NameU="Businessman 2" Name="商务人士2"/>
+    <Elem NameU="Manager" Name="经理"/>
+    <Elem NameU="Office woman" Name="办公室女职员"/>
+    <Elem NameU="Assistant" Name="助理"/>
+    <Elem NameU="Secretary" Name="秘书"/>
+    <Elem NameU="Salesman" Name="男销售"/>
+    <Elem NameU="Support" Name="客服帮助"/>
+    <Elem NameU="Pupil 1" Name="学生1"/>
+    <Elem NameU="Pupil 2" Name="学生2"/>
+    <Elem NameU="Teacher" Name="老师"/>
+    <Elem NameU="Dentist" Name="牙医"/>
+    <Elem NameU="Hairstylist" Name="发型师"/>
+    <Elem NameU="Engineer" Name="工程师"/>
+    <Elem NameU="Worker" Name="工人"/>
+    <Elem NameU="Builder" Name="建筑工人"/>
+    <Elem NameU="Fireman" Name="消防员"/>
+    <Elem NameU="Electric welding" Name="电工"/>
+    <Elem NameU="Express" Name="快递员"/>
+    <Elem NameU="Postman" Name="邮递员"/>
+    <Elem NameU="Typist" Name="打字员"/>
+    <Elem NameU="Cashier" Name="出纳"/>
+    <Elem NameU="Policewoman 2" Name="女警2"/>
+    <Elem NameU="Air Hostess 2" Name="空姐2"/>
+    <Elem NameU="Air Hostess 3" Name="空姐3"/>
+    <Elem NameU="Sommelier" Name="斟酒服务员"/>
+    <Elem NameU="Female Staff/User" Name="女员工"/>
+    <Elem NameU="Security personnel" Name="保安"/>
+    <Elem NameU="Travelers" Name="旅客"/>
+    <Elem NameU="Terrorist" Name="恐怖分子"/>
+    <Elem NameU="Coach" Name="教练"/>
+    <Elem NameU="Basketball player" Name="篮球运动员"/>
+    <Elem NameU="Footballer" Name="足球运动员"/>
+    <Elem NameU="Booter" Name="橄榄球运动员"/>
+    <Elem NameU="Girl 1" Name="女孩1"/>
+    <Elem NameU="Boy 1" Name="男孩1"/>
+    <Elem NameU="Girl 2" Name="女孩2"/>
+    <Elem NameU="Boy 2" Name="男孩2"/>
+</Lib>

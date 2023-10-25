@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="3D Block Diagram">
+    <Elem NameU="Cylinder 1" Name="실린더 1"/>
+    <Elem NameU="Cylinder 2" Name="실린더 2"/>
+    <Elem NameU="Cylinder 3" Name="실린더 3"/>
+    <Elem NameU="Cylinder 4" Name="실린더 4"/>
+    <Elem NameU="Cylinder 5" Name="실린더 5"/>
+    <Elem NameU="Horizontal Cylinder" Name="가로 실린더"/>
+    <Elem NameU="Sphere" Name="구형"/>
+    <Elem NameU="Cone 3" Name="원뿔 "/>
+    <Elem NameU="Rectangular box" Name="사각형 박스"/>
+    <Elem NameU="Cube" Name="큐브"/>
+    <Elem NameU="3D Rectangle" Name="3D사각형"/>
+    <Elem NameU="Cuboid" Name="직육면체"/>
+    <Elem NameU="4-side pyramid" Name="4면 피라미드"/>
+    <Elem NameU="Tetrahedron" Name="사면체"/>
+    <Elem NameU="Pentagonal cone" Name="오각형 원뿔"/>
+    <Elem NameU="Pyramid with flat top" Name="피라미드"/>
+    <Elem NameU="Pentagonal pyramid with flat top" Name="윗면이 평평한 피라미드"/>
+    <Elem NameU="Polyhedral cone" Name="다면체 원뿔"/>
+    <Elem NameU="Pyramid with rectangular box" Name="직육면체위의 피라미트"/>
+    <Elem NameU="Dodecahedron" Name="십이면체"/>
+    <Elem NameU="Octahedron" Name="팔면체"/>
+    <Elem NameU="Icosahedron" Name="이십면체"/>
+    <Elem NameU="Polyhedron" Name="다면체"/>
+    <Elem NameU="Polyhedron 2" Name="다면체 2"/>
+    <Elem NameU="Polyhedron" Number="5" Name="다면체"/>
+    <Elem NameU="Irregular polyhedron" Name="불규칙 다면체"/>
+    <Elem NameU="Polyhedron" Number="5" Name="다면체"/>
+    <Elem NameU="Cone" Name="원뿔"/>
+    <Elem NameU="Top Shaped 2" Name="상단모양 2"/>
+    <Elem NameU="Half Sphere" Name="반구"/>
+    <Elem NameU="Irregular Cylinder" Name="불규칙 실린더"/>
+</Lib>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Birthday">
+	<Elem NameU="Cake" Name="Bolo"/>
+	<Elem NameU="Rabbit" Name="Coelho"/>
+	<Elem NameU="Cupcake" Name="Bolinho"/>
+	<Elem NameU="Bear" Name="Urso"/>
+	<Elem NameU="Birthday Greeting" Name="Saudação de Aniversário"/>
+	<Elem NameU="Heart" Name="Coração"/>
+	<Elem NameU="Flower" Name="Flor"/>
+	<Elem NameU="Diamond" Name="Diamante"/>
+	<Elem NameU="Heart Shaped Box" Name="Caixa em Forma de Coração"/>
+	<Elem NameU="Camera" Name="Câmera"/>
+	<Elem NameU="Cheers" Name="Felicidades"/>
+	<Elem NameU="Gift" Name="Prenda"/>
+	<Elem NameU="Candle" Name="Vela"/>
+	<Elem NameU="Balloon" Name="Balão"/>
+	<Elem NameU="Bunting" Name="Bandeira"/>
+	<Elem NameU="Wine Bottle" Name="Garrafa de Vinho"/>
+	<Elem NameU="Letter" Name="Carta"/>
+	<Elem NameU="Guitar" Name="Guitarra"/>
+	<Elem NameU="Fruit Juice" Name="Sumo de Fruta"/>
+	<Elem NameU="Medal" Name="Medalha"/>
+	<Elem NameU="Ice Cream" Name="Gelado"/>
+	<Elem NameU="Mask" Name="Máscara"/>
+	<Elem NameU="Donut" Name="Rosquinha"/>
+	<Elem NameU="Birthday Hat" Name="Chapéu de Aniversário"/>
+	<Elem NameU="Candy" Name="Doce"/>
+	<Elem NameU="Firecracker" Name="Fogo de artifício"/>
+	<Elem NameU="Surprise" Name="Surpresa"/>
+	<Elem NameU="Magic Wand" Name="Varinha Mágica"/>
+	<Elem NameU="Star" Name="Estrela"/>
+	<Elem NameU="Birthday Crown" Name="Coroa de Aniversário"/>
+	<Elem NameU="Moustache" Name="Bigode"/>
+	<Elem NameU="Candle Glasses" Name="Copos de Vela"/>
+	<Elem NameU="Chocolate Cake" Name="Bolo de Chocolate"/>
+	<Elem NameU="Birthday Cake" Name="Bolo de Aniversário"/>
+	<Elem NameU="Peach" Name="Pêssego"/>
+	<Elem NameU="Wine Glass" Name="Copo de Vinho"/>
+	<Elem NameU="Wine" Name="Vinho"/>
+	<Elem NameU="Lollipop" Name="Chupa-chupa"/>
+	<Elem NameU="Birthday Surprise" Name="Surpresa de Aniversário"/>
+	<Elem NameU="Ribbon" Name="Fita"/>
+	<Elem NameU="Fireworks" Name="Fogo de artifício"/>
+	<Elem NameU="Happy Birthday" Name="Feliz Aniversário"/>
+	<Elem NameU="Biscuits" Name="Bisoitos"/>
+	<Elem NameU="Digital Candle" Name="Vela Digital"/>
+</Lib>

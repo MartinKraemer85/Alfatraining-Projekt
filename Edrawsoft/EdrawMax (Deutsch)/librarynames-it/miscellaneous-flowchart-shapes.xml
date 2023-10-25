@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Miscellaneous Flowchart Shapes">
+	<Elem NameU="Start/Node" Name="Avvia/Nodo"/>
+	<Elem NameU="End/Node" Name="Fine/Nodo"/>
+	<Elem NameU="Process(circle)" Name="Processo (Cerchio)"/>
+	<Elem NameU="Data store" Name="Archivio Dati"/>
+	<Elem NameU="External entity" Name="Entità esterna"/>
+	<Elem NameU="Transmittal tape" Name="Nastro trasmittente"/>
+	<Elem NameU="Divided process" Name="Processo diviso"/>
+	<Elem NameU="Rounded process" Name="Processo completo"/>
+	<Elem NameU="Create request" Name="Crea richiesta"/>
+	<Elem NameU="Framed rectangle" Name="Rettangolo chiuso"/>
+	<Elem NameU="Opened rectangle" Name="Rettangolo aperto"/>
+	<Elem NameU="Delay" Name="Ritardo"/>
+	<Elem NameU="Summing junction" Name="Collegamento di riepilogo"/>
+	<Elem NameU="Drum storage" Name="Archivio drum"/>
+	<Elem NameU="OR" Name="OR"/>
+	<Elem NameU="Collate" Name="Confronto"/>
+	<Elem NameU="Extract" Name="Estrai"/>
+	<Elem NameU="Off-line storage" Name="Archivio off-line"/>
+	<Elem NameU="Merge" Name="Mischiare"/>
+	<Elem NameU="Sort" Name="Smistare"/>
+	<Elem NameU="Deck of cards" Name="Mazzo di carte"/>
+	<Elem NameU="File of cards" Name="Fila di carte"/>
+	<Elem NameU="Microform" Name="Microfilm"/>
+	<Elem NameU="Microform recording" Name="Registrazione microfilm"/>
+	<Elem NameU="Microform processing" Name="Elaborazione microfilm"/>
+	<Elem NameU="Duplicating" Name="Duplicazione"/>
+	<Elem NameU="Tagged process" Name="Processo etichettato"/>
+	<Elem NameU="Lined Shaded process" Name="Processo Rigato-sfumato"/>
+	<Elem NameU="Tagged document" Name="Documento Etichettato"/>
+	<Elem NameU="Lined Document" Name="Documento Rigato"/>
+	<Elem NameU="Variable start" Name="Avvio variabile"/>
+	<Elem NameU="Variable procedure" Name="Procedura variabile"/>
+	<Elem NameU="Database" Name="Database"/>
+	<Elem NameU="Primitive from call control" Name="Controllo primitive da chiamata"/>
+	<Elem NameU="Primitive to call control" Name="Controllo primitive a chiamata"/>
+	<Elem NameU="Message from user" Name="Messaggio da utente"/>
+	<Elem NameU="Message to user" Name="Messaggio a utente"/>
+	<Elem NameU="Output" Name="Output"/>
+	<Elem NameU="Feedback" Name="Feedback"/>
+	<Elem NameU="Check" Name="Verifica"/>
+	<Elem NameU="And gate" Name="Porta AND"/>
+	<Elem NameU="Or gate" Name="Porta OR"/>
+	<Elem NameU="XOR" Name="XOR"/>
+	<Elem NameU="Vertical XOR" Name="XOR Verticale"/>
+	<Elem NameU="Vertical P And" Name="P AND Verticale"/>
+	<Elem NameU="Refinement" Name="Finitura"/>
+	<Elem NameU="Interrupt" Name="Interruzione"/>
+	<Elem NameU="External control" Name="Controllo Esterno"/>
+	<Elem NameU="Divided event" Name="Evento diviso"/>
+	<Elem NameU="Branch-return" Name="Ramo con ritorno"/>
+	<Elem NameU="Branch-no return" Name="Ramo senza ritorno"/>
+	<Elem NameU="Curve Connector" Name="Connettore curvo"/>
+</Lib>

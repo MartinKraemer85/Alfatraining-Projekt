@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Forms">
+
+<Elem Name="H1 見出し" NameU="H1 Header"/>
+
+<Elem Name="H2 見出し" NameU="H2 Header"/>
+
+<Elem Name="H3 見出し" NameU="H3 Header"/>
+
+<Elem Name="12pt ラベル" NameU="12pt Label"/>
+
+<Elem Name="10pt ラベル" NameU="10pt Label"/>
+
+<Elem Name="9pt ラベル" NameU="9pt Label"/>
+
+<Elem Name="一般的な表" NameU="Basic Table"/>
+
+<Elem Name="会社アドレス" NameU="Company Address"/>
+
+<Elem Name="主な事業所" NameU="Primary Business Address"/>
+
+<Elem Name="連絡先" NameU="Contact Information"/>
+
+<Elem Name="ロゴ" NameU="Logo Placeholder"/>
+
+<Elem Name="請求先" NameU="Billing Address"/>
+
+<Elem Name="見積書" NameU="Quotation"/>
+
+<Elem Name="製品、価格、概要" NameU="Product, Price, Description"/>
+
+<Elem Name="統計" NameU="Statistics"/>
+
+<Elem Name="情報ボックス" NameU="Information Box"/>
+
+<Elem Name="情報ライン1" NameU="Information Line"/>
+
+<Elem Name="日付と署名欄" NameU="Signature Line with Date"/>
+
+<Elem Name="署名欄1" NameU="Signature Line"/>
+
+<Elem Name="署名欄2" NameU="Simple Signature Block"/>
+
+<Elem Name="コメント1" NameU="Comments"/>
+
+<Elem Name="詳細署名欄1" NameU="Detail Signature Block"/>
+
+<Elem Name="チェックボックス" NameU="Check Box"/>
+
+<Elem Name="ラジオボタン" NameU="Radio Button"/>
+
+<Elem Name="テキストブロック" NameU="Text Block"/>
+
+<Elem Name="リンクテキスト" NameU="Link Text"/>
+
+</Lib>

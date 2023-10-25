@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Network and Peripherals">
+	<Elem NameU="Ethernet" Name="Ethernet"/>
+	<Elem NameU="Ring network" Name="Rete ad anello"/>
+	<Elem NameU="Straight bus" Name="Connettore dritto"/>
+	<Elem NameU="FDDI ring" Name="Anello FDDI"/>
+	<Elem NameU="Token ring" Name="Anello Token"/>
+	<Elem NameU="Star network" Name="Rete a stella"/>
+	<Elem NameU="Communication link" Name="Collegamento di connessione"/>
+	<Elem NameU="Flash link" Name="Collegamento a flash"/>
+	<Elem NameU="Flexi Node Link" Name="Collegamento a nodo flessibile"/>
+	<Elem NameU="Internet Cloud" Name="Cloud di Internet"/>
+	<Elem NameU="Internet Cloud 2" Name="Cloud di Internet 2"/>
+	<Elem NameU="Internet Cloud 3" Name="Cloud di Internet 3"/>
+	<Elem NameU="Earth" Name="Terra"/>
+	<Elem NameU="Cable" Name="Cavo"/>
+	<Elem NameU="Cable 2" Name="Cavo 2"/>
+	<Elem NameU="Arrow 1" Name="Freccia 1"/>
+	<Elem NameU="Arrow symbol 2" Name="Freccia 2"/>
+	<Elem NameU="Arrow symbol 3" Name="Freccia 3"/>
+	<Elem NameU="Arrow symbol 4" Name="Freccia 4"/>
+	<Elem NameU="Arrow symbol 5" Name="Freccia 5"/>
+	<Elem NameU="Optical fiber" Name="Fibra ottica"/>
+	<Elem NameU="Cloud symbol 1" Name="Cloud 1"/>
+	<Elem NameU="Cloud symbol 2" Name="Cloud 2"/>
+	<Elem NameU="Wifi Symbol" Name="Simbolo WiFi"/>
+	<Elem NameU="Lights" Name="Luci"/>
+	<Elem NameU="Bridge" Name="Ponte"/>
+	<Elem NameU="Server" Name="Server"/>
+	<Elem NameU="Router" Name="Router"/>
+	<Elem NameU="Wireless Router" Name="Router WiFi"/>
+	<Elem NameU="Hub" Name="Hub"/>
+	<Elem NameU="Switch" Name="Interruttore"/>
+	<Elem NameU="DVS 1" Name="DVS 1"/>
+	<Elem NameU="DVS 2" Name="DVS 2"/>
+	<Elem NameU="DVS 3" Name="DVS 3"/>
+	<Elem NameU="Video Splitter" Name="Splitter Video"/>
+	<Elem NameU="Disk Arrays" Name="Pila di Dischi"/>
+	<Elem NameU="Wifi Device" Name="Dispositivo WiFi"/>
+	<Elem NameU="Firewall 1" Name="Firewall 1"/>
+	<Elem NameU="Firewall 2" Name="Firewall 2"/>
+	<Elem NameU="Modem" Name="Modem"/>
+	<Elem NameU="ADSL Modem" Name="Modem ADSL"/>
+	<Elem NameU="TP Link" Name="TP Link"/>
+	<Elem NameU="AP" Name="AP"/>
+	<Elem NameU="AP 2" Name="AP 2"/>
+	<Elem NameU="User" Name="Utente"/>
+</Lib>

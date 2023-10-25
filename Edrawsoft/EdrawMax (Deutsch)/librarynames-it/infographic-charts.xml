@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Infographic Charts">
+	<Elem NameU="Bar Chart" Name="Grafico a Barre"/>
+	<Elem NameU="Column Chart" Name="Grafico a Colonna"/>
+	<Elem NameU="Pie" Name="Torta"/>
+	<Elem NameU="Doughnut" Name="Ciambella"/>
+	<Elem NameU="Circle Indicator" Name="Indicatore Circolare"/>
+	<Elem NameU="Semicircular Indicator" Name="Indicatore Semicircolare"/>
+	<Elem NameU="Bar Indicator" Name="Indicatore a Barra"/>
+	<Elem NameU="Column Indicator" Name="Indicatore a Colonna"/>
+	<Elem NameU="Battery Indicator" Name="Indicatore di Batteria"/>
+	<Elem NameU="Percentage Indicator" Name="Indicatore di Percentuale"/>
+	<Elem NameU="Clock Chart" Name="Grafico a Orologio"/>
+	<Elem NameU="Woman" Name="Donna"/>
+	<Elem NameU="Man" Name="Uomo"/>
+	<Elem NameU="Men" Name="Uomini"/>
+	<Elem NameU="Women" Name="Donne"/>
+	<Elem NameU="People" Name="Persone"/>
+	<Elem NameU="Test Tube Chart" Name="Grafico a Provette"/>
+	<Elem NameU="Water Drop Chart" Name="Grafico a Gocce"/>
+	<Elem NameU="Up Arrow" Name="Freccia in Su"/>
+	<Elem NameU="Like Thumb" Name="Pollice in Su"/>
+	<Elem NameU="Data Analysis Table" Name="Tabella Analisi Dati"/>
+	<Elem NameU="Scale Map" Name="Mappa in Scala"/>
+	<Elem NameU="Stacked Circle Chart" Name="Grafico con Cerchi Accatastati"/>
+	<Elem NameU="Rose Pie" Name="Grafico a Rosa"/>
+</Lib>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Backgrounds">
+	<Elem NameU="Empty Background" Name="Fundo Vazio"/>
+	<Elem NameU="White Background" Name="Fundo Branco"/>
+	<Elem NameU="Background" Name="Fundo"/>
+	<Elem NameU="Gray Gradient" Name="Gradiente Cizento"/>
+</Lib>

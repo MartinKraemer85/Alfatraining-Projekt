@@ -1,0 +1,33 @@
+<Lib NameU="라이팅 and 핸드백 (Elevation)">
+  <Elem Name="灯 1" NameU="라이팅 1"/>
+  <Elem Name="灯 2" NameU="라이팅 2"/>
+  <Elem Name="灯 3" NameU="라이팅 3"/>
+  <Elem Name="灯 4" NameU="라이팅 4"/>
+  <Elem Name="灯 5" NameU="라이팅 5"/>
+  <Elem Name="灯 6" NameU="라이팅 6"/>
+  <Elem Name="灯 7" NameU="라이팅 7"/>
+  <Elem Name="灯 8" NameU="라이팅 8"/>
+  <Elem Name="灯 9" NameU="라이팅 9"/>
+  <Elem Name="灯 10" NameU="라이팅 10"/>
+  <Elem Name="灯 11" NameU="라이팅 11"/>
+  <Elem Name="灯 12" NameU="라이팅 12"/>
+  <Elem Name="手袋 1" NameU="핸드백 1"/>
+  <Elem Name="手袋 2" NameU="핸드백 2"/>
+  <Elem Name="手袋 3" NameU="핸드백 3"/>
+  <Elem Name="手袋 4" NameU="핸드백 4"/>
+  <Elem Name="手袋 5" NameU="핸드백 5"/>
+  <Elem Name="衣服" NameU="옷"/>
+  <Elem Name="鞋子 1" NameU="신발 1"/>
+  <Elem Name="鞋子 2" NameU="신발 2"/>
+  <Elem Name="鞋子 3" NameU="신발 3"/>
+  <Elem Name="鞋子 4" NameU="신발 4"/>
+  <Elem Name="鞋子 5" NameU="신발 5"/>
+  <Elem Name="模特 1" NameU="모델 1"/>
+  <Elem Name="模特 2" NameU="모델 2"/>
+  <Elem Name="模特 3" NameU="모델 3"/>
+  <Elem Name="模特 4" NameU="모델 4"/>
+  <Elem Name="模特 5" NameU="모델 5"/>
+  <Elem Name="模特 6" NameU="모델 6"/>
+  <Elem Name="展示架" NameU="전시대"/>
+  <Elem Name="钻石" NameU="다이아몬드"/>
+</Lib>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Cause and Effect Diagram">
+	<Elem NameU="Fish frame" Name="Moldura de Peixe"/>
+	<Elem NameU="Fishbone" Name="Espinha de peixe"/>
+	<Elem NameU="Thick Mainframe" Name="Mainframe Espessa"/>
+	<Elem NameU="Effect" Name="Efeito"/>
+	<Elem NameU="Category" Name="Categoria"/>
+	<Elem NameU="Rectangle Category" Name="Categoria Retangular"/>
+	<Elem NameU="Primary Cause" Name="Causa Primária"/>
+	<Elem NameU="Secondary Cause" Name="Causa Secundária"/>
+	<Elem NameU="Ellipse" Name="Elipse"/>
+	<Elem NameU="Rectangle" Name="Retângulos"/>
+	<Elem NameU="Fishbone Node" Name="Nó de Espinha de Peixe"/>
+</Lib>

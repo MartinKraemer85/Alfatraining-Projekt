@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Azure Enterprise">
+    <Elem NameU="Active Directory Federation Services Proxy" Name="活動目錄聯合代理服務器"/>
+    <Elem NameU="AD FS" Name="AD FS"/>
+    <Elem NameU="Android Phone" Name="安卓手機"/>
+    <Elem NameU="Application (blank for text)" Name="應用程式（空白文本）"/>
+    <Elem NameU="App Generic" Name="通用應用程式"/>
+    <Elem NameU="Application Server" Name="應用程式伺服器"/>
+    <Elem NameU="Azure Pack" Name="Azure安裝包"/>
+    <Elem NameU="Backup local" Name="本地備份"/>
+    <Elem NameU="Backup Online" Name="在線備份"/>
+    <Elem NameU="Calendar" Name="日曆"/>
+    <Elem NameU="Certificate" Name="證書"/>
+    <Elem NameU="Client Application" Name="客戶端應用程式"/>
+    <Elem NameU="Cloud" Name="雲"/>
+    <Elem NameU="Cluster Server" Name="集群伺服器"/>
+    <Elem NameU="Code File" Name="代碼檔案"/>
+    <Elem NameU="Connectors" Name="連接器"/>
+    <Elem NameU="Database Generic" Name="通用資料庫"/>
+    <Elem NameU="Database Server" Name="資料庫服務器"/>
+    <Elem NameU="Database Synchronization" Name="資料庫同步"/>
+    <Elem NameU="Direct Access (feature)" Name="直接訪問（特點）"/>
+    <Elem NameU="Device" Name="設備"/>
+    <Elem NameU="Document DB File" Name="文檔資料庫檔案"/>
+    <Elem NameU="Document" Name="文檔"/>
+    <Elem NameU="Domain Controller" Name="域控制器"/>
+    <Elem NameU="Enterprise Building" Name="企業建築"/>
+    <Elem NameU="File General" Name="通用文件"/>
+    <Elem NameU="Filter" Name="過濾器"/>
+    <Elem NameU="Firewall" Name="防火墻"/>
+    <Elem NameU="Folder" Name="文件夾"/>
+    <Elem NameU="Gateway" Name="網關"/>
+    <Elem NameU="Generic App Named Text" Name="應用程式"/>
+    <Elem NameU="Generic Code" Name="通用代碼"/>
+    <Elem NameU="Graph" Name="圖形"/>
+    <Elem NameU="Health Monitoring" Name="健康監控"/>
+    <Elem NameU="Healthy" Name="健康"/>
+    <Elem NameU="Import Generic" Name="通用輸入"/>
+    <Elem NameU="Internet (hollow)" Name="網絡（空心）"/>
+    <Elem NameU="Internet" Name="網絡"/>
+    <Elem NameU="iPhone" Name="苹果手機"/>
+    <Elem NameU="Key Permissions" Name="秘鑰許可"/>
+    <Elem NameU="Keyboard" Name="鍵盤"/>
+    <Elem NameU="Laptop Computer" Name="筆記本電腦"/>
+    <Elem NameU="Load Balancer (Generic)" Name="負載平衡器（通用）"/>
+    <Elem NameU="Load Testing" Name="負載測試"/>
+    <Elem NameU="lock Unlocked Accessible" Name="解鎖"/>
+    <Elem NameU="Lock Protected" Name="鎖保護"/>
+    <Elem NameU="Maintenance" Name="維護"/>
+    <Elem NameU="Management Console" Name="管理控制台"/>
+    <Elem NameU="Message" Name="信息"/>
+    <Elem NameU="Monitor Running Rpps" Name="運行監控"/>
+    <Elem NameU="Monitor" Name="監視器"/>
+    <Elem NameU="Mouse" Name="鼠標"/>
+    <Elem NameU="Network Card" Name="網卡"/>
+    <Elem NameU="Not Allowed" Name="禁止"/>
+    <Elem NameU="Performance Monitor" Name="性能監控"/>
+    <Elem NameU="Performance" Name="性能"/>
+    <Elem NameU="Phone" Name="手機"/>
+    <Elem NameU="Plug And Play" Name="即插即用系統"/>
+    <Elem NameU="PowerPoint" Name="PPT"/>
+    <Elem NameU="Powershell Script File" Name="Powershell 腳本文件"/>
+    <Elem NameU="Protocol Stack" Name="協議棧"/>
+    <Elem NameU="Queue General" Name="通用隊列"/>
+    <Elem NameU="RMS Connector" Name="RMS連接器"/>
+    <Elem NameU="Router" Name="路由器"/>
+    <Elem NameU="Rpd Remoting File" Name="Rpd遠程文件"/>
+    <Elem NameU="Script File" Name="腳本文件"/>
+    <Elem NameU="Secure Virtual Machine" Name="安全虛擬機"/>
+    <Elem NameU="Server (blade)" Name="刀片伺服器"/>
+    <Elem NameU="Server (generic)" Name="通用伺服器"/>
+    <Elem NameU="Server Directory" Name="服務器目錄"/>
+    <Elem NameU="Server Farm" Name="服務器群"/>
+    <Elem NameU="Server Rack" Name="機架式伺服器"/>
+    <Elem NameU="Settings" Name="設置"/>
+    <Elem NameU="Shared Folder" Name="共享文件夾"/>
+    <Elem NameU="Smartcard" Name="智能卡"/>
+    <Elem NameU="Startup Task" Name="啟動任務"/>
+    <Elem NameU="Storage" Name="存儲"/>
+    <Elem NameU="Stored Procedures" Name="存儲過程"/>
+    <Elem NameU="Table" Name="表格"/>
+    <Elem NameU="Tablet" Name="平板電腦"/>
+    <Elem NameU="Tool" Name="工具"/>
+    <Elem NameU="Triggers" Name="觸發器"/>
+    <Elem NameU="Tunnel" Name="隧道"/>
+    <Elem NameU="UDF Function" Name="自定義函數"/>
+    <Elem NameU="Unhealthy" Name="不健康"/>
+    <Elem NameU="USB" Name="USB"/>
+    <Elem NameU="User -Enterprise" Name="企業用戶"/>
+    <Elem NameU="User Permissions" Name="用戶權限"/>
+    <Elem NameU="Video" Name="視頻"/>
+    <Elem NameU="Virtual Machine" Name="虛擬機"/>
+    <Elem NameU="Web Server" Name="網絡伺服器"/>
+    <Elem NameU="Web" Name="萬維網"/>
+    <Elem NameU="WebSite (generic)" Name="通用網站"/>
+    <Elem NameU="Windows Server" Name="Windows伺服器"/>
+    <Elem NameU="Wireless Connection" Name="無線連接"/>
+    <Elem NameU="Workstation Client" Name="工作站客戶端"/>
+    <Elem NameU="XML Web Service" Name="XML網絡服務"/>
+</Lib>

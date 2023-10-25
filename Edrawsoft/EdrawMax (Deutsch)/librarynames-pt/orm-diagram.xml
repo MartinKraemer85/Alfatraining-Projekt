@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="ORM Diagram">
+	<Elem NameU="Entity" Name="Entidade"/>
+	<Elem NameU="Value" Name="Valor"/>
+	<Elem NameU="Unary" Name="Unário"/>
+	<Elem NameU="Binary" Name="Binário"/>
+	<Elem NameU="Vertical binary" Name="Binário vertical"/>
+	<Elem NameU="Ternay" Name="Ternário"/>
+	<Elem NameU="Quaternary" Name="Quaternário"/>
+	<Elem NameU="Exclusion constraint" Name="Restrição de exclusão"/>
+	<Elem NameU="Ext.Freq.constraint" Name="Restrição de Freq. Ext."/>
+	<Elem NameU="Frequency constraint" Name="Restrição de frequência"/>
+	<Elem NameU="Index annotation" Name="Anotação de Índice"/>
+	<Elem NameU="Ext.P constraint" Name="Restrição P. Ext."/>
+	<Elem NameU="Mandatory constraint" Name="Restrição mandatória"/>
+	<Elem NameU="Ext.Mand constraint" Name="Restrição Mand. Ext."/>
+	<Elem NameU="Ext.Uniq constraint" Name="Restrição Unic. Ext"/>
+	<Elem NameU="constraint connector" Name="Conector de restrições"/>
+	<Elem NameU="Equality constraint" Name="Restrição de equalidade"/>
+	<Elem NameU="P constraint" Name="Restrição P"/>
+	<Elem NameU="Ring constraint" Name="Restrição de anel"/>
+	<Elem NameU="Subset constraint" Name="Restrição de subconjunto"/>
+	<Elem NameU="Mand.Role connector" Name="Conector de Papel Mand."/>
+	<Elem NameU="Role connector" Name="Conector de papel"/>
+	<Elem NameU="Subtype connector" Name="Conector de subtipo"/>
+	<Elem NameU="Left uniqueness constranit" Name="Restrição de unicidade esquerda"/>
+	<Elem NameU="Uniqueness constraint" Name="Restrição de unicidade"/>
+	<Elem NameU="Middle uniqueness constraint" Name="Restrição de unicidade meio"/>
+	<Elem NameU="Right uniqueness constraint" Name="Restrição de unicidade direita"/>
+</Lib>

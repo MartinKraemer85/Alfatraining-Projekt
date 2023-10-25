@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib nameU="AWS Storage Content and Delivery">
+	<Elem NameU="Download Distribution" Name="Heruntergeladene Distribution"/>
+	<Elem NameU="Edge Location" Name="Kantenort"/>
+	<Elem NameU="Streaming Distribution" Name="Streaming-Verteilung"/>
+	<Elem NameU="CloudFront" Name="CloudFront"/>
+	<Elem NameU="EBS Snapshot" Name="EBS Momentaufnahme"/>
+	<Elem NameU="EBS Volume" Name="EBS Volumen"/>
+	<Elem NameU="Glacier Archive" Name="Gletscher Archive"/>
+	<Elem NameU="Glacier Vault" Name="Gletscher Gewölbe"/>
+	<Elem NameU="Glacier" Name="Gletscher"/>
+	<Elem NameU="S3 Bucket with Objects" Name="S3 Schaufel mit Objekte"/>
+	<Elem NameU="S3 Bucket" Name="S3 Schaufel"/>
+	<Elem NameU="S3 Objects" Name="S3 Objekte"/>
+	<Elem NameU="S3" Name="S3"/>
+	<Elem NameU="AWS Import Export" Name="AWS Import Export"/>
+	<Elem NameU="AWS Storage Gateway" Name="AWS Speicher-Gateway"/>
+	<Elem NameU="Cached Volumn" Name="Cache-Kapazität"/>
+	<Elem NameU="Non-Cached Volumn" Name="Nie-Cache-Kapazität"/>
+	<Elem NameU="Virtual Tape Library" Name="Virtual-Tape-Bibliothek"/>
+</Lib>

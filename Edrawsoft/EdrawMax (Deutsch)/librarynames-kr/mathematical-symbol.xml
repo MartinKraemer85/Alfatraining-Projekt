@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Mathematical Symbol">
+	<Elem NameU="Fraction" Name="분수"/>
+	<Elem NameU="Derivative" Name="유도체"/>
+	<Elem NameU="Plus" Name="플러스"/>
+	<Elem NameU="Minus" Name="마이너스"/>
+	<Elem NameU="Plus or Minus" Name="플러스 또는 마이너스"/>
+	<Elem NameU="Is Multiplied By" Name="곱하기"/>
+	<Elem NameU="Is Divided By " Name="나누기"/>
+	<Elem NameU="Is Equal To " Name="같음"/>
+	<Elem NameU="Is Not Equal To" Name="같지 않음"/>
+	<Elem NameU="Is Equal To Or Approximately Equal To " Name="같음 또는 대략 같음"/>
+	<Elem NameU="Is Equivalent To" Name="같음"/>
+	<Elem NameU="Is Approximately Equal To" Name="약"/>
+	<Elem NameU="Is Less Than" Name="작다"/>
+	<Elem NameU="Is More Than" Name="크다"/>
+	<Elem NameU="Is Less Than Or Equal To" Name="작거나 또는 같음"/>
+	<Elem NameU="Is More Than Or Equal To" Name="크거나 또는 같음"/>
+	<Elem NameU="Percent" Name="백분의"/>
+	<Elem NameU="Per Mill" Name="천분의"/>
+	<Elem NameU="Infinity" Name="무한대"/>
+	<Elem NameU="Varies As" Name="정비례"/>
+	<Elem NameU="Since; Because" Name="때문에"/>
+	<Elem NameU="Hence" Name="그래서"/>
+	<Elem NameU="proportion" Name="비율"/>
+	<Elem NameU="Angle" Name="앵글"/>
+	<Elem NameU="Semicircle" Name="반원"/>
+	<Elem NameU="Circle" Name="원"/>
+	<Elem NameU="Circumference" Name="둘레"/>
+	<Elem NameU="Pi" Name="Pi"/>
+	<Elem NameU="Triangle" Name="삼각형"/>
+	<Elem NameU="Perpendicular To" Name="수직"/>
+	<Elem NameU="Union Of" Name="교차"/>
+	<Elem NameU="Intersection Of" Name="교차"/>
+	<Elem NameU="The Integral Of" Name="적분"/>
+	<Elem NameU="Summation Of" Name="합계"/>
+	<Elem NameU="Degree" Name="도"/>
+	<Elem NameU="Minute" Name="분"/>
+	<Elem NameU="Second" Name="초"/>
+	<Elem NameU="Celsius System" Name="섭씨 온도"/>
+	<Elem NameU="Ampersand, And, Reference" Name="와(과)"/>
+	<Elem NameU="Slash, Divide, Oblique" Name="슬래시"/>
+	<Elem NameU="Pound" Name="#"/>
+	<Elem NameU="Tilde" Name="대시"/>
+	<Elem NameU="Full Stop" Name="마침표"/>
+	<Elem NameU="Omma" Name="Omma"/>
+	<Elem NameU="Colon" Name="콜론"/>
+	<Elem NameU="Semicolon" Name="세미콜론"/>
+	<Elem NameU="Question Mark" Name="물음표"/>
+	<Elem NameU="Exclamation Mark" Name="감탄표"/>
+	<Elem NameU="Dots/ Ellipsis" Name="점/생략부호"/>
+	<Elem NameU="Section; Division" Name="부분; 나누기"/>
+	<Elem NameU="Arrow" Name="화살표"/>
+	<Elem NameU="Vertical Bar, Vertical Virgule " Name="선（직선，사선）"/>
+	<Elem NameU="Parallel" Name="평행선"/>
+	<Elem NameU="Contain" Name="포함"/>
+	<Elem NameU="Contain Or Is Equal To" Name="포함 또는 동일"/>
+	<Elem NameU="Not Contain" Name="포함되지 않음"/>
+	<Elem NameU="Belong To" Name="속함"/>
+	<Elem NameU="Not Belong To" Name="속하지 않음"/>
+	<Elem NameU="Open Brace, Open Curly" Name="왼쪽 대괄호"/>
+	<Elem NameU="Close Brace, Close Curly" Name="오른쪽 대괄호"/>
+	<Elem NameU="Open Bracket" Name="왼쪽 중괄호"/>
+	<Elem NameU="Close Bracket" Name="오른쪽 중괄호"/>
+	<Elem NameU="Open Parenthesis, Open Paren" Name="왼쪽 소괄호"/>
+	<Elem NameU="Close Parenthesis, Close Paren" Name="오른쪽 소괄호"/>
+	<Elem NameU="Logarithmic function" Name="대수 함수"/>
+	<Elem NameU="Coordinate system" Name="좌표계"/>
+	<Elem NameU="Parabola" Name="포물선"/>
+	<Elem NameU="Function image" Name="함수 이미지"/>
+	<Elem NameU="hyperbola" Name="쌍곡선"/>
+	<Elem NameU="Ellipse" Name="타원"/>
+	<Elem NameU="Sine function" Name="사인 함수"/>
+	<Elem NameU="Cosine function" Name="코사인 함수"/>
+	<Elem NameU="Set" Name="집합"/>
+	<Elem NameU="Function Image" Name="함수 이미지"/>
+	<Elem NameU="Tangent Function" Name="탄젠트 함수"/>
+	<Elem NameU="Cotangent Function" Name="코탄젠트 함수"/>
+</Lib>

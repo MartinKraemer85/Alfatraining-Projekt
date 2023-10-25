@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Application Layer">
+	<Elem NameU="Application Collaboration" Name="应用协作"/>
+	<Elem NameU="Application Component" Name="应用组件"/>
+	<Elem NameU="Application Service" Name="应用服务"/>
+	<Elem NameU="Application Function" Name="应用功能"/>
+	<Elem NameU="Application Interaction" Name="应用交互"/>
+	<Elem NameU="Application Interface" Name="应用接口"/>
+	<Elem NameU="Application Process" Name="应用流程"/>
+	<Elem NameU="Application Event" Name="应用事件"/>
+	<Elem NameU="Data Object" Name="数据对象"/>
+</Lib>     

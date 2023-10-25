@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Bar Chart">
+    <Elem NameU="Simple Bar Chart" Name="기본 가로 막대형 차트"/>
+    <Elem NameU="Gradient Bar Chart" Name="그라데이션 막대 차트"/>
+    <Elem NameU="Single Series Bar Chart" Name="단일 계열 막대 차트"/>
+    <Elem NameU="Bar Chart" Name="막대 차트"/>
+    <Elem NameU="Bar Chart 2" Name="막대 차트 2"/>
+    <Elem NameU="Stacked Bar Chart" Name="누적 막대 차트"/>
+    <Elem NameU="Stacked Bar Chart 2" Name="누적 막대 차트2"/>
+    <Elem NameU="Gradient Stacked Bar Chart" Name="그라데이션 누적 막대 차트"/>
+    <Elem NameU="Single Bar Chart" Name="단일 막대 차트"/>
+    <Elem NameU="Percentage Stacked Bar Chart" Name="누적 막대 차트 비율"/>
+    <Elem NameU="Percentage Stacked Bar Chart 2" Name="누적 막대 차트 비율 2"/>
+    <Elem NameU="Percentage Stacked Bar Chart 3" Name="누적 막대 차트 비율 3"/>
+    <Elem NameU="Percentage Bar Chart" Name="백분율 막대 차트"/>
+</Lib>

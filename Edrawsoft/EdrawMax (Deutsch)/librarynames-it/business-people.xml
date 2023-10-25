@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Business People">
+	<Elem NameU="Man 1" Name="Uomo 1"/>
+	<Elem NameU="Man 2" Name="Uomo 2"/>
+	<Elem NameU="Man 3" Name="Uomo 3"/>
+	<Elem NameU="Man 4" Name="Uomo 4"/>
+	<Elem NameU="Man 5" Name="Uomo 5"/>
+	<Elem NameU="Man 6" Name="Uomo 6"/>
+	<Elem NameU="Woman 1" Name="Donna 1"/>
+	<Elem NameU="Woman 2" Name="Donna 2"/>
+	<Elem NameU="Woman 3" Name="Donna 3"/>
+	<Elem NameU="Woman 4" Name="Donna 4"/>
+	<Elem NameU="Woman 5" Name="Donna 5"/>
+	<Elem NameU="Woman 6" Name="Donna 6"/>
+	<Elem NameU="Woman 7" Name="Donna 7"/>
+	<Elem NameU="Running man" Name="Uomo che corre"/>
+	<Elem NameU="Rest" Name="Riposo"/>
+	<Elem NameU="Working" Name="Lavoro"/>
+	<Elem NameU="Meeting" Name="Riunione"/>
+</Lib>

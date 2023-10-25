@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Kindergarten Life">
+    <Elem NameU="Teacher" Name="老師"/>
+    <Elem NameU="Teacher and Two Students" Name="老師和兩個學生"/>
+    <Elem NameU="Teaching Student" Name="教學"/>
+    <Elem NameU="Teacher and Students 1" Name="老師和學生"/>
+    <Elem NameU="Teacher and Students 2" Name="老師和學生"/>
+    <Elem NameU="Kids" Name="小孩們"/>
+    <Elem NameU="Girl 1" Name="女孩"/>
+    <Elem NameU="Boy 1" Name="男孩"/>
+    <Elem NameU="Girl 2" Name="女孩"/>
+    <Elem NameU="Boy 2" Name="男孩"/>
+    <Elem NameU="Girl 3" Name="女孩"/>
+    <Elem NameU="Brushing Teeth" Name="刷牙"/>
+    <Elem NameU="Dining" Name="吃飯"/>
+    <Elem NameU="Boy Playing Toy 1" Name="男孩玩玩具 1"/>
+    <Elem NameU="Boy Playing Toy 2" Name="男孩玩玩具 2"/>
+    <Elem NameU="Girl Playing Toy" Name="女孩玩玩具"/>
+    <Elem NameU="Reading 1" Name="閱讀"/>
+    <Elem NameU="Reading 2" Name="閱讀"/>
+    <Elem NameU="Reading 3" Name="閱讀"/>
+    <Elem NameU="Learning 1" Name="學習"/>
+    <Elem NameU="Learning 2" Name="學習"/>
+    <Elem NameU="Boy Raising Hand" Name="男孩舉手"/>
+    <Elem NameU="Playing Guitar" Name="彈吉他"/>
+    <Elem NameU="Dancing" Name="跳舞"/>
+    <Elem NameU="Writing" Name="寫字"/>
+    <Elem NameU="Drawing" Name="畫畫"/>
+    <Elem NameU="Kindergarten Graduation 1" Name="幼兒園畢業"/>
+    <Elem NameU="Kindergarten Graduation 2" Name="幼兒園畢業"/>
+    <Elem NameU="Kindergarten Graduation 3" Name="幼兒園畢業"/>
+    <Elem NameU="Bicycling" Name="騎自行車"/>
+    <Elem NameU="Riding on Rocking Horse" Name="騎木馬"/>
+    <Elem NameU="Playing on the Seesaw" Name="玩蹺蹺板"/>
+    <Elem NameU="Playing on the Slide" Name="滑滑梯"/>
+    <Elem NameU="Playing on the Swing" Name="蕩鞦韆"/>
+    <Elem NameU="School Bus" Name="校車"/>
+</Lib>

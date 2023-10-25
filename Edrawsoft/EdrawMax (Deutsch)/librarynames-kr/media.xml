@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Media">
+	<Elem NameU="Clapboard" Name="판자"/>
+	<Elem NameU="TV" Name="티비"/>
+	<Elem NameU="Radio" Name="라디오"/>
+	<Elem NameU="Film" Name="영화"/>
+	<Elem NameU="Monitoring" Name="모니터링"/>
+	<Elem NameU="Microphone" Name="마이크로폰"/>
+	<Elem NameU="Receiver" Name="리시버"/>
+	<Elem NameU="Satellite" Name="위성"/>
+	<Elem NameU="Video player" Name="비디오 플레이어"/>
+	<Elem NameU="Broadcast" Name="브로드캐스트"/>
+	<Elem NameU="Microphone 1" Name="마이크로폰 1"/>
+	<Elem NameU="Microphone 2" Name="마이크로폰 2"/>
+	<Elem NameU="Earphone" Name="이어폰"/>
+	<Elem NameU="Hot News" Name="핫 뉴스"/>
+	<Elem NameU="Press Card" Name="기자증"/>
+	<Elem NameU="Video Camera" Name="비디오 카메라"/>
+	<Elem NameU="News Truck" Name="뉴스 트럭"/>
+	<Elem NameU="News Van" Name="뉴스 밴"/>
+	<Elem NameU="Interview" Name="인터뷰"/>
+	<Elem NameU="Video Shooting" Name="비디오 촬영"/>
+	<Elem NameU="Taking Photos 1" Name="사진 찍기1"/>
+	<Elem NameU="Taking Photo 2" Name="사진 찍기2"/>
+	<Elem NameU="Global" Name="글로벌"/>
+	<Elem NameU="Press Conference" Name="기자 회견"/>
+	<Elem NameU="Focus" Name="포커스"/>
+	<Elem NameU="Discover" Name="발견"/>
+	<Elem NameU="World Map" Name="세계 지도"/>
+	<Elem NameU="Clock" Name="알람"/>
+	<Elem NameU="Notepad" Name="노트패드"/>
+	<Elem NameU="Data Analysis" Name="데이터 분석"/>
+	<Elem NameU="People" Name="사람"/>
+	<Elem NameU="Newspaper" Name="신문"/>
+	<Elem NameU="Projection screen" Name="프로젝션 스크린"/>
+	<Elem NameU="Computer" Name="컴퓨터"/>
+	<Elem NameU="LCD TV" Name="LCD 티비"/>
+	<Elem NameU="Mobile" Name="폰"/>
+</Lib>

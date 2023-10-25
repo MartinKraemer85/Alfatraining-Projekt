@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Fruit">
+    <Elem NameU="Apple 1" Name="사과 1"/>
+    <Elem NameU="Apple 2" Name="사과 2"/>
+    <Elem NameU="Apple 3" Name="사과 3"/>
+    <Elem NameU="Avocado" Name="아보카도"/>
+    <Elem NameU="Banana 1" Name="바나나 1"/>
+    <Elem NameU="Banana 2" Name="바나나 2"/>
+    <Elem NameU="Banana 3" Name="바나나 3"/>
+    <Elem NameU="Blueberry" Name="블루베리"/>
+    <Elem NameU="Cantaloupe" Name="멜론"/>
+    <Elem NameU="Carambola 1" Name="오렴자 1"/>
+    <Elem NameU="Carambola 2" Name="오렴자 2"/>
+    <Elem NameU="Cherry 1" Name="체리 1"/>
+    <Elem NameU="Cherry 2" Name="체리 2"/>
+    <Elem NameU="Coconut" Name="코코넛"/>
+    <Elem NameU="Durian" Name="두리안"/>
+    <Elem NameU="Guava" Name="구아바"/>
+    <Elem NameU="Grape" Name="포도"/>
+    <Elem NameU="Kiwi Fruit" Name="키위"/>
+    <Elem NameU="Leechee 1" Name="리치 1"/>
+    <Elem NameU="Leechee 2" Name="리치 2"/>
+    <Elem NameU="Lemon 1" Name="레몬 1"/>
+    <Elem NameU="Lemon 2" Name="레몬 2"/>
+    <Elem NameU="Loquat" Name="비파"/>
+    <Elem NameU="Mango" Name="망고"/>
+    <Elem NameU="Mangosteen" Name="망고스틴"/>
+    <Elem NameU="Orange" Name="오렌지"/>
+    <Elem NameU="Pawpaw" Name="파파야"/>
+    <Elem NameU="Peach 1" Name="복숭아 1"/>
+    <Elem NameU="Peach 2" Name="복숭아 2"/>
+    <Elem NameU="Pear" Name="배"/>
+    <Elem NameU="Pear 2" Name="배 2"/>
+    <Elem NameU="Persimmon 1" Name="감 1"/>
+    <Elem NameU="Tomato" Name="토마토"/>
+    <Elem NameU="Pineapple 1" Name="파인애플 1"/>
+    <Elem NameU="Pineapple 2" Name="파인애플 2"/>
+    <Elem NameU="Pitaya Fruit" Name="피타야"/>
+    <Elem NameU="Pomegranate" Name="석류"/>
+    <Elem NameU="Raspberry" Name="라즈베리"/>
+    <Elem NameU="Shaddock" Name="유자"/>
+    <Elem NameU="Strawberry 1" Name="딸기 1"/>
+    <Elem NameU="Strawberry 2" Name="딸기 2"/>
+    <Elem NameU="Tomato" Name="토마토"/>
+    <Elem NameU="Watermelon 1" Name="수박 1"/>
+    <Elem NameU="Watermelon 2" Name="수박 2"/>
+    <Elem NameU="Watermelon 3" Name="수박 3"/>
+</Lib>

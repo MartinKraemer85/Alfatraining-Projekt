@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="HVAC Ductwork">
+    <Elem NameU="Straight duct" Name="직선 덕트"/>
+    <Elem NameU="Miter bend" Name="연귀 만곡부"/>
+    <Elem NameU="Miter bend 2" Name="연귀 만곡부 2"/>
+    <Elem NameU="Miter bend 3" Name="연귀 만곡부 3"/>
+    <Elem NameU="Miter bend 4" Name="연귀 만곡부 4"/>
+    <Elem NameU="Variable bend" Name="가변 만곡부"/>
+    <Elem NameU="Variable bend 2" Name="가변 만곡부 2"/>
+    <Elem NameU="Branch duct" Name="분기 덕트"/>
+    <Elem NameU="Branch duct 2" Name="분기 덕트 2"/>
+    <Elem NameU="Junction bottom" Name="하단 접합점"/>
+    <Elem NameU="Junction up" Name="상단 접합점"/>
+    <Elem NameU="3 way junction" Name="3 방향 접합점"/>
+    <Elem NameU="Y junction" Name="Y 자 접합"/>
+    <Elem NameU="Beveled junction" Name="경사 접합"/>
+    <Elem NameU="Transition" Name="전환"/>
+    <Elem NameU="Offset transition" Name="오프셋 전이부"/>
+    <Elem NameU="Supply" Name="공급"/>
+    <Elem NameU="Return" Name="반환"/>
+    <Elem NameU="Flexible connection 1" Name="가요성 연결 1"/>
+    <Elem NameU="Flexible connector" Name="가요성 연결"/>
+    <Elem NameU="Vertical duct" Name="수직 덕트"/>
+    <Elem NameU="VAV box" Name="VAV 상자"/>
+    <Elem NameU="Sliding damper" Name="슬라이딩 댐퍼"/>
+    <Elem NameU="Damper" Name="댐퍼"/>
+</Lib>

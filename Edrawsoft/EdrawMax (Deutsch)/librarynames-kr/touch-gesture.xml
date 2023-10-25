@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Touch Gesture">
+    <Elem NameU="Tap" Name="탭"/>
+    <Elem NameU="Double tap" Name="두 번 탭"/>
+    <Elem NameU="Double tap with three fingers" Name="세 손가락으로 두 번 탭"/>
+    <Elem NameU="Press and hold" Name="길게 누르기"/>
+    <Elem NameU="Refresh" Name="새로 고침"/>
+    <Elem NameU="One finger swipe up" Name="한 손가락으로 위로 스와이프"/>
+    <Elem NameU="One finger swipe down" Name="한 손가락으로 아래로 스와이프"/>
+    <Elem NameU="Two-finger swipe up" Name="두 손가락으로 위로 스와이프"/>
+    <Elem NameU="Two-finger swipe up 2" Name="두 손가락으로 위로 스와이프2"/>
+    <Elem NameU="Two-finger swipe down" Name="두 손가락으로 아래로 스와이프"/>
+    <Elem NameU="Three-finger swipe up" Name="한 손가락으로 위로 스와이프"/>
+    <Elem NameU="Three-finger swipe down" Name="세 손가락으로 아래로 스와이프"/>
+    <Elem NameU="Four-finger pinch" Name="네 손가락"/>
+    <Elem NameU="Five-finger pinch" Name="다섯 손가락"/>
+    <Elem NameU="Drag and drop page" Name="드래그 앤 드롭"/>
+    <Elem NameU="Zoom out" Name="축소"/>
+    <Elem NameU="Zoom in" Name="확대"/>
+    <Elem NameU="Switch to the previous tab" Name="이전 탭으로 전환"/>
+    <Elem NameU="Switch to the next tab" Name="다음 탭으로 전환"/>
+    <Elem NameU="Two-finger pinch" Name="두 손가락을 모으기"/>
+    <Elem NameU="Two-finger swipe" Name="두 손가락으로 스와이프"/>
+    <Elem NameU="Point" Name="짚다"/>
+    <Elem NameU="Point2" Name="짚다2"/>
+    <Elem NameU="Point3" Name="짚다3"/>
+    <Elem NameU="Point4" Name="짚다4"/>
+    <Elem NameU="Two-finger pinch 2" Name="두 손가락 모으기2"/>
+    <Elem NameU="Carry with two fingers" Name="집기"/>
+    <Elem NameU="Arrow" Name="화살표"/>
+    <Elem NameU="Arrow2" Name="화살표2"/>
+    <Elem NameU="Arrow3" Name="화살표3"/>
+</Lib>

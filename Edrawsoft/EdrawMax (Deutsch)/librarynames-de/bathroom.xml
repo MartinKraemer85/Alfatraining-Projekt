@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Bathroom">
+
+<Elem Name="Waschbecken" NameU="Sink"/>
+
+<Elem Name="Aufsatzwaschtisch" NameU="Countertop sink"/>
+
+<Elem Name="Standwaschbecken" NameU="Pedestal sink"/>
+
+<Elem Name="Bidet" NameU="Bidet"/>
+
+<Elem Name="Squat WC" NameU="Squat wc"/>
+
+<Elem Name="Dusche" NameU="Shower"/>
+
+<Elem Name="Dusche" NameU="Corner shower"/>
+
+<Elem Name="Eckbadewanne" NameU="Corner bath"/>
+
+<Elem Name="Badezimmer" NameU="Bathroom"/>
+
+<Elem Name="Shower Drain" NameU="Shower Drain"/>
+
+<Elem Name="Wasserhahn 1" NameU="Water Tap 1"/>
+
+<Elem Name="Wasserhahn 2" NameU="Water Tap 2"/>
+
+<Elem Name="Wasserhahn 3" NameU="Water Tap 3"/>
+
+<Elem Name="Wasserhahn 4" NameU="Water Tap 4"/>
+
+<Elem Name="Wasserhahn 5" NameU="Water Tap 5"/>
+
+<Elem Name="Mülltonne" NameU="Dustbin"/>
+
+<Elem Name="Toilettenpapier" NameU="Toilet Paper"/>
+
+<Elem Name="Handtuchhalter" NameU="Towel Rack"/>
+
+<Elem Name="Toilette" NameU="Toilet"/>
+
+<Elem Name="Badewanne" NameU="Bathtub"/>
+
+<Elem Name="Duschablauf 2" NameU="Shower Drain 2"/>
+
+<Elem Name="Licht" NameU="Light"/>
+
+<Elem Name="Duschlampe" NameU="Shower Lamp"/>
+
+<Elem Name="Kabinett" NameU="Cabinet"/>
+
+</Lib>

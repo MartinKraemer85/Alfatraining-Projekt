@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Dimensioning">
+    <Elem NameU="Horizontal" Name="수평"/>
+    <Elem NameU="Vertical" Name="수직"/>
+    <Elem NameU="Aligned even" Name="나란히(길이가 같게)"/>
+    <Elem NameU="Aligned out even" Name="나란히(외부, 길이가 같게)"/>
+    <Elem NameU="Aligned uneven" Name="나란히(길이가 다르게)"/>
+    <Elem NameU="Aligned out uneven" Name="나란히(외부, 길이가 다르게)"/>
+    <Elem NameU="Multi-aligned even" Name="다중-나란히(길이가 같게)"/>
+    <Elem NameU="Horizontal outside" Name="가로(외부)"/>
+    <Elem NameU="Vertical outside" Name="세로(외부)"/>
+    <Elem NameU="Arc radius" Name="아치 반경"/>
+    <Elem NameU="Radius outside" Name="반지름(외부)"/>
+    <Elem NameU="Radius" Name="반경"/>
+    <Elem NameU="Diameter" Name="직경"/>
+    <Elem NameU="Diameter outside" Name="지름(외부)"/>
+    <Elem NameU="Angle center" Name="각 중심"/>
+    <Elem NameU="Angle even" Name="각도(길이가 같게)"/>
+    <Elem NameU="Angle uneven" Name="각도(길이가 다르게)"/>
+    <Elem NameU="Angle outside" Name="각도(외부)"/>
+    <Elem NameU="Ordinate multi horizontal" Name="다중 수평 조정"/>
+    <Elem NameU="Ordinate multi vertical" Name="다중 수직 조정"/>
+    <Elem NameU="Room measure" Name="내부 측정"/>
+    <Elem NameU="Centerline" Name="센터라인"/>
+</Lib>

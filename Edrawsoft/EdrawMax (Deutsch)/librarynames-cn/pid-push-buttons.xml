@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Push Buttons">
+    <Elem NameU="3-D black button" Name="3D黑色按钮"/>
+    <Elem NameU="3-D blue button" Name="3D蓝色按钮"/>
+    <Elem NameU="3-D green button" Name="3D绿色按钮"/>
+    <Elem NameU="3-D red button" Name="3D红色按钮"/>
+    <Elem NameU="3-D yellow button" Name="3D黄色按钮"/>
+    <Elem NameU="Black pushbutton" Name="黑色按钮"/>
+    <Elem NameU="Blue pilot light" Name="蓝色指示灯"/>
+    <Elem NameU="Dark green pilot light" Name="深绿色指示灯"/>
+    <Elem NameU="Button 1" Name="按钮1"/>
+    <Elem NameU="Button 2" Name="按钮2"/>
+    <Elem NameU="Button 3" Name="按钮3"/>
+    <Elem NameU="Button 4" Name="按钮4"/>
+    <Elem NameU="Button 5" Name="按钮5"/>
+    <Elem NameU="Button 6" Name="按钮6"/>
+    <Elem NameU="Dial 1" Name="拨号1"/>
+    <Elem NameU="Dial 2" Name="拨号2"/>
+    <Elem NameU="Dial 3" Name="拨号3"/>
+    <Elem NameU="Dial 4" Name="拨号4"/>
+    <Elem NameU="Red pilot light" Name="红色指示灯"/>
+    <Elem NameU="Long flip switch (down)" Name="长翻转开关（向下）"/>
+    <Elem NameU="Long flip switch (up)" Name="长翻转开关（向上）"/>
+    <Elem NameU="Long flip switch (left)" Name="长翻盖开关（左）"/>
+    <Elem NameU="Long flip switch (right)" Name="长翻盖开关（右）"/>
+    <Elem NameU="Navy pilot light" Name="海军指示灯"/>
+    <Elem NameU="Pilot light (off)" Name="指示灯（关闭）"/>
+    <Elem NameU="Rectangular pushbutton" Name="矩形按钮"/>
+    <Elem NameU="Red pilot light" Name="红色指示灯"/>
+    <Elem NameU="Red pushbutton" Name="红色按钮"/>
+    <Elem NameU="Rocker switch" Name="翘板开关"/>
+    <Elem NameU="Rocker switch (down)" Name="翘板开关（向下）"/>
+    <Elem NameU="Rocker switch (up)" Name="翘板开关（向上）"/>
+    <Elem NameU="Rocker switch (left)" Name="翘板开关（向左）"/>
+    <Elem NameU="Rocker switch (right)" Name="翘板开关（向右）"/>
+    <Elem NameU="Selector switch (down) 1" Name="选择开关（向下）1"/>
+    <Elem NameU="Selector switch (up) 1" Name="选择开关（向上）1"/>
+    <Elem NameU="Selector switch (left) 1" Name="选择开关（向左）1"/>
+    <Elem NameU="Selector switch (right) 1" Name="选择开关（向右）1"/>
+    <Elem NameU="Selector switch (down) 2" Name="选择开关（向下）1"/>
+    <Elem NameU="Selector switch (up) 2" Name="选择开关（向上）2"/>
+    <Elem NameU="Selector switch (left) 2" Name="选择开关（向左）3"/>
+    <Elem NameU="Selector switch (right) 2" Name="选择开关（向右）4"/>
+    <Elem NameU="Slide switch (down)" Name="滑动开关（向下）"/>
+    <Elem NameU="Slide switch (up)" Name="滑动开关（向上）"/>
+    <Elem NameU="Slide switch (left)" Name="滑动开关（向左）"/>
+    <Elem NameU="Slide switch (right)" Name="滑动开关（向右）"/>
+    <Elem NameU="Slider 1" Name="滑块1"/>
+    <Elem NameU="Slider 2" Name="滑块2"/>
+    <Elem NameU="Slider 3" Name="滑块3"/>
+    <Elem NameU="Start button 2" Name="启动按钮2"/>
+    <Elem NameU="Start button" Name="启动按钮"/>
+    <Elem NameU="Throw switch (down)" Name="投掷开关（向下）"/>
+    <Elem NameU="Throw switch (up)" Name="投掷开关（向上）"/>
+    <Elem NameU="Throw switch (left)" Name="投掷开关（向下）"/>
+    <Elem NameU="Throw switch (right)" Name="投掷开关（向右）"/>
+    <Elem NameU="White pilot light" Name="白色指示灯"/>
+    <Elem NameU="Yellow pilot light" Name="黄色指示灯"/>
+    <Elem NameU="Yellow pushbutton" Name="黄色按钮"/>
+</Lib>

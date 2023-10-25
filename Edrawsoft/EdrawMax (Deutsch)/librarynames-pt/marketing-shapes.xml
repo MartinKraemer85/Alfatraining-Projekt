@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Marketing Shapes">
+	<Elem NameU="Target" Name="Alvo"/>
+	<Elem NameU="Target 2" Name="Alvo 2"/>
+	<Elem NameU="Dart" Name="Dardo"/>
+	<Elem NameU="Hit the Target" Name="Atingir o Alvo"/>
+	<Elem NameU="Global" Name="Global"/>
+	<Elem NameU="Check Box" Name="Caixa de Verificação"/>
+	<Elem NameU="Check or Cross" Name="Visto ou Cruz"/>
+	<Elem NameU="Money" Name="Dinheiro"/>
+	<Elem NameU="Money Bag" Name="Saco de Dinheiro"/>
+	<Elem NameU="Sign Post" Name="Placa de Sinalização"/>
+	<Elem NameU="Thermometer" Name="Termómetro"/>
+	<Elem NameU="Extend Hand" Name="Estender a Mão"/>
+	<Elem NameU="Shake Hands" Name="Apertar a Mão"/>
+	<Elem NameU="Man" Name="Homem"/>
+	<Elem NameU="Female" Name="Mulher"/>
+	<Elem NameU="Meeting" Name="Reunião"/>
+	<Elem NameU="Scales" Name="Escalas"/>
+	<Elem NameU="Umbrella" Name="Sombrinha"/>
+	<Elem NameU="Pencil" Name="Lápis"/>
+	<Elem NameU="Glasses" Name="Óculos"/>
+	<Elem NameU="Flower" Name="Flor"/>
+	<Elem NameU="Flower 2" Name="Flor 2"/>
+	<Elem NameU="Tree" Name="Árvore"/>
+	<Elem NameU="Factory" Name="Fábrica"/>
+	<Elem NameU="Warehouse" Name="Armazém"/>
+	<Elem NameU="Wholesaler" Name="Atacadista"/>
+	<Elem NameU="Bank" Name="Banco"/>
+	<Elem NameU="Hotel" Name="Hotel"/>
+	<Elem NameU="Building" Name="Edifício"/>
+	<Elem NameU="Oil Well" Name="Poço de Petróleo"/>
+	<Elem NameU="Cylinder" Name="Cilindro"/>
+	<Elem NameU="Documents" Name="Documentos"/>
+	<Elem NameU="Papers" Name="Papéis"/>
+	<Elem NameU="Dog" Name="Cão"/>
+	<Elem NameU="Money Box" Name="Caixa de Dinheiro"/>
+	<Elem NameU="Star" Name="Iniciar"/>
+	<Elem NameU="Question Mark" Name="Ponto de Interrogação"/>
+	<Elem NameU="Full Box" Name="Caixa Cheia"/>
+	<Elem NameU="Empty Box" Name="Caixa Vazia"/>
+	<Elem NameU="Wooden Barrel" Name="Barril de Madeira"/>
+	<Elem NameU="Oil barrel" Name="Barril de petróleo"/>
+	<Elem NameU="Airplane" Name="Avião"/>
+	<Elem NameU="Bus" Name="Ônibus"/>
+	<Elem NameU="Train" Name="Comboio"/>
+	<Elem NameU="Truck" Name="Caminhão"/>
+	<Elem NameU="Ship" Name="Navio"/>
+	<Elem NameU="Shopping Cart" Name="Carrinho de Compras"/>
+	<Elem NameU="Shopping Cart 2" Name="Carrinho de Compras 2"/>
+	<Elem NameU="Cup" Name="Copo"/>
+	<Elem NameU="Award" Name="Prémio"/>
+	<Elem NameU="Award 2" Name="Prémio 2"/>
+	<Elem NameU="Award 3" Name="Prémio 3"/>
+	<Elem NameU="Medal" Name="Medalha"/>
+	<Elem NameU="Stop Sign" Name="Sinal de Stop"/>
+	<Elem NameU="No Sign" Name="Nenhum Sinal"/>
+	<Elem NameU="Warning Sign" Name="Sinal de Aviso"/>
+	<Elem NameU="Puzzle Whole" Name="Puzzle Completo"/>
+	<Elem NameU="Puzzle 1" Name="Puzzle 1"/>
+	<Elem NameU="Puzzle 2" Name="Puzzle 2"/>
+	<Elem NameU="Puzzle 3" Name="Puzzle 3"/>
+	<Elem NameU="Puzzle 4" Name="Puzzle 4"/>
+	<Elem NameU="Puzzle 5" Name="Puzzle 5"/>
+	<Elem NameU="Puzzle 6" Name="Puzzle 6"/>
+	<Elem NameU="Puzzle 7" Name="Puzzle 7"/>
+	<Elem NameU="Puzzle 8" Name="Puzzle 8"/>
+	<Elem NameU="Puzzle 9" Name="Puzzle 9"/>
+	<Elem NameU="Puzzle 10" Name="Puzzle 10"/>
+</Lib>

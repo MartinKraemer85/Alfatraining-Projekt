@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="PID Buildings">
+	<Elem NameU="Arch-style building" Name="Edificio con stile ad arco"/>
+	<Elem NameU="Commercial building 1" Name="Edificio commerciale 1"/>
+	<Elem NameU="Commercial building 2" Name="Edificio commerciale 2"/>
+	<Elem NameU="Factory 1" Name="Fabbrica 1"/>
+	<Elem NameU="Factory 2" Name="Fabbrica 2"/>
+	<Elem NameU="Factory 3" Name="Fabbrica 3"/>
+	<Elem NameU="Industrial building 1" Name="Edificio industriale 1"/>
+	<Elem NameU="Industrial building 2" Name="Edificio industriale 2"/>
+	<Elem NameU="Industrial building 3" Name="Edificio industriale 3"/>
+	<Elem NameU="Industrial building 4" Name="Edificio industriale 4"/>
+	<Elem NameU="Industrial building 5" Name="Edificio industriale 5"/>
+	<Elem NameU="Industrial building 6" Name="Edificio industriale 6"/>
+	<Elem NameU="Industrial building 7" Name="Edificio industriale 7"/>
+	<Elem NameU="Industrial building with slanted roof" Name="Edificio industriale con tetto inclinato"/>
+	<Elem NameU="Industrial building with stack" Name="Edificio industriale con ciminiera"/>
+	<Elem NameU="Modular office 1" Name="Ufficio modulare 1"/>
+	<Elem NameU="Modular office 2" Name="Ufficio modulare 2"/>
+	<Elem NameU="Outdoor enclosure" Name="Recinzione Esterna"/>
+	<Elem NameU="Shelter" Name="Rifugio"/>
+	<Elem NameU="Utility building (gray)" Name="Edificio di servizio (grigio)"/>
+	<Elem NameU="Utility building (green)" Name="Edificio di servizio (verde)"/>
+	<Elem NameU="Pig and Bull House" Name="Allevamento Animali"/>
+</Lib>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Valves Symbols">
+    <Elem NameU="3-D 3-way solenoid valve with reset" Name="리셋 기능이있는 3D 3 방향 솔레노이드 밸브"/>
+    <Elem NameU="3-D 3-way valve" Name="3D 3방향 밸브"/>
+    <Elem NameU="3-D 3-way solenoid valve" Name="3D 3 방향 솔레노이드 밸브"/>
+    <Elem NameU="3-D 4-way valve" Name="3D 4- 방향 밸브"/>
+    <Elem NameU="3-D Angle blowdown valve" Name="3-D 앵글 블로우 다운 밸브"/>
+    <Elem NameU="3-D Ball valve" Name="3D 볼 밸브"/>
+    <Elem NameU="3-D Blowdown valve" Name="3-D 블로우 다운 밸브"/>
+    <Elem NameU="3-D Butterfly valve or damper" Name="3-D 버터 플라이 밸브 또는 댐퍼"/>
+    <Elem NameU="3-D Check valve" Name="3D 체크 밸브"/>
+    <Elem NameU="3-D Control valve with actuator" Name="액추에이터가 있는 3D 제어 밸브"/>
+    <Elem NameU="3-D Cylinder actuated valve (double-acting)" Name="3D 실린더 작동 밸브 (복동)3D 실린더 작동 밸브 (복동)"/>
+    <Elem NameU="3-D Flow regulator ,self-contained" Name="3D 유량 조절기, 독립형"/>
+    <Elem NameU="3-D Gate valve" Name="3D 게이트 밸브"/>
+    <Elem NameU="3-D Hand control valve" Name="3D 핸드 컨트롤 밸브"/>
+    <Elem NameU="3-D Plug valve" Name="3D 플러그 밸브"/>
+    <Elem NameU="3-D Pressure-balanced diaphragm actuated" Name="3D 압력 평형 다이어프램 작동"/>
+    <Elem NameU="3-D Regulator with external pressure tap" Name="외부 압력 탭이 있는 3D 조절기"/>
+    <Elem NameU="3-D Regulator, self-contained" Name="3D 조절기, 독립형"/>
+    <Elem NameU="3-D Restriction orifice drilled in valve" Name="밸브에 드릴된 3D 제한 오리피스"/>
+    <Elem NameU="3-D Rotary actuated" Name="3D 회전 작동"/>
+    <Elem NameU="3-D Rotary plug valve" Name="3D 회전 플러그 밸브"/>
+    <Elem NameU="3-D Stop check valve" Name="3D 스톱 체크 밸브"/>
+    <Elem NameU="3-D Vacuum safety valve" Name="3D 진공 안전 밸브"/>
+    <Elem NameU="3-D Valve with actuator" Name="액추에이터가있는 3D 밸브"/>
+    <Elem NameU="3-D Valve with bleed or purge connection under disc" Name="디스크 아래에 블리드 또는 퍼지 연결이 있는 3D 밸브"/>
+    <Elem NameU="3-D Valve with long shaft" Name="긴 샤프트가 있는 3D 밸브"/>
+    <Elem NameU="3-D Valve,fail indeterminate" Name="3D 밸브, 불확정 실패"/>
+    <Elem NameU="3-D Valve,fail locked" Name="3D 밸브, 잠금 실패"/>
+    <Elem NameU="3-D Valve" Name="3D 밸브"/>
+    <Elem NameU="Valve handle 1" Name="밸브 핸들1"/>
+    <Elem NameU="Valve handle 2" Name="밸브 핸들2"/>
+    <Elem NameU="Valve wheel" Name="밸브 휠"/>
+</Lib>

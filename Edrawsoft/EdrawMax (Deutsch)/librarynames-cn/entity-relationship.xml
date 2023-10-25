@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Entity Relationship">
+    <Elem NameU="Entity" Name="实体"/>
+    <Elem NameU="Entity 2" Name="实体 2"/>
+    <Elem NameU="Entity 3" Name="实体 3"/>
+    <Elem NameU="View" Name="视图"/>
+    <Elem NameU="Relationship" Name="关系"/>
+    <Elem NameU="Parent to Category" Name="父表与类别"/>
+    <Elem NameU="Category" Name="类别"/>
+    <Elem NameU="Category to Child" Name="类别与子类"/>
+    <Elem NameU="Dynamic Connector" Name="动态链接线"/>
+    <Elem NameU="Line Connector" Name="指示"/>
+    <Elem NameU="Entity 5" Name="实体 5"/>
+    <Elem NameU="Strong Entity" Name="强实体"/>
+    <Elem NameU="Weak Entity" Name="弱实体"/>
+    <Elem NameU="Strong Relationship" Name="强关系"/>
+    <Elem NameU="Weak Relationship" Name="弱关系"/>
+    <Elem NameU="Attribute" Name="属性"/>
+    <Elem NameU="Derived Attribute" Name="衍生属性"/>
+    <Elem NameU="Multi-valued Attribute" Name="多值属性"/>
+    <Elem NameU="Constraints" Name="约束条件"/>
+    <Elem NameU="Cardinality" Name="基数"/>
+    <Elem NameU="Partial" Name="部分"/>
+    <Elem NameU="Weak line" Name="弱连线"/>
+    <Elem NameU="Participation" Name="参与"/>
+    <Elem NameU="Participation 2" Name="参与 2"/>
+</Lib>

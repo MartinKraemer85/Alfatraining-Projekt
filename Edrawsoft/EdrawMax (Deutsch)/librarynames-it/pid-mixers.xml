@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="PID Mixers">
+	<Elem NameU="ISA Agitator" Name="Agitatore ISA"/>
+	<Elem NameU="3-D Mixer" Name="Miscelatore 3-D"/>
+	<Elem NameU="Condensate collection tank" Name="Cisterna per la raccolta di condensato"/>
+	<Elem NameU="Impeller" Name="Girante"/>
+	<Elem NameU="ISA Inline mixer" Name="Miscelatore in linea ISA"/>
+	<Elem NameU="Mixer 1" Name="Miscelatore 1"/>
+	<Elem NameU="Mixer 2" Name="Miscelatore 2"/>
+	<Elem NameU="Magnetic mixer" Name="Miscelatore 2"/>
+	<Elem NameU="Mixer blade" Name="Lama miscelatore"/>
+	<Elem NameU="Pneumatic mixer" Name="Miscelatore pneumatico"/>
+	<Elem NameU="Portable mixer" Name="Miscelatore portatile"/>
+	<Elem NameU="Screw-type mixer" Name="Miscelatore a vite"/>
+	<Elem NameU="Simple mixer" Name="Miscelatore semplice"/>
+	<Elem NameU="Submersible mixer" Name="Miscelatore sommergibile"/>
+	<Elem NameU="Tank with agitator" Name="Cisterna con agitatore"/>
+	<Elem NameU="Turbine agitator" Name="Agitatore a turbina"/>
+	<Elem NameU="Mixer" Name="Miscelatore"/>
+	<Elem NameU="Slurrification" Name="Depurazione"/>
+</Lib>

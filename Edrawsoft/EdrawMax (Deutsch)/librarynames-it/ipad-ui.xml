@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="iPad UI">
+	<Elem NameU="iPad" Name="iPad"/>
+	<Elem NameU="Horizontal iPad" Name="iPad Orizzontale"/>
+	<Elem NameU="Frame" Name="Cornice"/>
+	<Elem NameU="Status bar 1" Name="Barra di Stato 1"/>
+	<Elem NameU="Status bar 2" Name="Barra di Stato 2"/>
+	<Elem NameU="Status bar 3" Name="Barra di Stato 3"/>
+	<Elem NameU="Status bar 4" Name="Barra di Stato 4"/>
+	<Elem NameU="Status bar 5" Name="Barra di Stato 5"/>
+	<Elem NameU="Basic Menu Bar 1" Name="Barra del Menu Base 1"/>
+	<Elem NameU="Basic Menu Bar 2" Name="Barra del Menu Base 2"/>
+	<Elem NameU="Basic Menu Bar 3" Name="Barra del Menu Base 3"/>
+	<Elem NameU="Basic Menu Bar 4" Name="Barra del Menu Base 4"/>
+	<Elem NameU="Basic Menu Bar 5" Name="Barra del Menu Base 5"/>
+	<Elem NameU="Keyboard Control" Name="Controllo Tastiera"/>
+	<Elem NameU="Text" Name="Testo"/>
+	<Elem NameU="Button" Name="Pulsante"/>
+	<Elem NameU="Back" Name="Indietro"/>
+	<Elem NameU="Type your text here" Name="Scrivi qui il tuo testo"/>
+	<Elem NameU="Search Box" Name="Casella di Ricerca"/>
+	<Elem NameU="Three Buttons Control" Name="Controllo a Tre Tasti"/>
+	<Elem NameU="Four Buttons Control" Name="Controllo a Quattro Tasti"/>
+	<Elem NameU="Slider" Name="Slider"/>
+	<Elem NameU="Field Name" Name="Nome Campo"/>
+	<Elem NameU="Two Buttons Alert" Name="Allarme a Due Tasti"/>
+	<Elem NameU="Time Picker" Name="Selettore Ora"/>
+	<Elem NameU="Login Activity" Name="Attività di Accesso"/>
+	<Elem NameU="App Icon" Name="Icona App"/>
+	<Elem NameU="Block" Name="Blocco"/>
+	<Elem NameU="Open button" Name="Pulsante di apertura"/>
+	<Elem NameU="On/Off Switch" Name="Interruttore On/Off"/>
+	<Elem NameU="Circular Progress View" Name="Vista a Sviluppo Circolare"/>
+	<Elem NameU="Two Buttons Control" Name="Controllo a Due Tasti"/>
+	<Elem NameU="Label" Name="Etichetta"/>
+	<Elem NameU="Radio button" Name="Pulsante di opzione"/>
+	<Elem NameU="Text Selection Frame" Name="Cornice di Selezione del Testo"/>
+	<Elem NameU="Selection Frame" Name="Cornice di Selezione"/>
+</Lib>

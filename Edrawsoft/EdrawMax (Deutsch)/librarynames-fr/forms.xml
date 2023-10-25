@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Forms">
+
+<Elem Name="En-tête H1" NameU="H1 Header"/>
+
+<Elem Name="En-tête H2" NameU="H2 Header"/>
+
+<Elem Name="En-tête H3" NameU="H3 Header"/>
+
+<Elem Name="Étiquette 12pt" NameU="12pt Label"/>
+
+<Elem Name="Étiquette 10pt" NameU="10pt Label"/>
+
+<Elem Name="Étiquette 9pt" NameU="9pt Label"/>
+
+<Elem Name="Tableau simple" NameU="Basic Table"/>
+
+<Elem Name="Adresse d'entreprise" NameU="Company Address"/>
+
+<Elem Name="Adresse professionnelle principale" NameU="Primary Business Address"/>
+
+<Elem Name="Informations de contact" NameU="Contact Information"/>
+
+<Elem Name="Espace réservé de logo" NameU="Logo Placeholder"/>
+
+<Elem Name="Adresse de facturation" NameU="Billing Address"/>
+
+<Elem Name="Devis" NameU="Quotation"/>
+
+<Elem Name="Produit, prix, description" NameU="Product, Price, Description"/>
+
+<Elem Name="Statistiques" NameU="Statistics"/>
+
+<Elem Name="Boîte d'information" NameU="Information Box"/>
+
+<Elem Name="Ligne d'information" NameU="Information Line"/>
+
+<Elem Name="Barre de signature avec la date" NameU="Signature Line with Date"/>
+
+<Elem Name="Barre de signature" NameU="Signature Line"/>
+
+<Elem Name="Bloc de signature simple" NameU="Simple Signature Block"/>
+
+<Elem Name="Commentaires" NameU="Comments"/>
+
+<Elem Name="Bloc de signature détaillé" NameU="Detail Signature Block"/>
+
+<Elem Name="Case à cocher" NameU="Check Box"/>
+
+<Elem Name="Bouton Radio" NameU="Radio Button"/>
+
+<Elem Name="Bloc de texte" NameU="Text Block"/>
+
+<Elem Name="Texte du lien" NameU="Link Text"/>
+
+</Lib>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Jacobson Use Case">
+    <Elem NameU="Actor" Name="사용자"/>
+    <Elem NameU="Use case" Name="인스턴스"/>
+    <Elem NameU="Boundary" Name="경계"/>
+    <Elem NameU="Relationship" Name="관계"/>
+    <Elem NameU="Object types" Name="개체 유형"/>
+    <Elem NameU="Dimensions" Name="3D"/>
+    <Elem NameU="Time" Name="타임 라인"/>
+    <Elem NameU="System border" Name="시스템 테두리"/>
+    <Elem NameU="Operation" Name="작업"/>
+    <Elem NameU="Callback" Name="콜백"/>
+    <Elem NameU="Message carrier" Name="메시지"/>
+    <Elem NameU="Block" Name="블록"/>
+    <Elem NameU="Start symbol" Name="시작 기호"/>
+    <Elem NameU="State" Name="상태"/>
+    <Elem NameU="Message" Name="메시지"/>
+    <Elem NameU="Signal" Name="시그널"/>
+    <Elem NameU="Task" Name="작업"/>
+    <Elem NameU="Decision" Name="판정"/>
+    <Elem NameU="Destroy object" Name="개체 삭제"/>
+    <Elem NameU="Label" Name="레이블"/>
+</Lib>

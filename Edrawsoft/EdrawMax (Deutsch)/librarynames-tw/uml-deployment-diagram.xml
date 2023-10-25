@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="UML Deployment Diagram">
+    <Elem NameU="Package" Name="包"/>
+    <Elem NameU="Object" Number="2" Name="對象"/>
+    <Elem NameU="Component" Name="組件"/>
+    <Elem NameU="Component Instance" Name="組件實例"/>
+    <Elem NameU="Component" Name="組件"/>
+    <Elem NameU="Component Instance" Name="組件實例"/>
+    <Elem NameU="Project" Name="項目"/>
+    <Elem NameU="Project Instance" Name="項目實例"/>
+    <Elem NameU="Node" Name="節點"/>
+    <Elem NameU="Node Instance" Number="2" Name="節點實例"/>
+    <Elem NameU="Deployment Specification" Name="部署描述"/>
+    <Elem NameU="Deployment Specification Instance" Name="部署描述實例"/>
+    <Elem NameU="Constraint" Name="約束"/>
+    <Elem NameU="Note" Name="注釋"/>
+    <Elem NameU="Overview Diagram Container" Name="示意圖"/>
+    <Elem NameU="Comunication" Name="通信"/>
+    <Elem NameU="Inheritance" Name="繼承"/>
+    <Elem NameU="Dependency" Name="依賴關係"/>
+    <Elem NameU="Aggregation" Name="聚合"/>
+    <Elem NameU="Manifest" Name="表明"/>
+    <Elem NameU="Deploy" Name="部署"/>
+</Lib>

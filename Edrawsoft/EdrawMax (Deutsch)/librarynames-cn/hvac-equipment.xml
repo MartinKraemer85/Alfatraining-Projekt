@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="HVAC Equipment">
+    <Elem NameU="Pump" Name="泵"/>
+    <Elem NameU="Rotary Pump" Name="旋转泵"/>
+    <Elem NameU="Centrifugal pump" Name="离心抽机"/>
+    <Elem NameU="Reciprocating pump" Name="往复泵"/>
+    <Elem NameU="Screw pump" Name="螺旋泵"/>
+    <Elem NameU="Fan" Name="风扇"/>
+    <Elem NameU="Centrifugal fan" Name="离心式风扇"/>
+    <Elem NameU="Fan blades" Name="扇叶"/>
+    <Elem NameU="Moisture eliminator" Name="去潮器"/>
+    <Elem NameU="Silencer" Name="消音器"/>
+    <Elem NameU="Silencer 2" Name="消音器 2"/>
+    <Elem NameU="Condenser" Name="冷凝器"/>
+    <Elem NameU="Air filter" Name="空气过滤器"/>
+    <Elem NameU="Dryer" Name="烘干机"/>
+    <Elem NameU="Pipe coil" Name="蛇形管"/>
+    <Elem NameU="Exhaust hood" Name="吸油烟机"/>
+    <Elem NameU="Muffler" Name="消音器"/>
+    <Elem NameU="Air volume control valve" Name="风量调节阀"/>
+    <Elem NameU="The filter" Name="滤波器"/>
+    <Elem NameU="Regulator" Name="调节器"/>
+    <Elem NameU="The heater" Name="加热器"/>
+    <Elem NameU="Surface air cooler" Name="表面空气冷却器"/>
+    <Elem NameU="Humidifier" Name="增湿器"/>
+    <Elem NameU="High efficiency filter" Name="高效过滤器"/>
+    <Elem NameU="Ozone generator" Name="臭氧发生器"/>
+    <Elem NameU="Primary filter、 Mid-effect filter" Name="初级过滤器、 中效过滤器"/>
+    <Elem NameU="Air compressor" Name="空气压缩机"/>
+    <Elem NameU="Oxygen-enriched filter" Name="富氧过滤器"/>
+    <Elem NameU="Membrane Clear Box" Name="膜处理装置"/>
+    <Elem NameU="Vacuum pump" Name="真空泵"/>
+    <Elem NameU="Valve" Name="阀"/>
+    <Elem NameU="Vacuum Gauge" Name="真空计"/>
+    <Elem NameU="Steam separator" Name="汽水分离器"/>
+    <Elem NameU="Pressurizer system" Name="稳压器系统"/>
+    <Elem NameU="Dehumidifying system" Name="除湿系统"/>
+    <Elem NameU="Booster fan" Name="辅助鼓风机"/>
+    <Elem NameU="Preheating system" Name="预热系统"/>
+    <Elem NameU="Nozzle" Name="喷嘴"/>
+    <Elem NameU="Boiler" Name="锅炉"/>
+    <Elem NameU="Cold water pump" Name="冷水泵"/>
+    <Elem NameU="Flow valve" Name="流量控制阀"/>
+    <Elem NameU="Water tower" Name="水塔"/>
+    <Elem NameU="Supply air grill" Name="通风网"/>
+    <Elem NameU="Pipe network" Name="管道系统"/>
+    <Elem NameU="Cooling coil" Name="冷却旋管"/>
+    <Elem NameU="Return air grill" Name="回流空气网"/>
+    <Elem NameU="Pipeline" Name="管道"/>
+    <Elem NameU="Zone damper" Name="分区控风板"/>
+    <Elem NameU="Outside air duct" Name="外风道"/>
+    <Elem NameU="Ventilator" Name="通风设备"/>
+    <Elem NameU="Refrigerant receiver" Name="制冷剂接收机"/>
+    <Elem NameU="Chiller" Name="冷却装置"/>
+    <Elem NameU="Axia fan" Name="轴向扇"/>
+    <Elem NameU="Access door" Name="通道门"/>
+    <Elem NameU="Condensate tank" Name="冷凝槽"/>
+    <Elem NameU="Heat engine" Name="热机"/>
+    <Elem NameU="Unit heater" Name="单体式供暖机组"/>
+    <Elem NameU="Unit ventilator" Name="单体通风器"/>
+    <Elem NameU="Steam" Name="流体"/>
+    <Elem NameU="Duplex strainer" Name="双联过滤器"/>
+    <Elem NameU="Pressure-reducing valve" Name="减压阀"/>
+    <Elem NameU="Airline valve" Name="气流阀"/>
+    <Elem NameU="Strainer" Name="过滤器"/>
+    <Elem NameU="Automatic 3-way valve" Name="自动3向阀"/>
+    <Elem NameU="Solenold valve" Name="电磁阀"/>
+    <Elem NameU="Relief valve" Name="减压阀"/>
+    <Elem NameU="Pressure gauge and cock" Name="压力计和旋塞"/>
+    <Elem NameU="Thermometer" Name="温度计"/>
+    <Elem NameU="Fan and motor with belt guard" Name="风扇和带皮带保护的马达"/>
+    <Elem NameU="Supply duct-section" Name="送风管道部分"/>
+    <Elem NameU="Modulating return air capillary thermostat" Name="调节回流空气毛细管恒温器"/>
+    <Elem NameU="Solenold air valve" Name="电磁空气阀"/>
+    <Elem NameU="Pressure electric switch" Name="压电开关"/>
+</Lib>

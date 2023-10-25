@@ -1,0 +1,1385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ShapeStrings Version="8.0">
+    <String NameU="(+)" Name="(+)"/>
+    <String NameU="(-)" Name="(-)"/>
+    <String NameU="(x)" Name="(x)"/>
+    <String NameU="+" Name="+"/>
+    <String NameU="-" Name="-"/>
+    <String NameU="-10" Name="-10"/>
+    <String NameU="-20" Name="-20"/>
+    <String NameU="-30" Name="-30"/>
+    <String NameU="0" Name="0"/>
+    <String NameU="0 deg." Name="0 deg."/>
+    <String NameU="0%" Name="0%"/>
+    <String NameU="0.0" Name="0.0"/>
+    <String NameU="0.00" Name="0.00"/>
+    <String NameU="0.000" Name="0.000"/>
+    <String NameU="0.000&quot;" Name="0.000&quot;"/>
+    <String NameU="0.2" Name="0.2"/>
+    <String NameU="0.25" Name="0.25"/>
+    <String NameU="0.3333" Name="0.3333"/>
+    <String NameU="0.5" Name="0.5"/>
+    <String NameU="0.57735026918963" Name="0.57735026918963"/>
+    <String NameU="00" Name="00"/>
+    <String NameU="1" Name="1"/>
+    <String NameU="1 Line Inout" Name="1線輸入"/>
+    <String NameU="1-phase" Name="1-phase"/>
+    <String NameU="1.7320508075689" Name="1.7320508075689"/>
+    <String NameU="10" Name="10"/>
+    <String NameU="100%" Name="100%"/>
+    <String NameU="12 px" Name="12 px"/>
+    <String NameU="120 deg." Name="120度"/>
+    <String NameU="135 deg." Name="135度"/>
+    <String NameU="16 px" Name="16 px"/>
+    <String NameU="1:1" Name="1:1"/>
+    <String NameU="1:2" Name="1:2"/>
+    <String NameU="1:3" Name="1:3"/>
+    <String NameU="1:4" Name="1:4"/>
+    <String NameU="1:5" Name="1:5"/>
+    <String NameU="1st extension only" Name="只顯示第一條分機線"/>
+    <String NameU="2" Name="2"/>
+    <String NameU="2 Electrodes" Name="2電極"/>
+    <String NameU="2 Line Input" Name="2 線輸入"/>
+    <String NameU="2-phase" Name="2-相"/>
+    <String NameU="20" Name="20"/>
+    <String NameU="240 deg." Name="240度"/>
+    <String NameU="25%" Name="25%"/>
+    <String NameU="2:1" Name="2:1"/>
+    <String NameU="2nd extension only" Name="只顯示第二條分機線"/>
+    <String NameU="3" Name="3"/>
+    <String NameU="3 Electrodes" Name="3電極"/>
+    <String NameU="3 State Data" Name="3 狀態數據"/>
+    <String NameU="3-phase Delta" Name="3相Delta"/>
+    <String NameU="3-phase Star Type" Name="3相星型"/>
+    <String NameU="3-phase Wye" Name="3相Y型"/>
+    <String NameU="30" Name="30"/>
+    <String NameU="30°" Name="30°"/>
+    <String NameU="3:1" Name="3:1"/>
+    <String NameU="4" Name="4"/>
+    <String NameU="4 Electrodes" Name="4電極"/>
+    <String NameU="4 px" Name="4 像素"/>
+    <String NameU="45 deg." Name="45 度"/>
+    <String NameU="45°" Name="45°"/>
+    <String NameU="4:1" Name="4:1"/>
+    <String NameU="5" Name="5"/>
+    <String NameU="50%" Name="50%"/>
+    <String NameU="5:1" Name="5:1"/>
+    <String NameU="6" Name="6"/>
+    <String NameU="6-phase Diametrical" Name="6相直徑"/>
+    <String NameU="6-phase Double-delta" Name="6相雙Delta"/>
+    <String NameU="60°" Name="60°"/>
+    <String NameU="75%" Name="75%"/>
+    <String NameU="8" Name="8"/>
+    <String NameU="8 px" Name="8 px"/>
+    <String NameU="90 deg." Name="90度"/>
+    <String NameU="A.C." Name="A.C."/>
+    <String NameU="AC" Name="AC"/>
+    <String NameU="AND" Name="AND"/>
+    <String NameU="Active" Name="有源的"/>
+    <String NameU="Add 1 U" Name="添加 1 U"/>
+    <String NameU="Add Microphone" Name="添加麥克風"/>
+    <String NameU="Add a Board" Name="添加1個板"/>
+    <String NameU="Add a Box" Name="添加一個框"/>
+    <String NameU="Add a Category" Name="添加一個類別"/>
+    <String NameU="Add a Chair" Name="添加一张椅子"/>
+    <String NameU="Add a Circle" Name="添加一個圓形"/>
+    <String NameU="Add a Column" Name="添加一列"/>
+    <String NameU="Add a Level" Name="添加一層"/>
+    <String NameU="Add a Pie" Name="添加一個餅形"/>
+    <String NameU="Add a Point" Name="添加一點"/>
+    <String NameU="Add a Ring" Name="添加一圈"/>
+    <String NameU="Add a Row" Name="添加一行"/>
+    <String NameU="Add a Segment" Name="添加一段"/>
+    <String NameU="Add a Step" Name="添加一步"/>
+    <String NameU="Add an Arrow" Name="添加一個箭頭"/>
+    <String NameU="Add an Item" Name="添加一個項目"/>
+    <String NameU="Additional Measuring Freq - On Request" Name="額外測量頻率 - 等待確認"/>
+    <String NameU="Additional Measuring Frequency" Name="額外測量頻率"/>
+	<String NameU="Ad-Hoc" Name="Ad-Hoc"/>
+    <String NameU="Adjustability" Name="可調節性"/>
+    <String NameU="Adjustable" Name="可調節"/>
+    <String NameU="Air" Name="空氣"/>
+    <String NameU="Air-core" Name="空芯"/>
+    <String NameU="Alarm Fuse" Name="報警保險絲"/>
+	<String NameU="Alert 1" Name="警報 1"/>
+	<String NameU="Alert 2" Name="警報 2"/>
+	<String NameU="Alert 3" Name="警報 3"/>
+	<String NameU="Alert 4" Name="警報 4"/>
+    <String NameU="All" Name="全部"/>
+    <String NameU="Alternating" Name="交流"/>
+    <String NameU="Alternating-Current" Name="交流電流"/>
+    <String NameU="Alternative" Name="選擇"/>
+    <String NameU="Alternative Form" Name="備選樣式"/>
+    <String NameU="Alternative Symbol" Name="備選符號"/>
+    <String NameU="Ammeter" Name="安培計"/>
+    <String NameU="Amplified Phone" Name="擴音電话"/>
+    <String NameU="Amplifier Type" Name="擴音器類型"/>
+    <String NameU="Analog to Digital" Name="從模擬到數字轉換"/>
+    <String NameU="Angle" Name="角度"/>
+    <String NameU="Angle 2" Name="角度 2"/>
+    <String NameU="Angled" Name="傾斜"/>
+    <String NameU="Angled Text" Name="傾斜文本"/>
+    <String NameU="Appearance Options" Name="外觀選項"/>
+    <String NameU="Arc-type Display" Name="弧形陳列"/>
+    <String NameU="Arrow" Name="箭頭"/>
+	<String NameU="Arrow 1" Name="箭頭 1"/>
+	<String NameU="Arrow 2" Name="箭頭 2"/>
+	<String NameU="Arrow 3" Name="箭頭 3"/>
+	<String NameU="Arrow 4" Name="箭頭 4"/>
+    <String NameU="Arrow Number" Name="箭頭數"/>
+    <String NameU="Arrow Size" Name="箭頭大小"/>
+    <String NameU="Arrow Style" Name="箭頭樣式"/>
+    <String NameU="Artificial" Name="人工的"/>
+    <String NameU="Attribute" Name="屬性"/>
+    <String NameU="Auto Degree Measurement" Name="自動測量角度"/>
+    <String NameU="Auto Length Measurement" Name="自動測量長度"/>
+    <String NameU="Auto Size Measurement" Name="自動測量大小"/>
+	<String NameU="Average" Name="中等的"/>
+    <String NameU="Axial" Name="軸流式"/>
+    <String NameU="Axis Horizontal Grid" Name="水平網格"/>
+    <String NameU="Axis Label Orientation" Name="軸標簽方向"/>
+    <String NameU="Axis Number" Name="軸數"/>
+    <String NameU="Axis Tick Number" Name="軸刻度數"/>
+    <String NameU="Axis Vertical Grid" Name="垂直網格"/>
+	<String NameU="Bad" Name="坏的"/>
+    <String NameU="Balancing Network" Name="平衡網路"/>
+    <String NameU="Ball" Name="球"/>
+    <String NameU="Band of Mixed Channels" Name="混合通道頻段"/>
+    <String NameU="Band-pass Filter" Name="頻率濾波器"/>
+    <String NameU="Band-stop Filter" Name="帶阻濾波器"/>
+    <String NameU="Base" Name="底部"/>
+    <String NameU="Begin Only" Name="只顯示開始延長線"/>
+    <String NameU="Behind Control Panel" Name="控製面板後"/>
+    <String NameU="Behind a Local Control Panel" Name="本地控製面板後"/>
+    <String NameU="Bell Type" Name="鈴類型"/>
+    <String NameU="Binary" Name="二進製"/>
+    <String NameU="Blade" Name="葉片"/>
+    <String NameU="Blue" Name="藍色"/>
+    <String NameU="Boolean" Name="布爾"/>
+	<String NameU="Boundary - Call" Name="邊界-調用"/>
+	<String NameU="Boundary - Default" Name="邊界-默認"/>
+	<String NameU="Boundary - Event" Name="邊界-事件"/>
+	<String NameU="Boundary - Transaction" Name="邊界-交易"/>
+    <String NameU="Both" Name="顯示兩條"/>
+    <String NameU="Both Arrow" Name="兩种箭頭"/>
+    <String NameU="Both Windings" Name="兩种繞組"/>
+    <String NameU="Both-way Amplification" Name="雙向放大"/>
+    <String NameU="Bottom" Name="底部"/>
+    <String NameU="Bottom Hook" Name="底部掛鉤"/>
+    <String NameU="Bottom Left" Name="左下"/>
+    <String NameU="Bottom Right" Name="右下"/>
+    <String NameU="Brand" Name="品牌"/>
+    <String NameU="Break Contact" Name="斷開接點"/>
+    <String NameU="Breviary" Name="簡約"/>
+    <String NameU="Bridge" Name="橋"/>
+    <String NameU="Briquetting Machine Type" Name="壓塊機類型"/>
+    <String NameU="Bubble Max Size" Name="氣泡最大尺寸"/>
+    <String NameU="Bubble Min Size" Name="氣泡最小尺寸"/>
+	<String NameU="Call" Name="命名"/>
+    <String NameU="Can" Name="罐頭"/>
+    <String NameU="Cancel" Name="取消"/>
+    <String NameU="Canceled" Name="已取消"/>
+    <String NameU="Capacitor" Name="電容器"/>
+    <String NameU="Carbon Block" Name="碳塊"/>
+    <String NameU="Carrier Frequency" Name="載波頻率"/>
+    <String NameU="Category Interval" Name="類別間距"/>
+    <String NameU="Category Number" Name="類別數"/>
+    <String NameU="Center" Name="中間"/>
+	<String NameU="Center points" Name="中心點"/>
+    <String NameU="Center Position" Name="中間位置"/>
+    <String NameU="Center-Down" Name="中——下"/>
+    <String NameU="Center-Up" Name="中——上"/>
+    <String NameU="Centimeters" Name="厘米"/>
+    <String NameU="Centrifugal" Name="離心"/>
+    <String NameU="Centrifuge Type" Name="離心機類型"/>
+    <String NameU="Change Appearance" Name="改變外觀"/>
+    <String NameU="Change Arrow Position" Name="改變箭頭位置"/>
+    <String NameU="Change Arrow Size" Name="改變箭頭大小"/>
+    <String NameU="Change Arrow Style" Name="改變箭頭樣式"/>
+    <String NameU="Change Box Style" Name="改變框的形狀"/>
+	<String NameU="Change Cable Type" Name="更改電缆類型"/>
+    <String NameU="Change Center Shape Style" Name="改變中心形狀的樣式"/>
+    <String NameU="Change Center Style" Name="改變中心樣式"/>
+    <String NameU="Change Circle Position" Name="改變圓形的位置"/>
+    <String NameU="Change Color Mode" Name="改變顏色"/>
+    <String NameU="Change Flow Type" Name="變更流程類型"/>
+    <String NameU="Change Gap Size" Name="改變間隙大小"/>
+    <String NameU="Change Item Style" Name="改變項目樣式"/>
+	<String NameU="Change Number of Line" Name="改變線數量"/>
+    <String NameU="Change Orientation" Name="改變方向"/>
+    <String NameU="Change Photo" Name="更改照片"/>
+    <String NameU="Change Photo Size" Name="改變照片大小"/>
+    <String NameU="Change Position" Name="改變位置"/>
+    <String NameU="Change Ring Thickness" Name="改變圈的厚度"/>
+    <String NameU="Change Segment Arrow Style" Name="改變分段箭頭的樣式"/>
+    <String NameU="Change Shape Style" Name="改變形狀樣式"/>
+    <String NameU="Change Step Size" Name="改變形狀大小"/>
+    <String NameU="Change Style" Name="改變樣式"/>
+    <String NameU="Change Title Style" Name="改變標题樣式"/>
+    <String NameU="Change the Picture" Name="改變圖片"/>
+    <String NameU="Channel" Name="通道"/>
+    <String NameU="Check" Name="選中"/>
+    <String NameU="Check Valve 1" Name="止回閥 1"/>
+    <String NameU="Check Valve 2" Name="止回閥 2"/>
+    <String NameU="Check Valve 3" Name="止回閥 3"/>
+    <String NameU="Checkbox" Name="複選框"/>
+    <String NameU="Checked" Name="選中"/>
+    <String NameU="Circle" Name="圓形"/>
+    <String NameU="Circle Mark" Name="圓形標記"/>
+    <String NameU="Circle Number" Name="圓形數量"/>
+    <String NameU="Cirle Marker" Name="圓形標注"/>
+    <String NameU="Class" Name="類"/>
+    <String NameU="Close" Name="關"/>
+    <String NameU="Close Arrow End" Name="封閉箭尾"/>
+    <String NameU="Close Bottom" Name="底部關閉"/>
+    <String NameU="Close Circuit" Name="連接電路"/>
+    <String NameU="Close End" Name="封閉箭尾"/>
+    <String NameU="Close Left" Name="關閉左邊"/>
+    <String NameU="Close Right" Name="關閉右邊"/>
+    <String NameU="Close Right Tube" Name="關閉右侧管"/>
+    <String NameU="Close Top" Name="關閉頂部"/>
+    <String NameU="Close on Actuation" Name="启動時閉合"/>
+    <String NameU="Close on Actuation or Release" Name="启動或释放時閉合"/>
+    <String NameU="Close on Release" Name="释放時閉合"/>
+    <String NameU="Closed" Name="關"/>
+    <String NameU="Coarse" Name="粗"/>
+    <String NameU="Coaxial" Name="同軸"/>
+    <String NameU="Coin Box" Name="硬幣製公用電话"/>
+	<String NameU="Collapsed" Name="折疊子流程"/>
+	<String NameU="Collapsed Sub-Process" Name="折疊子流程"/>
+    <String NameU="Color 'Fabrication' Black" Name="方形黑色"/>
+    <String NameU="Color 'Inspection' Black" Name="三角形黑色"/>
+    <String NameU="Color 'Move' Black" Name="倒三角形黑色"/>
+    <String NameU="Color 'Store' Black" Name="圓形黑色"/>
+    <String NameU="Column" Name="列"/>
+    <String NameU="Column Number" Name="列數"/>
+    <String NameU="Combustion" Name="燃燒"/>
+    <String NameU="Common Point" Name="公共點"/>
+    <String NameU="Communication Service" Name="通信服務"/>
+    <String NameU="Commutating or Compensating" Name="串聯或補偿"/>
+	<String NameU="Compensation" Name="補偿"/>
+    <String NameU="Complete" Name="完整"/>
+    <String NameU="Complete Category" Name="完整類別"/>
+    <String NameU="Complete Symbol" Name="完整符號"/>
+    <String NameU="Completed" Name="完成"/>
+	<String NameU="Complex" Name="複雜的"/>
+    <String NameU="Compressor" Name="壓縮機"/>
+    <String NameU="Compressor Type" Name="壓縮機類型"/>
+    <String NameU="Concave" Name="凹面的"/>
+    <String NameU="Concave Lens" Name="凹面鏡"/>
+    <String NameU="Concentrating" Name="集中"/>
+    <String NameU="Cone" Name="錐式"/>
+    <String NameU="Configure 2-line Bus Elbow..." Name="設置2線总線弯頭..."/>
+    <String NameU="Configure 2-line Bus..." Name="設置2線总線..."/>
+    <String NameU="Configure Amplifier..." Name="設置擴音器..."/>
+    <String NameU="Configure Bell..." Name="設置鈴..."/>
+    <String NameU="Configure Changer..." Name="設置變頻器..."/>
+    <String NameU="Configure Chip..." Name="設置芯片..."/>
+    <String NameU="Configure Controlled rectifier..." Name="設置可控整流..."/>
+    <String NameU="Configure Converter..." Name="設置變流器..."/>
+    <String NameU="Configure Delay Element..." Name="設置延遲單元..."/>
+    <String NameU="Configure Diode..." Name="設置二極管..."/>
+    <String NameU="Configure Direction of Flow..." Name="設置流向..."/>
+    <String NameU="Configure Filter..." Name="設置濾波器..."/>
+    <String NameU="Configure Flip-flop..." Name="設置觸發器..."/>
+    <String NameU="Configure Frequency band..." Name="設置頻段..."/>
+    <String NameU="Configure Frequency spectrum element..." Name="設置頻譜元..."/>
+    <String NameU="Configure Function Generator..." Name="設置函數生成器..."/>
+    <String NameU="Configure Heating Element..." Name="設置加熱元件..."/>
+    <String NameU="Configure IGFET N-type..." Name="設置 IGFET N型..."/>
+    <String NameU="Configure IGFET P-type..." Name="設置 IGFET P型..."/>
+    <String NameU="Configure Indicator..." Name="設置指示器..."/>
+    <String NameU="Configure Inductance Capacitance..." Name="設置電感電容..."/>
+    <String NameU="Configure Inductor..." Name="設置感應器..."/>
+    <String NameU="Configure Laser and Maser..." Name="配置激光和微波激射器..."/>
+    <String NameU="Configure Line/Cable..." Name="設置線/電缆..."/>
+    <String NameU="Configure Logic Gate..." Name="設置邏輯門..."/>
+    <String NameU="Configure MOSFET..." Name="設置MOSFET..."/>
+    <String NameU="Configure Material..." Name="設置物質..."/>
+    <String NameU="Configure Microphone..." Name="設置麦克风..."/>
+    <String NameU="Configure Networks..." Name="設置網絡..."/>
+    <String NameU="Configure Ohmic..." Name="設置歐姆..."/>
+    <String NameU="Configure Pulse modulation..." Name="設置脈衝調製..."/>
+    <String NameU="Configure Recorder/reproducer..." Name="設置錄音機/揚聲器..."/>
+    <String NameU="Configure Surge Protector..." Name="設置浪湧保護器..."/>
+    <String NameU="Configure Terminating sets..." Name="設定終端設置..."/>
+    <String NameU="Conjugated" Name="共軛的"/>
+    <String NameU="Conjugated Replicated Class" Name="公軛複製類"/>
+    <String NameU="Conjugated Replicated Reference" Name="公軛複製参考"/>
+    <String NameU="Connection Size" Name="連接尺寸"/>
+    <String NameU="Contact Type" Name="連接類型"/>
+    <String NameU="Container" Name="容器"/>
+    <String NameU="Context" Name="上下文"/>
+    <String NameU="Continuous" Name="持續"/>
+    <String NameU="Continuously Adjustable" Name="連續可調"/>
+    <String NameU="Control Access" Name="控製訪問"/>
+    <String NameU="Control Method" Name="控製方法"/>
+    <String NameU="Control transformer" Name="控製變壓器"/>
+    <String NameU="Converter Type" Name="轉換器類型"/>
+    <String NameU="Convex" Name="凸面的"/>
+    <String NameU="Convex Lens" Name="凸透鏡"/>
+    <String NameU="Conveyor" Name="傳送帶"/>
+    <String NameU="Conveyor with Buckets" Name="帶桶傳送帶"/>
+    <String NameU="Conveyor with Hooks" Name="帶鉤傳送帶"/>
+    <String NameU="Core" Name="芯"/>
+    <String NameU="Cost" Name="費用"/>
+    <String NameU="Crank" Name="曲柄"/>
+    <String NameU="Created" Name="創建"/>
+    <String NameU="Cross" Name="叉"/>
+    <String NameU="Crusher Type" Name="壓碎機類型"/>
+    <String NameU="Current Value" Name="當前值"/>
+	<String NameU="Cyan" Name="青"/>
+    <String NameU="D Flip-flop" Name="D觸發器"/>
+    <String NameU="DC" Name="DC"/>
+    <String NameU="DC Converter" Name="DC變流器"/>
+    <String NameU="Data" Name="數據"/>
+    <String NameU="Data Format" Name="數據格式"/>
+    <String NameU="Data Label Options" Name="數據標簽選項"/>
+    <String NameU="Data Label Orientation" Name="數據標簽方向"/>
+    <String NameU="Data Label Position" Name="數據標簽位置"/>
+    <String NameU="Data Precision" Name="數據精度"/>
+    <String NameU="Data Type" Name="數據類型"/>
+    <String NameU="Date" Name="日期"/>
+    <String NameU="Date Format" Name="日期格式"/>
+    <String NameU="Day" Name="天"/>
+    <String NameU="De-emphasize Higher Frequencies" Name="去加重高次頻率"/>
+    <String NameU="Decision" Name="决定"/>
+    <String NameU="Deg" Name="度"/>
+    <String NameU="Deg-Min-Sec" Name="度-分-秒"/>
+    <String NameU="Degrees" Name="度"/>
+    <String NameU="Dehydrator" Name="脱水機"/>
+    <String NameU="Delay Type" Name="延遲類型"/>
+    <String NameU="Delayed when Closing" Name="關閉時延遲"/>
+    <String NameU="Delayed when Closing and Re-opening" Name="關閉或重新打開時延遲"/>
+    <String NameU="Delayed when Re-opening" Name="重新打開時延遲"/>
+    <String NameU="Delete 1 U" Name="删除1個單元"/>
+    <String NameU="Delete Button" Name="删除按鈕"/>
+    <String NameU="Delete a Board" Name="删除一塊板"/>
+    <String NameU="Delete a Box" Name="删除一個框"/>
+    <String NameU="Delete a Category" Name="删除一個類別"/>
+    <String NameU="Delete a Chair" Name="删除一张椅子"/>
+    <String NameU="Delete a Circle" Name="删除一個圓形"/>
+    <String NameU="Delete a Column" Name="删除一列"/>
+    <String NameU="Delete a Level" Name="删除一層"/>
+    <String NameU="Delete a Pie" Name="删除一個餅形"/>
+    <String NameU="Delete a Point" Name="删除一點"/>
+    <String NameU="Delete a Ring" Name="删除一圈"/>
+    <String NameU="Delete a Row" Name="删除一行"/>
+    <String NameU="Delete a Segment" Name="删除一段"/>
+    <String NameU="Delete a Step" Name="删除一步"/>
+    <String NameU="Delete an Arrow" Name="删除一個箭頭"/>
+    <String NameU="Delete an Item" Name="删除一個項目"/>
+    <String NameU="Delete this Box" Name="删除此框"/>
+    <String NameU="Delete this Circle" Name="删除此圈"/>
+    <String NameU="Delete this Item" Name="删除此项"/>
+    <String NameU="Delete this Level" Name="删除此層"/>
+    <String NameU="Delete this Row" Name="删除此行"/>
+    <String NameU="Delete this Segment" Name="删除此段"/>
+    <String NameU="Delete this Step" Name="删除此層步"/>
+    <String NameU="Department" Name="部門"/>
+    <String NameU="Dependent Entity" Name="依賴實體"/>
+    <String NameU="Depletion" Name="損耗"/>
+    <String NameU="Derived Attribute" Name="派生屬性"/>
+    <String NameU="Description" Name="描述"/>
+    <String NameU="Device Type" Name="設备類型"/>
+    <String NameU="Dial" Name="拨號式"/>
+	<String NameU="Diameter" Name="直徑"/>
+    <String NameU="Diamond" Name="菱形"/>
+    <String NameU="Diamond Mark" Name="菱性標記"/>
+    <String NameU="Diaphragm 1" Name="隔板 1"/>
+    <String NameU="Diaphragm 2" Name="隔板 2"/>
+    <String NameU="Diaphragm 3" Name="隔板 3"/>
+    <String NameU="Differential Receiver" Name="差動接收機 "/>
+    <String NameU="Differential Voltmeter" Name="差動式伏特計"/>
+    <String NameU="Differentiating" Name="差分"/>
+    <String NameU="Digital to Analog" Name="從數字到模擬"/>
+    <String NameU="Direction" Name="方向"/>
+    <String NameU="Direction Finding" Name="測向"/>
+    <String NameU="Directly Heated" Name="直接加熱"/>
+    <String NameU="Disable" Name="添加背景"/>
+    <String NameU="Disengaged" Name="脱離的"/>
+	<String NameU="Display across line" Name="横線顯示"/>
+    <String NameU="Document" Name="文件"/>
+    <String NameU="Don't Show Units" Name="不顯示單位"/>
+    <String NameU="Double Circle" Name="雙圓圈"/>
+    <String NameU="Double Line" Name="雙線"/>
+	<String NameU="Dotted Line" Name="虚線"/>
+    <String NameU="Down" Name="下"/>
+	<String NameU="Down direction" FromShape="向下"/>
+    <String NameU="Down Position" Name="下"/>
+    <String NameU="Draft" Name="草稿"/>
+    <String NameU="Dry" Name="乾"/>
+    <String NameU="Dual Circle" Name="雙圓圈"/>
+    <String NameU="Dual Diamond" Name="雙菱形"/>
+    <String NameU="Dual Rectangle" Name="雙矩形"/>
+    <String NameU="Dual Triangle" Name="雙三角"/>
+    <String NameU="Duplex" Name="雙聯"/>
+    <String NameU="Duplicated Entity" Name="重複實體"/>
+    <String NameU="Duration" Name="持續時間"/>
+    <String NameU="Early to Close" Name="早閉合"/>
+    <String NameU="Edit Reference" Name="编輯引用"/>
+    <String NameU="Electret" Name="駐極體"/>
+    <String NameU="Electrolytic" Name="電解的"/>
+    <String NameU="Element Type" Name="元素類型"/>
+    <String NameU="Ellipse" Name="橢圓"/>
+    <String NameU="Email" Name="郵箱"/>
+    <String NameU="Emergency switch" Name="緊急開關"/>
+    <String NameU="Enable" Name="消除背景"/>
+    <String NameU="End Date" Name="結束日期"/>
+    <String NameU="End Only" Name="只顯示末端延長線"/>
+    <String NameU="End Station" Name="端站"/>
+    <String NameU="Engaged" Name="使用中的"/>
+    <String NameU="Enhancement" Name="放大"/>
+    <String NameU="Envelop" Name="包絡"/>
+    <String NameU="Envelope" Name="包絡"/>
+    <String NameU="Erasing" Name="清除"/>
+    <String NameU="Erect Band of Frequencies" Name="直頻帶"/>
+    <String NameU="Error" Name="錯误"/>
+	<String NameU="Excellent" Name="优秀的"/>
+    <String NameU="Exchange Side" Name="兩侧交換"/>
+    <String NameU="Exclusion" Name="排除"/>
+	<String NameU="Exclusive Data" Name="獨占數據"/>
+	<String NameU="Exclusive Data with Marker" Name="帶標記的獨占數據"/>
+	<String NameU="Exclusive Event" Name="獨家活動"/>
+    <String NameU="Expander" Name="擴展器"/>
+    <String NameU="Expanding" Name="擴展"/>
+    <String NameU="Extension" Name="延長"/>
+    <String NameU="Extension Lines" Name="延長線"/>
+    <String NameU="External" Name="外部"/>
+    <String NameU="External Connection" Name="外部連接"/>
+    <String NameU="Extractor Hood Type" Name="油烟機類型"/>
+	<String NameU="Extra Small;Small;Medium;Large;Very Large;Super Large" Name="特小;小;中;大;非常大;超大"/>
+    <String NameU="FALSE" Name="錯"/>
+    <String NameU="Facsimile" Name="傳真機"/>
+    <String NameU="False" Name="錯"/>
+    <String NameU="Fan Type" Name="风扇類型"/>
+    <String NameU="Fast Backward" Name="快退"/>
+    <String NameU="Fast Forward" Name="快進"/>
+    <String NameU="Feet" Name="底部"/>
+    <String NameU="Female Connectors" Name="阴連接點"/>
+    <String NameU="Female Contact" Name="阴接觸件"/>
+    <String NameU="Fine" Name="细"/>
+    <String NameU="Fire" Name="火"/>
+    <String NameU="First Derivative" Name="1衍生物"/>
+    <String NameU="Fixed" Name="固定"/>
+    <String NameU="Flat Fire" Name="平火焰"/>
+    <String NameU="Flip-flop Type" Name="觸發器類型"/>
+    <String NameU="Float-operated" Name="浮體操作"/>
+    <String NameU="Floating Head" Name="浮動磁頭"/>
+    <String NameU="Fluid Separator Type" Name="液分離器類型"/>
+    <String NameU="Fluidized" Name="流化床"/>
+    <String NameU="Four Blades" Name="四葉片"/>
+    <String NameU="Frequency Band" Name="頻帶"/>
+    <String NameU="Frequency Changer" Name="變頻器 "/>
+    <String NameU="Frequency Meter" Name="頻率計 "/>
+    <String NameU="From 10% to 100%" Name="從 10% 到 100%"/>
+    <String NameU="Galvanometer" Name="電流計"/>
+    <String NameU="Gap Distance" Name="間隙距離"/>
+    <String NameU="Gap Size" Name="間隙大小"/>
+    <String NameU="Gas" Name="氣體"/>
+    <String NameU="Gas Turbine" Name="燃氣渦轮"/>
+    <String NameU="Gate" Name="門"/>
+    <String NameU="Gate Type" Name="門類型"/>
+    <String NameU="General" Name="常規"/>
+    <String NameU="General Fuse" Name="常規保險絲"/>
+    <String NameU="General Speed" Name="一般速度"/>
+    <String NameU="Generator" Name="發電機"/>
+	<String NameU="Good" Name="符合標準的"/>
+	<String NameU="Good Quality" Name="質量好"/>
+    <String NameU="Gravitation" Name="萬有引力"/>
+    <String NameU="Gray" Name="灰色"/>
+    <String NameU="Green" Name="綠色"/>
+    <String NameU="Ground" Name="地面"/>
+    <String NameU="Grounded" Name="接地"/>
+    <String NameU="Group of Erect Channels" Name="安裝頻道群"/>
+    <String NameU="Hammer" Name="铁锤"/>
+    <String NameU="Hand Generator" Name="手動發電機"/>
+    <String NameU="Hand-operated" Name="手動操作"/>
+    <String NameU="Handwheel" Name="手轮"/>
+    <String NameU="Hdie Center" Name="隱藏中心"/>
+    <String NameU="Heat Exchanger Type" Name="換熱器類型"/>
+    <String NameU="Heat Source Type" Name="熱源類型"/>
+    <String NameU="Heating Element" Name="加熱元件"/>
+    <String NameU="Height" Name="高度"/>
+	<String NameU="Hide across line" Name="横線隱藏"/>
+    <String NameU="Hide Arrow" Name="隱藏箭頭"/>
+    <String NameU="Hide Axis" Name="隱藏軸"/>
+    <String NameU="Hide Axis Labels" Name="隱藏軸標簽"/>
+    <String NameU="Hide Border" Name="隱藏邊框"/>
+    <String NameU="Hide Bottom" Name="隱藏底部"/>
+    <String NameU="Hide Bottom Line" Name="隱藏底部線條"/>
+    <String NameU="Hide Button" Name="隱藏按鈕"/>
+    <String NameU="Hide Center" Name="隱藏中心"/>
+    <String NameU="Hide Center Circle" Name="隱藏中心圓形"/>
+    <String NameU="Hide Center Shape" Name="隱藏中心形狀"/>
+    <String NameU="Hide Circle" Name="隱藏圓形"/>
+    <String NameU="Hide Connect Line" Name="隱藏連接線"/>
+    <String NameU="Hide Cross" Name="隱藏十字"/>
+    <String NameU="Hide Cross Line" Name="隱藏交叉線"/>
+    <String NameU="Hide Data Labels" Name="隱藏數據標簽"/>
+    <String NameU="Hide Delete" Name="隱藏删除按鈕"/>
+    <String NameU="Hide Dot" Name="隱藏點"/>
+    <String NameU="Hide End Tick" Name="隱藏最後一個鉤"/>
+    <String NameU="Hide Envelop" Name="隱藏包围"/>
+    <String NameU="Hide Exit Width" Name="隱藏出口寬度"/>
+    <String NameU="Hide First Block of Title" Name="隱藏標题的第一個文本框"/>
+    <String NameU="Hide Granule" Name="隱藏颗粒"/>
+    <String NameU="Hide Grid" Name="隱藏網格"/>
+    <String NameU="Hide Groove" Name="隱藏沟"/>
+    <String NameU="Hide Horizontal Grid" Name="隱藏水平網格"/>
+    <String NameU="Hide Image" Name="隱藏圖片"/>
+    <String NameU="Hide Junction" Name="隱藏連接點"/>
+    <String NameU="Hide Left Box" Name="隱藏左框"/>
+    <String NameU="Hide Left Text" Name="隱藏左邊文本"/>
+    <String NameU="Hide Legend" Name="隱藏圖例"/>
+    <String NameU="Hide Line" Name="隱藏線"/>
+    <String NameU="Hide Liquid" Name="隱藏液體"/>
+    <String NameU="Hide Middle Circle" Name="隱藏中間圓圈"/>
+    <String NameU="Hide Neutral" Name="隱藏接地"/>
+    <String NameU="Hide Operator" Name="隱藏操作符"/>
+    <String NameU="Hide Percentage Labels" Name="隱藏百分比標簽"/>
+    <String NameU="Hide Photo" Name="隱藏照片"/>
+    <String NameU="Hide Polarity Symbols" Name="隱藏極性符號"/>
+    <String NameU="Hide Reflector" Name="隱藏反射鏡"/>
+    <String NameU="Hide Refresh Button" Name="隱藏刷新按鈕"/>
+    <String NameU="Hide Right Text" Name="隱藏右邊文本"/>
+    <String NameU="Hide Ruler" Name="隱藏標尺"/>
+    <String NameU="Hide SWOT" Name="隱藏 SWOT"/>
+    <String NameU="Hide Scale Mark" Name="隱藏刻度標記"/>
+    <String NameU="Hide Seam" Name="隱藏接缝"/>
+    <String NameU="Hide Solid Matter" Name="隱藏固體物"/>
+    <String NameU="Hide Stair Stagger" Name="隱藏楼梯轉盤"/>
+    <String NameU="Hide Table" Name="隱藏表格"/>
+    <String NameU="Hide Tank Lip" Name="隱藏水箱簷"/>
+    <String NameU="Hide Text" Name="隱藏文本"/>
+    <String NameU="Hide Text Block" Name="隱藏文本框"/>
+    <String NameU="Hide Tick" Name="隱藏梗"/>
+    <String NameU="Hide Title" Name="隱藏標题"/>
+    <String NameU="Hide Title Bar" Name="隱藏標题條"/>
+    <String NameU="Hide Vertical Grid" Name="隱藏垂直網格"/>
+    <String NameU="Hide/Show Axis" Name="隱藏/顯示軸"/>
+    <String NameU="Hide/Show Grid" Name="隱藏/顯示網格"/>
+    <String NameU="High" Name="高"/>
+    <String NameU="High Gain" Name="高增益"/>
+    <String NameU="High Speed" Name="高速"/>
+    <String NameU="High-pass Filter" Name="高通濾波器"/>
+    <String NameU="High-speed Roller" Name="高速滚筒式"/>
+    <String NameU="Highlight" Name="高光"/>
+    <String NameU="Hoist" Name="起重機"/>
+    <String NameU="Hoist Type" Name="起重機類型"/>
+    <String NameU="Hoist with Grab" Name="有把手的起重機"/>
+    <String NameU="Hoist with Hook" Name="有鉤的起重機"/>
+    <String NameU="Hollow" Name="中空"/>
+    <String NameU="Hollow Band" Name="空心帶"/>
+    <String NameU="Hollow Brand" Name="空心帶"/>
+    <String NameU="Hollow Circle" Name="中空环"/>
+    <String NameU="Hollow Diamond" Name="中空菱形"/>
+    <String NameU="Hollow Rectangle" Name="中空矩形"/>
+    <String NameU="Hollow Triangle" Name="中空三角形"/>
+    <String NameU="Horizontal" Name="水平"/>
+    <String NameU="Horizontal Blades" Name="水平葉片"/>
+    <String NameU="Horn Gap" Name="角隙"/>
+    <String NameU="Hybrid Transformer" Name="混合變壓器 "/>
+    <String NameU="ID" Name="ID"/>
+    <String NameU="Icon" Name="圖標"/>
+    <String NameU="If Max Value is -1, it will takes the large one of Value 1 and Value 2." Name="如果最大值為-1，将取數據1和數據2中较大的一個。"/>
+    <String NameU="Impact" Name="衝擊式"/>
+    <String NameU="Implementational" Name="實施過程中"/>
+    <String NameU="Imported" Name="導入"/>
+    <String NameU="Imported and Substitutable" Name="導入且可替代"/>
+    <String NameU="In Progress" Name="進行中"/>
+    <String NameU="In Service" Name="服務中"/>
+    <String NameU="In the Field" Name="在域中"/>
+    <String NameU="Inches" Name="英寸"/>
+    <String NameU="Incoming" Name="向内"/>
+	<String NameU="Inclusive" Name="包容的"/>
+    <String NameU="Independent Entity" Name="獨立實體"/>
+    <String NameU="Indicator" Name="指示器"/>
+    <String NameU="Indirectly Heated" Name="間接加熱"/>
+    <String NameU="Inertial" Name="慣性的"/>
+    <String NameU="Infinite Reactance" Name="無線阻抗"/>
+    <String NameU="Infinite Reactance - Zero susceptance" Name="無限阻抗,零電納"/>
+    <String NameU="Initial" Name="初始的"/>
+    <String NameU="Inner Arrow" Name="向内箭頭"/>
+    <String NameU="Input" Name="輸入"/>
+    <String NameU="Input the number between 0 to 360" Name="輸入 0 到 360 之間的數字"/>
+    <String NameU="Input(s)" Name="輸入"/>
+    <String NameU="Insert a Box" Name="插入一個框"/>
+    <String NameU="Insert a Circle" Name="插入一圈"/>
+    <String NameU="Insert a Level" Name="插入一層"/>
+    <String NameU="Insert a Row" Name="插入一個箭頭"/>
+    <String NameU="Insert a Segment" Name="插入一段"/>
+    <String NameU="Insert a Step" Name="插入一步"/>
+    <String NameU="Insert an Item" Name="插入一個項目"/>
+    <String NameU="Inside Data Labels" Name="數據標簽在内"/>
+    <String NameU="Inside Text" Name="文本在内"/>
+    <String NameU="Insulated Heating Element" Name="絕缘加熱元件"/>
+    <String NameU="Insulating" Name="絕缘的"/>
+	<String NameU="Instantiate Exclusive Event" Name="實例化獨占事件"/>
+	<String NameU="Instantiate Parallel Event" Name="實例化並行事件"/>
+    <String NameU="Integer" Name="整數"/>
+    <String NameU="Integrating" Name="集成"/>
+    <String NameU="Interconnected" Name="互聯"/>
+    <String NameU="Internal" Name="内部"/>
+    <String NameU="Internal Connection" Name="内部聯系"/>
+    <String NameU="Interval" Name="間距"/>
+    <String NameU="Invert Arrow" Name="箭頭轉向"/>
+    <String NameU="Invert Triangle" Name="反轉三角形"/>
+    <String NameU="Inverted Band of Frequencies" Name="反轉頻帶"/>
+    <String NameU="Inverter" Name="換流器"/>
+    <String NameU="Invisible" Name="隱藏"/>
+    <String NameU="Inward" Name="向内"/>
+    <String NameU="Item Number" Name="項目數"/>
+    <String NameU="JK Flip-flop" Name="JK 觸發器"/>
+    <String NameU="Jack" Name="插座"/>
+    <String NameU="Jaw" Name="插頭"/>
+    <String NameU="Jet" Name="喷氣式"/>
+    <String NameU="Jumbo" Name="超大"/>
+    <String NameU="Keep Image Ratio" Name="保持圖片纵横比例"/>
+    <String NameU="Keep Photo Ratio" Name="保持照片纵横比例"/>
+    <String NameU="Key" Name="關鍵"/>
+    <String NameU="Key Attribute" Name="關鍵屬性"/>
+    <String NameU="Keyboard" Name="鍵盤"/>
+    <String NameU="Kilometers" Name="千米"/>
+    <String NameU="Kneader Type" Name="捏合機類型"/>
+    <String NameU="Label" Name="標注"/>
+    <String NameU="Large" Name="大"/>
+    <String NameU="Large Scale / Converting" Name="大規模/變電"/>
+    <String NameU="Large Scale / General" Name="大規模/換流"/>
+    <String NameU="Laser Generator" Name="激光器"/>
+    <String NameU="Laser, General" Name="激光，常規"/>
+    <String NameU="Latch Flip-flop" Name="鎖存觸發器"/>
+    <String NameU="Late to Close" Name="晚期關閉"/>
+    <String NameU="Left" Name="左"/>
+	<String NameU="Left direction" Name="向左"/>
+    <String NameU="Left Icon Type" Name="左圖標類型"/>
+    <String NameU="Left Side" Name="左"/>
+    <String NameU="Left hemisphere value." Name="左半圓值"/>
+    <String NameU="Level Number" Name="層數"/>
+    <String NameU="Light Sensitive" Name="光敏感"/>
+    <String NameU="Line Size" Name="線條粗细"/>
+    <String NameU="Line-type Display" Name="直線形陳列"/>
+    <String NameU="Link" Name="链接"/>
+    <String NameU="Liquid" Name="液體"/>
+    <String NameU="Load Data from File" Name="從文件加載數據"/>
+    <String NameU="Loaded" Name="負載"/>
+    <String NameU="Lock" Name="鎖定"/>
+    <String NameU="Logarithmic" Name="對數的"/>
+    <String NameU="Logical" Name="邏輯的"/>
+	<String NameU="Loop - None" Name="循環-無"/>
+	<String NameU="Loop - Parallel Multi-Instance" Name="循環並行多實例"/>
+	<String NameU="Loop - Sequential Multi-Instance" Name="循環-順序多實例"/>
+	<String NameU="Loop - Standard" Name="循環-標準"/>
+    <String NameU="Low" Name="低"/>
+    <String NameU="Low-pass Filter" Name="低通濾波器"/>
+    <String NameU="M/d/yyyy" Name="M/d/yyyy"/>
+    <String NameU="M/d/yyyy h:mm AM/PM" Name="M/d/yyyy h:mm AM/PM"/>
+    <String NameU="MMM d,yyyy" Name="MMM d,yyyy"/>
+    <String NameU="Machine Type" Name="機器類型"/>
+    <String NameU="Magnetic" Name="磁性"/>
+    <String NameU="Magnetic with Gap" Name="帶隙磁路"/>
+    <String NameU="Magnetic-core" Name="磁芯"/>
+    <String NameU="Magnetically Polarized" Name="極化"/>
+    <String NameU="Magnetostrictive" Name="磁致伸縮"/>
+    <String NameU="Make Contact" Name="閉合觸點 "/>
+    <String NameU="Male Connectors" Name="陽性接頭"/>
+    <String NameU="Male Contact" Name="陽接觸件"/>
+	<String NameU="Man" Name="男人"/>
+    <String NameU="Manufacturer" Name="製造商"/>
+    <String NameU="Many-to-Many" Name="多對多"/>
+    <String NameU="Marker Size" Name="標記尺寸"/>
+    <String NameU="Marker Style" Name="標記樣式"/>
+    <String NameU="Maser Amplifier" Name="微波激射放大器"/>
+    <String NameU="Maser, General" Name="微波激射, 常規"/>
+    <String NameU="Mastergroup" Name="主群"/>
+    <String NameU="Material" Name="物質"/>
+    <String NameU="Max Scale" Name="最大刻度"/>
+    <String NameU="Max Value" Name="最大值"/>
+    <String NameU="Max data value of all the bubbles" Name="所有氣泡數據的最大值"/>
+    <String NameU="Max.Demand Indicator" Name="最高需量指示器"/>
+    <String NameU="Mechanically" Name="機械"/>
+    <String NameU="Medium" Name="中"/>
+    <String NameU="Mercury" Name="水銀"/>
+    <String NameU="Message" Name="消息"/>
+    <String NameU="Meters" Name="米"/>
+    <String NameU="Microphone Type" Name="麦克风類型"/>
+    <String NameU="Middle" Name="中間"/>
+    <String NameU="Midpoint" Name="中點"/>
+    <String NameU="Miles" Name="英里"/>
+    <String NameU="Mill Type" Name="磨類型"/>
+    <String NameU="Millimeters" Name="毫米"/>
+    <String NameU="Min Scale" Name="最小刻度"/>
+    <String NameU="Min Value" Name="最小值"/>
+    <String NameU="Min data value of all the bubbles." Name="所有氣泡數據的最小值。"/>
+    <String NameU="Mixer Type" Name="混頻器類型"/>
+    <String NameU="Model" Name="模型"/>
+    <String NameU="Month" Name="月"/>
+    <String NameU="Motor" Name="發動機"/>
+    <String NameU="Motor Generator" Name="電動發電機"/>
+    <String NameU="Move Down" Name="向下移"/>
+    <String NameU="Move Left" Name="向左移"/>
+    <String NameU="Move Right" Name="向右移"/>
+    <String NameU="Move Text to Other Bend" Name="文本轉移到另外一條線"/>
+    <String NameU="Move Up" Name="向上移"/>
+    <String NameU="Movement Left Blocked" Name="左向移動受阻"/>
+    <String NameU="Movement Right Blocked" Name="右向移動受阻"/>
+    <String NameU="Mullion Number" Name="豎框數"/>
+    <String NameU="Multigap" Name="多隙"/>
+    <String NameU="Multiple" Name="多個"/>
+    <String NameU="Multiple Lines" Name="多線"/>
+    <String NameU="Multivalued Attribute" Name="多值屬性"/>
+    <String NameU="Mushroom Head" Name="蘑菇頭"/>
+    <String NameU="Mushroom Type" Name="蘑菇型"/>
+    <String NameU="Mutual inductor" Name="互感器"/>
+	<String NameU="Nice" Name="不錯的"/>
+    <String NameU="N-Type" Name="N-型"/>
+    <String NameU="N-type" Name="N—型"/>
+    <String NameU="NAND" Name="NAND"/>
+    <String NameU="NOR" Name="NOR"/>
+    <String NameU="NPIN" Name="NPIN"/>
+    <String NameU="NPIP" Name="NPIP"/>
+    <String NameU="Name" Name="名字"/>
+    <String NameU="Neither" Name="兩者都不"/>
+    <String NameU="Neutral brought out" Name="顯示零線"/>
+    <String NameU="Neutral direct-current (single current) +/o" Name="中性直流（單電流） +/o"/>
+    <String NameU="Neutral direct-current (single current) -/o" Name="中性直流（單電流） -/o"/>
+    <String NameU="Next Month" Name="下個月"/>
+    <String NameU="Next Week" Name="下週"/>
+    <String NameU="Next Year" Name="下一年"/>
+    <String NameU="No" Name="否"/>
+    <String NameU="No Arrow" Name="無箭頭"/>
+    <String NameU="No Black" Name="無黑色"/>
+    <String NameU="No Button" Name="無按鍵"/>
+    <String NameU="No Maker" Name="無標注"/>
+    <String NameU="No. of Base Pins" Name="中心點數"/>
+    <String NameU="No. of Gates" Name="門數"/>
+    <String NameU="No. of Inputs" Name="輸入數"/>
+    <String NameU="No. of Outputs" Name="輸出數"/>
+    <String NameU="No. of Top Pins" Name="頂部别针數"/>
+    <String NameU="No.of Inputs" Name="輸入數"/>
+    <String NameU="No.of Outputs" Name="輸出數"/>
+    <String NameU="Node" Name="节點"/>
+    <String NameU="Non-Extending" Name="無延伸"/>
+    <String NameU="Non-insulated Heating Element" Name="非隔熱加熱元件"/>
+    <String NameU="None" Name="無"/>
+    <String NameU="Normal" Name="普通"/>
+    <String NameU="Normal Access" Name="正常權限"/>
+    <String NameU="Not Interconnected" Name="不相互連接"/>
+    <String NameU="Number" Name="數量"/>
+    <String NameU="Number of Circles" Name="圓數量"/>
+    <String NameU="Number of Lines" Name="線數量"/>
+	<String NameU="Number of inputs" Name="輸入數量"/>
+	<String NameU="Number of pins on top" Name="頂部銷數"/>
+	<String NameU="Number of vertices" Name="頂點數"/>
+    <String NameU="OR" Name="OR"/>
+    <String NameU="On Central Control Panel" Name="在中央控製面板上"/>
+    <String NameU="On Local Control Panel" Name="在本地控製面板上"/>
+    <String NameU="One Circle" Name="一個圓圈"/>
+    <String NameU="One Line" Name="一條線"/>
+    <String NameU="One Winding" Name="單層繞組 "/>
+    <String NameU="One-to-Many" Name="一對多"/>
+    <String NameU="One-way Simplex" Name="單向單工"/>
+    <String NameU="Open" Name="開"/>
+    <String NameU="Open Arrow End" Name="打開箭尾"/>
+    <String NameU="Open Bottom" Name="打開底部"/>
+    <String NameU="Open Circuit" Name="打開電路"/>
+    <String NameU="Open End" Name="開箭尾"/>
+    <String NameU="Open Left" Name="打開左邊"/>
+    <String NameU="Open Right" Name="打開右邊"/>
+    <String NameU="Open Right Tube" Name="打開右邊管"/>
+    <String NameU="Open Top" Name="打開頂部"/>
+    <String NameU="Operational" Name="操作"/>
+    <String NameU="Optional" Name="可選的"/>
+    <String NameU="Optional and Substitutable" Name="可選和可替代的"/>
+	<String NameU="Orange" Name="橙色"/>
+    <String NameU="Oscilloscope" Name="示波器"/>
+    <String NameU="Outer Arrow" Name="向外箭頭"/>
+    <String NameU="Outgoing" Name="往外"/>
+    <String NameU="Output" Name="輸出"/>
+    <String NameU="Output(s)" Name="輸出"/>
+	<String NameU="Output number" Name="輸出數字"/>
+    <String NameU="Outside Data Labels" Name="數據標簽在外"/>
+    <String NameU="Outside Text" Name="文本在外"/>
+    <String NameU="Outward" Name="向外"/>
+    <String NameU="Overhead" Name="在高處"/>
+    <String NameU="Overhead Conveyor Type" Name="架空輸送式"/>
+    <String NameU="Overview" Name="綜述"/>
+    <String NameU="P Type-Gate" Name="P 型門"/>
+    <String NameU="P-Type" Name="P-型"/>
+    <String NameU="P-type" Name="P-型"/>
+    <String NameU="PNIN" Name="PNIN"/>
+    <String NameU="PNIP" Name="PNIP"/>
+    <String NameU="Page Printing" Name="頁式打印"/>
+    <String NameU="Page's Unit" Name="頁面的單位"/>
+    <String NameU="Passive" Name="無源的"/>
+	<String NameU="Parallel" Name="平行的"/>
+    <String NameU="Pause" Name="暫停"/>
+    <String NameU="Percentage" Name="百分比"/>
+    <String NameU="Permanent" Name="永磁式"/>
+    <String NameU="Phase Meter" Name="相位表"/>
+    <String NameU="Phone" Name="電话"/>
+    <String NameU="Pilot Frequency" Name="導頻"/>
+    <String NameU="Planned" Name="計划中"/>
+    <String NameU="Plug" Name="插頭"/>
+    <String NameU="Point Number" Name="點數"/>
+    <String NameU="Polar direct-current (double current)" Name="極性直流(雙電流）"/>
+	<String NameU="Poor" Name="不好"/>
+    <String NameU="Poor Quality" Name="質量差"/>
+	<String NameU="Position" Name="位置"/>
+    <String NameU="Potentiometer" Name="電位器"/>
+    <String NameU="Power-factor Meter" Name="功率因數計 "/>
+    <String NameU="Pre-emphasize Higher Frequencies" Name="預加重高次頻率"/>
+    <String NameU="Pre-set Potentiometer" Name="預置電位器"/>
+    <String NameU="Pre-set Resistor" Name="預置電阻"/>
+    <String NameU="Precision" Name="精度"/>
+    <String NameU="Precision &amp; Units" Name="精度；單位"/>
+    <String NameU="Precision Units..." Name="精度單位..."/>
+    <String NameU="Prefix Unit" Name="前綴單位"/>
+    <String NameU="Prev Month" Name="上個月"/>
+    <String NameU="Prev Week" Name="上週"/>
+    <String NameU="Prev Year" Name="上一年"/>
+    <String NameU="Price" Name="价格"/>
+    <String NameU="Prime Mover Type" Name="原動機類型"/>
+    <String NameU="Process" Name="步骤"/>
+    <String NameU="Process ID" Name="流程 ID"/>
+    <String NameU="Process Name" Name="流程名称"/>
+    <String NameU="Progress" Name="進程"/>
+    <String NameU="Protective Gap" Name="保護間隙 "/>
+    <String NameU="Proximity Effect" Name="鄰近效應"/>
+    <String NameU="Pull-switch 1" Name="拉繩開關 1"/>
+    <String NameU="Pull-switch 2" Name="拉繩開關 2"/>
+    <String NameU="Pulling" Name="拉"/>
+    <String NameU="Pulse Inverter" Name="脈衝倒相器 "/>
+    <String NameU="Pulse-amplitude Modulation" Name="脈衝振幅調製 "/>
+    <String NameU="Pulse-duration Modulation" Name="脈衝持續時間調製"/>
+    <String NameU="Pulse-frequency Modulation" Name="脈衝頻率調製"/>
+    <String NameU="Pulse-interval Modulation" Name="脈衝間隔調製"/>
+    <String NameU="Pulse-phase Modulation" Name="脈衝-相位調製"/>
+    <String NameU="Pump Type" Name="泵類型"/>
+    <String NameU="Push-Pull Head" Name="推拉頭開關"/>
+    <String NameU="Push-button 1" Name="下壓按鈕 1"/>
+    <String NameU="Push-button 2" Name="下壓按鈕 2"/>
+    <String NameU="Push-pull" Name="推-拉"/>
+    <String NameU="Push/pull" Name="推/拉"/>
+    <String NameU="Pushbutton" Name="下壓按鈕"/>
+    <String NameU="Pushing" Name="壓"/>
+    <String NameU="Qualifier" Name="限定符"/>
+    <String NameU="Qualifier Type" Name="限定符類型"/>
+    <String NameU="Quality" Name="質量"/>
+    <String NameU="Quarter" Name="季度"/>
+	<String NameU="Question 1" Name="問题 1"/>
+	<String NameU="Question 2" Name="問题 2"/>
+	<String NameU="Question 3" Name="問题 3"/>
+    <String NameU="RS Flop-flop" Name="RS 觸發器"/>
+    <String NameU="Radia" Name="徑流式"/>
+    <String NameU="Radial" Name="徑流式"/>
+    <String NameU="Radians" Name="弧度"/>
+    <String NameU="Radio Beacon" Name="無線電指向標"/>
+    <String NameU="Radio Button" Name="收音機式按鍵"/>
+    <String NameU="Radioisotope" Name="放射性同位素"/>
+	<String NameU="Radius * 0.25" Name="半徑*0.25"/>
+	<String NameU="Radius * 0.5" Name="半徑*0.5"/>
+	<String NameU="Radius * 0.75" Name="半徑*0.75"/>
+	<String NameU="Radius * 1" Name="半徑*1"/>
+	<String NameU="Radius * 2" Name="半徑*2"/>
+	<String NameU="Radius * 3" Name="半徑*3"/>
+	<String NameU="Radius * 4" Name="半徑*4"/>
+	<String NameU="Radius * 5" Name="半徑*5"/>
+	<String NameU="Radius * 6" Name="半徑*6"/>
+	<String NameU="Radius * 7" Name="半徑*7"/>
+	<String NameU="Radius * 8" Name="半徑*8"/>
+    <String NameU="Ramp" Name="斜坡"/>
+    <String NameU="Range 1" Name="域 1"/>
+    <String NameU="Range 2" Name="域 2"/>
+    <String NameU="Range 3" Name="域 3"/>
+    <String NameU="Range 4" Name="域 4"/>
+    <String NameU="Range Number" Name="域數"/>
+    <String NameU="Reactive Current Ammeter" Name="無功電流表"/>
+    <String NameU="Reading" Name="讀"/>
+    <String NameU="Real" Name="實數"/>
+    <String NameU="Receiver" Name="接收器"/>
+    <String NameU="Reception" Name="接收"/>
+    <String NameU="Reciprocating" Name="往複式"/>
+    <String NameU="Reciprocating Engine" Name="往複式動力機 "/>
+    <String NameU="Recorder/Reproducer" Name="錄音機/揚聲器"/>
+    <String NameU="Rect Mark" Name="矩形標記"/>
+    <String NameU="Rectangle" Name="矩形"/>
+    <String NameU="Rectifier" Name="整流器"/>
+    <String NameU="Rectifier/Inverter" Name="整流器/換流器"/>
+    <String NameU="Red" Name="紅色"/>
+    <String NameU="Reduced-carrier Frequency" Name="折合-載波頻率"/>
+    <String NameU="Reference" Name="引用"/>
+    <String NameU="Reference Port" Name="引用端口"/>
+    <String NameU="Reference Type" Name="引用類"/>
+    <String NameU="RelationShip" Name="關系"/>
+    <String NameU="Relay Port" Name="中继端口 "/>
+    <String NameU="Relay Type" Name="继電器類型"/>
+    <String NameU="Remote Handle" Name="遥控手柄 "/>
+    <String NameU="Remove Microphone" Name="删除麦克风"/>
+    <String NameU="Remove Segment" Name="删除一段"/>
+    <String NameU="Repeater Station" Name="中继站"/>
+    <String NameU="Repeater Type" Name="中继器類型"/>
+    <String NameU="Replace Image" Name="替換圖片"/>
+    <String NameU="Replace Logo" Name="替換標志"/>
+    <String NameU="Replace Photo" Name="替換照片"/>
+    <String NameU="Replicated" Name="複製"/>
+    <String NameU="Replicated Class" Name="複製類"/>
+    <String NameU="Replicated Reference" Name="複製引用"/>
+    <String NameU="Replicated and Imported" Name="複製和導入"/>
+    <String NameU="Replicated and Optional" Name="複製並可選"/>
+    <String NameU="Replicated and Substitutable" Name="複製並可替代"/>
+    <String NameU="Reproducer" Name="揚聲器"/>
+    <String NameU="Reset Auto Text..." Name="重置自動文本..."/>
+    <String NameU="Reset Size" Name="重置大小"/>
+    <String NameU="Reset Text" Name="重置文本"/>
+    <String NameU="Reset Text Position" Name="重置文本位置"/>
+    <String NameU="Resolver" Name="解决"/>
+    <String NameU="Resources" Name="资源"/>
+    <String NameU="Restricted Access" Name="限製權限"/>
+    <String NameU="Reverse Blocking" Name="反向阻斷 "/>
+    <String NameU="Reverse Conducting" Name=" 反向導電"/>
+    <String NameU="Reverse rotation" Name="反轉"/>
+    <String NameU="Right" Name="右"/>
+	<String NameU="Right direction" Name="正確的方向"/>
+    <String NameU="Right Icon Type" Name="右圖標類型"/>
+    <String NameU="Right Side" Name="右邊"/>
+    <String NameU="Right hemisphere value." Name="右半圓值"/>
+    <String NameU="Ring Number" Name="圈數"/>
+    <String NameU="Road Width" Name="路寬"/>
+    <String NameU="Roller" Name="滚軸"/>
+    <String NameU="Rolling" Name="旋轉"/>
+    <String NameU="Rotary" Name="旋轉式"/>
+    <String NameU="Round Landing" Name="圓形平台"/>
+    <String NameU="Row Number" Name="行數"/>
+    <String NameU="Rows" Name="行"/>
+    <String NameU="Ruby Laser Generator" Name="紅寶石激光器"/>
+    <String NameU="Ruby Laser Generator with Xenon Lamp" Name="帶氙氣燈的紅寶石激光器"/>
+    <String NameU="Rule" Name="規則"/>
+    <String NameU="Salinity Meter" Name="盐度計"/>
+    <String NameU="Sawtooth" Name="鋸齒"/>
+    <String NameU="Scale Precision" Name="刻度精度"/>
+    <String NameU="Screw" Name="螺桿式"/>
+    <String NameU="Screw Conveyor Type" Name="螺桿式傳送帶"/>
+    <String NameU="Screw-down" Name="向下螺桿式"/>
+    <String NameU="Screwed" Name=" 螺丝狀的"/>
+    <String NameU="Second Derivative" Name="二次求導"/>
+    <String NameU="Secondary Flow" Name="雙倍信號流"/>
+    <String NameU="Section" Name="部位"/>
+    <String NameU="Segment Number" Name="段數"/>
+    <String NameU="Select Actor Reference Type..." Name="選擇操作者引用類型..."/>
+    <String NameU="Select Reference Port..." Name="選擇引用端口..."/>
+    <String NameU="Select Relay Port..." Name="選擇中继端口..."/>
+    <String NameU="Select Transition Point Type..." Name="選擇轉變點..."/>
+    <String NameU="Selected" Name="選中"/>
+    <String NameU="Semiconducting" Name="半導體"/>
+    <String NameU="Separated" Name="分離的"/>
+    <String NameU="Series" Name="系列"/>
+    <String NameU="Series Number" Name="系列數"/>
+    <String NameU="Service" Name="服務"/>
+    <String NameU="Set Amplifier Type..." Name="設置揚聲器類型..."/>
+    <String NameU="Set Angle" Name="設置角度"/>
+    <String NameU="Set Arrow Number" Name="設置箭頭數量"/>
+    <String NameU="Set Arrow Size" Name="設置箭頭大小"/>
+    <String NameU="Set Axis Max and Min Scale" Name="設置軸最大及最小刻度"/>
+    <String NameU="Set Axis Number" Name="設置軸數"/>
+    <String NameU="Set Box Number" Name="設置框數"/>
+    <String NameU="Set Category Number" Name="設置類別數"/>
+    <String NameU="Set Chair Number" Name="設置椅子數"/>
+    <String NameU="Set Circle Number" Name="設置圓形數量"/>
+    <String NameU="Set Column Number" Name="設置列數"/>
+    <String NameU="Set Control Type..." Name="設置操控類型..."/>
+    <String NameU="Set Converter Type..." Name="設置變頻器類型..."/>
+    <String NameU="Set Current Date" Name="設置當前日期"/>
+    <String NameU="Set Data" Name="設置數據"/>
+    <String NameU="Set Data Type" Name="設置數據類型"/>
+    <String NameU="Set Delay Type..." Name="設置延遲類型..."/>
+    <String NameU="Set Device Type..." Name="設置設备類型..."/>
+    <String NameU="Set Doughnut Thickness" Name="設置圓环厚度"/>
+    <String NameU="Set Gauge Data" Name="設置仪表數據"/>
+    <String NameU="Set Heat Source Type..." Name="設置熱源類型..."/>
+    <String NameU="Set Hollow" Name="設置為空心"/>
+    <String NameU="Set Interval" Name="設置間距"/>
+    <String NameU="Set Level Number" Name="設置層數"/>
+    <String NameU="Set Machine Type..." Name="設置機器類型..."/>
+    <String NameU="Set Max Value" Name="設置最大值"/>
+	<String NameU="Set Min Value" Name="設置最小值"/>
+    <String NameU="Set Max and Min Value" Name="設置最大及最小值"/>
+    <String NameU="Set Milestone" Name="設置里程碑"/>
+    <String NameU="Set Mullion Number" Name="設置豎框數"/>	
+    <String NameU="Set Node Number..." Name="設置节點數量..."/>
+    <String NameU="Set Number of Lines" Name="設置線條數量"/>
+    <String NameU="Set Number of Terminals..." Name="設置接線端子數..."/>
+    <String NameU="Set Pie Number" Name="設置餅形數量"/>
+    <String NameU="Set Point Number" Name="設置點數"/>
+    <String NameU="Set Position and Data" Name="設置位置及數據"/>
+    <String NameU="Set Prime Mover Type..." Name="設置原動機類型..."/>
+    <String NameU="Set Process Detail..." Name="設置進程详情..."/>
+    <String NameU="Set Progress" Name="設置進度"/>
+    <String NameU="Set Qualifier Type..." Name="設置限定符類型..."/>
+    <String NameU="Set Range Data" Name="設置數據范围"/>
+    <String NameU="Set Range Number" Name="設置數據范围"/>
+    <String NameU="Set Relay Type" Name="設置继電器類型"/>
+    <String NameU="Set Repeater Type..." Name="設置中继器類型..."/>
+    <String NameU="Set Ring Number" Name="設置圈數"/>
+	<String NameU="Set Ring Thickness" Name="設置圈的厚度"/>
+    <String NameU="Set Road Width" Name="設置路寬"/>
+    <String NameU="Set Row Number" Name="設置行數"/>
+    <String NameU="Set Segment Number" Name="設置段數"/>
+    <String NameU="Set Series Number" Name="設置系列數"/>
+    <String NameU="Set Solid" Name="設置為實心"/>
+    <String NameU="Set Start and Step" Name="設置起始值及差值"/>
+    <String NameU="Set Station Type..." Name="設置發電站類型..."/>
+    <String NameU="Set Substation Type..." Name="設置變電所類型..."/>
+    <String NameU="Set Switch Position" Name="設置開關位置"/>
+    <String NameU="Set Switch Type..." Name="設置開關類型..."/>
+    <String NameU="Set Synchro Type..." Name="設置同步式..."/>
+    <String NameU="Set Telephone Type..." Name="設置電话類型..."/>
+	<String NameU="Set Thickness" Name="設定厚度"/>
+    <String NameU="Set Time Bar" Name="設置時間條"/>
+    <String NameU="Set Tooth Size" Name="設置齿大小"/>
+    <String NameU="Set Transformer Properties..." Name="設置變壓器屬性..."/>
+    <String NameU="Set Tube Width" Name="設置管的寬度"/>
+    <String NameU="Set U Number" Name="設置單元數"/>
+    <String NameU="Set Vertex Number" Name="設置頂點數"/>
+    <String NameU="Set Vertical Interval" Name="設置垂直間距"/>
+    <String NameU="Set Wave Type..." Name="設置信號波類型..."/>
+    <String NameU="Set Week Number" Name="設置週數"/>
+    <String NameU="Set Width" Name="設置寬度"/>
+    <String NameU="Set Winding Type..." Name="設置繞阻類型..."/>
+    <String NameU="Set X, Y Position" Name="設置 X, Y 軸位置"/>
+    <String NameU="Set Zoom Size" Name="設置縮放大小"/>
+    <String NameU="Set the angle value from -180 to 180" Name="設置角度從 -180 到 180"/>
+	<String NameU="Set the number of vertices" Name="設置頂點數"/>
+    <String NameU="Set to 1 Line" Name="設置為 1 線"/>
+    <String NameU="Set to 1 Line Input" Name="設置為 1 線輸入"/>
+    <String NameU="Set to 2 Line" Name="設置為 2 線"/>
+    <String NameU="Set to 2 Line Input" Name="設置為 2 線輸入"/>
+    <String NameU="Set to Bidirectional" Name="設置為雙向"/>
+    <String NameU="Set to Capacitive" Name="設置為電容"/>
+    <String NameU="Set to Circular" Name="設置為圓形"/>
+    <String NameU="Set to Coherent" Name="設置為相乾"/>
+    <String NameU="Set to Current Source" Name="設置為電流源"/>
+    <String NameU="Set to Fixed" Name="設置為固定"/>
+    <String NameU="Set to Ideal Current" Name="設置為理想電流源 "/>
+    <String NameU="Set to Ideal Voltage" Name="設置為理想電壓源 "/>
+    <String NameU="Set to Indicating" Name="設置為指示"/>
+    <String NameU="Set to Ionizing" Name="設置為電離"/>
+    <String NameU="Set to Light emitting" Name="設置為發光"/>
+    <String NameU="Set to N-Type Channel" Name="設置為N型通道"/>
+    <String NameU="Set to NPN" Name="設置為 NPN"/>
+    <String NameU="Set to Negative Pulse" Name="設置為負脈衝"/>
+    <String NameU="Set to Negative Step" Name="設置為負阶跃波"/>
+    <String NameU="Set to Non-capacitive" Name="設置為非電容"/>
+    <String NameU="Set to Non-coherent" Name="設置為非相乾"/>
+    <String NameU="Set to Non-indicating" Name="設置為無顯示"/>
+    <String NameU="Set to Non-ionizing" Name="設置為非電離"/>
+    <String NameU="Set to P-Type Channel" Name="設置為P型通道"/>
+    <String NameU="Set to PNP" Name="設置為 PNP"/>
+    <String NameU="Set to Positive Pulse" Name="設置為正脈衝"/>
+    <String NameU="Set to Positive Step" Name="設置為正阶跃波 "/>
+    <String NameU="Set to Recording" Name="設置為錄音"/>
+    <String NameU="Set to Rectangular" Name="設置為矩形"/>
+    <String NameU="Set to Reproducing" Name="設置為重播"/>
+    <String NameU="Set to Signal Lamp" Name="設置為信號燈"/>
+    <String NameU="Set to Standard Lamp" Name="設置為標準燈泡"/>
+    <String NameU="Set to Unidirectional" Name="設置為單向"/>
+    <String NameU="Set to Variable" Name="設置為可變"/>
+    <String NameU="Set to Voltage Source" Name="設置為電壓源"/>
+    <String NameU="Set to photosensitive" Name="設置為光敏"/>
+    <String NameU="Show 1-Wire" Name="顯示1線"/>
+    <String NameU="Show 1F" Name="顯示 1F"/>
+    <String NameU="Show 2F" Name="顯示 2F"/>
+    <String NameU="Show 3 Terminals" Name="顯示3個接線端子"/>
+    <String NameU="Show 3-Wire" Name="顯示3線"/>
+    <String NameU="Show 4 Terminals" Name="顯示4個接線端子"/>
+    <String NameU="Show Alternative Symbol" Name="顯示備選符號"/>
+    <String NameU="Show Arrow" Name="顯示箭頭"/>
+    <String NameU="Show Axis" Name="顯示軸"/>
+    <String NameU="Show Axis Labels" Name="顯示軸標簽"/>
+    <String NameU="Show Border" Name="顯示邊框"/>
+    <String NameU="Show Both Directions" Name="顯示雙向"/>
+    <String NameU="Show Bottom" Name="顯示底部"/>
+    <String NameU="Show Break Contact" Name="顯示斷開觸點 "/>
+    <String NameU="Show Center" Name="顯示中心"/>
+    <String NameU="Show Circle" Name="顯示圓形"/>
+    <String NameU="Show Closed Circuit" Name="顯示閉合電路"/>
+    <String NameU="Show Connect Line" Name="顯示連接線"/>
+    <String NameU="Show Cross" Name="顯示叉"/>
+    <String NameU="Show Cross Line" Name="顯示交叉線"/>
+    <String NameU="Show Data Labels" Name="顯示數據標簽"/>
+    <String NameU="Show Data Labels on Bottom" Name="在底部顯示數據標簽"/>
+    <String NameU="Show Data Labels on Right" Name="在右邊顯示數據標簽"/>
+    <String NameU="Show Delete" Name="顯示删除鍵"/>
+    <String NameU="Show Desiccant" Name="顯示乾燥劑"/>
+    <String NameU="Show Discriminator" Name="顯示鉴頻器"/>
+    <String NameU="Show Disengaged" Name="顯示分離"/>
+    <String NameU="Show Dot" Name="顯示點"/>
+    <String NameU="Show Dripping" Name="顯示水滴"/>
+    <String NameU="Show End Tick" Name="顯示末端鉤"/>
+    <String NameU="Show Engaged" Name="顯示接合"/>
+    <String NameU="Show Envelop" Name="顯示包絡"/>
+    <String NameU="Show Exit Width" Name="顯示出口寬度"/>
+    <String NameU="Show Filter Paper" Name="顯示濾纸"/>
+    <String NameU="Show First Block of Title" Name="顯示標题的第一個文本框"/>
+    <String NameU="Show Four Lines" Name="顯示4線"/>
+    <String NameU="Show Granule" Name="顯示颗粒"/>
+    <String NameU="Show Grid" Name="顯示網格"/>
+    <String NameU="Show Groove" Name="顯示沟"/>
+    <String NameU="Show Held Closed" Name="顯示閉合"/>
+    <String NameU="Show Held Open" Name="顯示打開"/>
+    <String NameU="Show Horizontal Grid" Name="顯示水平網格"/>
+    <String NameU="Show Image" Name="顯示圖片"/>
+    <String NameU="Show Image Circle" Name="顯示圓形圖片"/>
+    <String NameU="Show Iron Clip 1" Name="顯示铁夹 1"/>
+    <String NameU="Show Iron Clip 2" Name="顯示铁夹 2"/>
+    <String NameU="Show Junction" Name="顯示連接點"/>
+    <String NameU="Show Left Box" Name="顯示左文本框"/>
+    <String NameU="Show Left Text" Name="顯示左邊文本"/>
+    <String NameU="Show Legend" Name="顯示圖例"/>
+    <String NameU="Show Legend on Bottom" Name="在底部顯示圖例"/>
+    <String NameU="Show Legend on Right Side" Name="在右邊顯示圖例"/>
+    <String NameU="Show Line" Name="顯示線條"/>
+    <String NameU="Show Liquid" Name="顯示液體"/>
+    <String NameU="Show Make Contact" Name="顯示閉合觸點 "/>
+    <String NameU="Show Middle Circle" Name="顯示中間圓圈"/>
+    <String NameU="Show Neutral" Name="顯示零線"/>
+    <String NameU="Show One Direction" Name="顯示單向"/>
+    <String NameU="Show One Line" Name="顯示1線"/>
+    <String NameU="Show Open Circuit" Name="顯示打開電路"/>
+    <String NameU="Show Operator" Name="顯示操作符"/>
+    <String NameU="Show Photo" Name="顯示照片"/>
+    <String NameU="Show Polarity Symbols" Name="顯示極性符號"/>
+    <String NameU="Show Reflector" Name="顯示反射鏡"/>
+    <String NameU="Show Refresh Button" Name="顯示刷新按鈕"/>
+    <String NameU="Show Right Text" Name="顯示右文本框"/>
+    <String NameU="Show Ruler" Name="顯示標尺"/>
+    <String NameU="Show SWOT" Name="顯示 SWOT"/>
+    <String NameU="Show Scale Mark" Name="顯示刻度標記"/>
+    <String NameU="Show Seam" Name="顯示缝"/>
+    <String NameU="Show Solid" Name="顯示固體"/>
+    <String NameU="Show Solid Matter" Name="顯示固體物"/>
+    <String NameU="Show Stair Stagger" Name="顯示楼梯轉盤"/>
+    <String NameU="Show Table" Name="顯示桌子"/>
+    <String NameU="Show Tank Lip" Name="顯示水槽簷"/>
+    <String NameU="Show Text" Name="顯示文本"/>
+    <String NameU="Show Text Block" Name="顯示文本框"/>
+    <String NameU="Show Text Circle" Name="顯示圓形文本框"/>
+    <String NameU="Show Tick" Name="顯示梗"/>
+    <String NameU="Show Title" Name="顯示標题"/>
+    <String NameU="Show Title Bar" Name="顯示標题條"/>
+    <String NameU="Show Two Lines" Name="顯示2線"/>
+    <String NameU="Show Units" Name="顯示單位"/>
+    <String NameU="Show Vertical Grid" Name="顯示垂直網格"/>
+    <String NameU="Show Water" Name="顯示水"/>
+    <String NameU="Show/Hide Axis Labels" Name="顯示/隱藏軸標簽"/>
+    <String NameU="Shunt or Separate" Name="並聯或分繞"/>
+    <String NameU="Signaling Frequency" Name="信號頻率"/>
+    <String NameU="Simultaneous" Name="同步的"/>
+    <String NameU="Sine Wave" Name="正弦波"/>
+    <String NameU="Single Line" Name="單線"/>
+    <String NameU="Single-line Symbol" Name="單線符號"/>
+    <String NameU="Single-load" Name="單載"/>
+    <String NameU="Single-stroke Bell" Name="單击電鈴"/>
+    <String NameU="Siren" Name="警鈴"/>
+    <String NameU="Slot" Name="槽"/>
+    <String NameU="Slow Wave Structure" Name="慢波結构"/>
+    <String NameU="Slow-operate" Name="慢操作"/>
+    <String NameU="Slow-release" Name="慢發布"/>
+    <String NameU="Small" Name="小"/>
+    <String NameU="Small Scale" Name="小規模"/>
+    <String NameU="Smybol 3" Name="符號 3"/>
+    <String NameU="Socket and Spigot" Name="承插式"/>
+    <String NameU="Soldered" Name="焊接"/>
+    <String NameU="Solid" Name="固體"/>
+	<String NameU="Solid Line" Name="實線"/>
+    <String NameU="Solvent" Name="熔接"/>
+    <String NameU="Space for an Icon" Name="圖標空間"/>
+    <String NameU="Speaker Phone" Name="揚聲器電话"/>
+    <String NameU="Sphere Gap" Name="球形隙"/>
+    <String NameU="Square" Name="方形"/>
+    <String NameU="Square Landing" Name="方形平台"/>
+    <String NameU="Square Marker" Name="方形標記"/>
+    <String NameU="Standard" Name="標準"/>
+    <String NameU="Standard Bell" Name="標準電鈴"/>
+    <String NameU="Standard Formt" Name="標準格式"/>
+    <String NameU="Standard Symbol" Name="標準符號"/>
+    <String NameU="Star" Name="星形"/>
+    <String NameU="Star4" Name="4角星"/>
+    <String NameU="Star5" Name="5角星"/>
+    <String NameU="Start Date" Name="開始日期"/>
+    <String NameU="Start From Monday" Name="從週一開始"/>
+    <String NameU="Start State" Name="開始狀態"/>
+    <String NameU="Start Value" Name="起始值"/>
+    <String NameU="Start/End" Name="開始/結束"/>
+    <String NameU="State" Name="狀態"/>
+    <String NameU="Station Specifics" Name="站規格"/>
+    <String NameU="Station Type" Name="發電站類型"/>
+    <String NameU="Step" Name="步骤"/>
+    <String NameU="Step Size" Name="步骤大小"/>
+    <String NameU="Stop State" Name="停止狀態"/>
+    <String NameU="Stop/Cancel" Name="停止/取消"/>
+    <String NameU="String" Name="字符串"/>
+    <String NameU="Sub Menu" Name="子菜單"/>
+    <String NameU="Sub-diagram ID" Name="子圖形 ID"/>
+    <String NameU="SubType" Name="圖表類型"/>
+    <String NameU="Submarine" Name="水下"/>
+    <String NameU="Submersion" Name="浸没 "/>
+    <String NameU="Subprocess" Name="子步骤"/>
+    <String NameU="Substation Type" Name="變電所類型"/>
+    <String NameU="Substation specifics" Name="變電所規格"/>
+    <String NameU="Substitutable" Name="可替換"/>
+    <String NameU="Substrate Connection" Name="基片連接方式"/>
+    <String NameU="Suggested value is greater than or equal to 0" Name="建议值大于或等于0"/>
+    <String NameU="Summing" Name="加法"/>
+    <String NameU="Supergroup Pilot Frequency" Name="超群導頻"/>
+    <String NameU="Suppressed Pilot Frequency" Name="抑製導頻"/>
+    <String NameU="Suppressed-carrier Frequency" Name="載波抑製頻率"/>
+    <String NameU="Switch Position" Name="開關位置"/>
+    <String NameU="Switch Type" Name="開關類型"/>
+    <String NameU="Symbol 1" Name="符號 1"/>
+    <String NameU="Symbol 2" Name="符號 2"/>
+    <String NameU="Symbol 3" Name="符號 3"/>
+    <String NameU="Symbol 4" Name="符號 4"/>
+    <String NameU="Symbol Option" Name="符號選擇"/>
+    <String NameU="Synchro Type" Name="同步式"/>
+    <String NameU="Synchronoscope" Name="同步指示器"/>
+    <String NameU="Synchronous Converter" Name="同步變流機"/>
+    <String NameU="Synchronous Generator" Name="同步發電機"/>
+    <String NameU="Synchronous Motor" Name="同步電機"/>
+    <String NameU="T Type-Gate" Name="T 形門"/>
+    <String NameU="TRUE" Name="對"/>
+    <String NameU="Tachometer" Name="轉速計"/>
+    <String NameU="Tape Perforating" Name="纸帶打孔"/>
+    <String NameU="Tape Printing" Name="纸帶打印"/>
+    <String NameU="Tape Printing/Perforating" Name="纸帶打印/打孔"/>
+    <String NameU="Taps" Name="分接頭"/>
+	<String NameU="Task Type - Business Rule" Name="任務類型-业務規則"/>
+	<String NameU="Task Type - Instantiating Receive" Name="任務類型-實例化接收"/>
+	<String NameU="Task Type - Manual" Name="任務類型-手動"/>
+	<String NameU="Task Type - None" Name="任務類型-無"/>
+	<String NameU="Task Type - Receive" Name="任務類型-接收"/>
+	<String NameU="Task Type - Script" Name="任務類型-脚本"/>
+	<String NameU="Task Type - Send" Name="任務類型-發送"/>
+	<String NameU="Task Type - Service" Name="任務類型-服務"/>
+	<String NameU="Task Type - User" Name="任務類型-用户"/>
+    <String NameU="Telephone Type" Name="電话類型"/>
+    <String NameU="Terminals" Name="接線端子"/>
+    <String NameU="Terminating Set" Name="終接設置"/>
+    <String NameU="Terminating Set w/ Balancing Network" Name="終接設置 w/平衡網絡"/>
+    <String NameU="Text" Name="文本"/>
+    <String NameU="Text Parallel" Name="平行文本"/>
+    <String NameU="Text Perpendicular" Name="垂直文本"/>
+    <String NameU="The unit displayed after current value, e.g. 180 USD" Name="在數字後顯示單位，如：180 USD"/>
+    <String NameU="The unit displayed before current value, e.g. $180" Name="在數字前顯示單位，如： $180"/>
+    <String NameU="Thermometer" Name="温度計"/>
+    <String NameU="Thickness" Name="厚度"/>
+    <String NameU="Third Derivative" Name="3次求導"/>
+    <String NameU="Thousand Separator" Name="千位分隔符"/>
+    <String NameU="Tick Number" Name="刻度數"/>
+    <String NameU="Timer" Name="定時器"/>
+    <String NameU="Title" Name="標题"/>
+    <String NameU="Tooth Size" Name="齿大小"/>
+    <String NameU="Top" Name="頂端"/>
+    <String NameU="Top Hook" Name="頂部掛鉤"/>
+    <String NameU="Top Left" Name="左上"/>
+    <String NameU="Top Right" Name="右上"/>
+    <String NameU="Touching" Name="觸摸"/>
+    <String NameU="Tracking Station" Name="跟踪站"/>
+    <String NameU="Transition Point" Name="轉變點"/>
+    <String NameU="Transmission" Name="傳播"/>
+    <String NameU="Transmitter" Name="發射機"/>
+    <String NameU="Triangle" Name="三角形"/>
+    <String NameU="Trigger" Name="觸發器"/>
+    <String NameU="True" Name="對"/>
+    <String NameU="Tube Bundle Type" Name="管束類型"/>
+    <String NameU="Tube Width" Name="管寬度"/>
+    <String NameU="Turbine" Name="渦轮"/>
+    <String NameU="Turn Off" Name="關"/>
+    <String NameU="Turn On" Name="開"/>
+    <String NameU="Turn-switch" Name="旋轉開關"/>
+    <String NameU="Turning" Name="旋轉"/>
+    <String NameU="Two Circles" Name="兩個圓圈"/>
+    <String NameU="Two Input" Name="兩個輸入"/>
+    <String NameU="Two Lines" Name="兩線"/>
+    <String NameU="Two-way Simplex" Name="雙向單工"/>
+    <String NameU="Type" Name="類型"/>
+    <String NameU="Type 1" Name="類型 1"/>
+    <String NameU="Type 2" Name="類型 2"/>
+    <String NameU="Type 3" Name="類型 3"/>
+    <String NameU="Type 4" Name="類型 4"/>
+    <String NameU="Type A" Name="類型 A"/>
+    <String NameU="Type B" Name="類型 B"/>
+    <String NameU="Type C" Name="類型 C"/>
+    <String NameU="U Number" Name="U 數"/>
+    <String NameU="U-tubes" Name="U 形管"/>
+    <String NameU="UnChecked" Name="未選中"/>
+    <String NameU="UnLock" Name="解鎖"/>
+    <String NameU="Underground" Name="地下"/>
+    <String NameU="Ungrounded" Name="不接地"/>
+    <String NameU="Unidirectional Amplification" Name="單向放大"/>
+    <String NameU="Unit" Name="單位"/>
+    <String NameU="Units" Name="單位"/>
+    <String NameU="Units Display" Name="單位顯示"/>
+    <String NameU="Unseparated" Name="不分離"/>
+    <String NameU="Unspecified" Name="未指定"/>
+    <String NameU="Up" Name="上"/>
+	<String NameU="Up direction" Name="向上方向"/>
+    <String NameU="Up Position" Name="上"/>
+    <String NameU="Urgent" Name="緊急"/>
+    <String NameU="Val" Name="數值"/>
+    <String NameU="Value" Name="數值"/>
+    <String NameU="Value 1" Name="數值 1"/>
+    <String NameU="Value 2" Name="數值 2"/>
+    <String NameU="Valve" Name="閥門"/>
+    <String NameU="Valve Class" Name="閥門類型"/>
+    <String NameU="Variable" Name="可變"/>
+    <String NameU="Varmeter" Name="無功功率表"/>
+    <String NameU="Verified" Name="已核實"/>
+    <String NameU="Vertex Number" Name="頂點數"/>
+    <String NameU="Vertical" Name="垂直"/>
+    <String NameU="Vertical Blades" Name="垂直葉片"/>
+    <String NameU="Vertical Flip" Name="垂直翻轉"/>
+    <String NameU="Very Large" Name="特大"/>
+    <String NameU="Very Small" Name="特小"/>
+    <String NameU="Vibrator" Name="振動器"/>
+	<String NameU="Violet" Name="紫色"/>
+    <String NameU="Visible" Name="可见"/>
+    <String NameU="Voice Button" Name="语音按鈕"/>
+    <String NameU="Voltmeter" Name="電壓計"/>
+    <String NameU="Warning" Name="警告"/>
+    <String NameU="Wavemeter" Name="波長計"/>
+    <String NameU="Weak Relationship" Name="弱關系"/>
+    <String NameU="Week" Name="週"/>
+    <String NameU="Wet" Name="湿"/>
+    <String NameU="Wheel" Name="车轮"/>
+    <String NameU="Width" Name="寬度"/>
+    <String NameU="Winding Type" Name="繞阻類型"/>
+    <String NameU="Writing" Name="写"/>
+	<String NameU="Woman" Name="女人"/>
+	<String NameU="Worst" Name="最糟糕的"/>
+    <String NameU="X" Name="X 軸"/>
+    <String NameU="X Axis Tick Number" Name="X 軸刻度值"/>
+    <String NameU="X Max Scale" Name="X 軸最大刻度"/>
+    <String NameU="X Min Scale" Name="X 軸最小刻度"/>
+    <String NameU="X-type" Name="X型"/>
+    <String NameU="XNOR" Name="XNOR"/>
+    <String NameU="XOR" Name="XOR"/>
+    <String NameU="Y" Name="Y 軸"/>
+    <String NameU="Y Axis Tick Number" Name="Y 軸刻度值"/>
+    <String NameU="Y Max Scale" Name="Y 軸最大刻度"/>
+    <String NameU="Y Min Scale" Name="Y 軸最小刻度"/>
+    <String NameU="Year" Name="年"/>
+    <String NameU="Yellow" Name="黃色"/>
+    <String NameU="Yes" Name="赞成"/>
+    <String NameU="Zero Reactance" Name="零阻抗"/>
+    <String NameU="Zero Reactance - Infinite susceptance" Name="零阻抗——無限電納"/>
+    <String NameU="Zoom Size" Name="縮放尺寸"/>
+    <String NameU="d/M/yyyy" Name="d/M/yyyy"/>
+    <String NameU="d/M/yyyy h:mm AM/PM" Name="d/M/yyyy h:mm AM/PM"/>
+    <String NameU="e.g.18.56, [00: 20]; [0: 18]; [0.0: 18.5]; [0.00: 18.56]; [0.000: 18.56]" Name="例如: 18.56, [00: 20]; [0: 18]; [0.0: 18.5]; [0.00: 18.56]; [0.000: 18.56]"/>
+    <String NameU="e.g.18500, Normal:18500; Thousand Separator:18,500; Breviary:18.5K" Name="例如: 18500,普通:18500; 千位分隔符:18,500; 縮写:18.5K"/>
+    <String NameU="h:mm AM/PM" Name="h:mm AM/PM"/>
+    <String NameU="hh:mm" Name="hh:mm"/>
+    <String NameU="yyyy" Name="yyyy"/>
+    <String NameU="yyyy-MM-dd" Name="yyyy-MM-dd"/>
+</ShapeStrings>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Jacobson Use Case">
+	<Elem NameU="Actor" Name="Attore"/>
+	<Elem NameU="Use case" Name="Caso d'uso"/>
+	<Elem NameU="Boundary" Name="Confine"/>
+	<Elem NameU="Relationship" Name="Relazione"/>
+	<Elem NameU="Object types" Name="Tipi di Oggetto"/>
+	<Elem NameU="Dimensions" Name="Dimensioni"/>
+	<Elem NameU="Time" Name="Tempo"/>
+	<Elem NameU="System border" Name="Confine di sistema"/>
+	<Elem NameU="Operation" Name="Operazione"/>
+	<Elem NameU="Callback" Name="Callback"/>
+	<Elem NameU="Message carrier" Name="Portatore di Messaggi"/>
+	<Elem NameU="Block" Name="Blocca"/>
+	<Elem NameU="Start symbol" Name="Simbolo di Avvio"/>
+	<Elem NameU="State" Name="Stato"/>
+	<Elem NameU="Message" Name="Messaggio"/>
+	<Elem NameU="Signal" Name="Segnale"/>
+	<Elem NameU="Task" Name="Attività"/>
+	<Elem NameU="Decision" Name="Decisione"/>
+	<Elem NameU="Destroy object" Name="Distruggi oggetto"/>
+	<Elem NameU="Label" Name="Etichetta"/>
+</Lib>

@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="CCTV Equipment">
+
+<Elem Name="ワイヤレスヘッドセット" NameU="Bluetooth Headset"/>
+
+<Elem Name="カメラ" NameU="Camera"/>
+
+<Elem Name="カメラ 2" NameU="Camera 2"/>
+
+<Elem Name="CD プレイヤー" NameU="CD Player"/>
+
+<Elem Name="イヤホン" NameU="Earphone"/>
+
+<Elem Name="ゲームパッド" NameU="Gamepad"/>
+
+<Elem Name="グーグルグラス" NameU="Google Glass"/>
+
+<Elem Name="iPad" NameU="iPad"/>
+
+<Elem Name="iPhone" NameU="iPhone"/>
+
+<Elem Name="iPodのシャッフル" NameU="iPod Shuffle"/>
+
+<Elem Name="iPod" NameU="iPod"/>
+
+<Elem Name="ジョイスティック" NameU="Joystick"/>
+
+<Elem Name="モバイルパワー" NameU="Mobile Power"/>
+
+<Elem Name="ナビゲーター" NameU="Navigator"/>
+
+<Elem Name="Pad" NameU="Pad"/>
+
+<Elem Name="PSP" NameU="PSP"/>
+
+<Elem Name="スマートウォッチ" NameU="SmartWatch"/>
+
+<Elem Name="スマートフォン" NameU="Smartphone"/>
+
+<Elem Name="タブレット" NameU="Tablet Computer"/>
+
+<Elem Name="ビデオカメラ" NameU="Video Camera"/>
+
+<Elem Name="XBox" NameU="XBox"/>
+
+<Elem Name="黒いモニター" NameU="Black monitor"/>
+
+<Elem Name="白いモニター" NameU="White monitor"/>
+
+<Elem Name="防犯カメラ" NameU="Security camera"/>
+
+<Elem Name="ドーム型カメラ" NameU="Dome Camera"/>
+
+<Elem Name="球型機器" NameU="Ball Machine"/>
+
+<Elem Name="赤外線 1" NameU="Infrared light 1"/>
+
+<Elem Name="赤外線 2" NameU="Infrared light 2"/>
+
+<Elem Name="IPC" NameU="IPC"/>
+
+<Elem Name="警報器" NameU="Alarm"/>
+
+<Elem Name="警報器 2" NameU="Alarm 2"/>
+
+<Elem Name="火災警報器" NameU="Smoke alarm"/>
+
+<Elem Name="モニター" NameU="Monitor"/>
+
+<Elem Name="DVR" NameU="DVR"/>
+
+<Elem Name="DVR2" NameU="DVR 2"/>
+
+<Elem Name="セキュリティ周辺機器1" NameU="Security Peripherals 1"/>
+
+<Elem Name="セキュリティ周辺機器 2" NameU="Security Peripherals 2"/>
+
+<Elem Name="ATM" NameU="ATM"/>
+
+<Elem Name="モニター" NameU="Monitors"/>
+
+<Elem Name="TV　ウオール　" NameU="TV wall"/>
+
+</Lib>

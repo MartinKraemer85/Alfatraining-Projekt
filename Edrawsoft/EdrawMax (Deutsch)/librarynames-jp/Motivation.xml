@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Motivation">
+	<Elem NameU="Stakeholder" Name="ステークホルダー"/>
+	<Elem NameU="Driver" Name="ドライバー"/>
+	<Elem NameU="Assessment" Name="評価"/>
+	<Elem NameU="Goal" Name="ゴール"/>
+	<Elem NameU="Outcome" Name="結果"/>
+	<Elem NameU="Principle" Name="原則"/>
+	<Elem NameU="Requirement" Name="要件"/>
+	<Elem NameU="Constraint" Name="制約"/>
+	<Elem NameU="Influence" Name="影響"/>
+	<Elem NameU="Meaning" Name="意味"/>
+	<Elem NameU="Value" Name="値"/>
+</Lib>

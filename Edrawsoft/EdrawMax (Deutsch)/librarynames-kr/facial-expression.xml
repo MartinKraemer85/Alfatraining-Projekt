@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Facial Expression">
+	<Elem NameU="Neutral" Name="중립"/>
+	<Elem NameU="LOL" Name="LOL"/>
+	<Elem NameU="Ashtonished" Name="놀라움"/>
+	<Elem NameU="Kissing heart" Name="하트"/>
+	<Elem NameU="Bummed" Name="부끄러움"/>
+	<Elem NameU="Crying with laughter" Name="울다가 웃기"/>
+	<Elem NameU="No words" Name="할말 잃음"/>
+	<Elem NameU="Laughing" Name="웃음"/>
+	<Elem NameU="Heart eyes" Name="너무 좋아"/>
+	<Elem NameU="Sweat grinning" Name="땀 흘림"/>
+	<Elem NameU="Slightly smile" Name="가볍게 웃기"/>
+	<Elem NameU="Smile" Name="스마일"/>
+	<Elem NameU="Sleepy" Name="졸림"/>
+	<Elem NameU="Blush" Name="쑥스러움"/>
+	<Elem NameU="Crying" Name="울음"/>
+	<Elem NameU="Cool" Name="쿨하다"/>
+	<Elem NameU="Angry" Name="화남"/>
+	<Elem NameU="Dizzy face" Name="어리둥절"/>
+	<Elem NameU="Unamused" Name="재미없음"/>
+	<Elem NameU="Hurt" Name="상처 받음"/>
+	<Elem NameU="Sick" Name="아픔"/>
+	<Elem NameU="Sleeping" Name="자는 중"/>
+	<Elem NameU="Confused" Name="의심"/>
+	<Elem NameU="Face with tongue" Name="혀를 내밈"/>
+	<Elem NameU="Vomiting" Name="토함"/>
+	<Elem NameU="Strength" Name="강함"/>
+	<Elem NameU="Dollar eyes" Name="달러"/>
+	<Elem NameU="Wink" Name="윙크"/>
+	<Elem NameU="Woozy" Name="어지러움"/>
+</Lib>

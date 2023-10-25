@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Value Stream Mapping">
+    <Elem NameU="Production Control" Name="생산 컨트롤"/>
+    <Elem NameU="Information" Name="정보"/>
+    <Elem NameU="Process" Name="프로세스"/>
+    <Elem NameU="Customer / Supplier" Name="고객/공급자"/>
+    <Elem NameU="Data Table" Name="데이터표"/>
+    <Elem NameU="Shipment Arrow" Name="운송 화살표"/>
+    <Elem NameU="Push Arrow" Name="푸시 화살표"/>
+    <Elem NameU="Electronic Information Flow" Number="2" Name="전자 정보"/>
+    <Elem NameU="Manual Information Flow" Name="수동 정보 흐름"/>
+    <Elem NameU="External Shipment" Name="트럭 운송"/>
+    <Elem NameU="Airplan Shipment" Name="항공 운송"/>
+    <Elem NameU="Boat Shipment" Name="선박 운송"/>
+    <Elem NameU="Rail Shipment" Name="철도 운송"/>
+    <Elem NameU="Inventory" Name="잔고"/>
+    <Elem NameU="Warehouse" Name="창고"/>
+    <Elem NameU="Cross-Dock" Name="Cross-Dock"/>
+    <Elem NameU="Timeline Segment" Name="타임 라인 세그먼트"/>
+    <Elem NameU="Timeline End Segment" Name="타임 라인 종료 세그먼트"/>
+    <Elem NameU="Timeline Total" Name="일정 요약"/>
+    <Elem NameU="Withdrawal Kanban" Name="이동 지시 간판"/>
+    <Elem NameU="Withdrawal Batch Kanban" Name="일괄 이동 지시 간판"/>
+    <Elem NameU="Production Kanban" Name="생산 간판"/>
+    <Elem NameU="Batch Kanban" Name="간판"/>
+    <Elem NameU="Note" Name="주석"/>
+    <Elem NameU="Supermarket" Name="슈퍼마켓"/>
+    <Elem NameU="Safety Stock" Name="안전 재고"/>
+    <Elem NameU="Control Center" Name="컨트롤 센터"/>
+    <Elem NameU="Workcell" Name="작업 공간"/>
+    <Elem NameU="Signal Kanban" Name="시그널 간판"/>
+    <Elem NameU="Kanban Post" Name="간판 공고"/>
+    <Elem NameU="Go See Production" Name="생산량 모니터링"/>
+    <Elem NameU="Verbal Information" Name="언어 정보"/>
+    <Elem NameU="Phone" Name="폰"/>
+    <Elem NameU="MRP/ERP" Name="MRP/ERP"/>
+    <Elem NameU="Kaizen Burst" Name="Kaizen 섬광"/>
+    <Elem NameU="FIFO Lane" Number="2" Name="FIFO 레인"/>
+    <Elem NameU="Load Leveling" Name="부하 평준화"/>
+    <Elem NameU="Sequenced Pull Ball" Name="순차 당김 볼"/>
+    <Elem NameU="Physical Pull" Name="물리적 당기기"/>
+</Lib>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Christmas">
+	<Elem NameU="Christmas Tree 1" Name="Albero di Natale 1"/>
+	<Elem NameU="Christmas Tree 2" Name="Albero di Natale 2"/>
+	<Elem NameU="Christmas Tree 3" Name="Albero di Natale 3"/>
+	<Elem NameU="Christmas Tree 4" Name="Albero di Natale 4"/>
+	<Elem NameU="Christmas Tree 5" Name="Albero di Natale 5"/>
+	<Elem NameU="Christmas Tree 6" Name="Albero di Natale 6"/>
+	<Elem NameU="Santa Claus 1" Name="Babbo Natale 1"/>
+	<Elem NameU="Santa Claus 2" Name="Babbo Natale 2"/>
+	<Elem NameU="Snowman 1" Name="Pupazzo di Neve 1"/>
+	<Elem NameU="Snowman 2" Name="Pupazzo di Neve 2"/>
+	<Elem NameU="House" Name="Casa"/>
+	<Elem NameU="Reindeer" Name="Renna"/>
+	<Elem NameU="Elk 1" Name="Alce 1"/>
+	<Elem NameU="Elk 2" Name="Alce 2"/>
+	<Elem NameU="Reindeer 1" Name="Renna 1"/>
+	<Elem NameU="Reindeer 2" Name="Renna 2"/>
+	<Elem NameU="Bells 1" Name="Campane 1"/>
+	<Elem NameU="Bells 2" Name="Campane 2"/>
+	<Elem NameU="Christmas Wreath" Name="Ghirlanda Natalizia"/>
+	<Elem NameU="Gift" Name="Regalo"/>
+	<Elem NameU="Candy cane" Name="Bastoncino di zucchero"/>
+	<Elem NameU="Christmas Ginger Bread" Name="Pan di Zenzero Natalizio"/>
+	<Elem NameU="Hat" Name="Cappello"/>
+	<Elem NameU="Christmas Stockings" Name="Calze per Natale"/>
+	<Elem NameU="Gloves" Name="Guanti"/>
+	<Elem NameU="ScarvesGloves" Name="Sciarpe/Guanti"/>
+	<Elem NameU="Reindeer ears" Name="Orecchie di Renna"/>
+	<Elem NameU="Star" Name="Stella"/>
+	<Elem NameU="Snowflake" Name="Fiocco di Neve"/>
+	<Elem NameU="Candy" Name="Caramella"/>
+	<Elem NameU="Candle" Name="Candela"/>
+	<Elem NameU="Ball" Name="Palla"/>
+	<Elem NameU="Christmas decorations" Name="Decorazioni natalizie"/>
+	<Elem NameU="Balloon" Name="Palloncino"/>
+	<Elem NameU="Leaf of chinese ilex" Name="Foglia di agrifoglio"/>
+	<Elem NameU="Flower vine" Name="Fiori rampicanti"/>
+	<Elem NameU="Flags" Name="Bandiere"/>
+	<Elem NameU="Leaf" Name="Foglia"/>
+	<Elem NameU="Merry Christmas" Name="Buon Natale"/>
+</Lib>

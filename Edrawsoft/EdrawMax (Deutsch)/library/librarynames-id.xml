@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LibNames Version="8.0">
+    <Library NameU="Column Chart" Name="Bagan Kolom" />
+    <Library NameU="Funnel Chart" Name="Bagan Corong" />
+    <Library NameU="Gauge Chart" Name="Bagan Meteran" />
+    <Library NameU="Line and Area Charts" Name="Bagan Garis dan Area" />
+    <Library NameU="Pie and Doughnut Charts" Name="Bagan Pai dan Donat" />
+    <Library NameU="Radar Chart" Name="Bagan Radar" />
+    <Library NameU="Scatter and Bubble Charts" Name="Bagan Tebar dan Gelembung" />
+    <Library NameU="Medical" Name="Medis" />
+    <Library NameU="2D Block" Name="Blok 2D" />
+    <Library NameU="2D Block Diagram" Name="Diagram Blok 2D" />
+    <Library NameU="2D Directional Maps" Name="Peta Arah 2D" />
+    <Library NameU="2D Landmarks" Name="Landmark 2D" />
+    <Library NameU="3D Block" Name="Blok 3D" />
+    <Library NameU="3D Block Diagram" Name="Diagram Blok 3D" />
+    <Library NameU="3D Directional Maps" Name="Peta Arah 3D" />
+    <Library NameU="3D Landmarks" Name="Landmark 3D" />
+    <Library NameU="3D Network Diagram Shapes" Name="Bentuk Diagram Jaringan 3D" />
+    <Library NameU="AWS App Services" Name="Layanan Aplikasi AWS" />
+    <Library NameU="AWS Compute and Networking" Name="Komputasi dan Jaringan AWS" />
+    <Library NameU="AWS Database" Name="Basis Data AWS" />
+    <Library NameU="AWS Deployment and Management" Name="Deployment dan Manajemen AWS" />
+    <Library NameU="AWS Non-Service Specific" Name="AWS Non-Service Specific" />
+    <Library NameU="AWS On-Demand Workforce" Name="AWS On-Demand Workforce" />
+    <Library NameU="AWS SDKs" Name="AWS SDKs" />
+    <Library NameU="AWS Storage Content and Delivery" Name="Penyimpanan dan Pengiriman Konten AWS" />
+    <Library NameU="AWS Analytics" Name="Analitik AWS" />
+    <Library NameU="AWS App Services" Name="Layanan Aplikasi AWS" />
+    <Library NameU="AWS Application Integration" Name="Integrasi Aplikasi AWS" />
+    <Library NameU="AWS AR &amp; VR" Name="AWS AR &amp; VR" />
+    <Library NameU="AWS Blockchain" Name="AWS Blockchain" />
+    <Library NameU="AWS Business Applications" Name="Aplikasi Bisnis AWS" />
+    <Library NameU="AWS Compute" Name="Komputasi AWS" />
+    <Library NameU="AWS Compute and Networking" Name="Komputasi dan Jaringan AWS" />
+    <Library NameU="AWS Compute Instances" Name="Instans Komputasi AWS" />
+    <Library NameU="AWS Cost Management" Name="Manajemen Biaya AWS" />
+    <Library NameU="AWS Customer Enablement" Name="Pemberdayaan Pelanggan AWS" />
+    <Library NameU="AWS Customer Engagement" Name="Keikutsertaan Pelanggan AWS" />
+    <Library NameU="AWS Database" Name="Basis Data AWS" />
+    <Library NameU="AWS Deployment and Management" Name="Deployment dan Manajemen AWS" />
+    <Library NameU="AWS Developer Tools" Name="Alat Pengembang AWS" />
+    <Library NameU="AWS End User Computing" Name="Komputasi Pengguna Akhir AWS" />
+    <Library NameU="AWS Game Tech" Name="Teknologi Game AWS" />
+    <Library NameU="AWS General" Name="AWS General" />
+    <Library NameU="AWS Group Icons" Name="Ikon Grup AWS" />
+    <Library NameU="AWS Internet of Things" Name="AWS Internet of Things" />
+    <Library NameU="AWS Machine Learning" Name="Pembelajaran Mesin AWS" />
+    <Library NameU="AWS Management &amp; Governance" Name="Manajemen &amp; Tata Kelola AWS" />
+    <Library NameU="AWS Media Services" Name="Layanan Media AWS" />
+    <Library NameU="AWS Migration &amp; Transfer" Name="Migrasi &amp; Transfer AWS" />
+    <Library NameU="AWS Mobile" Name="Seluler AWS" />
+    <Library NameU="AWS Networking &amp; Content Delivery" Name="Jaringan &amp; Pengiriman Konten AWS" />
+    <Library NameU="AWS Non-Service Specific" Name="AWS Non-Service Specific" />
+    <Library NameU="AWS On-Demand Workforce" Name="AWS On-Demand Workforce" />
+    <Library NameU="AWS Quantum Technologies" Name="Teknologi Kuantum AWS" />
+    <Library NameU="AWS Robotics" Name="Robotik AWS" />
+    <Library NameU="AWS Satellite" Name="Satelit AWS" />
+    <Library NameU="AWS SDKs" Name="AWS SDKs" />
+    <Library NameU="AWS Security, Identity, &amp; Compliance" Name="Keamanan, Identitas, &amp; Kepatuhan AWS" />
+    <Library NameU="AWS Storage" Name="Penyimpanan AWS" />
+    <Library NameU="AWS Storage Content and Delivery" Name="Penyimpanan dan Pengiriman Konten AWS" />
+    <Library NameU="Active Directory" Name="Direktori Aktif" />
+    <Library NameU="Active Directory Objects" Name="Objek Direktori Aktif" />
+    <Library NameU="Africa" Name="Afrika" />
+    <Library NameU="Alarm and Access Control" Name="Alarm dan Kontrol Akses" />
+    <Library NameU="Analog and Digital Logic" Name="Logika Analog dan Digital" />
+    <Library NameU="Alibaba Cloud" Name="Alibaba Cloud" />
+    <Library NameU="Alibaba Cloud AI" Name="Alibaba Cloud AI" />
+    <Library NameU="Others" Name="Lainnya" />
+    <Library NameU="Alibaba Cloud Enterprise application" Name="Aplikasi Alibaba Cloud Enterprise" />
+    <Library NameU="Alibaba Cloud Big Data" Name="Alibaba Cloud Big Data" />
+    <Library NameU="Architecture Diagram" Name="Diagram Arsitektur" />
+    <Library NameU="Security" Name="Keamanan" />
+    <Library NameU="Alibaba Cloud IOT" Name="Alibaba Cloud IOT" />
+    <Library NameU="Alibaba Cloud Media" Name="Media Cloud Alibaba" />
+    <Library NameU="Middleware" Name="Middleware" />
+    <Library NameU="Communication" Name="Komunikasi" />
+    <Library NameU="Elastic Computing" Name="Komputasi Elastis" />
+    <Library NameU="Storage" Name="Penyimpanan" />
+    <Library NameU="Networking" Name="Jaringan" />
+    <Library NameU="Database Services" Name="Layanan Basis Data" />
+    <Library NameU="Monitoring and Management" Name="Pemantauan dan Manajemen" />
+    <Library NameU="Android UI" Name="UI Android" />
+    <Library NameU="Project Timeline" Name="Lini Masa Proyek" />
+    <Library NameU="Animal Cells" Name="Sel Hewan" />
+    <Library NameU="Animals" Name="Hewan" />
+    <Library NameU="Head" Name="Kepala" />
+    <Library NameU="Insect" Name="Serangga" />
+    <Library NameU="Sea Life" Name="Kehidupan Laut" />
+    <Library NameU="Terricole" Name="Terricole" />
+    <Library NameU="Appliances" Name="Perlengkapan Rumah Tangga" />
+    <Library NameU="Architecture" Name="Arsitektur" />
+    <Library NameU="Arrow Connectors" Name="Konektor Panah" />
+    <Library NameU="Arrow Shapes" Name="Bentuk Panah" />
+    <Library NameU="Asia" Name="Asia" />
+    <Library NameU="Basic Drawing Shapes" Name="Bentuk Gambar Dasar" />
+    <Library NameU="Astronomy" Name="Astronomi" />
+    <Library NameU="Athletic Ground" Name="Stadion Olahraga" />
+    <Library NameU="Audit Flow Diagram" Name="Diagram Alur Audit" />
+    <Library NameU="Australia" Name="Australia" />
+    <Library NameU="BPMN-Shapes" Name="Bentuk BPMN" />
+    <Library NameU="Backgrounds" Name="Latar belakang" />
+    <Library NameU="Ball and Stick Model" Name="Model Molekul" />
+    <Library NameU="Bar Chart" Name="Bagan Batang" />
+    <Library NameU="Basic Drawing Shapes" Name="Bentuk Gambar Dasar" />
+    <Library NameU="Basic Electrical Symbols" Name="Simbol Kelistrikan Dasar" />
+    <Library NameU="Basic Flowchart Shapes" Name="Bentuk Bagan Alur Dasar" />
+    <Library NameU="Bathroom" Name="Kamar Mandi" />
+    <Library NameU="Bedroom" Name="Kamar Tidur" />
+    <Library NameU="Birthday" Name="Ulang Tahun" />
+    <Library NameU="Booch OOD" Name="Booch OOD" />
+    <Library NameU="Borders" Name="Batas" />
+    <Library NameU="Brainstorming" Name="Curah Pendapat" />
+    <Library NameU="Bubble Shapes" Name="Bentuk Gelembung" />
+    <Library NameU="Building Core" Name="Inti Bangunan" />
+    <Library NameU="Business" Name="Bisnis" />
+    <Library NameU="Business-Flat" Name="Business-Flat" />
+    <Library NameU="Business Icons" Name="Ikon Bisnis" />
+    <Library NameU="Business Card Templates" Name="Templat Kartu Nama" />
+    <Library NameU="Business Card Text" Name="Teks Kartu Nama" />
+    <Library NameU="Business Scene" Name="Adegan Bisnis" />
+    <Library NameU="Canvas Templates" Name="Templat Kanvas" />
+    <Library NameU="CCTV Equipment" Name="Peralatan CCTV" />
+    <Library NameU="COM and OLE" Name="COM dan OLE" />
+    <Library NameU="Commom Objects" Name="Objek Umum" />
+    <Library NameU="Cabinets and Bookcases" Name="Lemari dan Rak Buku" />
+    <Library NameU="Calendar" Name="Kalender" />
+    <Library NameU="Callouts" Name="Balon Kata" />
+    <Library NameU="Canada" Name="Kanada" />
+    <Library NameU="Carnival" Name="Karnaval" />
+    <Library NameU="Carpet" Name="Karpet" />
+    <Library NameU="Cause and Effect Diagram" Name="Diagram Sebab Akibat" />
+    <Library NameU="Certificate" Name="Sertifikat" />
+    <Library NameU="Chemical Equation" Name="Persamaan Kimia" />
+    <Library NameU="Chen ERD" Name="Chen ERD" />
+    <Library NameU="Child Dress" Name="Gaun Anak" />
+    <Library NameU="Children's Day" Name="Hari Anak" />
+    <Library NameU="Christmas" Name="Natal" />
+    <Library NameU="Circular Charting Shapes" Name="Bentuk Grafik Lingkaran" />
+    <Library NameU="Cisco Basic" Name="Cisco Basic" />
+    <Library NameU="Cisco Buildings" Name="Gedung Cisco" />
+    <Library NameU="Cisco IBM Products" Name="Produk IBM Cisco" />
+    <Library NameU="Cisco LAN" Name="LAN Cisco" />
+    <Library NameU="Cisco Miscellaneous" Name="Cisco Lain-Lain" />
+    <Library NameU="Cisco People" Name="Cisco Orang" />
+    <Library NameU="Cisco Products 1" Name="Produk Cisco 1" />
+    <Library NameU="Cisco Products 2" Name="Produk Cisco 2" />
+    <Library NameU="Cisco Routers" Name="Perute Cisco" />
+    <Library NameU="Cisco Switches" Name="Sakelar Cisco" />
+    <Library NameU="Cisco WAN" Name="WAN Cisco" />
+    <Library NameU="Cisio Media" Name="Media Cisco" />
+    <Library NameU="Cisco Security Stealthwatch" Name="Cisco Security Stealthwatch" />
+    <Library NameU="Column" Name="Kolom" />
+    <Library NameU="Common Shapes" Name="Bentuk Umum" />
+    <Library NameU="Comparison Chart" Name="Bagan Perbandingan" />
+    <Library NameU="Sports" Name="Olahraga" />
+    <Library NameU="Comparison Indicators" Name="Indikator Perbandingan" />
+    <Library NameU="Composite Assemblies" Name="Unit Komposit" />
+    <Library NameU="Computers and Monitors" Name="Komputer dan Monitor" />
+    <Library NameU="Concept Map" Name="Peta Konsep" />
+    <Library NameU="Conceptual Website Shapes" Name="Bentuk Situs Web Konseptual" />
+    <Library NameU="Connectors" Name="Konektor" />
+    <Library NameU="Container" Name="Kontainer" />
+    <Library NameU="Cross Functional Flowchart" Name="Bagan Alur Lintas Fungsi" />
+    <Library NameU="Custom Organization Chart" Name="Bagan Organisasi Kustom" />
+    <Library NameU="Custom Timeline" Name="Lini Masa Kustom" />
+    <Library NameU="Data Flow" Name="Aliran Data" />
+    <Library NameU="Data Flow Model Diagram" Name="Diagram Model Aliran Data" />
+    <Library NameU="Decision Tree" Name="Pohon Keputusan" />
+    <Library NameU="Design Libraryent" Name="Desain Libraryent" />
+    <Library NameU="Detailed Network Diagram" Name="Diagram Detail Jaringan" />
+    <Library NameU="Digital Products" Name="Produk Digital" />
+    <Library NameU="Dimensioning" Name="Pengaturan Dimensi" />
+    <Library NameU="Dining Room (Elevation)" Name="Ruang Makan (Elevasi)" />
+    <Library NameU="EPC Diagram Shapes" Name="Bentuk Diagram EPC" />
+    <Library NameU="Easter" Name="Paskah" />
+    <Library NameU="Education" Name="Pendidikan" />
+    <Library NameU="Electrical Audio" Name="Audio Listrik" />
+    <Library NameU="Electrical Instruments" Name="Instrumen Kelistrikan" />
+    <Library NameU="Electrical and Telecom" Name="Telekomunikasi dan Kelistrikan" />
+    <Library NameU="Electrical Science" Name="Ilmu Kelistrikan" />
+    <Library NameU="Elevations" Name="Elevasi" />
+    <Library NameU="Enterprise Application" Name="Aplikasi Perusahaan" />
+    <Library NameU="Entity Relationship" Name="Hubungan Entitas" />
+    <Library NameU="Environment" Name="Lingkungan" />
+    <Library NameU="Equipment-Centrifuges" Name="Peralatan-Sentrifugal" />
+    <Library NameU="Equipment-Compressors" Name="Peralatan-Kompresor" />
+    <Library NameU="Equipment-Crushers" Name="Peralatan-Penghancur" />
+    <Library NameU="Equipment-Dryers" Name="Peralatan-Pengering" />
+    <Library NameU="Equipment-Filters" Name="Peralatan-Filter" />
+    <Library NameU="Equipment-General" Name="Peralatan-Umum" />
+    <Library NameU="Equipment-Heat Exchanges" Name="Peralatan-Penukar Panas" />
+    <Library NameU="Equipment-Instruments" Name="Peralatan-Instrumen" />
+    <Library NameU="Equipment-Mixers" Name="Peralatan-Mixer" />
+    <Library NameU="Equipment-Motors" Name="Peralatan-Motor" />
+    <Library NameU="Equipment-Peripheral" Name="Peralatan-Periferal" />
+    <Library NameU="Equipment-Pumps" Name="Peralatan-Pompa" />
+    <Library NameU="Equipment-Stream Flag" Name="Peralatan-Penanda Aliran" />
+    <Library NameU="Equipment-Valves" Name="Peralatan-Katup" />
+    <Library NameU="Equipment-Vessels" Name="Peralatan-Bejana" />
+    <Library NameU="Europe" Name="Eropa" />
+    <Library NameU="Event Flow Diagram" Name="Diagram Alur Kejadian" />
+    <Library NameU="Exchange Objects" Name="Objek Pertukaran" />
+    <Library NameU="Express-G" Name="Express-G" />
+    <Library NameU="Family Tree" Name="Pohon Keluarga" />
+    <Library NameU="Fault Tree Analysis Shapes" Name="Bentuk Analisis Pohon Patah" />
+    <Library NameU="Finance" Name="Keuangan" />
+    <Library NameU="Fire and Emergency" Name="Kebakaran dan Keadaan Darurat" />
+    <Library NameU="Five Forces Diagram" Name="Diagram Lima Kekuatan" />
+    <Library NameU="Flags" Name="Bendera" />
+    <Library NameU="Food" Name="Makanan" />
+    <Library NameU="Forms" Name="Formulir" />
+    <Library NameU="Fruit" Name="Buah" />
+    <Library NameU="Funnel" Name="Corong" />
+    <Library NameU="Gantt" Name="Gantt" />
+    <Library NameU="Garden" Name="Kebun" />
+    <Library NameU="Gauges" Name="Pengukur" />
+    <Library NameU="Genogram" Name="Genogram" />
+    <Library NameU="Gift Voucher" Name="Voucher Hadiah" />
+    <Library NameU="Girl Dress 1" Name="Gaun Gadis 1" />
+    <Library NameU="Girl Dress 2" Name="Gaun Gadis 2" />
+    <Library NameU="Girl Dress 3" Name="Gaun Gadis 3" />
+    <Library NameU="Girl Dress 4" Name="Gaun Gadis 4" />
+    <Library NameU="Girl Dress 5" Name="Gaun Gadis 5" />
+    <Library NameU="Girl Dress 6" Name="Gaun Gadis 6" />
+    <Library NameU="Girl Dress 7" Name="Gaun Gadis 7" />
+    <Library NameU="Girl Dress 8" Name="Gaun Gadis 8" />
+    <Library NameU="Greek Letter" Name="Huruf Yunani" />
+    <Library NameU="Guestures" Name="Gestur" />
+    <Library NameU="HOQ and QFD" Name="HOQ dan QFD" />
+    <Library NameU="HVAC Controls" Name="Kontrol HVAC" />
+    <Library NameU="HVAC Controls Equipment" Name="Peralatan Kontrol HVAC" />
+    <Library NameU="HVAC Ductwork" Name="Ductwork HVAC" />
+    <Library NameU="HVAC Equipment" Name="Peralatan HVAC" />
+    <Library NameU="Half-length" Name="Panjang setengah" />
+    <Library NameU="Halloween" Name="Halloween" />
+    <Library NameU="Highlight Flowchart Shapes" Name="Bentuk Bagan Alur Sorotan" />
+    <Library NameU="Highlight Shapes" Name="Bentuk Sorotan" />
+    <Library NameU="Human Organs" Name="Organ Manusia" />
+    <Library NameU="IDEF0" Name="IDEF0" />
+    <Library NameU="IDEF2" Name="IDEF2" />
+    <Library NameU="IOS 6 UI" Name="UI IOS 6" />
+    <Library NameU="IOS 7 UI" Name="UI IOS 7" />
+    <Library NameU="IOS 8 UI" Name="UI IOS 8" />
+    <Library NameU="Icons" Name="Ikon" />
+    <Library NameU="Image Container" Name="Kontainer Gambar" />
+    <Library NameU="Infographic Charts" Name="Bagan Infografis" />
+    <Library NameU="Initiation and Annunciation" Name="Inisiasi dan Pemberitahuan" />
+    <Library NameU="Integrated Circuit Components" Name="Komponen Sirkuit Terpadu" />
+    <Library NameU="Jackson" Name="Jackson" />
+    <Library NameU="Jacobson Use Case" Name="Kasus Penggunaan Jacobson" />
+    <Library NameU="Kitchen (Elevation)" Name="Dapur (Elevasi)" />
+    <Library NameU="Kitchen and Dining Room" Name="Dapur dan Ruang Makan" />
+    <Library NameU="LDAP Objects" Name="Objek LDAP" />
+    <Library NameU="Laboratory Equipment" Name="Alat Laboratorium" />
+    <Library NameU="Language Level Shapes" Name="Bentuk Tingkat Bahasa" />
+    <Library NameU="Lighting" Name="Pencahayaan" />
+    <Library NameU="Lighting and Handbag (Elevation)" Name="Pencahayaan dan Tas Tangan (Elevasi)" />
+    <Library NameU="Line and Area" Name="Garis dan Area" />
+    <Library NameU="List Shapes" Name="Bentuk Daftar" />
+    <Library NameU="Maintenance Symbol" Name="Simbol Pemeliharaan" />
+    <Library NameU="Man Suit" Name="Setelan Pria" />
+    <Library NameU="Map Vehicles" Name="Peta Kendaraan" />
+    <Library NameU="Maps and Charts" Name="Peta dan Bagan" />
+    <Library NameU="Mark" Name="Tanda" />
+    <Library NameU="Marketing Diagrams" Name="Diagram Pemasaran" />
+    <Library NameU="Marketing Shapes" Name="Bentuk Pemasaran" />
+    <Library NameU="Martin ERD" Name="Martin ERD" />
+    <Library NameU="Mathematical Symbol" Name="Simbol Matematika" />
+    <Library NameU="Matrix" Name="Matriks" />
+    <Library NameU="Mechanics" Name="Mekanika" />
+    <Library NameU="Medical" Name="Medis" />
+    <Library NameU="Memory Objects" Name="Objek Memori" />
+    <Library NameU="Mind Map Shapes" Name="Bentuk Peta Pikiran" />
+    <Library NameU="Miscellaneous Flowchart Shapes" Name="Bentuk Bagan Alur Lain-Lain" />
+    <Library NameU="Models" Name="Model" />
+    <Library NameU="Molecular Model" Name="Model Molekuler" />
+    <Library NameU="Money" Name="Uang" />
+    <Library NameU="Music" Name="Musik" />
+    <Library NameU="Nassi-Shneiderman" Name="Nassi-Shneiderman" />
+    <Library NameU="Network Locations" Name="Lokasi Jaringan" />
+    <Library NameU="Network Symbols" Name="Simbol Jaringan" />
+    <Library NameU="Network and Peripherals" Name="Jaringan dan Periferal" />
+    <Library NameU="Network Plan Technology" Name="Teknologi Rencana Jaringan" />
+    <Library NameU="New Year" Name="Tahun Baru" />
+    <Library NameU="News" Name="Berita" />
+    <Library NameU="ORM Diagram" Name="Diagram ORM" />
+    <Library NameU="Object Relationship" Name="Hubungan Objek" />
+    <Library NameU="Office" Name="Kantor" />
+    <Library NameU="Office Equipment" Name="Peralatan Kantor" />
+    <Library NameU="Office Furniture" Name="Furnitur Kantor" />
+    <Library NameU="Optical Symbols" Name="Simbol Optik" />
+    <Library NameU="Optics" Name="Optik" />
+    <Library NameU="Org Chart(Automated)" Name="Bagan Organisasi(Otomatis)" />
+    <Library NameU="Org Chart(Manual)" Name="Bagan Organisasi(Manual)" />
+    <Library NameU="PERT Chart Shapes" Name="Bentuk Bagan PERT" />
+    <Library NameU="PEST" Name="PEST" />
+    <Library NameU="PID Blowers" Name="Blower PID" />
+    <Library NameU="PID Boilers" Name="Boiler PID" />
+    <Library NameU="PID Buildings" Name="Bangunan PID" />
+    <Library NameU="PID Chemistry" Name="Kimia PID" />
+    <Library NameU="PID Computer Keys" Name="Tombol Komputer PID" />
+    <Library NameU="PID Containers" Name="Kontainer PID" />
+    <Library NameU="PID Ductwork" Name="Ductwork PID" />
+    <Library NameU="PID Flow Meters" Name="Meter Aliran PID" />
+    <Library NameU="PID Food Processing" Name="Pemrosesan Makanan PID" />
+    <Library NameU="PID HVAC" Name="HVAC PID" />
+    <Library NameU="PID Heaters" Name="Alat Pemanas PID" />
+    <Library NameU="PID Industry" Name="Industri PID" />
+    <Library NameU="PID Lights" Name="Lampu PID" />
+    <Library NameU="PID Logistics" Name="Logistik PID" />
+    <Library NameU="PID Machines" Name="Mesin PID" />
+    <Library NameU="PID Material Handling" Name="Penanganan Material PID" />
+    <Library NameU="PID Meters" Name="Meteran PID" />
+    <Library NameU="PID Mixers" Name="Mixer PID" />
+    <Library NameU="PID Motors" Name="Motor PID" />
+    <Library NameU="PID Plant Facilities" Name="Fasilitas Pabrik PID" />
+    <Library NameU="PID Power" Name="Daya PID" />
+    <Library NameU="PID Process Cooling" Name="Pendinginan Proses PID" />
+    <Library NameU="PID Process Heating" Name="Pemanasan Proses PID" />
+    <Library NameU="PID Pumps" Name="Pompa PID" />
+    <Library NameU="PID Push Buttons" Name="Tombol Tekan PID" />
+    <Library NameU="PID Safety" Name="Keamanan PID" />
+    <Library NameU="PID Tanks" Name="Tangki PID" />
+    <Library NameU="PID Valves" Name="Katup PID" />
+    <Library NameU="PID Valves Symbols" Name="Simbol Katup PID" />
+    <Library NameU="PID Wastewater Treatment" Name="Pengolahan Air Limbah PID" />
+    <Library NameU="PID Wires and Cables" Name="Kabel dan Kawat PID" />
+    <Library NameU="People" Name="Orang" />
+    <Library NameU="People-Flat" Name="People-Flat" />
+    <Library NameU="People Outline" Name="Outline Orang" />
+    <Library NameU="Peripheral Equipment" Name="Peralatan Periferal" />
+    <Library NameU="Pie and Doughnut" Name="Pai dan Donat" />
+    <Library NameU="Piping and Connection Shapes" Name="Bentuk Sambungan dan Pipa" />
+    <Library NameU="Plant Cell" Name="Sel Tumbuhan" />
+    <Library NameU="Plants" Name="Tumbuhan" />
+    <Library NameU="Plumbing" Name="Saluran Air" />
+    <Library NameU="Presentation Symbols" Name="Simbol Presentasi" />
+    <Library NameU="Process Steps" Name="Langkah Proses" />
+    <Library NameU="Process Shapes" Name="Bentuk Proses" />
+    <Library NameU="Professions" Name="Profesi" />
+    <Library NameU="Program Flowchart" Name="Diagram Alur Program" />
+    <Library NameU="Pyramid Chart" Name="Bagan Piramida" />
+    <Library NameU="Qualifying Symbols" Name="Simbol Kualifikasi" />
+    <Library NameU="ROOM" Name="RUANGAN" />
+    <Library NameU="Rack Equipment" Name="Peralatan Rak" />
+    <Library NameU="Registers Grills and Diffusers" Name="Register, Grill, dan Diffuser" />
+    <Library NameU="Relationship" Name="Hubungan" />
+    <Library NameU="Relationship Matrix" Name="Matriks Hubungan" />
+    <Library NameU="Religion" Name="Agama" />
+    <Library NameU="Resistors and Capacitors" Name="Resistor dan Kapasitor" />
+    <Library NameU="Road Signs" Name="Rambu Jalan" />
+    <Library NameU="Rotating Equip and Mech Functions" Name="Peralatan Rotasi dan Fungsi Mekanik" />
+    <Library NameU="SDL Diagram" Name="Diagram SDL" />
+    <Library NameU="SSADM" Name="SSADM" />
+    <Library NameU="Scatter and Bubble" Name="Tebar dan Gelembung" />
+    <Library NameU="School" Name="Sekolah" />
+    <Library NameU="Semiconductor Devices" Name="Perangkat Semikonduktor" />
+    <Library NameU="Servers" Name="Server" />
+    <Library NameU="Shlaer-Mellor OOA" Name="Shlaer-Mellor OOA" />
+    <Library NameU="Six Sigma" Name="Six Sigma" />
+    <Library NameU="Six Sigma Matrix" Name="Matriks Six Sigma" />
+    <Library NameU="Sofas" Name="Sofa" />
+    <Library NameU="Source and Battery" Name="Sumber dan Baterai" />
+    <Library NameU="South America" Name="Amerika Selatan" />
+    <Library NameU="Spider" Name="Laba-Laba" />
+    <Library NameU="Status Table" Name="Tabel Status" />
+    <Library NameU="Subway" Name="Kereta Bawah Tanah" />
+    <Library NameU="Switches and Relays" Name="Sakelar dan Relai" />
+    <Library NameU="Symbols" Name="Simbol" />
+    <Library NameU="TQM Diagram Shapes" Name="Bentuk Diagram TQM" />
+    <Library NameU="Tables and Chairs" Name="Meja dan Kursi" />
+    <Library NameU="Technology" Name="Teknologi" />
+    <Library NameU="Technology-Flat" Name="Teknologi-Flat" />
+    <Library NameU="Telecom Switch and Peripheral Equip" Name="Switch Telekomunikasi dan Peralatan Periferal" />
+    <Library NameU="Terminals and Connectors" Name="Terminal dan Konektor" />
+    <Library NameU="Text" Name="Teks" />
+    <Library NameU="Text Block" Name="Blok Teks" />
+    <Library NameU="Text Box" Name="Kotak teks" />
+    <Library NameU="Timeline" Name="Timeline" />
+    <Library NameU="Titles" Name="Judul" />
+    <Library NameU="Touch Gesture" Name="Gerakan Sentuh" />
+    <Library NameU="Tourism" Name="Pariwisata" />
+    <Library NameU="Transformers and Windings" Name="Transformator dan Kumparan" />
+    <Library NameU="Transmission Path" Name="Jalur Transmisi" />
+    <Library NameU="Transportation" Name="Transportasi" />
+    <Library NameU="UML Activity State Diagram" Name="Diagram Status Aktivitas UML" />
+    <Library NameU="UML Class Diagram" Name="Diagram Kelas UML" />
+    <Library NameU="UML Communication Diagram" Name="Diagram Komunikasi UML" />
+    <Library NameU="UML Component Diagram" Name="Diagram Komponen UML" />
+    <Library NameU="UML Deployment Diagram" Name="Diagram Penempatan UML" />
+    <Library NameU="UML Sequence Diagram" Name="Diagram Urutan UML" />
+    <Library NameU="UML Statechart Diagram" Name="Diagram Statechart UML" />
+    <Library NameU="UML Use Case Diagram" Name="Diagram Kasus Penggunaan UML" />
+    <Library NameU="USA" Name="AS" />
+    <Library NameU="VHF-UHF-SHF" Name="VHF-UHF-SHF" />
+    <Library NameU="Valentine's Day" Name="Hari Valentine" />
+    <Library NameU="Value Chain" Name="Rantai Nilai" />
+    <Library NameU="Value Stream Mapping" Name="Peta Arus Nilai" />
+    <Library NameU="Vector Icons" Name="Ikon Vektor" />
+    <Library NameU="Vehicles" Name="Kendaraan" />
+    <Library NameU="Venn Chart" Name="Bagan Venn" />
+    <Library NameU="Venn Shapes" Name="Bentuk Venn" />
+    <Library NameU="Video Surveillance" Name="Pengawasan Video" />
+    <Library NameU="Video and Audio Ports" Name="Port Video dan Audio" />
+    <Library NameU="WBS Shapes" Name="Bentuk WBS" />
+    <Library NameU="Wall Shell and Structure" Name="Selubung dan Struktur Dinding" />
+    <Library NameU="Wall, Door, Window and Structure" Name="Dinding, Pintu, Jendela, dan Struktur" />
+    <Library NameU="Wardrobe" Name="Lemari Pakaian" />
+    <Library NameU="Weather" Name="Cuaca" />
+    <Library NameU="Web Site Map" Name="Peta Situs Web" />
+    <Library NameU="Doors and Windows" Name="Pintu dan Jendela" />
+    <Library NameU="Windows and Doors (Elevation)" Name="Jendela dan Pintu (Elevasi)" />
+    <Library NameU="Windows7  UI" Name="UI Windows7" />
+    <Library NameU="Wireframe" Name="Wireframe" />
+    <Library NameU="WorkFlow Department" Name="Departemen Alur Kerja" />
+    <Library NameU="WorkFlow Objects" Name="Objek Alur Kerja" />
+    <Library NameU="WorkFlow Steps" Name="Langkah Alur Kerja" />
+    <Library NameU="Yourdon and Coad" Name="Yourdon dan Coad" />
+    <Library NameU="iPad UI" Name="UI iPad" />
+    <Library NameU="Kids Expressions" Name="Ekspresi Anak" />
+    <Library NameU="Kids Professions" Name="Profesi Anak" />
+    <Library NameU="Kids Sports" Name="Olahraga Anak" />
+    <Library NameU="Kids Transportation" Name="Transportasi Anak" />
+    <Library NameU="Kindergarten Life" Name="Kehidupan Taman Kanak-Kanak" />
+    <Library NameU="School Life" Name="Kehidupan Sekolah" />
+    <Library NameU="Map Pointers" Name="Penunjuk Peta" />
+    <Library NameU="World Map" Name="Peta Dunia" />
+    <Library NameU="Lines" Name="Garis" />
+    <Library NameU="Fashion" Name="Mode" />
+    <Library NameU="Basic Charts" Name="Bagan Dasar" />
+    <Library NameU="Insect" Name="Serangga" />
+    <Library NameU="Animal" Name="Hewan" />
+    <Library NameU="Terricole" Name="Terricole" />
+    <Library NameU="Sea Life" Name="Kehidupan Laut" />
+    <Library NameU="Business Flat" Name="Bisnis Flat" />
+    <Library NameU="Business Scene 1" Name="Adegan Bisnis 1" />
+    <Library NameU="Business Scene 2" Name="Adegan Bisnis 2" />
+    <Library NameU="Office Flat" Name="Kantor Flat" />
+    <Library NameU="Marketing" Name="Pemasaran" />
+    <Library NameU="Shopping" Name="Belanja" />
+    <Library NameU="Discount labels" Name="Label diskon" />
+    <Library NameU="Business Scene 1" Name="Adegan Bisnis 1" />
+    <Library NameU="Desig-Libraryent" Name="Desig-Libraryent" />
+    <Library NameU="Bow" Name="Pita" />
+    <Library NameU="Heart" Name="Hati" />
+    <Library NameU="Ornament" Name="Ornamen" />
+    <Library NameU="Social Media" Name="Media Sosial" />
+    <Library NameU="Sticker" Name="Stiker" />
+    <Library NameU="Gestures" Name="Gerakan" />
+    <Library NameU="Education Flat" Name="Pendidikan Flat" />
+    <Library NameU="Fashion Models" Name="Model Fashion" />
+    <Library NameU="Fashion Clothes" Name="Baju Fashion" />
+    <Library NameU="Fashion Items" Name="Item Fashion" />
+    <Library NameU="Festival" Name="Festival" />
+    <Library NameU="Bread" Name="Roti" />
+    <Library NameU="Drink" Name="Minuman" />
+    <Library NameU="Fruit" Name="Buah" />
+    <Library NameU="Snacks" Name="Kudapan" />
+    <Library NameU="Tableware" Name="Peralatan Makan" />
+    <Library NameU="Vegetable" Name="Sayur" />
+    <Library NameU="Nature" Name="Alam" />
+    <Library NameU="Flowers" Name="Bunga" />
+    <Library NameU="Leaves" Name="Daun" />
+    <Library NameU="Trees" Name="Pohon" />
+    <Library NameU="Landscape" Name="Pemandangan" />
+    <Library NameU="Silhouette" Name="Siluet" />
+    <Library NameU="Business People" Name="Pebisnis" />
+    <Library NameU="Facial Expressions" Name="Ekspresi Wajah" />
+    <Library NameU="Facial Expressions" Name="Ekspresi Wajah" />
+    <Library NameU="Profession" Name="Profesi" />
+    <Library NameU="Profession Half-length" Name="Profesi Setengah panjang" />
+    <Library NameU="People Activity Pictogram" Name="Piktogram Aktivitas Orang" />
+    <Library NameU="3D People Pictogram" Name="Piktogram Orang 3D" />
+    <Library NameU="Aerospace and Military" Name="Penerbangan dan Militer" />
+    <Library NameU="Aerospace Technology" Name="Teknologi Penerbangan" />
+    <Library NameU="Shipping and Logistics" Name="Pengiriman dan Logistik" />
+    <Library NameU="Social Life" Name="Kehidupan Sosial" />
+    <Library NameU="News Media" Name="Media Berita" />
+    <Library NameU="Media" Name="Media" />
+    <Library NameU="Building" Name="Bangunan" />
+    <Library NameU="Buildings" Name="Bangunan" />
+    <Library NameU="Sports" Name="Olahraga" />
+    <Library NameU="Sport Silhouette" Name="Siluet Olahraga" />
+    <Library NameU="Sport Libraryents" Name="Sport Libraryents" />
+    <Library NameU="Fitness" Name="Kebugaran" />
+    <Library NameU="Electronics" Name="Elektronik" />
+    <Library NameU="Artificial Intelligence" Name="Kecerdasan Buatan" />
+    <Library NameU="Biotechnology" Name="Bioteknologi" />
+    <Library NameU="Aerospace Technology" Name="Teknologi Penerbangan" />
+    <Library NameU="Silhouette" Name="Siluet" />
+    <Library NameU="Amazon Web Services" Name="Amazon Web Services" />
+    <Library NameU="AWS SDKs" Name="AWS SDKs" />
+    <Library NameU="MS Azure Cloud" Name="MS Azure Cloud" />
+    <Library NameU="Microsoft Azure Cloud" Name="Microsoft Azure Cloud" />
+    <Library NameU="Google Cloud" Name="Google Cloud" />
+    <Library NameU="Cisco Network" Name="Jaringan Cisco" />
+    <Library NameU="Cisco Network Topology" Name="Topologi Jaringan Cisco" />
+    <Library NameU="Cisco Product Icons" Name="Ikon Produk Cisco" />
+    <Library NameU="Cisco Teleprsence Icons" Name="Ikon Telepresence Cisco" />
+    <Library NameU="Cisco Wireless Icons" Name="Ikon Nirkabel Cisco" />
+    <Library NameU="Cisco Safe Icons" Name="Ikon Cisco Safe" />
+    <Library NameU="Finance" Name="Keuangan" />
+    <Library NameU="Marketing" Name="Pemasaran" />
+    <Library NameU="Graphic Organizer" Name="Pengelola Gambar" />
+    <Library NameU="List Shapes (Dynamic)" Name="Bentuk Daftar (Dinamis)" />
+    <Library NameU="Enterprise Architecture" Name="Arsitektur Perusahaan" />
+    <Library NameU="Cisco Telepresence Icons" Name="Ikon Cisco Telepresence" />
+    <Library NameU="Drink" Name="Minuman" />
+    <Library NameU="User" Name="Pengguna" />
+    <Library NameU="Number" Name="Nomor" />
+    <Library NameU="GCP Big Data" Name="GCP Big Data" />
+    <Library NameU="GCP Compute" Name="Komputasi GCP" />
+    <Library NameU="GCP Developer Tools" Name="Alat Pengembang GCP" />
+    <Library NameU="GCP Extras" Name="Ekstra GCP" />
+    <Library NameU="GCP Identity and Security" Name="Identitas dan Keamanan GCP" />
+    <Library NameU="GCP Internet of Things" Name="GCP Internet of Things" />
+    <Library NameU="GCP Management Tools" Name="Alat Manajemen GCP" />
+    <Library NameU="GCP Networking" Name="Jaringan GCP" />
+    <Library NameU="GCP Storage and Databases" Name="Penyimpanan dan Basis Data GCP" />
+    <Library NameU="Azure Cloud" Name="Azure Cloud" />
+    <Library NameU="Azure Intune" Name="Azure Intune" />
+    <Library NameU="Azure Deprecated" Name="Azure Tidak Digunakan Lagi" />
+    <Library NameU="Azure Enterprise" Name="Azure Enterprise" />
+    <Library NameU="Azure General Symbols" Name="Simbol Umum Azure" />
+    <Library NameU="Azure Microsoft Products" Name="Produk Microsoft Azure" />
+    <Library NameU="Azure VMs by Function" Name="VM Azure berdasarkan Fungsi" />
+    <Library NameU="Azure System Center" Name="Azure System Center" />
+    <Library NameU="Cisco Security Stealthwatc" Name="Cisco Security Stealthwatch" />
+    <Library NameU="Cisco Safe Threat Icons" Name="Ikon Ancaman Cisco Safe" />
+    <Library NameU="Cisco Safe Architectural Icons" Name="Ikon Arsitektur Cisco Safe" />
+    <Library NameU="Cisco Safe Capability Icons" Name="Ikon Kemampuan Cisco Safe" />
+    <Library NameU="Cisco Safe Design Icons" Name="Ikon Desain Cisco Safe" />
+    <Library NameU="Big Data" Name="Big Data" />
+    <Library NameU="Smart Home" Name="Rumah Pintar" />
+    <Library NameU="Internet Of Things" Name="Internet of Things" />
+    <Library NameU="Website Wireframe 1" Name="Website Wireframe 1" />
+    <Library NameU="Website Wireframe 2" Name="Website Wireframe 2" />
+    <Library NameU="Windows UI" Name="UI Windows" />
+    <Library NameU="IOS UI" Name="UI IOS" />
+    <Library NameU="Wireframe Icons" Name="Ikon Wireframe" />
+    <Library NameU="iOS Icons" Name="Ikon iOS" />
+    <Library NameU="Daily Life" Name="Kehidupan sehari-hari" />
+    <Library NameU="Education Icons" Name="Ikon Pendidikan" />
+    <Library NameU="Medical Icons" Name="Ikon Medis" />
+    <Library NameU="Office Icons" Name="Ikon Kantor" />
+    <Library NameU="User Icons" Name="Ikon Pengguna" />
+    <Library NameU="Wireframe Icons" Name="Ikon Wireframe" />
+    <Library NameU="Mid Autumn" Name="Pertengahan Musim Gugur" />
+    <Library NameU="Dragon Boat" Name="Perahu Naga" />
+    <Library NameU="Dragon Boat Festival" Name="Festival Perahu Naga" />
+    <Library NameU="Family" Name="Keluarga" />
+    <Library NameU="Father's Day" Name="Hari Ayah" />
+    <Library NameU="Spring Festival" Name="Festival Musim Semi" />
+    <Library NameU="Thanksgiving Day" Name="Hari Thanksgiving" />
+    <Library NameU="Valentines Day" Name="Hari Valentine" />
+    <Library NameU="Wedding Day" Name="Hari Pernikahan" />
+    <Library NameU="Users" Name="Pengguna" />
+    <Library NameU="Holiday Cards" Name="Kartu Liburan" />
+    <Library NameU="Design" Name="Desain" />
+    <Library NameU="Business Flat Icons" Name="Ikon Bisnis Flat" />
+    <Library NameU="Business Outline Icons" Name="Ikon Outline Bisnis" />
+    <Library NameU="Business Two Color Icons" Name="Ikon Bisnis Dua Warna" />
+    <Library NameU="Daily Life Flat Icons" Name="Ikon Kehidupan Sehari-hari Flat" />
+    <Library NameU="Daily Life Outline Icons" Name="Ikon Outline Kehidupan Sehari-hari" />
+    <Library NameU="Education Flat Icons" Name="Ikon Pendidikan Flat" />
+    <Library NameU="Education Outline Icons" Name="Ikon Outline Pendidikan" />
+    <Library NameU="Medical Flat Icons" Name="Ikon Medis Flat" />
+    <Library NameU="Medical Outline Icons" Name="Ikon Outline Medis" />
+    <Library NameU="Social Media Flat Icons" Name="Ikon Media Sosial Flat" />
+    <Library NameU="Social Media Colorful Icons" Name="Ikon Media Sosial Berwarna" />
+    <Library NameU="Users Outline Icons" Name="Ikon Outline Pengguna" />
+    <Library NameU="Users Flat Icons" Name="Ikon Pengguna Flat" />
+    <Library NameU="Roadmap" Name="Roadmap" />
+    <Library NameU="Facial Expression" Name="Ekspresi Wajah" />
+    <Library NameU="PPT Illustration" Name="Ilustrasi PPT" />
+    <Library NameU="Tencent Cloud-Artificial Intelligence" Name="Tencent Cloud-Kecerdasan Buatan" />
+    <Library NameU="Tencent Cloud-Big Data" Name="Tencent Cloud-Big Data" />
+    <Library NameU="Tencent Cloud-Basic" Name="Tencent Cloud-Dasar" />
+    <Library NameU="Tencent Cloud-Database" Name="Tencent Cloud-Basis Data" />
+    <Library NameU="Tencent Cloud-Developer Service" Name="Tencent Cloud-Layanan Pengembang" />
+    <Library NameU="Tencent Cloud-Enterprise Application" Name="Tencent Cloud-Aplikasi Perusahaan" />
+    <Library NameU="Tencent Cloud-Industry Application" Name="Tencent Cloud-Aplikasi Industri" />
+    <Library NameU="Tencent Cloud-Security" Name="Tencent Cloud-Keamanan" />
+    <Library NameU="Tencent Cloud" Name="Tencent Cloud" />
+    <Library NameU="Business Diagram" Name="Diagram Bisnis" />
+    <Library NameU="Smart Shapes" Name="Bentuk Pintar" />
+    <Library NameU="Chart" Name="Bagan" />
+    <Library NameU="Database Modeling" Name="Pemodelan Basis Data" />
+    <Library NameU="Engineering" Name="Teknik" />
+    <Library NameU="Electrical" Name="Kelistrikan" />
+    <Library NameU="ERD &amp; Database" Name="ERD &amp; Basis Data" />
+    <Library NameU="Fashion Design" Name="Desain Fashion" />
+    <Library NameU="Family Tree" Name="Pohon Keluarga" />
+    <Library NameU="Flowchart" Name="Bagan Alur" />
+    <Library NameU="Floor Plan" Name="Denah" />
+    <Library NameU="General" Name="Umum" />
+    <Library NameU="Graphs and Charts" Name="Grafik dan Bagan" />
+    <Library NameU="Icons" Name="Ikon" />
+    <Library NameU="Illustration" Name="Ilustrasi" />
+    <Library NameU="Maps" Name="Peta" />
+    <Library NameU="Marketing" Name="Pemasaran" />
+    <Library NameU="Mind Map" Name="Mind Map" />
+    <Library NameU="Roadmap" Name="Roadmap" />
+    <Library NameU="Amazon Web Services" Name="Amazon Web Services" />
+    <Library NameU="Cisco Network" Name="Jaringan Cisco" />
+    <Library NameU="Google Cloud" Name="Google Cloud" />
+    <Library NameU="MS Azure Cloud" Name="MS Azure Cloud" />
+    <Library NameU="Alibaba Cloud" Name="Alibaba Cloud" />
+    <Library NameU="Network Diagram" Name="Diagram Jaringan" />
+    <Library NameU="Organizational Chart" Name="Bagan Organisasi" />
+    <Library NameU="Project Management" Name="Manajemen Proyek" />
+    <Library NameU="Science" Name="Sains" />
+    <Library NameU="Software" Name="Rekayasa Perangkat Lunak" />
+    <Library NameU="Wireframe" Name="Wireframe" />
+    <Library NameU="Forms" Name="Formulir" />
+    <Library NameU="Business Card" Name="Kartu Nama" />
+    <Library NameU="Presentation" Name="Presentasi" />
+    <Library NameU="Clip Art" Name="Clip Art" />
+    <Library NameU="Industrial Automation" Name="Otomatisasi Industri" />
+    <Library NameU="P&amp;&amp;ID Symbols" Name="Simbol P&amp;&amp;ID" />
+    <Library NameU="Card" Name="Kartu" />
+    <Library NameU="ERD and Database" Name="ERD dan Basis Data" />
+    <Library NameU="Infographic" Name="Infografis" />
+    <Library NameU="Map" Name="Peta" />
+    <Library NameU="PID" Name="PID" />
+    <Library NameU="Graphic Design" Name="Desain Grafis" />
+    <Library NameU="Graphic Organizer" Name="Pengelola Gambar" />
+    <Library NameU="Basic Shapes" Name="Bentuk Dasar" />
+    <Library NameU="Flowchart Shapes" Name="Bentuk Bagan Alur" />
+    <Library NameU="Cloud Service" Name="Layanan Cloud" />
+    <Library NameU="Equipment-Solar System" Name="Peralatan-Tata Surya" />
+    <Library NameU="Business Layer" Name="Lapisan Bisnis"/>
+    <Library NameU="Technology Layer" Name="Lapisan Teknologi"/>
+    <Library NameU="Relationships" Name="Hubungan"/>
+    <Library NameU="Physical" Name="Fisik"/>
+    <Library NameU="Strategy" Name="Strategi"/>
+    <Library NameU="Motivation" Name="Motivasi"/>
+    <Library NameU="Implementation and Migration" Name="Implementasi dan Migrasi"/>
+    <Library NameU="ArchiMate Technical Diagram" Name="Diagram Teknis ArchiMate"/>
+    <Library NameU="Figures" Name="Pose"/>
+    <Library NameU="Outdoor Scene" Name="Objek Luar Ruangan"/>
+    <Library NameU="Evidence" Name="Barang Bukti"/>
+    <Library NameU="Weapons" Name="Senjata"/>
+    <Library NameU="Indoor Scene" Name="Objek Dalam Ruangan"/>
+    <Library NameU="Callout" Name="Keterangan"/>
+    <Library NameU="Crime Scene Images" Name="Gambar TKP"/>
+    <Library NameU="Application Layer" Name="Lapisan Aplikasi"/>
+    <Library NameU="ArchiMate" Name="ArchiMate"/>
+	<Library NameU="Internet of Things (IOT)" Name="Internet of Things (IoT)"/>
+	<Library NameU="Sports Elements" Name="Elemen Olahraga"/>
+	<Library NameU="Consumer Electronics" Name="Elektronik Konsumen"/>
+</LibNames>

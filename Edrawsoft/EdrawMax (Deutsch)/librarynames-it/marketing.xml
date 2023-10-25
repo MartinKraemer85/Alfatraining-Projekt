@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Marketing">
+	<Elem NameU="Marketing mix" Name="Marketing mix"/>
+	<Elem NameU="Marketing planning" Name="Pianificazione marketing"/>
+	<Elem NameU="Content production" Name="Produzione contenuti"/>
+	<Elem NameU="Currency conversion" Name="Conversione valute"/>
+	<Elem NameU="Data analysis" Name="Analisi dati"/>
+	<Elem NameU="The statistical figure" Name="Figura statistica"/>
+	<Elem NameU="Loyalty program" Name="Programma fedeltà"/>
+	<Elem NameU="Internet marketing" Name="Marketing online"/>
+	<Elem NameU="Advertising" Name="Pubblicità"/>
+	<Elem NameU="Geo Targeting" Name="Targeting Geografico"/>
+	<Elem NameU="Email marketing" Name="Email marketing"/>
+	<Elem NameU="Creative marketing" Name="Marketing creativo"/>
+	<Elem NameU="Direct mail marketing" Name="Email marketing diretto"/>
+	<Elem NameU="Data Marketing" Name="Marketing dati"/>
+	<Elem NameU="Marketing automation" Name="Automazione marketing"/>
+	<Elem NameU="Promotion" Name="Promozione"/>
+	<Elem NameU="Mobile marketing" Name="Marketing mobile"/>
+	<Elem NameU="Market Monitoring" Name="Monitoraggio mercato"/>
+	<Elem NameU="Target audience" Name="Pubblico di riferimento"/>
+	<Elem NameU="Telemarketing" Name="Telemarketing"/>
+	<Elem NameU="Training" Name="Formazione"/>
+	<Elem NameU="Webinars" Name="Seminari web"/>
+	<Elem NameU="Web support" Name="Supporto web"/>
+	<Elem NameU="Online PR" Name="PR online"/>
+	<Elem NameU="Marketing strategy" Name="Strategia di Marketing"/>
+	<Elem NameU="Affliate marketing" Name="Marketing affiliato"/>
+	<Elem NameU="Search engine optimization" Name="Ottimizzazione motori di ricerca"/>
+	<Elem NameU="Customer personal development" Name="Sviluppo personale clientela"/>
+	<Elem NameU="Customer relationship management" Name="Gestione relazioni con clientela"/>
+	<Elem NameU="Social media marketing" Name="Marketing sui social media"/>
+	<Elem NameU="Sales" Name="Vendite"/>
+</Lib>

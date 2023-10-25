@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Gantt">
+    <Elem NameU="Data Source Example" Name="数据源例子"/>
+    <Elem NameU="Gantt" Name="甘特图"/>
+    <Elem NameU="Gantt-White" Name="白背景甘特图"/>
+    <Elem NameU="Gantt-Gray" Name="灰色背景甘特图"/>
+</Lib>

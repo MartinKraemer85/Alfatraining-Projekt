@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Equipment-Stream Flag">
+	<Elem NameU="Stream ID" Name="ID de Stream"/>
+	<Elem NameU="Temperature" Name="Temperatura"/>
+	<Elem NameU="Pressure" Name="Pressão"/>
+	<Elem NameU="Liquid Flowrate" Name="Caudal Líquido"/>
+	<Elem NameU="Gas Flowrate" Name="Caudal de Gás"/>
+	<Elem NameU="Molar Flowrate" Name="Caudal Molar"/>
+	<Elem NameU="Mass Flowrate" Name="Caudal de Massa"/>
+	<Elem NameU="Process Input" Name="Entrada de Processo"/>
+	<Elem NameU="Process Output" Name="Resultado de Processo"/>
+	<Elem NameU="Module" Name="Módeulo"/>
+</Lib>

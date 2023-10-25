@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Fashion Items">
+	<Elem NameU="Women Bag 1" Name="Mala de Senhora 1"/>
+	<Elem NameU="Women Bag 2" Name="Mala de Senhora 2"/>
+	<Elem NameU="Women Bag 3" Name="Mala de Senhora 3"/>
+	<Elem NameU="Women Bag 4" Name="Mala de Senhora 4"/>
+	<Elem NameU="Women Bag 5" Name="Mala de Senhora 5"/>
+	<Elem NameU="Women Bag 6" Name="Mala de Senhora 6"/>
+	<Elem NameU="Women Bag 8" Name="Mala de Senhora 8"/>
+	<Elem NameU="Women Bag 7" Name="Mala de Senhora 7"/>
+	<Elem NameU="Backpack" Name="Mochila"/>
+	<Elem NameU="Purse 1" Name="Carteira 1"/>
+	<Elem NameU="Purse 2" Name="Carteira 2"/>
+	<Elem NameU="Men Purse" Name="Bolsa de Homem"/>
+	<Elem NameU="Men Bag 1" Name="Mala de Homem 1"/>
+	<Elem NameU="Men Bag 2" Name="Mala de Homem 2"/>
+	<Elem NameU="Travelling Bag 1" Name="Saco de Viagem 1"/>
+	<Elem NameU="Travelling Bag 2" Name="Saco de Viagem 2"/>
+	<Elem NameU="Cap 1" Name="Chapéu 1"/>
+	<Elem NameU="Cap 2" Name="Chapéu 2"/>
+	<Elem NameU="Cap 3" Name="Chapéu 3"/>
+	<Elem NameU="Cap 4" Name="Chapéu 4"/>
+	<Elem NameU="Cap 5" Name="Chapéu 5"/>
+	<Elem NameU="Cap 6" Name="Chapéu 6"/>
+	<Elem NameU="Cap 7" Name="Chapéu 7"/>
+	<Elem NameU="Cap 8" Name="Chapéu 8"/>
+	<Elem NameU="Cap 9" Name="Chapéu 9"/>
+	<Elem NameU="Cap 10" Name="Chapéu 10"/>
+	<Elem NameU="Cap 11" Name="Chapéu 11"/>
+	<Elem NameU="glasses 1" Name="óculos 1"/>
+	<Elem NameU="glasses 2" Name="óculos 2"/>
+	<Elem NameU="glasses 3" Name="óculos 3"/>
+	<Elem NameU="glasses 4" Name="óculos 4"/>
+	<Elem NameU="Ring 1" Name="Anel 1"/>
+	<Elem NameU="Ring 2" Name="Anel 2"/>
+	<Elem NameU="Ring 3" Name="Anel 3"/>
+	<Elem NameU="Earrings 1" Name="Brincos 1"/>
+	<Elem NameU="Earrings 2" Name="Brincos 2"/>
+	<Elem NameU="Earrings 3" Name="Brincos 3"/>
+	<Elem NameU="Earrings 4" Name="Brincos 4"/>
+	<Elem NameU="Earrings 5" Name="Brincos 5"/>
+	<Elem NameU="Earrings 6" Name="Brincos 6"/>
+	<Elem NameU="Earrings 7" Name="Brincos 7"/>
+	<Elem NameU="Earrings 8" Name="Brincos 8"/>
+	<Elem NameU="Earrings 9" Name="Brincos 9"/>
+	<Elem NameU="Earrings 10" Name="Brincos 10"/>
+	<Elem NameU="Earrings 11" Name="Brincos 11"/>
+	<Elem NameU="Earrings 12" Name="Brincos 12"/>
+	<Elem NameU="Earrings 13" Name="Brincos 13"/>
+	<Elem NameU="Earrings 14" Name="Brincos 14"/>
+	<Elem NameU="Earrings 15" Name="Brincos 15"/>
+	<Elem NameU="Earrings 16" Name="Brincos 16"/>
+	<Elem NameU="Earrings 17" Name="Brincos 17"/>
+	<Elem NameU="Necklace 1" Name="Colar 1"/>
+	<Elem NameU="Necklace 2" Name="Colar 2"/>
+	<Elem NameU="Necklace 3" Name="Colar 3"/>
+	<Elem NameU="Bracelet 1" Name="Pulseira 1"/>
+	<Elem NameU="Bracelet 2" Name="Pulseira 2"/>
+	<Elem NameU="Brooch 1" Name="Pregadeira 1"/>
+	<Elem NameU="Brooch 2" Name="Pregadeira 2"/>
+	<Elem NameU="Brooch 3" Name="Pregadeira 3"/>
+	<Elem NameU="Accessories 1" Name="Acessórios 1"/>
+	<Elem NameU="Accessories 2" Name="Acessórios 2"/>
+	<Elem NameU="Scarves" Name="Cachecóis"/>
+	<Elem NameU="Watch 1" Name="Relógio 1"/>
+	<Elem NameU="Watch 2" Name="Relógio 2"/>
+	<Elem NameU="Watch 3" Name="Relógio 3"/>
+	<Elem NameU="Watch 4" Name="Relógio 4"/>
+	<Elem NameU="Watch 5" Name="Relógio 5"/>
+	<Elem NameU="Scarf" Name="Cachecol"/>
+	<Elem NameU="Tie 1" Name="Gravata 1"/>
+	<Elem NameU="Tie 2" Name="Gravata 2"/>
+	<Elem NameU="Tie 3" Name="Gravata 3"/>
+	<Elem NameU="Lipstick" Name="Batom"/>
+	<Elem NameU="Eyebrow pencil" Name="Lápis de olho"/>
+	<Elem NameU="Liquid eyeliner" Name="Eyeliner líquido"/>
+	<Elem NameU="Cosmetic Brush 1" Name="Pincel de Cósmetica 1"/>
+	<Elem NameU="Cosmetic Brush 2" Name="Pincel de Cósmetica 2"/>
+	<Elem NameU="Mascara" Name="Máscara"/>
+	<Elem NameU="Perfume 1" Name="Perfume 1"/>
+	<Elem NameU="Perfume 2" Name="Perfume 2"/>
+	<Elem NameU="Perfume 3" Name="Perfume 3"/>
+	<Elem NameU="Facial Cleanser" Name="Desmaquilhante Facial"/>
+	<Elem NameU="Skin Care" Name="Cuidados da Pele"/>
+	<Elem NameU="Body Wash" Name="Gel de Duche"/>
+	<Elem NameU="Shampoo 1" Name="Shampoo 1"/>
+	<Elem NameU="Shampoo 2" Name="Shampoo 2"/>
+	<Elem NameU="Leather belt" Name="Cinto de pele"/>
+	<Elem NameU="wig 1" Name="peruca 1"/>
+	<Elem NameU="wig 2" Name="peruca 2"/>
+	<Elem NameU="wig 3" Name="peruca 3"/>
+	<Elem NameU="Curling Comb" Name="Pente de Frisar"/>
+	<Elem NameU="Comb 2" Name="Pente 2"/>
+	<Elem NameU="Blower 1" Name="Secador 1"/>
+	<Elem NameU="Blower 2" Name="Secador 2"/>
+	<Elem NameU="Manicure 1" Name="Manicure 1"/>
+	<Elem NameU="Manicure 2" Name="Manicure 2"/>
+	<Elem NameU="Manicure 3" Name="Manicure 3"/>
+</Lib>

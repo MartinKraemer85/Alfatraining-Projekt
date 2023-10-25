@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="WorkFlow Steps">
+    <Elem NameU="Entertain" Name="接待"/>
+    <Elem NameU="Request" Name="询问"/>
+    <Elem NameU="Collect Data" Name="收集数据"/>
+    <Elem NameU="Analyze" Name="分析"/>
+    <Elem NameU="Research" Name="调查"/>
+    <Elem NameU="Brainstorm" Name="大脑风暴"/>
+    <Elem NameU="Submit" Name="提交"/>
+    <Elem NameU="Submit 2" Name="提交 2"/>
+    <Elem NameU="Program analysis" Name="项目分析"/>
+    <Elem NameU="Approve" Name="批准"/>
+    <Elem NameU="Refuse" Name="拒绝"/>
+    <Elem NameU="Schedule" Name="日程"/>
+    <Elem NameU="Prototype Design" Name="原型设计"/>
+    <Elem NameU="Task" Name="任务"/>
+    <Elem NameU="Problem" Name="问题"/>
+    <Elem NameU="Meeting" Name="会议"/>
+    <Elem NameU="Present" Name="展示"/>
+    <Elem NameU="Call" Name="打电话"/>
+    <Elem NameU="Agreement" Name="达成协议"/>
+</Lib>

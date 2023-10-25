@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Finance">
+
+<Elem Name="グローバル" NameU="Global"/>
+
+<Elem Name="研究" NameU="Research"/>
+
+<Elem Name="国際的" NameU="International"/>
+
+<Elem Name="熱気球" NameU="Hot Air Balloon"/>
+
+<Elem Name="都市" NameU="City"/>
+
+<Elem Name="超高層ビル" NameU="Skyscraper"/>
+
+<Elem Name="ブランチ" NameU="Branch"/>
+
+<Elem Name="ビジネスオフィス" NameU="Business Office"/>
+
+<Elem Name="購入" NameU="Purchase"/>
+
+<Elem Name="倉庫" NameU="Warehouse"/>
+
+<Elem Name="商品" NameU="Goods"/>
+
+<Elem Name="商品 2" NameU="Goods 2"/>
+
+<Elem Name="労働者" NameU="Labor"/>
+
+<Elem Name="CEO" NameU="CEO"/>
+
+<Elem Name="CEO 2" NameU="CEO 2"/>
+
+<Elem Name="コミュニケーション" NameU="Communication"/>
+
+<Elem Name="顧客サービス" NameU="Customer Service"/>
+
+<Elem Name="顧客サービス 2" NameU="Customer Service 2"/>
+
+<Elem Name="方向" NameU="Direction"/>
+
+<Elem Name="競争" NameU="Competition"/>
+
+<Elem Name="チームワーク" NameU="Team Work"/>
+
+<Elem Name="バインド" NameU="Binding"/>
+
+<Elem Name="請求書" NameU="Invoice"/>
+
+<Elem Name="手紙" NameU="Letter"/>
+
+<Elem Name="賞品" NameU="Award"/>
+
+<Elem Name="賞品 2" NameU="Award 2"/>
+
+<Elem Name="所得" NameU="Income"/>
+
+<Elem Name="経費" NameU="Expenses"/>
+
+<Elem Name="費用" NameU="Cost"/>
+
+<Elem Name="税金" NameU="Tax"/>
+
+<Elem Name="R &amp; D" NameU="R &amp; D"/>
+
+<Elem Name="レジ" NameU="Cash Register"/>
+
+<Elem Name="金塊" NameU="Gold Bullion"/>
+
+<Elem Name="銀塊" NameU="Silver Bullion"/>
+
+<Elem Name="ダイヤモンド" NameU="Diamond"/>
+
+<Elem Name="現金" NameU="Cash"/>
+
+<Elem Name="コイン" NameU="Coin"/>
+
+<Elem Name="預金" NameU="Deposit"/>
+
+<Elem Name="確認" NameU="Check"/>
+
+<Elem Name="銀行カード" NameU="Bank Card"/>
+
+<Elem Name="クレジットカード" NameU="Credit Card"/>
+
+<Elem Name="お金" NameU="Money"/>
+
+<Elem Name="現金払い" NameU="Cash Payment"/>
+
+<Elem Name="オンライン決済" NameU="Online Payment"/>
+
+<Elem Name="モバイル支払い" NameU="Mobile Payment"/>
+
+<Elem Name="郵便為替支払い" NameU="Mail Payment"/>
+
+<Elem Name="会計" NameU="Accounting"/>
+
+<Elem Name="ゴールデンエッグス" NameU="Golden Eggs"/>
+
+<Elem Name="投資" NameU="Investment"/>
+
+<Elem Name="ボンド" NameU="Bonds"/>
+
+<Elem Name="株式" NameU="Stock"/>
+
+<Elem Name="データ" NameU="Data"/>
+
+<Elem Name="競売" NameU="Auction"/>
+
+<Elem Name="バランス 2" NameU="Balance 2"/>
+
+<Elem Name="アンティーク" NameU="Antique"/>
+
+<Elem Name="銀行" NameU="Bank"/>
+
+<Elem Name="安全" NameU="Safe"/>
+
+<Elem Name="セキュリティー 1" NameU="Security 1"/>
+
+<Elem Name="セキュリティー 2" NameU="Security 2"/>
+
+<Elem Name="バランス 1" NameU="Balance 1"/>
+
+<Elem Name="ルーレット" NameU="Roulette"/>
+
+<Elem Name="選択" NameU="Choice"/>
+
+<Elem Name="砂時計" NameU="Hourglass"/>
+
+<Elem Name="サービス" NameU="Service"/>
+
+<Elem Name="ハンドル" NameU="Steering Wheel"/>
+
+<Elem Name="金貨" NameU="Gold Coin"/>
+
+<Elem Name="貯蓄" NameU="Savings"/>
+
+<Elem Name="ゴールドバー" NameU="Gold Bars"/>
+
+<Elem Name="金インゴット" NameU="Gold ingot"/>
+
+<Elem Name="財布" NameU="Wallet"/>
+
+<Elem Name="お金の袋" NameU="Money Bag"/>
+
+<Elem Name="キャッシュボックス" NameU="Cash Box"/>
+
+<Elem Name="ドル為替" NameU="Dollar Exchange"/>
+
+<Elem Name="投資収益率" NameU="Return on Investment"/>
+
+<Elem Name="ドル" NameU="Dollar"/>
+
+<Elem Name="RMB" NameU="RMB"/>
+
+<Elem Name="ターゲット" NameU="Target"/>
+
+<Elem Name="法律ハンマー" NameU="Law Hammer"/>
+
+<Elem Name="正義のスケール" NameU="Scales of Justice"/>
+
+<Elem Name="分析" NameU="Analysis"/>
+
+<Elem Name="ドル セキュリティ" NameU="Dollar Security"/>
+
+<Elem Name="レポート" NameU="Reports"/>
+
+<Elem Name="損失" NameU="Loss"/>
+
+<Elem Name="利益" NameU="Profit"/>
+
+<Elem Name="円グラフ" NameU="Pie Chart"/>
+
+<Elem Name="為替" NameU="Exchange"/>
+
+<Elem Name="ローン" NameU="Loan"/>
+
+<Elem Name="セキュリティ" NameU="Security"/>
+
+</Lib>

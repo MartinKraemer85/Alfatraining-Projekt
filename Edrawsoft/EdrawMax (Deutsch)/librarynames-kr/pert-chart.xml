@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PERT Chart">
+    <Elem NameU="PERT 1" Name="PERT 1"/>
+    <Elem NameU="PERT 2" Name="PERT 2"/>
+    <Elem NameU="PERT 3" Name="PERT 3"/>
+    <Elem NameU="Legend" Name="범례"/>
+    <Elem NameU="Balloon" Name="풍선"/>
+    <Elem NameU="Balloon Horizontal Callout" Name="풍선 수평 설명"/>
+    <Elem NameU="Line Callout" Name="설명선"/>
+    <Elem NameU="Right Angle Connector" Name="직각 연결선"/>
+    <Elem NameU="Dynamical Connector" Name="연결선"/>
+    <Elem NameU="Line Connector" Name="연결선"/>
+    <Elem NameU="Project" Name="프로젝트"/>
+    <Elem NameU="Phase" Name="단계"/>
+    <Elem NameU="Node" Name="노드"/>
+    <Elem NameU="Start / End" Name="시작/완료"/>
+    <Elem NameU="Task" Name="작업"/>
+    <Elem NameU="legend Single Line" Name="범례 싱글 라인"/>
+</Lib>

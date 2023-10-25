@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="TQM Diagram Shapes">
+    <Elem NameU="Transportation" Name="운송"/>
+    <Elem NameU="Inbound goods" Name="인바운드 상품"/>
+    <Elem NameU="Storage" Name="스토리지"/>
+    <Elem NameU="Procedure" Name="프로시저"/>
+    <Elem NameU="Operation" Name="작업"/>
+    <Elem NameU="Operation or inspection" Name="작업/검사"/>
+    <Elem NameU="Issue" Name="문제"/>
+    <Elem NameU="Organization function" Name="조직구조 기능"/>
+    <Elem NameU="2-part function" Name="2파트 기능"/>
+    <Elem NameU="Decision (TQM)" Number="2" Name="결책（TQM）"/>
+    <Elem NameU="Mulit in/out decision" Number="2" Name="다중 조건/판정"/>
+    <Elem NameU="External organization" Name="외부 조직"/>
+    <Elem NameU="External process" Name="외부 프로세스"/>
+    <Elem NameU="Inspection/ measurement" Name="검사/측정"/>
+    <Elem NameU="Metric" Name="메트릭"/>
+    <Elem NameU="2-part metrix" Name="2- 파트 매트릭스"/>
+    <Elem NameU="System database" Name="시스템 데이터베이스"/>
+    <Elem NameU="System support" Name="시스템 지원"/>
+    <Elem NameU="System function" Name="시스템 기능"/>
+    <Elem NameU="Delay" Name="지연"/>
+    <Elem NameU="Connector(TQM)" Name="연결선 (TQM)"/>
+    <Elem NameU="Off-page reference" Name="다른 페이지 참조"/>
+    <Elem NameU="Connected issues" Name="연결 문제"/>
+    <Elem NameU="Fabrication" Name="제조"/>
+    <Elem NameU="Move" Name="이동"/>
+    <Elem NameU="Store" Name="저장"/>
+    <Elem NameU="Inspection" Name="검사"/>
+    <Elem NameU="Selectable process" Name="선택 프로세스"/>
+    <Elem NameU="Work flow loop" Number="2" Name="작업 흐름"/>
+    <Elem NameU="Feedback arrow" Name="피드백 화살표"/>
+    <Elem NameU="Vertical Swimlane" Name="수직 스윔 레인"/>
+    <Elem NameU="Horizontal Swinlane" Name="수평 스윔 레인"/>
+    <Elem NameU="Force-field analysis" Name="대비 요소 분석"/>
+    <Elem NameU="Fish frame" Name="생선 프레임"/>
+    <Elem NameU="Effect" Name="효과"/>
+    <Elem NameU="Category" Number="2" Name="카테고리"/>
+    <Elem NameU="Cause" Number="2" Name="원인"/>
+    <Elem NameU="Secondary Cause" Number="6" Name="이중 원인"/>
+    <Elem NameU="Arc connector" Name="아치형 연결선"/>
+    <Elem NameU="Curve connector" Name="곡선 연결선"/>
+    <Elem NameU="Result" Name="결과"/>
+    <Elem NameU="No result" Name="결과 없음"/>
+    <Elem NameU="Branch-return" Name="분기: 반환"/>
+    <Elem NameU="Branch-no return" Name="분기: 반환 없음"/>
+    <Elem NameU="Interrupt" Name="중단"/>
+    <Elem NameU="External control" Name="외부 컨트롤"/>
+    <Elem NameU="Refinement" Name="정제"/>
+</Lib>

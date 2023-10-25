@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib nameU="PERT Chart">
+	<Elem NameU="PERT 1" Name="PERT 1"/>
+	<Elem NameU="PERT 2" Name="PERT 2"/>
+	<Elem NameU="PERT 3" Name="PERT 3"/>
+	<Elem NameU="Legend" Name="Légende"/>
+	<Elem NameU="Balloon" Name="Ballon"/>
+	<Elem NameU="Balloon Horizontal Callout" Name="Légende horizontale"/>
+	<Elem NameU="Line Callout" Name="Légende de ligne"/>
+	<Elem NameU="Right Angle Connector" Name="Lien à angle droit"/>
+	<Elem NameU="Dynamical Connector" Name="Lien dynamique"/>
+	<Elem NameU="Line Connector" Name="Lien droit"/>
+	<Elem NameU="Project" Name="Projet"/>
+	<Elem NameU="Phase" Name="Phase"/>
+	<Elem NameU="Node" Name="Nœud"/>
+	<Elem NameU="Start / End" Name="Début/fin"/>
+	<Elem NameU="Task" Name="Tâche"/>
+	<Elem NameU="legend Single Line" Name="Légende en barre"/>
+</Lib>

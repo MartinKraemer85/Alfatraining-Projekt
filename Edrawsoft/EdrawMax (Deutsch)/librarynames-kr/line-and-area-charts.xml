@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Line and Area Charts">
+    <Elem NameU="Line Chart 1" Name="라인 차트 1"/>
+    <Elem NameU="Line Chart 2" Name="라인 차트 2"/>
+    <Elem NameU="Line Chart 3" Name="라인 차트 3"/>
+    <Elem NameU="Step Line Chart" Name="계단 차트"/>
+    <Elem NameU="Step Line Chart 2" Name="계단 차트 2"/>
+    <Elem NameU="Line Chart 3" Name="라인 차트 3"/>
+    <Elem NameU="100% Line Chart" Name="백분율 라인 차트"/>
+    <Elem NameU="Area Chart 1" Name="영역 차트"/>
+    <Elem NameU="Area Chart 2" Name="영역 차트"/>
+    <Elem NameU="Step Area Chart" Name="백분율 영역 차트"/>
+    <Elem NameU="Step Area Chart 2" Name="백분율 영역 차트3"/>
+    <Elem NameU="Collective Area Chart" Name="집단 영역 차트"/>
+    <Elem NameU="Collective Area Chart 2" Name="집단 영역 차트 2"/>
+</Lib>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Equipment-General">
+    <Elem NameU="Crossflow inducted draft" Name="Crossflow"/>
+    <Elem NameU="Counterflow forced draft" Name="강제 역류"/>
+    <Elem NameU="Chimney tower hyperbolic" Name="굴뚝 타워 쌍곡선"/>
+    <Elem NameU="Furnace" Name="아궁이"/>
+    <Elem NameU="Plate tower" Name="플레이트 타워"/>
+    <Elem NameU="Packed tower" Name="Packed tower"/>
+    <Elem NameU="Hydrocracking" Name="하이드로 크래킹"/>
+    <Elem NameU="Hydrodesulfurization" Name="하이드로 크래킹"/>
+    <Elem NameU="Reformer" Name="Reformer"/>
+    <Elem NameU="Fluid catalytic cracking" Name="유체 촉매 균열"/>
+    <Elem NameU="Fluid coking" Name="유체 코킹"/>
+    <Elem NameU="Tubular" Name="관 모양"/>
+    <Elem NameU="Fluidized reactor" Name="유화 반응기"/>
+    <Elem NameU="Alkylation" Name="알킬화"/>
+    <Elem NameU="Breaker" Name="파쇄기"/>
+    <Elem NameU="Crusher" Name="분쇄기"/>
+    <Elem NameU="Forced-draft cooling tower" Name="강제 통풍 냉각탑"/>
+    <Elem NameU="Briquetting machine" Name="연탄 기계"/>
+    <Elem NameU="Condenser" Name="콘덴서"/>
+    <Elem NameU="Evaporative condenser" Name="증발식 응축기"/>
+    <Elem NameU="Furnace" Name="아궁이"/>
+    <Elem NameU="Cyclone" Name="사이클론"/>
+    <Elem NameU="Dryer" Name="건조기"/>
+    <Elem NameU="Dryer 2" Name="건조기 2"/>
+    <Elem NameU="Mixer" Name="교반기"/>
+    <Elem NameU="Various mixers" Number="2" Name="다양한 교반기"/>
+    <Elem NameU="Various mixers 2" Name="다양한 교반기2"/>
+    <Elem NameU="Agitator or mixer" Name="교반기 또는 믹서"/>
+    <Elem NameU="Crushers" Name="분쇄기"/>
+    <Elem NameU="Mill" Name="제분기"/>
+    <Elem NameU="Various mills" Name="기타 제분기"/>
+    <Elem NameU="Kneader" Name="반죽기"/>
+    <Elem NameU="Blender" Name="믹서기"/>
+    <Elem NameU="Fluid separators" Name="액체 분리기"/>
+    <Elem NameU="Filter" Name="필터기"/>
+    <Elem NameU="Filter 2" Name="필터기 2"/>
+    <Elem NameU="Rotary filter" Name="회전 필터기"/>
+    <Elem NameU="Wastewater treatment" Name="오수 처리"/>
+    <Elem NameU="Air separator" Name="공기 분리기"/>
+    <Elem NameU="Electromagnet" Name="전자석"/>
+    <Elem NameU="Centrifuge" Name="원심 분리기"/>
+    <Elem NameU="Hammer crusher" Name="해머 분쇄기"/>
+    <Elem NameU="Various kneaders" Name="기타 반죽기"/>
+    <Elem NameU="Screen" Name="스크린"/>
+    <Elem NameU="Boom loader" Name="붐 로더"/>
+    <Elem NameU="Automatic stoker" Name="자동 급탄기"/>
+    <Elem NameU="Electric motor" Name="전기 모터"/>
+    <Elem NameU="Transport" Name="운송"/>
+</Lib>

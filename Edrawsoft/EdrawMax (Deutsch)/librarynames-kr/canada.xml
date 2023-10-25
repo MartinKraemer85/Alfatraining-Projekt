@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Canada">
+    <Elem NameU="Alberta" Name="앨버타"/>
+    <Elem NameU="British Columbia" Name="브리티시 컬럼비아"/>
+    <Elem NameU="Manitoba" Name="매니토바"/>
+    <Elem NameU="New Brunswick" Name="뉴브런즈윅"/>
+    <Elem NameU="Newfoundland" Name="뉴펀들랜드"/>
+    <Elem NameU="Nothern Territories" Name="캐나다 북부"/>
+    <Elem NameU="Nova Scotia" Name="노바스코샤"/>
+    <Elem NameU="Ontario" Name="온타리오"/>
+    <Elem NameU="Prince Edward Island" Name="프린스 에드워드 아일랜드"/>
+    <Elem NameU="Quebec" Name="퀘벡"/>
+    <Elem NameU="Saskatchewan" Name="서스캐처원"/>
+    <Elem NameU="Yukon" Name="유콘"/>
+    <Elem NameU="Canada" Name="캐나다"/>
+</Lib>

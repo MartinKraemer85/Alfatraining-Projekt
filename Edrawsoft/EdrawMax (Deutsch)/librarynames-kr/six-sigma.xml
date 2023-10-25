@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Six Sigma">
+	<Elem NameU="Six Matrix" Name="6 매트릭스"/>
+	<Elem NameU="Six Matrix 2" Name="6 매트릭스 2"/>
+	<Elem NameU="Six Matrix with Name" Name="이름 있는 6 매트릭스"/>
+	<Elem NameU="Flags" Name="기호"/>
+	<Elem NameU="Flags 2" Name="기호 2"/>
+	<Elem NameU="12-Role Flag" Name="12-Role 플래그"/>
+	<Elem NameU="Complete or Cancel" Name="완성 또는 취소"/>
+	<Elem NameU="Numbering" Name="숫자"/>
+	<Elem NameU="Dynamic Progress" Name="동적 진행"/>
+</Lib>

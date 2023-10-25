@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Windows UI">
+	<Elem NameU="Dialog Window" Name="Janela de Diálogo"/>
+	<Elem NameU="Window" Name="Janela"/>
+	<Elem NameU="Window Backgroud" Name="Fundo de Janela"/>
+	<Elem NameU="Field" Name="Campo"/>
+	<Elem NameU="Horizontal Scrollbar" Name="Barra de Deslizar Horizontal"/>
+	<Elem NameU="Vertical Scrollbar" Name="Barra de Deslizar Vertical"/>
+	<Elem NameU="Close Button" Name="Botão de Fechar"/>
+	<Elem NameU="Max Button" Name="Botão de Maximizar"/>
+	<Elem NameU="Min Button" Name="Botão de Minimizar"/>
+	<Elem NameU="Help Button" Name="Botão de Ajuda"/>
+	<Elem NameU="Help and Close Button" Name="Botão de Ajuda e Fechar"/>
+	<Elem NameU="Min Max Close Button" Name="Botão Minimizar Maximizar Fechar"/>
+	<Elem NameU="Primary Toolbar" Name="Barra de Ferramentas Primária"/>
+	<Elem NameU="Toolbar Button" Name="Botão de Barra de Ferramentas"/>
+	<Elem NameU="Empty Toolbar" Name="Barra de Ferramentas Vazia"/>
+	<Elem NameU="Menubar" Name="Barra de menu"/>
+	<Elem NameU="Menu Item" Name="Item de Menu"/>
+	<Elem NameU="Button" Name="Botão"/>
+	<Elem NameU="Edit Control" Name="Controle de Editar"/>
+	<Elem NameU="Rich Text Control" Name="Controle de Texto Rico"/>
+	<Elem NameU="Static Text" Name="Texto Estático"/>
+	<Elem NameU="Hyperlink Text" Name="Texto de Hiperligaçãos"/>
+	<Elem NameU="Spin Box" Name="Caixa de Girar"/>
+	<Elem NameU="Search Box" Name="Caixa de Pesquisa"/>
+	<Elem NameU="List" Name="Lista"/>
+	<Elem NameU="Combo List" Name="Lista de Combo"/>
+	<Elem NameU="Combo Box" Name="Caixa de Combo"/>
+	<Elem NameU="Editable Combo Box" Name="Caixa de Combo Editável"/>
+	<Elem NameU="List 2" Name="Lista 2"/>
+	<Elem NameU="List Box" Name="Caixa de Lista"/>
+	<Elem NameU="Group Box" Name="Caixa de Grupo"/>
+	<Elem NameU="Vertical Slidebar" Name="Barra de deslizar Vertical"/>
+	<Elem NameU="Horizontal Slidebar" Name="Barra de deslizar Horizontal"/>
+	<Elem NameU="Progress Bar" Name="Barra de Progresso"/>
+	<Elem NameU="Infinite Progresss Bar" Name="Barra de Progresso Infinita"/>
+	<Elem NameU="Check Box" Name="Caixa de Verificação"/>
+	<Elem NameU="Check Box Group" Name="Grupo de Caixas de Verificação"/>
+	<Elem NameU="Radio Button" Name="Botão Rádio"/>
+	<Elem NameU="Radio Button Group" Name="Grupo de Botões Rádio"/>
+	<Elem NameU="Horizontal Spacer" Name="Espaçador Horizontal"/>
+	<Elem NameU="Vertical Spacer" Name="Espaçador Vertical"/>
+	<Elem NameU="Navigate Button" Name="Botão de Navegação"/>
+	<Elem NameU="Chevron Button" Name="Botão de Chevron"/>
+	<Elem NameU="Chevron" Name="Chevron"/>
+	<Elem NameU="Arrow Button" Name="Botão de Seta"/>
+	<Elem NameU="Small Arrow" Name="Seta Pequena"/>
+	<Elem NameU="Double Chevron" Name="Chevron Duplo"/>
+	<Elem NameU="Plus/Minus Control" Name="Controle Mais/Menos"/>
+	<Elem NameU="Text Select Cursor" Name="Cursor de Selecionar Texto"/>
+	<Elem NameU="Busy Cusor" Name="Cursor Ocupado"/>
+	<Elem NameU="Working Busy in Backgroud" Name="A Trabalhar Ocupado no Fundo"/>
+	<Elem NameU="Select Cursor" Name="Cursor de Seleção"/>
+	<Elem NameU="Precision Select Cursor" Name="Cursor de Seleção de Precisão"/>
+	<Elem NameU="Select Cursor 2" Name="Cursor de Selecionar 2"/>
+	<Elem NameU="Unavailable Cursor" Name="Cursor Indisponível"/>
+	<Elem NameU="Move Cusor" Name="Mover Cursor"/>
+	<Elem NameU="List View" Name="Vista de Lista"/>
+	<Elem NameU="Tab View" Name="Vista de Abas"/>
+	<Elem NameU="Tab View 2" Name="Vista de Abas 2"/>
+	<Elem NameU="Tab View Label" Name="Etiqueta de Vista de Abas"/>
+	<Elem NameU="Close" Name="Fechar"/>
+	<Elem NameU="Etched Horizontal" Name="Gravado Horizontal"/>
+	<Elem NameU="Etched Vertical" Name="Gravado Vertical"/>
+	<Elem NameU="Spin Control" Name="Controle de Rotação"/>
+	<Elem NameU="Picture Control" Name="Controle de Imagem"/>
+	<Elem NameU="Warning Icon" Name="Ícone de Aviso"/>
+	<Elem NameU="Information Icon" Name="Ícone de Informação"/>
+	<Elem NameU="Help Icon" Name="Ícone de Ajuda"/>
+	<Elem NameU="Error Icon" Name="Ícone de Erro"/>
+</Lib>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="COM and OLE">
+    <Elem NameU="COM Object" Name="COM 對象"/>
+    <Elem NameU="Vtable" Name="虛擬函數表"/>
+    <Elem NameU="OLE Server App" Name="OLE 伺服器/應用程式"/>
+    <Elem NameU="Object Model" Name="對象模型"/>
+    <Elem NameU="Reference" Name="引用"/>
+    <Elem NameU="Weak Reference" Name="弱引用"/>
+    <Elem NameU="Interface" Name="接口"/>
+    <Elem NameU="Process Boundary" Name="處理邊界"/>
+    <Elem NameU="Document or File" Name="文檔或檔案"/>
+    <Elem NameU="Embedded Document" Name="嵌入文檔"/>
+    <Elem NameU="Data Store" Name="資料存儲"/>
+    <Elem NameU="Connector" Name="連接線"/>
+    <Elem NameU="Boundary" Name="邊界"/>
+</Lib>

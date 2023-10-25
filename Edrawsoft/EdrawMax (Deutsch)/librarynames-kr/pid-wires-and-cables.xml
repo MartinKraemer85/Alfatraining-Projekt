@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Wires and Cables">
+    <Elem NameU="Additive injection system" Name="첨가제 주입 시스템"/>
+    <Elem NameU="Baling press" Name="포장기"/>
+    <Elem NameU="Coil" Name="코일"/>
+    <Elem NameU="Extruder" Name="압출기"/>
+    <Elem NameU="Extrusion booster pump" Name="압출 부스터 펌프 1"/>
+    <Elem NameU="Horizontal baler (slate blue)" Name="수평 베일러 (슬레이트 블루)"/>
+    <Elem NameU="Extrusion booster pump" Name="압출 부스터 펌프 1"/>
+    <Elem NameU="Simple extruder" Name="압출기 2"/>
+    <Elem NameU="Simple wire stacker" Name="와이어 스태커"/>
+    <Elem NameU="Simple wire stripper" Name="와이어 스트리퍼"/>
+    <Elem NameU="Wire spool 1" Name="와이어 스풀 1"/>
+    <Elem NameU="Wire spool 2" Name="와이어 스풀 2"/>
+    <Elem NameU="Wooden spool" Name="나무 스풀"/>
+</Lib>

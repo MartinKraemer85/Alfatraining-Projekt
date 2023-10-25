@@ -1,0 +1,1281 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Themes Version="7.3">
+	<Theme>
+		<MainIdea>
+			<ShapeFormat QuickMask="1056023">
+				<FillFormat Type="SingleGradient" GradientType="Linear" StopNum="2" Direction="90">
+					<Stop>
+						<Color Value="#FFF8F8F8" Tint="85"/>
+						<Offset>0</Offset>
+					</Stop>
+					<Stop>
+						<Color Value="#FFEBEBEB" Tint="55"/>
+						<Offset>1</Offset>
+					</Stop>
+				</FillFormat>
+				<LineFormat>
+					<LineWeight>1</LineWeight>
+					<LineCap>0</LineCap>
+					<LinePattern>1</LinePattern>
+					<Rounding>1</Rounding>
+					<BeginArrowID>0</BeginArrowID>
+					<BeginArrowSize>4</BeginArrowSize>
+					<EndArrowID>0</EndArrowID>
+					<EndArrowSize>4</EndArrowSize>
+					<LineFill Type="Solid">
+						<Color Value="#FF7E7E7E" Shade="40"/>
+					</LineFill>
+				</LineFormat>
+				<EffectFormat>
+					<Shadow Mode="0"/>
+				</EffectFormat>
+			</ShapeFormat>
+			<TextFormat>
+				<TextFormatMask>1280</TextFormatMask>
+				<FontFamily>Arial</FontFamily>
+				<FontWeight>700</FontWeight>
+				<FontHeight>12</FontHeight>
+				<FontItalic>FALSE</FontItalic>
+				<FontUnderline>FALSE</FontUnderline>
+				<FontStrikeout>FALSE</FontStrikeout>
+				<AlignHorizontal>Center</AlignHorizontal>
+				<AlignVertical>Middle</AlignVertical>
+				<Color Value="#FF000000"/>
+				<FontOffset>0</FontOffset>
+				<FontBackColor>#FFFEFD</FontBackColor>
+				<FontBullet>0</FontBullet>
+				<LeftOffset>0</LeftOffset>
+				<StartIndent>50</StartIndent>
+				<RightIndent>50</RightIndent>
+				<LineSpace>20</LineSpace>
+				<SpaceBefore>0</SpaceBefore>
+				<SpaceAfter>0</SpaceAfter>
+			</TextFormat>
+		</MainIdea>
+		<Topic>
+			<ShapeFormat QuickMask="1056023">
+				<FillFormat Type="SingleGradient" GradientType="Linear" StopNum="2" Direction="90">
+					<Stop>
+						<Color Value="#FFF8F8F8" Tint="85"/>
+						<Offset>0</Offset>
+					</Stop>
+					<Stop>
+						<Color Value="#FFEBEBEB" Tint="55"/>
+						<Offset>1</Offset>
+					</Stop>
+				</FillFormat>
+				<LineFormat>
+					<LineWeight>1</LineWeight>
+					<LineCap>0</LineCap>
+					<LinePattern>1</LinePattern>
+					<Rounding>1</Rounding>
+					<BeginArrowID>0</BeginArrowID>
+					<BeginArrowSize>4</BeginArrowSize>
+					<EndArrowID>0</EndArrowID>
+					<EndArrowSize>4</EndArrowSize>
+					<LineFill Type="Solid">
+						<Color Value="#FF7E7E7E" Shade="40"/>
+					</LineFill>
+				</LineFormat>
+				<EffectFormat>
+					<Shadow Mode="0"/>
+				</EffectFormat>
+			</ShapeFormat>
+			<TextFormat>
+				<TextFormatMask>256</TextFormatMask>
+				<FontFamily>Arial</FontFamily>
+				<FontWeight>400</FontWeight>
+				<FontHeight>10</FontHeight>
+				<FontItalic>FALSE</FontItalic>
+				<FontUnderline>FALSE</FontUnderline>
+				<FontStrikeout>FALSE</FontStrikeout>
+				<AlignHorizontal>Center</AlignHorizontal>
+				<AlignVertical>Middle</AlignVertical>
+				<Color Value="#FF000000"/>
+				<FontOffset>0</FontOffset>
+				<FontBackColor>#FFFEFD</FontBackColor>
+				<FontBullet>0</FontBullet>
+				<LeftOffset>0</LeftOffset>
+				<StartIndent>50</StartIndent>
+				<RightIndent>50</RightIndent>
+				<LineSpace>20</LineSpace>
+				<SpaceBefore>0</SpaceBefore>
+				<SpaceAfter>0</SpaceAfter>
+			</TextFormat>
+		</Topic>
+		<SubTopic>
+			<ShapeFormat QuickMask="1053975">
+				<FillFormat/>
+				<LineFormat>
+					<LineWeight>1</LineWeight>
+					<LineCap>0</LineCap>
+					<LinePattern>1</LinePattern>
+					<Rounding>1</Rounding>
+					<BeginArrowID>0</BeginArrowID>
+					<BeginArrowSize>4</BeginArrowSize>
+					<EndArrowID>0</EndArrowID>
+					<EndArrowSize>4</EndArrowSize>
+					<LineFill Type="Solid">
+						<Color Value="#FF7E7E7E" Shade="40"/>
+					</LineFill>
+				</LineFormat>
+				<EffectFormat>
+					<Shadow Mode="0"/>
+				</EffectFormat>
+			</ShapeFormat>
+			<TextFormat>
+				<TextFormatMask>256</TextFormatMask>
+				<FontFamily>Arial</FontFamily>
+				<FontWeight>400</FontWeight>
+				<FontHeight>9</FontHeight>
+				<FontItalic>FALSE</FontItalic>
+				<FontUnderline>FALSE</FontUnderline>
+				<FontStrikeout>FALSE</FontStrikeout>
+				<AlignHorizontal>Center</AlignHorizontal>
+				<AlignVertical>Middle</AlignVertical>
+				<Color Value="#FF000000"/>
+				<FontOffset>0</FontOffset>
+				<FontBackColor>#FFFEFD</FontBackColor>
+				<FontBullet>0</FontBullet>
+				<LeftOffset>0</LeftOffset>
+				<StartIndent>50</StartIndent>
+				<RightIndent>50</RightIndent>
+				<LineSpace>20</LineSpace>
+				<SpaceBefore>0</SpaceBefore>
+				<SpaceAfter>0</SpaceAfter>
+			</TextFormat>
+		</SubTopic>
+		<Connector>
+			<ShapeFormat QuickMask="69932">
+				<FillFormat/>
+				<LineFormat>
+					<LineWeight>1</LineWeight>
+					<LineCap>0</LineCap>
+					<LinePattern>1</LinePattern>
+					<Rounding>1</Rounding>
+					<BeginArrowID>0</BeginArrowID>
+					<BeginArrowSize>3</BeginArrowSize>
+					<EndArrowID>0</EndArrowID>
+					<EndArrowSize>3</EndArrowSize>
+					<LineFill Type="Solid">
+						<Color Value="#FF7E7E7E" Shade="40"/>
+					</LineFill>
+				</LineFormat>
+				<EffectFormat>
+					<Shadow Mode="0"/>
+				</EffectFormat>
+			</ShapeFormat>
+		</Connector>
+	</Theme>
+	<Theme>
+		<MainIdea>
+			<ShapeFormat QuickMask="1072407">
+				<FillFormat Type="SingleGradient" GradientType="Linear" StopNum="3" Direction="90">
+					<Stop>
+						<Color Value="#FFCFECF7" Tint="60"/>
+						<Offset>0</Offset>
+					</Stop>
+					<Stop>
+						<Color Value="#FFB7E2F3" Tint="40"/>
+						<Offset>0.5</Offset>
+					</Stop>
+					<Stop>
+						<Color Value="#FF9FD9EF" Tint="20"/>
+						<Offset>1</Offset>
+					</Stop>
+				</FillFormat>
+				<LineFormat>
+					<LineWeight>1</LineWeight>
+					<LineCap>0</LineCap>
+					<LinePattern>1</LinePattern>
+					<Rounding>1</Rounding>
+					<BeginArrowID>0</BeginArrowID>
+					<BeginArrowSize>4</BeginArrowSize>
+					<EndArrowID>0</EndArrowID>
+					<EndArrowSize>4</EndArrowSize>
+					<LineFill Type="Solid" DependTint="TRUE">
+						<Color Value="#FF28A7DB" Shade="30"/>
+					</LineFill>
+				</LineFormat>
+				<EffectFormat>
+					<Shadow Mode="14" Scale="1" OffsetX="1" OffsetY="1" Angle="0" Blur="2">
+						<Color Value="#805A5A5A"/>
+					</Shadow>
+				</EffectFormat>
+			</ShapeFormat>
+			<TextFormat>
+				<TextFormatMask>1280</TextFormatMask>
+				<FontFamily>Arial</FontFamily>
+				<FontWeight>700</FontWeight>
+				<FontHeight>12</FontHeight>
+				<FontItalic>FALSE</FontItalic>
+				<FontUnderline>FALSE</FontUnderline>
+				<FontStrikeout>FALSE</FontStrikeout>
+				<AlignHorizontal>Center</AlignHorizontal>
+				<AlignVertical>Middle</AlignVertical>
+				<Color Value="#FF000000"/>
+				<FontOffset>0</FontOffset>
+				<FontBackColor>#FFFEFD</FontBackColor>
+				<FontBullet>0</FontBullet>
+				<LeftOffset>0</LeftOffset>
+				<StartIndent>50</StartIndent>
+				<RightIndent>50</RightIndent>
+				<LineSpace>20</LineSpace>
+				<SpaceBefore>0</SpaceBefore>
+				<SpaceAfter>0</SpaceAfter>
+			</TextFormat>
+		</MainIdea>
+		<Topic>
+			<ShapeFormat QuickMask="1072407">
+				<FillFormat Type="SingleGradient" GradientType="Linear" StopNum="3" Direction="90">
+					<Stop>
+						<Color Value="#FFE7F5FB" Tint="80"/>
+						<Offset>0</Offset>
+					</Stop>
+					<Stop>
+						<Color Value="#FFCFEBF7" Tint="60"/>
+						<Offset>0.5</Offset>
+					</Stop>
+					<Stop>
+						<Color Value="#FFB7E2F3" Tint="40"/>
+						<Offset>1</Offset>
+					</Stop>
+				</FillFormat>
+				<LineFormat>
+					<LineWeight>1</LineWeight>
+					<LineCap>0</LineCap>
+					<LinePattern>1</LinePattern>
+					<Rounding>1</Rounding>
+					<BeginArrowID>0</BeginArrowID>
+					<BeginArrowSize>4</BeginArrowSize>
+					<EndArrowID>0</EndArrowID>
+					<EndArrowSize>4</EndArrowSize>
+					<LineFill Type="Solid" DependTint="TRUE">
+						<Color Value="#FF28A7DB" Shade="30"/>
+					</LineFill>
+				</LineFormat>
+				<EffectFormat>
+					<Shadow Mode="14" Scale="1" OffsetX="1" OffsetY="1" Angle="0" Blur="2">
+						<Color Value="#805A5A5A"/>
+					</Shadow>
+				</EffectFormat>
+			</ShapeFormat>
+			<TextFormat>
+				<TextFormatMask>1280</TextFormatMask>
+				<FontFamily>Arial</FontFamily>
+				<FontWeight>400</FontWeight>
+				<FontHeight>10</FontHeight>
+				<FontItalic>FALSE</FontItalic>
+				<FontUnderline>FALSE</FontUnderline>
+				<FontStrikeout>FALSE</FontStrikeout>
+				<AlignHorizontal>Center</AlignHorizontal>
+				<AlignVertical>Middle</AlignVertical>
+				<Color Value="#FF000000"/>
+				<FontOffset>0</FontOffset>
+				<FontBackColor>#FFFEFD</FontBackColor>
+				<FontBullet>0</FontBullet>
+				<LeftOffset>0</LeftOffset>
+				<StartIndent>50</StartIndent>
+				<RightIndent>50</RightIndent>
+				<LineSpace>20</LineSpace>
+				<SpaceBefore>0</SpaceBefore>
+				<SpaceAfter>0</SpaceAfter>
+			</TextFormat>
+		</Topic>
+		<SubTopic>
+			<ShapeFormat QuickMask="1072407">
+				<FillFormat/>
+				<LineFormat>
+					<LineWeight>1</LineWeight>
+					<LineCap>0</LineCap>
+					<LinePattern>1</LinePattern>
+					<Rounding>1</Rounding>
+					<BeginArrowID>0</BeginArrowID>
+					<BeginArrowSize>4</BeginArrowSize>
+					<EndArrowID>0</EndArrowID>
+					<EndArrowSize>4</EndArrowSize>
+					<LineFill Type="Solid" DependTint="TRUE">
+						<Color Value="#FF2090BE" Shade="40"/>
+					</LineFill>
+				</LineFormat>
+				<EffectFormat>
+					<Shadow Mode="0"/>
+				</EffectFormat>
+			</ShapeFormat>
+			<TextFormat>
+				<TextFormatMask>1280</TextFormatMask>
+				<FontFamily>Arial</FontFamily>
+				<FontWeight>400</FontWeight>
+				<FontHeight>9</FontHeight>
+				<FontItalic>FALSE</FontItalic>
+				<FontUnderline>FALSE</FontUnderline>
+				<FontStrikeout>FALSE</FontStrikeout>
+				<AlignHorizontal>Center</AlignHorizontal>
+				<AlignVertical>Middle</AlignVertical>
+				<Color Value="#FF000000"/>
+				<FontOffset>0</FontOffset>
+				<FontBackColor>#FFFEFD</FontBackColor>
+				<FontBullet>0</FontBullet>
+				<LeftOffset>0</LeftOffset>
+				<StartIndent>50</StartIndent>
+				<RightIndent>50</RightIndent>
+				<LineSpace>20</LineSpace>
+				<SpaceBefore>0</SpaceBefore>
+				<SpaceAfter>0</SpaceAfter>
+			</TextFormat>
+		</SubTopic>
+		<Connector>
+			<ShapeFormat QuickMask="1072407">
+				<FillFormat/>
+				<LineFormat>
+					<LineWeight>1</LineWeight>
+					<LineCap>0</LineCap>
+					<LinePattern>1</LinePattern>
+					<Rounding>1</Rounding>
+					<BeginArrowID>0</BeginArrowID>
+					<BeginArrowSize>4</BeginArrowSize>
+					<EndArrowID>0</EndArrowID>
+					<EndArrowSize>4</EndArrowSize>
+					<LineFill Type="Solid" DependTint="TRUE">
+						<Color Value="#FF2090BE" Shade="40"/>
+					</LineFill>
+				</LineFormat>
+				<EffectFormat>
+					<Shadow Mode="0"/>
+				</EffectFormat>
+			</ShapeFormat>
+		</Connector>
+	</Theme>
+	<Theme>
+		<MainIdea>
+			<ShapeFormat QuickMask="1056543">
+				<FillFormat Type="Solid">
+					<Color Value="#FF163C6D"/>
+				</FillFormat>
+				<LineFormat>
+					<LineWeight>1</LineWeight>
+					<LineCap>0</LineCap>
+					<LinePattern>1</LinePattern>
+					<Rounding>1</Rounding>
+					<BeginArrowID>0</BeginArrowID>
+					<BeginArrowSize>4</BeginArrowSize>
+					<EndArrowID>0</EndArrowID>
+					<EndArrowSize>4</EndArrowSize>
+					<LineFill Type="Solid">
+						<Color Value="#FF163C6D"/>
+					</LineFill>
+				</LineFormat>
+				<EffectFormat>
+					<Shadow Mode="0"/>
+				</EffectFormat>
+			</ShapeFormat>
+			<TextFormat>
+				<TextFormatMask>18176</TextFormatMask>
+				<FontFamily>Arial</FontFamily>
+				<FontWeight>700</FontWeight>
+				<FontHeight>12</FontHeight>
+				<FontItalic>FALSE</FontItalic>
+				<FontUnderline>FALSE</FontUnderline>
+				<FontStrikeout>FALSE</FontStrikeout>
+				<AlignHorizontal>Center</AlignHorizontal>
+				<AlignVertical>Middle</AlignVertical>
+				<Color Value="#FFFFFFFF"/>
+				<FontOffset>0</FontOffset>
+				<FontBackColor>#FFFEFD</FontBackColor>
+				<FontBullet>0</FontBullet>
+				<LeftOffset>0</LeftOffset>
+				<StartIndent>50</StartIndent>
+				<RightIndent>50</RightIndent>
+				<LineSpace>20</LineSpace>
+				<SpaceBefore>0</SpaceBefore>
+				<SpaceAfter>0</SpaceAfter>
+			</TextFormat>
+		</MainIdea>
+		<Topic>
+			<ShapeFormat QuickMask="1072927">
+				<FillFormat Type="Solid">
+					<Color Value="#FFFFFFFF" ThemeColor="1"/>
+				</FillFormat>
+				<LineFormat>
+					<LineWeight>3</LineWeight>
+					<LineCap>0</LineCap>
+					<LinePattern>1</LinePattern>
+					<Rounding>1</Rounding>
+					<BeginArrowID>0</BeginArrowID>
+					<BeginArrowSize>4</BeginArrowSize>
+					<EndArrowID>0</EndArrowID>
+					<EndArrowSize>4</EndArrowSize>
+					<LineFill Type="Solid">
+						<Color Value="#FF2468BF"/>
+					</LineFill>
+				</LineFormat>
+				<EffectFormat>
+					<Shadow Mode="0"/>
+				</EffectFormat>
+			</ShapeFormat>
+			<TextFormat>
+				<TextFormatMask>17664</TextFormatMask>
+				<FontFamily>Arial</FontFamily>
+				<FontWeight>400</FontWeight>
+				<FontHeight>10</FontHeight>
+				<FontItalic>FALSE</FontItalic>
+				<FontUnderline>FALSE</FontUnderline>
+				<FontStrikeout>FALSE</FontStrikeout>
+				<AlignHorizontal>Center</AlignHorizontal>
+				<AlignVertical>Middle</AlignVertical>
+				<Color Value="#FF000000"/>
+				<FontOffset>0</FontOffset>
+				<FontBackColor>#FFFEFD</FontBackColor>
+				<FontBullet>0</FontBullet>
+				<LeftOffset>0</LeftOffset>
+				<StartIndent>50</StartIndent>
+				<RightIndent>50</RightIndent>
+				<LineSpace>20</LineSpace>
+				<SpaceBefore>0</SpaceBefore>
+				<SpaceAfter>0</SpaceAfter>
+			</TextFormat>
+		</Topic>
+		<SubTopic>
+			<ShapeFormat QuickMask="1072927">
+				<FillFormat/>
+				<LineFormat>
+					<LineWeight>1</LineWeight>
+					<LineCap>0</LineCap>
+					<LinePattern>1</LinePattern>
+					<Rounding>1</Rounding>
+					<BeginArrowID>0</BeginArrowID>
+					<BeginArrowSize>4</BeginArrowSize>
+					<EndArrowID>0</EndArrowID>
+					<EndArrowSize>4</EndArrowSize>
+					<LineFill Type="Solid">
+						<Color Value="#FF1C5298"/>
+					</LineFill>
+				</LineFormat>
+				<EffectFormat>
+					<Shadow Mode="0"/>
+				</EffectFormat>
+			</ShapeFormat>
+			<TextFormat>
+				<TextFormatMask>1280</TextFormatMask>
+				<FontFamily>Arial</FontFamily>
+				<FontWeight>400</FontWeight>
+				<FontHeight>9</FontHeight>
+				<FontItalic>FALSE</FontItalic>
+				<FontUnderline>FALSE</FontUnderline>
+				<FontStrikeout>FALSE</FontStrikeout>
+				<AlignHorizontal>Center</AlignHorizontal>
+				<AlignVertical>Middle</AlignVertical>
+				<Color Value="#FF000000"/>
+				<FontOffset>0</FontOffset>
+				<FontBackColor>#FFFEFD</FontBackColor>
+				<FontBullet>0</FontBullet>
+				<LeftOffset>0</LeftOffset>
+				<StartIndent>50</StartIndent>
+				<RightIndent>50</RightIndent>
+				<LineSpace>20</LineSpace>
+				<SpaceBefore>0</SpaceBefore>
+				<SpaceAfter>0</SpaceAfter>
+			</TextFormat>
+		</SubTopic>
+		<Connector>
+			<ShapeFormat QuickMask="1072927">
+				<FillFormat/>
+				<LineFormat>
+					<LineWeight>1</LineWeight>
+					<LineCap>0</LineCap>
+					<LinePattern>1</LinePattern>
+					<Rounding>1</Rounding>
+					<BeginArrowID>0</BeginArrowID>
+					<BeginArrowSize>4</BeginArrowSize>
+					<EndArrowID>0</EndArrowID>
+					<EndArrowSize>4</EndArrowSize>
+					<LineFill Type="Solid">
+						<Color Value="#FF1C5298"/>
+					</LineFill>
+				</LineFormat>
+				<EffectFormat>
+					<Shadow Mode="0"/>
+				</EffectFormat>
+			</ShapeFormat>
+		</Connector>
+	</Theme>
+	<Theme>
+		<MainIdea>
+			<ShapeFormat QuickMask="0">
+				<FillFormat Type="Solid">
+					<Color Value="#FFFF8000"/>
+				</FillFormat>
+				<LineFormat>
+					<LineWeight>1</LineWeight>
+					<LineCap>0</LineCap>
+					<LinePattern>1</LinePattern>
+					<Rounding>1</Rounding>
+					<BeginArrowID>0</BeginArrowID>
+					<BeginArrowSize>4</BeginArrowSize>
+					<EndArrowID>0</EndArrowID>
+					<EndArrowSize>4</EndArrowSize>
+					<LineFill Type="Solid" DependTint="TRUE">
+						<Color Value="#FFFF8000"/>
+					</LineFill>
+				</LineFormat>
+				<EffectFormat>
+					<Shadow Mode="14" Scale="1" OffsetX="2" OffsetY="2" Angle="0" Blur="3">
+						<Color Value="#66000000"/>
+					</Shadow>
+				</EffectFormat>
+			</ShapeFormat>
+			<TextFormat>
+				<TextFormatMask>17664</TextFormatMask>
+				<FontFamily>Arial</FontFamily>
+				<FontWeight>400</FontWeight>
+				<FontHeight>12</FontHeight>
+				<FontItalic>FALSE</FontItalic>
+				<FontUnderline>FALSE</FontUnderline>
+				<FontStrikeout>FALSE</FontStrikeout>
+				<AlignHorizontal>Center</AlignHorizontal>
+				<AlignVertical>Middle</AlignVertical>
+				<Color Value="#FF262626"/>
+				<FontOffset>0</FontOffset>
+				<FontBackColor>#FFFEFD</FontBackColor>
+				<FontBullet>0</FontBullet>
+				<LeftOffset>0</LeftOffset>
+				<StartIndent>50</StartIndent>
+				<RightIndent>50</RightIndent>
+				<LineSpace>20</LineSpace>
+				<SpaceBefore>0</SpaceBefore>
+				<SpaceAfter>0</SpaceAfter>
+			</TextFormat>
+		</MainIdea>
+		<Topic>
+			<ShapeFormat QuickMask="0">
+				<FillFormat Type="Solid">
+					<Color Value="#FFF4A460"/>
+				</FillFormat>
+				<LineFormat>
+					<LineWeight>1</LineWeight>
+					<LineCap>0</LineCap>
+					<LinePattern>1</LinePattern>
+					<Rounding>1</Rounding>
+					<BeginArrowID>0</BeginArrowID>
+					<BeginArrowSize>4</BeginArrowSize>
+					<EndArrowID>0</EndArrowID>
+					<EndArrowSize>4</EndArrowSize>
+					<LineFill Type="Solid" DependTint="TRUE">
+						<Color Value="#FFF4A460"/>
+					</LineFill>
+				</LineFormat>
+				<EffectFormat>
+					<Shadow Mode="14" Scale="1" OffsetX="2" OffsetY="2" Angle="0" Blur="3">
+						<Color Value="#66000000"/>
+					</Shadow>
+				</EffectFormat>
+			</ShapeFormat>
+			<TextFormat>
+				<TextFormatMask>17664</TextFormatMask>
+				<FontFamily>Arial</FontFamily>
+				<FontWeight>400</FontWeight>
+				<FontHeight>10</FontHeight>
+				<FontItalic>FALSE</FontItalic>
+				<FontUnderline>FALSE</FontUnderline>
+				<FontStrikeout>FALSE</FontStrikeout>
+				<AlignHorizontal>Center</AlignHorizontal>
+				<AlignVertical>Middle</AlignVertical>
+				<Color Value="#FF262626"/>
+				<FontOffset>0</FontOffset>
+				<FontBackColor>#FFFEFD</FontBackColor>
+				<FontBullet>0</FontBullet>
+				<LeftOffset>0</LeftOffset>
+				<StartIndent>50</StartIndent>
+				<RightIndent>50</RightIndent>
+				<LineSpace>20</LineSpace>
+				<SpaceBefore>0</SpaceBefore>
+				<SpaceAfter>0</SpaceAfter>
+			</TextFormat>
+		</Topic>
+		<SubTopic>
+			<ShapeFormat QuickMask="0">
+				<FillFormat Type="Solid">
+					<Color Value="#FFFFDEAD"/>
+				</FillFormat>
+				<LineFormat>
+					<LineWeight>1</LineWeight>
+					<LineCap>0</LineCap>
+					<LinePattern>1</LinePattern>
+					<Rounding>1</Rounding>
+					<BeginArrowID>0</BeginArrowID>
+					<BeginArrowSize>4</BeginArrowSize>
+					<EndArrowID>0</EndArrowID>
+					<EndArrowSize>4</EndArrowSize>
+					<LineFill Type="Solid" DependTint="TRUE">
+						<Color Value="#FFFFDEAD"/>
+					</LineFill>
+				</LineFormat>
+				<EffectFormat>
+					<Shadow Mode="14" Scale="1" OffsetX="2" OffsetY="2" Angle="0" Blur="3">
+						<Color Value="#66000000"/>
+					</Shadow>
+				</EffectFormat>
+			</ShapeFormat>
+			<TextFormat>
+				<TextFormatMask>17664</TextFormatMask>
+				<FontFamily>Arial</FontFamily>
+				<FontWeight>400</FontWeight>
+				<FontHeight>9</FontHeight>
+				<FontItalic>FALSE</FontItalic>
+				<FontUnderline>FALSE</FontUnderline>
+				<FontStrikeout>FALSE</FontStrikeout>
+				<AlignHorizontal>Center</AlignHorizontal>
+				<AlignVertical>Middle</AlignVertical>
+				<Color Value="#FF262626"/>
+				<FontOffset>0</FontOffset>
+				<FontBackColor>#FFFEFD</FontBackColor>
+				<FontBullet>0</FontBullet>
+				<LeftOffset>0</LeftOffset>
+				<StartIndent>50</StartIndent>
+				<RightIndent>50</RightIndent>
+				<LineSpace>20</LineSpace>
+				<SpaceBefore>0</SpaceBefore>
+				<SpaceAfter>0</SpaceAfter>
+			</TextFormat>
+		</SubTopic>
+		<Connector>
+			<ShapeFormat QuickMask="0">
+				<FillFormat/>
+				<LineFormat>
+					<LineWeight>1</LineWeight>
+					<LineCap>0</LineCap>
+					<LinePattern>1</LinePattern>
+					<Rounding>1</Rounding>
+					<BeginArrowID>0</BeginArrowID>
+					<BeginArrowSize>4</BeginArrowSize>
+					<EndArrowID>0</EndArrowID>
+					<EndArrowSize>4</EndArrowSize>
+					<LineFill Type="Solid">
+						<Color Value="#FFD2691E"/>
+					</LineFill>
+				</LineFormat>
+				<EffectFormat>
+					<Shadow Mode="0"/>
+				</EffectFormat>
+			</ShapeFormat>
+		</Connector>
+	</Theme>
+	<Theme>
+		<MainIdea>
+			<ShapeFormat QuickMask="1050910">
+				<FillFormat Type="Solid">
+					<Color Value="#FF1E90FF"/>
+				</FillFormat>
+				<LineFormat>
+					<LineWeight>1</LineWeight>
+					<LineCap>0</LineCap>
+					<LinePattern>1</LinePattern>
+					<Rounding>1</Rounding>
+					<BeginArrowID>0</BeginArrowID>
+					<BeginArrowSize>4</BeginArrowSize>
+					<EndArrowID>0</EndArrowID>
+					<EndArrowSize>4</EndArrowSize>
+					<LineFill Type="Solid">
+						<Color Value="#FF1E90FF"/>
+					</LineFill>
+				</LineFormat>
+				<EffectFormat>
+					<Shadow Mode="14" Scale="1" OffsetX="2" OffsetY="2" Angle="0" Blur="3">
+						<Color Value="#66000000"/>
+					</Shadow>
+				</EffectFormat>
+			</ShapeFormat>
+			<TextFormat>
+				<TextFormatMask>17152</TextFormatMask>
+				<FontFamily>Arial</FontFamily>
+				<FontWeight>400</FontWeight>
+				<FontHeight>12</FontHeight>
+				<FontItalic>FALSE</FontItalic>
+				<FontUnderline>FALSE</FontUnderline>
+				<FontStrikeout>FALSE</FontStrikeout>
+				<AlignHorizontal>Center</AlignHorizontal>
+				<AlignVertical>Middle</AlignVertical>
+				<Color Value="#FF262626"/>
+				<FontOffset>0</FontOffset>
+				<FontBackColor>#FFFEFD</FontBackColor>
+				<FontBullet>0</FontBullet>
+				<LeftOffset>0</LeftOffset>
+				<StartIndent>50</StartIndent>
+				<RightIndent>50</RightIndent>
+				<LineSpace>20</LineSpace>
+				<SpaceBefore>0</SpaceBefore>
+				<SpaceAfter>0</SpaceAfter>
+			</TextFormat>
+		</MainIdea>
+		<Topic>
+			<ShapeFormat QuickMask="1056030">
+				<FillFormat Type="Solid">
+					<Color Value="#FF62B1FE"/>
+				</FillFormat>
+				<LineFormat>
+					<LineWeight>1</LineWeight>
+					<LineCap>0</LineCap>
+					<LinePattern>1</LinePattern>
+					<Rounding>1</Rounding>
+					<BeginArrowID>0</BeginArrowID>
+					<BeginArrowSize>4</BeginArrowSize>
+					<EndArrowID>0</EndArrowID>
+					<EndArrowSize>4</EndArrowSize>
+					<LineFill Type="Solid">
+						<Color Value="#FF62B1FE"/>
+					</LineFill>
+				</LineFormat>
+				<EffectFormat>
+					<Shadow Mode="14" Scale="1" OffsetX="2" OffsetY="2" Angle="0" Blur="3">
+						<Color Value="#66000000"/>
+					</Shadow>
+				</EffectFormat>
+			</ShapeFormat>
+			<TextFormat>
+				<TextFormatMask>16640</TextFormatMask>
+				<FontFamily>Arial</FontFamily>
+				<FontWeight>400</FontWeight>
+				<FontHeight>10</FontHeight>
+				<FontItalic>FALSE</FontItalic>
+				<FontUnderline>FALSE</FontUnderline>
+				<FontStrikeout>FALSE</FontStrikeout>
+				<AlignHorizontal>Center</AlignHorizontal>
+				<AlignVertical>Middle</AlignVertical>
+				<Color Value="#FF262626"/>
+				<FontOffset>0</FontOffset>
+				<FontBackColor>#FFFEFD</FontBackColor>
+				<FontBullet>0</FontBullet>
+				<LeftOffset>0</LeftOffset>
+				<StartIndent>50</StartIndent>
+				<RightIndent>50</RightIndent>
+				<LineSpace>20</LineSpace>
+				<SpaceBefore>0</SpaceBefore>
+				<SpaceAfter>0</SpaceAfter>
+			</TextFormat>
+		</Topic>
+		<SubTopic>
+			<ShapeFormat QuickMask="1050910">
+				<FillFormat Type="Solid">
+					<Color Value="#FF87CEEB"/>
+				</FillFormat>
+				<LineFormat>
+					<LineWeight>1</LineWeight>
+					<LineCap>0</LineCap>
+					<LinePattern>1</LinePattern>
+					<Rounding>1</Rounding>
+					<BeginArrowID>0</BeginArrowID>
+					<BeginArrowSize>4</BeginArrowSize>
+					<EndArrowID>0</EndArrowID>
+					<EndArrowSize>4</EndArrowSize>
+					<LineFill Type="Solid">
+						<Color Value="#FF87CEEB"/>
+					</LineFill>
+				</LineFormat>
+				<EffectFormat>
+					<Shadow Mode="14" Scale="1" OffsetX="2" OffsetY="2" Angle="0" Blur="3">
+						<Color Value="#66000000"/>
+					</Shadow>
+				</EffectFormat>
+			</ShapeFormat>
+			<TextFormat>
+				<TextFormatMask>16640</TextFormatMask>
+				<FontFamily>Arial</FontFamily>
+				<FontWeight>400</FontWeight>
+				<FontHeight>9</FontHeight>
+				<FontItalic>FALSE</FontItalic>
+				<FontUnderline>FALSE</FontUnderline>
+				<FontStrikeout>FALSE</FontStrikeout>
+				<AlignHorizontal>Center</AlignHorizontal>
+				<AlignVertical>Middle</AlignVertical>
+				<Color Value="#FF262626"/>
+				<FontOffset>0</FontOffset>
+				<FontBackColor>#FFFEFD</FontBackColor>
+				<FontBullet>0</FontBullet>
+				<LeftOffset>0</LeftOffset>
+				<StartIndent>50</StartIndent>
+				<RightIndent>50</RightIndent>
+				<LineSpace>20</LineSpace>
+				<SpaceBefore>0</SpaceBefore>
+				<SpaceAfter>0</SpaceAfter>
+			</TextFormat>
+		</SubTopic>
+		<Connector>
+			<ShapeFormat QuickMask="0">
+				<FillFormat/>
+				<LineFormat>
+					<LineWeight>1</LineWeight>
+					<LineCap>0</LineCap>
+					<LinePattern>1</LinePattern>
+					<Rounding>1</Rounding>
+					<BeginArrowID>0</BeginArrowID>
+					<BeginArrowSize>4</BeginArrowSize>
+					<EndArrowID>0</EndArrowID>
+					<EndArrowSize>4</EndArrowSize>
+					<LineFill Type="Solid">
+						<Color Value="#FF006FBD"/>
+					</LineFill>
+				</LineFormat>
+				<EffectFormat>
+					<Shadow Mode="0"/>
+				</EffectFormat>
+			</ShapeFormat>
+		</Connector>
+	</Theme>
+	<Theme>
+		<MainIdea>
+			<ShapeFormat QuickMask="1056543">
+				<FillFormat Type="Solid">
+					<Color Value="#FFFFFFFF" ThemeColor="1"/>
+				</FillFormat>
+				<LineFormat>
+					<LineWeight>1</LineWeight>
+					<LineCap>0</LineCap>
+					<LinePattern>1</LinePattern>
+					<Rounding>1</Rounding>
+					<BeginArrowID>0</BeginArrowID>
+					<BeginArrowSize>4</BeginArrowSize>
+					<EndArrowID>0</EndArrowID>
+					<EndArrowSize>4</EndArrowSize>
+					<LineFill Type="Solid">
+						<Color Value="#FFFFFFFF" ThemeColor="1"/>
+					</LineFill>
+				</LineFormat>
+				<EffectFormat>
+					<Shadow Mode="0"/>
+				</EffectFormat>
+			</ShapeFormat>
+			<TextFormat>
+				<TextFormatMask>18176</TextFormatMask>
+				<FontFamily>Courier New</FontFamily>
+				<FontWeight>700</FontWeight>
+				<FontHeight>14</FontHeight>
+				<FontItalic>FALSE</FontItalic>
+				<FontUnderline>FALSE</FontUnderline>
+				<FontStrikeout>FALSE</FontStrikeout>
+				<AlignHorizontal>Center</AlignHorizontal>
+				<AlignVertical>Middle</AlignVertical>
+				<Color Value="#FFB95D00"/>
+				<FontOffset>0</FontOffset>
+				<FontBackColor>#FFFEFD</FontBackColor>
+				<FontBullet>0</FontBullet>
+				<LeftOffset>0</LeftOffset>
+				<StartIndent>50</StartIndent>
+				<RightIndent>50</RightIndent>
+				<LineSpace>20</LineSpace>
+				<SpaceBefore>0</SpaceBefore>
+				<SpaceAfter>0</SpaceAfter>
+			</TextFormat>
+		</MainIdea>
+		<Topic>
+			<ShapeFormat QuickMask="1072927">
+				<FillFormat/>
+				<LineFormat>
+					<LineWeight>3</LineWeight>
+					<LineCap>0</LineCap>
+					<LinePattern>1</LinePattern>
+					<Rounding>1</Rounding>
+					<BeginArrowID>0</BeginArrowID>
+					<BeginArrowSize>4</BeginArrowSize>
+					<EndArrowID>0</EndArrowID>
+					<EndArrowSize>4</EndArrowSize>
+					<LineFill/>
+				</LineFormat>
+				<EffectFormat>
+					<Shadow Mode="0"/>
+				</EffectFormat>
+			</ShapeFormat>
+			<TextFormat>
+				<TextFormatMask>18176</TextFormatMask>
+				<FontFamily>Courier New</FontFamily>
+				<FontWeight>400</FontWeight>
+				<FontHeight>12</FontHeight>
+				<FontItalic>FALSE</FontItalic>
+				<FontUnderline>FALSE</FontUnderline>
+				<FontStrikeout>FALSE</FontStrikeout>
+				<AlignHorizontal>Center</AlignHorizontal>
+				<AlignVertical>Middle</AlignVertical>
+				<Color Value="#FF0039A2"/>
+				<FontOffset>0</FontOffset>
+				<FontBackColor>#FFFEFD</FontBackColor>
+				<FontBullet>0</FontBullet>
+				<LeftOffset>0</LeftOffset>
+				<StartIndent>50</StartIndent>
+				<RightIndent>50</RightIndent>
+				<LineSpace>20</LineSpace>
+				<SpaceBefore>0</SpaceBefore>
+				<SpaceAfter>0</SpaceAfter>
+			</TextFormat>
+		</Topic>
+		<SubTopic>
+			<ShapeFormat QuickMask="1072407">
+				<FillFormat/>
+				<LineFormat>
+					<LineWeight>1</LineWeight>
+					<LineCap>0</LineCap>
+					<LinePattern>1</LinePattern>
+					<Rounding>1</Rounding>
+					<BeginArrowID>0</BeginArrowID>
+					<BeginArrowSize>4</BeginArrowSize>
+					<EndArrowID>0</EndArrowID>
+					<EndArrowSize>4</EndArrowSize>
+					<LineFill Type="Solid" DependTint="TRUE">
+						<Color Value="#FFA85418" Shade="20"/>
+					</LineFill>
+				</LineFormat>
+				<EffectFormat>
+					<Shadow Mode="0"/>
+				</EffectFormat>
+			</ShapeFormat>
+			<TextFormat>
+				<TextFormatMask>18176</TextFormatMask>
+				<FontFamily>Courier New</FontFamily>
+				<FontWeight>400</FontWeight>
+				<FontHeight>10</FontHeight>
+				<FontItalic>FALSE</FontItalic>
+				<FontUnderline>FALSE</FontUnderline>
+				<FontStrikeout>FALSE</FontStrikeout>
+				<AlignHorizontal>Center</AlignHorizontal>
+				<AlignVertical>Middle</AlignVertical>
+				<Color Value="#FF4B4B4B"/>
+				<FontOffset>0</FontOffset>
+				<FontBackColor>#FFFEFD</FontBackColor>
+				<FontBullet>0</FontBullet>
+				<LeftOffset>0</LeftOffset>
+				<StartIndent>50</StartIndent>
+				<RightIndent>50</RightIndent>
+				<LineSpace>20</LineSpace>
+				<SpaceBefore>0</SpaceBefore>
+				<SpaceAfter>0</SpaceAfter>
+			</TextFormat>
+		</SubTopic>
+		<Connector>
+			<ShapeFormat QuickMask="1072407">
+				<FillFormat/>
+				<LineFormat>
+					<LineWeight>1</LineWeight>
+					<LineCap>0</LineCap>
+					<LinePattern>1</LinePattern>
+					<Rounding>1</Rounding>
+					<BeginArrowID>0</BeginArrowID>
+					<BeginArrowSize>4</BeginArrowSize>
+					<EndArrowID>0</EndArrowID>
+					<EndArrowSize>4</EndArrowSize>
+					<LineFill Type="Solid" DependTint="TRUE">
+						<Color Value="#FFA85418" Shade="20"/>
+					</LineFill>
+				</LineFormat>
+				<EffectFormat>
+					<Shadow Mode="0"/>
+				</EffectFormat>
+			</ShapeFormat>
+		</Connector>
+	</Theme>
+	<Theme>
+		<MainIdea>
+			<ShapeFormat QuickMask="1072927">
+				<FillFormat Type="Solid">
+					<Color Value="#FFFF8000"/>
+				</FillFormat>
+				<LineFormat>
+					<LineWeight>3</LineWeight>
+					<LineCap>0</LineCap>
+					<LinePattern>1</LinePattern>
+					<Rounding>1</Rounding>
+					<BeginArrowID>0</BeginArrowID>
+					<BeginArrowSize>4</BeginArrowSize>
+					<EndArrowID>0</EndArrowID>
+					<EndArrowSize>4</EndArrowSize>
+					<LineFill Type="Solid">
+						<Color Value="#FFFF8000"/>
+					</LineFill>
+				</LineFormat>
+				<EffectFormat>
+					<Shadow Mode="0"/>
+				</EffectFormat>
+			</ShapeFormat>
+			<TextFormat>
+				<TextFormatMask>18176</TextFormatMask>
+				<FontFamily>Arial</FontFamily>
+				<FontWeight>700</FontWeight>
+				<FontHeight>12</FontHeight>
+				<FontItalic>FALSE</FontItalic>
+				<FontUnderline>FALSE</FontUnderline>
+				<FontStrikeout>FALSE</FontStrikeout>
+				<AlignHorizontal>Center</AlignHorizontal>
+				<AlignVertical>Middle</AlignVertical>
+				<Color Value="#FF006FBD"/>
+				<FontOffset>0</FontOffset>
+				<FontBackColor>#FFFEFD</FontBackColor>
+				<FontBullet>0</FontBullet>
+				<LeftOffset>0</LeftOffset>
+				<StartIndent>50</StartIndent>
+				<RightIndent>50</RightIndent>
+				<LineSpace>20</LineSpace>
+				<SpaceBefore>0</SpaceBefore>
+				<SpaceAfter>0</SpaceAfter>
+			</TextFormat>
+		</MainIdea>
+		<Topic>
+			<ShapeFormat QuickMask="1072927">
+				<FillFormat/>
+				<LineFormat>
+					<LineWeight>1</LineWeight>
+					<LineCap>0</LineCap>
+					<LinePattern>1</LinePattern>
+					<Rounding>1</Rounding>
+					<BeginArrowID>0</BeginArrowID>
+					<BeginArrowSize>4</BeginArrowSize>
+					<EndArrowID>0</EndArrowID>
+					<EndArrowSize>4</EndArrowSize>
+					<LineFill/>
+				</LineFormat>
+				<EffectFormat>
+					<Shadow Mode="0"/>
+				</EffectFormat>
+			</ShapeFormat>
+			<TextFormat>
+				<TextFormatMask>17664</TextFormatMask>
+				<FontFamily>Arial</FontFamily>
+				<FontWeight>400</FontWeight>
+				<FontHeight>10</FontHeight>
+				<FontItalic>FALSE</FontItalic>
+				<FontUnderline>FALSE</FontUnderline>
+				<FontStrikeout>FALSE</FontStrikeout>
+				<AlignHorizontal>Center</AlignHorizontal>
+				<AlignVertical>Middle</AlignVertical>
+				<Color Value="#FF006FBD"/>
+				<FontOffset>0</FontOffset>
+				<FontBackColor>#FFFEFD</FontBackColor>
+				<FontBullet>0</FontBullet>
+				<LeftOffset>0</LeftOffset>
+				<StartIndent>50</StartIndent>
+				<RightIndent>50</RightIndent>
+				<LineSpace>20</LineSpace>
+				<SpaceBefore>0</SpaceBefore>
+				<SpaceAfter>0</SpaceAfter>
+			</TextFormat>
+		</Topic>
+		<SubTopic>
+			<ShapeFormat QuickMask="1072927">
+				<FillFormat/>
+				<LineFormat>
+					<LineWeight>1</LineWeight>
+					<LineCap>0</LineCap>
+					<LinePattern>1</LinePattern>
+					<Rounding>1</Rounding>
+					<BeginArrowID>0</BeginArrowID>
+					<BeginArrowSize>4</BeginArrowSize>
+					<EndArrowID>0</EndArrowID>
+					<EndArrowSize>4</EndArrowSize>
+					<LineFill Type="Solid">
+						<Color Value="#FF008000"/>
+					</LineFill>
+				</LineFormat>
+				<EffectFormat>
+					<Shadow Mode="0"/>
+				</EffectFormat>
+			</ShapeFormat>
+			<TextFormat>
+				<TextFormatMask>17664</TextFormatMask>
+				<FontFamily>Arial</FontFamily>
+				<FontWeight>400</FontWeight>
+				<FontHeight>9</FontHeight>
+				<FontItalic>FALSE</FontItalic>
+				<FontUnderline>FALSE</FontUnderline>
+				<FontStrikeout>FALSE</FontStrikeout>
+				<AlignHorizontal>Center</AlignHorizontal>
+				<AlignVertical>Middle</AlignVertical>
+				<Color Value="#FFB45709"/>
+				<FontOffset>0</FontOffset>
+				<FontBackColor>#FFFEFD</FontBackColor>
+				<FontBullet>0</FontBullet>
+				<LeftOffset>0</LeftOffset>
+				<StartIndent>50</StartIndent>
+				<RightIndent>50</RightIndent>
+				<LineSpace>20</LineSpace>
+				<SpaceBefore>0</SpaceBefore>
+				<SpaceAfter>0</SpaceAfter>
+			</TextFormat>
+		</SubTopic>
+		<Connector>
+			<ShapeFormat QuickMask="1072927">
+				<FillFormat/>
+				<LineFormat>
+					<LineWeight>1</LineWeight>
+					<LineCap>0</LineCap>
+					<LinePattern>1</LinePattern>
+					<Rounding>1</Rounding>
+					<BeginArrowID>0</BeginArrowID>
+					<BeginArrowSize>4</BeginArrowSize>
+					<EndArrowID>0</EndArrowID>
+					<EndArrowSize>4</EndArrowSize>
+					<LineFill Type="Solid">
+						<Color Value="#FF008000"/>
+					</LineFill>
+				</LineFormat>
+				<EffectFormat>
+					<Shadow Mode="0"/>
+				</EffectFormat>
+			</ShapeFormat>
+		</Connector>
+	</Theme>
+	<Theme>
+		<MainIdea>
+			<ShapeFormat QuickMask="1052446">
+				<FillFormat Type="Solid">
+					<Color Value="#FFFFA07A"/>
+				</FillFormat>
+				<LineFormat>
+					<LineWeight>1</LineWeight>
+					<LineCap>0</LineCap>
+					<LinePattern>1</LinePattern>
+					<Rounding>1</Rounding>
+					<BeginArrowID>0</BeginArrowID>
+					<BeginArrowSize>4</BeginArrowSize>
+					<EndArrowID>0</EndArrowID>
+					<EndArrowSize>4</EndArrowSize>
+					<LineFill Type="Solid">
+						<Color Value="#FFFFA07A"/>
+					</LineFill>
+				</LineFormat>
+				<EffectFormat>
+					<Shadow Mode="14" Scale="1" OffsetX="2" OffsetY="2" Angle="0" Blur="3">
+						<Color Value="#66000000"/>
+					</Shadow>
+				</EffectFormat>
+			</ShapeFormat>
+			<TextFormat>
+				<TextFormatMask>16640</TextFormatMask>
+				<FontFamily>Arial</FontFamily>
+				<FontWeight>400</FontWeight>
+				<FontHeight>9</FontHeight>
+				<FontItalic>FALSE</FontItalic>
+				<FontUnderline>FALSE</FontUnderline>
+				<FontStrikeout>FALSE</FontStrikeout>
+				<AlignHorizontal>Center</AlignHorizontal>
+				<AlignVertical>Middle</AlignVertical>
+				<Color Value="#FF262626"/>
+				<FontOffset>0</FontOffset>
+				<FontBackColor>#FFFEFD</FontBackColor>
+				<FontBullet>0</FontBullet>
+				<LeftOffset>0</LeftOffset>
+				<StartIndent>50</StartIndent>
+				<RightIndent>50</RightIndent>
+				<LineSpace>20</LineSpace>
+				<SpaceBefore>0</SpaceBefore>
+				<SpaceAfter>0</SpaceAfter>
+			</TextFormat>
+		</MainIdea>
+		<Topic>
+			<ShapeFormat QuickMask="1052446">
+				<FillFormat Type="Solid">
+					<Color Value="#FFEE82EE"/>
+				</FillFormat>
+				<LineFormat>
+					<LineWeight>1</LineWeight>
+					<LineCap>0</LineCap>
+					<LinePattern>1</LinePattern>
+					<Rounding>1</Rounding>
+					<BeginArrowID>0</BeginArrowID>
+					<BeginArrowSize>4</BeginArrowSize>
+					<EndArrowID>0</EndArrowID>
+					<EndArrowSize>4</EndArrowSize>
+					<LineFill/>
+				</LineFormat>
+				<EffectFormat>
+					<Shadow Mode="14" Scale="1" OffsetX="2" OffsetY="2" Angle="0" Blur="3">
+						<Color Value="#66000000"/>
+					</Shadow>
+				</EffectFormat>
+			</ShapeFormat>
+			<TextFormat>
+				<TextFormatMask>16640</TextFormatMask>
+				<FontFamily>Arial</FontFamily>
+				<FontWeight>400</FontWeight>
+				<FontHeight>12</FontHeight>
+				<FontItalic>FALSE</FontItalic>
+				<FontUnderline>FALSE</FontUnderline>
+				<FontStrikeout>FALSE</FontStrikeout>
+				<AlignHorizontal>Center</AlignHorizontal>
+				<AlignVertical>Middle</AlignVertical>
+				<Color Value="#FF262626"/>
+				<FontOffset>0</FontOffset>
+				<FontBackColor>#FFFEFD</FontBackColor>
+				<FontBullet>0</FontBullet>
+				<LeftOffset>0</LeftOffset>
+				<StartIndent>50</StartIndent>
+				<RightIndent>50</RightIndent>
+				<LineSpace>20</LineSpace>
+				<SpaceBefore>0</SpaceBefore>
+				<SpaceAfter>0</SpaceAfter>
+			</TextFormat>
+		</Topic>
+		<SubTopic>
+			<ShapeFormat QuickMask="1052446">
+				<FillFormat Type="Solid">
+					<Color Value="#FFFF6347"/>
+				</FillFormat>
+				<LineFormat>
+					<LineWeight>1</LineWeight>
+					<LineCap>0</LineCap>
+					<LinePattern>1</LinePattern>
+					<Rounding>1</Rounding>
+					<BeginArrowID>0</BeginArrowID>
+					<BeginArrowSize>4</BeginArrowSize>
+					<EndArrowID>0</EndArrowID>
+					<EndArrowSize>4</EndArrowSize>
+					<LineFill Type="Solid">
+						<Color Value="#FFFF6347"/>
+					</LineFill>
+				</LineFormat>
+				<EffectFormat>
+					<Shadow Mode="14" Scale="1" OffsetX="2" OffsetY="2" Angle="0" Blur="3">
+						<Color Value="#66000000"/>
+					</Shadow>
+				</EffectFormat>
+			</ShapeFormat>
+			<TextFormat>
+				<TextFormatMask>16640</TextFormatMask>
+				<FontFamily>Arial</FontFamily>
+				<FontWeight>400</FontWeight>
+				<FontHeight>14</FontHeight>
+				<FontItalic>FALSE</FontItalic>
+				<FontUnderline>FALSE</FontUnderline>
+				<FontStrikeout>FALSE</FontStrikeout>
+				<AlignHorizontal>Center</AlignHorizontal>
+				<AlignVertical>Middle</AlignVertical>
+				<Color Value="#FF262626"/>
+				<FontOffset>0</FontOffset>
+				<FontBackColor>#FFFEFD</FontBackColor>
+				<FontBullet>0</FontBullet>
+				<LeftOffset>0</LeftOffset>
+				<StartIndent>50</StartIndent>
+				<RightIndent>50</RightIndent>
+				<LineSpace>20</LineSpace>
+				<SpaceBefore>0</SpaceBefore>
+				<SpaceAfter>0</SpaceAfter>
+			</TextFormat>
+		</SubTopic>
+		<Connector>
+			<ShapeFormat QuickMask="1579308">
+				<FillFormat/>
+				<LineFormat>
+					<LineWeight>1</LineWeight>
+					<LineCap>0</LineCap>
+					<LinePattern>1</LinePattern>
+					<Rounding>1</Rounding>
+					<BeginArrowID>0</BeginArrowID>
+					<BeginArrowSize>3</BeginArrowSize>
+					<EndArrowID>0</EndArrowID>
+					<EndArrowSize>3</EndArrowSize>
+					<LineFill Type="Solid">
+						<Color Value="#FFC23400"/>
+					</LineFill>
+				</LineFormat>
+				<EffectFormat>
+					<Shadow Mode="0"/>
+				</EffectFormat>
+			</ShapeFormat>
+		</Connector>
+	</Theme>
+</Themes>

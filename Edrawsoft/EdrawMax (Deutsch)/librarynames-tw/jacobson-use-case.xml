@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Jacobson Use Case">
+    <Elem NameU="Actor" Name="用戶"/>
+    <Elem NameU="Use case" Name="用例"/>
+    <Elem NameU="Boundary" Name="邊界"/>
+    <Elem NameU="Relationship" Name="關係"/>
+    <Elem NameU="Object types" Name="對象類型"/>
+    <Elem NameU="Dimensions" Name="3維"/>
+    <Elem NameU="Time" Name="時間線"/>
+    <Elem NameU="System border" Name="系統邊界"/>
+    <Elem NameU="Operation" Name="操作"/>
+    <Elem NameU="Callback" Name="回調"/>
+    <Elem NameU="Message carrier" Name="消息"/>
+    <Elem NameU="Block" Name="塊"/>
+    <Elem NameU="Start symbol" Name="開始符號"/>
+    <Elem NameU="State" Name="狀態"/>
+    <Elem NameU="Message" Name="消息"/>
+    <Elem NameU="Signal" Name="信號"/>
+    <Elem NameU="Task" Name="任務"/>
+    <Elem NameU="Decision" Name="判定"/>
+    <Elem NameU="Destroy object" Name="銷毀對象"/>
+    <Elem NameU="Label" Name="標籤"/>
+</Lib>

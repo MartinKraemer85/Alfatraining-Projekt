@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="ROOM">
+	<Elem NameU="Actor Class" Name="Classe Attore"/>
+	<Elem NameU="Actor Reference" Name="Riferimento Attore"/>
+	<Elem NameU="Modified Actor Ref." Name="Riferimento Attore Modificato"/>
+	<Elem NameU="Relay Ports" Name="Porte a Relè"/>
+	<Elem NameU="End Ports" Name="Porte di Terminazione"/>
+	<Elem NameU="Reference Ports" Name="Porte di Riferimento"/>
+	<Elem NameU="Binding" Name="Vincolo"/>
+	<Elem NameU="Layer or Export Connections" Name="Connessioni di Livello o Esportazione"/>
+	<Elem NameU="State Context" Name="Contesto di Stato"/>
+	<Elem NameU="State" Name="Stato"/>
+	<Elem NameU="Transition" Name="Transizione"/>
+	<Elem NameU="Texture Definitions" Name="Definizioni Texture"/>
+	<Elem NameU="Transition Points" Name="Punti di Transizione"/>
+	<Elem NameU="Choice Point" Name="Punto di Scelta"/>
+	<Elem NameU="Transition to History" Name="Transizione a Cronologia"/>
+	<Elem NameU="Group Transition" Name="Transizione di Gruppo"/>
+	<Elem NameU="Internal Self-Transition" Name="Transizione Interna"/>
+</Lib>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Australia">
+    <Elem NameU="New South Wales" Name="뉴 사우스 웨일즈"/>
+    <Elem NameU="Nothern Territory" Name="호주 북부"/>
+    <Elem NameU="Queensland" Name="퀸즐랜드"/>
+    <Elem NameU="South Australia" Name="호주 남부"/>
+    <Elem NameU="Tasmania" Name="태즈 매니아"/>
+    <Elem NameU="Victoria" Name="빅토리아"/>
+    <Elem NameU="Western Australia" Name="호주 서부"/>
+    <Elem NameU="New Zealand" Name="뉴질랜드"/>
+    <Elem NameU="Australia(state)" Name="호주"/>
+</Lib>

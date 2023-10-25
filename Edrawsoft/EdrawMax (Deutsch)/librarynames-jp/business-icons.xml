@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Business Icons">
+
+<Elem Name="アドレス帳" NameU="Address Book"/>
+
+<Elem Name="メダル" NameU="Medal"/>
+
+<Elem Name="シールド" NameU="Shield"/>
+
+<Elem Name="利益" NameU="Profit"/>
+
+<Elem Name="損失" NameU="Loss"/>
+
+<Elem Name="計算器" NameU="Calculator"/>
+
+<Elem Name="時計" NameU="Clock"/>
+
+<Elem Name="目覚まし時計" NameU="Alarm Clock"/>
+
+<Elem Name="雲" NameU="Cloud"/>
+
+<Elem Name="データベース" NameU="Database"/>
+
+<Elem Name="カメラ" NameU="Camera"/>
+
+<Elem Name="ナイス" NameU="Thumb Up"/>
+
+<Elem Name="そう思わない" NameU="Thumb Down"/>
+
+<Elem Name="電波" NameU="Radio Wave"/>
+
+<Elem Name="ラッパ" NameU="Loudspeaker"/>
+
+<Elem Name="" NameU="Battery"/>
+
+<Elem Name="カート" NameU="Cart"/>
+
+<Elem Name="コーヒー" NameU="Coffee"/>
+
+<Elem Name="書類かばん" NameU="Briefcase"/>
+
+<Elem Name="At" NameU="At"/>
+
+<Elem Name="絞り" NameU="Aperture"/>
+
+<Elem Name="矢印 - 円形" NameU="Arrow - Circular"/>
+
+<Elem Name="車" NameU="Car"/>
+
+<Elem Name="チャットバブル - 話し中" NameU="Chatbubble - Working"/>
+
+<Elem Name="チャットバブル（複数）" NameU="Chat Bubbles"/>
+
+<Elem Name="ギヤ" NameU="Cogs"/>
+
+<Elem Name="ギヤ" NameU="Gear"/>
+
+<Elem Name="電球" NameU="Bulb"/>
+
+<Elem Name="世界" NameU="World"/>
+
+<Elem Name="歩き" NameU="Walk"/>
+
+<Elem Name="腕時計" NameU="Watch"/>
+
+<Elem Name="ボリューム - 低" NameU="Volume - Low"/>
+
+<Elem Name="ボリューム - 中等" NameU="Volume - Medium"/>
+
+<Elem Name="ボリューム - 高" NameU="Volume - High"/>
+
+<Elem Name="財布" NameU="Money Bag"/>
+
+<Elem Name="タクシー" NameU="Taxi"/>
+
+<Elem Name="ターゲット" NameU="Target"/>
+
+<Elem Name="シャッフル" NameU="Shuffle"/>
+
+<Elem Name="電力" NameU="Power"/>
+
+<Elem Name="値札" NameU="Price Tag"/>
+
+<Elem Name="ピン" NameU="Pin"/>
+
+<Elem Name="人（複数）" NameU="People"/>
+
+<Elem Name="人" NameU="Person"/>
+
+<Elem Name="マイクロフォン" NameU="Microphone"/>
+
+<Elem Name="場所" NameU="Location"/>
+
+<Elem Name="メール" NameU="Email"/>
+
+<Elem Name="メール - 既読" NameU="Email - Open"/>
+
+<Elem Name="チェーン" NameU="Chain"/>
+
+<Elem Name="ナビゲーション" NameU="Navigate"/>
+
+<Elem Name="バスケットボール" NameU="Basketball"/>
+
+<Elem Name="野球" NameU="Baseball"/>
+
+<Elem Name="テニス" NameU="Tennis Ball"/>
+
+<Elem Name="循環" NameU="Cycle"/>
+
+<Elem Name="ハート" NameU="Heart"/>
+
+<Elem Name="音楽" NameU="Music"/>
+
+<Elem Name="共有" NameU="Share"/>
+
+<Elem Name="星" NameU="Star"/>
+
+<Elem Name="雪" NameU="Snowflake"/>
+
+<Elem Name="太陽" NameU="Sun"/>
+
+<Elem Name="飛行機" NameU="Plane"/>
+
+<Elem Name="円グラフ" NameU="Pie"/>
+
+<Elem Name="道路標識" NameU="Road Sign"/>
+
+<Elem Name="クリップボード" NameU="Clipboard"/>
+
+<Elem Name="チェック" NameU="Check"/>
+
+<Elem Name="本" NameU="Book"/>
+
+<Elem Name="しおり" NameU="Bookmark"/>
+
+<Elem Name="船" NameU="Boat"/>
+
+<Elem Name="クラウド- アップロード" NameU="Cloud - Upload"/>
+
+<Elem Name="クラウド- ダウンロード" NameU="Cloud - Download"/>
+
+<Elem Name="優勝カップ" NameU="Trophy"/>
+
+<Elem Name="温度計" NameU="Thermometer"/>
+
+<Elem Name="Wi-Fi" NameU="Wifi"/>
+
+<Elem Name="ツール" NameU="Tool"/>
+
+<Elem Name="スライド" NameU="Slide"/>
+
+<Elem Name="ホーム" NameU="Home"/>
+
+<Elem Name="画像" NameU="Image"/>
+
+<Elem Name="贈り物" NameU="Gift"/>
+
+<Elem Name="イヤホン" NameU="Earphone"/>
+
+<Elem Name="ノートパソコン" NameU="Laptop"/>
+
+<Elem Name="紙" NameU="Paper"/>
+
+<Elem Name="モニター" NameU="Monitor"/>
+
+<Elem Name="電話" NameU="Phone"/>
+
+<Elem Name="映画" NameU="Movie"/>
+
+<Elem Name="フォルダ" NameU="Folder"/>
+
+<Elem Name="男子" NameU="Man"/>
+
+<Elem Name="女性" NameU="Woman"/>
+
+<Elem Name="レンチ" NameU="Wrench"/>
+
+<Elem Name="ゴミ箱" NameU="Trash Bin"/>
+
+<Elem Name="傘" NameU="Umbrella"/>
+
+<Elem Name="レストラン" NameU="Restaurant"/>
+
+<Elem Name="パルス" NameU="Pulse"/>
+
+<Elem Name="ペーパークリップ" NameU="Paperclip"/>
+
+<Elem Name="鉛筆" NameU="Pencil"/>
+
+<Elem Name="救急箱" NameU="Medical Kit"/>
+
+<Elem Name="ゲームコントローラー" NameU="Game Controller"/>
+
+<Elem Name="プリンタ－" NameU="Printer"/>
+
+<Elem Name="USBフラッシュドライブ" NameU="USB Flash Drive"/>
+
+<Elem Name="拡大鏡" NameU="Magnifier"/>
+
+<Elem Name="カレンダー" NameU="Calendar"/>
+
+<Elem Name="iPhone" NameU="iPhone"/>
+
+<Elem Name="地図" NameU="Map"/>
+
+<Elem Name="砂時計" NameU="Hourglass"/>
+
+<Elem Name="協力" NameU="Cooperation"/>
+
+<Elem Name="米国 ドル" NameU="U.S. Dollar"/>
+
+<Elem Name="ユーロ" NameU="Euro"/>
+
+<Elem Name="RMB" NameU="RMB"/>
+
+<Elem Name="トコジラミ" NameU="Bug"/>
+
+<Elem Name="貯金" NameU="Savings"/>
+
+<Elem Name="ダイアモンド" NameU="Diamond"/>
+
+<Elem Name="銀行" NameU="Bank"/>
+
+<Elem Name="ローハンマー" NameU="Law Hammer"/>
+
+<Elem Name="正義のはかり" NameU="Scales of Justice"/>
+
+</Lib>

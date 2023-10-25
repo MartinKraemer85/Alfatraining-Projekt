@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="2D Block Diagram">
+    <Elem NameU="Triangle" Name="삼각형"/>
+    <Elem NameU="Isosceles Triangle" Name="이등변 삼각형"/>
+    <Elem NameU="Regular Triangle" Name="삼각형"/>
+    <Elem NameU="Right Angled Triangle" Name="직각 삼각형"/>
+    <Elem NameU="Rectangle" Name="직사각형"/>
+    <Elem NameU="Rounded Rectangle" Name="둥근 사각형"/>
+    <Elem NameU="Rounded Square" Name="둥근 정사각형"/>
+    <Elem NameU="Circle" Name="원"/>
+    <Elem NameU="Oval" Name="타원"/>
+    <Elem NameU="Parallelogram" Name="평행 사변형"/>
+    <Elem NameU="Pentagon" Name="오각형"/>
+    <Elem NameU="Hexagon" Name="육각형"/>
+    <Elem NameU="Trapezoid" Name="사다리꼴"/>
+    <Elem NameU="Rhombus" Name="마름모"/>
+    <Elem NameU="Half Circle" Name="반원"/>
+    <Elem NameU="Diamond" Name="다이아몬드"/>
+    <Elem NameU="Circle with Wavy Edge" Name="가장자리 물결 원"/>
+    <Elem NameU="Candy Shape" Name="캔디 모양"/>
+    <Elem NameU="Broken Corner Rectangle" Name=모서리 깨진 직사각형"/>
+    <Elem NameU="Arch" Name="아치"/>
+    <Elem NameU="Funnel" Name="깔때기"/>
+    <Elem NameU="Round Head Rectangle" Name="둥근 윗변 직사각형"/>    
+    <Elem NameU="Triangle - Long" Name="긴 삼각형"/>
+    <Elem NameU="Snip Corner Triangle" Name="모서리 잘린 삼각형"/>
+    <Elem NameU="Trapezoid - Vertical" Name="높은 사다리꼴"/>
+    <Elem NameU="Trapezoid - Horizontal" Name="긴 사다리꼴"/>
+    <Elem NameU="Inverted Trapezoid" Name="역 사다리꼴"/>
+    <Elem NameU="Pentagon" Name="오각형"/>
+    <Elem NameU="Round Head Rectangle" Name="둥근 윗변 직사각형"/>
+    <Elem NameU="Hexagon - Long" Name="긴 육각형"/>
+    <Elem NameU="Curve Head Rectangle" Name="구부러진 직사각형"/>
+    <Elem NameU="Pointed Left Rectangle" Name="右尖矩形"/>
+    <Elem NameU="Flat Banner 1" Name="扁平横幅 1"/>
+    <Elem NameU="Flat Banner 2" Name="扁平横幅 2"/>
+    <Elem NameU="Rounded Right Rectangle" Name="오른쪽을 가리키는 직사각형"/>
+    <Elem NameU="Circle with Rectangle" Name="직사각형이 있는 원"/>
+    <Elem NameU="Irregular Shape" Name="불규칙한 모양"/>
+    <Elem NameU="Snip One Side Triangle" Name="한쪽이 잘린 삼각형"/>
+    <Elem NameU="Corner Shape" Name="모서리 모양"/>
+    <Elem NameU="Irregular Shape" Number="2" Name="불규칙한 모양"/>
+    <Elem NameU="Curve Shape with Right Angle" Name="직각 + 곡선면"/>
+    <Elem NameU="Snip One Side Rectangle" Name="한쪽이 잘린 직사각형 "/>
+    <Elem NameU="Irregular Rectangle" Name="불규칙한 직사각형"/>
+    <Elem NameU="L Shape" Name="L 모양"/>
+    <Elem NameU="Snip Diagonal Corner Rectangle" Name="꽃잎 모양 직사각형"/>
+    <Elem NameU="Hexagon" Name="육각형"/>
+    <Elem NameU="Regular Rhombus" Name="일반 마름보"/>
+    <Elem NameU="Badge" Name="배지"/>
+    <Elem NameU="4-Point Star" Name="포인트가 4개인 별"/>
+    <Elem NameU="Circle" Name="원"/>
+    <Elem NameU="Cloud with One Side Flat" Name="평편한 구름"/>
+    <Elem NameU="Bar with Wavy Edge" Name="물결 모양 가장자리"/>
+    <Elem NameU="Irregular Bar" Number="2" Name="타이틀"/>
+    <Elem NameU="Chevron" Name="꺾쇠 괄호"/>
+    <Elem NameU="Chevron Group" Name="꺾쇠 괄호 모음"/>
+    <Elem NameU="6-Point Star - Hollow" Name="포인트가 6개인 속이 빈 별"/>
+    <Elem NameU="Special Shape" Name="특이한 모양"/>
+    <Elem NameU="3 Rhombuses" Name="마름모 3개"/>
+    <Elem NameU="Stacked Pentagons" Name="오각형 조합"/>
+    <Elem NameU="Stacked Squares" Name="정사각형 조합"/>
+    <Elem NameU="Special Shape" Number="2" Name="특이한 모양"/>
+    <Elem NameU="Stacked Triangles" Name="삼각형 조합"/>
+    <Elem NameU="Hollow Cloud" Name="속인 빈 구름"/>
+    <Elem NameU="Cloud" Name="구름"/>
+    <Elem NameU="Special Shape" Name="특이한 모양"/>
+    <Elem NameU="6-Point Star" Name="포인트가 6개인 별"/>
+    <Elem NameU="Flower 1" Name="꽃 1"/>
+    <Elem NameU="Flower 2" Name="꽃 2"/>
+    <Elem NameU="Flower 3" Name="꽃 3"/>
+    <Elem NameU="Royal Style Block" Name="왕실 스타일 블록"/>
+    <Elem NameU="Special Shape" Name="특이한 모양"/>
+    <Elem NameU="5-Point Star" Number="2" Name="포인트가 5개인 별"/>
+    <Elem NameU="5-Point Star with Circle" Name="원안에 포인트가 5개인 별"/>
+    <Elem NameU="4-Point Star with Circle" Name="원안에 포인트가 4개인 별"/>
+    <Elem NameU="4-Point Star" Name="포인트가 4개인 별"/>
+    <Elem NameU="Hexagon" Name="육각형"/>
+    <Elem NameU="Special Shape" Name="특이 모양"/>
+    <Elem NameU="Heart" Name="하트"/>
+    <Elem NameU="Teardrop" Name="눈물"/>
+    <Elem NameU="Special Shape" Number="2" Name="특이 모약"/>
+    <Elem NameU="Hexagon with Triange" Name="삼각형이 있는 육각형"/>
+    <Elem NameU="Special Shape" Name="특이 모양"/>
+    <Elem NameU="Petals" Name="꽃잎"/>
+    <Elem NameU="6-Point Star" Name="포인트가 6개인 별"/>
+    <Elem NameU="Special Shape" Name="특이 모양"/>
+    <Elem NameU="Windmill" Name="풍차"/>
+    <Elem NameU="Three Cicles" Name="원 3개"/>
+    <Elem NameU="Circular" Name="원형"/>
+    <Elem NameU="Four Sections Circle" Name="사분형 원"/>
+    <Elem NameU="Flower" Name="꽃"/>
+    <Elem NameU="Trees" Name="나무"/>
+    <Elem NameU="Maple Leaf" Name="단풍잎"/>
+    <Elem NameU="Ginkgo Leaf" Name="은행잎"/>
+    <Elem NameU="Leaf" Name="잎"/>
+    <Elem NameU="Location" Name="위치"/>
+    <Elem NameU="Chess" Name="체스"/>
+    <Elem NameU="Jelly Fish" Name="해파리"/>
+    <Elem NameU="Incomplete Circle" Name="불안전한 원"/>
+    <Elem NameU="Puzzle" Name="퍼즐"/>
+    <Elem NameU="Tree" Name="나무"/>
+    <Elem NameU="Hot-Air Balloon" Name="열기구"/>
+    <Elem NameU="Balloon" Name="풍선"/>
+    <Elem NameU="Chain" Name="체인"/>
+    <Elem NameU="World" Name="세계"/>
+</Lib>

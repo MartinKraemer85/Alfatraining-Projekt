@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="PID Computer Keys">
+	<Elem NameU="0" Name="0"/>
+	<Elem NameU="1" Name="1"/>
+	<Elem NameU="2" Name="2"/>
+	<Elem NameU="3" Name="3"/>
+	<Elem NameU="4" Name="4"/>
+	<Elem NameU="5" Name="5"/>
+	<Elem NameU="6" Name="6"/>
+	<Elem NameU="7" Name="7"/>
+	<Elem NameU="8" Name="8"/>
+	<Elem NameU="9" Name="9"/>
+	<Elem NameU="A" Name="A"/>
+	<Elem NameU="B" Name="B"/>
+	<Elem NameU="C" Name="C"/>
+	<Elem NameU="D" Name="D"/>
+	<Elem NameU="E" Name="E"/>
+	<Elem NameU="F" Name="F"/>
+	<Elem NameU="G" Name="G"/>
+	<Elem NameU="H" Name="H"/>
+	<Elem NameU="I" Name="I"/>
+	<Elem NameU="J" Name="J"/>
+	<Elem NameU="K" Name="K"/>
+	<Elem NameU="L" Name="L"/>
+	<Elem NameU="M" Name="M"/>
+	<Elem NameU="N" Name="N"/>
+	<Elem NameU="O" Name="O"/>
+	<Elem NameU="P" Name="P"/>
+	<Elem NameU="Q" Name="Q"/>
+	<Elem NameU="R" Name="R"/>
+	<Elem NameU="S" Name="S"/>
+	<Elem NameU="T" Name="T"/>
+	<Elem NameU="U" Name="U"/>
+	<Elem NameU="V" Name="V"/>
+	<Elem NameU="W" Name="X"/>
+	<Elem NameU="X" Name="Z"/>
+	<Elem NameU="Y" Name="Y"/>
+	<Elem NameU="Z" Name="Z"/>
+	<Elem NameU="F1" Name="F1"/>
+	<Elem NameU="F2" Name="F2"/>
+	<Elem NameU="F3" Name="F3"/>
+	<Elem NameU="F4" Name="F4"/>
+	<Elem NameU="F5" Name="F5"/>
+	<Elem NameU="F6" Name="F6"/>
+	<Elem NameU="F7" Name="F7"/>
+	<Elem NameU="F8" Name="F8"/>
+	<Elem NameU="F9" Name="F9"/>
+	<Elem NameU="F10" Name="F10"/>
+	<Elem NameU="F11" Name="F11"/>
+	<Elem NameU="F12" Name="F12"/>
+	<Elem NameU="Escape" Name="Escape"/>
+	<Elem NameU="Alternate" Name="Alternar"/>
+	<Elem NameU="Print Screen" Name="Print Screen"/>
+	<Elem NameU="Scroll Lock" Name="Scroll Lock"/>
+	<Elem NameU="Pause Break" Name="Pause Break"/>
+	<Elem NameU="Insert" Name="Insert"/>
+	<Elem NameU="Home" Name="Home"/>
+	<Elem NameU="Page" Name="Page"/>
+	<Elem NameU="Delete" Name="Delete"/>
+	<Elem NameU="End" Name="End"/>
+	<Elem NameU="Page Down" Name="Page Down"/>
+	<Elem NameU="Num Lock" Name="Num Lock"/>
+	<Elem NameU="Tab" Name="Tab"/>
+	<Elem NameU="Control" Name="Control"/>
+	<Elem NameU="Control 2" Name="Control 2"/>
+	<Elem NameU="Caps Lock" Name="Caps Lock"/>
+	<Elem NameU="Shift" Name="Shift"/>
+	<Elem NameU="Shift 2" Name="Shift 2"/>
+	<Elem NameU="Backspace" Name="Backspace"/>
+	<Elem NameU="Zero" Name="Zero"/>
+	<Elem nameU="~ 、" name="~ 、"/>
+	<Elem NameU="_" Name="_"/>
+	<Elem nameU="+ =" name="+ ="/>
+	<Elem nameU="{  [" name="{  ["/>
+	<Elem nameU="}  ]" name="}  ]"/>
+	<Elem nameU=":  ;" name=":  ;"/>
+	<Elem nameU="&quot;  '" name="&quot;  '"/>
+	<Elem nameU="&lt;  ," name="&lt;  ,"/>
+	<Elem nameU="&gt;  ." name="&gt;  ."/>
+	<Elem nameU="/" name="/"/>
+	<Elem nameU="*" name="*"/>
+	<Elem nameU="-" name="-"/>
+	<Elem nameU="." name="."/>
+	<Elem NameU="Win" Name="Win"/>
+	<Elem nameU="+" name="+"/>
+	<Elem NameU="Enter" Name="Enter"/>
+	<Elem NameU="Computer key" Name="Tecla de computador"/>
+	<Elem NameU="Up arrow" Name="Seta para cima"/>
+	<Elem NameU="Down arrow" Name="Seta para baixo"/>
+	<Elem NameU="Left arrow" Name="Seta para a esquerda"/>
+	<Elem NameU="Right arrow" Name="Seta para a direita"/>
+	<Elem NameU="Right mouse button" Name="Botão direito do rato"/>
+	<Elem NameU="Rectangular blank key" Name="Tecla retangular branca"/>
+	<Elem NameU="Square blank key" Name="Tecla quadrangular branca"/>
+</Lib>

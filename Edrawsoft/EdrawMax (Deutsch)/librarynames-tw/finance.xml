@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Finance">
+    <Elem NameU="Diamond" Name="鑽石"/>
+    <Elem NameU="Gold Coin" Name="金幣"/>
+    <Elem NameU="Savings" Name="存款"/>
+    <Elem NameU="Gold Bars" Name="金條"/>
+    <Elem NameU="Gold ingot" Name="元寶"/>
+    <Elem NameU="Golden Eggs" Name="金蛋"/>
+    <Elem NameU="Coin" Name="硬幣"/>
+    <Elem NameU="Accounting" Name="會計"/>
+    <Elem NameU="Cash" Name="現金"/>
+    <Elem NameU="Cash Payment" Name="現金支付"/>
+    <Elem NameU="Mail Payment" Name="郵匯支付"/>
+    <Elem NameU="Bank Card" Name="銀行卡"/>
+    <Elem NameU="Wallet" Name="錢包"/>
+    <Elem NameU="Money Bag" Name="錢袋"/>
+    <Elem NameU="Cash Box" Name="現金箱"/>
+    <Elem NameU="Dollar Exchange" Name="美元匯兌"/>
+    <Elem NameU="Return on Investment" Name="投資回報率"/>
+    <Elem NameU="Roulette" Name="輪盤賭"/>
+    <Elem NameU="Dollar" Name="美元"/>
+    <Elem NameU="RMB" Name="人民幣"/>
+    <Elem NameU="Target" Name="目標"/>
+    <Elem NameU="Bank" Name="銀行"/>
+    <Elem NameU="Law Hammer" Name="法槌"/>
+    <Elem NameU="Scales of Justice" Name="正義天平"/>
+    <Elem NameU="Analysis" Name="分析"/>
+    <Elem NameU="Dollar Security" Name="美元安全"/>
+    <Elem NameU="Online Payment" Name="在線支付"/>
+    <Elem NameU="Reports" Name="報告"/>
+    <Elem NameU="Loss" Name="虧損"/>
+    <Elem NameU="Profit" Name="利潤"/>
+    <Elem NameU="Pie Chart" Name="餅圖"/>
+    <Elem NameU="Exchange" Name="匯兌"/>
+    <Elem NameU="Loan" Name="貸款"/>
+    <Elem NameU="Investment" Name="投資"/>
+    <Elem NameU="Mobile Payment" Name="移動支付"/>
+    <Elem NameU="Security" Name="擔保"/>
+    <Elem NameU="Safe" Name="保險箱"/>
+    <Elem NameU="Hourglass" Name="沙漏"/>
+    <Elem NameU="Choice" Name="選擇"/>
+    <Elem NameU="Antique" Name="文物"/>
+</Lib>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Children's Day">
+    <Elem NameU="0" Name="0"/>
+    <Elem NameU="1" Name="1"/>
+    <Elem NameU="2" Name="2"/>
+    <Elem NameU="3" Name="3"/>
+    <Elem NameU="4" Name="4"/>
+    <Elem NameU="5" Name="5"/>
+    <Elem NameU="6" Name="6"/>
+    <Elem NameU="7" Name="7"/>
+    <Elem NameU="8" Name="8"/>
+    <Elem NameU="9" Name="9"/>
+    <Elem NameU="Lollipop" Number="5" Name="롤리팝"/>
+    <Elem NameU="Kanto Cooking" Name="쿠킹"/>
+    <Elem NameU="Bear" Name="곰"/>
+    <Elem NameU="Little Yellow Duck" Name="노란 오리"/>
+    <Elem NameU="Toy" Number="2" Name="장난감"/>
+    <Elem NameU="Alphabet Blocks" Name="알파벳 블록"/>
+    <Elem NameU="Toy Boat" Name="장난감 보트"/>
+    <Elem NameU="Drum" Name="드럼"/>
+    <Elem NameU="Capsule" Number="3" Name="캡슐"/>
+    <Elem NameU="Toy" Name="토이"/>
+    <Elem NameU="Gyro" Number="2" Name="자이로"/>
+    <Elem NameU="Toy Car" Number="2" Name="토이카"/>
+    <Elem NameU="Remote Control" Name="원격 컨트롤"/>
+    <Elem NameU="Holding a Aell" Number="2" Name="안아주다"/>
+    <Elem NameU="Puzzle" Name="퍼즐"/>
+    <Elem NameU="Small Train" Number="2" Name="작은 기차"/>
+    <Elem NameU="Holding a Bell" Name="벨을 손에 쥐다"/>
+    <Elem NameU="Ball" Number="2" Name="공"/>
+    <Elem NameU="Rope" Name="밧줄"/>
+    <Elem NameU="Dominoes" Name="도미노"/>
+    <Elem NameU="Walker" Name="산책하는 사람"/>
+    <Elem NameU="Windmill" Name="풍차"/>
+    <Elem NameU="Carousel" Name="회전목마"/>
+    <Elem NameU="Candy" Name="캔디"/>
+    <Elem NameU="Moon" Name="달"/>
+    <Elem NameU="Horse" Name="말"/>
+    <Elem NameU="Trojan" Name="特洛伊木马"/>
+    <Elem NameU="Fish" Name="생선"/>
+    <Elem NameU="Bucket and Shovel" Name="양동이와 삽"/>
+    <Elem NameU="Bicycle" Name="자전거"/>
+    <Elem NameU="Building Blocks" Name="빌딩 블록"/>
+    <Elem NameU="Robot" Name="로봇"/>
+    <Elem NameU="Kite" Name="연"/>
+    <Elem NameU="Russian Doll" Name="러시안 인형"/>
+    <Elem NameU="Water Gun" Name="물총"/>
+    <Elem NameU="Castle" Name="캐슬"/>
+    <Elem NameU="Excavator" Name="굴착기"/>
+    <Elem NameU="Scooter" Name="스쿠터"/>
+    <Elem NameU="Rocket" Name="로켓"/>
+    <Elem NameU="Ice Cream" Number="2" Name="아이스크림"/>
+    <Elem NameU="Toy" Name="토이"/>
+    <Elem NameU="Ribbon" Name="리본"/>
+    <Elem NameU="Balloon" Number="2" Name="풍선"/>
+    <Elem NameU="Carousel" Name="회전 목마"/>
+    <Elem NameU="Chocolate" Name="쵸콜렛"/>
+    <Elem NameU="Ice Cream" Name="아이스크림"/>
+    <Elem NameU="Crayfish" Number="3" Name="왕새우"/>
+    <Elem NameU="Fish" Name="생선"/>
+    <Elem NameU="Boy" Name="남자"/>
+    <Elem NameU="Girl" Number="3" Name="여자"/>
+    <Elem NameU="Hanbok" Name="햄버거"/>
+    <Elem NameU="Girl" Number="3" Name="여자"/>
+    <Elem NameU="Boy" Number="2" Name="남자"/>
+    <Elem NameU="Clown" Number="2" Name="광대"/>
+</Lib>

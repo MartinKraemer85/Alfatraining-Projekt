@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="AWS Machine Learning">
+	<Elem NameU="Augmented-AI" Name="Verbesserte künstliche Intelligenz"/>
+	<Elem NameU="CodeGuru" Name="Code Master"/>
+	<Elem NameU="Comprehend" Name="Verstehen"/>
+	<Elem NameU="Elastic-Inference" Name="Flexibles Denken"/>
+	<Elem NameU="Forecast" Name="Prognose"/>
+	<Elem NameU="Fraud-Detector" Name="Betrugsdetektor"/>
+	<Elem NameU="Kendra" Name="zentral"/>
+	<Elem NameU="Lex" Name="Lex"/>
+	<Elem NameU="Personalize" Name="personifizieren"/>
+	<Elem NameU="Polly" Name="Polly"/>
+	<Elem NameU="Rekognition" Name="Anerkennung"/>
+	<Elem NameU="Rekognition_Image" Name="Erkennungsbild"/>
+	<Elem NameU="Rekognition_Video" Name="Erkennungsvideo"/>
+	<Elem NameU="SageMaker" Name="SageMaker"/>
+	<Elem NameU="SageMaker_Model" Name="SageMaker-Modell"/>
+	<Elem NameU="SageMaker_Train" Name="SageMaker Zug"/>
+	<Elem NameU="SageMaker_Notebook" Name="SageMaker-Notizbuch"/>
+	<Elem NameU="SageMaker-Ground-Truth" Name="SageMaker Ground Truth"/>
+	<Elem NameU="Textract" Name="Textract"/>
+	<Elem NameU="Transcribe" Name="Transkribieren"/>
+	<Elem NameU="Translate" Name="Übersetzen"/>
+	<Elem NameU="Apache-MXNet-on-AWS" Name="Apache MXNet unter AWS"/>
+	<Elem NameU="AWS-DeepComposer" Name="AWS DeepComposer"/>
+	<Elem NameU="AWS-DeepComposer_primary-bg" Name="AWS DeepComposer primär"/>
+	<Elem NameU="AWS-Deep-Learning-AMIs" Name="AWS Deep Learning AMIs"/>
+	<Elem NameU="AWS-Deep-Learning-Containers" Name="AWS Deep Learning Container"/>
+	<Elem NameU="AWS-DeepLens" Name="AWS DeepLens"/>
+	<Elem NameU="AWS-DeepRacer" Name="AWS DeepRacer"/>
+	<Elem NameU="Machine-Learning" Name="Maschinelles Lernen"/>
+	<Elem NameU="TensorFlow-on-AWS" Name="TensorFlow auf AWS"/>
+</Lib>

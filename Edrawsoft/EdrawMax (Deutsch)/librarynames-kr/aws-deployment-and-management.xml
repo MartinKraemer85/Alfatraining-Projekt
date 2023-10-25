@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="AWS Deployment and Management">
+    <Elem NameU="CodeDeploy" Name="코드배포"/>
+    <Elem NameU="AWS CloudFormation Stack" Name="AWS 클라우드포메이션 스택"/>
+    <Elem NameU="AWS CloudFormation Template" Name="AWS 클라우드포메이션 템플릿"/>
+    <Elem NameU="AWS CloudFormation" Name="AWS 클라우드포메이션"/>
+    <Elem NameU="AWS Data Pipeline" Name="AWS 데이터 파이프 라인"/>
+    <Elem NameU="CloudTrail" Name="클라우드 트레일"/>
+    <Elem NameU="CloudWatch Alarm" Name="클라우드워치 알람"/>
+    <Elem NameU="CloudWatch" Name="클라우드워치"/>
+    <Elem NameU="Elastic Beanstalk Application" Name="Elastic Beanstalk 응용프로그램"/>
+    <Elem NameU="Elastic Beanstalk Deployment" Name="Elastic Beanstalk 배포"/>
+    <Elem NameU="Elastic Beanstalk" Name="Elastic Beanstalk"/>
+    <Elem NameU="Elastic Beanstalk Container" Name="Elastic Beanstalk 컨테이너"/>
+    <Elem NameU="IAM Add-on" Name="IAM Add-on지령"/>
+    <Elem NameU="IAM Credentials" Name="IAM 증서"/>
+    <Elem NameU="IAM Data Encryption Key" Name="IAM 데이터 암호화 키"/>
+    <Elem NameU="IAM Encrypted Data" Name="IAM 암호화 데이터"/>
+    <Elem NameU="IAM MFA Token" Name="IAM MFA 토큰"/>
+    <Elem NameU="IAM Permissions" Name="IAM 허가"/>
+    <Elem NameU="IAM Roles" Name="IAM 역할"/>
+    <Elem NameU="IAM Security Token Service" Name="IAM 보안 토큰 서비스"/>
+    <Elem NameU="IAM Short Term Credentials" Name="IAM 단기 증서"/>
+    <Elem NameU="IAM STS" Name="IAM STS"/>
+    <Elem NameU="IAM" Name="IAM"/>
+    <Elem NameU="OpsWorks Apps" Name="OpsWorks 응용프로그램"/>
+    <Elem NameU="OpsWorks Deployments" Name="OpsWorks 배포"/>
+    <Elem NameU="OpsWorks Instances" Name="OpsWorks 인스턴스"/>
+    <Elem NameU="OpsWorks Layers" Name="OpsWorks 레이어"/>
+    <Elem NameU="OpsWorks Monitoring" Name="OpsWorks 모니터링"/>
+    <Elem NameU="OpsWorks Permissions" Name="OpsWorks 허가"/>
+    <Elem NameU="OpsWorks Resources" Name="OpsWorks 리소스"/>
+    <Elem NameU="OpsWorks Stack" Name="OpsWorks 스택"/>
+    <Elem NameU="OpsWorks" Name="OpsWorks"/>
+</Lib>

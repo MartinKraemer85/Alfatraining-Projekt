@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Wireframe Icons">
+    <Elem NameU="Sad" Name="悲伤"/>
+    <Elem NameU="Happy" Name="快乐"/>
+    <Elem NameU="Clock" Name="时钟"/>
+    <Elem NameU="Microphone" Name="话筒"/>
+    <Elem NameU="Wifi" Name="无线网络"/>
+    <Elem NameU="Bluetooth" Name="蓝牙"/>
+    <Elem NameU="Battery Half" Name="半电池"/>
+    <Elem NameU="Battery Full" Name="电池已满"/>
+    <Elem NameU="Battery Empty" Name="电池没电"/>
+    <Elem NameU="Battery" Name="电池"/>
+    <Elem NameU="Warning" Name="警告"/>
+    <Elem NameU="Computer" Name="电脑类"/>
+    <Elem NameU="Share" Name="分享"/>
+    <Elem NameU="List" Name="列表"/>
+    <Elem NameU="Star 1" Name="星星 1"/>
+    <Elem NameU="Star 2" Name="星星 2"/>
+    <Elem NameU="Add" Name="添加"/>
+    <Elem NameU="Add 2" Name="添加 2"/>
+    <Elem NameU="Flag 1" Name="旗帜 1"/>
+    <Elem NameU="Flag 2" Name="旗帜 2"/>
+    <Elem NameU="Female" Name="女性"/>
+    <Elem NameU="Male" Name="男性"/>
+    <Elem NameU="Apple" Name="苹果"/>
+    <Elem NameU="Android" Name="安卓"/>
+    <Elem NameU="User 1" Name="用户 1"/>
+    <Elem NameU="User 2" Name="用户 2"/>
+    <Elem NameU="Users 1" Name="用户 3"/>
+    <Elem NameU="Users 2" Name="用户 4"/>
+    <Elem NameU="Person Add 1" Name="个人添加1"/>
+    <Elem NameU="Person Add 2" Name="个人添加2"/>
+    <Elem NameU="Remove Person 1" Name="移除人员1"/>
+    <Elem NameU="Remove Person 2" Name="移除人员2"/>
+    <Elem NameU="Sun 1" Name="太阳 1"/>
+    <Elem NameU="Sun 2" Name="太阳 2"/>
+    <Elem NameU="Cloud 1" Name="云 1"/>
+    <Elem NameU="Cloud 2" Name="云 2"/>
+    <Elem NameU="Sun with Cloud 1" Name="带云的太阳1"/>
+    <Elem NameU="Sun with Cloud 2" Name="带云的太阳2"/>
+    <Elem NameU="Cloudy" Name="多云"/>
+    <Elem NameU="Cloudy 2" Name="多云2"/>
+    <Elem NameU="Thunderstorm" Name="雷雨"/>
+    <Elem NameU="Snowflake" Name="雪花"/>
+    <Elem NameU="Rainy 1" Name="多雨 1"/>
+    <Elem NameU="Rainy 2" Name="多雨 2"/>
+    <Elem NameU="Upload To Cloud" Name="上传到云"/>
+    <Elem NameU="Cloud Download" Name="云下载"/>
+    <Elem NameU="Moon 1" Name="月亮 1"/>
+    <Elem NameU="Moon 2" Name="月亮 2"/>
+    <Elem NameU="Moon 3" Name="月亮 3"/>
+    <Elem NameU="Moon 4" Name="月亮 4"/>
+    <Elem NameU="Phone 1" Name="电话 1"/>
+    <Elem NameU="Phone 2" Name="电话 2"/>
+    <Elem NameU="Chat Bubbles 1" Name="聊天气泡 1"/>
+    <Elem NameU="Chat Bubbles 2" Name="聊天气泡 2"/>
+    <Elem NameU="Chat Bubble" Name="聊天气泡"/>
+    <Elem NameU="Arrow" Name="箭头"/>
+    <Elem NameU="Timer 1" Name="时间 1"/>
+    <Elem NameU="Timer 2" Name="时间 2"/>
+    <Elem NameU="Stopwatch" Name="秒表"/>
+    <Elem NameU="World" Name="地球"/>
+    <Elem NameU="Icon" Name="符号"/>
+    <Elem NameU="Navigate 1" Name="导航 1"/>
+    <Elem NameU="Navigate 2" Name="导航 2"/>
+    <Elem NameU="Navigate 3" Name="导航 3"/>
+    <Elem NameU="location" Name="位置"/>
+    <Elem NameU="Search 1" Name="搜索 1"/>
+    <Elem NameU="Search 2" Name="搜索 2"/>
+    <Elem NameU="Icon" Number="2" Name="符号"/>
+    <Elem NameU="Gear 1" Name="1档"/>
+    <Elem NameU="Gear 2" Name="2档"/>
+    <Elem NameU="Video Cam" Number="2" Name="摄像机"/>
+    <Elem NameU="Camera" Name="照相机"/>
+    <Elem NameU="Picture" Name="图片"/>
+    <Elem NameU="Keyboard 1" Name="键盘1"/>
+    <Elem NameU="Keyboard 2" Name="键盘2"/>
+    <Elem NameU="Time 2" Number="2" Name="时间 2"/>
+    <Elem NameU="Notifications 1" Name="通知 1"/>
+    <Elem NameU="Notifications 2" Name="通知 2"/>
+    <Elem NameU="APP Windows 1" Name="应用程序窗口 1"/>
+    <Elem NameU="APP Windows 2" Name="应用程序窗口 2"/>
+    <Elem NameU="Volume Up 1" Name="音量增大1"/>
+    <Elem NameU="Volume Up 2" Name="音量增大2"/>
+    <Elem NameU="Mute" Name="静音"/>
+    <Elem NameU="Folder 1" Name="文件夹1"/>
+    <Elem NameU="Folder 2" Name="文件夹2"/>
+    <Elem NameU="folder" Name="文件夹"/>
+    <Elem NameU="Add Folder" Name="添加文件夹"/>
+    <Elem NameU="Delete Folder" Name="删除文件夹"/>
+    <Elem NameU="Add Folder" Name="添加文件夹"/>
+    <Elem NameU="Delete Folder" Name="删除文件夹"/>
+    <Elem NameU="Find File" Name="查找文件"/>
+    <Elem NameU="File" Name="文件"/>
+    <Elem NameU="Checkmark 1" Name="复选标记 1"/>
+    <Elem NameU="Checkmark 2" Name="复选标记 2"/>
+    <Elem NameU="Icon" Number="2" Name="符号"/>
+    <Elem NameU="Music 1" Name="音乐 1"/>
+    <Elem NameU="Music 2" Name="音乐 2"/>
+    <Elem NameU="Music 3" Name="音乐 3"/>
+    <Elem NameU="Music Add" Name="添加音乐"/>
+    <Elem NameU="Remove Music" Name="删除音乐"/>
+    <Elem NameU="Earphone" Name="耳机"/>
+    <Elem NameU="Speech" Name="演讲"/>
+    <Elem NameU="Notification" Name="通知"/>
+    <Elem NameU="Notification Off" Name="通知关闭"/>
+    <Elem NameU="Icon" Number="2" Name="符号"/>
+    <Elem NameU="Document 1" Name="文件1"/>
+    <Elem NameU="Document 2" Name="文件2"/>
+    <Elem NameU="Documents 1" Name="文件1"/>
+    <Elem NameU="Documents 2" Name="文件1"/>
+    <Elem NameU="File 1" Name="文件1"/>
+    <Elem NameU="File 2" Name="文件2"/>
+    <Elem NameU="Add File" Name="添加文件"/>
+    <Elem NameU="Delete File" Name="删除文件"/>
+    <Elem NameU="Switch 1" Name="开关 1"/>
+    <Elem NameU="Switch 2" Name="开关 2"/>
+    <Elem NameU="Power 1" Name="电源 1"/>
+    <Elem NameU="Power 2" Name="电源 2"/>
+    <Elem NameU="Information 1" Name="消息 1"/>
+    <Elem NameU="Information 2" Name="消息 2"/>
+    <Elem NameU="Contrast" Name="对比度"/>
+    <Elem NameU="Eye" Name="眼睛"/>
+    <Elem NameU="Book 1" Name="书 1"/>
+    <Elem NameU="Book 2" Name="书 2"/>
+    <Elem NameU="Heart 1" Name="心 1"/>
+    <Elem NameU="Heart 2" Name="心 2"/>
+    <Elem NameU="Add" Name="添加"/>
+    <Elem NameU="Delete" Name="删除"/>
+    <Elem NameU="Correct" Name="对的"/>
+    <Elem NameU="Close" Name="关闭"/>
+    <Elem NameU="Right" Name="右"/>
+    <Elem NameU="Left" Name="左"/>
+    <Elem NameU="Down" Name="向下"/>
+    <Elem NameU="Up" Name="向上"/>
+    <Elem NameU="Left" Name="左"/>
+    <Elem NameU="Right" Name="右"/>
+    <Elem NameU="Up" Name="向上"/>
+    <Elem NameU="Down" Name="向下"/>
+    <Elem NameU="Icon" Number="2" Name="符号"/>
+    <Elem NameU="Left" Name="左"/>
+    <Elem NameU="Right" Name="右"/>
+    <Elem NameU="Up" Name="向上"/>
+    <Elem NameU="Down" Name="向下"/>
+    <Elem NameU="Right" Name="右"/>
+    <Elem NameU="Left" Name="左"/>
+    <Elem NameU="Up" Name="向上"/>
+    <Elem NameU="Down" Name="向下"/>
+    <Elem NameU="Download" Name="下载"/>
+    <Elem NameU="UPLOAD" Name="上传"/>
+    <Elem NameU="Icon" Number="2" Name="符号"/>
+    <Elem NameU="Bar Chart 1" Name="条形图1"/>
+    <Elem NameU="Bar Chart 2" Name="条形图2"/>
+    <Elem NameU="Pause 1" Name="暂停1"/>
+    <Elem NameU="Pause 2" Name="暂停2"/>
+    <Elem NameU="Check Square" Name="方格"/>
+    <Elem NameU="Download" Name="下载"/>
+    <Elem NameU="Upload" Name="上传"/>
+    <Elem NameU="Icon" Number="4" Name="符号"/>
+    <Elem NameU="Calculator" Name="计算器"/>
+    <Elem NameU="Trash Bin" Name="垃圾箱"/>
+    <Elem NameU="FlashLight" Name="手电筒"/>
+    <Elem NameU="Bulb" Name="灯泡"/>
+    <Elem NameU="Home" Name="房子"/>
+    <Elem NameU="Trash" Name="废物箱"/>
+    <Elem NameU="Wall" Name="Wall"/>
+    <Elem NameU="Gift" Name="礼物"/>
+    <Elem NameU="Glasses" Name="玻璃杯"/>
+    <Elem NameU="Jigsaw" Name="拼图"/>
+    <Elem NameU="Hourglasses" Name="沙漏"/>
+    <Elem NameU="Water Drop" Name="水滴"/>
+    <Elem NameU="Plug" Name="插头"/>
+    <Elem NameU="Keyboard" Name="键盘"/>
+    <Elem NameU="Windows" Name="窗口"/>
+    <Elem NameU="Film 1" Name="电影1"/>
+    <Elem NameU="Film 2" Name="电影2"/>
+    <Elem NameU="Projector" Name="投影机"/>
+    <Elem NameU="Radio" Name="收音机"/>
+    <Elem NameU="Shopping Cart" Name="购物车"/>
+    <Elem NameU="Calendar" Name="日历"/>
+    <Elem NameU="Airplane" Name="飞机"/>
+    <Elem NameU="Plane" Name="飞机"/>
+    <Elem NameU="Rocket" Name="火箭"/>
+    <Elem NameU="Hand" Name="手"/>
+    <Elem NameU="Thumb Up" Name="竖起大拇指"/>
+    <Elem NameU="Thumb Down" Name="拇指朝下"/>
+    <Elem NameU="Wrench" Name="扳手"/>
+    <Elem NameU="Icon" Name="符号"/>
+    <Elem NameU="Attachment" Name="附件"/>
+    <Elem NameU="Navigation" Name="导航"/>
+    <Elem NameU="Icon" Name="符号"/>
+    <Elem NameU="Apps" Name="应用程序"/>
+    <Elem NameU="Options" Name="选项"/>
+    <Elem NameU="Menu 1" Name="菜单 1"/>
+    <Elem NameU="Menu 2" Name="菜单 2"/>
+    <Elem NameU="Menu 3" Name="菜单 3"/>
+    <Elem NameU="Email" Name="电子邮件"/>
+    <Elem NameU="lock 1" Name="锁 1"/>
+    <Elem NameU="lock 2" Name="锁 2&#x9;"/>
+    <Elem NameU="Compose" Name="撰写"/>
+    <Elem NameU="Sent" Name="发送"/>
+    <Elem NameU="Personal Hotspot" Name="个人热点"/>
+    <Elem NameU="Link" Name="链接"/>
+    <Elem NameU="Icon" Name="符号"/>
+    <Elem NameU="Left" Name="左"/>
+    <Elem NameU="Synchronize" Name="同步"/>
+    <Elem NameU="Refresh" Name="刷新"/>
+    <Elem NameU="Icon" Name="符号"/>
+    <Elem NameU="Orientation Lock" Name="定向锁"/>
+    <Elem NameU="Sorting" Name="排序"/>
+    <Elem NameU="Data Sharing" Name="数据共享"/>
+    <Elem NameU="Arrow Swap 3" Name="箭头交换3"/>
+    <Elem NameU="Repeat" Name="重复"/>
+    <Elem NameU="Sorting" Name="排序"/>
+    <Elem NameU="Data Sharing" Name="数据共享"/>
+    <Elem NameU="Shuffle" Name="变换位置"/>
+    <Elem NameU="Icon" Number="2" Name="符号"/>
+    <Elem NameU="Undo" Name="撤消"/>
+    <Elem NameU="Redo" Name="重做"/>
+    <Elem NameU="Graph" Name="图表"/>
+    <Elem NameU="Icon" Name="符号"/>
+    <Elem NameU="Thermometer" Name="温度计"/>
+    <Elem NameU="Icon" Name="符号"/>
+    <Elem NameU="Expand 1" Name="展开 1"/>
+    <Elem NameU="Expand 2" Name="展开 2"/>
+    <Elem NameU="Crop" Name="庄稼"/>
+    <Elem NameU="Quotation marks" Name="引号"/>
+    <Elem NameU="Icon" Name="符号"/>
+    <Elem NameU="at" Name="at"/>
+    <Elem NameU="Facebook" Name="脸书"/>
+    <Elem NameU="Skype" Name="视频电话"/>
+    <Elem NameU="Icon" Number="2" Name="符号"/>
+    <Elem NameU="Google" Name="谷歌"/>
+    <Elem NameU="Yahoo" Name="雅虎"/>
+    <Elem NameU="Target" Name="目标"/>
+</Lib>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="VHF-UHF-SHF">
+    <Elem NameU="Directional coupler" Name="방향성 결합기"/>
+    <Elem NameU="Mode suppressor" Name="모드 혼신 방지 장치"/>
+    <Elem NameU="Mode filter" Name="모드 필터"/>
+    <Elem NameU="Mode filter indication" Name="모드 필터 표시"/>
+    <Elem NameU="Discontinuity" Name="불연속"/>
+    <Elem NameU="Equivalent series" Name="동등한 시리즈"/>
+    <Elem NameU="Equivalent shunt" Name="동등한 션트"/>
+    <Elem NameU="Capacitive reactance" Name="용량성 리액턴스"/>
+    <Elem NameU="Inductive reactance" Name="유도성 리액턴스"/>
+    <Elem NameU="Inductance capacitance" Name="인덕턴스 커패시턴스"/>
+    <Elem NameU="Resistance" Name="저항"/>
+    <Elem NameU="E-H tuner" Name="E-H 튜너"/>
+    <Elem NameU="Conductance" Name="컨덕턴스"/>
+    <Elem NameU="Inductive susceptance" Name="유도성 서셉턴스"/>
+    <Elem NameU="Capacitive susceptance" Name="용량성 서셉턴스"/>
+    <Elem NameU="Slide screw tuner" Name="슬라이드 나선 튜너"/>
+    <Elem NameU="Multistub tuner" Name="다중 스텁 튜너"/>
+    <Elem NameU="Power divider" Name="전력 분배기"/>
+    <Elem NameU="Three-port junction" Name="3 포트 접합"/>
+    <Elem NameU="Four-port junction" Name="4 포트 접합"/>
+    <Elem NameU="Rotary joint" Name="회전식 이음"/>
+    <Elem NameU="Isolator" Name="절연체"/>
+    <Elem NameU="Phase shifter" Name="위상 변환기"/>
+    <Elem NameU="Gyrator" Name="자이레이터"/>
+    <Elem NameU="Circulator fixed" Name="고정 순환기"/>
+    <Elem NameU="Circulator reversible" Name="가역 순환기"/>
+    <Elem NameU="Shortcut to Field polarization rotator" Name="편파 회전자"/>
+    <Elem NameU="Field polarization amplitude modulator" Name="편파 진폭 변조기"/>
+    <Elem NameU="Resonator" Name="공진기"/>
+    <Elem NameU="Slow-wave coupler" Name="Slow-wave 결합기"/>
+    <Elem NameU="Helical coupler" Name="나사선 결합기"/>
+    <Elem NameU="Balun" Name="발룬"/>
+    <Elem NameU="Frequency filter" Name="주파수 필터"/>
+    <Elem NameU="Phase shifter (matched)" Name="위상 변환기"/>
+    <Elem NameU="Ferrite bead ring" Name="페라이트 비드 링"/>
+    <Elem NameU="Line stretcher" Name="선 스트레처"/>
+    <Elem NameU="Maser" Name="메이저"/>
+    <Elem NameU="Maser amplifier" Name="메이저 증폭기"/>
+    <Elem NameU="Laser" Name="레이저"/>
+    <Elem NameU="Laser generator" Name="레이저 발생기"/>
+    <Elem NameU="Ruby laser" Name="루비 레이저"/>
+</Lib>

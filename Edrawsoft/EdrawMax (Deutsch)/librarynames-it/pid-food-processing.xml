@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="PID Food Processing">
+	<Elem NameU="Batch fluid bed processor" Name="Elaboratore di Fluidi"/>
+	<Elem NameU="Beer bottle" Name="Bottiglia di birra"/>
+	<Elem NameU="Beer can" Name="Lattina di birra"/>
+	<Elem NameU="Colloid mill" Name="Frantoio colloide"/>
+	<Elem NameU="Concentrate dispenser" Name="Dosatore concentrato"/>
+	<Elem NameU="Cross belt separator" Name="Separatore a nastri incrociati"/>
+	<Elem NameU="Drum magnet" Name="Magnete a tamburo"/>
+	<Elem NameU="Fermentation" Name="Fermentazione"/>
+	<Elem NameU="Filter system" Name="Sistema di filtraggio"/>
+	<Elem NameU="Food processing" Name="Lavorazione alimenti"/>
+	<Elem NameU="Grain silo 1" Name="Silo per cereali 1"/>
+	<Elem NameU="Grain silo 2" Name="Silo per cereali 2"/>
+	<Elem NameU="Inline mixer emulsifier" Name="Emulsionante-miscelatore in linea"/>
+	<Elem NameU="Magnetic liquid trap" Name="Scaricatore dei liquidi"/>
+	<Elem NameU="Micro flowmeter" Name="Micro-flussimetro"/>
+	<Elem NameU="Milk carton" Name="Cartone del latte"/>
+	<Elem NameU="Mixer" Name="Miscelatore"/>
+	<Elem NameU="Mixing hopper" Name="Tramoggia miscelatrice"/>
+	<Elem NameU="Nitrogen generator" Name="Generatore di azoto"/>
+	<Elem NameU="Oven system" Name="Sistema di forni"/>
+	<Elem NameU="Power and liquid mixer" Name="Miscelatore di liquidi"/>
+	<Elem NameU="Sanitary air filter" Name="Filtro dell'aria sanitario"/>
+	<Elem NameU="Sanitary heater" Name="Riscaldatore sanitario"/>
+	<Elem NameU="Sanitary inline mixer" Name="Miscelatore in linea sanitario"/>
+	<Elem NameU="Sanitary transfer pump" Name="Pompa di trasferimento sanitaria"/>
+	<Elem NameU="Screen separator" Name="Separatore di copertura"/>
+	<Elem NameU="Separator" Name="Separatore"/>
+	<Elem NameU="Shell and tube heat transfer" Name="Scambiatore a fascio tubiero e mantello"/>
+	<Elem NameU="Stainless steel blender (closed)" Name="Miscelatore in acciaio inossidabile (chiuso)"/>
+	<Elem NameU="Stainless steel blender（open）" Name="Miscelatore in acciaio inossidabile (aperto)"/>
+	<Elem NameU="Stainless steel hopper" Name="Tramoggia in acciaio inossidabile"/>
+	<Elem NameU="Stainless steel speed reducer1" Name="Riduttore di velocità in acciaio inossidabile 1"/>
+	<Elem NameU="Stainless steel speed reducer2" Name="Riduttore di velocità in acciaio inossidabile 2"/>
+	<Elem NameU="Standard ribbon  mixer" Name="Miscelatore a nastro standard"/>
+	<Elem NameU="Tray sealer" Name="Termosigillatrice"/>
+	<Elem NameU="Tube in tube heat transfer" Name="Scambiatore tubiero"/>
+	<Elem NameU="Turbo emulsifier " Name="Turbo-Emulsionatore"/>
+	<Elem NameU="Vacuum mixer blender" Name="Miscelatore a vuoto"/>
+	<Elem NameU="Vacuum stuffer" Name="Macchina di riempimento a vuoto"/>
+	<Elem NameU="Vacuum system" Name="Sistema a vuoto"/>
+	<Elem NameU="Vertical blender" Name="Miscelatore a vuoto"/>
+	<Elem NameU="Viscosity meter" Name="Frullatore a vuoto"/>
+	<Elem NameU="Superfine soybean processing system" Name="Sistema di lavorazione dei fagioli di soia"/>
+	<Elem NameU="Hardening and Tempering System" Name="Sistema di tempra e rinvenimento"/>
+	<Elem NameU="Lagena" Name="Lagena"/>
+	<Elem NameU="Filter unit" Name="Unità di filtraggio"/>
+</Lib>

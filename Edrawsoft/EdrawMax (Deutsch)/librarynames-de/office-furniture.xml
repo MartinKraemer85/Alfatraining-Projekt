@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Office Furniture">
+
+<Elem Name="Einzelne Kabine" NameU="Single Cubicle"/>
+
+<Elem Name="2-Sitze Kabine" NameU="Two Seats Cubicle"/>
+
+<Elem Name="Kabine" NameU="Cubicle"/>
+
+<Elem Name="Gerader Arbeitstisch" NameU="Straight workstation"/>
+
+<Elem Name="Rat-Arbeitsplatz" NameU="Council workstation"/>
+
+<Elem Name="L-Arbeitsplatz" NameU="L workstation"/>
+
+<Elem Name="Tisch" NameU="Table"/>
+
+<Elem Name="Rundtisch" NameU="Round table"/>
+
+<Elem Name="Schreibtisch" NameU="Desk"/>
+
+<Elem Name="Tisch 2" NameU="Racetrack table"/>
+
+<Elem Name="Tisch 3" NameU="Boat table"/>
+
+<Elem Name="4 Sitze Tisch" NameU="4 seat table"/>
+
+<Elem Name="6 Sitze Tisch" NameU="6 seat table"/>
+
+<Elem Name="8 Sitze Tisch" NameU="8 seat table"/>
+
+<Elem Name="10 Sitze Rundtisch" NameU="10 seat rounded table"/>
+
+<Elem Name="10 Sitze Tisch" NameU="10 seat boat table"/>
+
+<Elem Name="10 Sitze Tisch" NameU="10 seat table"/>
+
+<Elem Name="12 Sitze Tisch" NameU="12 seat table"/>
+
+<Elem Name="Rundtisch mit mehreren Stühlen" NameU="Multi-chair round table"/>
+
+<Elem Name="Ecktisch" NameU="Corner table"/>
+
+<Elem Name="Runde Ecke" NameU="Round corner"/>
+
+<Elem Name="Arbeitsfläche" NameU="Work surface"/>
+
+<Elem Name="Ecke Oberfläche" NameU="Corner surface"/>
+
+<Elem Name="Arbeit Halbinsel" NameU="Work peninsula"/>
+
+<Elem Name="Bücherregal" NameU="Bookshelf"/>
+
+<Elem Name="Anrichte" NameU="Credenza"/>
+
+<Elem Name="Sockel" NameU="Pedestal"/>
+
+<Elem Name="Schrank 1" NameU="Cabinet"/>
+
+<Elem Name="Speichereinheit" NameU="Storage unit"/>
+
+<Elem Name="Hängende Garderobe" NameU="Susp coat bar"/>
+
+<Elem Name="Offener Schrank" NameU="Susp open shelf"/>
+
+<Elem Name="Horizontal liegende Akte" NameU="Suspended lateral file"/>
+
+<Elem Name="Datei" NameU="File"/>
+
+<Elem Name="Laterale Datei" NameU="Lateral file"/>
+
+<Elem Name="Flache Datei" NameU="Flat file"/>
+
+<Elem Name="Drehstuhl" NameU="Swivel tilt chair"/>
+
+<Elem Name="2 Sitze Sofa" NameU="2 seat sofa"/>
+
+<Elem Name="3 Sitze Sofa" NameU="3 seat sofa"/>
+
+<Elem Name="4 Sitze Sofa" NameU="4 seat sofa"/>
+
+<Elem Name="90 Grad Tisch" NameU="90 deg table"/>
+
+<Elem Name="Stuhl" NameU="Chair"/>
+
+<Elem Name="30 Grad Sitze" NameU="30 deg seat"/>
+
+<Elem Name="Schreibtischstuhl" NameU="Desk chair"/>
+
+<Elem Name="Hoher Hocker" NameU="High stool"/>
+
+<Elem Name="Hocker" NameU="Stool"/>
+
+<Elem Name="Platte" NameU="Panel"/>
+
+<Elem Name="2 Platte" NameU="2 panel"/>
+
+<Elem Name="3 Platte" NameU="3 panel"/>
+
+<Elem Name="4 Platte" NameU="4 panel"/>
+
+<Elem Name="Kreuzbahnen" NameU="Cross panel"/>
+
+<Elem Name="Tisch mit 16 Sitzplätzen" NameU="16 seat table"/>
+
+</Lib>

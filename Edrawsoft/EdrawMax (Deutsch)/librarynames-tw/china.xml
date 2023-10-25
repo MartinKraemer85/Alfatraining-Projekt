@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="China">
+    <Elem NameU="Anhui" Name="安徽"/>
+    <Elem NameU="Macao" Name="澳門"/>
+    <Elem NameU="Beijing" Name="北京"/>
+    <Elem NameU="Chongqing" Name="重慶"/>
+    <Elem NameU="Fujian" Name="福建"/>
+    <Elem NameU="Gansu" Name="甘肅"/>
+    <Elem NameU="Guangdong" Name="廣東"/>
+    <Elem NameU="Guangxi" Name="廣西"/>
+    <Elem NameU="Guizhou" Name="貴州"/>
+    <Elem NameU="Hainan" Name="海南"/>
+    <Elem NameU="Hebei" Name="河北"/>
+    <Elem NameU="Heilongjiang" Name="黑龍江"/>
+    <Elem NameU="Henan" Name="河南"/>
+    <Elem NameU="Hubei" Name="湖北"/>
+    <Elem NameU="Hunan" Name="湖南"/>
+    <Elem NameU="Jiangsu" Name="江蘇"/>
+    <Elem NameU="Jiangxi" Name="江西"/>
+    <Elem NameU="Jilin" Name="吉林"/>
+    <Elem NameU="Liaoning" Name="遼寧"/>
+    <Elem NameU="Neimenggu" Name="內蒙古"/>
+    <Elem NameU="Ningxia" Name="寧夏"/>
+    <Elem NameU="Qinghai" Name="青海"/>
+    <Elem NameU="Shanxi" Name="陝西"/>
+    <Elem NameU="Shandong" Name="山東"/>
+    <Elem NameU="Shanxi" Name="山西"/>
+    <Elem NameU="Sichuan" Name="四川"/>
+    <Elem NameU="Shanghai" Name="上海"/>
+    <Elem NameU="Taiwan" Name="台灣"/>
+    <Elem NameU="Tianjin" Name="天津"/>
+    <Elem NameU="Hong Kong" Name="香港"/>
+    <Elem NameU="Xinjiang" Name="新疆"/>
+    <Elem NameU="Tibet" Name="西藏"/>
+    <Elem NameU="Yunnan" Name="雲南"/>
+    <Elem NameU="Zhejiang" Name="浙江"/>
+    <Elem NameU="Chinese Map" Name="中國地圖"/>
+</Lib>

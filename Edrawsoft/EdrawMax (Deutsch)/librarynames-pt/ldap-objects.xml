@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="LDAP Objects">
+	<Elem NameU="Country" Name="País"/>
+	<Elem NameU="Organization" Name="Organização"/>
+	<Elem NameU="Organizational unit" Name="Unidade organizacional"/>
+	<Elem NameU="Locality" Name="Localidade"/>
+	<Elem NameU="Alias" Name="Pseudônimo"/>
+	<Elem NameU="Person" Name="Pessoa"/>
+	<Elem NameU="inetOrg Person" Name="Pessoa inetOrg"/>
+	<Elem NameU="Organizational person" Name="Pessoa organizacional"/>
+	<Elem NameU="Residential person" Name="Pessoa residencial"/>
+	<Elem NameU="Organizational role" Name="Papel organizacional"/>
+	<Elem NameU="Group of names" Name="Grupo de nomes"/>
+	<Elem NameU="Group of unique names" Name="Grupo de nomes únicos"/>
+	<Elem NameU="Device" Name="Dispositivo"/>
+	<Elem NameU="cRL distribution point" Name="Ponto de distribuição cRL"/>
+	<Elem NameU="dSA" Name="dSA"/>
+	<Elem NameU="dmd" Name="dmd"/>
+	<Elem NameU="Application entity" Name="Entidade de aplicação"/>
+	<Elem NameU="Application process" Name="Processo de aplicação"/>
+	<Elem NameU="Unknow" Name="Desconhecido"/>
+	<Elem NameU="Generic object" Name="Objeto genérico"/>
+	<Elem NameU="Directory Connector" Name="Conector de Diretório"/>
+</Lib>

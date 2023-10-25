@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Electrical and Telecom">
+    <Elem NameU="Electrical switchbox" Name="电气开关盒"/>
+    <Elem NameU="Single pole switch" Name="单极开关"/>
+    <Elem NameU="Three-way switch" Name="三路开关"/>
+    <Elem NameU="1P switch" Name="1P 开关"/>
+    <Elem NameU="2P switch" Name="2P 开关"/>
+    <Elem NameU="4P switch" Name="4P 开关"/>
+    <Elem NameU="1DP switch" Name="1DP 开关"/>
+    <Elem NameU="2DP switch" Name="2DP 开关"/>
+    <Elem NameU="Water tap" Name="水龙头"/>
+    <Elem NameU="Lum. ceiling mount" Name="顶灯底座"/>
+    <Elem NameU="Encl ceiling lum" Name="隐形式顶灯"/>
+    <Elem NameU="Wall light" Name="壁灯"/>
+    <Elem NameU="Circuit breaker" Name="断路器"/>
+    <Elem NameU="Multi-light bar" Name="多灯灯柱"/>
+    <Elem NameU="Light bar" Name="灯柱"/>
+    <Elem NameU="Downlight" Name="下照灯"/>
+    <Elem NameU="Outdoor lighting" Name="户外照明"/>
+    <Elem NameU="Singleplex receptacle" Name="单孔插座"/>
+    <Elem NameU="Duplex receptacle" Name="双孔插座"/>
+    <Elem NameU="Double Duplex Receptacle Outlet(Quad)" Name="两排双孔插座（四）"/>
+    <Elem NameU="Triplex Receptacle Outlet" Name="三孔插座"/>
+    <Elem NameU="Fourplex receptacle" Name="四孔插座"/>
+    <Elem NameU="Range Outlet" Name="炉灶插座"/>
+    <Elem NameU="Dryer Outlet" Name="烘干机插座"/>
+    <Elem NameU="Waterproof Receptacle Outlet" Name="防水插座"/>
+    <Elem NameU="Switch and Convenience Outlet" Name="带开关的便利插座"/>
+    <Elem NameU="Split Wired Duplex Outlet" Name="分割线双插座"/>
+    <Elem NameU="Split Wired Triplex Outlet" Name="分割线三孔插座"/>
+    <Elem NameU="Duplex Special Purpose Outlet" Name="双孔专用插座"/>
+    <Elem NameU="Dishwasher Outlet" Name="洗碗机插座"/>
+    <Elem NameU="Drop Cord" Name="悬垂照明电线"/>
+    <Elem NameU="Fan Outlet" Name="风扇插座"/>
+    <Elem NameU="Junction Box" Name="接线盒"/>
+    <Elem NameU="Lamp Holder" Name="灯座"/>
+    <Elem NameU="Lamp Holder with Pull Switch" Name="配拉线开关的灯座"/>
+    <Elem NameU="Pull Switch" Name="拉线开关"/>
+    <Elem NameU="Vapor Discharge Lamp Switch" Name="蒸气放电灯开关"/>
+    <Elem NameU="Exit Light Outlet" Name="安全出口灯出线口"/>
+    <Elem NameU="Clock Outlet" Name="时钟出线口"/>
+    <Elem NameU="Blanked Outlet" Name="弃用的插座"/>
+    <Elem NameU="Television Outlet" Name="电视接收插座"/>
+    <Elem NameU="Exhaust Fan" Name="排气扇"/>
+    <Elem NameU="Water Heater" Name="热水器"/>
+    <Elem NameU="Telephone Jack" Name="电话插孔"/>
+    <Elem NameU="Electrical Panel" Name="配电板"/>
+    <Elem NameU="Battery" Name="电池"/>
+    <Elem NameU="Batten fluores" Name="条式荧光光灯"/>
+    <Elem NameU="Distribution box" Name="配电箱"/>
+    <Elem NameU="Modular fluores" Name="模块式荧光灯"/>
+    <Elem NameU="Office fluores" Name="办公室荧光灯"/>
+    <Elem NameU="Pull-cord switch" Name="拉绳开关"/>
+    <Elem NameU="Emerg. light" Name="紧急灯"/>
+    <Elem NameU="Emerg. sign" Name="紧急标志"/>
+    <Elem NameU="Switches" Name="开关"/>
+    <Elem NameU="Dimmer switch" Name="调光器切换"/>
+    <Elem NameU="Socket outlet" Name="插座"/>
+    <Elem NameU="Socket outlet 2" Name="插座 2"/>
+    <Elem NameU="Telephone outlet" Name="电话线输出口"/>
+    <Elem NameU="Stereo outlet" Name="立体声输出口"/>
+    <Elem NameU="Ceiling fan" Number="2" Name="吊扇"/>
+    <Elem NameU="Combination fan" Name="组合风扇"/>
+    <Elem NameU="Service panels" Name="服务面板"/>
+    <Elem NameU="Thermostat" Name="调温器"/>
+    <Elem NameU="Air conditioning" Name="空调"/>
+    <Elem NameU="Hold open unit" Name="常开部分"/>
+    <Elem NameU="Detector" Name="探测器"/>
+    <Elem NameU="Fire alarm" Name="火警"/>
+    <Elem NameU="Monitor" Name="监视器"/>
+    <Elem NameU="Alarm" Name="警铃"/>
+    <Elem NameU="Doorbell" Name="门铃"/>
+    <Elem NameU="Smoke detector" Name="烟雾报警器"/>
+    <Elem NameU="Household Circuit Breaker Box" Name="家用断路器"/>
+    <Elem NameU="Call" Name="电话"/>
+    <Elem NameU="Tel" Name="电话"/>
+    <Elem NameU="Main control" Name="主控设备"/>
+    <Elem NameU="Ground" Name="地线"/>
+    <Elem NameU="Line" Name="电线"/>
+    <Elem NameU="Wire" Name="电线"/>
+    <Elem NameU="Cut line" Number="2" Name="剖切线"/>
+</Lib>

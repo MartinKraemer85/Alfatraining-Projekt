@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Office Equipment">
+    <Elem NameU="Desktop pc" Name="臺式電腦"/>
+    <Elem NameU="PC" Name="PC端"/>
+    <Elem NameU="Telephone" Name="電話"/>
+    <Elem NameU="Phone" Name="手機"/>
+    <Elem NameU="Fax" Name="傳真"/>
+    <Elem NameU="PC Monitor" Name="PC顯示器"/>
+    <Elem NameU="Keyboard" Name="鍵盤"/>
+    <Elem NameU="Tower PC" Name="立式電腦"/>
+    <Elem NameU="Mouse" Name="鼠標"/>
+    <Elem NameU="Modem" Name="調製解調器"/>
+    <Elem NameU="Scanner" Name="掃描儀"/>
+    <Elem NameU="Printer" Name="列印機"/>
+    <Elem NameU="Xerox" Name="複印"/>
+    <Elem NameU="Plotter" Name="繪圖儀"/>
+    <Elem NameU="Document Shredder" Name="碎紙機"/>
+    <Elem NameU="Router" Name="路由器"/>
+    <Elem NameU="Switch" Name="開關"/>
+    <Elem NameU="Wireless Hub" Name="無線集線器"/>
+    <Elem NameU="Hub" Name="集線器"/>
+    <Elem NameU="Office Lamp" Name="辦公室燈"/>
+    <Elem NameU="Projector" Name="投影儀"/>
+    <Elem NameU="Overhead Projector" Name="高架投影機"/>
+    <Elem NameU="Projector Screen" Name="投影幕"/>
+    <Elem NameU="Marker Board" Name="標誌板"/>
+    <Elem NameU="Plasma Panel" Name="等離子面板"/>
+    <Elem NameU="Cash Register" Name="收音機"/>
+    <Elem NameU="POS-Terminal" Name="POS終端"/>
+    <Elem NameU="Paper Tray" Name="紙盒"/>
+    <Elem NameU="Coat Rack" Name="衣帽架"/>
+    <Elem NameU="Square Waste Can" Name="廢紙簍"/>
+</Lib>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Miscellaneous Flowchart Shapes">
+    <Elem NameU="Start/Node" Name="开始/节点"/>
+    <Elem NameU="End/Node" Name="结束/节点"/>
+    <Elem NameU="Process(circle)" Name="流程(圆形)"/>
+    <Elem NameU="Data store" Number="2" Name="数据存储"/>
+    <Elem NameU="External entity" Name="外部实体"/>
+    <Elem NameU="Transmittal tape" Name="传输磁带"/>
+    <Elem NameU="Divided process" Name="分段流程"/>
+    <Elem NameU="Divided event" Name="分开事件"/>
+    <Elem NameU="Rounded process" Name="圆角流程"/>
+    <Elem NameU="Create request" Name="创建请求"/>
+    <Elem NameU="Framed rectangle" Name="带框架的矩形"/>
+    <Elem NameU="Opened rectangle" Name="开放式矩形"/>
+    <Elem NameU="Delay" Name="延迟"/>
+    <Elem NameU="Summing junction" Name="求和连接器"/>
+    <Elem NameU="Drum storage" Name="存储鼓"/>
+    <Elem NameU="OR" Name="或者"/>
+    <Elem NameU="Collate" Name="整理"/>
+    <Elem NameU="Extract" Name="提取"/>
+    <Elem NameU="Off-line storage" Name="脱机存储"/>
+    <Elem NameU="Merge" Name="合并"/>
+    <Elem NameU="Sort" Name="分类"/>
+    <Elem NameU="Deck of cards" Name="卡片叠"/>
+    <Elem NameU="File of cards" Name="卡片文件"/>
+    <Elem NameU="Microform" Name="微缩胶片"/>
+    <Elem NameU="Microform recording" Name="微缩录制"/>
+    <Elem NameU="Microform processing" Name="微缩处理"/>
+    <Elem NameU="Duplicating" Name="复制"/>
+    <Elem NameU="Tagged process" Name="标记的流程"/>
+    <Elem NameU="Lined Shaded process" Name="线条型流程"/>
+    <Elem NameU="Tagged document" Name="标记的文档"/>
+    <Elem NameU="Lined Document" Name="线条型文档"/>
+    <Elem NameU="Variable start" Name="可变起点"/>
+    <Elem NameU="Variable procedure" Name="可变过程"/>
+    <Elem NameU="Database" Name="数据库"/>
+    <Elem NameU="Primitive from call control" Name="来自调用控制的原语"/>
+    <Elem NameU="Primitive to call control" Name="到调用控制的原语"/>
+    <Elem NameU="Message from user" Name="来自用户的消息"/>
+    <Elem NameU="Message to user" Name="到用户的消息"/>
+    <Elem NameU="Output" Name="输出"/>
+    <Elem NameU="Feedback" Name="反馈"/>
+    <Elem NameU="Check" Number="2" Name="检查"/>
+    <Elem NameU="And gate" Name="与门"/>
+    <Elem NameU="Or gate" Name="或门"/>
+    <Elem NameU="XOR" Name="异或门"/>
+    <Elem NameU="Vertical XOR" Name="垂直异或门"/>
+    <Elem NameU="Vertical P And" Name="垂直 P AND"/>
+    <Elem NameU="Refinement" Name="优化"/>
+    <Elem NameU="Branch-return" Name="分支返回"/>
+    <Elem NameU="Branch-no return" Name="分支无返回"/>
+    <Elem NameU="Interrupt" Name="中断"/>
+    <Elem NameU="External control" Name="外部控制"/>
+    <Elem NameU="Curve Connector" Name="曲线连接线"/>
+</Lib>

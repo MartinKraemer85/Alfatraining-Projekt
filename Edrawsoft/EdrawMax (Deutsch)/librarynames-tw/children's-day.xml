@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Children's Day">
+    <Elem NameU="0" Name="0"/>
+    <Elem NameU="1" Name="1"/>
+    <Elem NameU="2" Name="2"/>
+    <Elem NameU="3" Name="3"/>
+    <Elem NameU="4" Name="4"/>
+    <Elem NameU="5" Name="5"/>
+    <Elem NameU="6" Name="6"/>
+    <Elem NameU="7" Name="7"/>
+    <Elem NameU="8" Name="8"/>
+    <Elem NameU="9" Name="9"/>
+    <Elem NameU="Lollipop" Number="5" Name="棒棒糖"/>
+    <Elem NameU="Kanto Cooking" Name="关东烹饪"/>
+    <Elem NameU="Bear" Name="熊"/>
+    <Elem NameU="Little Yellow Duck" Name="小黃鴨"/>
+    <Elem NameU="Toy" Number="2" Name="玩具"/>
+    <Elem NameU="Alphabet Blocks" Name="字母積木"/>
+    <Elem NameU="Toy Boat" Name="玩具船"/>
+    <Elem NameU="Drum" Name="鼓"/>
+    <Elem NameU="Capsule" Number="3" Name="膠囊"/>
+    <Elem NameU="Toy" Name="玩具"/>
+    <Elem NameU="Gyro" Number="2" Name="陀螺"/>
+    <Elem NameU="Toy Car" Number="2" Name="玩具車"/>
+    <Elem NameU="Remote Control" Name="遠程控制"/>
+    <Elem NameU="Holding a Aell" Number="2" Name="保持Aell"/>
+    <Elem NameU="Puzzle" Name="拼圖"/>
+    <Elem NameU="Small Train" Number="2" Name="小火車"/>
+    <Elem NameU="Holding a Bell" Name="拿著鈴鐺"/>
+    <Elem NameU="Ball" Number="2" Name="球"/>
+    <Elem NameU="Rope" Name="繩索"/>
+    <Elem NameU="Dominoes" Name="多米諾骨牌"/>
+    <Elem NameU="Walker" Name="散步的人"/>
+    <Elem NameU="Windmill" Name="風車"/>
+    <Elem NameU="Carousel" Name="旋轉木馬"/>
+    <Elem NameU="Candy" Name="糖果"/>
+    <Elem NameU="Moon" Name="月亮"/>
+    <Elem NameU="Horse" Name="馬"/>
+    <Elem NameU="Trojan" Name="特洛伊木馬"/>
+    <Elem NameU="Fish" Name="魚"/>
+    <Elem NameU="Bucket and Shovel" Name="桶和鏟子"/>
+    <Elem NameU="Bicycle" Name="自行車"/>
+    <Elem NameU="Building Blocks" Name="積木"/>
+    <Elem NameU="Robot" Name="機器人"/>
+    <Elem NameU="Kite" Name="風箏"/>
+    <Elem NameU="Russian Doll" Name="俄羅斯娃娃"/>
+    <Elem NameU="Water Gun" Name="水槍"/>
+    <Elem NameU="Castle" Name="城堡"/>
+    <Elem NameU="Excavator" Name="挖掘機"/>
+    <Elem NameU="Scooter" Name="小型摩托車"/>
+    <Elem NameU="Rocket" Name="火箭"/>
+    <Elem NameU="Ice Cream" Number="2" Name="杯狀冰淇淋"/>
+    <Elem NameU="Toy" Name="玩具"/>
+    <Elem NameU="Ribbon" Name="絲帶"/>
+    <Elem NameU="Balloon" Number="2" Name="氣球"/>
+    <Elem NameU="Carousel" Name="旋轉木馬"/>
+    <Elem NameU="Chocolate" Name="巧克力"/>
+    <Elem NameU="Ice Cream" Name="杯狀冰淇淋"/>
+    <Elem NameU="Crayfish" Number="3" Name="小龍蝦"/>
+    <Elem NameU="Fish" Name="魚"/>
+    <Elem NameU="Boy" Name="男生"/>
+    <Elem NameU="Girl" Number="3" Name="女生"/>
+    <Elem NameU="Hanbok" Name="韓服"/>
+    <Elem NameU="Girl" Number="3" Name="女生"/>
+    <Elem NameU="Boy" Number="2" Name="男生"/>
+    <Elem NameU="Clown" Number="2" Name="小丑"/>
+</Lib>

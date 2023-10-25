@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Education Flat Icons">
+	<Elem NameU="Book 1" Name="书 1"/>
+	<Elem NameU="Book 2" Name="书 2"/>
+	<Elem NameU="Bookmark" Name="书签"/>
+	<Elem NameU="Compass" Name="指南针"/>
+	<Elem NameU="Education" Name="教育"/>
+	<Elem NameU="Flask" Name="烧瓶"/>
+	<Elem NameU="Funnel" Name="漏斗"/>
+	<Elem NameU="Glasses" Name="眼镜"/>
+	<Elem NameU="Infinite" Name="无限"/>
+	<Elem NameU="Magnifier" Name="放大镜"/>
+	<Elem NameU="Paper" Name="纸"/>
+	<Elem NameU="Pencil" Name="铅笔"/>
+	<Elem NameU="Scale" Name="规模"/>
+	<Elem NameU="Thermometer" Name="温度计"/>
+	<Elem NameU="University" Name="大学"/>
+	<Elem NameU="Initiative" Name="动机"/>
+	<Elem NameU="Earth" Name="地球"/>
+	<Elem NameU="Map" Name="地图"/>
+	<Elem NameU="Planet" Name="行星"/>
+	<Elem NameU="Sand Timer" Name="沙漏"/>
+	<Elem NameU="Baseball" Name="棒球"/>
+	<Elem NameU="Basketball" Name="篮球"/>
+	<Elem NameU="Football" Name="足球"/>
+	<Elem NameU="Tennis Ball" Name="网球"/>
+</Lib>

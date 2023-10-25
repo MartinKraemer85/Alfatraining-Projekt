@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Marketing Shapes">
+    <Elem NameU="Target" Name="靶"/>
+    <Elem NameU="Target 2" Name="靶 2"/>
+    <Elem NameU="Dart" Name="飛鏢"/>
+    <Elem NameU="Hit the Target" Name="中標"/>
+    <Elem NameU="Global" Name="地球儀"/>
+    <Elem NameU="Check Box" Name="複選框"/>
+    <Elem NameU="Check or Cross" Name="完成或取消"/>
+    <Elem NameU="Money" Name="紙幣"/>
+    <Elem NameU="Money Bag" Name="錢袋"/>
+    <Elem NameU="Sign Post" Name="標語牌"/>
+    <Elem NameU="Thermometer" Name="溫度計"/>
+    <Elem NameU="Extend Hand" Name="指向"/>
+    <Elem NameU="Shake Hands" Name="握手"/>
+    <Elem NameU="Man" Name="男人"/>
+    <Elem NameU="Female" Name="女人"/>
+    <Elem NameU="Meeting" Name="會議"/>
+    <Elem NameU="Scales" Name="天平"/>
+    <Elem NameU="Umbrella" Name="傘"/>
+    <Elem NameU="Pencil" Name="鉛筆"/>
+    <Elem NameU="Glasses" Name="眼鏡"/>
+    <Elem NameU="Flower" Name="花朵"/>
+    <Elem NameU="Flower 2" Name="花朵 2"/>
+    <Elem NameU="Tree" Name="樹"/>
+    <Elem NameU="Factory" Name="工廠"/>
+    <Elem NameU="Warehouse" Name="倉庫"/>
+    <Elem NameU="Wholesaler" Name="批發商"/>
+    <Elem NameU="Bank" Name="銀行"/>
+    <Elem NameU="Hotel" Name="酒店"/>
+    <Elem NameU="Building" Name="建築物"/>
+    <Elem NameU="Oil Well" Name="油井"/>
+    <Elem NameU="Cylinder" Name="圓柱形"/>
+    <Elem NameU="Documents" Name="文檔"/>
+    <Elem NameU="Papers" Name="紙張"/>
+    <Elem NameU="Dog" Name="瘦狗衰退型"/>
+    <Elem NameU="Money Box" Name="現金盒"/>
+    <Elem NameU="Star" Name="星形"/>
+    <Elem NameU="Question Mark" Name="問號"/>
+    <Elem NameU="Full Box" Name="滿箱"/>
+    <Elem NameU="Empty Box" Name="空箱"/>
+    <Elem NameU="Wooden Barrel" Name="木桶"/>
+    <Elem NameU="Oil barrel" Name="油桶"/>
+    <Elem NameU="Airplane" Name="飛機"/>
+    <Elem NameU="Bus" Name="公交車"/>
+    <Elem NameU="Train" Name="火車"/>
+    <Elem NameU="Truck" Name="卡車"/>
+    <Elem NameU="Ship" Name="輪船"/>
+    <Elem NameU="Shopping Cart" Name="購物車"/>
+    <Elem NameU="Shopping Cart 2" Name="購物車 2"/>
+    <Elem NameU="Cup" Name="獎杯"/>
+    <Elem NameU="Award" Name="獎牌"/>
+    <Elem NameU="Award 2" Name="獎牌 2"/>
+    <Elem NameU="Award 3" Name="獎牌 3"/>
+    <Elem NameU="Medal" Name="獎章"/>
+    <Elem NameU="Stop Sign" Name="停止標誌"/>
+    <Elem NameU="No Sign" Name="“禁止”標記"/>
+    <Elem NameU="Warning Sign" Name="警告標誌"/>
+    <Elem NameU="Puzzle Whole" Name="完整拼圖"/>
+    <Elem NameU="Puzzle 1" Name="拼圖 1"/>
+    <Elem NameU="Puzzle 2" Name="拼圖 2"/>
+    <Elem NameU="Puzzle 3" Name="拼圖 3"/>
+    <Elem NameU="Puzzle 4" Name="拼圖 4"/>
+    <Elem NameU="Puzzle 5" Name="拼圖 5"/>
+    <Elem NameU="Puzzle 6" Name="拼圖 6"/>
+    <Elem NameU="Puzzle 7" Name="拼圖 7"/>
+    <Elem NameU="Puzzle 8" Name="拼圖 8"/>
+    <Elem NameU="Puzzle 9" Name="拼圖 9"/>
+    <Elem NameU="Puzzle 10" Name="拼圖 10"/>
+</Lib>

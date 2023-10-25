@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="AWS Migration &amp; Transfer">
+	<Elem NameU="AWS-Application-Discovery-Service" Name="AWS应用程序发现服务"/>
+	<Elem NameU="AWS-Database-_Migration-Service" Name="AWS数据库迁移服务"/>
+	<Elem NameU="AWS-DataSync" Name="AWS数据同步"/>
+	<Elem NameU="AWS-DataSync_Agent" Name="AWS数据同步代理"/>
+	<Elem NameU="AWS-Migration-Hub" Name="AWS迁移中心"/>
+	<Elem NameU="AWS-Server-Migration-Service" Name="AWS服务器迁移服务"/>
+	<Elem NameU="AWS-Snowball" Name="AWS雪球"/>
+	<Elem NameU="AWS-Snowball-Edge" Name="AWS雪球边缘"/>
+	<Elem NameU="AWS-Snowmobile" Name="AWS雪地车"/>
+	<Elem NameU="AWS-Transfer-Family" Name="AWS转移家庭"/>
+	<Elem NameU="AWS-Transfer-for-FTP_Resource-Icon" Name="AWS传输FTP资源图标"/>
+	<Elem NameU="AWS-Transfer-for-FTPS_Resource-Icon" Name="适用于FTPS的AWS传输的资源图标"/>
+	<Elem NameU="AWS-Transfer-for-SFTP_Resource-Icon" Name="AWS传输SFTP资源图标"/>
+	<Elem NameU="CloudEndure-Migration" Name="云持久迁移"/>
+	<Elem NameU="Migration-and-Transfer" Name="迁移与转移"/>
+</Lib>

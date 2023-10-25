@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Video Surveillance">
+    <Elem NameU="Camera" Name="카메라"/>
+    <Elem NameU="Motion detector" Name="동작 탐지기"/>
+    <Elem NameU="Glass break sensor" Name="유리 파손 센서"/>
+    <Elem NameU="Screening device" Name="선별 장치"/>
+    <Elem NameU="Monitor" Name="모니터"/>
+    <Elem NameU="Camera P/T/Z" Name="카메라 P/T/Z"/>
+    <Elem NameU="Video multiplexer" Name="비디오 멀티플렉서"/>
+    <Elem NameU="Push button" Name="푸쉬 버튼"/>
+    <Elem NameU="Recorder" Name="녹음기"/>
+    <Elem NameU="Switch manual" Name="수동 스위치"/>
+    <Elem NameU="Switch automatic" Name="자동 스위치"/>
+    <Elem NameU="Video keyboard" Name="비디오 키보드"/>
+    <Elem NameU="Bi-static beam sensor" Name="양방향 광선 센서"/>
+    <Elem NameU="Security window screen" Name="창 보안망"/>
+    <Elem NameU="Video motion detector" Name="비디오 동작 탐지기"/>
+    <Elem NameU="Wire connector" Name="와이어 커넥터"/>
+</Lib>

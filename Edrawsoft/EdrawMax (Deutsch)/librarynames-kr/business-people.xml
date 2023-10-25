@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Business People">
+    <Elem NameU="Man 1" Name="남자1"/>
+    <Elem NameU="Man 2" Name="남자2"/>
+    <Elem NameU="Man 3" Name="남자3"/>
+    <Elem NameU="Man 4" Name="남자4"/>
+    <Elem NameU="Man 5" Name="남자5"/>
+    <Elem NameU="Man 6" Name="남자6"/>
+    <Elem NameU="Woman 1" Name="여자1"/>
+    <Elem NameU="Woman 2" Name="여자2"/>
+    <Elem NameU="Woman 3" Name="여자3"/>
+    <Elem NameU="Woman 4" Name="여자4"/>
+    <Elem NameU="Woman 5" Name="여자5"/>
+    <Elem NameU="Woman 6" Name="여자6"/>
+    <Elem NameU="Woman 7" Name="여자7"/>
+    <Elem NameU="Running man" Name="런닝맨"/>
+    <Elem NameU="Rest" Name="휴식하는 사람"/>
+    <Elem NameU="Working" Name="일하는 사람"/>
+    <Elem NameU="Meeting" Name="친구 만나는 사람"/>
+</Lib>

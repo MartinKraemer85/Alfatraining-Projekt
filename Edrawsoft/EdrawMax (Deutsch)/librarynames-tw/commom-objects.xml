@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Common Objects">
+	<Elem NameU="TV" Name="電視機"/>
+	<Elem NameU="Sofa" Name="沙發"/>
+	<Elem NameU="Refrigerator" Name="冰箱"/>
+	<Elem NameU="Table" Name="桌子"/>
+	<Elem NameU="Gloves" Name="手套"/>
+	<Elem NameU="Chair" Name="椅子"/>
+	<Elem NameU="Bowl" Name="碗"/>
+	<Elem NameU="Chopsticks" Name="筷子"/>
+	<Elem NameU="Rice Scoop" Name="飯鏟"/>
+	<Elem NameU="Knife" Name="刀"/>
+	<Elem NameU="Spoon" Name="勺子"/>
+	<Elem NameU="Fork" Name="叉"/>
+	<Elem NameU="Soup Ladle" Name="湯勺"/>
+	<Elem NameU="Ice Pop" Name="冰棍"/>
+	<Elem NameU="Ice Cream" Name="冰淇淋"/>
+	<Elem NameU="Bowknot" Name="蝴蝶結"/>
+	<Elem NameU="Tie" Name="領帶"/>
+	<Elem NameU="Shoes" Name="鞋子"/>
+	<Elem NameU="Comb" Name="梳子"/>
+	<Elem NameU="Glasses" Name="眼鏡"/>
+	<Elem NameU="Binoculars" Name="雙筒望遠鏡"/>
+	<Elem NameU="Telescope" Name="單筒望遠鏡"/>
+	<Elem NameU="Magnifier" Name="放大鏡"/>
+	<Elem NameU="Telephone" Name="電話"/>
+	<Elem NameU="Mobile Phone" Name="手機"/>
+	<Elem NameU="Trumpet" Name="喇叭"/>
+	<Elem NameU="Calendar" Name="日曆"/>
+	<Elem NameU="Protractor" Name="量角器"/>
+	<Elem NameU="Ruler" Name="直尺"/>
+	<Elem NameU="Set Square" Name="三角尺"/>
+	<Elem NameU="Binder Clip" Name="長尾夾"/>
+	<Elem NameU="Scissors" Name="剪刀"/>
+	<Elem NameU="Stapler" Name="訂書機"/>
+	<Elem NameU="Magazine" Name="雜誌"/>
+	<Elem NameU="Book" Name="書"/>
+	<Elem NameU="Backpack" Name="背包"/>
+	<Elem NameU="Pen" Name="鋼筆"/>
+	<Elem NameU="Pencil" Name="鉛筆"/>
+	<Elem NameU="Paintbrush" Name="畫筆"/>
+	<Elem NameU="Rubber" Name="橡皮"/>
+	<Elem NameU="Palette" Name="調色板"/>
+	<Elem NameU="Shovel" Name="鏟子"/>
+	<Elem NameU="Brush" Name="刷子"/>
+	<Elem NameU="Paint Box" Name="顏料盒"/>
+	<Elem NameU="Building Blocks" Name="積木"/>
+	<Elem NameU="Remote Control Car" Name="遙控玩具車"/>
+	<Elem NameU="Music Notes" Name="音符"/>
+	<Elem NameU="Ring Tower Toy" Name="套塔玩具"/>
+	<Elem NameU="Spinning Top" Name="陀螺"/>
+	<Elem NameU="Abacus" Name="算盤"/>
+	<Elem NameU="Jigsaw Puzzle" Name="拼圖"/>
+	<Elem NameU="Ball" Name="球"/>
+	<Elem NameU="Photo Frame" Name="相框"/>
+	<Elem NameU="Alarm Clock" Name="鬧鐘"/>
+	<Elem NameU="Slide" Name="滑梯"/>
+	<Elem NameU="Cubes" Name="立方體"/>
+	<Elem NameU="Rocking Horse" Name="木馬"/>
+	<Elem NameU="Pinwheel" Name="紙風車"/>
+	<Elem NameU="Toy Bear" Name="玩具熊"/>
+	<Elem NameU="Water the Flowers" Name="給花澆水"/>
+	<Elem NameU="Umbrella" Name="傘"/>
+	<Elem NameU="Checkers" Name="跳棋"/>
+	<Elem NameU="Mailbox" Name="油桶"/>
+</Lib>

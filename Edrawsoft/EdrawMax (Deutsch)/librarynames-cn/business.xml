@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Business">
+    <Elem NameU="Computer" Name="计算机"/>
+    <Elem NameU="Chair" Name="椅子"/>
+    <Elem NameU="Computer Host" Name="计算机主机"/>
+    <Elem NameU="Cabinet" Name="内阁"/>
+    <Elem NameU="Table Lamp" Name="台灯"/>
+    <Elem NameU="Magnifier" Name="放大镜"/>
+    <Elem NameU="Stack Of Notes" Name="一叠笔记"/>
+    <Elem NameU="Pink Suitcase" Name="粉红色手提箱"/>
+    <Elem NameU="Large Suitcase" Name="大箱子"/>
+    <Elem NameU="Small Suitcase" Name="小提箱"/>
+    <Elem NameU="Folder" Name="文件夹"/>
+    <Elem NameU="Plan" Name="计划"/>
+    <Elem NameU="A Note" Name="便条"/>
+    <Elem NameU="Sofa" Name="沙发"/>
+    <Elem NameU="Cabinet" Name="内阁"/>
+    <Elem NameU="Small Bookshelf" Name="小书架"/>
+    <Elem NameU="Porcelain Cup" Name="瓷杯"/>
+    <Elem NameU="Coffee Cup" Name="咖啡杯"/>
+    <Elem NameU="Large Bookshelf" Name="大书架"/>
+    <Elem NameU="White Cabinet" Name="白色橱柜"/>
+    <Elem NameU="Record Data" Name="记录数据"/>
+    <Elem NameU="Wine" Name="葡萄酒"/>
+    <Elem NameU="Red Wine" Name="红酒"/>
+    <Elem NameU="Briefcase" Name="公文包"/>
+    <Elem NameU="Notebook" Name="笔记本"/>
+    <Elem NameU="Coffee" Name="咖啡"/>
+    <Elem NameU="Orange Marker" Name="橙色标记"/>
+    <Elem NameU="Five Marker" Name="五标记"/>
+    <Elem NameU="Camera" Name="照相机"/>
+    <Elem NameU="Desk" Name="办公桌"/>
+    <Elem NameU="Analyze Data" Name="分析数据"/>
+    <Elem NameU="Mouse" Name="老鼠"/>
+    <Elem NameU="Bookshelf" Number="2" Name="书架"/>
+    <Elem NameU="Newspaper" Name="报纸"/>
+    <Elem NameU="Printer" Name="打印机"/>
+    <Elem NameU="Counter" Name="计数器"/>
+    <Elem NameU="Briefcase" Name="公文包"/>
+    <Elem NameU="Computer" Name="计算机"/>
+    <Elem NameU="Integrated Notebook" Name="集成笔记本"/>
+    <Elem NameU="Disk" Name="磁盘"/>
+    <Elem NameU="Recording" Name="记录"/>
+    <Elem NameU="Pouring Red Wine" Name="倒红酒"/>
+    <Elem NameU="Express Delivery" Name="快递"/>
+    <Elem NameU="Small Utility Knife" Name="小刀"/>
+    <Elem NameU="Yellow Utility Knife" Name="黄色实用刀"/>
+    <Elem NameU="Utility Knife" Name="实用刀"/>
+    <Elem NameU="Elliot Folder" Name="Elliot文件夹"/>
+    <Elem NameU="Wallet" Name="钱包"/>
+    <Elem NameU="Folder" Name="文件夹"/>
+    <Elem NameU="Gold Coins Fall" Name="金币掉落"/>
+    <Elem NameU="Gold Coins Rise" Name="金币崛起"/>
+    <Elem NameU="Gold" Name="黄金"/>
+    <Elem NameU="Office Chair" Name="办公椅"/>
+    <Elem NameU="Coffee Table" Name="咖啡桌"/>
+    <Elem NameU="Pen Holder" Name="笔筒"/>
+    <Elem NameU="Bookshelf" Name="书架"/>
+    <Elem NameU="Plan Board" Name="计划板"/>
+    <Elem NameU="Printer" Name="打印机"/>
+    <Elem NameU="Magnifier" Name="放大镜"/>
+    <Elem NameU="Close File" Name="关闭文件"/>
+    <Elem NameU="Open A File" Name="打开文件"/>
+    <Elem NameU="Work Card" Name="工作卡"/>
+    <Elem NameU="Time" Name="时间"/>
+    <Elem NameU="American Coffee" Name="美式咖啡"/>
+    <Elem NameU="Open A File" Name="打开文件"/>
+    <Elem NameU="File" Name="文件"/>
+    <Elem NameU="Table and Chair" Name="桌椅"/>
+    <Elem NameU="Grey Cabinet" Name="灰柜"/>
+    <Elem NameU="Blue Notebook" Name="蓝色笔记本"/>
+    <Elem NameU="Dollar" Number="2" Name="美元"/>
+    <Elem NameU="Name Card" Name="名片"/>
+    <Elem NameU="Mobile Computer" Name="移动计算机"/>
+    <Elem NameU="Office" Name="办公室"/>
+    <Elem NameU="Wallet" Name="钱包"/>
+    <Elem NameU="Folder" Name="文件夹"/>
+    <Elem NameU="Projector" Name="投影机"/>
+    <Elem NameU="Ruler" Name="尺子"/>
+    <Elem NameU="Shoulder Bags" Name="肩包"/>
+    <Elem NameU="Two Files" Name="两个文件"/>
+    <Elem NameU="Package" Name="包裹"/>
+    <Elem NameU="Window" Name="窗口"/>
+    <Elem NameU="Cowhide Notebook" Number="2" Name="牛皮笔记本"/>
+    <Elem NameU="Shredder" Name="碎纸机"/>
+    <Elem NameU="Showcase" Name="展柜"/>
+    <Elem NameU="Table Lamp" Name="台灯"/>
+    <Elem NameU="Pink Pen" Name="粉红色钢笔"/>
+    <Elem NameU="Dark Pen" Name="暗笔"/>
+    <Elem NameU="Mobile Phone" Name="手机"/>
+    <Elem NameU="Recording Pen" Name="录音笔"/>
+    <Elem NameU="Time" Name="时间"/>
+    <Elem NameU="Table" Name="桌子"/>
+    <Elem NameU="Office" Name="办公室"/>
+    <Elem NameU="Design" Name="设计"/>
+    <Elem NameU="Cooperation" Name="合作"/>
+    <Elem NameU="Plan Board" Name="计划板"/>
+    <Elem NameU="Alarm Cock" Name="报警旋塞"/>
+    <Elem NameU="Bank Card" Name="银行卡"/>
+    <Elem NameU="Notebook" Name="笔记本"/>
+    <Elem NameU="Shopping Bag" Name="购物袋"/>
+</Lib>

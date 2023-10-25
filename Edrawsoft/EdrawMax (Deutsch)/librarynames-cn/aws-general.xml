@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="AWS General">
+	<Elem NameU="AWS-Email" Name="AWS电子邮件"/>
+	<Elem NameU="AWS-Marketplace" Name="AWS市场"/>
+	<Elem NameU="Client" Name="客户"/>
+	<Elem NameU="Disk" Name="磁碟"/>
+	<Elem NameU="Forums" Name="论坛"/>
+	<Elem NameU="General" Name="一般"/>
+	<Elem NameU="Generic_Firewall" Name="通用防火墙"/>
+	<Elem NameU="Generic-database" Name="通用数据库"/>
+	<Elem NameU="Internet-alt1" Name="互联网alt 1"/>
+	<Elem NameU="Internet-alt2" Name="互联网alt 2"/>
+	<Elem NameU="Internet-gateway" Name="互联网网关"/>
+	<Elem NameU="Mobile-client" Name="移动客户端"/>
+	<Elem NameU="Multimedia" Name="多媒体"/>
+	<Elem NameU="Office-building" Name="办公楼"/>
+	<Elem NameU="SAML-token" Name="SAML令牌"/>
+	<Elem NameU="SDK" Name="SDK"/>
+	<Elem NameU="SSL-padlock" Name="SSL挂锁"/>
+	<Elem NameU="Tape-storage" Name="磁带存储"/>
+	<Elem NameU="Toolkit" Name="工具包"/>
+	<Elem NameU="Traditional-server" Name="传统服务器"/>
+	<Elem NameU="User" Name="用户"/>
+	<Elem NameU="Users" Name="用户数"/>
+</Lib>

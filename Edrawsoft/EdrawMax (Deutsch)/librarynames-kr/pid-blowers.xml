@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Blowers">
+    <Elem NameU="3-D ISA Blower" Name="3-D 공업 표준 구조 송풍기"/>
+    <Elem NameU="Air compressor" Number="2" Name="공기 압축기"/>
+    <Elem NameU="Blower" Name="송풍기"/>
+    <Elem NameU="Centrifugal air blower" Name="원심력 송풍기"/>
+    <Elem NameU="Fan-powered terminal unit" Name="팬 전원 터미널 장치"/>
+    <Elem NameU="Fiberglass fan air" Name="유리 섬유 팬 공기"/>
+    <Elem NameU="Fume exhauster" Name="연기 배출기"/>
+    <Elem NameU="Gas pump" Name="가스 펌프"/>
+    <Elem NameU="Gray shaded fan" Name="회색 음영 팬"/>
+    <Elem NameU="HVAC compressor" Name="HVAC압축기"/>
+    <Elem NameU="Inline air filter" Name="인라인 에어 필터"/>
+    <Elem NameU="Mixed flow inline fan" Name="혼합 흐름 인라인 팬"/>
+    <Elem NameU="Plastic blower" Name="플라스틱 송풍기"/>
+    <Elem NameU="Pressure blower" Name="고압 송풍기"/>
+    <Elem NameU="radial fume exhauster" Name="방사형 연기 배출기"/>
+    <Elem NameU="Reciprocating compressor" Name="왕복 압축기"/>
+    <Elem NameU="Regenerative blower" Name="회생 송풍기"/>
+    <Elem NameU="Simple blower" Name="심플 송풍기"/>
+    <Elem NameU="Turbo blower" Name="터보 송풍기"/>
+    <Elem NameU="Vaneaxial fan" Name="축류 팬"/>
+    <Elem NameU="Vortex blower" Name="소용돌이 송풍기"/>
+    <Elem NameU="Draught Fan" Name="통풍 팬"/>
+    <Elem NameU="Draught fan" Number="2" Name="통풍 팬"/>
+    <Elem NameU="Dilution air blower" Name="희석 송풍기"/>
+    <Elem NameU="Airlock" Name="Airlock"/>
+    <Elem NameU="Pressure fan" Name="압력 팬"/>
+    <Elem NameU="Blower room" Name="송풍기 실"/>
+    <Elem NameU="Flue Gas Induced Fan " Name="굴뚝 가스 유도 팬"/>
+    <Elem NameU="Compressor" Name="압축기"/>
+    <Elem NameU="Compressor Unit" Name="압축기 유닛"/>
+    <Elem NameU="Filter press" Name="필터 누르기"/>
+</Lib>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Maintenance Symbol">
+    <Elem NameU="Fluss" Name="Fluss"/>
+    <Elem NameU="Signal Generator" Name="신호 발생기"/>
+    <Elem NameU="Linienelemente" Name="Linienelemente"/>
+    <Elem NameU="Linienelemente 2" Name="Linienelemente 2"/>
+    <Elem NameU="Relaiskontakte" Name="Relaiskontakte"/>
+    <Elem NameU="Relaisspule" Name="Relaisspule"/>
+    <Elem NameU="Schalter" Name="Schalter"/>
+    <Elem NameU="Kombinierte Schaltung" Name="Kombinierte Schaltung"/>
+    <Elem NameU="Verstärker" Name="Verstärker"/>
+    <Elem NameU="Signalcode" Name="신호 코드"/>
+    <Elem NameU="Referenz Signal" Name="Referenz Signal"/>
+    <Elem NameU="Relais Signal ansteuern" Name="Relais Signal ansteuern"/>
+    <Elem NameU="Senderimpuls" Name="Senderimpuls"/>
+    <Elem NameU="Testsignal" Name="Testsignal"/>
+    <Elem NameU="Feedback" Name="피드백"/>
+</Lib>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Facial Expression">
+	<Elem NameU="Neutral" Name="面无表情"/>
+	<Elem NameU="LOL" Name="开怀大笑"/>
+	<Elem NameU="Ashtonished" Name="惊讶"/>
+	<Elem NameU="Kissing heart" Name="飞吻"/>
+	<Elem NameU="Bummed" Name="难过"/>
+	<Elem NameU="Crying with laughter" Name="破涕为笑"/>
+	<Elem NameU="No words" Name="闭嘴"/>
+	<Elem NameU="Laughing" Name="调皮"/>
+	<Elem NameU="Heart eyes" Name="花痴"/>
+	<Elem NameU="Sweat grinning" Name="尴尬之笑"/>
+	<Elem NameU="Slightly smile" Name="歪嘴笑"/>
+	<Elem NameU="Smile" Name="微笑"/>
+	<Elem NameU="Sleepy" Name="困"/>
+	<Elem NameU="Blush" Name="脸红"/>
+	<Elem NameU="Crying" Name="流泪"/>
+	<Elem NameU="Cool" Name="得意"/>
+	<Elem NameU="Angry" Name="发怒"/>
+	<Elem NameU="Dizzy face" Name="晕"/>
+	<Elem NameU="Unamused" Name="不开心"/>
+	<Elem NameU="Hurt" Name="受伤"/>
+	<Elem NameU="Sick" Name="生病"/>
+	<Elem NameU="Sleeping" Name="睡"/>
+	<Elem NameU="Confused" Name="怀疑"/>
+	<Elem NameU="Face with tongue" Name="吐舌"/>
+	<Elem NameU="Vomiting" Name="呕吐"/>
+	<Elem NameU="Strength" Name="加油"/>
+	<Elem NameU="Dollar eyes" Name="见钱眼开"/>
+	<Elem NameU="Wink" Name="眨眼"/>
+	<Elem NameU="Woozy" Name="撇嘴"/>
+</Lib>

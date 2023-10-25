@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Jackson">
+	<Elem NameU="Procedure" Name="Procedimento"/>
+	<Elem NameU="Procedure 2" Name="Procedimento 2"/>
+	<Elem NameU="Process" Name="Processo"/>
+	<Elem NameU="Process 2" Name="Processo 2"/>
+	<Elem NameU="Tree connector" Name="Conector de árvore"/>
+	<Elem NameU="Logical connector" Name="Conector lógico"/>
+</Lib>

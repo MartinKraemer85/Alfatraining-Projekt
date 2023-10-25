@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Data Flow Model Diagram">
+    <Elem NameU="External Entity" Name="外部實體"/>
+    <Elem NameU="Entity" Name="實體"/>
+    <Elem NameU="Process 2" Name="進程 2"/>
+    <Elem NameU="Process" Name="進程"/>
+    <Elem NameU="Process w/location" Name="進程 w/位置"/>
+    <Elem NameU="Data Store" Name="資料存儲"/>
+    <Elem NameU="Interface" Name="接口"/>
+    <Elem NameU="Jump" Name="帶弧形的連接線"/>
+    <Elem NameU="Angled Connector" Name="折角連接線"/>
+    <Elem NameU="Top to Bottom Variable" Name="頂到底的連接線"/>
+    <Elem NameU="Bottom to Side" Name="底到邊的連接線"/>
+    <Elem NameU="Side to Side" Name="邊到邊連接線"/>
+    <Elem NameU="Side to Same Side" Name="同邊連接線"/>
+    <Elem NameU="Top to Top Side" Name="頂到頂連接線"/>
+    <Elem NameU="Straight Connector" Name="直線連接線"/>
+    <Elem NameU="Dynamical Connector" Name="動態連接線"/>
+    <Elem NameU="Line Curve Connector" Name="曲線連接線"/>
+</Lib>

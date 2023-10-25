@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Exchange Objects">
+	<Elem NameU="Exchange Organization" Name="Exchange の組織"/>
+	<Elem NameU="Massage Formats" Name="メッセージの形式"/>
+	<Elem NameU="Exchange Servers" Name="エクスチェンジ サーバー"/>
+	<Elem NameU="Exchange Server" Name="エクスチェンジ サーバー2"/>
+	<Elem NameU="Public Folders" Name="パプリック フォルダー"/>
+	<Elem NameU="Storage Group" Name="ストレージ グループ"/>
+	<Elem NameU="Recipient Update Service" Name="受信者更新サービス"/>
+	<Elem NameU="Recipient Policy" Name="受信者ポリシー"/>
+	<Elem NameU="Message Delivery" Name="メッセージ配信"/>
+	<Elem NameU="POP virtual server" Name="POP 仮想サーバー"/>
+	<Elem NameU="Exchange Virtual Server" Name="エクスチェンジ仮想サーバー"/>
+	<Elem NameU="Dialog" Name="ダイアログ"/>
+	<Elem NameU="HTTP Virtual Directory" Name="HTTP 仮想ディレクトリ"/>
+	<Elem NameU="Public Store" Name="パプリック ストア"/>
+	<Elem NameU="Mailbox Store" Name="メールボックス ストア"/>
+	<Elem NameU="IMAP Virtual Server" Name="IMAP 仮想サーバー"/>
+	<Elem NameU="NNTP Virtual Server" Name="NNTP 仮想サーバー"/>
+</Lib>

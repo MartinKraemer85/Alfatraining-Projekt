@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="PID Logistics">
+	<Elem NameU="Boxcar" Name="Boxwagen"/>
+	<Elem NameU="Container car (single)" Name="Containerwagen (einzeln)"/>
+	<Elem NameU="Container car (stacked)" Name="Containerwagen (gestapelt)"/>
+	<Elem NameU="Gantry crane" Name="Portalkran"/>
+	<Elem NameU="Hopper car" Name="Trichterwagen"/>
+	<Elem NameU="Hopper car with coal" Name="Trichterwagen mit Kohle"/>
+	<Elem NameU="Hopper car with wood chips" Name="Hopper Auto mit Hackschnitzel"/>
+	<Elem NameU="Locomotive" Name="Lokomotive"/>
+	<Elem NameU="Port crane (extended)1" Name="Hafenkran (verlängert) 1"/>
+	<Elem NameU="Port crane (extended)2" Name="Hafenkran (erweitert) 2"/>
+	<Elem NameU="Standard 20-foot container" Name="Standard 20-Fuß-Container"/>
+	<Elem NameU="Standard 40-foot container" Name="Standard 40-Fuß-Container"/>
+	<Elem NameU="Tank container" Name="Tankcontainer"/>
+	<Elem NameU="Tanker" Name="Tanker"/>
+	<Elem NameU="18-wheeler truck" Name="18-Rad-LKW"/>
+	<Elem NameU="Airplane" Name="Flugzeug"/>
+	<Elem NameU="Airplane right" Name="Flugzeug rechts"/>
+	<Elem NameU="Bicycle" Name="Fahrrad"/>
+	<Elem NameU="Car" Name="Auto"/>
+	<Elem NameU="Concrete mixing truck" Name="Betonmischwagen"/>
+	<Elem NameU="Digging machine 1" Name="Grabemaschine 1"/>
+	<Elem NameU="Digging machine 2" Name="Grabemaschine 2"/>
+	<Elem NameU="Excavator" Name="Bagger"/>
+	<Elem NameU="Dumpcart" Name="Dumpcart"/>
+	<Elem NameU="Dump truck (lowered)" Name="Muldenkipper (abgesenkt)"/>
+	<Elem NameU="Dump truck (raised)" Name="Muldenkipper (angehoben)"/>
+	<Elem NameU="Oiler" Name="Öler"/>
+	<Elem NameU="Feeder" Name="Feeder"/>
+	<Elem NameU="Railway carriage" Name="Eisenbahnwagen"/>
+	<Elem NameU="Tank car 1" Name="Kesselwagen 1"/>
+	<Elem NameU="Tank car 2" Name="Kesselwagen 2"/>
+	<Elem NameU="Truck" Name="LKW"/>
+	<Elem NameU="Differential pressure car" Name="Differenzdruckauto"/>
+	<Elem NameU="Coal" Name="Kohle"/>
+	<Elem NameU="Sandpile" Name="Sandhaufen"/>
+	<Elem NameU="Mound" Name="Hügel"/>
+	<Elem NameU="Rock mound" Name="Felshügel"/>
+	<Elem NameU="Precleaner" Name="Vorreiniger"/>
+	<Elem NameU="Filtrate machine" Name="Filtriermaschine"/>
+	<Elem NameU="Vibrating screen" Name="Vibrierender Bildschirm"/>
+	<Elem NameU="Comprehensive Sorting System" Name="Umfassendes Sortiersystem"/>
+	<Elem NameU="Fresh yeast" Name="Frische Hefe"/>
+	<Elem NameU="Lifter" Name="Heber"/>
+	<Elem NameU="Conveyor" Name="Förderer"/>
+	<Elem NameU="Belt conveyor &amp;amp; JiLiangCheng" Name=""/>
+	<Elem NameU="Belt conveyor &amp;amp; unloading grain pits" Name=""/>
+	<Elem NameU="Platform weighting" Name=""/>
+	<Elem NameU="Mobile bulk scale" Name=""/>
+	<Elem NameU="Packing scale" Name=""/>
+	<Elem NameU="LCS-MT" Name=""/>
+	<Elem NameU="Scale hopper of the weighing sensor" Name=""/>
+	<Elem NameU="Material" Name=""/>
+	<Elem NameU="Bulk Container" Name=""/>
+	<Elem NameU="A pouch pack" Name=""/>
+	<Elem NameU="LCA-MT" Name=""/>
+	<Elem NameU="Membrane module " Name=""/>
+	<Elem NameU="Port entrepot storage" Name=""/>
+</Lib>

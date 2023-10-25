@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Cabinets and Bookcases">
+	<Elem NameU="Work surface" Name="Superficie di lavoro"/>
+	<Elem NameU="Corner surface" Name="Superficie angolata"/>
+	<Elem NameU="Island" Name="Isola"/>
+	<Elem NameU="Corner counter" Name="Bancone ad angolo"/>
+	<Elem NameU="Platter counter" Name="Bancone a tagliere"/>
+	<Elem NameU="Bevel counter" Name="Bancone smussato"/>
+	<Elem NameU="Bent counter" Name="Bancone piegato"/>
+	<Elem NameU="Work peninsula" Name="Penisola da lavoro"/>
+	<Elem NameU="Base end-shelf" Name="Mensola terminale base"/>
+	<Elem NameU="Base corner" Name="Base ad angolo"/>
+	<Elem NameU="Base blind corner" Name="Base ad angolo cieco"/>
+	<Elem NameU="Base end angle" Name="Base ad angolo terminale"/>
+	<Elem NameU="Bookcase" Name="Libreria"/>
+	<Elem NameU="Peninsula end-shelf" Name="Penisola terminale"/>
+	<Elem NameU="Wall end-shelf" Name="Mensola a muro terminale"/>
+	<Elem NameU="Wall corner" Name="Parete ad angolo"/>
+	<Elem NameU="Wall angle cabinet" Name="Armadio ad angolo"/>
+	<Elem NameU="Track end-bevel" Name="Track con smussatura"/>
+	<Elem NameU="Track 45 deg." Name="Track 45°"/>
+	<Elem NameU="Locker" Name="Armadietto"/>
+	<Elem NameU="Handle" Name="Maniglia"/>
+	<Elem NameU="Base" Name="Base"/>
+	<Elem NameU="Drawer" Name="Cassetto"/>
+	<Elem NameU="Cabinet" Name="Armadio"/>
+	<Elem NameU="Cabinet 2 drawers" Name="Armadio 2 cassetti"/>
+	<Elem NameU="Base peninsula" Name="Penisola base"/>
+	<Elem NameU="Track corner" Name="Track ad angolo"/>
+	<Elem NameU="Tray track" Name="Track da vassoio"/>
+</Lib>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Rotating Equip and Mech Functions">
+	<Elem NameU="Motor" Name="Motore"/>
+	<Elem NameU="Step motor" Name="Motore step"/>
+	<Elem NameU="DC motor" Name="Motore DC"/>
+	<Elem NameU="AC motor" Name="Motore AC"/>
+	<Elem NameU="Motor generator" Name="Generatore per motore"/>
+	<Elem NameU="Synchronous generator" Name="Generatore sincrono"/>
+	<Elem NameU="Hand generator" Name="Generatore manuale"/>
+	<Elem NameU="Synchronous converter" Name="Convertitore sincrono"/>
+	<Elem NameU="Armature" Name="Corazza"/>
+	<Elem NameU="Brush" Name="Cespuglio"/>
+	<Elem NameU="Field" Name="Campo"/>
+	<Elem NameU="Permanent Magnet" Name="Magnete Permanente"/>
+	<Elem NameU="Winding connection" Name="Collegamento"/>
+	<Elem NameU="1-phase" Name="1 fase"/>
+	<Elem NameU="2-phase" Name="2 fasi"/>
+	<Elem NameU="3-phase Wye" Name="3 fasi Wye"/>
+	<Elem NameU="6-phase Diametrical" Name="Diametrale a 6 fasi"/>
+	<Elem NameU="6-phase Double-delta" Name="Doppio delta a 6 fasi"/>
+	<Elem NameU="Synchro" Name="Sincro"/>
+	<Elem NameU="Brake" Name="Freno"/>
+	<Elem NameU="Gearing" Name="Ingranaggio"/>
+	<Elem NameU="Rotation" Name="Rotazione"/>
+	<Elem NameU="Clutch" Name="Frizione"/>
+	<Elem NameU="Clutch 2" Name="Frizione 2"/>
+	<Elem NameU="Delayed action" Name="Azione ritardata"/>
+	<Elem NameU="Manual control" Name="Controllo manuale"/>
+	<Elem NameU="Restricted blocking device " Name="Dispositivo bloccaggio limitato"/>
+	<Elem NameU="Pushing" Name="Pressione"/>
+	<Elem NameU="Push" Name="Spinta"/>
+	<Elem NameU="Pulling" Name="Tirare"/>
+	<Elem NameU="Turning" Name="Girare"/>
+	<Elem NameU="Key" Name="Chiave"/>
+	<Elem NameU="Handwheel" Name="Volante"/>
+	<Elem NameU="Touching" Name="Toccare"/>
+	<Elem NameU="Remote Handle" Name="Impugnatura Remota"/>
+	<Elem NameU="Emergency switch" Name="Interruttore di emergenza"/>
+	<Elem NameU="Roller" Name="Rullo"/>
+	<Elem NameU="Crank" Name="Manovella"/>
+	<Elem NameU="Blocking device" Name="Dispositivo di bloccaggio"/>
+	<Elem NameU="Movement left blocked" Name="Blocco movimento a sinistra"/>
+	<Elem NameU="Movement right blocked" Name="Blocco movimento a destra"/>
+	<Elem NameU="Latching device" Name="Dispositivo di aggancio"/>
+	<Elem NameU="Mechanical interlock" Name="Interlock meccanico"/>
+	<Elem NameU="Automatic return" Name="Ritorno automatico"/>
+	<Elem NameU="Detent" Name="Dente di arresto"/>
+</Lib>

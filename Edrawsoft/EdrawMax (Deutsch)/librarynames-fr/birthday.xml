@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Birthday">
+
+<Elem Name="Gâteau" NameU="Cake"/>
+
+<Elem Name="Lapine" NameU="Rabbit"/>
+
+<Elem Name="Petit gâteau" NameU="Cupcake"/>
+
+<Elem Name="Ourse" NameU="Bear"/>
+
+<Elem Name="Voeux d'anniversaire" NameU="Birthday Greeting"/>
+
+<Elem Name="Coeur" NameU="Heart"/>
+
+<Elem Name="Fleur" NameU="Flower"/>
+
+<Elem Name="Diamand" NameU="Diamond"/>
+
+<Elem Name="Boîte en forme de cœur" NameU="Heart Shaped Box"/>
+
+<Elem Name="Caméra" NameU="Camera"/>
+
+<Elem Name="Cheers" NameU="Cheers"/>
+
+<Elem Name="Cadeau" NameU="Gift"/>
+
+<Elem Name="Bougie" NameU="Candle"/>
+
+<Elem Name="Ballon" NameU="Balloon"/>
+
+<Elem Name="Bruant" NameU="Bunting"/>
+
+<Elem Name="Bouteille de vin" NameU="Wine Bottle"/>
+
+<Elem Name="Lettre" NameU="Letter"/>
+
+<Elem Name="Guitare" NameU="Guitar"/>
+
+<Elem Name="jus de fruits" NameU="Fruit Juice"/>
+
+<Elem Name="Médaille" NameU="Medal"/>
+
+<Elem Name="Crème glacée" NameU="Ice Cream"/>
+
+<Elem Name="Masque" NameU="Mask"/>
+
+<Elem Name="Beignet" NameU="Donut"/>
+
+<Elem Name="Chapeau d'anniversaire" NameU="Birthday Hat"/>
+
+<Elem Name="Bonbons" NameU="Candy"/>
+
+<Elem Name="Pétard" NameU="Firecracker"/>
+
+<Elem Name="Surprise" NameU="Surprise"/>
+
+<Elem Name="Magic Wand" NameU="Magic Wand"/>
+
+<Elem Name="Étoille" NameU="Star"/>
+
+<Elem Name="Couronne d'anniversaire" NameU="Birthday Crown"/>
+
+<Elem Name="Moustache" NameU="Moustache"/>
+
+<Elem Name="Verres à bougie" NameU="Candle Glasses"/>
+
+<Elem Name="Gateau au chocolat" NameU="Chocolate Cake"/>
+
+<Elem Name="Birthday Cake" NameU="Birthday Cake"/>
+
+<Elem Name="Pêche" NameU="Peach"/>
+
+<Elem Name="Verre de vin" NameU="Wine Glass"/>
+
+<Elem Name="Wine" NameU="Wine"/>
+
+<Elem Name="Sucette" NameU="Lollipop"/>
+
+<Elem Name="Surprise d'anniversaire" NameU="Birthday Surprise"/>
+
+<Elem Name="Ruban" NameU="Ribbon"/>
+
+<Elem Name="Fireworks" NameU="Fireworks"/>
+
+<Elem Name="Bon anniversaire" NameU="Happy Birthday"/>
+
+<Elem Name="Biscuits" NameU="Biscuits"/>
+
+<Elem Name="Bougie numérique" NameU="Digital Candle"/>
+
+</Lib>

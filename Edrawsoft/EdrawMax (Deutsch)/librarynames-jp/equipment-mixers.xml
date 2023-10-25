@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Equipment - Mixers">
+
+<Elem Name="インラインミキサー" NameU="In-line mixer"/>
+
+<Elem Name="ミキサー" NameU="Mixer"/>
+
+<Elem Name="各種ミキサー" NameU="Various mixers"/>
+
+<Elem Name="各種ミキサー 2" NameU="Various mixers 2"/>
+
+<Elem Name="アジテーター、スターラー" NameU="Agitator, Stirrer"/>
+
+<Elem Name="アジテーター、プロペラ" NameU="Agitator, Propeller"/>
+
+<Elem Name="アジテーター、アンカー" NameU="Agitator, Anchor"/>
+
+<Elem Name="アジテーター、インペラー" NameU="Agitator, Impeller"/>
+
+<Elem Name="アジテーター、タービン" NameU="Agitator, Turbine"/>
+
+<Elem Name="アジテーター、ヘリカル" NameU="Agitator, Helical"/>
+
+<Elem Name="アジテーター、結び目" NameU="Agitator, Gat Paddle"/>
+
+<Elem Name="アジテーター、ディスク" NameU="Agitator, Disc"/>
+
+<Elem Name="アジテーター、クロスビーム" NameU="Agitator, Cross-beam"/>
+
+</Lib>

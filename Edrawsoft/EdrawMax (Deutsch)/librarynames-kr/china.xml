@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="China">
+    <Elem NameU="Anhui" Name="안후이"/>
+    <Elem NameU="Macao" Name="마카오"/>
+    <Elem NameU="Beijing" Name="베이징"/>
+    <Elem NameU="Chongqing" Name="충칭"/>
+    <Elem NameU="Fujian" Name="푸젠"/>
+    <Elem NameU="Gansu" Name="간쑤"/>
+    <Elem NameU="Guangdong" Name="광둥"/>
+    <Elem NameU="Guangxi" Name="광시"/>
+    <Elem NameU="Guizhou" Name="귀주"/>
+    <Elem NameU="Hainan" Name="해남"/>
+    <Elem NameU="Hebei" Name="하북"/>
+    <Elem NameU="Heilongjiang" Name="흑룡강"/>
+    <Elem NameU="Henan" Name="하남"/>
+    <Elem NameU="Hubei" Name="후베이"/>
+    <Elem NameU="Hunan" Name="후난"/>
+    <Elem NameU="Jiangsu" Name="지앙쑤성"/>
+    <Elem NameU="Jiangxi" Name="지앙시성"/>
+    <Elem NameU="Jilin" Name="지린"/>
+    <Elem NameU="Liaoning" Name="랴오닝"/>
+    <Elem NameU="Neimenggu" Name="내몽골"/>
+    <Elem NameU="Ningxia" Name="닝샤"/>
+    <Elem NameU="Qinghai" Name="칭하이"/>
+    <Elem NameU="Shanxi" Name="산시"/>
+    <Elem NameU="Shandong" Name="산둥"/>
+    <Elem NameU="Shanxi" Name="산시"/>
+    <Elem NameU="Sichuan" Name="쓰촨"/>
+    <Elem NameU="Shanghai" Name="상하이"/>
+    <Elem NameU="Taiwan" Name="대만"/>
+    <Elem NameU="Tianjin" Name="천진"/>
+    <Elem NameU="Hong Kong" Name="홍콩"/>
+    <Elem NameU="Xinjiang" Name="신장"/>
+    <Elem NameU="Tibet" Name="티베트"/>
+    <Elem NameU="Yunnan" Name="윈난"/>
+    <Elem NameU="Zhejiang" Name="저장성"/>
+    <Elem NameU="Chinese Map" Name="중국 지도"/>
+</Lib>

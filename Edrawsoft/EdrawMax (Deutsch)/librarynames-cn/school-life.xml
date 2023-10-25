@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="School Life">
+    <Elem NameU="School Bus" Name="校车"/>
+    <Elem NameU="Blackboard" Name="黑板"/>
+    <Elem NameU="Platform" Name="讲台"/>
+    <Elem NameU="Male Teacher" Name="男教师"/>
+    <Elem NameU="Female Teacher" Name="女教师"/>
+    <Elem NameU="Student Sitting 1" Name="学生坐 1"/>
+    <Elem NameU="Student Sitting 2" Name="学生坐 2"/>
+    <Elem NameU="Student Sitting 3" Name="学生坐 3"/>
+    <Elem NameU="Student Sitting 4" Name="学生坐 4"/>
+    <Elem NameU="Girl Writing" Name="女孩写作"/>
+    <Elem NameU="Boy Writing" Name="男孩写作"/>
+    <Elem NameU="Painting" Name="绘画"/>
+    <Elem NameU="Girl Reading 1" Name="女孩阅读 1"/>
+    <Elem NameU="Girl Reading 2" Name="女孩阅读 2"/>
+    <Elem NameU="Boy Reading" Name="男孩阅读"/>
+    <Elem NameU="Student Standing 1" Name="学生站立 1"/>
+    <Elem NameU="Student Standing 2" Name="学生站立2"/>
+    <Elem NameU="Student Standing 3" Name="学生站立3"/>
+    <Elem NameU="Student Standing 4" Name="学生站立4"/>
+    <Elem NameU="Student Singing" Name="学生唱歌"/>
+    <Elem NameU="Student Dancing" Name="学生跳舞"/>
+    <Elem NameU="Student with Football" Name="学生玩足球"/>
+    <Elem NameU="Student Raising Dumbbells" Name="学生举哑铃"/>
+    <Elem NameU="Student with Trophy" Name="拿奖杯的学生"/>
+    <Elem NameU="Students on the Podium" Name="讲台上的学生"/>
+    <Elem NameU="Cleaning Desk" Name="清洁台"/>
+    <Elem NameU="Weeping Floor" Name="打扫地板"/>
+    <Elem NameU="Worried Student" Name="忧心忡忡的学生"/>
+    <Elem NameU="Teacher Talking with Student" Name="老师和学生谈话"/>
+    <Elem NameU="School Bullying" Name="校园欺凌"/>
+    <Elem NameU="Students with Good Grades" Name="成绩好的学生"/>
+    <Elem NameU="Student with Poor Grades" Name="成绩差的学生"/>
+    <Elem NameU="Student Jumping Rope" Name="学生跳绳"/>
+    <Elem NameU="Classmate" Name="同学"/>
+    <Elem NameU="Tug of War" Name="拔河"/>
+    <Elem NameU="Student Playing Basketball" Name="学生打篮球"/>
+    <Elem NameU="Student Playing Baseball" Name="学生打棒球"/>
+    <Elem NameU="Student Playing Football" Name="学生踢足球"/>
+    <Elem NameU="Students" Name="学生"/>
+    <Elem NameU="I Love School" Name="我喜欢上学"/>
+</Lib>

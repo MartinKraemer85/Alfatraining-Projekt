@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Touch Gesture">
+    <Elem NameU="Tap" Name="單擊"/>
+    <Elem NameU="Double tap" Name="雙擊"/>
+    <Elem NameU="Double tap with three fingers" Name="輕拍兩次"/>
+    <Elem NameU="Press and hold" Name="長按"/>
+    <Elem NameU="Refresh" Name="刷新"/>
+    <Elem NameU="One finger swipe up" Name="單指向上滑動"/>
+    <Elem NameU="One finger swipe down" Name="單指向下滑動"/>
+    <Elem NameU="Two-finger swipe up" Name="雙指向上滑動"/>
+    <Elem NameU="Two-finger swipe up 2" Name="雙指向上滑動2"/>
+    <Elem NameU="Two-finger swipe down" Name="雙指向下滑動"/>
+    <Elem NameU="Three-finger swipe up" Name="三指向上滑動"/>
+    <Elem NameU="Three-finger swipe down" Name="三指向下滑動"/>
+    <Elem NameU="Four-finger pinch" Name="四指聚攏"/>
+    <Elem NameU="Five-finger pinch" Name="五指聚攏"/>
+    <Elem NameU="Drag and drop page" Name="拖拽頁面"/>
+    <Elem NameU="Zoom out" Name="縮小"/>
+    <Elem NameU="Zoom in" Name="放大"/>
+    <Elem NameU="Switch to the previous tab" Name="切換到上一標籤"/>
+    <Elem NameU="Switch to the next tab" Name="切換到下一標籤"/>
+    <Elem NameU="Two-finger pinch" Name="雙指聚攏"/>
+    <Elem NameU="Two-finger swipe" Name="雙指滑動"/>
+    <Elem NameU="Point" Name="指向"/>
+    <Elem NameU="Point2" Name="指向2"/>
+    <Elem NameU="Point3" Name="指向3"/>
+    <Elem NameU="Point4" Name="指向4"/>
+    <Elem NameU="Two-finger pinch 2" Name="雙指聚攏2"/>
+    <Elem NameU="Carry with two fingers" Name="夾住"/>
+    <Elem NameU="Arrow" Name="箭頭"/>
+    <Elem NameU="Arrow2" Name="箭頭2"/>
+    <Elem NameU="Arrow3" Name="箭頭3"/>
+</Lib>

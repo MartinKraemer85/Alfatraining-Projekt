@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Material Handling">
+    <Elem NameU="Advanced classification system" Name="高級分類系統"/>
+    <Elem NameU="Hero-mechanical conveyor 1" Name="輸送機 1"/>
+    <Elem NameU="Hero-mechanical conveyor 2" Name="輸送機 2"/>
+    <Elem NameU="Hero-mechanical conveyor 3" Name="輸送機 3"/>
+    <Elem NameU="Hero-mechanical conveyor 4" Name="輸送機 4"/>
+    <Elem NameU="Hero-mechanical conveyor 5" Name="輸送機 5"/>
+    <Elem NameU="Hero-mechanical conveyor 6" Name="輸送機 6"/>
+    <Elem NameU="Hero-mechanical conveyor 7" Name="輸送機 7"/>
+    <Elem NameU="Hero-mechanical conveyor 8" Name="輸送機 8"/>
+    <Elem NameU="AGI mixer" Name="AGI 混合器"/>
+    <Elem NameU="Air swept pulverizer" Name="風掃煤磨機"/>
+    <Elem NameU="Airswept tubular dryer" Name="鼓风管状干燥机"/>
+    <Elem NameU="Bag dump station" Name="垃圾袋丢弃站"/>
+    <Elem NameU="Baghouse dust collector" Name="袋式除塵器"/>
+    <Elem NameU="Ball mill" Name="球磨機"/>
+    <Elem NameU="Bulk bag discharger" Name="散裝袋卸貨機"/>
+    <Elem NameU="Bulk bag feeder" Name="裝袋機"/>
+    <Elem NameU="Bulk bag filler" Name="裝袋機 2"/>
+    <Elem NameU="Bulk bag filling station" Name="裝袋機 3"/>
+    <Elem NameU="Bulk bag loader" Name="散裝袋裝貨機"/>
+    <Elem NameU="Bulk railcar" Name="軌道車"/>
+    <Elem NameU="Cartridge dust collector" Name="套筒式除塵器"/>
+    <Elem NameU="Centrifugal type sifter" Name="離心篩"/>
+    <Elem NameU="Centrifuge" Name="離心機"/>
+    <Elem NameU="Clarifier" Name="澄清器"/>
+    <Elem NameU="Colloid mixer" Name="膠體攪拌機"/>
+    <Elem NameU="Compact spray dryer" Name="小型噴霧乾燥器"/>
+    <Elem NameU="Cone crusher" Name="圓錐破碎機"/>
+    <Elem NameU="Conical screw processor" Name="錐形螺桿擠出機"/>
+    <Elem NameU="Cyclone1" Name="旋風器 1"/>
+    <Elem NameU="Cyclone2" Name="旋風器 2"/>
+    <Elem NameU="Disc pulverizer1" Name="盤式粉磨機 1"/>
+    <Elem NameU="Disc pulverizer2" Name="盤式粉磨機 2"/>
+    <Elem NameU="Double roll crusher" Name="雙輪破碎機"/>
+    <Elem NameU="Dryer cooler" Name="冷卻乾燥機"/>
+    <Elem NameU="Dust collector1" Name="收塵器 1"/>
+    <Elem NameU="Dust collector2" Name="收塵器 2"/>
+    <Elem NameU="Dust collector3" Name="收塵器 3"/>
+    <Elem NameU="Dust collector4" Name="收塵器 4"/>
+    <Elem NameU="Dust collector5" Name="收塵器 5"/>
+    <Elem NameU="Dust collector6" Name="收塵器 6"/>
+    <Elem NameU="Dust reclaim" Name="粉塵回收機"/>
+    <Elem NameU="Elevator for powders and pellets" Name="粉塵顆粒傳送機"/>
+    <Elem NameU="Feeder" Name="送料器"/>
+    <Elem NameU="Flow meter" Name="流量表"/>
+    <Elem NameU="Fluidizing conveyor" Name="空氣輸送機"/>
+    <Elem NameU="Gravimetric feeder1" Name="重力送料器 1"/>
+    <Elem NameU="Gravimetric feeder2" Name="重力送料器 2"/>
+    <Elem NameU="Grinder" Name="研磨機"/>
+    <Elem NameU="Grinding mill" Name="研磨機"/>
+    <Elem NameU="Hammer mill 1" Name="錘式粉碎機 1"/>
+    <Elem NameU="Hammer mill 2" Name="錘式粉碎機 2"/>
+    <Elem NameU="High vacuum conveyer" Number="2" Name="真空輸送機"/>
+    <Elem NameU="Homomixer" Name="高速攪拌機"/>
+    <Elem NameU="Hopper1" Name="進料漏斗 1"/>
+    <Elem NameU="Hopper2" Name="進料漏斗 2"/>
+    <Elem NameU="Hopper3" Name="進料漏斗 3"/>
+    <Elem NameU="Loss in weight feeder" Name="給料器"/>
+    <Elem NameU="Mill classification system" Name="研磨粉類系統"/>
+    <Elem NameU="Modular feeder" Name="組合給料機"/>
+    <Elem NameU="Particles" Name="碎料"/>
+    <Elem NameU="Pipeline mixer" Name="管道混合器"/>
+    <Elem NameU="Plant vacuum system" Name="設備真空系統"/>
+    <Elem NameU="Powder mixer" Name="粉末攪拌器"/>
+    <Elem NameU="Refiner" Name="精磨機"/>
+    <Elem NameU="Rotary airlock feeder1" Name="旋轉氣封進料器 1"/>
+    <Elem NameU="Rubber granulator" Name="橡膠造粒機"/>
+    <Elem NameU="Self-dumping hopper" Name="自動卸料漏斗"/>
+    <Elem NameU="Shredder" Name="粉碎機"/>
+    <Elem NameU="Silo" Name="料倉"/>
+    <Elem NameU="Simple agglomeration" Name="凝結器"/>
+    <Elem NameU="Simple air classifier" Name="空氣分級機"/>
+    <Elem NameU="Simple centrifugal scalper" Name="離心篩"/>
+    <Elem NameU="Simple classifier mill" Name="分級磨"/>
+    <Elem NameU="Simple dyna-slide feeder" Name="滑動給料器"/>
+    <Elem NameU="Simple feeder" Name="簡易給料機"/>
+    <Elem NameU="Simple filter" Name="簡易過濾器"/>
+    <Elem NameU="Simple fine grinding mill" Name=" 簡易細磨機"/>
+    <Elem NameU="Simple hammermill" Name="簡易錘磨嘰"/>
+    <Elem NameU="Simple hopper with material" Name="簡易料斗"/>
+    <Elem NameU="Simple roller mill" Name="簡易滾壓機"/>
+    <Elem NameU="Simple rotary airlock feeder" Name="簡易旋轉氣封進料器"/>
+    <Elem NameU="Simple screener" Name="簡易篩分機"/>
+    <Elem NameU="Simple shredder" Name="簡易粉碎機"/>
+    <Elem NameU="Simple silo" Name="簡易料倉"/>
+    <Elem NameU="Simple solids processing" Name="簡易固體處理"/>
+    <Elem NameU="Simple transporter" Name="簡易傳送裝置"/>
+    <Elem NameU="Simple vibrating screen" Name="簡易振動篩"/>
+    <Elem NameU="Simple weigh hopper" Name="簡易稱量斗"/>
+    <Elem NameU="Spiral conveyor with hopper" Name="帶漏斗螺旋輸送機"/>
+    <Elem NameU="Stainless steel heavy-duty mixer" Name="不鏽鋼重型攪拌器"/>
+    <Elem NameU="Three stage wet collector" Name="濕式除塵器"/>
+    <Elem NameU="Truck loader" Name="自動裝卸機"/>
+    <Elem NameU="Truck" Name="卡車"/>
+    <Elem NameU="Vacuum boost" Name="真空助力器"/>
+    <Elem NameU="Vacuum pressure unloader" Name="真空壓力卸料機"/>
+    <Elem NameU="Vertical shaft impactor" Name="垂直軸撞擊器"/>
+    <Elem NameU="Vibrating bin discharger with dual outlets" Name="雙渠道震動容器放電器"/>
+    <Elem NameU="Volumetric feeder machine" Name="容積式給料機"/>
+    <Elem NameU="Volumetric feeder" Name="容積式給料器"/>
+    <Elem NameU="Wire mesh container" Name="金屬網倉儲籠"/>
+</Lib>

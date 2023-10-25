@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="PID Push Buttons">
+	<Elem NameU="3-D black button" Name="Pulsante nero 3-D"/>
+	<Elem NameU="3-D blue button" Name="Pulsante blu 3-D"/>
+	<Elem NameU="3-D green button" Name="Pulsante verde 3-D"/>
+	<Elem NameU="3-D red button" Name="Pulsante rosso 3-D"/>
+	<Elem NameU="3-D yellow button" Name="Pulsante giallo 3-D"/>
+	<Elem NameU="Black pushbutton" Name="Pulsante nero"/>
+	<Elem NameU="Blue pilot light" Name="Luce pilota blu"/>
+	<Elem NameU="Dark green pilot light" Name="Luce pilota verde scuro"/>
+	<Elem NameU="Button 1" Name="Pulsante 1"/>
+	<Elem NameU="Button 2" Name="Pulsante 2"/>
+	<Elem NameU="Button 3" Name="Pulsante 3"/>
+	<Elem NameU="Button 4" Name="Pulsante 4"/>
+	<Elem NameU="Button 5" Name="Pulsante 5"/>
+	<Elem NameU="Button 6" Name="Pulsante 6"/>
+	<Elem NameU="Dial 1" Name="Quadrante 1"/>
+	<Elem NameU="Dial 2" Name="Quadrante 2"/>
+	<Elem NameU="Dial 3" Name="Quadrante 3"/>
+	<Elem NameU="Dial 4" Name="Quadrante 4"/>
+	<Elem NameU="Red pilot light" Name="Luce pilota rossa"/>
+	<Elem NameU="Long flip switch (down)" Name="Interruttore a levetta (verso giù)"/>
+	<Elem NameU="Long flip switch (up)" Name="Interruttore a levetta (verso su)"/>
+	<Elem NameU="Long flip switch (left)" Name="Interruttore a levetta (a sinistra)"/>
+	<Elem NameU="Long flip switch (right)" Name="Interruttore a levetta (a destra)"/>
+	<Elem NameU="Navy pilot light" Name="Luce pilota nautica"/>
+	<Elem NameU="Pilot light (off)" Name="Luce pilota spenta"/>
+	<Elem NameU="Rectangular pushbutton" Name="Pulsante rettangolare"/>
+	<Elem NameU="Red pushbutton" Name="Pulsante rosso"/>
+	<Elem NameU="Rocker switch" Name="Interruttore"/>
+	<Elem NameU="Rocker switch (down)" Name="Interruttore (verso giù)"/>
+	<Elem NameU="Rocker switch (up)" Name="Interruttore (verso su)"/>
+	<Elem NameU="Rocker switch (left)" Name="Interruttore (a sinistra)"/>
+	<Elem NameU="Rocker switch (right)" Name="Interruttore (a destra)"/>
+	<Elem NameU="Selector switch (down) 1" Name="Interruttore di selezione (verso giù) 1"/>
+	<Elem NameU="Selector switch (up) 1" Name="Interruttore di selezione (verso su) 1"/>
+	<Elem NameU="Selector switch (left) 1" Name="Interruttore di selezione (a sinistra) 1"/>
+	<Elem NameU="Selector switch (right) 1" Name="Interruttore di selezione (a destra) 1"/>
+	<Elem NameU="Selector switch (down) 2" Name="Interruttore di selezione (verso giù) 2"/>
+	<Elem NameU="Selector switch (up) 2" Name="Interruttore di selezione (verso su) 2"/>
+	<Elem NameU="Selector switch (left) 2" Name="Interruttore di selezione (a sinist)a 2"/>
+	<Elem NameU="Selector switch (right) 2" Name="Interruttore di selezione (a destra) 2"/>
+	<Elem NameU="Slide switch (down)" Name="Interruttore a scorrimento (verso giù)"/>
+	<Elem NameU="Slide switch (up)" Name="Interruttore a scorrimento (verso su)"/>
+	<Elem NameU="Slide switch (left)" Name="Interruttore a scorrimento (a sinistra)"/>
+	<Elem NameU="Slide switch (right)" Name="Interruttore a scorrimento (a destra)"/>
+	<Elem NameU="Slider 1" Name="Slider 1"/>
+	<Elem NameU="Slider 2" Name="Slider 2"/>
+	<Elem NameU="Slider 3" Name="Slider 3"/>
+	<Elem NameU="Start button 2" Name="Pulsante di accensione 2"/>
+	<Elem NameU="Start button" Name="Pulsante di accensione"/>
+	<Elem NameU="Throw switch (down)" Name="Commutatore (verso giù)"/>
+	<Elem NameU="Throw switch (up)" Name="Commutatore (verso su)"/>
+	<Elem NameU="Throw switch (left)" Name="Commutatore (a sinistra)"/>
+	<Elem NameU="Throw switch (right)" Name="Commutatore (a destra)"/>
+	<Elem NameU="White pilot light" Name="Luce pilota bianca"/>
+	<Elem NameU="Yellow pilot light" Name="Luce pilota gialla"/>
+	<Elem NameU="Yellow pushbutton" Name="Pulsante giallo"/>
+</Lib>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Status Table">
+    <Elem NameU="Blank Status Table" Name="空白状态表"/>
+    <Elem NameU="Blank Status Table - Green" Name="空白状态表 - 绿色"/>
+    <Elem NameU="Blank Status Table - Dark Red" Name="空白状态表 - 深红色"/>
+    <Elem NameU="Status Table" Name="状态表"/>
+    <Elem NameU="Status Table 2" Name="状态表 2"/>
+    <Elem NameU="Task Status" Name="任务表"/>
+    <Elem NameU="Yes/No" Name="是/否"/>
+    <Elem NameU="Check Box" Name="复选框"/>
+    <Elem NameU="Progress" Name="进度"/>
+    <Elem NameU="Progress 2" Name="进度 2"/>
+    <Elem NameU="Progress 3" Name="进度 3"/>
+    <Elem NameU="Priority" Name="优先级"/>
+    <Elem NameU="4-State Priority" Name="4状态优先级"/>
+    <Elem NameU="3-State Alert" Name="3状态警示符"/>
+    <Elem NameU="6-State Status" Name="6状态符号"/>
+    <Elem NameU="4-Direction Arrow" Name="4方向箭头"/>
+    <Elem NameU="4-Direction Arrow 2" Name="4方向箭头 2"/>
+    <Elem NameU="Progress Status" Name="进度状态"/>
+    <Elem NameU="Trafic Light" Name="红绿灯"/>
+    <Elem NameU="Rating" Name="评价"/>
+    <Elem NameU="Quality" Name="质量"/>
+    <Elem NameU="Lock/UnLock" Name="锁/解锁"/>
+    <Elem NameU="10-State Flag" Name="10种变形标志"/>
+    <Elem NameU="12-State Flag" Name="12种变形标志"/>
+    <Elem NameU="Numbering" Name="数字"/>
+    <Elem NameU="Message" Name="消息"/>
+    <Elem NameU="Message 2" Name="消息 2"/>
+    <Elem NameU="Spacing Bar" Name="间隔条"/>
+</Lib>

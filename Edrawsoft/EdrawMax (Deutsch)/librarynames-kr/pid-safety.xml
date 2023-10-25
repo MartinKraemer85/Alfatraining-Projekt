@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Safety">
+    <Elem NameU="Barricade 1" Name="바리케이드1"/>
+    <Elem NameU="Barricade 2" Name="바리케이드2"/>
+    <Elem NameU="Do not enter sign" Name="출입 금지"/>
+    <Elem NameU="Lockout tag background" Name="잠금 태그 배경"/>
+    <Elem NameU="Lockout tag" Name="태그 잠금"/>
+    <Elem NameU="Long-haired freaky people need not apply" Name="이상한 사람은 신청할 필요 없음"/>
+    <Elem NameU="Orange diamond caution sign" Name="오렌지 다이아몬드 주의 표시"/>
+    <Elem NameU="Orange pylon" Name="주황색 철탑"/>
+    <Elem NameU="Orange warning sign" Name="주황색 경고 표시"/>
+    <Elem NameU="OSHA tape (black-white checked)" Name="OSHA테이프（흑백 체크 무늬）"/>
+    <Elem NameU="OSHA tape (black-white striped)" Name="OSHA테이프（흑백 줄무늬）"/>
+    <Elem NameU="OSHA tape (red-white checked)" Name="OSHA테이프（레드 화이트 체크 무늬）"/>
+    <Elem NameU="OSHA tape (red-white striped)" Name="OSHA테이프（레드 화이트 줄무늬）"/>
+    <Elem NameU="OSHA tape (yellow-black checked)" Name="OSHA테이프（노랑-검정 체크 무늬）"/>
+    <Elem NameU="OSHA tape (yellow-black striped)" Name="OSHA테이프（노랑-검정 줄무늬）"/>
+    <Elem NameU="Small caution sign" Name="작은 경고 표시"/>
+    <Elem NameU="Small danger sign" Name="작은 위험 표시"/>
+    <Elem NameU="Small warning sign" Name="작은 경고 표시"/>
+    <Elem NameU="Stop sign" Name="주차 표시"/>
+    <Elem NameU="White danger sign" Name="흰색 위험 기호"/>
+    <Elem NameU="White floor stand sign" Name="흰색 바닥 스탠드 기호"/>
+    <Elem NameU="Yellow caution sign" Name="노란색 경고 표시"/>
+    <Elem NameU="Yellow diamond caution sign" Name="노란색 다이아몬드 경고 표시"/>
+    <Elem NameU="Yellow floor stand sign" Name="노란색 바닥 스탠드 기호"/>
+    <Elem NameU="Yellow pylon" Name="노란색 철탑"/>
+    <Elem NameU="Yellow warning stripe" Name="노란색 경고 스트라이프"/>
+    <Elem NameU="Yield sign" Name="양보 기호"/>
+</Lib>

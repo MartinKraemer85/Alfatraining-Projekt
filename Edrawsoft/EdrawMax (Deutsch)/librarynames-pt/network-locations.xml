@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Network Locations">
+	<Elem NameU="Common Buildings 1" Name="Edifícos Comuns 1"/>
+	<Elem NameU="Common Buildings 3" Name="Edifícos Comuns 3"/>
+	<Elem NameU="Common Buildings 2" Name="Edifícos Comuns 2"/>
+	<Elem NameU="Common Buildings 4" Name="Edifícos Comuns 4"/>
+	<Elem NameU="Common Buildings 5" Name="Edifícos Comuns 5"/>
+	<Elem NameU="Community" Name="Comunidade"/>
+	<Elem NameU="Enterprise" Name="Empresa"/>
+	<Elem NameU="Residential" Name="Residencial"/>
+	<Elem NameU="Business center" Name="Centro de negócios"/>
+	<Elem NameU="Office Building" Name="Edifício de Escritórios"/>
+	<Elem NameU="Hotel" Name="Hotel"/>
+	<Elem NameU="City" Name="Cidade"/>
+	<Elem NameU="City Block" Name="Bloco de Cidade"/>
+	<Elem NameU="Central Building" Name="Edifício Central"/>
+	<Elem NameU="Town" Name="Cidade"/>
+	<Elem NameU="Building" Name="Edifício"/>
+	<Elem NameU="Residence" Name="Residência"/>
+	<Elem NameU="Factory" Name="Fábrica"/>
+	<Elem NameU="Financial" Name="Financeiro"/>
+	<Elem NameU="Law" Name="Lei"/>
+	<Elem NameU="Manufacturing" Name="Fabricação"/>
+	<Elem NameU="Retail" Name="Retalho"/>
+	<Elem NameU="Trade" Name="Negociar"/>
+	<Elem NameU="Education" Name="Educação"/>
+	<Elem NameU="Traffic" Name="Tráfego"/>
+	<Elem NameU="Telephone Poles" Name="Postes Telefônicos"/>
+	<Elem NameU="Government" Name="Governo"/>
+	<Elem NameU="University" Name="Universidade"/>
+	<Elem NameU="Generic Building" Name="Edifício Genérico"/>
+	<Elem NameU="Branch Office" Name="Filial"/>
+	<Elem NameU="Small Business" Name="Pequeno Negócio"/>
+	<Elem NameU="Home Regular" Name="Casa Regular"/>
+	<Elem NameU="Telecommute Home" Name="Casa de Telecomutar"/>
+	<Elem NameU="Home Office" Name="Escritório Doméstico"/>
+	<Elem NameU="IP Hotel" Name="Hotel IP"/>
+	<Elem NameU="Intranet" Name="Intranet"/>
+	<Elem NameU="Satellite" Name="Satélite"/>
+	<Elem NameU="Satellite Dish" Name="Prato de Satélite"/>
+	<Elem NameU="Radio Tower 1" Name="Torre de Rádio 1"/>
+	<Elem NameU="Radio Tower 2" Name="Torre de Rádio 2"/>
+	<Elem NameU="Railroad" Name="Ferrovia"/>
+	<Elem NameU="Network management platform" Name="Plataforma de gestão de rede"/>
+	<Elem NameU="Service-Server" Name="Serviço-Servidor"/>
+	<Elem NameU="TELLIN" Name="TELLIN"/>
+	<Elem NameU="ISP/IC " Name="ISP/IC"/>
+	<Elem NameU="ASP " Name="ASP"/>
+	<Elem NameU="CSP " Name="CSP"/>
+	<Elem NameU="Portal" Name="Portal"/>
+	<Elem NameU="Dial-up users" Name="Usuários Dial-up"/>
+	<Elem NameU="Internet Cloud" Name="Cloud da Internet"/>
+	<Elem NameU="Internet Cloud 2" Name="Cloud da Internet 2"/>
+	<Elem NameU="Internet Cloud 3" Name="Cloud da Internet 3"/>
+	<Elem NameU="Workgroup" Name="Grupo de trabalho"/>
+</Lib>

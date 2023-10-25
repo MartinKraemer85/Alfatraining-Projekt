@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Source and Battery">
+	<Elem NameU="Source" Name="Fonte"/>
+	<Elem NameU="Ideal source" Name="Fonte ideal"/>
+	<Elem NameU="AC source" Name="Fonte AC"/>
+	<Elem NameU="DC source" Name="Fonte DC"/>
+	<Elem NameU="Constant source" Name="Fonte constante"/>
+	<Elem NameU="Cell" Name="Célula"/>
+	<Elem NameU="Battery" Name="Bateria"/>
+	<Elem NameU="AC" Name="AC"/>
+	<Elem NameU="Current" Name="Corrente"/>
+	<Elem NameU="DC" Name="DC"/>
+	<Elem NameU="DC 2" Name="DC 2"/>
+	<Elem NameU="Dependent" Name="Dependente"/>
+	<Elem NameU="Dependent 2" Name="Dependente 2"/>
+	<Elem NameU="Dependent 3" Name="Dependente 3"/>
+	<Elem NameU="Noise" Name="Ruído"/>
+	<Elem NameU="Oscillator" Name="Oscilador"/>
+</Lib>

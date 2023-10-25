@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Others">
+    <Elem NameU="Cloud shell" Name="클라우드 쉘"/>
+    <Elem NameU="Composer" Name="작성기"/>
+    <Elem NameU="Config" Name="배치"/>
+    <Elem NameU="DFS" Name="DFS"/>
+    <Elem NameU="DNS" Name="DNS"/>
+    <Elem NameU="GDS" Name="GDS"/>
+    <Elem NameU="Graphic workstation" Name="그래픽 작업 스테이션"/>
+    <Elem NameU="GTM" Name="GTM"/>
+    <Elem NameU="Log service" Name="로그 서비스"/>
+    <Elem NameU="Mini app cloud" Name="미니 앱"/>
+    <Elem NameU="Mini program cloud app" Name="미니 프로그램"/>
+    <Elem NameU="Open API explorer" Name="API 조절 도구"/>
+    <Elem NameU="Phone number identification" Name="번호 인증"/>
+    <Elem NameU="Private link" Name="사설 링크"/>
+    <Elem NameU="Privatezone DNS" Name="프라이빗 영역 DNS"/>
+    <Elem NameU="SMC" Name="SMC"/>
+    <Elem NameU="Tracing analysis" Name="추적 분석"/>
+    <Elem NameU="Web application host server Web" Name="웹 애플리케이션 호스트 서버 웹"/>
+</Lib>

@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Business">
+
+<Elem Name="グローバル" NameU="Global"/>
+
+<Elem Name="リサーチ" NameU="Research"/>
+
+<Elem Name="国際的" NameU="International"/>
+
+<Elem Name="熱風船" NameU="Hot Air Balloon"/>
+
+<Elem Name="都市" NameU="City"/>
+
+<Elem Name="超高層ビル" NameU="Skyscraper"/>
+
+<Elem Name="ブランチ" NameU="Branch"/>
+
+<Elem Name="オフィスビル" NameU="Business Office"/>
+
+<Elem Name="購買" NameU="Purchase"/>
+
+<Elem Name="倉庫" NameU="Warehouse"/>
+
+<Elem Name="商品" NameU="Goods"/>
+
+<Elem Name="商品" NameU="Goods 2"/>
+
+<Elem Name="労働者" NameU="Labor"/>
+
+<Elem Name="CEO" NameU="CEO"/>
+
+<Elem Name="CEO 2" NameU="CEO 2"/>
+
+<Elem Name="交流" NameU="Communication"/>
+
+<Elem Name="顧客サービス" NameU="Customer Service"/>
+
+<Elem Name="顧客サービス 2" NameU="Customer Service 2"/>
+
+<Elem Name="方向" NameU="Direction"/>
+
+<Elem Name="競争" NameU="Competition"/>
+
+<Elem Name="チームワーク" NameU="Team Work"/>
+
+<Elem Name="製本" NameU="Binding"/>
+
+<Elem Name="領収書" NameU="Invoice"/>
+
+<Elem Name="手紙" NameU="Letter"/>
+
+<Elem Name="メダル" NameU="Award"/>
+
+<Elem Name="メダル 2" NameU="Award 2"/>
+
+<Elem Name="収入" NameU="Income"/>
+
+<Elem Name="支出" NameU="Expenses"/>
+
+<Elem Name="コスト" NameU="Cost"/>
+
+<Elem Name="税" NameU="Tax"/>
+
+<Elem Name="R &amp; D" NameU="R &amp; D"/>
+
+<Elem Name="レジ" NameU="Cash Register"/>
+
+</Lib>

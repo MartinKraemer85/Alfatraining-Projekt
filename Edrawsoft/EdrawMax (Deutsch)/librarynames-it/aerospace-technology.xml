@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Aerospace Technology">
+	<Elem NameU="Astronaut 1" Name="Astronauta 1"/>
+	<Elem NameU="Astronaut 2" Name="Astronauta 2"/>
+	<Elem NameU="Astronaut 3" Name="Astronauta 3"/>
+	<Elem NameU="Astronomical Telescope 1" Name="Telescopio Astronomico 1"/>
+	<Elem NameU="Astronomical Telescope 2" Name="Telescopio Astronomico 2"/>
+	<Elem NameU="Rocket" Name="Razzo"/>
+	<Elem NameU="Satellite 1" Name="Satellite 1"/>
+	<Elem NameU="Satellite 2" Name="Satellite 2"/>
+	<Elem NameU="Launching Tower" Name="Torretta di Lancio"/>
+	<Elem NameU="Plane" Name="Aereo"/>
+	<Elem NameU="Earth" Name="Terra"/>
+	<Elem NameU="Fighter Aircraft" Name="Aereo da Combattimento"/>
+	<Elem NameU="Missle 1" Name="Missile 1"/>
+	<Elem NameU="Missle 2" Name="Missile 2"/>
+	<Elem NameU="High Speed Rail" Name="Guide ad Alta Velocità"/>
+	<Elem NameU="Submarine 1" Name="Sottomarino 1"/>
+	<Elem NameU="Submarine 2" Name="Sottomarino 2"/>
+	<Elem NameU="Submarine 3" Name="Sottomarino 3"/>
+	<Elem NameU="Tank" Name="Carro Armato"/>
+</Lib>

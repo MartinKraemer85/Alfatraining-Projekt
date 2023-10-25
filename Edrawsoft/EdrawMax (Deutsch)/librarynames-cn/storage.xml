@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Storage">
+    <Elem NameU="Cloud photos" Name="智能云相册"/>
+    <Elem NameU="Cloud storage gateway" Name="云存储网关"/>
+    <Elem NameU="Hybrid backup recovery" Name="混合云备份"/>
+    <Elem NameU="Hybrid cloud storage array" Name="混合云存储阵列"/>
+    <Elem NameU="Hybrid disaster recovery" Name="混合云容灾服务"/>
+    <Elem NameU="Lightning cube" Name="闪电立方"/>
+    <Elem NameU="Network attached storage" Name="文件存储NAS"/>
+    <Elem NameU="Objective storage service" Name="对象存储"/>
+    <Elem NameU="Table storage" Name="表格存储"/>
+</Lib>

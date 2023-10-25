@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Bar Chart">
+	<Elem NameU="Simple Bar" Name="Barres simples"/>
+	<Elem NameU="Gradient Bar" Name="Barres dégradées en couleurs"/>
+	<Elem NameU="Single Series Bar" Name="Barre en série unique"/>
+	<Elem NameU="Bar" Name="Barres"/>
+	<Elem NameU="Bar 2" Name="Barres 2"/>
+	<Elem NameU="Stacked Bar" Name="Barres empilées"/>
+	<Elem NameU="Stacked Bar 2" Name="Barres empilées 2"/>
+	<Elem NameU="Gradient stacked bar chart" Name="Graphique à barres empilées 2"/>
+	<Elem NameU="Single Bar Chart" Name="Graphique à barres unique"/>
+	<Elem NameU="Percentage Stacked Bar" Name="Graphique à barres empilées en pourcentage"/>
+	<Elem NameU="Percentage Stacked Bar 2" Name="Graphique à barres empilées en pourcentage2"/>
+	<Elem NameU="Percentage Bar Chart" Name="Diagramme à barres en pourcentage"/>
+</Lib>

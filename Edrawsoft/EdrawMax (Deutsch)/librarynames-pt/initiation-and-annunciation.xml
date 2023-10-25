@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Initiation and Annunciation">
+	<Elem NameU="Multiplex panel" Name="Painel multiplex"/>
+	<Elem NameU="Control panel" Name="Painel de controle"/>
+	<Elem NameU="CPU" Name="CPU"/>
+	<Elem NameU="Keyboard" Name="Teclado"/>
+	<Elem NameU="Printer" Name="Impressora"/>
+	<Elem NameU="Intercom" Name="Interomunicador"/>
+	<Elem NameU="Two way radio" Name="Rádio de duas vias"/>
+	<Elem NameU="Document destroyer" Name="Destruidor de documentos"/>
+</Lib>

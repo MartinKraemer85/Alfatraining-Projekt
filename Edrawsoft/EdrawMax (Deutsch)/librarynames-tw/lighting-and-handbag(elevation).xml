@@ -1,0 +1,33 @@
+<Lib NameU="Lighting and Handbag (Elevation)">
+  <Elem Name="燈 1" NameU="Lighting 1"/>
+  <Elem Name="燈 2" NameU="Lighting 2"/>
+  <Elem Name="燈 3" NameU="Lighting 3"/>
+  <Elem Name="燈 4" NameU="Lighting 4"/>
+  <Elem Name="燈 5" NameU="Lighting 5"/>
+  <Elem Name="燈 6" NameU="Lighting 6"/>
+  <Elem Name="燈 7" NameU="Lighting 7"/>
+  <Elem Name="燈 8" NameU="Lighting 8"/>
+  <Elem Name="燈 9" NameU="Lighting 9"/>
+  <Elem Name="燈 10" NameU="Lighting 10"/>
+  <Elem Name="燈 11" NameU="Lighting 11"/>
+  <Elem Name="燈 12" NameU="Lighting 12"/>
+  <Elem Name="手袋 1" NameU="Handbag 1"/>
+  <Elem Name="手袋 2" NameU="Handbag 2"/>
+  <Elem Name="手袋 3" NameU="Handbag 3"/>
+  <Elem Name="手袋 4" NameU="Handbag 4"/>
+  <Elem Name="手袋 5" NameU="Handbag 5"/>
+  <Elem Name="衣服" NameU="Clothing"/>
+  <Elem Name="鞋子 1" NameU="Shoe 1"/>
+  <Elem Name="鞋子 2" NameU="Shoe 2"/>
+  <Elem Name="鞋子 3" NameU="Shoe 3"/>
+  <Elem Name="鞋子 4" NameU="Shoe 4"/>
+  <Elem Name="鞋子 5" NameU="Shoe 5"/>
+  <Elem Name="模特 1" NameU="Model 1"/>
+  <Elem Name="模特 2" NameU="Model 2"/>
+  <Elem Name="模特 3" NameU="Model 3"/>
+  <Elem Name="模特 4" NameU="Model 4"/>
+  <Elem Name="模特 5" NameU="Model 5"/>
+  <Elem Name="模特 6" NameU="Model 6"/>
+  <Elem Name="展示架" NameU="Showing stand"/>
+  <Elem Name="鑽石" NameU="Diamond"/>
+</Lib>

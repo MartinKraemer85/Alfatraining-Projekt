@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Greek Letter">
+	<Elem NameU="Pi" Name="Pi"/>
+	<Elem NameU="Alpha" Name="Alpha"/>
+	<Elem NameU="Beta" Name="Beta"/>
+	<Elem NameU="Gamma" Name="Gamma"/>
+	<Elem NameU="Delta" Name="Delta"/>
+	<Elem NameU="Epsilon" Name="Epsilon"/>
+	<Elem NameU="Zeta" Name="Zeta"/>
+	<Elem NameU="Eta" Name="Eta"/>
+	<Elem NameU="Theta" Name="Theta"/>
+	<Elem NameU="Iota" Name="Iota"/>
+	<Elem NameU="Kappa" Name="Kappa"/>
+	<Elem NameU="Lambda" Name="Lambda"/>
+	<Elem NameU="Mu" Name="Mu"/>
+	<Elem NameU="Nu" Name="Nu"/>
+	<Elem NameU="Xi" Name="Xi"/>
+	<Elem NameU="Omicron" Name="Omicron"/>
+	<Elem NameU="Rho" Name="Rho"/>
+	<Elem NameU="Sigma" Name="Sigma"/>
+	<Elem NameU="Tau" Name="Tau"/>
+	<Elem NameU="Upsilon" Name="Upsilon"/>
+	<Elem NameU="Phi" Name="Phi"/>
+	<Elem NameU="Chi" Name="Chi"/>
+	<Elem NameU="Psi" Name="Psi"/>
+	<Elem NameU="Omega" Name="Omega"/>
+	<Elem NameU="Alpha Capital" Name="Alpha Maiuscola"/>
+	<Elem NameU="Beta Capital" Name="Beta Maiuscola"/>
+	<Elem NameU="Gamma Capital" Name="Gamma Maiuscola"/>
+	<Elem NameU="Delta Capital" Name="Delta Maiuscola"/>
+	<Elem NameU="Epsilon Capital" Name="Epsilon Maiuscola"/>
+	<Elem NameU="Zeta Capital" Name="Zeta Maiuscola"/>
+	<Elem NameU="Eta Capital" Name="Eta Maiuscola"/>
+	<Elem NameU="Theta Capital" Name="Theta Maiuscola"/>
+	<Elem NameU="Iota Capital" Name="Iota Maiuscola"/>
+	<Elem NameU="Kappa Capital" Name="Kappa Maiuscola"/>
+	<Elem NameU="Lambda Capital" Name="Lambda Maiuscola"/>
+	<Elem NameU="Mu Capital" Name="Mu Maiuscola"/>
+	<Elem NameU="Nu Capital" Name="Nu Maiuscola"/>
+	<Elem NameU="Xi Capital" Name="Xi Maiuscola"/>
+	<Elem NameU="Omicron Capital" Name="Omicron Maiuscola"/>
+	<Elem NameU="Pi Capital" Name="Pi Maiuscola"/>
+	<Elem NameU="Rho Capital" Name="Rho Maiuscola"/>
+	<Elem NameU="Sigma Capital" Name="Sigma Maiuscola"/>
+	<Elem NameU="Tau Capital" Name="Tau Maiuscola"/>
+	<Elem NameU="Upsilon Capital" Name="Upsilon Maiuscola"/>
+	<Elem NameU="Phi Capital" Name="Phi Maiuscola"/>
+	<Elem NameU="Chi Capital" Name="Chi Maiuscola"/>
+	<Elem NameU="Psi Capital" Name="Psi Maiuscola"/>
+	<Elem NameU="Omega Capital" Name="Omega Maiuscola"/>
+</Lib>

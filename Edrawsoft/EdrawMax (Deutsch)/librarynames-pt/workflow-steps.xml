@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Workflow Steps">
+	<Elem NameU="Entertain" Name="Entreter"/>
+	<Elem NameU="Request" Name="Pedir"/>
+	<Elem NameU="Collect Data" Name="Recolher Dados"/>
+	<Elem NameU="Analyze" Name="Analisar"/>
+	<Elem NameU="Research" Name="Investigação"/>
+	<Elem NameU="Brainstorm" Name="Brainstorm"/>
+	<Elem NameU="Submit" Name="Submeter"/>
+	<Elem NameU="Submit 2" Name="Submeter 2"/>
+	<Elem NameU="Program analysis" Name="Análise de programa"/>
+	<Elem NameU="Approve" Name="Aprovar"/>
+	<Elem NameU="Refuse" Name="Recusar"/>
+	<Elem NameU="Schedule" Name="Agenda"/>
+	<Elem NameU="Prototype Design" Name="Design de Protótipos"/>
+	<Elem NameU="Task" Name="Tarefa"/>
+	<Elem NameU="Problem" Name="Problema"/>
+	<Elem NameU="Meeting" Name="Reunião"/>
+	<Elem NameU="Present" Name="Presente"/>
+	<Elem NameU="Call" Name="Chamada"/>
+	<Elem NameU="Agreement" Name="Acordo"/>
+</Lib>

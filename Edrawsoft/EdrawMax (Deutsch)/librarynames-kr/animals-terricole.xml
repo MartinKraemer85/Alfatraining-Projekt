@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Animals-Terricole">
+    <Elem NameU="Dog" Name="개"/>
+    <Elem NameU="Rabbit" Name="토끼"/>
+    <Elem NameU="Cat" Name="고양이"/>
+    <Elem NameU="Red-crowned Crane" Name="붉은 왕관 크레인"/>
+    <Elem NameU="Giraffe 1" Name="기린1"/>
+    <Elem NameU="Fawn" Name="사슴"/>
+    <Elem NameU="Cock" Name="수탉"/>
+    <Elem NameU="Sheep" Name="양"/>
+    <Elem NameU="Cow" Name="소"/>
+    <Elem NameU="Squirrel" Name="다람쥐"/>
+    <Elem NameU="Tortoise" Name="거북이"/>
+    <Elem NameU="Mouse" Name="쥐"/>
+    <Elem NameU="Duck" Name="오리"/>
+    <Elem NameU="Pigeon" Name="비둘기"/>
+    <Elem NameU="Peace Dove" Name="평화 비둘기"/>
+    <Elem NameU="Panda" Name="팬더"/>
+    <Elem NameU="Snake" Name="뱀"/>
+    <Elem NameU="Elephant" Name="코끼리"/>
+    <Elem NameU="Koala" Name="코알라"/>
+    <Elem NameU="Horse" Name="말"/>
+    <Elem NameU="Camel" Name="낙타"/>
+    <Elem NameU="Pig" Name="돼지"/>
+    <Elem NameU="Sika Deer" Name="시카 사슴"/>
+    <Elem NameU="Snail" Name="달팽이"/>
+    <Elem NameU="Gecko" Name="도마뱀"/>
+    <Elem NameU="Frog" Name="개구리"/>
+    <Elem NameU="Toad" Name="두꺼비"/>
+    <Elem NameU="Parrot" Name="앵무새"/>
+    <Elem NameU="Rhinoceros" Name="코뿔소"/>
+    <Elem NameU="Bat" Name="박쥐"/>
+    <Elem NameU="Lizard" Name="도마뱀"/>
+    <Elem NameU="Leopard" Name="표범"/>
+    <Elem NameU="Hippopotamus 1" Name="하마1"/>
+    <Elem NameU="Hippopotamus 2" Name="하마2"/>
+    <Elem NameU="Polar bear 1" Name="북극곰1"/>
+    <Elem NameU="Polar bear 2" Name="북극곰2"/>
+    <Elem NameU="Polar bear 3" Name="북극곰3"/>
+    <Elem NameU="Elephant 1" Name="코끼리1"/>
+    <Elem NameU="Elephant 2" Name="코끼리2"/>
+    <Elem NameU="Crocodile 1" Name="악어1"/>
+    <Elem NameU="Crocodile 2" Name="악어2"/>
+    <Elem NameU="Tyrannosaurus" Name="티라노사우루스"/>
+    <Elem NameU="Stegosaurus" Name="스테고사우루스"/>
+</Lib>

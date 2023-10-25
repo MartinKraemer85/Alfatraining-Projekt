@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Electrical Audio">
+	<Elem NameU="Speaker" Name="Altoparlante"/>
+	<Elem NameU="Microphone" Name="Microfono"/>
+	<Elem NameU="Microphone 2" Name="Microfono 2"/>
+	<Elem NameU="Microphone 3" Name="Microfono 3"/>
+	<Elem NameU="Microphone 4" Name="Microfono 4"/>
+	<Elem NameU="Dipole" Name="Dipolo"/>
+	<Elem NameU="Electrical microphone" Name="Microfono elettrico"/>
+	<Elem NameU="Piezo sounder" Name="Piezoelettrico "/>
+	<Elem NameU="Buzzer" Name="Buzzer"/>
+	<Elem NameU="Headphones" Name="Cuffie"/>
+</Lib>

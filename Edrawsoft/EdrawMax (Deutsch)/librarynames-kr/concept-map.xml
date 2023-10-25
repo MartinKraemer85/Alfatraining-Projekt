@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Concept Map">
+    <Elem NameU="Rectangle" Name="사각형"/>
+    <Elem NameU="Rounded rectangle" Name="둥근 사각형"/>
+    <Elem NameU="Ellipse" Name="타원"/>
+    <Elem NameU="Round head rectangle" Name="둥근 사각형"/>
+    <Elem NameU="Diamond" Name="다이아몬드"/>
+    <Elem NameU="Circle" Name="원형"/>
+    <Elem NameU="Star" Name="별"/>
+    <Elem NameU="Dynamic Star" Name="다이나믹 스타"/>
+    <Elem NameU="Parallellogram" Name="평행 사변형"/>
+    <Elem NameU="Hexagon" Name="육각형"/>
+    <Elem NameU="Wow" Name="와우"/>
+    <Elem NameU="KABOOM" Name="급증"/>
+    <Elem NameU="Cloud" Number="2" Name="클라우드"/>
+    <Elem NameU="Table" Name="표"/>
+    <Elem NameU="Ellipse balloon" Number="2" Name="타원 풍선"/>
+    <Elem NameU="Rect balloon" Name="구형 풍선"/>
+    <Elem NameU="Arrow" Name="화살표"/>
+</Lib>

@@ -1,0 +1,1384 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ShapeStrings Version="11.5.0">
+    <String Name="(+)" NameU="(+)"/>
+    <String Name="(-)" NameU="(-)"/>
+    <String Name="(x)" NameU="(x)"/>
+    <String Name="+" NameU="+"/>
+    <String Name="-" NameU="-"/>
+    <String Name="-10" NameU="-10"/>
+    <String Name="-20" NameU="-20"/>
+    <String Name="-30" NameU="-30"/>
+    <String Name="0" NameU="0"/>
+    <String Name="0 deg." NameU="0 deg."/>
+    <String Name="0%" NameU="0%"/>
+    <String Name="0.0" NameU="0.0"/>
+    <String Name="0.00" NameU="0.00"/>
+    <String Name="0.000" NameU="0.000"/>
+    <String Name="0.000&quot;" NameU="0.000&quot;"/>
+    <String Name="0.2" NameU="0.2"/>
+    <String Name="0.25" NameU="0.25"/>
+    <String Name="0.3333" NameU="0.3333"/>
+    <String Name="0.5" NameU="0.5"/>
+    <String Name="0.57735026918963" NameU="0.57735026918963"/>
+    <String Name="00" NameU="00"/>
+    <String Name="1" NameU="1"/>
+    <String Name="1 線を入力する" NameU="1 Line Inout"/>
+    <String Name="1相" NameU="1-phase"/>
+    <String Name="1.7320508075689" NameU="1.7320508075689"/>
+    <String Name="10" NameU="10"/>
+    <String Name="100%" NameU="100%"/>
+    <String Name="12 px" NameU="12 px"/>
+    <String Name="120 度" NameU="120 deg."/>
+    <String Name="135 度" NameU="135 deg."/>
+    <String Name="16 px" NameU="16 px"/>
+    <String Name="1:1" NameU="1:1"/>
+    <String Name="1:2" NameU="1:2"/>
+    <String Name="1:3" NameU="1:3"/>
+    <String Name="1:4" NameU="1:4"/>
+    <String Name="1:5" NameU="1:5"/>
+    <String Name="Y軸だけ表示する" NameU="1st extension only"/>
+    <String Name="2" NameU="2"/>
+    <String Name="2 電極" NameU="2 Electrodes"/>
+    <String Name="2 線を入力する" NameU="2 Line Input"/>
+    <String Name="2相" NameU="2-phase"/>
+    <String Name="20" NameU="20"/>
+    <String Name="240 度." NameU="240 deg."/>
+    <String Name="25%" NameU="25%"/>
+    <String Name="2:1" NameU="2:1"/>
+    <String Name="X軸だけ表示する" NameU="2nd extension only"/>
+    <String Name="3" NameU="3"/>
+    <String Name="3 電極" NameU="3 Electrodes"/>
+    <String Name="3 状態のデータ" NameU="3 State Data"/>
+    <String Name="3相三角形" NameU="3-phase Delta"/>
+    <String Name="3相星" NameU="3-phase Star Type"/>
+    <String Name="3相Y" NameU="3-phase Wye"/>
+    <String Name="30" NameU="30"/>
+    <String Name="30°" NameU="30°"/>
+    <String Name="3:1" NameU="3:1"/>
+    <String Name="4" NameU="4"/>
+    <String Name="4 電極" NameU="4 Electrodes"/>
+    <String Name="4 px" NameU="4 px"/>
+    <String Name="45 度" NameU="45 deg."/>
+    <String Name="45°" NameU="45°"/>
+    <String Name="4:1" NameU="4:1"/>
+    <String Name="5" NameU="5"/>
+    <String Name="50%" NameU="50%"/>
+    <String Name="5:1" NameU="5:1"/>
+    <String Name="6" NameU="6"/>
+    <String Name="6相直径" NameU="6-phase Diametrical"/>
+    <String Name="6相二重三角形" NameU="6-phase Double-delta"/>
+    <String Name="60°" NameU="60°"/>
+    <String Name="75%" NameU="75%"/>
+    <String Name="8" NameU="8"/>
+    <String Name="8 px" NameU="8 px"/>
+    <String Name="90 度." NameU="90 deg."/>
+    <String Name="A.C." NameU="A.C."/>
+    <String Name="AC" NameU="AC"/>
+    <String Name="AND" NameU="AND"/>
+    <String Name="活発" NameU="Active"/>
+    <String Name="Ad-Hoc" NameU="Ad-Hoc"/>
+    <String Name="1 Uを加える" NameU="Add 1 U"/>
+    <String Name="マイクを追加する" NameU="Add Microphone"/>
+    <String Name="ボードを追加する" NameU="Add a Board"/>
+    <String Name="ボックスを追加する" NameU="Add a Box"/>
+    <String Name="カテゴリを追加する" NameU="Add a Category"/>
+    <String Name="椅子を追加する" NameU="Add a Chair"/>
+    <String Name="円を追加する" NameU="Add a Circle"/>
+    <String Name="列を追加する" NameU="Add a Column"/>
+    <String Name="レベルを追加する" NameU="Add a Level"/>
+    <String Name="円を追加する" NameU="Add a Pie"/>
+    <String Name="ポイントを追加する" NameU="Add a Point"/>
+    <String Name="環を追加する" NameU="Add a Ring"/>
+    <String Name="行を追加する" NameU="Add a Row"/>
+    <String Name="分節を追加する" NameU="Add a Segment"/>
+    <String Name="ステップを追加する" NameU="Add a Step"/>
+    <String Name="矢印を追加する" NameU="Add an Arrow"/>
+    <String Name="項目を追加する" NameU="Add an Item"/>
+    <String Name="測定週波数の要求" NameU="Additional Measuring Freq - On Request"/>
+    <String Name="測定週波数" NameU="Additional Measuring Frequency"/>
+    <String Name="調整可能性" NameU="Adjustability"/>
+    <String Name="調整可能" NameU="Adjustable"/>
+    <String Name="エア" NameU="Air"/>
+    <String Name="エアコア" NameU="Air-core"/>
+    <String Name="警報ヒューズ" NameU="Alarm Fuse"/>
+    <String Name="警告する 1" NameU="Alert 1"/>
+    <String Name="警告する 2" NameU="Alert 2"/>
+    <String Name="警告する 3" NameU="Alert 3"/>
+    <String Name="警告する 4" NameU="Alert 4"/>
+    <String Name="全部" NameU="All"/>
+    <String Name="交流" NameU="Alternating"/>
+    <String Name="交番電流" NameU="Alternating-Current"/>
+    <String Name="選択" NameU="Alternative"/>
+    <String Name="他のスタイル" NameU="Alternative Form"/>
+    <String Name="他の記号" NameU="Alternative Symbol"/>
+    <String Name="電流計" NameU="Ammeter"/>
+    <String Name="拡声器付き電話" NameU="Amplified Phone"/>
+    <String Name="拡声器の種類" NameU="Amplifier Type"/>
+    <String Name="アナログからデジタルへ変換する" NameU="Analog to Digital"/>
+    <String Name="角度" NameU="Angle"/>
+    <String Name="角度 2" NameU="Angle 2"/>
+    <String Name="斜め" NameU="Angled"/>
+    <String Name="斜めのテキスト" NameU="Angled Text"/>
+    <String Name="外観オプション" NameU="Appearance Options"/>
+    <String Name="弧型の表示" NameU="Arc-type Display"/>
+    <String Name="矢印" NameU="Arrow"/>
+    <String Name="矢印 1" NameU="Arrow 1"/>
+    <String Name="矢印 2" NameU="Arrow 2"/>
+    <String Name="矢印 3" NameU="Arrow 3"/>
+    <String Name="矢印 4" NameU="Arrow 4"/>
+    <String Name="矢印の数" NameU="Arrow Number"/>
+    <String Name="矢印のサイズ" NameU="Arrow Size"/>
+    <String Name="矢印のスタイル" NameU="Arrow Style"/>
+    <String Name="人工的" NameU="Artificial"/>
+    <String Name="属性" NameU="Attribute"/>
+    <String Name="角度を自動的に測定する" NameU="Auto Degree Measurement"/>
+    <String Name="長さを自動的に測定する" NameU="Auto Length Measurement"/>
+    <String Name="サイズを自動的に測定する" NameU="Auto Size Measurement"/>
+    <String Name="普通" NameU="Average"/>
+    <String Name="軸流" NameU="Axial"/>
+    <String Name="横グリッド線" NameU="Axis Horizontal Grid"/>
+    <String Name="軸ラベルの方向" NameU="Axis Label Orientation"/>
+    <String Name="軸の数" NameU="Axis Number"/>
+    <String Name="軸の目盛りの間隔" NameU="Axis Tick Number"/>
+    <String Name="縦グリッド線" NameU="Axis Vertical Grid"/>
+    <String Name="不良" NameU="Bad"/>
+    <String Name="バランスネットワーク" NameU="Balancing Network"/>
+    <String Name="ボール" NameU="Ball"/>
+    <String Name="混合通路の周波数帯" NameU="Band of Mixed Channels"/>
+    <String Name="バンドパスフィルタ" NameU="Band-pass Filter"/>
+    <String Name="バンドパスフィルタ" NameU="Band-stop Filter"/>
+    <String Name="底" NameU="Base"/>
+    <String Name="開始延長線だけ表示する" NameU="Begin Only"/>
+    <String Name="コントロールパネルの後ろ" NameU="Behind Control Panel"/>
+    <String Name="ローカルコントロールパネルの後ろ" NameU="Behind a Local Control Panel"/>
+    <String Name="ベルの種類" NameU="Bell Type"/>
+    <String Name="2進" NameU="Binary"/>
+    <String Name="ブレード" NameU="Blade"/>
+    <String Name="青い" NameU="Blue"/>
+    <String Name="ブーリアン" NameU="Boolean"/>
+    <String Name="二つとも表示する" NameU="Both"/>
+    <String Name="二種類の矢印" NameU="Both Arrow"/>
+    <String Name="二種類の巻線" NameU="Both Windings"/>
+    <String Name="双方向に拡大する" NameU="Both-way Amplification"/>
+    <String Name="底" NameU="Bottom"/>
+    <String Name="底のフック" NameU="Bottom Hook"/>
+    <String Name="左下" NameU="Bottom Left"/>
+    <String Name="右下" NameU="Bottom Right"/>
+    <String Name="境界線-呼び出し" NameU="Boundary - Call"/>
+    <String Name="境界線 - デフォルト" NameU="Boundary - Default"/>
+    <String Name="境界線 - イベント" NameU="Boundary - Event"/>
+    <String Name="境界線 - 取引" NameU="Boundary - Transaction"/>
+    <String Name="ブランド" NameU="Brand"/>
+    <String Name="ブレーク接点" NameU="Break Contact"/>
+    <String Name="簡略" NameU="Breviary"/>
+    <String Name="ブリッジ" NameU="Bridge"/>
+    <String Name="成型機の種類" NameU="Briquetting Machine Type"/>
+    <String Name="バブルの最大サイズ" NameU="Bubble Max Size"/>
+    <String Name="バブルの最小サイズ" NameU="Bubble Min Size"/>
+    <String Name="呼び出し" NameU="Call"/>
+    <String Name="缶詰" NameU="Can"/>
+    <String Name="キャンセル" NameU="Cancel"/>
+    <String Name="キャンセルした" NameU="Canceled"/>
+    <String Name="コンデンサ" NameU="Capacitor"/>
+    <String Name="カーボンブロック" NameU="Carbon Block"/>
+    <String Name="キャリア周波数" NameU="Carrier Frequency"/>
+    <String Name="カテゴリ間隔" NameU="Category Interval"/>
+    <String Name="カテゴリの数" NameU="Category Number"/>
+    <String Name="中心" NameU="Center"/>
+    <String Name="中心の位置" NameU="Center Position"/>
+    <String Name="センターポイント" NameU="Center points"/>
+    <String Name="中心-下" NameU="Center-Down"/>
+    <String Name="中心-上" NameU="Center-Up"/>
+    <String Name="センチ" NameU="Centimeters"/>
+    <String Name="遠心" NameU="Centrifugal"/>
+    <String Name="遠心器の種類" NameU="Centrifuge Type"/>
+    <String Name="外観を変更する" NameU="Change Appearance"/>
+    <String Name="矢印の位置を変更する" NameU="Change Arrow Position"/>
+    <String Name="矢印のサイズを変更する" NameU="Change Arrow Size"/>
+    <String Name="矢印のスタイルを変更する" NameU="Change Arrow Style"/>
+    <String Name="テキストボックスのスタイルを変更する" NameU="Change Box Style"/>
+    <String Name="ケーブルタイプ変更" NameU="Change Cable Type"/>
+    <String Name="中心の図形のスタイルを変更する" NameU="Change Center Shape Style"/>
+    <String Name="中心の図形のスタイルを変更する" NameU="Change Center Style"/>
+    <String Name="円の厚さを変更する" NameU="Change Circle Position"/>
+    <String Name="色を変更する" NameU="Change Color Mode"/>
+    <String Name="プロセスタイプの変更" NameU="Change Flow Type"/>
+    <String Name="間隔を変更する" NameU="Change Gap Size"/>
+    <String Name="項目のスタイルを変更する" NameU="Change Item Style"/>
+    <String Name="変更回数" NameU="Change Number of Line"/>
+    <String Name="方向を変更する" NameU="Change Orientation"/>
+    <String Name="写真を変更する" NameU="Change Photo"/>
+    <String Name="画像のサイズを変更する" NameU="Change Photo Size"/>
+    <String Name="位置を変更する" NameU="Change Position"/>
+    <String Name="リングの厚さを変更する" NameU="Change Ring Thickness"/>
+    <String Name="矢印のスタイルを変更する" NameU="Change Segment Arrow Style"/>
+    <String Name="図形のスタイルを変更する" NameU="Change Shape Style"/>
+    <String Name="ステップのサイズを変更する" NameU="Change Step Size"/>
+    <String Name="スタイルを変更する" NameU="Change Style"/>
+    <String Name="表題のスタイルを変更する" NameU="Change Title Style"/>
+    <String Name="画像を変更する" NameU="Change the Picture"/>
+    <String Name="経路" NameU="Channel"/>
+    <String Name="チェック" NameU="Check"/>
+    <String Name="バルブ弁 1" NameU="Check Valve 1"/>
+    <String Name="バルブ弁 2" NameU="Check Valve 2"/>
+    <String Name="バルブ弁 3" NameU="Check Valve 3"/>
+    <String Name="チェックボックス" NameU="Checkbox"/>
+    <String Name="チェック" NameU="Checked"/>
+    <String Name="円" NameU="Circle"/>
+    <String Name="円形マーク" NameU="Circle Mark"/>
+    <String Name="円の数" NameU="Circle Number"/>
+    <String Name="円のマーク" NameU="Cirle Marker"/>
+    <String Name="類" NameU="Class"/>
+    <String Name="閉じる" NameU="Close"/>
+    <String Name="矢印の末端を閉じる" NameU="Close Arrow End"/>
+    <String Name="底を閉じる" NameU="Close Bottom"/>
+    <String Name="閉鎖回路" NameU="Close Circuit"/>
+    <String Name="矢印の末端を閉じる" NameU="Close End"/>
+    <String Name="左を閉じる" NameU="Close Left"/>
+    <String Name="右を閉じる" NameU="Close Right"/>
+    <String Name="右のチューブを閉じる" NameU="Close Right Tube"/>
+    <String Name="上を閉じる" NameU="Close Top"/>
+    <String Name="起動時に閉じる" NameU="Close on Actuation"/>
+    <String Name="起動時かリリース時に閉じる" NameU="Close on Actuation or Release"/>
+    <String Name="リリース時に閉じる" NameU="Close on Release"/>
+    <String Name="閉じる" NameU="Closed"/>
+    <String Name="粗い" NameU="Coarse"/>
+    <String Name="同軸" NameU="Coaxial"/>
+    <String Name="公衆電話" NameU="Coin Box"/>
+    <String Name="崩壊する" NameU="Collapsed"/>
+    <String Name="崩壊サブプロセス" NameU="Collapsed Sub-Process"/>
+    <String Name="正方形を黒くする" NameU="Color 'Fabrication' Black"/>
+    <String Name="三角形を黒くする" NameU="Color 'Inspection' Black"/>
+    <String Name="逆三角形を黒くする" NameU="Color 'Move' Black"/>
+    <String Name="円形を黒くする" NameU="Color 'Store' Black"/>
+    <String Name="列" NameU="Column"/>
+    <String Name="列数" NameU="Column Number"/>
+    <String Name="燃焼" NameU="Combustion"/>
+    <String Name="共通点" NameU="Common Point"/>
+    <String Name="通信サービス" NameU="Communication Service"/>
+    <String Name="整流または補償" NameU="Commutating or Compensating"/>
+    <String Name="補償" NameU="Compensation"/>
+    <String Name="完全" NameU="Complete"/>
+    <String Name="完全なカテゴリ" NameU="Complete Category"/>
+    <String Name="完全な記号" NameU="Complete Symbol"/>
+    <String Name="完成した" NameU="Completed"/>
+    <String Name="複合体" NameU="Complex"/>
+    <String Name="圧縮機" NameU="Compressor"/>
+    <String Name="圧縮機の種類" NameU="Compressor Type"/>
+    <String Name="凹面" NameU="Concave"/>
+    <String Name="凹面レンズ" NameU="Concave Lens"/>
+    <String Name="集中する" NameU="Concentrating"/>
+    <String Name="円錐形" NameU="Cone"/>
+    <String Name="2線母線のエルボーを設定する..." NameU="Configure 2-line Bus Elbow..."/>
+    <String Name="2線母線を設定する..." NameU="Configure 2-line Bus..."/>
+    <String Name="アンプを設定する..." NameU="Configure Amplifier..."/>
+    <String Name="ベルを設定する..." NameU="Configure Bell..."/>
+    <String Name="インバータを設定する..." NameU="Configure Changer..."/>
+    <String Name="チップを設定する..." NameU="Configure Chip..."/>
+    <String Name="制御整流器を設定する..." NameU="Configure Controlled rectifier..."/>
+    <String Name="変換器を設定する..." NameU="Configure Converter..."/>
+    <String Name="遅延素子を設定する..." NameU="Configure Delay Element..."/>
+    <String Name="ダイオードを設定する..." NameU="Configure Diode..."/>
+    <String Name="流れの方向を設定する..." NameU="Configure Direction of Flow..."/>
+    <String Name="フィルタを設定する..." NameU="Configure Filter..."/>
+    <String Name="フリップフロップを設定する..." NameU="Configure Flip-flop..."/>
+    <String Name="周波数帯を設定する..." NameU="Configure Frequency band..."/>
+    <String Name="周波数スペクトル素子を設定する..." NameU="Configure Frequency spectrum element..."/>
+    <String Name="関数発生器を設定する..." NameU="Configure Function Generator..."/>
+    <String Name="発熱素子を設定する..." NameU="Configure Heating Element..."/>
+    <String Name="IGFET Nの種類を設定する..." NameU="Configure IGFET N-type..."/>
+    <String Name="IGFET Pの種類を設定する..." NameU="Configure IGFET P-type..."/>
+    <String Name="表示器を設定する..." NameU="Configure Indicator..."/>
+    <String Name="インダクタンスと電気容量を設定する..." NameU="Configure Inductance Capacitance..."/>
+    <String Name="誘導子を設定する..." NameU="Configure Inductor..."/>
+    <String Name="レーザーとメーザーを設定する..." NameU="Configure Laser and Maser..."/>
+    <String Name="線/ケーブルを設定する..." NameU="Configure Line/Cable..."/>
+    <String Name="論理ゲートを設定する..." NameU="Configure Logic Gate..."/>
+    <String Name="MOSFETを設定する..." NameU="Configure MOSFET..."/>
+    <String Name="材料を設定する..." NameU="Configure Material..."/>
+    <String Name="マイクを設定する..." NameU="Configure Microphone..."/>
+    <String Name="ネットワークを設定する..." NameU="Configure Networks..."/>
+    <String Name="オームを設定する..." NameU="Configure Ohmic..."/>
+    <String Name="パルス変調を設定する..." NameU="Configure Pulse modulation..."/>
+    <String Name="レコーダー/スピーカーを設定する..." NameU="Configure Recorder/reproducer..."/>
+    <String Name="サージプロテクタを設定する..." NameU="Configure Surge Protector..."/>
+    <String Name="終端セットを設定する..." NameU="Configure Terminating sets..."/>
+    <String Name="共役" NameU="Conjugated"/>
+    <String Name="共役した複製" NameU="Conjugated Replicated Class"/>
+    <String Name="共役した複製を参照する" NameU="Conjugated Replicated Reference"/>
+    <String Name="接続のサイズ" NameU="Connection Size"/>
+    <String Name="接続の種類" NameU="Contact Type"/>
+    <String Name="コンテナ" NameU="Container"/>
+    <String Name="文脈" NameU="Context"/>
+    <String Name="持続" NameU="Continuous"/>
+    <String Name="連続可調" NameU="Continuously Adjustable"/>
+    <String Name="アクセスコントロール" NameU="Control Access"/>
+    <String Name="コントロール方法" NameU="Control Method"/>
+    <String Name="制御変圧器" NameU="Control transformer"/>
+    <String Name="変換器の種類" NameU="Converter Type"/>
+    <String Name="凸面" NameU="Convex"/>
+    <String Name="凸面鏡" NameU="Convex Lens"/>
+    <String Name="コンベア" NameU="Conveyor"/>
+    <String Name="バケット付きコンベア" NameU="Conveyor with Buckets"/>
+    <String Name="フック付きコンベア" NameU="Conveyor with Hooks"/>
+    <String Name="芯" NameU="Core"/>
+    <String Name="コスト" NameU="Cost"/>
+    <String Name="クランク" NameU="Crank"/>
+    <String Name="新規作成" NameU="Created"/>
+    <String Name="交差" NameU="Cross"/>
+    <String Name="粉砕機の種類" NameU="Crusher Type"/>
+    <String Name="現在の値" NameU="Current Value"/>
+    <String Name="シアン" NameU="Cyan"/>
+    <String Name="D フリップフロップ" NameU="D Flip-flop"/>
+    <String Name="DC" NameU="DC"/>
+    <String Name="DC 変換器" NameU="DC Converter"/>
+    <String Name="データ" NameU="Data"/>
+    <String Name="データの形式" NameU="Data Format"/>
+    <String Name="データラベルのオプション" NameU="Data Label Options"/>
+    <String Name="データラベルの方向" NameU="Data Label Orientation"/>
+    <String Name="データラベルの位置" NameU="Data Label Position"/>
+    <String Name="データの精度" NameU="Data Precision"/>
+    <String Name="データの種類" NameU="Data Type"/>
+    <String Name="日付" NameU="Date"/>
+    <String Name="日付形式" NameU="Date Format"/>
+    <String Name="日" NameU="Day"/>
+    <String Name="高周波数を強調する" NameU="De-emphasize Higher Frequencies"/>
+    <String Name="決定" NameU="Decision"/>
+    <String Name="度" NameU="Deg"/>
+    <String Name="度-分-秒" NameU="Deg-Min-Sec"/>
+    <String Name="度" NameU="Degrees"/>
+    <String Name="脱水機" NameU="Dehydrator"/>
+    <String Name="遅延の種類" NameU="Delay Type"/>
+    <String Name="閉じる時に遅延する" NameU="Delayed when Closing"/>
+    <String Name="閉じる時またはもう一度開く時に遅延する" NameU="Delayed when Closing and Re-opening"/>
+    <String Name="もう一度開く時に遅延する" NameU="Delayed when Re-opening"/>
+    <String Name="単位を一つ削除する" NameU="Delete 1 U"/>
+    <String Name="ボタンを一つ削除する" NameU="Delete Button"/>
+    <String Name="ボードを一つ削除する" NameU="Delete a Board"/>
+    <String Name="ボックスを一つ削除する" NameU="Delete a Box"/>
+    <String Name="カテゴリを一つ削除する" NameU="Delete a Category"/>
+    <String Name="椅子を一つ削除する" NameU="Delete a Chair"/>
+    <String Name="円を一つ削除する" NameU="Delete a Circle"/>
+    <String Name="列を一つ削除する" NameU="Delete a Column"/>
+    <String Name="層を一つ削除する" NameU="Delete a Level"/>
+    <String Name="円を一つ削除する" NameU="Delete a Pie"/>
+    <String Name="ポイントを一つ削除する" NameU="Delete a Point"/>
+    <String Name="輪を一つ削除する" NameU="Delete a Ring"/>
+    <String Name="一行を削除する" NameU="Delete a Row"/>
+    <String Name="一節を削除する" NameU="Delete a Segment"/>
+    <String Name="ステップを一つ削除する" NameU="Delete a Step"/>
+    <String Name="矢印を一つ削除する" NameU="Delete an Arrow"/>
+    <String Name="項目を一つ削除する" NameU="Delete an Item"/>
+    <String Name="テキストボックスを削除する" NameU="Delete this Box"/>
+    <String Name="円を削除する" NameU="Delete this Circle"/>
+    <String Name="項目を削除する" NameU="Delete this Item"/>
+    <String Name="層を削除する" NameU="Delete this Level"/>
+    <String Name="行を削除する" NameU="Delete this Row"/>
+    <String Name="節を削除する" NameU="Delete this Segment"/>
+    <String Name="ステップを削除する" NameU="Delete this Step"/>
+    <String Name="部門" NameU="Department"/>
+    <String Name="依存実体" NameU="Dependent Entity"/>
+    <String Name="消耗" NameU="Depletion"/>
+    <String Name="派生属性" NameU="Derived Attribute"/>
+    <String Name="説明" NameU="Description"/>
+    <String Name="設備の種類" NameU="Device Type"/>
+    <String Name="ダイヤル式" NameU="Dial"/>
+    <String Name="直径" NameU="Diameter"/>
+    <String Name="菱形" NameU="Diamond"/>
+    <String Name="菱形マーク" NameU="Diamond Mark"/>
+    <String Name="仕切り板 1" NameU="Diaphragm 1"/>
+    <String Name="仕切り板 2" NameU="Diaphragm 2"/>
+    <String Name="仕切り板 3" NameU="Diaphragm 3"/>
+    <String Name="差動式受信機" NameU="Differential Receiver"/>
+    <String Name="差動式電圧計" NameU="Differential Voltmeter"/>
+    <String Name="微分" NameU="Differentiating"/>
+    <String Name="デジタルからアナログへ変換する" NameU="Digital to Analog"/>
+    <String Name="方向" NameU="Direction"/>
+    <String Name="方向探知" NameU="Direction Finding"/>
+    <String Name="直接加熱" NameU="Directly Heated"/>
+    <String Name="背景を加える" NameU="Disable"/>
+    <String Name="外れる" NameU="Disengaged"/>
+    <String Name="ディスプレイを横切る" NameU="Display across line"/>
+    <String Name="文書" NameU="Document"/>
+    <String Name="単位を非表示する" NameU="Don't Show Units"/>
+    <String Name="点線" NameU="Dotted Line"/>
+    <String Name="二重円" NameU="Double Circle"/>
+    <String Name="二重線" NameU="Double Line"/>
+    <String Name="下" NameU="Down"/>
+    <String Name="下" NameU="Down Position"/>
+    <String Name="ダウンディレクション" NameU="Down direction"/>
+    <String Name="下書き" NameU="Draft"/>
+    <String Name="乾燥" NameU="Dry"/>
+    <String Name="二重円" NameU="Dual Circle"/>
+    <String Name="二重菱形" NameU="Dual Diamond"/>
+    <String Name="二重長方形" NameU="Dual Rectangle"/>
+    <String Name="二重三角形" NameU="Dual Triangle"/>
+    <String Name="デュプレックス" NameU="Duplex"/>
+    <String Name="重複実体" NameU="Duplicated Entity"/>
+    <String Name="持続時間" NameU="Duration"/>
+    <String Name="早く閉じる" NameU="Early to Close"/>
+    <String Name="参考の編集" NameU="Edit Reference"/>
+    <String Name="エレクトレット" NameU="Electret"/>
+    <String Name="電解質的" NameU="Electrolytic"/>
+    <String Name="要素の種類" NameU="Element Type"/>
+    <String Name="楕円" NameU="Ellipse"/>
+    <String Name="メール" NameU="Email"/>
+    <String Name="非常スイッチ" NameU="Emergency switch"/>
+    <String Name="背景を削除する" NameU="Enable"/>
+    <String Name="終了日付" NameU="End Date"/>
+    <String Name="端末の延長線だけ表示する" NameU="End Only"/>
+    <String Name="端局" NameU="End Station"/>
+    <String Name="使用中" NameU="Engaged"/>
+    <String Name="拡大する" NameU="Enhancement"/>
+    <String Name="包絡する" NameU="Envelop"/>
+    <String Name="包絡する" NameU="Envelope"/>
+    <String Name="消去する" NameU="Erasing"/>
+    <String Name="周波数帯域" NameU="Erect Band of Frequencies"/>
+    <String Name="エラー" NameU="Error"/>
+    <String Name="優れた" NameU="Excellent"/>
+    <String Name="交換側" NameU="Exchange Side"/>
+    <String Name="排除" NameU="Exclusion"/>
+    <String Name="排他的データ" NameU="Exclusive Data"/>
+    <String Name="マーカー付き排他データ" NameU="Exclusive Data with Marker"/>
+    <String Name="排他的なイベント" NameU="Exclusive Event"/>
+    <String Name="拡張器" NameU="Expander"/>
+    <String Name="拡大" NameU="Expanding"/>
+    <String Name="延長" NameU="Extension"/>
+    <String Name="延長線" NameU="Extension Lines"/>
+    <String Name="外部" NameU="External"/>
+    <String Name="外部接続" NameU="External Connection"/>
+    <String Name="極小" NameU="Extra Small"/>
+    <String Name="換気扇の種類" NameU="Extractor Hood Type"/>
+    <String Name="間違った" NameU="FALSE"/>
+    <String Name="ファックス" NameU="Facsimile"/>
+    <String Name="間違った" NameU="False"/>
+    <String Name="扇風機の種類" NameU="Fan Type"/>
+    <String Name="早戻し" NameU="Fast Backward"/>
+    <String Name="早送り" NameU="Fast Forward"/>
+    <String Name="底" NameU="Feet"/>
+    <String Name="メス型コネクタ" NameU="Female Connectors"/>
+    <String Name="メス型コンタクト" NameU="Female Contact"/>
+    <String Name="細い" NameU="Fine"/>
+    <String Name="火" NameU="Fire"/>
+    <String Name="一次導関数" NameU="First Derivative"/>
+    <String Name="固定" NameU="Fixed"/>
+    <String Name="平らな火" NameU="Flat Fire"/>
+    <String Name="フリップフロップの種類" NameU="Flip-flop Type"/>
+    <String Name="フロート操作" NameU="Float-operated"/>
+    <String Name="浮動ヘッド" NameU="Floating Head"/>
+    <String Name="流体分離器の種類" NameU="Fluid Separator Type"/>
+    <String Name="流動床の種類" NameU="Fluidized"/>
+    <String Name="4枚のブレード" NameU="Four Blades"/>
+    <String Name="周波数帯" NameU="Frequency Band"/>
+    <String Name="周波数変換器" NameU="Frequency Changer"/>
+    <String Name="周波数計" NameU="Frequency Meter"/>
+    <String Name="10%―100%" NameU="From 10% to 100%"/>
+    <String Name="検流計" NameU="Galvanometer"/>
+    <String Name="間隔の距離" NameU="Gap Distance"/>
+    <String Name="間隔のサイズ" NameU="Gap Size"/>
+    <String Name="ガス" NameU="Gas"/>
+    <String Name="ガスタービン" NameU="Gas Turbine"/>
+    <String Name="ゲート" NameU="Gate"/>
+    <String Name="ゲートの種類" NameU="Gate Type"/>
+    <String Name="一般的" NameU="General"/>
+    <String Name="一般的なヒューズ" NameU="General Fuse"/>
+    <String Name="普通なスピード" NameU="General Speed"/>
+    <String Name="発電機" NameU="Generator"/>
+    <String Name="グッド" NameU="Good"/>
+    <String Name="良品質" NameU="Good Quality"/>
+    <String Name="万有引力" NameU="Gravitation"/>
+    <String Name="灰色" NameU="Gray"/>
+    <String Name="緑色" NameU="Green"/>
+    <String Name="地面" NameU="Ground"/>
+    <String Name="接地" NameU="Grounded"/>
+    <String Name="チャネルグループ" NameU="Group of Erect Channels"/>
+    <String Name="金づち" NameU="Hammer"/>
+    <String Name="手回し発電機" NameU="Hand Generator"/>
+    <String Name="手動操作" NameU="Hand-operated"/>
+    <String Name="ハンドル" NameU="Handwheel"/>
+    <String Name="熱交換器の種類" NameU="Heat Exchanger Type"/>
+    <String Name="熱源の種類" NameU="Heat Source Type"/>
+    <String Name="発熱素子" NameU="Heating Element"/>
+    <String Name="高さ" NameU="Height"/>
+    <String Name="矢印を非表示する" NameU="Hide Arrow"/>
+    <String Name="軸を非表示する" NameU="Hide Axis"/>
+    <String Name="軸のラベルを非表示する" NameU="Hide Axis Labels"/>
+    <String Name="枠線を非表示する" NameU="Hide Border"/>
+    <String Name="底を非表示する" NameU="Hide Bottom"/>
+    <String Name="底の線を非表示する" NameU="Hide Bottom Line"/>
+    <String Name="ボタンを非表示する" NameU="Hide Button"/>
+    <String Name="中心を非表示する" NameU="Hide Center"/>
+    <String Name="中心の円形を非表示する" NameU="Hide Center Circle"/>
+    <String Name="中心の図形を非表示する" NameU="Hide Center Shape"/>
+    <String Name="円を非表示する" NameU="Hide Circle"/>
+    <String Name="コネクタ線を非表示する" NameU="Hide Connect Line"/>
+    <String Name="交差を非表示する" NameU="Hide Cross"/>
+    <String Name="交差線を非表示する" NameU="Hide Cross Line"/>
+    <String Name="数値ラベルを非表示する" NameU="Hide Data Labels"/>
+    <String Name="削除ボタンを非表示する" NameU="Hide Delete"/>
+    <String Name="点を非表示する" NameU="Hide Dot"/>
+    <String Name="最後のティックを非表示する" NameU="Hide End Tick"/>
+    <String Name="包絡を非表示する" NameU="Hide Envelop"/>
+    <String Name="出口の幅を非表示する" NameU="Hide Exit Width"/>
+    <String Name="表題の一番目のテキストボックスを非表示する" NameU="Hide First Block of Title"/>
+    <String Name="顆粒を非表示する" NameU="Hide Granule"/>
+    <String Name="グリッド線を非表示する" NameU="Hide Grid"/>
+    <String Name="溝を非表示する" NameU="Hide Groove"/>
+    <String Name="水平グリッド線を非表示する" NameU="Hide Horizontal Grid"/>
+    <String Name="写真を非表示する" NameU="Hide Image"/>
+    <String Name="接合点を非表示する" NameU="Hide Junction"/>
+    <String Name="左のテキストボックスを非表示する" NameU="Hide Left Box"/>
+    <String Name="左のテキストを非表示する" NameU="Hide Left Text"/>
+    <String Name="凡例を非表示する" NameU="Hide Legend"/>
+    <String Name="線を非表示する" NameU="Hide Line"/>
+    <String Name="液体を非表示する" NameU="Hide Liquid"/>
+    <String Name="真ん中の円を非表示する" NameU="Hide Middle Circle"/>
+    <String Name="接地を非表示する" NameU="Hide Neutral"/>
+    <String Name="オペレータを非表示する" NameU="Hide Operator"/>
+    <String Name="パーセントラベルを非表示する" NameU="Hide Percentage Labels"/>
+    <String Name="画像を非表示する" NameU="Hide Photo"/>
+    <String Name="極性の記号を非表示する" NameU="Hide Polarity Symbols"/>
+    <String Name="反射鏡を非表示する" NameU="Hide Reflector"/>
+    <String Name="更新ボタンを非表示する" NameU="Hide Refresh Button"/>
+    <String Name="右のテキストを非表示する" NameU="Hide Right Text"/>
+    <String Name="ルーラーを非表示する" NameU="Hide Ruler"/>
+    <String Name="SWOTを非表示する" NameU="Hide SWOT"/>
+    <String Name="目盛マークを非表示する" NameU="Hide Scale Mark"/>
+    <String Name="継ぎ目を非表示する" NameU="Hide Seam"/>
+    <String Name="固体物質を非表示する" NameU="Hide Solid Matter"/>
+    <String Name="階段の展望台を非表示する" NameU="Hide Stair Stagger"/>
+    <String Name="表を非表示する" NameU="Hide Table"/>
+    <String Name="冷蔵庫の縁を非表示する" NameU="Hide Tank Lip"/>
+    <String Name="テキストを非表示する" NameU="Hide Text"/>
+    <String Name="テキストボックスを非表示する" NameU="Hide Text Block"/>
+    <String Name="仕切りを非表示する" NameU="Hide Tick"/>
+    <String Name="表題を非表示する" NameU="Hide Title"/>
+    <String Name="表題バーを非表示する" NameU="Hide Title Bar"/>
+    <String Name="垂直グリッド線を非表示する" NameU="Hide Vertical Grid"/>
+    <String Name="ラインを隠す" NameU="Hide across line"/>
+    <String Name="軸を表示/非表示する" NameU="Hide/Show Axis"/>
+    <String Name="グリッド線を表示/非表示する" NameU="Hide/Show Grid"/>
+    <String Name="高さ" NameU="High"/>
+    <String Name="ハイゲイン" NameU="High Gain"/>
+    <String Name="高速" NameU="High Speed"/>
+    <String Name="ハイパスフィルタ" NameU="High-pass Filter"/>
+    <String Name="高速ローラー" NameU="High-speed Roller"/>
+    <String Name="3D" NameU="Highlight"/>
+    <String Name="ホイスト" NameU="Hoist"/>
+    <String Name="ホイストの種類" NameU="Hoist Type"/>
+    <String Name="グラブ付きホイスト" NameU="Hoist with Grab"/>
+    <String Name="鉤付きホイスト" NameU="Hoist with Hook"/>
+    <String Name="中空" NameU="Hollow"/>
+    <String Name="中空帯" NameU="Hollow Band"/>
+    <String Name="中空帯" NameU="Hollow Brand"/>
+    <String Name="中空円" NameU="Hollow Circle"/>
+    <String Name="中空菱形" NameU="Hollow Diamond"/>
+    <String Name="中空長方形" NameU="Hollow Rectangle"/>
+    <String Name="中空三角形" NameU="Hollow Triangle"/>
+    <String Name="水平" NameU="Horizontal"/>
+    <String Name="水平ブレード" NameU="Horizontal Blades"/>
+    <String Name="ホーンの隙間" NameU="Horn Gap"/>
+    <String Name="ハイブリッドトランス" NameU="Hybrid Transformer"/>
+    <String Name="ID" NameU="ID"/>
+    <String Name="アイコン" NameU="Icon"/>
+    <String Name="最大値がー１である場合、データ１とデータ２の間で大きい方をを取る" NameU="If Max Value is -1, it will takes the large one of Value 1 and Value 2."/>
+    <String Name="衝撃式" NameU="Impact"/>
+    <String Name="実施" NameU="Implementational"/>
+    <String Name="インポート" NameU="Imported"/>
+    <String Name="上書きインポート" NameU="Imported and Substitutable"/>
+    <String Name="実施中" NameU="In Progress"/>
+    <String Name="サービス中" NameU="In Service"/>
+    <String Name="フィールドにおける" NameU="In the Field"/>
+    <String Name="インチ" NameU="Inches"/>
+    <String Name="を含む" NameU="Inclusive"/>
+    <String Name="内凸" NameU="Incoming"/>
+    <String Name="独立した実体" NameU="Independent Entity"/>
+    <String Name="指示器" NameU="Indicator"/>
+    <String Name="間接加熱" NameU="Indirectly Heated"/>
+    <String Name="慣性" NameU="Inertial"/>
+    <String Name="無限のリアクタンス" NameU="Infinite Reactance"/>
+    <String Name="無限のリアクタンス - ゼロサセプタンス" NameU="Infinite Reactance - Zero susceptance"/>
+    <String Name="最初の" NameU="Initial"/>
+    <String Name="内向き矢印" NameU="Inner Arrow"/>
+    <String Name="入力" NameU="Input"/>
+    <String Name="0から360までの数値をご入力ください" NameU="Input the number between 0 to 360"/>
+    <String Name="入力" NameU="Input(s)"/>
+    <String Name="テキストボックスを挿入する" NameU="Insert a Box"/>
+    <String Name="円を挿入する" NameU="Insert a Circle"/>
+    <String Name="層を挿入する" NameU="Insert a Level"/>
+    <String Name="矢印を挿入する" NameU="Insert a Row"/>
+    <String Name="節を挿入する" NameU="Insert a Segment"/>
+    <String Name="ステップを挿入する" NameU="Insert a Step"/>
+    <String Name="項目を挿入する" NameU="Insert an Item"/>
+    <String Name="数値ラベルを含む" NameU="Inside Data Labels"/>
+    <String Name="テキストを含む" NameU="Inside Text"/>
+    <String Name="排他イベントをインスタンス化する" NameU="Instantiate Exclusive Event"/>
+    <String Name="並列イベントをインスタンス化する" NameU="Instantiate Parallel Event"/>
+    <String Name="絶縁加熱素子" NameU="Insulated Heating Element"/>
+    <String Name="絶縁性" NameU="Insulating"/>
+    <String Name="整数" NameU="Integer"/>
+    <String Name="集積" NameU="Integrating"/>
+    <String Name="相互接続" NameU="Interconnected"/>
+    <String Name="内部" NameU="Internal"/>
+    <String Name="内部接続" NameU="Internal Connection"/>
+    <String Name="間隔" NameU="Interval"/>
+    <String Name="矢印の方向を変更する" NameU="Invert Arrow"/>
+    <String Name="三角形に変更する" NameU="Invert Triangle"/>
+    <String Name="周波数帯を反転する" NameU="Inverted Band of Frequencies"/>
+    <String Name="インバータ" NameU="Inverter"/>
+    <String Name="非表示する" NameU="Invisible"/>
+    <String Name="内部へ" NameU="Inward"/>
+    <String Name="項目数" NameU="Item Number"/>
+    <String Name="JK フリップフロップ" NameU="JK Flip-flop"/>
+    <String Name="コンセント" NameU="Jack"/>
+    <String Name="プラグ" NameU="Jaw"/>
+    <String Name="ジェット" NameU="Jet"/>
+    <String Name="特大" NameU="Jumbo"/>
+    <String Name="画像の縦横比を維持する" NameU="Keep Image Ratio"/>
+    <String Name="画像の縦横比を維持する" NameU="Keep Photo Ratio"/>
+    <String Name="キー" NameU="Key"/>
+    <String Name="重要な属性" NameU="Key Attribute"/>
+    <String Name="キーボード" NameU="Keyboard"/>
+    <String Name="キロメートル" NameU="Kilometers"/>
+    <String Name="捏和機の種類" NameU="Kneader Type"/>
+    <String Name="ラベル" NameU="Label"/>
+    <String Name="大きい" NameU="Large"/>
+    <String Name="大規模/変電" NameU="Large Scale / Converting"/>
+    <String Name="大規模/変流" NameU="Large Scale / General"/>
+    <String Name="レーザー器" NameU="Laser Generator"/>
+    <String Name="レーザー,普通" NameU="Laser, General"/>
+    <String Name="ラッチフリップフロップ" NameU="Latch Flip-flop"/>
+    <String Name="遅く閉じる" NameU="Late to Close"/>
+    <String Name="左" NameU="Left"/>
+    <String Name="左のアイコンの種類" NameU="Left Icon Type"/>
+    <String Name="左" NameU="Left Side"/>
+    <String Name="左側方向" NameU="Left direction"/>
+    <String Name="左半円の値" NameU="Left hemisphere value."/>
+    <String Name="層数" NameU="Level Number"/>
+    <String Name="光に敏感" NameU="Light Sensitive"/>
+    <String Name="線の太さ" NameU="Line Size"/>
+    <String Name="直線配列形式" NameU="Line-type Display"/>
+    <String Name="リンク" NameU="Link"/>
+    <String Name="液体" NameU="Liquid"/>
+    <String Name="ファイルからデータを読み込む" NameU="Load Data from File"/>
+    <String Name="負荷" NameU="Loaded"/>
+    <String Name="ロック" NameU="Lock"/>
+    <String Name="対数" NameU="Logarithmic"/>
+    <String Name="論理的" NameU="Logical"/>
+    <String Name="ループナウ" NameU="Loop - None"/>
+    <String Name="パラレルマルチインスタンス" NameU="Loop - Parallel Multi-Instance"/>
+    <String Name="シーケンシャルマルチインスタンス" NameU="Loop - Sequential Multi-Instance"/>
+    <String Name="ループスタンダード" NameU="Loop - Standard"/>
+    <String Name="低い" NameU="Low"/>
+    <String Name="ローパスフィルタ" NameU="Low-pass Filter"/>
+    <String Name="M/d/yyyy" NameU="M/d/yyyy"/>
+    <String Name="M/d/yyyy h:mm AM/PM" NameU="M/d/yyyy h:mm AM/PM"/>
+    <String Name="MMM d,yyyy" NameU="MMM d,yyyy"/>
+    <String Name="機械の種類" NameU="Machine Type"/>
+    <String Name="磁気回路" NameU="Magnetic"/>
+    <String Name="隙間のある磁気回路" NameU="Magnetic with Gap"/>
+    <String Name="磁芯" NameU="Magnetic-core"/>
+    <String Name="磁気分極" NameU="Magnetically Polarized"/>
+    <String Name="磁歪" NameU="Magnetostrictive"/>
+    <String Name="閉接点" NameU="Make Contact"/>
+    <String Name="オスコネクタs" NameU="Male Connectors"/>
+    <String Name="オス型コンタクト" NameU="Male Contact"/>
+    <String Name="男の人" NameU="Man"/>
+    <String Name="メーカー" NameU="Manufacturer"/>
+    <String Name="多対多" NameU="Many-to-Many"/>
+    <String Name="マークのサイズ" NameU="Marker Size"/>
+    <String Name="マークのスタイル" NameU="Marker Style"/>
+    <String Name="メーザー増幅器" NameU="Maser Amplifier"/>
+    <String Name="メーザー,普通" NameU="Maser, General"/>
+    <String Name="主群" NameU="Mastergroup"/>
+    <String Name="材料" NameU="Material"/>
+    <String Name="最大目盛り" NameU="Max Scale"/>
+    <String Name="最大値" NameU="Max Value"/>
+    <String Name="全部のバブルの最大値" NameU="Max data value of all the bubbles"/>
+    <String Name="最大需要電力計" NameU="Max.Demand Indicator"/>
+    <String Name="機械" NameU="Mechanically"/>
+    <String Name="中位" NameU="Medium"/>
+    <String Name="水銀" NameU="Mercury"/>
+    <String Name="メッセージ" NameU="Message"/>
+    <String Name="メートル" NameU="Meters"/>
+    <String Name="マイクの種類" NameU="Microphone Type"/>
+    <String Name="中部" NameU="Middle"/>
+    <String Name="中点" NameU="Midpoint"/>
+    <String Name="マイル" NameU="Miles"/>
+    <String Name="粉砕器の種類" NameU="Mill Type"/>
+    <String Name="ミリメートル" NameU="Millimeters"/>
+    <String Name="最小目盛り" NameU="Min Scale"/>
+    <String Name="最小値" NameU="Min Value"/>
+    <String Name="全部のバブルの最小値" NameU="Min data value of all the bubbles."/>
+    <String Name="混合器の種類" NameU="Mixer Type"/>
+    <String Name="模型" NameU="Model"/>
+    <String Name="月" NameU="Month"/>
+    <String Name="モーター" NameU="Motor"/>
+    <String Name="電動モーター" NameU="Motor Generator"/>
+    <String Name="下に移動する" NameU="Move Down"/>
+    <String Name="左に移動する" NameU="Move Left"/>
+    <String Name="右に移動する" NameU="Move Right"/>
+    <String Name="テキストを他の一本の線まで移動する" NameU="Move Text to Other Bend"/>
+    <String Name="上に移動する" NameU="Move Up"/>
+    <String Name="左への移動を止める" NameU="Movement Left Blocked"/>
+    <String Name="右への移動を止める" NameU="Movement Right Blocked"/>
+    <String Name="縦枠の数" NameU="Mullion Number"/>
+    <String Name="多重間隙" NameU="Multigap"/>
+    <String Name="複数" NameU="Multiple"/>
+    <String Name="多重線" NameU="Multiple Lines"/>
+    <String Name="多値属性" NameU="Multivalued Attribute"/>
+    <String Name="キノコの形" NameU="Mushroom Head"/>
+    <String Name="キノコの種類" NameU="Mushroom Type"/>
+    <String Name="相互誘導器" NameU="Mutual inductor"/>
+    <String Name="N型" NameU="N-Type"/>
+    <String Name="N型" NameU="N-type"/>
+    <String Name="NAND" NameU="NAND"/>
+    <String Name="NOR" NameU="NOR"/>
+    <String Name="NPIN" NameU="NPIN"/>
+    <String Name="NPIP" NameU="NPIP"/>
+    <String Name="名前" NameU="Name"/>
+    <String Name="どちらでもない" NameU="Neither"/>
+    <String Name="中性線を表示する" NameU="Neutral brought out"/>
+    <String Name="中性直流電流 (単一電流) +/o" NameU="Neutral direct-current (single current) +/o"/>
+    <String Name="中性直流電流 (単一電流) -/o" NameU="Neutral direct-current (single current) -/o"/>
+    <String Name="来月" NameU="Next Month"/>
+    <String Name="来週" NameU="Next Week"/>
+    <String Name="来年" NameU="Next Year"/>
+    <String Name="ニース" NameU="Nice"/>
+    <String Name="いいえ" NameU="No"/>
+    <String Name="矢印なし" NameU="No Arrow"/>
+    <String Name="黒色なし" NameU="No Black"/>
+    <String Name="ボタンなし" NameU="No Button"/>
+    <String Name="メーカーなし" NameU="No Maker"/>
+    <String Name="底のピンの数" NameU="No. of Base Pins"/>
+    <String Name="ゲートの数" NameU="No. of Gates"/>
+    <String Name="入力の数" NameU="No. of Inputs"/>
+    <String Name="出力の数" NameU="No. of Outputs"/>
+    <String Name="トップのピンの数" NameU="No. of Top Pins"/>
+    <String Name="入力の数" NameU="No.of Inputs"/>
+    <String Name="出力の数" NameU="No.of Outputs"/>
+    <String Name="ノード" NameU="Node"/>
+    <String Name="延長しない" NameU="Non-Extending"/>
+    <String Name="非断熱加熱要素" NameU="Non-insulated Heating Element"/>
+    <String Name="ない" NameU="None"/>
+    <String Name="通常" NameU="Normal"/>
+    <String Name="普通のアクセス" NameU="Normal Access"/>
+    <String Name="相互接続しない" NameU="Not Interconnected"/>
+    <String Name="数" NameU="Number"/>
+    <String Name="円の数" NameU="Number of Circles"/>
+    <String Name="線の数" NameU="Number of Lines"/>
+    <String Name="入力数" NameU="Number of inputs"/>
+    <String Name="トップのピン数" NameU="Number of pins on top"/>
+    <String Name="頂点の数" NameU="Number of vertices"/>
+    <String Name="OR" NameU="OR"/>
+    <String Name="中央コントロールパネルにおける" NameU="On Central Control Panel"/>
+    <String Name="ローカルコントロールパネルにおける" NameU="On Local Control Panel"/>
+    <String Name="一つの円" NameU="One Circle"/>
+    <String Name="一本の線" NameU="One Line"/>
+    <String Name="単層巻" NameU="One Winding"/>
+    <String Name="一対多" NameU="One-to-Many"/>
+    <String Name="単工単方向" NameU="One-way Simplex"/>
+    <String Name="オープン" NameU="Open"/>
+    <String Name="矢印の末端を開く" NameU="Open Arrow End"/>
+    <String Name="底を開く" NameU="Open Bottom"/>
+    <String Name="回路を開く" NameU="Open Circuit"/>
+    <String Name="末端を開く" NameU="Open End"/>
+    <String Name="左を開く" NameU="Open Left"/>
+    <String Name="右を開く" NameU="Open Right"/>
+    <String Name="右のチューブを開く" NameU="Open Right Tube"/>
+    <String Name="上を開く" NameU="Open Top"/>
+    <String Name="操作" NameU="Operational"/>
+    <String Name="選択可能" NameU="Optional"/>
+    <String Name="選択可能と代替可能" NameU="Optional and Substitutable"/>
+    <String Name="オレンジ" NameU="Orange"/>
+    <String Name="オシロスコープ" NameU="Oscilloscope"/>
+    <String Name="外向き矢印" NameU="Outer Arrow"/>
+    <String Name="外凹" NameU="Outgoing"/>
+    <String Name="出力" NameU="Output"/>
+    <String Name="出力番号" NameU="Output number"/>
+    <String Name="出力" NameU="Output(s)"/>
+    <String Name="数値ラベルを外に置く" NameU="Outside Data Labels"/>
+    <String Name="テキストを外に置く" NameU="Outside Text"/>
+    <String Name="外に向く" NameU="Outward"/>
+    <String Name="架空" NameU="Overhead"/>
+    <String Name="架空運送の種類" NameU="Overhead Conveyor Type"/>
+    <String Name="概要" NameU="Overview"/>
+    <String Name="P 型ゲート" NameU="P Type-Gate"/>
+    <String Name="P-型" NameU="P-Type"/>
+    <String Name="P-型" NameU="P-type"/>
+    <String Name="PNIN" NameU="PNIN"/>
+    <String Name="PNIP" NameU="PNIP"/>
+    <String Name="ページの印刷" NameU="Page Printing"/>
+    <String Name="ページの単位" NameU="Page's Unit"/>
+    <String Name="並列" NameU="Parallel"/>
+    <String Name="受動的" NameU="Passive"/>
+    <String Name="一時停止" NameU="Pause"/>
+    <String Name="パーセンテージ" NameU="Percentage"/>
+    <String Name="永久" NameU="Permanent"/>
+    <String Name="位相計" NameU="Phase Meter"/>
+    <String Name="電話" NameU="Phone"/>
+    <String Name="パイロット周波数" NameU="Pilot Frequency"/>
+    <String Name="計画中" NameU="Planned"/>
+    <String Name="プラグ" NameU="Plug"/>
+    <String Name="点数" NameU="Point Number"/>
+    <String Name="極性の直流（二重）" NameU="Polar direct-current (double current)"/>
+    <String Name="下手な;" NameU="Poor"/>
+    <String Name="悪い品質" NameU="Poor Quality"/>
+    <String Name="順位" NameU="Position"/>
+    <String Name="電位差計" NameU="Potentiometer"/>
+    <String Name="力率計" NameU="Power-factor Meter"/>
+    <String Name="高周波数を強調する" NameU="Pre-emphasize Higher Frequencies"/>
+    <String Name="事前設定された電位差計" NameU="Pre-set Potentiometer"/>
+    <String Name="事前設定された抵抗器" NameU="Pre-set Resistor"/>
+    <String Name="精度" NameU="Precision"/>
+    <String Name="精度;単位" NameU="Precision &amp; Units"/>
+    <String Name="精度の単位..." NameU="Precision Units..."/>
+    <String Name="単位の接頭語" NameU="Prefix Unit"/>
+    <String Name="先月" NameU="Prev Month"/>
+    <String Name="先週" NameU="Prev Week"/>
+    <String Name="去年" NameU="Prev Year"/>
+    <String Name="価格" NameU="Price"/>
+    <String Name="原動機の種類" NameU="Prime Mover Type"/>
+    <String Name="プロセス" NameU="Process"/>
+    <String Name="プロセス ID" NameU="Process ID"/>
+    <String Name="プロセスの名前" NameU="Process Name"/>
+    <String Name="進展" NameU="Progress"/>
+    <String Name="間隔を保つ" NameU="Protective Gap"/>
+    <String Name="近接効果" NameU="Proximity Effect"/>
+    <String Name="プルスイッチ 1" NameU="Pull-switch 1"/>
+    <String Name="プルスイッチ 2" NameU="Pull-switch 2"/>
+    <String Name="引く" NameU="Pulling"/>
+    <String Name="パルスインバータ" NameU="Pulse Inverter"/>
+    <String Name="パルス振幅変調" NameU="Pulse-amplitude Modulation"/>
+    <String Name="パルス幅変調" NameU="Pulse-duration Modulation"/>
+    <String Name="パルス周波数変調" NameU="Pulse-frequency Modulation"/>
+    <String Name="パルス間隔変調" NameU="Pulse-interval Modulation"/>
+    <String Name="パルス位相変調" NameU="Pulse-phase Modulation"/>
+    <String Name="ポンプの種類" NameU="Pump Type"/>
+    <String Name="プッシュプル形スイッチ" NameU="Push-Pull Head"/>
+    <String Name="押しボタン 1" NameU="Push-button 1"/>
+    <String Name="押しボタン 2" NameU="Push-button 2"/>
+    <String Name="プッシュプル" NameU="Push-pull"/>
+    <String Name="プッシュ/プル" NameU="Push/pull"/>
+    <String Name="押しボタン" NameU="Pushbutton"/>
+    <String Name="押す" NameU="Pushing"/>
+    <String Name="限定符" NameU="Qualifier"/>
+    <String Name="限定符の種類" NameU="Qualifier Type"/>
+    <String Name="品質" NameU="Quality"/>
+    <String Name="四半期" NameU="Quarter"/>
+    <String Name="疑う 1" NameU="Question 1"/>
+    <String Name="疑う 2" NameU="Question 2"/>
+    <String Name="疑う 3" NameU="Question 3"/>
+    <String Name="RS フロップフロップ" NameU="RS Flop-flop"/>
+    <String Name="ラディア" NameU="Radia"/>
+    <String Name="ラディア" NameU="Radial"/>
+    <String Name="ラジアン" NameU="Radians"/>
+    <String Name="ラジオビーコン" NameU="Radio Beacon"/>
+    <String Name="ラジオボタン" NameU="Radio Button"/>
+    <String Name="放射性同位元素" NameU="Radioisotope"/>
+    <String Name="半径 * 0.25" NameU="Radius * 0.25"/>
+    <String Name="半径 * 0.5" NameU="Radius * 0.5"/>
+    <String Name="半径 * 0.75" NameU="Radius * 0.75"/>
+    <String Name="半径 * 1" NameU="Radius * 1"/>
+    <String Name="半径 * 2" NameU="Radius * 2"/>
+    <String Name="半径 * 3" NameU="Radius * 3"/>
+    <String Name="半径 * 4" NameU="Radius * 4"/>
+    <String Name="半径 * 5" NameU="Radius * 5"/>
+    <String Name="半径 * 6" NameU="Radius * 6"/>
+    <String Name="半径 * 7" NameU="Radius * 7"/>
+    <String Name="半径 * 8" NameU="Radius * 8"/>
+    <String Name="坂" NameU="Ramp"/>
+    <String Name="区域 1" NameU="Range 1"/>
+    <String Name="区域 2" NameU="Range 2"/>
+    <String Name="区域 3" NameU="Range 3"/>
+    <String Name="区域 4" NameU="Range 4"/>
+    <String Name="区域の数" NameU="Range Number"/>
+    <String Name="無効電流計" NameU="Reactive Current Ammeter"/>
+    <String Name="読んでいる" NameU="Reading"/>
+    <String Name="実数" NameU="Real"/>
+    <String Name="受信機" NameU="Receiver"/>
+    <String Name="受信" NameU="Reception"/>
+    <String Name="往復式" NameU="Reciprocating"/>
+    <String Name="往復動機関" NameU="Reciprocating Engine"/>
+    <String Name="録音機/再生機" NameU="Recorder/Reproducer"/>
+    <String Name="長方形のマーク" NameU="Rect Mark"/>
+    <String Name="長方形" NameU="Rectangle"/>
+    <String Name="整流器" NameU="Rectifier"/>
+    <String Name="整流器/インバータ" NameU="Rectifier/Inverter"/>
+    <String Name="赤い" NameU="Red"/>
+    <String Name="縮小-キャリア周波数" NameU="Reduced-carrier Frequency"/>
+    <String Name="参考" NameU="Reference"/>
+    <String Name="参考のポート" NameU="Reference Port"/>
+    <String Name="参考の種類" NameU="Reference Type"/>
+    <String Name="関係" NameU="RelationShip"/>
+    <String Name="継電器のポート" NameU="Relay Port"/>
+    <String Name="継電器の種類" NameU="Relay Type"/>
+    <String Name="リモコンハンドル" NameU="Remote Handle"/>
+    <String Name="マイクを削除する" NameU="Remove Microphone"/>
+    <String Name="一節を削除する" NameU="Remove Segment"/>
+    <String Name="中継局" NameU="Repeater Station"/>
+    <String Name="中継器の種類" NameU="Repeater Type"/>
+    <String Name="画像を置換する" NameU="Replace Image"/>
+    <String Name="ロゴを置換する" NameU="Replace Logo"/>
+    <String Name="写真を置換する" NameU="Replace Photo"/>
+    <String Name="コピー" NameU="Replicated"/>
+    <String Name="コピーの種類" NameU="Replicated Class"/>
+    <String Name="コピー、参考" NameU="Replicated Reference"/>
+    <String Name="コピーとインポート" NameU="Replicated and Imported"/>
+    <String Name="コピーまた自由に選択できる" NameU="Replicated and Optional"/>
+    <String Name="コピーまた代替可能" NameU="Replicated and Substitutable"/>
+    <String Name="録音再生機" NameU="Reproducer"/>
+    <String Name="自動テキストをリセットする..." NameU="Reset Auto Text..."/>
+    <String Name="サイズをリセットする" NameU="Reset Size"/>
+    <String Name="テキストをリセットする" NameU="Reset Text"/>
+    <String Name="テキストの位置をリセットする" NameU="Reset Text Position"/>
+    <String Name="リゾルバ" NameU="Resolver"/>
+    <String Name="資源" NameU="Resources"/>
+    <String Name="アクセス制限" NameU="Restricted Access"/>
+    <String Name="逆阻止" NameU="Reverse Blocking"/>
+    <String Name="逆導電" NameU="Reverse Conducting"/>
+    <String Name="逆回転" NameU="Reverse rotation"/>
+    <String Name="右" NameU="Right"/>
+    <String Name="右のアイコンの種類" NameU="Right Icon Type"/>
+    <String Name="右" NameU="Right Side"/>
+    <String Name="右側方向" NameU="Right direction"/>
+    <String Name="右半円の値" NameU="Right hemisphere value."/>
+    <String Name="環の数" NameU="Ring Number"/>
+    <String Name="道幅" NameU="Road Width"/>
+    <String Name="ローラ" NameU="Roller"/>
+    <String Name="回転" NameU="Rolling"/>
+    <String Name="回転式" NameU="Rotary"/>
+    <String Name="丸いプラットフォーム" NameU="Round Landing"/>
+    <String Name="行数" NameU="Row Number"/>
+    <String Name="行" NameU="Rows"/>
+    <String Name="ルビーレーザー機" NameU="Ruby Laser Generator"/>
+    <String Name="キセノンランプ付きルビーレーザー機" NameU="Ruby Laser Generator with Xenon Lamp"/>
+    <String Name="ルール" NameU="Rule"/>
+    <String Name="塩分濃度計" NameU="Salinity Meter"/>
+    <String Name="鋸歯状" NameU="Sawtooth"/>
+    <String Name="スケールの精度" NameU="Scale Precision"/>
+    <String Name="スクリュー" NameU="Screw"/>
+    <String Name="スクリューコンベアの種類" NameU="Screw Conveyor Type"/>
+    <String Name="下向きスクリュー" NameU="Screw-down"/>
+    <String Name="スクリュー状" NameU="Screwed"/>
+    <String Name="第二次導関数" NameU="Second Derivative"/>
+    <String Name="二次流れ" NameU="Secondary Flow"/>
+    <String Name="位置" NameU="Section"/>
+    <String Name="節数" NameU="Segment Number"/>
+    <String Name="操作者参考の種類を選択する..." NameU="Select Actor Reference Type..."/>
+    <String Name="参照ポートを選択する..." NameU="Select Reference Port..."/>
+    <String Name="中継ポートを選択する..." NameU="Select Relay Port..."/>
+    <String Name="転移点の種類を選択する..." NameU="Select Transition Point Type..."/>
+    <String Name="選択する" NameU="Selected"/>
+    <String Name="半導体" NameU="Semiconducting"/>
+    <String Name="離れている" NameU="Separated"/>
+    <String Name="シリーズ" NameU="Series"/>
+    <String Name="シリーズ数" NameU="Series Number"/>
+    <String Name="サービス" NameU="Service"/>
+    <String Name="スピーカーの種類を設定する..." NameU="Set Amplifier Type..."/>
+    <String Name="角度を設定する" NameU="Set Angle"/>
+    <String Name="矢印の数を設定する" NameU="Set Arrow Number"/>
+    <String Name="矢印のサイズを設定する" NameU="Set Arrow Size"/>
+    <String Name="軸の最大値と最小値を設定する" NameU="Set Axis Max and Min Scale"/>
+    <String Name="軸の数を設定する" NameU="Set Axis Number"/>
+    <String Name="枠の数を設定する" NameU="Set Box Number"/>
+    <String Name="カテゴリの数を設定する" NameU="Set Category Number"/>
+    <String Name="椅子の数を設定する" NameU="Set Chair Number"/>
+    <String Name="円の数を設定する" NameU="Set Circle Number"/>
+    <String Name="列数を設定する" NameU="Set Column Number"/>
+    <String Name="コントロールの形式を設定する..." NameU="Set Control Type..."/>
+    <String Name="コンバーターの種類を設定する..." NameU="Set Converter Type..."/>
+    <String Name="現在の日付を設定する" NameU="Set Current Date"/>
+    <String Name="データを設定する" NameU="Set Data"/>
+    <String Name="データの形式を設定する" NameU="Set Data Type"/>
+    <String Name="遅延の種類を設定する..." NameU="Set Delay Type..."/>
+    <String Name="設備の種類を設定する..." NameU="Set Device Type..."/>
+    <String Name="ドーナツの厚さを設定する" NameU="Set Doughnut Thickness"/>
+    <String Name="ゲージのデータを設定する" NameU="Set Gauge Data"/>
+    <String Name="熱源の種類を設定する..." NameU="Set Heat Source Type..."/>
+    <String Name="中空に設定する" NameU="Set Hollow"/>
+    <String Name="間隔を設定する" NameU="Set Interval"/>
+    <String Name="層数を設定する" NameU="Set Level Number"/>
+    <String Name="機械の種類を設定する..." NameU="Set Machine Type..."/>
+    <String Name="最大値を設定する" NameU="Set Max Value"/>
+    <String Name="最大値と最小値を設定する" NameU="Set Max and Min Value"/>
+    <String Name="マイルストーンを設定する" NameU="Set Milestone"/>
+    <String Name="縦枠の数を設定する" NameU="Set Mullion Number"/>
+    <String Name="ノードの数を設定する..." NameU="Set Node Number..."/>
+    <String Name="線の数を設定する" NameU="Set Number of Lines"/>
+    <String Name="端子の数を設定する..." NameU="Set Number of Terminals..."/>
+    <String Name="項目数を設定する" NameU="Set Pie Number"/>
+    <String Name="点数を設定する" NameU="Set Point Number"/>
+    <String Name="位置とデータを設定する" NameU="Set Position and Data"/>
+    <String Name="原動機の種類を設定する..." NameU="Set Prime Mover Type..."/>
+    <String Name="プロセスの詳細を設定する..." NameU="Set Process Detail..."/>
+    <String Name="進度を設定する" NameU="Set Progress"/>
+    <String Name="限定符の種類を設定する..." NameU="Set Qualifier Type..."/>
+    <String Name="データの範囲を設定する" NameU="Set Range Data"/>
+    <String Name="番号範囲を設定する" NameU="Set Range Number"/>
+    <String Name="継電器の種類を設定する" NameU="Set Relay Type"/>
+    <String Name="中継器の種類を設定する..." NameU="Set Repeater Type..."/>
+    <String Name="目盛りの数を設定する" NameU="Set Ring Number"/>
+    <String Name="リングの厚さを設定" NameU="Set Ring Thickness"/>
+    <String Name="道幅を設定する" NameU="Set Road Width"/>
+    <String Name="行数を設定する" NameU="Set Row Number"/>
+    <String Name="矢印の数を設定する" NameU="Set Segment Number"/>
+    <String Name="シリーズの数を設定する" NameU="Set Series Number"/>
+    <String Name="中実に設定する" NameU="Set Solid"/>
+    <String Name="初期値と偏差値を設定する" NameU="Set Start and Step"/>
+    <String Name="発電所の種類を設定する..." NameU="Set Station Type..."/>
+    <String Name="変電所の種類を設定する..." NameU="Set Substation Type..."/>
+    <String Name="スイッチの位置を設定する" NameU="Set Switch Position"/>
+    <String Name="スイッチの種類を設定する..." NameU="Set Switch Type..."/>
+    <String Name="シンクロの種類を設定する..." NameU="Set Synchro Type..."/>
+    <String Name="電話の種類を設定する..." NameU="Set Telephone Type..."/>
+    <String Name="厚みを設定" NameU="Set Thickness"/>
+    <String Name="タイムバーを設定する" NameU="Set Time Bar"/>
+    <String Name="歯のサイズを設定する" NameU="Set Tooth Size"/>
+    <String Name="変圧器の属性を設定する..." NameU="Set Transformer Properties..."/>
+    <String Name="チューブの幅を設定する" NameU="Set Tube Width"/>
+    <String Name="単位の数を設定する" NameU="Set U Number"/>
+    <String Name="頂点の数を設定する" NameU="Set Vertex Number"/>
+    <String Name="垂直間隔を設定する" NameU="Set Vertical Interval"/>
+    <String Name="信号波形を設定する..." NameU="Set Wave Type..."/>
+    <String Name="週数を設定する" NameU="Set Week Number"/>
+    <String Name="幅を設置する" NameU="Set Width"/>
+    <String Name="巻線の種類を設定する..." NameU="Set Winding Type..."/>
+    <String Name="X, Y 軸の位置を設定する" NameU="Set X, Y Position"/>
+    <String Name="ズームサイズを変更する" NameU="Set Zoom Size"/>
+    <String Name="-180度から180度までの間で角度を設定する" NameU="Set the angle value from -180 to 180"/>
+    <String Name="頂点の数を設定します" NameU="Set the number of vertices"/>
+    <String Name="１本ラインに設定する" NameU="Set to 1 Line"/>
+    <String Name="1本ライン入力に設定する" NameU="Set to 1 Line Input"/>
+    <String Name="2本ラインに設定する" NameU="Set to 2 Line"/>
+    <String Name="2本ライン入力に設定する" NameU="Set to 2 Line Input"/>
+    <String Name="双方向に設定する" NameU="Set to Bidirectional"/>
+    <String Name="静電容量式に設定する" NameU="Set to Capacitive"/>
+    <String Name="円に設定する" NameU="Set to Circular"/>
+    <String Name="コヒーレントに設定する" NameU="Set to Coherent"/>
+    <String Name="電流源に設定する" NameU="Set to Current Source"/>
+    <String Name="固定に設定する" NameU="Set to Fixed"/>
+    <String Name="理想電流源に設定する" NameU="Set to Ideal Current"/>
+    <String Name="理想電圧源に設定する" NameU="Set to Ideal Voltage"/>
+    <String Name="指標に設定する" NameU="Set to Indicating"/>
+    <String Name="電離に設定する" NameU="Set to Ionizing"/>
+    <String Name="発光に設定する" NameU="Set to Light emitting"/>
+    <String Name="N型チャンネルに設定する" NameU="Set to N-Type Channel"/>
+    <String Name="NPNに設定する" NameU="Set to NPN"/>
+    <String Name="負パルスに設定する" NameU="Set to Negative Pulse"/>
+    <String Name="負ステップに設定する" NameU="Set to Negative Step"/>
+    <String Name="非静電容量に設定する" NameU="Set to Non-capacitive"/>
+    <String Name="非コヒーレントに設定する" NameU="Set to Non-coherent"/>
+    <String Name="非表示設定する" NameU="Set to Non-indicating"/>
+    <String Name="非電離に設定する" NameU="Set to Non-ionizing"/>
+    <String Name="P型チャンネルに設定する" NameU="Set to P-Type Channel"/>
+    <String Name="PNPに設定する" NameU="Set to PNP"/>
+    <String Name="正パルスに設定する" NameU="Set to Positive Pulse"/>
+    <String Name="正負ステップに設定する" NameU="Set to Positive Step"/>
+    <String Name="録音に設定する" NameU="Set to Recording"/>
+    <String Name="長方形に設定する" NameU="Set to Rectangular"/>
+    <String Name="再生に設定する" NameU="Set to Reproducing"/>
+    <String Name="信号灯に設定する" NameU="Set to Signal Lamp"/>
+    <String Name="標準ランプに設定する" NameU="Set to Standard Lamp"/>
+    <String Name="単方向に設定する" NameU="Set to Unidirectional"/>
+    <String Name="可変に設定する" NameU="Set to Variable"/>
+    <String Name="電圧源に設定する" NameU="Set to Voltage Source"/>
+    <String Name="感光性に設定する" NameU="Set to photosensitive"/>
+    <String Name="線を1本表示する" NameU="Show 1-Wire"/>
+    <String Name="1Fを表示する" NameU="Show 1F"/>
+    <String Name="2Fを表示する" NameU="Show 2F"/>
+    <String Name="端子を3つ表示する" NameU="Show 3 Terminals"/>
+    <String Name="線を3本表示する" NameU="Show 3-Wire"/>
+    <String Name="端子を4つ表示する" NameU="Show 4 Terminals"/>
+    <String Name="代わりの記号を表示する" NameU="Show Alternative Symbol"/>
+    <String Name="矢印を表示する" NameU="Show Arrow"/>
+    <String Name="軸を表示にする" NameU="Show Axis"/>
+    <String Name="軸ラベルを表示する" NameU="Show Axis Labels"/>
+    <String Name="枠を表示する" NameU="Show Border"/>
+    <String Name="両方の方向を表示する" NameU="Show Both Directions"/>
+    <String Name="底を表示する" NameU="Show Bottom"/>
+    <String Name="ブレーク接点を表示する" NameU="Show Break Contact"/>
+    <String Name="中心を表示する" NameU="Show Center"/>
+    <String Name="円を表示する" NameU="Show Circle"/>
+    <String Name="閉鎖回路を表示する" NameU="Show Closed Circuit"/>
+    <String Name="コネクタを表示する" NameU="Show Connect Line"/>
+    <String Name="交差を表示する" NameU="Show Cross"/>
+    <String Name="交差線を表示する" NameU="Show Cross Line"/>
+    <String Name="数値ラベルを表示する" NameU="Show Data Labels"/>
+    <String Name="数値ラベルを底にする" NameU="Show Data Labels on Bottom"/>
+    <String Name="数値ラベルを右にする" NameU="Show Data Labels on Right"/>
+    <String Name="削除ボタンを表示する" NameU="Show Delete"/>
+    <String Name="乾燥剤を表示する" NameU="Show Desiccant"/>
+    <String Name="弁別器を表示する" NameU="Show Discriminator"/>
+    <String Name="接触しない" NameU="Show Disengaged"/>
+    <String Name="点を表示する" NameU="Show Dot"/>
+    <String Name="水滴を表示する" NameU="Show Dripping"/>
+    <String Name="末端のフックを表示する" NameU="Show End Tick"/>
+    <String Name="接合を表示する" NameU="Show Engaged"/>
+    <String Name="包絡線を表示する" NameU="Show Envelop"/>
+    <String Name="出口の幅を表示する" NameU="Show Exit Width"/>
+    <String Name="フィルターペーパーを表示する" NameU="Show Filter Paper"/>
+    <String Name="表題の一番目のテキストブロックを表示する" NameU="Show First Block of Title"/>
+    <String Name="線を４本表示する" NameU="Show Four Lines"/>
+    <String Name="顆粒を表示する" NameU="Show Granule"/>
+    <String Name="グリッド線を表示する" NameU="Show Grid"/>
+    <String Name="テキストボックスの形を変更する" NameU="Show Groove"/>
+    <String Name="接合する" NameU="Show Held Closed"/>
+    <String Name="接合しない" NameU="Show Held Open"/>
+    <String Name="水平グリッド線を表示する" NameU="Show Horizontal Grid"/>
+    <String Name="写真を表示する" NameU="Show Image"/>
+    <String Name="丸い写真を表示する" NameU="Show Image Circle"/>
+    <String Name="鉄のクリップ1を表示する" NameU="Show Iron Clip 1"/>
+    <String Name="鉄のクリップ2を表示する" NameU="Show Iron Clip 2"/>
+    <String Name="接合点を表示する" NameU="Show Junction"/>
+    <String Name="左のテキストボックスを表示する" NameU="Show Left Box"/>
+    <String Name="左のテキストを表示する" NameU="Show Left Text"/>
+    <String Name="凡例を表示する" NameU="Show Legend"/>
+    <String Name="凡例を底にする" NameU="Show Legend on Bottom"/>
+    <String Name="凡例を右側にする" NameU="Show Legend on Right Side"/>
+    <String Name="ラインを表示" NameU="Show Line"/>
+    <String Name="液体を表示する" NameU="Show Liquid"/>
+    <String Name="接触する" NameU="Show Make Contact"/>
+    <String Name="中心の円を表示する" NameU="Show Middle Circle"/>
+    <String Name="中性線を表示する" NameU="Show Neutral"/>
+    <String Name="単方向を表示する" NameU="Show One Direction"/>
+    <String Name="線を１本表示する" NameU="Show One Line"/>
+    <String Name="回路を開く" NameU="Show Open Circuit"/>
+    <String Name="演算子を表示する" NameU="Show Operator"/>
+    <String Name="写真を表示する" NameU="Show Photo"/>
+    <String Name="極性記号を表示する" NameU="Show Polarity Symbols"/>
+    <String Name="反射鏡を表示する" NameU="Show Reflector"/>
+    <String Name="リフレッシュボタンを表示する" NameU="Show Refresh Button"/>
+    <String Name="右のテキストを表示する" NameU="Show Right Text"/>
+    <String Name="日付を表示する" NameU="Show Ruler"/>
+    <String Name="SWOTを表示する" NameU="Show SWOT"/>
+    <String Name="目盛りを表示する" NameU="Show Scale Mark"/>
+    <String Name="継ぎ目を表示する" NameU="Show Seam"/>
+    <String Name="固体を表示する" NameU="Show Solid"/>
+    <String Name="固体物質を表示する" NameU="Show Solid Matter"/>
+    <String Name="階段の展望台を表示する" NameU="Show Stair Stagger"/>
+    <String Name="テーブルを表示する" NameU="Show Table"/>
+    <String Name="水槽の縁を表示する" NameU="Show Tank Lip"/>
+    <String Name="テキストを表示する" NameU="Show Text"/>
+    <String Name="テキストブロックを表示する" NameU="Show Text Block"/>
+    <String Name="丸いテキストブロックを表示する" NameU="Show Text Circle"/>
+    <String Name="仕切りを表示する" NameU="Show Tick"/>
+    <String Name="表題を表示する" NameU="Show Title"/>
+    <String Name="表題バーを表示する" NameU="Show Title Bar"/>
+    <String Name="線を2本表示する" NameU="Show Two Lines"/>
+    <String Name="単位を表示する" NameU="Show Units"/>
+    <String Name="垂直グリッド線を表示する" NameU="Show Vertical Grid"/>
+    <String Name="水を表示する" NameU="Show Water"/>
+    <String Name="軸ラベルを表示/非表示にする" NameU="Show/Hide Axis Labels"/>
+    <String Name="並列接続または分離" NameU="Shunt or Separate"/>
+    <String Name="信号周波数" NameU="Signaling Frequency"/>
+    <String Name="同時" NameU="Simultaneous"/>
+    <String Name="正弦波" NameU="Sine Wave"/>
+    <String Name="単線" NameU="Single Line"/>
+    <String Name="単線記号" NameU="Single-line Symbol"/>
+    <String Name="単一負荷" NameU="Single-load"/>
+    <String Name="シングルストローク・ベル" NameU="Single-stroke Bell"/>
+    <String Name="非常ベル" NameU="Siren"/>
+    <String Name="槽" NameU="Slot"/>
+    <String Name="遅波構造" NameU="Slow Wave Structure"/>
+    <String Name="ゆっくり動く" NameU="Slow-operate"/>
+    <String Name="ゆっくりと放出" NameU="Slow-release"/>
+    <String Name="小さい" NameU="Small"/>
+    <String Name="小規模" NameU="Small Scale"/>
+    <String Name="記号 3" NameU="Smybol 3"/>
+    <String Name="ソケット" NameU="Socket and Spigot"/>
+    <String Name="半田付け" NameU="Soldered"/>
+    <String Name="固体" NameU="Solid"/>
+    <String Name="実線" NameU="Solid Line"/>
+    <String Name="溶媒" NameU="Solvent"/>
+    <String Name="アイコンのスペース" NameU="Space for an Icon"/>
+    <String Name="スピーカ付き電話" NameU="Speaker Phone"/>
+    <String Name="球の隙間" NameU="Sphere Gap"/>
+    <String Name="正方形" NameU="Square"/>
+    <String Name="正方形の台" NameU="Square Landing"/>
+    <String Name="正方形のマーク" NameU="Square Marker"/>
+    <String Name="標準的" NameU="Standard"/>
+    <String Name="標準的なベル" NameU="Standard Bell"/>
+    <String Name="標準的な形式" NameU="Standard Formt"/>
+    <String Name="標準的な記号" NameU="Standard Symbol"/>
+    <String Name="星形" NameU="Star"/>
+    <String Name="4角星形" NameU="Star4"/>
+    <String Name="5角星形" NameU="Star5"/>
+    <String Name="開始時間" NameU="Start Date"/>
+    <String Name="月曜日から開始する" NameU="Start From Monday"/>
+    <String Name="開始状態" NameU="Start State"/>
+    <String Name="初期値" NameU="Start Value"/>
+    <String Name="開始/終了" NameU="Start/End"/>
+    <String Name="状態" NameU="State"/>
+    <String Name="発電局の詳細情報" NameU="Station Specifics"/>
+    <String Name="発電局の種類" NameU="Station Type"/>
+    <String Name="ステップ" NameU="Step"/>
+    <String Name="ステップのサイズ" NameU="Step Size"/>
+    <String Name="停止状態" NameU="Stop State"/>
+    <String Name="停止/キャンセル" NameU="Stop/Cancel"/>
+    <String Name="文字列" NameU="String"/>
+    <String Name="サブメニュー" NameU="Sub Menu"/>
+    <String Name="サブ図形 ID" NameU="Sub-diagram ID"/>
+    <String Name="サブタイプ" NameU="SubType"/>
+    <String Name="水の中" NameU="Submarine"/>
+    <String Name="水浸し" NameU="Submersion"/>
+    <String Name="サブプロセス" NameU="Subprocess"/>
+    <String Name="変電所の種類" NameU="Substation Type"/>
+    <String Name="変電所の詳細情報" NameU="Substation specifics"/>
+    <String Name="置換可能" NameU="Substitutable"/>
+    <String Name="基板の接続" NameU="Substrate Connection"/>
+    <String Name="０より大きいまたは０に等しい値を薦める" NameU="Suggested value is greater than or equal to 0"/>
+    <String Name="加算" NameU="Summing"/>
+    <String Name="超大" NameU="Super Large"/>
+    <String Name="超群パイロット周波数" NameU="Supergroup Pilot Frequency"/>
+    <String Name="抑圧パイロット周波数" NameU="Suppressed Pilot Frequency"/>
+    <String Name="抑圧搬送波周波数" NameU="Suppressed-carrier Frequency"/>
+    <String Name="スイッチの位置" NameU="Switch Position"/>
+    <String Name="スイッチの種類" NameU="Switch Type"/>
+    <String Name="記号 1" NameU="Symbol 1"/>
+    <String Name="記号 2" NameU="Symbol 2"/>
+    <String Name="記号 3" NameU="Symbol 3"/>
+    <String Name="記号 4" NameU="Symbol 4"/>
+    <String Name="記号の選択" NameU="Symbol Option"/>
+    <String Name="同期式" NameU="Synchro Type"/>
+    <String Name="同期検定器" NameU="Synchronoscope"/>
+    <String Name="同期変流器" NameU="Synchronous Converter"/>
+    <String Name="同期発電機" NameU="Synchronous Generator"/>
+    <String Name="同期電動機" NameU="Synchronous Motor"/>
+    <String Name="T 型ゲート" NameU="T Type-Gate"/>
+    <String Name="正しい" NameU="TRUE"/>
+    <String Name="回転速度計" NameU="Tachometer"/>
+    <String Name="テープの穿孔" NameU="Tape Perforating"/>
+    <String Name="テープの印刷" NameU="Tape Printing"/>
+    <String Name="テープの印刷/穿孔" NameU="Tape Printing/Perforating"/>
+    <String Name="タップ" NameU="Taps"/>
+    <String Name="タスクの種類-ビジネスルール" NameU="Task Type - Business Rule"/>
+    <String Name="タスクの種類-をインスタンス化する" NameU="Task Type - Instantiating Receive"/>
+    <String Name="タスクの種類-マニュアル" NameU="Task Type - Manual"/>
+    <String Name="タスクの種類-なし" NameU="Task Type - None"/>
+    <String Name="タスクの種類-受信する" NameU="Task Type - Receive"/>
+    <String Name="タスクの種類-スクリプト" NameU="Task Type - Script"/>
+    <String Name="タスクの種類-送付する" NameU="Task Type - Send"/>
+    <String Name="タスクの種類-サービス" NameU="Task Type - Service"/>
+    <String Name="タスクの種類-ユーザー" NameU="Task Type - User"/>
+    <String Name="電話の種類" NameU="Telephone Type"/>
+    <String Name="端子" NameU="Terminals"/>
+    <String Name="端末設定" NameU="Terminating Set"/>
+    <String Name="端末設定w/バランスネットワーク" NameU="Terminating Set w/ Balancing Network"/>
+    <String Name="テキスト" NameU="Text"/>
+    <String Name="従テキスト" NameU="Text Parallel"/>
+    <String Name="横テキスト" NameU="Text Perpendicular"/>
+    <String Name="数値の後に単位を表示する。例：180 USD" NameU="The unit displayed after current value, e.g. 180 USD"/>
+    <String Name="数値の前に単位を表示する。例：$180" NameU="The unit displayed before current value, e.g. $180"/>
+    <String Name="温度計" NameU="Thermometer"/>
+    <String Name="厚さ" NameU="Thickness"/>
+    <String Name="三次導関数" NameU="Third Derivative"/>
+    <String Name="千単位の分離文字" NameU="Thousand Separator"/>
+    <String Name="目盛りの数" NameU="Tick Number"/>
+    <String Name="タイマ" NameU="Timer"/>
+    <String Name="表題" NameU="Title"/>
+    <String Name="歯のサイズ" NameU="Tooth Size"/>
+    <String Name="トップ" NameU="Top"/>
+    <String Name="一番上のフック" NameU="Top Hook"/>
+    <String Name="左上" NameU="Top Left"/>
+    <String Name="右上" NameU="Top Right"/>
+    <String Name="接触" NameU="Touching"/>
+    <String Name="追跡局" NameU="Tracking Station"/>
+    <String Name="転移点" NameU="Transition Point"/>
+    <String Name="伝送" NameU="Transmission"/>
+    <String Name="送信機" NameU="Transmitter"/>
+    <String Name="三角形" NameU="Triangle"/>
+    <String Name="トリガー" NameU="Trigger"/>
+    <String Name="正しい" NameU="True"/>
+    <String Name="管束型" NameU="Tube Bundle Type"/>
+    <String Name="管の幅" NameU="Tube Width"/>
+    <String Name="タービン" NameU="Turbine"/>
+    <String Name="消す" NameU="Turn Off"/>
+    <String Name="つける" NameU="Turn On"/>
+    <String Name="ターンスイッチ" NameU="Turn-switch"/>
+    <String Name="回転" NameU="Turning"/>
+    <String Name="二つの円" NameU="Two Circles"/>
+    <String Name="二つの入力" NameU="Two Input"/>
+    <String Name="二本の線" NameU="Two Lines"/>
+    <String Name="双向单工" NameU="Two-way Simplex"/>
+    <String Name="種類" NameU="Type"/>
+    <String Name="1型" NameU="Type 1"/>
+    <String Name="2型" NameU="Type 2"/>
+    <String Name="3型" NameU="Type 3"/>
+    <String Name="4型" NameU="Type 4"/>
+    <String Name="A型" NameU="Type A"/>
+    <String Name="B型" NameU="Type B"/>
+    <String Name="C型" NameU="Type C"/>
+    <String Name="U 数" NameU="U Number"/>
+    <String Name="U-チューブ" NameU="U-tubes"/>
+    <String Name="未選択" NameU="UnChecked"/>
+    <String Name="ロック解除" NameU="UnLock"/>
+    <String Name="地下" NameU="Underground"/>
+    <String Name="非接地" NameU="Ungrounded"/>
+    <String Name="単方向に拡大する" NameU="Unidirectional Amplification"/>
+    <String Name="単位" NameU="Unit"/>
+    <String Name="単位" NameU="Units"/>
+    <String Name="単位の表示" NameU="Units Display"/>
+    <String Name="分離しない" NameU="Unseparated"/>
+    <String Name="特記されていない" NameU="Unspecified"/>
+    <String Name="上" NameU="Up"/>
+    <String Name="上" NameU="Up Position"/>
+    <String Name="上り" NameU="Up direction"/>
+    <String Name="緊急" NameU="Urgent"/>
+    <String Name="数値" NameU="Val"/>
+    <String Name="数値" NameU="Value"/>
+    <String Name="数値 1" NameU="Value 1"/>
+    <String Name="数値 2" NameU="Value 2"/>
+    <String Name="弁" NameU="Valve"/>
+    <String Name="弁の種類" NameU="Valve Class"/>
+    <String Name="可変" NameU="Variable"/>
+    <String Name="無効電力計" NameU="Varmeter"/>
+    <String Name="確認した" NameU="Verified"/>
+    <String Name="頂点の数" NameU="Vertex Number"/>
+    <String Name="垂直" NameU="Vertical"/>
+    <String Name="垂直ブレード" NameU="Vertical Blades"/>
+    <String Name="垂直フリップ" NameU="Vertical Flip"/>
+    <String Name="非常に大きい" NameU="Very Large"/>
+    <String Name="非常に小さい" NameU="Very Small"/>
+    <String Name="振動子" NameU="Vibrator"/>
+    <String Name="バイオレット" NameU="Violet"/>
+    <String Name="可視" NameU="Visible"/>
+    <String Name="音声ボタン" NameU="Voice Button"/>
+    <String Name="電圧計" NameU="Voltmeter"/>
+    <String Name="警告" NameU="Warning"/>
+    <String Name="波長計" NameU="Wavemeter"/>
+    <String Name="弱い関係" NameU="Weak Relationship"/>
+    <String Name="週" NameU="Week"/>
+    <String Name="湿った" NameU="Wet"/>
+    <String Name="車輪" NameU="Wheel"/>
+    <String Name="幅" NameU="Width"/>
+    <String Name="巻線の種類" NameU="Winding Type"/>
+    <String Name="女性の" NameU="Woman"/>
+    <String Name="最悪" NameU="Worst"/>
+    <String Name="書く" NameU="Writing"/>
+    <String Name="X" NameU="X"/>
+    <String Name="X軸の目盛りの数" NameU="X Axis Tick Number"/>
+    <String Name="X軸の最大値" NameU="X Max Scale"/>
+    <String Name="X軸の最小値" NameU="X Min Scale"/>
+    <String Name="X-型" NameU="X-type"/>
+    <String Name="XNOR" NameU="XNOR"/>
+    <String Name="XOR" NameU="XOR"/>
+    <String Name="Y" NameU="Y"/>
+    <String Name="Y軸の目盛りの数" NameU="Y Axis Tick Number"/>
+    <String Name="Y軸の最大値" NameU="Y Max Scale"/>
+    <String Name="Y軸の最大値" NameU="Y Min Scale"/>
+    <String Name="年" NameU="Year"/>
+    <String Name="黄色い" NameU="Yellow"/>
+    <String Name="はい" NameU="Yes"/>
+    <String Name="ゼロリアクタンス" NameU="Zero Reactance"/>
+    <String Name="ゼロリアクタンス-無限のサセプタンス" NameU="Zero Reactance - Infinite susceptance"/>
+    <String Name="ズームのサイズ" NameU="Zoom Size"/>
+    <String Name="d/M/yyyy" NameU="d/M/yyyy"/>
+    <String Name="d/M/yyyy h:mm AM/PM" NameU="d/M/yyyy h:mm AM/PM"/>
+    <String Name="例：18.56, [00: 20]; [0: 18]; [0.0: 18.5]; [0.00: 18.56]; [0.000: 18.56]" NameU="e.g.18.56, [00: 20]; [0: 18]; [0.0: 18.5]; [0.00: 18.56]; [0.000: 18.56]"/>
+    <String Name="例：e.g.18500, 通常:18500; 千単位の分離文字:18,500; 簡略:18.5K" NameU="e.g.18500, Normal:18500; Thousand Separator:18,500; Breviary:18.5K"/>
+    <String Name="h:mm AM/PM" NameU="h:mm AM/PM"/>
+    <String Name="hh:mm" NameU="hh:mm"/>
+    <String Name="yyyy" NameU="yyyy"/>
+    <String Name="yyyy-MM-dd" NameU="yyyy-MM-dd"/>
+</ShapeStrings>

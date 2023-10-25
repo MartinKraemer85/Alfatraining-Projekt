@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Source and Battery">
+    <Elem NameU="Source" Name="电源"/>
+    <Elem NameU="Ideal source" Name="理想电源"/>
+    <Elem NameU="AC source" Name="交流电源"/>
+    <Elem NameU="DC source" Name="直流电源"/>
+    <Elem NameU="Constant source" Name="恒流源"/>
+    <Elem NameU="Cell" Name="电池"/>
+    <Elem NameU="Battery" Name="电池"/>
+    <Elem NameU="AC" Name="直流电源"/>
+    <Elem NameU="Current" Name="电流"/>
+    <Elem NameU="DC" Name="直流电"/>
+    <Elem NameU="DC 2" Name="直流电 2"/>
+    <Elem NameU="Dependent" Name="受控源"/>
+    <Elem NameU="Dependent 2" Name="受控源 2"/>
+    <Elem NameU="Dependent 3" Name="受控源 3"/>
+    <Elem NameU="Noise" Name="噪音"/>
+    <Elem NameU="Oscillator" Name="振荡器"/>
+</Lib>

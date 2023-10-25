@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Text">
+    <Elem NameU="H1 Header" Name="H1 제목"/>
+    <Elem NameU="H2 Header" Name="H2 제목"/>
+    <Elem NameU="H3 Header" Name="H3 제목"/>
+    <Elem NameU="12pt Label" Name="12pt 레이블"/>
+    <Elem NameU="10pt Label" Name="10pt 레이블"/>
+    <Elem NameU="9pt Label" Name="9pt 레이블"/>
+    <Elem NameU="Text Block" Number="2" Name="텍스트 블록"/>
+    <Elem NameU="Text Block （Solid Frame)" Name="프레임 있는 텍스트 블록"/>
+    <Elem NameU="Bullet Text" Name="글머리 기호 텍스트"/>
+</Lib>

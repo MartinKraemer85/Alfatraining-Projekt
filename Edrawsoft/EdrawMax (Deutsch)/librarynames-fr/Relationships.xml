@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Relationships">
+	<Elem NameU="Assignment" Name="Affectation"/>
+	<Elem NameU="Realization" Name="Réalisation"/>
+	<Elem NameU="Triggering" Name="Déclenchement"/>
+	<Elem NameU="Serving" Name="Service"/>
+	<Elem NameU="Association" Name="Association"/>
+	<Elem NameU="Provide" Name="Fourniture"/>
+	<Elem NameU="Read Access" Name="Accès en lecture"/>
+	<Elem NameU="Aggregation" Name="Agrégation"/>
+	<Elem NameU="Composition" Name="Composition"/>
+	<Elem NameU="Specialization" Name="Spécialisation"/>
+	<Elem NameU="Flow" Name="Flux"/>
+	<Elem NameU="Location" Name="Localisation"/>
+	<Elem NameU="Grouping" Name="Regroupement"/>
+	<Elem NameU="And Junction" Name="Et croisement"/>
+	<Elem NameU="Or Junction" Name="Ou croisement"/>
+</Lib>

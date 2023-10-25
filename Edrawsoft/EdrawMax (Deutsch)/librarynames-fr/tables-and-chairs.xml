@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Tables and Chairs">
+
+<Elem Name="Chaise" NameU="Chair"/>
+
+<Elem Name="Tabouret" NameU="Stool"/>
+
+<Elem Name="Inclinable" NameU="Recliner"/>
+
+<Elem Name="Transat" NameU="Sling chair"/>
+
+<Elem Name="Chaise longue" NameU="Lounge chair"/>
+
+<Elem Name="Table avec des chaises" NameU="Table with Chairs"/>
+
+<Elem Name="Style de station" NameU="Style Station"/>
+
+<Elem Name="chaise longue" NameU="lounge chair"/>
+
+<Elem Name="Chaise longue" NameU="Lounge Chair"/>
+
+<Elem Name="Comptoir de bar" NameU="Bar Counter"/>
+
+<Elem Name="La chaise et la table" NameU="The Chair and Table"/>
+
+<Elem Name="Canapé et table de canapé" NameU="Sofa and Sofa Table"/>
+
+<Elem Name="Table double" NameU="Double table"/>
+
+<Elem Name="Table à manger circulaire pour quatre" NameU="Circular dining table for four"/>
+
+<Elem Name="Table à manger circulaire pour huit personnes" NameU="Eight people circular dining table"/>
+
+<Elem Name="Table à manger ovale" NameU="Oval dining table"/>
+
+<Elem Name="Double square table" NameU="Double square table"/>
+
+<Elem Name="Table carrée" NameU="Square table"/>
+
+<Elem Name="Table à manger rectangulaire" NameU="Oblong dining table"/>
+
+<Elem Name="Square dining table" NameU="Square dining table"/>
+
+<Elem Name="Table à manger" NameU="Dining table"/>
+
+<Elem Name="Table ronde" NameU="Circular table"/>
+
+<Elem Name="Oval table" NameU="Oval table"/>
+
+<Elem Name="Table de conférence" NameU="Conference table"/>
+
+<Elem Name="Table rectangulaire" NameU="Rectangle table"/>
+
+<Elem Name="Table diamant" NameU="Diamond table"/>
+
+<Elem Name="Table d'angle" NameU="Corner table"/>
+
+<Elem Name="Table en demi-cercle" NameU="Semicircle table"/>
+
+<Elem Name="La table des fans" NameU="The fan table"/>
+
+<Elem Name="Table de ping-pong" NameU="Ping-pong table"/>
+
+<Elem Name="Bureau" NameU="Desk"/>
+
+<Elem Name="Coiffeuse" NameU="Dressing table"/>
+
+</Lib>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Servers">
+    <Elem NameU="Server 1" Name="伺服器 1"/>
+    <Elem NameU="Server 2" Name="伺服器 2"/>
+    <Elem NameU="Server 3" Name="伺服器 3"/>
+    <Elem NameU="Super Computer" Name="超級計算機"/>
+    <Elem NameU="Mainframe" Name="大型機"/>
+    <Elem NameU="File Server" Name="檔案伺服器"/>
+    <Elem NameU="Web Server" Name="網頁伺服器"/>
+    <Elem NameU="FTP Server" Name="FTP 伺服器"/>
+    <Elem NameU="Email Server" Name="郵件伺服器"/>
+    <Elem NameU="E-Commerce Server" Name="電子商務伺服器"/>
+    <Elem NameU="Database Server" Name="資料庫伺服器"/>
+    <Elem NameU="Communication Server" Name="通信伺服器"/>
+    <Elem NameU="Proxy Server" Name="代理伺服器"/>
+    <Elem NameU="Print Server" Name="列印伺服器"/>
+    <Elem NameU="Management Server" Name="管理伺服器"/>
+    <Elem NameU="Streaming Media Server" Name="流化媒體伺服器"/>
+    <Elem NameU="Directory Server" Name="目錄伺服器"/>
+    <Elem NameU="Mobile Information Server" Name="移動通信伺服器"/>
+    <Elem NameU="Private or Public Access Server" Name="私人或公共訪問伺服器"/>
+</Lib>

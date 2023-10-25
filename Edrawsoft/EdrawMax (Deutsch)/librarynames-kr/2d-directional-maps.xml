@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="2D Directional Maps">
+    <Elem NameU="Road" Name="도로"/>
+    <Elem NameU="Road round" Name="끝이 둥근 도로"/>
+    <Elem NameU="Corner" Name="모서리"/>
+    <Elem NameU="Corner round" Name="끝이 둥근 모서리"/>
+    <Elem NameU="3 Ways" Name="삼거리"/>
+    <Elem NameU="3 Ways round" Name="끝이 둥근 삼거리"/>
+    <Elem NameU="4 Ways" Name="교차로"/>
+    <Elem NameU="4 Ways round" Name="끝이 둥근 교차로"/>
+    <Elem NameU="Curve 1" Name="곡선로 1"/>
+    <Elem NameU="Curve round 1" Name="둥근 곡선로1"/>
+    <Elem NameU="Curve 2" Name="곡선로2"/>
+    <Elem NameU="Curve round 2" Name="둥근 곡선로 2"/>
+    <Elem NameU="Roundabout" Name="원형 교차로"/>
+    <Elem NameU="Cloverleaf interchange" Name="클로버형 인터체인지"/>
+    <Elem NameU="Diamond interchange" Name="다이아몬드형 인터체인지"/>
+    <Elem NameU="Bridge" Name="브리지"/>
+    <Elem NameU="Flexible road" Name="가변 도로"/>
+    <Elem NameU="Region" Name="지역"/>
+    <Elem NameU="Gate" Name="게이트"/>
+    <Elem NameU="Roadway break" Name="도로 단절"/>
+    <Elem NameU="Thin road" Name="좁은 도로"/>
+    <Elem NameU="City/town dot" Name="도시/도심 점"/>
+    <Elem NameU="Junction number" Name="합류점 번호"/>
+</Lib>

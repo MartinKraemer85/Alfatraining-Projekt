@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="AWS Internet of Things">
+	<Elem NameU="FreeRTOS" Name="Kostenloses RTOS"/>
+	<Elem NameU="AWS-IoT-_Device-Management" Name="AWS IoT-Geräteverwaltung"/>
+	<Elem NameU="AWS-IoT-1-Click" Name="AWS IoT 1 Klick"/>
+	<Elem NameU="AWS-IoT-Analytics" Name="AWS IoT-Analyse"/>
+	<Elem NameU="AWS-IoT-Button" Name="AWS IoT-Schaltfläche"/>
+	<Elem NameU="AWS-IoT-Core" Name="AWS IoT-Kern"/>
+	<Elem NameU="AWS-IoT-Device-Defender" Name="AWS IoT Device Defender"/>
+	<Elem NameU="AWS-IoT-Events" Name="AWS IoT-Ereignisse"/>
+	<Elem NameU="AWS-IoT-Greengrass" Name="AWS IoT Green Grass"/>
+	<Elem NameU="AWS-IoT-SiteWise" Name="AWS IoT-Website weise"/>
+	<Elem NameU="AWS-IoT-Things-Graph" Name="AWS IoT Things Diagramm"/>
+	<Elem NameU="Internet-of-Things" Name="Internet der Dinge"/>
+	<Elem NameU="AWS-IoT-Analytics_Pipeline" Name="AWS IoT-Analysepipeline"/>
+	<Elem NameU="AWS-IoT-Analytics_Data-Store" Name="AWS IoT-Analysedatenspeicher"/>
+	<Elem NameU="AWS-IoT-Analytics_Data-Set" Name="AWS IoT-Analysedatensatz"/>
+	<Elem NameU="AWS-IoT-Analytics_Channel" Name="AWS IoT-Analysekanäle"/>
+	<Elem NameU="AWS-IoT-Analytics_Notebook" Name="AWS-IoT-Analytics-Notizbuch"/>
+	<Elem NameU="AWS-IoT-Greengrass_Connector" Name="AWS IoT Greengrass Connector"/>
+	<Elem NameU="IoT_Action" Name="IoT-Aktion"/>
+	<Elem NameU="IoT_Actuator" Name="Aktuator für das Internet der Dinge"/>
+	<Elem NameU="IoT_Alexa-enabled-device" Name="IoT-Geräte, die Alexa unterstützen"/>
+	<Elem NameU="IoT_Alexa-skill" Name="IoT Alexa-Fähigkeiten"/>
+	<Elem NameU="IoT_Alexa-voice-service" Name="Internet der Dinge Alexa-Voice Service"/>
+	<Elem NameU="IoT_Bank" Name="Internet der Dinge Bank"/>
+	<Elem NameU="IoT_Bicycle" Name="Internet der Dinge Fahrrad"/>
+	<Elem NameU="IoT_Camera" Name="IoT-Kamera "/>
+	<Elem NameU="IoT_Car" Name="IoT Auto"/>
+	<Elem NameU="IoT_Cart" Name="IoT Einkaufswagen"/>
+	<Elem NameU="IoT_Certificate-manager" Name="IoT-Zertifikatmanager"/>
+	<Elem NameU="IoT_Coffee-pot" Name="IoT-Zertifikatmanager"/>
+	<Elem NameU="IoT_Desired-state" Name="Der erforderliche Zustand des Internet der Dinge"/>
+	<Elem NameU="IoT_Device-gateway" Name="IoT-Geräte-Gateway"/>
+	<Elem NameU="IoT_Door-lock" Name="IoT Türschloss"/>
+	<Elem NameU="IoT_Echo" Name="IoT-Echo"/>
+	<Elem NameU="IoT_Factory" Name="IoT-Fabrik"/>
+	<Elem NameU="IoT_Fire-TV" Name="IoT Fire TV"/>
+	<Elem NameU="IoT_Fire-TV-stick" Name="IoT Fire TV Stick"/>
+	<Elem NameU="IoT_Generic" Name="Allgemeines Internet der Dinge"/>
+	<Elem NameU="IoT_Hardware-board" Name="IoT-Hardware-Karte"/>
+	<Elem NameU="IoT_House" Name="Heimat des Internet der Dinge"/>
+	<Elem NameU="IoT_HTTP-2-protocol" Name="Internet of Things HTTP-2-Protokoll"/>
+	<Elem NameU="IoT_HTTP-protocol" Name="HTTP-Protokoll für das Internet der Dinge"/>
+	<Elem NameU="IoT_Lambda-function" Name="IoT Lambda-Funktion"/>
+	<Elem NameU="IoT_Lightbulb" Name="IoT Glühbirne"/>
+	<Elem NameU="IoT_Medical-emergency" Name="IoT Glühbirne"/>
+	<Elem NameU="IoT_MQTT-protocol" Name="IoT MQTT-Protokoll"/>
+	<Elem NameU="IoT_Over-the-air-update" Name="Internet der Dinge Update"/>
+	<Elem NameU="IoT_Police-emergency" Name="IoT Polizei Notfall"/>
+	<Elem NameU="IoT_Policy" Name="IoT-Richtlinie"/>
+	<Elem NameU="IoT_Reported-state" Name="IoT-Berichtsstatus"/>
+	<Elem NameU="IoT_Rule" Name="Regeln für das Internet der Dinge"/>
+	<Elem NameU="IoT_Sensor" Name="IoT-Sensoren"/>
+	<Elem NameU="IoT_Servo" Name="Internet der Dinge Service"/>
+	<Elem NameU="IoT_Shadow" Name="Schatten des Internet der Dinge"/>
+	<Elem NameU="IoT_Simulator" Name="IoT-Simulator"/>
+	<Elem NameU="IoT_Thermostat" Name="IoT-Thermostat"/>
+	<Elem NameU="IoT_Topic" Name="IoT-Thema"/>
+	<Elem NameU="IoT_Travel" Name="IoT Reisen"/>
+	<Elem NameU="IoT_Utility" Name="IoT-Dienstprogramm"/>
+	<Elem NameU="IoT_Windfarm" Name="IoT Windpark"/>
+	<Elem NameU="IoT-Device-Jobs_Resource" Name="Ressourcen für den Betrieb von IoT-Geräten"/>
+</Lib>

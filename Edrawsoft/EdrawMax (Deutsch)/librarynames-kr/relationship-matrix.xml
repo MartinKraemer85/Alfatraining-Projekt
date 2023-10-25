@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Relationship Matrix">
+    <Elem NameU="Basic Matrix" Name="기본 매트릭스"/>
+    <Elem NameU="Basic Matrix-Vertical Title" Name="관계 매트릭스-수직 제목"/>
+    <Elem NameU="Basic Matrix-Angled Title" Name="관계 매트릭스-앵글 제목"/>
+    <Elem NameU="Relationship Matrix" Name="관계 매트릭스"/>
+    <Elem NameU="Involvement Matrix" Name="참여 매트릭스"/>
+    <Elem NameU="Involvement Matrix 2" Name="참여 매트릭스 2"/>
+    <Elem NameU="Single Column" Name="단일 열"/>
+    <Elem NameU="Single Row" Name="단일 행"/>
+    <Elem NameU="Legend" Name="범례"/>
+    <Elem NameU="Legend 2" Name="범례 2"/>
+    <Elem NameU="Text Block" Name="텍스트 블록"/>
+    <Elem NameU="12-Role Flag" Name="12-ROLE 플래그"/>
+    <Elem NameU="10-Role Flag" Name="10-ROLE 플래그"/>
+    <Elem NameU="Colorful Circle Flag" Name="컬러풀한 원형 깃발"/>
+    <Elem NameU="Numbering" Name="숫자"/>
+    <Elem NameU="Progress" Name="진행률"/>
+    <Elem NameU="Check Box" Name="체크 박스"/>
+    <Elem NameU="Yes/No" Name="예/아니요"/>
+    <Elem NameU="Play Flag" Name="플레이 플래그"/>
+    <Elem NameU="Four Directions" Name="4방향"/>
+    <Elem NameU="6-Role Flag" Name="6-ROLE 플래그"/>
+</Lib>

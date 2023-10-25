@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Cisco Safe Threat Icons">
+	<Elem NameU="Threat A1" Name="Minaccia A1"/>
+	<Elem NameU="Threat A2" Name="Minaccia A2"/>
+	<Elem NameU="Threat A3" Name="Minaccia A3"/>
+	<Elem NameU="Threat A4" Name="Minaccia A4"/>
+	<Elem NameU="Threat A5" Name="Minaccia A5"/>
+	<Elem NameU="Threat A6" Name="Minaccia A6"/>
+	<Elem NameU="Threat A7" Name="Minaccia A7"/>
+	<Elem NameU="Threat A8" Name="Minaccia A8"/>
+	<Elem NameU="Threat B1" Name="Minaccia B1"/>
+	<Elem NameU="Threat B2" Name="Minaccia B2"/>
+	<Elem NameU="Threat B3" Name="Minaccia B3"/>
+	<Elem NameU="Threat B4" Name="Minaccia B4"/>
+	<Elem NameU="Threat B5" Name="Minaccia B5"/>
+	<Elem NameU="Threat B6" Name="Minaccia B6"/>
+	<Elem NameU="Threat B7" Name="Minaccia B7"/>
+	<Elem NameU="Threat B8" Name="Minaccia B8"/>
+	<Elem NameU="Threat C1" Name="Minaccia C1"/>
+	<Elem NameU="Threat C2" Name="Minaccia C2"/>
+	<Elem NameU="Threat C3" Name="Minaccia C3"/>
+	<Elem NameU="Threat C4" Name="Minaccia C4"/>
+	<Elem NameU="Threat C5" Name="Minaccia C5"/>
+	<Elem NameU="Threat C6" Name="Minaccia C6"/>
+	<Elem NameU="Threat C7" Name="Minaccia C7"/>
+	<Elem NameU="Threat C8" Name="Minaccia C8"/>
+	<Elem NameU="Threat D1" Name="Minaccia D1"/>
+	<Elem NameU="Threat D2" Name="Minaccia D2"/>
+	<Elem NameU="Threat D3" Name="Minaccia D3"/>
+	<Elem NameU="Threat D4" Name="Minaccia D4"/>
+	<Elem NameU="Threat D5" Name="Minaccia D5"/>
+	<Elem NameU="Threat D6" Name="Minaccia D6"/>
+	<Elem NameU="Threat D7" Name="Minaccia D7"/>
+	<Elem NameU="Threat D8" Name="Minaccia D9"/>
+	<Elem NameU="Threat E1" Name="Minaccia E1"/>
+	<Elem NameU="Threat E2" Name="Minaccia E2"/>
+	<Elem NameU="Threat E3" Name="Minaccia E3"/>
+	<Elem NameU="Threat E4" Name="Minaccia E4"/>
+	<Elem NameU="Threat E5" Name="Minaccia E5"/>
+	<Elem NameU="Threat E6" Name="Minaccia E6"/>
+	<Elem NameU="Threat E7" Name="Minaccia E7"/>
+	<Elem NameU="Threat E8" Name="Minaccia E8"/>
+</Lib>

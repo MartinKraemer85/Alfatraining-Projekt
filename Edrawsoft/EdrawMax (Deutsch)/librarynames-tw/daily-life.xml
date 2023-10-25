@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Daily Life">
+    <Elem NameU="Toilet Paper" Name="廁紙"/>
+    <Elem NameU="Vase" Name="花瓶"/>
+    <Elem NameU="Makeup Mirror" Name="化妝鏡"/>
+    <Elem NameU="Table Lamp" Name="檯燈"/>
+    <Elem NameU="Watch" Name="手錶"/>
+    <Elem NameU="Light Bulb" Name="燈泡"/>
+    <Elem NameU="Reading Lamp" Name="閱讀燈"/>
+    <Elem NameU="Electric Light" Name="電燈"/>
+    <Elem NameU="key" Name="鑰匙"/>
+    <Elem NameU="Gas" Name="煤氣"/>
+    <Elem NameU="Electric Fan" Name="電風扇"/>
+    <Elem NameU="Plug" Name="插頭"/>
+    <Elem NameU="Watch" Name="手錶"/>
+    <Elem NameU="Goblet" Name="高腳杯"/>
+    <Elem NameU="Knife and Fork" Name="刀叉"/>
+    <Elem NameU="Spoon and Knife" Name="勺子和刀"/>
+    <Elem NameU="Red Wine Glass" Name="紅酒杯"/>
+    <Elem NameU="Beer Mug" Name="啤酒杯"/>
+    <Elem NameU="Coffee" Name="咖啡"/>
+    <Elem NameU="Lock" Name="鎖"/>
+    <Elem NameU="Store" Name="商場"/>
+    <Elem NameU="Medicine Box" Name="藥箱"/>
+    <Elem NameU="Straw Hat" Name="草帽"/>
+    <Elem NameU="Flip Flop" Name="拖鞋"/>
+    <Elem NameU="Air Conditioning" Name="空調"/>
+    <Elem NameU="Air Conditioner" Name="空調"/>
+    <Elem NameU="Clothes" Name="衣服"/>
+    <Elem NameU="Diary" Name="日記"/>
+    <Elem NameU="Photo" Name="照片"/>
+    <Elem NameU="Bathtub" Name="浴缸"/>
+    <Elem NameU="Flats" Name="公寓"/>
+    <Elem NameU="Brush" Name="畫筆"/>
+    <Elem NameU="Palette" Name="調色板"/>
+    <Elem NameU="Umbrella" Name="傘"/>
+    <Elem NameU="Bachelor Cap" Name="學士帽"/>
+    <Elem NameU="Glasses" Name="眼鏡"/>
+    <Elem NameU="Headset" Name="頭戴式耳機"/>
+    <Elem NameU="Music" Name="音樂"/>
+    <Elem NameU="Game Remote Control" Name="遊戲遙控器"/>
+    <Elem NameU="Ice Cream" Name="冰淇淋"/>
+    <Elem NameU="Mobile Phone" Name="手機"/>
+    <Elem NameU="Potted Plant" Name="盆栽植物"/>
+    <Elem NameU="Video Playback" Name="視頻回放"/>
+    <Elem NameU="Flask" Name="燒瓶"/>
+    <Elem NameU="Heart" Name="心"/>
+    <Elem NameU="Birthday Cake" Name="生日蛋糕"/>
+    <Elem NameU="Telescope" Name="望遠鏡"/>
+    <Elem NameU="No Smoking" Name="禁止吸煙"/>
+    <Elem NameU="Candle" Name="蠟燭"/>
+    <Elem NameU="Fire" Name="火"/>
+    <Elem NameU="Aims" Name="目的"/>
+    <Elem NameU="Dialogue" Name="對話"/>
+    <Elem NameU="Navigation" Name="導航"/>
+    <Elem NameU="Hammer" Name="錘子"/>
+    <Elem NameU="Microphone" Name="話筒"/>
+</Lib>

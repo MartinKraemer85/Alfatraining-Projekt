@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="AWS Application Integration">
+	<Elem NameU="Application-Integration" Name="应用整合"/>
+	<Elem NameU="AWS-Console-Mobile-Application" Name="控制台移动应用程序"/>
+	<Elem NameU="AWS-Express-Workflows" Name="Express工作流"/>
+	<Elem NameU="AWS-Step-Functions" Name="AWS分步功能"/>
+	<Elem NameU="AppSync" Name="AppSync"/>
+	<Elem NameU="EventBridge" Name="活动桥"/>
+	<Elem NameU="EventBridge_Custom-event-bus_resource-icon" Name="活动桥_自定义事件总线资源图标"/>
+	<Elem NameU="EventBridge_Default-event-bus_resource-icon" Name="活动桥_默认事件总线资源图标"/>
+	<Elem NameU="EventBridge_Saas-Partner-event-bus_resource-icon" Name="活动桥_Saas合作伙伴事件总线资源图标"/>
+	<Elem NameU="MQ" Name="MQ"/>
+	<Elem NameU="Simple-Notification-Service-SNS" Name="简单通知服务SNS"/>
+	<Elem NameU="Simple-Notification-Service-SNS_Email-Notification" Name="简单通知服务SNS_电子邮件通知"/>
+	<Elem NameU="Simple-Notification-Service-SNS_HTTP-Notification" Name="简单通知服务SNS_HTTP通知"/>
+	<Elem NameU="Simple-Notification-Service-SNS_Topic" Name="简单通知服务SNS_话题"/>
+	<Elem NameU="Simple-Queue-Service-SQS" Name="简单队列服务SQS"/>
+	<Elem NameU="Simple-Queue-Service-SQS_Message" Name="简单队列服务SQS_信息"/>
+	<Elem NameU="Simple-Queue-Service-SQS_Queue" Name="简单队列服务SQS_队列"/>
+	<Elem NameU="Application-Integration_Event_Resource" Name="应用整合_活动资源"/>
+</Lib>

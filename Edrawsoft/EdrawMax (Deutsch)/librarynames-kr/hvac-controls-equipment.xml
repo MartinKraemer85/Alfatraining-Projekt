@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="HVAC Controls Equipment">
+    <Elem NameU="Duct" Name="덕트"/>
+    <Elem NameU="Return duct" Name="반환 덕트"/>
+    <Elem NameU="Return duct 2" Name="반환 덕트 2"/>
+    <Elem NameU="Supply duct" Name="공급 덕트"/>
+    <Elem NameU="Supply duct 2" Name="공급 덕트 2"/>
+    <Elem NameU="2-fan sections" Name="팬이 2개인 섹션"/>
+    <Elem NameU="3-fan sections" Name="팬이 3개인 섹션"/>
+    <Elem NameU="4-fan sections" Name="팬이 4개인 섹션"/>
+    <Elem NameU="VAV box" Name="VAV 상자"/>
+    <Elem NameU="DD VAV box" Name="DD VAV 상자"/>
+    <Elem NameU="Fain coil housing" Name="팬 코일 하우징"/>
+    <Elem NameU="Unit heater" Name="장치 가열기"/>
+    <Elem NameU="Centrifugal fan" Name="원심력 팬"/>
+    <Elem NameU="Propeller fan" Name="프로펠러 팬"/>
+    <Elem NameU="Vane axial fan" Name="베인 축류 팬"/>
+    <Elem NameU="Damper" Name="댐퍼"/>
+    <Elem NameU="Filter" Name="필터"/>
+    <Elem NameU="Air flow station" Name="공기 흐름 스테이션"/>
+    <Elem NameU="Humidifier" Name="공기 흐름 스테이션"/>
+    <Elem NameU="Htg/clg coil" Name="Htg/clg 코일"/>
+    <Elem NameU="Pump" Name="펌프"/>
+    <Elem NameU="Valve" Name="밸브"/>
+    <Elem NameU="Gate valve" Name="게이트 벨브"/>
+    <Elem NameU="Water flow meter" Name="수량계"/>
+    <Elem NameU="Chiller" Name="냉각기"/>
+    <Elem NameU="Cooling tower" Name="냉각 타워"/>
+    <Elem NameU="Boiler" Name="보일러"/>
+    <Elem NameU="Equipment" Name="장비"/>
+    <Elem NameU="VSD" Name="VSD"/>
+    <Elem NameU="Start" Name="시작"/>
+    <Elem NameU="Side to side pipe" Number="2" Name="측면 연결 파이프"/>
+    <Elem NameU="Top to bottom pipe" Number="2" Name="위쪽과 아래쪽 연결 파이프"/>
+    <Elem NameU="Side to bottom pipe" Number="2" Name="측면과 아래쪽 연결 파이프"/>
+    <Elem NameU="Pipe flow arrow" Name="파이프 흐름 화살표"/>
+</Lib>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Text">
+	<Elem NameU="Text Block" Name="Blocco di Testo"/>
+	<Elem NameU="Text Block （Solid Frame)" Name="Blocco di Testo (Cornice Solida)"/>
+	<Elem NameU="Bullet Text" Name="Testo a Elenco"/>
+	<Elem NameU="H1 Header" Name="Intestazione H1"/>
+	<Elem NameU="H2 Header" Name="Intestazione H2"/>
+	<Elem NameU="H3 Header" Name="Intestazione H3"/>
+	<Elem NameU="12pt Label" Name="Etichetta 12pt"/>
+	<Elem NameU="10pt Label" Name="Etichetta 10pt"/>
+	<Elem NameU="9pt Label" Name="Etichetta 9pt"/>
+</Lib>

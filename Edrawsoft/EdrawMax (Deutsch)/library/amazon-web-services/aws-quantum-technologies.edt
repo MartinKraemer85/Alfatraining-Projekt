@@ -1,0 +1,4469 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template NameU="AWS Quantum Technologies" Version="10.1.2">
+    <Items>
+        <Item PromptU="AWS-Braket" NameU="AWS-Braket">
+            <!--<Shape ID="106" Version="10.1.3" Type="Group">
+<Transform>
+<Width V="75"/>
+<Height V="75"/>
+<Angle V="0"/>
+<GPinX V="37.5"/>
+<GPinY V="37.5"/>
+<LocPinX V="37.5" R="0.5" M="1"/>
+<LocPinY V="37.5" R="0.5" M="2"/>
+<FlipX V="0"/>
+<FlipY V="0"/>
+</Transform>
+<Misc>
+<ObjectType V="9"/>
+</Misc>
+<ShapeFormat QuickMask="0">
+<FillFormat Type="None"/>
+<LineFormat>
+<LineWeight V="1"/>
+<LineCap V="Flat"/>
+<LinePattern ID="1"/>
+<BeginArrow ID="0" Size="4"/>
+<EndArrow ID="0" Size="4"/>
+<LineFill Type="Solid">
+<Color V="#ff000000"/>
+</LineFill>
+</LineFormat>
+<EffectFormat>
+<Shadow Mode="0"/>
+</EffectFormat>
+</ShapeFormat>
+<Shape ID="101" Version="10.1.3" Type="Shape">
+<Transform>
+<Width V="75" R="1" M="3"/>
+<Height V="75" R="1" M="4"/>
+<Angle V="0"/>
+<GPinX V="37.5" R="0.5" M="3"/>
+<GPinY V="37.5" R="0.5" M="4"/>
+<LocPinX V="37.5" R="0.5" M="1"/>
+<LocPinY V="37.5" R="0.5" M="2"/>
+<FlipX V="0"/>
+<FlipY V="0"/>
+</Transform>
+<Misc/>
+<ShapeFormat QuickMask="0">
+<FillFormat Direction="270" GradientType="Linear" Type="Gradient">
+<Stop Offset="0">
+<Color V="#ffc8511b"/>
+</Stop>
+<Stop Offset="100">
+<Color V="#ffff9900"/>
+</Stop>
+</FillFormat>
+<LineFormat>
+<LineWeight V="1"/>
+<LineCap V="Flat"/>
+<LinePattern ID="1"/>
+<BeginArrow ID="0" Size="4"/>
+<EndArrow ID="0" Size="4"/>
+<LineFill Type="None"/>
+</LineFormat>
+<EffectFormat>
+<Shadow Mode="0"/>
+</EffectFormat>
+</ShapeFormat>
+<Geometries>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="0"/>
+<Y V="0"/>
+</MoveTo>
+<LineTo>
+<X V="75" R="1" M="1"/>
+<Y V="0"/>
+</LineTo>
+<LineTo>
+<X V="75" R="1" M="1"/>
+<Y V="75" R="1" M="2"/>
+</LineTo>
+<LineTo>
+<X V="0"/>
+<Y V="75" R="1" M="2"/>
+</LineTo>
+<LineTo>
+<X V="0"/>
+<Y V="0"/>
+</LineTo>
+</Geometry>
+</Geometries>
+</Shape>
+<Shape ID="105" Version="10.1.3" Type="Group">
+<Transform>
+<Width V="48.5564" R="0.647419" M="3"/>
+<Height V="48.5801" R="0.647734" M="4"/>
+<Angle V="0"/>
+<GPinX V="37.5" R="0.5" M="3"/>
+<GPinY V="37.5" R="0.5" M="4"/>
+<LocPinX V="24.2782" R="0.5" M="1"/>
+<LocPinY V="24.29" R="0.5" M="2"/>
+<FlipX V="0"/>
+<FlipY V="0"/>
+</Transform>
+<Misc/>
+<ShapeFormat QuickMask="0">
+<FillFormat Type="None"/>
+<LineFormat>
+<LineWeight V="1"/>
+<LineCap V="Flat"/>
+<LinePattern ID="1"/>
+<BeginArrow ID="0" Size="4"/>
+<EndArrow ID="0" Size="4"/>
+<LineFill Type="Solid">
+<Color V="#ff000000"/>
+</LineFill>
+</LineFormat>
+<EffectFormat>
+<Shadow Mode="0"/>
+</EffectFormat>
+</ShapeFormat>
+<Shape ID="102" Version="10.1.3" Type="Shape">
+<Transform>
+<Width V="38.76" R="0.798246" M="3"/>
+<Height V="38.76" R="0.797858" M="4"/>
+<Angle V="0"/>
+<GPinX V="21.8597" R="0.450192" M="3"/>
+<GPinY V="21.8682" R="0.450146" M="4"/>
+<LocPinX V="19.38" R="0.5" M="1"/>
+<LocPinY V="19.38" R="0.5" M="2"/>
+<FlipX V="0"/>
+<FlipY V="0"/>
+</Transform>
+<Misc/>
+<ShapeFormat QuickMask="0">
+<FillFormat Type="Solid">
+<Color V="#ffffffff"/>
+</FillFormat>
+<LineFormat>
+<LineWeight V="1"/>
+<LineCap V="Flat"/>
+<LinePattern ID="1"/>
+<BeginArrow ID="0" Size="4"/>
+<EndArrow ID="0" Size="4"/>
+<LineFill Type="None"/>
+</LineFormat>
+<EffectFormat>
+<Shadow Mode="0"/>
+</EffectFormat>
+</ShapeFormat>
+<Geometries>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="4.84" R="0.124871" M="1"/>
+<Y V="37.76" R="0.9742" M="2"/>
+</MoveTo>
+<CurveTo>
+<X V="5.84" R="0.150671" M="1"/>
+<Y V="38.76" R="1" M="2"/>
+<A V="4.84" R="0.124871" M="1"/>
+<B V="38.3123" R="0.988449" M="2"/>
+<C V="5.28772" R="0.136422" M="1"/>
+<D V="38.76" R="1" M="2"/>
+</CurveTo>
+<LineTo>
+<X V="9.53" R="0.245872" M="1"/>
+<Y V="38.76" R="1" M="2"/>
+</LineTo>
+<CurveTo>
+<X V="12.53" R="0.323271" M="1"/>
+<Y V="36.76" R="0.9484" M="2"/>
+<A V="10.46" R="0.269866" M="1"/>
+<B V="38.18" R="0.985036" M="2"/>
+<C V="11.46" R="0.295666" M="1"/>
+<D V="37.5" R="0.967492" M="2"/>
+</CurveTo>
+<LineTo>
+<X V="6.84" R="0.176471" M="1"/>
+<Y V="36.76" R="0.9484" M="2"/>
+</LineTo>
+<LineTo>
+<X V="6.84" R="0.176471" M="1"/>
+<Y V="6.84" R="0.176471" M="2"/>
+</LineTo>
+<LineTo>
+<X V="36.76" R="0.9484" M="1"/>
+<Y V="6.84" R="0.176471" M="2"/>
+</LineTo>
+<LineTo>
+<X V="36.76" R="0.9484" M="1"/>
+<Y V="12.52" R="0.323013" M="2"/>
+</LineTo>
+<CurveTo>
+<X V="38.76" R="1" M="1"/>
+<Y V="9.52" R="0.245614" M="2"/>
+<A V="37.5" R="0.967492" M="1"/>
+<B V="11.52" R="0.297214" M="2"/>
+<C V="38.17" R="0.984778" M="1"/>
+<D V="10.52" R="0.271414" M="2"/>
+</CurveTo>
+<LineTo>
+<X V="38.76" R="1" M="1"/>
+<Y V="5.84" R="0.150671" M="2"/>
+</LineTo>
+<CurveTo>
+<X V="37.76" R="0.9742" M="1"/>
+<Y V="4.84" R="0.124871" M="2"/>
+<A V="38.76" R="1" M="1"/>
+<B V="5.28772" R="0.136422" M="2"/>
+<C V="38.3123" R="0.988449" M="1"/>
+<D V="4.84" R="0.124871" M="2"/>
+</CurveTo>
+<LineTo>
+<X V="33.06" R="0.852941" M="1"/>
+<Y V="4.84" R="0.124871" M="2"/>
+</LineTo>
+<LineTo>
+<X V="33.06" R="0.852941" M="1"/>
+<Y V="0"/>
+</LineTo>
+<LineTo>
+<X V="31.06" R="0.801342" M="1"/>
+<Y V="0"/>
+</LineTo>
+<LineTo>
+<X V="31.06" R="0.801342" M="1"/>
+<Y V="4.84" R="0.124871" M="2"/>
+</LineTo>
+<LineTo>
+<X V="27.36" R="0.705882" M="1"/>
+<Y V="4.84" R="0.124871" M="2"/>
+</LineTo>
+<LineTo>
+<X V="27.36" R="0.705882" M="1"/>
+<Y V="0"/>
+</LineTo>
+<LineTo>
+<X V="25.36" R="0.654283" M="1"/>
+<Y V="0"/>
+</LineTo>
+<LineTo>
+<X V="25.36" R="0.654283" M="1"/>
+<Y V="4.84" R="0.124871" M="2"/>
+</LineTo>
+<LineTo>
+<X V="21.66" R="0.558824" M="1"/>
+<Y V="4.84" R="0.124871" M="2"/>
+</LineTo>
+<LineTo>
+<X V="21.66" R="0.558824" M="1"/>
+<Y V="0"/>
+</LineTo>
+<LineTo>
+<X V="19.66" R="0.507224" M="1"/>
+<Y V="0"/>
+</LineTo>
+<LineTo>
+<X V="19.66" R="0.507224" M="1"/>
+<Y V="4.84" R="0.124871" M="2"/>
+</LineTo>
+<LineTo>
+<X V="15.96" R="0.411765" M="1"/>
+<Y V="4.84" R="0.124871" M="2"/>
+</LineTo>
+<LineTo>
+<X V="15.96" R="0.411765" M="1"/>
+<Y V="0"/>
+</LineTo>
+<LineTo>
+<X V="13.96" R="0.360165" M="1"/>
+<Y V="0"/>
+</LineTo>
+<LineTo>
+<X V="13.96" R="0.360165" M="1"/>
+<Y V="4.84" R="0.124871" M="2"/>
+</LineTo>
+<LineTo>
+<X V="10.3" R="0.265738" M="1"/>
+<Y V="4.84" R="0.124871" M="2"/>
+</LineTo>
+<LineTo>
+<X V="10.3" R="0.265738" M="1"/>
+<Y V="0"/>
+</LineTo>
+<LineTo>
+<X V="8.3" R="0.214138" M="1"/>
+<Y V="0"/>
+</LineTo>
+<LineTo>
+<X V="8.3" R="0.214138" M="1"/>
+<Y V="4.84" R="0.124871" M="2"/>
+</LineTo>
+<LineTo>
+<X V="5.84" R="0.150671" M="1"/>
+<Y V="4.84" R="0.124871" M="2"/>
+</LineTo>
+<CurveTo>
+<X V="4.84" R="0.124871" M="1"/>
+<Y V="5.84" R="0.150671" M="2"/>
+<A V="5.28772" R="0.136422" M="1"/>
+<B V="4.84" R="0.124871" M="2"/>
+<C V="4.84" R="0.124871" M="1"/>
+<D V="5.28772" R="0.136422" M="2"/>
+</CurveTo>
+<LineTo>
+<X V="4.84" R="0.124871" M="1"/>
+<Y V="8.3" R="0.214138" M="2"/>
+</LineTo>
+<LineTo>
+<X V="0"/>
+<Y V="8.3" R="0.214138" M="2"/>
+</LineTo>
+<LineTo>
+<X V="0"/>
+<Y V="10.3" R="0.265738" M="2"/>
+</LineTo>
+<LineTo>
+<X V="4.84" R="0.124871" M="1"/>
+<Y V="10.3" R="0.265738" M="2"/>
+</LineTo>
+<LineTo>
+<X V="4.84" R="0.124871" M="1"/>
+<Y V="14" R="0.361197" M="2"/>
+</LineTo>
+<LineTo>
+<X V="0"/>
+<Y V="14" R="0.361197" M="2"/>
+</LineTo>
+<LineTo>
+<X V="0"/>
+<Y V="16" R="0.412797" M="2"/>
+</LineTo>
+<LineTo>
+<X V="4.84" R="0.124871" M="1"/>
+<Y V="16" R="0.412797" M="2"/>
+</LineTo>
+<LineTo>
+<X V="4.84" R="0.124871" M="1"/>
+<Y V="19.7" R="0.508256" M="2"/>
+</LineTo>
+<LineTo>
+<X V="0"/>
+<Y V="19.7" R="0.508256" M="2"/>
+</LineTo>
+<LineTo>
+<X V="0"/>
+<Y V="21.7" R="0.559856" M="2"/>
+</LineTo>
+<LineTo>
+<X V="4.84" R="0.124871" M="1"/>
+<Y V="21.7" R="0.559856" M="2"/>
+</LineTo>
+<LineTo>
+<X V="4.84" R="0.124871" M="1"/>
+<Y V="25.4" R="0.655315" M="2"/>
+</LineTo>
+<LineTo>
+<X V="0"/>
+<Y V="25.4" R="0.655315" M="2"/>
+</LineTo>
+<LineTo>
+<X V="0"/>
+<Y V="27.4" R="0.706914" M="2"/>
+</LineTo>
+<LineTo>
+<X V="4.84" R="0.124871" M="1"/>
+<Y V="27.4" R="0.706914" M="2"/>
+</LineTo>
+<LineTo>
+<X V="4.84" R="0.124871" M="1"/>
+<Y V="31.1" R="0.802374" M="2"/>
+</LineTo>
+<LineTo>
+<X V="0"/>
+<Y V="31.1" R="0.802374" M="2"/>
+</LineTo>
+<LineTo>
+<X V="0"/>
+<Y V="33.1" R="0.853973" M="2"/>
+</LineTo>
+<LineTo>
+<X V="4.84" R="0.124871" M="1"/>
+<Y V="33.1" R="0.853973" M="2"/>
+</LineTo>
+<LineTo>
+<X V="4.84" R="0.124871" M="1"/>
+<Y V="37.76" R="0.9742" M="2"/>
+</LineTo>
+</Geometry>
+</Geometries>
+</Shape>
+<Shape ID="103" Version="10.1.3" Type="Shape">
+<Transform>
+<Width V="24.63" R="0.507245" M="3"/>
+<Height V="24.6" R="0.50638" M="4"/>
+<Angle V="0"/>
+<GPinX V="33.7647" R="0.69537" M="3"/>
+<GPinY V="33.7882" R="0.695515" M="4"/>
+<LocPinX V="12.315" R="0.5" M="1"/>
+<LocPinY V="12.3" R="0.5" M="2"/>
+<FlipX V="0"/>
+<FlipY V="0"/>
+</Transform>
+<Misc/>
+<ShapeFormat QuickMask="0">
+<FillFormat Type="Solid">
+<Color V="#ffffffff"/>
+</FillFormat>
+<LineFormat>
+<LineWeight V="1"/>
+<LineCap V="Flat"/>
+<LinePattern ID="1"/>
+<BeginArrow ID="0" Size="4"/>
+<EndArrow ID="0" Size="4"/>
+<LineFill Type="None"/>
+</LineFormat>
+<EffectFormat>
+<Shadow Mode="0"/>
+</EffectFormat>
+</ShapeFormat>
+<Geometries>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="19.79" R="0.803492" M="1"/>
+<Y V="0"/>
+</MoveTo>
+<CurveTo>
+<X V="17.79" R="0.72229" M="1"/>
+<Y V="2.46" R="0.1" M="2"/>
+<A V="19.14" R="0.777101" M="1"/>
+<B V="0.81" R="0.0329268" M="2"/>
+<C V="18.48" R="0.750305" M="1"/>
+<D V="1.63" R="0.0662602" M="2"/>
+</CurveTo>
+<LineTo>
+<X V="17.79" R="0.72229" M="1"/>
+<Y V="17.76" R="0.721951" M="2"/>
+</LineTo>
+<LineTo>
+<X V="2.46" R="0.0998782" M="1"/>
+<Y V="17.76" R="0.721951" M="2"/>
+</LineTo>
+<CurveTo>
+<X V="0"/>
+<Y V="19.76" R="0.803252" M="2"/>
+<A V="1.65" R="0.0669915" M="1"/>
+<B V="18.43" R="0.749187" M="2"/>
+<C V="0.83" R="0.0336987" M="1"/>
+<D V="19.1" R="0.776423" M="2"/>
+</CurveTo>
+<LineTo>
+<X V="0.69" R="0.0280146" M="1"/>
+<Y V="19.76" R="0.803252" M="2"/>
+</LineTo>
+<LineTo>
+<X V="0.69" R="0.0280146" M="1"/>
+<Y V="24.6" R="1" M="2"/>
+</LineTo>
+<LineTo>
+<X V="2.69" R="0.109216" M="1"/>
+<Y V="24.6" R="1" M="2"/>
+</LineTo>
+<LineTo>
+<X V="2.69" R="0.109216" M="1"/>
+<Y V="19.76" R="0.803252" M="2"/>
+</LineTo>
+<LineTo>
+<X V="6.39" R="0.25944" M="1"/>
+<Y V="19.76" R="0.803252" M="2"/>
+</LineTo>
+<LineTo>
+<X V="6.39" R="0.25944" M="1"/>
+<Y V="24.6" R="1" M="2"/>
+</LineTo>
+<LineTo>
+<X V="8.39" R="0.340641" M="1"/>
+<Y V="24.6" R="1" M="2"/>
+</LineTo>
+<LineTo>
+<X V="8.39" R="0.340641" M="1"/>
+<Y V="19.76" R="0.803252" M="2"/>
+</LineTo>
+<LineTo>
+<X V="12.09" R="0.490865" M="1"/>
+<Y V="19.76" R="0.803252" M="2"/>
+</LineTo>
+<LineTo>
+<X V="12.09" R="0.490865" M="1"/>
+<Y V="24.6" R="1" M="2"/>
+</LineTo>
+<LineTo>
+<X V="14.09" R="0.572067" M="1"/>
+<Y V="24.6" R="1" M="2"/>
+</LineTo>
+<LineTo>
+<X V="14.09" R="0.572067" M="1"/>
+<Y V="19.76" R="0.803252" M="2"/>
+</LineTo>
+<LineTo>
+<X V="18.79" R="0.762891" M="1"/>
+<Y V="19.76" R="0.803252" M="2"/>
+</LineTo>
+<CurveTo>
+<X V="19.79" R="0.803492" M="1"/>
+<Y V="18.76" R="0.762602" M="2"/>
+<A V="19.3423" R="0.785314" M="1"/>
+<B V="19.76" R="0.803252" M="2"/>
+<C V="19.79" R="0.803492" M="1"/>
+<D V="19.3123" R="0.785052" M="2"/>
+</CurveTo>
+<LineTo>
+<X V="19.79" R="0.803492" M="1"/>
+<Y V="14.06" R="0.571545" M="2"/>
+</LineTo>
+<LineTo>
+<X V="24.63" R="1" M="1"/>
+<Y V="14.06" R="0.571545" M="2"/>
+</LineTo>
+<LineTo>
+<X V="24.63" R="1" M="1"/>
+<Y V="12.06" R="0.490244" M="2"/>
+</LineTo>
+<LineTo>
+<X V="19.79" R="0.803492" M="1"/>
+<Y V="12.06" R="0.490244" M="2"/>
+</LineTo>
+<LineTo>
+<X V="19.79" R="0.803492" M="1"/>
+<Y V="8.36" R="0.339837" M="2"/>
+</LineTo>
+<LineTo>
+<X V="24.63" R="1" M="1"/>
+<Y V="8.36" R="0.339837" M="2"/>
+</LineTo>
+<LineTo>
+<X V="24.63" R="1" M="1"/>
+<Y V="6.36" R="0.258537" M="2"/>
+</LineTo>
+<LineTo>
+<X V="19.79" R="0.803492" M="1"/>
+<Y V="6.36" R="0.258537" M="2"/>
+</LineTo>
+<LineTo>
+<X V="19.79" R="0.803492" M="1"/>
+<Y V="2.66" R="0.10813" M="2"/>
+</LineTo>
+<LineTo>
+<X V="24.63" R="1" M="1"/>
+<Y V="2.66" R="0.10813" M="2"/>
+</LineTo>
+<LineTo>
+<X V="24.63" R="1" M="1"/>
+<Y V="0.66" R="0.0268293" M="2"/>
+</LineTo>
+<LineTo>
+<X V="19.79" R="0.803492" M="1"/>
+<Y V="0.66" R="0.0268293" M="2"/>
+</LineTo>
+<LineTo>
+<X V="19.79" R="0.803492" M="1"/>
+<Y V="0"/>
+</LineTo>
+</Geometry>
+</Geometries>
+</Shape>
+<Shape ID="104" Version="10.1.3" Type="Shape">
+<Transform>
+<Width V="48.5564" R="1" M="3"/>
+<Height V="48.5748" R="0.99989" M="4"/>
+<Angle V="0"/>
+<GPinX V="24.2782" R="0.5" M="3"/>
+<GPinY V="24.29" R="0.5" M="4"/>
+<LocPinX V="24.2782" R="0.5" M="1"/>
+<LocPinY V="24.2874" R="0.5" M="2"/>
+<FlipX V="0"/>
+<FlipY V="0"/>
+</Transform>
+<Misc/>
+<ShapeFormat QuickMask="0">
+<FillFormat Type="Solid">
+<Color V="#ffffffff"/>
+</FillFormat>
+<LineFormat>
+<LineWeight V="1"/>
+<LineCap V="Flat"/>
+<LinePattern ID="1"/>
+<BeginArrow ID="0" Size="4"/>
+<EndArrow ID="0" Size="4"/>
+<LineFill Type="None"/>
+</LineFormat>
+<EffectFormat>
+<Shadow Mode="0"/>
+</EffectFormat>
+</ShapeFormat>
+<Geometries>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="47.5497" R="0.979267" M="1"/>
+<Y V="1.00815" R="0.0207546" M="2"/>
+</MoveTo>
+<CurveTo>
+<X V="40.2397" R="0.82872" M="1"/>
+<Y V="1.10815" R="0.0228133" M="2"/>
+<A V="46.1797" R="0.951052" M="1"/>
+<B V="-0.371848" R="-0.00765518" M="2"/>
+<C V="43.7197" R="0.90039" M="1"/>
+<D V="-0.331848" R="-0.00683171" M="2"/>
+</CurveTo>
+<LineTo>
+<X V="40.2397" R="0.82872" M="1"/>
+<Y V="3.29815" R="0.0678985" M="2"/>
+</LineTo>
+<CurveTo>
+<X V="46.1397" R="0.950228" M="1"/>
+<Y V="2.42815" R="0.0499879" M="2"/>
+<A V="43.1597" R="0.888857" M="1"/>
+<B V="1.96815" R="0.040518" M="2"/>
+<C V="45.3497" R="0.933959" M="1"/>
+<D V="1.62815" R="0.0335185" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="33.0297" R="0.680233" M="1"/>
+<Y V="25.3482" R="0.521838" M="2"/>
+<A V="47.8897" R="0.986269" M="1"/>
+<B V="4.17815" R="0.0860149" M="2"/>
+<C V="44.2697" R="0.911717" M="1"/>
+<D V="13.0782" R="0.269238" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="27.3368" R="0.562989" M="1"/>
+<Y V="25.0927" R="0.516578" M="2"/>
+<A V="31.324" R="0.645105" M="1"/>
+<B V="24.2209" R="0.498631" M="2"/>
+<C V="29.1366" R="0.600057" M="1"/>
+<D V="24.1227" R="0.49661" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="24.4197" R="0.502914" M="1"/>
+<Y V="29.9882" R="0.617361" M="2"/>
+<A V="25.5369" R="0.525922" M="1"/>
+<B V="26.0626" R="0.536546" M="2"/>
+<C V="24.4161" R="0.50284" M="1"/>
+<D V="27.9436" R="0.57527" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="25.3297" R="0.521655" M="1"/>
+<Y V="32.9882" R="0.679121" M="2"/>
+<A V="24.4318" R="0.503163" M="1"/>
+<B V="31.0543" R="0.63931" M="2"/>
+<C V="24.7475" R="0.509664" M="1"/>
+<D V="32.0949" R="0.660733" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="2.40971" R="0.0496271" M="1"/>
+<Y V="46.1482" R="0.950044" M="2"/>
+<A V="13.0697" R="0.269165" M="1"/>
+<B V="44.2782" R="0.911547" M="2"/>
+<C V="4.17971" R="0.0860795" M="1"/>
+<D V="47.9082" R="0.986277" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="3.27971" R="0.0675444" M="1"/>
+<Y V="40.2482" R="0.828582" M="2"/>
+<A V="1.76971" R="0.0364465" M="1"/>
+<B V="45.5082" R="0.936868" M="2"/>
+<C V="1.74971" R="0.0360346" M="1"/>
+<D V="43.6282" R="0.898165" M="2"/>
+</CurveTo>
+<LineTo>
+<X V="1.10971" R="0.0228541" M="1"/>
+<Y V="40.2482" R="0.828582" M="2"/>
+</LineTo>
+<CurveTo>
+<X V="0.999714" R="0.0205887" M="1"/>
+<Y V="47.5682" R="0.979277" M="2"/>
+<A V="-0.320286" R="-0.00659616" M="1"/>
+<B V="43.7182" R="0.900018" M="2"/>
+<C V="-0.380286" R="-0.00783184" M="1"/>
+<D V="46.1882" R="0.950867" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="3.79971" R="0.0782535" M="1"/>
+<Y V="48.5748" R="1" M="2"/>
+<A V="1.75849" R="0.0362155" M="1"/>
+<B V="48.2679" R="0.993684" M="2"/>
+<C V="2.7693" R="0.0570326" M="1"/>
+<D V="48.6289" R="1.00112" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="26.7197" R="0.550282" M="1"/>
+<Y V="34.4782" R="0.709796" M="2"/>
+<A V="9.01971" R="0.185757" M="1"/>
+<B V="48.5748" R="1" M="2"/>
+<C V="18.3697" R="0.378317" M="1"/>
+<D V="42.1282" R="0.867285" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="33.8152" R="0.69641" M="1"/>
+<Y V="33.8779" R="0.697439" M="2"/>
+<A V="28.9184" R="0.595563" M="1"/>
+<B V="36.0217" R="0.741572" M="2"/>
+<C V="31.907" R="0.657112" M="1"/>
+<D V="35.7689" R="0.736368" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="34.4797" R="0.710096" M="1"/>
+<Y V="26.7882" R="0.551483" M="2"/>
+<A V="35.7234" R="0.735708" M="1"/>
+<B V="31.9869" R="0.65851" M="2"/>
+<C V="36.0033" R="0.741473" M="1"/>
+<D V="29.0008" R="0.597034" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="47.5497" R="0.979267" M="1"/>
+<Y V="1.00815" R="0.0207546" M="2"/>
+<A V="43.7797" R="0.901625" M="1"/>
+<B V="16.5582" R="0.34088" M="2"/>
+<C V="51.3597" R="1.05773" M="1"/>
+<D V="4.78815" R="0.0985728" M="2"/>
+</CurveTo>
+</Geometry>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="29.9797" R="0.61742" M="1"/>
+<Y V="33.5482" R="0.69065" M="2"/>
+</MoveTo>
+<CurveTo>
+<X V="26.4197" R="0.544103" M="1"/>
+<Y V="29.9882" R="0.617361" M="2"/>
+<A V="28.0136" R="0.576928" M="1"/>
+<B V="33.5482" R="0.69065" M="2"/>
+<C V="26.4197" R="0.544103" M="1"/>
+<D V="31.9543" R="0.657837" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="29.9797" R="0.61742" M="1"/>
+<Y V="26.4282" R="0.544072" M="2"/>
+<A V="26.4197" R="0.544103" M="1"/>
+<B V="28.022" R="0.576884" M="2"/>
+<C V="28.0136" R="0.576928" M="1"/>
+<D V="26.4282" R="0.544072" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="33.5397" R="0.690737" M="1"/>
+<Y V="29.9882" R="0.617361" M="2"/>
+<A V="31.9458" R="0.657912" M="1"/>
+<B V="26.4282" R="0.544072" M="2"/>
+<C V="33.5397" R="0.690737" M="1"/>
+<D V="28.022" R="0.576884" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="29.9797" R="0.61742" M="1"/>
+<Y V="33.5482" R="0.69065" M="2"/>
+<A V="33.5397" R="0.690737" M="1"/>
+<B V="31.9543" R="0.657837" M="2"/>
+<C V="31.9458" R="0.657912" M="1"/>
+<D V="33.5482" R="0.69065" M="2"/>
+</CurveTo>
+</Geometry>
+</Geometries>
+</Shape>
+<GroupProps>
+<SelectMode V="1"/>
+<GroupShadow V="FALSE"/>
+</GroupProps>
+</Shape>
+<GroupProps>
+<SelectMode V="1"/>
+<GroupShadow V="FALSE"/>
+</GroupProps>
+</Shape>
+-->
+        </Item>
+        <Item PromptU="AWS-Braket" NameU="AWS-Braket">
+            <!--<Shape ID="112" Version="10.1.3" Type="Group">
+<Transform>
+<Width V="75"/>
+<Height V="75"/>
+<Angle V="0"/>
+<GPinX V="37.5"/>
+<GPinY V="37.5"/>
+<LocPinX V="37.5" R="0.5" M="1"/>
+<LocPinY V="37.5" R="0.5" M="2"/>
+<FlipX V="0"/>
+<FlipY V="0"/>
+</Transform>
+<Misc/>
+<ShapeFormat QuickMask="0">
+<FillFormat Type="None"/>
+<LineFormat>
+<LineWeight V="1"/>
+<LineCap V="Flat"/>
+<LinePattern ID="1"/>
+<BeginArrow ID="0" Size="4"/>
+<EndArrow ID="0" Size="4"/>
+<LineFill Type="Solid">
+<Color V="#ff000000"/>
+</LineFill>
+</LineFormat>
+<EffectFormat>
+<Shadow Mode="0"/>
+</EffectFormat>
+</ShapeFormat>
+<Shape ID="107" Version="10.1.3" Type="Shape">
+<Transform>
+<Width V="75" R="1" M="3"/>
+<Height V="75" R="1" M="4"/>
+<Angle V="0"/>
+<GPinX V="37.5" R="0.5" M="3"/>
+<GPinY V="37.5" R="0.5" M="4"/>
+<LocPinX V="37.5" R="0.5" M="1"/>
+<LocPinY V="37.5" R="0.5" M="2"/>
+<FlipX V="0"/>
+<FlipY V="0"/>
+</Transform>
+<Misc/>
+<ShapeFormat QuickMask="0">
+<FillFormat Type="Solid">
+<Color V="#ffd86613"/>
+</FillFormat>
+<LineFormat>
+<LineWeight V="1"/>
+<LineCap V="Flat"/>
+<LinePattern ID="1"/>
+<BeginArrow ID="0" Size="4"/>
+<EndArrow ID="0" Size="4"/>
+<LineFill Type="None"/>
+</LineFormat>
+<EffectFormat>
+<Shadow Mode="0"/>
+</EffectFormat>
+</ShapeFormat>
+<Geometries>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="0"/>
+<Y V="0"/>
+</MoveTo>
+<LineTo>
+<X V="75" R="1" M="1"/>
+<Y V="0"/>
+</LineTo>
+<LineTo>
+<X V="75" R="1" M="1"/>
+<Y V="75" R="1" M="2"/>
+</LineTo>
+<LineTo>
+<X V="0"/>
+<Y V="75" R="1" M="2"/>
+</LineTo>
+<LineTo>
+<X V="0"/>
+<Y V="0"/>
+</LineTo>
+</Geometry>
+</Geometries>
+</Shape>
+<Shape ID="111" Version="10.1.3" Type="Group">
+<Transform>
+<Width V="48.5564" R="0.647419" M="3"/>
+<Height V="48.5801" R="0.647734" M="4"/>
+<Angle V="0"/>
+<GPinX V="37.5" R="0.5" M="3"/>
+<GPinY V="37.5" R="0.5" M="4"/>
+<LocPinX V="24.2782" R="0.5" M="1"/>
+<LocPinY V="24.29" R="0.5" M="2"/>
+<FlipX V="0"/>
+<FlipY V="0"/>
+</Transform>
+<Misc/>
+<ShapeFormat QuickMask="0">
+<FillFormat Type="None"/>
+<LineFormat>
+<LineWeight V="1"/>
+<LineCap V="Flat"/>
+<LinePattern ID="1"/>
+<BeginArrow ID="0" Size="4"/>
+<EndArrow ID="0" Size="4"/>
+<LineFill Type="Solid">
+<Color V="#ff000000"/>
+</LineFill>
+</LineFormat>
+<EffectFormat>
+<Shadow Mode="0"/>
+</EffectFormat>
+</ShapeFormat>
+<Shape ID="108" Version="10.1.3" Type="Shape">
+<Transform>
+<Width V="38.76" R="0.798246" M="3"/>
+<Height V="38.76" R="0.797858" M="4"/>
+<Angle V="0"/>
+<GPinX V="21.8597" R="0.450192" M="3"/>
+<GPinY V="21.8682" R="0.450146" M="4"/>
+<LocPinX V="19.38" R="0.5" M="1"/>
+<LocPinY V="19.38" R="0.5" M="2"/>
+<FlipX V="0"/>
+<FlipY V="0"/>
+</Transform>
+<Misc/>
+<ShapeFormat QuickMask="0">
+<FillFormat Type="Solid">
+<Color V="#ffffffff"/>
+</FillFormat>
+<LineFormat>
+<LineWeight V="1"/>
+<LineCap V="Flat"/>
+<LinePattern ID="1"/>
+<BeginArrow ID="0" Size="4"/>
+<EndArrow ID="0" Size="4"/>
+<LineFill Type="None"/>
+</LineFormat>
+<EffectFormat>
+<Shadow Mode="0"/>
+</EffectFormat>
+</ShapeFormat>
+<Geometries>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="4.84" R="0.124871" M="1"/>
+<Y V="37.76" R="0.9742" M="2"/>
+</MoveTo>
+<CurveTo>
+<X V="5.84" R="0.150671" M="1"/>
+<Y V="38.76" R="1" M="2"/>
+<A V="4.84" R="0.124871" M="1"/>
+<B V="38.3123" R="0.988449" M="2"/>
+<C V="5.28772" R="0.136422" M="1"/>
+<D V="38.76" R="1" M="2"/>
+</CurveTo>
+<LineTo>
+<X V="9.53" R="0.245872" M="1"/>
+<Y V="38.76" R="1" M="2"/>
+</LineTo>
+<CurveTo>
+<X V="12.53" R="0.323271" M="1"/>
+<Y V="36.76" R="0.9484" M="2"/>
+<A V="10.46" R="0.269866" M="1"/>
+<B V="38.18" R="0.985036" M="2"/>
+<C V="11.46" R="0.295666" M="1"/>
+<D V="37.5" R="0.967492" M="2"/>
+</CurveTo>
+<LineTo>
+<X V="6.84" R="0.176471" M="1"/>
+<Y V="36.76" R="0.9484" M="2"/>
+</LineTo>
+<LineTo>
+<X V="6.84" R="0.176471" M="1"/>
+<Y V="6.84" R="0.176471" M="2"/>
+</LineTo>
+<LineTo>
+<X V="36.76" R="0.9484" M="1"/>
+<Y V="6.84" R="0.176471" M="2"/>
+</LineTo>
+<LineTo>
+<X V="36.76" R="0.9484" M="1"/>
+<Y V="12.52" R="0.323013" M="2"/>
+</LineTo>
+<CurveTo>
+<X V="38.76" R="1" M="1"/>
+<Y V="9.52" R="0.245614" M="2"/>
+<A V="37.5" R="0.967492" M="1"/>
+<B V="11.52" R="0.297214" M="2"/>
+<C V="38.17" R="0.984778" M="1"/>
+<D V="10.52" R="0.271414" M="2"/>
+</CurveTo>
+<LineTo>
+<X V="38.76" R="1" M="1"/>
+<Y V="5.84" R="0.150671" M="2"/>
+</LineTo>
+<CurveTo>
+<X V="37.76" R="0.9742" M="1"/>
+<Y V="4.84" R="0.124871" M="2"/>
+<A V="38.76" R="1" M="1"/>
+<B V="5.28772" R="0.136422" M="2"/>
+<C V="38.3123" R="0.988449" M="1"/>
+<D V="4.84" R="0.124871" M="2"/>
+</CurveTo>
+<LineTo>
+<X V="33.06" R="0.852941" M="1"/>
+<Y V="4.84" R="0.124871" M="2"/>
+</LineTo>
+<LineTo>
+<X V="33.06" R="0.852941" M="1"/>
+<Y V="0"/>
+</LineTo>
+<LineTo>
+<X V="31.06" R="0.801342" M="1"/>
+<Y V="0"/>
+</LineTo>
+<LineTo>
+<X V="31.06" R="0.801342" M="1"/>
+<Y V="4.84" R="0.124871" M="2"/>
+</LineTo>
+<LineTo>
+<X V="27.36" R="0.705882" M="1"/>
+<Y V="4.84" R="0.124871" M="2"/>
+</LineTo>
+<LineTo>
+<X V="27.36" R="0.705882" M="1"/>
+<Y V="0"/>
+</LineTo>
+<LineTo>
+<X V="25.36" R="0.654283" M="1"/>
+<Y V="0"/>
+</LineTo>
+<LineTo>
+<X V="25.36" R="0.654283" M="1"/>
+<Y V="4.84" R="0.124871" M="2"/>
+</LineTo>
+<LineTo>
+<X V="21.66" R="0.558824" M="1"/>
+<Y V="4.84" R="0.124871" M="2"/>
+</LineTo>
+<LineTo>
+<X V="21.66" R="0.558824" M="1"/>
+<Y V="0"/>
+</LineTo>
+<LineTo>
+<X V="19.66" R="0.507224" M="1"/>
+<Y V="0"/>
+</LineTo>
+<LineTo>
+<X V="19.66" R="0.507224" M="1"/>
+<Y V="4.84" R="0.124871" M="2"/>
+</LineTo>
+<LineTo>
+<X V="15.96" R="0.411765" M="1"/>
+<Y V="4.84" R="0.124871" M="2"/>
+</LineTo>
+<LineTo>
+<X V="15.96" R="0.411765" M="1"/>
+<Y V="0"/>
+</LineTo>
+<LineTo>
+<X V="13.96" R="0.360165" M="1"/>
+<Y V="0"/>
+</LineTo>
+<LineTo>
+<X V="13.96" R="0.360165" M="1"/>
+<Y V="4.84" R="0.124871" M="2"/>
+</LineTo>
+<LineTo>
+<X V="10.3" R="0.265738" M="1"/>
+<Y V="4.84" R="0.124871" M="2"/>
+</LineTo>
+<LineTo>
+<X V="10.3" R="0.265738" M="1"/>
+<Y V="0"/>
+</LineTo>
+<LineTo>
+<X V="8.3" R="0.214138" M="1"/>
+<Y V="0"/>
+</LineTo>
+<LineTo>
+<X V="8.3" R="0.214138" M="1"/>
+<Y V="4.84" R="0.124871" M="2"/>
+</LineTo>
+<LineTo>
+<X V="5.84" R="0.150671" M="1"/>
+<Y V="4.84" R="0.124871" M="2"/>
+</LineTo>
+<CurveTo>
+<X V="4.84" R="0.124871" M="1"/>
+<Y V="5.84" R="0.150671" M="2"/>
+<A V="5.28772" R="0.136422" M="1"/>
+<B V="4.84" R="0.124871" M="2"/>
+<C V="4.84" R="0.124871" M="1"/>
+<D V="5.28772" R="0.136422" M="2"/>
+</CurveTo>
+<LineTo>
+<X V="4.84" R="0.124871" M="1"/>
+<Y V="8.3" R="0.214138" M="2"/>
+</LineTo>
+<LineTo>
+<X V="0"/>
+<Y V="8.3" R="0.214138" M="2"/>
+</LineTo>
+<LineTo>
+<X V="0"/>
+<Y V="10.3" R="0.265738" M="2"/>
+</LineTo>
+<LineTo>
+<X V="4.84" R="0.124871" M="1"/>
+<Y V="10.3" R="0.265738" M="2"/>
+</LineTo>
+<LineTo>
+<X V="4.84" R="0.124871" M="1"/>
+<Y V="14" R="0.361197" M="2"/>
+</LineTo>
+<LineTo>
+<X V="0"/>
+<Y V="14" R="0.361197" M="2"/>
+</LineTo>
+<LineTo>
+<X V="0"/>
+<Y V="16" R="0.412797" M="2"/>
+</LineTo>
+<LineTo>
+<X V="4.84" R="0.124871" M="1"/>
+<Y V="16" R="0.412797" M="2"/>
+</LineTo>
+<LineTo>
+<X V="4.84" R="0.124871" M="1"/>
+<Y V="19.7" R="0.508256" M="2"/>
+</LineTo>
+<LineTo>
+<X V="0"/>
+<Y V="19.7" R="0.508256" M="2"/>
+</LineTo>
+<LineTo>
+<X V="0"/>
+<Y V="21.7" R="0.559856" M="2"/>
+</LineTo>
+<LineTo>
+<X V="4.84" R="0.124871" M="1"/>
+<Y V="21.7" R="0.559856" M="2"/>
+</LineTo>
+<LineTo>
+<X V="4.84" R="0.124871" M="1"/>
+<Y V="25.4" R="0.655315" M="2"/>
+</LineTo>
+<LineTo>
+<X V="0"/>
+<Y V="25.4" R="0.655315" M="2"/>
+</LineTo>
+<LineTo>
+<X V="0"/>
+<Y V="27.4" R="0.706914" M="2"/>
+</LineTo>
+<LineTo>
+<X V="4.84" R="0.124871" M="1"/>
+<Y V="27.4" R="0.706914" M="2"/>
+</LineTo>
+<LineTo>
+<X V="4.84" R="0.124871" M="1"/>
+<Y V="31.1" R="0.802374" M="2"/>
+</LineTo>
+<LineTo>
+<X V="0"/>
+<Y V="31.1" R="0.802374" M="2"/>
+</LineTo>
+<LineTo>
+<X V="0"/>
+<Y V="33.1" R="0.853973" M="2"/>
+</LineTo>
+<LineTo>
+<X V="4.84" R="0.124871" M="1"/>
+<Y V="33.1" R="0.853973" M="2"/>
+</LineTo>
+<LineTo>
+<X V="4.84" R="0.124871" M="1"/>
+<Y V="37.76" R="0.9742" M="2"/>
+</LineTo>
+</Geometry>
+</Geometries>
+</Shape>
+<Shape ID="109" Version="10.1.3" Type="Shape">
+<Transform>
+<Width V="24.63" R="0.507245" M="3"/>
+<Height V="24.6" R="0.50638" M="4"/>
+<Angle V="0"/>
+<GPinX V="33.7647" R="0.69537" M="3"/>
+<GPinY V="33.7882" R="0.695515" M="4"/>
+<LocPinX V="12.315" R="0.5" M="1"/>
+<LocPinY V="12.3" R="0.5" M="2"/>
+<FlipX V="0"/>
+<FlipY V="0"/>
+</Transform>
+<Misc/>
+<ShapeFormat QuickMask="0">
+<FillFormat Type="Solid">
+<Color V="#ffffffff"/>
+</FillFormat>
+<LineFormat>
+<LineWeight V="1"/>
+<LineCap V="Flat"/>
+<LinePattern ID="1"/>
+<BeginArrow ID="0" Size="4"/>
+<EndArrow ID="0" Size="4"/>
+<LineFill Type="None"/>
+</LineFormat>
+<EffectFormat>
+<Shadow Mode="0"/>
+</EffectFormat>
+</ShapeFormat>
+<Geometries>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="19.79" R="0.803492" M="1"/>
+<Y V="0"/>
+</MoveTo>
+<CurveTo>
+<X V="17.79" R="0.72229" M="1"/>
+<Y V="2.46" R="0.1" M="2"/>
+<A V="19.14" R="0.777101" M="1"/>
+<B V="0.81" R="0.0329268" M="2"/>
+<C V="18.48" R="0.750305" M="1"/>
+<D V="1.63" R="0.0662602" M="2"/>
+</CurveTo>
+<LineTo>
+<X V="17.79" R="0.72229" M="1"/>
+<Y V="17.76" R="0.721951" M="2"/>
+</LineTo>
+<LineTo>
+<X V="2.46" R="0.0998782" M="1"/>
+<Y V="17.76" R="0.721951" M="2"/>
+</LineTo>
+<CurveTo>
+<X V="0"/>
+<Y V="19.76" R="0.803252" M="2"/>
+<A V="1.65" R="0.0669915" M="1"/>
+<B V="18.43" R="0.749187" M="2"/>
+<C V="0.83" R="0.0336987" M="1"/>
+<D V="19.1" R="0.776423" M="2"/>
+</CurveTo>
+<LineTo>
+<X V="0.69" R="0.0280146" M="1"/>
+<Y V="19.76" R="0.803252" M="2"/>
+</LineTo>
+<LineTo>
+<X V="0.69" R="0.0280146" M="1"/>
+<Y V="24.6" R="1" M="2"/>
+</LineTo>
+<LineTo>
+<X V="2.69" R="0.109216" M="1"/>
+<Y V="24.6" R="1" M="2"/>
+</LineTo>
+<LineTo>
+<X V="2.69" R="0.109216" M="1"/>
+<Y V="19.76" R="0.803252" M="2"/>
+</LineTo>
+<LineTo>
+<X V="6.39" R="0.25944" M="1"/>
+<Y V="19.76" R="0.803252" M="2"/>
+</LineTo>
+<LineTo>
+<X V="6.39" R="0.25944" M="1"/>
+<Y V="24.6" R="1" M="2"/>
+</LineTo>
+<LineTo>
+<X V="8.39" R="0.340641" M="1"/>
+<Y V="24.6" R="1" M="2"/>
+</LineTo>
+<LineTo>
+<X V="8.39" R="0.340641" M="1"/>
+<Y V="19.76" R="0.803252" M="2"/>
+</LineTo>
+<LineTo>
+<X V="12.09" R="0.490865" M="1"/>
+<Y V="19.76" R="0.803252" M="2"/>
+</LineTo>
+<LineTo>
+<X V="12.09" R="0.490865" M="1"/>
+<Y V="24.6" R="1" M="2"/>
+</LineTo>
+<LineTo>
+<X V="14.09" R="0.572067" M="1"/>
+<Y V="24.6" R="1" M="2"/>
+</LineTo>
+<LineTo>
+<X V="14.09" R="0.572067" M="1"/>
+<Y V="19.76" R="0.803252" M="2"/>
+</LineTo>
+<LineTo>
+<X V="18.79" R="0.762891" M="1"/>
+<Y V="19.76" R="0.803252" M="2"/>
+</LineTo>
+<CurveTo>
+<X V="19.79" R="0.803492" M="1"/>
+<Y V="18.76" R="0.762602" M="2"/>
+<A V="19.3423" R="0.785314" M="1"/>
+<B V="19.76" R="0.803252" M="2"/>
+<C V="19.79" R="0.803492" M="1"/>
+<D V="19.3123" R="0.785052" M="2"/>
+</CurveTo>
+<LineTo>
+<X V="19.79" R="0.803492" M="1"/>
+<Y V="14.06" R="0.571545" M="2"/>
+</LineTo>
+<LineTo>
+<X V="24.63" R="1" M="1"/>
+<Y V="14.06" R="0.571545" M="2"/>
+</LineTo>
+<LineTo>
+<X V="24.63" R="1" M="1"/>
+<Y V="12.06" R="0.490244" M="2"/>
+</LineTo>
+<LineTo>
+<X V="19.79" R="0.803492" M="1"/>
+<Y V="12.06" R="0.490244" M="2"/>
+</LineTo>
+<LineTo>
+<X V="19.79" R="0.803492" M="1"/>
+<Y V="8.36" R="0.339837" M="2"/>
+</LineTo>
+<LineTo>
+<X V="24.63" R="1" M="1"/>
+<Y V="8.36" R="0.339837" M="2"/>
+</LineTo>
+<LineTo>
+<X V="24.63" R="1" M="1"/>
+<Y V="6.36" R="0.258537" M="2"/>
+</LineTo>
+<LineTo>
+<X V="19.79" R="0.803492" M="1"/>
+<Y V="6.36" R="0.258537" M="2"/>
+</LineTo>
+<LineTo>
+<X V="19.79" R="0.803492" M="1"/>
+<Y V="2.66" R="0.10813" M="2"/>
+</LineTo>
+<LineTo>
+<X V="24.63" R="1" M="1"/>
+<Y V="2.66" R="0.10813" M="2"/>
+</LineTo>
+<LineTo>
+<X V="24.63" R="1" M="1"/>
+<Y V="0.66" R="0.0268293" M="2"/>
+</LineTo>
+<LineTo>
+<X V="19.79" R="0.803492" M="1"/>
+<Y V="0.66" R="0.0268293" M="2"/>
+</LineTo>
+<LineTo>
+<X V="19.79" R="0.803492" M="1"/>
+<Y V="0"/>
+</LineTo>
+</Geometry>
+</Geometries>
+</Shape>
+<Shape ID="110" Version="10.1.3" Type="Shape">
+<Transform>
+<Width V="48.5564" R="1" M="3"/>
+<Height V="48.5748" R="0.99989" M="4"/>
+<Angle V="0"/>
+<GPinX V="24.2782" R="0.5" M="3"/>
+<GPinY V="24.29" R="0.5" M="4"/>
+<LocPinX V="24.2782" R="0.5" M="1"/>
+<LocPinY V="24.2874" R="0.5" M="2"/>
+<FlipX V="0"/>
+<FlipY V="0"/>
+</Transform>
+<Misc/>
+<ShapeFormat QuickMask="0">
+<FillFormat Type="Solid">
+<Color V="#ffffffff"/>
+</FillFormat>
+<LineFormat>
+<LineWeight V="1"/>
+<LineCap V="Flat"/>
+<LinePattern ID="1"/>
+<BeginArrow ID="0" Size="4"/>
+<EndArrow ID="0" Size="4"/>
+<LineFill Type="None"/>
+</LineFormat>
+<EffectFormat>
+<Shadow Mode="0"/>
+</EffectFormat>
+</ShapeFormat>
+<Geometries>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="47.5497" R="0.979267" M="1"/>
+<Y V="1.00815" R="0.0207546" M="2"/>
+</MoveTo>
+<CurveTo>
+<X V="40.2397" R="0.82872" M="1"/>
+<Y V="1.10815" R="0.0228133" M="2"/>
+<A V="46.1797" R="0.951052" M="1"/>
+<B V="-0.371848" R="-0.00765518" M="2"/>
+<C V="43.7197" R="0.90039" M="1"/>
+<D V="-0.331848" R="-0.00683171" M="2"/>
+</CurveTo>
+<LineTo>
+<X V="40.2397" R="0.82872" M="1"/>
+<Y V="3.29815" R="0.0678985" M="2"/>
+</LineTo>
+<CurveTo>
+<X V="46.1397" R="0.950228" M="1"/>
+<Y V="2.42815" R="0.0499879" M="2"/>
+<A V="43.1597" R="0.888857" M="1"/>
+<B V="1.96815" R="0.040518" M="2"/>
+<C V="45.3497" R="0.933959" M="1"/>
+<D V="1.62815" R="0.0335185" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="33.0297" R="0.680233" M="1"/>
+<Y V="25.3482" R="0.521838" M="2"/>
+<A V="47.8897" R="0.986269" M="1"/>
+<B V="4.17815" R="0.0860149" M="2"/>
+<C V="44.2697" R="0.911717" M="1"/>
+<D V="13.0782" R="0.269238" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="27.3368" R="0.562989" M="1"/>
+<Y V="25.0927" R="0.516578" M="2"/>
+<A V="31.324" R="0.645105" M="1"/>
+<B V="24.2209" R="0.498631" M="2"/>
+<C V="29.1366" R="0.600057" M="1"/>
+<D V="24.1227" R="0.49661" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="24.4197" R="0.502914" M="1"/>
+<Y V="29.9882" R="0.617361" M="2"/>
+<A V="25.5369" R="0.525922" M="1"/>
+<B V="26.0626" R="0.536546" M="2"/>
+<C V="24.4161" R="0.50284" M="1"/>
+<D V="27.9436" R="0.57527" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="25.3297" R="0.521655" M="1"/>
+<Y V="32.9882" R="0.679121" M="2"/>
+<A V="24.4318" R="0.503163" M="1"/>
+<B V="31.0543" R="0.63931" M="2"/>
+<C V="24.7475" R="0.509664" M="1"/>
+<D V="32.0949" R="0.660733" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="2.40971" R="0.0496271" M="1"/>
+<Y V="46.1482" R="0.950044" M="2"/>
+<A V="13.0697" R="0.269165" M="1"/>
+<B V="44.2782" R="0.911547" M="2"/>
+<C V="4.17971" R="0.0860795" M="1"/>
+<D V="47.9082" R="0.986277" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="3.27971" R="0.0675444" M="1"/>
+<Y V="40.2482" R="0.828582" M="2"/>
+<A V="1.76971" R="0.0364465" M="1"/>
+<B V="45.5082" R="0.936868" M="2"/>
+<C V="1.74971" R="0.0360346" M="1"/>
+<D V="43.6282" R="0.898165" M="2"/>
+</CurveTo>
+<LineTo>
+<X V="1.10971" R="0.0228541" M="1"/>
+<Y V="40.2482" R="0.828582" M="2"/>
+</LineTo>
+<CurveTo>
+<X V="0.999714" R="0.0205887" M="1"/>
+<Y V="47.5682" R="0.979277" M="2"/>
+<A V="-0.320286" R="-0.00659616" M="1"/>
+<B V="43.7182" R="0.900018" M="2"/>
+<C V="-0.380286" R="-0.00783184" M="1"/>
+<D V="46.1882" R="0.950867" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="3.79971" R="0.0782535" M="1"/>
+<Y V="48.5748" R="1" M="2"/>
+<A V="1.75849" R="0.0362155" M="1"/>
+<B V="48.2679" R="0.993684" M="2"/>
+<C V="2.7693" R="0.0570326" M="1"/>
+<D V="48.6289" R="1.00112" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="26.7197" R="0.550282" M="1"/>
+<Y V="34.4782" R="0.709796" M="2"/>
+<A V="9.01971" R="0.185757" M="1"/>
+<B V="48.5748" R="1" M="2"/>
+<C V="18.3697" R="0.378317" M="1"/>
+<D V="42.1282" R="0.867285" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="33.8152" R="0.69641" M="1"/>
+<Y V="33.8779" R="0.697439" M="2"/>
+<A V="28.9184" R="0.595563" M="1"/>
+<B V="36.0217" R="0.741572" M="2"/>
+<C V="31.907" R="0.657112" M="1"/>
+<D V="35.7689" R="0.736368" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="34.4797" R="0.710096" M="1"/>
+<Y V="26.7882" R="0.551483" M="2"/>
+<A V="35.7234" R="0.735708" M="1"/>
+<B V="31.9869" R="0.65851" M="2"/>
+<C V="36.0033" R="0.741473" M="1"/>
+<D V="29.0008" R="0.597034" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="47.5497" R="0.979267" M="1"/>
+<Y V="1.00815" R="0.0207546" M="2"/>
+<A V="43.7797" R="0.901625" M="1"/>
+<B V="16.5582" R="0.34088" M="2"/>
+<C V="51.3597" R="1.05773" M="1"/>
+<D V="4.78815" R="0.0985728" M="2"/>
+</CurveTo>
+</Geometry>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="29.9797" R="0.61742" M="1"/>
+<Y V="33.5482" R="0.69065" M="2"/>
+</MoveTo>
+<CurveTo>
+<X V="26.4197" R="0.544103" M="1"/>
+<Y V="29.9882" R="0.617361" M="2"/>
+<A V="28.0136" R="0.576928" M="1"/>
+<B V="33.5482" R="0.69065" M="2"/>
+<C V="26.4197" R="0.544103" M="1"/>
+<D V="31.9543" R="0.657837" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="29.9797" R="0.61742" M="1"/>
+<Y V="26.4282" R="0.544072" M="2"/>
+<A V="26.4197" R="0.544103" M="1"/>
+<B V="28.022" R="0.576884" M="2"/>
+<C V="28.0136" R="0.576928" M="1"/>
+<D V="26.4282" R="0.544072" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="33.5397" R="0.690737" M="1"/>
+<Y V="29.9882" R="0.617361" M="2"/>
+<A V="31.9458" R="0.657912" M="1"/>
+<B V="26.4282" R="0.544072" M="2"/>
+<C V="33.5397" R="0.690737" M="1"/>
+<D V="28.022" R="0.576884" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="29.9797" R="0.61742" M="1"/>
+<Y V="33.5482" R="0.69065" M="2"/>
+<A V="33.5397" R="0.690737" M="1"/>
+<B V="31.9543" R="0.657837" M="2"/>
+<C V="31.9458" R="0.657912" M="1"/>
+<D V="33.5482" R="0.69065" M="2"/>
+</CurveTo>
+</Geometry>
+</Geometries>
+</Shape>
+<GroupProps>
+<SelectMode V="1"/>
+<GroupShadow V="FALSE"/>
+</GroupProps>
+</Shape>
+<GroupProps>
+<SelectMode V="1"/>
+<GroupShadow V="FALSE"/>
+</GroupProps>
+</Shape>
+-->
+        </Item>
+        <Item PromptU="Quantum-Technologies" NameU="Quantum-Technologies">
+            <!--<Shape ID="119" Version="10.1.3" Type="Group">
+<Transform>
+<Width V="100"/>
+<Height V="100"/>
+<Angle V="0"/>
+<GPinX V="50"/>
+<GPinY V="50"/>
+<LocPinX V="50" R="0.5" M="1"/>
+<LocPinY V="50" R="0.5" M="2"/>
+<FlipX V="0"/>
+<FlipY V="0"/>
+</Transform>
+<Misc>
+<ObjectType V="9"/>
+</Misc>
+<ShapeFormat QuickMask="0">
+<FillFormat Type="None"/>
+<LineFormat>
+<LineWeight V="1"/>
+<LineCap V="Flat"/>
+<LinePattern ID="1"/>
+<BeginArrow ID="0" Size="4"/>
+<EndArrow ID="0" Size="4"/>
+<LineFill Type="Solid">
+<Color V="#ff000000"/>
+</LineFill>
+</LineFormat>
+<EffectFormat>
+<Shadow Mode="0"/>
+</EffectFormat>
+</ShapeFormat>
+<Shape ID="118" Version="10.1.3" Type="Group">
+<Transform>
+<Width V="100" R="1" M="3"/>
+<Height V="100" R="1" M="4"/>
+<Angle V="0"/>
+<GPinX V="50" R="0.5" M="3"/>
+<GPinY V="50" R="0.5" M="4"/>
+<LocPinX V="50" R="0.5" M="1"/>
+<LocPinY V="50" R="0.5" M="2"/>
+<FlipX V="0"/>
+<FlipY V="0"/>
+</Transform>
+<Misc/>
+<ShapeFormat QuickMask="0">
+<FillFormat Type="None"/>
+<LineFormat>
+<LineWeight V="1"/>
+<LineCap V="Flat"/>
+<LinePattern ID="1"/>
+<BeginArrow ID="0" Size="4"/>
+<EndArrow ID="0" Size="4"/>
+<LineFill Type="Solid">
+<Color V="#ff000000"/>
+</LineFill>
+</LineFormat>
+<EffectFormat>
+<Shadow Mode="0"/>
+</EffectFormat>
+</ShapeFormat>
+<Shape ID="113" Version="10.1.3" Type="Image">
+<Transform>
+<Width V="97.2" R="0.972" M="3"/>
+<Height V="97.2" R="0.972" M="4"/>
+<Angle V="0"/>
+<GPinX V="49.52" R="0.4952" M="3"/>
+<GPinY V="50.56" R="0.5056" M="4"/>
+<LocPinX V="48.6" R="0.5" M="1"/>
+<LocPinY V="48.6" R="0.5" M="2"/>
+<FlipX V="0"/>
+<FlipY V="0"/>
+</Transform>
+<Misc/>
+<ShapeFormat QuickMask="0">
+<FillFormat Type="None"/>
+<LineFormat>
+<LineWeight V="1"/>
+<LineCap V="Flat"/>
+<LinePattern ID="1"/>
+<BeginArrow ID="0" Size="4"/>
+<EndArrow ID="0" Size="4"/>
+<LineFill Type="Solid">
+<Color V="#ff000000"/>
+</LineFill>
+</LineFormat>
+<EffectFormat>
+<Shadow Mode="0"/>
+</EffectFormat>
+</ShapeFormat>
+<Data Hash="NYV2vEhYAlGBmIBgTTImfpa/3Ko="><![CDATA[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e0yAr6idjWTPVEa3pYak9by+S7rVG1nNama/JyjArVmNXaezj5Ofp/vsqER/nNmhr9Hvtuf9ZYBbFI1pJ/+gHh3++tTx8U/MVHacHOcTFOBe7I55X/bIzEdH5aPe9Jf8YwIkusnx86vOVFqnC1IAt2y1gelL+4yofPk/AsCD+PDx+BZmKgDcCFEBII2oAJBGVABIIyoApBEVANKICgBpRAWANKICQBpRASCNqACQRlQASCMqAKQRFQDSiAoAaUQFgDSiAkAaUQEgjagAkEZUAEgjKgCkERUA0ogKAGlEBYA0ogJAGlEBII2oAJBGVABIIyoApBEVANKICgBpRAWANKICQBpRASCNqACQRlQASCMqAKQRFQDSiAoAaUQFgDSiAkAaUQEgjagAkEZUAEgjKgCkERUA0ogKAGlEBYA0ogJAGlEBII2oAJBGVABIIyoApBEVANKICgBpRAWANKICQBpRASCNqACQRlQASCMqAKQRFQDSiAoAaUQFgDSiAkAaUQEgjagAkEZUAEgjKgCkERUA0ogKAGlEBYA0ogJAGlEBII2oAJBGVABIIyoApBEVANKICgBpRAWANKICQBpRASCNqACQRlQASCMqAKQRFQDSiAoAaUQFgDSiAkAaUQEgjagAkEZUAEgjKgCkERUA0ogKAGlEBYA0ogJAGlEBII2oAJBGVABIIyoApBEVANKICgBpRAWANKICQBpRASCNqACQRlQASCMqAKQRFQDSiAoAaUQFgDSiAkAaUQEgjagAkEZUAEgjKgCkERUA0ogKAGlEBYA0ogJAGlEBII2oAJBGVABIIyoApBEVANKICgBpRAWANKICQBpRASCNqACQRlQASCMqAKQRFQDSiAoAaUQFgDSiAkAaUQEgjagAkEZUAEgjKgCkERUA0ogKAGlEBYA0ogJAGlEBII2oAJBGVABIIyoApBEVANKICgBpRAWANKICQBpRASCNqACQRlQASCMqAKQRFQDSiAoAaUQFgDSiAkAaUQEgjagAkEZUAEgjKgCkERUA0ogKAGlEBYA0ogJAGlEBII2oAJBGVABIIyoApBEVANKICgBpRAWANKICQBpRASCNqACQRlQASCMqAKQRFQDSiAoAaUQFgDSiAkAaUQEgjagAkEZUAEgjKgCkERUA0ogKAGlEBYA0ogJAGlEBII2oAJBGVABIIyoApBEVANKI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]]></Data>
+<ImageFormat Transparency="0" Contrast="0" Brightness="0"/>
+</Shape>
+<Shape ID="114" Version="10.1.3" Type="Shape">
+<Transform>
+<Width V="82" R="0.82" M="3"/>
+<Height V="82" R="0.82" M="4"/>
+<Angle V="0"/>
+<GPinX V="49.5" R="0.495" M="3"/>
+<GPinY V="49.5" R="0.495" M="4"/>
+<LocPinX V="41" R="0.5" M="1"/>
+<LocPinY V="41" R="0.5" M="2"/>
+<FlipX V="0"/>
+<FlipY V="0"/>
+</Transform>
+<Misc/>
+<ShapeFormat QuickMask="0">
+<FillFormat Direction="315" GradientType="Linear" Type="Gradient">
+<Stop Offset="0">
+<Color V="#ffc8511b"/>
+</Stop>
+<Stop Offset="100">
+<Color V="#ffff9900"/>
+</Stop>
+</FillFormat>
+<LineFormat>
+<LineWeight V="1"/>
+<LineCap V="Flat"/>
+<LinePattern ID="1"/>
+<BeginArrow ID="0" Size="4"/>
+<EndArrow ID="0" Size="4"/>
+<LineFill Type="None"/>
+</LineFormat>
+<EffectFormat>
+<Shadow Mode="0"/>
+</EffectFormat>
+</ShapeFormat>
+<Geometries>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="0"/>
+<Y V="0"/>
+</MoveTo>
+<LineTo>
+<X V="82" R="1" M="1"/>
+<Y V="0"/>
+</LineTo>
+<LineTo>
+<X V="82" R="1" M="1"/>
+<Y V="82" R="1" M="2"/>
+</LineTo>
+<LineTo>
+<X V="0"/>
+<Y V="82" R="1" M="2"/>
+</LineTo>
+<LineTo>
+<X V="0"/>
+<Y V="0"/>
+</LineTo>
+</Geometry>
+</Geometries>
+</Shape>
+<Shape ID="115" Version="10.1.3" Type="Shape">
+<Transform>
+<Width V="85" R="0.85" M="3"/>
+<Height V="85" R="0.85" M="4"/>
+<Angle V="0"/>
+<GPinX V="49.5" R="0.495" M="3"/>
+<GPinY V="49.5" R="0.495" M="4"/>
+<LocPinX V="42.5" R="0.5" M="1"/>
+<LocPinY V="42.5" R="0.5" M="2"/>
+<FlipX V="0"/>
+<FlipY V="0"/>
+</Transform>
+<Misc/>
+<ShapeFormat QuickMask="0">
+<FillFormat Type="Solid">
+<Color V="#ffffffff"/>
+</FillFormat>
+<LineFormat>
+<LineWeight V="1"/>
+<LineCap V="Flat"/>
+<LinePattern ID="1"/>
+<BeginArrow ID="0" Size="4"/>
+<EndArrow ID="0" Size="4"/>
+<LineFill Type="None"/>
+</LineFormat>
+<EffectFormat>
+<Shadow Mode="0"/>
+</EffectFormat>
+</ShapeFormat>
+<Geometries>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="82" R="0.964706" M="1"/>
+<Y V="3" R="0.0352941" M="2"/>
+</MoveTo>
+<LineTo>
+<X V="82" R="0.964706" M="1"/>
+<Y V="82" R="0.964706" M="2"/>
+</LineTo>
+<LineTo>
+<X V="3" R="0.0352941" M="1"/>
+<Y V="82" R="0.964706" M="2"/>
+</LineTo>
+<LineTo>
+<X V="3" R="0.0352941" M="1"/>
+<Y V="3" R="0.0352941" M="2"/>
+</LineTo>
+<LineTo>
+<X V="82" R="0.964706" M="1"/>
+<Y V="3" R="0.0352941" M="2"/>
+</LineTo>
+</Geometry>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="85" R="1" M="1"/>
+<Y V="0"/>
+</MoveTo>
+<LineTo>
+<X V="0"/>
+<Y V="0"/>
+</LineTo>
+<LineTo>
+<X V="0"/>
+<Y V="85" R="1" M="2"/>
+</LineTo>
+<LineTo>
+<X V="85" R="1" M="1"/>
+<Y V="85" R="1" M="2"/>
+</LineTo>
+<LineTo>
+<X V="85" R="1" M="1"/>
+<Y V="0"/>
+</LineTo>
+</Geometry>
+</Geometries>
+</Shape>
+<Shape ID="116" Version="10.1.3" Type="Shape">
+<Transform>
+<Width V="100" R="1" M="3"/>
+<Height V="100" R="1" M="4"/>
+<Angle V="0"/>
+<GPinX V="50" R="0.5" M="3"/>
+<GPinY V="50" R="0.5" M="4"/>
+<LocPinX V="50" R="0.5" M="1"/>
+<LocPinY V="50" R="0.5" M="2"/>
+<FlipX V="0"/>
+<FlipY V="0"/>
+</Transform>
+<Misc/>
+<ShapeFormat QuickMask="0">
+<FillFormat Type="None"/>
+<LineFormat>
+<LineWeight V="1"/>
+<LineCap V="Flat"/>
+<LinePattern ID="1"/>
+<BeginArrow ID="0" Size="4"/>
+<EndArrow ID="0" Size="4"/>
+<LineFill Type="None"/>
+</LineFormat>
+<EffectFormat>
+<Shadow Mode="0"/>
+</EffectFormat>
+</ShapeFormat>
+<Geometries>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="0"/>
+<Y V="0"/>
+</MoveTo>
+<LineTo>
+<X V="100" R="1" M="1"/>
+<Y V="0"/>
+</LineTo>
+<LineTo>
+<X V="100" R="1" M="1"/>
+<Y V="100" R="1" M="2"/>
+</LineTo>
+<LineTo>
+<X V="0"/>
+<Y V="100" R="1" M="2"/>
+</LineTo>
+<LineTo>
+<X V="0"/>
+<Y V="0"/>
+</LineTo>
+</Geometry>
+</Geometries>
+</Shape>
+<Shape ID="117" Version="10.1.3" Type="Shape">
+<Transform>
+<Width V="42.7457" R="0.427457" M="3"/>
+<Height V="46.28" R="0.4628" M="4"/>
+<Angle V="0"/>
+<GPinX V="50" R="0.5" M="3"/>
+<GPinY V="50" R="0.5" M="4"/>
+<LocPinX V="21.3728" R="0.5" M="1"/>
+<LocPinY V="23.14" R="0.5" M="2"/>
+<FlipX V="0"/>
+<FlipY V="0"/>
+</Transform>
+<Misc/>
+<ShapeFormat QuickMask="0">
+<FillFormat Type="Solid">
+<Color V="#ffffffff"/>
+</FillFormat>
+<LineFormat>
+<LineWeight V="1"/>
+<LineCap V="Flat"/>
+<LinePattern ID="1"/>
+<BeginArrow ID="0" Size="4"/>
+<EndArrow ID="0" Size="4"/>
+<LineFill Type="None"/>
+</LineFormat>
+<EffectFormat>
+<Shadow Mode="0"/>
+</EffectFormat>
+</ShapeFormat>
+<Geometries>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="39.3974" R="0.921669" M="1"/>
+<Y V="21.13" R="0.456569" M="2"/>
+</MoveTo>
+<CurveTo>
+<X V="42.1274" R="0.985535" M="1"/>
+<Y V="11.59" R="0.250432" M="2"/>
+<A V="42.5074" R="0.994425" M="1"/>
+<B V="17.31" R="0.374028" M="2"/>
+<C V="43.4674" R="1.01688" M="1"/>
+<D V="13.92" R="0.300778" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="29.8274" R="0.697787" M="1"/>
+<Y V="9.76" R="0.21089" M="2"/>
+<A V="40.5074" R="0.947636" M="1"/>
+<B V="8.78" R="0.189715" M="2"/>
+<C V="35.7974" R="0.83745" M="1"/>
+<D V="8.26" R="0.178479" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="29.2974" R="0.685388" M="1"/>
+<Y V="8.05" R="0.173941" M="2"/>
+<A V="29.6574" R="0.69381" M="1"/>
+<B V="9.17" R="0.198142" M="2"/>
+<C V="29.4874" R="0.689833" M="1"/>
+<D V="8.6" R="0.185825" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="31.4648" R="0.736094" M="1"/>
+<Y V="3.96628" R="0.0857019" M="2"/>
+<A V="30.9026" R="0.72294" M="1"/>
+<B V="7.38124" R="0.159491" M="2"/>
+<C V="31.8105" R="0.744182" M="1"/>
+<D V="5.6705" R="0.122526" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="27.8774" R="0.652168" M="1"/>
+<Y V="1.05" R="0.022688" M="2"/>
+<A V="31.1191" R="0.728006" M="1"/>
+<B V="2.26206" R="0.0488778" M="2"/>
+<C V="29.6163" R="0.692848" M="1"/>
+<D V="1.04038" R="0.0224802" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="25.7674" R="0.602806" M="1"/>
+<Y V="1.74" R="0.0375972" M="2"/>
+<A V="27.1189" R="0.634424" M="1"/>
+<B V="1.05199" R="0.0227309" M="2"/>
+<C V="26.3804" R="0.617149" M="1"/>
+<D V="1.29347" R="0.0279488" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="22.0774" R="0.516482" M="1"/>
+<Y V="0"/>
+<A V="24.8222" R="0.580696" M="1"/>
+<B V="0.686271" R="0.0148287" M="2"/>
+<C V="23.4916" R="0.549567" M="1"/>
+<D V="0"/>
+</CurveTo>
+<CurveTo>
+<X V="14.3374" R="0.335411" M="1"/>
+<Y V="9.75" R="0.210674" M="2"/>
+<A V="18.8374" R="0.440685" M="1"/>
+<B V="0"/>
+<C V="16.0774" R="0.376117" M="1"/>
+<D V="3.82" R="0.0825411" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="2.02736" R="0.0474284" M="1"/>
+<Y V="11.58" R="0.250216" M="2"/>
+<A V="8.33736" R="0.195046" M="1"/>
+<B V="8.25" R="0.178263" M="2"/>
+<C V="3.64736" R="0.085327" M="1"/>
+<D V="8.75" R="0.189067" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="4.74736" R="0.111061" M="1"/>
+<Y V="21.12" R="0.456353" M="2"/>
+<A V="0.67736" R="0.0158463" M="1"/>
+<B V="13.91" R="0.300562" M="2"/>
+<C V="1.64736" R="0.0385386" M="1"/>
+<D V="17.3" R="0.373812" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="6.57736" R="0.153872" M="1"/>
+<Y V="23.14" R="0.5" M="2"/>
+<A V="5.29736" R="0.123927" M="1"/>
+<B V="21.79" R="0.47083" M="2"/>
+<C V="5.92736" R="0.138666" M="1"/>
+<D V="22.47" R="0.485523" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="4.57736" R="0.107084" M="1"/>
+<Y V="25.43" R="0.549481" M="2"/>
+<A V="5.82736" R="0.136326" M="1"/>
+<B V="23.9" R="0.516422" M="2"/>
+<C V="5.15736" R="0.120652" M="1"/>
+<D V="24.67" R="0.53306" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="3.63736" R="0.0850931" M="1"/>
+<Y V="25.29" R="0.546456" M="2"/>
+<A V="4.27139" R="0.0999258" M="1"/>
+<B V="25.3429" R="0.547599" M="2"/>
+<C V="3.95543" R="0.092534" M="1"/>
+<D V="25.2958" R="0.546583" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="0.180785" R="0.00422931" M="1"/>
+<Y V="27.7895" R="0.600464" M="2"/>
+<A V="2.06554" R="0.0483217" M="1"/>
+<B V="25.2869" R="0.54639" M="2"/>
+<C V="0.670317" R="0.0156815" M="1"/>
+<D V="26.2958" R="0.568189" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="1.48736" R="0.0347956" M="1"/>
+<Y V="31.85" R="0.688202" M="2"/>
+<A V="-0.308748" R="-0.0072229" M="1"/>
+<B V="29.2831" R="0.632738" M="2"/>
+<C V="0.218644" R="0.00511499" M="1"/>
+<D V="30.9221" R="0.668153" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="2.04736" R="0.0478963" M="1"/>
+<Y V="34.7" R="0.749784" M="2"/>
+<A V="1.37119" R="0.032078" M="1"/>
+<B V="32.8352" R="0.70949" M="2"/>
+<C V="1.56706" R="0.0366601" M="1"/>
+<D V="33.832" R="0.731029" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="8.44736" R="0.197619" M="1"/>
+<Y V="37.36" R="0.80726" M="2"/>
+<A V="3.04736" R="0.0712905" M="1"/>
+<B V="36.5" R="0.788678" M="2"/>
+<C V="5.36736" R="0.125565" M="1"/>
+<D V="37.36" R="0.80726" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="14.3474" R="0.335645" M="1"/>
+<Y V="36.53" R="0.789326" M="2"/>
+<A V="10.4401" R="0.244237" M="1"/>
+<B V="37.3195" R="0.806385" M="2"/>
+<C V="12.4208" R="0.290575" M="1"/>
+<D V="37.0409" R="0.800364" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="22.0874" R="0.516716" M="1"/>
+<Y V="46.28" R="1" M="2"/>
+<A V="16.0374" R="0.375181" M="1"/>
+<B V="42.47" R="0.917675" M="2"/>
+<C V="18.8474" R="0.440919" M="1"/>
+<D V="46.28" R="1" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="29.8174" R="0.697553" M="1"/>
+<Y V="36.54" R="0.789542" M="2"/>
+<A V="25.3274" R="0.592513" M="1"/>
+<B V="46.28" R="1" M="2"/>
+<C V="28.0874" R="0.657081" M="1"/>
+<D V="42.47" R="0.917675" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="33.8874" R="0.792767" M="1"/>
+<Y V="37.28" R="0.805532" M="2"/>
+<A V="31.1544" R="0.728831" M="1"/>
+<B V="36.8846" R="0.796988" M="2"/>
+<C V="32.5146" R="0.760653" M="1"/>
+<D V="37.1319" R="0.802331" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="37.8917" R="0.886446" M="1"/>
+<Y V="39.9128" R="0.86242" M="2"/>
+<A V="34.3709" R="0.804078" M="1"/>
+<B V="39.0392" R="0.843544" M="2"/>
+<C V="36.085" R="0.844179" M="1"/>
+<D V="40.1662" R="0.867895" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="41.0174" R="0.959567" M="1"/>
+<Y V="36.28" R="0.783924" M="2"/>
+<A V="39.6985" R="0.928714" M="1"/>
+<B V="39.6594" R="0.856944" M="2"/>
+<C V="41.0364" R="0.960014" M="1"/>
+<D V="38.1043" R="0.823343" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="41.0174" R="0.959567" M="1"/>
+<Y V="35.94" R="0.776577" M="2"/>
+<A V="41.0174" R="0.959567" M="1"/>
+<B V="36.17" R="0.781547" M="2"/>
+<C V="41.0174" R="0.959567" M="1"/>
+<D V="36.06" R="0.77917" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="42.1774" R="0.986705" M="1"/>
+<Y V="34.67" R="0.749136" M="2"/>
+<A V="41.4842" R="0.970488" M="1"/>
+<B V="35.5975" R="0.769177" M="2"/>
+<C V="41.8784" R="0.979712" M="1"/>
+<D V="35.1658" R="0.75985" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="37.6074" R="0.879793" M="1"/>
+<Y V="23.14" R="0.5" M="2"/>
+<A V="43.7874" R="1.02437" M="1"/>
+<B V="31.87" R="0.688634" M="2"/>
+<C V="41.8874" R="0.97992" M="1"/>
+<D V="27.54" R="0.595073" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="39.3974" R="0.921669" M="1"/>
+<Y V="21.13" R="0.456569" M="2"/>
+<A V="38.2174" R="0.894064" M="1"/>
+<B V="22.46" R="0.485307" M="2"/>
+<C V="38.8474" R="0.908802" M="1"/>
+<D V="21.78" R="0.470614" M="2"/>
+</CurveTo>
+</Geometry>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="40.3974" R="0.945063" M="1"/>
+<Y V="12.59" R="0.27204" M="2"/>
+</MoveTo>
+<CurveTo>
+<X V="37.8574" R="0.885642" M="1"/>
+<Y V="19.86" R="0.429127" M="2"/>
+<A V="41.2874" R="0.965884" M="1"/>
+<B V="14.13" R="0.305315" M="2"/>
+<C V="40.3974" R="0.945063" M="1"/>
+<D V="16.78" R="0.362576" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="36.1374" R="0.845404" M="1"/>
+<Y V="21.77" R="0.470398" M="2"/>
+<A V="37.3374" R="0.873477" M="1"/>
+<B V="20.5" R="0.442956" M="2"/>
+<C V="36.7574" R="0.859908" M="1"/>
+<D V="21.14" R="0.456785" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="31.2774" R="0.731708" M="1"/>
+<Y V="17.86" R="0.385912" M="2"/>
+<A V="34.6041" R="0.809534" M="1"/>
+<B V="20.3624" R="0.439983" M="2"/>
+<C V="32.9806" R="0.771555" M="1"/>
+<D V="19.0563" R="0.411761" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="30.2774" R="0.708314" M="1"/>
+<Y V="11.69" R="0.252593" M="2"/>
+<A V="31.0765" R="0.72701" M="1"/>
+<B V="15.784" R="0.341055" M="2"/>
+<C V="30.7425" R="0.719195" M="1"/>
+<D V="13.7231" R="0.296524" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="40.3474" R="0.943893" M="1"/>
+<Y V="12.56" R="0.271392" M="2"/>
+<A V="35.5174" R="0.8309" M="1"/>
+<B V="10.35" R="0.223639" M="2"/>
+<C V="39.3474" R="0.920499" M="1"/>
+<D V="10.73" R="0.23185" M="2"/>
+</CurveTo>
+<LineTo>
+<X V="40.3974" R="0.945063" M="1"/>
+<Y V="12.59" R="0.27204" M="2"/>
+</LineTo>
+</Geometry>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="25.8074" R="0.603742" M="1"/>
+<Y V="29.59" R="0.639369" M="2"/>
+</MoveTo>
+<CurveTo>
+<X V="22.0974" R="0.51695" M="1"/>
+<Y V="31.59" R="0.682584" M="2"/>
+<A V="24.5474" R="0.574265" M="1"/>
+<B V="30.32" R="0.655143" M="2"/>
+<C V="23.3074" R="0.545257" M="1"/>
+<D V="30.96" R="0.668971" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="18.3674" R="0.429689" M="1"/>
+<Y V="29.59" R="0.639369" M="2"/>
+<A V="20.8474" R="0.487707" M="1"/>
+<B V="30.99" R="0.66962" M="2"/>
+<C V="19.5974" R="0.458464" M="1"/>
+<D V="30.34" R="0.655575" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="14.7974" R="0.346172" M="1"/>
+<Y V="27.34" R="0.590752" M="2"/>
+<A V="17.1374" R="0.400914" M="1"/>
+<B V="28.84" R="0.623163" M="2"/>
+<C V="15.9274" R="0.372608" M="1"/>
+<D V="28.13" R="0.607822" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="14.6374" R="0.342429" M="1"/>
+<Y V="23.14" R="0.5" M="2"/>
+<A V="14.6974" R="0.343833" M="1"/>
+<B V="25.99" R="0.561582" M="2"/>
+<C V="14.6374" R="0.342429" M="1"/>
+<D V="24.59" R="0.531331" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="14.7974" R="0.346172" M="1"/>
+<Y V="18.93" R="0.409032" M="2"/>
+<A V="14.6374" R="0.342429" M="1"/>
+<B V="21.67" R="0.468237" M="2"/>
+<C V="14.6974" R="0.343833" M="1"/>
+<D V="20.28" R="0.438202" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="18.3574" R="0.429455" M="1"/>
+<Y V="16.69" R="0.360631" M="2"/>
+<A V="15.9374" R="0.372841" M="1"/>
+<B V="18.16" R="0.392394" M="2"/>
+<C V="17.1174" R="0.400447" M="1"/>
+<D V="17.4" R="0.375972" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="22.0774" R="0.516482" M="1"/>
+<Y V="14.69" R="0.317416" M="2"/>
+<A V="19.5974" R="0.458464" M="1"/>
+<B V="15.98" R="0.34529" M="2"/>
+<C V="20.8574" R="0.487941" M="1"/>
+<D V="15.31" R="0.330812" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="25.7974" R="0.603508" M="1"/>
+<Y V="16.69" R="0.360631" M="2"/>
+<A V="23.2874" R="0.544789" M="1"/>
+<B V="15.28" R="0.330164" M="2"/>
+<C V="24.5274" R="0.573797" M="1"/>
+<D V="15.93" R="0.344209" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="29.3474" R="0.686557" M="1"/>
+<Y V="18.93" R="0.409032" M="2"/>
+<A V="27.0674" R="0.633219" M="1"/>
+<B V="17.45" R="0.377053" M="2"/>
+<C V="28.2374" R="0.66059" M="1"/>
+<D V="18.13" R="0.391746" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="29.5074" R="0.6903" M="1"/>
+<Y V="23.14" R="0.5" M="2"/>
+<A V="29.4574" R="0.689131" M="1"/>
+<B V="20.3" R="0.438634" M="2"/>
+<C V="29.5074" R="0.6903" M="1"/>
+<D V="21.71" R="0.469101" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="29.3574" R="0.686791" M="1"/>
+<Y V="27.34" R="0.590752" M="2"/>
+<A V="29.5074" R="0.6903" M="1"/>
+<B V="24.55" R="0.530467" M="2"/>
+<C V="29.5074" R="0.6903" M="1"/>
+<D V="25.99" R="0.561582" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="25.7974" R="0.603508" M="1"/>
+<Y V="29.57" R="0.638937" M="2"/>
+<A V="28.2174" R="0.660122" M="1"/>
+<B V="28.13" R="0.607822" M="2"/>
+<C V="27.0274" R="0.632283" M="1"/>
+<D V="28.86" R="0.623596" M="2"/>
+</CurveTo>
+<LineTo>
+<X V="25.8074" R="0.603742" M="1"/>
+<Y V="29.59" R="0.639369" M="2"/>
+</LineTo>
+</Geometry>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="29.1074" R="0.680943" M="1"/>
+<Y V="29.91" R="0.646283" M="2"/>
+</MoveTo>
+<CurveTo>
+<X V="28.3474" R="0.663163" M="1"/>
+<Y V="34.04" R="0.735523" M="2"/>
+<A V="28.9231" R="0.676631" M="1"/>
+<B V="31.2985" R="0.676285" M="2"/>
+<C V="28.6694" R="0.670697" M="1"/>
+<D V="32.6769" R="0.706069" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="24.4074" R="0.57099" M="1"/>
+<Y V="32.59" R="0.704192" M="2"/>
+<A V="27.0674" R="0.633219" M="1"/>
+<B V="33.64" R="0.72688" M="2"/>
+<C V="25.7474" R="0.602338" M="1"/>
+<D V="33.16" R="0.716508" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="26.7674" R="0.6262" M="1"/>
+<Y V="31.3" R="0.676318" M="2"/>
+<A V="25.1874" R="0.589238" M="1"/>
+<B V="32.18" R="0.695333" M="2"/>
+<C V="25.9774" R="0.607719" M="1"/>
+<D V="31.76" R="0.686258" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="29.0974" R="0.680709" M="1"/>
+<Y V="29.89" R="0.645851" M="2"/>
+<A V="27.5574" R="0.644682" M="1"/>
+<B V="30.84" R="0.666379" M="2"/>
+<C V="28.3474" R="0.663163" M="1"/>
+<D V="30.37" R="0.656223" M="2"/>
+</CurveTo>
+<LineTo>
+<X V="29.1074" R="0.680943" M="1"/>
+<Y V="29.91" R="0.646283" M="2"/>
+</LineTo>
+</Geometry>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="19.7374" R="0.461739" M="1"/>
+<Y V="32.62" R="0.70484" M="2"/>
+</MoveTo>
+<CurveTo>
+<X V="15.7374" R="0.368163" M="1"/>
+<Y V="34.07" R="0.736171" M="2"/>
+<A V="18.3574" R="0.429455" M="1"/>
+<B V="33.2" R="0.717373" M="2"/>
+<C V="17.0374" R="0.398575" M="1"/>
+<D V="33.68" R="0.727744" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="15.0174" R="0.351319" M="1"/>
+<Y V="29.91" R="0.646283" M="2"/>
+<A V="15.4474" R="0.361378" M="1"/>
+<B V="32.78" R="0.708297" M="2"/>
+<C V="15.2074" R="0.355764" M="1"/>
+<D V="31.39" R="0.678263" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="17.3274" R="0.405359" M="1"/>
+<Y V="31.32" R="0.67675" M="2"/>
+<A V="15.7674" R="0.368864" M="1"/>
+<B V="30.39" R="0.656655" M="2"/>
+<C V="16.5374" R="0.386878" M="1"/>
+<D V="30.91" R="0.667891" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="19.7274" R="0.461505" M="1"/>
+<Y V="32.6" R="0.704408" M="2"/>
+<A V="18.1174" R="0.423841" M="1"/>
+<B V="31.73" R="0.685609" M="2"/>
+<C V="18.9374" R="0.443024" M="1"/>
+<D V="32.19" R="0.695549" M="2"/>
+</CurveTo>
+<LineTo>
+<X V="19.7374" R="0.461739" M="1"/>
+<Y V="32.62" R="0.70484" M="2"/>
+</LineTo>
+</Geometry>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="12.7374" R="0.29798" M="1"/>
+<Y V="25.85" R="0.558557" M="2"/>
+</MoveTo>
+<CurveTo>
+<X V="9.48736" R="0.221949" M="1"/>
+<Y V="23.14" R="0.5" M="2"/>
+<A V="11.5674" R="0.270609" M="1"/>
+<B V="24.97" R="0.539542" M="2"/>
+<C V="10.4874" R="0.245343" M="1"/>
+<D V="24.06" R="0.519879" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="12.7374" R="0.29798" M="1"/>
+<Y V="20.45" R="0.441876" M="2"/>
+<A V="10.4874" R="0.245343" M="1"/>
+<B V="22.23" R="0.480337" M="2"/>
+<C V="11.5774" R="0.270843" M="1"/>
+<D V="21.33" R="0.46089" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="12.6774" R="0.296576" M="1"/>
+<Y V="23.14" R="0.5" M="2"/>
+<A V="12.6974" R="0.297044" M="1"/>
+<B V="21.33" R="0.46089" M="2"/>
+<C V="12.6774" R="0.296576" M="1"/>
+<D V="22.23" R="0.480337" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="12.6974" R="0.297044" M="1"/>
+<Y V="25.83" R="0.558124" M="2"/>
+<A V="12.6774" R="0.296576" M="1"/>
+<B V="24.07" R="0.520095" M="2"/>
+<C V="12.684" R="0.296732" M="1"/>
+<D V="24.9633" R="0.539398" M="2"/>
+</CurveTo>
+<LineTo>
+<X V="12.7374" R="0.29798" M="1"/>
+<Y V="25.85" R="0.558557" M="2"/>
+</LineTo>
+</Geometry>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="15.0874" R="0.352956" M="1"/>
+<Y V="16.39" R="0.354149" M="2"/>
+</MoveTo>
+<CurveTo>
+<X V="15.8074" R="0.3698" M="1"/>
+<Y V="12.23" R="0.264261" M="2"/>
+<A V="15.2774" R="0.357401" M="1"/>
+<B V="14.9" R="0.321953" M="2"/>
+<C V="15.5174" R="0.363016" M="1"/>
+<D V="13.52" R="0.292135" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="19.8074" R="0.463377" M="1"/>
+<Y V="13.68" R="0.295592" M="2"/>
+<A V="17.1643" R="0.401544" M="1"/>
+<B V="12.6457" R="0.273243" M="2"/>
+<C V="18.4993" R="0.432776" M="1"/>
+<D V="13.1296" R="0.2837" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="17.4374" R="0.407933" M="1"/>
+<Y V="14.98" R="0.323682" M="2"/>
+<A V="19.0174" R="0.444896" M="1"/>
+<B V="14.09" R="0.304451" M="2"/>
+<C V="18.2274" R="0.426414" M="1"/>
+<D V="14.52" R="0.313742" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="15.0474" R="0.352021" M="1"/>
+<Y V="16.37" R="0.353717" M="2"/>
+<A V="16.6474" R="0.389451" M="1"/>
+<B V="15.44" R="0.333621" M="2"/>
+<C V="15.7974" R="0.369566" M="1"/>
+<D V="15.88" R="0.343129" M="2"/>
+</CurveTo>
+<LineTo>
+<X V="15.0874" R="0.352956" M="1"/>
+<Y V="16.39" R="0.354149" M="2"/>
+</LineTo>
+</Geometry>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="24.4574" R="0.57216" M="1"/>
+<Y V="13.68" R="0.295592" M="2"/>
+</MoveTo>
+<CurveTo>
+<X V="28.4574" R="0.665737" M="1"/>
+<Y V="12.23" R="0.264261" M="2"/>
+<A V="25.8374" R="0.604444" M="1"/>
+<B V="13.1" R="0.28306" M="2"/>
+<C V="27.1574" R="0.635324" M="1"/>
+<D V="12.62" R="0.272688" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="29.1774" R="0.68258" M="1"/>
+<Y V="16.38" R="0.353933" M="2"/>
+<A V="28.7474" R="0.672521" M="1"/>
+<B V="13.54" R="0.292567" M="2"/>
+<C V="28.9874" R="0.678136" M="1"/>
+<D V="14.93" R="0.322602" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="26.8774" R="0.628774" M="1"/>
+<Y V="14.98" R="0.323682" M="2"/>
+<A V="28.4274" R="0.665035" M="1"/>
+<B V="15.9" R="0.343561" M="2"/>
+<C V="27.6674" R="0.647255" M="1"/>
+<D V="15.43" R="0.333405" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="24.4174" R="0.571224" M="1"/>
+<Y V="13.66" R="0.29516" M="2"/>
+<A V="26.0874" R="0.610292" M="1"/>
+<B V="14.53" R="0.313959" M="2"/>
+<C V="25.2074" R="0.589706" M="1"/>
+<D V="14.07" R="0.304019" M="2"/>
+</CurveTo>
+<LineTo>
+<X V="24.4574" R="0.57216" M="1"/>
+<Y V="13.68" R="0.295592" M="2"/>
+</LineTo>
+</Geometry>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="31.4574" R="0.735919" M="1"/>
+<Y V="20.45" R="0.441876" M="2"/>
+</MoveTo>
+<CurveTo>
+<X V="34.6974" R="0.811716" M="1"/>
+<Y V="23.14" R="0.5" M="2"/>
+<A V="32.6474" R="0.763758" M="1"/>
+<B V="21.35" R="0.461322" M="2"/>
+<C V="33.7274" R="0.789024" M="1"/>
+<D V="22.26" R="0.480985" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="31.4574" R="0.735919" M="1"/>
+<Y V="25.85" R="0.558557" M="2"/>
+<A V="33.6648" R="0.787561" M="1"/>
+<B V="24.1055" R="0.520862" M="2"/>
+<C V="32.5834" R="0.762261" M="1"/>
+<D V="25.0067" R="0.540335" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="31.5174" R="0.737323" M="1"/>
+<Y V="23.14" R="0.5" M="2"/>
+<A V="31.4974" R="0.736855" M="1"/>
+<B V="24.9567" R="0.539254" M="2"/>
+<C V="31.5174" R="0.737323" M="1"/>
+<D V="24.0567" R="0.519807" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="31.4474" R="0.735685" M="1"/>
+<Y V="20.43" R="0.441443" M="2"/>
+<A V="31.5174" R="0.737323" M="1"/>
+<B V="22.2433" R="0.480625" M="2"/>
+<C V="31.494" R="0.736777" M="1"/>
+<D V="21.3367" R="0.461034" M="2"/>
+</CurveTo>
+<LineTo>
+<X V="31.4574" R="0.735919" M="1"/>
+<Y V="20.45" R="0.441876" M="2"/>
+</LineTo>
+</Geometry>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="27.8774" R="0.652168" M="1"/>
+<Y V="3.03" R="0.065471" M="2"/>
+</MoveTo>
+<CurveTo>
+<X V="29.5174" R="0.690534" M="1"/>
+<Y V="4.67" R="0.100908" M="2"/>
+<A V="28.7831" R="0.673357" M="1"/>
+<B V="3.03" R="0.065471" M="2"/>
+<C V="29.5174" R="0.690534" M="1"/>
+<D V="3.76425" R="0.0813365" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="27.8774" R="0.652168" M="1"/>
+<Y V="6.31" R="0.136344" M="2"/>
+<A V="29.5174" R="0.690534" M="1"/>
+<B V="5.57575" R="0.120479" M="2"/>
+<C V="28.7831" R="0.673357" M="1"/>
+<D V="6.31" R="0.136344" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="26.2374" R="0.613802" M="1"/>
+<Y V="4.67" R="0.100908" M="2"/>
+<A V="26.9716" R="0.630979" M="1"/>
+<B V="6.31" R="0.136344" M="2"/>
+<C V="26.2374" R="0.613802" M="1"/>
+<D V="5.57575" R="0.120479" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="27.8774" R="0.652168" M="1"/>
+<Y V="3.03" R="0.065471" M="2"/>
+<A V="26.2374" R="0.613802" M="1"/>
+<B V="3.76425" R="0.0813365" M="2"/>
+<C V="26.9716" R="0.630979" M="1"/>
+<D V="3.03" R="0.065471" M="2"/>
+</CurveTo>
+</Geometry>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="22.0774" R="0.516482" M="1"/>
+<Y V="2.03" R="0.0438634" M="2"/>
+</MoveTo>
+<CurveTo>
+<X V="24.5074" R="0.57333" M="1"/>
+<Y V="3.35" R="0.0723855" M="2"/>
+<A V="23.0356" R="0.5389" M="1"/>
+<B V="2.11311" R="0.0456592" M="2"/>
+<C V="23.916" R="0.559496" M="1"/>
+<D V="2.59136" R="0.0559932" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="24.2374" R="0.567013" M="1"/>
+<Y V="4.72" R="0.101988" M="2"/>
+<A V="24.3317" R="0.56922" M="1"/>
+<B V="3.78553" R="0.0817962" M="2"/>
+<C V="24.2401" R="0.567077" M="1"/>
+<D V="4.25038" R="0.0918406" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="27.2374" R="0.637196" M="1"/>
+<Y V="8.29" R="0.179127" M="2"/>
+<A V="24.2357" R="0.566973" M="1"/>
+<B V="6.48138" R="0.140047" M="2"/>
+<C V="25.502" R="0.596599" M="1"/>
+<D V="7.98833" R="0.172609" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="27.8874" R="0.652402" M="1"/>
+<Y V="10.29" R="0.222342" M="2"/>
+<A V="27.4674" R="0.642576" M="1"/>
+<B V="8.94" R="0.193172" M="2"/>
+<C V="27.6874" R="0.647723" M="1"/>
+<D V="9.61" R="0.207649" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="22.0674" R="0.516248" M="1"/>
+<Y V="12.54" R="0.270959" M="2"/>
+<A V="25.8982" R="0.605866" M="1"/>
+<B V="10.9059" R="0.235651" M="2"/>
+<C V="23.9536" R="0.560375" M="1"/>
+<D V="11.6577" R="0.251895" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="16.2474" R="0.380094" M="1"/>
+<Y V="10.29" R="0.222342" M="2"/>
+<A V="20.1786" R="0.472062" M="1"/>
+<B V="11.6636" R="0.252023" M="2"/>
+<C V="18.2344" R="0.42658" M="1"/>
+<D V="10.912" R="0.235783" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="22.0774" R="0.516482" M="1"/>
+<Y V="1.98" R="0.0427831" M="2"/>
+<A V="17.7274" R="0.414717" M="1"/>
+<B V="5.13" R="0.110847" M="2"/>
+<C V="19.9674" R="0.46712" M="1"/>
+<D V="1.98" R="0.0427831" M="2"/>
+</CurveTo>
+<LineTo>
+<X V="22.0774" R="0.516482" M="1"/>
+<Y V="2.03" R="0.0438634" M="2"/>
+</LineTo>
+</Geometry>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="6.34736" R="0.148491" M="1"/>
+<Y V="19.83" R="0.428479" M="2"/>
+</MoveTo>
+<CurveTo>
+<X V="3.80736" R="0.0890701" M="1"/>
+<Y V="12.56" R="0.271392" M="2"/>
+<A V="3.84736" R="0.0900058" M="1"/>
+<B V="16.75" R="0.361927" M="2"/>
+<C V="2.91736" R="0.0682492" M="1"/>
+<D V="14.1" R="0.304667" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="13.8874" R="0.324883" M="1"/>
+<Y V="11.66" R="0.251945" M="2"/>
+<A V="4.85736" R="0.113634" M="1"/>
+<B V="10.73" R="0.23185" M="2"/>
+<C V="8.68736" R="0.203234" M="1"/>
+<D V="10.35" R="0.223639" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="12.8874" R="0.301489" M="1"/>
+<Y V="17.83" R="0.385264" M="2"/>
+<A V="13.419" R="0.313927" M="1"/>
+<B V="13.6925" R="0.295862" M="2"/>
+<C V="13.085" R="0.306112" M="1"/>
+<D V="15.7536" R="0.340398" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="8.02736" R="0.187793" M="1"/>
+<Y V="21.73" R="0.469533" M="2"/>
+<A V="11.1872" R="0.261715" M="1"/>
+<B V="19.0268" R="0.411124" M="2"/>
+<C V="9.56398" R="0.223742" M="1"/>
+<D V="20.3294" R="0.439269" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="6.34736" R="0.148491" M="1"/>
+<Y V="19.83" R="0.428479" M="2"/>
+<A V="7.39736" R="0.173055" M="1"/>
+<B V="21.13" R="0.456569" M="2"/>
+<C V="6.81736" R="0.159487" M="1"/>
+<D V="20.47" R="0.442308" M="2"/>
+</CurveTo>
+</Geometry>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="3.66736" R="0.0857949" M="1"/>
+<Y V="27.29" R="0.589672" M="2"/>
+</MoveTo>
+<CurveTo>
+<X V="5.30736" R="0.124161" M="1"/>
+<Y V="28.93" R="0.625108" M="2"/>
+<A V="4.57311" R="0.106984" M="1"/>
+<B V="27.29" R="0.589672" M="2"/>
+<C V="5.30736" R="0.124161" M="1"/>
+<D V="28.0243" R="0.605537" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="3.66736" R="0.0857949" M="1"/>
+<Y V="30.57" R="0.660545" M="2"/>
+<A V="5.30736" R="0.124161" M="1"/>
+<B V="29.8357" R="0.644679" M="2"/>
+<C V="4.57311" R="0.106984" M="1"/>
+<D V="30.57" R="0.660545" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="2.02736" R="0.0474284" M="1"/>
+<Y V="28.93" R="0.625108" M="2"/>
+<A V="2.76161" R="0.0646057" M="1"/>
+<B V="30.57" R="0.660545" M="2"/>
+<C V="2.02736" R="0.0474284" M="1"/>
+<D V="29.8357" R="0.644679" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="3.61736" R="0.0846252" M="1"/>
+<Y V="27.29" R="0.589672" M="2"/>
+<A V="2.02695" R="0.0474188" M="1"/>
+<B V="28.0434" R="0.605951" M="2"/>
+<C V="2.7312" R="0.0638941" M="1"/>
+<D V="27.317" R="0.590256" M="2"/>
+</CurveTo>
+<LineTo>
+<X V="3.66736" R="0.0857949" M="1"/>
+<Y V="27.29" R="0.589672" M="2"/>
+</LineTo>
+</Geometry>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="3.80736" R="0.0890701" M="1"/>
+<Y V="33.7" R="0.728176" M="2"/>
+</MoveTo>
+<CurveTo>
+<X V="3.49736" R="0.0818179" M="1"/>
+<Y V="32.55" R="0.703328" M="2"/>
+<A V="3.61362" R="0.0845377" M="1"/>
+<B V="33.3469" R="0.720548" M="2"/>
+<C V="3.50732" R="0.0820508" M="1"/>
+<D V="32.9526" R="0.712027" M="2"/>
+</CurveTo>
+<LineTo>
+<X V="3.66736" R="0.0857949" M="1"/>
+<Y V="32.55" R="0.703328" M="2"/>
+</LineTo>
+<CurveTo>
+<X V="7.24736" R="0.169546" M="1"/>
+<Y V="28.93" R="0.625108" M="2"/>
+<A V="5.64645" R="0.132094" M="1"/>
+<B V="32.5174" R="0.702623" M="2"/>
+<C V="7.23675" R="0.169298" M="1"/>
+<D V="30.9093" R="0.667877" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="6.24736" R="0.146152" M="1"/>
+<Y V="26.48" R="0.572169" M="2"/>
+<A V="7.24018" R="0.169378" M="1"/>
+<B V="28.0154" R="0.605345" M="2"/>
+<C V="6.88223" R="0.161004" M="1"/>
+<D V="27.1384" R="0.586396" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="7.97736" R="0.186624" M="1"/>
+<Y V="24.48" R="0.528954" M="2"/>
+<A V="6.77736" R="0.158551" M="1"/>
+<B V="25.83" R="0.558124" M="2"/>
+<C V="7.33736" R="0.171652" M="1"/>
+<D V="25.17" R="0.543863" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="12.8474" R="0.300553" M="1"/>
+<Y V="28.39" R="0.61344" M="2"/>
+<A V="9.51475" R="0.22259" M="1"/>
+<B V="25.8869" R="0.559354" M="2"/>
+<C V="11.1415" R="0.260646" M="1"/>
+<D V="27.193" R="0.587575" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="13.8474" R="0.323948" M="1"/>
+<Y V="34.56" R="0.746759" M="2"/>
+<A V="13.045" R="0.305177" M="1"/>
+<B V="30.4664" R="0.658305" M="2"/>
+<C V="13.379" R="0.312992" M="1"/>
+<D V="32.5275" R="0.702841" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="3.75736" R="0.0879004" M="1"/>
+<Y V="33.7" R="0.728176" M="2"/>
+<A V="8.63736" R="0.202064" M="1"/>
+<B V="35.91" R="0.775929" M="2"/>
+<C V="4.80736" R="0.112464" M="1"/>
+<D V="35.53" R="0.767718" M="2"/>
+</CurveTo>
+<LineTo>
+<X V="3.80736" R="0.0890701" M="1"/>
+<Y V="33.7" R="0.728176" M="2"/>
+</LineTo>
+</Geometry>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="22.0774" R="0.516482" M="1"/>
+<Y V="44.28" R="0.956785" M="2"/>
+</MoveTo>
+<CurveTo>
+<X V="16.2574" R="0.380328" M="1"/>
+<Y V="35.98" R="0.777442" M="2"/>
+<A V="19.9674" R="0.46712" M="1"/>
+<B V="44.28" R="0.956785" M="2"/>
+<C V="17.7274" R="0.414717" M="1"/>
+<D V="41.15" R="0.889153" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="22.0674" R="0.516248" M="1"/>
+<Y V="33.75" R="0.729257" M="2"/>
+<A V="18.2409" R="0.426731" M="1"/>
+<B V="35.365" R="0.764154" M="2"/>
+<C V="20.1818" R="0.472136" M="1"/>
+<D V="34.6201" R="0.748057" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="27.8874" R="0.652402" M="1"/>
+<Y V="35.99" R="0.777658" M="2"/>
+<A V="23.9564" R="0.56044" M="1"/>
+<B V="34.6229" R="0.748118" M="2"/>
+<C V="25.9005" R="0.605922" M="1"/>
+<D V="35.3712" R="0.764286" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="22.0774" R="0.516482" M="1"/>
+<Y V="44.28" R="0.956785" M="2"/>
+<A V="26.4174" R="0.618012" M="1"/>
+<B V="41.13" R="0.888721" M="2"/>
+<C V="24.1774" R="0.56561" M="1"/>
+<D V="44.28" R="0.956785" M="2"/>
+</CurveTo>
+</Geometry>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="37.3474" R="0.873711" M="1"/>
+<Y V="37.95" R="0.820009" M="2"/>
+</MoveTo>
+<CurveTo>
+<X V="35.7074" R="0.835344" M="1"/>
+<Y V="36.31" R="0.784572" M="2"/>
+<A V="36.4416" R="0.852522" M="1"/>
+<B V="37.95" R="0.820009" M="2"/>
+<C V="35.7074" R="0.835344" M="1"/>
+<D V="37.2157" R="0.804143" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="37.3474" R="0.873711" M="1"/>
+<Y V="34.67" R="0.749136" M="2"/>
+<A V="35.7074" R="0.835344" M="1"/>
+<B V="35.4043" R="0.765001" M="2"/>
+<C V="36.4416" R="0.852522" M="1"/>
+<D V="34.67" R="0.749136" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="38.9874" R="0.912077" M="1"/>
+<Y V="36.31" R="0.784572" M="2"/>
+<A V="38.2531" R="0.8949" M="1"/>
+<B V="34.67" R="0.749136" M="2"/>
+<C V="38.9874" R="0.912077" M="1"/>
+<D V="35.4043" R="0.765001" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="37.3474" R="0.873711" M="1"/>
+<Y V="37.95" R="0.820009" M="2"/>
+<A V="38.9874" R="0.912077" M="1"/>
+<B V="37.2157" R="0.804143" M="2"/>
+<C V="38.2531" R="0.8949" M="1"/>
+<D V="37.95" R="0.820009" M="2"/>
+</CurveTo>
+</Geometry>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="40.3474" R="0.943893" M="1"/>
+<Y V="33.71" R="0.728392" M="2"/>
+</MoveTo>
+<CurveTo>
+<X V="40.1174" R="0.938513" M="1"/>
+<Y V="34.01" R="0.734875" M="2"/>
+<A V="40.2771" R="0.942249" M="1"/>
+<B V="33.8147" R="0.730655" M="2"/>
+<C V="40.2003" R="0.940452" M="1"/>
+<D V="33.9149" R="0.732821" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="37.3474" R="0.873711" M="1"/>
+<Y V="32.68" R="0.706137" M="2"/>
+<A V="39.4391" R="0.922645" M="1"/>
+<B V="33.1751" R="0.716834" M="2"/>
+<C V="38.423" R="0.898875" M="1"/>
+<D V="32.6872" R="0.706293" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="33.8774" R="0.792533" M="1"/>
+<Y V="35.27" R="0.7621" M="2"/>
+<A V="35.7482" R="0.8363" M="1"/>
+<B V="32.69" R="0.706352" M="2"/>
+<C V="34.3417" R="0.803397" M="1"/>
+<D V="33.7397" R="0.729035" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="30.3474" R="0.709952" M="1"/>
+<Y V="34.6" R="0.747623" M="2"/>
+<A V="32.6868" R="0.764681" M="1"/>
+<B V="35.1274" R="0.75902" M="2"/>
+<C V="31.5074" R="0.737089" M="1"/>
+<D V="34.9036" R="0.754183" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="31.3474" R="0.733346" M="1"/>
+<Y V="28.43" R="0.614304" M="2"/>
+<A V="30.8157" R="0.720908" M="1"/>
+<B V="32.5675" R="0.703706" M="2"/>
+<C V="31.1497" R="0.728723" M="1"/>
+<D V="30.5064" R="0.65917" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="36.1974" R="0.846808" M="1"/>
+<Y V="24.53" R="0.530035" M="2"/>
+<A V="33.0509" R="0.7732" M="1"/>
+<B V="27.2419" R="0.588633" M="2"/>
+<C V="34.6714" R="0.811108" M="1"/>
+<D V="25.9389" R="0.560478" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="40.3474" R="0.943893" M="1"/>
+<Y V="33.71" R="0.728392" M="2"/>
+<A V="39.8574" R="0.93243" M="1"/>
+<B V="28.38" R="0.613224" M="2"/>
+<C V="41.4374" R="0.969393" M="1"/>
+<D V="31.88" R="0.68885" M="2"/>
+</CurveTo>
+</Geometry>
+</Geometries>
+</Shape>
+<GroupProps>
+<SelectMode V="1"/>
+<GroupShadow V="FALSE"/>
+</GroupProps>
+</Shape>
+<GroupProps>
+<SelectMode V="1"/>
+<GroupShadow V="FALSE"/>
+</GroupProps>
+</Shape>
+-->
+        </Item>
+        <Item PromptU="Quantum-Technologies" NameU="Quantum-Technologies">
+            <!--<Shape ID="125" Version="10.1.3" Type="Group">
+<Transform>
+<Width V="100"/>
+<Height V="100"/>
+<Angle V="0"/>
+<GPinX V="50"/>
+<GPinY V="50"/>
+<LocPinX V="50" R="0.5" M="1"/>
+<LocPinY V="50" R="0.5" M="2"/>
+<FlipX V="0"/>
+<FlipY V="0"/>
+</Transform>
+<Misc/>
+<ShapeFormat QuickMask="0">
+<FillFormat Type="None"/>
+<LineFormat>
+<LineWeight V="1"/>
+<LineCap V="Flat"/>
+<LinePattern ID="1"/>
+<BeginArrow ID="0" Size="4"/>
+<EndArrow ID="0" Size="4"/>
+<LineFill Type="Solid">
+<Color V="#ff000000"/>
+</LineFill>
+</LineFormat>
+<EffectFormat>
+<Shadow Mode="0"/>
+</EffectFormat>
+</ShapeFormat>
+<Shape ID="120" Version="10.1.3" Type="Image">
+<Transform>
+<Width V="97.2" R="0.972" M="3"/>
+<Height V="97.2" R="0.972" M="4"/>
+<Angle V="0"/>
+<GPinX V="49.52" R="0.4952" M="3"/>
+<GPinY V="50.6" R="0.506" M="4"/>
+<LocPinX V="48.6" R="0.5" M="1"/>
+<LocPinY V="48.6" R="0.5" M="2"/>
+<FlipX V="0"/>
+<FlipY V="0"/>
+</Transform>
+<Misc/>
+<ShapeFormat QuickMask="0">
+<FillFormat Type="None"/>
+<LineFormat>
+<LineWeight V="1"/>
+<LineCap V="Flat"/>
+<LinePattern ID="1"/>
+<BeginArrow ID="0" Size="4"/>
+<EndArrow ID="0" Size="4"/>
+<LineFill Type="Solid">
+<Color V="#ff000000"/>
+</LineFill>
+</LineFormat>
+<EffectFormat>
+<Shadow Mode="0"/>
+</EffectFormat>
+</ShapeFormat>
+<Data Hash="NYV2vEhYAlGBmIBgTTImfpa/3Ko="><![CDATA[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e0yAr6idjWTPVEa3pYak9by+S7rVG1nNama/JyjArVmNXaezj5Ofp/vsqER/nNmhr9Hvtuf9ZYBbFI1pJ/+gHh3++tTx8U/MVHacHOcTFOBe7I55X/bIzEdH5aPe9Jf8YwIkusnx86vOVFqnC1IAt2y1gelL+4yofPk/AsCD+PDx+BZmKgDcCFEBII2oAJBGVABIIyoApBEVANKICgBpRAWANKICQBpRASCNqACQRlQASCMqAKQRFQDSiAoAaUQFgDSiAkAaUQEgjagAkEZUAEgjKgCkERUA0ogKAGlEBYA0ogJAGlEBII2oAJBGVABIIyoApBEVANKICgBpRAWANKICQBpRASCNqACQRlQASCMqAKQRFQDSiAoAaUQFgDSiAkAaUQEgjagAkEZUAEgjKgCkERUA0ogKAGlEBYA0ogJAGlEBII2oAJBGVABIIyoApBEVANKICgBpRAWANKICQBpRASCNqACQRlQASCMqAKQRFQDSiAoAaUQFgDSiAkAaUQEgjagAkEZUAEgjKgCkERUA0ogKAGlEBYA0ogJAGlEBII2oAJBGVABIIyoApBEVANKICgBpRAWANKICQBpRASCNqACQRlQASCMqAKQRFQDSiAoAaUQFgDSiAkAaUQEgjagAkEZUAEgjKgCkERUA0ogKAGlEBYA0ogJAGlEBII2oAJBGVABIIyoApBEVANKICgBpRAWANKICQBpRASCNqACQRlQASCMqAKQRFQDSiAoAaUQFgDSiAkAaUQEgjagAkEZUAEgjKgCkERUA0ogKAGlEBYA0ogJAGlEBII2oAJBGVABIIyoApBEVANKICgBpRAWANKICQBpRASCNqACQRlQASCMqAKQRFQDSiAoAaUQFgDSiAkAaUQEgjagAkEZUAEgjKgCkERUA0ogKAGlEBYA0ogJAGlEBII2oAJBGVABIIyoApBEVANKICgBpRAWANKICQBpRASCNqACQRlQASCMqAKQRFQDSiAoAaUQFgDSiAkAaUQEgjagAkEZUAEgjKgCkERUA0ogKAGlEBYA0ogJAGlEBII2oAJBGVABIIyoApBEVANKICgBpRAWANKICQBpRASCNqACQRlQASCMqAKQRFQDSiAoAaUQFgDSiAkAaUQEgjagAkEZUAEgjKgCkERUA0ogKAGlEBYA0ogJAGlEBII2oAJBGVABIIyoApBEVANKICgBpRAWANKICQBpRASCNqACQRlQASCMqAKQRFQDSiAoAaUQFgDSiAkAaUQEgjagAkEZUAEgjKgCkERUA0ogKAGlEBYA0ogJAGlEBII2oAJBGVABIIyoApBEVANKICgBpRAWANKICQBpRASCNqACQRlQASCMqAKQRFQDSiAoAaUQFgDSiAkAaUQEgjagAkEZUAEgjKgCkERUA0ogKAGlEBYA0ogJAGlEBII2oAJBGVABIIyoApBEVANKICgBpRAWANKICQBpRASCNqACQRlQASCMqAKQRFQDSiAoAaUQFgDSiAkAaUQEgjagAkEZUAEgjKgCkERUA0ogKAGlEBYA0ogJAGlEBII2oAJBGVABIIyoApBEVANKICgBpRAWANKICQBpRASCNqACQRlQASCMqAKQRFQDSiAoAaUQFgDSiAkAaUQEgjagAkEZUAEgjKgCkERUA0ogKAGlEBYA0ogJAGlEBII2oAJBGVABIIyoApBEVANKICgBpRAWANKICQBpRASDNZ0Tlxyc8BwBrHz4e38JM5UcZ/yEEC7g3s/Huy495Hx2Vj/oDfPk/LMCVbnL8/KozlR9lv8oCA9yL3THvy85aPjsqP5rz/vLqj/RjcN5fBrhF0ZgWjXfR7/VjaH/50/yJmcrqDfY/3/3jfNlyA0yc/IM6Gh9Xj/2p/vqgx91986sFqdnPn5qfP208JsBXt3MEZmd8XN32Yf8Iz4zK7I2uZh+zQ2DR7TUoT819SnkbF4BbMfpH+Mn4ODr8NXqO/vdTXBqVkxfQlzerxNFMxSwFuGXZM5XdMXf1ONuumanMiri6z7UzldbT5GcAtyZapL92prKzNp2yuH/t4a+TFxf9UaI/SD29lp/BeAp+r38uh72AexDNKqKx8TW4fTXGRo+5eg3HstdU2vN6Oarna3n7h4muPzeXqxqZ0p336y0At2K2nlLPo5jMxs/+vu3jjMKVIisqq1lJ+weIqhtVuM5UWqOo9PcBuBWnUelPs/G0v72UeHyOXsdFMqIyWxvp3+Toj/JaSvn+6/T86/Q9eJ76uZooKGIC3LLZDKKdhdSxsr1cr6/CMzts1r+Gi1wSldXUaRSWUUja8/b2/jmj3V6iAtyL06hE42Y0no5mNTuHwo4jcxKV6Nhc/0J2QxKV9t/ycybSx6HOUJ7L7/UVUQHuzWyA78fUOma2p9MZzGymMhrvl2ZR6WcFs/tEC0fRH6E9tX+Ml/I7HO3zvTY/eyp7ayoAt2z2D/Z2JtJHZRSZKC7ReL17CGwamT4q7WGm0WAdlS1aQ4mKGQWljcpT95h1dvJU3oalFLMU4P6MZivR2FrHz29lPyztuDxaYynB9dlrfXOf3cNfo4KNDneNgtK/4W/l/eykfazn8jM4ogI8gkui8m8p5Z/mFEVmFJbR4bDoNW0dAtuJSr9IvrsQP4rJt1/P+1d5P0Mp3e+3PxcV4N7tRKVfi26j8i04jeJyspC/HZZrv6YlistsdhIFpX+8+nvtOstsTaW/DHCrZlGZLdbXoPynxIFZzVpmu8KOnEbldJYSBeWlzGcoNTrPJZ6plOAc4J6Mdn+NFutrPP4pb8PSxmW0U+xk2/HSyZpKX9DToLQx6Rfl2+r2M5k2KqWYqQD3azRTKeX9rtponK0h+U+J43Ialva1pK2ptKKCjQ571TfcBiXa5TUKiqgAj+Y0Km1Y+tlKfyisDctoV9hojN926SfqZ8f4dmJSyvug1Kj0v2M9BXgku+sq0T/g29nKP6WU/y2/AxMt4I8+w3Lx2koUlX63V2muz9ZS2jdXo1C3DPc7t0p5P4WL1lx2ohJdB7hFs+28q3/IR2G55jDYaBdYtCvs/52sqcy2FUdv8Lk7le53+8LOZintoS+zFODejdYzRofA+rD0u8H+U+IdYX1QrtpOXMr5d3/1M5a+mM/lfVD6EPRrMP02491ZiqAA9ywa1HdmK31Y/innM5XljGRk98OPpcSHwGZh6WMQ1TUKys4sZRUUwQFuwWqw7oNSyt5spT8U1p6frqlEr2FoFJV2VvIU3FbfUB3ov5e3EYmCEm2FmwWln6XsBEVMgFs0G6xXyw47YbnkU/ajmcp09nLJluL+zdW49GEp3X37N/9S4qBE3/VlgR54JLsL9nV9OgpLPRr07+Q8CsqnbCke7QSrQenD0v/uKCq7QREV4JHsRGUVluhLfGf/B8tr95ijHV9Tq/9PJfoa/P6JXn9djwb42e6wPianh70EBbhnJ2Fpx9jRrKU/by/vfk5luXB/uvurv/4a3bH5ef+mX8rbWUq/7Xj0PV9RQEQFuGfRwN3PIPpF+9E6y+zUxujqQ2CrqIxmK/Vn7RuLfjeaqUSzk6dyvoVYVIB7tpolRGNsP96Ozr8H94u2Es+eP3TpQn3rtbz9/+Pr/drTc3O/uu14NDtZBUVMgEcy23kVra9Es5boEFn0CfpPWagfbS9urcIympHsrKGYoQCP7GTGMpq1RLGJfj6KydYspZTLv1Cy/26wUn7vAKv3eS5v32Q0IxEUgLVLwhLNYGbnUVCOZimlnA3SowF/9KHHUTiikJx8DYuwAI9kNLCvwhIFZhaRUVCOAnNJVNrL0Q6tVWR2Y+KT88Cjmw3ks8H/9FSCy/3zp0elv/9q5tJeHt02e5xLXh/AI1gt3tfzKBq7ITkOSimXDdqjQX8Vl9ltq8cG4K3RoD+Ky85tq8deunTgni2gr2YguxERFYCx0eL96PIlM5IPXajf+f3dWczO7wOwZxWD09nIcUyqrEH8JBZ2dQHkW+0Si+6TFpMqeyCPHu+S2YjAAKztRGAnHFfHpHrJeqCOKAB8vEuicvr7Rz5j8L9m2zIAc6dhSA9J608M4KIB8Hk+NCK9rzjAf8XXBPBVfWo0AAAAAOCB/R+f2K8WEmQdIAAAAABJRU5ErkJggg==]]></Data>
+<ImageFormat Transparency="0" Contrast="0" Brightness="0"/>
+</Shape>
+<Shape ID="121" Version="10.1.3" Type="Shape">
+<Transform>
+<Width V="82" R="0.82" M="3"/>
+<Height V="82" R="0.82" M="4"/>
+<Angle V="0"/>
+<GPinX V="49.5" R="0.495" M="3"/>
+<GPinY V="49.5" R="0.495" M="4"/>
+<LocPinX V="41" R="0.5" M="1"/>
+<LocPinY V="41" R="0.5" M="2"/>
+<FlipX V="0"/>
+<FlipY V="0"/>
+</Transform>
+<Misc/>
+<ShapeFormat QuickMask="0">
+<FillFormat Type="Solid">
+<Color V="#ffd86613"/>
+</FillFormat>
+<LineFormat>
+<LineWeight V="1"/>
+<LineCap V="Flat"/>
+<LinePattern ID="1"/>
+<BeginArrow ID="0" Size="4"/>
+<EndArrow ID="0" Size="4"/>
+<LineFill Type="None"/>
+</LineFormat>
+<EffectFormat>
+<Shadow Mode="0"/>
+</EffectFormat>
+</ShapeFormat>
+<Geometries>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="0"/>
+<Y V="0"/>
+</MoveTo>
+<LineTo>
+<X V="82" R="1" M="1"/>
+<Y V="0"/>
+</LineTo>
+<LineTo>
+<X V="82" R="1" M="1"/>
+<Y V="82" R="1" M="2"/>
+</LineTo>
+<LineTo>
+<X V="0"/>
+<Y V="82" R="1" M="2"/>
+</LineTo>
+<LineTo>
+<X V="0"/>
+<Y V="0"/>
+</LineTo>
+</Geometry>
+</Geometries>
+</Shape>
+<Shape ID="122" Version="10.1.3" Type="Shape">
+<Transform>
+<Width V="85" R="0.85" M="3"/>
+<Height V="85" R="0.85" M="4"/>
+<Angle V="0"/>
+<GPinX V="49.5" R="0.495" M="3"/>
+<GPinY V="49.5" R="0.495" M="4"/>
+<LocPinX V="42.5" R="0.5" M="1"/>
+<LocPinY V="42.5" R="0.5" M="2"/>
+<FlipX V="0"/>
+<FlipY V="0"/>
+</Transform>
+<Misc/>
+<ShapeFormat QuickMask="0">
+<FillFormat Type="Solid">
+<Color V="#ffffffff"/>
+</FillFormat>
+<LineFormat>
+<LineWeight V="1"/>
+<LineCap V="Flat"/>
+<LinePattern ID="1"/>
+<BeginArrow ID="0" Size="4"/>
+<EndArrow ID="0" Size="4"/>
+<LineFill Type="None"/>
+</LineFormat>
+<EffectFormat>
+<Shadow Mode="0"/>
+</EffectFormat>
+</ShapeFormat>
+<Geometries>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="82" R="0.964706" M="1"/>
+<Y V="3" R="0.0352941" M="2"/>
+</MoveTo>
+<LineTo>
+<X V="82" R="0.964706" M="1"/>
+<Y V="82" R="0.964706" M="2"/>
+</LineTo>
+<LineTo>
+<X V="3" R="0.0352941" M="1"/>
+<Y V="82" R="0.964706" M="2"/>
+</LineTo>
+<LineTo>
+<X V="3" R="0.0352941" M="1"/>
+<Y V="3" R="0.0352941" M="2"/>
+</LineTo>
+<LineTo>
+<X V="82" R="0.964706" M="1"/>
+<Y V="3" R="0.0352941" M="2"/>
+</LineTo>
+</Geometry>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="85" R="1" M="1"/>
+<Y V="0"/>
+</MoveTo>
+<LineTo>
+<X V="0"/>
+<Y V="0"/>
+</LineTo>
+<LineTo>
+<X V="0"/>
+<Y V="85" R="1" M="2"/>
+</LineTo>
+<LineTo>
+<X V="85" R="1" M="1"/>
+<Y V="85" R="1" M="2"/>
+</LineTo>
+<LineTo>
+<X V="85" R="1" M="1"/>
+<Y V="0"/>
+</LineTo>
+</Geometry>
+</Geometries>
+</Shape>
+<Shape ID="123" Version="10.1.3" Type="Shape">
+<Transform>
+<Width V="100" R="1" M="3"/>
+<Height V="100" R="1" M="4"/>
+<Angle V="0"/>
+<GPinX V="50" R="0.5" M="3"/>
+<GPinY V="50" R="0.5" M="4"/>
+<LocPinX V="50" R="0.5" M="1"/>
+<LocPinY V="50" R="0.5" M="2"/>
+<FlipX V="0"/>
+<FlipY V="0"/>
+</Transform>
+<Misc/>
+<ShapeFormat QuickMask="0">
+<FillFormat Type="None"/>
+<LineFormat>
+<LineWeight V="1"/>
+<LineCap V="Flat"/>
+<LinePattern ID="1"/>
+<BeginArrow ID="0" Size="4"/>
+<EndArrow ID="0" Size="4"/>
+<LineFill Type="None"/>
+</LineFormat>
+<EffectFormat>
+<Shadow Mode="0"/>
+</EffectFormat>
+</ShapeFormat>
+<Geometries>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="0"/>
+<Y V="0"/>
+</MoveTo>
+<LineTo>
+<X V="100" R="1" M="1"/>
+<Y V="0"/>
+</LineTo>
+<LineTo>
+<X V="100" R="1" M="1"/>
+<Y V="100" R="1" M="2"/>
+</LineTo>
+<LineTo>
+<X V="0"/>
+<Y V="100" R="1" M="2"/>
+</LineTo>
+<LineTo>
+<X V="0"/>
+<Y V="0"/>
+</LineTo>
+</Geometry>
+</Geometries>
+</Shape>
+<Shape ID="124" Version="10.1.3" Type="Shape">
+<Transform>
+<Width V="42.7457" R="0.427457" M="3"/>
+<Height V="46.28" R="0.4628" M="4"/>
+<Angle V="0"/>
+<GPinX V="50" R="0.5" M="3"/>
+<GPinY V="50" R="0.5" M="4"/>
+<LocPinX V="21.3728" R="0.5" M="1"/>
+<LocPinY V="23.14" R="0.5" M="2"/>
+<FlipX V="0"/>
+<FlipY V="0"/>
+</Transform>
+<Misc/>
+<ShapeFormat QuickMask="0">
+<FillFormat Type="Solid">
+<Color V="#ffffffff"/>
+</FillFormat>
+<LineFormat>
+<LineWeight V="1"/>
+<LineCap V="Flat"/>
+<LinePattern ID="1"/>
+<BeginArrow ID="0" Size="4"/>
+<EndArrow ID="0" Size="4"/>
+<LineFill Type="None"/>
+</LineFormat>
+<EffectFormat>
+<Shadow Mode="0"/>
+</EffectFormat>
+</ShapeFormat>
+<Geometries>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="39.3974" R="0.921669" M="1"/>
+<Y V="21.13" R="0.456569" M="2"/>
+</MoveTo>
+<CurveTo>
+<X V="42.1274" R="0.985535" M="1"/>
+<Y V="11.59" R="0.250432" M="2"/>
+<A V="42.5074" R="0.994425" M="1"/>
+<B V="17.31" R="0.374028" M="2"/>
+<C V="43.4674" R="1.01688" M="1"/>
+<D V="13.92" R="0.300778" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="29.8274" R="0.697787" M="1"/>
+<Y V="9.76" R="0.21089" M="2"/>
+<A V="40.5074" R="0.947636" M="1"/>
+<B V="8.78" R="0.189715" M="2"/>
+<C V="35.7974" R="0.83745" M="1"/>
+<D V="8.26" R="0.178479" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="29.2974" R="0.685388" M="1"/>
+<Y V="8.05" R="0.173941" M="2"/>
+<A V="29.6574" R="0.69381" M="1"/>
+<B V="9.17" R="0.198142" M="2"/>
+<C V="29.4874" R="0.689833" M="1"/>
+<D V="8.6" R="0.185825" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="31.4648" R="0.736094" M="1"/>
+<Y V="3.96628" R="0.0857019" M="2"/>
+<A V="30.9026" R="0.72294" M="1"/>
+<B V="7.38124" R="0.159491" M="2"/>
+<C V="31.8105" R="0.744182" M="1"/>
+<D V="5.6705" R="0.122526" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="27.8774" R="0.652168" M="1"/>
+<Y V="1.05" R="0.022688" M="2"/>
+<A V="31.1191" R="0.728006" M="1"/>
+<B V="2.26206" R="0.0488778" M="2"/>
+<C V="29.6163" R="0.692848" M="1"/>
+<D V="1.04038" R="0.0224802" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="25.7674" R="0.602806" M="1"/>
+<Y V="1.74" R="0.0375972" M="2"/>
+<A V="27.1189" R="0.634424" M="1"/>
+<B V="1.05199" R="0.0227309" M="2"/>
+<C V="26.3804" R="0.617149" M="1"/>
+<D V="1.29347" R="0.0279488" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="22.0774" R="0.516482" M="1"/>
+<Y V="0"/>
+<A V="24.8222" R="0.580696" M="1"/>
+<B V="0.686271" R="0.0148287" M="2"/>
+<C V="23.4916" R="0.549567" M="1"/>
+<D V="0"/>
+</CurveTo>
+<CurveTo>
+<X V="14.3374" R="0.335411" M="1"/>
+<Y V="9.75" R="0.210674" M="2"/>
+<A V="18.8374" R="0.440685" M="1"/>
+<B V="0"/>
+<C V="16.0774" R="0.376117" M="1"/>
+<D V="3.82" R="0.0825411" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="2.02736" R="0.0474284" M="1"/>
+<Y V="11.58" R="0.250216" M="2"/>
+<A V="8.33736" R="0.195046" M="1"/>
+<B V="8.25" R="0.178263" M="2"/>
+<C V="3.64736" R="0.085327" M="1"/>
+<D V="8.75" R="0.189067" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="4.74736" R="0.111061" M="1"/>
+<Y V="21.12" R="0.456353" M="2"/>
+<A V="0.67736" R="0.0158463" M="1"/>
+<B V="13.91" R="0.300562" M="2"/>
+<C V="1.64736" R="0.0385386" M="1"/>
+<D V="17.3" R="0.373812" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="6.57736" R="0.153872" M="1"/>
+<Y V="23.14" R="0.5" M="2"/>
+<A V="5.29736" R="0.123927" M="1"/>
+<B V="21.79" R="0.47083" M="2"/>
+<C V="5.92736" R="0.138666" M="1"/>
+<D V="22.47" R="0.485523" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="4.57736" R="0.107084" M="1"/>
+<Y V="25.43" R="0.549481" M="2"/>
+<A V="5.82736" R="0.136326" M="1"/>
+<B V="23.9" R="0.516422" M="2"/>
+<C V="5.15736" R="0.120652" M="1"/>
+<D V="24.67" R="0.53306" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="3.63736" R="0.0850931" M="1"/>
+<Y V="25.29" R="0.546456" M="2"/>
+<A V="4.27139" R="0.0999258" M="1"/>
+<B V="25.3429" R="0.547599" M="2"/>
+<C V="3.95543" R="0.092534" M="1"/>
+<D V="25.2958" R="0.546583" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="0.180785" R="0.00422931" M="1"/>
+<Y V="27.7895" R="0.600464" M="2"/>
+<A V="2.06554" R="0.0483217" M="1"/>
+<B V="25.2869" R="0.54639" M="2"/>
+<C V="0.670317" R="0.0156815" M="1"/>
+<D V="26.2958" R="0.568189" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="1.48736" R="0.0347956" M="1"/>
+<Y V="31.85" R="0.688202" M="2"/>
+<A V="-0.308748" R="-0.0072229" M="1"/>
+<B V="29.2831" R="0.632738" M="2"/>
+<C V="0.218644" R="0.00511499" M="1"/>
+<D V="30.9221" R="0.668153" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="2.04736" R="0.0478963" M="1"/>
+<Y V="34.7" R="0.749784" M="2"/>
+<A V="1.37119" R="0.032078" M="1"/>
+<B V="32.8352" R="0.70949" M="2"/>
+<C V="1.56706" R="0.0366601" M="1"/>
+<D V="33.832" R="0.731029" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="8.44736" R="0.197619" M="1"/>
+<Y V="37.36" R="0.80726" M="2"/>
+<A V="3.04736" R="0.0712905" M="1"/>
+<B V="36.5" R="0.788678" M="2"/>
+<C V="5.36736" R="0.125565" M="1"/>
+<D V="37.36" R="0.80726" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="14.3474" R="0.335645" M="1"/>
+<Y V="36.53" R="0.789326" M="2"/>
+<A V="10.4401" R="0.244237" M="1"/>
+<B V="37.3195" R="0.806385" M="2"/>
+<C V="12.4208" R="0.290575" M="1"/>
+<D V="37.0409" R="0.800364" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="22.0874" R="0.516716" M="1"/>
+<Y V="46.28" R="1" M="2"/>
+<A V="16.0374" R="0.375181" M="1"/>
+<B V="42.47" R="0.917675" M="2"/>
+<C V="18.8474" R="0.440919" M="1"/>
+<D V="46.28" R="1" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="29.8174" R="0.697553" M="1"/>
+<Y V="36.54" R="0.789542" M="2"/>
+<A V="25.3274" R="0.592513" M="1"/>
+<B V="46.28" R="1" M="2"/>
+<C V="28.0874" R="0.657081" M="1"/>
+<D V="42.47" R="0.917675" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="33.8874" R="0.792767" M="1"/>
+<Y V="37.28" R="0.805532" M="2"/>
+<A V="31.1544" R="0.728831" M="1"/>
+<B V="36.8846" R="0.796988" M="2"/>
+<C V="32.5146" R="0.760653" M="1"/>
+<D V="37.1319" R="0.802331" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="37.8917" R="0.886446" M="1"/>
+<Y V="39.9128" R="0.86242" M="2"/>
+<A V="34.3709" R="0.804078" M="1"/>
+<B V="39.0392" R="0.843544" M="2"/>
+<C V="36.085" R="0.844179" M="1"/>
+<D V="40.1662" R="0.867895" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="41.0174" R="0.959567" M="1"/>
+<Y V="36.28" R="0.783924" M="2"/>
+<A V="39.6985" R="0.928714" M="1"/>
+<B V="39.6594" R="0.856944" M="2"/>
+<C V="41.0364" R="0.960014" M="1"/>
+<D V="38.1043" R="0.823343" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="41.0174" R="0.959567" M="1"/>
+<Y V="35.94" R="0.776577" M="2"/>
+<A V="41.0174" R="0.959567" M="1"/>
+<B V="36.17" R="0.781547" M="2"/>
+<C V="41.0174" R="0.959567" M="1"/>
+<D V="36.06" R="0.77917" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="42.1774" R="0.986705" M="1"/>
+<Y V="34.67" R="0.749136" M="2"/>
+<A V="41.4842" R="0.970488" M="1"/>
+<B V="35.5975" R="0.769177" M="2"/>
+<C V="41.8784" R="0.979712" M="1"/>
+<D V="35.1658" R="0.75985" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="37.6074" R="0.879793" M="1"/>
+<Y V="23.14" R="0.5" M="2"/>
+<A V="43.7874" R="1.02437" M="1"/>
+<B V="31.87" R="0.688634" M="2"/>
+<C V="41.8874" R="0.97992" M="1"/>
+<D V="27.54" R="0.595073" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="39.3974" R="0.921669" M="1"/>
+<Y V="21.13" R="0.456569" M="2"/>
+<A V="38.2174" R="0.894064" M="1"/>
+<B V="22.46" R="0.485307" M="2"/>
+<C V="38.8474" R="0.908802" M="1"/>
+<D V="21.78" R="0.470614" M="2"/>
+</CurveTo>
+</Geometry>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="40.3974" R="0.945063" M="1"/>
+<Y V="12.59" R="0.27204" M="2"/>
+</MoveTo>
+<CurveTo>
+<X V="37.8574" R="0.885642" M="1"/>
+<Y V="19.86" R="0.429127" M="2"/>
+<A V="41.2874" R="0.965884" M="1"/>
+<B V="14.13" R="0.305315" M="2"/>
+<C V="40.3974" R="0.945063" M="1"/>
+<D V="16.78" R="0.362576" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="36.1374" R="0.845404" M="1"/>
+<Y V="21.77" R="0.470398" M="2"/>
+<A V="37.3374" R="0.873477" M="1"/>
+<B V="20.5" R="0.442956" M="2"/>
+<C V="36.7574" R="0.859908" M="1"/>
+<D V="21.14" R="0.456785" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="31.2774" R="0.731708" M="1"/>
+<Y V="17.86" R="0.385912" M="2"/>
+<A V="34.6041" R="0.809534" M="1"/>
+<B V="20.3624" R="0.439983" M="2"/>
+<C V="32.9806" R="0.771555" M="1"/>
+<D V="19.0563" R="0.411761" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="30.2774" R="0.708314" M="1"/>
+<Y V="11.69" R="0.252593" M="2"/>
+<A V="31.0765" R="0.72701" M="1"/>
+<B V="15.784" R="0.341055" M="2"/>
+<C V="30.7425" R="0.719195" M="1"/>
+<D V="13.7231" R="0.296524" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="40.3474" R="0.943893" M="1"/>
+<Y V="12.56" R="0.271392" M="2"/>
+<A V="35.5174" R="0.8309" M="1"/>
+<B V="10.35" R="0.223639" M="2"/>
+<C V="39.3474" R="0.920499" M="1"/>
+<D V="10.73" R="0.23185" M="2"/>
+</CurveTo>
+<LineTo>
+<X V="40.3974" R="0.945063" M="1"/>
+<Y V="12.59" R="0.27204" M="2"/>
+</LineTo>
+</Geometry>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="25.8074" R="0.603742" M="1"/>
+<Y V="29.59" R="0.639369" M="2"/>
+</MoveTo>
+<CurveTo>
+<X V="22.0974" R="0.51695" M="1"/>
+<Y V="31.59" R="0.682584" M="2"/>
+<A V="24.5474" R="0.574265" M="1"/>
+<B V="30.32" R="0.655143" M="2"/>
+<C V="23.3074" R="0.545257" M="1"/>
+<D V="30.96" R="0.668971" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="18.3674" R="0.429689" M="1"/>
+<Y V="29.59" R="0.639369" M="2"/>
+<A V="20.8474" R="0.487707" M="1"/>
+<B V="30.99" R="0.66962" M="2"/>
+<C V="19.5974" R="0.458464" M="1"/>
+<D V="30.34" R="0.655575" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="14.7974" R="0.346172" M="1"/>
+<Y V="27.34" R="0.590752" M="2"/>
+<A V="17.1374" R="0.400914" M="1"/>
+<B V="28.84" R="0.623163" M="2"/>
+<C V="15.9274" R="0.372608" M="1"/>
+<D V="28.13" R="0.607822" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="14.6374" R="0.342429" M="1"/>
+<Y V="23.14" R="0.5" M="2"/>
+<A V="14.6974" R="0.343833" M="1"/>
+<B V="25.99" R="0.561582" M="2"/>
+<C V="14.6374" R="0.342429" M="1"/>
+<D V="24.59" R="0.531331" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="14.7974" R="0.346172" M="1"/>
+<Y V="18.93" R="0.409032" M="2"/>
+<A V="14.6374" R="0.342429" M="1"/>
+<B V="21.67" R="0.468237" M="2"/>
+<C V="14.6974" R="0.343833" M="1"/>
+<D V="20.28" R="0.438202" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="18.3574" R="0.429455" M="1"/>
+<Y V="16.69" R="0.360631" M="2"/>
+<A V="15.9374" R="0.372841" M="1"/>
+<B V="18.16" R="0.392394" M="2"/>
+<C V="17.1174" R="0.400447" M="1"/>
+<D V="17.4" R="0.375972" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="22.0774" R="0.516482" M="1"/>
+<Y V="14.69" R="0.317416" M="2"/>
+<A V="19.5974" R="0.458464" M="1"/>
+<B V="15.98" R="0.34529" M="2"/>
+<C V="20.8574" R="0.487941" M="1"/>
+<D V="15.31" R="0.330812" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="25.7974" R="0.603508" M="1"/>
+<Y V="16.69" R="0.360631" M="2"/>
+<A V="23.2874" R="0.544789" M="1"/>
+<B V="15.28" R="0.330164" M="2"/>
+<C V="24.5274" R="0.573797" M="1"/>
+<D V="15.93" R="0.344209" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="29.3474" R="0.686557" M="1"/>
+<Y V="18.93" R="0.409032" M="2"/>
+<A V="27.0674" R="0.633219" M="1"/>
+<B V="17.45" R="0.377053" M="2"/>
+<C V="28.2374" R="0.66059" M="1"/>
+<D V="18.13" R="0.391746" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="29.5074" R="0.6903" M="1"/>
+<Y V="23.14" R="0.5" M="2"/>
+<A V="29.4574" R="0.689131" M="1"/>
+<B V="20.3" R="0.438634" M="2"/>
+<C V="29.5074" R="0.6903" M="1"/>
+<D V="21.71" R="0.469101" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="29.3574" R="0.686791" M="1"/>
+<Y V="27.34" R="0.590752" M="2"/>
+<A V="29.5074" R="0.6903" M="1"/>
+<B V="24.55" R="0.530467" M="2"/>
+<C V="29.5074" R="0.6903" M="1"/>
+<D V="25.99" R="0.561582" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="25.7974" R="0.603508" M="1"/>
+<Y V="29.57" R="0.638937" M="2"/>
+<A V="28.2174" R="0.660122" M="1"/>
+<B V="28.13" R="0.607822" M="2"/>
+<C V="27.0274" R="0.632283" M="1"/>
+<D V="28.86" R="0.623596" M="2"/>
+</CurveTo>
+<LineTo>
+<X V="25.8074" R="0.603742" M="1"/>
+<Y V="29.59" R="0.639369" M="2"/>
+</LineTo>
+</Geometry>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="29.1074" R="0.680943" M="1"/>
+<Y V="29.91" R="0.646283" M="2"/>
+</MoveTo>
+<CurveTo>
+<X V="28.3474" R="0.663163" M="1"/>
+<Y V="34.04" R="0.735523" M="2"/>
+<A V="28.9231" R="0.676631" M="1"/>
+<B V="31.2985" R="0.676285" M="2"/>
+<C V="28.6694" R="0.670697" M="1"/>
+<D V="32.6769" R="0.706069" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="24.4074" R="0.57099" M="1"/>
+<Y V="32.59" R="0.704192" M="2"/>
+<A V="27.0674" R="0.633219" M="1"/>
+<B V="33.64" R="0.72688" M="2"/>
+<C V="25.7474" R="0.602338" M="1"/>
+<D V="33.16" R="0.716508" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="26.7674" R="0.6262" M="1"/>
+<Y V="31.3" R="0.676318" M="2"/>
+<A V="25.1874" R="0.589238" M="1"/>
+<B V="32.18" R="0.695333" M="2"/>
+<C V="25.9774" R="0.607719" M="1"/>
+<D V="31.76" R="0.686258" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="29.0974" R="0.680709" M="1"/>
+<Y V="29.89" R="0.645851" M="2"/>
+<A V="27.5574" R="0.644682" M="1"/>
+<B V="30.84" R="0.666379" M="2"/>
+<C V="28.3474" R="0.663163" M="1"/>
+<D V="30.37" R="0.656223" M="2"/>
+</CurveTo>
+<LineTo>
+<X V="29.1074" R="0.680943" M="1"/>
+<Y V="29.91" R="0.646283" M="2"/>
+</LineTo>
+</Geometry>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="19.7374" R="0.461739" M="1"/>
+<Y V="32.62" R="0.70484" M="2"/>
+</MoveTo>
+<CurveTo>
+<X V="15.7374" R="0.368163" M="1"/>
+<Y V="34.07" R="0.736171" M="2"/>
+<A V="18.3574" R="0.429455" M="1"/>
+<B V="33.2" R="0.717373" M="2"/>
+<C V="17.0374" R="0.398575" M="1"/>
+<D V="33.68" R="0.727744" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="15.0174" R="0.351319" M="1"/>
+<Y V="29.91" R="0.646283" M="2"/>
+<A V="15.4474" R="0.361378" M="1"/>
+<B V="32.78" R="0.708297" M="2"/>
+<C V="15.2074" R="0.355764" M="1"/>
+<D V="31.39" R="0.678263" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="17.3274" R="0.405359" M="1"/>
+<Y V="31.32" R="0.67675" M="2"/>
+<A V="15.7674" R="0.368864" M="1"/>
+<B V="30.39" R="0.656655" M="2"/>
+<C V="16.5374" R="0.386878" M="1"/>
+<D V="30.91" R="0.667891" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="19.7274" R="0.461505" M="1"/>
+<Y V="32.6" R="0.704408" M="2"/>
+<A V="18.1174" R="0.423841" M="1"/>
+<B V="31.73" R="0.685609" M="2"/>
+<C V="18.9374" R="0.443024" M="1"/>
+<D V="32.19" R="0.695549" M="2"/>
+</CurveTo>
+<LineTo>
+<X V="19.7374" R="0.461739" M="1"/>
+<Y V="32.62" R="0.70484" M="2"/>
+</LineTo>
+</Geometry>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="12.7374" R="0.29798" M="1"/>
+<Y V="25.85" R="0.558557" M="2"/>
+</MoveTo>
+<CurveTo>
+<X V="9.48736" R="0.221949" M="1"/>
+<Y V="23.14" R="0.5" M="2"/>
+<A V="11.5674" R="0.270609" M="1"/>
+<B V="24.97" R="0.539542" M="2"/>
+<C V="10.4874" R="0.245343" M="1"/>
+<D V="24.06" R="0.519879" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="12.7374" R="0.29798" M="1"/>
+<Y V="20.45" R="0.441876" M="2"/>
+<A V="10.4874" R="0.245343" M="1"/>
+<B V="22.23" R="0.480337" M="2"/>
+<C V="11.5774" R="0.270843" M="1"/>
+<D V="21.33" R="0.46089" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="12.6774" R="0.296576" M="1"/>
+<Y V="23.14" R="0.5" M="2"/>
+<A V="12.6974" R="0.297044" M="1"/>
+<B V="21.33" R="0.46089" M="2"/>
+<C V="12.6774" R="0.296576" M="1"/>
+<D V="22.23" R="0.480337" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="12.6974" R="0.297044" M="1"/>
+<Y V="25.83" R="0.558124" M="2"/>
+<A V="12.6774" R="0.296576" M="1"/>
+<B V="24.07" R="0.520095" M="2"/>
+<C V="12.684" R="0.296732" M="1"/>
+<D V="24.9633" R="0.539398" M="2"/>
+</CurveTo>
+<LineTo>
+<X V="12.7374" R="0.29798" M="1"/>
+<Y V="25.85" R="0.558557" M="2"/>
+</LineTo>
+</Geometry>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="15.0874" R="0.352956" M="1"/>
+<Y V="16.39" R="0.354149" M="2"/>
+</MoveTo>
+<CurveTo>
+<X V="15.8074" R="0.3698" M="1"/>
+<Y V="12.23" R="0.264261" M="2"/>
+<A V="15.2774" R="0.357401" M="1"/>
+<B V="14.9" R="0.321953" M="2"/>
+<C V="15.5174" R="0.363016" M="1"/>
+<D V="13.52" R="0.292135" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="19.8074" R="0.463377" M="1"/>
+<Y V="13.68" R="0.295592" M="2"/>
+<A V="17.1643" R="0.401544" M="1"/>
+<B V="12.6457" R="0.273243" M="2"/>
+<C V="18.4993" R="0.432776" M="1"/>
+<D V="13.1296" R="0.2837" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="17.4374" R="0.407933" M="1"/>
+<Y V="14.98" R="0.323682" M="2"/>
+<A V="19.0174" R="0.444896" M="1"/>
+<B V="14.09" R="0.304451" M="2"/>
+<C V="18.2274" R="0.426414" M="1"/>
+<D V="14.52" R="0.313742" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="15.0474" R="0.352021" M="1"/>
+<Y V="16.37" R="0.353717" M="2"/>
+<A V="16.6474" R="0.389451" M="1"/>
+<B V="15.44" R="0.333621" M="2"/>
+<C V="15.7974" R="0.369566" M="1"/>
+<D V="15.88" R="0.343129" M="2"/>
+</CurveTo>
+<LineTo>
+<X V="15.0874" R="0.352956" M="1"/>
+<Y V="16.39" R="0.354149" M="2"/>
+</LineTo>
+</Geometry>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="24.4574" R="0.57216" M="1"/>
+<Y V="13.68" R="0.295592" M="2"/>
+</MoveTo>
+<CurveTo>
+<X V="28.4574" R="0.665737" M="1"/>
+<Y V="12.23" R="0.264261" M="2"/>
+<A V="25.8374" R="0.604444" M="1"/>
+<B V="13.1" R="0.28306" M="2"/>
+<C V="27.1574" R="0.635324" M="1"/>
+<D V="12.62" R="0.272688" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="29.1774" R="0.68258" M="1"/>
+<Y V="16.38" R="0.353933" M="2"/>
+<A V="28.7474" R="0.672521" M="1"/>
+<B V="13.54" R="0.292567" M="2"/>
+<C V="28.9874" R="0.678136" M="1"/>
+<D V="14.93" R="0.322602" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="26.8774" R="0.628774" M="1"/>
+<Y V="14.98" R="0.323682" M="2"/>
+<A V="28.4274" R="0.665035" M="1"/>
+<B V="15.9" R="0.343561" M="2"/>
+<C V="27.6674" R="0.647255" M="1"/>
+<D V="15.43" R="0.333405" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="24.4174" R="0.571224" M="1"/>
+<Y V="13.66" R="0.29516" M="2"/>
+<A V="26.0874" R="0.610292" M="1"/>
+<B V="14.53" R="0.313959" M="2"/>
+<C V="25.2074" R="0.589706" M="1"/>
+<D V="14.07" R="0.304019" M="2"/>
+</CurveTo>
+<LineTo>
+<X V="24.4574" R="0.57216" M="1"/>
+<Y V="13.68" R="0.295592" M="2"/>
+</LineTo>
+</Geometry>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="31.4574" R="0.735919" M="1"/>
+<Y V="20.45" R="0.441876" M="2"/>
+</MoveTo>
+<CurveTo>
+<X V="34.6974" R="0.811716" M="1"/>
+<Y V="23.14" R="0.5" M="2"/>
+<A V="32.6474" R="0.763758" M="1"/>
+<B V="21.35" R="0.461322" M="2"/>
+<C V="33.7274" R="0.789024" M="1"/>
+<D V="22.26" R="0.480985" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="31.4574" R="0.735919" M="1"/>
+<Y V="25.85" R="0.558557" M="2"/>
+<A V="33.6648" R="0.787561" M="1"/>
+<B V="24.1055" R="0.520862" M="2"/>
+<C V="32.5834" R="0.762261" M="1"/>
+<D V="25.0067" R="0.540335" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="31.5174" R="0.737323" M="1"/>
+<Y V="23.14" R="0.5" M="2"/>
+<A V="31.4974" R="0.736855" M="1"/>
+<B V="24.9567" R="0.539254" M="2"/>
+<C V="31.5174" R="0.737323" M="1"/>
+<D V="24.0567" R="0.519807" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="31.4474" R="0.735685" M="1"/>
+<Y V="20.43" R="0.441443" M="2"/>
+<A V="31.5174" R="0.737323" M="1"/>
+<B V="22.2433" R="0.480625" M="2"/>
+<C V="31.494" R="0.736777" M="1"/>
+<D V="21.3367" R="0.461034" M="2"/>
+</CurveTo>
+<LineTo>
+<X V="31.4574" R="0.735919" M="1"/>
+<Y V="20.45" R="0.441876" M="2"/>
+</LineTo>
+</Geometry>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="27.8774" R="0.652168" M="1"/>
+<Y V="3.03" R="0.065471" M="2"/>
+</MoveTo>
+<CurveTo>
+<X V="29.5174" R="0.690534" M="1"/>
+<Y V="4.67" R="0.100908" M="2"/>
+<A V="28.7831" R="0.673357" M="1"/>
+<B V="3.03" R="0.065471" M="2"/>
+<C V="29.5174" R="0.690534" M="1"/>
+<D V="3.76425" R="0.0813365" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="27.8774" R="0.652168" M="1"/>
+<Y V="6.31" R="0.136344" M="2"/>
+<A V="29.5174" R="0.690534" M="1"/>
+<B V="5.57575" R="0.120479" M="2"/>
+<C V="28.7831" R="0.673357" M="1"/>
+<D V="6.31" R="0.136344" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="26.2374" R="0.613802" M="1"/>
+<Y V="4.67" R="0.100908" M="2"/>
+<A V="26.9716" R="0.630979" M="1"/>
+<B V="6.31" R="0.136344" M="2"/>
+<C V="26.2374" R="0.613802" M="1"/>
+<D V="5.57575" R="0.120479" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="27.8774" R="0.652168" M="1"/>
+<Y V="3.03" R="0.065471" M="2"/>
+<A V="26.2374" R="0.613802" M="1"/>
+<B V="3.76425" R="0.0813365" M="2"/>
+<C V="26.9716" R="0.630979" M="1"/>
+<D V="3.03" R="0.065471" M="2"/>
+</CurveTo>
+</Geometry>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="22.0774" R="0.516482" M="1"/>
+<Y V="2.03" R="0.0438634" M="2"/>
+</MoveTo>
+<CurveTo>
+<X V="24.5074" R="0.57333" M="1"/>
+<Y V="3.35" R="0.0723855" M="2"/>
+<A V="23.0356" R="0.5389" M="1"/>
+<B V="2.11311" R="0.0456592" M="2"/>
+<C V="23.916" R="0.559496" M="1"/>
+<D V="2.59136" R="0.0559932" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="24.2374" R="0.567013" M="1"/>
+<Y V="4.72" R="0.101988" M="2"/>
+<A V="24.3317" R="0.56922" M="1"/>
+<B V="3.78553" R="0.0817962" M="2"/>
+<C V="24.2401" R="0.567077" M="1"/>
+<D V="4.25038" R="0.0918406" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="27.2374" R="0.637196" M="1"/>
+<Y V="8.29" R="0.179127" M="2"/>
+<A V="24.2357" R="0.566973" M="1"/>
+<B V="6.48138" R="0.140047" M="2"/>
+<C V="25.502" R="0.596599" M="1"/>
+<D V="7.98833" R="0.172609" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="27.8874" R="0.652402" M="1"/>
+<Y V="10.29" R="0.222342" M="2"/>
+<A V="27.4674" R="0.642576" M="1"/>
+<B V="8.94" R="0.193172" M="2"/>
+<C V="27.6874" R="0.647723" M="1"/>
+<D V="9.61" R="0.207649" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="22.0674" R="0.516248" M="1"/>
+<Y V="12.54" R="0.270959" M="2"/>
+<A V="25.8982" R="0.605866" M="1"/>
+<B V="10.9059" R="0.235651" M="2"/>
+<C V="23.9536" R="0.560375" M="1"/>
+<D V="11.6577" R="0.251895" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="16.2474" R="0.380094" M="1"/>
+<Y V="10.29" R="0.222342" M="2"/>
+<A V="20.1786" R="0.472062" M="1"/>
+<B V="11.6636" R="0.252023" M="2"/>
+<C V="18.2344" R="0.42658" M="1"/>
+<D V="10.912" R="0.235783" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="22.0774" R="0.516482" M="1"/>
+<Y V="1.98" R="0.0427831" M="2"/>
+<A V="17.7274" R="0.414717" M="1"/>
+<B V="5.13" R="0.110847" M="2"/>
+<C V="19.9674" R="0.46712" M="1"/>
+<D V="1.98" R="0.0427831" M="2"/>
+</CurveTo>
+<LineTo>
+<X V="22.0774" R="0.516482" M="1"/>
+<Y V="2.03" R="0.0438634" M="2"/>
+</LineTo>
+</Geometry>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="6.34736" R="0.148491" M="1"/>
+<Y V="19.83" R="0.428479" M="2"/>
+</MoveTo>
+<CurveTo>
+<X V="3.80736" R="0.0890701" M="1"/>
+<Y V="12.56" R="0.271392" M="2"/>
+<A V="3.84736" R="0.0900058" M="1"/>
+<B V="16.75" R="0.361927" M="2"/>
+<C V="2.91736" R="0.0682492" M="1"/>
+<D V="14.1" R="0.304667" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="13.8874" R="0.324883" M="1"/>
+<Y V="11.66" R="0.251945" M="2"/>
+<A V="4.85736" R="0.113634" M="1"/>
+<B V="10.73" R="0.23185" M="2"/>
+<C V="8.68736" R="0.203234" M="1"/>
+<D V="10.35" R="0.223639" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="12.8874" R="0.301489" M="1"/>
+<Y V="17.83" R="0.385264" M="2"/>
+<A V="13.419" R="0.313927" M="1"/>
+<B V="13.6925" R="0.295862" M="2"/>
+<C V="13.085" R="0.306112" M="1"/>
+<D V="15.7536" R="0.340398" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="8.02736" R="0.187793" M="1"/>
+<Y V="21.73" R="0.469533" M="2"/>
+<A V="11.1872" R="0.261715" M="1"/>
+<B V="19.0268" R="0.411124" M="2"/>
+<C V="9.56398" R="0.223742" M="1"/>
+<D V="20.3294" R="0.439269" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="6.34736" R="0.148491" M="1"/>
+<Y V="19.83" R="0.428479" M="2"/>
+<A V="7.39736" R="0.173055" M="1"/>
+<B V="21.13" R="0.456569" M="2"/>
+<C V="6.81736" R="0.159487" M="1"/>
+<D V="20.47" R="0.442308" M="2"/>
+</CurveTo>
+</Geometry>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="3.66736" R="0.0857949" M="1"/>
+<Y V="27.29" R="0.589672" M="2"/>
+</MoveTo>
+<CurveTo>
+<X V="5.30736" R="0.124161" M="1"/>
+<Y V="28.93" R="0.625108" M="2"/>
+<A V="4.57311" R="0.106984" M="1"/>
+<B V="27.29" R="0.589672" M="2"/>
+<C V="5.30736" R="0.124161" M="1"/>
+<D V="28.0243" R="0.605537" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="3.66736" R="0.0857949" M="1"/>
+<Y V="30.57" R="0.660545" M="2"/>
+<A V="5.30736" R="0.124161" M="1"/>
+<B V="29.8357" R="0.644679" M="2"/>
+<C V="4.57311" R="0.106984" M="1"/>
+<D V="30.57" R="0.660545" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="2.02736" R="0.0474284" M="1"/>
+<Y V="28.93" R="0.625108" M="2"/>
+<A V="2.76161" R="0.0646057" M="1"/>
+<B V="30.57" R="0.660545" M="2"/>
+<C V="2.02736" R="0.0474284" M="1"/>
+<D V="29.8357" R="0.644679" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="3.61736" R="0.0846252" M="1"/>
+<Y V="27.29" R="0.589672" M="2"/>
+<A V="2.02695" R="0.0474188" M="1"/>
+<B V="28.0434" R="0.605951" M="2"/>
+<C V="2.7312" R="0.0638941" M="1"/>
+<D V="27.317" R="0.590256" M="2"/>
+</CurveTo>
+<LineTo>
+<X V="3.66736" R="0.0857949" M="1"/>
+<Y V="27.29" R="0.589672" M="2"/>
+</LineTo>
+</Geometry>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="3.80736" R="0.0890701" M="1"/>
+<Y V="33.7" R="0.728176" M="2"/>
+</MoveTo>
+<CurveTo>
+<X V="3.49736" R="0.0818179" M="1"/>
+<Y V="32.55" R="0.703328" M="2"/>
+<A V="3.61362" R="0.0845377" M="1"/>
+<B V="33.3469" R="0.720548" M="2"/>
+<C V="3.50732" R="0.0820508" M="1"/>
+<D V="32.9526" R="0.712027" M="2"/>
+</CurveTo>
+<LineTo>
+<X V="3.66736" R="0.0857949" M="1"/>
+<Y V="32.55" R="0.703328" M="2"/>
+</LineTo>
+<CurveTo>
+<X V="7.24736" R="0.169546" M="1"/>
+<Y V="28.93" R="0.625108" M="2"/>
+<A V="5.64645" R="0.132094" M="1"/>
+<B V="32.5174" R="0.702623" M="2"/>
+<C V="7.23675" R="0.169298" M="1"/>
+<D V="30.9093" R="0.667877" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="6.24736" R="0.146152" M="1"/>
+<Y V="26.48" R="0.572169" M="2"/>
+<A V="7.24018" R="0.169378" M="1"/>
+<B V="28.0154" R="0.605345" M="2"/>
+<C V="6.88223" R="0.161004" M="1"/>
+<D V="27.1384" R="0.586396" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="7.97736" R="0.186624" M="1"/>
+<Y V="24.48" R="0.528954" M="2"/>
+<A V="6.77736" R="0.158551" M="1"/>
+<B V="25.83" R="0.558124" M="2"/>
+<C V="7.33736" R="0.171652" M="1"/>
+<D V="25.17" R="0.543863" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="12.8474" R="0.300553" M="1"/>
+<Y V="28.39" R="0.61344" M="2"/>
+<A V="9.51475" R="0.22259" M="1"/>
+<B V="25.8869" R="0.559354" M="2"/>
+<C V="11.1415" R="0.260646" M="1"/>
+<D V="27.193" R="0.587575" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="13.8474" R="0.323948" M="1"/>
+<Y V="34.56" R="0.746759" M="2"/>
+<A V="13.045" R="0.305177" M="1"/>
+<B V="30.4664" R="0.658305" M="2"/>
+<C V="13.379" R="0.312992" M="1"/>
+<D V="32.5275" R="0.702841" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="3.75736" R="0.0879004" M="1"/>
+<Y V="33.7" R="0.728176" M="2"/>
+<A V="8.63736" R="0.202064" M="1"/>
+<B V="35.91" R="0.775929" M="2"/>
+<C V="4.80736" R="0.112464" M="1"/>
+<D V="35.53" R="0.767718" M="2"/>
+</CurveTo>
+<LineTo>
+<X V="3.80736" R="0.0890701" M="1"/>
+<Y V="33.7" R="0.728176" M="2"/>
+</LineTo>
+</Geometry>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="22.0774" R="0.516482" M="1"/>
+<Y V="44.28" R="0.956785" M="2"/>
+</MoveTo>
+<CurveTo>
+<X V="16.2574" R="0.380328" M="1"/>
+<Y V="35.98" R="0.777442" M="2"/>
+<A V="19.9674" R="0.46712" M="1"/>
+<B V="44.28" R="0.956785" M="2"/>
+<C V="17.7274" R="0.414717" M="1"/>
+<D V="41.15" R="0.889153" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="22.0674" R="0.516248" M="1"/>
+<Y V="33.75" R="0.729257" M="2"/>
+<A V="18.2409" R="0.426731" M="1"/>
+<B V="35.365" R="0.764154" M="2"/>
+<C V="20.1818" R="0.472136" M="1"/>
+<D V="34.6201" R="0.748057" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="27.8874" R="0.652402" M="1"/>
+<Y V="35.99" R="0.777658" M="2"/>
+<A V="23.9564" R="0.56044" M="1"/>
+<B V="34.6229" R="0.748118" M="2"/>
+<C V="25.9005" R="0.605922" M="1"/>
+<D V="35.3712" R="0.764286" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="22.0774" R="0.516482" M="1"/>
+<Y V="44.28" R="0.956785" M="2"/>
+<A V="26.4174" R="0.618012" M="1"/>
+<B V="41.13" R="0.888721" M="2"/>
+<C V="24.1774" R="0.56561" M="1"/>
+<D V="44.28" R="0.956785" M="2"/>
+</CurveTo>
+</Geometry>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="37.3474" R="0.873711" M="1"/>
+<Y V="37.95" R="0.820009" M="2"/>
+</MoveTo>
+<CurveTo>
+<X V="35.7074" R="0.835344" M="1"/>
+<Y V="36.31" R="0.784572" M="2"/>
+<A V="36.4416" R="0.852522" M="1"/>
+<B V="37.95" R="0.820009" M="2"/>
+<C V="35.7074" R="0.835344" M="1"/>
+<D V="37.2157" R="0.804143" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="37.3474" R="0.873711" M="1"/>
+<Y V="34.67" R="0.749136" M="2"/>
+<A V="35.7074" R="0.835344" M="1"/>
+<B V="35.4043" R="0.765001" M="2"/>
+<C V="36.4416" R="0.852522" M="1"/>
+<D V="34.67" R="0.749136" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="38.9874" R="0.912077" M="1"/>
+<Y V="36.31" R="0.784572" M="2"/>
+<A V="38.2531" R="0.8949" M="1"/>
+<B V="34.67" R="0.749136" M="2"/>
+<C V="38.9874" R="0.912077" M="1"/>
+<D V="35.4043" R="0.765001" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="37.3474" R="0.873711" M="1"/>
+<Y V="37.95" R="0.820009" M="2"/>
+<A V="38.9874" R="0.912077" M="1"/>
+<B V="37.2157" R="0.804143" M="2"/>
+<C V="38.2531" R="0.8949" M="1"/>
+<D V="37.95" R="0.820009" M="2"/>
+</CurveTo>
+</Geometry>
+<Geometry>
+<NoFill V="0"/>
+<NoLine V="0"/>
+<Closed V="1"/>
+<NoShow V="0"/>
+<NoSnap V="1"/>
+<MoveTo>
+<X V="40.3474" R="0.943893" M="1"/>
+<Y V="33.71" R="0.728392" M="2"/>
+</MoveTo>
+<CurveTo>
+<X V="40.1174" R="0.938513" M="1"/>
+<Y V="34.01" R="0.734875" M="2"/>
+<A V="40.2771" R="0.942249" M="1"/>
+<B V="33.8147" R="0.730655" M="2"/>
+<C V="40.2003" R="0.940452" M="1"/>
+<D V="33.9149" R="0.732821" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="37.3474" R="0.873711" M="1"/>
+<Y V="32.68" R="0.706137" M="2"/>
+<A V="39.4391" R="0.922645" M="1"/>
+<B V="33.1751" R="0.716834" M="2"/>
+<C V="38.423" R="0.898875" M="1"/>
+<D V="32.6872" R="0.706293" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="33.8774" R="0.792533" M="1"/>
+<Y V="35.27" R="0.7621" M="2"/>
+<A V="35.7482" R="0.8363" M="1"/>
+<B V="32.69" R="0.706352" M="2"/>
+<C V="34.3417" R="0.803397" M="1"/>
+<D V="33.7397" R="0.729035" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="30.3474" R="0.709952" M="1"/>
+<Y V="34.6" R="0.747623" M="2"/>
+<A V="32.6868" R="0.764681" M="1"/>
+<B V="35.1274" R="0.75902" M="2"/>
+<C V="31.5074" R="0.737089" M="1"/>
+<D V="34.9036" R="0.754183" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="31.3474" R="0.733346" M="1"/>
+<Y V="28.43" R="0.614304" M="2"/>
+<A V="30.8157" R="0.720908" M="1"/>
+<B V="32.5675" R="0.703706" M="2"/>
+<C V="31.1497" R="0.728723" M="1"/>
+<D V="30.5064" R="0.65917" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="36.1974" R="0.846808" M="1"/>
+<Y V="24.53" R="0.530035" M="2"/>
+<A V="33.0509" R="0.7732" M="1"/>
+<B V="27.2419" R="0.588633" M="2"/>
+<C V="34.6714" R="0.811108" M="1"/>
+<D V="25.9389" R="0.560478" M="2"/>
+</CurveTo>
+<CurveTo>
+<X V="40.3474" R="0.943893" M="1"/>
+<Y V="33.71" R="0.728392" M="2"/>
+<A V="39.8574" R="0.93243" M="1"/>
+<B V="28.38" R="0.613224" M="2"/>
+<C V="41.4374" R="0.969393" M="1"/>
+<D V="31.88" R="0.68885" M="2"/>
+</CurveTo>
+</Geometry>
+</Geometries>
+</Shape>
+<GroupProps>
+<SelectMode V="1"/>
+<GroupShadow V="FALSE"/>
+</GroupProps>
+</Shape>
+-->
+        </Item>
+    </Items>
+</Template>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Graphic Organizer">
+    <Elem NameU="Bee" Name="꿀벌"/>
+    <Elem NameU="Crab" Name="게"/>
+    <Elem NameU="Fish" Number="2" Name="물고기"/>
+    <Elem NameU="Frog" Name="개구리"/>
+    <Elem NameU="Cow" Name="소"/>
+    <Elem NameU="Caterpillar" Name="애벌레"/>
+    <Elem NameU="Elephant" Name="코끼리"/>
+    <Elem NameU="Bear" Name="곰"/>
+    <Elem NameU="Duck" Name="오리"/>
+    <Elem NameU="Kangaroo" Name="캥거루"/>
+    <Elem NameU="Giraffe" Name="기린"/>
+    <Elem NameU="Rabbit" Name="토끼"/>
+    <Elem NameU="Bird" Name="새"/>
+    <Elem NameU="Spider Web" Name="거미줄"/>
+    <Elem NameU="Ice Cream" Name="아이스크림"/>
+    <Elem NameU="Tree" Name="나무"/>
+    <Elem NameU="Apple" Name="사과"/>
+    <Elem NameU="Tomato" Name="토마토"/>
+    <Elem NameU="Sun" Name="태양"/>
+    <Elem NameU="Balloon" Name="풍선"/>
+    <Elem NameU="Flower" Name="꽃"/>
+    <Elem NameU="Leaf" Name="잎"/>
+    <Elem NameU="Trees" Name="숲"/>
+    <Elem NameU="Candy 1" Name="캔디 1"/>
+    <Elem NameU="Candy 2" Name="캔디 2"/>
+    <Elem NameU="Cloud" Name="구름"/>
+    <Elem NameU="Water Drop" Name="물방울"/>
+    <Elem NameU="Hand" Name="손"/>
+    <Elem NameU="House" Name="하우스"/>
+    <Elem NameU="Umbrella" Name="우산"/>
+    <Elem NameU="Rainbow" Name="무지개"/>
+    <Elem NameU="Lolipop" Name="롤리팝"/>
+    <Elem NameU="Ice Sucker" Name="아이스크림"/>
+    <Elem NameU="Heart" Name="하트"/>
+    <Elem NameU="Strawberry" Name="딸기"/>
+    <Elem NameU="Frame 1" Name="프레임 1"/>
+    <Elem NameU="Frame 2" Name="프레임 2"/>
+</Lib>

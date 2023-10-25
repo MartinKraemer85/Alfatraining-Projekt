@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Map Vehicles">
+	<Elem NameU="Yellow car(2D)" Name="Carro amarelo (2D)"/>
+	<Elem NameU="Green car(2D)" Name="Carro verde (2D)"/>
+	<Elem NameU="Red car(2D)" Name="Carro vermelho (2D)"/>
+	<Elem NameU="Limousine" Name="Limusine"/>
+	<Elem NameU="Truck" Name="Caminhão"/>
+	<Elem NameU="Green car(3D)" Name="Carro verde (3D)"/>
+	<Elem NameU="Green car(3D) 2" Name="Carro verde (3D) 2"/>
+	<Elem NameU="Red car(3D)" Name="Carro vermelho (3D)"/>
+	<Elem NameU="Red car(3D) 2" Name="Carro vermelho (3D) 2"/>
+	<Elem NameU="Black car(3D)" Name="Carro preto (3D)"/>
+	<Elem NameU="Black car(3D) 2" Name="Carro preto (3D) 2"/>
+	<Elem NameU="Truck(3D)" Name="Caminhão (3D)"/>
+	<Elem NameU="Truck(3D) 2" Name="Caminhão (3D) 2"/>
+	<Elem NameU="Orange truck(3D)" Name="Caminhão laranja (3D)"/>
+	<Elem NameU="Orange truck(3D) 2" Name="Caminhão laranja (3D) 2"/>
+</Lib>

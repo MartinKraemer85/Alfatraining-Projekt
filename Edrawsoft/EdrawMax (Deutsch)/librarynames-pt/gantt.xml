@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Gantt">
+	<Elem NameU="Data Source Example" Name="Exemplo de Fonte de Dados"/>
+	<Elem NameU="Gantt" Name="Gantt"/>
+	<Elem NameU="Gantt-White" Name="Gantt-Branco"/>
+	<Elem NameU="Gantt-Gray" Name="Gantt-Cinzento"/>
+</Lib>

@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Media">
+
+<Elem Name="Frau" NameU="Woman"/>
+
+<Elem Name="Man" NameU="Man"/>
+
+<Elem Name="Molekulare Struktur" NameU="Molecular Structure"/>
+
+<Elem Name="Cerebrum" NameU="Cerebrum"/>
+
+<Elem Name="Herz" NameU="Heart"/>
+
+<Elem Name="DNA" NameU="DNA"/>
+
+<Elem Name="Elektrokardiogramm" NameU="Electrocardiogram"/>
+
+<Elem Name="Baby" NameU="Baby"/>
+
+<Elem Name="Familie" NameU="Family"/>
+
+<Elem Name="Analyse" NameU="Analysis"/>
+
+<Elem Name="Bericht" NameU="Report"/>
+
+<Elem Name="Ambulanz" NameU="Ambulance"/>
+
+<Elem Name="Medizinische Kiste" NameU="Medical box"/>
+
+<Elem Name="Atemschutz" NameU="Respirator"/>
+
+<Elem Name="Stethoskop" NameU="Stethoscope"/>
+
+<Elem Name="Herz mit Kreuz" NameU="Heart with Cross"/>
+
+<Elem Name="Pille" NameU="Pill"/>
+
+<Elem Name="Kapsel" NameU="Capsule"/>
+
+<Elem Name="Krankenhaus" NameU="Hospital"/>
+
+<Elem Name="Mikroskop" NameU="Microscope"/>
+
+<Elem Name="Thermometer" NameU="Thermometer"/>
+
+<Elem Name="Test" NameU="Test"/>
+
+<Elem Name="Test 2" NameU="Test 2"/>
+
+<Elem Name="Rehabilitationsausrüstung" NameU="Rehabilitation Equipment"/>
+
+<Elem Name="Gehstock" NameU="Walking Stick"/>
+
+<Elem Name="Walking Stick 2" NameU="Walking Stick 2"/>
+
+<Elem Name="Rollstuhl" NameU="Wheelchair"/>
+
+<Elem Name="Rehab Ausrüstung" NameU="Rehab Equipment"/>
+
+<Elem Name="Rehab Ausrüstung 1" NameU="Rehab Equipment 1"/>
+
+<Elem Name="Rehab Ausrüstung 2" NameU="Rehab Equipment 2"/>
+
+<Elem Name="Rehab Ausrüstung 3" NameU="Rehab Equipment 3"/>
+
+<Elem Name="Rehab Ausrüstung 4" NameU="Rehab Equipment 4"/>
+
+<Elem Name="Krankenhausbett 1" NameU="Hospital Bed 1"/>
+
+<Elem Name="Krankenhausbett 2" NameU="Hospital Bed 2"/>
+
+<Elem Name="Krankenhausbett 3" NameU="Hospital Bed 3"/>
+
+<Elem Name="Operationstabelle" NameU="Operating table"/>
+
+<Elem Name="Skala" NameU="Scale"/>
+
+<Elem Name="Warnzeichen" NameU="Hazard Warning Sign"/>
+
+<Elem Name="Handicap Sign" NameU="Handicap Sign"/>
+
+<Elem Name="Plastik Infusionstasche" NameU="Plastic Infusion Bag"/>
+
+<Elem Name="Krankenschwester Cap" NameU="Nurse Cap"/>
+
+<Elem Name="Injektor" NameU="Injector"/>
+
+<Elem Name="Zahn" NameU="Tooth"/>
+
+<Elem Name="Leber" NameU="Liver"/>
+
+<Elem Name="Lunge" NameU="Lung"/>
+
+<Elem Name="Magen" NameU="Stomach"/>
+
+<Elem Name="Milz" NameU="Spleen"/>
+
+<Elem Name="Ohr" NameU="Ear"/>
+
+<Elem Name="Därme" NameU="Intestines"/>
+
+<Elem Name="Röntgenfilm" NameU="X-ray Film"/>
+
+<Elem Name="Röntgenfilm (gebrochener Knochen)" NameU="X-ray Film (Broken Bone)"/>
+
+<Elem Name="Doktor" NameU="Doctor"/>
+
+<Elem Name="Krankenschwester" NameU="Nurse"/>
+
+<Elem Name="Pillen" NameU="Pills"/>
+
+<Elem Name="Medizinische Flasche" NameU="Medicine Bottle"/>
+
+<Elem Name="Virus 1" NameU="Virus 1"/>
+
+<Elem Name="Virus 2" NameU="Virus 2"/>
+
+<Elem Name="Herzförmiges Elektrokardiogramm (ECG)" NameU="Heart-shaped electrocardiogram (ecg)"/>
+
+<Elem Name="Trinken" NameU="Drinking"/>
+
+<Elem Name="Dachschindel" NameU="Clapboard"/>
+
+<Elem Name="TV" NameU="TV"/>
+
+<Elem Name="Radio" NameU="Radio"/>
+
+<Elem Name="Film" NameU="Film"/>
+
+<Elem Name="Monitoring" NameU="Monitoring"/>
+
+<Elem Name="Mikrophon" NameU="Microphone"/>
+
+<Elem Name="Empfänger" NameU="Receiver"/>
+
+<Elem Name="Satellit" NameU="Satellite"/>
+
+<Elem Name="Videospieler" NameU="Video player"/>
+
+<Elem Name="Broadcast" NameU="Broadcast"/>
+
+<Elem Name="Mikrophon 1" NameU="Microphone 1"/>
+
+<Elem Name="Mikrophon 2" NameU="Microphone 2"/>
+
+<Elem Name="Kopfhörer" NameU="Earphone"/>
+
+<Elem Name="Hot News" NameU="Hot News"/>
+
+<Elem Name="Presseausweis" NameU="Press Card"/>
+
+<Elem Name="Videokamera" NameU="Video Camera"/>
+
+<Elem Name="News Truck" NameU="News Truck"/>
+
+<Elem Name="News Van" NameU="News Van"/>
+
+<Elem Name="Interview" NameU="Interview"/>
+
+<Elem Name="Videoaufzeichnung" NameU="Video Shooting"/>
+
+<Elem Name="Fotografieren 1" NameU="Taking Photos 1"/>
+
+<Elem Name="Fotografieren 2" NameU="Taking Photo 2"/>
+
+<Elem Name="Global" NameU="Global"/>
+
+<Elem Name="Pressekonferenz" NameU="Press Conference"/>
+
+<Elem Name="Fokus" NameU="Focus"/>
+
+<Elem Name="Erfahren" NameU="Discover"/>
+
+<Elem Name="Weltkarte" NameU="World Map"/>
+
+<Elem Name="Uhr" NameU="Clock"/>
+
+<Elem Name="Notepad" NameU="Notepad"/>
+
+<Elem Name="Datenanalyse" NameU="Data Analysis"/>
+
+<Elem Name="Menschen" NameU="People"/>
+
+<Elem Name="Zeitung" NameU="Newspaper"/>
+
+<Elem Name="Leinwand" NameU="Projection screen"/>
+
+<Elem Name="Computer" NameU="Computer"/>
+
+<Elem Name="LCD TV" NameU="LCD TV"/>
+
+<Elem Name="Handy" NameU="Mobile"/>
+
+</Lib>

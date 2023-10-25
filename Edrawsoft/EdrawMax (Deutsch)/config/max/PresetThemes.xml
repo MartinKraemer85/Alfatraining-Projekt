@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Themes Version="8.0">
+    <!-- <Theme ID="20" Name="Common" CN="通用" DE="Währung" ES="Generalidades" FR="General" IT="valuta" JP="汎用" PT="Moeda" RU="универсальный">
+        <ThemeColor V="34"/>
+        <ThemeEffect V="20"/>
+        <ThemeText V="3"/>
+        <ThemeConnector V="52"/>
+    </Theme>
+    <Theme ID="21" Name="Harmony" CN="和谐" DE="Harmonisch" ES="Armonía" FR="Harmonie" IT="Armonia" JP="調和がとれる" PT="Harmonioso" RU="гармон">
+        <ThemeColor V="44"/>
+        <ThemeEffect V="21"/>
+        <ThemeText V="1"/>
+        <ThemeConnector V="33"/>
+    </Theme>
+    <Theme ID="22" Name="Formal" CN="正式" DE="förmlich" ES="oficialmente" FR="Officiellement" IT="formale" JP="正式" PT="Formal" RU="официальн">
+        <ThemeColor V="45"/>
+        <ThemeEffect V="22"/>
+        <ThemeText V="3"/>
+        <ThemeConnector V="37"/>
+    </Theme>
+    <Theme ID="23" Name="Gentle" CN="柔和" DE="weich" ES="suave" FR="Doux" IT="morbido" JP="柔らかい" PT="Suave" RU="мягк">
+        <ThemeColor V="46"/>
+        <ThemeEffect V="23"/>
+        <ThemeText V="2"/>
+        <ThemeConnector V="35"/>
+    </Theme>
+    <Theme ID="24" Name="Town" CN="乡村" DE="Ländliche" ES="rural" FR="Campagne" IT="Rurale" JP="田舎の" PT="Rural" RU="кантр">
+        <ThemeColor V="36"/>
+        <ThemeEffect V="24"/>
+        <ThemeText V="3"/>
+        <ThemeConnector V="38"/>
+    </Theme>
+    <Theme ID="25" Name="Heavy" CN="隆重" DE="gross" ES="Solemnidad" FR="Solennel" IT="migliaia" JP="厳かで重々しい" PT="Grande" RU="торжествен">
+        <ThemeColor V="40"/>
+        <ThemeEffect V="25"/>
+        <ThemeText V="4"/>
+        <ThemeConnector V="33"/>
+    </Theme>
+    <Theme ID="26" Name="Light" CN="淡雅" DE="Elegant und ruhig" ES="Suavidad" FR="élégant" IT="Elegante e tranquillo" JP="淡い" PT="Elegante e silencioso" RU="Нежн аромат">
+        <ThemeColor V="35"/>
+        <ThemeEffect V="26"/>
+        <ThemeText V="1"/>
+        <ThemeConnector V="33"/>
+    </Theme>
+    <Theme ID="27" Name="Glass" CN="玻璃" DE="Glas" ES="Vidrio" FR="Verre" IT="Vetro" JP="ガラス" PT="Vidro" RU="стекл">
+        <ThemeColor V="43"/>
+        <ThemeEffect V="27"/>
+        <ThemeText V="1"/>
+        <ThemeConnector V="33"/>
+    </Theme>    
+    <Theme ID="28" Name="Facet" CN="彩块" DE="Block Farbe" ES="Lote de lotería" FR="Bloc de couleurs" IT="Blocco di colore" JP="彩块" PT="Bloco de cores" RU="Чхве кусочк">
+        <ThemeColor V="41"/>
+        <ThemeEffect V="28"/>
+        <ThemeText V="5"/>
+        <ThemeConnector V="33"/>
+    </Theme>
+    <Theme ID="29" Name="Passion" CN="激情" DE="Passion" ES="Pasión" FR="Passion" IT="Passione" JP="激情" PT="Paixão" RU="страст">
+        <ThemeColor V="37"/>
+        <ThemeEffect V="29"/>
+        <ThemeText V="6"/>
+        <ThemeConnector V="35"/>
+    </Theme>
+    <Theme ID="30" Name="Lucid" CN="清朗" DE="Klar und hell" ES="Chiang" FR="fort" IT="Chiaro e luminoso" JP="清朗である" PT="Claro e Claro" RU="прекрасн">
+        <ThemeColor V="42"/>
+        <ThemeEffect V="30"/>
+        <ThemeText V="3"/>
+        <ThemeConnector V="33"/>
+    </Theme>
+    <Theme ID="31" Name="Contrast" CN="凸显" DE="prominent" ES="Destacar" FR="souligne" IT="prominente" JP="際立っている" PT="Proeminente" RU="подчеркива">
+        <ThemeColor V="33"/>
+        <ThemeEffect V="31"/>
+        <ThemeText V="3"/>
+        <ThemeConnector V="37"/>
+        <Background Type="Solid">
+            <Color V="#1e242f"/>
+        </Background>        
+    </Theme>
+    <Theme ID="32" Name="Garden" CN="花园" DE="Garten" ES="Jardín" FR="Le jardin" IT="Giardino" JP="花園" PT="Jardim" RU="сад">
+        <ThemeColor V="32"/>
+        <ThemeEffect V="32"/>
+        <ThemeText V="1"/>
+        <ThemeConnector V="31"/>
+    </Theme>
+    <Theme ID="33" Name="Highlight" CN="高光" DE="Hervorhebung" ES="Alta" FR="à" IT="Evidenziazione" JP="ハイライト" PT="Realce" RU="зеркальн">
+        <ThemeColor V="38"/>
+        <ThemeEffect V="33"/>
+        <ThemeText V="1"/>
+        <ThemeConnector V="30"/>
+    </Theme>
+    <Theme ID="34" Name="Pattern" CN="纹理" DE="Textur" ES="Textura" FR="texture" IT="texture" JP="テクスチャ" PT="Textura" RU="текстур">
+        <ThemeColor V="31"/>
+        <ThemeEffect V="34"/>
+        <ThemeText V="2"/>
+        <ThemeConnector V="33"/>
+    </Theme>
+    <Theme ID="35" Name="Balance" CN="平衡" DE="Bilanz" ES="Equilibrio" FR="équilibre" IT="saldo" JP="バランス" PT="Balanço" RU="равновес">
+        <ThemeColor V="30"/>
+        <ThemeEffect V="35"/>
+        <ThemeText V="1"/>
+        <ThemeConnector V="53"/>
+        <Background Type="Solid">
+            <Color V="#303030" Ref="#000000" ThemeColor="2" Tint="3"/>
+        </Background>
+    </Theme> -->
+
+
+    <Theme ID="36" Name="General" CN="通用" DE="Allgemeines" ES="General" FR="Générale" IT="Generale" JP="ファッション" PT="Geral" RU="Общее">
+        <ThemeColor V="83"/>
+        <ThemeEffect V="36"/>
+        <ThemeText V="3"/>
+        <ThemeConnector V="54"/>
+    </Theme>
+    <Theme ID="37" Name="Bold" CN="粗线" DE="Fett gedruckt" ES="Negrita" FR="Audacieuse" IT="Grassetto" JP="大胆な" PT="Negrito" RU="Жирный">
+        <ThemeColor V="34"/>
+        <ThemeEffect V="37"/>
+        <ThemeText V="3"/>
+        <ThemeConnector V="55"/>
+    </Theme>
+    <Theme ID="48" Name="Formal" CN="正式" DE="Formal" ES="Formal" FR="Formelle" IT="Formale" JP="フォーマル" PT="Formal" RU="Формальный">
+        <ThemeColor V="75"/>
+        <ThemeEffect V="48"/>
+        <ThemeText V="8"/>
+        <ThemeConnector V="56"/>
+    </Theme>
+    <Theme ID="49" Name="Passion" CN="激情" DE="Leidenschaft" ES="Pasión" FR="Passion" IT="Passione" JP="情熱" PT="Paixão" RU="Страсть">
+        <ThemeColor V="73"/>
+        <ThemeEffect V="49"/>
+        <ThemeText V="3"/>
+        <ThemeConnector V="57"/>
+    </Theme>
+    <Theme ID="42" Name="Light" CN="淡雅" DE="Licht" ES="Ligera" FR="Lumière" IT="Luce" JP="光" PT="Luz" RU="Свет">
+        <ThemeColor V="76"/>
+        <ThemeEffect V="42"/>
+        <ThemeText V="3"/>
+        <ThemeConnector V="60"/>
+    </Theme>
+    <Theme ID="45" Name="Facet" CN="彩块" DE="Facette" ES="Faceta" FR="Facette" IT="Sfaccettatura" JP="ファセット" PT="Faceta" RU="Грань">
+        <ThemeColor V="81"/>
+        <ThemeEffect V="45"/>
+        <ThemeText V="3"/>
+        <ThemeConnector V="60"/>
+    </Theme>
+    <Theme ID="40" Name="Harmony" CN="和谐" DE="Harmonie" ES="Armonía" FR="Harmonie" IT="Harmony" JP="調和" PT="Harmonia" RU="Гармония">
+        <ThemeColor V="79"/>
+        <ThemeEffect V="40"/>
+        <ThemeText V="3"/>
+        <ThemeConnector V="57"/>
+    </Theme>
+    <Theme ID="41" Name="Gentle" CN="柔和" DE="Sanft" ES="Amable" FR="Douce" IT="Gentile" JP="優しい" PT="Gentil" RU="Нежный">
+        <ThemeColor V="48"/>
+        <ThemeEffect V="41"/>
+        <ThemeText V="3"/>
+        <ThemeConnector V="59"/>
+    </Theme>
+    <Theme ID="44" Name="Town" CN="乡村" DE="Stadt, Dorf" ES="Pueblo" FR="Ville" IT="Cittadina" JP="町" PT="Cidade" RU="Город">
+        <ThemeColor V="80"/>
+        <ThemeEffect V="44"/>
+        <ThemeText V="3"/>
+        <ThemeConnector V="61"/>
+    </Theme>
+    <Theme ID="43" Name="Office" CN="商务" DE="Büro" ES="Oficina" FR="Bureau" IT="Ufficio" JP="オフィス" PT="Escritório" RU="Офис">
+        <ThemeColor V="31"/>
+        <ThemeEffect V="43"/>
+        <ThemeText V="3"/>
+        <ThemeConnector V="70"/>
+    </Theme>
+    <Theme ID="38" Name="Engineering" CN="工程" DE="Ingenieurwesen" ES="Ingenieria" FR="Ingénierie" IT="Ingegneria" JP="エンジニアリング" PT="Engenharia" RU="Инженерное дело">
+        <ThemeColor V="34"/>
+        <ThemeEffect V="38"/>
+        <ThemeText V="3"/>
+        <ThemeConnector V="62"/>
+    </Theme>
+    <Theme ID="39" Name="Balance" CN="平衡" DE="Balance" ES="Equilibrar" FR="Équilibre" IT="Equilibrio" JP="残高" PT="Saldo" RU="Баланс">
+        <ThemeColor V="34"/>
+        <ThemeEffect V="39"/>
+        <ThemeText V="3"/>
+        <ThemeConnector V="63"/>
+    </Theme>
+    <Theme ID="46" Name="Lucid" CN="清朗" DE="Klar" ES="Lúcida" FR="Lucide" IT="Lucida" JP="ルシード" PT="Lúcida" RU="Lucid">
+        <ThemeColor V="50"/>
+        <ThemeEffect V="46"/>
+        <ThemeText V="8"/>
+        <ThemeConnector V="65"/>
+    </Theme>
+    <Theme ID="47" Name="Garden" CN="花园" DE="Garten" ES="Jardín" FR="Jardin" IT="Giardino" JP="庭園" PT="Jardim" RU="Сад">
+        <ThemeColor V="75"/>
+        <ThemeEffect V="47"/>
+        <ThemeText V="3"/>
+        <ThemeConnector V="66"/>
+    </Theme>    
+    
+    <Theme ID="50" Name="Highlight" CN="高光" DE="Markieren" ES="Realce" FR="Surligner" IT="Evidenziare" JP="ハイライト" PT="Realçar" RU="Выделить">
+        <ThemeColor V="49"/>
+        <ThemeEffect V="50"/>
+        <ThemeText V="3"/>
+        <ThemeConnector V="59"/>
+    </Theme>
+    <Theme ID="51" Name="Black" CN="黑色" DE="Schwarz" ES="Negra" FR="Noire" IT="Nera" JP="ブラック" PT="Preta" RU="Черный">
+        <ThemeColor V="32"/>
+        <ThemeEffect V="51"/>
+        <ThemeText V="3"/>
+        <ThemeConnector V="67"/>
+    </Theme>
+    <Theme ID="52" Name="Elegant" CN="雅致" DE="Elegant" ES="Elegante" FR="Élégante" IT="Elegante" JP="エレガント" PT="Elegante" RU="Элегантный">
+        <ThemeColor V="42"/>
+        <ThemeEffect V="52"/>
+        <ThemeText V="3"/>
+        <ThemeConnector V="68"/>
+        <Background Type="Solid">
+            <Color V="#ffecf0f8" ThemeColor="4" Tint="80" Ref="#7b9fd9"/>
+        </Background> 
+    </Theme>
+    <Theme ID="53" Name="Contrast" CN="凸显" DE="Kontrast" ES="Contraste" FR="Contraste" IT="Contrasto" JP="コントラスト" PT="Contraste" RU="Контраст">
+        <ThemeColor V="41"/>
+        <ThemeEffect V="53"/>
+        <ThemeText V="3"/>
+        <ThemeConnector V="69"/>
+        <Background Type="Solid">
+            <Color V="#2c2e38"/>
+        </Background> 
+    </Theme>
+    <Theme ID="54" Name="Dazzle" CN="炫彩" DE="Blenden" ES="Deslumbrar" FR="Éblouir" IT="Abbaglia" JP="まばゆい" PT="Deslumbrar" RU="Ослеплять">
+        <ThemeColor V="33"/>
+        <ThemeEffect V="54"/>
+        <ThemeText V="3"/>
+        <ThemeConnector V="64"/>
+        <Background Type="Solid">
+            <Color V="#101721"/>
+        </Background> 
+    </Theme>
+    <Theme ID="55" Name="Fashion" CN="流行" DE="Mode" ES="Moda" FR="Mode" IT="Moda" JP="ファッション" PT="moda" RU="Мода">
+        <ThemeColor V="76"/>
+        <ThemeEffect V="55"/>
+        <ThemeText V="3"/>
+        <ThemeConnector V="68"/>
+        <Background Type="Solid">
+            <Color V="#17202d"/>
+        </Background> 
+    </Theme>
+</Themes>

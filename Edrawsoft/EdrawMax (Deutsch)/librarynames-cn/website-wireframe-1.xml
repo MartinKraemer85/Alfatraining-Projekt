@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Website Wireframe 1">
+    <Elem NameU="Label" Name="标签"/>
+    <Elem NameU="Label 2" Name="标签 2"/>
+    <Elem NameU="Logo" Name="徽标"/>
+    <Elem NameU="Rounded Rect" Name="圆角矩形"/>
+    <Elem NameU="Panel/Rect" Name="矩形面板"/>
+    <Elem NameU="Group" Name="群组"/>
+    <Elem NameU="Frame" Name="框架"/>
+    <Elem NameU="Vertical Seperator" Name="垂直分隔栏"/>
+    <Elem NameU="Horizontal Seperator" Name="水平分隔栏"/>
+    <Elem NameU="Browser" Name="浏览器"/>
+    <Elem NameU="Window/Dialog" Name="对话窗口"/>
+    <Elem NameU="Image Placeholder" Name="图片占位符"/>
+    <Elem NameU="Image Placeholder 2" Name="图片占位符 2"/>
+    <Elem NameU="Text Field" Name="文本区"/>
+    <Elem NameU="Text" Name="文本"/>
+    <Elem NameU="Hyperlink Text" Name="超链接文本"/>
+    <Elem NameU="Text Block" Name="文本块"/>
+    <Elem NameU="Text Block 2" Name="文本块 2"/>
+    <Elem NameU="Button" Name="按钮"/>
+    <Elem NameU="Button 2" Name="按钮 2"/>
+    <Elem NameU="Button 3" Name="按钮 3"/>
+    <Elem NameU="Button 4" Name="按钮 4"/>
+    <Elem NameU="Check Box" Name="复选框"/>
+    <Elem NameU="Check Box Group" Name="复选框组"/>
+    <Elem NameU="Radio Button" Name="单选按钮"/>
+    <Elem NameU="Radio Group" Name="单选按钮组"/>
+    <Elem NameU="Combox" Name="组合框"/>
+    <Elem NameU="Tabs" Name="标签"/>
+    <Elem NameU="Vertical Tabs" Name="垂直标签"/>
+    <Elem NameU="Menu Bar" Name="菜单栏"/>
+    <Elem NameU="Menu Bar 2" Name="菜单栏 2"/>
+    <Elem NameU="Date picker" Name="日期选择"/>
+    <Elem NameU="Spin Control" Name="数值调节控制"/>
+    <Elem NameU="Search Box" Name="搜索框"/>
+    <Elem NameU="Search Box 2" Name="搜索框 2"/>
+    <Elem NameU="Menu items" Name="菜单项目"/>
+    <Elem NameU="List" Name="列表"/>
+    <Elem NameU="Slider" Name="滑动器"/>
+    <Elem NameU="Vertical Slider" Name="垂直滑动器"/>
+    <Elem NameU="Progress Bar" Name="进度条"/>
+    <Elem NameU="Progress Bar 2" Name="进度条 2"/>
+    <Elem NameU="Horizontal Scrollbar" Name="水平滚动条"/>
+    <Elem NameU="Vertical Scollbar" Name="垂直滚动条"/>
+    <Elem NameU="Webcam" Name="网络摄像头"/>
+    <Elem NameU="Video Player" Name="影音播放器"/>
+    <Elem NameU="Color Picker" Name="颜色选择"/>
+    <Elem NameU="Help Button" Name="帮助按钮"/>
+    <Elem NameU="Collapse" Name="隐缩"/>
+    <Elem NameU="Expand" Name="扩展"/>
+    <Elem NameU="Star Ratings" Name="星星评分"/>
+    <Elem NameU="Line Graph Placeholder" Name="线图占位符"/>
+    <Elem NameU="Pie Chart Placeholder" Name="饼图占位符"/>
+    <Elem NameU="Bar Chart Placeholder" Name="条型图占位符"/>
+    <Elem NameU="Calendar placeholder" Name="日历占位符"/>
+    <Elem NameU="Grid Placeholder" Name="标尺占位符"/>
+    <Elem NameU="Code placeholder" Name="代码占位符"/>
+    <Elem NameU="Map Placeholder" Name="地图占位符"/>
+    <Elem NameU="Tag Cloud" Name="标签云"/>
+</Lib>

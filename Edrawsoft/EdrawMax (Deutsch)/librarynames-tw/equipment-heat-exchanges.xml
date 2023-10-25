@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Equipment-Heat Exchanges">
+    <Elem NameU="TEMA TYPE BEM" Name="管式交換器製造商協會 BEM"/>
+    <Elem NameU="TEMA TYPE BEU" Name="管式交換器製造商協會 BEU"/>
+    <Elem NameU="TEMA TYPE AEM" Name="管式交換器製造商協會 AEM"/>
+    <Elem NameU="TEMA TYPE AEL" Name="管式交換器製造商協會 AEL"/>
+    <Elem NameU="TEMA TYPE NEN" Name="管式交換器製造商協會 NEN"/>
+    <Elem NameU="TEMA TYPE BKU" Name="管式交換器製造商協會 BKU"/>
+    <Elem NameU="Plate exchanger" Name="板式熱交換器"/>
+    <Elem NameU="Plate and frame heat exchanger" Name="板框式熱交換器"/>
+    <Elem NameU="Dryer" Name="烘乾機"/>
+    <Elem NameU="Cooling tower" Name="冷卻塔"/>
+    <Elem NameU="Cooling tower 2" Name="冷卻塔 2"/>
+    <Elem NameU="Cooling tower 3" Name="冷卻塔 3"/>
+    <Elem NameU="Spray cooler" Name="噴霧冷卻器"/>
+    <Elem NameU="Forced-draft cooling tower" Name="強制通風冷卻塔"/>
+    <Elem NameU="Induced-draft cooling tower" Name="吸風冷卻塔"/>
+    <Elem NameU="Heat exchanger" Name="熱交換器"/>
+    <Elem NameU="Heat exchanger 2" Name="熱交換器 2"/>
+    <Elem NameU="Heat exchanger 3" Name="熱交換器 3"/>
+    <Elem NameU="Heater" Name="加熱器"/>
+    <Elem NameU="Exchanger" Name="交換器"/>
+    <Elem NameU="Condenser" Name="冷凝器"/>
+    <Elem NameU="Shell and tube heat" Name="殼管熱"/>
+    <Elem NameU="Shell and tube heat 2" Name="殼管熱 2"/>
+    <Elem NameU="Shell and tube heat 3" Name="殼管熱 3"/>
+    <Elem NameU="Cooler" Name="冷卻器"/>
+    <Elem NameU="Air-blown cooler" Name="吹風式冷卻器"/>
+    <Elem NameU="Induced flow air cooler" Name="誘導流空氣冷卻器"/>
+    <Elem NameU="Fin-fan cooler" Name="鰭葉式風扇冷卻器"/>
+    <Elem NameU="Electric heater" Name="電熱器"/>
+    <Elem NameU="Straight tubes heat exchanger" Name="直管式熱交換器"/>
+    <Elem NameU="Coil tubes heat exchanger" Name="盤管熱交換器"/>
+    <Elem NameU="Finned tubes heat exchanger" Name="管翅式熱交換器"/>
+    <Elem NameU="Floating head heat exchanger" Name="浮頭熱交換器"/>
+    <Elem NameU="Plate heat exchanger" Name="板式熱交換器"/>
+    <Elem NameU="Kettle heat exchanger" Name="釜式熱交換器"/>
+    <Elem NameU="Reboiler heat exchanger" Name="重沸器熱交換器"/>
+    <Elem NameU="Reboiler" Name="重沸器"/>
+    <Elem NameU="Single pass heat exchanger" Number="2" Name="單通道熱交換器"/>
+    <Elem NameU="Double pipe heat exchanger" Name="套管熱交換器"/>
+    <Elem NameU="Hairpin exchanger" Name="髮夾式熱交換器"/>
+    <Elem NameU="Spiral heat exchanger" Name="螺旋式熱交換器"/>
+    <Elem NameU="Spiral heat exchanger 2" Name="螺旋式熱交換器 2"/>
+    <Elem NameU="Air cooled exchanger" Name="空氣冷卻熱交換器"/>
+    <Elem NameU="Briquetting machine" Name="壓塊機"/>
+    <Elem NameU="U-Tube heat exchanger" Name="U形管熱交換器"/>
+    <Elem NameU="U-tube heat exchanger" Name="U形管熱交換器"/>
+    <Elem NameU="Boiler" Name="鍋爐"/>
+    <Elem NameU="Oil burner" Name="油燃器"/>
+    <Elem NameU="Fired heater" Name="火焰加熱器"/>
+    <Elem NameU="Vertical turbine" Name="立式渦輪機"/>
+    <Elem NameU="Condenser" Name="冷凝器"/>
+    <Elem NameU="Extractor hood" Name="抽油煙機"/>
+    <Elem NameU="Hose reel" Name="軟管卷盤"/>
+    <Elem NameU="Light water station" Name="清水水利站"/>
+    <Elem NameU="Combustion chamber" Name="爐膛"/>
+    <Elem NameU="Silencer" Name="消音器"/>
+    <Elem NameU="Thin-Film evaporator" Name="薄膜蒸發器"/>
+    <Elem NameU="Vent" Name="通風孔"/>
+</Lib>

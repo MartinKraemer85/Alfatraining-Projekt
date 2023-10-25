@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Equipment-Dryers">
+    <Elem NameU="Dryer" Name="건조기"/>
+    <Elem NameU="Fluidized bed dryer" Name="유동침대 건조기"/>
+    <Elem NameU="Roller conveyor belt dryer" Name="롤러 컨베이어 벨트 건조기"/>
+    <Elem NameU="Drying oven" Name="건조 오븐"/>
+    <Elem NameU="Rotary drum dryer" Name="회전식 드럼 건조기"/>
+    <Elem NameU="Drier" Name="건조기"/>
+    <Elem NameU="Heat consumer" Name="Heat consumer"/>
+    <Elem NameU="Spray dryer" Name="스프레이 건조제"/>
+    <Elem NameU="Moving shelf dryer" Name="이동 선반 건조기"/>
+</Lib>

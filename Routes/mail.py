@@ -14,7 +14,6 @@ def send_mail() -> str:
     :rtype: str[json]
     """
     # TODO: Filter Kram
-    db_helper = DbHelper()
     test_mail()
     return "Klappt"
 

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="AWS Customer Enablement">
+	<Elem NameU="AWS-IQ" Name="AWS IQ"/>
+	<Elem NameU="AWS-Managed-Services" Name="Servizi gestiti da AWS"/>
+	<Elem NameU="AWS-Professional-Services" Name="Servizi professionali AWS"/>
+	<Elem NameU="AWS-Support" Name="Supporto AWS"/>
+	<Elem NameU="Customer-Enablement" Name="Abilitazione del cliente"/>
+</Lib>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib nameU="Windows and Doors (Elevation)">
+	<Elem NameU="Window 1" Name="Fenêtre 1"/>
+	<Elem NameU="Window 2" Name="Fenêtre 2"/>
+	<Elem NameU="Window 3" Name="Fenêtre 3"/>
+	<Elem NameU="Window 4" Name="Fenêtre 4"/>
+	<Elem NameU="Window 5" Name="Fenêtre 5"/>
+	<Elem NameU="Window 6" Name="Fenêtre 6"/>
+	<Elem NameU="Window 7" Name="Fenêtre 7"/>
+	<Elem NameU="Window 8" Name="Fenêtre 8"/>
+	<Elem NameU="Window 9" Name="Fenêtre 9"/>
+	<Elem NameU="Window 10" Name="Fenêtre 10"/>
+	<Elem NameU="Window 11" Name="Fenêtre 11"/>
+	<Elem NameU="Window 12" Name="Fenêtre 12"/>
+	<Elem NameU="Window 13" Name="Fenêtre 13"/>
+	<Elem NameU="Window 14" Name="Fenêtre 14"/>
+	<Elem NameU="Window 15" Name="Fenêtre 15"/>
+	<Elem NameU="Window 16" Name="Fenêtre 16"/>
+	<Elem NameU="Window 17" Name="Fenêtre 17"/>
+	<Elem NameU="Door 1" Name="Porte 1"/>
+	<Elem NameU="Door 2" Name="Porte 2"/>
+	<Elem NameU="Door 3" Name="Porte 3"/>
+	<Elem NameU="Door 4" Name="Porte 4"/>
+	<Elem NameU="Door 5" Name="Porte 5"/>
+	<Elem NameU="Door" Name="Porte"/>
+	<Elem NameU="Arched doorway" Name="Porte voutée"/>
+	<Elem NameU="Cabinet" Name="Cabinet"/>
+	<Elem NameU="Roof Eaves" Name="Avant-toit"/>
+	<Elem NameU="Door handle" Name="Poignée de porte"/>
+</Lib>

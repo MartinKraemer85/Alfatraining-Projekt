@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="WorkFlow Objects">
+    <Elem NameU="Archives" Name="档案馆"/>
+    <Elem NameU="Box" Name="箱"/>
+    <Elem NameU="Cloud Account" Name="云账户"/>
+    <Elem NameU="Competitor" Name="竞争者"/>
+    <Elem NameU="Computer" Name="电脑"/>
+    <Elem NameU="Crate" Name="板条箱"/>
+    <Elem NameU="CD" Name="光盘"/>
+    <Elem NameU="Document" Name="文件"/>
+    <Elem NameU="Documents" Name="文件"/>
+    <Elem NameU="Document Collection" Name="文件集"/>
+    <Elem NameU="Customer" Name="顾客"/>
+    <Elem NameU="Email" Name="邮件"/>
+    <Elem NameU="Floppy Disk" Name="软盘"/>
+    <Elem NameU="Folder Closed" Name="合拢的文件夹"/>
+    <Elem NameU="Folder Locked" Name="密封的文件夹"/>
+    <Elem NameU="Folder Opened" Name="打开的文件夹"/>
+    <Elem NameU="Invoice" Name="发票"/>
+    <Elem NameU="Invoice 2" Name="发票 2"/>
+    <Elem NameU="Issue" Name="事项"/>
+    <Elem NameU="Mail" Name="邮件"/>
+    <Elem NameU="Mobile HD" Name="移动硬盘"/>
+    <Elem NameU="Pad" Name="平板"/>
+    <Elem NameU="Person Torso" Name="人 — 半身"/>
+    <Elem NameU="Person" Name="人"/>
+    <Elem NameU="Person 2" Name="人 2"/>
+    <Elem NameU="Phone" Name="手机"/>
+    <Elem NameU="Presentation File" Name="演示文档"/>
+    <Elem NameU="Presentation File 2" Name="演示文档 2"/>
+    <Elem NameU="Product" Name="产品"/>
+    <Elem NameU="Spreadsheet" Name="电子表格"/>
+    <Elem NameU="Spreadsheet 2" Name="电子表格 2"/>
+    <Elem NameU="U Disk" Name="U 盘"/>
+    <Elem NameU="Upload" Name="上传"/>
+    <Elem NameU="Upload to Cloud" Name="上传到云"/>
+    <Elem NameU="User" Name="用户"/>
+    <Elem NameU="Webpage" Name="网页"/>
+</Lib>

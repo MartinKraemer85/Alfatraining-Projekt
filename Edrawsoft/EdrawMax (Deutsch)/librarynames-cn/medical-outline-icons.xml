@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Medical Outline Icons">
+    <Elem NameU="Ear" Name="耳朵"/>
+    <Elem NameU="Eye" Name="眼睛"/>
+    <Elem NameU="Child" Name="孩子"/>
+    <Elem NameU="Patient" Name="病人"/>
+    <Elem NameU="Ppatient" Name="病人"/>
+    <Elem NameU="Patient Family" Name="病人家属"/>
+    <Elem NameU="Nurse" Name="护士"/>
+    <Elem NameU="Dentist" Name="牙医"/>
+    <Elem NameU="Doctors" Name="医生"/>
+    <Elem NameU="Emergency Call" Name="紧急呼叫"/>
+    <Elem NameU="Medical" Name="医学"/>
+    <Elem NameU="Clinic" Name="医务室"/>
+    <Elem NameU="Electrocardiogram" Name="心电图"/>
+    <Elem NameU="Online Treatment" Name="在线治疗"/>
+    <Elem NameU="Doctor Qualification" Name="医生资格"/>
+    <Elem NameU="Electrocardiogram" Name="心电图"/>
+    <Elem NameU="First Aid" Name="急救"/>
+    <Elem NameU="Poison" Name="毒药"/>
+    <Elem NameU="Death" Name="死亡"/>
+    <Elem NameU="Stomach" Name="胃"/>
+    <Elem NameU="Bones" Name="骨头"/>
+    <Elem NameU="Rib Cage" Name="胸腔"/>
+    <Elem NameU="lung" Number="2" Name="肺"/>
+    <Elem NameU="Heart" Name="心"/>
+    <Elem NameU="Kidney" Name="肾"/>
+    <Elem NameU="Stomach" Name="胃"/>
+    <Elem NameU="Foot" Name="脚"/>
+    <Elem NameU="Hand" Name="手"/>
+    <Elem NameU="Tooth" Name="牙齿"/>
+    <Elem NameU="Mouth" Name="嘴巴"/>
+    <Elem NameU="Nose" Name="鼻子"/>
+    <Elem NameU="Receipt" Name="收据"/>
+    <Elem NameU="Patient" Name="病人"/>
+    <Elem NameU="Bank Card" Name="银行卡"/>
+    <Elem NameU="Care" Name="关照"/>
+    <Elem NameU="Heart-Shaped Electrocardiogram" Name="心形心电图"/>
+    <Elem NameU="Stethoscope" Name="听诊器"/>
+    <Elem NameU="Medical Label" Name="医疗标签"/>
+    <Elem NameU="24 Hours" Name="24小时"/>
+    <Elem NameU="Schedule Check" Name="进度检查"/>
+    <Elem NameU="Calendar" Name="日历"/>
+    <Elem NameU="Schedule" Name="日程安排"/>
+    <Elem NameU="Condition" Name="状态"/>
+    <Elem NameU="View Medical Records" Name="查看病历"/>
+    <Elem NameU="Medical Expenses" Name="医疗费用"/>
+    <Elem NameU="Medical Case" Name="医疗案件"/>
+    <Elem NameU="Medical Order" Name="医嘱"/>
+    <Elem NameU="File" Name="文件"/>
+    <Elem NameU="Medical Book" Name="医学书籍"/>
+    <Elem NameU="Medical System" Name="医疗系统"/>
+    <Elem NameU="Medical Safety" Name="医疗安全"/>
+    <Elem NameU="Medicine Box" Name="药箱"/>
+    <Elem NameU="Ribbon" Name="丝带"/>
+    <Elem NameU="Ambulance" Name="救护车"/>
+    <Elem NameU="Position" Name="职位"/>
+    <Elem NameU="Stretcher Bed" Name="担架床"/>
+	<Elem NameU="Helicopter" Name="Helicopter&#9;"/>
+    <Elem NameU="Hospital Bed" Name="病床"/>
+    <Elem NameU="Infusion Bags" Name="病床"/>
+    <Elem NameU="Wheelchair" Name="轮椅"/>
+    <Elem NameU="Infusion" Name="灌输"/>
+    <Elem NameU="Hanging Bottle" Name="吊瓶"/>
+    <Elem NameU="Capsule" Name="胶囊"/>
+    <Elem NameU="Pill" Name="药丸"/>
+    <Elem NameU="Medicine Bottle" Name="药瓶"/>
+    <Elem NameU="Stethoscope" Name="听诊器"/>
+    <Elem NameU="X-Ray Film" Name="X射线胶片"/>
+    <Elem NameU="B Super" Name="B超"/>
+    <Elem NameU="CT" Name="CT"/>
+    <Elem NameU="Crutch" Name="拐杖"/>
+    <Elem NameU="Scale" Name="规模"/>
+    <Elem NameU="Band Aid" Name="创可贴"/>
+    <Elem NameU="Syringe" Name="注射器"/>
+    <Elem NameU="Thermometer" Name="温度计"/>
+    <Elem NameU="Balance" Name="平衡"/>
+    <Elem NameU="Microscope" Name="显微镜"/>
+    <Elem NameU="DNA" Name="脱氧核糖核酸"/>
+    <Elem NameU="Test" Number="2" Name="测试"/>
+    <Elem NameU="Beaker" Name="烧杯"/>
+    <Elem NameU="Test Tube" Name="试管"/>
+    <Elem NameU="Increase" Name="增加"/>
+    <Elem NameU="Cut Back" Name="削减"/>
+    <Elem NameU="liquid" Name="液体"/>
+    <Elem NameU="Chinese Medicine Grinding Tank" Name="中药研磨罐"/>
+    <Elem NameU="Pharmacy" Name="药店"/>
+    <Elem NameU="Girl" Name="女生"/>
+    <Elem NameU="Boy" Name="男生"/>
+    <Elem NameU="Scalpel" Name="手术刀"/>
+    <Elem NameU="Medical Respirator" Name="医用呼吸器"/>
+    <Elem NameU="Tweezers" Name="镊子"/>
+    <Elem NameU="Scissors" Name="剪刀"/>
+    <Elem NameU="Dropper" Name="滴管"/>
+    <Elem NameU="Molecular Structure" Name="分子结构"/>
+    <Elem NameU="Tooth Cleaner" Name="牙齿清洁剂"/>
+    <Elem NameU="Eye Chart" Name="视力检查表"/>
+</Lib>

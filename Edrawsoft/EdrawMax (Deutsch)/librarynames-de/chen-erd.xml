@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Chen ERD">
+
+<Elem Name="Benutzer" NameU="User"/>
+
+<Elem Name="Beziehung" NameU="Relationship"/>
+
+<Elem Name="Entität" NameU="Entity"/>
+
+<Elem Name="Attribut" NameU="Attribute"/>
+
+<Elem Name="Aggregation" NameU="Aggregation"/>
+
+<Elem Name="Schwache Entität" NameU="Weak Entity"/>
+
+<Elem Name="Assoziative Einheit" NameU="Associative Entity"/>
+
+<Elem Name="Beziehung identifizieren" NameU="Identifying Relationship"/>
+
+<Elem Name="Schlüsselattribut" NameU="Key Attribute"/>
+
+<Elem Name="Schwaches Schlüsselattribut" NameU="Weak Key Attribute"/>
+
+<Elem Name="Mehrwertiges Attribut" NameU="Multi-valued Attribute"/>
+
+<Elem Name="Abgeleitetes Attribut" NameU="Derived Attribute"/>
+
+</Lib>

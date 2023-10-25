@@ -1,0 +1,1386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ShapeStrings Version="11.5.0">
+    <String Name="(+)" NameU="(+)" />
+    <String Name="(-)" NameU="(-)" />
+    <String Name="(x)" NameU="(x)" />
+    <String Name="+" NameU="+" />
+    <String Name="-" NameU="-" />
+    <String Name="-10" NameU="-10" />
+    <String Name="-20" NameU="-20" />
+    <String Name="-30" NameU="-30" />
+    <String Name="0" NameU="0" />
+    <String Name="0 derajat" NameU="0 deg." />
+    <String Name="0%" NameU="0%" />
+    <String Name="0,0" NameU="0.0" />
+    <String Name="0,00" NameU="0.00" />
+    <String Name="0,000" NameU="0.000" />
+    <String Name="0,000”" NameU="0.000&quot;" />
+    <String Name="0,2" NameU="0.2" />
+    <String Name="0,25" NameU="0.25" />
+    <String Name="0,3333" NameU="0.3333" />
+    <String Name="0,5" NameU="0.5" />
+    <String Name="0,57735026918963" NameU="0.57735026918963" />
+    <String Name="00" NameU="00" />
+    <String Name="1" NameU="1" />
+    <String Name="Input 1 Saluran" NameU="1 Line Inout" />
+    <String Name="1-fase" NameU="1-phase" />
+    <String Name="1,7320508075689" NameU="1.7320508075689" />
+    <String Name="10" NameU="10" />
+    <String Name="100%" NameU="100%" />
+    <String Name="12 px" NameU="12 px" />
+    <String Name="120 derajat" NameU="120 deg." />
+    <String Name="135 derajat" NameU="135 deg." />
+    <String Name="16 px" NameU="16 px" />
+    <String Name="1:1" NameU="1:1" />
+    <String Name="1:2" NameU="1:2" />
+    <String Name="1:3" NameU="1:3" />
+    <String Name="1:4" NameU="1:4" />
+    <String Name="1:5" NameU="1:5" />
+    <String Name="Khusus ekstensi pertama" NameU="1st extension only" />
+    <String Name="2" NameU="2" />
+    <String Name="2 Elektrode" NameU="2 Electrodes" />
+    <String Name="Input 2 Saluran" NameU="2 Line Input" />
+    <String Name="2 Fase" NameU="2-phase" />
+    <String Name="20" NameU="20" />
+    <String Name="240 derajat" NameU="240 deg." />
+    <String Name="25%" NameU="25%" />
+    <String Name="2:1" NameU="2:1" />
+    <String Name="Khusus ekstensi kedua" NameU="2nd extension only" />
+    <String Name="3" NameU="3" />
+    <String Name="3 Elektrode" NameU="3 Electrodes" />
+    <String Name="Data 3 Status" NameU="3 State Data" />
+    <String Name="Delta 3 Fase" NameU="3-phase Delta" />
+    <String Name="Tipe Bintang 3 Fase" NameU="3-phase Star Type" />
+    <String Name="Wye 3 Fase" NameU="3-phase Wye" />
+    <String Name="30" NameU="30" />
+    <String Name="30°" NameU="30°" />
+    <String Name="3:1" NameU="3:1" />
+    <String Name="4" NameU="4" />
+    <String Name="4 Elektrode" NameU="4 Electrodes" />
+    <String Name="4 px" NameU="4 px" />
+    <String Name="45 derajat" NameU="45 deg." />
+    <String Name="45°" NameU="45°" />
+    <String Name="4:1" NameU="4:1" />
+    <String Name="5" NameU="5" />
+    <String Name="50%" NameU="50%" />
+    <String Name="5:1" NameU="5:1" />
+    <String Name="6" NameU="6" />
+    <String Name="Diametral 6 Fase" NameU="6-phase Diametrical" />
+    <String Name="Double-delta 6 Fase" NameU="6-phase Double-delta" />
+    <String Name="60°" NameU="60°" />
+    <String Name="75%" NameU="75%" />
+    <String Name="8" NameU="8" />
+    <String Name="8 px" NameU="8 px" />
+    <String Name="90 derajat" NameU="90 deg." />
+    <String Name="A.C." NameU="A.C." />
+    <String Name="AC" NameU="AC" />
+    <String Name="DAN" NameU="AND" />
+    <String Name="Aktif" NameU="Active" />
+    <String Name="Ad-Hoc" NameU="Ad-Hoc" />
+    <String Name="Menambahkan 1 U" NameU="Add 1 U" />
+    <String Name="Menambahkan Mikrofon" NameU="Add Microphone" />
+    <String Name="Menambahkan Papan" NameU="Add a Board" />
+    <String Name="Menambahkan Kotak" NameU="Add a Box" />
+    <String Name="Menambahkan Kategori" NameU="Add a Category" />
+    <String Name="Menambahkan Kursi" NameU="Add a Chair" />
+    <String Name="Menambahkan Lingkaran" NameU="Add a Circle" />
+    <String Name="Menambahkan Kolom" NameU="Add a Column" />
+    <String Name="Menambahkan Tingkat" NameU="Add a Level" />
+    <String Name="Menambahkan Pai" NameU="Add a Pie" />
+    <String Name="Menambahkan Titik" NameU="Add a Point" />
+    <String Name="Menambahkan Cincin" NameU="Add a Ring" />
+    <String Name="Menambahkan Baris" NameU="Add a Row" />
+    <String Name="Menambahkan Segmen" NameU="Add a Segment" />
+    <String Name="Menambahkan Langkah" NameU="Add a Step" />
+    <String Name="Menambahkan Panah" NameU="Add an Arrow" />
+    <String Name="Menambahkan Item" NameU="Add an Item" />
+    <String Name="Frek. Pengukuran Tambahan - Sesuai Permintaan" NameU="Additional Measuring Freq - On Request" />
+    <String Name="Frekuensi Pengukuran Tambahan" NameU="Additional Measuring Frequency" />
+    <String Name="Penyesuaian" NameU="Adjustability" />
+    <String Name="Dapat Disesuaikan" NameU="Adjustable" />
+    <String Name="Udara" NameU="Air" />
+    <String Name="Inti-udara" NameU="Air-core" />
+    <String Name="Sekring Alarm" NameU="Alarm Fuse" />
+    <String Name="Peringatan 1" NameU="Alert 1" />
+    <String Name="Peringatan 2" NameU="Alert 2" />
+    <String Name="Peringatan 3" NameU="Alert 3" />
+    <String Name="Peringatan 4" NameU="Alert 4" />
+    <String Name="Semua" NameU="All" />
+    <String Name="Bergantian" NameU="Alternating" />
+    <String Name="Arus Bolak-Balik" NameU="Alternating-Current" />
+    <String Name="Alternatif" NameU="Alternative" />
+    <String Name="Bentuk Alternatif" NameU="Alternative Form" />
+    <String Name="Simbol Alternatif" NameU="Alternative Symbol" />
+    <String Name="Ammeter" NameU="Ammeter" />
+    <String Name="Telepon Diperkuat" NameU="Amplified Phone" />
+    <String Name="Tipe Penguat" NameU="Amplifier Type" />
+    <String Name="Analog ke Digital" NameU="Analog to Digital" />
+    <String Name="Kemiringan" NameU="Angle" />
+    <String Name="Kemiringan 2" NameU="Angle 2" />
+    <String Name="Miring" NameU="Angled" />
+    <String Name="Teks Miring" NameU="Angled Text" />
+    <String Name="Opsi Tampilan" NameU="Appearance Options" />
+    <String Name="Tampilan Tipe Busur" NameU="Arc-type Display" />
+    <String Name="Panah" NameU="Arrow" />
+    <String Name="Panah 1" NameU="Arrow 1" />
+    <String Name="Panah 2" NameU="Arrow 2" />
+    <String Name="Panah 3" NameU="Arrow 3" />
+    <String Name="Panah 4" NameU="Arrow 4" />
+    <String Name="Nomor Panah" NameU="Arrow Number" />
+    <String Name="Ukuran Panah" NameU="Arrow Size" />
+    <String Name="Gaya Panah" NameU="Arrow Style" />
+    <String Name="Artifisial" NameU="Artificial" />
+    <String Name="Atribut" NameU="Attribute" />
+    <String Name="Pengukuran Derajat Otomatis" NameU="Auto Degree Measurement" />
+    <String Name="Pengukuran Panjang Otomatis" NameU="Auto Length Measurement" />
+    <String Name="Pengukuran Ukuran Otomatis" NameU="Auto Size Measurement" />
+    <String Name="Rata-rata" NameU="Average" />
+    <String Name="Aksial" NameU="Axial" />
+    <String Name="Kisi Horizontal Sumbu" NameU="Axis Horizontal Grid" />
+    <String Name="Orientasi Label Sumbu" NameU="Axis Label Orientation" />
+    <String Name="Nomor Sumbu" NameU="Axis Number" />
+    <String Name="Nomor Poin Sumbu" NameU="Axis Tick Number" />
+    <String Name="Kisi Vertikal Sumbu" NameU="Axis Vertical Grid" />
+    <String Name="Buruk" NameU="Bad" />
+    <String Name="Jaringan Penyeimbang" NameU="Balancing Network" />
+    <String Name="Bola" NameU="Ball" />
+    <String Name="Pita dari Campuran Saluran" NameU="Band of Mixed Channels" />
+    <String Name="Tapis Lolos Antara" NameU="Band-pass Filter" />
+    <String Name="Tapis Penghenti Antara" NameU="Band-stop Filter" />
+    <String Name="Dasar" NameU="Base" />
+    <String Name="Hanya Memulai" NameU="Begin Only" />
+    <String Name="Di Belakang Panel Kontrol" NameU="Behind Control Panel" />
+    <String Name="Di Belakang Panel Kontrol Lokal" NameU="Behind a Local Control Panel" />
+    <String Name="Tipe Bel" NameU="Bell Type" />
+    <String Name="Biner" NameU="Binary" />
+    <String Name="Bilah" NameU="Blade" />
+    <String Name="Biru" NameU="Blue" />
+    <String Name="Boolean" NameU="Boolean" />
+    <String Name="Keduanya" NameU="Both" />
+    <String Name="Kedua Panah" NameU="Both Arrow" />
+    <String Name="Kedua Putaran" NameU="Both Windings" />
+    <String Name="Amplifikasi Dua Arah" NameU="Both-way Amplification" />
+    <String Name="Bawah" NameU="Bottom" />
+    <String Name="Kait Bawah" NameU="Bottom Hook" />
+    <String Name="Kiri Bawah" NameU="Bottom Left" />
+    <String Name="Kanan Bawah" NameU="Bottom Right" />
+    <String Name="Batasan - Panggilan" NameU="Boundary - Call" />
+    <String Name="Batasan - Default" NameU="Boundary - Default" />
+    <String Name="Batasan - Kejadian" NameU="Boundary - Event" />
+    <String Name="Batasan - Transaksi" NameU="Boundary - Transaction" />
+    <String Name="Merek" NameU="Brand" />
+    <String Name="Putus Kontak" NameU="Break Contact" />
+    <String Name="Singkatan" NameU="Breviary" />
+    <String Name="Jembatan" NameU="Bridge" />
+    <String Name="Tipe Mesin Briket" NameU="Briquetting Machine Type" />
+    <String Name="Ukuran Maks Gelembung" NameU="Bubble Max Size" />
+    <String Name="Ukuran Min Gelembung" NameU="Bubble Min Size" />
+    <String Name="Panggil" NameU="Call" />
+    <String Name="Dapat" NameU="Can" />
+    <String Name="Batalkan" NameU="Cancel" />
+    <String Name="Dibatalkan" NameU="Canceled" />
+    <String Name="Kapasitor" NameU="Capacitor" />
+    <String Name="Blok Karbon" NameU="Carbon Block" />
+    <String Name="Frekuensi Pembawa" NameU="Carrier Frequency" />
+    <String Name="Interval Kategori" NameU="Category Interval" />
+    <String Name="Nomor Kategori" NameU="Category Number" />
+    <String Name="Tengah" NameU="Center" />
+    <String Name="Posisi Tengah" NameU="Center Position" />
+    <String Name="Titik tengah" NameU="Center points" />
+    <String Name="Tengah-Bawah" NameU="Center-Down" />
+    <String Name="Tengah-Atas" NameU="Center-Up" />
+    <String Name="Sentimeter" NameU="Centimeters" />
+    <String Name="Sentrifugal" NameU="Centrifugal" />
+    <String Name="Tipe Mesin Sentrifugal" NameU="Centrifuge Type" />
+    <String Name="Mengubah Tampilan" NameU="Change Appearance" />
+    <String Name="Mengubah Posisi Panah" NameU="Change Arrow Position" />
+    <String Name="Mengubah Ukuran Panah" NameU="Change Arrow Size" />
+    <String Name="Mengubah Gaya Panah" NameU="Change Arrow Style" />
+    <String Name="Mengubah Gaya Kotak" NameU="Change Box Style" />
+    <String Name="Mengubah Tipe Kabel" NameU="Change Cable Type" />
+    <String Name="Mengubah Gaya Bentuk Tengah" NameU="Change Center Shape Style" />
+    <String Name="Mengubah Gaya Tengah" NameU="Change Center Style" />
+    <String Name="Mengubah Posisi Lingkaran" NameU="Change Circle Position" />
+    <String Name="Mengubah Mode Warna" NameU="Change Color Mode" />
+    <String Name="Mengubah Tipe Aliran" NameU="Change Flow Type" />
+    <String Name="Mengubah Ukuran Jarak" NameU="Change Gap Size" />
+    <String Name="Mengubah Gaya Item" NameU="Change Item Style" />
+    <String Name="Mengubah Jumlah Garis" NameU="Change Number of Line" />
+    <String Name="Mengubah Orientasi" NameU="Change Orientation" />
+    <String Name="Mengubah Foto" NameU="Change Photo" />
+    <String Name="Mengubah Ukuran Foto" NameU="Change Photo Size" />
+    <String Name="Mengubah Posisi" NameU="Change Position" />
+    <String Name="Mengubah Ketebalan Cincin" NameU="Change Ring Thickness" />
+    <String Name="Mengubah Gaya Panah Segmen" NameU="Change Segment Arrow Style" />
+    <String Name="Mengubah Gaya Bentuk" NameU="Change Shape Style" />
+    <String Name="Mengubah Ukuran Langkah" NameU="Change Step Size" />
+    <String Name="Mengubah Gaya" NameU="Change Style" />
+    <String Name="Mengubah Gaya Judul" NameU="Change Title Style" />
+    <String Name="Mengubah Gambar" NameU="Change the Picture" />
+    <String Name="Saluran" NameU="Channel" />
+    <String Name="Centang" NameU="Check" />
+    <String Name="Katup Centang 1" NameU="Check Valve 1" />
+    <String Name="Katup Centang 2" NameU="Check Valve 2" />
+    <String Name="Katup Centang 3" NameU="Check Valve 3" />
+    <String Name="Kotak Centang" NameU="Checkbox" />
+    <String Name="Dicentang" NameU="Checked" />
+    <String Name="Lingkaran" NameU="Circle" />
+    <String Name="Tanda Lingkaran" NameU="Circle Mark" />
+    <String Name="Nomor Lingkaran" NameU="Circle Number" />
+    <String Name="Penanda Lingkaran" NameU="Cirle Marker" />
+    <String Name="Kelas" NameU="Class" />
+    <String Name="Tutup" NameU="Close" />
+    <String Name="Ujung Bawah Tertutup" NameU="Close Arrow End" />
+    <String Name="Bagian Bawah Tertutup" NameU="Close Bottom" />
+    <String Name="Rangkaian Tertutup" NameU="Close Circuit" />
+    <String Name="Ujung Tertutup" NameU="Close End" />
+    <String Name="Bagian Kiri Tertutup" NameU="Close Left" />
+    <String Name="Bagian Kanan Tertutup" NameU="Close Right" />
+    <String Name="Tabung Kanan Tertutup" NameU="Close Right Tube" />
+    <String Name="Bagian Atas Tertutup" NameU="Close Top" />
+    <String Name="Menutup setelah Aktuasi" NameU="Close on Actuation" />
+    <String Name="Menutup setelah Aktuasi atau Pelepasan" NameU="Close on Actuation or Release" />
+    <String Name="Menutup setelah Pelepasan" NameU="Close on Release" />
+    <String Name="Tertutup" NameU="Closed" />
+    <String Name="Kasar" NameU="Coarse" />
+    <String Name="Koaksial" NameU="Coaxial" />
+    <String Name="Kotak Koin" NameU="Coin Box" />
+    <String Name="Diciutkan" NameU="Collapsed" />
+    <String Name="Subproses yang Diciutkan" NameU="Collapsed Sub-Process" />
+    <String Name="Memberi Warna Hitam pada &apos;Fabrikasi&apos;" NameU="Color 'Fabrication' Black" />
+    <String Name="Memberi Warna Hitam pada &apos;Inspeksi&apos;" NameU="Color 'Inspection' Black" />
+    <String Name="Memberi Warna Hitam pada &apos;Pindahkan&apos;" NameU="Color 'Move' Black" />
+    <String Name="Memberi Warna Hitam pada &apos;Simpan’" NameU="Color 'Store' Black" />
+    <String Name="Kolom" NameU="Column" />
+    <String Name="Nomor Kolom" NameU="Column Number" />
+    <String Name="Pembakaran" NameU="Combustion" />
+    <String Name="Titik Persamaan" NameU="Common Point" />
+    <String Name="Layanan Komunikasi" NameU="Communication Service" />
+    <String Name="Komutasi atau Kompensasi" NameU="Commutating or Compensating" />
+    <String Name="Kompensasi" NameU="Compensation" />
+    <String Name="Selesai" NameU="Complete" />
+    <String Name="Kategori Selesai" NameU="Complete Category" />
+    <String Name="Simbol Selesai" NameU="Complete Symbol" />
+    <String Name="Selesai" NameU="Completed" />
+    <String Name="Kompleks" NameU="Complex" />
+    <String Name="Kompresor" NameU="Compressor" />
+    <String Name="Tipe Kompresor" NameU="Compressor Type" />
+    <String Name="Cekung" NameU="Concave" />
+    <String Name="Lensa Cekung" NameU="Concave Lens" />
+    <String Name="Konsentrasi" NameU="Concentrating" />
+    <String Name="Kerucut" NameU="Cone" />
+    <String Name="Mengonfigurasi Siku Bus 2 saluran..." NameU="Configure 2-line Bus Elbow..." />
+    <String Name="Mengonfigurasi Bus 2 saluran.." NameU="Configure 2-line Bus..." />
+    <String Name="Mengonfigurasi Penguat..." NameU="Configure Amplifier..." />
+    <String Name="Mengonfigurasi Bel..." NameU="Configure Bell..." />
+    <String Name="Mengonfigurasi Pengganti..." NameU="Configure Changer..." />
+    <String Name="Mengonfigurasi Chip..." NameU="Configure Chip..." />
+    <String Name="Mengonfigurasi Penyearah Terkontrol..." NameU="Configure Controlled rectifier..." />
+    <String Name="Mengonfigurasi Konverter..." NameU="Configure Converter..." />
+    <String Name="Mengonfigurasi Elemen Tunda..." NameU="Configure Delay Element..." />
+    <String Name="Mengonfigurasi Dioda..." NameU="Configure Diode..." />
+    <String Name="Mengonfigurasi Arah Aliran..." NameU="Configure Direction of Flow..." />
+    <String Name="Mengonfigurasi Filter..." NameU="Configure Filter..." />
+    <String Name="Mengonfigurasi Flip-flop..." NameU="Configure Flip-flop..." />
+    <String Name="Mengonfigurasi Pita Frekuensi..." NameU="Configure Frequency band..." />
+    <String Name="Mengonfigurasi Elemen Spektrum Frekuensi..." NameU="Configure Frequency spectrum element..." />
+    <String Name="Mengonfigurasi Generator Fungsi..." NameU="Configure Function Generator..." />
+    <String Name="Mengonfigurasi Elemen Pemanas..." NameU="Configure Heating Element..." />
+    <String Name="Mengonfigurasi IGFET tipe N..." NameU="Configure IGFET N-type..." />
+    <String Name="Mengonfigurasi IGFET tipe P..." NameU="Configure IGFET P-type..." />
+    <String Name="Mengonfigurasi Indikator..." NameU="Configure Indicator..." />
+    <String Name="Mengonfigurasi Kapasitansi Induktansi..." NameU="Configure Inductance Capacitance..." />
+    <String Name="Mengonfigurasi Induktor..." NameU="Configure Inductor..." />
+    <String Name="Mengonfigurasi Laser dan Maser..." NameU="Configure Laser and Maser..." />
+    <String Name="Mengonfigurasi Saluran/Kabel..." NameU="Configure Line/Cable..." />
+    <String Name="Mengonfigurasi Gerbang Logika..." NameU="Configure Logic Gate..." />
+    <String Name="Mengonfigurasi MOSFET..." NameU="Configure MOSFET..." />
+    <String Name="Mengonfigurasi Material..." NameU="Configure Material..." />
+    <String Name="Mengonfigurasi Mikrofon..." NameU="Configure Microphone..." />
+    <String Name="Mengonfigurasi Jaringan..." NameU="Configure Networks..." />
+    <String Name="Mengonfigurasi Ohmic..." NameU="Configure Ohmic..." />
+    <String Name="Mengonfigurasi Modulasi Pulsa..." NameU="Configure Pulse modulation..." />
+    <String Name="Mengonfigurasi Perekam/Pembuat Ulang..." NameU="Configure Recorder/reproducer..." />
+    <String Name="Mengonfigurasi Pelindung Lonjakan Arus..." NameU="Configure Surge Protector..." />
+    <String Name="Mengonfigurasi Perangkat Pemutus..." NameU="Configure Terminating sets..." />
+    <String Name="Terkonjugasi" NameU="Conjugated" />
+    <String Name="Kelas Replika Terkonjugasi" NameU="Conjugated Replicated Class" />
+    <String Name="Referensi Replika Terkonjugasi" NameU="Conjugated Replicated Reference" />
+    <String Name="Ukuran Sambungan" NameU="Connection Size" />
+    <String Name="Tipe Kontak" NameU="Contact Type" />
+    <String Name="Kontainer" NameU="Container" />
+    <String Name="Konteks" NameU="Context" />
+    <String Name="Berkelanjutan" NameU="Continuous" />
+    <String Name="Dapat Disesuaikan Terus-menerus" NameU="Continuously Adjustable" />
+    <String Name="Akses Kontrol" NameU="Control Access" />
+    <String Name="Metode Kontrol" NameU="Control Method" />
+    <String Name="Transformator kontrol" NameU="Control transformer" />
+    <String Name="Tipe Konverter" NameU="Converter Type" />
+    <String Name="Cembung" NameU="Convex" />
+    <String Name="Lensa Cembung" NameU="Convex Lens" />
+    <String Name="Konveyor" NameU="Conveyor" />
+    <String Name="Konveyor dengan Bucket" NameU="Conveyor with Buckets" />
+    <String Name="Konveyor dengan Kait" NameU="Conveyor with Hooks" />
+    <String Name="Inti" NameU="Core" />
+    <String Name="Biaya" NameU="Cost" />
+    <String Name="Engkol" NameU="Crank" />
+    <String Name="Dibuat" NameU="Created" />
+    <String Name="Silang" NameU="Cross" />
+    <String Name="Tipe Crusher" NameU="Crusher Type" />
+    <String Name="Nilai Arus" NameU="Current Value" />
+    <String Name="Cyan" NameU="Cyan" />
+    <String Name="D Flip-flop" NameU="D Flip-flop" />
+    <String Name="DC" NameU="DC" />
+    <String Name="Konverter DC" NameU="DC Converter" />
+    <String Name="Data" NameU="Data" />
+    <String Name="Format Data" NameU="Data Format" />
+    <String Name="Opsi Label Data" NameU="Data Label Options" />
+    <String Name="Orientasi Label Data" NameU="Data Label Orientation" />
+    <String Name="Posisi Label Data" NameU="Data Label Position" />
+    <String Name="Presisi data" NameU="Data Precision" />
+    <String Name="Jenis Data" NameU="Data Type" />
+    <String Name="Tanggal" NameU="Date" />
+    <String Name="Format Tanggal" NameU="Date Format" />
+    <String Name="Hari" NameU="Day" />
+    <String Name="Pengingat Frekuensi Lebih Tinggi" NameU="De-emphasize Higher Frequencies" />
+    <String Name="Keputusan" NameU="Decision" />
+    <String Name="Derajat" NameU="Deg" />
+    <String Name="Derajat-Menit-Detik" NameU="Deg-Min-Sec" />
+    <String Name="Derajat" NameU="Degrees" />
+    <String Name="Dehidrator" NameU="Dehydrator" />
+    <String Name="Tipe Penundaan" NameU="Delay Type" />
+    <String Name="Tertunda saat Menutup" NameU="Delayed when Closing" />
+    <String Name="Tertunda saat Menutup dan Membuka Kembali" NameU="Delayed when Closing and Re-opening" />
+    <String Name="Tertunda saat Membuka Kembali" NameU="Delayed when Re-opening" />
+    <String Name="Menghapus 1 U" NameU="Delete 1 U" />
+    <String Name="Tombol Hapus" NameU="Delete Button" />
+    <String Name="Menghapus Papan" NameU="Delete a Board" />
+    <String Name="Menghapus Kotak" NameU="Delete a Box" />
+    <String Name="Menghapus Kategori" NameU="Delete a Category" />
+    <String Name="Menghapus Kursi" NameU="Delete a Chair" />
+    <String Name="Menghapus Lingkaran" NameU="Delete a Circle" />
+    <String Name="Menghapus Kolom" NameU="Delete a Column" />
+    <String Name="Menghapus Level" NameU="Delete a Level" />
+    <String Name="Menghapus Pai" NameU="Delete a Pie" />
+    <String Name="Menghapus Titik" NameU="Delete a Point" />
+    <String Name="Menghapus Cincin" NameU="Delete a Ring" />
+    <String Name="Menghapus Baris" NameU="Delete a Row" />
+    <String Name="Menghapus Segmen" NameU="Delete a Segment" />
+    <String Name="Menghapus Langkah" NameU="Delete a Step" />
+    <String Name="Menghapus Panah" NameU="Delete an Arrow" />
+    <String Name="Menghapus Item" NameU="Delete an Item" />
+    <String Name="Menghapus Kotak ini" NameU="Delete this Box" />
+    <String Name="Menghapus Lingkaran ini" NameU="Delete this Circle" />
+    <String Name="Menghapus Item ini" NameU="Delete this Item" />
+    <String Name="Menghapus Tingkat ini" NameU="Delete this Level" />
+    <String Name="Menghapus Baris ini" NameU="Delete this Row" />
+    <String Name="Menghapus Segmen ini" NameU="Delete this Segment" />
+    <String Name="Menghapus Langkah ini" NameU="Delete this Step" />
+    <String Name="Departemen" NameU="Department" />
+    <String Name="Entitas Dependen" NameU="Dependent Entity" />
+    <String Name="Penipisan" NameU="Depletion" />
+    <String Name="Atribut Turunan" NameU="Derived Attribute" />
+    <String Name="Deskripsi" NameU="Description" />
+    <String Name="Tipe Perangkat" NameU="Device Type" />
+    <String Name="Dial" NameU="Dial" />
+    <String Name="Diameter" NameU="Diameter" />
+    <String Name="Wajik" NameU="Diamond" />
+    <String Name="Tanda Wajik" NameU="Diamond Mark" />
+    <String Name="Diafragma 1" NameU="Diaphragm 1" />
+    <String Name="Diafragma 2" NameU="Diaphragm 2" />
+    <String Name="Diafragma 3" NameU="Diaphragm 3" />
+    <String Name="Penerima Diferensial" NameU="Differential Receiver" />
+    <String Name="Voltmeter Diferensial" NameU="Differential Voltmeter" />
+    <String Name="Membedakan" NameU="Differentiating" />
+    <String Name="Digital ke Analog" NameU="Digital to Analog" />
+    <String Name="Arah" NameU="Direction" />
+    <String Name="Pencarian Arah" NameU="Direction Finding" />
+    <String Name="Dipanaskan Langsung" NameU="Directly Heated" />
+    <String Name="Lumpuhkan" NameU="Disable" />
+    <String Name="Diputuskan" NameU="Disengaged" />
+    <String Name="Tampilkan garis melintang" NameU="Display across line" />
+    <String Name="Dokumen" NameU="Document" />
+    <String Name="Jangan Tampilkan Satuan" NameU="Don't Show Units" />
+    <String Name="Garis Titik-Titik" NameU="Dotted Line" />
+    <String Name="Lingkaran Ganda" NameU="Double Circle" />
+    <String Name="Garis Ganda" NameU="Double Line" />
+    <String Name="Bawah" NameU="Down" />
+    <String Name="Posisi Bawah" NameU="Down Position" />
+    <String Name="Arah ke bawah" NameU="Down direction" />
+    <String Name="Draf" NameU="Draft" />
+    <String Name="Kering" NameU="Dry" />
+    <String Name="Lingkaran Ganda" NameU="Dual Circle" />
+    <String Name="Dua Wajik" NameU="Dual Diamond" />
+    <String Name="Dua Persegi Panjang" NameU="Dual Rectangle" />
+    <String Name="Dua Segitiga" NameU="Dual Triangle" />
+    <String Name="Dupleks" NameU="Duplex" />
+    <String Name="Entitas Duplikat" NameU="Duplicated Entity" />
+    <String Name="Durasi" NameU="Duration" />
+    <String Name="Terlalu Cepat Ditutup" NameU="Early to Close" />
+    <String Name="Edit Referensi" NameU="Edit Reference" />
+    <String Name="Electret" NameU="Electret" />
+    <String Name="Elektrolit" NameU="Electrolytic" />
+    <String Name="Tipe Elemen" NameU="Element Type" />
+    <String Name="Elips" NameU="Ellipse" />
+    <String Name="Email" NameU="Email" />
+    <String Name="Sakelar darurat" NameU="Emergency switch" />
+    <String Name="Fungsikan" NameU="Enable" />
+    <String Name="Tanggal Akhir" NameU="End Date" />
+    <String Name="Hanya Akhir" NameU="End Only" />
+    <String Name="Stasiun Akhir" NameU="End Station" />
+    <String Name="Dihubungkan" NameU="Engaged" />
+    <String Name="Penyempurnaan" NameU="Enhancement" />
+    <String Name="Membungkus" NameU="Envelop" />
+    <String Name="Amplop" NameU="Envelope" />
+    <String Name="Menghapus" NameU="Erasing" />
+    <String Name="Pita Frekuensi Tegak" NameU="Erect Band of Frequencies" />
+    <String Name="Kesalahan" NameU="Error" />
+    <String Name="Sempurna" NameU="Excellent" />
+    <String Name="Sisi Pertukaran" NameU="Exchange Side" />
+    <String Name="Pengecualian" NameU="Exclusion" />
+    <String Name="Data Eksklusif" NameU="Exclusive Data" />
+    <String Name="Data Eksklusif dengan Penanda" NameU="Exclusive Data with Marker" />
+    <String Name="Kejadian Eksklusif" NameU="Exclusive Event" />
+    <String Name="Alat Peluas" NameU="Expander" />
+    <String Name="Memperluas" NameU="Expanding" />
+    <String Name="Ekstensi" NameU="Extension" />
+    <String Name="Garis Ekstensi" NameU="Extension Lines" />
+    <String Name="Eksternal" NameU="External" />
+    <String Name="Sambungan Eksternal" NameU="External Connection" />
+    <String Name="Ekstra kecil" NameU="Extra Small" />
+    <String Name="Tipe Tudung Ekstraktor" NameU="Extractor Hood Type" />
+    <String Name="SALAH" NameU="FALSE" />
+    <String Name="Faksimile" NameU="Facsimile" />
+    <String Name="Salah" NameU="False" />
+    <String Name="Tipe Kipas" NameU="Fan Type" />
+    <String Name="Mundur Cepat" NameU="Fast Backward" />
+    <String Name="Maju Cepat" NameU="Fast Forward" />
+    <String Name="Kaki" NameU="Feet" />
+    <String Name="Konektor Female" NameU="Female Connectors" />
+    <String Name="Kontak Female" NameU="Female Contact" />
+    <String Name="Baik" NameU="Fine" />
+    <String Name="Api" NameU="Fire" />
+    <String Name="Derivatif pertama" NameU="First Derivative" />
+    <String Name="Diperbaiki" NameU="Fixed" />
+    <String Name="Api Datar" NameU="Flat Fire" />
+    <String Name="Tipe Flip-flop" NameU="Flip-flop Type" />
+    <String Name="Dioperasikan Secara Mengambang" NameU="Float-operated" />
+    <String Name="Kepala Mengambang" NameU="Floating Head" />
+    <String Name="Tipe Pemisah Cairan" NameU="Fluid Separator Type" />
+    <String Name="Dicairkan" NameU="Fluidized" />
+    <String Name="Empat Bilah" NameU="Four Blades" />
+    <String Name="Pita Frekuensi" NameU="Frequency Band" />
+    <String Name="Pengubah Frekuensi" NameU="Frequency Changer" />
+    <String Name="Pengukur Frekuensi" NameU="Frequency Meter" />
+    <String Name="Dari 10% hingga 100%" NameU="From 10% to 100%" />
+    <String Name="Galvanometer" NameU="Galvanometer" />
+    <String Name="Jarak Celah" NameU="Gap Distance" />
+    <String Name="Ukuran Celah" NameU="Gap Size" />
+    <String Name="Gas" NameU="Gas" />
+    <String Name="Turbin Gas" NameU="Gas Turbine" />
+    <String Name="Gate" NameU="Gate" />
+    <String Name="Tipe Gate" NameU="Gate Type" />
+    <String Name="Umum" NameU="General" />
+    <String Name="Sekring Umum" NameU="General Fuse" />
+    <String Name="Kecepatan Umum" NameU="General Speed" />
+    <String Name="Generator" NameU="Generator" />
+    <String Name="Bagus" NameU="Good" />
+    <String Name="Kualitas bagus" NameU="Good Quality" />
+    <String Name="Gravitasi" NameU="Gravitation" />
+    <String Name="Abu-abu" NameU="Gray" />
+    <String Name="Hijau" NameU="Green" />
+    <String Name="Tanah" NameU="Ground" />
+    <String Name="Dipasang ke Tanah" NameU="Grounded" />
+    <String Name="Grup Saluran Tegak" NameU="Group of Erect Channels" />
+    <String Name="Palu" NameU="Hammer" />
+    <String Name="Generator Tangan" NameU="Hand Generator" />
+    <String Name="Dioperasikan dengan Tangan" NameU="Hand-operated" />
+    <String Name="Roda tangan" NameU="Handwheel" />
+    <String Name="Pusat Hdie" NameU="Hdie Center" />
+    <String Name="Tipe Alat Penghantar Panas" NameU="Heat Exchanger Type" />
+    <String Name="Tipe Alat Pemanas" NameU="Heat Source Type" />
+    <String Name="Elemen Pemanas" NameU="Heating Element" />
+    <String Name="Tinggi" NameU="Height" />
+    <String Name="Menyembunyikan Panah" NameU="Hide Arrow" />
+    <String Name="Menyembunyikan Sumbu" NameU="Hide Axis" />
+    <String Name="Menyembunyikan Label Sumbu" NameU="Hide Axis Labels" />
+    <String Name="Menyembunyikan Batas" NameU="Hide Border" />
+    <String Name="Menyembunyikan Bagian bawah" NameU="Hide Bottom" />
+    <String Name="Menyembunyikan Garis Bawah" NameU="Hide Bottom Line" />
+    <String Name="Menyembunyikan Tombol" NameU="Hide Button" />
+    <String Name="Menyembunyikan Bagian Tengah" NameU="Hide Center" />
+    <String Name="Menyembunyikan Lingkaran Tengah" NameU="Hide Center Circle" />
+    <String Name="Menyembunyikan Bentuk Pusat" NameU="Hide Center Shape" />
+    <String Name="Menyembunyikan Lingkaran" NameU="Hide Circle" />
+    <String Name="Menyembunyikan Garis Penghubung" NameU="Hide Connect Line" />
+    <String Name="Menyembunyikan Silang" NameU="Hide Cross" />
+    <String Name="Menyembunyikan Garis Silang" NameU="Hide Cross Line" />
+    <String Name="Menyembunyikan Label Data" NameU="Hide Data Labels" />
+    <String Name="Menyembunyikan Hapus" NameU="Hide Delete" />
+    <String Name="Menyembunyikan Titik" NameU="Hide Dot" />
+    <String Name="Menyembunyikan Centang Akhir" NameU="Hide End Tick" />
+    <String Name="Menyembunyikan Amplop" NameU="Hide Envelop" />
+    <String Name="Menyembunyikan Lebar Pintu Keluar" NameU="Hide Exit Width" />
+    <String Name="Menyembunyikan Blok Pertama Judul" NameU="Hide First Block of Title" />
+    <String Name="Menyembunyikan Partikel Kecil" NameU="Hide Granule" />
+    <String Name="Menyembunyikan Kisi" NameU="Hide Grid" />
+    <String Name="Menyembunyikan Alur" NameU="Hide Groove" />
+    <String Name="Menyembunyikan Kisi Horizontal" NameU="Hide Horizontal Grid" />
+    <String Name="Menyembunyikan Gambar" NameU="Hide Image" />
+    <String Name="Menyembunyikan Persimpangan" NameU="Hide Junction" />
+    <String Name="Menyembunyikan Kotak Kiri" NameU="Hide Left Box" />
+    <String Name="Menyembunyikan Teks Kiri" NameU="Hide Left Text" />
+    <String Name="Menyembunyikan Legenda" NameU="Hide Legend" />
+    <String Name="Menyembunyikan Garis" NameU="Hide Line" />
+    <String Name="Menyembunyikan Cairan" NameU="Hide Liquid" />
+    <String Name="Menyembunyikan Lingkaran Tengah" NameU="Hide Middle Circle" />
+    <String Name="Menyembunyikan Netral" NameU="Hide Neutral" />
+    <String Name="Menyembunyikan Operator" NameU="Hide Operator" />
+    <String Name="Menyembunyikan Label Persentase" NameU="Hide Percentage Labels" />
+    <String Name="Menyembunyikan Foto" NameU="Hide Photo" />
+    <String Name="Menyembunyikan Simbol Polaritas" NameU="Hide Polarity Symbols" />
+    <String Name="Menyembunyikan Reflektor" NameU="Hide Reflector" />
+    <String Name="Menyembunyikan Tombol Segarkan" NameU="Hide Refresh Button" />
+    <String Name="Menyembunyikan Teks Kanan" NameU="Hide Right Text" />
+    <String Name="Menyembunyikan Penggaris" NameU="Hide Ruler" />
+    <String Name="Menyembunyikan SWOT" NameU="Hide SWOT" />
+    <String Name="Menyembunyikan Tanda Skala" NameU="Hide Scale Mark" />
+    <String Name="Menyembunyikan Lapisan" NameU="Hide Seam" />
+    <String Name="Menyembunyikan Materi Padat" NameU="Hide Solid Matter" />
+    <String Name="Menyembunyikan Tumpuan Tangga" NameU="Hide Stair Stagger" />
+    <String Name="Menyembunyikan Tabel" NameU="Hide Table" />
+    <String Name="Menyembunyikan Lubang Tangki" NameU="Hide Tank Lip" />
+    <String Name="Menyembunyikan Teks" NameU="Hide Text" />
+    <String Name="Menyembunyikan Blok Teks" NameU="Hide Text Block" />
+    <String Name="Menyembunyikan Centang" NameU="Hide Tick" />
+    <String Name="Menyembunyikan Judul" NameU="Hide Title" />
+    <String Name="Menyembunyikan Bilah Judul" NameU="Hide Title Bar" />
+    <String Name="Menyembunyikan Kisi Vertikal" NameU="Hide Vertical Grid" />
+    <String Name="Menyembunyikan garis melintang" NameU="Hide across line" />
+    <String Name="Menyembunyikan/Menampilkan Sumbu" NameU="Hide/Show Axis" />
+    <String Name="Menyembunyikan/Menampilkan Kisi" NameU="Hide/Show Grid" />
+    <String Name="Tinggi" NameU="High" />
+    <String Name="Keuntungan Tinggi" NameU="High Gain" />
+    <String Name="Kecepatan Tinggi" NameU="High Speed" />
+    <String Name="Tapis Lolos Tinggi" NameU="High-pass Filter" />
+    <String Name="Roller Kecepatan Tinggi" NameU="High-speed Roller" />
+    <String Name="Menyoroti" NameU="Highlight" />
+    <String Name="Kerekan" NameU="Hoist" />
+    <String Name="Tipe Kerekan" NameU="Hoist Type" />
+    <String Name="Kerekan dengan Pegangan" NameU="Hoist with Grab" />
+    <String Name="Kerekan dengan Kait" NameU="Hoist with Hook" />
+    <String Name="Rongga" NameU="Hollow" />
+    <String Name="Pita Berongga" NameU="Hollow Band" />
+    <String Name="Merek Berongga" NameU="Hollow Brand" />
+    <String Name="Lingkaran Berongga" NameU="Hollow Circle" />
+    <String Name="Wajik Berongga" NameU="Hollow Diamond" />
+    <String Name="Persegi Berongga" NameU="Hollow Rectangle" />
+    <String Name="Segitiga Berongga" NameU="Hollow Triangle" />
+    <String Name="Horizontal" NameU="Horizontal" />
+    <String Name="Bilah Horizontal" NameU="Horizontal Blades" />
+    <String Name="Celah Elektrode Tanduk" NameU="Horn Gap" />
+    <String Name="Transformator Hibrida" NameU="Hybrid Transformer" />
+    <String Name="ID" NameU="ID" />
+    <String Name="Ikon" NameU="Icon" />
+    <String Name="Jika Max Value (Nilai Maks) -1, nilai yang lebih besar antara Nilai 1 dan Nilai 2 akan digunakan." NameU="If Max Value is -1, it will takes the large one of Value 1 and Value 2." />
+    <String Name="Dampak" NameU="Impact" />
+    <String Name="Proses Implementasi" NameU="Implementational" />
+    <String Name="Diimpor" NameU="Imported" />
+    <String Name="Diimpor dan Dapat Diganti" NameU="Imported and Substitutable" />
+    <String Name="Sedang Berlangsung" NameU="In Progress" />
+    <String Name="Sedang Aktif" NameU="In Service" />
+    <String Name="Di Pidang" NameU="In the Field" />
+    <String Name="Inci" NameU="Inches" />
+    <String Name="Inklusif" NameU="Inclusive" />
+    <String Name="Masuk" NameU="Incoming" />
+    <String Name="Entitas Independen" NameU="Independent Entity" />
+    <String Name="Indikator" NameU="Indicator" />
+    <String Name="Dipanaskan Tidak Langsung" NameU="Indirectly Heated" />
+    <String Name="Inersia" NameU="Inertial" />
+    <String Name="Reaktansi Tak Terbatas" NameU="Infinite Reactance" />
+    <String Name="Reaktansi Tak Terbatas - Kerentanan nol" NameU="Infinite Reactance - Zero susceptance" />
+    <String Name="Awal" NameU="Initial" />
+    <String Name="Panah Dalam" NameU="Inner Arrow" />
+    <String Name="Input" NameU="Input" />
+    <String Name="Masukkan angka antara 0 hingga 360" NameU="Input the number between 0 to 360" />
+    <String Name="Input" NameU="Input(s)" />
+    <String Name="Sisipkan Kotak" NameU="Insert a Box" />
+    <String Name="Sisipkan Lingkaran" NameU="Insert a Circle" />
+    <String Name="Sisipkan Tingkat" NameU="Insert a Level" />
+    <String Name="Sisipkan Baris" NameU="Insert a Row" />
+    <String Name="Sisipkan Segmen" NameU="Insert a Segment" />
+    <String Name="Sisipkan Langkah" NameU="Insert a Step" />
+    <String Name="Sisipkan Item" NameU="Insert an Item" />
+    <String Name="Di Dalam Label Data" NameU="Inside Data Labels" />
+    <String Name="Di Dalam Teks" NameU="Inside Text" />
+    <String Name="Instansiasikan Kejadian Eksklusif" NameU="Instantiate Exclusive Event" />
+    <String Name="Instansiasikan Kejadian Paralel" NameU="Instantiate Parallel Event" />
+    <String Name="Elemen Pemanas yang Diisolasi" NameU="Insulated Heating Element" />
+    <String Name="Mengisolasi" NameU="Insulating" />
+    <String Name="Bilangan Bulat" NameU="Integer" />
+    <String Name="Terintegrasi" NameU="Integrating" />
+    <String Name="Saling Terhubung" NameU="Interconnected" />
+    <String Name="Internal" NameU="Internal" />
+    <String Name="Sambungan Internal" NameU="Internal Connection" />
+    <String Name="Interval" NameU="Interval" />
+    <String Name="Panah Terbalik" NameU="Invert Arrow" />
+    <String Name="Segitiga Terbalik" NameU="Invert Triangle" />
+    <String Name="Pita Frekuensi Terbalik" NameU="Inverted Band of Frequencies" />
+    <String Name="Pembalik Arah" NameU="Inverter" />
+    <String Name="Tidak Terlihat" NameU="Invisible" />
+    <String Name="Ke Dalam" NameU="Inward" />
+    <String Name="Nomor Item" NameU="Item Number" />
+    <String Name="JK Flip-flop" NameU="JK Flip-flop" />
+    <String Name="Jack" NameU="Jack" />
+    <String Name="Rahang" NameU="Jaw" />
+    <String Name="Jet" NameU="Jet" />
+    <String Name="Jumbo" NameU="Jumbo" />
+    <String Name="Mempertahankan Rasio Gambar" NameU="Keep Image Ratio" />
+    <String Name="Mempertahankan Rasio Foto" NameU="Keep Photo Ratio" />
+    <String Name="Tombol" NameU="Key" />
+    <String Name="Atribut Tombol" NameU="Key Attribute" />
+    <String Name="Keyboard" NameU="Keyboard" />
+    <String Name="Kilometer" NameU="Kilometers" />
+    <String Name="Tipe Pengaduk" NameU="Kneader Type" />
+    <String Name="Label" NameU="Label" />
+    <String Name="Besar" NameU="Large" />
+    <String Name="Skala Besar/Mengonversi" NameU="Large Scale / Converting" />
+    <String Name="Skala Besar/Umum" NameU="Large Scale / General" />
+    <String Name="Generator Laser" NameU="Laser Generator" />
+    <String Name="Laser, Umum" NameU="Laser, General" />
+    <String Name="Kait Flip-flop" NameU="Latch Flip-flop" />
+    <String Name="Terlambat Ditutup" NameU="Late to Close" />
+    <String Name="Kiri" NameU="Left" />
+    <String Name="Tipe Ikon Kiri" NameU="Left Icon Type" />
+    <String Name="Sisi Kiri" NameU="Left Side" />
+    <String Name="Arah kiri" NameU="Left direction" />
+    <String Name="Nilai belahan kiri." NameU="Left hemisphere value." />
+    <String Name="Nomor Tingkat" NameU="Level Number" />
+    <String Name="Sensitif Cahaya" NameU="Light Sensitive" />
+    <String Name="Ukuran Garis" NameU="Line Size" />
+    <String Name="Tampilan Tipe Garis" NameU="Line-type Display" />
+    <String Name="Tautan" NameU="Link" />
+    <String Name="Cairan" NameU="Liquid" />
+    <String Name="Muat Data dari File" NameU="Load Data from File" />
+    <String Name="Dimuat" NameU="Loaded" />
+    <String Name="Lock" NameU="Lock" />
+    <String Name="Logaritma" NameU="Logarithmic" />
+    <String Name="Logis" NameU="Logical" />
+    <String Name="Loop - Tidak Ada" NameU="Loop - None" />
+    <String Name="Loop - Multi-Instans Paralel" NameU="Loop - Parallel Multi-Instance" />
+    <String Name="Loop - Multi-Instans Berurutan" NameU="Loop - Sequential Multi-Instance" />
+    <String Name="Loop - Standar" NameU="Loop - Standard" />
+    <String Name="Rendah" NameU="Low" />
+    <String Name="Tapis Lolos Rendah" NameU="Low-pass Filter" />
+    <String Name="B/h/tttt" NameU="M/d/yyyy" />
+    <String Name="B/h/tttt jj:mm" NameU="M/d/yyyy h:mm AM/PM" />
+    <String Name="BBB h,yyyy" NameU="MMM d,yyyy" />
+    <String Name="Tipe Mesin" NameU="Machine Type" />
+    <String Name="Magnetik" NameU="Magnetic" />
+    <String Name="Magnetik dengan Celah" NameU="Magnetic with Gap" />
+    <String Name="Inti Magnetik" NameU="Magnetic-core" />
+    <String Name="Terpolarisasi Secara Magnetik" NameU="Magnetically Polarized" />
+    <String Name="Magnetosrictive" NameU="Magnetostrictive" />
+    <String Name="Buat Kontak" NameU="Make Contact" />
+    <String Name="Konektor Male" NameU="Male Connectors" />
+    <String Name="Kontak Male" NameU="Male Contact" />
+    <String Name="Pria" NameU="Man" />
+    <String Name="Produsen" NameU="Manufacturer" />
+    <String Name="Banyak ke banyak" NameU="Many-to-Many" />
+    <String Name="Ukuran Penanda" NameU="Marker Size" />
+    <String Name="Gaya Penanda" NameU="Marker Style" />
+    <String Name="Penguat Maser" NameU="Maser Amplifier" />
+    <String Name="Maser, Umum" NameU="Maser, General" />
+    <String Name="Grup Induk" NameU="Mastergroup" />
+    <String Name="Material" NameU="Material" />
+    <String Name="Skala Maks" NameU="Max Scale" />
+    <String Name="Nilai Maks" NameU="Max Value" />
+    <String Name="Nilai data maks semua gelembung" NameU="Max data value of all the bubbles" />
+    <String Name="Indikator Permintaan Maks." NameU="Max.Demand Indicator" />
+    <String Name="Secara Mekanis" NameU="Mechanically" />
+    <String Name="Sedang" NameU="Medium" />
+    <String Name="Merkuri" NameU="Mercury" />
+    <String Name="Pesan" NameU="Message" />
+    <String Name="Meter" NameU="Meters" />
+    <String Name="Tipe Mikrofon" NameU="Microphone Type" />
+    <String Name="Tengah" NameU="Middle" />
+    <String Name="Titik Tengah" NameU="Midpoint" />
+    <String Name="Mil" NameU="Miles" />
+    <String Name="Tipe Pabrik" NameU="Mill Type" />
+    <String Name="Milimeter" NameU="Millimeters" />
+    <String Name="Skala Min" NameU="Min Scale" />
+    <String Name="Nilai Min" NameU="Min Value" />
+    <String Name="Nilai data minimum semua gelembung." NameU="Min data value of all the bubbles." />
+    <String Name="Tipe Mixer" NameU="Mixer Type" />
+    <String Name="Model" NameU="Model" />
+    <String Name="Bulan" NameU="Month" />
+    <String Name="Motor" NameU="Motor" />
+    <String Name="Generator Motor" NameU="Motor Generator" />
+    <String Name="Pindah ke Bawah" NameU="Move Down" />
+    <String Name="Pindah ke Kiri" NameU="Move Left" />
+    <String Name="Pindah ke Kanan" NameU="Move Right" />
+    <String Name="Pindah Teks ke Lengkung Lainnya" NameU="Move Text to Other Bend" />
+    <String Name="Pindah ke Atas" NameU="Move Up" />
+    <String Name="Gerakan ke Kiri Diblokir" NameU="Movement Left Blocked" />
+    <String Name="Gerakan ke Kanan Diblokir" NameU="Movement Right Blocked" />
+    <String Name="Nomor Mullion" NameU="Mullion Number" />
+    <String Name="Banyak Celah" NameU="Multigap" />
+    <String Name="Banyak" NameU="Multiple" />
+    <String Name="Beberapa Garis" NameU="Multiple Lines" />
+    <String Name="Atribut Banyak Nilai" NameU="Multivalued Attribute" />
+    <String Name="Kepala Jamur" NameU="Mushroom Head" />
+    <String Name="Tipe Jamur" NameU="Mushroom Type" />
+    <String Name="Induktor timbal balik" NameU="Mutual inductor" />
+    <String Name="Tipe N" NameU="N-Type" />
+    <String Name="Tipe N" NameU="N-type" />
+    <String Name="NAND" NameU="NAND" />
+    <String Name="NOR" NameU="NOR" />
+    <String Name="NPIN" NameU="NPIN" />
+    <String Name="NPIP" NameU="NPIP" />
+    <String Name="Nama" NameU="Name" />
+    <String Name="Tidak satu pun" NameU="Neither" />
+    <String Name="Netral ditampilkan" NameU="Neutral brought out" />
+    <String Name="Arus searah netral (arus tunggal) +/O." NameU="Neutral direct-current (single current) +/o" />
+    <String Name="Arus searah netral (arus tunggal) -/o" NameU="Neutral direct-current (single current) -/o" />
+    <String Name="Bulan depan" NameU="Next Month" />
+    <String Name="Minggu Depan" NameU="Next Week" />
+    <String Name="Tahun depan" NameU="Next Year" />
+    <String Name="Bagus" NameU="Nice" />
+    <String Name="Tidak" NameU="No" />
+    <String Name="Tanpa Panah" NameU="No Arrow" />
+    <String Name="Tanpa Hitam" NameU="No Black" />
+    <String Name="Tanpa Tombol" NameU="No Button" />
+    <String Name="Tanpa Pembuat" NameU="No Maker" />
+    <String Name="Nomor Pin Dasar" NameU="No. of Base Pins" />
+    <String Name="Nomor Gate" NameU="No. of Gates" />
+    <String Name="Nomor Input" NameU="No. of Inputs" />
+    <String Name="Nomor Output" NameU="No. of Outputs" />
+    <String Name="Nomor Pin Atas" NameU="No. of Top Pins" />
+    <String Name="Nomor Input" NameU="No.of Inputs" />
+    <String Name="Nomor Output" NameU="No.of Outputs" />
+    <String Name="Node" NameU="Node" />
+    <String Name="Tidak Memanjang" NameU="Non-Extending" />
+    <String Name="Elemen Pemanas yang Tidak Diisolasi" NameU="Non-insulated Heating Element" />
+    <String Name="Tidak Ada" NameU="None" />
+    <String Name="Normal" NameU="Normal" />
+    <String Name="Akses Normal" NameU="Normal Access" />
+    <String Name="Tidak Saling Terhubung" NameU="Not Interconnected" />
+    <String Name="Nomor" NameU="Number" />
+    <String Name="Jumlah Lingkaran" NameU="Number of Circles" />
+    <String Name="Jumlah Garis" NameU="Number of Lines" />
+    <String Name="Jumlah input" NameU="Number of inputs" />
+    <String Name="Jumlah pin di atas" NameU="Number of pins on top" />
+    <String Name="Jumlah sudut" NameU="Number of vertices" />
+    <String Name="ATAU" NameU="OR" />
+    <String Name="Pada Panel Kontrol Pusat" NameU="On Central Control Panel" />
+    <String Name="Pada Panel Kontrol Lokal" NameU="On Local Control Panel" />
+    <String Name="Satu Lingkaran" NameU="One Circle" />
+    <String Name="Satu Garis" NameU="One Line" />
+    <String Name="Satu Putaran" NameU="One Winding" />
+    <String Name="Satu ke banyak" NameU="One-to-Many" />
+    <String Name="Simpleks satu arah" NameU="One-way Simplex" />
+    <String Name="Buka" NameU="Open" />
+    <String Name="Ujung Panah Terbuka" NameU="Open Arrow End" />
+    <String Name="Bagian Bawah Terbuka" NameU="Open Bottom" />
+    <String Name="Rangkaian Terbuka" NameU="Open Circuit" />
+    <String Name="Ujung Terbuka" NameU="Open End" />
+    <String Name="Bagian Kiri Terbuka" NameU="Open Left" />
+    <String Name="Bagian Kanan Terbuka" NameU="Open Right" />
+    <String Name="Tabung Kanan Terbuka" NameU="Open Right Tube" />
+    <String Name="Bagian Atas Terbuka" NameU="Open Top" />
+    <String Name="Operasional" NameU="Operational" />
+    <String Name="Opsional" NameU="Optional" />
+    <String Name="Opsional dan Dapat Diganti" NameU="Optional and Substitutable" />
+    <String Name="Oranye" NameU="Orange" />
+    <String Name="Osiloskop" NameU="Oscilloscope" />
+    <String Name="Panah Luar" NameU="Outer Arrow" />
+    <String Name="Keluar" NameU="Outgoing" />
+    <String Name="Output" NameU="Output" />
+    <String Name="Nomor Output" NameU="Output number" />
+    <String Name="Output" NameU="Output(s)" />
+    <String Name="Di Luar Label Data" NameU="Outside Data Labels" />
+    <String Name="Teks Luar" NameU="Outside Text" />
+    <String Name="Bagian Luar" NameU="Outward" />
+    <String Name="Overhead" NameU="Overhead" />
+    <String Name="Tipe Konveyor Overhead" NameU="Overhead Conveyor Type" />
+    <String Name="Gambaran Umum" NameU="Overview" />
+    <String Name="Gate Tipe P" NameU="P Type-Gate" />
+    <String Name="Tipe P" NameU="P-Type" />
+    <String Name="Tipe P" NameU="P-type" />
+    <String Name="PNIN" NameU="PNIN" />
+    <String Name="PNIP" NameU="PNIP" />
+    <String Name="Pencetakan Halaman" NameU="Page Printing" />
+    <String Name="Satuan Halaman" NameU="Page's Unit" />
+    <String Name="Paralel" NameU="Parallel" />
+    <String Name="Pasif" NameU="Passive" />
+    <String Name="Jeda" NameU="Pause" />
+    <String Name="Persentase" NameU="Percentage" />
+    <String Name="Permanen" NameU="Permanent" />
+    <String Name="Pengukur Fase" NameU="Phase Meter" />
+    <String Name="Telepon" NameU="Phone" />
+    <String Name="Frekuensi Pilot" NameU="Pilot Frequency" />
+    <String Name="Direncanakan" NameU="Planned" />
+    <String Name="Steker" NameU="Plug" />
+    <String Name="Nomor Poin" NameU="Point Number" />
+    <String Name="Arus Searah Kutub (Arus Ganda)" NameU="Polar direct-current (double current)" />
+    <String Name="Buruk" NameU="Poor" />
+    <String Name="Kualitas Buruk" NameU="Poor Quality" />
+    <String Name="Posisi" NameU="Position" />
+    <String Name="Potensiometer" NameU="Potentiometer" />
+    <String Name="Pengukur Faktor Daya" NameU="Power-factor Meter" />
+    <String Name="Frekuensi Lebih Tinggi yang Telah Diketahui" NameU="Pre-emphasize Higher Frequencies" />
+    <String Name="Potensiometer Prasetel" NameU="Pre-set Potentiometer" />
+    <String Name="Resistor Prasetel" NameU="Pre-set Resistor" />
+    <String Name="Presisi" NameU="Precision" />
+    <String Name="Presisi &amp; Satuan" NameU="Precision &amp; Units" />
+    <String Name="Satuan presisi..." NameU="Precision Units..." />
+    <String Name="Unit Prefiks" NameU="Prefix Unit" />
+    <String Name="Bulan Sebelumnya" NameU="Prev Month" />
+    <String Name="Minggu Sebelumnya" NameU="Prev Week" />
+    <String Name="Tahun Sebelumnya" NameU="Prev Year" />
+    <String Name="Harga" NameU="Price" />
+    <String Name="Tipe Penggerak Utama" NameU="Prime Mover Type" />
+    <String Name="Proses" NameU="Process" />
+    <String Name="ID Proses" NameU="Process ID" />
+    <String Name="Nama Proses" NameU="Process Name" />
+    <String Name="Kemajuan" NameU="Progress" />
+    <String Name="Celah Pelindung" NameU="Protective Gap" />
+    <String Name="Efek Jarak" NameU="Proximity Effect" />
+    <String Name="Sakelar Tarik 1" NameU="Pull-switch 1" />
+    <String Name="Sakelar Tarik 2" NameU="Pull-switch 2" />
+    <String Name="Menarik" NameU="Pulling" />
+    <String Name="Pembalik Arah Pulsa" NameU="Pulse Inverter" />
+    <String Name="Modulasi Amplitudo Pulsa" NameU="Pulse-amplitude Modulation" />
+    <String Name="Modulasi Durasi Pulsa" NameU="Pulse-duration Modulation" />
+    <String Name="Modulasi Frekuensi Pulsa" NameU="Pulse-frequency Modulation" />
+    <String Name="Modulasi Interval Pulsa" NameU="Pulse-interval Modulation" />
+    <String Name="Modulasi Fase Pulsa" NameU="Pulse-phase Modulation" />
+    <String Name="Tipe Pompa" NameU="Pump Type" />
+    <String Name="Kepala Tekan-Tarik" NameU="Push-Pull Head" />
+    <String Name="Tombol Tekan 1" NameU="Push-button 1" />
+    <String Name="Tombol Tekan 2" NameU="Push-button 2" />
+    <String Name="Tekan-Tarik" NameU="Push-pull" />
+    <String Name="Tekan/Tarik" NameU="Push/pull" />
+    <String Name="Tombol Tekan" NameU="Pushbutton" />
+    <String Name="Mendorong" NameU="Pushing" />
+    <String Name="Kualifikasi" NameU="Qualifier" />
+    <String Name="Tipe Kualifikasi" NameU="Qualifier Type" />
+    <String Name="Kualitas" NameU="Quality" />
+    <String Name="Triwulan" NameU="Quarter" />
+    <String Name="Pertanyaan 1" NameU="Question 1" />
+    <String Name="Pertanyaan 2" NameU="Question 2" />
+    <String Name="Pertanyaan 3" NameU="Question 3" />
+    <String Name="RS Flip-flop" NameU="RS Flop-flop" />
+    <String Name="Radia" NameU="Radia" />
+    <String Name="Radial" NameU="Radial" />
+    <String Name="Radian" NameU="Radians" />
+    <String Name="Suar Radio" NameU="Radio Beacon" />
+    <String Name="Tombol Radio" NameU="Radio Button" />
+    <String Name="Radioisotop" NameU="Radioisotope" />
+    <String Name="Radius * 0,25" NameU="Radius * 0.25" />
+    <String Name="Radius * 0,5" NameU="Radius * 0.5" />
+    <String Name="Radius * 0,75" NameU="Radius * 0.75" />
+    <String Name="Radius * 1" NameU="Radius * 1" />
+    <String Name="Radius * 2" NameU="Radius * 2" />
+    <String Name="Radius * 3" NameU="Radius * 3" />
+    <String Name="Radius * 4" NameU="Radius * 4" />
+    <String Name="Radius * 5" NameU="Radius * 5" />
+    <String Name="Radius * 6" NameU="Radius * 6" />
+    <String Name="Radius * 7" NameU="Radius * 7" />
+    <String Name="Radius * 8" NameU="Radius * 8" />
+    <String Name="Ramp" NameU="Ramp" />
+    <String Name="Rentang 1" NameU="Range 1" />
+    <String Name="Rentang 2" NameU="Range 2" />
+    <String Name="Rentang 3" NameU="Range 3" />
+    <String Name="Rentang 4" NameU="Range 4" />
+    <String Name="Nomor Rentang" NameU="Range Number" />
+    <String Name="Ammeter Arus Reaktif" NameU="Reactive Current Ammeter" />
+    <String Name="Membaca" NameU="Reading" />
+    <String Name="Nyata" NameU="Real" />
+    <String Name="Penerima" NameU="Receiver" />
+    <String Name="Sinyal" NameU="Reception" />
+    <String Name="Maju-mundur" NameU="Reciprocating" />
+    <String Name="Mesin Maju-Mundur" NameU="Reciprocating Engine" />
+    <String Name="Perekam/Pembuat Ulang" NameU="Recorder/Reproducer" />
+    <String Name="Tanda Persegi Panjang" NameU="Rect Mark" />
+    <String Name="Persegi Panjang" NameU="Rectangle" />
+    <String Name="Penyearah" NameU="Rectifier" />
+    <String Name="Penyearah/Pembalik Arah" NameU="Rectifier/Inverter" />
+    <String Name="Merah" NameU="Red" />
+    <String Name="Frekuensi Pembawa yang Dikurangi" NameU="Reduced-carrier Frequency" />
+    <String Name="Referensi" NameU="Reference" />
+    <String Name="Port Referensi" NameU="Reference Port" />
+    <String Name="Tipe Referensi" NameU="Reference Type" />
+    <String Name="RelationShip" NameU="RelationShip" />
+    <String Name="Port Relai" NameU="Relay Port" />
+    <String Name="Tipe Relai" NameU="Relay Type" />
+    <String Name="Pegangan Jarak Jauh" NameU="Remote Handle" />
+    <String Name="Menghapus Mikrofon" NameU="Remove Microphone" />
+    <String Name="Menghapus Segmen" NameU="Remove Segment" />
+    <String Name="Stasiun Pengulang" NameU="Repeater Station" />
+    <String Name="Tipe Pengulang" NameU="Repeater Type" />
+    <String Name="Mengganti Gambar" NameU="Replace Image" />
+    <String Name="Mengganti Logo" NameU="Replace Logo" />
+    <String Name="Mengganti Foto" NameU="Replace Photo" />
+    <String Name="Digandakan" NameU="Replicated" />
+    <String Name="Kelas yang Digandakan" NameU="Replicated Class" />
+    <String Name="Referensi yang Digandakan" NameU="Replicated Reference" />
+    <String Name="Digandakan dan Diimpor" NameU="Replicated and Imported" />
+    <String Name="Digandakan dan Opsional" NameU="Replicated and Optional" />
+    <String Name="Digandakan dan Dapat Diganti" NameU="Replicated and Substitutable" />
+    <String Name="Pembuat Ulang" NameU="Reproducer" />
+    <String Name="Mengatur Ulang Teks Otomatis..." NameU="Reset Auto Text..." />
+    <String Name="Mengatur Ulang Ukuran" NameU="Reset Size" />
+    <String Name="Mengatur Ulang Teks" NameU="Reset Text" />
+    <String Name="Mengatur Ulang Posisi Teks" NameU="Reset Text Position" />
+    <String Name="Resolver" NameU="Resolver" />
+    <String Name="Sumber daya" NameU="Resources" />
+    <String Name="Akses Terbatas" NameU="Restricted Access" />
+    <String Name="Pemblokiran Terbalik" NameU="Reverse Blocking" />
+    <String Name="Konduksi Terbalik" NameU="Reverse Conducting" />
+    <String Name="Rotasi terbalik" NameU="Reverse rotation" />
+    <String Name="Kanan" NameU="Right" />
+    <String Name="Tipe Ikon Kanan" NameU="Right Icon Type" />
+    <String Name="Sisi Kanan" NameU="Right Side" />
+    <String Name="Arah kanan" NameU="Right direction" />
+    <String Name="Nilai belahan kanan." NameU="Right hemisphere value." />
+    <String Name="Nomor Cincin" NameU="Ring Number" />
+    <String Name="Lebar Jalan" NameU="Road Width" />
+    <String Name="Roller" NameU="Roller" />
+    <String Name="Berputar" NameU="Rolling" />
+    <String Name="Putaran" NameU="Rotary" />
+    <String Name="Lantai Tangga Bulat" NameU="Round Landing" />
+    <String Name="Nomor Baris" NameU="Row Number" />
+    <String Name="Baris" NameU="Rows" />
+    <String Name="Generator Laser Ruby" NameU="Ruby Laser Generator" />
+    <String Name="Generator Laser Ruby dengan Lampu Xenon" NameU="Ruby Laser Generator with Xenon Lamp" />
+    <String Name="Aturan" NameU="Rule" />
+    <String Name="Pengukur Salinitas" NameU="Salinity Meter" />
+    <String Name="Gerigi" NameU="Sawtooth" />
+    <String Name="Presisi Skala" NameU="Scale Precision" />
+    <String Name="Sekrup" NameU="Screw" />
+    <String Name="Tipe Konveyor Sekrup" NameU="Screw Conveyor Type" />
+    <String Name="Mengencangkan" NameU="Screw-down" />
+    <String Name="Dikencangkan" NameU="Screwed" />
+    <String Name="Derivatif kedua" NameU="Second Derivative" />
+    <String Name="Aliran Sekunder" NameU="Secondary Flow" />
+    <String Name="Bagian" NameU="Section" />
+    <String Name="Nomor Segmen" NameU="Segment Number" />
+    <String Name="Memilih Tipe Referensi Aktor..." NameU="Select Actor Reference Type..." />
+    <String Name="Memilih Port Referensi..." NameU="Select Reference Port..." />
+    <String Name="Memilih Port Relai..." NameU="Select Relay Port..." />
+    <String Name="Memilih Tipe Titik Transisi..." NameU="Select Transition Point Type..." />
+    <String Name="Dipilih" NameU="Selected" />
+    <String Name="Semikonduksi" NameU="Semiconducting" />
+    <String Name="Terpisah" NameU="Separated" />
+    <String Name="Seri" NameU="Series" />
+    <String Name="Nomor Seri" NameU="Series Number" />
+    <String Name="Layanan" NameU="Service" />
+    <String Name="Mengatur Tipe Penguat..." NameU="Set Amplifier Type..." />
+    <String Name="Mengatur Sudut" NameU="Set Angle" />
+    <String Name="Mengatur Nomor Panah" NameU="Set Arrow Number" />
+    <String Name="Mengatur Ukuran Panah" NameU="Set Arrow Size" />
+    <String Name="Mengatur Skala Maks dan Min Sumbu" NameU="Set Axis Max and Min Scale" />
+    <String Name="Mengatur Nomor Sumbu" NameU="Set Axis Number" />
+    <String Name="Mengatur Nomor Kotak" NameU="Set Box Number" />
+    <String Name="Mengatur Nomor Kategori" NameU="Set Category Number" />
+    <String Name="Mengatur Nomor Kursi" NameU="Set Chair Number" />
+    <String Name="Mengatur Nomor Lingkaran" NameU="Set Circle Number" />
+    <String Name="Mengatur Nomor Kolom" NameU="Set Column Number" />
+    <String Name="Mengatur Tipe Kontrol..." NameU="Set Control Type..." />
+    <String Name="Mengatur Tipe Konverter..." NameU="Set Converter Type..." />
+    <String Name="Mengatur Tanggal Sekarang" NameU="Set Current Date" />
+    <String Name="Mengatur Data" NameU="Set Data" />
+    <String Name="Mengatur Tipe Data" NameU="Set Data Type" />
+    <String Name="Mengatur Tipe Penundaan..." NameU="Set Delay Type..." />
+    <String Name="Mengatur Tipe Perangkat..." NameU="Set Device Type..." />
+    <String Name="Mengatur Ketebalan Donat" NameU="Set Doughnut Thickness" />
+    <String Name="Mengatur Data Pengukur" NameU="Set Gauge Data" />
+    <String Name="Mengatur Tipe Alat Pemanas..." NameU="Set Heat Source Type..." />
+    <String Name="Mengatur Rongga" NameU="Set Hollow" />
+    <String Name="Mengatur Interval" NameU="Set Interval" />
+    <String Name="Mengatur Nomor Tingkat" NameU="Set Level Number" />
+    <String Name="Mengatur Tipe Mesin..." NameU="Set Machine Type..." />
+    <String Name="Mengatur Nilai Maks" NameU="Set Max Value" />
+    <String Name="Mengatur Nilai Maks dan Min" NameU="Set Max and Min Value" />
+    <String Name="Mengatur Ambang Batas" NameU="Set Milestone" />
+    <String Name="Mengatur Nilai Min" NameU="Set Min Value" />
+    <String Name="Mengatur Nomor Mullion" NameU="Set Mullion Number" />
+    <String Name="Mengatur Nomor Node..." NameU="Set Node Number..." />
+    <String Name="Mengatur Jumlah Garis" NameU="Set Number of Lines" />
+    <String Name="Mengatur Jumlah Terminal..." NameU="Set Number of Terminals..." />
+    <String Name="Mengatur Nomor Pai" NameU="Set Pie Number" />
+    <String Name="Mengatur Nomor Poin" NameU="Set Point Number" />
+    <String Name="Mengatur Posisi dan Data" NameU="Set Position and Data" />
+    <String Name="Mengatur Tipe Penggerak Utama..." NameU="Set Prime Mover Type..." />
+    <String Name="Mengatur Detail Proses..." NameU="Set Process Detail..." />
+    <String Name="Mengatur Kemajuan" NameU="Set Progress" />
+    <String Name="Mengatur Tipe Kualifikasi..." NameU="Set Qualifier Type..." />
+    <String Name="Mengatur Data Rentang" NameU="Set Range Data" />
+    <String Name="Mengatur Nomor Rentang" NameU="Set Range Number" />
+    <String Name="Mengatur Tipe Relai" NameU="Set Relay Type" />
+    <String Name="Mengatur Tipe Repeater..." NameU="Set Repeater Type..." />
+    <String Name="Mengatur Nomor Cincin" NameU="Set Ring Number" />
+    <String Name="Mengatur Ketebalan Cincin" NameU="Set Ring Thickness" />
+    <String Name="Mengatur Lebar Jalan" NameU="Set Road Width" />
+    <String Name="Mengatur Nomor Baris" NameU="Set Row Number" />
+    <String Name="Mengatur Nomor Segmen" NameU="Set Segment Number" />
+    <String Name="Mengatur Nomor Seri" NameU="Set Series Number" />
+    <String Name="Mengatur Padat" NameU="Set Solid" />
+    <String Name="Mengatur Mulai dan Langkah" NameU="Set Start and Step" />
+    <String Name="Mengatur Tipe Stasiun..." NameU="Set Station Type..." />
+    <String Name="Mengatur Tipe Substasiun..." NameU="Set Substation Type..." />
+    <String Name="Mengatur Posisi Sakelar" NameU="Set Switch Position" />
+    <String Name="Mengatur Tipe Sakelar..." NameU="Set Switch Type..." />
+    <String Name="Mengatur Tipe Sinkron..." NameU="Set Synchro Type..." />
+    <String Name="Mengatur Tipe Telepon..." NameU="Set Telephone Type..." />
+    <String Name="Mengatur Ketebalan" NameU="Set Thickness" />
+    <String Name="Mengatur Bilah waktu" NameU="Set Time Bar" />
+    <String Name="Mengatur Ukuran Gigi" NameU="Set Tooth Size" />
+    <String Name="Mengatur Properti Pengubah..." NameU="Set Transformer Properties..." />
+    <String Name="Mengatur Lebar Tabung" NameU="Set Tube Width" />
+    <String Name="Mengatur Nomor U." NameU="Set U Number" />
+    <String Name="Mengatur Nomor Vertex" NameU="Set Vertex Number" />
+    <String Name="Mengatur Interval Vertikal" NameU="Set Vertical Interval" />
+    <String Name="Mengatur Tipe Gelombang..." NameU="Set Wave Type..." />
+    <String Name="Mengatur Nomor Minggu" NameU="Set Week Number" />
+    <String Name="Mengatur Lebar" NameU="Set Width" />
+    <String Name="Mengatur Tipe Putaran..." NameU="Set Winding Type..." />
+    <String Name="Mengatur Posisi X, Posisi Y." NameU="Set X, Y Position" />
+    <String Name="Mengatur Ukuran Zoom" NameU="Set Zoom Size" />
+    <String Name="Mengatur Nilai Sudut dari -180 hingga 180" NameU="Set the angle value from -180 to 180" />
+    <String Name="Mengatur Jumlah Simpul" NameU="Set the number of vertices" />
+    <String Name="Diatur ke 1 Saluran" NameU="Set to 1 Line" />
+    <String Name="Diatur ke Input 1 Saluran" NameU="Set to 1 Line Input" />
+    <String Name="Diatur ke 2 Saluran" NameU="Set to 2 Line" />
+    <String Name="Diatur ke Input 2 Saluran" NameU="Set to 2 Line Input" />
+    <String Name="Diatur ke Dua Arah" NameU="Set to Bidirectional" />
+    <String Name="Diatur ke Kapasitif" NameU="Set to Capacitive" />
+    <String Name="Diatur ke Lingkaran" NameU="Set to Circular" />
+    <String Name="Diatur ke Koheren" NameU="Set to Coherent" />
+    <String Name="Diatur ke Sumber Arus" NameU="Set to Current Source" />
+    <String Name="Diatur ke Tetap" NameU="Set to Fixed" />
+    <String Name="Diatur ke Arus Ideal" NameU="Set to Ideal Current" />
+    <String Name="Diatur ke Tegangan Ideal" NameU="Set to Ideal Voltage" />
+    <String Name="Diatur ke Indikasi" NameU="Set to Indicating" />
+    <String Name="Diatur ke Ionisasi" NameU="Set to Ionizing" />
+    <String Name="Diatur ke Mode Pemancaran Cahaya" NameU="Set to Light emitting" />
+    <String Name="Diatur ke Saluran Tipe N" NameU="Set to N-Type Channel" />
+    <String Name="Diatur ke NPN" NameU="Set to NPN" />
+    <String Name="Diatur ke Pulsa Negatif" NameU="Set to Negative Pulse" />
+    <String Name="Diatur ke Langkah Negatif" NameU="Set to Negative Step" />
+    <String Name="Diatur ke Nonkapasitif" NameU="Set to Non-capacitive" />
+    <String Name="Diatur ke Nonkoheren" NameU="Set to Non-coherent" />
+    <String Name="Diatur ke Nonindikasi" NameU="Set to Non-indicating" />
+    <String Name="Diatur ke Nonionisasi" NameU="Set to Non-ionizing" />
+    <String Name="Diatur ke Saluran Tipe-P." NameU="Set to P-Type Channel" />
+    <String Name="Diatur ke PNP" NameU="Set to PNP" />
+    <String Name="Diatur ke Pulsa Positif" NameU="Set to Positive Pulse" />
+    <String Name="Diatur ke Langkah positif" NameU="Set to Positive Step" />
+    <String Name="Diatur ke Mode Perekaman" NameU="Set to Recording" />
+    <String Name="Diatur ke Persegi Panjang" NameU="Set to Rectangular" />
+    <String Name="Diatur ke Mode Pembuatan" NameU="Set to Reproducing" />
+    <String Name="Diatur ke Lampu sinyal" NameU="Set to Signal Lamp" />
+    <String Name="Diatur ke Lampu Standar" NameU="Set to Standard Lamp" />
+    <String Name="Diatur ke satu arah" NameU="Set to Unidirectional" />
+    <String Name="Diatur ke Variabel" NameU="Set to Variable" />
+    <String Name="Diatur ke Sumber Tegangan" NameU="Set to Voltage Source" />
+    <String Name="Diatur ke Foto Sensitif Sinar" NameU="Set to photosensitive" />
+    <String Name="Menampilkan 1 Kabel" NameU="Show 1-Wire" />
+    <String Name="Menampilkan 1F" NameU="Show 1F" />
+    <String Name="Menampilkan 2F" NameU="Show 2F" />
+    <String Name="Menampilkan 3 Terminal" NameU="Show 3 Terminals" />
+    <String Name="Menampilkan 3 Kabel" NameU="Show 3-Wire" />
+    <String Name="Menampilkan 4 Terminal" NameU="Show 4 Terminals" />
+    <String Name="Menampilkan Simbol Alternatif" NameU="Show Alternative Symbol" />
+    <String Name="Menampilkan Panah" NameU="Show Arrow" />
+    <String Name="Menampilkan Sumbu" NameU="Show Axis" />
+    <String Name="Menampilkan Label Sumbu" NameU="Show Axis Labels" />
+    <String Name="Menampilkan Batas" NameU="Show Border" />
+    <String Name="Menampilkan Kedua Arah" NameU="Show Both Directions" />
+    <String Name="Menampilkan Bagian Bawah" NameU="Show Bottom" />
+    <String Name="Menampilkan Putus Kontak" NameU="Show Break Contact" />
+    <String Name="Menampilkan Bagian Tengah" NameU="Show Center" />
+    <String Name="Menampilkan Lingkaran" NameU="Show Circle" />
+    <String Name="Menampilkan Rangkaian Tertutup" NameU="Show Closed Circuit" />
+    <String Name="Menampilkan Garis Penghubung" NameU="Show Connect Line" />
+    <String Name="Menampilkan Silang" NameU="Show Cross" />
+    <String Name="Menampilkan Garis Silang" NameU="Show Cross Line" />
+    <String Name="Menampilkan Label Data" NameU="Show Data Labels" />
+    <String Name="Menampilkan Label Data Bawah" NameU="Show Data Labels on Bottom" />
+    <String Name="Menampilkan Label Data Kanan" NameU="Show Data Labels on Right" />
+    <String Name="Menampilkan Hapus" NameU="Show Delete" />
+    <String Name="Menampilkan Pengering" NameU="Show Desiccant" />
+    <String Name="Menampilkan Pembeda" NameU="Show Discriminator" />
+    <String Name="Menampilkan Terpisah" NameU="Show Disengaged" />
+    <String Name="Menampilkan Titik" NameU="Show Dot" />
+    <String Name="Menampilkan Tetesan" NameU="Show Dripping" />
+    <String Name="Menampilkan Poin Terakhir" NameU="Show End Tick" />
+    <String Name="Menampilkan Interaksi" NameU="Show Engaged" />
+    <String Name="Menampilkan Amplop" NameU="Show Envelop" />
+    <String Name="Menampilkan Lebar Pintu Keluar" NameU="Show Exit Width" />
+    <String Name="Menampilkan Kertas filter" NameU="Show Filter Paper" />
+    <String Name="Menampilkan Blok Pertama Judul" NameU="Show First Block of Title" />
+    <String Name="Menampilkan Empat Garis" NameU="Show Four Lines" />
+    <String Name="Menampilkan Partikel Kecil" NameU="Show Granule" />
+    <String Name="Menampilkan Kisi" NameU="Show Grid" />
+    <String Name="Menampilkan Alur" NameU="Show Groove" />
+    <String Name="Menampilkan Ditahan Tertutup" NameU="Show Held Closed" />
+    <String Name="Menampilkan Ditahan Terbuka" NameU="Show Held Open" />
+    <String Name="Menampilkan Kisi Horizontal" NameU="Show Horizontal Grid" />
+    <String Name="Menampilkan Gambar" NameU="Show Image" />
+    <String Name="Menampilkan Lingkaran Gambar" NameU="Show Image Circle" />
+    <String Name="Menampilkan Klip Besi 1" NameU="Show Iron Clip 1" />
+    <String Name="Menampilkan Klip Besi 2" NameU="Show Iron Clip 2" />
+    <String Name="Menampilkan Persimpangan" NameU="Show Junction" />
+    <String Name="Menampilkan Kotak Kiri" NameU="Show Left Box" />
+    <String Name="Menampilkan Teks Kiri" NameU="Show Left Text" />
+    <String Name="Menampilkan Legenda" NameU="Show Legend" />
+    <String Name="Menampilkan Legenda di bawah" NameU="Show Legend on Bottom" />
+    <String Name="Menampilkan Legenda di sisi Kanan" NameU="Show Legend on Right Side" />
+    <String Name="Menampilkan Garis" NameU="Show Line" />
+    <String Name="Menampilkan Cairan" NameU="Show Liquid" />
+    <String Name="Menampilkan Buat Kontak" NameU="Show Make Contact" />
+    <String Name="Menampilkan Lingkaran Tengah" NameU="Show Middle Circle" />
+    <String Name="Menampilkan Netral" NameU="Show Neutral" />
+    <String Name="Menampilkan Satu Arah" NameU="Show One Direction" />
+    <String Name="Menampilkan Satu Garis" NameU="Show One Line" />
+    <String Name="Menampilkan Rangkaian Terbuka" NameU="Show Open Circuit" />
+    <String Name="Menampilkan Operator" NameU="Show Operator" />
+    <String Name="Menampilkan Foto" NameU="Show Photo" />
+    <String Name="Menampilkan Simbol Polaritas" NameU="Show Polarity Symbols" />
+    <String Name="Menampilkan Reflektor" NameU="Show Reflector" />
+    <String Name="Menampilkan Tombol Segarkan" NameU="Show Refresh Button" />
+    <String Name="Menampilkan Teks Kanan" NameU="Show Right Text" />
+    <String Name="Menampilkan Penggaris" NameU="Show Ruler" />
+    <String Name="Menampilkan SWOT" NameU="Show SWOT" />
+    <String Name="Menampilkan Tanda Skala" NameU="Show Scale Mark" />
+    <String Name="Menampilkan Lapisan" NameU="Show Seam" />
+    <String Name="Menampilkan Padat" NameU="Show Solid" />
+    <String Name="Menampilkan Materi Padat" NameU="Show Solid Matter" />
+    <String Name="Menampilkan Tumpuan Tangga" NameU="Show Stair Stagger" />
+    <String Name="Menampilkan Tabel" NameU="Show Table" />
+    <String Name="Menampilkan Lubang Tangki" NameU="Show Tank Lip" />
+    <String Name="Menampilkan Teks" NameU="Show Text" />
+    <String Name="Menampilkan Blok Teks" NameU="Show Text Block" />
+    <String Name="Menampilkan Lingkaran Teks" NameU="Show Text Circle" />
+    <String Name="Menampilkan Poin" NameU="Show Tick" />
+    <String Name="Menampilkan Judul" NameU="Show Title" />
+    <String Name="Menampilkan Bilah Judul" NameU="Show Title Bar" />
+    <String Name="Menampilkan Dua Garis" NameU="Show Two Lines" />
+    <String Name="Menampilkan Satuan" NameU="Show Units" />
+    <String Name="Menampilkan Kisi Vertikal" NameU="Show Vertical Grid" />
+    <String Name="Menampilkan Air" NameU="Show Water" />
+    <String Name="Menampilkan/Menyembunyikan Label Sumbu" NameU="Show/Hide Axis Labels" />
+    <String Name="Tarik atau Pisahkan" NameU="Shunt or Separate" />
+    <String Name="Frekuensi Sinyal" NameU="Signaling Frequency" />
+    <String Name="Simultan" NameU="Simultaneous" />
+    <String Name="Gelombang Sinus" NameU="Sine Wave" />
+    <String Name="Garis Tunggal" NameU="Single Line" />
+    <String Name="Simbol Satu Garis" NameU="Single-line Symbol" />
+    <String Name="Satu Muatan" NameU="Single-load" />
+    <String Name="Bel Satu Garis" NameU="Single-stroke Bell" />
+    <String Name="Sirene" NameU="Siren" />
+    <String Name="Slot" NameU="Slot" />
+    <String Name="Struktur Gelombang lambat" NameU="Slow Wave Structure" />
+    <String Name="Pengoperasian lambat" NameU="Slow-operate" />
+    <String Name="Pelepasan lambat" NameU="Slow-release" />
+    <String Name="Kecil" NameU="Small" />
+    <String Name="Skala kecil" NameU="Small Scale" />
+    <String Name="Simbol 3" NameU="Smybol 3" />
+    <String Name="Soket dan Steker" NameU="Socket and Spigot" />
+    <String Name="Disolder" NameU="Soldered" />
+    <String Name="Penuh" NameU="Solid" />
+    <String Name="Garis Solid" NameU="Solid Line" />
+    <String Name="Pelarut" NameU="Solvent" />
+    <String Name="Ruang untuk Ikon" NameU="Space for an Icon" />
+    <String Name="Speaker Telepon" NameU="Speaker Phone" />
+    <String Name="Celah Lingkaran" NameU="Sphere Gap" />
+    <String Name="Persegi" NameU="Square" />
+    <String Name="Lantai Tangga Persegi" NameU="Square Landing" />
+    <String Name="Penanda Persegi" NameU="Square Marker" />
+    <String Name="Standar" NameU="Standard" />
+    <String Name="Bel Standar" NameU="Standard Bell" />
+    <String Name="Bentuk Standar" NameU="Standard Formt" />
+    <String Name="Simbol Standar" NameU="Standard Symbol" />
+    <String Name="Bintang" NameU="Star" />
+    <String Name="Star4" NameU="Star4" />
+    <String Name="Star5" NameU="Star5" />
+    <String Name="Tanggal Mulai" NameU="Start Date" />
+    <String Name="Mulai Dari Senin" NameU="Start From Monday" />
+    <String Name="Status Awal" NameU="Start State" />
+    <String Name="Nilai Awal" NameU="Start Value" />
+    <String Name="Awal/Akhir" NameU="Start/End" />
+    <String Name="Status" NameU="State" />
+    <String Name="Spesifikasi stasiun" NameU="Station Specifics" />
+    <String Name="Tipe Stasiun" NameU="Station Type" />
+    <String Name="Langkah" NameU="Step" />
+    <String Name="Ukuran Langkah" NameU="Step Size" />
+    <String Name="Status Berhenti" NameU="Stop State" />
+    <String Name="Hentikan/Batalkan" NameU="Stop/Cancel" />
+    <String Name="Rangkaian" NameU="String" />
+    <String Name="Sub Menu" NameU="Sub Menu" />
+    <String Name="ID Subdiagram" NameU="Sub-diagram ID" />
+    <String Name="SubType" NameU="SubType" />
+    <String Name="Kapal selam" NameU="Submarine" />
+    <String Name="Terendam" NameU="Submersion" />
+    <String Name="Subproses" NameU="Subprocess" />
+    <String Name="Tipe Substasiun" NameU="Substation Type" />
+    <String Name="Spesifikasi Substasiun" NameU="Substation specifics" />
+    <String Name="Dapat Diganti" NameU="Substitutable" />
+    <String Name="Sambungan Substrat" NameU="Substrate Connection" />
+    <String Name="Nilai yang disarankan lebih besar dari atau sama dengan 0" NameU="Suggested value is greater than or equal to 0" />
+    <String Name="Menjumlahkan" NameU="Summing" />
+    <String Name="Super Besar" NameU="Super Large" />
+    <String Name="Frekuensi Pilot Supergrup" NameU="Supergroup Pilot Frequency" />
+    <String Name="Frekuensi Pilot yang Diredam" NameU="Suppressed Pilot Frequency" />
+    <String Name="Frekuensi Pembawa yang Diredam" NameU="Suppressed-carrier Frequency" />
+    <String Name="Posisi Sakelar" NameU="Switch Position" />
+    <String Name="Tipe Sakelar" NameU="Switch Type" />
+    <String Name="Simbol 1" NameU="Symbol 1" />
+    <String Name="Simbol 2" NameU="Symbol 2" />
+    <String Name="Simbol 3" NameU="Symbol 3" />
+    <String Name="Simbol 4" NameU="Symbol 4" />
+    <String Name="Opsi Simbol" NameU="Symbol Option" />
+    <String Name="Tipe Sinkron" NameU="Synchro Type" />
+    <String Name="Sinkronoskop" NameU="Synchronoscope" />
+    <String Name="Konverter Sinkron" NameU="Synchronous Converter" />
+    <String Name="Generator Sinkron" NameU="Synchronous Generator" />
+    <String Name="Motor Sinkron" NameU="Synchronous Motor" />
+    <String Name="Gate Tipe T" NameU="T Type-Gate" />
+    <String Name="BENAR" NameU="TRUE" />
+    <String Name="Takometer" NameU="Tachometer" />
+    <String Name="Pita Berlubang" NameU="Tape Perforating" />
+    <String Name="Pencetakan Pita" NameU="Tape Printing" />
+    <String Name="Pencetakan/Pelubangan Pita" NameU="Tape Printing/Perforating" />
+    <String Name="Ketuk" NameU="Taps" />
+    <String Name="Tipe Tugas - Aturan Bisnis" NameU="Task Type - Business Rule" />
+    <String Name="Tipe Tugas - Instantiating Receive" NameU="Task Type - Instantiating Receive" />
+    <String Name="Tipe Tugas - Manual" NameU="Task Type - Manual" />
+    <String Name="Tipe Tugas - Tidak Ada" NameU="Task Type - None" />
+    <String Name="Tipe Tugas - Menerima" NameU="Task Type - Receive" />
+    <String Name="Tipe Tugas - Skrip" NameU="Task Type - Script" />
+    <String Name="Tipe Tugas - Kirim" NameU="Task Type - Send" />
+    <String Name="Tipe Tugas - Layanan" NameU="Task Type - Service" />
+    <String Name="Tipe Tugas - Pengguna" NameU="Task Type - User" />
+    <String Name="Tipe Telepon" NameU="Telephone Type" />
+    <String Name="Terminal" NameU="Terminals" />
+    <String Name="Set Pemutus" NameU="Terminating Set" />
+    <String Name="Set Pemutus dengan Jaringan Penyeimbang" NameU="Terminating Set w/ Balancing Network" />
+    <String Name="Teks" NameU="Text" />
+    <String Name="Teks Paralel" NameU="Text Parallel" />
+    <String Name="Teks Tegak Lurus" NameU="Text Perpendicular" />
+    <String Name="Satuan yang ditampilkan setelah nilai saat ini, misalnya 180 USD" NameU="The unit displayed after current value, e.g. 180 USD" />
+    <String Name="Satuan yang ditampilkan sebelum nilai saat ini, misalnya $180" NameU="The unit displayed before current value, e.g. $180" />
+    <String Name="Termometer" NameU="Thermometer" />
+    <String Name="Ketebalan" NameU="Thickness" />
+    <String Name="Turunan Ketiga" NameU="Third Derivative" />
+    <String Name="Pemisah Ribuan" NameU="Thousand Separator" />
+    <String Name="Nomor Centang" NameU="Tick Number" />
+    <String Name="Pengatur waktu" NameU="Timer" />
+    <String Name="Judul" NameU="Title" />
+    <String Name="Ukuran Gigi" NameU="Tooth Size" />
+    <String Name="Atas" NameU="Top" />
+    <String Name="Kait Atas" NameU="Top Hook" />
+    <String Name="Kiri Atas" NameU="Top Left" />
+    <String Name="Kanan Atas" NameU="Top Right" />
+    <String Name="Menyentuh" NameU="Touching" />
+    <String Name="Stasiun Pelacakan" NameU="Tracking Station" />
+    <String Name="Titik Transisi" NameU="Transition Point" />
+    <String Name="Transmisi" NameU="Transmission" />
+    <String Name="Pemancar" NameU="Transmitter" />
+    <String Name="Segitiga" NameU="Triangle" />
+    <String Name="Pemicu" NameU="Trigger" />
+    <String Name="Benar" NameU="True" />
+    <String Name="Tipe Bundel Tabung" NameU="Tube Bundle Type" />
+    <String Name="Lebar Tabung" NameU="Tube Width" />
+    <String Name="Turbin" NameU="Turbine" />
+    <String Name="Matikan" NameU="Turn Off" />
+    <String Name="Nyalakan" NameU="Turn On" />
+    <String Name="Sakelar Putar" NameU="Turn-switch" />
+    <String Name="Berbalik" NameU="Turning" />
+    <String Name="Dua Lingkaran" NameU="Two Circles" />
+    <String Name="Dua Input" NameU="Two Input" />
+    <String Name="Dua Garis" NameU="Two Lines" />
+    <String Name="Simpleks dua arah" NameU="Two-way Simplex" />
+    <String Name="Jenis" NameU="Type" />
+    <String Name="Tipe 1" NameU="Type 1" />
+    <String Name="Tipe 2" NameU="Type 2" />
+    <String Name="Tipe 3" NameU="Type 3" />
+    <String Name="Tipe 4" NameU="Type 4" />
+    <String Name="Tipe A" NameU="Type A" />
+    <String Name="Tipe B" NameU="Type B" />
+    <String Name="Tipe C" NameU="Type C" />
+    <String Name="Nomor U" NameU="U Number" />
+    <String Name="Tabung-U." NameU="U-tubes" />
+    <String Name="UnChecked" NameU="UnChecked" />
+    <String Name="UnLock" NameU="UnLock" />
+    <String Name="Bawah Tanah" NameU="Underground" />
+    <String Name="Tidak Dipasang ke Tanah" NameU="Ungrounded" />
+    <String Name="Amplifikasi satu arah" NameU="Unidirectional Amplification" />
+    <String Name="Unit" NameU="Unit" />
+    <String Name="Unit" NameU="Units" />
+    <String Name="Tampilan Unit" NameU="Units Display" />
+    <String Name="Tidak Terpisah" NameU="Unseparated" />
+    <String Name="Tidak Ditentukan" NameU="Unspecified" />
+    <String Name="Atas" NameU="Up" />
+    <String Name="Posisi Atas" NameU="Up Position" />
+    <String Name="Arah ke Atas" NameU="Up direction" />
+    <String Name="Mendesak" NameU="Urgent" />
+    <String Name="Nil" NameU="Val" />
+    <String Name="Nilai" NameU="Value" />
+    <String Name="Nilai 1" NameU="Value 1" />
+    <String Name="Nilai 2" NameU="Value 2" />
+    <String Name="Katup" NameU="Valve" />
+    <String Name="Kelas Katup" NameU="Valve Class" />
+    <String Name="Variabel" NameU="Variable" />
+    <String Name="Barometer" NameU="Varmeter" />
+    <String Name="Diverifikasi" NameU="Verified" />
+    <String Name="Nomor Vertex" NameU="Vertex Number" />
+    <String Name="Vertikal" NameU="Vertical" />
+    <String Name="Bilah Vertikal" NameU="Vertical Blades" />
+    <String Name="Balik Vertikal" NameU="Vertical Flip" />
+    <String Name="Sangat Besar" NameU="Very Large" />
+    <String Name="Sangat Kecil" NameU="Very Small" />
+    <String Name="Vibrator" NameU="Vibrator" />
+    <String Name="Violet" NameU="Violet" />
+    <String Name="Terlihat" NameU="Visible" />
+    <String Name="Tombol Suara" NameU="Voice Button" />
+    <String Name="Voltmeter" NameU="Voltmeter" />
+    <String Name="Peringatan" NameU="Warning" />
+    <String Name="Pengukur Gelombang" NameU="Wavemeter" />
+    <String Name="Hubungan lemah" NameU="Weak Relationship" />
+    <String Name="Minggu" NameU="Week" />
+    <String Name="Basah" NameU="Wet" />
+    <String Name="Roda" NameU="Wheel" />
+    <String Name="Lebar" NameU="Width" />
+    <String Name="Tipe Putaran" NameU="Winding Type" />
+    <String Name="Wanita" NameU="Woman" />
+    <String Name="Terburuk" NameU="Worst" />
+    <String Name="Menulis" NameU="Writing" />
+    <String Name="X" NameU="X" />
+    <String Name="Nomor Poin Sumbu X" NameU="X Axis Tick Number" />
+    <String Name="Skala Maks X" NameU="X Max Scale" />
+    <String Name="Skala Min X" NameU="X Min Scale" />
+    <String Name="Tipe-X." NameU="X-type" />
+    <String Name="XNOR" NameU="XNOR" />
+    <String Name="XOR" NameU="XOR" />
+    <String Name="Y" NameU="Y" />
+    <String Name="Nomor Poin Sumbu Y" NameU="Y Axis Tick Number" />
+    <String Name="Skala Maks Y" NameU="Y Max Scale" />
+    <String Name="Skala Min Y" NameU="Y Min Scale" />
+    <String Name="Tahun" NameU="Year" />
+    <String Name="Kuning" NameU="Yellow" />
+    <String Name="Ya" NameU="Yes" />
+    <String Name="Reaktansi nol" NameU="Zero Reactance" />
+    <String Name="Reaktansi nol - kerentanan tidak Terbatas" NameU="Zero Reactance - Infinite susceptance" />
+    <String Name="Ukuran Zoom" NameU="Zoom Size" />
+    <String Name="h/B/tttt" NameU="d/M/yyyy" />
+    <String Name="h/B/tttt jj:mm" NameU="d/M/yyyy h:mm AM/PM" />
+    <String Name="Misalnya 18.56, [00: 20]; [0: 18]; [0.0: 18.5]; [0.00: 18.56]; [0.000: 18.56]" NameU="e.g.18.56, [00: 20]; [0: 18]; [0.0: 18.5]; [0.00: 18.56]; [0.000: 18.56]" />
+    <String Name="Misalnya 18500, Normal:18500; Pemisah Ribuan:18.500; Singkatan:18,5K" NameU="e.g.18500, Normal:18500; Thousand Separator:18,500; Breviary:18.5K" />
+    <String Name="jj:mm" NameU="h:mm AM/PM" />
+    <String Name="jj:mm" NameU="hh:mm" />
+    <String Name="tttt" NameU="yyyy" />
+    <String Name="tttt-BB-hh" NameU="yyyy-MM-dd" />
+</ShapeStrings>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Azure General Symbols">
+    <Elem NameU="Number" Name="숫자"/>
+    <Elem NameU="Attachment" Name="첨부파일"/>
+    <Elem NameU="Audio" Name="오디오"/>
+    <Elem NameU="Bug" Name="버그"/>
+    <Elem NameU="Cable Settop TV Box" Name="케이블 셋톱 TV 박스"/>
+    <Elem NameU="Calendar" Name="캘린더"/>
+    <Elem NameU="Chart" Name="차트"/>
+    <Elem NameU="Checkmark Success" Name="확인 표시/성공"/>
+    <Elem NameU="Continous Cycle Circle" Name="연속 주기 원"/>
+    <Elem NameU="Crossout failure" Name="지우기 실패"/>
+    <Elem NameU="Cut And Paste" Name="자르기와 붙여넣기"/>
+    <Elem NameU="Favorite" Name="즐겨찾기"/>
+    <Elem NameU="Folder" Name="폴더"/>
+    <Elem NameU="Game Controller" Name="게임 컨트롤러"/>
+    <Elem NameU="Gears" Name="기어"/>
+    <Elem NameU="Like" Name="좋아요"/>
+    <Elem NameU="Not Allowed" Name="금지"/>
+    <Elem NameU="Premium Star" Name="프리미엄 스타"/>
+    <Elem NameU="Slider Bar Horizontal" Name="슬라이더 막대, 가로"/>
+    <Elem NameU="Slider Bar Vertical" Name="슬라이더 막대, 세로"/>
+    <Elem NameU="Task List Or Backlog" Name="작업 리스트"/>
+    <Elem NameU="Graph" Name="이미지"/>
+    <Elem NameU="Tasks" Name="작업"/>
+    <Elem NameU="Tunnel" Name="터널"/>
+    <Elem NameU="User" Name="사용자"/>
+    <Elem NameU="Video" Name="비디오"/>
+</Lib>

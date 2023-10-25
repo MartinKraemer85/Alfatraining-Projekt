@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Drink">
+	<Elem NameU="Cocktail 1" Name="Cocktail 1"/>
+	<Elem NameU="Cocktail 2" Name="Cocktail 2"/>
+	<Elem NameU="Champagne" Name="Champanhe"/>
+	<Elem NameU="Juice" Name="Sumo"/>
+	<Elem NameU="Orange Juice" Name="Sumo de Laranja"/>
+	<Elem NameU="Milk Tea" Name="Chá com Leite"/>
+	<Elem NameU="Slush" Name="Granizado"/>
+	<Elem NameU="Lemon Mint Beverage" Name="Bebida de Menta e Limão"/>
+	<Elem NameU="Margaritas" Name="Margaritas"/>
+	<Elem NameU="Cola 1" Name="Cola 1"/>
+	<Elem NameU="Cola 2" Name="Cola 2"/>
+	<Elem NameU="Coffee 1" Name="Café 1"/>
+	<Elem NameU="Coffee cup" Name="Chávena de café"/>
+	<Elem NameU="Tea Cup" Name="Chícara de chá"/>
+	<Elem NameU="Teapot" Name="Bule"/>
+	<Elem NameU="Beer 1" Name="Cerveja 1"/>
+	<Elem NameU="Beer 2" Name="Cerveja 2"/>
+	<Elem NameU="Coconut Drink" Name="Bebida de Coco"/>
+	<Elem NameU="Wine" Name="Vinho"/>
+	<Elem NameU="Red Wine" Name="Vinho Tinto"/>
+	<Elem NameU="Soda 1" Name="Refrigerante 1"/>
+	<Elem NameU="Soda 2" Name="Refrigerante 2"/>
+	<Elem NameU="Liqueur" Name="Licor"/>
+</Lib>

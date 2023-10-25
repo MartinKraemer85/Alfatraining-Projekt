@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Dining Room (Elevation)">
+	<Elem NameU="Bottle 1" Name="瓶子 1"/>
+	<Elem NameU="Bottle 2" Name="瓶子 2"/>
+	<Elem NameU="Bottle 3" Name="瓶子 3"/>
+	<Elem NameU="Bottle 4" Name="瓶子 4"/>
+	<Elem NameU="Bottle 5" Name="瓶子 5"/>
+	<Elem NameU="Bottle 6" Name="瓶子 6"/>
+	<Elem NameU="Bottle 7" Name="瓶子 7"/>
+	<Elem NameU="Glass 1" Name="玻璃杯 1"/>
+	<Elem NameU="Glass 2" Name="玻璃杯 2"/>
+	<Elem NameU="Glass 3" Name="玻璃杯 3"/>
+	<Elem NameU="Glass 4" Name="玻璃杯 4"/>
+	<Elem NameU="Glass 5" Name="玻璃杯 5"/>
+	<Elem NameU="Glass 6" Name="玻璃杯 6"/>
+	<Elem NameU="Glass 7" Name="玻璃杯 7"/>
+	<Elem NameU="Glass-bottle" Number="3" Name="油瓶"/>
+	<Elem NameU="Barrel" Number="2" Name="桶"/>
+</Lib>

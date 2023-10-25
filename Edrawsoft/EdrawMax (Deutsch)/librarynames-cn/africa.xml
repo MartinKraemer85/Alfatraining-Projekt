@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Africa">
+    <Elem NameU="Algeria" Name="阿尔及利亚"/>
+    <Elem NameU="Angola" Name="安哥拉"/>
+    <Elem NameU="Benin" Name="贝宁湾"/>
+    <Elem NameU="Botswana" Name="博茨瓦纳"/>
+    <Elem NameU="Burkina Faso" Name="布基纳法索"/>
+    <Elem NameU="Burundi" Name="布隆迪"/>
+    <Elem NameU="Cameroon" Name="喀麦隆"/>
+    <Elem NameU="Central African Republic" Name="中非共和国"/>
+    <Elem NameU="Chad" Name="乍得"/>
+    <Elem NameU="Congo" Name="刚果"/>
+    <Elem NameU="Congo (DRC)" Name="刚果 (金)"/>
+    <Elem NameU="Cote d'lvoire" Name="科特迪瓦"/>
+    <Elem NameU="Djibouti" Name="吉布提"/>
+    <Elem NameU="Egypt" Name="埃及"/>
+    <Elem NameU="Equatorial Guinea" Name="赤道几内亚"/>
+    <Elem NameU="Eritrea" Name="厄立特里亚"/>
+    <Elem NameU="Ethiopia" Name="埃塞俄比亚"/>
+    <Elem NameU="Gabon" Name="加蓬"/>
+    <Elem NameU="Gambia" Name="冈比亚"/>
+    <Elem NameU="Ghana" Name="加纳"/>
+    <Elem NameU="Guinea" Name="几内亚"/>
+    <Elem NameU="Guinea-Bissau" Name="几内亚比绍共和国"/>
+    <Elem NameU="Kenya" Name="肯尼亚"/>
+    <Elem NameU="Lesotho" Name="莱索托"/>
+    <Elem NameU="Liberia" Name="利比里亚"/>
+    <Elem NameU="Libya" Name="利比亚"/>
+    <Elem NameU="Madagascar" Name="马达加斯加岛"/>
+    <Elem NameU="Malawi" Name="马拉维"/>
+    <Elem NameU="Mali" Name="马里"/>
+    <Elem NameU="Mauritania" Name="毛利塔尼亚"/>
+    <Elem NameU="Morocco" Name="摩洛哥"/>
+    <Elem NameU="Mozambique" Name="莫桑比克"/>
+    <Elem NameU="Namibia" Name="纳米比亚"/>
+    <Elem NameU="Niger" Name="尼日尔"/>
+    <Elem NameU="Nigeria" Name="尼日利亚"/>
+    <Elem NameU="Rwanda" Name="卢旺达"/>
+    <Elem NameU="Senegal" Name="塞内加尔"/>
+    <Elem NameU="Sierra Leone" Name="塞拉利昂"/>
+    <Elem NameU="Somalia" Name="索马里"/>
+    <Elem NameU="South Africa" Name="南非"/>
+    <Elem NameU="Sudan" Name="苏丹"/>
+    <Elem NameU="Swaziland" Name="斯威士兰"/>
+    <Elem NameU="Tanzania" Name="坦桑尼亚"/>
+    <Elem NameU="Togo" Name="多哥"/>
+    <Elem NameU="Tunisia" Name="突尼斯"/>
+    <Elem NameU="Uganda" Name="乌干达"/>
+    <Elem NameU="Western Sahara" Name="西萨摩亚"/>
+    <Elem NameU="Zambia" Name="赞比亚"/>
+    <Elem NameU="Zimbabwe" Name="津巴布韦"/>
+    <Elem NameU="Lake Chad" Name="乍得湖"/>
+    <Elem NameU="Lake Malawi" Name="马拉维湖"/>
+    <Elem NameU="Lake Albert" Name="艾伯特湖"/>
+    <Elem NameU="Lake Kariba" Name="加里巴湖"/>
+    <Elem NameU="Lake Kivu" Name="塞伍湖"/>
+    <Elem NameU="Lake Mweru" Name="姆韦鲁湖"/>
+    <Elem NameU="Lake Tanganyika" Name="坦嗝尼喀湖"/>
+    <Elem NameU="Lake Turkana" Name="图尔卡湖"/>
+    <Elem NameU="Lake Victoria" Name="维多利亚湖"/>
+    <Elem NameU="Lake Volta" Name="沃儿特湖"/>
+    <Elem NameU="Lake Nasser" Name="纳塞尔湖"/>
+    <Elem NameU="Africa" Name="非洲"/>
+</Lib>

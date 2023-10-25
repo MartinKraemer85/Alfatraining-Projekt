@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Cisco Telepresence Icons">
+	<Elem NameU="Personal Telepresence Endpoint" Name="Endpoint Telepresenza Personale"/>
+	<Elem NameU="Telepresence Endpoint" Name="Endpoint Telepresenza"/>
+	<Elem NameU="Telepresence Endpoint With Twin Data Display" Name="Endpoint Telepresenza con Visualizzazione Dati Gemelli"/>
+	<Elem NameU="Telepresence Endpoint With Twin Data Display.4" Name="Endpoint Telepresenza con Visualizzazione Dati Gemelli.4"/>
+	<Elem NameU="Laptop Video Client" Name="Client Video Laptop"/>
+	<Elem NameU="Video IP Phone" Name="Telefono con IP Video"/>
+	<Elem NameU="Non-Video IP Phone" Name="Telefono senza Video IP"/>
+	<Elem NameU="Primary Codec" Name="Codec Principale"/>
+	<Elem NameU="Secondary Codec" Name="Codec Secondario"/>
+	<Elem NameU="Video Call Server" Name="Server Videochiamata"/>
+	<Elem NameU="Unified Communications Server" Name="Server per Comunicazioni Unificate"/>
+	<Elem NameU="Meeting Scheduling and Management Server" Name="Server per Organizzazione e Gestione di Riunioni"/>
+	<Elem NameU="Multipoint Meeting Server" Name="Server per Riunioni Multipoint "/>
+	<Elem NameU="Content Recording/ Streaming Server" Name="Server per Registrazione/Streaming di Contenuti"/>
+	<Elem NameU="Video Gateway" Name="Gateway Video"/>
+	<Elem NameU="IP-Gateway" Name="IP-Gateway"/>
+	<Elem NameU="Transcoder" Name="Transcoder"/>
+	<Elem NameU="Telepresence Exchange" Name="Scambio Telepresenza"/>
+</Lib>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="PID Industry">
+	<Elem NameU="Asphalt Mixture Tank" Name="Tanque de Mistura de Asfalto"/>
+	<Elem NameU="Asphalt Expansion Tank" Name="Tanque de Expansão de Asfalto"/>
+	<Elem NameU="Animal manure lagoon" Name="Lagoa de esterco animal"/>
+	<Elem NameU="The chariot liquid slag pool" Name="Piscina de entulho líquido da carroça"/>
+	<Elem NameU="Blow tank" Name="Tanque de sopro"/>
+	<Elem NameU="Cycle of intelligent control" Name="Contole de ciclo de inteligência"/>
+	<Elem NameU="Dry yeast powder storehouse" Name="Armazém de pó de fermento seco"/>
+	<Elem NameU="High Efficiency Steam Turbine" Name="Turbina de Vapor de Alta Eficiência"/>
+	<Elem NameU="Hopper" Name="Funil"/>
+	<Elem NameU="Hydrocyclone" Name="Hidrociclone"/>
+	<Elem NameU="Mother liquor tank" Name="Tanque de licor mãe"/>
+	<Elem NameU="Mother liquor" Name="Licor mãe"/>
+	<Elem NameU="Methylal Metering Tank" Name="Tanque de Medição de Metilal"/>
+	<Elem NameU="Maturity" Name="Maturidade"/>
+	<Elem NameU="Limestone powder storehouse" Name="Armazém de pó de calcário"/>
+	<Elem NameU="Level 3 high-speed shearing machine" Name="Máquina de corte de alta velocidade nível 3"/>
+	<Elem NameU="Shearer" Name="Tosquiador"/>
+	<Elem NameU="Sintering machine" Name="Máquina de sinterização"/>
+	<Elem NameU="Finished Products Tank" Name="Tanque de Produtos Acabados"/>
+	<Elem NameU="Points bin" Name="Caixote de pontos"/>
+	<Elem NameU="Stock bin" Name="Caixote de estoque"/>
+	<Elem NameU="Smoke Abatement Pipe" Name="Tubo de redução de fumo"/>
+	<Elem NameU="Conveyor" Name="Transportadora"/>
+	<Elem NameU="Thin stillage" Name="Vinhaça fina"/>
+	<Elem NameU="Turbine" Name="Turbina"/>
+	<Elem NameU="Set" Name="Conjunto"/>
+	<Elem NameU="Main Stem Pipeline" Name="Tubagem de Caule Principal"/>
+</Lib>

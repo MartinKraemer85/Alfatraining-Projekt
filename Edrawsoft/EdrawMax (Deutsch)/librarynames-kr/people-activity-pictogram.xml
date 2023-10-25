@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="People Activity Pictogram">
+    <Elem NameU="Cross the Road" Name="길을 건너다"/>
+    <Elem NameU="Mom &amp; Son" Name="모자"/>
+    <Elem NameU="Ride Horse" Name="말 타기"/>
+    <Elem NameU="Father &amp; Kid" Name="부자"/>
+    <Elem NameU="Mom &amp; Daughter" Name="모녀"/>
+    <Elem NameU="Walking" Name="걷다"/>
+    <Elem NameU="Carriage" Name="마차"/>
+    <Elem NameU="Woman" Name="여자"/>
+    <Elem NameU="Man" Name="남자"/>
+    <Elem NameU="Child" Name="어린이"/>
+    <Elem NameU="Couple" Name="부부"/>
+    <Elem NameU="Family" Name="가족"/>
+    <Elem NameU="Worker Digging Sand" Name="모래 파는 근로자"/>
+    <Elem NameU="Shopping" Name="쇼핑"/>
+    <Elem NameU="Old Man" Name="노인"/>
+    <Elem NameU="Go up Stairs" Name="계단 올라가기"/>
+    <Elem NameU="Throwing Rubbish" Name="쓰레기 버리기"/>
+    <Elem NameU="Riding Bicycle" Name="자전거 타기"/>
+    <Elem NameU="Running" Name="달리기"/>
+    <Elem NameU="Champion" Name="챔피언"/>
+    <Elem NameU="Photographer" Name="사진 작가"/>
+    <Elem NameU="Mail Man" Name="택배원"/>
+    <Elem NameU="Man with Umbrella" Name="우산 들고 있는 남자"/>
+    <Elem NameU="Making a Phone Call" Name="전화 하기"/>
+    <Elem NameU="Answering Phone" Name="전화 받기"/>
+    <Elem NameU="Listening Music" Name="음악 듣기"/>
+    <Elem NameU="Watering Flowers" Name="꽃에 물 주기"/>
+    <Elem NameU="Reading" Name="책 읽기"/>
+    <Elem NameU="Teaching" Name="가르치다"/>
+    <Elem NameU="Playing Basketball" Name="농구 하다"/>
+    <Elem NameU="People with a Loudspeaker" Name="스피커 들고 있는 사람"/>
+    <Elem NameU="Woman with a Hat" Name="모자 쓴 여자"/>
+    <Elem NameU="Walking the Dog" Name="강아지 산책"/>
+    <Elem NameU="Having a Date" Name="데이트"/>
+    <Elem NameU="Making a Proposal" Name="제안하기"/>
+    <Elem NameU="Thinking" Name="사고"/>
+    <Elem NameU="Working" Name="일"/>
+    <Elem NameU="Writing" Name="작성"/>
+    <Elem NameU="Wheelchair" Name="휠체어"/>
+    <Elem NameU="Illness" Name="아프다"/>
+</Lib>

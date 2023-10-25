@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Comparison Chart">
+	<Elem NameU="Blank Comparison Table" Name="空白比較表"/>
+	<Elem NameU="Blank Comparison Table - Green" Name="空白比較表-綠色"/>
+	<Elem NameU="Blank Comparison Table - Dark Red" Name="空白比較表-暗紅色"/>
+	<Elem NameU="Comparison Table" Name="比較表"/>
+	<Elem NameU="Comparison Table 2" Name="比較表 2"/>
+	<Elem NameU="Product Comparison" Name="產品比較表"/>
+	<Elem NameU="Yes/No" Name="是/否"/>
+	<Elem NameU="Check Box" Name="勾選框"/>
+	<Elem NameU="Progress" Name="進度"/>
+	<Elem NameU="Progress 2" Name="進度 2"/>
+	<Elem NameU="Progress 3" Name="進度 3"/>
+	<Elem NameU="Priority" Name="優先級"/>
+	<Elem NameU="3-State Priority" Name="三個狀態優先級"/>
+	<Elem NameU="3-State Alert" Name="三種狀態警示符"/>
+	<Elem NameU="6-State Status" Name="六種狀態符"/>
+	<Elem NameU="4-Direction Arrow" Name="四個方向的箭頭"/>
+	<Elem NameU="4-Direction Arrow 2" Name="四個方向的箭頭 2"/>
+	<Elem NameU="Progress Status" Name="進度狀態"/>
+	<Elem NameU="Trafic Light" Name="紅綠燈"/>
+	<Elem NameU="Rating" Name="評價"/>
+	<Elem NameU="Quality" Name="質量"/>
+	<Elem NameU="Lock/UnLock" Name="鎖/解鎖"/>
+	<Elem NameU="10-State Flag" Name="10種變形標誌"/>
+	<Elem NameU="12-State Flag" Name="12種變形標誌"/>
+	<Elem NameU="Numbering" Name="數字"/>
+	<Elem NameU="Message" Name="消息"/>
+	<Elem NameU="Message 2" Name="消息 2"/>
+	<Elem NameU="Spacing Bar" Name="間隔條"/>
+</Lib>

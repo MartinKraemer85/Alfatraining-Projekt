@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Backgrounds">
+    <Elem NameU="Empty Background" Name="배경 없음"/>
+    <Elem NameU="White Background" Name="화이트 배경"/>
+    <Elem NameU="Background" Number="32" Name="배경"/>
+    <Elem NameU="Gray Gradient" Name="그레이 그라데이션 배경"/>
+    <Elem NameU="Background" Number="23" Name="배경"/>
+</Lib>

@@ -1,0 +1,35 @@
+<Lib NameU="Kitchen (Elevation)">
+  <Elem Name="冰箱 1" NameU="냉장고 1"/>
+  <Elem Name="冰箱 2" NameU="냉장고 2"/>
+  <Elem Name="冰箱 3" NameU="냉장고 3"/>
+  <Elem Name="冰箱 4" NameU="냉장고 4"/>
+  <Elem Name="冰箱 5" NameU="냉장고 5"/>
+  <Elem Name="冰箱 6" NameU="냉장고 6"/>
+  <Elem Name="冰箱 7" NameU="냉장고 7"/>
+  <Elem Name="冰箱 8" NameU="냉장고 8"/>
+  <Elem Name="双开门冰箱" NameU="양문형 냉장고"/>
+  <Elem Name="抽油烟机 1" NameU="주방 환풍기 1"/>
+  <Elem Name="抽油烟机 2" NameU="주방 환풍기 2"/>
+  <Elem Name="抽油烟机 3" NameU="주방 환풍기 3"/>
+  <Elem Name="抽油烟机 4" NameU="주방 환풍기 4"/>
+  <Elem Name="微波炉" NameU="오븐"/>
+  <Elem Name="锅铲" NameU="뒤집개"/>
+  <Elem Name="锅铲" NameU="뒤집개"/>
+  <Elem Name="汤勺" NameU="국자"/>
+  <Elem Name="厨具" NameU="주방용품"/>
+  <Elem Name="茶壶" NameU="찻 주전자"/>
+  <Elem Name="茶杯" NameU="찻 잔"/>
+  <Elem Name="水壶" NameU="물 주전자"/>
+  <Elem Name="蒸笼" NameU="찜통"/>
+  <Elem Name="煎锅" NameU="프라이팬"/>
+  <Elem Name="保暖锅" NameU="냄비"/>
+  <Elem Name="炖锅" NameU="소스 냄비"/>
+  <Elem Name="煤气炉" NameU="가스 레인지"/>
+  <Elem Name="消毒柜" NameU="소독 캐비닛"/>
+  <Elem Name="消毒柜 2" NameU="소독 캐비닛 2"/>
+  <Elem Name="抽油烟机" NameU="주방 환풍기"/>
+  <Elem Name="洗衣机" NameU="세탁기"/>
+  <Elem Name="清洁剂" NameU="세정제"/>
+  <Elem Name="洗发水" NameU="샴푸"/>
+  <Elem Name="沐浴露" NameU="바디 워시"/>
+</Lib>

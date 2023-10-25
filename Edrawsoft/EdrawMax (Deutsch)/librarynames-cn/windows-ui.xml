@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Windows UI">
+    <Elem NameU="Dialog Window" Name="对话窗口"/>
+    <Elem NameU="Window" Name="窗口"/>
+    <Elem NameU="Window Backgroud" Name="窗口背景"/>
+    <Elem NameU="Field" Name="区域"/>
+    <Elem NameU="Horizontal Scrollbar" Name="水平滚动条"/>
+    <Elem NameU="Vertical Scrollbar" Name="垂直滚动条"/>
+    <Elem NameU="Close Button" Name="关闭按钮"/>
+    <Elem NameU="Max Button" Name="最大化按钮"/>
+    <Elem NameU="Min Button" Name="最小化按钮"/>
+    <Elem NameU="Help Button" Name="帮助按钮"/>
+    <Elem NameU="Help and Close Button" Name="帮助和关闭按钮"/>
+    <Elem NameU="Min Max Close Button" Name="最小化最大化关闭按钮"/>
+    <Elem NameU="Primary Toolbar" Name="主工具栏"/>
+    <Elem NameU="Toolbar Button" Name="工具栏按钮"/>
+    <Elem NameU="Empty Toolbar" Name="空工具栏"/>
+    <Elem NameU="Menubar" Name="菜单栏"/>
+    <Elem NameU="Menu Item" Name="菜单项目"/>
+    <Elem NameU="Button" Name="按钮"/>
+    <Elem NameU="Edit Control" Name="编辑控制"/>
+    <Elem NameU="Rich Text Control" Name="富文本控制"/>
+    <Elem NameU="Static Text" Name="静态文本"/>
+    <Elem NameU="Hyperlink Text" Name="超链接文本"/>
+    <Elem NameU="Spin Box" Name="选值框"/>
+    <Elem NameU="Search Box" Name="搜索框"/>
+    <Elem NameU="List" Name="列表"/>
+    <Elem NameU="Combo List" Name="下拉组合框"/>
+    <Elem NameU="Combo Box" Name="组合框"/>
+    <Elem NameU="Editable Combo Box" Name="可编辑组合框"/>
+    <Elem NameU="List 2" Name="列表 2"/>
+    <Elem NameU="List Box" Name="列表框"/>
+    <Elem NameU="Group Box" Name="组群方块"/>
+    <Elem NameU="Vertical Slidebar" Name="垂直滑动条"/>
+    <Elem NameU="Horizontal Slidebar" Name="水平滑动条"/>
+    <Elem NameU="Progress Bar" Name="进度条"/>
+    <Elem NameU="Infinite Progresss Bar" Name="无限进度条"/>
+    <Elem NameU="Check Box" Name="复选框"/>
+    <Elem NameU="Check Box Group" Name="复选框组"/>
+    <Elem NameU="Radio Button" Name="单选按钮"/>
+    <Elem NameU="Radio Button Group" Name="单选按钮组"/>
+    <Elem NameU="Horizontal Spacer" Name="水平间距器"/>
+    <Elem NameU="Vertical Spacer" Name="垂直间距器"/>
+    <Elem NameU="Navigate Button" Name="导航按钮"/>
+    <Elem NameU="Chevron Button" Name="V型按钮"/>
+    <Elem NameU="Chevron" Name="V型箭头"/>
+    <Elem NameU="Arrow Button" Name="箭头按钮"/>
+    <Elem NameU="Small Arrow" Name="小箭头"/>
+    <Elem NameU="Double Chevron" Name="双箭头"/>
+    <Elem NameU="Plus/Minus Control" Name="加/减 控制"/>
+    <Elem NameU="Text Select Cursor" Name="文本选择光标"/>
+    <Elem NameU="Busy Cusor" Name="繁忙"/>
+    <Elem NameU="Working Busy in Backgroud" Name="后台繁忙"/>
+    <Elem NameU="Select Cursor" Name="选择游标"/>
+    <Elem NameU="Precision Select Cursor" Name="精确选择游标"/>
+    <Elem NameU="Select Cursor 2" Name="选择游标 2"/>
+    <Elem NameU="Unavailable Cursor" Name="不可选择"/>
+    <Elem NameU="Move Cusor" Name="移动游标"/>
+    <Elem NameU="List View" Name="列表视图"/>
+    <Elem NameU="Tab View" Name="选项卡视图"/>
+    <Elem NameU="Tab View 2" Name="选项卡视图 2"/>
+    <Elem NameU="Tab View Label" Name="选项卡标签"/>
+    <Elem NameU="Close" Name="关闭"/>
+    <Elem NameU="Etched Horizontal" Name="水平分割线"/>
+    <Elem NameU="Etched Vertical" Name="垂直分割线"/>
+    <Elem NameU="Spin Control" Name="数值调节控制"/>
+    <Elem NameU="Picture Control" Name="图片控制"/>
+    <Elem NameU="Warning Icon" Name="警示"/>
+    <Elem NameU="Information Icon" Name="信息"/>
+    <Elem NameU="Help Icon" Name="帮助"/>
+    <Elem NameU="Error Icon" Name="错误"/>
+</Lib>

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Arrow Shapes">
+
+<Elem Name="右矢印" NameU="Right Arrow"/>
+
+<Elem Name="改行マーク" NameU="Back Arrow"/>
+
+<Elem Name="左上矢印" NameU="Northwest Arrow"/>
+
+<Elem Name="下矢印" NameU="Down Arrow"/>
+
+<Elem Name="左矢印" NameU="Left Arrow"/>
+
+<Elem Name="単一の上矢印" NameU="Up Single Arrow"/>
+
+<Elem Name="単一の下矢印" NameU="Single Arrow Down"/>
+
+<Elem Name="白抜き矢印" NameU="Thick Arrow"/>
+
+<Elem Name="曲線矢印" NameU="Armband Shaped Arrow"/>
+
+<Elem Name="上矢印" NameU="Up Arrow"/>
+
+<Elem Name="五角矢印" NameU="Pentagonal Arrow"/>
+
+<Elem Name="左下矢印" NameU="Southwest Arrow"/>
+
+<Elem Name="右下矢印" NameU="Southeast Arrow"/>
+
+<Elem Name="二重左矢印" NameU="Backward Double Arrow"/>
+
+<Elem Name="様式化矢印" NameU="Stylized Arrow"/>
+
+<Elem Name="複数本矢印" NameU="Multiple Arrows"/>
+
+<Elem Name="二重右矢印" NameU="Forward Double Arrow"/>
+
+<Elem Name="両方向矢印" NameU="Two-Way Arrow"/>
+
+<Elem Name="二重上矢印" NameU="Double Arrow Up"/>
+
+<Elem Name="四方向矢印" NameU="Four-Way Arrow"/>
+
+<Elem Name="循環矢印" NameU="Circle Arrow"/>
+
+<Elem Name="インタラクティブ矢印" NameU="Interactive Arrow"/>
+
+<Elem Name="リサイクル矢印" NameU="Recyclable Arrow"/>
+
+<Elem Name="柔軟なループ矢印" NameU="Flexible Loop Arrow"/>
+
+<Elem Name="波矢印" NameU="S-type Arrow"/>
+
+<Elem Name="矢印" NameU="Arrow"/>
+
+<Elem Name="オープンエンド矢印" NameU="Open-end Arrow"/>
+
+<Elem Name="エルボーアロー" NameU="Elbow Arrow"/>
+
+<Elem Name="ベントアロー" NameU="Bent Arrow"/>
+
+<Elem Name="U型矢印" NameU="U-type Arrow"/>
+
+</Lib>

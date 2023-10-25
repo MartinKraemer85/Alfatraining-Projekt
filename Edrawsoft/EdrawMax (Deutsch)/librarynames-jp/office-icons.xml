@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Office Icons">
+	<Elem NameU="Ren Min Bi" Name="RMB"/>
+	<Elem NameU="Euro" Name="ユーロ"/>
+	<Elem NameU="Pound" Name="ポンド"/>
+	<Elem NameU="Dollar" Name="ドル"/>
+	<Elem NameU="Bank" Name="銀行"/>
+	<Elem NameU="Office Building" Name="オフィスビル"/>
+	<Elem NameU="Loss" Name="損失"/>
+	<Elem NameU="Profit" Name="利益"/>
+	<Elem NameU="Histogram" Name="ヒストグラム"/>
+	<Elem NameU="Pie Chart" Name="円グラフ"/>
+	<Elem NameU="Slideshow" Name="スライドショー"/>
+	<Elem NameU="Trophy" Name="トロフィー"/>
+	<Elem NameU="Medal" Name="メダル"/>
+	<Elem NameU="Prize" Name="賞品"/>
+	<Elem NameU="Diamond" Name="ダイアモンド"/>
+	<Elem NameU="Team" Name="チーム"/>
+	<Elem NameU="Office Clerk" Name="事務員"/>
+	<Elem NameU="At" Name="At"/>
+	<Elem NameU="Work Card" Name="仕事カード"/>
+	<Elem NameU="Address - Book" Name="住所録"/>
+	<Elem NameU="Briefcase" Name="書類カバン"/>
+	<Elem NameU="Calculator" Name="計算器"/>
+	<Elem NameU="Write" Name="書く"/>
+	<Elem NameU="Mobile Phone" Name="携帯電話"/>
+	<Elem NameU="Phone" Name="電話"/>
+	<Elem NameU="Network" Name="ネットワーク"/>
+	<Elem NameU="Email" Name="メール"/>
+	<Elem NameU="Time" Name="時間"/>
+	<Elem NameU="File" Name="ファイル"/>
+	<Elem NameU="Folder" Name="フォルダ"/>
+	<Elem NameU="Umbrella" Name="傘"/>
+	<Elem NameU="Shield" Name="シールド"/>
+	<Elem NameU="Printer" Name="プリンタ－"/>
+	<Elem NameU="Target" Name="ターゲット"/>
+	<Elem NameU="Cooperation" Name="協同"/>
+	<Elem NameU="Alarm Clock" Name="目覚まし時計"/>
+	<Elem NameU="Clock" Name="時計"/>
+	<Elem NameU="Image" Name="画像"/>
+	<Elem NameU="USB Flash Drive" Name="USBフラッシュドライブ"/>
+	<Elem NameU="Computer" Name="コンピューター"/>
+	<Elem NameU="laptop" Name="ラップトップ"/>
+	<Elem NameU="Message" Name="メッセージ"/>
+	<Elem NameU="Chat Conversation" Name="会話"/>
+	<Elem NameU="Calendar" Name="カレンダー"/>
+	<Elem NameU="Electric Light" Name="電気"/>
+	<Elem NameU="Search For" Name="を検索する"/>
+	<Elem NameU="Camera" Name="カメラ"/>
+	<Elem NameU="Shooting" Name="撮影"/>
+	<Elem NameU="Sad" Name="悲しい"/>
+	<Elem NameU="Happy" Name="嬉しい"/>
+	<Elem NameU="Disappointing" Name="がっかり"/>
+	<Elem NameU="Awesome" Name="素晴らしい"/>
+	<Elem NameU="Caveat" Name="警告"/>
+	<Elem NameU="Problem" Name="問題"/>
+	<Elem NameU="Pen" Name="ペン"/>
+	<Elem NameU="Shopping Cart" Name="ショッピングカート"/>
+	<Elem NameU="Cart-Allow-Down" Name="カート"/>
+	<Elem NameU="Cart-Plus" Name="カート"/>
+	<Elem NameU="Label" Name="ラベル"/>
+	<Elem NameU="Shopping Basket" Name="買い物かご"/>
+	<Elem NameU="Shopping Bag" Name="ショッピングバッグ"/>
+	<Elem NameU="Shopping List" Name="買い物リスト"/>
+	<Elem NameU="Paper Clip" Name="クリップ"/>
+	<Elem NameU="Drawing Pin" Name="押しピン"/>
+	<Elem NameU="Flag" Name="フラッグ"/>
+	<Elem NameU="Fair" Name="公正"/>
+	<Elem NameU="Scissors" Name="ハサミ"/>
+</Lib>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Equipment-Dryers">
+	<Elem NameU="Dryer" Name="Secador"/>
+	<Elem NameU="Fluidized bed dryer" Name="Secador de leito fluidizado"/>
+	<Elem NameU="Roller conveyor belt dryer" Name="Secador de correia transportadora de rolo"/>
+	<Elem NameU="Drying oven" Name="Forno de secagem"/>
+	<Elem NameU="Rotary drum dryer" Name="Secador de tambor rotativo"/>
+	<Elem NameU="Drier" Name="Secador"/>
+	<Elem NameU="Heat consumer" Name="Consumidor de calor"/>
+	<Elem NameU="Spray dryer" Name="Secador de spray"/>
+	<Elem NameU="Moving shelf dryer" Name="Secador de prateleira móvel"/>
+</Lib>

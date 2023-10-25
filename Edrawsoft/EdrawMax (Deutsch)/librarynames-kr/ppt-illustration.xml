@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="PPT Illustration">
+	<Elem NameU="Working" Name="일하는 중"/>
+	<Elem NameU="Idea" Name="아이디어"/>
+	<Elem NameU="Recording" Name="녹화"/>
+	<Elem NameU="Exercise" Name="운동"/>
+	<Elem NameU="Pressure" Name="스트레스"/>
+	<Elem NameU="Checklist" Name="체크리스트"/>
+	<Elem NameU="Wander" Name="산책"/>
+	<Elem NameU="Running" Name="달리기"/>
+	<Elem NameU="Depressed" Name="우울함"/>
+	<Elem NameU="Learning" Name="공부 중"/>
+	<Elem NameU="Thinking" Name="생각 중"/>
+	<Elem NameU="Success" Name="성공"/>
+	<Elem NameU="Brainstorming" Name="브레인스토밍"/>
+	<Elem NameU="Discussing" Name="토론 중"/>
+	<Elem NameU="Collaborate" Name="협업"/>
+	<Elem NameU="Search" Name="검색"/>
+	<Elem NameU="Communicate" Name="소통"/>
+	<Elem NameU="Presentation" Name="프레젠테이션"/>
+	<Elem NameU="Nervours" Name="불안함"/>
+	<Elem NameU="Shopping" Name="쇼핑"/>
+	<Elem NameU="Decision" Name="결정"/>
+	<Elem NameU="Alarm Clock" Name="알람"/>
+	<Elem NameU="Object" Name="객체"/>
+	<Elem NameU="Analyze" Name="분석"/>
+	<Elem NameU="Conversion" Name="전환"/>
+	<Elem NameU="Calculate" Name="계산"/>
+	<Elem NameU="Plant" Name="식물"/>
+	<Elem NameU="Trophy" Name="트로피"/>
+	<Elem NameU="Coffee" Name="커피"/>
+	<Elem NameU="Sand Clock" Name="모래시계"/>
+	<Elem NameU="Cup" Name="컵"/>
+	<Elem NameU="Gear" Name="기어"/>
+	<Elem NameU="Trash Bin" Name="휴지통"/>
+	<Elem NameU="Computer" Name="컴퓨터"/>
+	<Elem NameU="Lamp" Name="램프"/>
+	<Elem NameU="Globe" Name="지구"/>
+	<Elem NameU="Dog" Name="개"/>
+	<Elem NameU="Puppy" Name="강아지"/>
+	<Elem NameU="Note Book" Name="노트북"/>
+	<Elem NameU="Calendar" Name="캘린더"/>
+	<Elem NameU="Cactus" Name="선인장"/>
+	<Elem NameU="404" Name="404"/>
+	<Elem NameU="Upward" Name="위"/>
+	<Elem NameU="Deal" Name="딜"/>
+	<Elem NameU="Book" Name="책"/>
+</Lib>

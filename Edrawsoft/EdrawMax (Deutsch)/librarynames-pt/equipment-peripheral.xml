@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Equipment-Peripheral">
+	<Elem NameU="Impact separator" Name="Separador de impacto"/>
+	<Elem NameU="Gravity Separator" Name="Separador de Gravidade"/>
+	<Elem NameU="Cyclone separator" Name="Separador de Ciclone"/>
+	<Elem NameU="Electromagnetic separator" Name="Separador Electromagnético"/>
+	<Elem NameU="Electrostatic precipitator separator" Name="Separador precipitador electrostático"/>
+	<Elem NameU="Solidifier" Name="Solidificador"/>
+	<Elem NameU="Permanent magnet separator" Name="Separador de Ímã Permanente"/>
+	<Elem NameU="Spray nozzle" Name="Bocal de spray"/>
+	<Elem NameU="Rotary table feeder" Name="Alimentador de mesa rotativo"/>
+	<Elem NameU="Proportional feeder" Name="Alimentador proporcional"/>
+	<Elem NameU="Rotary valve feeder" Name="Alimentador de válvula rotativo"/>
+	<Elem NameU="Metering proportional feeder" Name="Alimentador proporcional dosador"/>
+	<Elem NameU="Injector" Name="Injetor"/>
+	<Elem NameU="Reducer" Name="Redutor"/>
+	<Elem NameU="Rupture disc" Name="Disco de ruptura"/>
+	<Elem NameU="Viewing glass" Name="Vidro de visão"/>
+	<Elem NameU="Viewing glass with lighting" Name="Vidro de visão com iluminação"/>
+	<Elem NameU="Back draft damper" Name="Amortecedor anti-retorno"/>
+	<Elem NameU="Conveyor" Name="Transportadora"/>
+	<Elem NameU="Box truck" Name="Caminhão de caixa"/>
+	<Elem NameU="Manual forklift" Name="Empilhadeira manual"/>
+	<Elem NameU="Truck forklift" Name="Camião empilhador"/>
+	<Elem NameU="Industrial truck" Name="Caminhão industrial"/>
+	<Elem NameU="Rolling bin truck" Name="Caminhão de depósito rolante"/>
+	<Elem NameU="Ship" Name="Navio"/>
+	<Elem NameU="Elevator" Name="Elevador"/>
+	<Elem NameU="Z-form elevator" Name="Elevador em forma de Z"/>
+	<Elem NameU="Lift" Name="Levantar"/>
+	<Elem NameU="Hoists" Name="Guindastes"/>
+	<Elem NameU="Aerator with sparger" Name="Aerador com pulverização"/>
+	<Elem NameU="Bag filling machine" Name="Máquina de encher sacos"/>
+	<Elem NameU="Belt skimmer" Name="Escumadeira de correia"/>
+	<Elem NameU="Screening" Name="Rastreio"/>
+	<Elem NameU="Bucket elevator" Name="Elevador de balde"/>
+	<Elem NameU="Elevator 1" Name="Elevador 1"/>
+	<Elem NameU="Elevator 2" Name="Elevador 2"/>
+	<Elem NameU="Skip hoist" Name="Guincho de contentor"/>
+	<Elem NameU="Conveyor (Chain,Closed)" Name="Transportadora (Cadeia,Fechada)"/>
+	<Elem NameU="Conveyor (Screw,Closed)" Name="Transportadora (Parafuso, Fechada)"/>
+	<Elem NameU="Roller conveyor" Name="Transportadora de rolo"/>
+	<Elem NameU="Overhead conveyor" Name="Transporadora suspensa"/>
+	<Elem NameU="Screw conveyor" Name="Transportadora de parafuso"/>
+	<Elem NameU="Scraper conveyor" Name="Transportadora raspadeira"/>
+	<Elem NameU="Conveyor (Vibrating, Closed)" Name="Transportadora (Vibradora, Fechada)"/>
+	<Elem NameU="Piston extruder shaping machines" Name="Máquina de forma extrusora de pistão"/>
+	<Elem NameU="Screw extruder shaping machines" Name="Máquina de forma extrusora de parafuso"/>
+	<Elem NameU="Horizontal shaping machines" Name="Máquinas de forma horizontais"/>
+	<Elem NameU="Vertical shaping machines" Name="Máquinas de forma verticais"/>
+	<Elem NameU="Pelletizing disc" Name="Disco de pelotização"/>
+	<Elem NameU="Piston press" Name="Prensa de pistão"/>
+	<Elem NameU="Roller press" Name="Prensa de rolo"/>
+	<Elem NameU="Crane" Name="Guindaste"/>
+	<Elem NameU="Cyclone" Name="Ciclone"/>
+	<Elem NameU="Curved gas vent" Name="Ventilador de gás curvo"/>
+	<Elem NameU="Firing system" Name="Sistema de disparo"/>
+	<Elem NameU="Flame arrestor" Name="Pára chamas"/>
+	<Elem NameU="Palletizer" Name="Paletizador"/>
+	<Elem NameU="Chimney" Name="Chaminé"/>
+	<Elem NameU="Gas flare" Name="Luz de gás"/>
+</Lib>

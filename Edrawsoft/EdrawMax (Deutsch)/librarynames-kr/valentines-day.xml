@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Valentines Day">
+	<Elem NameU="Lover" Name="연인"/>
+	<Elem NameU="Yellow Rose" Name="노란 장미"/>
+	<Elem NameU="Red Rose" Name="빨간 장미"/>
+	<Elem NameU="Red Rose 2" Name="빨간 장미 2"/>
+	<Elem NameU="Pink Rose" Name="핑크 장미"/>
+	<Elem NameU="Lily" Name="백합"/>
+	<Elem NameU="Chocolate" Name="쵸콜렛"/>
+	<Elem NameU="Bear Of Love" Name="곰"/>
+	<Elem NameU="Fruity Cherry Hair Clip" Name="체리 머리핀"/>
+	<Elem NameU="Lollipop Love 1" Name="러브 롤리팝 1"/>
+	<Elem NameU="Lollipop Love 2" Name="러브 롤리팝 2"/>
+	<Elem NameU="Lollipop Love 3" Name="러브 롤리팝 3"/>
+	<Elem NameU="Proposal" Name="프로포즈"/>
+	<Elem NameU="Photo album" Name="사진틀"/>
+	<Elem NameU="Wedding ring" Name="결혼 반지"/>
+	<Elem NameU="Perfume" Name="향수"/>
+	<Elem NameU="Love Letter" Name="러브레터"/>
+	<Elem NameU="Cupid" Name="큐핏"/>
+	<Elem NameU="Love letters 1" Name="러브레터 1"/>
+	<Elem NameU="Love letters 2" Name="러브레터 2"/>
+	<Elem NameU="Lover cup" Name="커플컵"/>
+	<Elem NameU="Kissing Bird" Name="새"/>
+	<Elem NameU="Heart key" Name="사랑의 키"/>
+	<Elem NameU="Heart lock" Name="사랑의 자물쇠"/>
+	<Elem NameU="Cupcake 1" Name="컵케익 1"/>
+	<Elem NameU="Cupcake 2" Name="컵케익 2"/>
+	<Elem NameU="Bowknot 1" Name="리본 1"/>
+	<Elem NameU="Bowknot 2" Name="리본 2"/>
+	<Elem NameU="Flash Card 1" Name="플래시 카드 1"/>
+	<Elem NameU="Flash Card 2" Name="플래시 카드 2"/>
+	<Elem NameU="Flash Card 3" Name="플래시 카드 3"/>
+	<Elem NameU="I LOVE YOU" Name="사랑해"/>
+	<Elem NameU="Candlestick" Name="촛대"/>
+	<Elem NameU="Sunflower" Name="해바라기"/>
+	<Elem NameU="Tulip" Name="튤립"/>
+	<Elem NameU="Flower" Name="꽃"/>
+</Lib>

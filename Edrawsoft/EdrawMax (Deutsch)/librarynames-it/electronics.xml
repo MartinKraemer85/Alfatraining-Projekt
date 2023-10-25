@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Electronics">
+	<Elem NameU="PC 1" Name="PC 1"/>
+	<Elem NameU="Laptop 1" Name="Laptop 1"/>
+	<Elem NameU="PC 2" Name="PC 2"/>
+	<Elem NameU="PC 3" Name="PC 3"/>
+	<Elem NameU="Desktop 1" Name="Desktop 1"/>
+	<Elem NameU="Desktop 2" Name="Desktop 2"/>
+	<Elem NameU="Laptop 2" Name="Laptop 2"/>
+	<Elem NameU="Laptop 3" Name="Laptop 3"/>
+	<Elem NameU="LCD TV" Name="TV LCD"/>
+	<Elem NameU="iMAC" Name="iMAC"/>
+	<Elem NameU="iPad" Name="iPAD"/>
+	<Elem NameU="Mobile" Name="Mobile"/>
+	<Elem NameU="iWatch" Name="iWatch"/>
+	<Elem NameU="Microsoft Band 1" Name="Microsoft Band 1"/>
+	<Elem NameU="Microsoft Band 2" Name="Microsoft Band 2"/>
+	<Elem NameU="Microsoft Band 3" Name="Microsoft Band 3"/>
+	<Elem NameU="VR Glasses 1" Name="Occhiali VR 1"/>
+	<Elem NameU="VR Glasses 2" Name="Occhiali VR 2"/>
+	<Elem NameU="VR Glasses 3" Name="Occhiali VR 3"/>
+	<Elem NameU="Server" Name="Server"/>
+	<Elem NameU="Mainframe" Name="Sistema Centrale"/>
+	<Elem NameU="Switch" Name="Interruttore"/>
+	<Elem NameU="Fax Machine" Name="Dispositivo Fax"/>
+	<Elem NameU="Scanner" Name="Scanner"/>
+	<Elem NameU="Printer" Name="Stampante"/>
+	<Elem NameU="Drone 1" Name="Drone 1"/>
+	<Elem NameU="Drone 2" Name="Drone 1"/>
+	<Elem NameU="Camera" Name="Telecamera"/>
+	<Elem NameU="Dome Camera" Name="Telecamera a cupola"/>
+	<Elem NameU="Microphone" Name="Microfono"/>
+	<Elem NameU="Mouse" Name="Mouse"/>
+	<Elem NameU="Wireless Mouse" Name="Mouse Senza Fili"/>
+	<Elem NameU="Floppy" Name="Floppy"/>
+	<Elem NameU="Loudspeaker" Name="Diffusore"/>
+	<Elem NameU="iPod" Name="iPod"/>
+	<Elem NameU="Wacom" Name="Wacom"/>
+	<Elem NameU="U-disk" Name="U-disk"/>
+	<Elem NameU="White Board" Name="Lavagna Digitale"/>
+	<Elem NameU="Projector 1" Name="Proiettore 1"/>
+	<Elem NameU="Projector 2" Name="Proiettore 2"/>
+	<Elem NameU="Router" Name="Router"/>
+	<Elem NameU="Camera 1" Name="Telecamera 1"/>
+	<Elem NameU="Camera 2" Name="Telecamera 2"/>
+	<Elem NameU="Machine" Name="Macchina"/>
+	<Elem NameU="Phone" Name="Telefono"/>
+	<Elem NameU="User" Name="Utente"/>
+	<Elem NameU="Organizational chart" Name="Organigramma"/>
+	<Elem NameU="Cloud 1" Name="Cloud 1"/>
+	<Elem NameU="Cloud 2" Name="Cloud 2"/>
+	<Elem NameU="Lock" Name="Lucchetto"/>
+	<Elem NameU="Link" Name="Link"/>
+	<Elem NameU="Search" Name="Ricerca"/>
+	<Elem NameU="Gear 1" Name="Ingranaggio 1"/>
+	<Elem NameU="Gear 2" Name="Ingranaggio 2"/>
+	<Elem NameU="Gear 3" Name="Ingranaggio 3"/>
+	<Elem NameU="Gear 4" Name="Ingranaggio 4"/>
+</Lib>

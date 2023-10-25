@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Cabinets and Bookcases">
+
+<Elem Name="Espace de travail" NameU="Work surface"/>
+
+<Elem Name="Bureau d'angle" NameU="Corner surface"/>
+
+<Elem Name="Island" NameU="Island"/>
+
+<Elem Name="Corner counter" NameU="Corner counter"/>
+
+<Elem Name="Platter counter" NameU="Platter counter"/>
+
+<Elem Name="Bevel counter" NameU="Bevel counter"/>
+
+<Elem Name="Bent counter" NameU="Bent counter"/>
+
+<Elem Name="Bureau de travail avec péninsule" NameU="Work peninsula"/>
+
+<Elem Name="Étagère d'armoire au sol" NameU="Base end-shelf"/>
+
+<Elem Name="Meuble d'angle" NameU="Base corner"/>
+
+<Elem Name="Coin aveugle base" NameU="Base blind corner"/>
+
+<Elem Name="Angle d'extrémité de base" NameU="Base end angle"/>
+
+<Elem Name="Bibliothèque" NameU="Bookcase"/>
+
+<Elem Name="Fin étagère péninsule" NameU="Peninsula end-shelf"/>
+
+<Elem Name="Fin étagère placard" NameU="Wall end-shelf"/>
+
+<Elem Name="Placard avec un coin" NameU="Wall corner"/>
+
+<Elem Name="Cabinet d'angle 1" NameU="Wall angle cabinet"/>
+
+<Elem Name="Piste fin-biseau" NameU="Track end-bevel"/>
+
+<Elem Name="Piste 45 deg." NameU="Track 45 deg."/>
+
+<Elem Name="Vestiaire" NameU="Locker"/>
+
+<Elem Name="Poignée" NameU="Handle"/>
+
+<Elem Name="Base" NameU="Base"/>
+
+<Elem Name="Tiroir" NameU="Drawer"/>
+
+<Elem Name="Cabinet" NameU="Cabinet"/>
+
+<Elem Name="Armoire 2 tiroirs" NameU="Cabinet 2 drawers"/>
+
+<Elem Name="Péninsule de base" NameU="Base peninsula"/>
+
+<Elem Name="Coin de piste" NameU="Track corner"/>
+
+<Elem Name="Piste de plateau" NameU="Tray track"/>
+
+</Lib>

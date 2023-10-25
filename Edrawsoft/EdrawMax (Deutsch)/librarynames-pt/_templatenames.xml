@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TemplateNames>
+	<Elem NameU="Business Diagram" Name="Diagrama de Negócios"/>
+	<Elem NameU="Smart Charts" Name="Diagrama Básico"/>
+	<Elem NameU="Chart" Name="Gráficos e Planos"/>
+	<Elem NameU="Database Modeling" Name="Modelação de Base de Dados"/>
+	<Elem NameU="Engineering" Name="Engenharia"/>
+	<Elem NameU="Electrical" Name="Elétrica"/>																
+	<Elem NameU="Fashion Design" Name="Design de Moda"/>
+	<Elem NameU="Family Tree" Name="Árvore Genealógica"/>	
+	<Elem NameU="Flowchart" Name="Fluxograma"/>
+	<Elem NameU="Floor Plan" Name="Planta"/>
+	<Elem NameU="General" Name="Geral"/>
+	<Elem NameU="Graphs and Charts" Name="Gráficos e Planos"/>
+	<Elem NameU="Icons" Name="Ícones"/>
+	<Elem NameU="Illustration" Name="示例图"/>
+	<Elem NameU="Maps" Name="Mapa"/>
+	<Elem NameU="Marketing" Name="Marketing"/>
+	<Elem NameU="Mind Map" Name="Mapa Mental"/>
+	<Elem NameU="Roadmap" Name="Quadro de Referência"/>
+	<Elem NameU="Amazon Web Services" Name="Serviços Web da Amazon"/>
+	<Elem NameU="Cisco Network" Name="Network Cisco"/>
+	<Elem NameU="Google Cloud" Name="Cloud do Google"/>
+	<Elem NameU="MS Azure Cloud" Name="Cloud MS Azure"/>	
+	<Elem NameU="Alibaba Cloud" Name="Cloud Alibaba"/>
+	<Elem NameU="Network Diagram" Name="Diagrama de Redes"/>
+	<Elem NameU="Organizational Chart" Name="Gráfico Organizacional"/>
+	<Elem NameU="Project Management" Name="Gestão de Projeto"/>		
+	<Elem NameU="Science" Name="Ciência"/>
+	<Elem NameU="Software" Name="Desenvolvimento de Software"/>
+	<Elem NameU="Wireframe" Name="Wireframe"/>
+	<Elem NameU="Forms" Name="Forma"/>
+	<Elem NameU="Clip Art" Name="Clip Art"/>
+	<Elem NameU="Industrial Automation" Name="Automação industrial"/>			
+	<Elem NameU="P&amp;&amp;ID Symbols" Name="P&amp;&amp;ID"/>
+	<Elem NameU="Card" Name="Cartão"/>
+	<Elem NameU="Map" Name="Mapa"/>
+	<Elem NameU="PID" Name="PID"/>
+	<Elem NameU="Graphic Design" Name="Design Gráfico"/>
+	<Elem NameU="Graphic Organizer" Name="Organizador Gráfico"/>	
+	<Elem NameU="Basic Shapes" Name="Formas Básicas"/>
+	<Elem NameU="Flowchart Shapes" Name="Formas de fluxograma"/>
+	<Elem NameU="Cloud Service" Name="Serviço na nuvem"/>
+	<Elem NameU="Basic" Name="Básicas"/>
+	<Elem NameU="Business" Name="Negócio"/>
+</TemplateNames>
+

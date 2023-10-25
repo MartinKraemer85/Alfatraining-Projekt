@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Mid Autumn">
+    <Elem NameU="Moon Cakes 1" Name="月餅  1"/>
+    <Elem NameU="Moon Cakes 2" Name="月餅  2"/>
+    <Elem NameU="Moon" Name="月亮"/>
+    <Elem NameU="Liquor" Name="酒"/>
+    <Elem NameU="Tea" Name="茶"/>
+    <Elem NameU="Chang'e" Name="嫦娥"/>
+    <Elem NameU="Rabbit 1" Name="兔子 1"/>
+    <Elem NameU="Rabbit 2" Name="兔子 2"/>
+    <Elem NameU="Rabbit 3" Name="兔子 3"/>
+    <Elem NameU="Rabbit 4" Name="兔子 4"/>
+    <Elem NameU="Fireworks" Name="煙花"/>
+    <Elem NameU="Pavilion" Name="亭樓"/>
+    <Elem NameU="Lantern" Name="燈籠"/>
+    <Elem NameU="Boat" Name="小船"/>
+    <Elem NameU="Lantern 1" Name="燈籠 1"/>
+    <Elem NameU="Lantern 2" Name="燈籠 2"/>
+    <Elem NameU="Light 1" Name="燈 1"/>
+    <Elem NameU="Light 2" Name="燈 2"/>
+    <Elem NameU="Light 3" Name="燈 3"/>
+    <Elem NameU="Flower" Name="花 1"/>
+    <Elem NameU="Flower 2" Name="花 2"/>
+    <Elem NameU="Flower 3" Name="花 3"/>
+    <Elem NameU="Flags" Name="彩旗"/>
+</Lib>

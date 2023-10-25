@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Fashion">
+    <Elem NameU="Dress with Collar" Name="連衣裙1"/>
+    <Elem NameU="Strapless Dress" Number="2" Name="連衣裙2"/>
+    <Elem NameU="One Strap Dress" Name="綠色連衣裙"/>
+    <Elem NameU="Sleeveless Dress" Name="無袖連衣裙"/>
+    <Elem NameU="Off Shoulder Dress" Name="粉色連衣裙"/>
+    <Elem NameU="Pegged Skirt" Name="釘邊裙"/>
+    <Elem NameU="Gored Skirt" Name="多褶裙"/>
+    <Elem NameU="Sleeveless Skirt" Name="無袖裙"/>
+    <Elem NameU="Underwaist" Name="背心"/>
+    <Elem NameU="Layered Skirt" Name="分層裙"/>
+    <Elem NameU="Women Coat 1" Name="女士外套 1"/>
+    <Elem NameU="Women Coat 2" Name="女士外套 2"/>
+    <Elem NameU="Women Coat 3" Name="女士外套 3"/>
+    <Elem NameU="Women Jacket" Name="女士夾克"/>
+    <Elem NameU="Women Blazer" Name="女裝開衫"/>
+    <Elem NameU="Women Blazer 2" Name="女裝開衫 2"/>
+    <Elem NameU="Women Blazer 3" Name="女裝開衫 3"/>
+    <Elem NameU="Women Short Sleeve Shirt" Name="女士短裙"/>
+    <Elem NameU="Men Shirt" Name="男士襯衫"/>
+    <Elem NameU="Men Shirt 2" Name="男士襯衫 2"/>
+    <Elem NameU="Men T-shirt 1" Name="男士襯衫 1"/>
+    <Elem NameU="Men T-shirt 2" Name="男士襯衫 2"/>
+    <Elem NameU="Men T-shirt 3" Name="男士襯衫 3"/>
+    <Elem NameU="Jeans" Name="牛仔褲"/>
+    <Elem NameU="Breeches" Name="馬褲"/>
+    <Elem NameU="Overalls" Name="吊帶褲"/>
+    <Elem NameU="Breeches" Name="馬褲"/>
+    <Elem NameU="Short Pants" Number="2" Name="短褲"/>
+    <Elem NameU="Superman Costume" Name="超人服飾"/>
+    <Elem NameU="Children T-Shirt" Name="兒童襯衫"/>
+    <Elem NameU="Girl Vest" Name="女背心"/>
+    <Elem NameU="Girl Jacket" Name="女士夾克"/>
+    <Elem NameU="Children T-shirt and Pants" Name="兒童襯衫和褲子"/>
+    <Elem NameU="Children T-shirt" Name="兒童襯衫"/>
+    <Elem NameU="Sock 1" Name="襪子 1"/>
+    <Elem NameU="Sock 2" Name="襪子 2"/>
+    <Elem NameU="Sock 3" Name="襪子 3"/>
+    <Elem NameU="Sock 4" Name="襪子 4"/>
+    <Elem NameU="Men Boot" Name="男士靴子"/>
+    <Elem NameU="Men Boat Shoe" Name="男士平底鞋"/>
+    <Elem NameU="High-heeled Shoes" Name="高跟鞋"/>
+    <Elem NameU="High-heeled Shoes 2" Name="高跟鞋 2"/>
+    <Elem NameU="Boot" Name="靴子"/>
+    <Elem NameU="Women Bag" Name="女士挎包"/>
+    <Elem NameU="Women Bag 2" Name="女士挎包 2"/>
+    <Elem NameU="Women Bag 3" Name="女士挎包 3"/>
+    <Elem NameU="Men Bag" Name="男士手提包"/>
+    <Elem NameU="Women Bag 4" Name="女士挎包 4"/>
+    <Elem NameU="Men Purse" Name="男士錢包"/>
+    <Elem NameU="Purse" Name="錢包"/>
+    <Elem NameU="Cap" Name="帽子"/>
+    <Elem NameU="Cap 2" Name="帽子 2"/>
+    <Elem NameU="Travelling Bag 1" Name="旅行包 1"/>
+    <Elem NameU="Travelling Bag 2" Name="旅行包 2"/>
+</Lib>

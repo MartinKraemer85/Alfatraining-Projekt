@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="PID Food Processing">
+	<Elem NameU="Batch fluid bed processor" Name="Processador de cama fluida em lote"/>
+	<Elem NameU="Beer bottle" Name="Garrafa de cerveja"/>
+	<Elem NameU="Beer can" Name="Lata de cerveja"/>
+	<Elem NameU="Colloid mill" Name="Moinho coloidas"/>
+	<Elem NameU="Concentrate dispenser" Name="Dispensador concentrado"/>
+	<Elem NameU="Cross belt separator" Name="Separador de cinta cruzada"/>
+	<Elem NameU="Drum magnet" Name="Ímã de tambor"/>
+	<Elem NameU="Fermentation" Name="Fermentação"/>
+	<Elem NameU="Filter system" Name="Sistema de filtro"/>
+	<Elem NameU="Food processing" Name="Processamento alimentar"/>
+	<Elem NameU="Grain silo 1" Name="Silo de cereais 1"/>
+	<Elem NameU="Grain silo 2" Name="Silo de cereais 2"/>
+	<Elem NameU="Inline mixer emulsifier" Name="Emulsionante de misutrador em linha"/>
+	<Elem NameU="Magnetic liquid trap" Name="Armadilha liquida magnética"/>
+	<Elem NameU="Micro flowmeter" Name="Micro fluxímetro"/>
+	<Elem NameU="Milk carton" Name="Embalagem de leite"/>
+	<Elem NameU="Mixer" Name="Misturador"/>
+	<Elem NameU="Mixing hopper" Name="Funil misturador"/>
+	<Elem NameU="Nitrogen generator" Name="Gerador de nitrogénio"/>
+	<Elem NameU="Oven system" Name="Sistema de forno"/>
+	<Elem NameU="Power and liquid mixer" Name="Misturador de líquido e energia"/>
+	<Elem NameU="Sanitary air filter" Name="Filtro de ar sanitário"/>
+	<Elem NameU="Sanitary heater" Name="Aquecedor sanitário"/>
+	<Elem NameU="Sanitary inline mixer" Name="Misturador em linha sanitário"/>
+	<Elem NameU="Sanitary transfer pump" Name="Bomba de transferência sanitária"/>
+	<Elem NameU="Screen separator" Name="Separador de tela"/>
+	<Elem NameU="Separator" Name="Separador"/>
+	<Elem NameU="Shell and tube heat transfer" Name="Transferidor de calor em tubo e concha"/>
+	<Elem NameU="Stainless steel blender (closed)" Name="Liquidificador de aço inoxidável (fechado)"/>
+	<Elem NameU="Stainless steel blender（open）" Name="Liquidificador de aço inoxidável (aberto)"/>
+	<Elem NameU="Stainless steel hopper" Name="Funil de aço inoxidável"/>
+	<Elem NameU="Stainless steel speed reducer1" Name="Redutor de velocidade de aço inoxidável 1"/>
+	<Elem NameU="Stainless steel speed reducer2" Name="Redutor de velocidade de aço inoxidável 2"/>
+	<Elem NameU="Standard ribbon  mixer" Name="Misturador de fita comum"/>
+	<Elem NameU="Tray sealer" Name="Selador de bandeja"/>
+	<Elem NameU="Tube in tube heat transfer" Name="Tubo em transferidor de calor de tubo"/>
+	<Elem NameU="Turbo emulsifier " Name="Emulsionante turbo"/>
+	<Elem NameU="Vacuum mixer blender" Name="Liquidificador misutrador de vácuo"/>
+	<Elem NameU="Vacuum stuffer" Name="Stuffer de vácuo"/>
+	<Elem NameU="Vacuum system" Name="Sistema de vácuo"/>
+	<Elem NameU="Vertical blender" Name="Liquidificador vertical"/>
+	<Elem NameU="Viscosity meter" Name="Medidor de viscosidade"/>
+	<Elem NameU="Superfine soybean processing system" Name="Sistema de processamento de soja superfino"/>
+	<Elem NameU="Hardening and Tempering System" Name="Sistema de têmpera e endurecimento"/>
+	<Elem NameU="Lagena" Name="Lagena"/>
+	<Elem NameU="Filter unit" Name="Unidade de filtro"/>
+</Lib>

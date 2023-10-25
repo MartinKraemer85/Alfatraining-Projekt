@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Peripheral Equipment">
+	<Elem NameU="Airport Express" Name="Expresso Aeroporto"/>
+	<Elem NameU="Camera 1" Name="Câmera 1"/>
+	<Elem NameU="Camera 2" Name="Câmera 2"/>
+	<Elem NameU="CRT Projector" Name="Projetor CTR"/>
+	<Elem NameU="Copier" Name="Copiadora"/>
+	<Elem NameU="Data Center" Name="Centro de DAdos"/>
+	<Elem NameU="Digital Telephone" Name="Telefone Digital"/>
+	<Elem NameU="Earphone" Name="Auricular"/>
+	<Elem NameU="Fax" Name="Fax"/>
+	<Elem NameU="Keyboard" Name="Teclado"/>
+	<Elem NameU="Microphone" Name="Microfone"/>
+	<Elem NameU="Omnidirectional microphone" Name="Microfone omnidirecional"/>
+	<Elem NameU="Telephone conference terminal" Name="Terminal de conferência por telefone"/>
+	<Elem NameU="Mobile HDD" Name="Móvel HDD"/>
+	<Elem NameU="Mouse" Name="Rato"/>
+	<Elem NameU="Mouse 2" Name="Rato 2"/>
+	<Elem NameU="Projector" Name="Projetor"/>
+	<Elem NameU="Multi-function Device" Name="Dispositivo Multi-funções"/>
+	<Elem NameU="Plotter" Name="Plotter"/>
+	<Elem NameU="Printer" Name="Impressora"/>
+	<Elem NameU="Scanner" Name="Digitalizadora"/>
+	<Elem NameU="Screen" Name="Tela"/>
+	<Elem NameU="Speakers" Name="Alto-falantes"/>
+	<Elem NameU="Telephone" Name="Telefone"/>
+	<Elem NameU="Visual telephone" Name="Telefone visual"/>
+	<Elem NameU="Memory card" Name="Cartão de memória"/>
+	<Elem NameU="U Disk" Name="Disco U"/>
+	<Elem NameU="Web Camera" Name="Web Câmera"/>
+	<Elem NameU="Credit card machine" Name="Máquina de Cartões de Crédito"/>
+	<Elem NameU="Amplifier" Name="Amplificador"/>
+	<Elem NameU="DVD" Name="DVD"/>
+	<Elem NameU="Mixer" Name="Misturador"/>
+	<Elem NameU="Server" Name="Servidor"/>
+</Lib>

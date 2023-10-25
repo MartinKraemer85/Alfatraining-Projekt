@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="PID Safety">
+	<Elem NameU="Barricade 1" Name="Barricata 1"/>
+	<Elem NameU="Barricade 2" Name="Barricata 2"/>
+	<Elem NameU="Do not enter sign" Name="Cartello Non Entrare"/>
+	<Elem NameU="Lockout tag background" Name="Cornice con etichetta di serrata"/>
+	<Elem NameU="Lockout tag" Name="Etichetta di serrata"/>
+	<Elem NameU="Long-haired freaky people need not apply" Name="Vietato a gente stramba con capelli lunghi"/>
+	<Elem NameU="Orange diamond caution sign" Name="Segnale di cautela arancione a rombo"/>
+	<Elem NameU="Orange pylon" Name="Cono arancione"/>
+	<Elem NameU="Orange warning sign" Name="Segnale di pericolo arancione"/>
+	<Elem NameU="OSHA tape (black-white checked)" Name="Nastro OSHA (a quadri bianco-neri)"/>
+	<Elem NameU="OSHA tape (black-white striped)" Name="Nastro OSHA (a strisce bianco-nere)"/>
+	<Elem NameU="OSHA tape (red-white checked)" Name="Nastro OSHA (a quadri bianco-rossi)"/>
+	<Elem NameU="OSHA tape (red-white striped)" Name="Nastro OSHA (a strisce bianco-rosse)"/>
+	<Elem NameU="OSHA tape (yellow-black checked)" Name="Nastro OSHA (a quadri giallo-neri)"/>
+	<Elem NameU="OSHA tape (yellow-black striped)" Name="Nastro OSHA (a strisce giallo-nere)"/>
+	<Elem NameU="Small caution sign" Name="Segnale di cautela piccolo"/>
+	<Elem NameU="Small danger sign" Name="Segnale di pericolo piccolo"/>
+	<Elem NameU="Small warning sign" Name="Segnale di avvertimento piccolo"/>
+	<Elem NameU="Stop sign" Name="Segnale di stop"/>
+	<Elem NameU="White danger sign" Name="Segnale di pericolo bianco"/>
+	<Elem NameU="White floor stand sign" Name="Insegna bianca"/>
+	<Elem NameU="Yellow caution sign" Name="Segnale di cautela giallo"/>
+	<Elem NameU="Yellow diamond caution sign" Name="Segnale di cautela giallo a rombo"/>
+	<Elem NameU="Yellow floor stand sign" Name="Insegna gialla"/>
+	<Elem NameU="Yellow pylon" Name="Cono giallo"/>
+	<Elem NameU="Yellow warning stripe" Name="Nastro di avvertimento giallo"/>
+	<Elem NameU="Yield sign" Name="Segnale di precedenza"/>
+</Lib>

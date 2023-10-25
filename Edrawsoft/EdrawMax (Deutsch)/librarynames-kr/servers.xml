@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Servers">
+    <Elem NameU="Server 1" Name="서버 1"/>
+    <Elem NameU="Server 2" Name="서버 2"/>
+    <Elem NameU="Server 3" Name="서버 3"/>
+    <Elem NameU="Super Computer" Name="슈퍼 컴퓨터"/>
+    <Elem NameU="Mainframe" Name="대형기"/>
+    <Elem NameU="File Server" Name="파일서버"/>
+    <Elem NameU="Web Server" Name="Web 서버"/>
+    <Elem NameU="FTP Server" Name="FTP 서버"/>
+    <Elem NameU="Email Server" Name="이메일 서버"/>
+    <Elem NameU="E-Commerce Server" Name="E-Commerce 서버"/>
+    <Elem NameU="Database Server" Name="데이터베이스 서버"/>
+    <Elem NameU="Communication Server" Name="통신 서버"/>
+    <Elem NameU="Proxy Server" Name="대리 서버"/>
+    <Elem NameU="Print Server" Name="인쇄 서버"/>
+    <Elem NameU="Management Server" Name="관리 서버"/>
+    <Elem NameU="Streaming Media Server" Name="스트리밍 미디어 서버"/>
+    <Elem NameU="Directory Server" Name="목록 서버"/>
+    <Elem NameU="Mobile Information Server" Name="이동 통신 서버"/>
+    <Elem NameU="Private or Public Access Server" Name="개인 또는 공용 액세스 서버"/>
+</Lib>

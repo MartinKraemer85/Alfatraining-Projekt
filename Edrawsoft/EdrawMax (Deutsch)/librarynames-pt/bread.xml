@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Bread">
+	<Elem NameU="Cake Volume" Name="Volume de Bolo"/>
+	<Elem NameU="Pineapple Bread" Name="Pão de Ananás"/>
+	<Elem NameU="Toast" Name="Torrada"/>
+	<Elem NameU="Cream Bun 1" Name="Pão de Creme 1"/>
+	<Elem NameU="Cream Bun 2" Name="Pão de Creme 2"/>
+	<Elem NameU="Croissant" Name="Croissant"/>
+	<Elem NameU="Spring Onion Bread" Name="Pão de Cebolinha"/>
+	<Elem NameU="Hotdog 1" Name="Cachorro Quente 1"/>
+	<Elem NameU="Hotdog 2" Name="Cachorro Quente 2"/>
+	<Elem NameU="Hot Dog Bun" Name="Pão de Cachorro Quente"/>
+	<Elem NameU="Waffle" Name="Waffle"/>
+	<Elem NameU="French Bread" Name="Pão Francês"/>
+	<Elem NameU="Doughnut" Name="Rosquinha"/>
+	<Elem NameU="Cupcake 1" Name="Bolinho 1"/>
+	<Elem NameU="Cupcake 2" Name="Bolinho 2"/>
+	<Elem NameU="Egg Tart" Name="Torta de Ovo"/>
+	<Elem NameU="Triangle Cake" Name="Bolo Triangular"/>
+	<Elem NameU="Cake" Name="Bolo"/>
+	<Elem NameU="Chocolate Cake" Name="Bolo de Chocolate"/>
+	<Elem NameU="Macaron 1" Name="Macaron 1"/>
+	<Elem NameU="Macaron 2" Name="Macaron 2"/>
+	<Elem NameU="Apple Pie" Name="Tarte de Maçã"/>
+	<Elem NameU="Baguette 1" Name="Baguete 1"/>
+	<Elem NameU="Baguette 2" Name="Baguete 2"/>
+	<Elem NameU="Red Bean Bread" Name="Pão de Feijão Vermelho"/>
+	<Elem NameU="Bread" Name="Pão"/>
+	<Elem NameU="Swirl Bread 1" Name="Pão Redemoinho 1"/>
+	<Elem NameU="Swirl Bread 2" Name="Pão Redemoinho 2"/>
+	<Elem NameU="French Bread 1" Name="Pão Francês 1"/>
+	<Elem NameU="French Bread 2" Name="Pão Francês 2"/>
+	<Elem NameU="Kalach Bread" Name="Pão Kalach"/>
+	<Elem NameU="Meat Floss Buns" Name="Pão de Carne Esfiada"/>
+	<Elem NameU="Lechem" Name="Lechem"/>
+	<Elem NameU="Fried Bread" Name="Pão Frito"/>
+	<Elem NameU="Muffin" Name="Muffin"/>
+	<Elem NameU="Fruit  Dessert Tray 1" Name="Bandeja de Sobremesa de Fruta 1"/>
+	<Elem NameU="Fruit  Dessert Tray 2" Name="Bandeja de Sobremesa de Fruta 2"/>
+	<Elem NameU="Chocolate Cake in Triangle Shape" Name="Bolo de Chocolate Triangular"/>
+	<Elem NameU="Black Forest Cake" Name="Bolo Floresta Negra"/>
+	<Elem NameU="Birthday Cake" Name="Bolo de Aniversário"/>
+	<Elem NameU="Wedding Cake" Name="Bolo de Casamento"/>
+	<Elem NameU="Strawberry Cupcakes" Name="Bolinhos de Morango"/>
+	<Elem NameU="Yule Log" Name="Rolo Yule"/>
+	<Elem NameU="Swiss Roll" Name="Rolo Suiço"/>
+	<Elem NameU="Cupcake 3" Name="Bolinho 3"/>
+	<Elem NameU="Cupcake 4" Name="Bolinho 4"/>
+	<Elem NameU="Cupcake 5" Name="Bolinho 5"/>
+	<Elem NameU="Cupcake 6" Name="Bolinho 6"/>
+	<Elem NameU="Cupcake 7" Name="Bolinho 7"/>
+	<Elem NameU="Cupcake 8" Name="Bolinho 8"/>
+	<Elem NameU="Mooncake 1" Name="Bolo Lunar 1"/>
+	<Elem NameU="Mooncake 2" Name="Bolo Lunar 2"/>
+</Lib>

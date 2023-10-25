@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Biotechnology">
+    <Elem NameU="Brain" Name="大脑"/>
+    <Elem NameU="Neuron" Name="神经元"/>
+    <Elem NameU="DNA 1" Name="DNA 1"/>
+    <Elem NameU="DNA 2" Name="DNA 2"/>
+    <Elem NameU="Cells" Name="细胞"/>
+    <Elem NameU="Molecular Structure 1" Name="分子结构1"/>
+    <Elem NameU="Molecular Structure 2" Name="分子结构2"/>
+    <Elem NameU="Molecular Structure 3" Name="分子结构3"/>
+    <Elem NameU="Molecular Structure 4" Name="分子结构4"/>
+    <Elem NameU="Plant Cell" Name="植物细胞"/>
+    <Elem NameU="Animal Cells" Name="动物细胞"/>
+    <Elem NameU="Microbial Culture Medium" Name="微生物培养基"/>
+    <Elem NameU="Surgical Scissors" Name="手术剪刀"/>
+    <Elem NameU="Injector" Name="注射器"/>
+    <Elem NameU="Microscopes" Name="显微镜"/>
+    <Elem NameU="Specimen" Name="标本"/>
+    <Elem NameU="Plant Specimens" Name="植物标本"/>
+    <Elem NameU="Glass Pipette" Name="玻璃吸管"/>
+    <Elem NameU="Test Tube" Name="试管"/>
+    <Elem NameU="Glassware 1" Name="玻璃器皿1"/>
+    <Elem NameU="Glassware 2" Name="玻璃器皿2"/>
+    <Elem NameU="Experiment 1" Name="实验1"/>
+    <Elem NameU="Experiment 2" Name="实验2"/>
+    <Elem NameU="Experimenter 1" Name="实验员1"/>
+    <Elem NameU="Experimenter 2" Name="实验员2"/>
+    <Elem NameU="Experimenter 3" Name="实验员3"/>
+    <Elem NameU="Biology And Technology" Name="生物与技术"/>
+</Lib>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="AWS Analytics">
+	<Elem NameU="Analytics" Name="分析工具"/>
+	<Elem NameU="AWS-Data-Pipeline" Name="AWS-数据管道"/>
+	<Elem NameU="AWS-Glue" Name="AWS-Glue"/>
+	<Elem NameU="AWS-Lake-Formation" Name="AWS-数据湖架构"/>
+	<Elem NameU="Athena" Name="Athena"/>
+	<Elem NameU="CloudSearch" Name="云搜索"/>
+	<Elem NameU="CloudSearch_Search-documents" Name="云搜索-文档"/>
+	<Elem NameU="Elasticsearch-Service" Name="弹性搜索服务"/>
+	<Elem NameU="EMR" Name="EMR"/>
+	<Elem NameU="EMR_Cluster" Name="EMR_集群"/>
+	<Elem NameU="EMR_HDFS-cluster" Name="EMR_HDFS-集群"/>
+	<Elem NameU="EMR_EMR-engine" Name="EMR_EMR引擎"/>
+	<Elem NameU="EMR_EMR-engine-MapR-M3" Name="EMR_EMR引擎地图M3"/>
+	<Elem NameU="EMR_EMR-engine-MapR-M5" Name="EMR_EMR-engine-MapR-M5"/>
+	<Elem NameU="EMR_EMR-engine-MapR-M7" Name="EMR_EMR-engine-MapR-M7"/>
+	<Elem NameU="Kinesis" Name="Kinesis"/>
+	<Elem NameU="Kinesis-Data-Analytics" Name="Kinesis数据分析"/>
+	<Elem NameU="Kinesis-Data-Firehose" Name="Kinesis数据防火墙"/>
+	<Elem NameU="Kinesis-Data-Streams" Name="Kinesis数据流"/>
+	<Elem NameU="Kinesis-Video-Streams" Name="Kinesis视频流"/>
+	<Elem NameU="Managed-Streaming-for-Kafka" Name="为Kafka管理的流媒体"/>
+	<Elem NameU="Quicksight" Name="速视"/>
+	<Elem NameU="Redshift" Name="红移"/>
+	<Elem NameU="Redshift_Dense-compute-node" Name="红移密集计算节点"/>
+	<Elem NameU="Redshift_Dense-storage-node" Name="红移密集存储节点"/>
+	<Elem NameU="AWS-Data-lake_Resource-icon" Name="数据湖资源图标"/>
+	<Elem NameU="AWS-Glue_Crawlers" Name="Glue_抓取工具"/>
+	<Elem NameU="AWS-Glue_Data-catalog" Name="Glue_数据目录"/>
+</Lib>

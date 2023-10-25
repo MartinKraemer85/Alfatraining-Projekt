@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Equipment-Vessels">
+    <Elem NameU="Vertical vessel" Name="立式容器"/>
+    <Elem NameU="Horizontal vessel" Name="卧式容器"/>
+    <Elem NameU="Jacketed mixing vessel (autoclave)" Name="夹套混合容器 （高压灭菌器）"/>
+    <Elem NameU="Half pipe mixing vessel" Name="半管混合容器"/>
+    <Elem NameU="Column" Name="柱形"/>
+    <Elem NameU="Tray column" Name="板式塔"/>
+    <Elem NameU="Tray column 2" Name="板式塔 2"/>
+    <Elem NameU="Tray column 3" Name="板式塔 3"/>
+    <Elem NameU="Fluidized bed column" Name="流化床塔"/>
+    <Elem NameU="Bubble cap trays column" Name="泡罩托盘塔"/>
+    <Elem NameU="Staggered baffle trays column" Name="交错挡板托盘塔"/>
+    <Elem NameU="Valve trays column" Name="阀盘塔"/>
+    <Elem NameU="Packing column" Name="填料塔"/>
+    <Elem NameU="Packing column 2" Name="填料塔 2"/>
+    <Elem NameU="Drum" Name="鼓"/>
+    <Elem NameU="Knock-out drum" Name="分离鼓"/>
+    <Elem NameU="Bag" Name="袋"/>
+    <Elem NameU="Bag (ISO)" Name="袋 (ISO)"/>
+    <Elem NameU="Barrel" Name="桶"/>
+    <Elem NameU="Barrel (ISO)" Name="桶 (ISO)"/>
+    <Elem NameU="Gas bottle" Name="气瓶"/>
+    <Elem NameU="Boiler" Name="锅炉"/>
+    <Elem NameU="Dome boiler" Name="圆顶锅炉"/>
+    <Elem NameU="Hot liquid boiler" Name="热液体锅炉"/>
+    <Elem NameU="Tank" Name="水槽"/>
+    <Elem NameU="Tank 2" Name="水槽 2"/>
+    <Elem NameU="Tank 3" Name="水槽 3"/>
+    <Elem NameU="Tank 4" Name="水槽 4"/>
+    <Elem NameU="Open tank" Name="开式水箱"/>
+    <Elem NameU="Covered tank" Name="盖罐"/>
+    <Elem NameU="Floating roof tank" Name="浮顶罐"/>
+    <Elem NameU="Open bulk storage" Name="开式批量储存器"/>
+    <Elem NameU="Dome roof tank" Name="拱顶水箱"/>
+    <Elem NameU="Cone roof tank" Name="锥顶水箱"/>
+    <Elem NameU="Internal floating roof tank" Name="内浮顶水槽"/>
+    <Elem NameU="Double wall tank" Name="双壁水槽"/>
+    <Elem NameU="Onion tank" Name="洋葱型水槽"/>
+    <Elem NameU="Thermal insulation vessel" Name="保温容器"/>
+    <Elem NameU="Heating-cooling jacket vessel" Name="加热和冷却夹套容器"/>
+    <Elem NameU="Brackets vessel" Name="带支架容器"/>
+    <Elem NameU="Dished ends vessel" Name="盘形底容器"/>
+    <Elem NameU="Pit vessel" Name="外壁带凹槽的容器"/>
+    <Elem NameU="Electrical heating vessel" Name="电加热容器"/>
+    <Elem NameU="Wastewater treatment" Name="污水处理"/>
+    <Elem NameU="Bin" Name="箱子"/>
+</Lib>

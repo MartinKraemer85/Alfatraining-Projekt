@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Project Timeline">
+  <Elem NameU="Time Bar" Name="타임 바"/>
+  <Elem NameU="Time Bar" Name="타임 바"/>
+  <Elem NameU="Time Bar" Name="타임 바"/>
+  <Elem NameU="Time Bar" Name="타임 바"/>
+  <Elem NameU="Time Bar" Name="타임 바"/>
+  <Elem NameU="Time Bar" Name="타임 바"/>
+  <Elem NameU="Interval Description" Name="간격 설명"/>
+  <Elem NameU="Interval Description" Name="간격 설명"/>
+  <Elem NameU="Interval Description" Name="간격 설명"/>
+  <Elem NameU="Interval Description" Name="간격 설명"/>
+  <Elem NameU="Interval Description" Name="간격 설명"/>
+  <Elem NameU="Point Mission" Name="포인트 미션"/>
+  <Elem NameU="Multi-style Mission" Name="다중 미션"/>
+  <Elem NameU="Point Mission" Name="포인트 미션"/>
+  <Elem NameU="Point Mission" Name="포인트 미션"/>
+  <Elem NameU="Point Mission" Name="포인트 미션"/>
+  <Elem NameU="Diamond Milestone" Name="마름모 마일스톤"/>
+  <Elem NameU="Triangle Milestone 2" Name="삼각형 마일스톤"/>
+  <Elem NameU="Circle Milestone" Name="원형 마일스톤"/>
+  <Elem NameU="Rect Milestone" Name="사각형 마일스톤"/>
+  <Elem NameU="Milestone" Name="마일스톤"/>
+  <Elem NameU="Flag Milestone" Name="플래그 마일스톤"/>
+  <Elem NameU="Line Milestone" Name="선 마일스톤"/>
+  <Elem NameU="Side Brace" Name="사이드 브레이스"/>
+</Lib>

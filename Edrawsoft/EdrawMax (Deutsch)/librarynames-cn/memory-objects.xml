@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Memory Objects">
+    <Elem NameU="3D stact top" Name="三维堆栈顶部"/>
+    <Elem NameU="3D stact middle" Name="三维堆栈中部"/>
+    <Elem NameU="Range Label" Name="范围标签"/>
+    <Elem NameU="Range Label 2" Name="范围标签 2"/>
+    <Elem NameU="Data block" Name="数据块"/>
+    <Elem NameU="Data chunk" Name="数据区块"/>
+    <Elem NameU="Byte or variable" Name="字节或变量"/>
+    <Elem NameU="Array" Name="数组"/>
+    <Elem NameU="Pointer" Name="指针"/>
+    <Elem NameU="Pointer 2" Name="指针 (1-D)"/>
+    <Elem NameU="Pointer (1-D)" Name="指针 (1-D)"/>
+    <Elem NameU="Single link. list node" Name="单向链接列表节点"/>
+    <Elem NameU="Single link. list node 2" Name="单向链接列表节点2"/>
+    <Elem NameU="Double link. list node" Name="双向链接列表节点"/>
+    <Elem NameU="Stack Pointer" Name="堆栈指针"/>
+    <Elem NameU="Stack or heap" Name="堆或堆栈"/>
+    <Elem NameU="Data stock" Name="数据存储"/>
+</Lib>

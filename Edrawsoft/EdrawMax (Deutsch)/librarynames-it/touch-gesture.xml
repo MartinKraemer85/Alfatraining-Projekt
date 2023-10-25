@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Touch Gesture">
+	<Elem NameU="Tap" Name="Tocco"/>
+	<Elem NameU="Double tap" Name="Doppio tocco"/>
+	<Elem NameU="Double tap with three fingers" Name="Doppio tocco con tre dita"/>
+	<Elem NameU="Press and hold" Name="Tenere premuto"/>
+	<Elem NameU="Refresh" Name="Aggiorna"/>
+	<Elem NameU="One finger swipe up" Name="Swipe in alto con un dito"/>
+	<Elem NameU="One finger swipe down" Name="Swipe in basso con un dito"/>
+	<Elem NameU="Two-finger swipe up" Name="Swipe in alto con due dita"/>
+	<Elem NameU="Two-finger swipe up 2" Name="Swipe in alto con due dita 2"/>
+	<Elem NameU="Two-finger swipe down" Name="Swipe in basso con due dita"/>
+	<Elem NameU="Three-finger swipe up" Name="Swipe in alto con tre dita"/>
+	<Elem NameU="Three-finger swipe down" Name="Swipe in basso con tre dita"/>
+	<Elem NameU="Four-finger pinch" Name="Pizzico a quattro dita"/>
+	<Elem NameU="Five-finger pinch" Name="Pizzico a cinque dita"/>
+	<Elem NameU="Drag and drop page" Name="Trascinamento pagina"/>
+	<Elem NameU="Zoom out" Name="Rimpicciolimento"/>
+	<Elem NameU="Zoom in" Name="Ingrandimento"/>
+	<Elem NameU="Switch to the previous tab" Name="Scheda precedente"/>
+	<Elem NameU="Switch to the next tab" Name="Scheda successiva"/>
+	<Elem NameU="Two-finger pinch" Name="Pizzico a due dita"/>
+	<Elem NameU="Two-finger swipe" Name="Swipe a due dita"/>
+	<Elem NameU="Point" Name="Punto"/>
+	<Elem NameU="Point2" Name="Punto2"/>
+	<Elem NameU="Point3" Name="Punto3"/>
+	<Elem NameU="Point4" Name="Punto4"/>
+	<Elem NameU="Two-finger pinch 2" Name="Pizzico a due dita 2"/>
+	<Elem NameU="Carry with two fingers" Name="Trascinamento a due dita"/>
+	<Elem NameU="Arrow" Name="Freccia"/>
+	<Elem NameU="Arrow2" Name="Freccia2"/>
+	<Elem NameU="Arrow3" Name="Freccia3"/>
+</Lib>

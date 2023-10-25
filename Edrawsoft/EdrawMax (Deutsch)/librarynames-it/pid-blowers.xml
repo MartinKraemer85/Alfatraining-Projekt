@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="PID Blowers">
+	<Elem NameU="3-D ISA Blower" Name="Soffiatore ISA 3-D"/>
+	<Elem NameU="Air compressor" Name="Compressore d'aria"/>
+	<Elem NameU="Blower" Name="Soffiatore"/>
+	<Elem NameU="Centrifugal air blower" Name="Soffiatore centrifugale"/>
+	<Elem NameU="Fan-powered terminal unit" Name="Unità terminale con Ventilatore"/>
+	<Elem NameU="Fiberglass fan air" Name="Ventilatore con fibra di vetro"/>
+	<Elem NameU="Fume exhauster" Name="Aspiratore di fumi"/>
+	<Elem NameU="Gas pump" Name="Pompa del gas"/>
+	<Elem NameU="Gray shaded fan" Name="Ventilatore grigio attivo"/>
+	<Elem NameU="HVAC compressor" Name="Compressore HVAC"/>
+	<Elem NameU="Inline air filter" Name="Filtro dell'aria in linea"/>
+	<Elem NameU="Mixed flow inline fan" Name="Ventilatore a flusso misto"/>
+	<Elem NameU="Plastic blower" Name="Soffiatore di plastica"/>
+	<Elem NameU="Pressure blower" Name="Soffiatore a pressione"/>
+	<Elem NameU="radial fume exhauster" Name="Aspiratore di fumi radiale"/>
+	<Elem NameU="Reciprocating compressor" Name="Compressore reciproco"/>
+	<Elem NameU="Regenerative blower" Name="Soffiatore rigenerativo"/>
+	<Elem NameU="Simple blower" Name="Soffiatore semplice"/>
+	<Elem NameU="Turbo blower" Name="Soffiatore con turbo"/>
+	<Elem NameU="Vaneaxial fan" Name="Ventilatore assiale"/>
+	<Elem NameU="Vortex blower" Name="Soffiatore a vortice"/>
+	<Elem NameU="Draught Fan" Name="Ventilatore a Ventola"/>
+	<Elem NameU="Draught fan" Name="Ventilatore a ventola"/>
+	<Elem NameU="Dilution air blower" Name="Soffiatore con diluizione"/>
+	<Elem NameU="Airlock" Name="Camera stagna"/>
+	<Elem NameU="Pressure fan" Name="Ventilatore a pressione"/>
+	<Elem NameU="Blower room" Name="Stanza di ventilazione"/>
+	<Elem NameU="Flue Gas Induced Fan" Name="Ventilatore a Gas di Scarico"/>
+	<Elem NameU="Compressor" Name="Compressore"/>
+	<Elem NameU="Compressor Unit" Name="Unità di Compressione"/>
+	<Elem NameU="Filter press" Name="Filtropressa"/>
+</Lib>

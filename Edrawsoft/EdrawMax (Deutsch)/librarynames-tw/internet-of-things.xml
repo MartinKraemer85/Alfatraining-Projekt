@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Internet Of Things">
+    <Elem NameU="Alarm Clock" Name="鬧鐘"/>
+    <Elem NameU="Bank" Name="銀行"/>
+    <Elem NameU="Bathtub" Name="浴缸"/>
+    <Elem NameU="Bicycle" Name="自行車"/>
+    <Elem NameU="Binoculars" Name="雙筒望遠鏡"/>
+    <Elem NameU="Bread Maker" Name="麵包機"/>
+    <Elem NameU="Bulb" Name="電燈泡"/>
+    <Elem NameU="Bus" Name="巴士"/>
+    <Elem NameU="Calculator" Name="計算器"/>
+    <Elem NameU="Calendar" Name="日曆"/>
+    <Elem NameU="Car" Name="小汽車"/>
+    <Elem NameU="Ceiling Lamp" Name="吊燈"/>
+    <Elem NameU="Chat" Name="聊天"/>
+    <Elem NameU="Chip" Name="芯片"/>
+    <Elem NameU="Cloud with Wifi" Name="帶WiFi的雲"/>
+    <Elem NameU="Coffee Maker 1" Name="咖啡機 1"/>
+    <Elem NameU="Coffee Maker 2" Name="咖啡機 2"/>
+    <Elem NameU="Computer" Name="計算機"/>
+    <Elem NameU="Earphone" Name="耳機"/>
+    <Elem NameU="Electric Cooker" Name="電爐灶"/>
+    <Elem NameU="Electric Fan" Name="電風扇"/>
+    <Elem NameU="Eye" Name="眼鏡"/>
+    <Elem NameU="Flower" Name="花"/>
+    <Elem NameU="Gamepad" Name="遊戲手柄"/>
+    <Elem NameU="Garage" Name="車庫"/>
+    <Elem NameU="Earth" Name="地球"/>
+    <Elem NameU="Handheld Game Console" Name="掌上游戲機"/>
+    <Elem NameU="Headset" Name="頭戴式耳機"/>
+    <Elem NameU="Helicopter" Name="直升機"/>
+    <Elem NameU="Juicer" Name="榨汁機"/>
+    <Elem NameU="Key" Name="鑰匙"/>
+    <Elem NameU="Lamp" Name="檯燈"/>
+    <Elem NameU="Lock" Name="鎖"/>
+    <Elem NameU="Loudspeaker" Name="揚聲器"/>
+    <Elem NameU="Maglev Train" Name="磁懸浮列車"/>
+    <Elem NameU="Male Plug" Name="插頭"/>
+    <Elem NameU="Microwave Oven" Name="微波爐"/>
+    <Elem NameU="Microphone" Name="麥克風"/>
+    <Elem NameU="Motor Scooter" Name="小型摩托車"/>
+    <Elem NameU="Mouse" Name="鼠標"/>
+    <Elem NameU="MP3" Name="MP3"/>
+    <Elem NameU="Opened Lock" Name="解鎖"/>
+    <Elem NameU="Oven" Name="烤箱"/>
+    <Elem NameU="Pay with Phone" Name="手機支付"/>
+    <Elem NameU="Phone with Music" Name="手機播放音樂"/>
+    <Elem NameU="Plane" Name="飛機"/>
+    <Elem NameU="Pot" Name="鍋"/>
+    <Elem NameU="Printer" Name="打印機"/>
+    <Elem NameU="Projector" Name="投影儀"/>
+    <Elem NameU="Refrigerator" Name="冰箱"/>
+    <Elem NameU="Robot Dog" Name="智能機器狗"/>
+    <Elem NameU="Rocket" Name="火箭"/>
+    <Elem NameU="Router" Name="路由器"/>
+    <Elem NameU="Satellite" Name="衛星"/>
+    <Elem NameU="Satellite Dish" Name="衛星電視碟形天線"/>
+    <Elem NameU="Security Camera" Name="（監控用的）攝像頭"/>
+    <Elem NameU="Server" Name="伺服器"/>
+    <Elem NameU="Ship" Name="輪船"/>
+    <Elem NameU="Shopping Cart" Name="購物車"/>
+    <Elem NameU="Smartphone" Name="智能手機"/>
+    <Elem NameU="Smart Watch" Name="智能手錶"/>
+    <Elem NameU="Spoon and Fork" Name="刀叉"/>
+    <Elem NameU="Tap" Name="水龍頭"/>
+    <Elem NameU="Touchscreen Phone" Name="觸屏手機"/>
+    <Elem NameU="Telephone" Name="電話"/>
+    <Elem NameU="Television" Name="電視機"/>
+    <Elem NameU="Thermometer" Name="溫度計"/>
+    <Elem NameU="Train" Name="列車"/>
+    <Elem NameU="Washing Machine" Name="洗衣機"/>
+    <Elem NameU="Watch" Name="手錶"/>
+    <Elem NameU="Webcam" Name="網絡攝像機"/>
+    <Elem NameU="Weighing Scale" Name="體重秤"/>
+    <Elem NameU="Van" Name="客貨車"/>
+    <Elem NameU="Video" Name="視頻"/>
+    <Elem NameU="VR Headset" Name="VR耳機"/>
+    <Elem NameU="VR Goggles" Name="VR眼鏡"/>
+</Lib>

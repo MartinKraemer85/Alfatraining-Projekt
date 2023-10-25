@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Value Chain">
+	<Elem NameU="Basic Value Chain" Name="Catena di Valori Semplice"/>
+	<Elem NameU="Value List" Name="Elenco di Valori"/>
+	<Elem NameU="Value List 2" Name="Elenco di Valori 2"/>
+	<Elem NameU="Value List 3" Name="Elenco di Valori 3"/>
+	<Elem NameU="Value List 4" Name="Elenco di Valori 4"/>
+	<Elem NameU="Arrow" Name="Freccia"/>
+	<Elem NameU="Arrow 2" Name="Freccia 2"/>
+	<Elem NameU="Arrow Axis" Name="Freccia Assiale"/>
+	<Elem NameU="Chevron" Name="Parentesi Uncinata"/>
+</Lib>

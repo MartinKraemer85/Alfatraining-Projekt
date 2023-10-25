@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="AWS Group Icons">
+	<Elem NameU="Auto-Scaling" Name="自动缩放"/>
+	<Elem NameU="AWS-Cloud" Name="AWS云"/>
+	<Elem NameU="AWS-Cloud-alt" Name="AWS云替代"/>
+	<Elem NameU="AWS-Step-Function" Name="AWS分步功能"/>
+	<Elem NameU="Corporate-data-center" Name="企业数据中心"/>
+	<Elem NameU="EC2-instance-container" Name="EC2实例容器"/>
+	<Elem NameU="Elastic-Beanstalk-container" Name="弹性豆茎容器"/>
+	<Elem NameU="Region" Name="地区"/>
+	<Elem NameU="Server-contents" Name="服务器内容"/>
+	<Elem NameU="Spot-fleet" Name="点队"/>
+	<Elem NameU="Virtual-private-cloud-VPC" Name="虚拟私有云VPC"/>
+	<Elem NameU="VPC-subnet-private" Name="VPC子网专用"/>
+	<Elem NameU="VPC-subnet-public" Name="VPC子网公共"/>
+</Lib>

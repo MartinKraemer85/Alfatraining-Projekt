@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Equipment-Mixers">
+	<Elem NameU="In-line mixer" Name="Misturador em linha"/>
+	<Elem NameU="Mixer" Name="Misturador"/>
+	<Elem NameU="Various mixers" Name="Vários misturadores"/>
+	<Elem NameU="Various mixers 2" Name="Vários misturadores 2"/>
+	<Elem NameU="Agitator, Stirrer" Name="Agitador, Misturador"/>
+	<Elem NameU="Agitator, Propeller" Name="Agitador, Hélice"/>
+	<Elem NameU="Agitator, Anchor" Name="Agitador, Âncora"/>
+	<Elem NameU="Agitator, Impeller" Name="Agitador, Rotor"/>
+	<Elem NameU="Agitator, Turbine" Name="Agitador, Turbina"/>
+	<Elem NameU="Agitator, Helical" Name="Agitador, Helicoidal"/>
+	<Elem NameU="Agitator, Gat Paddle" Name="Agitador, Pá de Gat"/>
+	<Elem NameU="Agitator, Disc" Name="Agitador, Disco"/>
+	<Elem NameU="Agitator, Cross-beam" Name="Agitador, Viga Transversal"/>
+</Lib>

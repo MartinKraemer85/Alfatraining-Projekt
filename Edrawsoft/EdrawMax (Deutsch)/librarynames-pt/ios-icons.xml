@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="iOS Icons">
+	<Elem NameU="Phone" Name="Telefone"/>
+	<Elem NameU="Airplane Mode" Name="Modo de Avião"/>
+	<Elem NameU="Chat" Name="Chat"/>
+	<Elem NameU="Bluetooth" Name="Bluetooth"/>
+	<Elem NameU="Wifi" Name="Wi-Fi"/>
+	<Elem NameU="Facetime" Name="Facetime"/>
+	<Elem NameU="Previous" Name="Anterior"/>
+	<Elem NameU="Add" Name="Adicionar"/>
+	<Elem NameU="Next" Name="Próximo"/>
+	<Elem NameU="Orientation Lock" Name="Fechadura de Orientação"/>
+	<Elem NameU="Notifications 1" Name="Notificações 1"/>
+	<Elem NameU="Notifications 2" Name="Notificações 2"/>
+	<Elem NameU="Airplay" Name="Airplay"/>
+	<Elem NameU="Keypad Filled" Name="Teclado Preenchido"/>
+	<Elem NameU="Keypad Filled-2" Name="Teclado Preenchido-2"/>
+	<Elem NameU="Favorites" Name="Favoritos"/>
+	<Elem NameU="Timer 1" Name="Temporizador 1"/>
+	<Elem NameU="Timer 2" Name="Temporizador 2"/>
+	<Elem NameU="Calculator" Name="Calculadora"/>
+	<Elem NameU="More 1" Name="Mais 1"/>
+	<Elem NameU="More 2" Name="Mais 2"/>
+	<Elem NameU="Search" Name="Procurar"/>
+	<Elem NameU="Camera" Name="Câmera"/>
+	<Elem NameU="Contact" Name="Contato"/>
+	<Elem NameU="iCloud 1" Name="iCloud 1"/>
+	<Elem NameU="iCloud 2" Name="iCloud 2"/>
+	<Elem NameU="Folder 1" Name="Pasta 1"/>
+	<Elem NameU="Folder 2" Name="Pasta 2"/>
+	<Elem NameU="Reply 1" Name="Responder 1"/>
+	<Elem NameU="Reply 2" Name="Responder 2"/>
+	<Elem NameU="Picture" Name="Imagem"/>
+	<Elem NameU="AirDrop" Name="AirDrop"/>
+	<Elem NameU="Compose" Name="Compor"/>
+	<Elem NameU="Microphone" Name="Microfone"/>
+	<Elem NameU="Top Charts" Name="Gráficos Topo"/>
+	<Elem NameU="Bullet List Filled" Name="Lista de Pontos Bala Preenchida"/>
+	<Elem NameU="Switch 1" Name="Interruptor 1"/>
+	<Elem NameU="Switch 2" Name="Interruptor 2"/>
+	<Elem NameU="Music" Name="Música"/>
+	<Elem NameU="Albums 1" Name="Álbuns 1"/>
+	<Elem NameU="Albums 2" Name="Álbuns 2"/>
+	<Elem NameU="News" Name="Notícias"/>
+	<Elem NameU="Photos 1" Name="Fotos 1"/>
+	<Elem NameU="Photos 2" Name="Fotos 2"/>
+	<Elem NameU="OK" Name="OK"/>
+	<Elem NameU="OK Filled" Name="OK Preenchido"/>
+	<Elem NameU="Alarm" Name="Alarme"/>
+	<Elem NameU="Recents 1" Name="Recentes 1"/>
+	<Elem NameU="Recents 2" Name="Recentes 2"/>
+	<Elem NameU="Upload" Name="Carregar"/>
+	<Elem NameU="Download" Name="Transferir"/>
+	<Elem NameU="Load" Name="Carregar"/>
+	<Elem NameU="Box" Name="Caixa"/>
+	<Elem NameU="Box Filled" Name="Caixa Preenchida"/>
+	<Elem NameU="Language 1" Name="Linguagem 1"/>
+	<Elem NameU="Language 2" Name="Linguagem 2"/>
+	<Elem NameU="Flag 1" Name="Bandeira 1"/>
+	<Elem NameU="Flag 2" Name="Bandeira 2"/>
+	<Elem NameU="Brightness 1" Name="Brilho 1"/>
+	<Elem NameU="Brightness 2" Name="Brilho 2"/>
+	<Elem NameU="Privacy" Name="Privacidade"/>
+	<Elem NameU="Lock" Name="Fechadura"/>
+	<Elem NameU="Arrow" Name="Seta"/>
+	<Elem NameU="Volume" Name="Volume"/>
+	<Elem NameU="Drafts" Name="Rascunhos"/>
+	<Elem NameU="Sent" Name="Enviar"/>
+	<Elem NameU="Add 1" Name="Adicionar 1"/>
+	<Elem NameU="Add 2" Name="Adicionar 2"/>
+	<Elem NameU="FlashLight" Name="Lanterna"/>
+	<Elem NameU="Near" Name="perto"/>
+	<Elem NameU="Near Filled" Name="Perto Preenchido"/>
+	<Elem NameU="Trash 1" Name="Lixo 1"/>
+	<Elem NameU="Trash 2" Name="Lixo 2"/>
+	<Elem NameU="Inbox" Name="Caixa de Entrada"/>
+	<Elem NameU="Love Speech Bubble" Name="Bolha de Discurso Amoroso"/>
+	<Elem NameU="Copy" Name="Copia"/>
+	<Elem NameU="Film" Name="Filme"/>
+	<Elem NameU="Information 1" Name="Informação 1"/>
+	<Elem NameU="Information 2" Name="Informação 2"/>
+	<Elem NameU="Filter" Name="Filtro"/>
+	<Elem NameU="Bookmark 1" Name="Favorito 1"/>
+	<Elem NameU="Bookmark 2" Name="Favorito 2"/>
+	<Elem NameU="Compass" Name="Bússola"/>
+	<Elem NameU="Memories" Name="Memórias"/>
+	<Elem NameU="Junk" Name="Lixo"/>
+	<Elem NameU="Clear" Name="Limpo"/>
+	<Elem NameU="All Inboxes" Name="Todas as Caixas de Entrada"/>
+	<Elem NameU="Menu" Name="Menu"/>
+	<Elem NameU="Add to Reading List" Name="Adicionar à Lista de Leitura"/>
+	<Elem NameU="Voicemail 1" Name="Correio de voz 1"/>
+	<Elem NameU="Voicemail 2" Name="Correio de voz 2"/>
+	<Elem NameU="Bookmark 3" Name="Favorito 3"/>
+	<Elem NameU="Do Not Disturb" Name="Não Perturbar"/>
+	<Elem NameU="Edit" Name="Editar"/>
+	<Elem NameU="Battery" Name="Bateria"/>
+</Lib>

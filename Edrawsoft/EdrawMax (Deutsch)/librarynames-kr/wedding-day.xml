@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Wedding Day">
+    <Elem NameU="Cupid" Name="큐핏"/>
+    <Elem NameU="Heart" Name="하트"/>
+    <Elem NameU="Rings" Name="반지"/>
+    <Elem NameU="Cake" Name="케익"/>
+    <Elem NameU="Tableware" Name="식기"/>
+    <Elem NameU="Cupcake" Name="디저트"/>
+    <Elem NameU="Champagne Glasses" Name="샴페인 잔"/>
+    <Elem NameU="Champagne" Name="샴페인"/>
+    <Elem NameU="Flowers" Name="꽃"/>
+    <Elem NameU="Bouquet 1" Name="부켓 1"/>
+    <Elem NameU="Bouquet 2" Name="부켓 2"/>
+    <Elem NameU="Bouquet 3" Name="부켓 3"/>
+    <Elem NameU="Pigeons" Name="비둘기"/>
+    <Elem NameU="Ribbon 1" Name="리본"/>
+    <Elem NameU="Ribbon 2" Name="리본"/>
+    <Elem NameU="Ribbon 3" Name="리본"/>
+    <Elem NameU="Ribbon 4" Name="리본"/>
+    <Elem NameU="Pigeon" Name="비둘기"/>
+    <Elem NameU="Swans" Name="스완"/>
+    <Elem NameU="Symbol" Name="기호"/>
+    <Elem NameU="Candelabrum" Name="촛대"/>
+    <Elem NameU="Love letter" Name="편지"/>
+    <Elem NameU="Gift" Name="선물"/>
+    <Elem NameU="Calendar" Name="일정"/>
+    <Elem NameU="Church" Name="교회"/>
+    <Elem NameU="Women Shoes" Name="여자 신발"/>
+    <Elem NameU="Men Shoes" Name="남자 신발"/>
+    <Elem NameU="Wedding Suit" Name="웨딩 슈트 "/>
+    <Elem NameU="Evening Dress" Name="드레스"/>
+    <Elem NameU="Wedding Dress 1" Name="웨딩 드레스"/>
+    <Elem NameU="Wedding Dress 2" Name="웨딩 드레스"/>
+    <Elem NameU="Wedding Dress 3" Name="웨딩 드레스"/>
+    <Elem NameU="Wedding Couple 1" Name="웨딩 커플"/>
+    <Elem NameU="Wedding Couple 2" Name="웨딩 커플"/>
+    <Elem NameU="Wedding Couple 3" Name="웨딩 커플"/>
+    <Elem NameU="Wedding Couple 4" Name="웨딩 커플"/>
+    <Elem NameU="Flower Wreath 1" Name="화환"/>
+    <Elem NameU="Flower Wreath 2" Name="화환"/>
+    <Elem NameU="Flower Wreath 3" Name="화환"/>
+    <Elem NameU="Flower Wreath 4" Name="화환"/>
+    <Elem NameU="Wedding Flower 1" Name="웨딩 플라워"/>
+    <Elem NameU="Wedding Flower 2" Name="웨딩 플라워"/>
+    <Elem NameU="Wedding Flower 3" Name="웨딩 플라워"/>
+    <Elem NameU="Wedding Flower 4" Name="웨딩 플라워"/>
+    <Elem NameU="Wedding Flower 5" Name="웨딩 플라워"/>
+    <Elem NameU="Wedding Flower 6" Name="웨딩 플라워"/>
+    <Elem NameU="Wedding Flower 7" Name="웨딩 플라워"/>
+    <Elem NameU="Bird 1" Name="새"/>
+    <Elem NameU="Bird 2" Name="새"/>
+</Lib>

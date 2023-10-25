@@ -2,9 +2,9 @@ import smtplib
 from decouple import config
 
 
-def test_mail(to='m.kraemer85@web.de'):
+def test_mail(to='m.kraemer85@web.de') -> None:
     """
-    Sends an email to a specifici mail adress
+    Sends an email to a specific mail address
 
     :param to: Receiver
     :return: None

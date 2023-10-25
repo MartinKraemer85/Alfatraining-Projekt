@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Architecture Diagram">
+	<Elem NameU="Actor" Name="角色"/>
+	<Elem NameU="Left Arrow" Name="左箭頭"/>
+	<Elem NameU="Right Arrow" Name="右箭頭"/>
+	<Elem NameU="Down Arrow" Name="向下箭頭"/>
+	<Elem NameU="Double arrow" Name="双箭頭"/>
+	<Elem NameU="Rectangle" Name="長方形"/>
+	<Elem NameU="Rounded Rectangle" Name="圓角矩形"/>
+	<Elem NameU="Triangle" Name="三角形"/>
+	<Elem NameU="Diamond" Name="菱形"/>
+	<Elem NameU="Circle" Name="圓"/>
+	<Elem NameU="Oval" Name="橢圓"/>
+	<Elem NameU="Datastore" Name="資料存儲"/>
+	<Elem NameU="Multiplicity" Name="多重性"/>
+	<Elem NameU="Package" Name="包"/>
+	<Elem NameU="Model" Name="模型"/>
+	<Elem NameU="Process" Name="進程"/>
+	<Elem NameU="State" Name="狀態"/>
+	<Elem NameU="Data Store" Name="資料存儲"/>
+	<Elem NameU="Component" Name="構建"/>
+	<Elem NameU="External Entity" Name="外部實體"/>
+	<Elem NameU="Straight Connector" Name="直線箭頭"/>
+	<Elem NameU="3D Stact Top" Name="3D矩形"/>
+	<Elem NameU="Long rounded rectangular frame" Name="長圓形矩形框"/>
+	<Elem NameU="Container" Name="容器"/>
+	<Elem NameU="Oval Container" Name="橢圓形容器"/>
+</Lib>

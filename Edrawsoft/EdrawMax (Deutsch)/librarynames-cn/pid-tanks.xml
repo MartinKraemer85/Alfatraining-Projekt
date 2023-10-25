@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Tanks">
+    <Elem NameU="5-gallon bucket" Name="5加仑桶"/>
+    <Elem NameU="Air cylinder" Name="气缸"/>
+    <Elem NameU="Air tank" Name="储气罐"/>
+    <Elem NameU="Barrel" Name="桶"/>
+    <Elem NameU="Batch tank" Name="仓式泵"/>
+    <Elem NameU="Bolt 1" Name="螺栓 1"/>
+    <Elem NameU="Bolt 2" Name="螺栓 2"/>
+    <Elem NameU="Brew kettle" Name="酿造锅"/>
+    <Elem NameU="Container" Name="容器"/>
+    <Elem NameU="Corrosion resistant tank (medium)" Name="耐腐蚀槽"/>
+    <Elem NameU="Day tank" Name="日量熔槽"/>
+    <Elem NameU="Drum" Name="鼓式槽"/>
+    <Elem NameU="Elliptical bulk storage tank" Name="椭圆散装储罐"/>
+    <Elem NameU="Flour Storage Tank" Name="粉末储罐"/>
+    <Elem NameU="Flat vessel 1" Name="扁容器 1"/>
+    <Elem NameU="Flat vessel 2" Name="扁容器 2"/>
+    <Elem NameU="Flat vessel 3" Name="扁容器 3"/>
+    <Elem NameU="Flat vessel 4" Name="扁容器 4"/>
+    <Elem NameU="Flat vessel 5" Name="扁容器 5"/>
+    <Elem NameU="Flat vessel 6" Name="扁容器 6"/>
+    <Elem NameU="Flat vessel 7" Name="扁容器 7"/>
+    <Elem NameU="Free-standing leg tank" Name="独立式储罐"/>
+    <Elem NameU="Glass lined tank" Name="玻璃条纹式储罐"/>
+    <Elem NameU="Green cylinder" Name="绿色油缸"/>
+    <Elem NameU="Green vessel" Name="绿色容器"/>
+    <Elem NameU="Hatch" Name="舱口"/>
+    <Elem NameU="Heat exchanger" Name="热交换器"/>
+    <Elem NameU="Hopper" Name="料斗"/>
+    <Elem NameU="Homogenize Tank" Name="同质化储罐"/>
+    <Elem NameU="Hydropneumatic tank" Name="液压气动罐"/>
+    <Elem NameU="Hot Living Water Tank" Name="生活热水箱"/>
+    <Elem NameU="Large cone-bottom polyethylene tank" Name="大型锥底聚乙烯储罐"/>
+    <Elem NameU="Liquid storage drum" Name="液体存储鼓"/>
+    <Elem NameU="Mix tank" Name="搅拌罐"/>
+    <Elem NameU="Molded polyethylene tank" Name="模制聚乙烯罐"/>
+    <Elem NameU="Polyethylene chemical mix tank" Name="聚乙烯化学混合槽"/>
+    <Elem NameU="Polyethylene mix and fill tank" Name="聚乙烯混合和填充槽"/>
+    <Elem NameU="Polyethylene storage tank with twin legs" Name="有双支撑脚的的储罐"/>
+    <Elem NameU="Polyethylene storage tank" Name="聚乙烯储罐"/>
+    <Elem NameU="Polyethylene tank" Name="聚乙烯储罐"/>
+    <Elem NameU="Polyethylene tank with mixer" Name="带混合器的聚乙烯储罐"/>
+    <Elem NameU="Pond with plant life" Name="有植物的池塘"/>
+    <Elem NameU="Pond" Name="池塘"/>
+    <Elem NameU="Pressure vessel" Name="压力容器"/>
+    <Elem NameU="Reactor 1" Name="反应器 1"/>
+    <Elem NameU="Reactor 2" Name="反应器 2"/>
+    <Elem NameU="Reactor 3" Name="反应器 3"/>
+    <Elem NameU="Reactor 4" Name="反应器 4"/>
+    <Elem NameU="Reactor tank" Name="反应器 tank"/>
+    <Elem NameU="Reactor with agitator" Name="带搅拌器的反应器"/>
+    <Elem NameU="Reactor with hatch and ladder" Name="带舱口和梯子的反应器"/>
+    <Elem NameU="Reinforced tank with mixer" Name="带搅拌机的加强型储罐"/>
+    <Elem NameU="Round reactor with legs" Name="有支脚的圆形反应堆"/>
+    <Elem NameU="Silo with spiral ladder" Name="有螺旋梯的筒仓"/>
+    <Elem NameU="Silo with straight ladder" Name="有直梯的筒仓"/>
+    <Elem NameU="Simple process tank" Name="简单处理罐"/>
+    <Elem NameU="Simple reactor" Name="简单反应器"/>
+    <Elem NameU="Simple tank 1" Name="简单储罐 1"/>
+    <Elem NameU="Simple tank 2" Name="简单储罐 2"/>
+    <Elem NameU="Simple tank 3" Name="简单储罐 3"/>
+    <Elem NameU="Simple tank 4" Name="简单储罐 4"/>
+    <Elem NameU="Simple tank 5" Name="简单储罐 5"/>
+    <Elem NameU="Simple tank system" Name="简单储罐系统"/>
+    <Elem NameU="Smooth silo" Name="光滑筒仓"/>
+    <Elem NameU="Spherical tank" Name="球形储罐"/>
+    <Elem NameU="Spherical tank with rivets" Name="有铆钉的球形储罐"/>
+    <Elem NameU="Stabilization tank" Name="稳定罐"/>
+    <Elem NameU="Stainless steel cylinder" Name="不锈钢柱形储罐"/>
+    <Elem NameU="Storage facility 1" Name="存储设备 1"/>
+    <Elem NameU="Storage facility 2" Name="存储设备 2"/>
+    <Elem NameU="Storage facility 3" Name="存储设备 3"/>
+    <Elem NameU="Storage facility 4" Name="存储设备 4"/>
+    <Elem NameU="Storage tank with ladder" Name="带梯子的储罐"/>
+    <Elem NameU="Storage tank" Name="储罐"/>
+    <Elem NameU="Tank 1" Name="储罐 1"/>
+    <Elem NameU="Tank 2" Name="储罐 2"/>
+    <Elem NameU="Tank 3" Name="储罐 3"/>
+    <Elem NameU="Tank 4" Name="储罐 4"/>
+    <Elem NameU="Tank 5" Name="储罐 5"/>
+    <Elem NameU="Tank 6" Name="储罐 6"/>
+    <Elem NameU="Tank 7" Name="储罐 7"/>
+    <Elem NameU="Tank 8" Name="储罐 8"/>
+    <Elem NameU="Tank 9" Name="储罐 9"/>
+    <Elem NameU="Tank 10" Name="储罐 10"/>
+    <Elem NameU="Tank 11" Name="储罐 11"/>
+    <Elem NameU="Tank 12" Name="储罐 12"/>
+    <Elem NameU="Tank 13" Name="储罐 13"/>
+    <Elem NameU="Tank 14" Name="储罐 14"/>
+    <Elem NameU="Tank 15" Name="储罐 15"/>
+    <Elem NameU="Tank 16" Name="储罐 16"/>
+    <Elem NameU="Dosing Tank" Name="配量池"/>
+    <Elem NameU="Tank bank" Name="储罐群"/>
+    <Elem NameU="Tank support 1" Name="储罐支架 1"/>
+    <Elem NameU="Tank support 2" Name="储罐支架 2"/>
+    <Elem NameU="Tank with cutaway" Name="剖面储罐 with cutaway"/>
+    <Elem NameU="Tank with hatch" Name="有舱口的储蓄"/>
+    <Elem NameU="Tank with rivets" Name="带铆钉的储罐"/>
+    <Elem NameU="Tank with rivets and ladder" Name="带铆钉和梯子的储罐"/>
+    <Elem NameU="Underground storage tank" Name="地下储罐"/>
+    <Elem NameU="Very smooth tank" Name="十分光滑的储蓄罐"/>
+    <Elem NameU="Domestic hot water storage tank" Name="家用热水储罐"/>
+    <Elem NameU="Digestion Reaction Tank" Name="消化反应池"/>
+    <Elem NameU="Ethanol storage" Name="乙醇存储"/>
+    <Elem NameU="Temporary storage tank" Name="暂存罐"/>
+    <Elem NameU="The original water tank" Name="原水箱"/>
+    <Elem NameU="Insulation cans" Name="保温罐"/>
+    <Elem NameU="Product" Name="产品"/>
+</Lib>

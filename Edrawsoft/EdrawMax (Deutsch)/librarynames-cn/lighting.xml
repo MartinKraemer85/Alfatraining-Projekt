@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Lighting">
+    <Elem NameU="Luminaire ceiling mount" Name="吸顶灯"/>
+    <Elem NameU="Encl ceiling lum" Name="封闭式天花灯"/>
+    <Elem NameU="Wall light" Name="壁灯"/>
+    <Elem NameU="Downlight" Name="下射式灯具"/>
+    <Elem NameU="Outdoor lighting" Name="户外灯"/>
+    <Elem NameU="Multi-light bar" Name="浴室墙灯"/>
+    <Elem NameU="Batten fluores" Name="板条荧光棒"/>
+    <Elem NameU="Modular fluores" Name="模块化萤石"/>
+    <Elem NameU="Emerg. light" Name="应急灯"/>
+    <Elem NameU="Emerg. sign" Name="应急标志"/>
+    <Elem NameU="Light" Name="灯"/>
+    <Elem NameU="Ceiling Light Outlet" Name="天花板灯插座"/>
+    <Elem NameU="Recessed ceiling light" Name="嵌壁式吊灯"/>
+    <Elem NameU="Ceiling fan" Name="吊扇"/>
+    <Elem NameU="Weatherproof landscape light" Name="不受天气影响的景观灯"/>
+    <Elem NameU="Ceiling light with pull cord" Name="拉绳式天花灯"/>
+    <Elem NameU="Emergency battery unit with two light" Name="带蓄电池双头应急灯"/>
+    <Elem NameU="Spotlight" Name="聚光灯"/>
+    <Elem NameU="Exit sign" Name="出口标志"/>
+    <Elem NameU="Light" Name="灯"/>
+    <Elem NameU="Roadway light" Name="路灯"/>
+    <Elem NameU="Twin lights" Name="双束光"/>
+    <Elem NameU="Light" Name="灯"/>
+    <Elem NameU="Lights" Name="灯"/>
+    <Elem NameU="Integrated  Light" Name="集成投光灯"/>
+    <Elem NameU="Night Light" Name="夜间照明灯"/>
+    <Elem NameU="Louvers" Name="百叶窗"/>
+</Lib>

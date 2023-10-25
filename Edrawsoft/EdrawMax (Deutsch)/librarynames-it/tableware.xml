@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Tableware">
+	<Elem NameU="Wine Bottle 2" Name="Bottiglia di Vino 2"/>
+	<Elem NameU="Wine Bottle 3" Name="Bottiglia di Vino 3"/>
+	<Elem NameU="Wine Bottle 4" Name="Bottiglia di Vino 4"/>
+	<Elem NameU="Wine Bottle 5" Name="Bottiglia di Vino 5"/>
+	<Elem NameU="Wine Bottle 6" Name="Bottiglia di Vino 6"/>
+	<Elem NameU="Wine Bottle 7" Name="Bottiglia di Vino 7"/>
+	<Elem NameU="Wine Bottle 8" Name="Bottiglia di Vino 8"/>
+	<Elem NameU="Wine Bottle" Name="Bottiglia di Vino"/>
+	<Elem NameU="Wine Bottle 9" Name="Bottiglia di Vino 9"/>
+	<Elem NameU="Wine Glass 1" Name="Bicchiere di Vino 1"/>
+	<Elem NameU="Wine Glass 2" Name="Bicchiere di Vino 2"/>
+	<Elem NameU="Wine Glass 3" Name="Bicchiere di Vino 3"/>
+	<Elem NameU="Wine Glass 4" Name="Bicchiere di Vino 4"/>
+	<Elem NameU="Wine Glass 5" Name="Bicchiere di Vino 5"/>
+	<Elem NameU="Wine Glass 6" Name="Bicchiere di Vino 6"/>
+	<Elem NameU="Wine Glass 7" Name="Bicchiere di Vino 7"/>
+	<Elem NameU="Wooden spoon" Name="Bicchiere di Vino 8"/>
+	<Elem NameU="Large wooden spoon" Name="Cucchiaio di legno grande"/>
+	<Elem NameU="Long wooden spoon" Name="Cucchiaio di legno lungo"/>
+	<Elem NameU="Spoon" Name="Cucchiaio"/>
+	<Elem NameU="Fork" Name="Forchetta"/>
+	<Elem NameU="Circular plate" Name="Piatto rotondo"/>
+	<Elem NameU="Oval plate" Name="Piatto ovale"/>
+	<Elem NameU="Bowl" Name="Ciotola"/>
+	<Elem NameU="Fruit Knife" Name="Coltello da Frutta"/>
+	<Elem NameU="Kitchen Knife" Name="Coltello da Cucina"/>
+	<Elem NameU="Chopping board" Name="Tagliere"/>
+	<Elem NameU="Teapot" Name="Teiera"/>
+	<Elem NameU="Bread maker" Name="Impastatrice"/>
+	<Elem NameU="Induction cooker" Name="Fornelli a induzione"/>
+	<Elem NameU="Microwave oven" Name="Forno a microonde"/>
+	<Elem NameU="Pan" Name="Padella"/>
+	<Elem NameU="Chef" Name="Chef"/>
+	<Elem NameU="Canteen" Name="Portaposate"/>
+</Lib>

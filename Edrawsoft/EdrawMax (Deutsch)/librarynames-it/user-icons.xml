@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="User Icons">
+	<Elem NameU="Add User" Name="Aggiungi Utente"/>
+	<Elem NameU="Delete Users" Name="Cancella Utenti"/>
+	<Elem NameU="Remove User" Name="Rimuovi Utente"/>
+	<Elem NameU="Administrator" Name="Amministratore"/>
+	<Elem NameU="Export User" Name="Esporta Utente"/>
+	<Elem NameU="Import User" Name="Importa Utente"/>
+	<Elem NameU="Download User" Name="Scarica Utente"/>
+	<Elem NameU="Upload User" Name="Carica Utente"/>
+	<Elem NameU="Internet Users" Name="Utenti Internet"/>
+	<Elem NameU="Warning User" Name="Avvertimento Utente"/>
+	<Elem NameU="Edit User" Name="Modifica Utente"/>
+	<Elem NameU="Special User" Name="Utente Speciale"/>
+	<Elem NameU="Lock User" Name="Blocca Utente"/>
+	<Elem NameU="Unlock User" Name="Sblocca Utente"/>
+	<Elem NameU="Mail User" Name="Email all'Utente"/>
+	<Elem NameU="User Pass" Name="Pass Utente"/>
+	<Elem NameU="Reject User" Name="Rifiuta Utente"/>
+	<Elem NameU="Looking for Users" Name="Trova Utente"/>
+	<Elem NameU="Star User" Name="Utente Preferito"/>
+	<Elem NameU="Load User" Name="Caricamento Utente"/>
+	<Elem NameU="Unknown User" Name="Utente Sconosciuto"/>
+	<Elem NameU="Outlook User" Name="Utente Outlook"/>
+	<Elem NameU="CSV File" Name="File CSV"/>
+	<Elem NameU="Cloud User" Name="Utente Cloud"/>
+	<Elem NameU="Mobile Users" Name="Utenti Mobili"/>
+	<Elem NameU="Communication" Name="Comunicazione"/>
+	<Elem NameU="UM User" Name="Utente UM"/>
+	<Elem NameU="Response Group" Name="Gruppo di Risposta"/>
+	<Elem NameU="Tenant Management" Name="Amministratore Utenti"/>
+	<Elem NameU="Role Grouping" Name="Gestione Ruoli"/>
+	<Elem NameU="Dynamic Communication Group" Name="Gruppo di Comunicazione Dinamica"/>
+	<Elem NameU="User" Name="Utente"/>
+	<Elem NameU="Commercial VoIP User" Name="Utente Commerciale VoIP"/>
+</Lib>

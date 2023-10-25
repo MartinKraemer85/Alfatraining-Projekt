@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Equipment-Dryers">
+    <Elem NameU="Dryer" Name="烘干机"/>
+    <Elem NameU="Fluidized bed dryer" Name="流化床干燥器"/>
+    <Elem NameU="Roller conveyor belt dryer" Name="辊子输送机带式干燥器"/>
+    <Elem NameU="Drying oven" Name="干燥箱"/>
+    <Elem NameU="Rotary drum dryer" Name="转鼓式烘干机"/>
+    <Elem NameU="Drier" Name="烘干机"/>
+    <Elem NameU="Heat consumer" Name="热力入口"/>
+    <Elem NameU="Spray dryer" Name="喷雾干燥剂"/>
+    <Elem NameU="Moving shelf dryer" Name="移动货架式干燥机"/>
+</Lib>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Web Site Map">
+    <Elem NameU="Generic" Name="通用"/>
+    <Elem NameU="HTML" Name="HTML"/>
+    <Elem NameU="Script (server-side)" Name="腳本（伺服器端）"/>
+    <Elem NameU="Graphic (bitmap)" Name="圖形(點陣圖)"/>
+    <Elem NameU="Script (client-side)" Name="腳本（客戶端）"/>
+    <Elem NameU="Java" Name="Java"/>
+    <Elem NameU="Graphic (vector)" Name="圖形(向量圖)"/>
+    <Elem NameU="Audio" Name="音頻"/>
+    <Elem NameU="Video" Name="視頻"/>
+    <Elem NameU="Style sheet" Name="樣式表"/>
+    <Elem NameU="Multimedia" Name="多媒體"/>
+    <Elem NameU="Plug-in" Name="插件"/>
+    <Elem NameU="XML" Name="XML"/>
+    <Elem NameU="ActiveX" Name="控件"/>
+    <Elem NameU="Files" Name="檔案"/>
+    <Elem NameU="Archive" Name="存檔"/>
+    <Elem NameU="Program" Name="程式"/>
+    <Elem NameU="Word Document" Name="文檔"/>
+    <Elem NameU="Spreadsheet" Name="電子表格"/>
+    <Elem NameU="Presentation" Name="展示"/>
+    <Elem NameU="Database" Name="資料庫"/>
+    <Elem NameU="Cloud" Name="雲端硬碟"/>
+    <Elem NameU="Save" Name="保存"/>
+    <Elem NameU="FTP" Name="FTP"/>
+    <Elem NameU="MailTo" Name="郵寄地址"/>
+    <Elem NameU="Newsgroup" Name="新聞組"/>
+    <Elem NameU="Comment" Name="評論"/>
+    <Elem NameU="RSS" Name="RSS"/>
+    <Elem NameU="Social" Name="社會"/>
+    <Elem NameU="Server" Name="伺服器"/>
+    <Elem NameU="PC" Name="個人計算器"/>
+    <Elem NameU="Security" Name="安全"/>
+    <Elem NameU="Shopping Cart" Name="購物車"/>
+    <Elem NameU="Support" Name="支援"/>
+    <Elem NameU="Search" Name="搜索"/>
+    <Elem NameU="Search 2" Name="搜索 2"/>
+    <Elem NameU="Page jump" Name="網頁跳轉"/>
+    <Elem NameU="Document" Name="文檔"/>
+    <Elem NameU="Home page" Name="主頁"/>
+    <Elem NameU="Connector" Name="連接線"/>
+</Lib>

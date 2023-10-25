@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Animal Cells">
+    <Elem NameU="Cell Structure" Name="세포 구조"/>
+    <Elem NameU="Paramecium" Number="2" Name="파라메슘"/>
+    <Elem NameU="Frog skin" Name="개구리 피부"/>
+    <Elem NameU="Squamous cell" Name="편평세포"/>
+    <Elem NameU="Cell division" Name="세포 분열"/>
+    <Elem NameU="Cell division1" Name="세포 분열1"/>
+    <Elem NameU="Bacteria" Name="세균"/>
+    <Elem NameU="cell membrane" Name="세포막"/>
+    <Elem NameU="Eggs" Name="난자"/>
+    <Elem NameU="Sperm" Name="정액"/>
+    <Elem NameU="Zygote" Name="접합자"/>
+    <Elem NameU="Cell, animal_ An animal cell with inte" Name="세포,동물_ 동물세포"/>
+    <Elem NameU="Lactobacillus" Name="유산균"/>
+    <Elem NameU="SARS" Name="SARS"/>
+    <Elem NameU="Tobacco mosaic virus" Name="담배 모자이크 바이러스"/>
+    <Elem NameU="Adenovirus" Name="아데노바이러스"/>
+    <Elem NameU="Coliphage" Name="대장균"/>
+    <Elem NameU="Herpesvirus" Name="헤르페스 바이러스"/>
+    <Elem NameU="Poxvirus" Name="폭스 바이러스"/>
+    <Elem NameU="Influenza virus" Name="인플루엔자 바이러스"/>
+    <Elem NameU="AIDS" Name="AIDS"/>
+    <Elem NameU="Hepatitis B virus" Name="B 형 간염 바이러스"/>
+    <Elem NameU="Mumps" Name="유행성 이하선염"/>
+    <Elem NameU="Ebora" Name="에보라 바이러스"/>
+    <Elem NameU="Gastric cancer virus" Name="위암 바이러스"/>
+    <Elem NameU="Squamous cell" Name="편평세포"/>
+</Lib>

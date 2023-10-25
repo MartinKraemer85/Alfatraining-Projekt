@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="AWS Compute and Networking">
+	<Elem NameU="AMI" Name="AMI"/>
+	<Elem NameU="CloudWatch" Name="Relógio da Cloud"/>
+	<Elem NameU="DB on Instance" Name="BD na Instância"/>
+	<Elem NameU="Elastic IP" Name="IP Elástico"/>
+	<Elem NameU="Instance" Name="Instância"/>
+	<Elem NameU="Instances" Name="Instâncias"/>
+	<Elem NameU="Instance Contents" Name="Conteúdos de Instância"/>
+	<Elem NameU="Amazon EC2" Name="Amazon EC2"/>
+	<Elem NameU="Cluster" Name="Aglomerado"/>
+	<Elem NameU="HDFS Cluster" Name="Aglomerado HDFS"/>
+	<Elem NameU="Amazon EMR" Name="Amazon EMR"/>
+	<Elem NameU="Route 53 Hosted Zone" Name="Zona Hospedada na Rota 53"/>
+	<Elem NameU="Route 53 Route Table" Name="Tabela de Rotas Rota 53"/>
+	<Elem NameU="Route 53" Name="Rota 53"/>
+	<Elem NameU="VPC Customer Gateway" Name="Porta de Cliente VPC"/>
+	<Elem NameU="VPC Internet Gateway" Name="Porta de Internet VPC"/>
+	<Elem NameU="VPC Contents" Name="Conteúdos VPC"/>
+	<Elem NameU="VPC Router" Name="Routeador VPC"/>
+	<Elem NameU="VPC VPN Connection" Name="Conexão VPN VPC"/>
+	<Elem NameU="VPC VPN Gateway" Name="Porta VPN VPC"/>
+	<Elem NameU="VPN Connection" Name="Conexão VPN"/>
+	<Elem NameU="VPC" Name="VPC"/>
+	<Elem NameU="Auto Scaling" Name="Dimensionamento Automático"/>
+	<Elem NameU="AWS Direct Connect" Name="Conexão Direta AWS"/>
+	<Elem NameU="EC2 Optimized Instance" Name="Instância Otimizada EC2"/>
+	<Elem NameU="Elastic Load Balancing" Name="Balanceamento de Carga Elástica"/>
+	<Elem NameU="Elastic Network Instance" Name="Instância de Rede Elástica"/>
+	<Elem NameU="EMR Engine" Name="Motor EMR"/>
+	<Elem NameU="EMR MapR M3 Engine" Name="Motor EMR MapR M3"/>
+	<Elem NameU="EMR MapR M5 Engine" Name="Motor EMR MapR M5"/>
+	<Elem NameU="EMR MapR M7 Engine" Name="Motor EMR MapR M7"/>
+	<Elem NameU="Kinesis Enabled App" Name="App com Kinesis Ativo"/>
+	<Elem NameU="VPC Peering" Name="Emparelhamento VPC"/>
+	<Elem NameU="WorkSpaces" Name="Espaços de Trabalho"/>
+	<Elem NameU="Lambda" Name="Lambda"/>
+</Lib>

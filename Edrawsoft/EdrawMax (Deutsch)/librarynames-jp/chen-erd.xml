@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Chen ERD">
+
+<Elem Name="ユーザー" NameU="User"/>
+
+<Elem Name="関係" NameU="Relationship"/>
+
+<Elem Name="エンティティ" NameU="Entity"/>
+
+<Elem Name="属性" NameU="Attribute"/>
+
+<Elem Name="集合" NameU="Aggregation"/>
+
+<Elem Name="弱いエンティティ" NameU="Weak Entity"/>
+
+<Elem Name="関連エンティティ" NameU="Associative Entity"/>
+
+<Elem Name="特定の関係" NameU="Identifying Relationship"/>
+
+<Elem Name="キー属性" NameU="Key Attribute"/>
+
+<Elem Name="弱いキー属性" NameU="Weak Key Attribute"/>
+
+<Elem Name="多値属性" NameU="Multi-valued Attribute"/>
+
+<Elem Name="下位属性" NameU="Derived Attribute"/>
+
+</Lib>

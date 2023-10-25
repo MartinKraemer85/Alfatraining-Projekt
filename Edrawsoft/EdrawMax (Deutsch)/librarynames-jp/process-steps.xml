@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Process Steps">
+
+<Elem Name="マルチ・スタイルのプロセス" NameU="Multi-Style Process"/>
+
+<Elem Name="プロセス" NameU="Process"/>
+
+<Elem Name="ハイライトプロセス" NameU="Highlight Process"/>
+
+<Elem Name="垂直プロセス" NameU="Vertical Process"/>
+
+</Lib>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Common Objects">
+	<Elem NameU="TV" Name="TV"/>
+	<Elem NameU="Sofa" Name="Sofá"/>
+	<Elem NameU="Refrigerator" Name="Frigorífico"/>
+	<Elem NameU="Table" Name="Mesa"/>
+	<Elem NameU="Gloves" Name="Luvas"/>
+	<Elem NameU="Chair" Name="Cadeira"/>
+	<Elem NameU="Bowl" Name="Tigela"/>
+	<Elem NameU="Chopsticks" Name="Pausinhos"/>
+	<Elem NameU="Rice Scoop" Name="Colher de Arroz"/>
+	<Elem NameU="Knife" Name="Faca"/>
+	<Elem NameU="Spoon" Name="Colher"/>
+	<Elem NameU="Fork" Name="Garfo"/>
+	<Elem NameU="Soup Ladle" Name="Concha de Sopa"/>
+	<Elem NameU="Ice Pop" Name="Picolé"/>
+	<Elem NameU="Ice Cream" Name="Gelado"/>
+	<Elem NameU="Bowknot" Name="Laço"/>
+	<Elem NameU="Tie" Name="Gravata"/>
+	<Elem NameU="Shoes" Name="Sapatos"/>
+	<Elem NameU="Comb" Name="Pente"/>
+	<Elem NameU="Glasses" Name="Óculos"/>
+	<Elem NameU="Binoculars" Name="Binóculos"/>
+	<Elem NameU="Telescope" Name="Telescópio"/>
+	<Elem NameU="Magnifier" Name="Lupa"/>
+	<Elem NameU="Telephone" Name="Telefone"/>
+	<Elem NameU="Mobile Phone" Name="Telemóvel"/>
+	<Elem NameU="Trumpet" Name="Trombeta"/>
+	<Elem NameU="Calendar" Name="Calendário"/>
+	<Elem NameU="Protractor" Name="Transferidor"/>
+	<Elem NameU="Ruler" Name="Régua"/>
+	<Elem NameU="Set Square" Name="Esquadro"/>
+	<Elem NameU="Binder Clip" Name="Clipe"/>
+	<Elem NameU="Scissors" Name="Tesoura"/>
+	<Elem NameU="Stapler" Name="Grampeador"/>
+	<Elem NameU="Magazine" Name="Revista"/>
+	<Elem NameU="Book" Name="Livro"/>
+	<Elem NameU="Backpack" Name="Mochila"/>
+	<Elem NameU="Pen" Name="Caneta"/>
+	<Elem NameU="Pencil" Name="Lápis"/>
+	<Elem NameU="Paintbrush" Name="Pincel"/>
+	<Elem NameU="Rubber" Name="Borracha"/>
+	<Elem NameU="Palette" Name="Paleta"/>
+	<Elem NameU="Shovel" Name="Pá"/>
+	<Elem NameU="Brush" Name="Pincel"/>
+	<Elem NameU="Paint Box" Name="Caixa de Tintas"/>
+	<Elem NameU="Building Blocks" Name="Blocos de Construção"/>
+	<Elem NameU="Remote Control Car" Name="Carro de Controle Remoto"/>
+	<Elem NameU="Music Notes" Name="Notas Musicais"/>
+	<Elem NameU="Ring Tower Toy" Name="Brinquedo de Torre de Anéis"/>
+	<Elem NameU="Spinning Top" Name="Pião"/>
+	<Elem NameU="Abacus" Name="Ábaco"/>
+	<Elem NameU="Jigsaw Puzzle" Name="Quebra-Cabeças"/>
+	<Elem NameU="Ball" Name="Bola"/>
+	<Elem NameU="Photo Frame" Name="Moldura"/>
+	<Elem NameU="Alarm Clock" Name="Despertador"/>
+	<Elem NameU="Slide" Name="Slide"/>
+	<Elem NameU="Cubes" Name="Cubos"/>
+	<Elem NameU="Rocking Horse" Name="Cavalo de Madeira"/>
+	<Elem NameU="Pinwheel" Name="Girândola"/>
+	<Elem NameU="Toy Bear" Name="Urso de Brincar"/>
+	<Elem NameU="Water the Flowers" Name="Regar as Flores"/>
+	<Elem NameU="Umbrella" Name="Sombrinha"/>
+	<Elem NameU="Checkers" Name="Verificadores"/>
+	<Elem NameU="Mailbox" Name="Caixa de Correio"/>
+</Lib>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Basic Drawing Shapes">
+    <Elem NameU="Square" Name="정사각형"/>
+    <Elem NameU="Rectangle" Name="사각형"/>
+    <Elem NameU="Circle" Name="원형"/>
+    <Elem NameU="Rounded Square" Name="둥근 정사각형"/>
+    <Elem NameU="Rounded Rectangle" Number="2" Name="둥근 사각형"/>
+    <Elem NameU="One side fillet" Name="한쪽 필레"/>
+    <Elem NameU="Opposite fillet" Name="반대 필렛"/>
+    <Elem NameU="Rectangle Frame" Name="사각형 프레임"/>
+    <Elem NameU="Triangle" Number="3" Name="삼각형"/>
+    <Elem NameU="Beveled Rectangle" Name="입체 사각형"/>
+    <Elem NameU="Pentagon" Name="펜타곤"/>
+    <Elem NameU="Diamond" Name="다이아몬드"/>
+    <Elem NameU="Oval" Name="타원"/>
+    <Elem NameU="Ring" Name="링"/>
+    <Elem NameU="Circles" Name="원"/>
+    <Elem NameU="Parallelogram" Name="평행 사변형"/>
+    <Elem NameU="Trapezoid" Name="사다리꼴"/>
+    <Elem NameU="Rounded Triangle" Name="둥근 삼각형"/>
+    <Elem NameU="Right Triangle" Name="직각 삼각형"/>
+    <Elem NameU="Round Rectangle" Name="둥근 사각형"/>
+    <Elem NameU="Diamond" Name="다이아몬드"/>
+    <Elem NameU="Pentagon" Name="펜타곤"/>
+    <Elem NameU="Hexagon" Name="육각형"/>
+    <Elem NameU="Heptagon" Name="칠각형"/>
+    <Elem NameU="Octagon" Name="팔각형"/>
+    <Elem NameU="Design Element" Name="디자인 요소"/>
+    <Elem NameU="Heart-Shaped" Name="하트 모양"/>
+    <Elem NameU="Hollow Square" Name="속인 빈 사각형"/>
+    <Elem NameU="Trapezoid" Name="사다리꼴"/>
+    <Elem NameU="Bevel Rectangle" Name="입체 사각형"/>
+    <Elem NameU="Chamfered Rectangle" Name="모서리를 깎은 사각형"/>
+    <Elem NameU="Design Element" Name="디자인 요소"/>
+    <Elem NameU="Sosceles Triangle" Name="이등변 삼각형"/>
+    <Elem NameU="Triangle" Name="삼각형"/>
+    <Elem NameU="Star" Number="5" Name="별"/>
+    <Elem NameU="Dynamic Star" Name="다이나믹 스타"/>
+    <Elem NameU="Dynamic Inner Star" Name="다이나믹 이너 스타"/>
+    <Elem NameU="Dynamic Polygon" Name="다이나믹 다각형"/>
+    <Elem NameU="Dynamic Star" Name="다이나믹 스타"/>
+    <Elem NameU="Dynamic Gear" Number="2" Name="다이나믹 기어"/>
+    <Elem NameU="Special Shape" Number="4" Name="특수 모양"/>
+    <Elem NameU="Half Rounded Rectangle" Name="반 둥근 직사각형"/>
+    <Elem NameU="Semicircle" Name="반원"/>
+    <Elem NameU="Cloud Shape" Name="구름 모양"/>
+    <Elem NameU="Sector" Name="부채 모양"/>
+    <Elem NameU="Drop Shape" Name="물방울 모양"/>
+    <Elem NameU="Shield Shape" Name="쉴드 모양"/>
+    <Elem NameU="Half Rounded Riamond" Name="반 둥근 리아몬드"/>
+    <Elem NameU="Shield Shape" Number="2" Name="쉴드 모양"/>
+    <Elem NameU="Egg Shape" Name="계란 모양"/>
+    <Elem NameU="Sector" Name="부채 모양"/>
+    <Elem NameU="Special Shape" Number="3" Name="특수 모양"/>
+    <Elem NameU="Banner" Name="기"/>
+    <Elem NameU="Vertical Flag" Name="세로 기"/>
+    <Elem NameU="V-Shaped Arrow" Name="V모양 화살표"/>
+    <Elem NameU="Hexagon" Name="6각형"/>
+    <Elem NameU="Special Shape" Name="특수 모양"/>
+    <Elem NameU="Design Element" Number="2" Name="디자인 요소"/>
+    <Elem NameU="Design Elment" Name="디자인 요소"/>
+    <Elem NameU="Design Element" Number="2" Name="디자인 요소"/>
+    <Elem NameU="Design Elment" Name="디자인 요소"/>
+    <Elem NameU="Design Element" Number="5" Name="디자인 요소"/>
+    <Elem NameU="Cross" Name="십자가"/>
+    <Elem NameU="Lightning" Name="번개"/>
+    <Elem NameU="Diamond" Name="다이아몬드"/>
+    <Elem NameU="Moon" Name="달"/>
+    <Elem NameU="Special Shape" Name="특수 모양"/>
+    <Elem NameU="Crown" Name="왕관"/>
+    <Elem NameU="Callout" Number="3" Name="말풍선"/>
+    <Elem NameU="Rectangle" Name="사각형"/>
+    <Elem NameU="Half-round Rhombus" Name="반원 모양 다이아몬드"/>
+    <Elem NameU="Half-round Square" Name="반원 모양 직사각형"/>
+    <Elem NameU="Design Element" Name="디자인 요소"/>
+    <Elem NameU="Half-round Square" Name="반원 모양 직사각형"/>
+    <Elem NameU="Hollow Shield" Name="속이 빈 쉴드"/>
+    <Elem NameU="Hollow Oval" Name="속이 빈 타원"/>
+    <Elem NameU="Design Element" Name="디자인 요소"/>
+    <Elem NameU="Hollow Circle" Number="2" Name="속이 빈 원형"/>
+    <Elem NameU="Design Element" Name="디자인 요소"/>
+    <Elem NameU="Hollow Circle" Number="4" Name="속이 빈 원형"/>
+    <Elem NameU="Design Element" Number="3" Name="디자인 요소"/>
+    <Elem NameU="Circle" Number="2" Name="원형"/>
+    <Elem NameU="Design Element" Name="디자인 요소"/>
+    <Elem NameU="Special Shape" Number="4" Name="특수 모양"/>
+</Lib>

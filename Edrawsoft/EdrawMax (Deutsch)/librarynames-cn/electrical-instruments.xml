@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Electrical Instruments">
+	<Elem NameU="Ampermeter" Name="电流表"/>
+	<Elem NameU="Galvanometer" Name="电流计"/>
+	<Elem NameU="Oscilloscope" Name="示波器"/>
+	<Elem NameU="Signal generator" Name="信号发生器"/>
+	<Elem NameU="Motor" Name="发动机"/>
+	<Elem NameU="Ammeter" Name="安培计"/>
+	<Elem NameU="Voltmeter" Name="电压计"/>
+	<Elem NameU="Generator" Name="发电机"/>
+	<Elem NameU="Varmeter" Name="无功计"/>
+	<Elem NameU="HZ" Name="HZ"/>
+	<Elem NameU="Thermometer" Name="温度计"/>
+	<Elem NameU="Hourmeter" Name="小时计"/>
+	<Elem NameU="Quantizer" Name="量化器"/>
+	<Elem NameU="Delta" Name="冲击函数"/>
+	<Elem NameU="Function" Name="函数"/>
+	<Elem NameU="Integrator" Name="积分器"/>
+	<Elem NameU="Multipier" Name="增效器"/>
+	<Elem NameU="Sum" Name="总数"/>
+	<Elem NameU="Summation point" Name="求和点"/>
+</Lib>

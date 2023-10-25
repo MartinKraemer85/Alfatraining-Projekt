@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="User">
+    <Elem NameU="Add User" Name="사용자 추가"/>
+    <Elem NameU="Delete User" Name="사용자 삭제"/>
+    <Elem NameU="Remove User" Name="사용자 지우기"/>
+    <Elem NameU="Administrator" Name="관리자"/>
+    <Elem NameU="Export User" Name="사용자 출력"/>
+    <Elem NameU="Import User" Name="사용자 입력"/>
+    <Elem NameU="Download User" Name="사용자 다운로드"/>
+    <Elem NameU="Upload User" Name="사용자 업로드"/>
+    <Elem NameU="Online User" Name="인터넷 사용자"/>
+    <Elem NameU="Warning User" Name="사용자 경고"/>
+    <Elem NameU="Edit User" Name="사용자 편집"/>
+    <Elem NameU="Like User Profile" Name="특별 사용자"/>
+    <Elem NameU="Locked User" Name="사용자 잠금"/>
+    <Elem NameU="Unlocked User" Name="사용자 잠금 해제"/>
+    <Elem NameU="Mail User" Name="사용자 이메일"/>
+    <Elem NameU="Approve User" Name="사용자 통과"/>
+    <Elem NameU="Denied User" Name="사용자 거부"/>
+    <Elem NameU="Find User" Name="사용자 찾기"/>
+    <Elem NameU="Skype Commercial User" Name="Skype 사용자"/>
+    <Elem NameU="Favorite User" Name="즐겨찾기 사용자"/>
+    <Elem NameU="Loading User" Name="사용자 로딩"/>
+    <Elem NameU="Unknown User" Name="알 수 없는 사용자"/>
+    <Elem NameU="User Store" Name="사용자 저장"/>
+    <Elem NameU="Outlook User" Name="Outlook사용자"/>
+    <Elem NameU="Csv File" Name="Csv파일"/>
+    <Elem NameU="Cloud User" Name="클라우드 사용자"/>
+    <Elem NameU="Role Group" Name="역할 그룹"/>
+    <Elem NameU="Mobile User" Name="모바일 사용자"/>
+    <Elem NameU="Home User" Name="가족 사용자"/>
+    <Elem NameU="Communication" Name="통신"/>
+    <Elem NameU="UM-Enabled User" Name="UM사용자"/>
+    <Elem NameU="Response Group" Name="반응 그룹"/>
+    <Elem NameU="Tenant Admin" Name="입주자 관리"/>
+    <Elem NameU="Role Group" Name="역할 그룹"/>
+    <Elem NameU="Dynamic Distribution Group" Name="동적 메일 그룹"/>
+    <Elem NameU="Call Center Agent" Name="콜센터"/>
+    <Elem NameU="User" Name="사용자"/>
+    <Elem NameU="Users" Number="2" Name="사용자"/>
+    <Elem NameU="Meeting" Name="회의"/>
+</Lib>

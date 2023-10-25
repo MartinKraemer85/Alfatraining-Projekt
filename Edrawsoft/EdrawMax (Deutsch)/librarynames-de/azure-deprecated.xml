@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib nameU="Azure Deprecated">
+	<Elem NameU="Azure App Service - Logic App" Name="Azure App Service - Logik App"/>
+	<Elem NameU="Azure Application Gateway v1 OLD" Name="Azure Anwendung Gateway v1 OLD"/>
+	<Elem NameU="Azure Batch" Name="Azure Batch"/>
+	<Elem NameU="Azure Bot" Name="Azure Bot"/>
+	<Elem NameU="Azure Content Delivery Network (CDN) v1_OLD" Name="Azure Content Delivery Netzwerk (CDN) v1_OLD"/>
+	<Elem NameU="Azure Machine Learning" Name="Azure-Lernen"/>
+	<Elem NameU="Azure Notification Hubs- Notification Topic" Name="Azure Benachrichtigung Hubs Benachrichtigung Thema"/>
+	<Elem NameU="Compute" Name="Berechnen"/>
+	<Elem NameU="Data Lake BEN" Name="Daten See BEN"/>
+	<Elem NameU="Datalake Analytics BEN" Name="Datalake Analytics BEN"/>
+	<Elem NameU="Datalake Store BEN" Name="Datalake Store BEN"/>
+	<Elem NameU="Data Services" Name="Datendienste"/>
+	<Elem NameU="DataWarehouse" Name="DatenWarehouse"/>
+	<Elem NameU="Service Bus Old" Name="Service Bus Alt"/>
+	<Elem NameU="Service Bus Queue Old" Name="Service Bus Queue Alt"/>
+	<Elem NameU="Service Bus Relay Old" Name="Service Bus Relais Alt"/>
+	<Elem NameU="Service Bus Topic Old" Name="Service Bus Topik Alt"/>
+	<Elem NameU="Service Package" Name="Servicepaket"/>
+	<Elem NameU="SQL Data Warehouse" Name="SQL Daten Warehouse"/>
+	<Elem NameU="SQL Reporting" Name="SQL Berichterstattung"/>
+	<Elem NameU="SQL Stretch Database (DB)" Name="SQL Stretch-Datenbank (DB)"/>
+</Lib>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="AWS Non-Service Specific">
+	<Elem NameU="AWS Cloud" Name="Cloud AWS"/>
+	<Elem NameU="Management Console" Name="COnsola de Gestão"/>
+	<Elem NameU="Client" Name="Cliente"/>
+	<Elem NameU="Availability Zone" Name="Zona de Disponibilidade"/>
+	<Elem NameU="Region" Name="Região"/>
+	<Elem NameU="Security Group" Name="Grupo de Segurança"/>
+	<Elem NameU="Server Contents" Name="Conteúdos do Servidor"/>
+	<Elem NameU="AWS Cloud Contents" Name="Conteúdos Cloud AWS"/>
+	<Elem NameU="Corporate Data Center" Name="Centro de Dados Corporativo"/>
+	<Elem NameU="Disk" Name="Disco"/>
+	<Elem NameU="Forums" Name="Fóruns"/>
+	<Elem NameU="Generic Database" Name="Base de Dados Genérica"/>
+	<Elem NameU="Internet" Name="Internet"/>
+	<Elem NameU="Mobile Client" Name="Cliente Móvel"/>
+	<Elem NameU="Multimedia" Name="Multimédia"/>
+	<Elem NameU="Tape Storage" Name="Armazenamento em Fita"/>
+	<Elem NameU="Traditional Server" Name="Servidor Tradicional"/>
+	<Elem NameU="User" Name="Utilizador"/>
+	<Elem NameU="Users" Name="Utilizadores"/>
+	<Elem NameU="Virtual Private Cloud" Name="Cloud Privada Virtual"/>
+</Lib>

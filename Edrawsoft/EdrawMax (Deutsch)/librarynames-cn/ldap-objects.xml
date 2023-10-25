@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="LDAP Objects">
+    <Elem NameU="Country" Name="国家"/>
+    <Elem NameU="Organization" Name="组织"/>
+    <Elem NameU="Organizational unit" Name="组织单元"/>
+    <Elem NameU="Locality" Name="地点"/>
+    <Elem NameU="Alias" Name="别名"/>
+    <Elem NameU="Person" Name="人"/>
+    <Elem NameU="inetOrg Person" Name="inetOrg 人"/>
+    <Elem NameU="Organizational person" Name="组织人"/>
+    <Elem NameU="Residential person" Name="居民"/>
+    <Elem NameU="Organizational role" Name="组织角色"/>
+    <Elem NameU="Group of names" Name="名称组"/>
+    <Elem NameU="Group of unique names" Name="唯一名称组"/>
+    <Elem NameU="Device" Name="设备"/>
+    <Elem NameU="cRL distribution point" Name="cRL 分布点"/>
+    <Elem NameU="dSA" Name="dSA"/>
+    <Elem NameU="dmd" Name="dmd"/>
+    <Elem NameU="Application entity" Name="应用程序实体"/>
+    <Elem NameU="Application process" Name="应用程序流程"/>
+    <Elem NameU="Unknow" Name="未知"/>
+    <Elem NameU="Generic object" Name="一般对象"/>
+    <Elem NameU="Directory Connector" Name="目录连接线"/>
+</Lib>

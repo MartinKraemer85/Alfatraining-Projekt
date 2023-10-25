@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Image Container">
+	<Elem NameU="Circle" Name="원"/>
+	<Elem NameU="Square" Name="정사각형"/>
+	<Elem NameU="Rectangle" Name="사각형"/>
+	<Elem NameU="Rounded Square" Name="둥근 사각형"/>
+	<Elem NameU="Beveled Rectangle" Name="경사진 직사각형"/>
+	<Elem NameU="Diamond" Name="다이아몬드"/>
+	<Elem NameU="Design Element" Name="디자인 요소"/>
+	<Elem NameU="Heart-Shaped" Name="하트 모양"/>
+	<Elem NameU="Bordered Circle" Name="테두리가 있는 원"/>
+	<Elem NameU="Bordered Square" Name="테두리가 있는 정사각형"/>
+	<Elem NameU="Bordered Rectangle" Name="테두리가 있는 사각형"/>
+	<Elem NameU="Rounded rectangle with border" Name="테두리가 있는 둥근 사각형"/>
+	<Elem NameU="Beveled rectangle with border" Name="테두리가 있는 경사진 사각형"/>
+	<Elem NameU="Diamond with border" Name="테두리가 있는 마름모"/>
+	<Elem NameU="Heart with border" Name="테두리와 하트"/>
+	<Elem NameU="Circle with text" Name="텍스트가 있는 원"/>
+	<Elem NameU="Circle with text and no fill" Name="텍스트가 있고 채우기가 없는 원"/>
+	<Elem NameU="Straight Connector" Name="관계선"/>
+</Lib>

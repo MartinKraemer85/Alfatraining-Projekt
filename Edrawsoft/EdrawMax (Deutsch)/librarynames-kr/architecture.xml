@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Architecture">
+    <Elem NameU="Building" Name="빌딩"/>
+    <Elem NameU="Bank" Name="은행"/>
+    <Elem NameU="Beauty Salon" Name="미용원"/>
+    <Elem NameU="Beach Villa" Number="2" Name="비치 빌라"/>
+    <Elem NameU="Cafeteria" Name="식당"/>
+    <Elem NameU="Castle" Name="캐슬"/>
+    <Elem NameU="Cathedral" Name="성당"/>
+    <Elem NameU="Church" Name="교회"/>
+    <Elem NameU="Coffee House" Name="카페"/>
+    <Elem NameU="Clothing Store" Name="의류 가게"/>
+    <Elem NameU="Consulate" Name="영사관"/>
+    <Elem NameU="Factory" Name="공장"/>
+    <Elem NameU="Family Apartment" Name="패밀리 아파트"/>
+    <Elem NameU="Guest House" Name="게스트하우스"/>
+    <Elem NameU="Gymnasium" Name="헬스장"/>
+    <Elem NameU="Hospital" Name="병원"/>
+    <Elem NameU="Hotel" Name="호텔"/>
+    <Elem NameU="House 1" Name="하우스1"/>
+    <Elem NameU="House 2" Name="하우스2"/>
+    <Elem NameU="House 3" Name="하우스3"/>
+    <Elem NameU="Library" Name="도서관"/>
+    <Elem NameU="Kindergarten" Name="유치원"/>
+    <Elem NameU="Market" Name="마켓"/>
+    <Elem NameU="Mansion 1" Name="맨션1"/>
+    <Elem NameU="Mansion 2" Name="맨션2"/>
+    <Elem NameU="Mansion 3" Name="맨션3"/>
+    <Elem NameU="Mansion 4" Name="맨션4"/>
+    <Elem NameU="Movie Theater" Name="영화관"/>
+    <Elem NameU="Newspaper Kiosk" Name="신문 키오스크"/>
+    <Elem NameU="Office Building 1" Name="오피스 빌딩1"/>
+    <Elem NameU="Office Building 2" Name="오피스 빌딩2"/>
+    <Elem NameU="Office Building 3" Name="오피스 빌딩3"/>
+    <Elem NameU="Post Office" Name="우체국"/>
+    <Elem NameU="Police Station" Name="경찰국"/>
+    <Elem NameU="School" Name="학교"/>
+    <Elem NameU="School Building" Name="학교 빌딩"/>
+    <Elem NameU="Self-Serve Gas Station" Name="셀프 서비스 주유소"/>
+    <Elem NameU="Shop" Name="샵"/>
+    <Elem NameU="Student Dorm Building" Name="학생 기숙사"/>
+    <Elem NameU="Supermarket" Name="슈퍼마켓"/>
+    <Elem NameU="Twin Tower" Name="트윈 타워"/>
+    <Elem NameU="University" Name="대학"/>
+    <Elem NameU="Villa" Name="빌라"/>
+    <Elem NameU="Hot-air balloon 1" Name="열기구1"/>
+    <Elem NameU="Hot-air balloon 2" Name="열기구2"/>
+    <Elem NameU="Hot-air balloon 3" Name="열기구3"/>
+    <Elem NameU="Blue Cloud" Name="파란 구름"/>
+    <Elem NameU="Yellow Cloud" Name="노란 구름"/>
+    <Elem NameU="Red Cloud" Name="빨간 구름"/>
+    <Elem NameU="Family" Name="가족"/>
+</Lib>

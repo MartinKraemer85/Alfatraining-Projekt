@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Flow Meters">
+    <Elem NameU="Analog output flow sensor" Name="模擬輸出流量傳感器"/>
+    <Elem NameU="Cyclonic flow meter" Name="氣旋流量計"/>
+    <Elem NameU="Flow element" Name="流元件"/>
+    <Elem NameU="Flow meter with cone" Name="錐式流量計"/>
+    <Elem NameU="Flow totalizer" Name="流量累加器"/>
+    <Elem NameU="Flow tube" Name="流管"/>
+    <Elem NameU="Flowmeter" Name="流量計"/>
+    <Elem NameU="Magnetic flow meter 1" Name="電磁流量計 1"/>
+    <Elem NameU="Magnetic flow meter 2" Name="電磁流量計 2"/>
+    <Elem NameU="Magnetic flowmeter" Name="電磁流量計"/>
+    <Elem NameU="Simple flow rate controller" Name="簡單流量控制器"/>
+    <Elem NameU="Simple flowmeter" Name="簡單流量計"/>
+    <Elem NameU="Smart coriolis mass flowmeter 1" Name="智能科氏流量計 1"/>
+    <Elem NameU="Smart coriolis mass flowmeter 2" Name="智能科氏流量計 2"/>
+    <Elem NameU="Smart magnetic flowmeter" Name="智能電磁流量計"/>
+    <Elem NameU="Thermal mass flowmeter" Name="熱式質量流量計"/>
+    <Elem NameU="Turbine meter" Name="渦輪流量計"/>
+    <Elem NameU="Temperature" Name="溫度"/>
+    <Elem NameU="Exhaust pressure" Name="排氣壓力"/>
+    <Elem NameU="Pressure" Name="壓力"/>
+    <Elem NameU="Micro-computerized Controller" Name="微電腦控制器"/>
+</Lib>

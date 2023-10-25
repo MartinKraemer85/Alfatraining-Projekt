@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Education">
+
+<Elem Name="Livre" NameU="Book"/>
+
+<Elem Name="Bus scolaire" NameU="School Bus"/>
+
+<Elem Name="Réveil" NameU="Alarm Clock"/>
+
+<Elem Name="Diplômé" NameU="Graduate"/>
+
+<Elem Name="Cloche" NameU="Bell"/>
+
+<Elem Name="Lampe de table" NameU="Table Lamp"/>
+
+<Elem Name="Carte de gène" NameU="Gene Map"/>
+
+<Elem Name="" NameU="Une pile de livres"/>
+
+<Elem Name="Dossier" NameU="Folder"/>
+
+<Elem Name="Porte-stylo" NameU="Pen Holder"/>
+
+<Elem Name="Stylo" NameU="Pen"/>
+
+<Elem Name="École" NameU="School"/>
+
+<Elem Name="Ballon" NameU="Flask"/>
+
+<Elem Name="Gobelet" NameU="Beaker"/>
+
+<Elem Name="Tube à essai" NameU="Test Tube"/>
+
+<Elem Name="Règle Triangle" NameU="Triangle Ruler"/>
+
+<Elem Name="Angle plat" NameU="Angle Flat"/>
+
+<Elem Name="Règle" NameU="Ruler"/>
+
+<Elem Name="Soleil" NameU="Sun"/>
+
+<Elem Name="Trophée" NameU="Trophy"/>
+
+<Elem Name="Calculatrice" NameU="Calculator"/>
+
+<Elem Name="Casquette académique" NameU="Academic Cap"/>
+
+<Elem Name="Portable" NameU="Laptop"/>
+
+<Elem Name="Ordinateur de bureau" NameU="Desktop PC"/>
+
+<Elem Name="Punaise" NameU="Thumbtack"/>
+
+<Elem Name="Taille-crayon" NameU="Pencil Sharpener"/>
+
+<Elem Name="Trombone" NameU="Paperclip"/>
+
+<Elem Name="Crayon" NameU="Pencil"/>
+
+<Elem Name="Stylo à bille" NameU="Ballpoint Pen"/>
+
+<Elem Name="Couleur plomb" NameU="Color Lead"/>
+
+<Elem Name="Stylo aquarelle" NameU="Watercolor Pen"/>
+
+<Elem Name="Stylo de Ventilateur" NameU="Fan Pen"/>
+
+<Elem Name="Brosse" NameU="Brush"/>
+
+<Elem Name="Loupe" NameU="Magnifier"/>
+
+<Elem Name="Brosse d'écriture" NameU="Writing Brush"/>
+
+<Elem Name="Marqueur" NameU="Marker"/>
+
+<Elem Name="Compas" NameU="Compasses"/>
+
+<Elem Name="Lunettes" NameU="Glasses"/>
+
+<Elem Name="Télescope" NameU="Telescope"/>
+
+<Elem Name="Colle" NameU="Glue"/>
+
+<Elem Name="Maître de conférences" NameU="Lecturer"/>
+
+<Elem Name="Certificat" NameU="Certificate"/>
+
+<Elem Name="Tableau de peinture" NameU="Painting Board"/>
+
+<Elem Name="Tableau noir" NameU="Blackboard"/>
+
+<Elem Name="Balle" NameU="Ball"/>
+
+<Elem Name="Football" NameU="Football"/>
+
+<Elem Name="Ciseaux" NameU="Scissors"/>
+
+<Elem Name="Tennis" NameU="Tennis"/>
+
+<Elem Name="Musique" NameU="Music"/>
+
+<Elem Name="Histoire" NameU="History"/>
+
+<Elem Name="Géographie" NameU="Geography"/>
+
+<Elem Name="Mathématiques" NameU="Mathematics"/>
+
+<Elem Name="Anglais" NameU="English"/>
+
+<Elem Name="Biologique" NameU="Biological"/>
+
+<Elem Name="Aimant" NameU="Magnet"/>
+
+<Elem Name="Abaque" NameU="Abacus"/>
+
+<Elem Name="Minuteur" NameU="Timer"/>
+
+<Elem Name="Sablier" NameU="Hourglass"/>
+
+<Elem Name="Microscope" NameU="Microscope"/>
+
+<Elem Name="Caoutchouc" NameU="Rubber"/>
+
+<Elem Name="Structure moleculaire" NameU="Molecular Structure"/>
+
+<Elem Name="Information" NameU="Information"/>
+
+<Elem Name="Bac à peinture" NameU="Paint Tray"/>
+
+<Elem Name="Support de dossier" NameU="File Holder"/>
+
+<Elem Name="Médaille" NameU="Medal"/>
+
+<Elem Name="Cartable" NameU="School Bag"/>
+
+<Elem Name="Lumière électrique" NameU="Electric Light"/>
+
+<Elem Name="Énigme" NameU="Puzzle"/>
+
+<Elem Name="Objectifs" NameU="Aims"/>
+
+<Elem Name="Pomme" NameU="Apple"/>
+
+<Elem Name="Lampe à alcool" NameU="Alcohol Lamp"/>
+
+<Elem Name="Pigment" NameU="Pigment"/>
+
+<Elem Name="" NameU="Palette"/>
+
+</Lib>

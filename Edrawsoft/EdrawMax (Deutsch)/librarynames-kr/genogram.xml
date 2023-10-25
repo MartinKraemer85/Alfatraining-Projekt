@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Genogram">
+    <Elem NameU="Index Person" Name="본인"/>
+    <Elem NameU="Male" Name="남성"/>
+    <Elem NameU="Female" Name="여성"/>
+    <Elem NameU="Birth and Age - Male" Name="출생 날짜와 나이-남성"/>
+    <Elem NameU="Birth and Age - Female" Name="출생 날짜와 나이-여성"/>
+    <Elem NameU="Deceased - Male" Name="고인-남성"/>
+    <Elem NameU="Deceased - Female" Name="고인-여성"/>
+    <Elem NameU="Age at Death - Male" Name="사망 나이-남성"/>
+    <Elem NameU="Age at Death - Female" Name="사망 나이-여성"/>
+    <Elem NameU="Birth, Death and Age - Male" Name="출생 날짜，사망 날짜와 나이 - 남성"/>
+    <Elem NameU="Birth, Death and Age - Female" Name="출생 날짜，사망 날짜와 나이 - 여성"/>
+    <Elem NameU="Gay" Name="남자 동성연애자"/>
+    <Elem NameU="Lesbian" Name="여자 동성연애자"/>
+    <Elem NameU="Bisextual 1" Name="양성애자 1"/>
+    <Elem NameU="Bisextual 2" Name="양성애자 2"/>
+    <Elem NameU="Transgender - Male to Female" Name="트렌스젠더 - 남성에서 여성"/>
+    <Elem NameU="Transgender - Female to Male" Name="트렌스젠더 - 여성에서 남성"/>
+    <Elem NameU="Institution" Name="거주지"/>
+    <Elem NameU="Pet" Name="펫"/>
+    <Elem NameU="Pregnancy" Name="임신"/>
+    <Elem NameU="Miscarriage" Name="유산"/>
+    <Elem NameU="Abortion" Name="낙태"/>
+    <Elem NameU="Male Stillbirth" Name="사산 - 남성"/>
+    <Elem NameU="Female Stillbirth" Name="사산 - 여성"/>
+    <Elem NameU="Lived in More Than 2 Cultures - Male" Name="2가지 이상의 문화에서 생활한 경험 있음 - 남성"/>
+    <Elem NameU="Lived in More Than 2 Cultures - Female" Name="2가지 이상의 문화에서 생활한 경험 있음 - 여성"/>
+    <Elem NameU="Immigration - Male" Name="이민 - 남성"/>
+    <Elem NameU="Immigration - Female" Name="이민 - 여성"/>
+    <Elem NameU="Suspected Physical or Psychological Illness - Male" Name="의심되는 신체적 또는 심리적 질병 - 남성"/>
+    <Elem NameU="Suspected Physical or Psychological Illness - Female" Name="의심되는 신체적 또는 심리적 질병 - 여성"/>
+    <Elem NameU="Serious Physical or Psychological Illness - Male" Name="심각한 신체적 또는 심리적 질병 - 남성"/>
+    <Elem NameU="Serious Physical or Psychological Illness - Female" Name="심각한 신체적 또는 심리적 질병 - 여성"/>
+    <Elem NameU="In Recovery from Physical or Psychological Illness - Male" Name="신체적 또는 심리적 질병 회복중 - 남성"/>
+    <Elem NameU="In Recovery from Physical or Psychological Illness - Female" Name="신체적 또는 심리적 질병 회복중 - 여성"/>
+    <Elem NameU="Suspected Alcohol or Drug Abuse - Male" Name="의심되는 알콜 또는 약물 남용 - 남성"/>
+    <Elem NameU="Suspected Alcohol or Drug Abuse - Female" Name="의심되는 알콜 또는 약물 남용 - 여성"/>
+    <Elem NameU="Confirmed Alcohol or Drug Abuse - Male" Name="확인된 알콜 또는 약물 남용 - 남성"/>
+    <Elem NameU="Confirmed Alcohol or Drug Abuse - Female" Name="확인된 알콜 또는 약물 남용 - 여성"/>
+    <Elem NameU="In Recovery from Drug or Alcohol Abuse - Male" Name="알콜 또는 약물 남용 회복중 - 남성"/>
+    <Elem NameU="In Recovery from Drug or Alcohol Abuse - Female" Name="알콜 또는 약물 남용 회복중 - 여성"/>
+    <Elem NameU="Drug/Alcohol Abuse and Physical or Mental Problem - Male" Name="약물 / 알콜 남용 및 신체적 또는 정신적 문제 - 남성"/>
+    <Elem NameU="Drug/Alcohol Abuse and Physical or Mental Problem - Female" Name="약물 / 알콜 남용 및 신체적 또는 정신적 문제  - 여성"/>
+    <Elem NameU="In Recovery from Drug/Alcohol Abuse and Physical or Mental Problem - Male" Name="약물 / 알콜 남용 및 신체적 또는 정신적 문제 회복중 - 남성"/>
+    <Elem NameU="In Recovery from Drug/Alcohol Abuse and Physical or Mental Problem - Female" Name="약물 / 알콜 남용 및 신체적 또는 정신적 문제 회복중 - 여성"/>
+    <Elem NameU="Smoker - Male" Name="흡연 - 남성"/>
+    <Elem NameU="Smoker - Female" Name="흡연 - 여성"/>
+    <Elem NameU="Language Problem - Male" Name="언어장애 - 남성"/>
+    <Elem NameU="Language Problem - Female" Name="언어장애 - 여성"/>
+    <Elem NameU="Obesity - Male" Name="비만 - 남성"/>
+    <Elem NameU="Obesity - Female" Name="비만 - 여성"/>
+    <Elem NameU="Carrier - Male" Name="휴대자 - 남성"/>
+    <Elem NameU="Carrier - Female" Name="휴대자 - 여성"/>
+    <Elem NameU="Affected - Male" Name="감염자 - 남성"/>
+    <Elem NameU="Affected - Female" Name="감염자 - 여성"/>
+    <Elem NameU="Suspected Affected - Male" Name="감염 의심 - 남성"/>
+    <Elem NameU="Suspected Affected - Female" Name="감염 의심 - 여성"/>
+    <Elem NameU="Possibly Affected - Male" Name="감염 가능성 큰 남성"/>
+    <Elem NameU="Possibly Affected - Female" Name="감염 가능성 큰 여성"/>
+    <Elem NameU="Heart Desease - Male" Name="심장병 - 남성"/>
+    <Elem NameU="Heart Desease - Female" Name="심장병 - 여성"/>
+    <Elem NameU="Diabetes - Male" Name="당뇨병 - 남성"/>
+    <Elem NameU="Diabetes - Female" Name="당뇨병 - 여성"/>
+    <Elem NameU="Cancer - Male" Name="암 - 남성남성"/>
+    <Elem NameU="Cancer - Female" Name="암 - 여성"/>
+    <Elem NameU="Alzheimer's Disease - Male" Name="알츠하이머 - 남성"/>
+    <Elem NameU="Alzheimer's Disease - Female" Name="알츠하이머 - 여성"/>
+    <Elem NameU="Down Syndrome - Male" Name="다운 증후군 - 남성"/>
+    <Elem NameU="Down Syndrome - Female" Name="다운 증후군 - 여성"/>
+    <Elem NameU="Depression - Male" Name="우울증 - 남성"/>
+    <Elem NameU="Depression - Female" Name="우울증 - 여성"/>
+    <Elem NameU="Anemia - Male" Name="빈혈증 - 남성"/>
+    <Elem NameU="Anemia - Female" Name="빈혈증 - 여성"/>
+    <Elem NameU="Asthma - Male" Name="천식 - 남성"/>
+    <Elem NameU="Asthma - Female" Name="천식 - 여성"/>
+    <Elem NameU="Albinism - Male" Name="백색증 - 남성"/>
+    <Elem NameU="Albinism - Female" Name="백색증 - 여성"/>
+    <Elem NameU="Autism - Male" Name="자폐증 - 남성"/>
+    <Elem NameU="Autism - Female" Name="자폐증 - 여성"/>
+    <Elem NameU="Marriage" Name="결혼"/>
+    <Elem NameU="Engagement" Name="약혼"/>
+    <Elem NameU="Seperation in Fact" Name="별거"/>
+    <Elem NameU="Legal Seperation" Name="합법적 별거"/>
+    <Elem NameU="Divorce" Name="이혼"/>
+    <Elem NameU="Engagement and Seperation" Name="약혼후 헤어짐"/>
+    <Elem NameU="Widowed" Name="배우자 잃음"/>
+    <Elem NameU="Engagement and Cohabitation" Name="약혼후 동거"/>
+    <Elem NameU="Cohabitation" Name="동거"/>
+    <Elem NameU="Legal Cohabitation" Name="합법적 동거"/>
+    <Elem NameU="Love Affair" Name="바람"/>
+    <Elem NameU="Indifferent/Apathetic" Name="무관심"/>
+    <Elem NameU="Harmony" Name="평화로움"/>
+    <Elem NameU="Love" Name="사랑"/>
+    <Elem NameU="In Love" Name="서로 사랑"/>
+    <Elem NameU="Close/Friendship" Name="친한 친구"/>
+    <Elem NameU="Very Close/Best Friend" Number="2" Name="베스트 프렌드"/>
+    <Elem NameU="Discord/Conflict" Name="불화"/>
+    <Elem NameU="Hate" Name="싫증"/>
+    <Elem NameU="Cutoff/Estranged" Name="서먹한 관계"/>
+    <Elem NameU="Hostile" Name="적대"/>
+    <Elem NameU="Distant Hostile" Name="관계가 멀어지고 적대"/>
+    <Elem NameU="Close Hostile" Name="가까운 사이지만 적대"/>
+    <Elem NameU="Fused Hostile" Name="밀접하지만 적대시 관계"/>
+    <Elem NameU="Violence" Name="폭력"/>
+    <Elem NameU="Abuse" Name="학대"/>
+    <Elem NameU="Physical Abuse" Name="신체적 학대"/>
+    <Elem NameU="Emotional Abuse" Name="정서적 학대"/>
+    <Elem NameU="Sextual Abuse" Name="성적 학대"/>
+    <Elem NameU="Neglect (Abuse)" Name="방치 (남용)"/>
+    <Elem NameU="Manipulative" Name="조작"/>
+    <Elem NameU="Controlling" Name="컨트롤"/>
+    <Elem NameU="Focused On" Name="관심"/>
+    <Elem NameU="Fan/Admire" Name="사모하다"/>
+    <Elem NameU="Distrust" Number="2" Name="의심"/>
+    <Elem NameU="Distant Violance" Name="폭력"/>
+    <Elem NameU="Fused Voilence" Name="폭력"/>
+    <Elem NameU="Close Violence" Name="가까운 사이의 폭력"/>
+</Lib>

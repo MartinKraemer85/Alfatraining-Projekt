@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Animals-Terricole">
+	<Elem NameU="Dog" Name="Chien"/>
+	<Elem NameU="Rabbit" Name="Lapin"/>
+	<Elem NameU="Cat" Name="Chat"/>
+	<Elem NameU="Red-crowned Crane" Name="Grue à couronne rouge"/>
+	<Elem NameU="Giraffe 1" Name="Girafe 1"/>
+	<Elem NameU="Fawn" Name="Faon"/>
+	<Elem NameU="Cock" Name="Coq"/>
+	<Elem NameU="Sheep" Name="Mouton"/>
+	<Elem NameU="Cow" Name="Vache"/>
+	<Elem NameU="Squirrel" Name="Écureuil"/>
+	<Elem NameU="Tortoise" Name="Tortue"/>
+	<Elem NameU="Mouse" Name="Souris"/>
+	<Elem NameU="Duck" Name="Canard"/>
+	<Elem NameU="Pigeon" Name="Pigeon"/>
+	<Elem NameU="Peace Dove" Name="Colombe de la paix"/>
+	<Elem NameU="Panda" Name="Panda"/>
+	<Elem NameU="Snake" Name="Serpent"/>
+	<Elem NameU="Elephant" Name="Éléphant"/>
+	<Elem NameU="Koala" Name="Koala"/>
+	<Elem NameU="Horse" Name="Cheval"/>
+	<Elem NameU="Camel" Name="Chameau"/>
+	<Elem NameU="Pig" Name="Porc"/>
+	<Elem NameU="Sika Deer" Name="Cerf Sika"/>
+	<Elem NameU="Snail" Name="Escargot"/>
+	<Elem NameU="Gecko" Name="Gecko"/>
+	<Elem NameU="Frog" Name="Grenouille"/>
+	<Elem NameU="Toad" Name="Crapaud"/>
+	<Elem NameU="Parrot" Name="Perroquet"/>
+	<Elem NameU="Rhinoceros" Name="Rhinocéros"/>
+	<Elem NameU="Bat" Name="Chauve-souris"/>
+	<Elem NameU="Lizard" Name="Lézard"/>
+	<Elem NameU="Leopard" Name="Léopard"/>
+	<Elem NameU="Hippopotamus 1" Name="Hippopotame 1"/>
+	<Elem NameU="Hippopotamus 2" Name="Hippopotame 2"/>
+	<Elem NameU="Polar bear 1" Name="Ours polaire 1"/>
+	<Elem NameU="Polar bear 2" Name="Ours polaire 2"/>
+	<Elem NameU="Polar bear 3" Name="Ours polaire 3"/>
+	<Elem NameU="Elephant 1" Name="Éléphant 1"/>
+	<Elem NameU="Elephant 2" Name="Éléphant 2"/>
+	<Elem NameU="Crocodile 1" Name="Crocodile 1"/>
+	<Elem NameU="Crocodile 2" Name="Crocodile 2"/>
+	<Elem NameU="Tyrannosaurus" Name="Tyrannosaure"/>
+	<Elem NameU="Stegosaurus" Name="Stégosaure"/>
+</Lib>

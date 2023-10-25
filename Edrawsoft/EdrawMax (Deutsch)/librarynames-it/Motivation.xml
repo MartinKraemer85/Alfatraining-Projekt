@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Motivation">
+	<Elem NameU="Stakeholder" Name="Stakeholder"/>
+	<Elem NameU="Driver" Name="Driver"/>
+	<Elem NameU="Assessment" Name="Valutazione"/>
+	<Elem NameU="Goal" Name="Obiettivo"/>
+	<Elem NameU="Outcome" Name="Risultato"/>
+	<Elem NameU="Principle" Name="Principio"/>
+	<Elem NameU="Requirement" Name="Requisito"/>
+	<Elem NameU="Constraint" Name="Vincolo"/>
+	<Elem NameU="Influence" Name="Livello di influenza"/>
+	<Elem NameU="Meaning" Name="Significato"/>
+	<Elem NameU="Value" Name="Valore"/>
+</Lib>

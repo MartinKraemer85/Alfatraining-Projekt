@@ -1,0 +1,113 @@
+<Lib NameU="BPMN">
+  <Elem Name="任务" NameU="작업"/>
+  <Elem Name="网关" NameU="게이트웨이"/>
+  <Elem Name="开始" NameU="시작"/>
+  <Elem Name="中间事件" NameU="중간 사건"/>
+  <Elem Name="结束" NameU="종료"/>
+  <Elem Name="开始消息" NameU="시작 메세지"/>
+  <Elem Name="开始消息 2" NameU="시작 메세지 2"/>
+  <Elem Name="中间信息" NameU="중간 메세지"/>
+  <Elem Name="中间信息 2" NameU="중간 메세지 2"/>
+  <Elem Name="抛出消息" NameU="투척 메세지"/>
+  <Elem Name="结束消息" NameU="종료 메세지"/>
+  <Elem Name="开始定时器" NameU="시작 타이머"/>
+  <Elem Name="开始定时器 2" NameU="시작 타이머 2"/>
+  <Elem Name="中间定时器" NameU="중간 타이머"/>
+  <Elem Name="中间定时器 2" NameU="중간 타이머 2"/>
+  <Elem Name="开始升级" NameU="시작 에스컬레이션"/>
+  <Elem Name="开始升级 2" NameU="시작 에스컬레이션 2"/>
+  <Elem Name="中间升级" NameU="중간 에스컬레이션"/>
+  <Elem Name="中间升级 2" NameU="중간 에스컬레이션 2"/>
+  <Elem Name="中间升级 3" NameU="중간 에스컬레이션 3"/>
+  <Elem Name="升级结束" NameU="종료 에스컬레이션"/>
+  <Elem Name="开始错误" NameU="시작 오류"/>
+  <Elem Name="中间错误" NameU="중간 오류"/>
+  <Elem Name="结束错误" NameU="종료 오류"/>
+  <Elem Name="开始条件" NameU="시작 조건"/>
+  <Elem Name="开始条件 2" NameU="시작 조건 2"/>
+  <Elem Name="中间条件" NameU="중간 조건"/>
+  <Elem Name="中间条件 2" NameU="중간 조건 2"/>
+  <Elem Name="取消" NameU="취소"/>
+  <Elem Name="取消 2" NameU="취소 2"/>
+  <Elem Name="开始链接" NameU="시작 링크"/>
+  <Elem Name="中间连接" NameU="중간 링크"/>
+  <Elem Name="中间连接 2" NameU="중간 링크 2"/>
+  <Elem Name="结束连接" NameU="종료 링크"/>
+  <Elem Name="补偿" NameU="보상"/>
+  <Elem Name="补偿 2" NameU="보상 2"/>
+  <Elem Name="补偿 3" NameU="보상 3"/>
+  <Elem Name="补偿 4" NameU="보상 4"/>
+  <Elem Name="信号事件" NameU="시그널 이벤트"/>
+  <Elem Name="信号事件 2" NameU="시그널 이벤트 2"/>
+  <Elem Name="信号事件 3" NameU="시그널 이벤트 3"/>
+  <Elem Name="信号事件 4" NameU="시그널 이벤트 4"/>
+  <Elem Name="信号事件 5" NameU="시그널 이벤트 5"/>
+  <Elem Name="信号事件 6" NameU="시그널 이벤트 6"/>
+  <Elem Name="多重事件" NameU="다중 이벤트"/>
+  <Elem Name="多重事件 2" NameU="다중 이벤트 2"/>
+  <Elem Name="多重事件 3" NameU="다중 이벤트 3"/>
+  <Elem Name="多重事件 4" NameU="다중 이벤트 4"/>
+  <Elem Name="多重事件 5" NameU="다중 이벤트 5"/>
+  <Elem Name="多重事件 6" NameU="다중 이벤트 6"/>
+  <Elem Name="多重并行事件" NameU="병렬 다중 이벤트"/>
+  <Elem Name="多重并行事件 2" NameU="병렬 다중 이벤트 2"/>
+  <Elem Name="多重并行事件 3" NameU="병렬 다중 이벤트 3"/>
+  <Elem Name="多重并行事件 4" NameU="병렬 다중 이벤트 4"/>
+  <Elem Name="池/通道" NameU="풀"/>
+  <Elem Name="池/通道" NameU="풀"/>
+  <Elem Name="池块" NameU="풀 블록"/>
+  <Elem Name="折叠子流程" NameU="축소된 하위 프로세스"/>
+  <Elem Name="循环流程" NameU="순환 프로세스"/>
+  <Elem Name="循环 — 并行多实例" NameU="순환 - 여러 병렬 인스턴스"/>
+  <Elem Name="循环 — 连续多实例" NameU="순환 - 여러 순서 인스턴스"/>
+  <Elem Name="即席流程" NameU="Ad-Hoc 프로세스"/>
+  <Elem Name="循环子流程" NameU="순환 서브 프로세스"/>
+  <Elem Name="多重实例" NameU="다중 인스턴스"/>
+  <Elem Name="补偿子流程" NameU="보상 서브 프로세스"/>
+  <Elem Name="即席子流程" NameU="Ad-Hoc 서브 프로세스"/>
+  <Elem Name="交易" NameU="거래"/>
+  <Elem Name="事件子流程" NameU="이벤트 서브 프로세스"/>
+  <Elem Name="呼叫活动" NameU="통화 활동"/>
+  <Elem Name="对话" NameU="대화"/>
+  <Elem Name="折叠的对话" NameU="접힌 대화"/>
+  <Elem Name="呼叫会话" NameU="콜 대화"/>
+  <Elem Name="折叠的呼叫会话" NameU="접힌 콜 대화"/>
+  <Elem Name="组" NameU="그룹"/>
+  <Elem Name="编排任务" NameU="Choreography 작업"/>
+  <Elem Name="子编排任务" NameU="서브 Choreography"/>
+  <Elem Name="调用编排" NameU="콜 Choreography"/>
+  <Elem Name="数据对象" NameU="데이터 개체"/>
+  <Elem Name="数据对象集" NameU="수집 데이터 개체"/>
+  <Elem Name="输入数据" NameU="입력 데이터"/>
+  <Elem Name="输出数据" NameU="출처 데이터"/>
+  <Elem Name="数据存储" NameU="데이터 저장"/>
+  <Elem Name="带标志的互斥网关" NameU="마커가 있는 독점 게이트웨이"/>
+  <Elem Name="事件网关" NameU="이벤트 기반 게이트웨이"/>
+  <Elem Name="互斥事件网关" NameU="독점 이벤트 게이트웨이"/>
+  <Elem Name="并行事件网关" NameU="병렬 이벤트 게이트웨이"/>
+  <Elem Name="并行网关" NameU="병렬 게이트웨이"/>
+  <Elem Name="相容网关" NameU="포용적인 게이트웨이"/>
+  <Elem Name="复杂网关" NameU="복잡 게이트웨이"/>
+  <Elem Name="顺序流" NameU="순서 흐름"/>
+  <Elem Name="直角顺序流" NameU="직각 순서 흐름"/>
+  <Elem Name="消息流" NameU="메세지 플로우"/>
+  <Elem Name="直角信息流" NameU="직각 메세지 흐름"/>
+  <Elem Name="数据关联" NameU="데이터 연관"/>
+  <Elem Name="关联" NameU="연관"/>
+  <Elem Name="直角联合" NameU="직각 연합"/>
+  <Elem Name="流程标记" NameU="프로세스 표기"/>
+  <Elem Name="循环标记" NameU="순환 표기"/>
+  <Elem Name="平行MI标记" NameU="병렬 MI 표시"/>
+  <Elem Name="顺序MI标记" NameU="순서 MI 표시"/>
+  <Elem Name="即席标记" NameU="Ad-Hoc 표시"/>
+  <Elem Name="补偿标记" NameU="보상 표시"/>
+  <Elem Name="发送任务" NameU="보내기 작업"/>
+  <Elem Name="接收任务" NameU="접수 작업"/>
+  <Elem Name="用户任务" NameU="사용자 작업"/>
+  <Elem Name="手工任务" NameU="수동 작업"/>
+  <Elem Name="业务规则任务" NameU="업무 규칙 작업"/>
+  <Elem Name="服务任务" NameU="서비스 작업"/>
+  <Elem Name="脚本任务" NameU="스크립트 작업"/>
+  <Elem Name="圆角气球" NameU="직사각형 풍선"/>
+  <Elem Name="注释" NameU="주석"/>
+</Lib>

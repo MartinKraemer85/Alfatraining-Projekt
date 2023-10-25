@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Object Relationship">
+	<Elem NameU="Entity" Name="Entidade"/>
+	<Elem NameU="Relationship" Name="Relação"/>
+	<Elem NameU="View" Name="Vista"/>
+	<Elem NameU="Parent to category" Name="Parente de categoria"/>
+	<Elem NameU="Category" Name="Categoria"/>
+	<Elem NameU="Data store" Name="Armazenamento de dados"/>
+	<Elem NameU="Category to child" Name="Categoria para filho"/>
+	<Elem NameU="Table inheritance" Name="Tabela de herança"/>
+	<Elem NameU="Type" Name="Tipo"/>
+	<Elem NameU="Type inheritance" Name="Tipo herança"/>
+	<Elem NameU="Dynamic connector" Name="COnector dinâmico"/>
+</Lib>

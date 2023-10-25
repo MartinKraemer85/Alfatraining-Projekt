@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="UML Sequence Diagram">
+
+<Elem Name="Objekt-Lebenslinie" NameU="Object Lifeline"/>
+
+<Elem Name="Lebenslinie" NameU="Lifeline"/>
+
+<Elem Name="Nachricht" NameU="Message"/>
+
+<Elem Name="Nachricht Rückgabe" NameU="Message Return"/>
+
+<Elem Name="Objekt löschen" NameU="Object Deletion"/>
+
+<Elem Name="Selbst Delegation" NameU="Self Delegation"/>
+
+<Elem Name="Hinweis" NameU="Note"/>
+
+<Elem Name="Einschränkung" NameU="Constraint"/>
+
+<Elem Name="Acteur" NameU="Actor"/>
+
+<Elem Name="Acteur-Lebenslinie" NameU="Actor Lifeline"/>
+
+<Elem Name="Sequenzobjekt" NameU="Sequence Object"/>
+
+<Elem Name="Aktivieren" NameU="Activation"/>
+
+<Elem Name="Aktivierung (Pause)" NameU="Activation(break)"/>
+
+<Elem Name="Paket" NameU="Package"/>
+
+<Elem Name="Alternatives Fragment" NameU="Alternative Fragment"/>
+
+<Elem Name="Schleifenfragment" NameU="Loop Fragment"/>
+
+<Elem Name="Entität" NameU="Entity"/>
+
+<Elem Name="Umgrenzung" NameU="Boundary"/>
+
+<Elem Name="Kontrolle" NameU="Control"/>
+
+<Elem Name="Asynchrone Nachricht" NameU="Asynchronous Message"/>
+
+<Elem Name="Kurven-Selbstdelegation" NameU="Curve Self Delegation"/>
+
+<Elem Name="Auswahlfragment" NameU="Choice Fragment"/>
+
+<Elem Name="Endpunkt" NameU="End Point"/>
+
+</Lib>

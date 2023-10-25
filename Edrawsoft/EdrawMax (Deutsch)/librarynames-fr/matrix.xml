@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Matrix">
+	<Elem NameU="Ansoff Matrix" Name="Matrice d'Ansoff"/>
+	<Elem NameU="SWOT" Name="SWOT"/>
+	<Elem NameU="Circle Matrix/SWOT" Name="Matrice circulaire/SWOT"/>
+	<Elem NameU="Matrix" Name="Matrice"/>
+	<Elem NameU="3x3 Matrix" Name="Matrice 3x3"/>
+	<Elem NameU="Matrix with Stickers" Name="Matrice avec autocollants"/>
+</Lib>

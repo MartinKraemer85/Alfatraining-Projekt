@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Networking">
+    <Elem NameU="API gateway" Name="API게이트웨이"/>
+    <Elem NameU="CDN" Name="CDN"/>
+    <Elem NameU="Cloud enterprise network" Name="클라우드 기업 네트워크"/>
+    <Elem NameU="DCDN" Name="CDN"/>
+    <Elem NameU="Edge node service" Name="Edge node service"/>
+    <Elem NameU="Elastic IP" Name="탄력적 IP"/>
+    <Elem NameU="Express connect" Name="익스프레스 연결"/>
+    <Elem NameU="Flowbag" Name="공유 트래픽 패키지"/>
+    <Elem NameU="Global accelaration" Name="글로벌 가속"/>
+    <Elem NameU="IPV6 gateway" Name="IPV6 게이트웨이"/>
+    <Elem NameU="NAT gateway" Name="NAT 게이트웨이"/>
+    <Elem NameU="PCDN" Name="PCDN"/>
+    <Elem NameU="SCDN" Name="SCDN"/>
+    <Elem NameU="Smart access gateway" Name="스마트 액세스 게이트웨이"/>
+    <Elem NameU="VPN" Name="VPN 게이트웨이"/>
+</Lib>

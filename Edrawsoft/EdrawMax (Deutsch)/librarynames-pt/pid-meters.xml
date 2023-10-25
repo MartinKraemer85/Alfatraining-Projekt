@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="PID Meters">
+	<Elem NameU="Meter 1" Name="Metro 1"/>
+	<Elem NameU="Meter 2" Name="Metro 2"/>
+	<Elem NameU="Meter 3" Name="Metro 3"/>
+	<Elem NameU="Meter 4" Name="Metro 4"/>
+	<Elem NameU="Meter 5" Name="Metro 5"/>
+	<Elem NameU="Meter 6" Name="Metro 6"/>
+	<Elem NameU="Meter 7" Name="Metro 7"/>
+	<Elem NameU="Meter 8" Name="Metro 8"/>
+	<Elem NameU="Meter 9" Name="Metro 9"/>
+	<Elem NameU="Meter 10" Name="Metro 10"/>
+	<Elem NameU="Meter 11" Name="Metro 11"/>
+	<Elem NameU="Meter 12" Name="Metro 12"/>
+</Lib>

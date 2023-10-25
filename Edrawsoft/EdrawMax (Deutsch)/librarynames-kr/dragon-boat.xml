@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Dragon Boat">
+    <Elem NameU="Rice dumpling&#xa;1" Name="쫑즈 1"/>
+    <Elem NameU="Rice dumpling&#xa;2" Name="쫑즈 2"/>
+    <Elem NameU="Rice dumpling&#xa;3" Name="쫑즈 3"/>
+    <Elem NameU="Rice dumpling&#xa;4" Name="쫑즈 4"/>
+    <Elem NameU="Rice dumpling&#xa;5" Name="쫑즈 5"/>
+    <Elem NameU="Rice dumplings leaves" Name="쫑즈 잎"/>
+    <Elem NameU="Drum" Name="드럼"/>
+    <Elem NameU="Dragon" Name="드래곤"/>
+    <Elem NameU="Dragon Boat" Name="드래곤 보트"/>
+    <Elem NameU="Qu Yuan" Name="궐원"/>
+    <Elem NameU="Lotus 1" Name="연꽃  1"/>
+    <Elem NameU="Lotus 2" Name="연꽃  2"/>
+    <Elem NameU="Doll" Name="인형"/>
+    <Elem NameU="Bamboo Shoots" Name="죽순"/>
+    <Elem NameU="Bamboo Leaves" Name="대나무 잎"/>
+    <Elem NameU="Bamboo" Name="대나무"/>
+    <Elem NameU="Cloud 1" Name="구름  1"/>
+    <Elem NameU="Cloud 2" Name="구름  2"/>
+    <Elem NameU="Tassel" Name="술 l"/>
+    <Elem NameU="Tassel 2" Name="술 2"/>
+</Lib>

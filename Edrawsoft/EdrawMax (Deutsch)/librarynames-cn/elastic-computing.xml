@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Elastic Computing">
+    <Elem NameU="Batch compute" Name="批量计算"/>
+    <Elem NameU="Block storage" Name="区块链存储"/>
+    <Elem NameU="Container Service" Name="容器服务"/>
+    <Elem NameU="Dedicated host" Name="专属主机"/>
+    <Elem NameU="E-HPC" Name="E-HPC"/>
+    <Elem NameU="Elastic compute service" Name="弹性计算服务"/>
+    <Elem NameU="Elastic scaling service" Name="弹性伸缩服务"/>
+    <Elem NameU="FPGA" Name="FGPA"/>
+    <Elem NameU="Function compute" Name="函数计算"/>
+    <Elem NameU="Function graph" Name="函数工作流"/>
+    <Elem NameU="GPU" Name="GPU"/>
+    <Elem NameU="Resource orchestration" Name="资源编排"/>
+    <Elem NameU="Server load balancer" Name="服务器负载均衡"/>
+    <Elem NameU="Simple application server" Name="应用服务器"/>
+    <Elem NameU="Super computing cluster" Name="超级计算集群"/>
+    <Elem NameU="Virtual private cloud" Name="虚拟个人云"/>
+    <Elem NameU="X-dragon cloud server" Name="神龙云服务器"/>
+</Lib>

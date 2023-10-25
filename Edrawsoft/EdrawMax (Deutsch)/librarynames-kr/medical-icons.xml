@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Medical Icons">
+    <Elem NameU="Ear" Name="귀"/>
+    <Elem NameU="Eye" Name="눈"/>
+    <Elem NameU="Child" Name="아이"/>
+    <Elem NameU="Patient" Name="환자"/>
+    <Elem NameU="Ppatient" Name="환자"/>
+    <Elem NameU="Patient Family" Name="환자 가족"/>
+    <Elem NameU="Nurse" Name="간호사"/>
+    <Elem NameU="Dentist" Name="치과 의사"/>
+    <Elem NameU="Doctors" Name="의사"/>
+    <Elem NameU="Emergency Call" Name="Emergency Call"/>
+    <Elem NameU="Medical" Name="메디컬"/>
+    <Elem NameU="Clinic" Name="클리닉"/>
+    <Elem NameU="Electrocardiogram" Name="심전도"/>
+    <Elem NameU="Online Treatment" Name="온라인 치료"/>
+    <Elem NameU="Doctor Qualification" Name="의사 자격"/>
+    <Elem NameU="Electrocardiogram" Name="심전도"/>
+    <Elem NameU="First Aid" Name="응급 처치"/>
+    <Elem NameU="Poison" Name="독"/>
+    <Elem NameU="Death" Name="사망"/>
+    <Elem NameU="Stomach" Name="위"/>
+    <Elem NameU="Bones" Name="뼈"/>
+    <Elem NameU="Rib Cage" Name="갈비뼈"/>
+    <Elem NameU="lung" Number="2" Name="폐"/>
+    <Elem NameU="Heart" Name="심장"/>
+    <Elem NameU="Kidney" Name="신장"/>
+    <Elem NameU="Stomach" Name="위"/>
+    <Elem NameU="Foot" Name="발"/>
+    <Elem NameU="Hand" Name="손"/>
+    <Elem NameU="Tooth" Name="치아"/>
+    <Elem NameU="Mouth" Name="입"/>
+    <Elem NameU="Nose" Name="코"/>
+    <Elem NameU="Receipt" Name="영수증"/>
+    <Elem NameU="Patient" Name="환자"/>
+    <Elem NameU="Bank Card" Name="은행 카드"/>
+    <Elem NameU="Care" Name="케어"/>
+    <Elem NameU="Heart-Shaped Electrocardiogram" Name="하트 모양 심전도"/>
+    <Elem NameU="Stethoscope" Name="청진기"/>
+    <Elem NameU="Medical Label" Name="의료 라벨"/>
+    <Elem NameU="24 Hours" Name="24시간"/>
+    <Elem NameU="Schedule Check" Name="일정 체크"/>
+    <Elem NameU="Calendar" Name="달력"/>
+    <Elem NameU="Schedule" Name="일정"/>
+    <Elem NameU="Condition" Name="컨디션"/>
+    <Elem NameU="View Medical Records" Name="View Medical Records"/>
+    <Elem NameU="Medical Expenses" Name="의료 비용"/>
+    <Elem NameU="Medical Case" Name="의료 케이스"/>
+    <Elem NameU="Medical Order" Name="의사의 지시"/>
+    <Elem NameU="File" Name="파일"/>
+    <Elem NameU="Medical Book" Name="의료 서적"/>
+    <Elem NameU="Medical System" Name="의료 시스템"/>
+    <Elem NameU="Medical Safety" Name="의료 안전"/>
+    <Elem NameU="Medicine Box" Name="약 상자"/>
+    <Elem NameU="Ribbon" Name="리본"/>
+    <Elem NameU="Ambulance" Name="구급차"/>
+    <Elem NameU="Position" Name="포지션"/>
+    <Elem NameU="Stretcher Bed" Name="들것 침대"/>
+	<Elem NameU="Helicopter" Name="헬리콥터"/>
+    <Elem NameU="Hospital Bed" Name="병원 침대"/>
+    <Elem NameU="Infusion Bags" Name="병원 침대"/>
+    <Elem NameU="Wheelchair" Name="휠체어"/>
+    <Elem NameU="Infusion" Name="주입"/>
+    <Elem NameU="Hanging Bottle" Name="링거"/>
+    <Elem NameU="Capsule" Name="캡슐"/>
+    <Elem NameU="Pill" Name="약"/>
+    <Elem NameU="Medicine Bottle" Name="약병"/>
+    <Elem NameU="Stethoscope" Name="청진기"/>
+    <Elem NameU="X-Ray Film" Name="X 레이"/>
+    <Elem NameU="B Super" Name="B형 초음파 검사"/>
+    <Elem NameU="CT" Name="CT"/>
+    <Elem NameU="Crutch" Name="지팡이"/>
+    <Elem NameU="Scale" Name="배율"/>
+    <Elem NameU="Band Aid" Name="밴드"/>
+    <Elem NameU="Syringe" Name="주사기"/>
+    <Elem NameU="Thermometer" Name="온도계"/>
+    <Elem NameU="Balance" Name="균형"/>
+    <Elem NameU="Microscope" Name="현미경"/>
+    <Elem NameU="DNA" Name="DNA"/>
+    <Elem NameU="Test" Number="2" Name="테스트"/>
+    <Elem NameU="Beaker" Name="Beaker"/>
+    <Elem NameU="Test Tube" Name="시험관"/>
+    <Elem NameU="Increase" Name="증가"/>
+    <Elem NameU="Cut Back" Name="삭감"/>
+    <Elem NameU="liquid" Name="액체"/>
+    <Elem NameU="Chinese Medicine Grinding Tank" Name="중약 그라인딩 탱크"/>
+    <Elem NameU="Pharmacy" Name="약방"/>
+    <Elem NameU="Girl" Name="여자"/>
+    <Elem NameU="Boy" Name="남자"/>
+    <Elem NameU="Scalpel" Name="메스"/>
+    <Elem NameU="Medical Respirator" Name="의료용 호흡기"/>
+    <Elem NameU="Tweezers" Name="족집게"/>
+    <Elem NameU="Scissors" Name="가위"/>
+    <Elem NameU="Dropper" Name="액즙 주입기"/>
+    <Elem NameU="Molecular Structure" Name="분자 구조"/>
+    <Elem NameU="Tooth Cleaner" Name="치아 클리너"/>
+    <Elem NameU="Eye Chart" Name="시력검사표"/>
+</Lib>

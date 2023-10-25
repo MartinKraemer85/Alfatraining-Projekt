@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="PID Ductwork">
+	<Elem NameU="Straight duct" Name="Condotto diritto"/>
+	<Elem NameU="Straight duct 2" Name="Condotto diritto 2"/>
+	<Elem NameU="Miter bend 1" Name="Giunzione ad angolo 1"/>
+	<Elem NameU="Miter bend 2" Name="Giunzione ad angolo 2"/>
+	<Elem NameU="Miter bend 3" Name="Giunzione ad angolo 3"/>
+	<Elem NameU="Miter bend 4" Name="Giunzione ad angolo 4"/>
+	<Elem NameU="Junction up" Name="Giunzione verso l'alto"/>
+	<Elem NameU="Junction bottom" Name="Giunzione verso il basso"/>
+	<Elem NameU="Cross" Name="Croce"/>
+	<Elem NameU="Beveled junction" Name="Giunzione smussata"/>
+	<Elem NameU="3 way junction" Name="Giunzione a 3 vie"/>
+	<Elem NameU="Y junction" Name="Giunzione a Y"/>
+	<Elem NameU="Transition" Name="Transizione"/>
+	<Elem NameU="Transition 2" Name="Transizione 2"/>
+	<Elem NameU="Transition 3" Name="Transizione 3"/>
+	<Elem NameU="Transition 4" Name="Transizione 4"/>
+	<Elem NameU="Transition 5" Name="Transizione 5"/>
+</Lib>

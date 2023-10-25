@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Weapons">
+	<Elem NameU="Rifle" Name="Rifle"/>
+	<Elem NameU="Shotgun" Name="Espingarda"/>
+	<Elem NameU="Sawed-off Shotgun" Name="Calibre 12"/>
+	<Elem NameU="Revolver" Name="Revólver"/>
+	<Elem NameU="Magazine" Name="Pente"/>
+	<Elem NameU="Bullet Shell" Name="Bala"/>
+	<Elem NameU="Bullet Entrance" Name="Entrada da bala"/>
+	<Elem NameU="Bullet Exit" Name="Saída da bala"/>
+	<Elem NameU="Screwdriver" Name="Chave de fenda"/>
+	<Elem NameU="Claw Hammer" Name="Martelo"/>
+	<Elem NameU="Crowbar" Name="Pé-de-cabra"/>
+	<Elem NameU="Baseball Bat" Name="Taco de beisebol"/>
+	<Elem NameU="ice Hammer" Name="Picareta"/>
+	<Elem NameU="Nunchucks" Name="Nunchaku"/>
+	<Elem NameU="Ax" Name="Machado"/>
+	<Elem NameU="Chain" Name="Corrente"/>
+	<Elem NameU="Large Knife" Name="Faca grande"/>
+	<Elem NameU="Long Knife" Name="Faca longa"/>
+	<Elem NameU="Short Knife" Name="Faca curta"/>
+	<Elem NameU="Meat Cleaver" Name="Cutelo"/>
+</Lib>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Network and Peripherals">
+    <Elem NameU="Ethernet" Name="以太网"/>
+    <Elem NameU="Ring network" Name="环形网络"/>
+    <Elem NameU="Straight bus" Name="总线网"/>
+    <Elem NameU="FDDI ring" Name="FDDI环形网络"/>
+    <Elem NameU="Token ring" Name="令牌环网"/>
+    <Elem NameU="Star network" Name="星形网络"/>
+    <Elem NameU="Communication link" Name="通信链路"/>
+    <Elem NameU="Flash link" Name="闪型连接"/>
+    <Elem NameU="Flexi Node Link" Name="弹性网络"/>
+    <Elem NameU="Internet Cloud" Name="因特尔网云图"/>
+    <Elem NameU="Internet Cloud 2" Name="因特尔网云图 2"/>
+    <Elem NameU="Internet Cloud 3" Name="因特尔网云图 3"/>
+    <Elem NameU="Earth" Name="地球"/>
+    <Elem NameU="Cable" Name="电缆"/>
+    <Elem NameU="Cable 2" Name="电缆 2"/>
+    <Elem NameU="Arrow 1" Name="箭头 1"/>
+    <Elem NameU="Arrow symbol 2" Name="箭头符号 2"/>
+    <Elem NameU="Arrow symbol 3" Name="箭头符号 3"/>
+    <Elem NameU="Arrow symbol 4" Name="箭头符号 4"/>
+    <Elem NameU="Arrow symbol 5" Name="箭头符号 5"/>
+    <Elem NameU="Optical fiber" Name="光纤"/>
+    <Elem NameU="Cloud symbol 1" Name="云符号 1"/>
+    <Elem NameU="Cloud symbol 2" Name="云符号 2"/>
+    <Elem NameU="Wifi Symbol" Name="Wifi 符号"/>
+    <Elem NameU="Lights" Name="信号灯"/>
+    <Elem NameU="Bridge" Name="集线器"/>
+    <Elem NameU="Server" Name="服务器"/>
+    <Elem NameU="Router" Name="路由器"/>
+    <Elem NameU="Wireless Router" Name="网桥"/>
+    <Elem NameU="Bridge" Name="集线器"/>
+    <Elem NameU="Hub" Name="集线器 2"/>
+    <Elem NameU="Switch" Name="交换机"/>
+    <Elem NameU="DVS 1" Name="DVS 1"/>
+    <Elem NameU="DVS 2" Name="DVS 2"/>
+    <Elem NameU="DVS 3" Name="DVS 3"/>
+    <Elem NameU="Video Splitter" Name="视频分配器"/>
+    <Elem NameU="Disk Arrays" Name="磁盘阵列"/>
+    <Elem NameU="Wifi Device" Name="Wifi 设备"/>
+    <Elem NameU="Firewall 1" Name="防火墙 1"/>
+    <Elem NameU="Firewall 2" Name="防火墙 2"/>
+    <Elem NameU="Modem" Name="调制解调器"/>
+    <Elem NameU="ADSL Modem" Name="ADSL调制解调器"/>
+    <Elem NameU="TP Link" Name="TP-Link"/>
+    <Elem NameU="AP" Name="AP"/>
+    <Elem NameU="AP 2" Name="AP 2"/>
+    <Elem NameU="User" Name="用户"/>
+</Lib>

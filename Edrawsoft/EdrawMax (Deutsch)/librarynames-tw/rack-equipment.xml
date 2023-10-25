@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Rack Equipment">
+    <Elem NameU="Rack" Name="機架"/>
+    <Elem NameU="1U Patch Panel" Name="1U 插線麵板"/>
+    <Elem NameU="2U Patch Panel" Name="2U 插線麵板"/>
+    <Elem NameU="1U Switch" Name="1U 交換機"/>
+    <Elem NameU="2U Switch" Name="2U 交換機"/>
+    <Elem NameU="Router" Name="路由器"/>
+    <Elem NameU="Raid" Name="磁盤陣列"/>
+    <Elem NameU="4U Server" Name="4U 伺服器"/>
+    <Elem NameU="2U Server" Name="2U 伺服器"/>
+    <Elem NameU="UPS" Name="UPS"/>
+    <Elem NameU="Bridge" Name="網橋"/>
+    <Elem NameU="6U Monitor" Name="6U 顯示器"/>
+    <Elem NameU="Tape Drive" Name="磁帶驅動器"/>
+    <Elem NameU="Keyboard" Name="鍵盤"/>
+    <Elem NameU="Power Strip" Name="電源板"/>
+    <Elem NameU="1U Shelf" Name="1U 機架"/>
+    <Elem NameU="2U Shelf" Name="2U 機架"/>
+    <Elem NameU="Alternative Device" Name="可替換設備"/>
+    <Elem NameU="Alternative Device 2" Name="可替換設備 2"/>
+    <Elem NameU="Switch" Number="4" Name="開關"/>
+    <Elem NameU="1U Switch" Number="2" Name="1U 交換機"/>
+    <Elem NameU="2u ethernet switch" Name="2u以太網交換機"/>
+    <Elem NameU="Switch (ws-c2960-24tc-l)" Name="開關 (ws-c2960-24tc-l)"/>
+    <Elem NameU="Switch (ws-c3560-24ps-s)" Name="開關 (ws-c3560-24ps-s)"/>
+    <Elem NameU="Switch (ws-c3560-48ps-s)" Name="開關 (ws-c3560-48ps-s)"/>
+    <Elem NameU="Switch (ws-c2960-48tc-l)" Name="開關 (ws-c2960-48tc-l)"/>
+    <Elem NameU="Server" Number="8" Name="伺服器"/>
+    <Elem NameU="X Server" Name="X伺服器"/>
+    <Elem NameU="X Server RAID" Name="X伺服器 RAID"/>
+    <Elem NameU="Server" Number="2" Name="伺服器"/>
+    <Elem NameU="Server pc" Name="伺服器 pc"/>
+    <Elem NameU="Rack mount lcd monitor" Name="機架式液晶顯示器"/>
+    <Elem NameU="Fibre Patch Panel(Type A)" Name="纖維接線板（A型）"/>
+    <Elem NameU="Fibre Patch Panel(Type B)" Name="纖維接線板（B型）"/>
+    <Elem NameU="Fibre Patch Panel(Type C)" Name="纖維接線板（C型）"/>
+    <Elem NameU="1U Spacer" Name="1U逆變器"/>
+    <Elem NameU="1U Tray" Name="1U托盤"/>
+    <Elem NameU="2U RAID Array" Name="2U磁盤陣列"/>
+    <Elem NameU="3U RAID Array" Name="3U磁盤陣列"/>
+    <Elem NameU="Managed UPS" Name="管理UPS"/>
+    <Elem NameU="UPS" Number="3" Name="UPS"/>
+    <Elem NameU="Rack" Name="機架"/>
+    <Elem NameU="1U Cable Management" Name="1U電纜管理"/>
+    <Elem NameU="2U Cable Management" Name="2U電纜管理"/>
+    <Elem NameU="Rack" Number="3" Name="機架"/>
+</Lib>

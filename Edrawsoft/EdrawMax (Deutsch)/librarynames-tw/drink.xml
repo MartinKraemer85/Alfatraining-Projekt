@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Drink">
+    <Elem NameU="Cocktail 1" Name="雞尾酒 1"/>
+    <Elem NameU="Cocktail 2" Name="雞尾酒 2"/>
+    <Elem NameU="Champagne" Name="香檳"/>
+    <Elem NameU="Juice" Name="果汁"/>
+    <Elem NameU="Orange Juice" Name="橙汁"/>
+    <Elem NameU="Milk Tea" Name="奶茶"/>
+    <Elem NameU="Slush" Name="冰沙"/>
+    <Elem NameU="Lemon Mint Beverage" Name="檸檬薄荷飲料"/>
+    <Elem NameU="Margaritas" Name="瑪格麗塔"/>
+    <Elem NameU="Cola 1" Name="可樂 1"/>
+    <Elem NameU="Cola 2" Name="可樂 2"/>
+    <Elem NameU="Coffee 1" Name="咖啡 1"/>
+    <Elem NameU="Coffee cup" Name="咖啡杯"/>
+    <Elem NameU="Tea Cup" Name="茶杯"/>
+    <Elem NameU="Teapot" Name="茶壺"/>
+    <Elem NameU="Beer 1" Name="啤酒 1"/>
+    <Elem NameU="Beer 2" Name="啤酒 2"/>
+    <Elem NameU="Coconut Drink" Name="椰子汁"/>
+    <Elem NameU="Wine" Name="葡萄酒"/>
+    <Elem NameU="Champagne" Name="香檳"/>
+    <Elem NameU="Red Wine" Name="紅酒"/>
+    <Elem NameU="Soda 1" Name="蘇打水 1"/>
+    <Elem NameU="Soda 2" Name="蘇打水 2"/>
+    <Elem NameU="Liqueur" Name="白酒"/>
+</Lib>

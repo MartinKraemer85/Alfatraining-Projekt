@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="AWS Security, Identity, &amp; Compliance">
+	<Elem NameU="AD-Connector" Name="Conector AD"/>
+	<Elem NameU="Cloud-Directory" Name="Diretório da nuvem"/>
+	<Elem NameU="Cognito" Name="Cognito"/>
+	<Elem NameU="Detective" Name="Detetive"/>
+	<Elem NameU="GuardDuty" Name="Serviço de guarda"/>
+	<Elem NameU="Inspector" Name="Inspetor"/>
+	<Elem NameU="Inspector_Agent" Name="Agente Inspetor"/>
+	<Elem NameU="Macie" Name="Macie"/>
+	<Elem NameU="AWS-Artifact" Name="Artefato MaAWS"/>
+	<Elem NameU="AWS-Certificate-Authority" Name="Autoridade de Certificação AWS"/>
+	<Elem NameU="AWS-Certificate-Manager" Name="Gerenciador de certificado AWS"/>
+	<Elem NameU="AWS-CloudHSM" Name="Nuvem HSM AWS"/>
+	<Elem NameU="AWS-Directory-Service" Name="Serviço de diretório AWS"/>
+	<Elem NameU="AWS-Firewall-Manager" Name="Gerenciador de firewall AWS"/>
+	<Elem NameU="AWS-Identity-and-_Access-Management_IAM" Name="Gerenciamento de identidade e acesso AWS IAM"/>
+	<Elem NameU="AWS-Identity-and-Access-Management-IAM_Access-Analyzer" Name="AWS IAM de gerenciamento de identidade e acesso"/>
+	<Elem NameU="AWS-Identity-and-Access-Management-IAM_Add-on" Name="Complemento IAM de gerenciamento de identidade e acesso da AWS"/>
+	<Elem NameU="AWS-Identity-and-Access-Management-IAM_AWS-STS" Name="AWS Gerenciamento de identidade e acesso IAM AWS-STS"/>
+	<Elem NameU="AWS-Identity-and-Access-Management-IAM_AWS-STS-Alternate" Name="AWS Gerenciamento de identidade e acesso IAM Alternativa AWS-STS"/>
+	<Elem NameU="AWS-Identity-and-Access-Management-IAM_Data-Encryption-Key" Name="AWS Chave de criptografia de dados IAM de gerenciamento de identidade e acesso"/>
+	<Elem NameU="AWS-Identity-and-Access-Management-IAM_Encrypted-Data" Name="Dados criptografados do IAM de gerenciamento de identidade e acesso da AWS"/>
+	<Elem NameU="AWS-Identity-and-Access-Management-IAM_Long-term-Security-Credential" Name="Certificado de segurança de longo prazo IAM para gerenciamento de identidade e acesso da AWS"/>
+	<Elem NameU="AWS-Identity-and-Access-Management-IAM_MFA-Token" Name="Token IAM MFA de gerenciamento de identidade e acesso da AWS"/>
+	<Elem NameU="AWS-Identity-and-Access-Management-IAM_Permissions" Name="Permissões de IAM de gerenciamento de acesso e identidade AWS"/>
+	<Elem NameU="AWS-Identity-and-Access-Management-IAM_Role" Name="Função IAM de gerenciamento de identidade e acesso da AWS"/>
+	<Elem NameU="AWS-Identity-and-Access-Management-IAM_Temporary-Security-Credential" Name="AWS Identity and Access Management IAM Credenciais de segurança temporárias"/>
+	<Elem NameU="AWS-Key-Management-Service" Name="Serviço de gerenciamento de chaves AWS"/>
+	<Elem NameU="AWS-Managed-Microsoft-AD" Name="Microsoft AD gerenciado pela AWS"/>
+	<Elem NameU="AWS-Resource-Access-Manager" Name="AWS Resource Access Manager"/>
+	<Elem NameU="AWS-Secrets-Manager" Name="AWS Gerente de segurança"/>
+	<Elem NameU="AWS-Security-Hub" Name="Centro de Segurança AWS"/>
+	<Elem NameU="AWS-Shield" Name="Escudo AWS"/>
+	<Elem NameU="AWS-Shield_Shield-Advanced" Name="AWS Escudo Avançado"/>
+	<Elem NameU="AWS-Single-Sign-On" Name="AWS single sign-on"/>
+	<Elem NameU="AWS-WAF" Name="AWS WAF"/>
+	<Elem NameU="AWS-WAF_Filtering-rule" Name="Regras de filtro AWS WAF"/>
+	<Elem NameU="Security-Hub_Finding" Name="Pesquisa da Central de Segurança"/>
+	<Elem NameU="Security-Identity-and-Compliance" Name="Identidade segura e conformidade"/>
+	<Elem NameU="Simple-AD" Name="Anúncio simples"/>
+</Lib>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Business">
+    <Elem NameU="Computer" Name="컴퓨터"/>
+    <Elem NameU="Chair" Name="의자"/>
+    <Elem NameU="Computer Host" Name="컴퓨터 호스트"/>
+    <Elem NameU="Cabinet" Name="캐비닛"/>
+    <Elem NameU="Table Lamp" Name="테이블 램프"/>
+    <Elem NameU="Magnifier" Name="확대경"/>
+    <Elem NameU="Stack Of Notes" Name="쌓인 노트"/>
+    <Elem NameU="Pink Suitcase" Name="핑크 슈트케이스"/>
+    <Elem NameU="Large Suitcase" Name="큰 슈트케이스"/>
+    <Elem NameU="Small Suitcase" Name="작은 슈트케이스"/>
+    <Elem NameU="Folder" Name="폴더"/>
+    <Elem NameU="Plan" Name="계획"/>
+    <Elem NameU="A Note" Name="노트"/>
+    <Elem NameU="Sofa" Name="소파"/>
+    <Elem NameU="Cabinet" Name="캐비닛"/>
+    <Elem NameU="Small Bookshelf" Name="작은 책장"/>
+    <Elem NameU="Porcelain Cup" Name="도자기컵"/>
+    <Elem NameU="Coffee Cup" Name="커피잔"/>
+    <Elem NameU="Large Bookshelf" Name="큰 책장"/>
+    <Elem NameU="White Cabinet" Name="화이트 캐비닛"/>
+    <Elem NameU="Record Data" Name="기록 데이터"/>
+    <Elem NameU="Wine" Name="와인"/>
+    <Elem NameU="Red Wine" Name="레드 와인"/>
+    <Elem NameU="Briefcase" Name="公文包"/>
+    <Elem NameU="Notebook" Name="노트북"/>
+    <Elem NameU="Coffee" Name="커피"/>
+    <Elem NameU="Orange Marker" Name="오렌지 표시"/>
+    <Elem NameU="Five Marker" Name="5 표시"/>
+    <Elem NameU="Camera" Name="카메라"/>
+    <Elem NameU="Desk" Name="데스크"/>
+    <Elem NameU="Analyze Data" Name="데이터 분석"/>
+    <Elem NameU="Mouse" Name="마우스"/>
+    <Elem NameU="Bookshelf" Number="2" Name="책장"/>
+    <Elem NameU="Newspaper" Name="뉴스"/>
+    <Elem NameU="Printer" Name="인쇄기"/>
+    <Elem NameU="Counter" Name="계산기"/>
+    <Elem NameU="Briefcase" Name="서류 가방"/>
+    <Elem NameU="Computer" Name="컴퓨터"/>
+    <Elem NameU="Integrated Notebook" Name="통합 노트북"/>
+    <Elem NameU="Disk" Name="디스크"/>
+    <Elem NameU="Recording" Name="녹음"/>
+    <Elem NameU="Pouring Red Wine" Name="와인 붓기"/>
+    <Elem NameU="Express Delivery" Name="택배"/>
+    <Elem NameU="Small Utility Knife" Name="작은 칼"/>
+    <Elem NameU="Yellow Utility Knife" Name="노란 칼"/>
+    <Elem NameU="Utility Knife" Name="칼"/>
+    <Elem NameU="Elliot Folder" Name="Elliot 폴더"/>
+    <Elem NameU="Wallet" Name="지갑"/>
+    <Elem NameU="Folder" Name="폴더"/>
+    <Elem NameU="Gold Coins Fall" Name="금 코인 하락"/>
+    <Elem NameU="Gold Coins Rise" Name="금 코인 상승"/>
+    <Elem NameU="Gold" Name="황금"/>
+    <Elem NameU="Office Chair" Name="사무실 의자"/>
+    <Elem NameU="Coffee Table" Name="커피 테이블"/>
+    <Elem NameU="Pen Holder" Name="연필통"/>
+    <Elem NameU="Bookshelf" Name="책장"/>
+    <Elem NameU="Plan Board" Name="플랜 보드"/>
+    <Elem NameU="Printer" Name="인쇄기"/>
+    <Elem NameU="Magnifier" Name="확대경"/>
+    <Elem NameU="Close File" Name="파일 닫기"/>
+    <Elem NameU="Open A File" Name="파일 열기"/>
+    <Elem NameU="Work Card" Name="근무 카드"/>
+    <Elem NameU="Time" Name="시간"/>
+    <Elem NameU="American Coffee" Name="아메리카노"/>
+    <Elem NameU="Open A File" Name="파일 열기"/>
+    <Elem NameU="File" Name="파일"/>
+    <Elem NameU="Table and Chair" Name="상과 의자"/>
+    <Elem NameU="Grey Cabinet" Name="그레이 캐비닛"/>
+    <Elem NameU="Blue Notebook" Name="블루 노트북"/>
+    <Elem NameU="Dollar" Number="2" Name="달러"/>
+    <Elem NameU="Name Card" Name="명함"/>
+    <Elem NameU="Mobile Computer" Name="모바일 컴퓨터"/>
+    <Elem NameU="Office" Name="사무실"/>
+    <Elem NameU="Wallet" Name="지갑"/>
+    <Elem NameU="Folder" Name="폴더"/>
+    <Elem NameU="Projector" Name="프로젝터"/>
+    <Elem NameU="Ruler" Name="눈금자"/>
+    <Elem NameU="Shoulder Bags" Name="숄더 백"/>
+    <Elem NameU="Two Files" Name="2개 파일"/>
+    <Elem NameU="Package" Name="패키지"/>
+    <Elem NameU="Window" Name="창"/>
+    <Elem NameU="Cowhide Notebook" Number="2" Name="소가죽 노트북"/>
+    <Elem NameU="Shredder" Name="분쇄기"/>
+    <Elem NameU="Showcase" Name="진열장"/>
+    <Elem NameU="Table Lamp" Name="테이블 램프"/>
+    <Elem NameU="Pink Pen" Name="핑크 펜"/>
+    <Elem NameU="Dark Pen" Name="다크 펜"/>
+    <Elem NameU="Mobile Phone" Name="핸드폰"/>
+    <Elem NameU="Recording Pen" Name="녹음펜"/>
+    <Elem NameU="Time" Name="시간"/>
+    <Elem NameU="Table" Name="테이블"/>
+    <Elem NameU="Office" Name="오피스"/>
+    <Elem NameU="Design" Name="디자인"/>
+    <Elem NameU="Cooperation" Name="협업"/>
+    <Elem NameU="Plan Board" Name="플랜 보드"/>
+    <Elem NameU="Alarm Cock" Name="알람 콕"/>
+    <Elem NameU="Bank Card" Name="은행 카드"/>
+    <Elem NameU="Notebook" Name="노트북"/>
+    <Elem NameU="Shopping Bag" Name="쇼핑백"/>
+</Lib>

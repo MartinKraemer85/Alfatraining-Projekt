@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Equipment-Valves">
+	<Elem NameU="Gate valve, Hand-operated" Name="仕切弁-手動"/>
+	<Elem NameU="Gate valve" Name="仕切弁"/>
+	<Elem NameU="Normally closed gate valve" Name="仕切弁-常時閉"/>
+	<Elem NameU="Globe valve, Hand-operated" Name="玉形弁-手動"/>
+	<Elem NameU="Globe valve" Name="玉形弁"/>
+	<Elem NameU="Rotary valve" Name="回転弁"/>
+	<Elem NameU="Needle valve" Name="ニードル弁"/>
+	<Elem NameU="Control valve" Name="制御弁"/>
+	<Elem NameU="Piston-operated valve" Name="ピストン弁"/>
+	<Elem NameU="Back Pressure Regulator" Name="背圧調整器"/>
+	<Elem NameU="Plug or cock valve" Name="プラグ/コック弁"/>
+	<Elem NameU="Check valve" Name="逆止め弁"/>
+	<Elem NameU="Check valve 2" Name="逆止め弁 2"/>
+	<Elem NameU="Butterfly valve" Name="バタフライバブル"/>
+	<Elem NameU="Flanged valve, Hand-operated" Name="フランジ付弁-手動"/>
+	<Elem NameU="Flanged valve 2" Name="フランジ付弁 2"/>
+	<Elem NameU="Angle valve, Hand-operated" Name="アングル弁-手動"/>
+	<Elem NameU="Angle globe valve" Name="アングル玉形弁"/>
+	<Elem NameU="Relief valve" Name="リリーフ弁"/>
+	<Elem NameU="Angle blowdown valve" Name="アングルのブロー弁"/>
+	<Elem NameU="Ball" Name="ボール弁"/>
+	<Elem NameU="Normally closed ball valve" Name="ボール弁-常時閉"/>
+	<Elem NameU="Diaghragm" Name="ダイヤフラム"/>
+	<Elem NameU="Plug valve" Name="プラグ弁"/>
+	<Elem NameU="Solenoid valve" Name="電磁弁"/>
+	<Elem NameU="Hydraulic valve" Name="液圧制御弁"/>
+	<Elem NameU="Motor-operated valve" Name="電動弁"/>
+	<Elem NameU="Pilot gate valve" Name="パイロット仕切弁"/>
+	<Elem NameU="Weight gate valve" Name="重力ゲートバブル"/>
+	<Elem NameU="Powered valve" Name="電動弁　2"/>
+	<Elem NameU="Float-operated valve" Name="フロート式弁"/>
+	<Elem NameU="3-way valve" Name="3方弁"/>
+	<Elem NameU="3-way plug valve" Name="3方プラグ弁"/>
+	<Elem NameU="3-way valve 2" Name="3方弁 2"/>
+	<Elem NameU="4-way plug valve" Name="4方プラグ弁"/>
+	<Elem NameU="4-way valve" Name="4方弁"/>
+	<Elem NameU="Electro-hydraulic gate valve" Name="電気油圧ゲート弁"/>
+	<Elem NameU="Balanced diaphragm gate valve" Name="バランス型隔膜ゲート弁"/>
+	<Elem NameU="Spring gate valve" Name="バネ式ゲート弁"/>
+	<Elem NameU="Ram valve" Name="ラム弁"/>
+	<Elem NameU="Slide valve" Name="スライド弁"/>
+	<Elem NameU="Metering coke" Name="計量弁"/>
+	<Elem NameU="Knife valve" Name="ナイフ弁"/>
+	<Elem NameU="Excess flow valve" Name="過流防止弁"/>
+	<Elem NameU="Post indicator valve" Name="位置表示器"/>
+	<Elem NameU="Self draining valve" Name="自己排水弁"/>
+	<Elem NameU="Diaphragm valve" Name="ダイヤフラム弁"/>
+	<Elem NameU="Pinch valve" Name="ピンチ弁"/>
+	<Elem NameU="Minimum flow valve" Name="最小流量弁"/>
+	<Elem NameU="Auto recirculation valve" Name="自動再循環弁"/>
+	<Elem NameU="Gauge" Name="計器"/>
+	<Elem NameU="Bleeder valve" Name="通気弁"/>
+	<Elem NameU="Integrated block and bleed valve" Name="集積ブロックと放風弁"/>
+	<Elem NameU="Manual integrated block and bleed valve" Name="手動集積ブロックとブリード弁"/>
+	<Elem NameU="Orifice" Name="オリフィス"/>
+	<Elem NameU="Rotameter" Name="ロータメータ"/>
+	<Elem NameU="Quarter turn valve double acting" Name="四分の一弁-複動"/>
+	<Elem NameU="Quarter turn valve spring acting" Name="四分の一弁-バネ式"/>
+	<Elem NameU="Water flow meter" Name="水流量計"/>
+	<Elem NameU="Self-operating release valve" Name="自動リリース弁"/>
+</Lib>

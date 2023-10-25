@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Concept Map">
+	<Elem NameU="Rectangle" Name="Retângulo"/>
+	<Elem NameU="Rounded rectangle" Name="Retângulo arredondado"/>
+	<Elem NameU="Ellipse" Name="Elipse"/>
+	<Elem NameU="Round head rectangle" Name="Retângulo de cabeça redonda"/>
+	<Elem NameU="Diamond" Name="Diamante"/>
+	<Elem NameU="Circle" Name="Círculo"/>
+	<Elem NameU="Star" Name="Estrela"/>
+	<Elem NameU="Dynamic Star" Name="Estrela Dinâmica"/>
+	<Elem NameU="Parallellogram" Name="Paralelogramo"/>
+	<Elem NameU="Hexagon" Name="Hexágono"/>
+	<Elem NameU="Wow" Name="Wow"/>
+	<Elem NameU="KABOOM" Name="KABOOM"/>
+	<Elem NameU="Cloud" Name="Cloud"/>
+	<Elem NameU="Table" Name="Tabela"/>
+	<Elem NameU="Ellipse balloon" Name="Balão elipse"/>
+	<Elem NameU="Rect balloon" Name="Balão rect."/>
+	<Elem NameU="Arrow" Name="Seta"/>
+</Lib>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Azure VMs by Function">
+    <Elem NameU="Active Directory VM Multi" Name="活動目錄 VM Multi"/>
+    <Elem NameU="Active Directory VM" Name="活動目錄 VM"/>
+    <Elem NameU="Application Server VM Multi" Name="應用伺服器 VM Multi"/>
+    <Elem NameU="Application Server VM" Name="應用伺服器 VM"/>
+    <Elem NameU="Database Server VM Multi" Name="資料庫伺服器 VM Multi"/>
+    <Elem NameU="Database Server VM" Name="資料庫伺服器 VM"/>
+    <Elem NameU="Directory Server VM Multi" Name="目錄伺服器 VM Multi"/>
+    <Elem NameU="Directory Server VM" Name="目錄伺服器 VM"/>
+    <Elem NameU="Domain Server VM" Number="2" Name="域伺服器 VM"/>
+    <Elem NameU="File Server VM" Name="檔案伺服器 VM"/>
+    <Elem NameU="Web Server VM Multi" Number="2" Name="網頁伺服器 VM Multi"/>
+    <Elem NameU="Web Server VM" Name="網頁伺服器 VM"/>
+    <Elem NameU="Windows Server VM Multi" Name="Windows伺服器 VM Multi"/>
+    <Elem NameU="Windows Server VM" Name="Windows伺服器 VM"/>
+</Lib>

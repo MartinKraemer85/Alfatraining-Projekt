@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Computers and Monitors">
+	<Elem NameU="Desktop PC" Name="Computer Desktop"/>
+	<Elem NameU="Desktop PC 2" Name="Computer Desktop 2"/>
+	<Elem NameU="Tower Box" Name="Tower Box"/>
+	<Elem NameU="Surface" Name="Superficie"/>
+	<Elem NameU="Laptop Computer" Name="Computer Portatile"/>
+	<Elem NameU="LCD Monitor" Name="Schermo LCD"/>
+	<Elem NameU="iMac" Name="iMac"/>
+	<Elem NameU="Mac Air" Name="Mac Air"/>
+	<Elem NameU="Mac Computer" Name="Computer Mac"/>
+	<Elem NameU="Mac Pro" Name="Mac Pro"/>
+	<Elem NameU="Mini Mac" Name="Mini Mac"/>
+	<Elem NameU="Tablet Computer" Name="Computer Tablet"/>
+	<Elem NameU="Pad" Name="Pad"/>
+	<Elem NameU="LCD Monitor 2" Name="Schermo LCD 2"/>
+	<Elem NameU="Query computer" Name="Richiesta Computer"/>
+	<Elem NameU="Query computer 2" Name="Richiesta Computer 2"/>
+</Lib>

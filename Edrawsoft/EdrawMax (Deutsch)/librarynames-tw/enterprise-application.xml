@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Alibaba Cloud Enterprise application">
+	<Elem NameU="API gateway" Name="API網關"/>
+	<Elem NameU="Beebot" Name="雲小蜜"/>
+	<Elem NameU="Beian" Name="備案"/>
+	<Elem NameU="Cloud AP" Name="雲AP"/>
+	<Elem NameU="Cloud call center" Name="雲呼叫中心"/>
+	<Elem NameU="Cloud customer service" Name="阿里雲客服"/>
+	<Elem NameU="Cloud desktop" Name="雲桌面"/>
+	<Elem NameU="Cloud screencast" Name="雲投屏"/>
+	<Elem NameU="Code pipeline" Name="Code pipeline"/>
+	<Elem NameU="Company registration service" Name="企業工商註冊服務"/>
+	<Elem NameU="Corporate websites" Name="企業建站"/>
+	<Elem NameU="Direct mailpush service" Name="郵件推送"/>
+	<Elem NameU="DNS" Name="DNS"/>
+	<Elem NameU="Domains and websites" Name="域名與網站"/>
+	<Elem NameU="Domains 域名" Name="域名"/>
+	<Elem NameU="Elastic web hosting" Name="彈性網頁托管"/>
+	<Elem NameU="E-signature" Name="電子簽名"/>
+	<Elem NameU="Exmail" Name="雲郵箱"/>
+	<Elem NameU="Microservice engine" Name="微服務引擎"/>
+	<Elem NameU="Mobile analytics" Name="移動資料分析"/>
+	<Elem NameU="Mobile feedback" Name="移動用戶反饋"/>
+	<Elem NameU="Mobile hotfix" Name="移動熱修復"/>
+	<Elem NameU="Mobile push service" Name="移動推送"/>
+	<Elem NameU="Mobile testing" Name="移動測試"/>
+	<Elem NameU="Node.js" Name="Node.js"/>
+	<Elem NameU="Smart conversation service" Name="智能對話分析服務"/>
+	<Elem NameU="Trademark service" Name="商標服務"/>
+	<Elem NameU="Web hosting" Name="雲虛擬主機"/>
+	<Elem NameU="Yida" Name="宜搭"/>
+</Lib>

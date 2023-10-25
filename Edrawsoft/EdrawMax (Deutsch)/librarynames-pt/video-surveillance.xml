@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Video Surveillance">
+	<Elem NameU="Camera" Name="Câmera"/>
+	<Elem NameU="Motion detector" Name="Detetor de movimento"/>
+	<Elem NameU="Glass break sensor" Name="Sensor de quebra de vidro"/>
+	<Elem NameU="Screening device" Name="Dispositivo de triagem"/>
+	<Elem NameU="Monitor" Name="Monitor"/>
+	<Elem NameU="Camera P/T/Z" Name="Câmera P/T/Z"/>
+	<Elem NameU="Video multiplexer" Name="Multiplexador de vídeo"/>
+	<Elem NameU="Push button" Name="Botão de apertar"/>
+	<Elem NameU="Recorder" Name="Gravador"/>
+	<Elem NameU="Switch manual" Name="Interruptor manual"/>
+	<Elem NameU="Switch automatic" Name="Interruptor automático"/>
+	<Elem NameU="Video keyboard" Name="Teclado de vídeo"/>
+	<Elem NameU="Bi-static beam sensor" Name="Sensor de feixe bi-estático"/>
+	<Elem NameU="Security window screen" Name="Tela de janela de segurança"/>
+	<Elem NameU="Video motion detector" Name="Detetor de movimento em vídeo"/>
+	<Elem NameU="Wire connector" Name="Conector de fio"/>
+</Lib>

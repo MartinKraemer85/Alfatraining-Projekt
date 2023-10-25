@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Carnival">
+
+<Elem Name="Masque" NameU="Mask"/>
+
+<Elem Name="Plume" NameU="Feather"/>
+
+<Elem Name="Feux d'artifice" NameU="Fireworks"/>
+
+<Elem Name="Chapeau de clown" NameU="Clown Hat"/>
+
+<Elem Name="Bruant" NameU="Bunting"/>
+
+<Elem Name="Jus de fruits" NameU="Fruit Juice"/>
+
+<Elem Name="Marteau de sable" NameU="Sand Hammer"/>
+
+<Elem Name="Crème glacée" NameU="Ice Cream"/>
+
+<Elem Name="Tongues" NameU="Flip Flop"/>
+
+<Elem Name="Cocotier" NameU="Coconut Tree"/>
+
+<Elem Name="Chapeau" NameU="Hat"/>
+
+<Elem Name="Pitre" NameU="Clown"/>
+
+<Elem Name="Tent" NameU="Tent"/>
+
+<Elem Name="Ballon" NameU="Balloon"/>
+
+<Elem Name="Sucette" NameU="Lollipop"/>
+
+<Elem Name="Cheval" NameU="Horse"/>
+
+<Elem Name="Montgolfière" NameU="Hot Air Balloon"/>
+
+<Elem Name="Flotte" NameU="Float"/>
+
+<Elem Name="Grande roue" NameU="Ferris Wheel"/>
+
+<Elem Name="Chapeau magique" NameU="Magic Hat"/>
+
+<Elem Name="Installations du parc d'attractions" NameU="Amusement Park Facilities"/>
+
+<Elem Name="Tambour" NameU="Drum"/>
+
+<Elem Name="Wagon-restaurant" NameU="Dining Car"/>
+
+<Elem Name="klaxon" NameU="Horn"/>
+
+<Elem Name="Petit" NameU="Small"/>
+
+<Elem Name="Instrument de musique" NameU="Musical Instrument"/>
+
+<Elem Name="Yeux et barbe" NameU="Eyes and Beard"/>
+
+<Elem Name="Pétard" NameU="Firecracker"/>
+
+<Elem Name="Perroquet" NameU="Parrot"/>
+
+<Elem Name="Carrousel" NameU="Carousel"/>
+
+<Elem Name="Moulins à vent en papier" NameU="Paper Windmills"/>
+
+<Elem Name="éléphant" NameU="Elephant"/>
+
+<Elem Name="Feu" NameU="Fire"/>
+
+<Elem Name="Les gens de danse" NameU="Dancing People"/>
+
+<Elem Name="Personne jouant" NameU="Playing Person"/>
+
+<Elem Name="Interprète" NameU="Performer"/>
+
+<Elem Name="Boutique" NameU="Store"/>
+
+<Elem Name="Fauteuil volant rotatif" NameU="Rotating Flying Chair"/>
+
+<Elem Name="Soleil" NameU="Sun"/>
+
+<Elem Name="Exécution d'acrobaties" NameU="Performing Acrobatics"/>
+
+<Elem Name="Trophée" NameU="Trophy"/>
+
+</Lib>

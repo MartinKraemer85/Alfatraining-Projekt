@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Mixers">
+    <Elem NameU="ISA Agitator" Name="工业标准搅拌器"/>
+    <Elem NameU="3-D Mixer" Name="搅拌器"/>
+    <Elem NameU="Condensate collection tank" Name="凝结水集水箱"/>
+    <Elem NameU="Impeller" Name="叶轮"/>
+    <Elem NameU="ISA Agitator" Name="工业标准搅拌器"/>
+    <Elem NameU="ISA Inline mixer" Name="工业标准搅拌器 3"/>
+    <Elem NameU="Mixer 1" Name="搅拌器 2"/>
+    <Elem NameU="Mixer 2" Name="搅拌器 3"/>
+    <Elem NameU="Magnetic mixer" Name="磁力搅拌器"/>
+    <Elem NameU="Mixer blade" Name="叶片式搅拌器"/>
+    <Elem NameU="Pneumatic mixer" Number="2" Name="气动搅拌机"/>
+    <Elem NameU="Portable mixer" Name="便携搅拌器"/>
+    <Elem NameU="Screw-type mixer" Name="螺旋式搅拌器"/>
+    <Elem NameU="Simple mixer" Name="搅拌器 4"/>
+    <Elem NameU="Submersible mixer" Name="潜水式搅拌器"/>
+    <Elem NameU="Tank with agitator" Name="带搅拌器的水槽"/>
+    <Elem NameU="Turbine agitator" Name="汽轮式搅拌器"/>
+    <Elem NameU="Mixer" Number="2" Name="搅拌器 4"/>
+    <Elem NameU="Slurrification" Name="搅拌器 6"/>
+</Lib>

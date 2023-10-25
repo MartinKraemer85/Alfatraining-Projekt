@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Forms">
+
+<Elem Name="H1 Titel" NameU="H1 Header"/>
+
+<Elem Name="H2 Titel" NameU="H2 Header"/>
+
+<Elem Name="H3 Titel" NameU="H3 Header"/>
+
+<Elem Name="12pt Etikett" NameU="12pt Label"/>
+
+<Elem Name="10pt Etikett" NameU="10pt Label"/>
+
+<Elem Name="9pt Etikett" NameU="9pt Label"/>
+
+<Elem Name="Basistabelle" NameU="Basic Table"/>
+
+<Elem Name="Firmenadresse" NameU="Company Address"/>
+
+<Elem Name="Hauptangelegenheitadresse" NameU="Primary Business Address"/>
+
+<Elem Name="Kontaktinformation" NameU="Contact Information"/>
+
+<Elem Name="Logo Platzhalter" NameU="Logo Placeholder"/>
+
+<Elem Name="Rechnungsadresse" NameU="Billing Address"/>
+
+<Elem Name="Preisangebot" NameU="Quotation"/>
+
+<Elem Name="Produkt, Preis, Beschreibung" NameU="Product, Price, Description"/>
+
+<Elem Name="Statistiken" NameU="Statistics"/>
+
+<Elem Name="Infokasten" NameU="Information Box"/>
+
+<Elem Name="Informationszeile" NameU="Information Line"/>
+
+<Elem Name="Unterschriftenzeile mit Datum" NameU="Signature Line with Date"/>
+
+<Elem Name="Unterschriftenzeile" NameU="Signature Line"/>
+
+<Elem Name="Einfacher Signaturblock" NameU="Simple Signature Block"/>
+
+<Elem Name="Kommentare" NameU="Comments"/>
+
+<Elem Name="Ausführlicher Signaturblock" NameU="Detail Signature Block"/>
+
+<Elem Name="Kontrollkästchen" NameU="Check Box"/>
+
+<Elem Name="Optionsschaltfläche" NameU="Radio Button"/>
+
+<Elem Name="Textblock" NameU="Text Block"/>
+
+<Elem Name="Link Text" NameU="Link Text"/>
+
+</Lib>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Basic Drawing Shapes">
+    <Elem NameU="Square" Name="正方形"/>
+    <Elem NameU="Rectangle" Name="長方形"/>
+    <Elem NameU="Circle" Name="圓形"/>
+    <Elem NameU="Rounded Square" Name="圓角正方形"/>
+    <Elem NameU="Rounded Rectangle" Number="2" Name="圓角矩形"/>
+    <Elem NameU="One side fillet" Name="單圓角矩形"/>
+    <Elem NameU="Opposite fillet" Name="對角圓角矩形"/>
+    <Elem NameU="Rectangle Frame" Name="矩形框架"/>
+    <Elem NameU="Triangle" Number="3" Name="三角形"/>
+    <Elem NameU="Beveled Rectangle" Name="平角矩形"/>
+    <Elem NameU="Pentagon" Name="五邊形"/>
+    <Elem NameU="Diamond" Name="菱形"/>
+    <Elem NameU="Oval" Name="橢圓"/>
+    <Elem NameU="Ring" Name="圓環"/>
+    <Elem NameU="Circles" Name="圓"/>
+    <Elem NameU="Parallelogram" Name="平行四邊形"/>
+    <Elem NameU="Trapezoid" Name="梯形"/>
+    <Elem NameU="Rounded Triangle" Name="圓角三角形"/>
+    <Elem NameU="Right Triangle" Name="直角三角形"/>
+    <Elem NameU="Round Rectangle" Name="圓頭矩形"/>
+    <Elem NameU="Diamond" Name="菱形"/>
+    <Elem NameU="Pentagon" Name="五邊形"/>
+    <Elem NameU="Hexagon" Name="六邊形"/>
+    <Elem NameU="Heptagon" Name="七邊形"/>
+    <Elem NameU="Octagon" Name="八邊形"/>
+    <Elem NameU="Design Element" Name="設計元素"/>
+    <Elem NameU="Heart-Shaped" Name="新型"/>
+    <Elem NameU="Hollow Square" Name="中空方形"/>
+    <Elem NameU="Trapezoid" Name="梯形"/>
+    <Elem NameU="Bevel Rectangle" Name="斜面矩形"/>
+    <Elem NameU="Chamfered Rectangle" Name="倒棱角矩形"/>
+    <Elem NameU="Design Element" Name="設計元素"/>
+    <Elem NameU="Sosceles Triangle" Name="等腰三角形"/>
+    <Elem NameU="Triangle" Name="三角形"/>
+    <Elem NameU="Star" Number="5" Name="星形"/>
+    <Elem NameU="Dynamic Star" Name="動態星型"/>
+    <Elem NameU="Dynamic Inner Star" Name="動態內部星星"/>
+    <Elem NameU="Dynamic Polygon" Name="動態多邊形"/>
+    <Elem NameU="Dynamic Star" Name="動態星形"/>
+    <Elem NameU="Dynamic Gear" Number="2" Name="動態齒輪"/>
+    <Elem NameU="Special Shape" Number="4" Name="特殊形狀"/>
+    <Elem NameU="Half Rounded Rectangle" Name="半圓角長方形"/>
+    <Elem NameU="Semicircle" Name="半圓"/>
+    <Elem NameU="Cloud Shape" Name="雲形"/>
+    <Elem NameU="Sector" Name="扇形"/>
+    <Elem NameU="Drop Shape" Name="水滴形"/>
+    <Elem NameU="Shield Shape" Name="盾牌形"/>
+    <Elem NameU="Half Rounded Riamond" Name="晶體"/>
+    <Elem NameU="Shield Shape" Number="2" Name="盾牌形"/>
+    <Elem NameU="Egg Shape" Name="蛋形"/>
+    <Elem NameU="Sector" Name="扇形"/>
+    <Elem NameU="Special Shape" Number="3" Name="特殊形狀"/>
+    <Elem NameU="Banner" Name="旗幟"/>
+    <Elem NameU="Vertical Flag" Name="豎旗"/>
+    <Elem NameU="V-Shaped Arrow" Name="V形箭頭"/>
+    <Elem NameU="Hexagon" Name="六邊形"/>
+    <Elem NameU="Special Shape" Name="特殊形狀"/>
+    <Elem NameU="Design Element" Number="2" Name="設計元素"/>
+    <Elem NameU="Design Elment" Name="设计元素"/>
+    <Elem NameU="Design Element" Number="2" Name="設計元素"/>
+    <Elem NameU="Design Elment" Name="设计元素"/>
+    <Elem NameU="Design Element" Number="5" Name="設計元素"/>
+    <Elem NameU="Cross" Name="十字架"/>
+    <Elem NameU="Lightning" Name="閃電"/>
+    <Elem NameU="Diamond" Name="菱形"/>
+    <Elem NameU="Moon" Name="月亮"/>
+    <Elem NameU="Special Shape" Name="特殊形狀"/>
+    <Elem NameU="Crown" Name="皇冠"/>
+    <Elem NameU="Callout" Number="3" Name="氣泡"/>
+    <Elem NameU="Rectangle" Name="長方形"/>
+    <Elem NameU="Half-round Rhombus" Name="半圓形菱形"/>
+    <Elem NameU="Half-round Square" Name="半圓形正方形"/>
+    <Elem NameU="Design Element" Name="設計元素"/>
+    <Elem NameU="Half-round Square" Name="半圓形正方形"/>
+    <Elem NameU="Hollow Shield" Name="中空防護物"/>
+    <Elem NameU="Hollow Oval" Name="中空橢圓"/>
+    <Elem NameU="Design Element" Name="設計元素"/>
+    <Elem NameU="Hollow Circle" Number="2" Name="中空圓形"/>
+    <Elem NameU="Design Element" Name="設計元素"/>
+    <Elem NameU="Hollow Circle" Number="4" Name="中空圓形"/>
+    <Elem NameU="Design Element" Number="3" Name="設計元素"/>
+    <Elem NameU="Circle" Number="2" Name="圓形"/>
+    <Elem NameU="Design Element" Name="設計元素"/>
+    <Elem NameU="Special Shape" Number="4" Name="特殊形狀"/>
+</Lib>

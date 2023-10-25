@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Common Objects">
+
+<Elem Name="TV" NameU="TV"/>
+
+<Elem Name="Sofa" NameU="Sofa"/>
+
+<Elem Name="Refrigerator" NameU="Refrigerator"/>
+
+<Elem Name="Table" NameU="Table"/>
+
+<Elem Name="Gloves" NameU="Gloves"/>
+
+<Elem Name="Chair" NameU="Chair"/>
+
+<Elem Name="Bowl" NameU="Bowl"/>
+
+<Elem Name="Chopsticks" NameU="Chopsticks"/>
+
+<Elem Name="Cuillère à riz" NameU="Rice Scoop"/>
+
+<Elem Name="Knife" NameU="Knife"/>
+
+<Elem Name="Spoon" NameU="Spoon"/>
+
+<Elem Name="Fork" NameU="Fork"/>
+
+<Elem Name="Soup Ladle" NameU="Soup Ladle"/>
+
+<Elem Name="Sucette glacée" NameU="Ice Pop"/>
+
+<Elem Name="Ice Cream" NameU="Ice Cream"/>
+
+<Elem Name="Bowknot" NameU="Bowknot"/>
+
+<Elem Name="Tie" NameU="Tie"/>
+
+<Elem Name="Shoes" NameU="Shoes"/>
+
+<Elem Name="Comb" NameU="Comb"/>
+
+<Elem Name="Glasses" NameU="Glasses"/>
+
+<Elem Name="Binoculars" NameU="Binoculars"/>
+
+<Elem Name="Télescope" NameU="Telescope"/>
+
+<Elem Name="Magnifier" NameU="Magnifier"/>
+
+<Elem Name="Telephone" NameU="Telephone"/>
+
+<Elem Name="Mobile Phone" NameU="Mobile Phone"/>
+
+<Elem Name="Trumpet" NameU="Trumpet"/>
+
+<Elem Name="Calendar" NameU="Calendar"/>
+
+<Elem Name="Rapporteur" NameU="Protractor"/>
+
+<Elem Name="Ruler" NameU="Ruler"/>
+
+<Elem Name="Équerre" NameU="Set Square"/>
+
+<Elem Name="Clip de reliure" NameU="Binder Clip"/>
+
+<Elem Name="Scissors" NameU="Scissors"/>
+
+<Elem Name="Stapler" NameU="Stapler"/>
+
+<Elem Name="Magazine" NameU="Magazine"/>
+
+<Elem Name="Book" NameU="Book"/>
+
+<Elem Name="Sac à dos" NameU="Backpack"/>
+
+<Elem Name="Pen" NameU="Pen"/>
+
+<Elem Name="Pencil" NameU="Pencil"/>
+
+<Elem Name="Pinceau" NameU="Paintbrush"/>
+
+<Elem Name="Rubber" NameU="Rubber"/>
+
+<Elem Name="Palette" NameU="Palette"/>
+
+<Elem Name="Shovel" NameU="Shovel"/>
+
+<Elem Name="Brush" NameU="Brush"/>
+
+<Elem Name="Boîte de peinture" NameU="Paint Box"/>
+
+<Elem Name="Building Blocks" NameU="Building Blocks"/>
+
+<Elem Name="Remote Control Car" NameU="Remote Control Car"/>
+
+<Elem Name="Notes de musique" NameU="Music Notes"/>
+
+<Elem Name="Jouet de tour d'anneau" NameU="Ring Tower Toy"/>
+
+<Elem Name="Spinning Top" NameU="Spinning Top"/>
+
+<Elem Name="Abacus" NameU="Abacus"/>
+
+<Elem Name="Puzzle de Scie sauteuse" NameU="Jigsaw Puzzle"/>
+
+<Elem Name="Ball" NameU="Ball"/>
+
+<Elem Name="Photo Frame" NameU="Photo Frame"/>
+
+<Elem Name="Alarm Clock" NameU="Alarm Clock"/>
+
+<Elem Name="Slide" NameU="Slide"/>
+
+<Elem Name="Cubes" NameU="Cubes"/>
+
+<Elem Name="Rocking Horse" NameU="Rocking Horse"/>
+
+<Elem Name="Pinwheel" NameU="Pinwheel"/>
+
+<Elem Name="Toy Bear" NameU="Toy Bear"/>
+
+<Elem Name="Water the Flowers" NameU="Water the Flowers"/>
+
+<Elem Name="Umbrella" NameU="Umbrella"/>
+
+<Elem Name="Checkers" NameU="Checkers"/>
+
+<Elem Name="Mailbox" NameU="Mailbox"/>
+
+</Lib>

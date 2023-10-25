@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Switches and Relays">
+    <Elem NameU="Switch 1P" Name="스위치 1P"/>
+    <Elem NameU="Isolator 1P" Name="아이솔레이터 1P"/>
+    <Elem NameU="Circuit breaker 1P" Name="회로 차단기 1P"/>
+    <Elem NameU="Switch Disconnector 1P" Name="스위치 차단기 1P"/>
+    <Elem NameU="SPST" Name="SPST"/>
+    <Elem NameU="SPDT" Name="SPDT"/>
+    <Elem NameU="DPST" Name="DPST"/>
+    <Elem NameU="DPDT" Name="DPDT"/>
+    <Elem NameU="Manual switch 1P" Name="수동 스위치 1P"/>
+    <Elem NameU="Circuit break thermal" Name="회로 차단기"/>
+    <Elem NameU="Residual current circuit break" Name="잔류 전류 회로 차단"/>
+    <Elem NameU="Make Contact" Name="메이크 접점"/>
+    <Elem NameU="Break Contact" Name="회로 차단기 접점"/>
+    <Elem NameU="Two way contact" Name="양방향 접점"/>
+    <Elem NameU="Passing Make-contact" Name="전달 메이크 접점"/>
+    <Elem NameU="Spring return" Name="스프링 복귀"/>
+    <Elem NameU="Stay put" Name="상태 유지"/>
+    <Elem NameU="Limit Switch" Name="제한 스위치"/>
+    <Elem NameU="Spring Return 2" Name="스프링 복귀 2"/>
+    <Elem NameU="Spring Return 3" Name="스프링 복귀 3"/>
+    <Elem NameU="Limit switch n/o" Name="제한 스위치 n/o"/>
+    <Elem NameU="Limit switch n/c" Name="제한 스위치 n/c"/>
+    <Elem NameU="Switch 2P" Name="스위치 2P"/>
+    <Elem NameU="Isolator 2P" Name="아이솔레이터 2P"/>
+    <Elem NameU="Switch 3P" Name="스위치 3P"/>
+    <Elem NameU="Isolator 3P" Name="아이솔레이터 3P"/>
+    <Elem NameU="2P change over" Name="2P 스위치"/>
+    <Elem NameU="2 position switch" Name="2위치 스위치"/>
+    <Elem NameU="3 position switch" Name="3위치 스위치"/>
+    <Elem NameU="3 position selector switch" Name="3위치 선택 스위치"/>
+    <Elem NameU="4 position switch" Name="4위치 스위치"/>
+    <Elem NameU="Manual switch" Name="수동 스위치"/>
+    <Elem NameU="Proximity switch" Name="근접 스위치"/>
+    <Elem NameU="Pushbutton make" Name="누름 단추 메이크"/>
+    <Elem NameU="Pushbutton break" Name="누름 단추 회로 차단기"/>
+    <Elem NameU="Pushbutton 2-circuit" Name="누름 단추 2-회로"/>
+    <Elem NameU="Selector switch" Name="선택 스위치"/>
+    <Elem NameU="Shorting selector" Name="단락 선택기"/>
+    <Elem NameU="Proximity limit switch" Name="근접 제한 스위치"/>
+    <Elem NameU="Time delay make" Name="시간 지연 메이크"/>
+    <Elem NameU="Time delay break" Name="시간 지연 회로 차단기"/>
+    <Elem NameU="Time delay make 2" Name="시간 지연 메이크 2"/>
+    <Elem NameU="Time delay break 2" Name="시간 지연 회로 차단기 2"/>
+    <Elem NameU="Safety interlock" Name="안전 연동"/>
+    <Elem NameU="Flow actuate" Name="흐름 작동"/>
+    <Elem NameU="Liquid level actuated" Name="액면 작동"/>
+    <Elem NameU="Liquid level actuated 2" Name="액면 작동 2"/>
+    <Elem NameU="Gas flow actuated" Name="작동되는 가스 흐름"/>
+    <Elem NameU="Pressure actuated" Name="압력 작동"/>
+    <Elem NameU="Thermostat" Name="온도 조절기"/>
+    <Elem NameU="Temperature actuated" Name="온도 작동"/>
+    <Elem NameU="Temperature switch" Name="온도 스위치"/>
+    <Elem NameU="Inertia switch" Name="시간 지연 스위치"/>
+    <Elem NameU="Mercury" Name="수은 스위치"/>
+    <Elem NameU="Mercury switch 2" Name="수은 스위치 2"/>
+    <Elem NameU="Change-Over Contact" Name="전환 접점"/>
+    <Elem NameU="Fuse" Name="퓨즈"/>
+    <Elem NameU="Reed switch" Name="리드 스위치"/>
+    <Elem NameU="Relay contacts" Name="릴레이 접점"/>
+    <Elem NameU="Relay coil" Name="릴레이 코일"/>
+    <Elem NameU="Relay" Name="릴레이"/>
+</Lib>

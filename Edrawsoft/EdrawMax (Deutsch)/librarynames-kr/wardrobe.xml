@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Wardrobe">
+    <Elem NameU="Cabinet Dimension" Name="옷장 사이즈"/>
+    <Elem NameU="Chest" Name="옷장"/>
+    <Elem NameU="Horizontal Board" Name="가로 판"/>
+    <Elem NameU="Vertical Board" Name="수직 판"/>
+    <Elem NameU="Clapboard with Size" Name="판"/>
+    <Elem NameU="Horizontal Clapboard" Name="수평 판"/>
+    <Elem NameU="Vertical Clapboard" Name="수직 판"/>
+    <Elem NameU="Top Box" Name="탑 박스"/>
+    <Elem NameU="Top Box(Right)" Name="탑 박스 (오른쪽)"/>
+    <Elem NameU="Drawer" Name="서랍"/>
+    <Elem NameU="Drawer 2" Name="서랍 2"/>
+    <Elem NameU="Drawer 3" Name="서랍 3"/>
+    <Elem NameU="Drawer 4" Name="서랍 4"/>
+    <Elem NameU="Drawer 5" Name="서랍 5"/>
+    <Elem NameU="Drawer 6" Name="서랍 6"/>
+    <Elem NameU="Drawer 7" Name="서랍 7"/>
+    <Elem NameU="Baskets" Name="바구니"/>
+    <Elem NameU="Suitcase" Name="가방"/>
+    <Elem NameU="Suitcase 2" Name="가방 2"/>
+    <Elem NameU="Lattice" Name="격자"/>
+    <Elem NameU="Clothes Hanger" Name="옷걸이"/>
+    <Elem NameU="Trouser Hanger" Name="바지 걸이"/>
+    <Elem NameU="Suitcase" Name="가방"/>
+    <Elem NameU="Box" Name="박스"/>
+    <Elem NameU="Towel" Name="타워"/>
+    <Elem NameU="Towel 2" Name="타워 2"/>
+    <Elem NameU="Pillow" Name="베개"/>
+    <Elem NameU="Quilt" Name="이불"/>
+    <Elem NameU="Quilt 2" Name="이불 2"/>
+    <Elem NameU="Quilt 3" Name="이불 3"/>
+    <Elem NameU="Hat" Name="모자"/>
+    <Elem NameU="Hanger" Name="나무 옷걸이"/>
+    <Elem NameU="Photo Frame" Name="사진 프레임"/>
+    <Elem NameU="Clothes" Name="옷"/>
+    <Elem NameU="Clothes 2" Name="옷 2"/>
+    <Elem NameU="Jackets" Name="쟈켓"/>
+    <Elem NameU="Suits" Name="슈트"/>
+    <Elem NameU="Overcoat" Name="코트"/>
+    <Elem NameU="Pants" Name="바지"/>
+    <Elem NameU="Hooks" Name="훅"/>
+    <Elem NameU="Closet Framework" Name="옷장 프레임 워크"/>
+    <Elem NameU="Horizontal Clapboard 2" Name="수평 판자 2"/>
+    <Elem NameU="Vertical Clapboard 2" Name="수직 판자 2"/>
+    <Elem NameU="Clothes Hanger 2" Name="옷걸이 2"/>
+    <Elem NameU="Drawer 4" Name="서랍 4"/>
+    <Elem NameU="Drawer 5" Name="서랍 5"/>
+    <Elem NameU="Suitcase 2" Name="가방 2"/>
+    <Elem NameU="Hanger 2" Name="나무 옷걸이 2"/>
+    <Elem NameU="Towel 3" Name="타워 3"/>
+    <Elem NameU="Towel 4" Name="타워 4"/>
+    <Elem NameU="Towel 5" Name="타워 5"/>
+    <Elem NameU="Quilt 2" Name="이불 2"/>
+    <Elem NameU="Pillow 2" Name="베개 2"/>
+    <Elem NameU="Hat 2" Name="모자 2"/>
+    <Elem NameU="Blue Dress" Name="파란 드레스"/>
+    <Elem NameU="Red Dress" Name="빨간 드레스"/>
+    <Elem NameU="T-Shirt" Name="T셔츠"/>
+    <Elem NameU="Shirt" Name="셔츠"/>
+    <Elem NameU="Toy" Name="장난감"/>
+    <Elem NameU="Photo Frame 2" Name="사진 프레임 2"/>
+    <Elem NameU="Cabinet light" Name="캐비닛 라이트"/>
+    <Elem NameU="Droplight" Name="천장등"/>
+    <Elem NameU="Ceiling light" Name="천장등"/>
+    <Elem NameU="Desk lamp" Name="데스크 램프"/>
+</Lib>

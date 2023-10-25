@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Equipment-Pumps">
+	<Elem NameU="Compressor" Name="Compressore"/>
+	<Elem NameU="Reciprocating compressor" Name="Compressore reciproco"/>
+	<Elem NameU="Reciprocating compressor 2" Name="Compressore reciproco 2"/>
+	<Elem NameU="Compressor silencers" Name="Silenziatori compressore"/>
+	<Elem NameU="Centrifugal" Name="Centrifugale"/>
+	<Elem NameU="Rotary compressor" Name="Compressore rotativo"/>
+	<Elem NameU="Rotary compressor 2" Name="Compressore rotativo 2"/>
+	<Elem NameU="Rotory compressor and silencers" Name="Compressore rotativo e silenziatori"/>
+	<Elem NameU="Liquid ring compressor" Name="Compressore ad anello liquido"/>
+	<Elem NameU="Centrifugal compressor" Name="Compressore centrifugale"/>
+	<Elem NameU="Centrifugal compressor 2" Name="Compressore centrifugale 2"/>
+	<Elem NameU="Centrifugal compressor 3" Name="Compressore centrifugale 3"/>
+	<Elem NameU="Centrifugal blower" Name="Soffiatore centrifugale"/>
+	<Elem NameU="Selectable compressor" Name="Compressore selezionabile"/>
+	<Elem NameU="Axial compressor" Name="Compressore assiale"/>
+	<Elem NameU="Pump" Name="Pompa"/>
+	<Elem NameU="Centrifugal pump" Name="Pompa centrifugale"/>
+	<Elem NameU="Centrifugal pump 2" Name="Pompa centrifugale 2"/>
+	<Elem NameU="Centrifugal pump 3" Name="Pompa centrifugale 3"/>
+	<Elem NameU="Centrifugal pump 4" Name="Pompa centrifugale 4"/>
+	<Elem NameU="Gas blower" Name="Soffiatore di gas"/>
+	<Elem NameU="Vertical pump" Name="Pompa verticale"/>
+	<Elem NameU="Liquid ring vacuum pump" Name="Pompa a vuoto ad anello liquido"/>
+	<Elem NameU="Positive displacement pump" Name="Pompa a dislocamento diretto"/>
+	<Elem NameU="Horizontal pump" Name="Pompa orizzontale"/>
+	<Elem NameU="Sump pump" Name="Pompa con carter"/>
+	<Elem NameU="Positive displacement pump 2" Name="Pompa a dislocamento diretto 2"/>
+	<Elem NameU="Rotary pump" Name="Pompa rotativa"/>
+	<Elem NameU="Rotary gear pump" Name="Pompa rotativa a ingranaggi"/>
+	<Elem NameU="Peristaltic pump" Name="Pompa peristaltica"/>
+	<Elem NameU="Gear pump" Name="Pompa a ingranaggi"/>
+	<Elem NameU="Proportioning pump" Name="Pompa proporzionale"/>
+	<Elem NameU="Vacuum pump" Name="Pompa a vuoto"/>
+	<Elem NameU="Screw pump" Name="Pompa a vite"/>
+	<Elem NameU="Screw pump 2" Name="Pompa a vite 2"/>
+	<Elem NameU="Cavity pump" Name="Pompa a cavità"/>
+	<Elem NameU="Submersible pump" Name="Pompa sommergibile"/>
+	<Elem NameU="Reciprocating pump" Name="Pompa reciproca"/>
+	<Elem NameU="Turbine pump" Name="Pompa a turbina"/>
+	<Elem NameU="Pump 2" Name="Pompa 2"/>
+	<Elem NameU="Fan" Name="Ventola"/>
+	<Elem NameU="Selectable fan" Name="Ventola selezionabile"/>
+	<Elem NameU="Fan blades" Name="Pale della ventola"/>
+	<Elem NameU="Fan blades 2" Name="Pale della ventola 2"/>
+	<Elem NameU="Triple fan blades" Name="Ventola a tripla pala"/>
+	<Elem NameU="Axial flow fan" Name="Ventola a flusso assiale"/>
+	<Elem NameU="Turbine driver" Name="Ventola a Turbina"/>
+	<Elem NameU="Doubleflow turbine" Name="Turbina a doppio flusso"/>
+	<Elem NameU="Motor driven turbine" Name="Turbina a motore"/>
+	<Elem NameU="Ejector" Name="Eiettore"/>
+	<Elem NameU="Spray" Name="Nebulizzatore"/>
+	<Elem NameU="Motor" Name="Motore"/>
+	<Elem NameU="Diesel motor" Name="Motore diesel"/>
+	<Elem NameU="ISO Liquid pump" Name="Pompa liquida ISO"/>
+	<Elem NameU="ISO centrifugal pump" Name="Pompa centrifugale ISO"/>
+	<Elem NameU="ISO diaphragm pump" Name="Pompa a diaframma ISO"/>
+	<Elem NameU="ISO gear pump" Name="Pompa a ingranaggi ISO"/>
+	<Elem NameU="ISO Progressive pump" Name="Pompa progressiva ISO"/>
+	<Elem NameU="ISO positive displacement pump" Name="Pompa a dislocamento diretto ISO"/>
+	<Elem NameU="ISO reciprocating piston pump" Name="Pompa reciproca a pistoni ISO"/>
+	<Elem NameU="ISO screw pump" Name="Pompa a viti ISO"/>
+</Lib>

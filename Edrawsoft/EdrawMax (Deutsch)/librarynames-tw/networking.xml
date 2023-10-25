@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Networking">
+    <Elem NameU="API gateway" Name="API網關"/>
+    <Elem NameU="CDN" Name="CDN"/>
+    <Elem NameU="Cloud enterprise network" Name="雲企業網"/>
+    <Elem NameU="DCDN" Name="動態CDN"/>
+    <Elem NameU="Edge node service" Name="邊緣節點服務"/>
+    <Elem NameU="Elastic IP" Name="彈性公網IP"/>
+    <Elem NameU="Express connect" Name="高速通道"/>
+    <Elem NameU="Flowbag" Name="共享流量包"/>
+    <Elem NameU="Global accelaration" Name="全球加速"/>
+    <Elem NameU="IPV6 gateway" Name="IPV6網關"/>
+    <Elem NameU="NAT gateway" Name="NAT網關"/>
+    <Elem NameU="PCDN" Name="PCDN"/>
+    <Elem NameU="SCDN" Name="安全加速"/>
+    <Elem NameU="Smart access gateway" Name="智能接入網關"/>
+    <Elem NameU="VPN" Name="VPN網關"/>
+</Lib>

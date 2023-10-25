@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Resistors and Capacitors">
+    <Elem NameU="Resistor" Name="저항"/>
+    <Elem NameU="Alternate resistor" Name="대체 저항기"/>
+    <Elem NameU="Variable resistor" Name="가변 저항기"/>
+    <Elem NameU="Pre-set resistor" Name="미리 설정된 저항"/>
+    <Elem NameU="Potentiometer resistor" Name="전위차계 저항기"/>
+    <Elem NameU="Potentiometer (Trimmer)" Name="전위차계 (트리머)"/>
+    <Elem NameU="Potentiometer (Trimmer) 2" Name="전위차계 (트리머)2"/>
+    <Elem NameU="Resistor (Adjustable contact)" Name="저항기 (접점 조정 가능)"/>
+    <Elem NameU="Resistor (Shunt)" Name="저항기 (분로)"/>
+    <Elem NameU="Varistor (Symmetrical)" Name="배리스터 (대칭)"/>
+    <Elem NameU="Resistor (Nonlinear)" Name="저항기 (비선형)"/>
+    <Elem NameU="Resistor (Tapped)" Name="저항기 (탭)"/>
+    <Elem NameU="Memristor" Name="메모 저항기"/>
+    <Elem NameU="Memristor 2" Name="메모 저항기 2"/>
+    <Elem NameU="Magnetoresistor" Name="자석 저항기"/>
+    <Elem NameU="Photoconductive transducer" Name="광전도 변환기"/>
+    <Elem NameU="Capacitors" Name="콘덴서"/>
+    <Elem NameU="Capacitors 2" Name="콘덴서 2"/>
+    <Elem NameU="Capacitor 3" Name="콘덴서 3"/>
+    <Elem NameU="Capacitor with step" Name="단계 콘덴서"/>
+    <Elem NameU="Capacitor with tapping" Name="탭핑 기능이 있는 콘덴서"/>
+    <Elem NameU="Capacitor (US)" Name="콘덴서（미국）"/>
+    <Elem NameU="Electrolytic capacitor (US)" Name="전해 콘덴서（미국）"/>
+    <Elem NameU="Capacitor (UK)" Name="콘덴서（영국）"/>
+    <Elem NameU="Differential capacitor" Name="차동 콘덴서"/>
+    <Elem NameU="Tuning variable capacitor (US)" Number="2" Name="가변 튜닝 콘덴서（미국）"/>
+    <Elem NameU="Trimmer variable capacitor (US)" Name="가변 콘덴서（미국）"/>
+    <Elem NameU="Trimmer variable capacitor(US)" Name="가변 콘덴서（미국）"/>
+    <Elem NameU="Feed through capacitor" Name="콘덴서"/>
+    <Elem NameU="Ganged capacitor" Name="Ganged 콘덴서"/>
+    <Elem NameU="Multiple capacitor" Name="다중 콘덴서"/>
+    <Elem NameU="Multiple electrolytic capacitor (Common negative)" Name="다중 전해 콘덴서（음극）"/>
+    <Elem NameU="Multiple electrolytic capacitor (Common positive)" Name="다중 전해 콘덴서（양극）"/>
+</Lib>

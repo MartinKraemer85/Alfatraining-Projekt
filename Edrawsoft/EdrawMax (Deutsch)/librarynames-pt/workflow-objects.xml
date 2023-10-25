@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Workflow Objects">
+	<Elem NameU="Archives" Name="Arquivos"/>
+	<Elem NameU="Box" Name="Caixa"/>
+	<Elem NameU="Cloud Account" Name="Conta Cloud"/>
+	<Elem NameU="Competitor" Name="Concorrência"/>
+	<Elem NameU="Computer" Name="Computador"/>
+	<Elem NameU="Crate" Name="Grade"/>
+	<Elem NameU="CD" Name="CD"/>
+	<Elem NameU="Document" Name="Documento"/>
+	<Elem NameU="Documents" Name="Documentos"/>
+	<Elem NameU="Document Collection" Name="Coleção de Documentos"/>
+	<Elem NameU="Customer" Name="Cliente"/>
+	<Elem NameU="Email" Name="Email"/>
+	<Elem NameU="Floppy Disk" Name="Disquete"/>
+	<Elem NameU="Folder Closed" Name="Pasta Fechada"/>
+	<Elem NameU="Folder Locked" Name="Pasta Bloqueada"/>
+	<Elem NameU="Folder Opened" Name="Pasta Aberta"/>
+	<Elem NameU="Invoice" Name="Fatura"/>
+	<Elem NameU="Invoice 2" Name="Fatura 2"/>
+	<Elem NameU="Issue" Name="Problema"/>
+	<Elem NameU="Mail" Name="Correio"/>
+	<Elem NameU="Mobile HD" Name="Móvel HD"/>
+	<Elem NameU="Pad" Name="Pad"/>
+	<Elem NameU="Person Torso" Name="Torso de Pessoa"/>
+	<Elem NameU="Person" Name="Pessoa"/>
+	<Elem NameU="Person 2" Name="Pessoa 2"/>
+	<Elem NameU="Phone" name=""/>
+	<Elem NameU="Presentation File" Name="Ficheiro de Apresentação"/>
+	<Elem NameU="Presentation File 2" Name="Ficheiro de Apresentação 2"/>
+	<Elem NameU="Product" Name="Produto"/>
+	<Elem NameU="Spreadsheet" Name="Planilha"/>
+	<Elem NameU="Spreadsheet 2" Name="Planilha 2"/>
+	<Elem NameU="U Disk" Name="Disco U"/>
+	<Elem NameU="Upload" Name="Carregar"/>
+	<Elem NameU="Upload to Cloud" Name="Carregar para a Cloud"/>
+	<Elem NameU="User" Name="Usuário"/>
+	<Elem NameU="Webpage" Name="Página Web"/>
+</Lib>

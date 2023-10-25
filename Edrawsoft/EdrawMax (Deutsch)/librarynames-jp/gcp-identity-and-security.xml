@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="GCP Identity and Security">
+
+<Elem Name="BeyondCorp" NameU="BeyondCorp"/>
+
+<Elem Name="Cloud IAM" NameU="Cloud IAM"/>
+
+<Elem Name="クラウドセキュリティスキャン" NameU="Cloud security scan"/>
+
+<Elem Name="データ紛失防止API" NameU="Data loss protection API"/>
+
+<Elem Name="アイデンティティ認識機関" NameU="Identity perception agency"/>
+
+<Elem Name="主な管理業務" NameU="Main management task"/>
+
+<Elem Name="安全キーの実行" NameU="Safety key execution"/>
+
+</Lib>

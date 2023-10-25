@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Mark">
+    <Elem NameU="Star" Number="4" Name="별점"/>
+    <Elem NameU="Grade" Name="점수"/>
+    <Elem NameU="Expression" Number="3" Name="표정 점수"/>
+    <Elem NameU="Grade" Number="3" Name="표정 점수"/>
+    <Elem NameU="Yes and No" Number="9" Name="예 또는 아니요"/>
+    <Elem NameU="Lock" Number="2" Name="잠금 또는 잠금 해제"/>
+    <Elem NameU="Arrow" Number="4" Name="화살표"/>
+    <Elem NameU="Thumb" Number="6" Name="좋아요 또는 싫어요"/>
+    <Elem NameU="Question Mark" Number="2" Name="물음표"/>
+    <Elem NameU="Gender" Number="3" Name="성별"/>
+    <Elem NameU="State" Name="상태-변환 가능"/>
+    <Elem NameU="Numbering" Name="숫자"/>
+    <Elem NameU="Progress" Name="진행률"/>
+    <Elem NameU="Flag" Name="플래그"/>
+    <Elem NameU="Alert" Name="경고"/>
+    <Elem NameU="Progress" Number="8" Name="진행률"/>
+    <Elem NameU="Gradient Bar" Name="진행 상태"/>
+    <Elem NameU="Hori-Gradient Circle" Name="진행 상태"/>
+    <Elem NameU="Hori-Gradient Diamond" Name="진행 상태"/>
+    <Elem NameU="Gradient Column" Name="진행 상태"/>
+    <Elem NameU="Gradient Circles" Name="진행 상태"/>
+    <Elem NameU="Gradient Diamond" Name="진행 상태"/>
+</Lib>

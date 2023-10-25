@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Equipment-Pumps">
+    <Elem NameU="Compressor" Name="압축기"/>
+    <Elem NameU="Reciprocating compressor" Name="왕복식 압축기"/>
+    <Elem NameU="Reciprocating compressor 2" Name="왕복식 압축기2"/>
+    <Elem NameU="Compressor silencers" Name="압축기 소음기"/>
+    <Elem NameU="Centrifugal" Name="원심력 "/>
+    <Elem NameU="Rotary compressor" Name="회전식 압축기"/>
+    <Elem NameU="Rotary compressor 2" Name="회전 압축기2"/>
+    <Elem NameU="Rotory compressor and silencers" Name="압축기와 소음기"/>
+    <Elem NameU="Liquid ring compressor" Name="액체 링 압축기"/>
+    <Elem NameU="Centrifugal compressor" Name="원심력 압축기"/>
+    <Elem NameU="Centrifugal compressor 2" Name="원심력 압축기2"/>
+    <Elem NameU="Centrifugal compressor 3" Name="원심력 압축기3"/>
+    <Elem NameU="Centrifugal blower" Name="원심력 송풍기"/>
+    <Elem NameU="Selectable compressor" Name="선택가능한 압축기"/>
+    <Elem NameU="Axial compressor" Name="축 압축기"/>
+    <Elem NameU="Pump" Name="펌프"/>
+    <Elem NameU="Centrifugal pump" Name="원심력 펌프"/>
+    <Elem NameU="Centrifugal pump 2" Name="원심력 펌프 2"/>
+    <Elem NameU="Centrifugal pump 3" Name="원심력 펌프 3"/>
+    <Elem NameU="Centrifugal pump 4" Name="원심력 펌프 4"/>
+    <Elem NameU="Gas blower" Name="가스 송풍기"/>
+    <Elem NameU="Vertical pump" Name="세로 펌프"/>
+    <Elem NameU="Liquid ring vacuum pump" Name="액체 링 진공 펌프"/>
+    <Elem NameU="Positive displacement pump" Name="양변위 펌프"/>
+    <Elem NameU="Horizontal pump" Name="가로 펌프"/>
+    <Elem NameU="Vertical pump" Name="세로 펌프"/>
+    <Elem NameU="Sump pump" Name="오수 펌프"/>
+    <Elem NameU="Positive displacement pump 2" Name="양변위 펌프2"/>
+    <Elem NameU="Rotary pump" Name="회전 펌프"/>
+    <Elem NameU="Rotary gear pump" Name="회전 기어 펌프"/>
+    <Elem NameU="Peristaltic pump" Name="연동 펌프"/>
+    <Elem NameU="Gear pump" Name="기어 펌프"/>
+    <Elem NameU="Proportioning pump" Name="비례 펌프"/>
+    <Elem NameU="Vacuum pump" Name="진공 펌프"/>
+    <Elem NameU="Screw pump" Name="나사 펌프"/>
+    <Elem NameU="Screw pump 2" Name="나사 펌프2"/>
+    <Elem NameU="Cavity pump" Name="구멍 펌프"/>
+    <Elem NameU="Submersible pump" Name="잠수 펌프"/>
+    <Elem NameU="Reciprocating pump" Number="2" Name="왕복 펌프"/>
+    <Elem NameU="Positive displacement pump" Name="양변위 펌프"/>
+    <Elem NameU="Turbine pump" Name="터빈 펌프"/>
+    <Elem NameU="Pump 2" Name="펌프2"/>
+    <Elem NameU="Fan" Name="팬"/>
+    <Elem NameU="Selectable fan" Name="선택가능한 팬"/>
+    <Elem NameU="Fan blades" Name="팬 블레이드"/>
+    <Elem NameU="Fan blades 2" Name="팬 블레이드2"/>
+    <Elem NameU="Triple fan blades" Name="트리플 팬 블레이드"/>
+    <Elem NameU="Axial flow fan" Name="축 흐름 팬"/>
+    <Elem NameU="Turbine driver" Name="터빈 드라이버"/>
+    <Elem NameU="Doubleflow turbine" Name="이중 흐름 터빈"/>
+    <Elem NameU="Motor driven turbine" Name="모터 구동 터빈"/>
+    <Elem NameU="Ejector" Name="배출 장치"/>
+    <Elem NameU="Spray" Name="스프레이"/>
+    <Elem NameU="Motor" Name="모터"/>
+    <Elem NameU="Diesel motor" Name="디젤 모터"/>
+    <Elem NameU="ISO Liquid pump" Name="ISO 액체 펌프"/>
+    <Elem NameU="ISO centrifugal pump" Name="ISO 원심력 펌프"/>
+    <Elem NameU="ISO diaphragm pump" Name="ISO 펌프"/>
+    <Elem NameU="ISO gear pump" Name="ISO 다이어프램 펌프"/>
+    <Elem NameU="ISO Progressive pump" Name="ISO 나사 펌프"/>
+    <Elem NameU="ISO positive displacement pump" Name="ISO 양변위 펌프"/>
+    <Elem NameU="ISO reciprocating piston pump" Name="ISO 왕복 피스톤 펌프"/>
+    <Elem NameU="ISO screw pump" Name="ISO 나사 펌프"/>
+</Lib>

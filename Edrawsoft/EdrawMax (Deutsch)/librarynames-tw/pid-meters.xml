@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Meters">
+    <Elem NameU="Meter 1" Name="儀表 1"/>
+    <Elem NameU="Meter 2" Name="儀表 2"/>
+    <Elem NameU="Meter 3" Name="儀表 3"/>
+    <Elem NameU="Meter 4" Name="儀表 4"/>
+    <Elem NameU="Meter 5" Name="儀表 5"/>
+    <Elem NameU="Meter 6" Name="儀表 6"/>
+    <Elem NameU="Meter 7" Name="儀表 7"/>
+    <Elem NameU="Meter 8" Name="儀表 8"/>
+    <Elem NameU="Meter 9" Name="儀表 9"/>
+    <Elem NameU="Meter 10" Name="儀表 10"/>
+    <Elem NameU="Meter 11" Name="儀表 11"/>
+    <Elem NameU="Meter 12" Name="儀表 12"/>
+</Lib>

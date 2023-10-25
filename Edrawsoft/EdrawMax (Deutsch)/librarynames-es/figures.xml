@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Figures">
+	<Elem NameU="Lying Position 1" Name="Posición tumbada 1"/>
+	<Elem NameU="Lying Position 2" Name="Posición tumbada 2"/>
+	<Elem NameU="Lying Position 3" Name="Posición tumbada 3"/>
+	<Elem NameU="Lying Position 4" Name="Posición tumbada 4"/>
+	<Elem NameU="Lying Position 5" Name="Posición tumbada 5"/>
+	<Elem NameU="Lying Position 6" Name="Posición tumbada 6"/>
+	<Elem NameU="Side Lying Position 1" Name="Posición tumbada de lado 1"/>
+	<Elem NameU="Side Lying Position 2" Name="Posición tumbada de lado 2"/>
+	<Elem NameU="Side Lying Position 3" Name="Posición tumbada de lado 3"/>
+	<Elem NameU="Front Standing (Male)" Name="De pie de frente (hombre)"/>
+	<Elem NameU="Side Standing (Male)" Name="De pie de perfil (hombre)"/>
+	<Elem NameU="Front Standing (Female)" Name="De pie de frente (mujer)"/>
+	<Elem NameU="Side Standing (Female)" Name="De pie de perfil (mujer)"/>
+	<Elem NameU="Prone Position 1" Name="Decúbito prono 1"/>
+	<Elem NameU="Prone Position 2" Name="Decúbito prono 2"/>
+	<Elem NameU="Prone Position 3" Name="Decúbito prono 3"/>
+	<Elem NameU="Hanged Figure" Name="Figura ahorcada"/>
+	<Elem NameU="Sitting 1" Name="Posición sentada 1"/>
+	<Elem NameU="Sitting 2" Name="Posición sentada 2"/>
+	<Elem NameU="Sitting 3" Name="Posición sentada 3"/>
+	<Elem NameU="Bound Figure" Name="Figura atada"/>
+	<Elem NameU="Runaway Figure 1" Name="Figura fugitiva 1"/>
+	<Elem NameU="Runaway Figure 2" Name="Figura fugitiva 2"/>
+	<Elem NameU="Runaway Figure 3" Name="Figura fugitiva 3"/>
+</Lib>

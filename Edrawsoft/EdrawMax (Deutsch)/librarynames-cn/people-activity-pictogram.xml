@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="People Activity Pictogram">
+    <Elem NameU="Cross the Road" Name="过马路"/>
+    <Elem NameU="Mom &amp; Son" Name="母子俩"/>
+    <Elem NameU="Ride Horse" Name="骑马"/>
+    <Elem NameU="Father &amp; Kid" Name="父子俩"/>
+    <Elem NameU="Mom &amp; Daughter" Name="母女俩"/>
+    <Elem NameU="Walking" Name="走路"/>
+    <Elem NameU="Carriage" Name="马车"/>
+    <Elem NameU="Woman" Name="女人"/>
+    <Elem NameU="Man" Name="男人"/>
+    <Elem NameU="Child" Name="儿童"/>
+    <Elem NameU="Couple" Name="夫妇"/>
+    <Elem NameU="Family" Name="一家人"/>
+    <Elem NameU="Worker Digging Sand" Name="工人挖沙"/>
+    <Elem NameU="Shopping" Name="购物"/>
+    <Elem NameU="Old Man" Name="老人"/>
+    <Elem NameU="Go up Stairs" Name="上楼"/>
+    <Elem NameU="Throwing Rubbish" Name="扔垃圾"/>
+    <Elem NameU="Riding Bicycle" Name="骑单车"/>
+    <Elem NameU="Running" Name="跑步"/>
+    <Elem NameU="Champion" Name="冠军"/>
+    <Elem NameU="Photographer" Name="摄影师"/>
+    <Elem NameU="Mail Man" Name="邮递员"/>
+    <Elem NameU="Man with Umbrella" Name="举伞的人"/>
+    <Elem NameU="Making a Phone Call" Name="打电话"/>
+    <Elem NameU="Answering Phone" Name="接电话"/>
+    <Elem NameU="Listening Music" Name="听音乐"/>
+    <Elem NameU="Watering Flowers" Name="浇花"/>
+    <Elem NameU="Reading" Name="读书"/>
+    <Elem NameU="Teaching" Name="教书"/>
+    <Elem NameU="Playing Basketball" Name="打篮球"/>
+    <Elem NameU="People with a Loudspeaker" Name="举着喇叭的人"/>
+    <Elem NameU="Woman with a Hat" Name="戴帽子的女人"/>
+    <Elem NameU="Walking the Dog" Name="遛狗的人"/>
+    <Elem NameU="Having a Date" Name="约会"/>
+    <Elem NameU="Making a Proposal" Name="提出建议"/>
+    <Elem NameU="Thinking" Name="思考"/>
+    <Elem NameU="Working" Name="工作"/>
+    <Elem NameU="Writing" Name="写作"/>
+    <Elem NameU="Wheelchair" Name="坐轮椅"/>
+    <Elem NameU="Illness" Name="生病"/>
+</Lib>

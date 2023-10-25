@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="AWS On-Demand Workforce">
+    <Elem NameU="Turk assignment task" Name="Turk任務分配"/>
+    <Elem NameU="Turk Human Intelligence Tasks" Name="Turk人工智能任務"/>
+    <Elem NameU="Turk Requester" Name="Turk請求者"/>
+    <Elem NameU="Turk Workers" Name="Turk工作者"/>
+    <Elem NameU="Turk" Name="Turk"/>
+</Lib>

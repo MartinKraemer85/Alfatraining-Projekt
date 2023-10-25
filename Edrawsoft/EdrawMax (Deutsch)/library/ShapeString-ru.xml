@@ -1,0 +1,1382 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ShapeStrings Version="8.0">
+    <String NameU="(+)" Name="(+)"/>
+    <String NameU="(-)" Name="(-)"/>
+    <String NameU="(x)" Name="(x)"/>
+    <String NameU="+" Name="+"/>
+    <String NameU="-" Name="-"/>
+    <String NameU="-10" Name="-10"/>
+    <String NameU="-20" Name="-20"/>
+    <String NameU="-30" Name="-30"/>
+    <String NameU="0" Name="0"/>
+    <String NameU="0 deg." Name="0 deg."/>
+    <String NameU="0%" Name="0%"/>
+    <String NameU="0.0" Name="0.0"/>
+    <String NameU="0.00" Name="0.00"/>
+    <String NameU="0.000" Name="0.000"/>
+    <String NameU="0.000&quot;" Name="0.000&quot;"/>
+    <String NameU="0.2" Name="0.2"/>
+    <String NameU="0.25" Name="0.25"/>
+    <String NameU="0.3333" Name="0.3333"/>
+    <String NameU="0.5" Name="0.5"/>
+    <String NameU="0.57735026918963" Name="0.57735026918963"/>
+    <String NameU="00" Name="00"/>
+    <String NameU="1" Name="1"/>
+    <String NameU="1 Line Inout" Name="ввод - вывод"/>
+    <String NameU="1-phase" Name="1-phase"/>
+    <String NameU="1.7320508075689" Name="1.7320508075689"/>
+    <String NameU="10" Name="10"/>
+    <String NameU="100%" Name="100%"/>
+    <String NameU="12 px" Name="12 px"/>
+    <String NameU="120 deg." Name="120 градусов"/>
+    <String NameU="135 deg." Name="135 градусов"/>
+    <String NameU="16 px" Name="16 px"/>
+    <String NameU="1:1" Name="1:1"/>
+    <String NameU="1:2" Name="1:2"/>
+    <String NameU="1:3" Name="1:3"/>
+    <String NameU="1:4" Name="1:4"/>
+    <String NameU="1:5" Name="1:5"/>
+    <String NameU="1st extension only" Name="только первое расширение"/>
+    <String NameU="2" Name="2"/>
+    <String NameU="2 Electrodes" Name="2 электроды"/>
+    <String NameU="2 Line Input" Name=" 2 линейных входа"/>
+    <String NameU="2-phase" Name="2-фазные"/>
+    <String NameU="20" Name="20"/>
+    <String NameU="240 deg." Name="240 градусов"/>
+    <String NameU="25%" Name="25%"/>
+    <String NameU="2:1" Name="2:1"/>
+    <String NameU="2nd extension only" Name="только второе расширение"/>
+    <String NameU="3" Name="3"/>
+    <String NameU="3 Electrodes" Name="3 Электроды"/>
+    <String NameU="3 State Data" Name="3 Данные о состоянии"/>
+    <String NameU="3-phase Delta" Name="3-фаза Дельта"/>
+    <String NameU="3-phase Star Type" Name="3-фазная звезда"/>
+    <String NameU="3-phase Wye" Name="3-фазный Wye"/>
+    <String NameU="30" Name="30"/>
+    <String NameU="30°" Name="30°"/>
+    <String NameU="3:1" Name="3:1"/>
+    <String NameU="4" Name="4"/>
+    <String NameU="4 Electrodes" Name="4 Электроды"/>
+    <String NameU="4 px" Name="4 пикселя"/>
+    <String NameU="45 deg." Name="45 градуса"/>
+    <String NameU="45°" Name="45°"/>
+    <String NameU="4:1" Name="4:1"/>
+    <String NameU="5" Name="5"/>
+    <String NameU="50%" Name="50%"/>
+    <String NameU="5:1" Name="5:1"/>
+    <String NameU="6" Name="6"/>
+    <String NameU="6-phase Diametrical" Name="6-фазный Диаметральный"/>
+    <String NameU="6-phase Double-delta" Name="6相双Delta"/>
+    <String NameU="60°" Name="60°"/>
+    <String NameU="75%" Name="75%"/>
+    <String NameU="8" Name="8"/>
+    <String NameU="8 px" Name="8 px"/>
+    <String NameU="90 deg." Name="90градусов"/>
+    <String NameU="A.C." Name="A.C."/>
+    <String NameU="AC" Name="AC"/>
+    <String NameU="AND" Name="AND"/>
+    <String NameU="Active" Name="Активный"/>
+    <String NameU="Add 1 U" Name="Добавьть 1 U"/>
+    <String NameU="Add Microphone" Name="Добавить микрофон"/>
+    <String NameU="Add a Board" Name="Добавить доску"/>
+    <String NameU="Add a Box" Name="Добавьть окно"/>
+    <String NameU="Add a Category" Name="Добавить категорию"/>
+    <String NameU="Add a Chair" Name="Добавить стул"/>
+    <String NameU="Add a Circle" Name="Добавить круг"/>
+    <String NameU="Add a Column" Name="Добавить колонку"/>
+    <String NameU="Add a Level" Name="Добавить уровень"/>
+    <String NameU="Add a Pie" Name="Добавить пирог"/>
+    <String NameU="Add a Point" Name="Добавить точку"/>
+    <String NameU="Add a Ring" Name="Добавить кольцо "/>
+    <String NameU="Add a Row" Name="Добавить строки"/>
+    <String NameU="Add a Segment" Name="Добавить сегмент"/>
+    <String NameU="Add a Step" Name="Добавить шаг"/>
+    <String NameU="Add an Arrow" Name="Добавить Стрелку"/>
+    <String NameU="Add an Item" Name="Добавить элемент"/>
+    <String NameU="Additional Measuring Freq - On Request" Name="Дополнительные измерения частоты - по запросу"/>
+    <String NameU="Additional Measuring Frequency" Name="Дополнительные измерения частоты"/>
+	<String NameU="Ad-Hoc" Name="Ad-Hoc"/>
+    <String NameU="Adjustability" Name="Регулируемый"/>
+    <String NameU="Adjustable" Name="Регулируемый"/>
+    <String NameU="Air" Name="Воздух"/>
+    <String NameU="Air-core" Name="Полый сердечник"/>
+    <String NameU="Alarm Fuse" Name="Предохранитель сигнализации"/>
+	<String NameU="Alert 1" Name="настороженный 1"/>
+	<String NameU="Alert 2" Name="настороженный 2"/>
+	<String NameU="Alert 3" Name="настороженный 3"/>
+	<String NameU="Alert 4" Name="настороженный 4"/> 	
+    <String NameU="All" Name="Все"/>
+    <String NameU="Alternating" Name="переменный"/>
+    <String NameU="Alternating-Current" Name="переменный ток"/>
+    <String NameU="Alternative" Name="Альтернативный"/>
+    <String NameU="Alternative Form" Name="Альтернативная форма"/>
+    <String NameU="Alternative Symbol" Name="Альтернативный символ"/>
+    <String NameU="Ammeter" Name="Амперметр"/>
+    <String NameU="Amplified Phone" Name="Усиленный Телефон"/>
+    <String NameU="Amplifier Type" Name="Тип усилителя"/>
+    <String NameU="Analog to Digital" Name="Аналоговый на цифровой"/>
+    <String NameU="Angle" Name="Угол"/>
+    <String NameU="Angle 2" Name="Угол 2"/>
+    <String NameU="Angled" Name="Угловой"/>
+    <String NameU="Angled Text" Name="Угловой Текст"/>
+    <String NameU="Appearance Options" Name="Параметры внешнего вида"/>
+    <String NameU="Arc-type Display" Name="Дугообразный дисплей"/>
+    <String NameU="Arrow" Name="Стрелка"/>
+	<String NameU="Arrow 1" Name="Стрелка 1"/>
+	<String NameU="Arrow 2" Name="Стрелка 2"/>
+	<String NameU="Arrow 3" Name="Стрелка 3"/>
+	<String NameU="Arrow 4" Name="Стрелка 4"/>
+    <String NameU="Arrow Number" Name="Число стрелки"/>
+    <String NameU="Arrow Size" Name="Размер стрелки"/>
+    <String NameU="Arrow Style" Name="Стиль стрелки"/>
+    <String NameU="Artificial" Name="Искусственный"/>
+    <String NameU="Attribute" Name="Атрибут"/>
+    <String NameU="Auto Degree Measurement" Name="Автоматическое измерение углов"/>
+    <String NameU="Auto Length Measurement" Name="Автоматическое измерение длины"/>
+    <String NameU="Auto Size Measurement" Name="Автоматическое измерение размера"/>
+	<String NameU="Average" Name="средний"/>
+    <String NameU="Axial" Name="Осевой"/>
+    <String NameU="Axis Horizontal Grid" Name="Горизонтальная Ось Сетки"/>
+    <String NameU="Axis Label Orientation" Name="Ориентация Осей Этикетки"/>
+    <String NameU="Axis Number" Name="Количество осей"/>
+    <String NameU="Axis Tick Number" Name="Счет шкалы Ось"/>
+    <String NameU="Axis Vertical Grid" Name="Вертикальная Ось Сетки"/>
+	<String NameU="Bad" Name="плохой"/>
+    <String NameU="Balancing Network" Name="Балансировка нагрузки сети"/>
+    <String NameU="Ball" Name="Мяч"/>
+    <String NameU="Band of Mixed Channels" Name="Полоса Смешанных Каналов"/>
+    <String NameU="Band-pass Filter" Name="Полосовой фильтр"/>
+    <String NameU="Band-stop Filter" Name="Режекторный фильтр"/>
+    <String NameU="Base" Name="База"/>
+    <String NameU="Begin Only" Name="Только начало"/>
+    <String NameU="Behind Control Panel" Name="Сзади панели управления"/>
+    <String NameU="Behind a Local Control Panel" Name="За Панелем местного управления"/>
+    <String NameU="Bell Type" Name="Тип звонка"/>
+    <String NameU="Binary" Name="Двоичный"/>
+    <String NameU="Blade" Name="Лопасть"/>
+    <String NameU="Blue" Name="Синий"/>
+    <String NameU="Boolean" Name="Boolean"/>
+	<String NameU="Boundary - Call" Name="граница-вызов"/>
+	<String NameU="Boundary - Default" Name="граница - нарушение договора"/>
+	<String NameU="Boundary - Event" Name="граница - событие"/>
+	<String NameU="Boundary - Transaction" Name="граница - сделка"/>
+    <String NameU="Both" Name="Оба"/>
+    <String NameU="Both Arrow" Name="Обе стрелки"/>
+    <String NameU="Both Windings" Name="Оба Обмотки"/>
+    <String NameU="Both-way Amplification" Name="двустороннее увеличие"/>
+    <String NameU="Bottom" Name="Дно"/>
+    <String NameU="Bottom Hook" Name="Нижний крюк"/>
+    <String NameU="Bottom Left" Name="внизу слева"/>
+    <String NameU="Bottom Right" Name="внизу справа"/>
+    <String NameU="Brand" Name="Бренд"/>
+    <String NameU="Break Contact" Name="Размыкающий контакт"/>
+    <String NameU="Breviary" Name="Конспект"/>
+    <String NameU="Bridge" Name="Мост"/>
+    <String NameU="Briquetting Machine Type" Name="Тип Брикетирования"/>
+    <String NameU="Bubble Max Size" Name="Максимальный размер пузыри"/>
+    <String NameU="Bubble Min Size" Name="Минимум размер пузыри"/>
+	<String NameU="Call" Name="вызов"/>
+    <String NameU="Can" Name="Банка консервов"/>
+    <String NameU="Cancel" Name="Отмена"/>
+    <String NameU="Canceled" Name="Отменен"/>
+    <String NameU="Capacitor" Name="Конденсатор"/>
+    <String NameU="Carbon Block" Name="Карбон блок"/>
+    <String NameU="Carrier Frequency" Name="Несущая частота"/>
+    <String NameU="Category Interval" Name="Интервал Категории"/>
+    <String NameU="Category Number" Name="Количество Категории"/>
+    <String NameU="Center" Name="Центр"/>
+	<String NameU="Center points" Name="центральная точка"/>
+    <String NameU="Center Position" Name="Место Центра"/>
+    <String NameU="Center-Down" Name="Центр——внизу"/>
+    <String NameU="Center-Up" Name="Центр——наверху"/>
+    <String NameU="Centimeters" Name="Сантиметры"/>
+    <String NameU="Centrifugal" Name="Центробежный"/>
+    <String NameU="Centrifuge Type" Name="Тип Центрифуга"/>
+    <String NameU="Change Appearance" Name="Изменение внешнего вида"/>
+    <String NameU="Change Arrow Position" Name="Изменить Позицию Стрелки"/>
+    <String NameU="Change Arrow Size" Name="Изменить Размер Стрелки"/>
+    <String NameU="Change Arrow Style" Name="Изменить Стиль Стрелки"/>
+    <String NameU="Change Box Style" Name="Изменить Стиль Рамки"/>
+	<String NameU="Change Cable Type" Name="Изменить тип кабеля"/>
+    <String NameU="Change Center Shape Style" Name="Изменить стиль центральной Фигуры"/>
+    <String NameU="Change Center Style" Name="Изменить центральную Стиль"/>
+    <String NameU="Change Circle Position" Name="Изменить позицию круга"/>
+    <String NameU="Change Color Mode" Name="Изменить цвет"/>
+    <String NameU="Change Flow Type" Name="Изменить тип потока"/>
+    <String NameU="Change Gap Size" Name="изменить размер промежутка"/>
+    <String NameU="Change Item Style" Name="Изменить стиль объекта"/>
+	<String NameU="Change Number of Line" Name="Изменить количество строк"/>
+    <String NameU="Change Orientation" Name="Изменить ориентацию"/>
+    <String NameU="Change Photo" Name="Изменить фото"/>
+    <String NameU="Change Photo Size" Name="Изменить размер фото"/>
+    <String NameU="Change Position" Name="Изменить Позицию"/>
+    <String NameU="Change Ring Thickness" Name="Изменить толщину кольца"/>
+    <String NameU="Change Segment Arrow Style" Name="Изменить стиль стрелки сегмента"/>
+    <String NameU="Change Shape Style" Name="Изменить стиль фигуры"/>
+    <String NameU="Change Step Size" Name="Изменить размер фигуры"/>
+    <String NameU="Change Style" Name="Изменить стиль"/>
+    <String NameU="Change Title Style" Name="Изменить Стиль Темы"/>
+    <String NameU="Change the Picture" Name="Изменить фото"/>
+    <String NameU="Channel" Name="Канал"/>
+    <String NameU="Check" Name="Проверить"/>
+    <String NameU="Check Valve 1" Name="Обратный клапан 1"/>
+    <String NameU="Check Valve 2" Name="Обратный клапан 2"/>
+    <String NameU="Check Valve 3" Name="Обратный клапан 3"/>
+    <String NameU="Checkbox" Name="Чек-бокс"/>
+    <String NameU="Checked" Name="Проверено"/>
+    <String NameU="Circle" Name="Круг"/>
+    <String NameU="Circle Mark" Name="Отметка круга"/>
+    <String NameU="Circle Number" Name="Количество круга"/>
+    <String NameU="Cirle Marker" Name="Отметка круга"/>
+    <String NameU="Class" Name="Класс"/>
+    <String NameU="Close" Name="Закрытие"/>
+    <String NameU="Close Arrow End" Name="Закрыть Конец Стрелки"/>
+    <String NameU="Close Bottom" Name="Закрыть дно"/>
+    <String NameU="Close Circuit" Name="Закрыть схему"/>
+    <String NameU="Close End" Name="Закрыть конец"/>
+    <String NameU="Close Left" Name="Закрыть слева"/>
+    <String NameU="Close Right" Name="Закрыть справа"/>
+    <String NameU="Close Right Tube" Name="Закрыть правую трубку"/>
+    <String NameU="Close Top" Name="Закрыть Вверх"/>
+    <String NameU="Close on Actuation" Name="Закрыть на Срабатывание"/>
+    <String NameU="Close on Actuation or Release" Name="Закрыть на Срабатывание или выпуске"/>
+    <String NameU="Close on Release" Name="Закрыть на выпуске"/>
+    <String NameU="Closed" Name="Закрыто"/>
+    <String NameU="Coarse" Name="крупнозернистый"/>
+    <String NameU="Coaxial" Name="Коаксиальный"/>
+    <String NameU="Coin Box" Name="Монета Box"/>
+	<String NameU="Collapsed" Name="складной"/>
+	<String NameU="Collapsed Sub-Process" Name="Сворачивание подпроектов"/>
+    <String NameU="Color 'Fabrication'Black" Name="Цвет'квадрат'Черный "/>
+    <String NameU="Color 'Inspection' Black" Name="Цвет'треугольник'Черный"/>
+    <String NameU="Color 'Move' Black" Name="Цвет'Перевернутый треугольник'Черный"/>
+    <String NameU="Color 'Store' Black" Name="Цвет'круг'Черный"/>
+    <String NameU="Column" Name="колонка"/>
+    <String NameU="Column Number" Name="Количество колонки"/>
+    <String NameU="Combustion" Name="Горение"/>
+    <String NameU="Common Point" Name="Общая точка"/>
+    <String NameU="Communication Service" Name="Служба коммуникации"/>
+    <String NameU="Commutating or Compensating" Name="Коммутирующие или компенсационная"/>
+	<String NameU="Compensation" Name="Compensation"/>
+    <String NameU="Complete" Name="полный"/>
+    <String NameU="Complete Category" Name="Полная Категория"/>
+    <String NameU="Complete Symbol" Name="Полный символ"/>
+    <String NameU="Completed" Name="Завершенный"/>
+	<String NameU="Complex" Name="сложный"/>
+    <String NameU="Compressor" Name="Компрессор"/>
+    <String NameU="Compressor Type" Name="Тип компрессора"/>
+    <String NameU="Concave" Name="Вогнутый"/>
+    <String NameU="Concave Lens" Name="Вогнутая линза"/>
+    <String NameU="Concentrating" Name="Сконцентрированный"/>
+    <String NameU="Cone" Name="Конусообразный"/>
+    <String NameU="Configure 2-line Bus Elbow..." Name="конфигурировать 2-линии шины патрубка..."/>
+    <String NameU="Configure 2-line Bus..." Name="Конфигурировать 2-линии шины..."/>
+    <String NameU="Configure Amplifier..." Name="Конфигурировать усилителя ..."/>
+    <String NameU="Configure Bell..." Name="Конфигурировать рингтон..."/>
+    <String NameU="Configure Changer..." Name="Конфигурировать инвертор..."/>
+    <String NameU="Configure Chip..." Name="Конфигурировать чип ..."/>
+    <String NameU="Configure Controlled rectifier..." Name="Конфигурировать управляемый выпрямитель..."/>
+    <String NameU="Configure Converter..." Name="Конфигурировать конвертер..."/>
+    <String NameU="Configure Delay Element..." Name="Конфигурировать элемент задержки..."/>
+    <String NameU="Configure Diode..." Name="Конфигурировать диод..."/>
+    <String NameU="Configure Direction of Flow..." Name="Конфигурировать направление потока..."/>
+    <String NameU="Configure Filter..." Name="Конфигурировать фильтр..."/>
+    <String NameU="Configure Flip-flop..." Name="Конфигурировать триггер..."/>
+    <String NameU="Configure Frequency band..." Name="Конфигурировать диапазон частот..."/>
+    <String NameU="Configure Frequency spectrum element..." Name="Конфигурировать элемент спектра..."/>
+    <String NameU="Configure Function Generator..." Name="Конфигурировать генератор функций..."/>
+    <String NameU="Configure Heating Element..." Name="Конфигурировать нагревательный элемент..."/>
+    <String NameU="Configure IGFET N-type..." Name="Конфигурировать IGFET тип..."/>
+    <String NameU="Configure IGFET P-type..." Name="Конфигурировать IGFET P тип..."/>
+    <String NameU="Configure Indicator..." Name="Конфигурировать индикатор..."/>
+    <String NameU="Configure Inductance Capacitance..." Name="Конфигурировать Индуктивность Емкость..."/>
+    <String NameU="Configure Inductor..." Name="Конфигурировать Индуктор..."/>
+    <String NameU="Configure Laser and Maser..." Name="Конфигурировать Лазер и Мазер..."/>
+    <String NameU="Configure Line/Cable..." Name="Конфигурировать Линию / кабель..."/>
+    <String NameU="Configure Logic Gate..." Name="Конфигурировать Логический вентиль..."/>
+    <String NameU="Configure MOSFET..." Name="Конфигурировать MOSFET..."/>
+    <String NameU="Configure Material..." Name="Конфигурировать Материал..."/>
+    <String NameU="Configure Microphone..." Name="Конфигурировать Микрофон..."/>
+    <String NameU="Configure Networks..." Name="Конфигурировать интернет..."/>
+    <String NameU="Configure Ohmic..." Name="Конфигурировать Ohmic..."/>
+    <String NameU="Configure Pulse modulation..." Name="Конфигурировать Импульсную модуляцию..."/>
+    <String NameU="Configure Recorder/reproducer..." Name="Конфигурировать Рекордер / репродуктор..."/>
+    <String NameU="Configure Surge Protector..." Name="Конфигурировать защиту от перенапряжений..."/>
+    <String NameU="Configure Terminating sets..." Name="Конфигурировать настройку терминала..."/>
+    <String NameU="Conjugated" Name="Конъюгированный"/>
+    <String NameU="Conjugated Replicated Class" Name="Конъюгированный Реплицированный Класс"/>
+    <String NameU="Conjugated Replicated Reference" Name="Конъюгированная Реплицированная Справка"/>
+    <String NameU="Connection Size" Name="Присоединительный размер"/>
+    <String NameU="Contact Type" Name="Тип контакта"/>
+    <String NameU="Container" Name="Контейнер"/>
+    <String NameU="Context" Name="Контекст"/>
+    <String NameU="Continuous" Name="Непрерывная"/>
+    <String NameU="Continuously Adjustable" Name="Непрерывно регулируемый"/>
+    <String NameU="Control Access" Name="Контроль доступа"/>
+    <String NameU="Control Method" Name="Контроль Метод"/>
+    <String NameU="Control transformer" Name="Контролировать управляющий трансформатор"/>
+    <String NameU="Converter Type" Name="Тип Конвертера"/>
+    <String NameU="Convex" Name="Выпуклый"/>
+    <String NameU="Convex Lens" Name="Выпуклая Линза"/>
+    <String NameU="Conveyor" Name="Конвейер"/>
+    <String NameU="Conveyor with Buckets" Name="Конвейер с ведрами"/>
+    <String NameU="Conveyor with Hooks" Name="Конвейер с крючками"/>
+    <String NameU="Core" Name="Ядро"/>
+    <String NameU="Cost" Name="Стоимость"/>
+    <String NameU="Crank" Name="Кривошип"/>
+    <String NameU="Created" Name="Созданный"/>
+    <String NameU="Cross" Name="Крест"/>
+    <String NameU="Crusher Type" Name="Тип дробилки"/>
+    <String NameU="Current Value" Name="Текущая стоимость"/>
+	<String NameU="Cyan" Name="синий цвет"/>
+    <String NameU="D Flip-flop" Name="D флип-флоп"/>
+    <String NameU="DC" Name="DC"/>
+    <String NameU="DC Converter" Name="DC Конвертер"/>
+    <String NameU="Data" Name="Данные"/>
+    <String NameU="Data Format" Name="Формат данных"/>
+    <String NameU="Data Label Options" Name="Параметры меток данных"/>
+    <String NameU="Data Label Orientation" Name="Ориентация меток данных"/>
+    <String NameU="Data Label Position" Name="Позиция меток данных"/>
+    <String NameU="Data Precision" Name="Точность данных"/>
+    <String NameU="Data Type" Name="Тип данных"/>
+    <String NameU="Date" Name="Дата"/>
+    <String NameU="Date Format" Name="Формат даты"/>
+    <String NameU="Day" Name="День"/>
+    <String NameU="De-emphasize Higher Frequencies" Name="Преуменьшить Высокие Частоты"/>
+    <String NameU="Decision" Name="Решение"/>
+    <String NameU="Deg" Name="Градус"/>
+    <String NameU="Deg-Min-Sec" Name="Градус-Минута-Секунда"/>
+    <String NameU="Degrees" Name="Градус"/>
+    <String NameU="Dehydrator" Name="Водоотделитель"/>
+    <String NameU="Delay Type" Name="Тип задержки"/>
+    <String NameU="Delayed when Closing" Name="Задержка при закрытии"/>
+    <String NameU="Delayed when Closing and Re-opening" Name="Задержка при закрытии или перезагрузке"/>
+    <String NameU="Delayed when Re-opening" Name="Задержка при перезагрузке"/>
+    <String NameU="Delete 1 U" Name="Удалить 1 элемент"/>
+    <String NameU="Delete Button" Name="Удалить кнопку"/>
+    <String NameU="Delete a Board" Name="Удалить доску"/>
+    <String NameU="Delete a Box" Name="Удалить рамку"/>
+    <String NameU="Delete a Category" Name="Удалить категорию"/>
+    <String NameU="Delete a Chair" Name="Удалить стул"/>
+    <String NameU="Delete a Circle" Name="Удалить круг"/>
+    <String NameU="Delete a Column" Name="Удалить колонку"/>
+    <String NameU="Delete a Level" Name="Удалить уровень"/>
+    <String NameU="Delete a Pie" Name="Удалить пирог"/>
+    <String NameU="Delete a Point" Name="Удалить точку"/>
+    <String NameU="Delete a Ring" Name="Удалить Кольцо"/>
+    <String NameU="Delete a Row" Name="Удалить ряд"/>
+    <String NameU="Delete a Segment" Name="Удалить сегмент"/>
+    <String NameU="Delete a Step" Name="Удалить шаг"/>
+    <String NameU="Delete an Arrow" Name="Удалить стрелку"/>
+    <String NameU="Delete an Item" Name="Удалить пункт"/>
+    <String NameU="Delete this Box" Name="Удалить данную рамку"/>
+    <String NameU="Delete this Circle" Name="Удалить данное кольцо"/>
+    <String NameU="Delete this Item" Name="Удалить данный пункт"/>
+    <String NameU="Delete this Level" Name="Удалить данный уровень"/>
+    <String NameU="Delete this Row" Name="Удалить данную стрелку"/>
+    <String NameU="Delete this Segment" Name="Удалить данный сегмент"/>
+    <String NameU="Delete this Step" Name="Удалить данный шаг"/>
+    <String NameU="Department" Name="Департамент"/>
+    <String NameU="Dependent Entity" Name="Зависимый объект"/>
+    <String NameU="Depletion" Name="Истощение"/>
+    <String NameU="Derived Attribute" Name="Производная Атрибут"/>
+    <String NameU="Description" Name="Описание"/>
+    <String NameU="Device Type" Name="Тип устройства"/>
+    <String NameU="Dial" Name="Набирать номер"/>
+	<String NameU="Diameter" Name="диаметр"/>
+    <String NameU="Diamond" Name="Ромб"/>
+    <String NameU="Diamond Mark" Name="Ромбоидальная отметка"/>
+    <String NameU="Diaphragm 1" Name="Диафрагма 1"/>
+    <String NameU="Diaphragm 2" Name="Диафрагма 2"/>
+    <String NameU="Diaphragm 3" Name="Диафрагма 3"/>
+    <String NameU="Differential Receiver" Name="Дифференциальный приемник "/>
+    <String NameU="Differential Voltmeter" Name="Дифференциальный вольтметр"/>
+    <String NameU="Differentiating" Name="Дифференцирующий"/>
+    <String NameU="Digital to Analog" Name="Цифровой в аналоговую"/>
+    <String NameU="Direction" Name="Направление"/>
+    <String NameU="Direction Finding" Name="Радиопеленгование"/>
+    <String NameU="Directly Heated" Name="Непосредственно подогревый"/>
+    <String NameU="Disable" Name="Запрещать"/>
+    <String NameU="Disengaged" Name="Выключенный"/>
+	<String NameU="Display across line" Name="поперечная индикация"/>
+    <String NameU="Document" Name="Документ"/>
+    <String NameU="Don't Show Units" Name="Не показывать единицы измерения"/>
+    <String NameU="Double Circle" Name="Двойной круг"/>
+    <String NameU="Double Line" Name="Двойная линия"/>
+	<String NameU="Dotted Line" Name="пунктир"/>
+    <String NameU="Down" Name="Вниз"/>
+	<String NameU="Down direction" Name="вниз сторона"/>
+    <String NameU="Down Position" Name="Нижнее положение"/>
+    <String NameU="Draft" Name="Черновик"/>
+    <String NameU="Dry" Name="Сухой"/>
+    <String NameU="Dual Circle" Name="Двойной круг"/>
+    <String NameU="Dual Diamond" Name="Двойной Ромб"/>
+    <String NameU="Dual Rectangle" Name="Двойной Прямоугольник"/>
+    <String NameU="Dual Triangle" Name="Двойной треугольник"/>
+    <String NameU="Duplex" Name="Дуплекс"/>
+    <String NameU="Duplicated Entity" Name="Дублированный Объект"/>
+    <String NameU="Duration" Name="Продолжительность"/>
+    <String NameU="Early to Close" Name="Рано Закрыть"/>
+    <String NameU="Edit Reference" Name="Редактировать справку"/>
+    <String NameU="Electret" Name="Электретный"/>
+    <String NameU="Electrolytic" Name="Электролитический"/>
+    <String NameU="Element Type" Name="Тип элемента"/>
+    <String NameU="Ellipse" Name="Эллипс"/>
+    <String NameU="Email" Name="Email"/>
+    <String NameU="Emergency switch" Name="Аварийный выключатель"/>
+    <String NameU="Enable" Name="Разрешать"/>
+    <String NameU="End Date" Name="Дата окончания"/>
+    <String NameU="End Only" Name="Только окончание"/>
+    <String NameU="End Station" Name="Конечная станция"/>
+    <String NameU="Engaged" Name="Занято"/>
+    <String NameU="Enhancement" Name="Усиление"/>
+    <String NameU="Envelop" Name="Огибающая"/>
+    <String NameU="Envelope" Name="Конверт"/>
+    <String NameU="Erasing" Name="Стирание"/>
+    <String NameU="Erect Band of Frequencies" Name="Прямой дипазон частоты"/>
+    <String NameU="Error" Name="Ошибка"/>
+	<String NameU="Excellent" Name="превосходн"/>
+    <String NameU="Exchange Side" Name="Обмен сторон"/>
+    <String NameU="Exclusion" Name="Исключение"/>
+	<String NameU="Exclusive Data" Name="монопольные данные"/>
+	<String NameU="Exclusive Data with Marker" Name="монопольные данные с метками"/>
+	<String NameU="Exclusive Event" Name="эксклюзивная деятельность"/>	
+    <String NameU="Expander" Name="Расширитель"/>
+    <String NameU="Expanding" Name="Расширяющийся"/>
+    <String NameU="Extension" Name="Расширение"/>
+    <String NameU="Extension Lines" Name="Выносные линии"/>
+    <String NameU="External" Name="Внешний"/>
+    <String NameU="External Connection" Name="Внешнее соединение"/>
+    <String NameU="Extractor Hood Type" Name="тип вытяжки"/>
+    <String NameU="FALSE" Name="Ошибочный"/>
+    <String NameU="Facsimile" Name="Факсимиле"/>
+    <String NameU="False" Name="Ошибочный"/>
+    <String NameU="Fan Type" Name="Тип вентилятора"/>
+    <String NameU="Fast Backward" Name="Быстрая перемотка назад"/>
+    <String NameU="Fast Forward" Name="Быстрая перемотка вперед"/>
+    <String NameU="Feet" Name="Дно"/>
+    <String NameU="Female Connectors" Name="Женский соединитель"/>
+    <String NameU="Female Contact" Name="Женский Контакт"/>
+    <String NameU="Fine" Name="тонкий"/>
+    <String NameU="Fire" Name="Огонь"/>
+    <String NameU="First Derivative" Name="Первая производная"/>
+    <String NameU="Fixed" Name="фиксированный"/>
+    <String NameU="Flat Fire" Name="Плоский Огонь"/>
+    <String NameU="Flip-flop Type" Name="Тип Флип-флоп "/>
+    <String NameU="Float-operated" Name="Управление поплавки"/>
+    <String NameU="Floating Head" Name="Плавающая голова"/>
+    <String NameU="Fluid Separator Type" Name="Тип сепаратора жидкости "/>
+    <String NameU="Fluidized" Name="Кипящий слой"/>
+    <String NameU="Four Blades" Name="Четыре лезвия"/>
+    <String NameU="Frequency Band" Name="Диапазон частоты"/>
+    <String NameU="Frequency Changer" Name="Преобразователь частоты"/>
+    <String NameU="Frequency Meter" Name="Измеритель частоты"/>
+    <String NameU="From 10% to 100%" Name="От 10% до 100%"/>
+    <String NameU="Galvanometer" Name="Гальванометр"/>
+    <String NameU="Gap Distance" Name="Расстояние промежуток"/>
+    <String NameU="Gap Size" Name="Размер промежуток"/>
+    <String NameU="Gas" Name="Газы"/>
+    <String NameU="Gas Turbine" Name="Газовая турбина"/>
+    <String NameU="Gate" Name="Ворота"/>
+    <String NameU="Gate Type" Name="Тип вороты"/>
+    <String NameU="General" Name="Обычный"/>
+    <String NameU="General Fuse" Name="Обычный Предохранитель"/>
+    <String NameU="General Speed" Name="Обычная скорость"/>
+    <String NameU="Generator" Name="Генератор"/>
+	<String NameU="Good" Name="Хорошо"/>
+    <String NameU="Gravitation" Name="Гравитация"/>
+    <String NameU="Gray" Name="Серый"/>
+    <String NameU="Green" Name="Зеленный"/>
+    <String NameU="Ground" Name="Земля"/>
+    <String NameU="Grounded" Name="Заземленный"/>
+    <String NameU="Group of Erect Channels" Name="Группа прямых каналов"/>
+    <String NameU="Hammer" Name="Молоток"/>
+    <String NameU="Hand Generator" Name="Ручной генератор"/>
+    <String NameU="Hand-operated" Name="Ручное упарвление"/>
+    <String NameU="Handwheel" Name="Маховик"/>
+    <String NameU="Hdie Center" Name="Скрыть Центр"/>
+    <String NameU="Heat Exchanger Type" Name="Тип Теплообменника"/>
+    <String NameU="Heat Source Type" Name="Тип Источника тепла"/>
+    <String NameU="Heating Element" Name="Нагревательный элемент"/>
+    <String NameU="Height" Name="Высота"/>
+	<String NameU="Hide across line" Name="скрыть строку"/>
+    <String NameU="Hide Arrow" Name="Скрыть стрелку"/>
+    <String NameU="Hide Axis" Name="Скрыть ось"/>
+    <String NameU="Hide Axis Labels" Name="Скрыть метки оси"/>
+    <String NameU="Hide Border" Name="Скрыть границы"/>
+    <String NameU="Hide Bottom" Name="Скрыть дно"/>
+    <String NameU="Hide Bottom Line" Name="Скрыть лилии дна"/>
+    <String NameU="Hide Button" Name="Скрыть кнопку"/>
+    <String NameU="Hide Center" Name="Скрыть Центр"/>
+    <String NameU="Hide Center Circle" Name="Скрыть центральное кольцо"/>
+    <String NameU="Hide Center Shape" Name="Скрыть центральную фигуру"/>
+    <String NameU="Hide Circle" Name="Скрыть круг"/>
+    <String NameU="Hide Connect Line" Name="Скырть соединительную лилию"/>
+    <String NameU="Hide Cross" Name="Скрыть крест"/>
+    <String NameU="Hide Cross Line" Name="Скрыть пересекающуюся линию"/>
+    <String NameU="Hide Data Labels" Name="Скрыть метки данных"/>
+    <String NameU="Hide Delete" Name="Скрыть удаление"/>
+    <String NameU="Hide Dot" Name="Скрыть точку"/>
+    <String NameU="Hide End Tick" Name="Скрыть последнюю галочку"/>
+    <String NameU="Hide Envelop" Name="Скрыть оболочку"/>
+    <String NameU="Hide Exit Width" Name="Скрыть ширину выхода"/>
+    <String NameU="Hide First Block of Title" Name="Скрыть первое окно названия"/>
+    <String NameU="Hide Granule" Name="Скрыть гранулу"/>
+    <String NameU="Hide Grid" Name="Скрыть сетку"/>
+    <String NameU="Hide Groove" Name="Скрыть канаву"/>
+    <String NameU="Hide Horizontal Grid" Name="Скрыть горизонтальную сетку"/>
+    <String NameU="Hide Image" Name="Скрыть картинки"/>
+    <String NameU="Hide Junction" Name="Скрыть соединение"/>
+    <String NameU="Hide Left Box" Name="Скрыть левую рамку"/>
+    <String NameU="Hide Left Text" Name="Скрыть левый текст"/>
+    <String NameU="Hide Legend" Name="Скрыть легенду"/>
+    <String NameU="Hide Line" Name="Скрыть лилию"/>
+    <String NameU="Hide Liquid" Name="Скрыть жидкость"/>
+    <String NameU="Hide Middle Circle" Name="Скрыть средний круг "/>
+    <String NameU="Hide Neutral" Name="Скрыть Нейтральную"/>
+    <String NameU="Hide Operator" Name="Скрыть оператор"/>
+    <String NameU="Hide Percentage Labels" Name="Скрыть отметки процента"/>
+    <String NameU="Hide Photo" Name="Скрыть фото"/>
+    <String NameU="Hide Polarity Symbols" Name="Скрыть полярный символ"/>
+    <String NameU="Hide Reflector" Name="Скрыть рефлектор"/>
+    <String NameU="Hide Refresh Button" Name="Скрыть Кнопку Обновления"/>
+    <String NameU="Hide Right Text" Name="Скрыть правый текст"/>
+    <String NameU="Hide Ruler" Name="Скрыть линейку"/>
+    <String NameU="Hide SWOT" Name="Скрыть SWOT"/>
+    <String NameU="Hide Scale Mark" Name="Скрыть отметку шкалы"/>
+    <String NameU="Hide Seam" Name="Скрыть шов"/>
+    <String NameU="Hide Solid Matter" Name="Скрыть твердое вещество"/>
+    <String NameU="Hide Stair Stagger" Name="Скрыть Лестничный Стаггер"/>
+    <String NameU="Hide Table" Name="Скрыть таблицу"/>
+    <String NameU="Hide Tank Lip" Name="Скрыть Резервуар для губ"/>
+    <String NameU="Hide Text" Name="Скрыть текст"/>
+    <String NameU="Hide Text Block" Name="Скрыть текстовое окно"/>
+    <String NameU="Hide Tick" Name="Скрыть галочку"/>
+    <String NameU="Hide Title" Name="Скрыть название"/>
+    <String NameU="Hide Title Bar" Name="Скрыть заголовку"/>
+    <String NameU="Hide Vertical Grid" Name="Скрыть вертикальную сетку"/>
+    <String NameU="Hide/Show Axis" Name="Скрыть/ Показать Ось"/>
+    <String NameU="Hide/Show Grid" Name="Скрыть/ Показать сетку"/>
+    <String NameU="High" Name="Высокий"/>
+    <String NameU="High Gain" Name="Высокое усиление"/>
+    <String NameU="High Speed" Name="Высокая скорость"/>
+    <String NameU="High-pass Filter" Name="Фильтр верхних частот"/>
+    <String NameU="High-speed Roller" Name="Высокоскоростной роликовый"/>
+    <String NameU="Highlight" Name="Световой блик"/>
+    <String NameU="Hoist" Name="Подъёмный кран"/>
+    <String NameU="Hoist Type" Name="Тип Подъёмный крана"/>
+    <String NameU="Hoist with Grab" Name="Подъёмный кран с грейфером"/>
+    <String NameU="Hoist with Hook" Name="Подъёмный кран с крюком"/>
+    <String NameU="Hollow" Name="Полый"/>
+    <String NameU="Hollow Band" Name="Полые диапазона"/>
+    <String NameU="Hollow Brand" Name="空心带"/>
+    <String NameU="Hollow Circle" Name="Пустотелый Круг"/>
+    <String NameU="Hollow Diamond" Name="Пустотелый ромб"/>
+    <String NameU="Hollow Rectangle" Name="Пустотелый Прямоугольник"/>
+    <String NameU="Hollow Triangle" Name="Пустотелый Треугольник"/>
+    <String NameU="Horizontal" Name="Горизонтальный"/>
+    <String NameU="Horizontal Blades" Name="Горизонтальные лезвия"/>
+    <String NameU="Horn Gap" Name="Horn Gap"/>
+    <String NameU="Hybrid Transformer" Name="Гибридный трансформатор"/>
+    <String NameU="ID" Name="ID"/>
+    <String NameU="Icon" Name="Иконка"/>
+    <String NameU="If Max Value is -1, it will takes the large one of Value 1 and Value 2." Name="Если Максимальное значение является -1, то будет выбрано максимальное между данными 1 и 2."/>
+    <String NameU="Impact" Name="Удар"/>
+    <String NameU="Implementational" Name="Реализация"/>
+    <String NameU="Imported" Name="Импортный"/>
+    <String NameU="Imported and Substitutable" Name="Импортный и заменяемый"/>
+    <String NameU="In Progress" Name="В процессе"/>
+    <String NameU="In Service" Name="В сервисе"/>
+    <String NameU="In the Field" Name="В поле"/>
+    <String NameU="Inches" Name="Дюймы"/>
+    <String NameU="Incoming" Name="Вступающий"/>
+	<String NameU="Inclusive" Name="инклюзивный"/>
+    <String NameU="Independent Entity" Name="Независимый организм"/>
+    <String NameU="Indicator" Name="Индикатор"/>
+    <String NameU="Indirectly Heated" Name="Косвенно подогревый"/>
+    <String NameU="Inertial" Name="Инерционный"/>
+    <String NameU="Infinite Reactance" Name="Бесконечное Реактивное"/>
+    <String NameU="Infinite Reactance - Zero susceptance" Name="Бесконечное Реактивное - нулевая реактивная проводимость"/>
+    <String NameU="Initial" Name="Начальный"/>
+    <String NameU="Inner Arrow" Name="Внутренняя стрелка"/>
+    <String NameU="Input" Name="Ввод"/>
+    <String NameU="Input the number between 0 to 360" Name="Вводить цифры от 0 до 360"/>
+    <String NameU="Input(s)" Name="Ввод"/>
+    <String NameU="Insert a Box" Name="Вставить рамку"/>
+    <String NameU="Insert a Circle" Name="Вставить кольцо"/>
+    <String NameU="Insert a Level" Name="Вставить слой"/>
+    <String NameU="Insert a Row" Name="Вставить стрелку"/>
+    <String NameU="Insert a Segment" Name="Вставить сегмент"/>
+    <String NameU="Insert a Step" Name="Вставить шаг"/>
+    <String NameU="Insert an Item" Name="Вставить объект"/>
+    <String NameU="Inside Data Labels" Name="Внутри метки данных"/>
+    <String NameU="Inside Text" Name="Внутри текст"/>
+    <String NameU="Insulated Heating Element" Name="Изолированный Нагревательный элемент"/>
+    <String NameU="Insulating" Name="Изоляционный"/>
+	<String NameU="Instantiate Exclusive Event" Name="единичное событие"/>
+	<String NameU="Instantiate Parallel Event" Name="регулярное параллельное событие"/>
+    <String NameU="Integer" Name="Интеграл"/>
+    <String NameU="Integrating" Name="Интеграция"/>
+    <String NameU="Interconnected" Name="Взаимосвязанное"/>
+    <String NameU="Internal" Name="Внутренний"/>
+    <String NameU="Internal Connection" Name="Внутреннее соединение"/>
+    <String NameU="Interval" Name="Интервал"/>
+    <String NameU="Invert Arrow" Name="Инвертировать стрелку"/>
+    <String NameU="Invert Triangle" Name="Инвертировать Треугольник"/>
+    <String NameU="Inverted Band of Frequencies" Name="Перевернутая полоса частот"/>
+    <String NameU="Inverter" Name="Инвертор"/>
+    <String NameU="Invisible" Name="Незримый"/>
+    <String NameU="Inward" Name="Внутрь"/>
+    <String NameU="Item Number" Name="Номер предмета"/>
+    <String NameU="JK Flip-flop" Name="JK флип-флоп"/>
+    <String NameU="Jack" Name="Разъем"/>
+    <String NameU="Jaw" Name="Зажим"/>
+    <String NameU="Jet" Name="Реактивный"/>
+    <String NameU="Jumbo" Name="Гигантский"/>
+    <String NameU="Keep Image Ratio" Name="Сохранять пропорции изображения"/>
+    <String NameU="Keep Photo Ratio" Name="Сохранять пропорции фото"/>
+    <String NameU="Key" Name="Ключ"/>
+    <String NameU="Key Attribute" Name="Ключевой Атрибут"/>
+    <String NameU="Keyboard" Name="Клавиатура"/>
+    <String NameU="Kilometers" Name="Километры"/>
+    <String NameU="Kneader Type" Name="Тип смесителя"/>
+    <String NameU="Label" Name="Отметка"/>
+    <String NameU="Large" Name="Большой"/>
+    <String NameU="Large Scale / Converting" Name="Крупномасштабный / Преобразование"/>
+    <String NameU="Large Scale / General" Name="Крупномасштабный / Обычный"/>
+    <String NameU="Laser Generator" Name="Лазерный генератор"/>
+    <String NameU="Laser, General" Name="Лазер, обычный"/>
+    <String NameU="Latch Flip-flop" Name="Защелка флип-флоп"/>
+    <String NameU="Late to Close" Name="Поздно закрыть"/>
+    <String NameU="Left" Name="Левый"/>
+	<String NameU="Left direction" Name="налево"/>
+    <String NameU="Left Icon Type" Name="Тип левой иконки"/>
+    <String NameU="Left Side" Name="Левый"/>
+    <String NameU="Left hemisphere value." Name="Значение левого полушария"/>
+    <String NameU="Level Number" Name="Количество уровня"/>
+    <String NameU="Light Sensitive" Name="Светочувствительный"/>
+    <String NameU="Line Size" Name="Размер строки"/>
+    <String NameU="Line-type Display" Name="Дисплей типа лилии"/>
+    <String NameU="Link" Name="Ссылка"/>
+    <String NameU="Liquid" Name="Жидкость"/>
+    <String NameU="Load Data from File" Name="Загрузка данных из файла"/>
+    <String NameU="Loaded" Name="Нагруженный"/>
+    <String NameU="Lock" Name="Заблокировка"/>
+    <String NameU="Logarithmic" Name="Логарифмический"/>
+    <String NameU="Logical" Name="Логистический"/>
+	<String NameU="Loop - None" Name="контур - Нет"/>
+	<String NameU="Loop - Parallel Multi-Instance" Name="параллельный цикл"/>
+	<String NameU="Loop - Sequential Multi-Instance" Name="цикл - последовательность нескольких экземпляров"/>
+	<String NameU="Loop - Standard" Name="контур - стандарт"/>
+    <String NameU="Low" Name="Низкий"/>
+    <String NameU="Low-pass Filter" Name="ФНЧ"/>
+    <String NameU="M/d/yyyy" Name="M/d/yyyy"/>
+    <String NameU="M/d/yyyy h:mm AM/PM" Name="M/d/yyyy h:mm AM/PM"/>
+    <String NameU="MMM d,yyyy" Name="MMM d,yyyy"/>
+    <String NameU="Machine Type" Name="Тип машины"/>
+    <String NameU="Magnetic" Name="Магнитные"/>
+    <String NameU="Magnetic with Gap" Name="Магнитный промежуток"/>
+    <String NameU="Magnetic-core" Name="Магнитно-ядерный"/>
+    <String NameU="Magnetically Polarized" Name="Магнитно поляризованные"/>
+    <String NameU="Magnetostrictive" Name="Магнитострикционный"/>
+    <String NameU="Make Contact" Name="Установить контакт"/>
+    <String NameU="Male Connectors" Name="Штекерами"/>
+    <String NameU="Male Contact" Name="Мужской контакт"/>
+	<String NameU="Man" Name="человек"/>
+    <String NameU="Manufacturer" Name="Производитель"/>
+    <String NameU="Many-to-Many" Name="Многие-ко-многим"/>
+    <String NameU="Marker Size" Name="Размер отметки"/>
+    <String NameU="Marker Style" Name="Стиль Маркер"/>
+    <String NameU="Maser Amplifier" Name="Мазер усилитель"/>
+    <String NameU="Maser, General" Name="Мазер, обычный"/>
+    <String NameU="Mastergroup" Name="Мастергруппа"/>
+    <String NameU="Material" Name="Материал"/>
+    <String NameU="Max Scale" Name="Максимальная шкала"/>
+    <String NameU="Max Value" Name="Максимальное значение"/>
+    <String NameU="Max data value of all the bubbles" Name="Максимальное значение всех данных пузырков"/>
+    <String NameU="Max.Demand Indicator" Name="Максимальный показатель спроса"/>
+    <String NameU="Mechanically" Name="Машинально"/>
+    <String NameU="Medium" Name="Средний"/>
+    <String NameU="Mercury" Name="Меркурий"/>
+    <String NameU="Message" Name="Сообщение"/>
+    <String NameU="Meters" Name="Метры"/>
+    <String NameU="Microphone Type" Name="Тип микрофона"/>
+    <String NameU="Middle" Name="Средний"/>
+    <String NameU="Midpoint" Name="Средняя точка"/>
+    <String NameU="Miles" Name="Миль"/>
+    <String NameU="Mill Type" Name="Тип мельницы"/>
+    <String NameU="Millimeters" Name="Миллиметры"/>
+    <String NameU="Min Scale" Name="Минимальная шкала"/>
+    <String NameU="Min Value" Name="Минимальное значение"/>
+    <String NameU="Min data value of all the bubbles." Name="Мильмальное значение всех данных пузырков"/>
+    <String NameU="Mixer Type" Name="Тип смесителя"/>
+    <String NameU="Model" Name="Модель"/>
+    <String NameU="Month" Name="Месяц"/>
+    <String NameU="Motor" Name="Мотор"/>
+    <String NameU="Motor Generator" Name="Мотор генератор"/>
+    <String NameU="Move Down" Name="Переместить вниз"/>
+    <String NameU="Move Left" Name="Переместить налево"/>
+    <String NameU="Move Right" Name="Переместить направо"/>
+    <String NameU="Move Text to Other Bend" Name="Переместить текст на другое колено"/>
+    <String NameU="Move Up" Name="Переместить вверх"/>
+    <String NameU="Movement Left Blocked" Name="Левое движение заблокировано"/>
+    <String NameU="Movement Right Blocked" Name="Правое движение заблокировано"/>
+    <String NameU="Mullion Number" Name="Количество средников"/>
+    <String NameU="Multigap" Name="Многозазорный"/>
+    <String NameU="Multiple" Name="Множественный"/>
+    <String NameU="Multiple Lines" Name="Несколько линий"/>
+    <String NameU="Multivalued Attribute" Name="Многозначный атрибут"/>
+    <String NameU="Mushroom Head" Name="Шляпка гриба"/>
+    <String NameU="Mushroom Type" Name="Тип гриба"/>
+    <String NameU="Mutual inductor" Name="Взаимный индуктор"/>
+	<String NameU="Nice" Name="Неплохо"/>
+    <String NameU="N-Type" Name="N-Тип"/>
+    <String NameU="N-type" Name="N—Тип"/>
+    <String NameU="NAND" Name="NAND"/>
+    <String NameU="NOR" Name="NOR"/>
+    <String NameU="NPIN" Name="NPIN"/>
+    <String NameU="NPIP" Name="NPIP"/>
+    <String NameU="Name" Name="Имя"/>
+    <String NameU="Neither" Name="Ни один"/>
+    <String NameU="Neutral brought out" Name="Нейтральный"/>
+    <String NameU="Neutral direct-current (single current) +/o" Name="Нейтральный постоянный ток（Одиночный ток） +/o"/>
+    <String NameU="Neutral direct-current (single current) -/o" Name="Нейтральный постоянный ток（Одиночный ток） -/o"/>
+    <String NameU="Next Month" Name="Следующий месяц"/>
+    <String NameU="Next Week" Name="Следующая неделя"/>
+    <String NameU="Next Year" Name="Следующий год"/>
+    <String NameU="No" Name="Нет"/>
+    <String NameU="No Arrow" Name="Стрелка отсутствует"/>
+    <String NameU="No Black" Name="Черный отсутствует"/>
+    <String NameU="No Button" Name="Кнопка отсутствует"/>
+    <String NameU="No Maker" Name="Маркер отсутствует"/>
+    <String NameU="No. of Base Pins" Name="Базовые штифты"/>
+    <String NameU="No. of Gates" Name="Количество ворот"/>
+    <String NameU="No. of Inputs" Name="Количество ввода"/>
+    <String NameU="No. of Outputs" Name="Количество выходов"/>
+    <String NameU="No. of Top Pins" Name="Количество PINS наверху"/>
+    <String NameU="No.of Inputs" Name="Количество ввода"/>
+    <String NameU="No.of Outputs" Name="Количество выходов"/>
+    <String NameU="Node" Name="Узел"/>
+    <String NameU="Non-Extending" Name="Нет Продления"/>
+    <String NameU="Non-insulated Heating Element" Name="Неизолированный нагревательный элемент"/>
+    <String NameU="None" Name="Нет"/>
+    <String NameU="Normal" Name="Общий"/>
+    <String NameU="Normal Access" Name="Общий доступ"/>
+    <String NameU="Not Interconnected" Name="Не Взаимосвязанное"/>
+    <String NameU="Number" Name="Количество"/>
+    <String NameU="Number of Circles" Name="Количество кругов"/>
+    <String NameU="Number of Lines" Name="Количество линий"/>
+	<String NameU="Number of inputs" Name="количество ввода"/>
+	<String NameU="Number of pins on top" Name="верхний штифт"/>
+    <String NameU="OR" Name="OR"/>
+    <String NameU="On Central Control Panel" Name="На Центральной панели управления"/>
+    <String NameU="On Local Control Panel" Name="На местной панели управления"/>
+    <String NameU="One Circle" Name="Один круг"/>
+    <String NameU="One Line" Name="Одна лилия"/>
+    <String NameU="One Winding" Name="Одни обмотки "/>
+    <String NameU="One-to-Many" Name="Один к многим"/>
+    <String NameU="One-way Simplex" Name="Односторонний Симплекс"/>
+    <String NameU="Open" Name="Открыть"/>
+
+
+    <String NameU="Open Arrow End" Name="Открыть конец стрелки"/>
+    <String NameU="Open Bottom" Name="Открыть дно"/>
+    <String NameU="Open Circuit" Name="Открыть схему"/>
+    <String NameU="Open End" Name="Открыть конец"/>
+    <String NameU="Open Left" Name="Открыть слева"/>
+    <String NameU="Open Right" Name="Открыть справа"/>
+    <String NameU="Open Right Tube" Name="Открыть правую трубку"/>
+    <String NameU="Open Top" Name="Открыть верх"/>
+    <String NameU="Operational" Name="Эксплуатационный"/>
+    <String NameU="Optional" Name="Опциональный"/>
+    <String NameU="Optional and Substitutable" Name="Опциональный и заменяемый"/>
+	<String NameU="Orange" Name="оранжевый"/>
+    <String NameU="Oscilloscope" Name="Осциллоскоп"/>
+    <String NameU="Outer Arrow" Name="Внешняя стрелка"/>
+    <String NameU="Outgoing" Name="Исходящий"/>
+    <String NameU="Output" Name="Вывод"/>
+    <String NameU="Output(s)" Name="Выход (ы)"/>
+	<String NameU="Output number" Name="выходное число"/>
+    <String NameU="Outside Data Labels" Name="За пределами отметки данных"/>
+    <String NameU="Outside Text" Name="За пределами текста"/>
+    <String NameU="Outward" Name="За пределы"/>
+    <String NameU="Overhead" Name="Наверху"/>
+    <String NameU="Overhead Conveyor Type" Name="Тип подвесного конвейера"/>
+    <String NameU="Overview" Name="Обзор"/>
+    <String NameU="P Type-Gate" Name="Ворото P-тип "/>
+    <String NameU="P-Type" Name="P-тип"/>
+    <String NameU="P-type" Name="P-тип"/>
+    <String NameU="PNIN" Name="PNIN"/>
+    <String NameU="PNIP" Name="PNIP"/>
+    <String NameU="Page Printing" Name="Печать страницы"/>
+    <String NameU="Page's Unit" Name="Единицы страницы"/>
+    <String NameU="Passive" Name="Пассивный"/>
+	<String NameU="Parallel" Name="параллельный"/>
+    <String NameU="Pause" Name="Пауза"/>
+    <String NameU="Percentage" Name="Процент"/>
+    <String NameU="Permanent" Name="Постоянный"/>
+    <String NameU="Phase Meter" Name="Фазометр"/>
+    <String NameU="Phone" Name="Телефон"/>
+    <String NameU="Pilot Frequency" Name="Пилот"/>
+    <String NameU="Planned" Name="По плану"/>
+    <String NameU="Plug" Name="Штепсель"/>
+    <String NameU="Point Number" Name="Количество точек"/>
+    <String NameU="Polar direct-current (double current)" Name="полярный постоянный ток (двойной ток）"/>
+    <String NameU="Poor Quality" Name="Низкое качество"/>
+	<String NameU="Good Quality" Name="Хорошее качество"/>
+	<String NameU="Position" Name="должность"/>
+    <String NameU="Potentiometer" Name="Потенциометр"/>
+    <String NameU="Power-factor Meter" Name="Измеритель коэффициента мощности "/>
+    <String NameU="Pre-emphasize Higher Frequencies" Name="Предыскажение Высшие Частоты"/>
+    <String NameU="Pre-set Potentiometer" Name="Предустановленный Потенциометр"/>
+    <String NameU="Pre-set Resistor" Name="Предварительно установленный Резистор"/>
+    <String NameU="Precision" Name="Точность"/>
+    <String NameU="Precision &amp; Units" Name="Точность &amp; Единицы"/>
+    <String NameU="Precision Units..." Name="Единицы Точности..."/>
+    <String NameU="Prefix Unit" Name="Единицы приставки"/>
+    <String NameU="Prev Month" Name="Предыдущий месяц"/>
+    <String NameU="Prev Week" Name="Предыдущая неделя"/>
+    <String NameU="Prev Year" Name="Предыдущий год"/>
+    <String NameU="Price" Name="Цена"/>
+    <String NameU="Prime Mover Type" Name="Тип Первичного двигателя"/>
+    <String NameU="Process" Name="Обработать"/>
+    <String NameU="Process ID" Name="Идентификатор процесса"/>
+    <String NameU="Process Name" Name="Имя процесса"/>
+    <String NameU="Progress" Name="Прогресс"/>
+    <String NameU="Protective Gap" Name="Защитный разрыв "/>
+    <String NameU="Proximity Effect" Name="Эффект близости"/>
+    <String NameU="Pull-switch 1" Name="натяжной выключатель 1"/>
+    <String NameU="Pull-switch 2" Name="натяжной выключатель 2"/>
+    <String NameU="Pulling" Name="Тянущий"/>
+    <String NameU="Pulse Inverter" Name="Импульсный преобразователь "/>
+    <String NameU="Pulse-amplitude Modulation" Name="Амплитудно-импульсная модуляция"/>
+    <String NameU="Pulse-duration Modulation" Name="Широтно-импульсная модуляция"/>
+    <String NameU="Pulse-frequency Modulation" Name="Импульсно-частотная модуляция"/>
+    <String NameU="Pulse-interval Modulation" Name=" Модуляция импульсного интервала"/>
+    <String NameU="Pulse-phase Modulation" Name="Фазоимпульсная модуляция"/>
+    <String NameU="Pump Type" Name="Тип насоса"/>
+    <String NameU="Push-Pull Head" Name="Push-Pull Head"/>
+    <String NameU="Push-button 1" Name="Толчок кнопка 1"/>
+    <String NameU="Push-button 2" Name="Толчок кнопка 2"/>
+    <String NameU="Push-pull" Name="Толчок-тяга"/>
+    <String NameU="Push/pull" Name="Толчок/тяга"/>
+    <String NameU="Pushbutton" Name="Толчок кнопка"/>
+    <String NameU="Pushing" Name="Толчок"/>
+    <String NameU="Qualifier" Name="Спецификатор"/>
+    <String NameU="Qualifier Type" Name="Тип Классификатор"/>
+    <String NameU="Quality" Name="Качество"/>
+    <String NameU="Quarter" Name="Квартал"/>
+	<String NameU="Question 1" Name="вопрос 1"/>
+	<String NameU="Question 2" Name="вопрос 2"/>
+	<String NameU="Question 3" Name="вопрос 3"/>
+    <String NameU="RS Flop-flop" Name="RS Флоп-флоп"/>
+    <String NameU="Radia" Name="Радиа"/>
+    <String NameU="Radial" Name="Радиальный"/>
+    <String NameU="Radians" Name="Радианы"/>
+    <String NameU="Radio Beacon" Name="Радиомаяк"/>
+    <String NameU="Radio Button" Name="Переключатель"/>
+    <String NameU="Radioisotope" Name="Радиоактивный изотоп"/>
+	<String NameU="Radius * 0.25" Name="радиус * 0.25"/>
+	<String NameU="Radius * 0.5" Name="радиус * 0.5"/>
+	<String NameU="Radius * 0.75" Name="радиус * 0.75"/>
+	<String NameU="Radius * 1" Name="радиус * 1"/>
+	<String NameU="Radius * 2" Name="радиус * 2"/>
+	<String NameU="Radius * 3" Name="радиус * 3"/>
+	<String NameU="Radius * 4" Name="радиус * 4"/>
+	<String NameU="Radius * 5" Name="радиус * 5"/>
+	<String NameU="Radius * 6" Name="радиус * 6"/>
+	<String NameU="Radius * 7" Name="радиус * 7"/>
+	<String NameU="Radius * 8" Name="радиус * 8"/>
+    <String NameU="Ramp" Name="Скат"/>
+    <String NameU="Range 1" Name="Диапазон 1"/>
+    <String NameU="Range 2" Name="Диапазон 2"/>
+    <String NameU="Range 3" Name="Диапазон 3"/>
+    <String NameU="Range 4" Name="Диапазон 4"/>
+    <String NameU="Range Number" Name="Номер диапазона"/>
+    <String NameU="Reactive Current Ammeter" Name="Амперметр Реактивного тока "/>
+    <String NameU="Reading" Name="Чтение"/>
+    <String NameU="Real" Name="Реальный"/>
+    <String NameU="Receiver" Name="Приемник"/>
+    <String NameU="Reception" Name="Прием"/>
+    <String NameU="Reciprocating" Name="Возвратно-поступательный"/>
+    <String NameU="Reciprocating Engine" Name="Возвратно-поступательный"/>
+    <String NameU="Recorder/Reproducer" Name="Рекордер / Репродуктор"/>
+    <String NameU="Rect Mark" Name="Прямоугольная отметка"/>
+    <String NameU="Rectangle" Name="Прямоугольник"/>
+    <String NameU="Rectifier" Name="Ректификатор"/>
+    <String NameU="Rectifier/Inverter" Name="Ректификатор/Инвертор"/>
+    <String NameU="Red" Name="Красный"/>
+    <String NameU="Reduced-carrier Frequency" Name="Снижение несущей частоты"/>
+    <String NameU="Reference" Name="Цитировать"/>
+    <String NameU="Reference Port" Name="Цитировать порт"/>
+    <String NameU="Reference Type" Name="ссылочный тип"/>
+    <String NameU="RelationShip" Name="Связь"/>
+    <String NameU="Relay Port" Name="Реле порт"/>
+    <String NameU="Relay Type" Name="Тип реле"/>
+    <String NameU="Remote Handle" Name="Ручка удаленного управления "/>
+    <String NameU="Remove Microphone" Name="Удалить микрофон"/>
+    <String NameU="Remove Segment" Name="Удалить сегмент"/>
+    <String NameU="Repeater Station" Name="Ретранслятор"/>
+    <String NameU="Repeater Type" Name=" Тип Ретранслятора"/>
+    <String NameU="Replace Image" Name="Заменить изображение"/>
+    <String NameU="Replace Logo" Name="Заменить логотип"/>
+    <String NameU="Replace Photo" Name="Заменить фото"/>
+    <String NameU="Replicated" Name="Копированный"/>
+    <String NameU="Replicated Class" Name=" скопированный класс"/>
+    <String NameU="Replicated Reference" Name="Копировать цитирование"/>
+    <String NameU="Replicated and Imported" Name="Копирование и ввод"/>
+    <String NameU="Replicated and Optional" Name="Скопированный и опциональный"/>
+    <String NameU="Replicated and Substitutable" Name="Реплицированный и замещаемый"/>
+    <String NameU="Reproducer" Name="Репродуктор"/>
+    <String NameU="Reset Auto Text..." Name="сброс Авто Текст..."/>
+    <String NameU="Reset Size" Name="Сброс Размера"/>
+    <String NameU="Reset Text" Name="Сброс текста"/>
+    <String NameU="Reset Text Position" Name="Сброс позиции текста"/>
+    <String NameU="Resolver" Name="Резольвер"/>
+    <String NameU="Resources" Name="Ресурсы"/>
+    <String NameU="Restricted Access" Name="Ограниченный доступ"/>
+    <String NameU="Reverse Blocking" Name="Обратная Блокировка"/>
+    <String NameU="Reverse Conducting" Name=" Обратное дирижирование"/>
+    <String NameU="Reverse rotation" Name="Обратное вращение"/>
+    <String NameU="Right" Name="Справа"/>
+	<String NameU="Right direction" Name="правильное направление"/>
+    <String NameU="Right Icon Type" Name="Тип правой кнопки"/>
+    <String NameU="Right Side" Name="Правая сторона"/>
+    <String NameU="Right hemisphere value." Name="Значение Правого полушария"/>
+    <String NameU="Ring Number" Name="Количество Кольца"/>
+    <String NameU="Road Width" Name="Ширина дороги"/>
+    <String NameU="Roller" Name="Ролик"/>
+    <String NameU="Rolling" Name="Вращение"/>
+    <String NameU="Rotary" Name="Ротационный"/>
+    <String NameU="Round Landing" Name="Круглая платформа"/>
+    <String NameU="Row Number" Name="Номер строки"/>
+    <String NameU="Rows" Name="Строка"/>
+    <String NameU="Ruby Laser Generator" Name="Рубиновый генератор лазер"/>
+    <String NameU="Ruby Laser Generator with Xenon Lamp" Name="Рубиновый генератор лазер с ксеноновой лампой"/>
+    <String NameU="Rule" Name="Правило"/>
+    <String NameU="Salinity Meter" Name="Измеритель Солености"/>
+    <String NameU="Sawtooth" Name="Пилообразный"/>
+    <String NameU="Scale Precision" Name="Точность шкалы"/>
+    <String NameU="Screw" Name="Винт"/>
+    <String NameU="Screw Conveyor Type" Name="Тип Шнек"/>
+    <String NameU="Screw-down" Name="Завинчивающаяся"/>
+    <String NameU="Screwed" Name="Пьяный"/>
+    <String NameU="Second Derivative" Name="Вторая производная"/>
+    <String NameU="Secondary Flow" Name="Вторичный поток"/>
+    <String NameU="Section" Name="Раздел"/>
+    <String NameU="Segment Number" Name="Номер сегмента"/>
+    <String NameU="Select Actor Reference Type..." Name="Выбрать тип цитирования оператора..."/>
+    <String NameU="Select Reference Port..." Name="Выбрать порт цитирования..."/>
+    <String NameU="Select Relay Port..." Name="Выбрать реле порт..."/>
+    <String NameU="Select Transition Point Type..." Name="Выбрать тип перехода точки..."/>
+    <String NameU="Selected" Name="Выбранный"/>
+    <String NameU="Semiconducting" Name="Полупроводниковый"/>
+    <String NameU="Separated" Name="Отделенный"/>
+    <String NameU="Series" Name="Серии"/>
+    <String NameU="Series Number" Name="Номер серии"/>
+    <String NameU="Service" Name="Обслуживание"/>
+    <String NameU="Set Amplifier Type..." Name="Настроить Тип усилителя ..."/>
+    <String NameU="Set Angle" Name="Настроить угол ..."/>
+    <String NameU="Set Arrow Number" Name="Настроить номер стрелки"/>
+    <String NameU="Set Arrow Size" Name="Настроить размер стрелки"/>
+    <String NameU="Set Axis Max and Min Scale" Name="Настроить максимальные и минимальные шкалы Оси "/>
+    <String NameU="Set Axis Number" Name="Натроить количество Оси"/>
+    <String NameU="Set Box Number" Name="Настроить количество бокс"/>
+    <String NameU="Set Category Number" Name="Настроить количество категории"/>
+    <String NameU="Set Chair Number" Name="Настроить количество стула"/>
+    <String NameU="Set Circle Number" Name="Настроить количество круга"/>
+    <String NameU="Set Column Number" Name="Настроить количество колонки"/>
+    <String NameU="Set Control Type..." Name="Настроить тип управления ..."/>
+    <String NameU="Set Converter Type..." Name="Настроить тип конвертера..."/>
+    <String NameU="Set Current Date" Name="Настроить текущую дату"/>
+    <String NameU="Set Data" Name="Настроить дату"/>
+    <String NameU="Set Data Type" Name="Настроить тип данных"/>
+    <String NameU="Set Delay Type..." Name="Настроить тип задержки..."/>
+    <String NameU="Set Device Type..." Name="Настроить тип устройства ..."/>
+    <String NameU="Set Doughnut Thickness" Name="Настроить толщину кольца"/>
+    <String NameU="Set Gauge Data" Name="Настроить калибровочные данные "/>
+    <String NameU="Set Heat Source Type..." Name="Настроить тип источника тепла..."/>
+    <String NameU="Set Hollow" Name="Настроить пусто"/>
+    <String NameU="Set Interval" Name="Настроить интервал"/>
+    <String NameU="Set Level Number" Name="Настроить количество уровней"/>
+    <String NameU="Set Machine Type..." Name="Настроить тип машины..."/>
+    <String NameU="Set Max Value" Name="Настроить максимальное значение"/>
+	<String NameU="Set Min Value" Name="Настроить минимальное значение"/>
+    <String NameU="Set Max and Min Value" Name="Настроить максимальное и минимальное значение"/>
+    <String NameU="Set Milestone" Name="Настроить вехи"/>
+    <String NameU="Set Mullion Number" Name="Настроить количество средника "/>
+    <String NameU="Set Node Number..." Name="Настроить количество узла..."/>
+    <String NameU="Set Number of Lines" Name="Настроить количество лилии"/>
+    <String NameU="Set Number of Terminals..." Name="Настроить количество терминалов..."/>
+    <String NameU="Set Pie Number" Name="Настроить количество пирога"/>
+    <String NameU="Set Point Number" Name="Настроить количество точки"/>
+    <String NameU="Set Position and Data" Name="Настроить количество места и данных"/>
+    <String NameU="Set Prime Mover Type..." Name="Настроить тип Первичного двигателя ..."/>
+    <String NameU="Set Process Detail..." Name="Настроить подробности процесса..."/>
+    <String NameU="Set Progress" Name="Настроить процесс"/>
+    <String NameU="Set Qualifier Type..." Name="Настроить тип спецификатора..."/>
+    <String NameU="Set Range Data" Name="Настроить диапазон данных"/>
+    <String NameU="Set Range Number" Name="Настроить диапазон номеров"/>
+    <String NameU="Set Relay Type" Name="Настроить тип реле"/>
+    <String NameU="Set Repeater Type..." Name="Настроить тип ретранслятора..."/>
+    <String NameU="Set Ring Number" Name="Настроить количество кольца"/>
+	<String NameU="Set Ring Thickness" Name="Установить толщину кольца"/>
+    <String NameU="Set Road Width" Name="Настроить Ширину дороги"/>
+    <String NameU="Set Row Number" Name="Настроить количество ряда "/>
+    <String NameU="Set Segment Number" Name="Настроить количество сегмента"/>
+    <String NameU="Set Series Number" Name="Настроить количество серии"/>
+    <String NameU="Set Solid" Name="Настроить сплошной"/>
+    <String NameU="Set Start and Step" Name="Настроить Начальное значение и разность"/>
+    <String NameU="Set Station Type..." Name="Настроить тип станции..."/>
+    <String NameU="Set Substation Type..." Name="Настроить тип подстанции..."/>
+    <String NameU="Set Switch Position" Name="Настроить положение переключателя"/>
+    <String NameU="Set Switch Type..." Name="Настроить тип переключателя..."/>
+    <String NameU="Set Synchro Type..." Name="Настроить Синхронный тип..."/>
+    <String NameU="Set Telephone Type..." Name="Настроить тип телефона..."/>
+    <String NameU="Set Time Bar" Name="Настроить полоса времени"/>
+    <String NameU="Set Tooth Size" Name="Настроить  Размер зуба"/>
+    <String NameU="Set Transformer Properties..." Name="Настроить Свойства трансформатора..."/>
+    <String NameU="Set Tube Width" Name="Настроить  ширину трубки"/>
+    <String NameU="Set U Number" Name=" Настроить количество единицы"/>
+    <String NameU="Set Vertex Number" Name="Настроить количество вершины"/>
+    <String NameU="Set Vertical Interval" Name="Настроить вертикальный интервал"/>
+    <String NameU="Set Wave Type..." Name="Настроить тип волны..."/>
+    <String NameU="Set Week Number" Name="Настроить количество недели "/>
+    <String NameU="Set Width" Name="Настроить  ширину"/>
+    <String NameU="Set Winding Type..." Name="Настроить Тип обмотки..."/>
+    <String NameU="Set X, Y Position" Name="Настроить Положение Оси X, Y"/>
+    <String NameU="Set Zoom Size" Name="Настроить размер увеличия"/>
+    <String NameU="Set the angle value from -180 to 180" Name="Настроить значение угла от -180 до 180"/>
+    <String NameU="Set to 1 Line" Name="Настроить на 1 линии"/>
+    <String NameU="Set to 1 Line Input" Name="Настроить на ввод 1 линии "/>
+    <String NameU="Set to 2 Line" Name="Настроить на 2 линии"/>
+    <String NameU="Set to 2 Line Input" Name="Настроить на ввод 2 линии "/>
+    <String NameU="Set to Bidirectional" Name="Настроить на двунаправленный"/>
+    <String NameU="Set to Capacitive" Name="Настроить на емкостный"/>
+    <String NameU="Set to Circular" Name="Настроить на круг "/>
+    <String NameU="Set to Coherent" Name="Настроить на когерентный"/>
+    <String NameU="Set to Current Source" Name="Настроить на Источник тока"/>
+    <String NameU="Set to Fixed" Name="Настроить на фиксированный"/>
+    <String NameU="Set to Ideal Current" Name="Настроить на Идеальный ток "/>
+    <String NameU="Set to Ideal Voltage" Name="Настроить на Идеальное напряжение "/>
+    <String NameU="Set to Indicating" Name="Настроить на индикатор"/>
+    <String NameU="Set to Ionizing" Name="Настроить на ионизацию"/>
+    <String NameU="Set to Light emitting" Name="Настроить на светоизлучающие"/>
+    <String NameU="Set to N-Type Channel" Name="Настроить на N-тип канал"/>
+    <String NameU="Set to NPN" Name="Настроить на NPN"/>
+    <String NameU="Set to Negative Pulse" Name="Настроить на отрицательный импульс"/>
+    <String NameU="Set to Negative Step" Name="Настроить на Отрицательнй шаг"/>
+    <String NameU="Set to Non-capacitive" Name="Настроить на емкостный"/>
+    <String NameU="Set to Non-coherent" Name="Настроить на некогерентное"/>
+    <String NameU="Set to Non-indicating" Name="Настроить на отсутствие индикатора"/>
+    <String NameU="Set to Non-ionizing" Name="Настроить на неионизирующее"/>
+    <String NameU="Set to P-Type Channel" Name="Настроить на P-тип канал"/>
+    <String NameU="Set to PNP" Name="Настроить на PNP"/>
+    <String NameU="Set to Positive Pulse" Name="Настроить на  Положительный импульс"/>
+    <String NameU="Set to Positive Step" Name="Настроить на  Положительный Шаг "/>
+    <String NameU="Set to Recording" Name="Настроить на запись"/>
+    <String NameU="Set to Rectangular" Name="Настроить на прямоугольник"/>
+    <String NameU="Set to Reproducing" Name="Настроить на Размножение"/>
+    <String NameU="Set to Signal Lamp" Name="Настроить на сигнальную лампу"/>
+    <String NameU="Set to Standard Lamp" Name="Настроить на Торшер"/>
+    <String NameU="Set to Unidirectional" Name="Настроить на однонаправленный"/>
+    <String NameU="Set to Variable" Name="Настроить на переменную"/>
+    <String NameU="Set to Voltage Source" Name="Настроить на Источник напряжения"/>
+    <String NameU="Set to photosensitive" Name="Настроить на светочувствительный"/>
+    <String NameU="Show 1-Wire" Name="Показать первый провод"/>
+    <String NameU="Show 1F" Name="Показать 1F"/>
+    <String NameU="Show 2F" Name="Показать 2F"/>
+    <String NameU="Show 3 Terminals" Name="Показать 3 терминала"/>
+    <String NameU="Show 3-Wire" Name="Показать третий провод"/>
+    <String NameU="Show 4 Terminals" Name="Показать 4 терминала"/>
+    <String NameU="Show Alternative Symbol" Name="Показать Альтернативный символ"/>
+    <String NameU="Show Arrow" Name="Показать стрелку"/>
+    <String NameU="Show Axis" Name="Показать Оси"/>
+    <String NameU="Show Axis Labels" Name="Показать отметки Оси"/>
+    <String NameU="Show Border" Name="Показать бордюр"/>
+    <String NameU="Show Both Directions" Name="Показать Оба направления"/>
+    <String NameU="Show Bottom" Name="Показать Дно"/>
+    <String NameU="Show Break Contact" Name="Показать размыкающий контакт"/>
+    <String NameU="Show Center" Name="Показать центр"/>
+    <String NameU="Show Circle" Name="Показать кольцо"/>
+    <String NameU="Show Closed Circuit" Name="Показать Закрытую схему "/>
+    <String NameU="Show Connect Line" Name="Показать соединительную линию"/>
+    <String NameU="Show Cross" Name="Показать кросс"/>
+    <String NameU="Show Cross Line" Name="Показать лилию кросса"/>
+    <String NameU="Show Data Labels" Name="Показать отметки данных"/>
+    <String NameU="Show Data Labels on Bottom" Name="Показать отметки данных внизу"/>
+    <String NameU="Show Data Labels on Right" Name="Показать отметки данных справа"/>
+    <String NameU="Show Delete" Name="Показать кнопку удаления"/>
+    <String NameU="Show Desiccant" Name="Показать сиккатив"/>
+    <String NameU="Show Discriminator" Name="Показать дискриминатор"/>
+    <String NameU="Show Disengaged" Name="Показать разъединенный"/>
+    <String NameU="Show Dot" Name="Показатьточку "/>
+    <String NameU="Show Dripping" Name="Показать капающий"/>
+    <String NameU="Show End Tick" Name="Показать галочку конца"/>
+    <String NameU="Show Engaged" Name="Показать занято"/>
+    <String NameU="Show Envelop" Name="Показать обволакивающий"/>
+    <String NameU="Show Exit Width" Name="Показать Ширину Выхода"/>
+    <String NameU="Show Filter Paper" Name="Показать фильтровальную бумагу"/>
+    <String NameU="Show First Block of Title" Name="Показать Первый блок Названия"/>
+    <String NameU="Show Four Lines" Name="Показать 4 лилии"/>
+    <String NameU="Show Granule" Name="Показать гранулу"/>
+    <String NameU="Show Grid" Name="Показать Сетку "/>
+    <String NameU="Show Groove" Name="Показать желобок"/>
+    <String NameU="Show Held Closed" Name="Показать закрытое положение"/>
+    <String NameU="Show Held Open" Name="Показать открытое положение"/>
+    <String NameU="Show Horizontal Grid" Name="Показать горизонтальную сетку"/>
+    <String NameU="Show Image" Name="Показать картинку"/>
+    <String NameU="Show Image Circle" Name="Показать картинку круга"/>
+    <String NameU="Show Iron Clip 1" Name="Показать Железный Клип 1"/>
+    <String NameU="Show Iron Clip 2" Name="Показать Железный Клип 2"/>
+    <String NameU="Show Junction" Name="Показать стык"/>
+    <String NameU="Show Left Box" Name="Показать левое текстовое окно"/>
+    <String NameU="Show Left Text" Name="Показать левый текст"/>
+    <String NameU="Show Legend" Name="Показать надпись"/>
+    <String NameU="Show Legend on Bottom" Name="Показать надпись на дне"/>
+    <String NameU="Show Legend on Right Side" Name="Показать надпись на правое стороне"/>
+    <String NameU="Show Line" Name="Показать линию"/>
+    <String NameU="Show Liquid" Name="Показать жидкость"/>
+    <String NameU="Show Make Contact" Name="Показать Замкнутый контакт "/>
+    <String NameU="Show Middle Circle" Name="Показать серединное кольцо"/>
+    <String NameU="Show Neutral" Name="Показать нулевую линию"/>
+    <String NameU="Show One Direction" Name="Показать одноправление"/>
+    <String NameU="Show One Line" Name="Показать первую лилию"/>
+    <String NameU="Show Open Circuit" Name="Показать разомкнутую цепь "/>
+    <String NameU="Show Operator" Name="Показать оператор"/>
+    <String NameU="Show Photo" Name="Показать картинку"/>
+    <String NameU="Show Polarity Symbols" Name="Показать символы полярности"/>
+    <String NameU="Show Reflector" Name="Показать отражатель"/>
+    <String NameU="Show Refresh Button" Name="Показать кнопку обновления"/>
+    <String NameU="Show Right Text" Name="Показать правое текстовое окно"/>
+    <String NameU="Show Ruler" Name="Показать линейку"/>
+    <String NameU="Show SWOT" Name="Показать SWOT"/>
+    <String NameU="Show Scale Mark" Name="Показать отметку шкалы"/>
+    <String NameU="Show Seam" Name="Показать шов"/>
+    <String NameU="Show Solid" Name="Показать массив "/>
+    <String NameU="Show Solid Matter" Name="Показать Твердое вещество"/>
+    <String NameU="Show Stair Stagger" Name="Показать Лестничный Стаггер"/>
+    <String NameU="Show Table" Name="Показать стол"/>
+    <String NameU="Show Tank Lip" Name="Показать Резервуар для губ"/>
+    <String NameU="Show Text" Name="Показать текст"/>
+    <String NameU="Show Text Block" Name="Показать текстовое окно"/>
+    <String NameU="Show Text Circle" Name="Показать круглое текстовое окно"/>
+    <String NameU="Show Tick" Name="显示梗"/>
+    <String NameU="Show Title" Name="Показать название"/>
+    <String NameU="Show Title Bar" Name="Показать галочку"/>
+    <String NameU="Show Two Lines" Name="Показать 2 лилии"/>
+    <String NameU="Show Units" Name="Показать единицу"/>
+    <String NameU="Show Vertical Grid" Name="Показать  Вертикальную сетку"/>
+    <String NameU="Show Water" Name="Показать воду"/>
+    <String NameU="Show/Hide Axis Labels" Name="Показать/Скрыть метки оси"/>
+    <String NameU="Shunt or Separate" Name="Шунта или раздельный"/>
+    <String NameU="Signaling Frequency" Name="Передача сигналов частоты"/>
+    <String NameU="Simultaneous" Name="одновременный"/>
+    <String NameU="Sine Wave" Name="Синусоидальная волна"/>
+    <String NameU="Single Line" Name="Одна линия"/>
+    <String NameU="Single-line Symbol" Name="Однолинейный Символ"/>
+    <String NameU="Single-load" Name="Одноместная нагрузка"/>
+    <String NameU="Single-stroke Bell" Name="Однотактный Звонок"/>
+    <String NameU="Siren" Name="Сирена"/>
+    <String NameU="Slot" Name="Слот"/>
+    <String NameU="Slow Wave Structure" Name="Медленная волновая"/>
+    <String NameU="Slow-operate" Name="Замедленная операция"/>
+    <String NameU="Slow-release" Name="Замедленное высвобождение"/>
+    <String NameU="Small" Name="Маленький"/>
+    <String NameU="Small Scale" Name="Малый масштаб"/>
+    <String NameU="Smybol 3" Name="Символ 3"/>
+    <String NameU="Socket and Spigot" Name="Оправа и выступ"/>
+    <String NameU="Soldered" Name="Припаянный"/>
+    <String NameU="Solid" Name="массив"/>
+	<String NameU="Solid Line" Name="твердое тело"/>
+    <String NameU="Solvent" Name="растворитель"/>
+    <String NameU="Space for an Icon" Name="Пространство для иконы"/>
+    <String NameU="Speaker Phone" Name="Громкая связь"/>
+    <String NameU="Sphere Gap" Name="разрыв сферы"/>
+    <String NameU="Square" Name="Квадрат"/>
+    <String NameU="Square Landing" Name="Квадратная площадь"/>
+    <String NameU="Square Marker" Name="Квадратный Маркер"/>
+    <String NameU="Standard" Name="Стандарт"/>
+    <String NameU="Standard Bell" Name="Стандартный звонок"/>
+    <String NameU="Standard Formt" Name="Стандартный формат"/>
+    <String NameU="Standard Symbol" Name="Стандартный символ"/>
+    <String NameU="Star" Name="Звезда"/>
+    <String NameU="Star4" Name="Четырехконечная звезда"/>
+    <String NameU="Star5" Name="Пятиконечная звезда"/>
+    <String NameU="Start Date" Name="Дата начала"/>
+    <String NameU="Start From Monday" Name="Начать с понедельника"/>
+    <String NameU="Start State" Name="Начальное состояние"/>
+    <String NameU="Start Value" Name="Начальное значение"/>
+    <String NameU="Start/End" Name="Начало / конец"/>
+    <String NameU="State" Name="Состояние"/>
+    <String NameU="Station Specifics" Name="Спецификация станции"/>
+    <String NameU="Station Type" Name="Тип станции"/>
+    <String NameU="Step" Name="Шаг"/>
+    <String NameU="Step Size" Name="Размер шага"/>
+    <String NameU="Stop State" Name="Состояние остановки"/>
+    <String NameU="Stop/Cancel" Name="Стоп / отменить"/>
+    <String NameU="String" Name="Строка"/>
+    <String NameU="Sub Menu" Name="Подменю"/>
+    <String NameU="Sub-diagram ID" Name="суб-диаграм ID"/>
+    <String NameU="SubType" Name="Подтип"/>
+    <String NameU="Submarine" Name="Подводная лодка"/>
+    <String NameU="Submersion" Name="Погружение в воду "/>
+    <String NameU="Subprocess" Name="Подпроцесс"/>
+    <String NameU="Substation Type" Name="Тип подстанции"/>
+    <String NameU="Substation specifics" Name="Спецификация подстанции"/>
+    <String NameU="Substitutable" Name="Заменяемый"/>
+    <String NameU="Substrate Connection" Name="Соединение подложки"/>
+    <String NameU="Suggested value is greater than or equal to 0" Name="Предлагаемое значение больше или равно 0"/>
+    <String NameU="Summing" Name="Суммирующий"/>
+    <String NameU="Supergroup Pilot Frequency" Name="частота супергруппы пилота"/>
+    <String NameU="Suppressed Pilot Frequency" Name="подавить частоты пилота"/>
+    <String NameU="Suppressed-carrier Frequency" Name="несущая частота подавленной "/>
+    <String NameU="Switch Position" Name="позиция переключателя"/>
+    <String NameU="Switch Type" Name="Тип переключателя "/>
+    <String NameU="Symbol 1" Name="Символ 1"/>
+    <String NameU="Symbol 2" Name="Символ 2"/>
+    <String NameU="Symbol 3" Name="Символ 3"/>
+    <String NameU="Symbol 4" Name="Символ 4"/>
+    <String NameU="Symbol Option" Name="Выбор символа"/>
+    <String NameU="Synchro Type" Name="тип синхронизатора"/>
+    <String NameU="Synchronoscope" Name="синхроноскопа"/>
+    <String NameU="Synchronous Converter" Name="Синхронный преобразователь"/>
+    <String NameU="Synchronous Generator" Name="Синхронный генератор"/>
+    <String NameU="Synchronous Motor" Name="Синхронный мотор"/>
+    <String NameU="T Type-Gate" Name="Воротоа типа T"/>
+    <String NameU="TRUE" Name="Да"/>
+    <String NameU="Tachometer" Name="Тахометр"/>
+    <String NameU="Tape Perforating" Name="Лента пефорируя"/>
+    <String NameU="Tape Printing" Name="Лента Печать"/>
+    <String NameU="Tape Printing/Perforating" Name="Лента Печать / пефорируя"/>
+    <String NameU="Taps" Name="Отводы"/>
+	<String NameU="Task Type - Business Rule" Name="тип задачи - бизнес - правила"/>
+	<String NameU="Task Type - Instantiating Receive" Name="тип задачи - получение"/>
+	<String NameU="Task Type - Manual" Name="тип задачи - вручную"/>
+	<String NameU="Task Type - None" Name="тип задачи - Нет"/>
+	<String NameU="Task Type - Receive" Name="тип задачи - получение"/>
+	<String NameU="Task Type - Script" Name="тип задачи - сценарий"/>
+	<String NameU="Task Type - Send" Name="тип задачи - отправка"/>
+	<String NameU="Task Type - Service" Name="тип задачи - сервис"/>
+	<String NameU="Task Type - User" Name="тип задачи - пользователь"/>
+    <String NameU="Telephone Type" Name="Тип телефона"/>
+    <String NameU="Terminals" Name="Терминалы"/>
+    <String NameU="Terminating Set" Name="Настройка Терминалов"/>
+    <String NameU="Terminating Set w/ Balancing Network" Name="Оканчивающихся настройка ж / сети баланса"/>
+    <String NameU="Text" Name="Текст"/>
+    <String NameU="Text Parallel" Name="Текст Параллельный"/>
+    <String NameU="Text Perpendicular" Name="Текст Перпендикулярный"/>
+    <String NameU="The unit displayed after current value, e.g. 180 USD" Name="Единица отображается после текущего значения, например：180 USD"/>
+    <String NameU="The unit displayed before current value, e.g. $180" Name="Единица отображается до текущего значения, например：180 USD"/>
+    <String NameU="Thermometer" Name="Термометр"/>
+    <String NameU="Thickness" Name="Толщина"/>
+    <String NameU="Third Derivative" Name="Третяя Производная"/>
+    <String NameU="Thousand Separator" Name="Разделитель тысяч"/>
+    <String NameU="Tick Number" Name="Количество шкалы"/>
+    <String NameU="Timer" Name="Таймер"/>
+    <String NameU="Title" Name="Название"/>
+    <String NameU="Tooth Size" Name="Размер Зуба"/>
+    <String NameU="Top" Name="Вершина"/>
+    <String NameU="Top Hook" Name="Верихий крюк"/>
+    <String NameU="Top Left" Name="Верхний левый"/>
+    <String NameU="Top Right" Name="Верхний правый"/>
+    <String NameU="Touching" Name="Касающийся"/>
+    <String NameU="Tracking Station" Name="Станция слежения"/>
+    <String NameU="Transition Point" Name="точка перехода"/>
+    <String NameU="Transmission" Name="Трансмиссия"/>
+    <String NameU="Transmitter" Name="Передатчик" />
+    <String NameU="Triangle" Name="Треугольник"/>
+    <String NameU="Trigger" Name="Триггер"/>
+    <String NameU="True" Name="Правда"/>
+    <String NameU="Tube Bundle Type" Name="Тип Трубного пучка"/>
+    <String NameU="Tube Width" Name="Ширина труба"/>
+    <String NameU="Turbine" Name="турбина"/>
+    <String NameU="Turn Off" Name="Выключить"/>
+    <String NameU="Turn On" Name="Включить"/>
+    <String NameU="Turn-switch" Name="Поворотный переключатель"/>
+    <String NameU="Turning" Name="поворотный"/>
+    <String NameU="Two Circles" Name="Два круга"/>
+    <String NameU="Two Input" Name="Два входных"/>
+    <String NameU="Two Lines" Name="Две строки"/>
+    <String NameU="Two-way Simplex" Name="Двусторонний Симплекс"/>
+    <String NameU="Type" Name="Тип"/>
+    <String NameU="Type 1" Name="Тип 1"/>
+    <String NameU="Type 2" Name="Тип 2"/>
+    <String NameU="Type 3" Name="Тип 3"/>
+    <String NameU="Type 4" Name="Тип 4"/>
+    <String NameU="Type A" Name="Тип A"/>
+    <String NameU="Type B" Name="Тип B"/>
+    <String NameU="Type C" Name="Тип C"/>
+    <String NameU="U Number" Name=" Количество U"/>
+    <String NameU="U-tubes" Name="U-образные трубки"/>
+    <String NameU="UnChecked" Name="непроверенный"/>
+    <String NameU="UnLock" Name="отпереть"/>
+    <String NameU="Underground" Name="подземный"/>
+    <String NameU="Ungrounded" Name="необоснованный"/>
+    <String NameU="Unidirectional Amplification" Name="Однонаправленное  усиление"/>
+    <String NameU="Unit" Name="Единица"/>
+    <String NameU="Units" Name="Единицы"/>
+    <String NameU="Units Display" Name="Показать единицы"/>
+    <String NameU="Unseparated" Name="Неотделенный"/>
+    <String NameU="Unspecified" Name="Неопределенные"/>
+    <String NameU="Up" Name="Вверх"/>
+	<String NameU="Up direction" Name="направление вверх"/>
+    <String NameU="Up Position" Name="Верхнее положение"/>
+    <String NameU="Urgent" Name="Срочно"/>
+    <String NameU="Val" Name="значение"/>
+    <String NameU="Value" Name="значение"/>
+    <String NameU="Value 1" Name="значение 1"/>
+    <String NameU="Value 2" Name="значение 2"/>
+    <String NameU="Valve" Name="клапан"/>
+    <String NameU="Valve Class" Name="Тип клапана"/>
+    <String NameU="Variable" Name="Переменная"/>
+    <String NameU="Varmeter" Name="Варметр"/>
+    <String NameU="Verified" Name="Проверенный"/>
+    <String NameU="Vertex Number" Name="Количество вершины"/>
+    <String NameU="Vertical" Name="Вертикальный"/>
+    <String NameU="Vertical Blades" Name="Вертикальные лезвия"/>
+    <String NameU="Vertical Flip" Name="Вертикальный флип"/>
+    <String NameU="Very Large" Name="Очень большой"/>
+    <String NameU="Very Small" Name="Очень маленький"/>
+    <String NameU="Vibrator" Name="Вибратор"/>
+	<String NameU="Violet" Name="фиолетовый"/>
+    <String NameU="Visible" Name="Видимый"/>
+    <String NameU="Voice Button" Name="Кнопка голоса"/>
+    <String NameU="Voltmeter" Name="Вольтметр"/>
+    <String NameU="Warning" Name="Предупреждение"/>
+    <String NameU="Wavemeter" Name="Волномер"/>
+    <String NameU="Weak Relationship" Name="Слабая связь"/>
+    <String NameU="Week" Name="Неделя"/>
+    <String NameU="Wet" Name="Мокрый"/>
+    <String NameU="Wheel" Name="Колесо"/>
+    <String NameU="Width" Name="Ширина"/>
+    <String NameU="Winding Type" Name="Тип обмотки"/>
+    <String NameU="Writing" Name="писать"/>
+	<String NameU="Woman" Name="женщина"/>
+	<String NameU="Worst" Name="самый плохой"/>
+    <String NameU="X" Name="Оси X "/>
+    <String NameU="X Axis Tick Number" Name="Значение шклаы Оси X  "/>
+    <String NameU="X Max Scale" Name="Максимальное значение Оси X"/>
+    <String NameU="X Min Scale" Name="Миниальное значение Оси X"/>
+    <String NameU="X-type" Name="Тип- X"/>
+    <String NameU="XNOR" Name="XNOR"/>
+    <String NameU="XOR" Name="XOR"/>
+    <String NameU="Y" Name="Оси Y"/>
+    <String NameU="Y Axis Tick Number" Name="Значение шклаы Оси Y"/>
+    <String NameU="Y Max Scale" Name="Максимальное значение Оси Y"/>
+    <String NameU="Y Min Scale" Name="Миниальное значение Оси Y"/>
+    <String NameU="Year" Name="Год"/>
+    <String NameU="Yellow" Name="Желтый"/>
+    <String NameU="Yes" Name="Да"/>
+    <String NameU="Zero Reactance" Name="Нулевое реактивное сопротивление"/>
+    <String NameU="Zero Reactance - Infinite susceptance" Name="Нулевое реактивное сопротивление——Бесконечная реактивная"/>
+    <String NameU="Zoom Size" Name="Увеличить размер"/>
+    <String NameU="d/M/yyyy" Name="d/M/yyyy"/>
+    <String NameU="d/M/yyyy h:mm AM/PM" Name="d/M/yyyy h:mm AM/PM"/>
+    <String NameU="e.g.18.56, [00: 20]; [0: 18]; [0.0: 18.5]; [0.00: 18.56]; [0.000: 18.56]" Name="Например: 18.56, [00: 20]; [0: 18]; [0.0: 18.5]; [0.00: 18.56]; [0.000: 18.56]"/>
+    <String NameU="e.g.18500, Normal:18500; Thousand Separator:18,500; Breviary:18.5K" Name="Например: 18500,Обычный:18500; Разделитель тысяч:18,500; Сокращение:18.5K"/>
+    <String NameU="h:mm AM/PM" Name="h:mm AM/PM"/>
+    <String NameU="hh:mm" Name="hh:mm"/>
+    <String NameU="yyyy" Name="yyyy"/>
+    <String NameU="yyyy-MM-dd" Name="yyyy-MM-dd"/>
+</ShapeStrings>

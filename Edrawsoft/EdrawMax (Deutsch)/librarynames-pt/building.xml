@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Building">
+	<Elem NameU="Cafe" Name="Café"/>
+	<Elem NameU="Villa" Name="Moradia"/>
+	<Elem NameU="Hospital" Name="Hospital"/>
+	<Elem NameU="Gas" Name="Combustível"/>
+	<Elem NameU="Hotel" Name="Hotel"/>
+	<Elem NameU="Flower Shop" Name="Florista"/>
+	<Elem NameU="Church" Name="Igreja"/>
+	<Elem NameU="Beach Villa" Name="Casa de Praia"/>
+	<Elem NameU="Castle" Name="Castelo"/>
+	<Elem NameU="Post Office" Name="Correios"/>
+	<Elem NameU="Market" Name="Mercado"/>
+	<Elem NameU="Newsstand" Name="Quiosque"/>
+	<Elem NameU="Cake Shop" Name="Pastelaria"/>
+	<Elem NameU="Factory" Name="Fábrica"/>
+	<Elem NameU="Bank" Name="Banco"/>
+	<Elem NameU="Clothing Store" Name="Loja de Roupa"/>
+	<Elem NameU="Gym" Name="Ginásio"/>
+	<Elem NameU="School" Name="Escola"/>
+	<Elem NameU="Apartment" Name="Apartamento"/>
+	<Elem NameU="Nursing Home" Name="Casa de Repouso"/>
+	<Elem NameU="Building" Name="Edifício"/>
+	<Elem NameU="Bookstore" Name="Livraria"/>
+	<Elem NameU="Library" Name="Biblioteca"/>
+	<Elem NameU="Police Station" Name="Posto de Polícia"/>
+	<Elem NameU="Museum" Name="Museu"/>
+	<Elem NameU="Homestay" Name="Casa de família"/>
+	<Elem NameU="Memorial" Name="Memorial"/>
+	<Elem NameU="Restaurant" Name="Restaurante"/>
+	<Elem NameU="Office Building" Name="Edifício de Escritórios"/>
+</Lib>

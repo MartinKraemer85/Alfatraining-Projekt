@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Business Layer">
+	<Elem NameU="Business Actor" Name="Acteur métier"/>
+	<Elem NameU="Business Collaboration" Name="Collaboration métier"/>
+	<Elem NameU="Business Process" Name="Processus métier"/>
+	<Elem NameU="Business Function" Name="Fonction métier"/>
+	<Elem NameU="Business Interaction" Name="Interaction métier"/>
+	<Elem NameU="Business Event" Name="Événement métier"/>
+	<Elem NameU="Business Service" Name="Service métier"/>
+	<Elem NameU="Business Interface" Name="Interface métier"/>
+	<Elem NameU="Business Object" Name="Objectif métier"/>
+	<Elem NameU="Product" Name="Produit"/>
+	<Elem NameU="Contract" Name="Contrat"/>
+	<Elem NameU="Representation" Name="Représentation"/>
+</Lib>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Industry">
+    <Elem NameU="Asphalt Mixture Tank" Name="아스팔트 혼합 탱크"/>
+    <Elem NameU="Asphalt Expansion Tank" Name="아스팔트 확장 탱크"/>
+    <Elem NameU="Animal manure lagoon" Name="동물 분뇨 석호"/>
+    <Elem NameU="The chariot liquid slag pool" Name="액체 슬래그 풀"/>
+    <Elem NameU="Blow tank" Name="블로우 탱크"/>
+    <Elem NameU="Cycle of intelligent control" Name="지능형 제어 주기"/>
+    <Elem NameU="Dry yeast powder storehouse" Name="건조 효모 분말 창고"/>
+    <Elem NameU="High Efficiency Steam Turbine" Name="고효율 증기 터빈"/>
+    <Elem NameU="Hopper" Name="깔때기"/>
+    <Elem NameU="Hydrocyclone" Name="하이드로 사이클론"/>
+    <Elem NameU="Mother liquor tank" Name="Mother liquor 탱크"/>
+    <Elem NameU="Mother liquor" Name="Mother liquor"/>
+    <Elem NameU="Methylal Metering Tank" Name="메틸알 미터링 탱크"/>
+    <Elem NameU="Maturity" Name="성숙"/>
+    <Elem NameU="Limestone powder storehouse" Name="석회석 분말 창고"/>
+    <Elem NameU="Level 3 high-speed shearing machine" Name="레벨 3 고속 전단기"/>
+    <Elem NameU="Shearer" Name="Shearer"/>
+    <Elem NameU="Sintering machine" Name="소결기"/>
+    <Elem NameU="Finished Products Tank" Name="완제품 탱크"/>
+    <Elem NameU="Points bin" Name="포인트 빈"/>
+    <Elem NameU="Stock bin" Name="재고 빈"/>
+    <Elem NameU="Smoke Abatement Pipe" Name="연기 감소 파이프"/>
+    <Elem NameU="Conveyor" Name="컨베이어"/>
+    <Elem NameU="Thin stillage" Name="얇은 스틸"/>
+    <Elem NameU="Turbine" Name="터빈"/>
+    <Elem NameU="Set" Name="세트"/>
+    <Elem NameU="Main Stem Pipeline" Name="메인 스템 파이프 라인"/>
+</Lib>

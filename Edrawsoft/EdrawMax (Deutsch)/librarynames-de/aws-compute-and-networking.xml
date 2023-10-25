@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib nameU="AWS Compute and Networking">
+	<Elem NameU="AMI" Name="AMI"/>
+	<Elem NameU="CloudWatch" Name="CloudWatch"/>
+	<Elem NameU="DB on Instance" Name="DB auf Instanz"/>
+	<Elem NameU="Elastic IP" Name="Elastisch IP"/>
+	<Elem NameU="Instance" Name="Instanz"/>
+	<Elem NameU="Instances" Name="Instanz"/>
+	<Elem NameU="Instance Contents" Name="Instanz Inhalte"/>
+	<Elem NameU="Amazon EC2" Name="Amazon EC2"/>
+	<Elem NameU="Cluster" Name="Cluster"/>
+	<Elem NameU="HDFS Cluster" Name="HDFS Cluster"/>
+	<Elem NameU="Amazon EMR" Name="Amazon EMR"/>
+	<Elem NameU="Route 53 Hosted Zone" Name="Route 53 ausgerichtete Bereich"/>
+	<Elem NameU="Route 53 Route Table" Name="Route 53 Route Tabelle"/>
+	<Elem NameU="Route 53" Name="Route 53"/>
+	<Elem NameU="VPC Customer Gateway" Name="VPC Kundengateway"/>
+	<Elem NameU="VPC Internet Gateway" Name="VPC Internet-Gateway"/>
+	<Elem NameU="VPC Contents" Name="VPC Inhalte"/>
+	<Elem NameU="VPC Router" Name="VPC Router"/>
+	<Elem NameU="VPC VPN Connection" Name="VPC VPN Verbindung"/>
+	<Elem NameU="VPC VPN Gateway" Name="VPC VPN Gateway"/>
+	<Elem NameU="VPN Connection" Name="VPN Verbindung"/>
+	<Elem NameU="VPC" Name="VPC"/>
+	<Elem NameU="Auto Scaling" Name="Autoskalierung"/>
+	<Elem NameU="AWS Direct Connect" Name="AWS direkt angeschlossenen"/>
+	<Elem NameU="EC2 Optimized Instance" Name="EC2 optimierte Instanz"/>
+	<Elem NameU="Elastic Load Balancing" Name="Elastische Lastenausgleich"/>
+	<Elem NameU="Elastic Network Instance" Name="Elastische Netz-Beispiele"/>
+	<Elem NameU="EMR Engine" Name="EMR Motor"/>
+	<Elem NameU="EMR MapR M3 Engine" Name="EMR MapR M3 Motor"/>
+	<Elem NameU="EMR MapR M5 Engine" Name="EMR MapR M5 Motor"/>
+	<Elem NameU="EMR MapR M7 Engine" Name="EMR MapR M7 Motor"/>
+	<Elem NameU="Kinesis Enabled App" Name="Kinesis aktiviert App"/>
+	<Elem NameU="VPC Peering" Name="VPC Peering"/>
+	<Elem NameU="WorkSpaces" Name="WorkSpaces"/>
+	<Elem NameU="Lambda" Name="Lambda"/>
+</Lib>

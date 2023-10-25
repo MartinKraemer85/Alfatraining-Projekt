@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Basic Drawing Shapes">
+	<Elem NameU="Square" Name="Quadrato"/>
+	<Elem NameU="Rectangle" Name="Rettangolo"/>
+	<Elem NameU="Rounded Square" Name="Quadrato Arrotondato"/>
+	<Elem NameU="Rounded Rectangle" Name="Rettangolo Arrotondato"/>
+	<Elem NameU="Triangle" Name="Triangolo"/>
+	<Elem NameU="Beveled Rectangle" Name="Rettangolo Smussato"/>
+	<Elem NameU="Pentagon" Name="Pentagono"/>
+	<Elem NameU="Diamond" Name="Diamante"/>
+	<Elem NameU="Oval" Name="Ovale"/>
+	<Elem NameU="Parallelogram" Name="Parallelogramma"/>
+	<Elem NameU="Trapezoid" Name="Trapezio"/>
+	<Elem NameU="Rounded Triangle" Name="Triangolo Arrotondato"/>
+	<Elem NameU="Right Triangle" Name="Triangolo Rettangolo"/>
+	<Elem NameU="Round Rectangle" Name="Rettangolo Arrotondato"/>
+	<Elem NameU="Hexagon" Name="Esagono"/>
+	<Elem NameU="Octagon" Name="Ottagono"/>
+	<Elem NameU="Heart-Shaped" Name="Cuore"/>
+	<Elem NameU="Special Shape" Name="Forma Speciale"/>
+	<Elem NameU="Half Rounded Rectangle" Name="Rettangolo Arrotondato a Metà"/>
+	<Elem NameU="Semicircle" Name="Semicerchio"/>
+	<Elem NameU="Cloud Shape" Name="Forma di Nuvola"/>
+	<Elem NameU="Sector" Name="Segmento"/>
+	<Elem NameU="Drop Shape" Name="Goccia"/>
+	<Elem NameU="Shield Shape" Name="Scudo"/>
+	<Elem NameU="Half Rounded Riamond" Name="Diamante Semi-arrotondato"/>
+	<Elem NameU="Egg Shape" Name="Uovo"/>
+	<Elem NameU="Banner" Name="Banner"/>
+	<Elem NameU="Vertical Flag" Name="Bandiera Verticale"/>
+	<Elem NameU="V-Shaped Arrow" Name="Freccia a V"/>
+	<Elem NameU="Cross" Name="Croce"/>
+	<Elem NameU="Lightning" Name="Fulmine"/>
+	<Elem NameU="Moon" Name="Luna"/>
+	<Elem NameU="Crown" Name="Corona"/>
+	<Elem NameU="Circle" Name="Cerchio"/>
+	<Elem NameU="Star" Name="Stella"/>
+	<Elem NameU="Callout" Name="Callout"/>
+	<Elem NameU="Rectangle Frame" Name="Cornice Rettangolare"/>
+	<Elem NameU="Ring" Name="Anello"/>
+	<Elem NameU="Circles" Name="Cerchi"/>
+	<Elem NameU="Heptagon" Name="Ettagono"/>
+	<Elem NameU="Design Element" Name="Elemento di Design"/>
+	<Elem NameU="Hollow Square" Name="Quadrato Cavo"/>
+	<Elem NameU="Bevel Rectangle" Name="Rettangolo Smussato"/>
+	<Elem NameU="Chamfered Rectangle" Name="Rettangolo Bisellato"/>
+	<Elem NameU="Sosceles Triangle" Name="Triangolo Isoscele"/>
+	<Elem NameU="Dynamic Star" Name="Stella Dinamica"/>
+	<Elem NameU="Dynamic Inner Star" Name="Stella Interna Dinamica"/>
+	<Elem NameU="Dynamic Polygon" Name="Poligono Dinamico"/>
+	<Elem NameU="Dynamic Gear" Name="Ingranaggio Dinamico"/>
+	<Elem NameU="Design Elment" Name="Elemento di Design"/>
+	<Elem NameU="Half-round Rhombus" Name="Rombo Semicircolare"/>
+	<Elem NameU="Half-round Square" Name="Quadrato Semicircolare"/>
+	<Elem NameU="Hollow Shield" Name="Scudo Cavo"/>
+	<Elem NameU="Hollow Oval" Name="Ovale Cavo"/>
+	<Elem NameU="Hollow Circle" Name="Cerchio Cavo"/>
+	<Elem NameU="One side fillet" Name="Filetto da un lato"/>
+	<Elem NameU="Opposite fillet" Name="Filetto opposto"/>
+</Lib>

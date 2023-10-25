@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Sports">
+	<Elem NameU="Dribbling" Name="Fintando"/>
+	<Elem NameU="Layup" Name="Disposição"/>
+	<Elem NameU="Shooting BasketBall" Name="Lançar Basquete"/>
+	<Elem NameU="Shooting Football" Name="Rematar Futebol"/>
+	<Elem NameU="Tackling" Name="Cortar"/>
+	<Elem NameU="Playing Football 3" Name="Jogador Futebol 3"/>
+	<Elem NameU="Table Tennis 1" Name="Ténis de Mesa 1"/>
+	<Elem NameU="Table Tennis 2" Name="Ténis de Mesa 2"/>
+	<Elem NameU="Table Tennis 3" Name="Ténis de Mesa 3"/>
+	<Elem NameU="Badminton 1" Name="Badminton 1"/>
+	<Elem NameU="Badminton 2" Name="Badminton 2"/>
+	<Elem NameU="Volleyball 1" Name="Voleibol 1"/>
+	<Elem NameU="Volleyball 2" Name="Voleibol 2"/>
+	<Elem NameU="Volleyball 3" Name="Voleibol 3"/>
+	<Elem NameU="Volleyball 4" Name="Voleibol 4"/>
+	<Elem NameU="Volleyball 5" Name="Voleibol 5"/>
+	<Elem NameU="Rugby 1" Name="Râguebi 1"/>
+	<Elem NameU="Rugby 2" Name="Râguebi 2"/>
+	<Elem NameU="Rugby 3" Name="Râguebi 3"/>
+	<Elem NameU="Baseball 1" Name="Baisebol 1"/>
+	<Elem NameU="Baseball 2" Name="Baisebol 2"/>
+	<Elem NameU="Baseball 3" Name="Baisebol 3"/>
+	<Elem NameU="Hockey 1" Name="Hóquei 1"/>
+	<Elem NameU="Hockey 2" Name="Hóquei 2"/>
+	<Elem NameU="Hockey 3" Name="Hóquei 3"/>
+	<Elem NameU="Bowling 1" Name="Bowling 1"/>
+	<Elem NameU="Bowling 2" Name="Bowling 2"/>
+	<Elem NameU="Skating 1" Name="Patinagem 1"/>
+	<Elem NameU="Skating 2" Name="Patinagem 2"/>
+	<Elem NameU="Skating 3" Name="Patinagem 3"/>
+	<Elem NameU="Skiing 1" Name="Esqui 1"/>
+	<Elem NameU="Skiing 2" Name="Esqui 2"/>
+	<Elem NameU="Skiing 3" Name="Esqui 3"/>
+	<Elem NameU="Jogging 1" Name="Jogging 1"/>
+	<Elem NameU="Jogging 2" Name="Jogging 2"/>
+	<Elem NameU="Running on Treadmill 1" Name="Correr na Passadeira 1"/>
+	<Elem NameU="Swimming" Name="Nadar"/>
+	<Elem NameU="Running on Treadmill 2" Name="Correr na Passadeira 2"/>
+	<Elem NameU="Climbing" Name="Escalar"/>
+	<Elem NameU="Yoga 1" Name="Yoga 1"/>
+	<Elem NameU="Cycling" Name="Ciclismo"/>
+	<Elem NameU="Yoga 2" Name="Yoga 2"/>
+	<Elem NameU="Yoga 3" Name="Yoga 3"/>
+	<Elem NameU="Yoga 4" Name="Yoga 4"/>
+	<Elem NameU="Pole Vaulting" Name="Salto com Vara"/>
+	<Elem NameU="High Jump" Name="Salto em Altura"/>
+	<Elem NameU="Long Jump 1" Name="Salto em Comprimento 1"/>
+	<Elem NameU="Long Jump 2" Name="Salto em Comprimento 2"/>
+	<Elem NameU="Taekwondo 1" Name="Taekwondo 1"/>
+	<Elem NameU="Taekwondo 2" Name="Taekwondo 2"/>
+	<Elem NameU="Fencing" Name="Esgrima"/>
+	<Elem NameU="Pommel Horse 2" Name="Cavalo com Alças 2"/>
+	<Elem NameU="Pommel Horse 1" Name="Cavalo com Alças 1"/>
+	<Elem NameU="Hurdling" Name="Superar"/>
+	<Elem NameU="Drinking Water" Name="Beber Água"/>
+</Lib>

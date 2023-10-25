@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Alarm and Access Control">
+    <Elem NameU="Card access" Name="카드 접근"/>
+    <Elem NameU="Biometric access" Name="생물 인식 접근"/>
+    <Elem NameU="Keypad device" Name="키패드 장치"/>
+    <Elem NameU="Card reader with keypad" Name="키패드가 달린 카드 판독기"/>
+    <Elem NameU="Card reader with time" Name="시계가 달린 카드 판독기"/>
+    <Elem NameU="Smoke detector" Name="연기 탐지기"/>
+    <Elem NameU="Gas detector" Name="가스 탐지기"/>
+    <Elem NameU="Heat detector" Name="열 탐지기"/>
+    <Elem NameU="Turnstile" Name="회전식 출입"/>
+    <Elem NameU="Revolving door" Name="회전식 출입구"/>
+    <Elem NameU="Traffic arm" Name="교통 차단기"/>
+    <Elem NameU="Vehicle loop detector" Name="차량 감지기"/>
+    <Elem NameU="Electronic lock" Name="전기 잠금 장치"/>
+    <Elem NameU="Exit device" Name="비상구 장치"/>
+    <Elem NameU="Camera with keypad" Name="키패드가 달린 카메라"/>
+    <Elem NameU="Camera with intercom" Name="인터폰이 달린 카메라"/>
+    <Elem NameU="Camera with card reader" Name="카드 판독기가 달린 카메라"/>
+    <Elem NameU="Security window screen" Name="창 보안망"/>
+    <Elem NameU="Dome camera" Number="3" Name="돔형 카메라"/>
+    <Elem NameU="Bullet camera" Number="5" Name="총알 카메라"/>
+    <Elem NameU="CCTV camera" Number="8" Name="CCTV 카메라"/>
+    <Elem NameU="Emergency battery" Name="비상 대응 배터리"/>
+    <Elem NameU="Strobe" Name="섬광"/>
+</Lib>

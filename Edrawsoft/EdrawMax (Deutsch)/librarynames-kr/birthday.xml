@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Birthday">
+    <Elem NameU="Cake" Name="케익"/>
+    <Elem NameU="Rabbit" Name="토끼"/>
+    <Elem NameU="Cake" Name="케익"/>
+    <Elem NameU="Cupcake" Number="4" Name="컵케익"/>
+    <Elem NameU="Bear" Name="곰"/>
+    <Elem NameU="Birthday Greeting" Name="생일축하 카드"/>
+    <Elem NameU="Heart" Name="하트"/>
+    <Elem NameU="Flower" Number="2" Name="꽃"/>
+    <Elem NameU="Cake" Name="케익"/>
+    <Elem NameU="Diamond" Name="다이아몬드"/>
+    <Elem NameU="Heart Shaped Box" Name="하트모양 박스"/>
+    <Elem NameU="Camera" Name="카메라"/>
+    <Elem NameU="Cheers" Number="2" Name="축배"/>
+    <Elem NameU="Gift" Name="선물"/>
+    <Elem NameU="Candle" Name="캔들"/>
+    <Elem NameU="Balloon" Name="풍선"/>
+    <Elem NameU="Bunting" Name="채색기"/>
+    <Elem NameU="Camera" Name="카메라"/>
+    <Elem NameU="Cheers" Name="축배"/>
+    <Elem NameU="Wine Bottle" Name="와인병"/>
+    <Elem NameU="Letter" Number="2" Name="레터"/>
+    <Elem NameU="Candle" Name="캔들"/>
+    <Elem NameU="Guitar" Name="기타"/>
+    <Elem NameU="Fruit Juice" Number="2" Name="과일주스"/>
+    <Elem NameU="Medal" Name="메달"/>
+    <Elem NameU="Ice Cream" Name="아이스크림"/>
+    <Elem NameU="Mask" Number="2" Name="마스크"/>
+    <Elem NameU="Donut" Name="도넛"/>
+    <Elem NameU="Ice Cream" Name="아이스크림"/>
+    <Elem NameU="Birthday Hat" Number="6" Name="생일 모자"/>
+    <Elem NameU="Candy" Name="캔디"/>
+    <Elem NameU="Firecracker" Name="폭죽"/>
+    <Elem NameU="Surprise" Name="서프라이즈"/>
+    <Elem NameU="Balloon" Name="풍선"/>
+    <Elem NameU="Magic Wand" Number="2" Name="마법의 지팡이"/>
+    <Elem NameU="Donut" Number="2" Name="도넛"/>
+    <Elem NameU="Star" Number="3" Name="별"/>
+    <Elem NameU="Balloon" Name="풍선"/>
+    <Elem NameU="Birthday Crown" Number="2" Name="생일 왕관"/>
+    <Elem NameU="Moustache" Name="수염"/>
+    <Elem NameU="Gift" Name="선물"/>
+    <Elem NameU="Candle Glasses" Number="2" Name="캔들컵"/>
+    <Elem NameU="Gift" Number="5" Name="선물"/>
+    <Elem NameU="Chocolate Cake" Name="쵸콜렛 케익"/>
+    <Elem NameU="Birthday Cake" Number="4" Name="생일 케익"/>
+    <Elem NameU="Cupcake" Number="7" Name="컵케익"/>
+    <Elem NameU="Birthday Cake" Number="3" Name="생일 케익"/>
+    <Elem NameU="Peach" Name="복숭아"/>
+    <Elem NameU="Candy" Number="3" Name="캔디"/>
+    <Elem NameU="Wine Glass" Name="와인잔"/>
+    <Elem NameU="Wine" Name="와인"/>
+    <Elem NameU="Lollipop" Number="10" Name="롤리팝"/>
+    <Elem NameU="Birthday Surprise" Name="생일 서프라이즈"/>
+    <Elem NameU="Ribbon" Number="2" Name="리본"/>
+    <Elem NameU="Bunting" Number="2" Name="채색기"/>
+    <Elem NameU="Fireworks" Number="4" Name="폭죽"/>
+    <Elem NameU="Happy Birthday" Name="생일축하 1"/>
+    <Elem NameU="Bunting" Name="채색기"/>
+    <Elem NameU="Biscuits" Number="3" Name="과자"/>
+    <Elem NameU="Digital Candle" Number="10" Name="숫자 초불"/>
+</Lib>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="UML Activity State Diagram">
+    <Elem NameU="Activity" Name="活動"/>
+    <Elem NameU="State" Number="3" Name="狀態"/>
+    <Elem NameU="Object" Name="對象"/>
+    <Elem NameU="Horizontal Fork/Join" Name="水平交叉/連接"/>
+    <Elem NameU="Vertical Fork/Join" Name="垂直交叉/連接"/>
+    <Elem NameU="Merge/Branch" Name="合併/分支"/>
+    <Elem NameU="Initial" Name="開始"/>
+    <Elem NameU="Final" Name="終點"/>
+    <Elem NameU="Flow Final" Name="流結束"/>
+    <Elem NameU="History" Name="歷史"/>
+    <Elem NameU="Delay History" Name="延遲歷史記錄"/>
+    <Elem NameU="Send Signal" Name="發送信號"/>
+    <Elem NameU="Receive Signal" Name="接收信號"/>
+    <Elem NameU="Interrupting" Name="暫停"/>
+    <Elem NameU="Accept Event" Name="接受事件"/>
+    <Elem NameU="Point" Name="點"/>
+    <Elem NameU="Note" Name="注釋"/>
+    <Elem NameU="State Container" Name="狀態容器"/>
+    <Elem NameU="Container" Name="容器"/>
+    <Elem NameU="Horizontal Swimlane" Name="水平泳道"/>
+    <Elem NameU="Vertical Swimlane" Name="垂直泳道"/>
+    <Elem NameU="Matrix" Name="矩陣"/>
+    <Elem NameU="Control Flow" Number="2" Name="控制流"/>
+	<Elem NameU="Start Node" Name="啟動節點"/>
+	<Elem NameU="Final Node" Name="最終節點"/>
+	<Elem NameU="Bifurcation Node" Name="分岔節點"/>
+</Lib>

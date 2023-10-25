@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Astronomy">
+    <Elem NameU="Sun" Name="太陽"/>
+    <Elem NameU="Moon" Name="月球"/>
+    <Elem NameU="Mercury" Name="水星"/>
+    <Elem NameU="Venus" Name="金星"/>
+    <Elem NameU="Earth" Name="地球"/>
+    <Elem NameU="Mars" Name="火星"/>
+    <Elem NameU="Jupiter" Name="木星"/>
+    <Elem NameU="Pluto" Name="冥王星"/>
+    <Elem NameU="Saturn" Name="土星"/>
+    <Elem NameU="Uranus" Name="天王星"/>
+    <Elem NameU="Neptune" Name="海王星"/>
+    <Elem NameU="Galaxy" Name="銀河系"/>
+    <Elem NameU="Meteor Shower" Name="流星雨"/>
+    <Elem NameU="Spacecraft" Name="航天器"/>
+    <Elem NameU="Rocket" Name="火箭"/>
+    <Elem NameU="Satellite" Name="衛星"/>
+    <Elem NameU="Manned spacecraft" Name="載人飛船"/>
+    <Elem NameU="Space Station" Name="空間站"/>
+    <Elem NameU="UFO" Name="不明飛行物"/>
+    <Elem NameU="Astronaut" Name="宇航員"/>
+    <Elem NameU="Astronomical telescope" Name="天文望遠鏡"/>
+    <Elem NameU="Alien " Name="外星人"/>
+    <Elem NameU="Aries" Name="白羊座"/>
+    <Elem NameU="Taurus" Name="金牛座"/>
+    <Elem NameU="Gemini" Name="雙子座"/>
+    <Elem NameU="Cancer" Name="巨蟹座"/>
+    <Elem NameU="Lieo" Name="獅子座"/>
+    <Elem NameU="Virgo" Name="處女座"/>
+    <Elem NameU="Libra" Name="天秤座"/>
+    <Elem NameU="Scorpio" Name="天蝎座"/>
+    <Elem NameU="Sagittarius" Name="射手座"/>
+    <Elem NameU="Capricory" Name="摩羯座"/>
+    <Elem NameU="Aquarius" Name="水瓶座"/>
+    <Elem NameU="Pisces" Name="雙魚座"/>
+</Lib>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="PID Boilers">
+	<Elem NameU="Boiler" Name="Caldeira"/>
+	<Elem NameU="Boiler 2" Name="Caldeira 2"/>
+	<Elem NameU="Boiler 3" Name="Caldeira 3"/>
+	<Elem NameU="Boiler 4" Name="Caldeira 4"/>
+	<Elem NameU="Boiler 5" Name="Caldeira 5"/>
+	<Elem NameU="Boiler 6" Name="Caldeira 6"/>
+	<Elem NameU="Boiler 7" Name="Caldeira 7"/>
+	<Elem NameU="Boiler 8" Name="Caldeira 8"/>
+	<Elem NameU="Boiler 9" Name="Caldeira 9"/>
+	<Elem NameU="Boiler 10" Name="Caldeira 10"/>
+	<Elem NameU="Boiler 11" Name="Caldeira 11"/>
+	<Elem NameU="Boiler 12" Name="Caldeira 12"/>
+	<Elem NameU="Boiler 13" Name="Caldeira 13"/>
+	<Elem NameU="Boiler 14" Name="Caldeira 14"/>
+	<Elem NameU="Boiler with flames and pipe" Name="Caldeira com chamas e tubo"/>
+	<Elem NameU="Boiler with flames" Name="Caldeira com chamas"/>
+	<Elem NameU="Boiler with small fire" Name="Caldeira com fogo pequeno"/>
+	<Elem NameU="Blast furnace" Name="Alto-forno"/>
+	<Elem NameU="Electric hot water and steam boiler" Name="Caldeira de vapor e água quente elétrica"/>
+	<Elem NameU="Boiler control" Name="Controle de caldeira"/>
+	<Elem NameU="Firebox boiler" Name="Caldeira de fornalha"/>
+	<Elem NameU="Heating furnace" Name="Forno de aquecimento"/>
+	<Elem NameU="Hot blast heater" Name="Aquecedor de explosão quente"/>
+	<Elem NameU="Low emission boiler" Name="Caldeira de baixa emissão"/>
+	<Elem NameU="Boiler symbol" Name="Símbolo de caldeira"/>
+	<Elem NameU="Firebox" Name="Fornalha"/>
+	<Elem NameU="Flexible water tube boiler" Name="Caldeira de tubo de água flexível"/>
+	<Elem NameU="Oil fired boiler" Name="Caldeira a óleo"/>
+	<Elem NameU="Packaged firetube boiler" Name="Caldeira de tubo de combustão embalado"/>
+	<Elem NameU="Pulse combustion boiler" Name="Caldeira de combusão a impulso"/>
+	<Elem NameU="Skid-mounted boiler" Name="Caldeira montada em plataforma"/>
+	<Elem NameU="Steam boiler" Name="Caldeira a vapor"/>
+	<Elem NameU="Superheater" Name="Superaquecedor"/>
+</Lib>

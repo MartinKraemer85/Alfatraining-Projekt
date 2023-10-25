@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Molecular Model">
+    <Elem NameU="Atomic Structure 1" Name="原子結構 1"/>
+    <Elem NameU="Atomic Structure 2" Name="原子結構 2"/>
+    <Elem NameU="Atomic Structure 3" Name="原子結構 3"/>
+    <Elem NameU="Atomic Structure 4" Name="原子結構 4"/>
+    <Elem NameU="Black Molecule" Name="黑色分子"/>
+    <Elem NameU="Red Molecule" Name="紅色分子"/>
+    <Elem NameU="Blue Molecule" Name="藍色分子"/>
+    <Elem NameU="Bridge" Name="棍"/>
+    <Elem NameU="Bridge B" Name="棍 B"/>
+    <Elem NameU="Black Molecule B" Name="黑色分子 B"/>
+    <Elem NameU="Black Molecule C" Name="黑色分子 C"/>
+    <Elem NameU="Red Molecule B" Name="紅色分子 B"/>
+    <Elem NameU="Red Molecule C" Name="紅色分子 C"/>
+    <Elem NameU="Blue Molecule B" Name="藍色分子 B"/>
+    <Elem NameU="Blue Red Molecule C" Name="藍色分子 C"/>
+    <Elem NameU="Black Molecule D" Name="黑色分子 D"/>
+    <Elem NameU="Red Molecule D" Name="紅色分子 D"/>
+    <Elem NameU="Blue Molecule D" Name="藍色分子 D"/>
+    <Elem NameU="Black Molecule E" Name="黑色分子 E"/>
+    <Elem NameU="Red Molecule E" Name="紅色分子 E"/>
+    <Elem NameU="Blue Molecular E" Name="藍色分子 E"/>
+    <Elem NameU="Line bridge" Name="線"/>
+    <Elem NameU="Line bridge B" Name="線 B"/>
+    <Elem NameU="Half ball" Name="半球"/>
+    <Elem NameU="Half ball 2" Name="半球 2"/>
+</Lib>

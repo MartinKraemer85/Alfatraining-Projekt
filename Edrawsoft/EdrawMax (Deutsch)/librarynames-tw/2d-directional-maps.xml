@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="2D Directional Maps">
+    <Elem NameU="Road" Name="道路"/>
+    <Elem NameU="Road round" Name="道路（圓角）"/>
+    <Elem NameU="Corner" Name="角"/>
+    <Elem NameU="Corner round" Name="拐角"/>
+    <Elem NameU="3 Ways" Name="三岔路"/>
+    <Elem NameU="3 Ways round" Name="三岔路（圓角結尾）"/>
+    <Elem NameU="4 Ways" Name="十字路"/>
+    <Elem NameU="4 Ways round" Name="十字路（圓角結尾）"/>
+    <Elem NameU="Curve 1" Name="彎道 1"/>
+    <Elem NameU="Curve round 1" Name="圓角彎道 1"/>
+    <Elem NameU="Curve 2" Name="彎道 2"/>
+    <Elem NameU="Curve round 2" Name="圓角彎道 2"/>
+    <Elem NameU="Roundabout" Name="環狀交叉路口"/>
+    <Elem NameU="Cloverleaf interchange" Name="蝶式交匯處"/>
+    <Elem NameU="Diamond interchange" Name="菱形道路交匯處"/>
+    <Elem NameU="Bridge" Name="橋"/>
+    <Elem NameU="Flexible road" Name="蜿蜒的路"/>
+    <Elem NameU="Region" Name="地區"/>
+    <Elem NameU="Gate" Name="大門"/>
+    <Elem NameU="Roadway break" Name="道路破損"/>
+    <Elem NameU="Thin road" Name="狹窄的路"/>
+    <Elem NameU="City/town dot" Name="城市/城鎮點"/>
+    <Elem NameU="Junction number" Name="連接序號"/>
+</Lib>

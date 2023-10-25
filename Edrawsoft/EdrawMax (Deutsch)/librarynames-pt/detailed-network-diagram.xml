@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Detailed Network Diagram">
+	<Elem NameU="A-B Switch" Name="Interruptor A-B"/>
+	<Elem NameU="Biometric Reader" Name="Leitor Biométrico"/>
+	<Elem NameU="Data" Name="Dados"/>
+	<Elem NameU="Diagnostic Device" Name="Dispositivo de Diagnóstico"/>
+	<Elem NameU="External Media Drive" Name="Dispositivo de Media Externo"/>
+	<Elem NameU="External Hard Drive" Name="Disco Rígido Externo"/>
+	<Elem NameU="Radio tower" Name="Torre de rádio"/>
+	<Elem NameU="Fiber optic transmitter" Name="Transmissor de fibra ótica"/>
+	<Elem NameU="Patch Panel" Name="Painel de Correção"/>
+	<Elem NameU="PBX" Name="PBX"/>
+	<Elem NameU="Repeater" Name="Repetidor"/>
+	<Elem NameU="Satellite dish" Name="Prato de satélite"/>
+	<Elem NameU="Satellite" Name="Satélite"/>
+	<Elem NameU="Smartcard Reader" Name="Leitor de smartcard"/>
+	<Elem NameU="XML web server" Name="Servidor web XML"/>
+</Lib>

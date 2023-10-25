@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Kitchen and Dining Room">
+
+<Elem Name="Placard" NameU="Closet"/>
+
+<Elem Name="Cuisinière à gaz" NameU="Gas stoves"/>
+
+<Elem Name="Gamme avec grill" NameU="Range with grill"/>
+
+<Elem Name="Cuisinière à gaz quatre éléments" NameU="Four-element gas range"/>
+
+<Elem Name="Cuisinière à gaz six éléments" NameU="Six-element gas range"/>
+
+<Elem Name="Gas range" NameU="Gas range"/>
+
+<Elem Name="Cuisinière avec four à basse" NameU="Cooker with low oven"/>
+
+<Elem Name="Cooker" NameU="Cooker"/>
+
+<Elem Name="Range" NameU="Range"/>
+
+<Elem Name="Flat electic range" NameU="Flat electic range"/>
+
+<Elem Name="Slide-in electric range" NameU="Slide-in electric range"/>
+
+<Elem Name="Wall oven" NameU="Wall oven"/>
+
+<Elem Name="Microwave" NameU="Microwave"/>
+
+<Elem Name="Dishwasher" NameU="Dishwasher"/>
+
+<Elem Name="Washing machine" NameU="Washing machine"/>
+
+<Elem Name="Trash compactor" NameU="Trash compactor"/>
+
+<Elem Name="Food cooler" NameU="Food cooler"/>
+
+<Elem Name="Juicer" NameU="Juicer"/>
+
+<Elem Name="Bread machine 1" NameU="Bread machine 1"/>
+
+<Elem Name="Bread machine 2" NameU="Bread machine 2"/>
+
+<Elem Name="Vending machine" NameU="Vending machine"/>
+
+<Elem Name="Vasque" NameU="Basin"/>
+
+<Elem Name="Double vasque" NameU="Double basin"/>
+
+<Elem Name="Évier piédestal" NameU="Pedestal sink"/>
+
+<Elem Name="Comptoir-évier" NameU="Countertop sink"/>
+
+<Elem Name="Distributeur" NameU="Dispenser"/>
+
+<Elem Name="Porte-serviettes" NameU="Towel rack"/>
+
+<Elem Name="Table ronde s.à.m" NameU="Circular dining table"/>
+
+<Elem Name="Table ronde" NameU="Circular table"/>
+
+<Elem Name="Table s.à.m" NameU="Dining table"/>
+
+<Elem Name="Table rectangle s.à.m" NameU="Oblong dining table"/>
+
+<Elem Name="Table ovale s.à.m" NameU="Oval dining table"/>
+
+<Elem Name="Table carrée" NameU="Square table"/>
+
+<Elem Name="Frigo" NameU="Ref"/>
+
+<Elem Name="Cabinet" NameU="Cabinet"/>
+
+<Elem Name="Grille-pain" NameU="Toaster"/>
+
+<Elem Name="Four" NameU="Oven"/>
+
+<Elem Name="Barbecue électrique" NameU="Electric barbecue"/>
+
+<Elem Name="Casserole" NameU="Saucepan"/>
+
+<Elem Name="Mijoteuse" NameU="Slow cooker"/>
+
+<Elem Name="Mijoteuse 2" NameU="Slow cooker 2"/>
+
+<Elem Name="Cuisinière à induction" NameU="Induction cooker"/>
+
+<Elem Name="Casserole" NameU="Pan"/>
+
+<Elem Name="Plat" NameU="Dish"/>
+
+<Elem Name="Assiette de fruits" NameU="Fruit plate"/>
+
+<Elem Name="Planche à découper" NameU="Chopping board"/>
+
+<Elem Name="Hotte" NameU="Smoke machine"/>
+
+<Elem Name="Stérilisateur" NameU="Disinfection cabinet"/>
+
+<Elem Name="Réfrigérateur" NameU="Refrigerator"/>
+
+<Elem Name="Réfrigérateur 2" NameU="Refrigerator 2"/>
+
+<Elem Name="Cheminée" NameU="Flue"/>
+
+<Elem Name="Placement" NameU="Placement"/>
+
+<Elem Name="Chest freezer" NameU="Chest freezer"/>
+
+<Elem Name="Built-in refrigerator" NameU="Built-in refrigerator"/>
+
+<Elem Name="Water cooler" NameU="Water cooler"/>
+
+<Elem Name="Coffee maker" NameU="Coffee maker"/>
+
+<Elem Name="Water heater" NameU="Water heater"/>
+
+<Elem Name="Île" NameU="Island"/>
+
+<Elem Name="Table de salle à manger carrée" NameU="Square Dining Table"/>
+
+<Elem Name="Table de salle à manger carrée avec coins arrondis" NameU="Square Dining Table with Rounded Corners"/>
+
+<Elem Name="Table à manger ronde" NameU="Round Dining Table"/>
+
+<Elem Name="Table de salle à manger rectangulaire avec coins arrondis" NameU="Rectangular Dining Table with Rounded Corners"/>
+
+<Elem Name="Table à manger rectangulaire" NameU="Rectangular Dining Table"/>
+
+<Elem Name="Évier" NameU="Sink"/>
+
+</Lib>

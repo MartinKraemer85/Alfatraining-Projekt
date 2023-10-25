@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="GCP Developer Tools">
+    <Elem NameU="Cloud upgrade management" Name="雲端升級管理"/>
+    <Elem NameU="General GCP" Name="通用GCP"/>
+    <Elem NameU="PowerShell" Name="PowerShell"/>
+    <Elem NameU="Construction Manager" Name="建設管理器"/>
+    <Elem NameU="Registration Manager" Name="註冊管理器"/>
+</Lib>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Project Timeline">
+  <Elem NameU="Time Bar" Name="Barre de temps"/>
+  <Elem NameU="Time Bar" Name="Barre de temps"/>
+  <Elem NameU="Time Bar" Name="Barre de temps"/>
+  <Elem NameU="Time Bar" Name="Barre de temps"/>
+  <Elem NameU="Time Bar" Name="Barre de temps"/>
+  <Elem NameU="Time Bar" Name="Barre de temps"/>
+  <Elem NameU="Interval Description" Name="Description de l'intervalle"/>
+  <Elem NameU="Interval Description" Name="Description de l'intervalle"/>
+  <Elem NameU="Interval Description" Name="Description de l'intervalle"/>
+  <Elem NameU="Interval Description" Name="Description de l'intervalle"/>
+  <Elem NameU="Interval Description" Name="Description de l'intervalle"/>
+  <Elem NameU="Point Mission" Name="Mission Point"/>
+  <Elem NameU="Multi-style Mission" Name="Mission multi-style"/>
+  <Elem NameU="Point Mission" Name="Mission Point"/>
+  <Elem NameU="Point Mission" Name="Mission Point"/>
+  <Elem NameU="Point Mission" Name="Mission Point"/>
+  <Elem NameU="Diamond Milestone" Name="Jalon Diamant"/>
+  <Elem NameU="Triangle Milestone 2" Name="Jalon Triangle 2"/>
+  <Elem NameU="Circle Milestone" Name="Jalon Cercle"/>
+  <Elem NameU="Rect Milestone" Name="Jalon Rectangle"/>
+  <Elem NameU="Milestone" Name="Jalon"/>
+  <Elem NameU="Flag Milestone" Name="Jalon Drapeau"/>
+  <Elem NameU="Line Milestone" Name="Jalon Ligne"/>
+  <Elem NameU="Side Brace" Name="Supports latéraux"/>
+</Lib>

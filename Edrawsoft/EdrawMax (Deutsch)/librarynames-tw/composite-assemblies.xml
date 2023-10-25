@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Composite Assemblies">
+    <Elem NameU="Gyro" Name="迴轉儀"/>
+    <Elem NameU="Gyro 2" Name="迴轉儀 2"/>
+    <Elem NameU="Amplifier" Name="放大器"/>
+    <Elem NameU="Magnetic amplifier" Name="磁放大器"/>
+    <Elem NameU="Negative impedance both-way amp" Name="負阻雙向放大器"/>
+    <Elem NameU="Amplifier with bypass" Name="帶旁路的放大器"/>
+    <Elem NameU="Amplifier external DC control" Name="放大器外部直流控制"/>
+    <Elem NameU="Rectifier" Name="整流器"/>
+    <Elem NameU="Controlled rectifier" Name="受控整流器"/>
+    <Elem NameU="Bridge rectifier" Name="橋式整流器"/>
+    <Elem NameU="Proximity sensor" Name="近程傳感器"/>
+    <Elem NameU="Touch sensor" Name="接觸式傳感器"/>
+    <Elem NameU="1-way repeater" Name="單向中繼器"/>
+    <Elem NameU="2-way repeater" Name="雙向中繼器"/>
+    <Elem NameU="2-way repeater bypass" Name="雙向中繼器旁路"/>
+    <Elem NameU="2-way repeater 4-wire" Name="四線雙向中繼器"/>
+    <Elem NameU="Network low voltage" Name="網絡低電壓"/>
+    <Elem NameU="Phase shifter" Name="移相器"/>
+    <Elem NameU="Chopper" Name="斷路器"/>
+    <Elem NameU="Demodulator" Name="解調器"/>
+    <Elem NameU="Generator" Name="發生器"/>
+    <Elem NameU="Position indicator synchro" Name="位置指示器同步"/>
+    <Elem NameU="Position indicator inductor" Name="位置指示器電感器"/>
+    <Elem NameU="Position transmitter inductor" Name="位置發送器電感器"/>
+    <Elem NameU="Position transmitter Desynn" Name="位置發送器異步"/>
+    <Elem NameU="Fire ext. actuator" Name="滅火器激勵器"/>
+    <Elem NameU="Fire ext. double" Name="雙頭滅火器"/>
+    <Elem NameU="Converter" Name="轉換器"/>
+    <Elem NameU="Inverter" Name="換流器"/>
+    <Elem NameU="Rectifier inverter" Name="整流換流器"/>
+    <Elem NameU="Rectifier bridge" Name="整流器橋路"/>
+    <Elem NameU="Galvanic separator" Name="電分離器"/>
+    <Elem NameU="Combustion heat source" Name="自然式熱源"/>
+    <Elem NameU="Heat source" Name="熱源"/>
+    <Elem NameU="Radioisotope heat source" Name="放射性同位素熱源"/>
+    <Elem NameU="Thermoelectric generator" Name="熱電發生器"/>
+</Lib>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Detailed Network Diagram">
+    <Elem NameU="A-B Switch" Name="A-B 交換機"/>
+    <Elem NameU="Biometric Reader" Name="指紋識別"/>
+    <Elem NameU="Data" Name="資料"/>
+    <Elem NameU="Diagnostic Device" Name="診斷設備"/>
+    <Elem NameU="External Media Drive" Name="外接媒體驅動器"/>
+    <Elem NameU="External Hard Drive" Name="移動硬盤"/>
+    <Elem NameU="Radio tower" Name="無線電塔"/>
+    <Elem NameU="Fiber optic transmitter" Name="光纖傳輸器"/>
+    <Elem NameU="Patch Panel" Name="插線麵板"/>
+    <Elem NameU="PBX" Name="PBX"/>
+    <Elem NameU="Repeater" Name="中繼器"/>
+    <Elem NameU="Satellite dish" Name="衛星天線"/>
+    <Elem NameU="Satellite" Name="衛星"/>
+    <Elem NameU="Smartcard Reader" Name="智能卡讀卡器"/>
+    <Elem NameU="XML web server" Name="XML網絡伺服器"/>
+</Lib>

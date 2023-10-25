@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="HVAC Controls Equipment">
+	<Elem NameU="Duct" Name="Duto"/>
+	<Elem NameU="Return duct" Name="Duto de retorno"/>
+	<Elem NameU="Return duct 2" Name="Duto de retorno 2"/>
+	<Elem NameU="Supply duct" Name="Duto de fornecimento"/>
+	<Elem NameU="Supply duct 2" Name="Duto de fornecimento 2"/>
+	<Elem NameU="2-fan sections" Name="Secções de 2-ventoinhas"/>
+	<Elem NameU="3-fan sections" Name="Secções de 3-ventoinhas"/>
+	<Elem NameU="4-fan sections" Name="Secções de 4-ventoinhas"/>
+	<Elem NameU="Side to side pipe" Name="Tubo lado a lado"/>
+	<Elem NameU="Top to bottom pipe" Name="Tubo de topo para o fundo"/>
+	<Elem NameU="Side to bottom pipe" Name="Tubo do lado para o fundo"/>
+	<Elem NameU="Pipe flow arrow" Name="Seta de fluxo de tubo"/>
+	<Elem NameU="VAV box" Name="Caixa VAV"/>
+	<Elem NameU="DD VAV box" Name="Caixa DD VAV"/>
+	<Elem NameU="Fain coil housing" name=""/>
+	<Elem NameU="Unit heater" Name="Aquecedor de unidade"/>
+	<Elem NameU="Centrifugal fan" Name="Ventoinha centrífuga"/>
+	<Elem NameU="Propeller fan" Name="Ventoinha hélice"/>
+	<Elem NameU="Vane axial fan" Name="Ventoinha axial de palheta"/>
+	<Elem NameU="Damper" Name="Amortecedor"/>
+	<Elem NameU="Filter" Name="Filtro"/>
+	<Elem NameU="Air flow station" Name="Estação de fluxo de ar"/>
+	<Elem NameU="Humidifier" Name="Humidificador"/>
+	<Elem NameU="Htg/clg coil" Name="Bobina htg/clg"/>
+	<Elem NameU="Pump" Name="Bomba"/>
+	<Elem NameU="Valve" Name="Válvula"/>
+	<Elem NameU="Gate valve" Name="Válvula de escape"/>
+	<Elem NameU="Water flow meter" Name="Caudalímetro de água"/>
+	<Elem NameU="Chiller" Name="Arrefecedor"/>
+	<Elem NameU="Cooling tower" Name="Torre de arrefecimento"/>
+	<Elem NameU="Boiler" Name="Caldeira"/>
+	<Elem NameU="Equipment" Name="Equipamento"/>
+	<Elem NameU="VSD" Name="VSD"/>
+	<Elem NameU="Start" Name="Iniciar"/>
+</Lib>

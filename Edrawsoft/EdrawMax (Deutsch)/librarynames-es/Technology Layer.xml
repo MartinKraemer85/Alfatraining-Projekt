@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Technology Layer">
+	<Elem NameU="Node" Name="Nodo"/>
+	<Elem NameU="Device" Name="Dispositivo"/>
+	<Elem NameU="System Software" Name="Software del sistema"/>
+	<Elem NameU="Technology Interface" Name="Interfaz tecnológica"/>
+	<Elem NameU="Technology Function" Name="Función tecnológica"/>
+	<Elem NameU="Technology Service" Name="Servicio tecnológico"/>
+	<Elem NameU="Technology Collaboration" Name="Colaboración tecnológica"/>
+	<Elem NameU="Technology Interaction" Name="Interacción tecnológica"/>
+	<Elem NameU="Technology Event" Name="Evento tecnológico"/>
+	<Elem NameU="Technology Process" Name="Proceso tecnológico"/>
+	<Elem NameU="Artifact" Name="Artefacto"/>
+	<Elem NameU="Path" Name="Ruta"/>
+	<Elem NameU="Communication Network(Box)" Name="Red de comunicación (cuadro)"/>
+</Lib>

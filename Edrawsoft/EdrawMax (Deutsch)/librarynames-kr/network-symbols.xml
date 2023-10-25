@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Network Symbols">
+    <Elem NameU="Router General" Name="일반 라우터"/>
+    <Elem NameU="Router" Name="라우터"/>
+    <Elem NameU="ATM router" Name="ATM 라우터"/>
+    <Elem NameU="Wireless Router" Name="무선 라우터"/>
+    <Elem NameU="ATM switch" Name="ATM 스위치"/>
+    <Elem NameU="ISDN switch" Name="ISDN 스위치"/>
+    <Elem NameU="Workgroup switch" Name="작업 그룹 스위치"/>
+    <Elem NameU="Small hub" Name="스몰 허브"/>
+    <Elem NameU="100BaseT hub" Name="100BaseT 허브"/>
+    <Elem NameU="CDDI-FDDI concentrator" Name="CDDI-FDDI 허브"/>
+    <Elem NameU="Ethernet router" Name="이더넷 라우터"/>
+    <Elem NameU="Communication server" Name="통신 서버"/>
+    <Elem NameU="Gateway" Name="게이트웨이"/>
+    <Elem NameU="Hub" Name="허브"/>
+    <Elem NameU="Bridge" Name="브릿지"/>
+    <Elem NameU="Relative database" Name="관계 데이터베이스"/>
+    <Elem NameU="WAN" Name="WAN"/>
+    <Elem NameU="Host" Name="호스트"/>
+    <Elem NameU="DSU-CSU" Name="DSU-CSU"/>
+    <Elem NameU="Terminal server" Name="터미널 서버"/>
+    <Elem NameU="Probe" Name="프로브"/>
+    <Elem NameU="Lock and key" Name="잠금과 키"/>
+    <Elem NameU="Lock" Name="잠금"/>
+    <Elem NameU="Key" Name="키"/>
+    <Elem NameU="Public-private server" Name="공용/개인 서버"/>
+    <Elem NameU="Certificate server" Name="증서 서버"/>
+    <Elem NameU="ATM switch 2" Name="ATM 스위치2"/>
+    <Elem NameU="ATM/Fast GB etherswitch" Name="ATM/Fast GB 이더넷 스위치"/>
+    <Elem NameU="Comm server" Name="일반 서버"/>
+    <Elem NameU="Coaxial line tag" Name="동축 라인 태그"/>
+    <Elem NameU="Fiber optic line tag" Name="광섬유 라인 태그"/>
+    <Elem NameU="Twisted pair line tag" Name="트위스트 페어 라인 태그"/>
+</Lib>

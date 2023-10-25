@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Office Icons">
+    <Elem NameU="Ren Min Bi" Name="人民幣"/>
+    <Elem NameU="Euro" Name="歐元"/>
+    <Elem NameU="Pound" Name="英鎊"/>
+    <Elem NameU="Dollar" Name="美元"/>
+    <Elem NameU="Bank" Number="2" Name="銀行"/>
+    <Elem NameU="Office Building" Name="辦公樓"/>
+    <Elem NameU="Loss" Name="虧損"/>
+    <Elem NameU="Profit" Name="盈利"/>
+    <Elem NameU="Histogram" Name="直方圖"/>
+    <Elem NameU="Pie Chart" Name="餅圖"/>
+    <Elem NameU="Slideshow" Number="4" Name="幻燈片"/>
+    <Elem NameU="Trophy" Name="獎杯"/>
+    <Elem NameU="Medal" Name="獎章"/>
+    <Elem NameU="Prize" Name="獎品"/>
+    <Elem NameU="Diamond" Name="鑽石"/>
+    <Elem NameU="Team" Name="團隊"/>
+    <Elem NameU="Office Clerk" Name="辦公室文員"/>
+    <Elem NameU="At" Name="在"/>
+    <Elem NameU="Work Card" Name="工作卡"/>
+    <Elem NameU="Address - Book" Name="地址簿"/>
+    <Elem NameU="Briefcase" Name="公文包"/>
+    <Elem NameU="Calculator" Name="計算器"/>
+    <Elem NameU="Write" Name="寫"/>
+    <Elem NameU="Mobile Phone" Name="手機"/>
+    <Elem NameU="Phone" Number="2" Name="電話"/>
+    <Elem NameU="Network" Number="2" Name="網絡"/>
+    <Elem NameU="Email" Number="2" Name="電子郵箱"/>
+    <Elem NameU="Time" Name="時間"/>
+    <Elem NameU="File" Number="2" Name="檔案"/>
+    <Elem NameU="Folder" Name="資料夾"/>
+    <Elem NameU="Umbrella" Name="傘"/>
+    <Elem NameU="Shield" Name="護盾"/>
+    <Elem NameU="Printer" Name="列印機"/>
+    <Elem NameU="Target" Name="目標"/>
+    <Elem NameU="Cooperation" Name="合作"/>
+    <Elem NameU="Alarm Clock" Name="鬧鐘"/>
+    <Elem NameU="Clock" Number="2" Name="鐘"/>
+    <Elem NameU="Image" Name="圖片"/>
+    <Elem NameU="USB Flash Drive" Name="USB閃存驅動器"/>
+    <Elem NameU="Computer" Name="計算器"/>
+    <Elem NameU="laptop" Name="筆記本電腦"/>
+    <Elem NameU="Message" Name="消息"/>
+    <Elem NameU="Chat Conversation" Name="聊天室會話"/>
+    <Elem NameU="Calendar" Name="日曆"/>
+    <Elem NameU="Electric Light" Name="電燈"/>
+    <Elem NameU="Search For" Name="搜索"/>
+    <Elem NameU="Calendar" Name="日曆"/>
+    <Elem NameU="Camera" Name="照相機"/>
+    <Elem NameU="Shooting" Name="拍攝"/>
+    <Elem NameU="Sad" Name="難過"/>
+    <Elem NameU="Happy" Name="高興"/>
+    <Elem NameU="Disappointing" Name="失望"/>
+    <Elem NameU="Awesome" Name="驚歎"/>
+    <Elem NameU="Caveat" Name="警告"/>
+    <Elem NameU="Problem" Name="問題"/>
+    <Elem NameU="Pen" Name="筆"/>
+    <Elem NameU="Shopping Cart" Name="購物車"/>
+    <Elem NameU="Cart-Allow-Down" Name="購物車-带下箭头"/>
+    <Elem NameU="Cart-Plus" Name="購物車-帶加號"/>
+    <Elem NameU="Label" Number="2" Name="標籤"/>
+    <Elem NameU="Shopping Basket" Name="購物筐"/>
+    <Elem NameU="Shopping Bag" Name="購物袋"/>
+    <Elem NameU="Shopping List" Name="購物清單"/>
+    <Elem NameU="Paper Clip" Name="回形針"/>
+    <Elem NameU="Drawing Pin" Name="圖釘"/>
+    <Elem NameU="Flag" Name="旗幟"/>
+    <Elem NameU="Fair" Name="公平"/>
+    <Elem NameU="Scissors" Name="剪刀"/>
+</Lib>

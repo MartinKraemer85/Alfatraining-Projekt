@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="AWS Application Integration">
+	<Elem NameU="Application-Integration" Name="Anwendungsintegration"/>
+	<Elem NameU="AWS-Console-Mobile-Application" Name="Konsolen-Mobilanwendung"/>
+	<Elem NameU="AWS-Express-Workflows" Name="Express-Workflow"/>
+	<Elem NameU="AWS-Step-Functions" Name="AWS Schritt-für-Schritt-Funktion"/>
+	<Elem NameU="AppSync" Name="AppSync"/>
+	<Elem NameU="EventBridge" Name="Bewegliche Brücke"/>
+	<Elem NameU="EventBridge_Custom-event-bus_resource-icon" Name="Aktivität Bridge_Customized Event Bus-Ressourcensymbol"/>
+	<Elem NameU="EventBridge_Default-event-bus_resource-icon" Name="Aktives Bridge_default-Ereignisbus-Ressourcensymbol"/>
+	<Elem NameU="EventBridge_Saas-Partner-event-bus_resource-icon" Name="Aktivität Bridge_Saas Partner Event Bus Ressourcensymbol"/>
+	<Elem NameU="MQ" Name="MQ"/>
+	<Elem NameU="Simple-Notification-Service-SNS" Name="Einfacher Benachrichtigungsdienst SNS"/>
+	<Elem NameU="Simple-Notification-Service-SNS_Email-Notification" Name="Einfacher Benachrichtigungsdienst SNS_email-Benachrichtigung"/>
+	<Elem NameU="Simple-Notification-Service-SNS_HTTP-Notification" Name="Einfacher Benachrichtigungsdienst SNS_HTTP-Benachrichtigung"/>
+	<Elem NameU="Simple-Notification-Service-SNS_Topic" Name="Einfacher Benachrichtigungsdienst SNS_topic"/>
+	<Elem NameU="Simple-Queue-Service-SQS" Name="Simple Queue Service SQS"/>
+	<Elem NameU="Simple-Queue-Service-SQS_Message" Name="Einfache SQS-Informationen zum Warteschlangendienst"/>
+	<Elem NameU="Simple-Queue-Service-SQS_Queue" Name="Einfache Warteschlangendienst-SQS-Warteschlange"/>
+	<Elem NameU="Application-Integration_Event_Resource" Name="Ressourcen für Anwendungsintegrationsaktivitäten"/>
+</Lib>

@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Cisco Network Topology">
+    <Elem NameU="Router- Color and Router- Color and subdued" Name="라우터-색상 및 라우터-색상 및 차분함"/>
+    <Elem NameU="Router w/Silicon Switch" Name="실리콘 스위치가있는 라우터"/>
+    <Elem NameU="Wavelength Router" Name="파장 라우터"/>
+    <Elem NameU="Protocol Translator" Name="프로토콜 번역기"/>
+    <Elem NameU="CiscoWorks Workstation" Name="CiscoWorks 워크 스테이션"/>
+    <Elem NameU="Network Management Appliance" Name="네트워크 관리 장비"/>
+    <Elem NameU="Access Server" Name="액세스 서버"/>
+    <Elem NameU="Workgroup Director" Name="워크 그룹 디렉터"/>
+    <Elem NameU="Storage Solution  Engine  (SSE)" Name="스토리지 솔루션 엔진 (SSE)"/>
+    <Elem NameU="PC Router Card" Name="PC 라우터 카드"/>
+    <Elem NameU="Cisco Hub" Name="Cisco 허브"/>
+    <Elem NameU="NetFlow Router" Name="넷플로우 라우터"/>
+    <Elem NameU="Cisco MeetingPlace Express" Name="Cisco 미팅지 익스프레스"/>
+    <Elem NameU="Software- Based Router on File/Application Server" Name="소프트웨어- 파일/응용 프로그램 서버 기반 라우터"/>
+    <Elem NameU="TransPath" Name="전송 경로"/>
+    <Elem NameU="Bridge" Name="다리"/>
+    <Elem NameU="Workgroup  Switch Voice-Enabled" Name="작업 그룹 스위치 음성 지원"/>
+    <Elem NameU="100BaseT Hub" Name="100BaseT 허브"/>
+	<Elem NameU="IOS SLB" Name="IOS SLB&#9;"/>
+    <Elem NameU="uBR910 Cable DSU" Name="uBR910 케이블 DSU"/>
+    <Elem NameU="CDDI/ FDDI Concentrator" Name="CDDI/FDDI 집중"/>
+    <Elem NameU="PC Adapter Card" Name="PC 어댑터 카드"/>
+    <Elem NameU="VIP" Name="회원"/>
+    <Elem NameU="Small Hub (10BaseT Hub)" Name="스몰 허브（10BaseT허브）"/>
+    <Elem NameU="Terminal Server" Name="터미널 서버"/>
+    <Elem NameU="Route/Switch Processor  with and without Si" Name="Si 포함 / 미포함 라우팅 / 스위치 프로세서"/>
+    <Elem NameU="PXF" Name="PXF"/>
+    <Elem NameU="CDM (Content Distribution Manager)" Name="내용 배분 매니저"/>
+    <Elem NameU="Management Engine (ME 1100)" Name="관리 엔진（ME 1100）"/>
+    <Elem NameU="PC with Router-Based Software" Name="라우터 기반 소프트웨어가있는 PC"/>
+    <Elem NameU="PC with Software" Name="소프트웨어가있는 PC"/>
+    <Elem NameU="ASIC Processor" Name="ASIC 처리기"/>
+    <Elem NameU="General Processor" Name="일반 처리기"/>
+    <Elem NameU="Application Velocity System" Name="응용 속도 시스템"/>
+    <Elem NameU="Workgroup  Switch Color/Subdued" Name="작업 그룹 스위치 색상"/>
+    <Elem NameU="Switch Processor" Name="스위치 프로세서"/>
+    <Elem NameU="Broadband Router" Name="광대역 라우터"/>
+    <Elem NameU="ATM Switch" Name="ATM 교환기"/>
+    <Elem NameU="LAN2LAN Switch" Name="LAN2LAN 스위치"/>
+    <Elem NameU="ISDN Switch" Name="ISDN 스위치"/>
+    <Elem NameU="Cisco 5500 Family" Name="Cisco 5500"/>
+    <Elem NameU="SSL Terminator" Name="SSL 터미네이터"/>
+    <Elem NameU="ITP" Name="ITP 회사"/>
+    <Elem NameU="Cisco CA" Name="Cisco CA"/>
+    <Elem NameU="MGX 8000 Multiservice Switch" Name="MGX 8000 멀티 서비스 스위치"/>
+    <Elem NameU="Voice Gateway" Name="음성 게이트웨이"/>
+    <Elem NameU="BBSM" Name="BBSM 회사"/>
+    <Elem NameU="IP Transport Concentrator" Name="IP 운송 집중 장치"/>
+    <Elem NameU="SIP Proxy Server" Name="SIP 프록시 서버"/>
+    <Elem NameU="MicroWeb Server" Name="마이크로 웹 서버"/>
+	<Elem NameU="NetRanger" Name="NetRanger&#9;"/>
+    <Elem NameU="Cisco 6920 RateMux" Name="Cisco 6920 RateMux"/>
+    <Elem NameU="NetSonar" Name="NetSonar"/>
+    <Elem NameU="Multi- Switch Device" Name="다중 스위치 장치"/>
+    <Elem NameU="ATA" Name="데이터"/>
+    <Elem NameU="Edge Label  Switch  Router  with NetFlow" Name="NetFlow를 사용하는 에지 레이블 스위치 라우터"/>
+    <Elem NameU="IP  Standard  and Old  (Some  Prefer)" Name="IP 표준과 구버전"/>
+    <Elem NameU="IP  Standard  and Old  (Some  Prefer) .62" Name="IP표준과 구버전.62"/>
+    <Elem NameU="Cisco 7505" Name="Cisco 7505"/>
+    <Elem NameU="Cisco 1000" Name="Cisco 1000"/>
+    <Elem NameU="Cisco 7500 (7513)" Name="Cisco 7500（7513）"/>
+    <Elem NameU="Edge Label Switch Router" Name="에지 라벨 스위치 라우터"/>
+    <Elem NameU="Multilayer Switch, with and without Text and Subdued" Name="다층 스위치, 텍스트 포함 및 제외"/>
+    <Elem NameU="Router  with TDM" Name="TDM이있는 라우터"/>
+    <Elem NameU="ADM" Name="ADM"/>
+    <Elem NameU="Cisco 7507" Name="Cisco 7507"/>
+    <Elem NameU="Cisco Unity Express" Name="Cisco 유니티 익스프레스"/>
+    <Elem NameU="Cisco Unity Server" Name="Cisco 유니티 서버"/>
+    <Elem NameU="Voice-  Enabled  Router" Name="음성 라우터"/>
+    <Elem NameU="Cisco Security Manager" Name="Cisco 보안 관리"/>
+    <Elem NameU="Data Switch Processor,  AKA Data  Center Switch" Name="데이터 스위치 프로세서，데이터 센터 스위치"/>
+    <Elem NameU="Firewall Services  Module" Name="방화벽 서비스 모듈"/>
+    <Elem NameU="Cisco MP" Name="CiscoMP"/>
+    <Elem NameU="Cisco IOS Firewall" Name="CiscoIOS 방화벽"/>
+    <Elem NameU="Router with Firewall" Name="방화벽이 있는 라우터"/>
+    <Elem NameU="Centri Firewall" Name="방화벽 센터"/>
+    <Elem NameU="Cisco CallManager" Name="Cisco 콜매니저"/>
+    <Elem NameU="Data Center Switch, Reversed" Name="데이터 센터 스위치，반전"/>
+    <Elem NameU="Cisco 6705 Access Server" Name="Cisco6705 액세스 서버"/>
+    <Elem NameU="MGX 8220" Name="MGX 8220형"/>
+    <Elem NameU="MGX 8240" Name="MGX 8240형"/>
+	<Elem NameU="MGX 8260" Name="MGX 8260형&#9;"/>
+    <Elem NameU="PIX Firewall Right and Left" Name="오른쪽 왼쪽 PIX방화벽"/>
+    <Elem NameU="IP Telephony Router" Name="IP 전화 통신 라우터"/>
+    <Elem NameU="Cisco 6732 Access Server" Name="Cisco6732 액세스 서버"/>
+    <Elem NameU="Cisco 6701" Name="Cisco6701"/>
+    <Elem NameU="IP DSL Switch" Name="IP DSL 스위치"/>
+	<Elem NameU="H.323" Name="H.323&#9;"/>
+    <Elem NameU="Access Gateway" Name="게이트웨이 액세스"/>
+    <Elem NameU="DSLAM" Name="DSLAM"/>
+    <Elem NameU="VPN Concentrator" Name="VPN 집중"/>
+    <Elem NameU="CDM (Content Distribution Manager)" Name="CDM(콘텐츠 배포 관리자)"/>
+    <Elem NameU="IAD Router" Name="IAD 라우터"/>
+    <Elem NameU="Content  Router" Name="내용 라우터"/>
+    <Elem NameU="Voice-Enabled ATM Switch" Name="음성 ATM 스위치"/>
+    <Elem NameU="ICS 7750" Name="ICS 7750"/>
+	<Elem NameU="CSS 11000" Name="CSS 11000&#9;"/>
+	<Elem NameU="Cisco 15800" Name="Cisco15800&#9;"/>
+    <Elem NameU="Cisco  Storage  Router" Name="Cisco 저장 라우터"/>
+    <Elem NameU="Content  Service  Module" Name="내용 서비스 모듈"/>
+    <Elem NameU="Content  Switch" Name="내용 스위치"/>
+    <Elem NameU="Cisco  VN 2900" Name="CiscoVN 2900"/>
+    <Elem NameU="Cisco 15200" Name="Cisco15200"/>
+    <Elem NameU="Cisco  VN 5902" Name="CiscoVN 5902"/>
+    <Elem NameU="Cisco Unified Presence Server" Name="Cisco 통합 프레즌스 서버"/>
+    <Elem NameU="Handheld" Name="핸드 헬드"/>
+    <Elem NameU="Content  Transformation Engine" Name="내용 전환 엔진"/>
+    <Elem NameU="Access Point" Name="액세스 포인트"/>
+    <Elem NameU="Dual Mode Access Point" Name="듀얼 모드 액세스 포인트"/>
+    <Elem NameU="Cisco  VN 5900" Name="CiscoVN 5900"/>
+    <Elem NameU="Dual Mode Access Point" Name="듀얼 모드 액세스 포인트"/>
+    <Elem NameU="Scanner" Name="스캐너"/>
+    <Elem NameU="EtherClient" Name="이더넷 클라이언트"/>
+    <Elem NameU="Tablet" Name="태블릿"/>
+    <Elem NameU="Wireless  Transport" Name="무선 전송"/>
+    <Elem NameU="Wireless  Bridge" Name="무선 브리지"/>
+    <Elem NameU="Lightweight  Single Radio  Access Point" Name="경량 단일 무선 액세스 포인트"/>
+    <Elem NameU="Lightweight  Double Radio  Access Point" Name="경량 더블 라디오 액세스 포인트"/>
+    <Elem NameU="WLAN Controller" Name="WLAN 컨트롤러"/>
+    <Elem NameU="Wi-Fi Tag" Name="Wi-Fi 태그"/>
+    <Elem NameU="Wireless Location Appliance" Name="무선 위치 어플라이언스"/>
+    <Elem NameU="Wireless Router" Name="무선 라우터"/>
+    <Elem NameU="Wireless Connectivity, Different Orientations" Name="무선 연결，다른 방향"/>
+	<Elem NameU="WiSM" Name="WiSM&#9;"/>
+    <Elem NameU="Mesh  Access Point" Name="메시 액세스 포인트"/>
+    <Elem NameU="SC2200 Signaling Controller" Name="SC2200 시그널링 컨트롤러"/>
+    <Elem NameU="VSC3000 Virtual Switch Controller" Name="VSC3000 가상 스위치 컨트롤러"/>
+    <Elem NameU="VSC3000 or SC2200 Host" Name="VSC3000或SC2200 호스트"/>
+    <Elem NameU="BTS 10200 Softswitch" Name="BTS 10200 소프트스위치"/>
+    <Elem NameU="Detector" Name="탐지기"/>
+    <Elem NameU="IP/TV Content Manager" Name="IP/TV 내용관리"/>
+    <Elem NameU="IP/TV Broadcast Server" Name="IP/TV 브로드캐스트 서버"/>
+    <Elem NameU="Master.136" Name="마스터.136"/>
+    <Elem NameU="Generic Softswitch (Cisco Branded)" Name="일반 소프트 스위치（Cisco 브랜드）"/>
+    <Elem NameU="Generic Softswitch" Name="일반 소프트 스위치"/>
+    <Elem NameU="Guard" Name="가드"/>
+    <Elem NameU="Mobile  Access  Router" Name="모바일 액세스 라우터"/>
+    <Elem NameU="Cisco Carrier Routing System" Name="Cisco 캐리어 라우팅 시스템"/>
+    <Elem NameU="FC Storage" Name="FC 저장"/>
+    <Elem NameU="IntelliSwitch Stack" Name="IntelliSwitch 스택"/>
+    <Elem NameU="Service Control" Name="서비스 컨트롤"/>
+    <Elem NameU="Virtual Layer Switch" Name="가상 레이어 스위치"/>
+    <Elem NameU="Multilayer Remote Switch" Name="다층 원격 스위치"/>
+    <Elem NameU="Layer 2 Remote Switch" Name="레이어 2 원격 스위치"/>
+    <Elem NameU="Multi-Fabric Server Switch" Name="멀티 패브릭 서버 스위치"/>
+    <Elem NameU="Server Switch" Name="서버 스위치"/>
+    <Elem NameU="UPC Unified Personal Communicato" Name="UPC 통합 개인 공표"/>
+    <Elem NameU="PMC" Name="PMC"/>
+    <Elem NameU="IP Communicator" Name="IP Communicator"/>
+    <Elem NameU="Streamer" Name="스트리머"/>
+    <Elem NameU="Vault" Name="중요 보관소"/>
+    <Elem NameU="Cisco Unified Communications 500 Series for Small Business" Name="Cisco 중소기업 통합 커뮤니케이션 500 시리즈"/>
+    <Elem NameU="DWDM Filter" Name="DWDM Filter 필터"/>
+    <Elem NameU="DWDM Ring" Name="DWDM 링"/>
+    <Elem NameU="DWDM Network Line" Name="DWDM 네트워크 라인"/>
+    <Elem NameU="Streamer (Half-Full)" Name="스트리머（속이 반 채워진）"/>
+    <Elem NameU="Vault (Half-Full)" Name="금고（속이 반 채워진）"/>
+    <Elem NameU="System Controller" Name="시스템 컨트롤러"/>
+    <Elem NameU="Application Control Engine" Name="응용 프로그램 컨트롤 엔진"/>
+    <Elem NameU="ACE XML Gateway" Name="ACE XML 게이트웨이"/>
+    <Elem NameU="ACE XML Manager" Name="ACE XML 관리기"/>
+    <Elem NameU="Service Router" Name="서비스 라우터"/>
+    <Elem NameU="VSS" Name="VSS"/>
+    <Elem NameU="ASR 1000 Series" Name="ASR 1000 시리즈"/>
+    <Elem NameU="IPICS Server" Name="IPICS 서버"/>
+	<Elem NameU="Nexus 5000" Name="Nexus 5000&#9;"/>
+    <Elem NameU="Automatic Protection Switching" Name="자동 보호 스위치"/>
+    <Elem NameU="Channelized Pipe" Name="채널화된 파이프"/>
+    <Elem NameU="Concatenated Payload" Name="연결된 페이로드"/>
+    <Elem NameU="Optical Cross- Connect" Name="광학 교차 연결"/>
+    <Elem NameU="WDM" Name="WDM"/>
+    <Elem NameU="Optical Fiber" Name="광섬유"/>
+	<Elem NameU="ONS15104" Name="ONS15104&#9;"/>
+    <Elem NameU="SONET MUX" Name="SONET MUX"/>
+    <Elem NameU="Optical Amplifier" Name="광학 증폭기"/>
+    <Elem NameU="Digital Cross-Connect" Name="디지털 크로스 커넥트"/>
+    <Elem NameU="Optical Services Router" Name="광학 서비스 라우터"/>
+	<Elem NameU="Cisco 10700" Name="Cisco10700&#9;"/>
+    <Elem NameU="Optical Transport" Name="광전송"/>
+    <Elem NameU="Wide Area Application Engine" Name="와이드 영역 애플리케이션 엔진"/>
+    <Elem NameU="Protected Optical" Name="보호된 광학"/>
+    <Elem NameU="Unprotected Optical" Name="보호되지 않은 광학"/>
+    <Elem NameU="Metro 1500" Name="지하철 1500"/>
+    <Elem NameU="ONS 15540" Name="ONS 15540"/>
+    <Elem NameU="Secure Switch Cisco" Name="Cisco 보안 스위치 Cisco"/>
+    <Elem NameU="Secure Switch Subdued Color" Name="보안 스위치, 차분한 컬러 "/>
+    <Elem NameU="Secure Router (Cisco)" Name="보안 라우터 （Cisco）"/>
+    <Elem NameU="(Subdued Color )" Name="（차분한 색상）"/>
+    <Elem NameU="Secure Catalyst Switch" Name="고정 촉매 스위치"/>
+    <Elem NameU="Secure Catalyst Switch  Subdued Color" Name="고정 촉매 스위치 차분한 색상"/>
+    <Elem NameU="Security Management  (Cisco )" Name="보안관리（Cisco）"/>
+    <Elem NameU="Security Management (Generic Color Schemes)" Name="보안 관리（일반 색상 구성）"/>
+    <Elem NameU="Cisco ASA 5500" Name="Cisco ASA 5500"/>
+    <Elem NameU="NAC Appliance" Name="NAC장비"/>
+    <Elem NameU="Secure Server" Name="보안 서버"/>
+    <Elem NameU="CS-MARS" Name="CS-MARS 회사"/>
+    <Elem NameU="Secure Endpoints (PC and Laptop)" Name="보안 엔드포인트(PC 및 노트북)"/>
+    <Elem NameU="SSC" Name="SSC"/>
+    <Elem NameU="IBM Mainframe" Name="IBM 메인프레임"/>
+    <Elem NameU="IBM Mainframe with FEP" Name="FEP가 있는 IBM 메인프레임"/>
+	<Elem NameU="FEP  (Front End Processor)" Name="FEP (Front End Processor)&#9;"/>
+    <Elem NameU="Cluster Controller/3174 (Desktop Model, Not Used Much)" Name="클러스터 제어기/3174（데스크탑 모델，많이 사용하지 않음）"/>
+    <Elem NameU="IBM Mini (AS400)" Name="IBM 미니（AS400）"/>
+    <Elem NameU="Cluster Controller/ 3274 or 3174 (Most Common Type)" Name="클러스터 제어기/3274 또는 3174(일반 유형)"/>
+    <Elem NameU="DSU/CSU (Add Text in PowerPoint" Name="DSU/CSU（PowerPoint에 텍스트 추가하기"/>
+    <Elem NameU="WAN" Name="WAN"/>
+    <Elem NameU="MUX" Name="MUX"/>
+    <Elem NameU="PBX/ Switch" Name="PBX/교환기"/>
+    <Elem NameU="Hub Gray and Blue" Name="허브 그레이와 블루"/>
+    <Elem NameU="NAT" Name="NAT"/>
+    <Elem NameU="Network Cloud,  Dark" Name="네트워크 클라우드，다크"/>
+    <Elem NameU="Network Cloud,  Gold" Name="네트워크 클라우드，골드"/>
+    <Elem NameU="Network Cloud,  White" Name="네트워크 클라우드，화이트"/>
+    <Elem NameU="Network Cloud, Standard Color" Name="네트워크 클라우드，표준 색상"/>
+    <Elem NameU="Distributed Director" Name="분산식 제어기"/>
+    <Elem NameU="Local Director" Name="현지 디렉터"/>
+	<Elem NameU="PBX (Small)" Name="PBX （스몰）)&#9;"/>
+    <Elem NameU="DPT Ring" Name="DPT 링"/>
+    <Elem NameU="Workstation (Sun)" Name="워크 스테이션（태양）"/>
+    <Elem NameU="PC" Name="PC"/>
+    <Elem NameU="Cisco Unified Contact Center Express" Name="Cisco 통합 센터 택배"/>
+    <Elem NameU="VQE" Name="VQE"/>
+	<Elem NameU="VSD" Name="VSD&#9;"/>
+    <Elem NameU="Space Router" Name="스페이스 라우터"/>
+    <Elem NameU="Decoder" Name=""/>
+    <Elem NameU="TP MCU" Name="TP MCU"/>
+    <Elem NameU="Nexus 5000" Name="Nexus 5000&#9;"/>
+    <Elem NameU="NCE" Name="NCE 디코더"/>
+    <Elem NameU="NCE Router" Name="NCE 라우터"/>
+    <Elem NameU="Services" Name="서비스"/>
+    <Elem NameU="RF Modem" Name="RF Modem"/>
+    <Elem NameU="Mediator" Name="중재인"/>
+    <Elem NameU="Ground Terminal" Name="지상 터미널"/>
+	<Elem NameU="10GE_FCoE" Name="10GE_FCoE&#9;"/>
+    <Elem NameU="MXE" Name="MXE"/>
+    <Elem NameU="Mobility Service Engine" Name="모빌리티 서비스 엔진"/>
+    <Elem NameU="BWG" Name="BWG"/>
+	<Elem NameU="WiMAX" Name="WiMAX&#9;"/>
+    <Elem NameU="Cisco WAAS Mobile Server" Name="Cisco WAAS 모바일 서버"/>
+    <Elem NameU="ACS View" Name="ACS 보기"/>
+    <Elem NameU="AXP" Name="AXP"/>
+    <Elem NameU="Email and Web Interaction Manager" Name="이메일 및 웹 상호 작용 관리자"/>
+    <Elem NameU="Customer Voice Portal" Name="고객 음성 포털"/>
+    <Elem NameU="Key" Name="키"/>
+    <Elem NameU="Cisco WAAS Mobile Client" Name="Cisco WAAS 모바일 클라이언트"/>
+    <Elem NameU="Cisco Unified Intelligent Contact Management" Name="Cisco 통합 지능형 ​​연락처 관리"/>
+    <Elem NameU="SDTV" Name="SDTV"/>
+    <Elem NameU="Modem .324" Name="모뎀.324"/>
+    <Elem NameU="Wireless Modem/ Wireless Gateway" Name="무선 모뎀 / 무선 게이트웨이"/>
+    <Elem NameU="Cisco Unified Contact Center Enterprise &amp; Hosted" Name="Cisco 통합 Contact Center Enterprise 및 호스팅"/>
+    <Elem NameU="HDTV" Name="HDTV"/>
+    <Elem NameU="DCM" Name="DCM"/>
+    <Elem NameU="Encoder" Name="인코더"/>
+    <Elem NameU="Netcrypt" Name="Netcrypt"/>
+    <Elem NameU="QAM" Name="QAM"/>
+    <Elem NameU="Set-top" Name="셋톱"/>
+    <Elem NameU="Shield" Name="쉴드"/>
+    <Elem NameU="Clock" Name="시계"/>
+    <Elem NameU="Diskette (3.5&quot; Floppy)" Name="软盘（3.5인치 디스크）"/>
+    <Elem NameU="PAD" Name="PAD"/>
+	<Elem NameU="MAU" Name="MAU&#9;"/>
+	<Elem NameU="UPS, RPS" Name="UPS, RPS&#9;"/>
+    <Elem NameU="Satellite and Satellite Dish" Name="위성 및 위성 접시"/>
+    <Elem NameU="BBS  (Bulletin Board System)" Name="BBS（게시판 시스템）"/>
+    <Elem NameU="Modem" Name="모뎀"/>
+    <Elem NameU="Database, Relational" Name="데이터베이스, 관계형"/>
+    <Elem NameU="Host" Name="호스트"/>
+    <Elem NameU="Breakout Box" Name="브레이크 아웃 상자"/>
+    <Elem NameU="File Cabinet" Name="파일 캐비닛"/>
+    <Elem NameU="Truck" Name="트럭"/>
+    <Elem NameU="Car" Name="차"/>
+    <Elem NameU="Lock and Key" Name="잠금과 키"/>
+    <Elem NameU="Lock" Name="잠금"/>
+    <Elem NameU="Firewall, Horizontal and Vertical, Subdued" Name="방화벽, 수평 및 수직, 차분"/>
+    <Elem NameU="Turret" Name="터렛"/>
+    <Elem NameU="Hoot and Holler Phone" Name="Hoot and Holler 전화"/>
+    <Elem NameU="Class 4/5 Switch" Name="4/5급 스위치"/>
+    <Elem NameU="Pager" Name="휴대용 소형 무선 호출기"/>
+    <Elem NameU="BBFW Media" Name="BBFW 미디어"/>
+    <Elem NameU="BBFW" Name="BBFW회사"/>
+    <Elem NameU="Phone Polycom" Name="전화 Polycom"/>
+    <Elem NameU="Headphones" Name="헤드폰"/>
+    <Elem NameU="Microphone" Name="마이크로폰"/>
+    <Elem NameU="Speaker" Name="스피커"/>
+    <Elem NameU="Television .355" Name="티비.355"/>
+    <Elem NameU="Set Top  Box (STB)" Name="셋톱 박스 (STB)"/>
+    <Elem NameU="IP Phone" Name="IP 전화"/>
+    <Elem NameU="Fax" Name="팩스"/>
+    <Elem NameU="Cell Phone" Name="폰"/>
+    <Elem NameU="Camera PC/Video .273" Name="카메라PC/비디오.273"/>
+    <Elem NameU="Camera PC/Video" Name="카메라 PC/비디오"/>
+    <Elem NameU="Mobile  Access  Phone" Name="모바일 액세스 폰"/>
+    <Elem NameU="Phone 2" Name="폰 2"/>
+    <Elem NameU="Phone Ethernet" Name="폰 이더넷 "/>
+    <Elem NameU="Phone Feature" Name="전화 기능"/>
+    <Elem NameU="Fax/ Phone" Name="팩스/폰"/>
+    <Elem NameU="Phone-Appliance" Name="폰"/>
+    <Elem NameU="Phone" Name="전화"/>
+    <Elem NameU="End User Female, Left and Right" Name="최종 사용자 여성，오른쪽과 왼쪽"/>
+    <Elem NameU="End User Male, Left and Right" Name="최종 사용자 남성，오른쪽과 왼쪽"/>
+    <Elem NameU="Androgynous Person" Name="중성적인 사람"/>
+    <Elem NameU="End User, CiscoWorks" Name="최종 사용자，Cisco공장"/>
+    <Elem NameU="Symbol Man, Various Colors" Name="남자，여러가지 색"/>
+    <Elem NameU="Symbol Woman, Various Colors" Name="여자，여러가지 색"/>
+    <Elem NameU="Running Woman" Name="달리는 여자"/>
+    <Elem NameU="Running Man (Color and Subdued)" Name="런닝맨（컬러와 유니폼）"/>
+    <Elem NameU="Woman" Name="여자"/>
+    <Elem NameU="Man" Name="남자"/>
+    <Elem NameU="MDU" Name="MDU"/>
+    <Elem NameU="Medium Building, Regular, Subdued,  and Blue" Name="중등 빌딩，보통，편안한，블루"/>
+    <Elem NameU="Home Office" Name="홈 오피스"/>
+    <Elem NameU="Telecommuter House (Color and Subdued)" Name="원격 오피스（편안한 컬러）"/>
+    <Elem NameU="House, Regular and Blue" Name="하우스,정규적,블루"/>
+    <Elem NameU="Headquarters, Regular, Subdued,  and Blue" Name="본부,정규적，겸허한,블루"/>
+    <Elem NameU="Branch Office, Regular, Subdued,  and Blue" Name="지사，정규적，겸허한，블루"/>
+    <Elem NameU="Small Business" Name="작은 기업"/>
+    <Elem NameU="University" Name="대학"/>
+    <Elem NameU="Government" Name="정부"/>
+    <Elem NameU="Line: Ethernet  (Use Thicker where There Is Space)" Name="선로：이더넷 (공간이있는 곳에 더 두껍게 사용)"/>
+    <Elem NameU="Line: Circuit-Switched  (Use Thicker where There Is Space)" Name="선로：회로 전환 (공간이있는 곳에 더 두껍게 사용)"/>
+    <Elem NameU="Line: Serial (Use Thicker where There Is Space)" Name="행：직렬"/>
+    <Elem NameU="FDDI Rings, with and without Text, Vertical and Horizontal" Name="FDDI링,텍스트 포함 또는 제외, 가로 또는 세로"/>
+    <Elem NameU="Token Rings, with and without Text and Subdued" Name="토큰 링, 텍스트 포함 또는 제외 "/>
+    <Elem NameU="Intelligence Engine 2100 Series" Name="인텔리전스 엔진 2100 시리즈"/>
+    <Elem NameU="Newton" Name="뉴턴"/>
+    <Elem NameU="Repeater" Name="리피터"/>
+    <Elem NameU="Web Browser" Name="웹 서버"/>
+    <Elem NameU="Web Server" Name="Web 서버"/>
+    <Elem NameU="LAN2LAN" Name="LAN2LAN"/>
+    <Elem NameU="Super- computer" Name="슈퍼 컴퓨터"/>
+    <Elem NameU="HP Mini" Name="HP 미니"/>
+    <Elem NameU="ATM/FastGb Etherswitch" Name="ATM/FastGb 이더넷스위치"/>
+    <Elem NameU="Web Cluster" Name="Web클러스터"/>
+    <Elem NameU="Monitor" Name="모니터"/>
+    <Elem NameU="File/ Application Server" Name="파일/응용프로그램 서버"/>
+    <Elem NameU="Laptop" Name="노트북"/>
+    <Elem NameU="Printer" Name="인쇄기"/>
+    <Elem NameU="Mini or  VAX/VMS  with DECnet" Name="DECnet을 갖춘 미니 또는 VAX/VMS"/>
+    <Elem NameU="Terminal" Name="터미널"/>
+    <Elem NameU="Mac" Name="mac"/>
+</Lib>

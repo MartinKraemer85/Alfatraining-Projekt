@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Business Icons">
+  <Elem NameU="Address Book" Name="地址簿"/>
+  <Elem NameU="Medal" Name="獎牌"/>
+  <Elem NameU="Shield" Name="盾牌"/>
+  <Elem NameU="Profit" Name="盈利"/>
+  <Elem NameU="Loss" Name="虧損"/>
+  <Elem NameU="Calculator" Name="計算器"/>
+  <Elem NameU="Clock" Name="時鐘"/>
+  <Elem NameU="Alarm Clock" Name="鬧鐘"/>
+  <Elem NameU="Cloud" Name="雲"/>
+  <Elem NameU="Database" Name="資料庫"/>
+  <Elem NameU="Camera" Name="照相機"/>
+  <Elem NameU="Thumb Up" Name="贊"/>
+  <Elem NameU="Thumb Down" Name="踩"/>
+  <Elem NameU="Radio Wave" Name="聲波"/>
+  <Elem NameU="Loudspeaker" Name="揚聲器"/>
+  <Elem NameU="Battery" Name="電池"/>
+  <Elem NameU="Cart" Name="購物車"/>
+  <Elem NameU="Coffee" Name="咖啡"/>
+  <Elem NameU="Briefcase" Name="公文包"/>
+  <Elem NameU="At" Name="at"/>
+  <Elem NameU="Aperture" Name="光圈"/>
+  <Elem NameU="Arrow - Circular" Name="圓形箭頭"/>
+  <Elem NameU="Car" Name="車"/>
+  <Elem NameU="Chatbubble - Working" Name="聊天工作室"/>
+  <Elem NameU="Chat Bubbles" Name="聊天泡泡"/>
+  <Elem NameU="Cogs" Name="齒輪"/>
+  <Elem NameU="Gear" Name="齒輪"/>
+  <Elem NameU="Bulb" Name="燈泡"/>
+  <Elem NameU="World" Name="地球"/>
+  <Elem NameU="Walk" Name="行走"/>
+  <Elem NameU="Watch" Name="手錶"/>
+  <Elem NameU="Volume - Low" Name="音量-低"/>
+  <Elem NameU="Volume - Medium" Name="音量-中等"/>
+  <Elem NameU="Volume - High" Name="音量-高"/>
+  <Elem NameU="Money Bag" Name="錢包"/>
+  <Elem NameU="Taxi" Name="出租車"/>
+  <Elem NameU="Target" Name="靶"/>
+  <Elem NameU="Shuffle" Name="位置變換"/>
+  <Elem NameU="Power" Name="電源"/>
+  <Elem NameU="Price Tag" Name="價格標籤"/>
+  <Elem NameU="Pin" Name="別針"/>
+  <Elem NameU="People" Name="人"/>
+  <Elem NameU="Person" Name="人"/>
+  <Elem NameU="Microphone" Name="話筒"/>
+  <Elem NameU="Location" Name="位置"/>
+  <Elem NameU="Email" Name="電子郵件"/>
+  <Elem NameU="Email - Open" Name="電子郵件-已閱"/>
+  <Elem NameU="Chain" Name="鏈條"/>
+  <Elem NameU="Navigate" Name="導航"/>
+  <Elem NameU="Basketball" Name="籃球"/>
+  <Elem NameU="Baseball" Name="棒球"/>
+  <Elem NameU="Tennis Ball" Name="網球"/>
+  <Elem NameU="Cycle" Name="循環"/>
+  <Elem NameU="Heart" Name="愛心"/>
+  <Elem NameU="Music" Name="音樂"/>
+  <Elem NameU="Share" Name="分享"/>
+  <Elem NameU="Star" Name="星星"/>
+  <Elem NameU="Snowflake" Name="雪花"/>
+  <Elem NameU="Sun" Name="太陽"/>
+  <Elem NameU="Plane" Name="飛機"/>
+  <Elem NameU="Pie" Name="塊"/>
+  <Elem NameU="Road Sign" Name="路標"/>
+  <Elem NameU="Clipboard" Name="剪切板"/>
+  <Elem NameU="Check" Name="支票"/>
+  <Elem NameU="Book" Name="書"/>
+  <Elem NameU="Bookmark" Name="書籤"/>
+  <Elem NameU="Boat" Name="船"/>
+  <Elem NameU="Cloud - Upload" Name="雲-上傳"/>
+  <Elem NameU="Cloud - Download" Name="雲-下載"/>
+  <Elem NameU="Trophy" Name="獎杯"/>
+  <Elem NameU="Thermometer" Name="溫度計"/>
+  <Elem NameU="Wifi" Name="無線網絡"/>
+  <Elem NameU="Tool" Name="工具"/>
+  <Elem NameU="Slide" Name="幻燈片"/>
+  <Elem NameU="Home" Name="家"/>
+  <Elem NameU="Image" Name="畫像"/>
+  <Elem NameU="Gift" Name="禮物"/>
+  <Elem NameU="Earphone" Name="耳機"/>
+  <Elem NameU="Laptop" Name="筆記本電腦"/>
+  <Elem NameU="Paper" Name="紙"/>
+  <Elem NameU="Monitor" Name="顯示屏"/>
+  <Elem NameU="Phone" Name="電話"/>
+  <Elem NameU="Movie" Name="電影"/>
+  <Elem NameU="Folder" Name="資料夾"/>
+  <Elem NameU="Man" Name="男人"/>
+  <Elem NameU="Woman" Name="女人"/>
+  <Elem NameU="Wrench" Name="扳手"/>
+  <Elem NameU="Trash Bin" Name="垃圾桶"/>
+  <Elem NameU="Umbrella" Name="雨傘"/>
+  <Elem NameU="Restaurant" Name="餐廳"/>
+  <Elem NameU="Pulse" Name="脈搏"/>
+  <Elem NameU="Paperclip" Name="回形針"/>
+  <Elem NameU="Pencil" Name="鉛筆"/>
+  <Elem NameU="Medical Kit" Name="醫療箱"/>
+  <Elem NameU="Game Controller" Name="遊戲控制器"/>
+  <Elem NameU="Printer" Name="打印機"/>
+  <Elem NameU="USB Flash Drive" Name="USB閃存驅動器"/>
+  <Elem NameU="Magnifier" Name="放大鏡"/>
+  <Elem NameU="Calendar" Name="日曆"/>
+  <Elem NameU="iPhone" Name="蘋果手機"/>
+  <Elem NameU="Map" Name="地圖"/>
+  <Elem NameU="Hourglass" Name="沙漏"/>
+  <Elem NameU="Cooperation" Name="合作"/>
+  <Elem NameU="U.S. Dollar" Name="美元"/>
+  <Elem NameU="Euro" Name="歐元"/>
+  <Elem NameU="RMB" Name="人民幣"/>
+  <Elem NameU="Bug" Name="缺陷"/>
+  <Elem NameU="Savings" Name="儲蓄"/>
+  <Elem NameU="Diamond" Name="鑽石"/>
+  <Elem NameU="Bank" Name="銀行"/>
+  <Elem NameU="Law Hammer" Name="法槌"/>
+  <Elem NameU="Scales of Justice" Name="正義天平"/>
+</Lib>

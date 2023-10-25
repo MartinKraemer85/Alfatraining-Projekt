@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Language Level Shapes">
+    <Elem NameU="Flowchart Shapes" Name="흐름도 셰이프"/>
+    <Elem NameU="Function or Subrouting" Name="함수 또는 서브루틴"/>
+    <Elem NameU="Switch" Name="스위치"/>
+    <Elem NameU="Cloud" Name="클라우드"/>
+    <Elem NameU="Conditional invocation" Name="조건부 호출"/>
+    <Elem NameU="Lexical inclusion" Name="어휘 포함"/>
+    <Elem NameU="Invocation" Name="호출"/>
+    <Elem NameU="Invocation w-Jump" Name="점프가 있는 호출"/>
+    <Elem NameU="Data flow" Name="데이터 흐름"/>
+    <Elem NameU="Flag flow" Name="플래그 흐름"/>
+    <Elem NameU="Bracket" Name="괄호"/>
+</Lib>

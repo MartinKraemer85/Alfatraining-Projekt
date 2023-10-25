@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="GCP Networking">
+	<Elem NameU="Cloud CDN" Name="Cloud CDN"/>
+	<Elem NameU="Cloud DNS" Name="Cloud DNS"/>
+	<Elem NameU="Cloud external IP address" Name="Indirizzo IP Esterno Cloud"/>
+	<Elem NameU="Cloud firewall rules" Name="Regola Firewall Cloud"/>
+	<Elem NameU="Internal link" Name="Collegamento Interno Cloud"/>
+	<Elem NameU="Cloud load balancing" Name="Bilanciamento Carico Cloud"/>
+	<Elem NameU="Cloud network" Name="Rete Cloud"/>
+	<Elem NameU="Cloud internal partner" Name="Partner Interno Cloud"/>
+	<Elem NameU="Cloud path" Name="Percorso Cloud"/>
+	<Elem NameU="Cloud router" Name="Router Cloud"/>
+	<Elem NameU="Cloud VPN" Name="VPN Cloud"/>
+	<Elem NameU="Virtual personal cloud storage" Name="Archiviazione Cloud Virtuale Personale"/>
+</Lib>

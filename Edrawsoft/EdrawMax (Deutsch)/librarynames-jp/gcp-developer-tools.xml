@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="GCP Developer Tools">
+
+<Elem Name="クラウドのアップグレード管理" NameU="Cloud upgrade management"/>
+
+<Elem Name="標準なGCP" NameU="General GCP"/>
+
+<Elem Name="パワーシェル" NameU="PowerShell"/>
+
+<Elem Name="コンストラクションマネージャー" NameU="Construction Manager"/>
+
+<Elem Name="登録マネージャー" NameU="Registration Manager"/>
+
+</Lib>

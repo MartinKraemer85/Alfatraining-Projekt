@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Family">
+	<Elem NameU="Father" Name="Padre"/>
+	<Elem NameU="Mother" Name="Madre"/>
+	<Elem NameU="Grandfather" Name="Nonno"/>
+	<Elem NameU="Grandmother" Name="Nonna"/>
+	<Elem NameU="Uncle" Name="Zio"/>
+	<Elem NameU="Aunt" Name="Zia"/>
+	<Elem NameU="Son 1" Name="Figlio 1"/>
+	<Elem NameU="Son 2" Name="Figlio 2"/>
+	<Elem NameU="Daughter 1" Name="Figlia 1"/>
+	<Elem NameU="Daughter 2" Name="Figlia 2"/>
+	<Elem NameU="Baby" Name="Neonato"/>
+	<Elem NameU="Wedding Couple" Name="Coppia Sposata"/>
+	<Elem NameU="Father and Mother" Name="Padre e Madre"/>
+	<Elem NameU="Grandparents" Name="Nonni"/>
+	<Elem NameU="Parents and Kids" Name="Genitori e Figli"/>
+	<Elem NameU="Mother,Baby and Stroller" Name="Mamma, Bambino e Passeggino"/>
+	<Elem NameU="Parents and Kids 2" Name="Genitori e Figli 2"/>
+	<Elem NameU="Grandfather, Father and Son" Name="Nonno, Padre e Figlio"/>
+	<Elem NameU="Father and Son" Name="Padre e Figlio"/>
+	<Elem NameU="Parents and Daughter" Name="Genitori e Figlia"/>
+	<Elem NameU="Sisters" Name="Sorelle"/>
+	<Elem NameU="Brother and Sister" Name="Fratello e Sorella"/>
+	<Elem NameU="Sister and Brother" Name="Sorella e Fratello"/>
+	<Elem NameU="Brothers" Name="Fratelli"/>
+	<Elem NameU="Father and Uncle" Name="Padre e Zio"/>
+	<Elem NameU="Father and Kids" Name="Padre e Bambini"/>
+	<Elem NameU="Mother and Kids" Name="Madre e Bambini"/>
+	<Elem NameU="Uncle and Aunt" Name="Zio e Zia"/>
+	<Elem NameU="Grandmother and Granddaughter" Name="Nonna e Nipote"/>
+	<Elem NameU="Grandfather and Grandson" Name="Nonno e Nipote"/>
+	<Elem NameU="Grandmother, Mother and Daughter" Name="Nonna, Madre e Figlia"/>
+	<Elem NameU="Parents and Kids 3" Name="Genitori e Figli 3"/>
+	<Elem NameU="Family Group 1" Name="Gruppo Familiare 1"/>
+	<Elem NameU="Family Group 2" Name="Gruppo Familiare 2"/>
+</Lib>

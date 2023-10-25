@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Containers">
+    <Elem NameU="Liter bottle" Number="2" Name="升瓶"/>
+    <Elem NameU="Blue barrel" Name="藍桶"/>
+    <Elem NameU="Bottle" Name="瓶子"/>
+    <Elem NameU="Bucket" Name="桶"/>
+    <Elem NameU="Bulk container" Name="散裝貨集裝箱"/>
+    <Elem NameU="Can" Name="罐頭"/>
+    <Elem NameU="Can 2" Name="罐頭 2"/>
+    <Elem NameU="Can 3" Name="罐頭 3"/>
+    <Elem NameU="Cardboard box 1" Name="紙箱 1"/>
+    <Elem NameU="Cardboard box 2" Name="紙箱 2"/>
+    <Elem NameU="Cardboard box with up arrows, closed" Name="有向上箭頭的封口紙箱"/>
+    <Elem NameU="Cardboard box with up arrows, sealed" Name="有向上箭頭的密封貼標紙箱"/>
+    <Elem NameU="Cardboard box,closed" Name="封口紙箱"/>
+    <Elem NameU="Cardboard box, no flaps" Name="無蓋紙箱"/>
+    <Elem NameU="Cardboard box, open" Name="打開的紙箱"/>
+    <Elem NameU="Cardboard box,top view,closed" Name="封口紙箱俯視圖"/>
+    <Elem NameU="Cardboard box,top view,open" Name="開口紙箱俯視圖"/>
+    <Elem NameU="Cardboard box,top view,sealed" Name="封口貼紙相俯視圖"/>
+    <Elem NameU="Container 1" Name="容器 1"/>
+    <Elem NameU="Crate" Name="板條箱"/>
+    <Elem NameU="Fiberglass square mesh grating(perspective view)" Name="玻璃纖維方形網格光柵(透視圖) "/>
+    <Elem NameU="Fiberglass square mesh grating(top view)" Name="玻璃纖維方形網格光柵(俯視圖)"/>
+    <Elem NameU="Gray barrel" Name="灰色桶"/>
+    <Elem NameU="Green barrel" Name="綠色桶"/>
+    <Elem NameU="Open-head shipping container" Name="帶蓋船運集裝箱"/>
+    <Elem NameU="Pallet" Name="實木託盤"/>
+    <Elem NameU="Pill bottle" Name="藥瓶"/>
+    <Elem NameU="Plastic container" Name="塑料容器"/>
+    <Elem NameU="Plastic container 2" Name="塑料容器 2"/>
+    <Elem NameU="Plastic container 3" Name="塑料容器 3"/>
+    <Elem NameU="Cup" Name="杯子"/>
+    <Elem NameU="Plastic pallet" Name="塑料托盤"/>
+    <Elem NameU="Prescription bottle" Name="投藥瓶"/>
+    <Elem NameU="Sealed box with bar code" Name="貼有條形碼的密封紙箱"/>
+    <Elem NameU="Simple box sealed with OSHA tape" Name="用OSHA膠帶封口的簡易紙箱"/>
+    <Elem NameU="Simple box top view,closed" Name="簡易封口盒俯視圖"/>
+    <Elem NameU="Yellow  barrel" Name="黃桶"/>
+    <Elem NameU="Bathtub" Name="浴缸"/>
+</Lib>

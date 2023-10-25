@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DataFormats>
+    <DTUnits>
+        <Unit NameU="Year" Local="Tahun" Name="Year" />
+        <Unit NameU="Quarter" Local="Triwulan" Name="Quarter" />
+        <Unit NameU="Month" Local="Bulan" Name="Month" />
+        <Unit NameU="Week" Local="Minggu" Name="Week" />
+        <Unit NameU="Day" Local="Hari" Name="Day" />
+        <Unit NameU="Hour" Local="Jam" Name="Hour" />
+        <Unit NameU="Minute" Local="Menit" Name="Minute" />
+        <Unit NameU="Second" Local="Detik" Name="Second" />
+    </DTUnits>
+    <Strings>
+        <String Show="TRUE" NameU="Normal" Local="Normal" Name="Normal" />
+        <String Show="TRUE" NameU="Uppercase" Local="Huruf besar" Name="Uppercase" />
+        <String Show="TRUE" NameU="Lowercase" Local="Huruf kecil" Name="Lowercase" />
+    </Strings>
+    <Durations>
+        <Unit Show="TRUE" NameU="Week" Local="Minggu" Name="Week" />
+        <Unit Show="TRUE" NameU="Day" Local="Hari" Name="Day" />
+        <Unit Show="TRUE" NameU="Hour" Local="Jam" Name="Hour" />
+        <Unit Show="TRUE" NameU="Minute" Local="Menit" Name="Minute" />
+        <Unit Show="TRUE" NameU="Second" Local="Detik" Name="Second" />
+        <Unit Show="TRUE" NameU="Hour&amp;Minute" Local="Jam&amp;Menit" Name="Hour&amp;Minute" />
+        <Unit Show="TRUE" NameU="Minute&amp;Second" Local="Menit&amp;Detik" Name="Minute&amp;Second" />
+    </Durations>
+    <Dates Default="0">
+        <Date Show="TRUE" Format="yyyy-MM-dd" />
+        <Date Show="TRUE" Format="dd/MM/yyyy" />
+        <Date Show="TRUE" Format="dd/MM/yyyy hh:mm" />
+        <Date Show="TRUE" Format="dd.MM.yyyy" />
+        <Date Show="TRUE" Format="yyyy/M/d" />
+        <Date Show="TRUE" Format="M/d/yyyy" />
+        <Date Show="TRUE" Format="M/d/yy" />
+        <Date Show="TRUE" Format="d/M/yyyy" />
+        <Date Show="TRUE" Format="d/M/yy" />
+        <Date Show="TRUE" Format="M.d.yyyy" />
+        <Date Show="TRUE" Format="d.M.yyyy" />
+        <Date Show="TRUE" Format="yy-M-d" />
+        <Date Show="TRUE" Format="yy-MM-dd" />
+        <Date Show="TRUE" Format="MM-dd-yy" />
+        <Date Show="TRUE" Format="MMMM d,yyyy" />
+        <Date Show="TRUE" Format="dddd,MMMM dd,yyyy" />
+        <Date Show="TRUE" Format="d MMMM yyyy" />
+        <Date Show="TRUE" Format="d-MMM-yy" />
+        <Date Show="TRUE" Format="MMM.d,yy" />
+        <Date Show="TRUE" Format="MMMM yy" />
+        <Date Show="TRUE" Format="MMM-yy" />
+        <Date Show="TRUE" Format="yyyy" />
+        <Date Show="TRUE" Format="MMM" />
+        <Date Show="TRUE" Format="M/d/yyyy h:mm:ss ap" />
+        <Date Show="TRUE" Format="M/d/yyyy h:mm ap" />
+        <Date Show="TRUE" Format="d/M/yyyy h:mm:ss ap" />
+        <Date Show="TRUE" Format="d/M/yyyy h:mm ap" />
+        <Date Show="TRUE" Format="h:mm ap" />
+        <Date Show="TRUE" Format="h:mm:ss ap" />
+        <Date Show="TRUE" Format="hh:mm" />
+        <Date Show="TRUE" Format="hh:mm:ss" />
+        <Date Show="TRUE" Format="hh" />
+        <Date Show="TRUE" Format="mm" />
+        <Date Show="TRUE" Format="ss" />
+    </Dates>
+    <Units Default="0">
+        <Unit Show="TRUE" NameU="None" Flag="None" Local="Tidak Ada" Name="None" />
+        <Unit Show="TRUE" NameU="Page's Unit" Flag="" Local="Satuan Halaman" Name="Page's Unit" />
+        <Unit Show="TRUE" NameU="kilometre" Flag="km" Local="kilometer" Name="kilometre" />
+        <Unit Show="TRUE" NameU="hectometre" Flag="hm" Local="hektometer" Name="hectometre" />
+        <Unit Show="TRUE" NameU="decametre" Flag="dam" Local="dekameter" Name="decametre" />
+        <Unit Show="TRUE" NameU="metre" Flag="m" Local="meter" Name="metre" />
+        <Unit Show="TRUE" NameU="decimetre" Flag="dm" Local="desimeter" Name="decimetre" />
+        <Unit Show="TRUE" NameU="centimetre" Flag="cm" Local="sentimeter" Name="centimetre" />
+        <Unit Show="TRUE" NameU="millimetre" Flag="mm" Local="milimeter" Name="millimetre" />
+        <Unit Show="TRUE" NameU="decimillimetre" Flag="dmm" Local="desimilimeter" Name="decimillimetre" />
+        <Unit Show="TRUE" NameU="centimillimetre" Flag="cmm" Local="sentimilimeter" Name="centimillimetre" />
+        <Unit Show="TRUE" NameU="micrometre" Flag="um" Local="mikrometer" Name="micrometre" />
+        <Unit Show="TRUE" NameU="nautical mile" Flag="n.m" Local="mil laut" Name="nautical mile" />
+        <Unit Show="TRUE" NameU="mile" Flag="mi" Local="mil" Name="mile" />
+        <Unit Show="TRUE" NameU="yard" Flag="yd" Local="yard" Name="yard" />
+        <Unit Show="TRUE" NameU="foot" Flag="ft" Local="kaki" Name="foot" />
+        <Unit Show="TRUE" NameU="inch" Flag="in" Local="inci" Name="inch" />
+        <Unit Show="TRUE" NameU="square kilometre" Flag="sq.km" Local="kilometer persegi" Name="square kilometre" />
+        <Unit Show="TRUE" NameU="hectare" Flag="ha" Local="hektare" Name="hectare" />
+        <Unit Show="TRUE" NameU="are" Flag="a" Local="are" Name="are" />
+        <Unit Show="TRUE" NameU="square metre" Flag="sq.m" Local="meter persegi" Name="square metre" />
+        <Unit Show="TRUE" NameU="square centimetre" Flag="sq.cm" Local="sentimeter persegi" Name="square centimetre" />
+        <Unit Show="TRUE" NameU="square mile" Flag="sq.mi" Local="mil persegi" Name="square mile" />
+        <Unit Show="TRUE" NameU="acre" Flag="ac" Local="ekar" Name="acre" />
+        <Unit Show="TRUE" NameU="square yard" Flag="sq.yd" Local="yard persegi" Name="square yard" />
+        <Unit Show="TRUE" NameU="square foot" Flag="sq.ft" Local="kaki persegi" Name="square foot" />
+        <Unit Show="TRUE" NameU="square inch" Flag="sq.in" Local="inci persegi" Name="square inch" />
+        <Unit Show="TRUE" NameU="tonne" Flag="t" Local="ton" Name="tonne" />
+        <Unit Show="TRUE" NameU="quintal" Flag="q" Local="kuintal" Name="quintal" />
+        <Unit Show="TRUE" NameU="kilogram" Flag="kg" Local="kilogram" Name="kilogram" />
+        <Unit Show="TRUE" NameU="hectogramme" Flag="hg" Local="hektogram" Name="hectogramme" />
+        <Unit Show="TRUE" NameU="decagramme" Flag="dag" Local="dekagram" Name="decagramme" />
+        <Unit Show="TRUE" NameU="gramme" Flag="g" Local="gram" Name="gramme" />
+        <Unit Show="TRUE" NameU="decigramme" Flag="dg" Local="desigram" Name="decigramme" />
+        <Unit Show="TRUE" NameU="centigramme" Flag="cg" Local="sentigram" Name="centigramme" />
+        <Unit Show="TRUE" NameU="milligramme" Flag="mg" Local="miligram" Name="milligramme" />
+        <Unit Show="TRUE" NameU="microgramme" Flag="ug" Local="mikrogram" Name="microgramme" />
+        <Unit Show="TRUE" NameU="long ton" Flag="l.t" Local="ton panjang" Name="long ton" />
+        <Unit Show="TRUE" NameU="short ton" Flag="s.t" Local="ton pendek" Name="short ton" />
+        <Unit Show="TRUE" NameU="hundredweight" Flag="cwt" Local="hundredweight" Name="hundredweight" />
+        <Unit Show="TRUE" NameU="stone" Flag="stone" Local="stone" Name="stone" />
+        <Unit Show="TRUE" NameU="pound" Flag="lb" Local="pon" Name="pound" />
+        <Unit Show="TRUE" NameU="ounce" Flag="oz" Local="ons" Name="ounce" />
+        <Unit Show="TRUE" NameU="dram" Flag="dr" Local="dram" Name="dram" />
+        <Unit Show="TRUE" NameU="grain" Flag="gr" Local="grain" Name="grain" />
+        <Unit Show="TRUE" NameU="kilolitre" Flag="kl" Local="kiloliter" Name="kilolitre" />
+        <Unit Show="TRUE" NameU="hectolitre" Flag="hl" Local="hektoliter" Name="hectolitre" />
+        <Unit Show="TRUE" NameU="decalitre" Flag="dal" Local="dekaliter" Name="decalitre" />
+        <Unit Show="TRUE" NameU="litre" Flag="l" Local="liter" Name="litre" />
+        <Unit Show="TRUE" NameU="decilitre" Flag="dl" Local="desiliter" Name="decilitre" />
+        <Unit Show="TRUE" NameU="centilitre" Flag="cl" Local="sentiliter" Name="centilitre" />
+        <Unit Show="TRUE" NameU="millilitre" Flag="ml" Local="mililiter" Name="millilitre" />
+        <Unit Show="TRUE" NameU="microlitre" Flag="ul" Local="mikroliter" Name="microlitre" />
+        <Unit Show="TRUE" NameU="bushel" Flag="bsh" Local="gantang" Name="bushel" />
+        <Unit Show="TRUE" NameU="peck" Flag="pk" Local="peck" Name="peck" />
+        <Unit Show="TRUE" NameU="gallon" Flag="gal" Local="galon" Name="gallon" />
+        <Unit Show="TRUE" NameU="quart" Flag="qt" Local="quart" Name="quart" />
+        <Unit Show="TRUE" NameU="pint" Flag="p" Local="pint" Name="pint" />
+        <Unit Show="TRUE" NameU="ampere" Flag="A" Local="ampere" Name="ampere" />
+        <Unit Show="TRUE" NameU="kelvin" Flag="K" Local="kelvin" Name="kelvin" />
+        <Unit Show="TRUE" NameU="mole" Flag="mol" Local="mol" Name="mole" />
+        <Unit Show="TRUE" NameU="candela" Flag="cd" Local="kandela" Name="candela" />
+        <Unit Show="TRUE" NameU="second" Flag="s" Local="detik" Name="second" />
+        <Unit Show="TRUE" NameU="hertz" Flag="Hz" Local="hertz" Name="hertz" />
+        <Unit Show="TRUE" NameU="pascal" Flag="Pa" Local="pascal" Name="pascal" />
+        <Unit Show="TRUE" NameU="newton" Flag="N" Local="newton" Name="newton" />
+        <Unit Show="TRUE" NameU="joule" Flag="J" Local="joule" Name="joule" />
+        <Unit Show="TRUE" NameU="watt" Flag="W" Local="watt" Name="watt" />
+        <Unit Show="TRUE" NameU="coulomb" Flag="C" Local="coulomb" Name="coulomb" />
+        <Unit Show="TRUE" NameU="volt" Flag="V" Local="volt" Name="volt" />
+        <Unit Show="TRUE" NameU="ohm" Flag="Ω" Local="ohm" Name="ohm" />
+        <Unit Show="TRUE" NameU="farad" Flag="F" Local="farad" Name="farad" />
+        <Unit Show="TRUE" NameU="henry" Flag="H" Local="henry" Name="henry" />
+        <Unit Show="TRUE" NameU="centigrade" Flag="°C" Local="celsius" Name="centigrade" />
+        <Unit Show="TRUE" NameU="radian" Flag="rad" Local="radian" Name="radian" />
+        <Unit Show="TRUE" NameU="steradian" Flag="sr" Local="steradian" Name="steradian" />
+        <Unit Show="TRUE" NameU="Custom" Flag="Custom" Local="Kustom" Name="Custom" />
+    </Units>
+    <Currency Default="8">
+        <Cur Show="TRUE" Country="Tidak Ada" CountryU="None" Flag="None" NewFlag="None" Local="Tidak Ada" />
+        <Cur Show="TRUE" Country="Argentina" CountryU="Argentina" Flag="Arg.p." NewFlag="ARP" Local="ARP" />
+        <Cur Show="TRUE" Country="Australia" CountryU="Australia" Flag="$A." NewFlag="AUD" Local="AUD" />
+        <Cur Show="TRUE" Country="Austria" CountryU="Austria" Flag="Sch." NewFlag="ATS" Local="ATS" />
+        <Cur Show="TRUE" Country="Belgia" CountryU="Belgium" Flag="B.Fr." NewFlag="BEF" Local="BEF" />
+        <Cur Show="TRUE" Country="Brasil" CountryU="Brazil" Flag="Gr.$" NewFlag="BRC" Local="BRC" />
+        <Cur Show="TRUE" Country="Kanada" CountryU="Canada" Flag="$" NewFlag="CAD" Local="CAD" />
+        <Cur Show="TRUE" Country="Chili" CountryU="Chile" Flag="P." NewFlag="CLP" Local="CLP" />
+        <Cur Show="TRUE" Country="Tiongkok" CountryU="China" Flag="￥" NewFlag="CNY" Local="CNY" />
+        <Cur Show="TRUE" Country="Tiongkok Hong Kong" CountryU="China Hongkong" Flag="HK$" NewFlag="HKD" Local="HKD" />
+        <Cur Show="TRUE" Country="Tiongkok Taiwan" CountryU="China Taiwan" Flag="NT$" NewFlag="TWD" Local="TWD" />
+        <Cur Show="TRUE" Country="Tiongkok Makau" CountryU="China Macao" Flag="P." NewFlag="MOP" Local="MOP" />
+        <Cur Show="TRUE" Country="Republik Ceko" CountryU="Czech Republic" Flag="Kcs." NewFlag="CSK" Local="CSK" />
+        <Cur Show="TRUE" Country="Denmark" CountryU="Denmark" Flag="D.Kr." NewFlag="DKK" Local="DKK" />
+        <Cur Show="TRUE" Country="Mesir" CountryU="Egypt" Flag="£E." NewFlag="EGP" Local="EGP" />
+        <Cur Show="TRUE" Country="Uni Eropa" CountryU="European Union" Flag="€" NewFlag="EUR" Local="EUR" />
+        <Cur Show="TRUE" Country="Fiji" CountryU="Fiji" Flag="F.$" NewFlag="FJD" Local="FJD" />
+        <Cur Show="TRUE" Country="Finlandia" CountryU="Finland" Flag="FMK." NewFlag="FIM" Local="FIM" />
+        <Cur Show="TRUE" Country="Prancis" CountryU="France" Flag="F.F." NewFlag="FRF" Local="FRF" />
+        <Cur Show="TRUE" Country="Gabon" CountryU="Gabon" Flag="CFAF" NewFlag="XAF" Local="XAF" />
+        <Cur Show="TRUE" Country="Jerman" CountryU="Germany" Flag="DM." NewFlag="DEM" Local="DEM" />
+        <Cur Show="TRUE" Country="Yunani" CountryU="Greece" Flag="Dr." NewFlag="GRD" Local="GRD" />
+        <Cur Show="TRUE" Country="Hungaria" CountryU="Hungary" Flag="FT." NewFlag="HUF" Local="HUF" />
+        <Cur Show="TRUE" Country="Islandia" CountryU="Iceland" Flag="I.Kr." NewFlag="ISK" Local="ISK" />
+        <Cur Show="TRUE" Country="India" CountryU="India" Flag="Re." NewFlag="INR" Local="INR" />
+        <Cur Show="TRUE" Country="Indonesia" CountryU="Indonesia" Flag="Rps." NewFlag="IDR" Local="IDR" />
+        <Cur Show="TRUE" Country="Iran" CountryU="Iran" Flag="RI." NewFlag="IRR" Local="IRR" />
+        <Cur Show="TRUE" Country="Irlandia" CountryU="Ireland" Flag="£" NewFlag="IEP" Local="IEP" />
+        <Cur Show="TRUE" Country="Italia" CountryU="Italy" Flag="Lit." NewFlag="ITL" Local="ITL" />
+        <Cur Show="TRUE" Country="Jepang" CountryU="Japan" Flag="¥" NewFlag="JPY" Local="JPY" />
+        <Cur Show="TRUE" Country="Korea" CountryU="Korea" Flag="" NewFlag="KRW" Local="KRW" />
+        <Cur Show="TRUE" Country="Luksemburg" CountryU="Luxembourg" Flag="Lux.F." NewFlag="LUF" Local="LUF" />
+        <Cur Show="TRUE" Country="Malaysia" CountryU="Malaysia" Flag="M.$" NewFlag="MYR" Local="MYR" />
+        <Cur Show="TRUE" Country="Malta" CountryU="Malta" Flag="£.M." NewFlag="MTP" Local="MTP" />
+        <Cur Show="TRUE" Country="Mauritius" CountryU="Mauritius" Flag="Maur. Rp." NewFlag="MUR" Local="MUR" />
+        <Cur Show="TRUE" Country="Meksiko" CountryU="Mexico" Flag="$" NewFlag="MXP" Local="MXP" />
+        <Cur Show="TRUE" Country="Maroko" CountryU="Morocco" Flag="DH." NewFlag="MAD" Local="MAD" />
+        <Cur Show="TRUE" Country="Belanda" CountryU="Netheriands" Flag="Gs." NewFlag="NLG" Local="NLG" />
+        <Cur Show="TRUE" Country="Selandia Baru" CountryU="New Zealand" Flag="$NZ." NewFlag="NZD" Local="NZD" />
+        <Cur Show="TRUE" Country="Norwegia" CountryU="Norway" Flag="N.Kr." NewFlag="NOK" Local="NOK" />
+        <Cur Show="TRUE" Country="Filipina" CountryU="Philippines" Flag="Ph.Pes." NewFlag="PHP" Local="PHP" />
+        <Cur Show="TRUE" Country="Polandia" CountryU="Poland" Flag="ZL." NewFlag="PLZ" Local="PLZ" />
+        <Cur Show="TRUE" Country="Portugal" CountryU="Portugal" Flag="ESC." NewFlag="PTE" Local="PTE" />
+        <Cur Show="TRUE" Country="Rumania" CountryU="Romania" Flag="L." NewFlag="ROL" Local="ROL" />
+        <Cur Show="TRUE" Country="Rusia" CountryU="Russia" Flag="Rbs. Rbl." NewFlag="SUR" Local="SUR" />
+        <Cur Show="TRUE" Country="Arab Saudi" CountryU="Saudi Arabia" Flag="S.R." NewFlag="SAR" Local="SAR" />
+        <Cur Show="TRUE" Country="Seychelles" CountryU="Seychelles" Flag="S.RP" NewFlag="SCR" Local="SCR" />
+        <Cur Show="TRUE" Country="Singapura" CountryU="Singapore" Flag="S.$" NewFlag="SGD" Local="SGD" />
+        <Cur Show="TRUE" Country="Kepulauan Solomon" CountryU="Solomon Islands" Flag="SL.$" NewFlag="SBD" Local="SBD" />
+        <Cur Show="TRUE" Country="Afrika Selatan" CountryU="South Africa" Flag="R." NewFlag="ZAR" Local="ZAR" />
+        <Cur Show="TRUE" Country="Spanyol" CountryU="Spain" Flag="Pts." NewFlag="ESP" Local="ESP" />
+        <Cur Show="TRUE" Country="Swedia" CountryU="Sweden" Flag="S.Kr." NewFlag="SEK" Local="SEK" />
+        <Cur Show="TRUE" Country="Swiss" CountryU="Switzerland" Flag="SFr." NewFlag="CHF" Local="CHF" />
+        <Cur Show="TRUE" Country="Thailand" CountryU="Thailand" Flag="BT." NewFlag="THP" Local="THP" />
+        <Cur Show="TRUE" Country="Turki" CountryU="Turkey" Flag="£T." NewFlag="TRL" Local="TRL" />
+        <Cur Show="TRUE" Country="Inggris Raya" CountryU="United Kiongdom" Flag="£" NewFlag="GBP" Local="GBP" />
+        <Cur Show="TRUE" Country="Amerika Serikat" CountryU="United States" Flag="$" NewFlag="USD" Local="USD" />
+        <Cur Show="TRUE" Country="Venezuela" CountryU="Venezuela" Flag="B" NewFlag="VEB" Local="VEB" />
+        <Cur Show="TRUE" Country="Vietnam" CountryU="Vietnam" Flag="D." NewFlag="VND" Local="VND" />
+        <Cur Show="TRUE" Country="Yugoslavia" CountryU="Yugoslavia" Flag="Din.Dr." NewFlag="YUD" Local="YUD" />
+        <Cur Show="TRUE" Country="Kustom" CountryU="Custom" Flag="Custom" NewFlag="Custom" Local="Kustom" />
+    </Currency>
+</DataFormats>

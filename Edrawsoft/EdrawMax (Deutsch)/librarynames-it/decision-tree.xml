@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Decision Tree">
+	<Elem NameU="Decision Made Node" Name="Nodo Decisione Presa"/>
+	<Elem NameU="Chance Event Node" Name="Nodo Possibilità Evento"/>
+	<Elem NameU="Endpoints" Name="EndPoint"/>
+	<Elem NameU="Branches of alternatives" Name="Rami di alternative"/>
+	<Elem NameU="Branches of alternatives 2" Name="Rami di alternative 2"/>
+	<Elem NameU="Rejected Alternative" Name="Alternativa Rifiutata"/>
+	<Elem NameU="Rejected Alternative 2" Name="Alternativa Rifiutata 2"/>
+	<Elem NameU="Outcome or utility" Name="Esito o utilità"/>
+	<Elem NameU="Probability" Name="Probabilità"/>
+	<Elem NameU="Expected Value" Name="Valore Atteso"/>
+	<Elem NameU="Node Designating a Choice" Name="Nodo Designante una Scelta"/>
+	<Elem NameU="Payoff" Name="Risultato"/>
+</Lib>

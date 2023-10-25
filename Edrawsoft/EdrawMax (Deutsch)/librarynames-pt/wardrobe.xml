@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Wardrobe">
+	<Elem NameU="Cabinet Dimension" Name="Dimensão de Armário"/>
+	<Elem NameU="Chest" Name="Arca"/>
+	<Elem NameU="Horizontal Board" Name="Quadro Horizontal"/>
+	<Elem NameU="Vertical Board" Name="Quadro Vertical"/>
+	<Elem NameU="Clapboard with Size" Name="Claquete com Tamanho"/>
+	<Elem NameU="Horizontal Clapboard" Name="Claquete Horizontal"/>
+	<Elem NameU="Vertical Clapboard" Name="Claquete Vertical"/>
+	<Elem NameU="Top Box" Name="Caixa Superior"/>
+	<Elem NameU="Top Box(Right)" Name="Caixa Superior(Direita)"/>
+	<Elem NameU="Drawer" Name="Gaveta"/>
+	<Elem NameU="Drawer 2" Name="Gaveta 2"/>
+	<Elem NameU="Drawer 3" Name="Gaveta 3"/>
+	<Elem NameU="Drawer 4" Name="Gaveta 4"/>
+	<Elem NameU="Drawer 5" Name="Gaveta 5"/>
+	<Elem NameU="Drawer 6" Name="Gaveta 6"/>
+	<Elem NameU="Drawer 7" Name="Gaveta 7"/>
+	<Elem NameU="Baskets" Name="Cestas"/>
+	<Elem NameU="Suitcase" Name="Pasta"/>
+	<Elem NameU="Suitcase 2" Name="Pasta 2"/>
+	<Elem NameU="Lattice" Name="Treliça"/>
+	<Elem NameU="Clothes Hanger" Name="Cabide"/>
+	<Elem NameU="Trouser Hanger" Name="Cabide"/>
+	<Elem NameU="Box" Name="Caixa"/>
+	<Elem NameU="Towel" Name="Toalha"/>
+	<Elem NameU="Towel 2" Name="Toalha 2"/>
+	<Elem NameU="Pillow" Name="Almofada"/>
+	<Elem NameU="Quilt" Name="Colcha"/>
+	<Elem NameU="Quilt 2" Name="Colcha 2"/>
+	<Elem NameU="Quilt 3" Name="Colcha 3"/>
+	<Elem NameU="Hat" Name="Chapéu"/>
+	<Elem NameU="Hanger" Name="Cabide"/>
+	<Elem NameU="Photo Frame" Name="Moldura"/>
+	<Elem NameU="Clothes" Name="Roupas"/>
+	<Elem NameU="Clothes 2" Name="Roupas 2"/>
+	<Elem NameU="Jackets" Name="Casacos"/>
+	<Elem NameU="Suits" Name="Fatos"/>
+	<Elem NameU="Overcoat" Name="Sobretudo"/>
+	<Elem NameU="Pants" Name="Calças"/>
+	<Elem NameU="Hooks" Name="Ganchos"/>
+	<Elem NameU="Closet Framework" Name="Moldura de Armário de Roupa"/>
+	<Elem NameU="Horizontal Clapboard 2" Name="Claquete Horizontal 2"/>
+	<Elem NameU="Vertical Clapboard 2" Name="Claquete Vertical 2"/>
+	<Elem NameU="Clothes Hanger 2" Name="Cabide 2"/>
+	<Elem NameU="Hanger 2" Name="Cabide 2"/>
+	<Elem NameU="Towel 3" Name="Toalha 3"/>
+	<Elem NameU="Towel 4" Name="Toalha 4"/>
+	<Elem NameU="Towel 5" Name="Toalha 5"/>
+	<Elem NameU="Pillow 2" Name="Almofada 2"/>
+	<Elem NameU="Hat 2" Name="Chapéu 2"/>
+	<Elem NameU="Blue Dress" Name="Vestido Azul"/>
+	<Elem NameU="Red Dress" Name="Vestido Vermelho"/>
+	<Elem NameU="T-Shirt" Name="T-Shirt"/>
+	<Elem NameU="Shirt" Name="Camisa"/>
+	<Elem NameU="Toy" Name="Brinquedo"/>
+	<Elem NameU="Photo Frame 2" Name="Moldura 2"/>
+	<Elem NameU="Cabinet light" Name="Luz de armário"/>
+	<Elem NameU="Droplight" Name="Luz caída"/>
+	<Elem NameU="Ceiling light" Name="Luz de tecto"/>
+	<Elem NameU="Desk lamp" Name="Lâmpada de Mesa"/>
+</Lib>

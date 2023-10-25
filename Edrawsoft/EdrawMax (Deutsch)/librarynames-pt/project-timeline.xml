@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Project Timeline">
+  <Elem NameU="Time Bar" Name="Barra deTempo"/>
+  <Elem NameU="Time Bar" Name="Barra deTempo"/>
+  <Elem NameU="Time Bar" Name="Barra deTempo"/>
+  <Elem NameU="Time Bar" Name="Barra deTempo"/>
+  <Elem NameU="Time Bar" Name="Barra deTempo"/>
+  <Elem NameU="Time Bar" Name="Barra deTempo"/>
+  <Elem NameU="Interval Description" Name="Descrição do Intervalo"/>
+  <Elem NameU="Interval Description" Name="Descrição do Intervalo"/>
+  <Elem NameU="Interval Description" Name="Descrição do Intervalo"/>
+  <Elem NameU="Interval Description" Name="Descrição do Intervalo"/>
+  <Elem NameU="Interval Description" Name="Descrição do Intervalo"/>
+  <Elem NameU="Point Mission" Name="Missão de Ponto"/>
+  <Elem NameU="Multi-style Mission" Name="Missão Multi-estilo"/>
+  <Elem NameU="Point Mission" Name="Missão de Ponto"/>
+  <Elem NameU="Point Mission" Name="Missão de Ponto"/>
+  <Elem NameU="Point Mission" Name="Missão de Ponto"/>
+  <Elem NameU="Diamond Milestone" Name="Marco Diamante"/>
+  <Elem NameU="Triangle Milestone 2" Name="Marco do Triângulo 2"/>
+  <Elem NameU="Circle Milestone" Name="Marco do Círculo"/>
+  <Elem NameU="Rect Milestone" Name="Marco Retângulo"/>
+  <Elem NameU="Milestone" Name="Marco"/>
+  <Elem NameU="Flag Milestone" Name="Marco da Bandeira"/>
+  <Elem NameU="Line Milestone" Name="Marco da linha"/>
+  <Elem NameU="Side Brace" Name="Cinta lateral"/>
+</Lib>

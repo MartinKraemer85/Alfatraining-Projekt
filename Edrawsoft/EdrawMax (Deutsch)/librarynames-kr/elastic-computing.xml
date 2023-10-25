@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Elastic Computing">
+    <Elem NameU="Batch compute" Name="일괄 계산"/>
+    <Elem NameU="Block storage" Name="블록 스토리지"/>
+    <Elem NameU="Container Service" Name="컨테이너 서비스"/>
+    <Elem NameU="Dedicated host" Name="전용 호스트"/>
+    <Elem NameU="E-HPC" Name="E-HPC"/>
+    <Elem NameU="Elastic compute service" Name="탄력적 컴퓨팅 서비스"/>
+    <Elem NameU="Elastic scaling service" Name="탄력적 확장 서비스"/>
+    <Elem NameU="FPGA" Name="FGPA"/>
+    <Elem NameU="Function compute" Name="함수 계산"/>
+    <Elem NameU="Function graph" Name="함수 그래프"/>
+    <Elem NameU="GPU" Name="GPU"/>
+    <Elem NameU="Resource orchestration" Name="리소스 오케스트레이션"/>
+    <Elem NameU="Server load balancer" Name="서버 부하 분산 장치"/>
+    <Elem NameU="Simple application server" Name="심플 응용 프로그램 서버"/>
+    <Elem NameU="Super computing cluster" Name="슈퍼"/>
+    <Elem NameU="Virtual private cloud" Name="가상 프라이빗 클라우드"/>
+    <Elem NameU="X-dragon cloud server" Name="X-dragon 클라우드 서버"/>
+</Lib>

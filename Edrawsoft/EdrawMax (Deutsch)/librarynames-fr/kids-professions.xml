@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Kids Professions">
+
+<Elem Name="Chef" NameU="Chef"/>
+
+<Elem Name="Head Chef" NameU="Head Chef"/>
+
+<Elem Name="Waitress" NameU="Waitress"/>
+
+<Elem Name="Business People" NameU="Business People"/>
+
+<Elem Name="Courier" NameU="Courier"/>
+
+<Elem Name="Farmer" NameU="Farmer"/>
+
+<Elem Name="Guide" NameU="Guide"/>
+
+<Elem Name="Singer" NameU="Singer"/>
+
+<Elem Name="Reporter" NameU="Reporter"/>
+
+<Elem Name="Agent de bord" NameU="Flight Attendant"/>
+
+<Elem Name="Professeur" NameU="Teacher"/>
+
+<Elem Name="Médecin" NameU="Doctor"/>
+
+<Elem Name="Infirmière" NameU="Nurse"/>
+
+<Elem Name="Chirurgien" NameU="Surgeon"/>
+
+<Elem Name="Vétérinaire" NameU="Vet"/>
+
+<Elem Name="Detective" NameU="Detective"/>
+
+<Elem Name="Postman" NameU="Postman"/>
+
+<Elem Name="Judge" NameU="Judge"/>
+
+<Elem Name="Pastor" NameU="Pastor"/>
+
+<Elem Name="Nun" NameU="Nun"/>
+
+<Elem Name="Captain" NameU="Captain"/>
+
+<Elem Name="Policeman 1" NameU="Policeman 1"/>
+
+<Elem Name="Policewoman" NameU="Policewoman"/>
+
+<Elem Name="Policeman 2" NameU="Policeman 2"/>
+
+<Elem Name="Soldier" NameU="Soldier"/>
+
+<Elem Name="Firefighter" NameU="Firefighter"/>
+
+<Elem Name="Engineer" NameU="Engineer"/>
+
+<Elem Name="Worker" NameU="Worker"/>
+
+<Elem Name="Magician" NameU="Magician"/>
+
+<Elem Name="Pitre" NameU="Clown"/>
+
+<Elem Name="Conducteur" NameU="Conductor"/>
+
+<Elem Name="Musician" NameU="Musician"/>
+
+<Elem Name="Scientist" NameU="Scientist"/>
+
+<Elem Name="Coiffeur" NameU="Hairdresser"/>
+
+<Elem Name="Artist" NameU="Artist"/>
+
+<Elem Name="Fitness Trainer" NameU="Fitness Trainer"/>
+
+<Elem Name="Tennis Player" NameU="Tennis Player"/>
+
+<Elem Name="Football Player" NameU="Football Player"/>
+
+<Elem Name="Cleaner" NameU="Cleaner"/>
+
+<Elem Name="Astronaut" NameU="Astronaut"/>
+
+</Lib>

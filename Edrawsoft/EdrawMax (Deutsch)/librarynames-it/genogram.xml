@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Genogram">
+	<Elem NameU="Index Person" Name="Registro Persona"/>
+	<Elem NameU="Male" Name="Maschio"/>
+	<Elem NameU="Female" Name="Femmina"/>
+	<Elem NameU="Birth and Age - Male" Name="Nascita ed Età - Maschio"/>
+	<Elem NameU="Birth and Age - Female" Name="Nascita ed Età - Femmina"/>
+	<Elem NameU="Deceased - Male" Name="Deceduto - Maschio"/>
+	<Elem NameU="Deceased - Female" Name="Deceduto - Femmina"/>
+	<Elem NameU="Age at Death - Male" Name="Età al Decesso - Maschio"/>
+	<Elem NameU="Age at Death - Female" Name="Età al Decesso - Femmina"/>
+	<Elem NameU="Birth, Death and Age - Male" Name="Nascita, Morte ed Età - Maschio"/>
+	<Elem NameU="Birth, Death and Age - Female" Name="Nascita, Morte ed Età - Femmina"/>
+	<Elem NameU="Gay" Name="Gay"/>
+	<Elem NameU="Lesbian" Name="Lesbica"/>
+	<Elem NameU="Bisextual 1" Name="Bisessuale 1"/>
+	<Elem NameU="Bisextual 2" Name="Bisessuale 2"/>
+	<Elem NameU="Transgender - Male to Female" Name="Transgender - Da Maschio a Femmina"/>
+	<Elem NameU="Transgender - Female to Male" Name="Transgender - Da Femmina a Maschio"/>
+	<Elem NameU="Institution" Name="Istituzione"/>
+	<Elem NameU="Pet" Name="Animale Domestico"/>
+	<Elem NameU="Pregnancy" Name="Gravidanza"/>
+	<Elem NameU="Miscarriage" Name="Aborto Spontaneo"/>
+	<Elem NameU="Abortion" Name="Aborto"/>
+	<Elem NameU="Male Stillbirth" Name="Morte Fetale - Maschio"/>
+	<Elem NameU="Female Stillbirth" Name="Morte Fetale - Femmina"/>
+	<Elem NameU="Lived in More Than 2 Cultures - Male" Name="Con in Più di 2 Culture - Maschio"/>
+	<Elem NameU="Lived in More Than 2 Cultures - Female" Name="Con in Più di 2 Culture - Femmina"/>
+	<Elem NameU="Immigration - Male" Name="Immigrazione - Maschio"/>
+	<Elem NameU="Immigration - Female" Name="Immigrazione - Femmina"/>
+	<Elem NameU="Suspected Physical or Psychological Illness - Male" Name="Possibili Disturbi Fisici o Psicologici - Maschio"/>
+	<Elem NameU="Suspected Physical or Psychological Illness - Female" Name="Possibili Disturbi Fisici o Psicologici - Femmina"/>
+	<Elem NameU="Serious Physical or Psychological Illness - Male" Name="Seri Disturbi Fisici o Psicologici - Maschio"/>
+	<Elem NameU="Serious Physical or Psychological Illness - Female" Name="Seri Disturbi Fisici o Psicologici - Femmina"/>
+	<Elem NameU="In Recovery from Physical or Psychological Illness - Male" Name="In Recupero da un Disturbo Fisico o Psicologico - Maschio"/>
+	<Elem NameU="In Recovery from Physical or Psychological Illness - Female" Name="In Recupero da un Disturbo Fisico o Psicologico - Femmina"/>
+	<Elem NameU="Suspected Alcohol or Drug Abuse - Male" Name="Possibile Dipendenza da Alcol o Droghe - Maschio"/>
+	<Elem NameU="Suspected Alcohol or Drug Abuse - Female" Name="Possibile Dipendenza da Alcol o Droghe - Femmina"/>
+	<Elem NameU="Confirmed Alcohol or Drug Abuse - Male" Name="Dipendenza da Alcol o Droghe Confermata - Maschio"/>
+	<Elem NameU="Confirmed Alcohol or Drug Abuse - Female" Name="Dipendenza da Alcol o Droghe Confermata - Femmina"/>
+	<Elem NameU="In Recovery from Drug or Alcohol Abuse - Male" Name="In Recupero da Dipendenza da Droghe o Alcol - Maschio"/>
+	<Elem NameU="In Recovery from Drug or Alcohol Abuse - Female" Name="In Recupero da Dipendenza da Droghe o Alcol - Femmina"/>
+	<Elem NameU="Drug/Alcohol Abuse and Physical or Mental Problem - Male" Name="Dipendenza da Alcol/Droghe e Disturbi Mentali o Fisici - Maschio"/>
+	<Elem NameU="Drug/Alcohol Abuse and Physical or Mental Problem - Female" Name="Dipendenza da Alcol/Droghe e Disturbi Mentali o Fisici - Femmina"/>
+	<Elem NameU="In Recovery from Drug/Alcohol Abuse and Physical or Mental Problem - Male" Name="In Recupero da Dipendenza da Alcol/Droghe e Disturbi Mentali o Fisici - Maschio"/>
+	<Elem NameU="In Recovery from Drug/Alcohol Abuse and Physical or Mental Problem - Female" Name="In Recupero da Dipendenza da Alcol/Droghe e Disturbi Mentali o Fisici - Femmina"/>
+	<Elem NameU="Smoker - Male" Name="Fumatore"/>
+	<Elem NameU="Smoker - Female" Name="Fumatrice"/>
+	<Elem NameU="Language Problem - Male" Name="Problema Linguistico - Maschio"/>
+	<Elem NameU="Language Problem - Female" Name="Problema Linguistico - Femmina"/>
+	<Elem NameU="Obesity - Male" Name="Obesità - Maschio"/>
+	<Elem NameU="Obesity - Female" Name="Obesità - Femmina"/>
+	<Elem NameU="Carrier - Male" Name="Portatore"/>
+	<Elem NameU="Carrier - Female" Name="Portatrice"/>
+	<Elem NameU="Affected - Male" Name="Contagiato"/>
+	<Elem NameU="Affected - Female" Name="Contagiata"/>
+	<Elem NameU="Suspected Affected - Male" Name="Sospetto Contagio - Maschio"/>
+	<Elem NameU="Suspected Affected - Female" Name="Sospetto Contagio - Femmina"/>
+	<Elem NameU="Possibly Affected - Male" Name="Possibile Contagio - Maschio"/>
+	<Elem NameU="Possibly Affected - Female" Name="Possibile Contagio - Femmina"/>
+	<Elem NameU="Heart Desease - Male" Name="Malattia Cardiaca - Maschio"/>
+	<Elem NameU="Heart Desease - Female" Name="Malattia Cardiaca - Femmina"/>
+	<Elem NameU="Diabetes - Male" Name="Diabete - Maschio"/>
+	<Elem NameU="Diabetes - Female" Name="Diabete - Femmina"/>
+	<Elem NameU="Cancer - Male" Name="Cancro - Maschio"/>
+	<Elem NameU="Cancer - Female" Name="Cancro - Femmina"/>
+	<Elem NameU="Alzheimer's Disease - Male" Name="Morbo di Alzheimer - Maschio"/>
+	<Elem NameU="Alzheimer's Disease - Female" Name="Morbo di Alzheimer - Femmina"/>
+	<Elem NameU="Down Syndrome - Male" Name="Sindrome di Down - Maschio"/>
+	<Elem NameU="Down Syndrome - Female" Name="Sindrome di Down - Femmina"/>
+	<Elem NameU="Depression - Male" Name="Depressione - Maschio"/>
+	<Elem NameU="Depression - Female" Name="Depressione - Femmina"/>
+	<Elem NameU="Anemia - Male" Name="Anemia - Maschio"/>
+	<Elem NameU="Anemia - Female" Name="Anemia -Femmina"/>
+	<Elem NameU="Asthma - Male" Name="Asma - Maschio"/>
+	<Elem NameU="Asthma - Female" Name="Asma - Femmina"/>
+	<Elem NameU="Albinism - Male" Name="Albinismo - Maschio"/>
+	<Elem NameU="Albinism - Female" Name="Albinismo - Femmina"/>
+	<Elem NameU="Autism - Male" Name="Autismo - Maschio"/>
+	<Elem NameU="Autism - Female" Name="Autismo - Femmina"/>
+	<Elem NameU="Marriage" Name="Matrimonio"/>
+	<Elem NameU="Engagement" Name="Fidanzamento"/>
+	<Elem NameU="Seperation in Fact" Name="Separazione di Fatto"/>
+	<Elem NameU="Legal Seperation" Name="Separazione Legale"/>
+	<Elem NameU="Divorce" Name="Divorzio"/>
+	<Elem NameU="Engagement and Seperation" Name="Fidanzamento e Separazione"/>
+	<Elem NameU="Widowed" Name="Vedovo/a"/>
+	<Elem NameU="Engagement and Cohabitation" Name="Fidanzamento e Convivenza"/>
+	<Elem NameU="Cohabitation" Name="Convivenza"/>
+	<Elem NameU="Legal Cohabitation" Name="Convivenza Legale"/>
+	<Elem NameU="Love Affair" Name="Relazione Romantica"/>
+	<Elem NameU="Harmony" Name="Armonia"/>
+	<Elem NameU="Indifferent/Apathetic" Name="Indifferenza/Apatia"/>
+	<Elem NameU="Love" Name="Amore"/>
+	<Elem NameU="In Love" Name="Innamorato"/>
+	<Elem NameU="Close/Friendship" Name="Legame Stretto/Amicizia"/>
+	<Elem NameU="Very Close/Best Friend" Name="Legame Molto Stretto/Migliori Amici"/>
+	<Elem NameU="Discord/Conflict" Name="Disaccordo/Conflitto"/>
+	<Elem NameU="Hate" Name="Odio"/>
+	<Elem NameU="Cutoff/Estranged" Name="Rapporti Interrotti"/>
+	<Elem NameU="Hostile" Name="Ostile"/>
+	<Elem NameU="Distant Hostile" Name="Ostile Distante"/>
+	<Elem NameU="Close Hostile" Name="Ostile Vicino"/>
+	<Elem NameU="Fused Hostile" Name="Ostile Misto"/>
+	<Elem NameU="Violence" Name="Violenza"/>
+	<Elem NameU="Abuse" Name="Abuso"/>
+	<Elem NameU="Physical Abuse" Name="Abuso Fisico"/>
+	<Elem NameU="Emotional Abuse" Name="Abuso Emotivo"/>
+	<Elem NameU="Sextual Abuse" Name="Abuso Sessuale"/>
+	<Elem NameU="Neglect (Abuse)" Name="Negligenza (Abuso)"/>
+	<Elem NameU="Manipulative" Name="Manipolazione"/>
+	<Elem NameU="Controlling" Name="Controllo"/>
+	<Elem NameU="Focused On" Name="Interesse"/>
+	<Elem NameU="Fan/Admire" Name="Ammirazione"/>
+</Lib>

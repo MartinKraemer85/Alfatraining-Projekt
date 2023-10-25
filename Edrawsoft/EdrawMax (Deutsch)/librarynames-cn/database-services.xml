@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Database Services">
+	<Elem NameU="Advanced database and application migration" Name="数据库和应用迁移ADAM"/>
+	<Elem NameU="Cloud database" Name="云数据库Cassandra版"/>
+	<Elem NameU="Data transmission service" Name="数据传输服务DTS"/>
+	<Elem NameU="Database backup service" Name="数据库备份DBS"/>
+	<Elem NameU="Database expert service" Name="数据库专家服务"/>
+	<Elem NameU="Database gateway" Name="数据库网关"/>
+	<Elem NameU="DBFS" Name="DBFS"/>
+	<Elem NameU="Distributed relational database service" Name="分布式关系型数据库服务"/>
+	<Elem NameU="DMS" Name="DMS"/>
+	<Elem NameU="HBase" Name="HBase"/>
+	<Elem NameU="Hybrid database management" Name="混合云数据库管理"/>
+	<Elem NameU="HybridDB for MySQL" Name="用于MySQL的HybridDB  "/>
+	<Elem NameU="HybridDB for Postgre" Name="用于Postgre的HybridDB"/>
+	<Elem NameU="Maria DB" Name="Maria DB"/>
+	<Elem NameU="Memcache" Name="Memcache"/>
+	<Elem NameU="MongoDB" Name="MongoDB"/>
+	<Elem NameU="Ocean base" Name="Ocean base"/>
+	<Elem NameU="Open search" Name="开放搜索"/>
+	<Elem NameU="Polar DB" Name="Polar DB"/>
+	<Elem NameU="RDS My SQL" Name="云数据库RDS My SQL"/>
+	<Elem NameU="RDS_postgresql" Name="云数据库Postgresql"/>
+	<Elem NameU="RDS PPA" Name="云数据库RDS PPA"/>
+	<Elem NameU="Redis cloud database" Name="云数据库Redis版"/>
+</Lib>

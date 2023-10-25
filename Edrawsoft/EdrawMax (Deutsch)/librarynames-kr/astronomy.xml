@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Astronomy">
+    <Elem NameU="Sun" Name="태양"/>
+    <Elem NameU="Moon" Name="달"/>
+    <Elem NameU="Mercury" Name="수성"/>
+    <Elem NameU="Venus" Name="금성"/>
+    <Elem NameU="Earth" Name="지구"/>
+    <Elem NameU="Mars" Name="화성"/>
+    <Elem NameU="Jupiter" Name="목성"/>
+    <Elem NameU="Pluto" Name="명왕성"/>
+    <Elem NameU="Saturn" Name="토성"/>
+    <Elem NameU="Uranus" Name="천왕성"/>
+    <Elem NameU="Neptune" Name="해왕성"/>
+    <Elem NameU="Galaxy" Name="은하수"/>
+    <Elem NameU="Meteor Shower" Name="유성우"/>
+    <Elem NameU="Spacecraft" Name="우주선"/>
+    <Elem NameU="Rocket" Name="로켓"/>
+    <Elem NameU="Satellite" Name="위성"/>
+    <Elem NameU="Manned spacecraft" Name="유인 우주선"/>
+    <Elem NameU="Space Station" Name="우주 정거장"/>
+    <Elem NameU="UFO" Name="UFO"/>
+    <Elem NameU="Astronaut" Name="우주 비행사"/>
+    <Elem NameU="Astronomical telescope" Name="천문 망원경"/>
+    <Elem NameU="Alien " Name="외계인"/>
+    <Elem NameU="Aries" Name="양자리"/>
+    <Elem NameU="Taurus" Name="황소자리"/>
+    <Elem NameU="Gemini" Name="쌍둥이자리"/>
+    <Elem NameU="Cancer" Name="게자리"/>
+    <Elem NameU="Lieo" Name="사자자리"/>
+    <Elem NameU="Virgo" Name="처녀자리"/>
+    <Elem NameU="Libra" Name="천평자리"/>
+    <Elem NameU="Scorpio" Name="전갈자리"/>
+    <Elem NameU="Sagittarius" Name="궁수자리"/>
+    <Elem NameU="Capricory" Name="염소자리"/>
+    <Elem NameU="Aquarius" Name="물병자리"/>
+    <Elem NameU="Pisces" Name="물고기자리"/>
+</Lib>

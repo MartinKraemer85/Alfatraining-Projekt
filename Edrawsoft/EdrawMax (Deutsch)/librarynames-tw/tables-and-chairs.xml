@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Tables and Chairs">
+    <Elem NameU="Chair" Number="14" Name="椅子"/>
+    <Elem NameU="Stool" Name="凳子"/>
+    <Elem NameU="Chair" Number="5" Name="椅子"/>
+    <Elem NameU="Recliner" Name="躺椅"/>
+    <Elem NameU="Sling chair" Name="吊椅"/>
+    <Elem NameU="Lounge chair" Name="休閒椅"/>
+    <Elem NameU="Table with Chairs" Name="桌椅"/>
+    <Elem NameU="Style Station" Number="7" Name="桌椅"/>
+    <Elem NameU="lounge chair" Name="休閒椅"/>
+    <Elem NameU="Lounge Chair" Number="4" Name="休閒椅"/>
+    <Elem NameU="Bar Counter" Number="6" Name="吧檯"/>
+    <Elem NameU="The Chair and Table" Number="2" Name="桌椅"/>
+    <Elem NameU="Sofa and Sofa Table" Number="2" Name="沙發茶几"/>
+    <Elem NameU="Double table" Name="雙人桌"/>
+    <Elem NameU="Circular dining table for four" Name="四人圓餐桌"/>
+    <Elem NameU="Eight people circular dining table" Name="八人圓餐桌"/>
+    <Elem NameU="Oval dining table" Number="2" Name="橢圓餐桌"/>
+    <Elem NameU="Double square table" Name="雙人方桌"/>
+    <Elem NameU="Square table" Name="方桌"/>
+    <Elem NameU="Oblong dining table" Name="長方形的餐桌"/>
+    <Elem NameU="Square dining table" Name="方餐桌"/>
+    <Elem NameU="Dining table" Name="餐桌"/>
+    <Elem NameU="Circular table" Number="3" Name="圓桌"/>
+    <Elem NameU="Oval table" Name="橢圓周"/>
+    <Elem NameU="Square table" Name="方桌"/>
+    <Elem NameU="Lounge chair" Number="2" Name="休閒椅"/>
+    <Elem NameU="Circular table" Name="圓桌"/>
+    <Elem NameU="Oval table" Name="橢圓周"/>
+    <Elem NameU="Conference table" Number="3" Name="會議桌"/>
+    <Elem NameU="Rectangle table" Name="長方形桌"/>
+    <Elem NameU="Diamond table" Number="2" Name="六邊形桌"/>
+    <Elem NameU="Corner table" Name="圓角桌"/>
+    <Elem NameU="Semicircle table" Name="半圓桌"/>
+    <Elem NameU="The fan table" Name="扇形桌"/>
+    <Elem NameU="Ping-pong table" Name="乒乓球台"/>
+    <Elem NameU="Desk" Number="4" Name="辦公桌"/>
+    <Elem NameU="Dressing table" Name="梳妝台"/>
+</Lib>

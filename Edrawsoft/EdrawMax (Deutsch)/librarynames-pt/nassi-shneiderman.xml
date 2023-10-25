@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Nassi-Shneiderman">
+	<Elem NameU="Definitions or Actions" Name="Definições ou Ações"/>
+	<Elem NameU="Decision" Name="Decisão"/>
+	<Elem NameU="Decision (if-then-else)" Name="Decisão (se-então-senão)"/>
+	<Elem NameU="Decision 2 (if-then-else)" Name="Decisão 2 (se-então-senão)"/>
+	<Elem NameU="Decision with Steps" Name="Decisão com Passos"/>
+	<Elem NameU="Decision with Steps 2" Name="Decisão com Passos 2"/>
+	<Elem NameU="Decision with Step 3" Name="Decisão com Passo 3"/>
+	<Elem NameU="Selection (case)" Name="Seleção (caso)"/>
+	<Elem NameU="Single Step" Name="Passo Único"/>
+	<Elem NameU="Iteration (While)" Name="Iteração (Enquanto)"/>
+	<Elem NameU="Iteration (Repeat-Until)" Name="Iteração (Repetir-Até)"/>
+	<Elem NameU="Frame 1" Name="Moldura 1"/>
+	<Elem NameU="Frame 2" Name="Moldura 2"/>
+	<Elem NameU="Procedure Steps" Name="Passos de Procedimento"/>
+	<Elem NameU="Multiple Steps" Name="Passos Múltiplos"/>
+	<Elem NameU="2-D Word Balloon" Name="Balão de Palavras 2-D"/>
+</Lib>

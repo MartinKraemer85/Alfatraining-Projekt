@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Transportation">
+	<Elem NameU="Road 1" Name="Strada 1"/>
+	<Elem NameU="Road 2" Name="Strada 2"/>
+	<Elem NameU="Road 3" Name="Strada 3"/>
+	<Elem NameU="Road 4" Name="Strada 4"/>
+	<Elem NameU="Police Car" Name="Autopattuglia"/>
+	<Elem NameU="Police" Name="Polizia"/>
+	<Elem NameU="Traffic Police" Name="Polizia Stradale"/>
+	<Elem NameU="Bus" Name="Autobus"/>
+	<Elem NameU="Car 1" Name="Automobile 1"/>
+	<Elem NameU="Car 2" Name="Automobile 2"/>
+	<Elem NameU="Taxi" Name="Taxi"/>
+	<Elem NameU="Motorcycle" Name="Motocicletta"/>
+	<Elem NameU="Train" Name="Treno"/>
+	<Elem NameU="Ship Rudder" Name="Timone"/>
+	<Elem NameU="Bicycle" Name="Bicicletta"/>
+	<Elem NameU="Sailing Boat" Name="Barca a Vela"/>
+	<Elem NameU="Excavator" Name="Escavatore"/>
+	<Elem NameU="Truck" Name="Furgone"/>
+	<Elem NameU="Cement Truck" Name="Betoniera"/>
+	<Elem NameU="Tank Truck" Name="Autocisterna"/>
+	<Elem NameU="Man" Name="Uomo"/>
+	<Elem NameU="Woman" Name="Donna"/>
+	<Elem NameU="Pedestrian 1" Name="Pedone 1"/>
+	<Elem NameU="Pedestrian 2" Name="Pedone 2"/>
+	<Elem NameU="Zebra crossing" Name="Attraversamento pedonale"/>
+	<Elem NameU="Traffic Light 1" Name="Semaforo 1"/>
+	<Elem NameU="Traffic Light 2" Name="Semaforo2"/>
+	<Elem NameU="Speed Camera" Name="Autovelox"/>
+	<Elem NameU="Road Sign" Name="Segnale Stradale"/>
+	<Elem NameU="Footway" Name="Marciapiede"/>
+	<Elem NameU="No Smoking" Name="Vietato Fumare"/>
+	<Elem NameU="Do Not Enter Sign" Name="Non Entrare"/>
+	<Elem NameU="Stop Sign" Name="Stop"/>
+	<Elem NameU="No Fire" Name="Divieto Fiamme Libere"/>
+	<Elem NameU="No Horn" Name="Divieto di Segnalazioni Acustiche"/>
+	<Elem NameU="Bus Sign" Name="Segnale Autobus"/>
+	<Elem NameU="Parking 1" Name="Area di Sosta 1"/>
+	<Elem NameU="Parking 2" Name="Area di Sosta 2"/>
+	<Elem NameU="No parking" Name="Sosta vietata"/>
+	<Elem NameU="Circular Intersection" Name="Intersezione Circolare"/>
+	<Elem NameU="No Taxi" Name="Vietato Accesso ai Taxi"/>
+	<Elem NameU="No Straight Nor Right Turn" Name="Vietato Andare Dritto o a Destra"/>
+	<Elem NameU="No Straight Nor Left Turn" Name="Vietato Andare Dritto o a Sinistra"/>
+	<Elem NameU="No U-Turn" Name="Divieto Inversione di Marcia"/>
+	<Elem NameU="No Left Turn" Name="Divieto di Svolta a Sinistra"/>
+	<Elem NameU="No Right Turn" Name="Divieto di Svolta a Destra"/>
+	<Elem NameU="No Pedestrians" Name="Divieto Accesso ai Pedoni"/>
+	<Elem NameU="No Overtaking" Name="Divieto di Sorpasso"/>
+	<Elem NameU="No Entry" Name="Vietato Entrare"/>
+	<Elem NameU="No Left Nor Right Turn" Name="Divieto di Svolta a Sinistra o Destra"/>
+	<Elem NameU="No Bicycles" Name="Vietato l'Accesso alle Biciclette"/>
+	<Elem NameU="No Cars" Name="Vietato l'Accesso alle Automobili"/>
+	<Elem NameU="No Trucks" Name="Vietato l'Accesso ai Camion"/>
+	<Elem NameU="Two-Way Traffic" Name="Traffico Bidirezionale"/>
+	<Elem NameU="Crossroad Ahead" Name="Incrocio a Breve"/>
+	<Elem NameU="Side Road (Right)" Name="Strada Laterale (Destra)"/>
+	<Elem NameU="Side Road (Left)" Name="Strada Laterale (Sinistra)"/>
+	<Elem NameU="Traffic Signal Ahead" Name="Avviso Segnale Stradale"/>
+	<Elem NameU="Overhead Electric Cable" Name="Cavo Elettrico Sovraccaricato"/>
+	<Elem NameU="T Intersection Ahead" Name="Avviso Intersezione a T"/>
+	<Elem NameU="Y Intersection Ahead" Name="Avviso Intersezione aY"/>
+	<Elem NameU="Hump Bridge Ahead" Name="Avviso Ponte Rialzato"/>
+	<Elem NameU="Dangerous" Name="Pericolo"/>
+	<Elem NameU="Caution Drop Down" Name="Caduta Massi"/>
+	<Elem NameU="Caution No Motor Vehicle" Name="Pericolo per Veicoli a Motore"/>
+	<Elem NameU="Barricade 1" Name="Spartitraffico 1"/>
+	<Elem NameU="Barricade 2" Name="Spartitraffico 2"/>
+	<Elem NameU="Floor Stand Sign" Name="Insegna"/>
+	<Elem NameU="Red Pylon" Name="Traliccio Rosso"/>
+	<Elem NameU="Yellow Warning Stipe" Name="Strisce Gialle di Pericolo"/>
+	<Elem NameU="OSHA tape (red-white striped)" Name="Nastro OSHA (a strisce rosso-bianche)"/>
+	<Elem NameU="OSHA tape (yellow-black checked)" Name="Nastro OSHA (a quadri giallo-neri)"/>
+	<Elem NameU="OSHA tape (yellow-black striped)" Name="Nastro OSHA (a strisce giallo-nere)"/>
+	<Elem NameU="Green Light 1" Name="Luce Verde 1"/>
+	<Elem NameU="Red Light 1" Name="Luce Rossa 1"/>
+	<Elem NameU="Yellow Light 1" Name="Luce Gialla 1"/>
+	<Elem NameU="Green Light 2" Name="Luce Verde 2"/>
+	<Elem NameU="Red Light 2" Name="Luce Rossa 2"/>
+	<Elem NameU="Yellow Light 2" Name="Luce Gialla 2"/>
+	<Elem NameU="Green Light 3" Name="Luce Verde 3"/>
+	<Elem NameU="Red Light 3" Name="Luce Rossa 3"/>
+	<Elem NameU="Yellow Light 3" Name="Luce Gialla 3"/>
+	<Elem NameU="Red Light 4" Name="Luce Rossa 4"/>
+	<Elem NameU="Gas-station" Name="Stazione di Rifornimento"/>
+	<Elem NameU="Street lamp 1" Name="Palo della Luce 1"/>
+	<Elem NameU="Street lamp 2" Name="Palo della Luce 2"/>
+	<Elem NameU="Instrument" Name="Strumento"/>
+	<Elem NameU="Steering Wheel 1" Name="Manubrio 1"/>
+	<Elem NameU="Steering Wheel 2" Name="Manubrio 2"/>
+	<Elem NameU="Direction 1" Name="Direzione 1"/>
+	<Elem NameU="Direction 2" Name="Direzione 2"/>
+	<Elem NameU="Direction 3" Name="Direzione 3"/>
+	<Elem NameU="Trumpet" Name="Tromba"/>
+	<Elem NameU="Ban on the horn" Name="Vietato Usare il Clacson"/>
+	<Elem NameU="Mansion" Name="Villa"/>
+	<Elem NameU="School" Name="Scuola"/>
+	<Elem NameU="Shop" Name="Negozio"/>
+	<Elem NameU="Tree 1" Name="Albero 1"/>
+	<Elem NameU="Tree 2" Name="Albero 2"/>
+</Lib>

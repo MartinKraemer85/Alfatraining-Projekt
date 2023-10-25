@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Exchange Objects">
+    <Elem NameU="Exchange Organization" Name="Exchange 组织"/>
+    <Elem NameU="Massage Formats" Name="消息格式"/>
+    <Elem NameU="Exchange Servers" Name="多台Exchange 服务器"/>
+    <Elem NameU="Exchange Server" Name="Exchange 服务器"/>
+    <Elem NameU="Public Folders" Name="公用文件夹"/>
+    <Elem NameU="Storage Group" Name="存储组"/>
+    <Elem NameU="Recipient Update Service" Name="收件人更新服务"/>
+    <Elem NameU="Recipient Policy" Name="收件人策略"/>
+    <Elem NameU="Message Delivery" Name="消息传递"/>
+    <Elem NameU="POP virtual server" Name="POP 虚拟服务器"/>
+    <Elem NameU="Exchange Virtual Server" Name="虚拟服务器"/>
+    <Elem NameU="Dialog" Name="会话"/>
+    <Elem NameU="HTTP Virtual Directory" Name="HTTP 虚拟目录"/>
+    <Elem NameU="Public Store" Name="公用存储区"/>
+    <Elem NameU="Mailbox Store" Name="邮箱存储区"/>
+    <Elem NameU="IMAP Virtual Server" Name="IMAP 虚拟服务器"/>
+    <Elem NameU="NNTP Virtual Server" Name="NNTP 虚拟服务器"/>
+</Lib>

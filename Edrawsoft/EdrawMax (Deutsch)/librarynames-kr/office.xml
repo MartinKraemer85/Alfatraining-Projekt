@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Office">
+    <Elem NameU="Pencil Vase" Name="필통"/>
+    <Elem NameU="Pen" Name="펜"/>
+    <Elem NameU="Table Lamp" Name="램프"/>
+    <Elem NameU="Globe 1" Name="글로브 1"/>
+    <Elem NameU="Globe 2" Name="글로브 2"/>
+    <Elem NameU="Office Chair" Name="사무실 의자"/>
+    <Elem NameU="Hourglass" Name="모래 시계"/>
+    <Elem NameU="Office Chair" Name="사무실 의자"/>
+    <Elem NameU="Briefcase 1" Name="서류 가방 1"/>
+    <Elem NameU="Briefcase 2" Name="서류 가방 2"/>
+    <Elem NameU="Briefcase 3" Name="서류 가방 3"/>
+    <Elem NameU="Calculator 1" Name="계산기 1"/>
+    <Elem NameU="Calculator 2" Name="계산기 2"/>
+    <Elem NameU="Employee's Card" Name="직원 카드"/>
+    <Elem NameU="File Folders 1" Name="파일 폴드 1"/>
+    <Elem NameU="File Folders 2" Name="파일 폴드 2"/>
+    <Elem NameU="Notebook 1" Name="노트북 1"/>
+    <Elem NameU="Notebook 2" Name="노트북 2"/>
+    <Elem NameU="Notebook 3" Name="노트북 3"/>
+    <Elem NameU="Notebook 4" Name="노트북 4"/>
+    <Elem NameU="Notebook 5" Name="노트북 5"/>
+    <Elem NameU="Tablet" Name="태블릿"/>
+    <Elem NameU="Scratchpad" Name="스크래치 패드"/>
+    <Elem NameU="Calendar 1" Name="달력 1"/>
+    <Elem NameU="Calendar 2" Name="달력 2"/>
+    <Elem NameU="Calendar 3" Name="달력 3"/>
+    <Elem NameU="Calendar 4" Name="달력 4"/>
+    <Elem NameU="Calendar 5" Name="달력 5"/>
+    <Elem NameU="Calendar 6" Name="달력 6"/>
+    <Elem NameU="Calendar 7" Name="달력 7"/>
+    <Elem NameU="Calendar 8" Name="달력 8"/>
+    <Elem NameU="Calendar 9" Name="달력 9"/>
+    <Elem NameU="Calendar 10" Name="달력 10"/>
+    <Elem NameU="Calendar 11" Name="달력 11"/>
+    <Elem NameU="Documents Pouch" Name="문서 파우치"/>
+    <Elem NameU="Address Book" Name="주소록"/>
+    <Elem NameU="Printer" Number="2" Name="인쇄기"/>
+    <Elem NameU="USB" Name="USB"/>
+    <Elem NameU="Magic pen" Name="매직펜"/>
+    <Elem NameU="Screen" Name="스크린"/>
+    <Elem NameU="Router" Name="라우터"/>
+    <Elem NameU="Projecter" Name="프로젝터"/>
+    <Elem NameU="Cellphone" Name="폰"/>
+    <Elem NameU="Phone" Name="전화"/>
+    <Elem NameU="Note Board" Name="노트"/>
+    <Elem NameU="Scissors" Name="가위"/>
+    <Elem NameU="Paper Clip" Name="클립"/>
+    <Elem NameU="Binder Clips" Name="바인더 클립"/>
+    <Elem NameU="Protractor" Name="각도기"/>
+    <Elem NameU="Rulers" Name="눈금자"/>
+    <Elem NameU="Stapler" Name="스테이플러"/>
+    <Elem NameU="Cutter 1" Name="낱장 장치 1"/>
+    <Elem NameU="Cutter 2" Name="낱장 장치 2"/>
+    <Elem NameU="Pencil Sharpener" Name="연필 깎기"/>
+    <Elem NameU="Lock" Name="잠금"/>
+    <Elem NameU="Pencil Compass" Name="연필 나침반"/>
+    <Elem NameU="Magnifier" Name="확대경"/>
+    <Elem NameU="Envelope 1" Name="편지 1"/>
+    <Elem NameU="Envelope 2" Name="편지 2"/>
+    <Elem NameU="Seal" Name="봉인"/>
+    <Elem NameU="Brush" Name="브러쉬"/>
+    <Elem NameU="Clock 1" Name="시계 1"/>
+    <Elem NameU="Clock 2" Name="시계 2"/>
+    <Elem NameU="Stopwatch" Name="스톱워치"/>
+    <Elem NameU="Bank Card" Name="은행 카드"/>
+    <Elem NameU="Safe" Name="금고"/>
+    <Elem NameU="Folder" Name="파일 폴드"/>
+    <Elem NameU="Confidential File" Name="기밀 파일"/>
+    <Elem NameU="Coffee Cup" Name="커피잔"/>
+    <Elem NameU="A Cup of Coffee" Name="커피 한 잔"/>
+    <Elem NameU="Coffee" Name="커피"/>
+    <Elem NameU="Report 1" Name="보고 1"/>
+    <Elem NameU="Report 2" Name="보고 2"/>
+    <Elem NameU="Information" Name="정보"/>
+    <Elem NameU="Drawing pin" Number="2" Name="핀"/>
+    <Elem NameU="Trash Bin" Name="휴지통"/>
+    <Elem NameU="Headset" Name="헤드폰"/>
+    <Elem NameU="Webcam" Name="웹캠"/>
+    <Elem NameU="Newspaper" Name="뉴스"/>
+    <Elem NameU="iPad" Name="iPad"/>
+    <Elem NameU="Laptop" Name="노트북"/>
+    <Elem NameU="Desktop" Name="데스크탑"/>
+    <Elem NameU="Pencil" Name="연필"/>
+    <Elem NameU="Pencil1" Name="연필"/>
+    <Elem NameU="Desk" Name="책상"/>
+    <Elem NameU="Cabinet" Name="캐비닛"/>
+</Lib>

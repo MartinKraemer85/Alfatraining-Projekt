@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Office Icons">
+	<Elem NameU="Ren Min Bi" Name="Ren min bi"/>
+	<Elem NameU="Euro" Name="Euro"/>
+	<Elem NameU="Pound" Name="Sterlina"/>
+	<Elem NameU="Dollar" Name="Dollaro"/>
+	<Elem NameU="Bank" Name="Banca"/>
+	<Elem NameU="Office Building" Name="Palazzo degli Uffici"/>
+	<Elem NameU="Loss" Name="Perdita"/>
+	<Elem NameU="Profit" Name="Profitto"/>
+	<Elem NameU="Histogram" Name="Istogramma"/>
+	<Elem NameU="Pie Chart" Name="Diagramma a Torta"/>
+	<Elem NameU="Slideshow" Name="Diapositive"/>
+	<Elem NameU="Trophy" Name="Trofeo"/>
+	<Elem NameU="Medal" Name="Medaglia"/>
+	<Elem NameU="Prize" Name="Premio"/>
+	<Elem NameU="Diamond" Name="Diamante"/>
+	<Elem NameU="Team" Name="Squadra"/>
+	<Elem NameU="Office Clerk" Name="Impiegato d'Ufficio"/>
+	<Elem NameU="At" Name="Chiocciola"/>
+	<Elem NameU="Work Card" Name="Cartellino"/>
+	<Elem NameU="Address - Book" Name="Rubrica - Indirizzi"/>
+	<Elem NameU="Briefcase" Name="Valigetta"/>
+	<Elem NameU="Calculator" Name="Calcolatrice"/>
+	<Elem NameU="Write" Name="Scrivere"/>
+	<Elem NameU="Mobile Phone" Name="Cellulare"/>
+	<Elem NameU="Phone" Name="Telefono"/>
+	<Elem NameU="Network" Name="Rete"/>
+	<Elem NameU="Email" Name="Email"/>
+	<Elem NameU="Time" Name="Orario"/>
+	<Elem NameU="File" Name="Documento"/>
+	<Elem NameU="Folder" Name="Cartella"/>
+	<Elem NameU="Umbrella" Name="Ombrello"/>
+	<Elem NameU="Shield" Name="Scudo"/>
+	<Elem NameU="Printer" Name="Stampante"/>
+	<Elem NameU="Target" Name="Bersaglio"/>
+	<Elem NameU="Cooperation" Name="Collaborazione"/>
+	<Elem NameU="Alarm Clock" Name="Sveglia"/>
+	<Elem NameU="Clock" Name="Orologio"/>
+	<Elem NameU="Image" Name="Immagine"/>
+	<Elem NameU="USB Flash Drive" Name="Pennetta USB"/>
+	<Elem NameU="Computer" Name="Computer"/>
+	<Elem NameU="laptop" Name="Laptop"/>
+	<Elem NameU="Message" Name="Messaggio"/>
+	<Elem NameU="Chat Conversation" Name="Conversazione in Chat"/>
+	<Elem NameU="Calendar" Name="Calendario"/>
+	<Elem NameU="Electric Light" Name="Luce Elettrica"/>
+	<Elem NameU="Search For" Name="Ricerca"/>
+	<Elem NameU="Camera" Name="Fotocamera"/>
+	<Elem NameU="Shooting" Name="Ripresa"/>
+	<Elem NameU="Sad" Name="Triste"/>
+	<Elem NameU="Happy" Name="Felice"/>
+	<Elem NameU="Disappointing" Name="Deluso"/>
+	<Elem NameU="Awesome" Name="Grandioso"/>
+	<Elem NameU="Caveat" Name="Avvertenza"/>
+	<Elem NameU="Problem" Name="Problema"/>
+	<Elem NameU="Pen" Name="Penna"/>
+	<Elem NameU="Shopping Cart" Name="Carrello"/>
+	<Elem NameU="Cart-Allow-Down" Name="Carrello con Freccia Verso il Basso"/>
+	<Elem NameU="Cart-Plus" Name="Carello con Segno Più"/>
+	<Elem NameU="Label" Name="Etichetta"/>
+	<Elem NameU="Shopping Basket" Name="Cesto della Spesa"/>
+	<Elem NameU="Shopping Bag" Name="Busta della Spesa"/>
+	<Elem NameU="Shopping List" Name="Lista della Spesa"/>
+	<Elem NameU="Paper Clip" Name="Graffetta"/>
+	<Elem NameU="Drawing Pin" Name="Puntina da Disegno"/>
+	<Elem NameU="Flag" Name="Bandiera"/>
+	<Elem NameU="Fair" Name="Giustizia"/>
+	<Elem NameU="Scissors" Name="Forbici"/>
+</Lib>

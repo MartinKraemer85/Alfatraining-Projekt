@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Touch Gesture">
+	<Elem NameU="Tap" Name="Tocar"/>
+	<Elem NameU="Double tap" Name="Duplo toque"/>
+	<Elem NameU="Double tap with three fingers" Name="Duplo toque com três dedos"/>
+	<Elem NameU="Press and hold" Name="Pressionar e manter"/>
+	<Elem NameU="Refresh" Name="Refrescar"/>
+	<Elem NameU="One finger swipe up" Name="Um dedo deslizar para cima"/>
+	<Elem NameU="One finger swipe down" Name="Um dedo deslizar para baixo"/>
+	<Elem NameU="Two-finger swipe up" Name="Dois dedos deslizar para cima"/>
+	<Elem NameU="Two-finger swipe up 2" Name="Dois dedos deslizar para cima 2"/>
+	<Elem NameU="Two-finger swipe down" Name="Dois dedos deslizar para baixo"/>
+	<Elem NameU="Three-finger swipe up" Name="Três dedos deslizar para cima"/>
+	<Elem NameU="Three-finger swipe down" Name="Três dedos deslizar para baixo"/>
+	<Elem NameU="Four-finger pinch" Name="Aperto com quatro dedos"/>
+	<Elem NameU="Five-finger pinch" Name="Aperto com cinco dedos"/>
+	<Elem NameU="Drag and drop page" Name="Página de arrastar e largar"/>
+	<Elem NameU="Zoom out" Name="Menos zoom"/>
+	<Elem NameU="Zoom in" Name="Mais zoom"/>
+	<Elem NameU="Switch to the previous tab" Name="Trocar para a aba anterior"/>
+	<Elem NameU="Switch to the next tab" Name="Trocar para a aba seguinte"/>
+	<Elem NameU="Two-finger pinch" Name="Aperto com dois dedos"/>
+	<Elem NameU="Two-finger swipe" Name="Deslizar com dois dedos"/>
+	<Elem NameU="Point" Name="Apontar"/>
+	<Elem NameU="Point2" Name="Apontar2"/>
+	<Elem NameU="Point3" Name="Apontar3"/>
+	<Elem NameU="Point4" Name="Apontar4"/>
+	<Elem NameU="Two-finger pinch 2" Name="Apertar com dois dedos 2"/>
+	<Elem NameU="Carry with two fingers" Name="Carregar com dois dedos"/>
+	<Elem NameU="Arrow" Name="Seta"/>
+	<Elem NameU="Arrow2" Name="Seta2"/>
+	<Elem NameU="Arrow3" Name="Seta3"/>
+</Lib>

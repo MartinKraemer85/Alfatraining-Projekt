@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Equipment-Crushers">
+	<Elem NameU="Crusher" Name="Frantoio"/>
+	<Elem NameU="Coarse crushers" Name="Frantoio ruvido"/>
+	<Elem NameU="Medium crushers" Name="Frantoio medio"/>
+	<Elem NameU="Fine crushers" Name="Frantoio piccolo"/>
+	<Elem NameU="Various crushers" Name="Frantoi vari"/>
+	<Elem NameU="Hammer crusher" Name="Frantoio a martello"/>
+	<Elem NameU="Impact crusher" Name="Frantoio a impatto"/>
+	<Elem NameU="Jaw crusher" Name="Frantoio a mascella"/>
+	<Elem NameU="Roller crusher" Name="Frantoio rotativo"/>
+	<Elem NameU="Cone crusher" Name="Frantoio a cono"/>
+	<Elem NameU="Vibration crusher" Name="Frantoio vibrante"/>
+</Lib>

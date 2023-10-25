@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="3D Directional Maps">
+    <Elem NameU="Road 1" Name="道路 1"/>
+    <Elem NameU="Road 2" Name="道路 2"/>
+    <Elem NameU="Road 3" Name="道路 3"/>
+    <Elem NameU="Road 5" Name="道路 5"/>
+    <Elem NameU="Elevated 1" Name="高架鐵路 1"/>
+    <Elem NameU="Elevated 2" Name="高架鐵路 2"/>
+    <Elem NameU="Tree roads" Name="三岔路"/>
+    <Elem NameU="Cross roads" Name="十字交叉路"/>
+    <Elem NameU="Straight road 1" Name="直行道 1"/>
+    <Elem NameU="Straight road 2" Name="直行道 2"/>
+    <Elem NameU="Corner 1" Name="拐角 1"/>
+    <Elem NameU="Corner 2" Name="拐角 2"/>
+    <Elem NameU="Cross walks" Name="十字路口"/>
+    <Elem NameU="Road 4" Name="道路 4"/>
+    <Elem NameU="Bridge" Name="橋"/>
+    <Elem NameU="Bridge 2" Name="橋 2"/>
+    <Elem NameU="River" Name="河"/>
+    <Elem NameU="Tree 1" Name="樹 1"/>
+    <Elem NameU="Tree 2" Name="樹 2"/>
+    <Elem NameU="Pedestrian bridge" Name="人行天橋"/>
+    <Elem NameU="One way" Name="單行道"/>
+    <Elem NameU="Land 1" Name="地面 1"/>
+    <Elem NameU="Land 2" Name="地面 2"/>
+    <Elem NameU="Land 3" Name="地面 3"/>
+    <Elem NameU="Land 4" Name="地面 4"/>
+    <Elem NameU="Land 5" Name="地面 5"/>
+    <Elem NameU="Land 6" Name="地面 6"/>
+    <Elem NameU="Land 7" Name="地面 7"/>
+    <Elem NameU="Land 8" Name="地面 8"/>
+    <Elem NameU="Land 9" Name="地面 9"/>
+    <Elem NameU="Small Block" Name="小方塊"/>
+    <Elem NameU="Small Block 2" Name="小方塊 2"/>
+    <Elem NameU="Long Block" Name="長方塊"/>
+    <Elem NameU="Long Block 2" Name="長方塊 2"/>
+    <Elem NameU="Square Block" Name="方形塊"/>
+    <Elem NameU="Block" Name="方塊"/>
+    <Elem NameU="Block 2" Name="方塊 2"/>
+    <Elem NameU="Building Block" Name="建築"/>
+    <Elem NameU="House" Name="住宅"/>
+    <Elem NameU="Office" Name="辦公室"/>
+    <Elem NameU="Building" Name="建築"/>
+    <Elem NameU="Factory" Name="工廠"/>
+    <Elem NameU="Petrol Station" Name="加油站"/>
+    <Elem NameU="Store" Name="商店"/>
+    <Elem NameU="Hospital" Name="醫院"/>
+    <Elem NameU="Airport" Name="飛機場"/>
+    <Elem NameU="Mark" Name="標誌"/>
+</Lib>

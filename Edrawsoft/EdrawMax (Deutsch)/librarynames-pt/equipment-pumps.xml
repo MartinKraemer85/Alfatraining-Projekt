@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Equipment-Pumps">
+	<Elem NameU="Compressor" Name="Compressor"/>
+	<Elem NameU="Reciprocating compressor" Name="Compressor alternativo"/>
+	<Elem NameU="Reciprocating compressor 2" Name="Compressor alternativo 2"/>
+	<Elem NameU="Compressor silencers" Name="Silenciadores de compressor"/>
+	<Elem NameU="Centrifugal" Name="Centrífugo"/>
+	<Elem NameU="Rotary compressor" Name="Compressor rotativo"/>
+	<Elem NameU="Rotary compressor 2" Name="Compressor rotativo 2"/>
+	<Elem NameU="Rotory compressor and silencers" Name="Compressor rotativo e silenciadores"/>
+	<Elem NameU="Liquid ring compressor" Name="Compressor de anel de líquido"/>
+	<Elem NameU="Centrifugal compressor" Name="Compressor centrífugo"/>
+	<Elem NameU="Centrifugal compressor 2" Name="Compressor centrífugo 2"/>
+	<Elem NameU="Centrifugal compressor 3" Name="Compressor centrífugo 3"/>
+	<Elem NameU="Centrifugal blower" Name="Ventilador centrífugo"/>
+	<Elem NameU="Selectable compressor" Name="Compressor selecionável"/>
+	<Elem NameU="Axial compressor" Name="Compressor axial"/>
+	<Elem NameU="Pump" Name="Bomba"/>
+	<Elem NameU="Centrifugal pump" Name="Bomba centrífuga"/>
+	<Elem NameU="Centrifugal pump 2" Name="Bomba centrífuga 2"/>
+	<Elem NameU="Centrifugal pump 3" Name="Bomba centrífuga 3"/>
+	<Elem NameU="Centrifugal pump 4" Name="Bomba centrífuga 4"/>
+	<Elem NameU="Gas blower" Name="Ventilador de gás"/>
+	<Elem NameU="Vertical pump" Name="Bomba vertical"/>
+	<Elem NameU="Liquid ring vacuum pump" Name="Bomba de vácuo de anel de líquido"/>
+	<Elem NameU="Positive displacement pump" Name="Bomba de deslocamento positivo"/>
+	<Elem NameU="Horizontal pump" Name="Bomba horizontal"/>
+	<Elem NameU="Sump pump" Name="Bomba de poço"/>
+	<Elem NameU="Positive displacement pump 2" Name="Bomba de deslocamento positivo 2"/>
+	<Elem NameU="Rotary pump" Name="Bomba rotativa"/>
+	<Elem NameU="Rotary gear pump" Name="Bomba de equipamento rotativo"/>
+	<Elem NameU="Peristaltic pump" Name="Bomba peristáltica"/>
+	<Elem NameU="Gear pump" Name="Bomba de equipamento"/>
+	<Elem NameU="Proportioning pump" Name="Bomba doseadora"/>
+	<Elem NameU="Vacuum pump" Name="Bomba de vácuo"/>
+	<Elem NameU="Screw pump" Name="Bomba de parafuso"/>
+	<Elem NameU="Screw pump 2" Name="Bomba de parafuso 2"/>
+	<Elem NameU="Cavity pump" Name="Bomba de cavidade"/>
+	<Elem NameU="Submersible pump" Name="Bomba submersível"/>
+	<Elem NameU="Reciprocating pump" Name="Bomba alternativa"/>
+	<Elem NameU="Turbine pump" Name="Bomba de turbina"/>
+	<Elem NameU="Pump 2" Name="Bomba 2"/>
+	<Elem NameU="Fan" Name="Ventoinha"/>
+	<Elem NameU="Selectable fan" Name="Ventoinha selecionável"/>
+	<Elem NameU="Fan blades" Name="Lâminas de ventoinha"/>
+	<Elem NameU="Fan blades 2" Name="Lâminas de ventoinha 2"/>
+	<Elem NameU="Triple fan blades" Name="Lâminas de ventoinha triplas"/>
+	<Elem NameU="Axial flow fan" Name="Ventoinha de fluxo axial"/>
+	<Elem NameU="Turbine driver" Name="Operador de turbina"/>
+	<Elem NameU="Doubleflow turbine" Name="Turbina de fluxo duplo"/>
+	<Elem NameU="Motor driven turbine" Name="Turbina movida a motor"/>
+	<Elem NameU="Ejector" Name="Ejetor"/>
+	<Elem NameU="Spray" Name="Spray"/>
+	<Elem NameU="Motor" Name="Motor"/>
+	<Elem NameU="Diesel motor" Name="Motor a diesel"/>
+	<Elem NameU="ISO Liquid pump" Name="Bomba de líquido ISO"/>
+	<Elem NameU="ISO centrifugal pump" Name="Bomba centrífuga ISO"/>
+	<Elem NameU="ISO diaphragm pump" Name="Bomba de diafragma ISO"/>
+	<Elem NameU="ISO gear pump" Name="Bomba de engrenagem ISO"/>
+	<Elem NameU="ISO Progressive pump" Name="Bomba progressiva ISO"/>
+	<Elem NameU="ISO positive displacement pump" Name="Bomba de deslocamento positivo ISO"/>
+	<Elem NameU="ISO reciprocating piston pump" Name="Bomba de pístão alternativo ISO"/>
+	<Elem NameU="ISO screw pump" Name="Bomba de parafuso ISO"/>
+</Lib>

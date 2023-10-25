@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Bread">
+    <Elem NameU="Cake Volume" Name="蛋糕卷"/>
+    <Elem NameU="Pineapple Bread" Name="菠蘿麵包"/>
+    <Elem NameU="Toast" Name="吐司"/>
+    <Elem NameU="Cream Bun 1" Name="奶油麵包 1"/>
+    <Elem NameU="Cream Bun 2" Name="奶油麵包 2"/>
+    <Elem NameU="Croissant" Name="羊角麵包"/>
+    <Elem NameU="Spring Onion Bread" Name="蔥花麵包"/>
+    <Elem NameU="Hotdog 1" Name="熱狗 1"/>
+    <Elem NameU="Hotdog 2" Name="熱狗 2"/>
+    <Elem NameU="Hot Dog Bun" Name="熱狗麵包"/>
+    <Elem NameU="Waffle" Name="華夫格"/>
+    <Elem NameU="French Bread" Name="法式麵包"/>
+    <Elem NameU="Doughnut" Name="甜甜圈"/>
+    <Elem NameU="Cupcake 1" Name="杯形蛋糕 1"/>
+    <Elem NameU="Cupcake 2" Name="杯形蛋糕 2"/>
+    <Elem NameU="Egg Tart" Name="蛋撻"/>
+    <Elem NameU="Triangle Cake" Name="三角蛋糕"/>
+    <Elem NameU="Cake" Name="蛋糕"/>
+    <Elem NameU="Chocolate Cake" Name="巧克力蛋糕"/>
+    <Elem NameU="Macaron 1" Name="馬龍餅乾 1"/>
+    <Elem NameU="Macaron 2" Name="馬龍餅乾 2"/>
+    <Elem NameU="Apple Pie" Name="蘋果派"/>
+    <Elem NameU="Baguette 1" Name="法式長棍麵包 1"/>
+    <Elem NameU="Baguette 2" Name="法式長棍麵包 2"/>
+    <Elem NameU="Red Bean Bread" Name="紅豆麵包"/>
+    <Elem NameU="Bread" Name="麵包"/>
+    <Elem NameU="Swirl Bread 1" Name="手提包 1"/>
+    <Elem NameU="Swirl Bread 2" Name="手提包 2"/>
+    <Elem NameU="French Bread 1" Name="法式麵包 1"/>
+    <Elem NameU="French Bread 2" Name="法式麵包 2"/>
+    <Elem NameU="Kalach Bread" Name="麵包"/>
+    <Elem NameU="Meat Floss Buns" Name="肉鬆麵包"/>
+    <Elem NameU="Lechem" Name="猶太麵包"/>
+    <Elem NameU="Fried Bread" Name="涂醬的麵包"/>
+    <Elem NameU="Muffin" Name="杯狀小鬆糕"/>
+    <Elem NameU="Fruit  Dessert Tray 1" Name="水果甜點 1"/>
+    <Elem NameU="Fruit  Dessert Tray 2" Name="水果甜點 2"/>
+    <Elem NameU="Chocolate Cake in Triangle Shape" Name="三角巧克力蛋糕"/>
+    <Elem NameU="Black Forest Cake" Name="黑森林蛋糕"/>
+    <Elem NameU="Birthday Cake" Name="生日蛋糕"/>
+    <Elem NameU="Wedding Cake" Name="婚禮蛋糕"/>
+    <Elem NameU="Strawberry Cupcakes" Name="草莓杯蛋糕"/>
+    <Elem NameU="Yule Log" Name="聖誕節原木蛋糕"/>
+    <Elem NameU="Swiss Roll" Name="瑞士卷"/>
+    <Elem NameU="Cupcake 1" Name="杯形蛋糕 1"/>
+    <Elem NameU="Cupcake 2" Name="杯形蛋糕 2"/>
+    <Elem NameU="Cupcake 3" Name="杯形蛋糕 3"/>
+    <Elem NameU="Cupcake 4" Name="杯形蛋糕 4"/>
+    <Elem NameU="Cupcake 5" Name="杯形蛋糕 5"/>
+    <Elem NameU="Cupcake 6" Name="杯形蛋糕 6"/>
+    <Elem NameU="Cupcake 7" Name="杯形蛋糕 7"/>
+    <Elem NameU="Cupcake 8" Name="杯形蛋糕 8"/>
+    <Elem NameU="Mooncake 1" Name="月餅 2"/>
+    <Elem NameU="Mooncake 2" Name="月餅 1"/>
+</Lib>

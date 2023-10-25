@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib nameU="UML Collaboration Diagram">
+	<Elem NameU="Component" Name=""/>
+	<Elem NameU="Package" Name=""/>
+	<Elem NameU="Package Container" Name=""/>
+	<Elem NameU="Dependency" Name=""/>
+	<Elem NameU="Generalization" Name=""/>
+	<Elem NameU="Transparent Stereotype" Name=""/>
+	<Elem NameU="Opaque Stereotype" Name=""/>
+	<Elem NameU="Symbol &lt;&lt;and&gt;&gt;" Name=""/>
+	<Elem NameU="Constraint" Name=""/>
+	<Elem NameU="Note" Name=""/>
+	<Elem NameU="Object" Name=""/>
+	<Elem NameU="Multi-Object" Name=""/>
+	<Elem NameU="Actor" Name=""/>
+	<Elem NameU="Association Role" Name=""/>
+	<Elem NameU="Association Role 2" Name=""/>
+	<Elem NameU="Delegation" Name=""/>
+	<Elem NameU="Link to Self" Name=""/>
+	<Elem NameU="Link to Self 2" Name=""/>
+</Lib>

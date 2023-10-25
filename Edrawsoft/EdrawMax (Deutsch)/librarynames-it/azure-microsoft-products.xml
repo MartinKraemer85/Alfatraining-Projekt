@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Azure Microsoft Products">
+	<Elem NameU="Access" Name="Access"/>
+	<Elem NameU="Excel" Name="Excel"/>
+	<Elem NameU="Exchange" Name="Exchange"/>
+	<Elem NameU="Lync" Name="Lync"/>
+	<Elem NameU="Outlook" Name="Outlook"/>
+	<Elem NameU="PowerApps" Name="PowerApps"/>
+	<Elem NameU="PowerPoint" Name="PowerPoint"/>
+	<Elem NameU="Sharepoint" Name="Sharepoint"/>
+	<Elem NameU="Visio" Name="Visio"/>
+	<Elem NameU="Word" Name="Word"/>
+	<Elem NameU="Cortana Blue" Name="Cortana Blue"/>
+	<Elem NameU="BI Product" Name="Prodotto BI"/>
+</Lib>

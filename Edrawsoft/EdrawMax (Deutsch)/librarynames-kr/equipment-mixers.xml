@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Equipment-Mixers">
+    <Elem NameU="In-line mixer" Name="인라인 믹서"/>
+    <Elem NameU="Mixer" Name="믹서"/>
+    <Elem NameU="Various mixers" Number="2" Name="다양한 믹서"/>
+    <Elem NameU="Various mixers 2" Name="다양한 믹서 2"/>
+    <Elem NameU="Agitator, Stirrer" Name="교반기"/>
+    <Elem NameU="Agitator, Propeller" Name="교반기"/>
+    <Elem NameU="Agitator, Anchor" Name="프로펠러"/>
+    <Elem NameU="Agitator, Impeller" Name="임펠러 교반기"/>
+    <Elem NameU="Agitator, Turbine" Name="교반기, 터빈"/>
+    <Elem NameU="Agitator, Helical" Name="나선형 교반기"/>
+    <Elem NameU="Agitator, Gat Paddle" Name="젓기형 교반기"/>
+    <Elem NameU="Agitator, Disc" Name="디스크 교반기"/>
+    <Elem NameU="Agitator, Cross-beam" Name="교반기, 크로스 빔"/>
+</Lib>

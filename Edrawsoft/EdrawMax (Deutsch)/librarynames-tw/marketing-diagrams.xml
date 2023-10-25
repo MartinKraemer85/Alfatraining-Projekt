@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Marketing Diagrams">
+    <Elem NameU="Step Process" Number="3" Name="流程步驟"/>
+    <Elem NameU="Five Force Model" Name="五力模型"/>
+    <Elem NameU="Six Markets Model" Number="2" Name="六市場模型"/>
+    <Elem NameU="Six Sigma" Name="六西格瑪"/>
+    <Elem NameU="Funnel" Name="漏斗"/>
+    <Elem NameU="Market Analysis" Name="市場分析"/>
+    <Elem NameU="Continuum Diagram" Number="3" Name="連續體圖"/>
+    <Elem NameU="Leadship Continuum Diagram" Name="領導層連續體圖"/>
+    <Elem NameU="Marketing Mix" Number="2" Name="營銷組合"/>
+    <Elem NameU="Scope" Number="2" Name="範圍"/>
+    <Elem NameU="Product Life Cycle" Number="2" Name="產品生命週期"/>
+    <Elem NameU="Adoption Process" Name="應用流程"/>
+    <Elem NameU="Normal Curve" Name="標準曲線"/>
+    <Elem NameU="Text Block" Name="文本塊"/>
+    <Elem NameU="3D Box" Name="3D矩形"/>
+    <Elem NameU="3D Circle" Name="3D圓"/>
+</Lib>

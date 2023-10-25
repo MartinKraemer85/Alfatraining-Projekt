@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Equipment-General">
+	<Elem NameU="Crossflow inducted draft" Name="Corrente indotta da flusso incrociato"/>
+	<Elem NameU="Counterflow forced draft" Name="Corrente forzata di contro-flusso"/>
+	<Elem NameU="Chimney tower hyperbolic" Name="Ciminiera a Torre Iperbolica"/>
+	<Elem NameU="Furnace" Name="Fornace"/>
+	<Elem NameU="Plate tower" Name="Torre a lastre"/>
+	<Elem NameU="Packed tower" Name="Torre piena"/>
+	<Elem NameU="Hydrocracking" Name="Idrocracking"/>
+	<Elem NameU="Hydrodesulfurization" Name="Desolforazione"/>
+	<Elem NameU="Reformer" Name="Riformatore"/>
+	<Elem NameU="Fluid catalytic cracking" Name="Cracking fluido catalitico"/>
+	<Elem NameU="Fluid coking" Name="Coking fluido"/>
+	<Elem NameU="Tubular" Name="Tubulare"/>
+	<Elem NameU="Fluidized reactor" Name="Reattore Fluidizzato"/>
+	<Elem NameU="Alkylation" Name="Alchilazione"/>
+	<Elem NameU="Breaker" Name="Interruttore"/>
+	<Elem NameU="Crusher" Name="Frantoio"/>
+	<Elem NameU="Forced-draft cooling tower" Name="Torre di raffreddamento a corrente forzata"/>
+	<Elem NameU="Briquetting machine" Name="Bricchettatrice"/>
+	<Elem NameU="Condenser" Name="Condensatore"/>
+	<Elem NameU="Evaporative condenser" Name="Condensatore evaporativo"/>
+	<Elem NameU="Cyclone" Name="Ciclone"/>
+	<Elem NameU="Dryer" Name="Essiccatore"/>
+	<Elem NameU="Dryer 2" Name="Essiccatore 2"/>
+	<Elem NameU="Mixer" Name="Mixer"/>
+	<Elem NameU="Various mixers" Name="Mixer vari"/>
+	<Elem NameU="Various mixers 2" Name="Mixer vari 2"/>
+	<Elem NameU="Agitator or mixer" Name="Agitatore o Mixer"/>
+	<Elem NameU="Crushers" Name="Frantoi"/>
+	<Elem NameU="Mill" Name="Mulino"/>
+	<Elem NameU="Various mills" Name="Mulini vari"/>
+	<Elem NameU="Kneader" Name="Impastatore"/>
+	<Elem NameU="Blender" Name="Frullatore"/>
+	<Elem NameU="Fluid separators" Name="Separatori di Fluidi"/>
+	<Elem NameU="Filter" Name="Filtro"/>
+	<Elem NameU="Filter 2" Name="Filtro 2"/>
+	<Elem NameU="Rotary filter" Name="Filtro rotativo"/>
+	<Elem NameU="Wastewater treatment" Name="Trattamento acque di scarico"/>
+	<Elem NameU="Air separator" Name="Separatore d'aria"/>
+	<Elem NameU="Electromagnet" Name="Elettromagnete"/>
+	<Elem NameU="Centrifuge" Name="Centrifuga"/>
+	<Elem NameU="Hammer crusher" Name="Frantoio a martello"/>
+	<Elem NameU="Various kneaders" Name="Impastatori vari"/>
+	<Elem NameU="Screen" Name="Copertura"/>
+	<Elem NameU="Boom loader" Name="Gru"/>
+	<Elem NameU="Automatic stoker" Name="Attizzatoio Automatico"/>
+	<Elem NameU="Electric motor" Name="Motore Elettrico"/>
+	<Elem NameU="Transport" Name="Trasporto"/>
+</Lib>

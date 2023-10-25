@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Funnel">
+    <Elem NameU="Vertical Funnel" Number="2" Name="세로 깔때기"/>
+    <Elem NameU="Horizontal Funnel" Number="2" Name="가로 깔때기"/>
+    <Elem NameU="Funnel Chart" Name="깔때기형 차트"/>
+</Lib>

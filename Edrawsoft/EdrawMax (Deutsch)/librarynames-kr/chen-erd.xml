@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Chen ERD">
+    <Elem NameU="User" Name="사용자"/>
+    <Elem NameU="Entity" Name="엔터티"/>
+    <Elem NameU="Weak Entity" Name="약한 엔터티"/>
+    <Elem NameU="Associative Entity" Name="연관 엔터티"/>
+    <Elem NameU="Relationship" Name="관계"/>
+    <Elem NameU="Identifying Relationship" Name="식별 관계"/>
+    <Elem NameU="Attribute" Name="특성"/>
+    <Elem NameU="Key Attribute" Name="키 특성"/>
+    <Elem NameU="Weak Key Attribute" Name="약한 키 특성"/>
+    <Elem NameU="Multi-valued Attribute" Name="멀티 밸류 특성"/>
+    <Elem NameU="Derived Attribute" Name="파생 특성"/>
+    <Elem NameU="Aggregation" Name="집계"/>
+    <Elem NameU="Relationship" Number="3" Name="관계"/>
+</Lib>

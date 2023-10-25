@@ -1,0 +1,2045 @@
+﻿{
+    "id": "0",
+    "name": "",
+    "parentId": "",
+    "type": "",
+    "children": [ 
+        {
+            "id": "1",
+            "name": "菜单栏",
+            "parentId": "",
+            "type": "display",
+            "children": [ 
+                {
+                    "id": "1.1",
+                    "name": "文件",
+                    "parentId": "1",
+                    "type": "display",
+                    "children": [ 
+                        {
+                            "id":"1.1.1",
+                            "name": "新建",
+                            "parentId": "1.1",
+                            "type": "href",
+                            "function": ""
+                        },
+                        {
+                            "id": "1.1.2",
+                            "name": "打开",
+                            "parentId": "1.1",
+                            "type": "click",
+                            "function": ""
+                        },
+                        {
+                            "id": "1.1.3",
+                            "name": "导入",
+                            "parentId": "1.1",
+                            "type": "alert",
+                            "function": ""
+                        },
+                        {
+                            "id": "1.1.4",
+                            "name": "云文档",
+                            "parentId": "1.1",
+                            "type": "click",
+                            "function": ""
+                        },
+                        {
+                            "id": "1.1.5",
+                            "name": "模板社区",
+                            "parentId": "1.1",
+                            "type": "alert",
+                            "function": ""
+                        },
+                        {
+                            "id": "1.1.6",
+                            "name": "保存",
+                            "parentId": "1.1",
+                            "type": "display",
+                            "function": ""
+                        },
+                        {
+                            "id": "1.1.7",
+                            "name": "另存为",
+                            "parentId": "1.1",
+                            "type": "alert",
+                            "function": ""
+                        },
+                        {
+                            "id": "1.1.8",
+                            "name": "导出&发送",
+                            "parentId": "1.1",
+                            "type": "alert",
+                            "function": ""
+                        },
+                        {
+                            "id": "1.1.9",
+                            "name": "打印",
+                            "parentId": "1.1",
+                            "type": "click",
+                            "function": ""
+                        },
+                        {
+                            "id": "1.1.10",
+                            "name": "账户",
+                            "parentId": "1.1",
+                            "type": "alert",
+                            "function": ""
+                        },
+                        {
+                            "id": "1.1.10",
+                            "name": "选项",
+                            "parentId": "1.1",
+                            "type": "alert",
+                            "function": ""
+                        }
+                    ],
+                    "function": ""
+                },
+                {
+                    "id": "1.2",
+                    "name": "开始",
+                    "parentId": "1",
+                    "type": "display",
+                    "children": [ 
+                        {
+                            "id": "1.2.1",
+                            "name": "剪切板",
+                            "parentId": "1.2",
+                            "type": "click",
+                            "children": [
+                                {
+                                    "id": "1.2.1.1",
+                                    "name": "剪切",
+                                    "parentId": "1.2.1",
+                                    "type": "click",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.2.1.2",
+                                    "name": "格式刷",
+                                    "parentId": "1.2.1",
+                                    "type": "click",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.2.1.3",
+                                    "name": "复制",
+                                    "parentId": "1.2.1",
+                                    "type": "click",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.2.1.4",
+                                    "name": "粘贴",
+                                    "parentId": "1.2.1",
+                                    "type": "click",
+                                    "children": [
+                                        {
+                                            "id": "1.2.1.4.1",
+                                            "name": "粘贴",
+                                            "parentId": "1.2.1.4",
+                                            "type": "",
+                                            "function": ""
+                                        },
+                                        {
+                                            "id": "1.2.1.4.2",
+                                            "name": "选择性粘贴",
+                                            "parentId": "1.2.1.4",
+                                            "type": "",
+                                            "function": ""
+                                        }
+                                        
+                                    ],
+                                    "function": ""
+                                }
+                            ],
+                            "function": ""
+                        } ,
+                        {
+                            "id": "1.2.2",
+                            "name": "字体和段落",
+                            "parentId": "1.2",
+                            "type": "click",
+                            "children": [
+                                {
+                                    "id": "1.2.2.1",
+                                    "name": "字体",
+                                    "parentId": "1.2.2",
+                                    "type": "click",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.2.2.2",
+                                    "name": "字号",
+                                    "parentId": "1.2.2",
+                                    "type": "click",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.2.2.3",
+                                    "name": "增大",
+                                    "parentId": "1.2.2",
+                                    "type": "click",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.2.2.4",
+                                    "name": "减小",
+                                    "parentId": "1.2.2",
+                                    "type": "click",
+                                    "function": ""
+                                },
+                                {
+                                    "id":"1.2.2.5",
+                                    "name": "文本对齐",
+                                    "parentId":"1.2.2",
+                                    "type": "click",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.2.2.6",
+                                    "name": "加粗",
+                                    "parentId": "1.2.2",
+                                    "type": "click",
+                                    "function": "Bold"
+                                },
+                                {
+                                    "id": "1.2.2.7",
+                                    "name": "斜体",
+                                    "parentId": "1.2.2",
+                                    "type": "click",
+                                    "function": "Italic"
+                                },
+                                {
+                                    "id": "1.2.2.8",
+                                    "name": "Paste",
+                                    "parentId": "1.2.2",
+                                    "type": "click",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.2.2.9",
+                                    "name": "下划线",
+                                    "parentId": "1.2.2",
+                                    "type": "click",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.2.2.10",
+                                    "name": "删除线",
+                                    "parentId": "1.2.2",
+                                    "type": "click",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.2.2.11",
+                                    "name": "上标",
+                                    "parentId": "1.2.2",
+                                    "type": "click",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.2.2.12",
+                                    "name": "下标",
+                                    "parentId": "1.2.2",
+                                    "type": "click",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.2.2.13",
+                                    "name": "文本在路径上",
+                                    "parentId": "1.2.2",
+                                    "type": "click",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.2.2.14",
+                                    "name": "Paste",
+                                    "parentId": "1.2.2",
+                                    "type": "click",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.2.2.15",
+                                    "name": "行间距",
+                                    "parentId": "1.2.2",
+                                    "type": "click",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.2.2.16",
+                                    "name": "项目符号或编号",
+                                    "parentId": "1.2.2",
+                                    "type": "click",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.2.2.17",
+                                    "name": "文本高光颜色",
+                                    "parentId": "1.2.2",
+                                    "type": "click",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.2.2.16",
+                                    "name": "字体颜色",
+                                    "parentId": "1.2.2",
+                                    "type": "click",
+                                    "function": ""
+                                }
+
+                            ],
+                            "function": ""
+                        },
+                        {
+                            "id": "1.2.3",
+                            "name": "工具",
+                            "parentId": "1.2",
+                            "type": "",
+                            "children": [
+                                {
+                                  "id": "1.2.3.1",
+                                  "name": "文本",
+                                  "parentId": "1.2.3",
+                                  "type": "",
+                                  "function": ""
+                                  
+                                },
+                                {
+                                    "id": "1.2.3.2",
+                                    "name": "选择",
+                                    "parentId": "1.2.3",
+                                    "type": "",
+                                    "children": [
+                                        {
+                                            "id": "1.2.3.2.1",
+                                            "name": "选择",
+                                            "parentId": "1.2.3.2",
+                                            "type": "",
+                                            "function": ""
+                                        },
+                                        {
+                                            "id": "1.2.3.2.2",
+                                            "name": "嵌套选择",
+                                            "parentId": "1.2.3.2",
+                                            "type": "",
+                                            "function": ""
+                                        },
+                                        {
+                                            "id": "1.2.3.2.3",
+                                            "name": "选中全部",
+                                            "parentId": "1.2.3.2",
+                                            "type": "",
+                                            "function": ""
+                                        },
+                                        {
+                                            "id": "1.2.3.2.4",
+                                            "name": "按类型选择",
+                                            "parentId": "1.2.3.2",
+                                            "type": "",
+                                            "function": ""
+                                        }
+                                    ],
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.2.3.3",
+                                    "name": "形状",
+                                    "parentId": "1.2.3",
+                                    "type": "",
+                                    "children": [
+                                        {
+                                            "id": "1.2.3.3.1",
+                                            "name": "矩形工具",
+                                            "parentId": "1.2.3.3",
+                                            "type": "",
+                                            "function": ""
+                                        },
+                                        {
+                                            "id": "1.2.3.3.2",
+                                            "name": "椭圆工具",
+                                            "parentId": "1.2.3.3",
+                                            "type": "",
+                                            "function": ""
+                                        },
+                                        {
+                                            "id": "1.2.3.3.3",
+                                            "name": "线条工具",
+                                            "parentId": "1.2.3.3",
+                                            "type": "",
+                                            "function": ""
+                                        },
+                                        {
+                                            "id": "1.2.3.3.4",
+                                            "name": "贝塞尔曲线工具",
+                                            "parentId": "1.2.3.3",
+                                            "type": "",
+                                            "function": ""
+                                        },
+                                        {
+                                            "id": "1.2.3.3.5",
+                                            "name": "重复当前工具",
+                                            "parentId": "1.2.3.3",
+                                            "type": "",
+                                            "function": ""
+                                        }
+                                    ],
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.2.3.4",
+                                    "name": "连接线",
+                                    "parentId": "1.2.3",
+                                    "type": "",
+                                    "children": [
+                                        {
+                                            "id": "1.2.3.4.1",
+                                            "name": "连接线",
+                                            "parentId": "1.2.3.4",
+                                            "type": "",
+                                            "function": ""
+                                        },
+                                        {
+                                            "id": "1.2.3.4.2",
+                                            "name": "曲线连接线",
+                                            "parentId": "1.2.3.4",
+                                            "type": "",
+                                            "function": ""
+                                        },
+                                        {
+                                            "id": "1.2.3.4.3",
+                                            "name": "直线连接线",
+                                            "parentId": "1.2.3.4",
+                                            "type": "",
+                                            "function": ""
+                                        },
+                                        {
+                                            "id": "1.2.3.4.4",
+                                            "name": "自由曲线连接线",
+                                            "parentId": "1.2.3.4",
+                                            "type": "",
+                                            "function": ""
+                                        },
+                                        {
+                                            "id": "1.2.3.4.5",
+                                            "name": "连接点工具",
+                                            "parentId": "1.2.3.4",
+                                            "type": "",
+                                            "function": ""
+                                        },
+                                        {
+                                            "id": "1.2.3.4.6",
+                                            "name": "重复当前链接工具",
+                                            "parentId": "1.2.3.4",
+                                            "type": "",
+                                            "function": ""
+                                        }
+                                    ],
+                                    "function": ""
+                                }
+                            ],
+                            "function": ""
+                        },
+                        {
+                            "id": "1.2.4",
+                            "name": "样式",
+                            "parentId": "1.2",
+                            "type": "",
+                            "children": [
+                                {
+                                    "id": "1.2.4.1",
+                                    "name": "快速样式",
+                                    "parentId": "1.2.4",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.2.4.2",
+                                    "name": "填充",
+                                    "parentId": "1.2.4",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.2.4.3",
+                                    "name": "线条",
+                                    "parentId": "1.2.4",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.2.4.4",
+                                    "name": "阴影",
+                                    "parentId": "1.2.4",
+                                    "type": "",
+                                    "function": ""
+                                }
+                            ],
+                            "function": ""
+                        },
+                        {
+                            "id": "1.2.5",
+                            "name": "排列",
+                            "parentId": "1.2",
+                            "type": "",
+                            "children": [
+                                {
+                                    "id": "1.2.5.1",
+                                    "name": "位置",
+                                    "parentId": "1.2.5",
+                                    "type": "",
+                                    "children": [
+                                        {
+                                            "id": "1.2.5.1.1",
+                                            "name": "置于顶层",
+                                            "parentId": "1.2.5.1",
+                                            "type": "",
+                                            "function": ""
+                                        },
+                                        {
+                                            "id": "1.2.5.1.2",
+                                            "name": "置于底层",
+                                            "parentId": "1.2.5.1",
+                                            "type": "",
+                                            "function": ""
+                                        },
+                                        {
+                                            "id": "1.2.5.1.3",
+                                            "name": "上移一层",
+                                            "parentId": "1.2.5.1",
+                                            "type": "",
+                                            "function": ""
+                                        },
+                                        {
+                                            "id": "1.2.5.1.4",
+                                            "name": "下移一层",
+                                            "parentId": "1.2.5.1",
+                                            "type": "",
+                                            "function": ""
+                                        }
+                                    ],
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.2.5.2",
+                                    "name": "组合",
+                                    "parentId": "1.2.5",
+                                    "type": "",
+                                    "children": [
+                                        {
+                                            "id": "1.2.5.2.1",
+                                            "name": "宽度",
+                                            "parentId": "1.2.5.2",
+                                            "type": "",
+                                            "function": ""
+                                        },
+                                        {
+                                            "id": "1.2.5.2.2",
+                                            "name": "高度",
+                                            "parentId": "1.2.5.2",
+                                            "type": "",
+                                            "function": ""
+                                        },
+                                        {
+                                            "id": "1.2.5.2.3",
+                                            "name": "纵横比",
+                                            "parentId": "1.2.5.2",
+                                            "type": "",
+                                            "function": ""
+                                        },
+                                        {
+                                            "id": "1.2.5.2.4",
+                                            "name": "水平位置",
+                                            "parentId": "1.2.5.2",
+                                            "type": "",
+                                            "function": ""
+                                        },
+                                        {
+                                            "id": "1.2.5.2.6",
+                                            "name": "垂直位置",
+                                            "parentId": "1.2.5.2",
+                                            "type": "",
+                                            "function": ""
+                                        },
+                                        {
+                                            "id": "1.2.5.2.8",
+                                            "name": "旋转",
+                                            "parentId": "1.2.5.2",
+                                            "type": "",
+                                            "function": ""
+                                        },
+                                        {
+                                            "id": "1.2.5.2.10",
+                                            "name": "起点",
+                                            "parentId": "1.2.5.2",
+                                            "type": "",
+                                            "function": ""
+                                        },
+                                        {
+                                            "id": "1.2.5.2.11",
+                                            "name": "终点",
+                                            "parentId": "1.2.5.2",
+                                            "type": "",
+                                            "function": ""
+                                        },
+                                        {
+                                            "id": "1.2.5.2.12",
+                                            "name": "取消组合",
+                                            "parentId": "1.2.5.2",
+                                            "type": "",
+                                            "function": ""
+                                        },
+                                        {
+                                            "id": "1.2.5.2.13",
+                                            "name": "编辑文本",
+                                            "parentId": "1.2.5.2",
+                                            "type": "",
+                                            "function": ""
+                                        },
+                                        {
+                                            "id": "1.2.5.2.14",
+                                            "name": "选中",
+                                            "parentId": "1.2.5.2",
+                                            "type": "",
+                                            "function": ""
+                                        },
+                                        {
+                                            "id": "1.2.5.2.15",
+                                            "name": "删除",
+                                            "parentId": "1.2.5.2",
+                                            "type": "",
+                                            "function": ""
+                                        },
+                                        {
+                                            "id": "1.2.5.2.16",
+                                            "name": "阻止连接",
+                                            "parentId": "1.2.5.2",
+                                            "type": "",
+                                            "function": ""
+                                        },
+                                        {
+                                            "id": "1.2.5.2.17",
+                                            "name": "样式",
+                                            "parentId": "1.2.5.2",
+                                            "type": "",
+                                            "function": ""
+                                        },
+                                        {
+                                            "id": "1.2.5.2.18",
+                                            "name": "组合样式",
+                                            "parentId": "1.2.5.2",
+                                            "type": "",
+                                            "function": ""
+                                        },
+                                        {
+                                            "id": "1.2.5.2.19",
+                                            "name": "组合填充",
+                                            "parentId": "1.2.5.2",
+                                            "type": "",
+                                            "function": ""
+                                        },
+                                        {
+                                            "id": "1.2.5.2.19",
+                                            "name": "取消所有保护",
+                                            "parentId": "1.2.5.2",
+                                            "type": "",
+                                            "function": ""
+                                        },
+                                        {
+                                            "id": "1.2.5.2.20",
+                                            "name": "主题",
+                                            "parentId": "1.2.5.2",
+                                            "type": "",
+                                            "function": ""
+                                        },
+                                        {
+                                            "id": "1.2.5.2.21",
+                                            "name": "边缘拾取",
+                                            "parentId": "1.2.5.2",
+                                            "type": "",
+                                            "function": ""
+                                        }
+                                    ],
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.2.5.3",
+                                    "name": "翻转",
+                                    "parentId": "1.2.5",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.2.5.4",
+                                    "name": "对齐",
+                                    "parentId": "1.2.5",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.2.5.5",
+                                    "name": "大小",
+                                    "parentId": "1.2.5",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.2.5.6",
+                                    "name": "锁定",
+                                    "parentId": "1.2.5",
+                                    "type": "",
+                                    "function": ""
+                                }
+                            ],
+                            "function": ""
+                        },
+                        {
+                            "id": "1.2.6",
+                            "name": "替换",
+                            "parentId": "1.2",
+                            "type": "",
+                            "children": [
+                                {
+                                    "id": "1.2.6.1",
+                                    "name": "替换形状",
+                                    "parentId": "1.2.6",
+                                    "type": "",
+                                    "function": ""
+                                }
+                            ],
+                            "function": ""
+                        }                      
+                    ],
+                    "function": ""
+                },
+                {
+                    "id": "1.3",
+                    "name": "插入",
+                    "parentId": "1",
+                    "type": "",
+                    "children": [ 
+                        {
+                            "id": "1.3.1",
+                            "name": "空白页",
+                            "parentId": "1.3",
+                            "type": "",
+                            "function": ""
+                        },
+                        {
+                            "id": "1.3.2",
+                            "name": "表格",
+                            "parentId": "1.3",
+                            "type": "",
+                            "function": ""
+                        },
+                        {
+                            "id": "1.3.3",
+                            "name": "插图",
+                            "parentId": "1.3",
+                            "type": "",
+                            "children": [
+                                {
+                                    "id": "1.3.3.1",
+                                    "name": "图片",
+                                    "parentId": "1.3.3",
+                                    "type": "",
+                                    "function": "InsertImage"
+                                },
+                                {
+                                    "id": "1.3.3.2",
+                                    "name": "图标",
+                                    "parentId": "1.3.3",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.3.3.3",
+                                    "name": "剪切画",
+                                    "parentId": "1.3.3",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.3.3.4",
+                                    "name": "图表",
+                                    "parentId": "1.3.3",
+                                    "type": "",
+                                    "function": "InsertChart"
+                                },
+                                {
+                                    "id": "1.3.3.5",
+                                    "name": "时间线",
+                                    "parentId": "1.3.3",
+                                    "type": "",
+                                    "function": "InsertTimeline"
+                                },
+                                {
+                                    "id": "1.3.3.6",
+                                    "name": "地图",
+                                    "parentId": "1.3.3",
+                                    "type": "",
+                                    "function": ""
+                                }
+                            ],
+                            "function": ""
+                        },
+                        {
+                            "id": "1.3.4",
+                            "name": "图部件",
+                            "parentId": "1.3",
+                            "type": "",
+                            "children": [
+                                {
+                                    "id": "1.3.4.1",
+                                    "name": "容器",
+                                    "parentId": "1.3.4",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.3.4.2",
+                                    "name": "形状",
+                                    "parentId": "1.3.4",
+                                    "type": "",
+                                    "function": ""
+                                }
+                            ],
+                            "function": ""
+                        },
+                        {
+                            "id": "1.3.5",
+                            "name": "文本",
+                            "parentId": "1.3",
+                            "type": "",
+                            "children": [
+                                {
+                                    "id": "1.3.5.1",
+                                    "name": "矢量文本",
+                                    "parentId": "1.3.5",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.3.5.2",
+                                    "name": "公式",
+                                    "parentId": "1.3.5",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.3.5.3",
+                                    "name": "字体符号",
+                                    "parentId": "1.3.5",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.3.5.4",
+                                    "name": "页码",
+                                    "parentId": "1.3.5",
+                                    "type": "",
+                                    "children": [
+                                        {
+                                            "id": "1.3.5.4.1",
+                                            "name": "页码样式",
+                                            "parentId": "1.3.5.4",
+                                            "type": "",
+                                            "function": ""
+                                        },
+                                        {
+                                            "id": "1.3.5.4.2",
+                                            "name": "页码位置",
+                                            "parentId": "1.3.5.4",
+                                            "type": "",
+                                            "function": ""
+                                        },
+                                        {
+                                            "id": "1.3.5.4.3",
+                                            "name": "删除页码",
+                                            "parentId": "1.3.5.4",
+                                            "type": "",
+                                            "function": ""
+                                        }
+                                    ],
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.3.5.5",
+                                    "name": "日期",
+                                    "parentId": "1.3.5",
+                                    "type": "",
+                                    "children": [
+                                        {
+                                            "id": "1.3.5.5.1",
+                                            "name": "类型",
+                                            "parentId": "1.3.5.5",
+                                            "type": "",
+                                            "function": ""
+                                        },
+                                        {
+                                            "id": "1.3.5.5.1",
+                                            "name": "样式",
+                                            "parentId": "1.3.5.5",
+                                            "type": "",
+                                            "function": ""
+                                        },
+                                        {
+                                            "id": "1.3.5.5.1",
+                                            "name": "位置",
+                                            "parentId": "1.3.5.5",
+                                            "type": "",
+                                            "function": ""
+                                        },
+                                        {
+                                            "id": "1.3.5.5.1",
+                                            "name": "删除日期",
+                                            "parentId": "1.3.5.5",
+                                            "type": "",
+                                            "function": ""
+                                        }
+                                    ],
+                                    "function": ""
+                                }
+                            ],
+                            "function": ""
+                        },
+                        {
+                            "id": "1.3.6",
+                            "name": "其他",
+                            "parentId": "1.3",
+                            "type": "",
+                            "children": [
+                                {
+                                    "id": "1.3.6.1",
+                                    "name": "超链接",
+                                    "parentId": "1.3.6",
+                                    "type": "",
+                                    "children": [
+                                        {
+                                            "id": "1.3.6.1.1",
+                                            "name": "超链接",
+                                            "parentId": "1.3.6.1",
+                                            "type": "",
+                                            "function": ""
+                                        },
+                                        {
+                                            "id": "1.3.6.1.2",
+                                            "name": "鼠标点击事件映射",
+                                            "parentId": "1.3.6.1",
+                                            "type": "",
+                                            "function": ""
+                                        }
+                                    ],
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.3.6.2",
+                                    "name": "附件",
+                                    "parentId": "1.3.6",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.3.6.3",
+                                    "name": "注释",
+                                    "parentId": "1.3.6",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.3.6.4",
+                                    "name": "评论",
+                                    "parentId": "1.3.6",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.3.6.5",
+                                    "name": "二维码",
+                                    "parentId": "1.3.6",
+                                    "type": "",
+                                    "function": ""
+                                }
+                            ],
+                            "function": ""
+                        } 
+                    ],
+                    "function": ""
+                },
+                {
+                    "id": "1.4",
+                    "name": "设计",
+                    "parentId": "1",
+                    "type": "display",
+                    "children": [ 
+                        {
+                            "id": "1.4.1",
+                            "name": "一键美化",
+                            "parentId": "1.4",
+                            "type": "",
+                            "function": ""
+                        },
+                        {
+                            "id": "1.4.2",
+                            "name": "美化",
+                            "parentId": "1.4",
+                            "type": "",
+                            "children": [
+                                {
+                                    "id": "1.4.2.1",
+                                    "name": "主题",
+                                    "parentId": "1.4.2",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.4.2.2",
+                                    "name": "颜色",
+                                    "parentId": "1.4.2",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.4.2.3",
+                                    "name": "连接线",
+                                    "parentId": "1.4.2",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.4.2.4",
+                                    "name": "文本",
+                                    "parentId": "1.4.2",
+                                    "type": "",
+                                    "function": ""
+                                }
+                            ],
+                            "function": ""
+                        },
+                        {
+                            "id": "1.4.3",
+                            "name": "背景",
+                            "parentId": "1.4",
+                            "type": "",
+                            "children": [
+                                {
+                                    "id": "1.4.3.1",
+                                    "name": "背景颜色",
+                                    "parentId": "1.4.3",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.4.3.2",
+                                    "name": "背景图片",
+                                    "parentId": "1.4.3",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.4.3.3",
+                                    "name": "边框和标题",
+                                    "parentId": "1.4.3",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.4.3.4",
+                                    "name": "水印",
+                                    "parentId": "1.4.3",
+                                    "type": "",
+                                    "function": ""
+                                }
+                            ],
+                            "function": ""
+                        },
+                        {
+                            "id": "1.4.4",
+                            "name": "页面设置",
+                            "parentId": "1.4",
+                            "type": "",
+                            "children": [
+                                {
+                                    "id": "1.4.4.1",
+                                    "name": "自动扩展",
+                                    "parentId": "1.4.4",
+                                    "type": "",
+                                   
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.4.4.2",
+                                    "name": "页面适应到绘图",
+                                    "parentId": "1.4.4",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.4.4.3",
+                                    "name": "方向",
+                                    "parentId": "1.4.4",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.4.4.4",
+                                    "name": "页面大小",
+                                    "parentId": "1.4.4",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.4.4.5",
+                                    "name": "跳线样式",
+                                    "parentId": "1.4.4",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.4.4.6",
+                                    "name": "单位",
+                                    "parentId": "1.4.4",
+                                    "type": "",
+                                    "function": ""
+                                }
+                            ],
+                            "function": ""
+                        }       
+                    ],
+                    "function": ""
+                },
+                {
+                    "id": "1.5",
+                    "name": "视图",
+                    "parentId": "1",
+                    "type": "display",
+                    "children": [ 
+                        {
+                            "id": "1.5.1",
+                            "name": "幻灯片",
+                            "parentId": "1.5",
+                            "type": "",
+                            "children": [
+                                {
+                                    "id": "1.5.1.1",
+                                    "name": "从首页开始",
+                                    "parentId": "1.5.1",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.5.1.2",
+                                    "name": "从当前页开始",
+                                    "parentId": "1.5.1",
+                                    "type": "",
+                                    "function": ""
+                                }
+                            ],
+                            "function": ""
+                        },
+                        {
+                            "id": "1.5.2",
+                            "name": "视图",
+                            "parentId": "1.5",
+                            "type": "",
+                            "children": [
+                                {
+                                    "id": "1.5.2.1",
+                                    "name": "普通视图",
+                                    "parentId": "1.5.2",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.5.2.1",
+                                    "name": "背景视图",
+                                    "parentId": "1.5.2",
+                                    "type": "",
+                                    "function": ""
+                                }
+                            ],
+                            "function": ""
+                        },
+                        {
+                            "id": "1.5.3",
+                            "name": "显示",
+                            "parentId": "1.5",
+                            "type": "",
+                            "children": [
+                                {
+                                    "id": "1.5.3.1",
+                                    "name": "标尺",
+                                    "parentId": "1.5.3",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.5.3.2",
+                                    "name": "分页符",
+                                    "parentId": "1.5.3",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.5.3.3",
+                                    "name": "参考线",
+                                    "parentId": "1.5.3",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.5.3.4",
+                                    "name": "页边距",
+                                    "parentId": "1.5.3",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.5.3.5",
+                                    "name": "网格线",
+                                    "parentId": "1.5.3",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.5.3.6",
+                                    "name": "动作按钮",
+                                    "parentId": "1.5.3",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.5.3.7",
+                                    "name": "极速链接模式",
+                                    "parentId": "1.5.3",
+                                    "type": "",
+                                    "function": ""
+                                }
+                            ],
+                            "function": ""
+                        },
+                        {
+                            "id": "1.5.4",
+                            "name": "缩放",
+                            "parentId": "1.5",
+                            "type": "",
+                            "children": [
+                                {
+                                    "id": "1.5.4.1",
+                                    "name": "整页",
+                                    "parentId": "1.5.4",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.5.4.2",
+                                    "name": "页面预览",
+                                    "parentId": "1.5.4",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.5.4.3",
+                                    "name": "页宽",
+                                    "parentId": "1.5.4",
+                                    "type": "",
+                                    "function": ""
+                                }
+                            ],
+                            "function": ""
+                        } 
+                    ],
+                    "function": ""
+                },
+                {
+                    "id": "1.6",
+                    "name": "符号",
+                    "parentId": "1",
+                    "type": "display",
+                    "children": [ 
+                        {
+                            "id": "1.6.1",
+                            "name": "符号库",
+                            "parentId": "1.6",
+                            "type": "",
+                            "children": [
+                                {
+                                    "id": "1.6.1.1",
+                                    "name": "新建库",
+                                    "parentId": "1.6.1",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.6.1.2",
+                                    "name": "预定义库",
+                                    "parentId": "1.6.1",
+                                    "type": "",
+                                    "function": ""
+                                }
+                            ],
+                            "function": ""
+                        },
+                        {
+                            "id": "1.6.2",
+                            "name": "绘图工具",
+                            "parentId": "1.6",
+                            "type": "",
+                            "children": [
+                                {
+                                    "id": "1.6.2.1",
+                                    "name": "选择",
+                                    "parentId": "1.6.2",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.6.2.2",
+                                    "name": "钢笔工具",
+                                    "parentId": "1.6.2",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.6.2.3",
+                                    "name": "铅笔工具",
+                                    "parentId": "1.6.2",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.6.2.4",
+                                    "name": "移动描点",
+                                    "parentId": "1.6.2",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.6.2.5",
+                                    "name": "删除描点",
+                                    "parentId": "1.6.2",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.6.2.6",
+                                    "name": "转换描点类型",
+                                    "parentId": "1.6.2",
+                                    "type": "",
+                                    "function": ""
+                                }      
+                            ],
+                            "function": ""
+                        },
+                        {
+                            "id": "1.6.3",
+                            "name": "布尔操作",
+                            "parentId": "1.6",
+                            "type": "",
+                            "children": [
+                                {
+                                    "id": "1.6.3.1",
+                                    "name": "联合",
+                                    "parentId": "1.6.3",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.6.3.2",
+                                    "name": "组合",
+                                    "parentId": "1.6.3",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.6.3.3",
+                                    "name": "剪除",
+                                    "parentId": "1.6.3",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.6.3.4",
+                                    "name": "拆分",
+                                    "parentId": "1.6.3",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.6.3.5",
+                                    "name": "相交",
+                                    "parentId": "1.6.3",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.6.3.6",
+                                    "name": "剪除",
+                                    "parentId": "1.6.3",
+                                    "type": "",
+                                    "function": ""
+                                }
+                                
+                            ],
+                            "function": ""
+                        },
+                        {
+                            "id": "1.6.4",
+                            "name": "符号编辑",
+                            "parentId": "1.6",
+                            "type": "",
+                            "children": [
+                                {
+                                    "id": "1.6.4.1",
+                                    "name": "文本工具",
+                                    "parentId": "1.6.4",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.6.4.2",
+                                    "name": "连接点工具",
+                                    "parentId": "1.6.4",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.6.4.3",
+                                    "name": "符号数据",
+                                    "parentId": "1.6.4",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.6.4.4",
+                                    "name": "创建智能形状",
+                                    "parentId": "1.6.4",
+                                    "type": "",
+                                    "function": ""
+                                }
+                            ],
+                            "function": ""
+                        },
+                        {
+                            "id": "1.6.5",
+                            "name": "保存符号",
+                            "parentId": "1.6",
+                            "type": "click",
+                            "function": ""
+                        }  
+                    ],
+                    "function": ""
+                },
+                {
+                    "id": "1.7",
+                    "name": "高级",
+                    "parentId": "1",
+                    "type": "display",
+                    "children": [ 
+                        {
+                            "id": "1.7.1",
+                            "name": "文件",
+                            "parentId": "1.7",
+                            "type": "",
+                            "children": [
+                                {
+                                    "id": "1.7.1.1",
+                                    "name": "历史版本",
+                                    "parentId": "1.7.1",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.7.1.1",
+                                    "name": "文件恢复",
+                                    "parentId": "1.7.1",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.7.1.1",
+                                    "name": "文件加密",
+                                    "parentId": "1.7.1",
+                                    "type": "",
+                                    "function": ""
+                                }
+                            ],
+                            "function": ""
+                        },
+                        {
+                            "id": "1.7.2",
+                            "name": "校对",
+                            "parentId": "1.7",
+                            "type": "",
+                            "children": [
+                                {
+                                    "id": "1.7.2.1",
+                                    "name": "拼写检查",
+                                    "parentId": "1.7.2",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.7.2.1",
+                                    "name": "查找",
+                                    "parentId": "1.7.2",
+                                    "type": "",
+                                    "function": ""
+                                }
+                            ],
+                            "function": ""
+                        },
+                        {
+                            "id": "1.7.3",
+                            "name": "其他",
+                            "parentId": "1.7",
+                            "type": "",
+                            "children": [
+                                {
+                                    "id": "1.7.3.1",
+                                    "name": "数据形状",
+                                    "parentId": "1.7.3",
+                                    "type": "",
+                                    "function": ""
+                                },
+                                {
+                                    "id": "1.7.3.1",
+                                    "name": "屏幕截取",
+                                    "parentId": "1.7.3",
+                                    "type": "",
+                                    "function": ""
+                                }
+                            ],
+                            "function": ""
+                        }  
+                    ],
+                    "function": ""
+                },
+                {
+                    "id": "1.8",
+                    "name": "发布",
+                    "parentId": "1",
+                    "type": "",
+                    "function": ""
+                },
+                {
+                    "id": "1.9",
+                    "name": "分享",
+                    "parentId": "1",
+                    "type": "",
+                    "function": ""
+                },
+                {
+                    "id": "1.10",
+                    "name": "选项",
+                    "parentId": "1",
+                    "type": "",
+                    "function": ""
+                },
+                {
+                    "id": "1.11",
+                    "name": "帮助",
+                    "parentId": "1",
+                    "type": "",
+                    "function": ""
+                },
+                {
+                    "id": "1.12",
+                    "name": "最小化功能区",
+                    "parentId": "1",
+                    "type": "",
+                    "function": ""
+                }
+            ],
+            "function": ""
+        },
+        {
+            "id": "2",
+            "name": "顶部工具栏",
+            "parentId": "",
+            "type": "",
+            "children": [ 
+                {
+                    "id": "2.1",
+                    "name": "撤销",
+                    "parentId": "2",
+                    "type": "",
+                    "function": ""
+                },
+                {
+                    "id": "2.2",
+                    "name": "重做",
+                    "parentId": "2",
+                    "type": "",
+                    "function": ""
+                },
+                {
+                    "id": "2.3",
+                    "name": "Bold",
+                    "parentId": "2",
+                    "type": "click",
+                    "function": "tabsBold"
+                },
+                {
+                    "id": "2.4",
+                    "name": "新建",
+                    "parentId": "2",
+                    "type": "",
+                    "function": ""
+                },
+                {
+                    "id": "2.5",
+                    "name": "打开",
+                    "parentId": "2",
+                    "type": "",
+                    "function": ""
+                },
+                {
+                    "id": "2.6",
+                    "name": "保存",
+                    "parentId": "2",
+                    "type": "",
+                    "function": ""
+                },
+                {
+                    "id": "2.7",
+                    "name": "打印",
+                    "parentId": "2",
+                    "type": "",
+                    "function": ""
+                },
+                {
+                    "id": "2.8",
+                    "name": "导出",
+                    "parentId": "2",
+                    "type": "",
+                    "children": [
+                        {
+                            "id": "2.8.1",
+                            "name": "图片格式",
+                            "parentId": "2.8",
+                            "type": "",
+                            "function": ""
+                        },
+                        {
+                            "id": "2.8.2",
+                            "name": "HTML文件",
+                            "parentId": "2.8",
+                            "type": "",
+                            "function": ""
+                        },
+                        {
+                            "id": "2.8.3",
+                            "name": "PDF文件",
+                            "parentId": "2.8",
+                            "type": "",
+                            "function": ""
+                        },
+                        {
+                            "id": "2.8.4",
+                            "name": "SVG文档",
+                            "parentId": "2.8",
+                            "type": "",
+                            "function": ""
+                        },
+                        {
+                            "id": "2.8.5",
+                            "name": "MS Word文件",
+                            "parentId": "2.8",
+                            "type": "",
+                            "function": ""
+                        },
+                        {
+                            "id": "2.8.6",
+                            "name": "MS EXcel文件",
+                            "parentId": "2.8",
+                            "type": "",
+                            "function": ""
+                        },
+                        {
+                            "id": "2.8.7",
+                            "name": "MS PowerPoint 文件",
+                            "parentId": "2.8",
+                            "type": "",
+                            "function": ""
+                        },
+                        {
+                            "id": "2.8.8",
+                            "name": "Visio VSDX格式",
+                            "parentId": "2.8",
+                            "type": "",
+                            "function": ""
+                        },
+                        {
+                            "id": "2.8.9",
+                            "name": "多页 Tiff",
+                            "parentId": "2.8",
+                            "type": "",
+                            "function": ""
+                        },
+                        {
+                            "id": "2.8.10",
+                            "name": "PS 格式",
+                            "parentId": "2.8",
+                            "type": "",
+                            "function": ""
+                        },
+                        {
+                            "id": "2.8.11",
+                            "name": "EPS 格式",
+                            "parentId": "2.8",
+                            "type": "",
+                            "function": ""
+                        }
+                    ],
+                    "function": ""
+                },
+                {
+                    "id": "2.9",
+                    "name": "自定义快捷工具栏",
+                    "parentId": "2",
+                    "type": "",
+                    "children": [ 
+                        {
+                            "id": "2.9.1",
+                            "name": "撤销",
+                            "parentId": "2.9",
+                            "type": "",
+                            "function": ""
+                        },
+                        {
+                            "id": "2.9.2",
+                            "name": "重做",
+                            "parentId": "2.9",
+                            "type": "click",
+                            "function": ""
+                        },
+                        {
+                            "id": "2.9.3",
+                            "name": "新建",
+                            "parentId": "2.9",
+                            "type": "",
+                            "function": ""
+                        },
+                        {
+                            "id": "2.9.4",
+                            "name": "打开",
+                            "parentId": "2.9",
+                            "type": "",
+                            "function": ""
+                        },
+                        {
+                            "id": "2.9.5",
+                            "name": "保存",
+                            "parentId": "2.9",
+                            "type": "",
+                            "function": ""
+                        },
+                        {
+                            "id": "2.9.6",
+                            "name": "打印",
+                            "parentId": "2.9",
+                            "type": "",
+                            "function": ""
+                        },
+                        {
+                            "id": "2.9.7",
+                            "name": "导出",
+                            "parentId": "2.9",
+                            "type": "",
+                            "function": ""
+                        },
+                        {
+                            "id": "2.9.8",
+                            "name": "导入",
+                            "parentId": "2.9",
+                            "type": "",
+                            "function": ""
+                        }  
+                    ],
+                    "function": ""
+                }
+              
+            ],
+            "function": ""
+        },
+        {
+            "id": "3",
+            "name": "Right Toolbar",
+            "parentId": "",
+            "type": "",
+            "children": [ 
+                {
+                    "id": "3.1",
+                    "name": "style",
+                    "parentId": "3",
+                    "type": "click",
+                    "children": [ 
+                        {
+                            "id": 401,
+                            "name": "Fill",
+                            "parentId": "3.1",
+                            "type": "click",
+                            "function": "rightStyleFill"
+                        },
+                        {
+                            "id": 402,
+                            "name": "Line",
+                            "parentId": "3.1",
+                            "type": "click",
+                            "function": "rightStyleLine"
+                        },
+                        {
+                            "id": 403,
+                            "name": "Shadow",
+                            "parentId":"3.1",
+                            "type": "click",
+                            "function": "rightStyleShadow"
+                        }
+                    ],
+                    "function": "showRightStyle"
+                },
+                {
+                    "id": "3.2",
+                    "name": "Page Settings",
+                    "parentId": "3",
+                    "type": "click",
+                    "children": [ 
+                        {
+                            "id": "3.2.1",
+                            "name": "Background",
+                            "parentId": "3.2",
+                            "type": "click",
+                            "function": "rightPageBgColor"
+                        },
+                        {
+                            "id": "3.2.2",
+                            "name": "Remove Background",
+                            "parentId": "3.2",
+                            "type": "click",
+                            "function": "rightPageDeleteBg"
+                        },
+                        {
+                            "id": "3.2.3",
+                            "name": "Watermark",
+                            "parentId": "3.2",
+                            "type": "click",
+                            "function": "rightPageWaterMark"
+                        },
+                        {
+                            "id": "3.2.4",
+                            "name": "Page Setup",
+                            "parentId": "3.2",
+                            "type": "click",
+                            "function": "rightPageSetPage"
+                        },
+                        {
+                            "id": "3.2.5",
+                            "name": "Page Number",
+                            "parentId": "3.2",
+                            "type": "click",
+                            "function": "rightPageSetPageNum"
+                        },
+                        {
+                            "id": "3.2.6",
+                            "name": "Fit to",
+                            "parentId": "3.2",
+                            "type": "click",
+                            "function": "rightPageFitPage"
+                        },
+                        {
+                            "id": "3.2.7",
+                            "name": "Grid",
+                            "parentId": "3.2",
+                            "type": "click",
+                            "function": "rightPageSetGrid"
+                        }
+                    ],
+                    "function": "showRightPage"
+                },
+                {
+                    "id": "3.3",
+                    "name": "Theme",
+                    "parentId": "3",
+                    "type": "click",
+                    "function": "showRightTheme"
+                },
+                {
+                    "id": "3.4",
+                    "name": "Layer",
+                    "parentId": "3",
+                    "type": "click",
+                    "function": "showRightLayer"
+                },
+                {
+                    "id": "3.5",
+                    "name": "Slide",
+                    "parentId": "3",
+                    "type": "click",
+                    "function": "showRightSlide"
+                },
+                {
+                    "id": "3.6",
+                    "name": "Data Property",
+                    "parentId": "3",
+                    "type": "click",
+                    "function": "showRightProperty"
+                },
+                {
+                    "id": "3.7",
+                    "name": "Image",
+                    "parentId": "3",
+                    "type": "click",
+                    "function": "showRightImage"
+                },
+                {
+                    "id": "3.8",
+                    "name": "Org chart",
+                    "parentId": "3",
+                    "type": "click",
+                    "function": "showRightOrgchart"
+                },
+                {
+                    "id": "3.9",
+                    "name": "Floor Plan",
+                    "parentId": 3,
+                    "type": "click",
+                    "function": "showRightPlan"
+                },
+                {
+                    "id": "3.10",
+                    "name": "Gantt Chart",
+                    "parentId": "3",
+                    "type": "click",
+                    "function": "showRightGantt"
+                },
+                {
+                    "id": "3.11",
+                    "name": "MindMap",
+                    "parentId": "3",
+                    "type": "click",
+                    "function": "showRightMindMaster"
+                },
+                {
+                    "id": "3.12",
+                    "name": "History",
+                    "parentId": "3",
+                    "type": "click",
+                    "function": "showRightHistory"
+                },
+                {
+                    "id": "3.13",
+                    "name": "Table",
+                    "parentId": "3",
+                    "type": "click",
+                    "function": "showRightTable"
+                },
+                {
+                    "id": "3.14",
+                    "name": "Chart",
+                    "parentId": "3",
+                    "type": "click",
+                    "function": "showRightEChart"
+                },
+                {
+                    "id": "3.15",
+                    "name": "Smart Shape",
+                    "parentId": "3",
+                    "type": "click",
+                    "function": "showRightSmartshape"
+                }
+            ],
+            "function": ""
+        },
+        {
+            "id": "4",
+            "name": "Bottom Toolbar",
+            "parentId": "",
+            "type": "display",
+            "children": [ 
+                {
+                    "id": "4.1",
+                    "name": "Preview Page",
+                    "parentId": "4",
+                    "type": "click",
+                    "function": "previewPage"
+                },
+                {
+                    "id": "4.2",
+                    "name": "Add Page",
+                    "parentId": "4",
+                    "type": "click",
+                    "function": "addPage"
+                },
+                {
+                    "id": "4.3",
+                    "name": "Zoom out",
+                    "parentId": "4",
+                    "type": "click",
+                    "function": "smallPage"
+                },
+                {
+                    "id": "4.4",
+                    "name": "Zoom in",
+                    "parentId": "4",
+                    "type": "click",
+                    "function": "bigPage"
+                },
+                {
+                    "id": "4.5",
+                    "name": "Fit to Whole Page",
+                    "parentId": "4",
+                    "type": "click",
+                    "function": "fitPage"
+                },
+                {
+                    "id": "4.6",
+                    "name": "Present Page",
+                    "parentId": "4",
+                    "type": "click",
+                    "function": "menuPageSlice"
+                }
+            ],
+            "function": ""
+        },
+        {
+            "id": "5",
+            "name": "Library",
+            "parentId": "",
+            "type": "display",
+            "children": [ 
+                {
+                    "id": "5.1",
+                    "name": "Add Library",
+                    "parentId": "5",
+                    "type": "alert",
+                    "function": "showLibrary"
+                },
+                {
+                    "id": "5.2",
+                    "name": "Search Library",
+                    "parentId": "5",
+                    "type": "click",
+                    "function": "showSearchLibrary"
+                },
+                {
+                    "id": "5.3",
+                    "name": "My collect",
+                    "parentId": "5",
+                    "type": "click",
+                    "function": "showCollectLibrary"
+                }
+            ],
+            "function": ""
+        },
+        {
+            "id": 6,
+            "name": "Right Menu",
+            "parentId": "",
+            "type": "",
+            "function": ""
+        }
+    ],
+    "function": ""
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Image Container">
+	<Elem NameU="Circle" Name="Cerchio"/>
+	<Elem NameU="Square" Name="Piazza"/>
+	<Elem NameU="Rectangle" Name="Rettangolo"/>
+	<Elem NameU="Rounded Square" Name="Quadrato arrotondato"/>
+	<Elem NameU="Beveled Rectangle" Name="Rettangolo smussato"/>
+	<Elem NameU="Diamond" Name="Diamante"/>
+	<Elem NameU="Design Element" Name="Elemento di design"/>
+	<Elem NameU="Heart-Shaped" Name="A forma di cuore"/>
+	<Elem NameU="Bordered Circle" Name="Cerchio delimitato"/>
+	<Elem NameU="Bordered Square" Name="Piazza delimitata"/>
+	<Elem NameU="Bordered Rectangle" Name="Rettangolo delimitato"/>
+	<Elem NameU="Rounded rectangle with border" Name="Rettangolo arrotondato con bordo"/>
+	<Elem NameU="Beveled rectangle with border" Name="Rettangolo smussato con bordo"/>
+	<Elem NameU="Diamond with border" Name="Diamante con bordo"/>
+	<Elem NameU="Heart with border" Name="Cuore con bordo"/>
+	<Elem NameU="Circle with text" Name="Cerchio con testo"/>
+	<Elem NameU="Circle with text and no fill" Name="Cerchio con testo e nessun riempimento"/>
+	<Elem NameU="Straight Connector" Name="Connettore diritto"/>
+</Lib>

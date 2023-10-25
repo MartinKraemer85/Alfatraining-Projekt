@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Elevations">
+    <Elem NameU="Frame" Name="프레임"/>
+    <Elem NameU="Frame 2" Name="프레임 2"/>
+    <Elem NameU="Divider - H" Name="세로 구분"/>
+    <Elem NameU="Divider - V" Name="가로 구분"/>
+    <Elem NameU="Divider - H 2" Name="세로 구분2"/>
+    <Elem NameU="Divider - V 2" Name="가로 구분2"/>
+    <Elem NameU="Diveder 2" Name="구분 2"/>
+    <Elem NameU="Rect" Name="Rect"/>
+    <Elem NameU="Door Left" Name="왼쪽 문"/>
+    <Elem NameU="Door Right" Name="오른쪽 문"/>
+    <Elem NameU="Door Double" Name="더블문"/>
+    <Elem NameU="Bedside cabinet" Name="침대 옆 캐비닛"/>
+    <Elem NameU="Sofa" Name="소파"/>
+    <Elem NameU="Washbasin" Name="세면기"/>
+    <Elem NameU="Plants" Name="화분"/>
+    <Elem NameU="Fireplace" Name="난로"/>
+    <Elem NameU="Painting" Name="그림"/>
+    <Elem NameU="Wall" Name="벽"/>
+    <Elem NameU="Flue" Name="굴뚝"/>
+    <Elem NameU="Table facet" Name="테이블 패싯"/>
+    <Elem NameU="L table facet" Name="L형 테이블 패싯"/>
+    <Elem NameU="Drainage pipe" Name="배수 파이프"/>
+    <Elem NameU="Outlet" Name="콘센트"/>
+    <Elem NameU="Intake" Name="흡입구"/>
+</Lib>

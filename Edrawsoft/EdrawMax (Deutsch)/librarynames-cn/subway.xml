@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Subway">
+    <Elem NameU="Metro line" Number="2" Name="直线线路"/>
+    <Elem NameU="Metro corner" Number="4" Name="带拐角线路"/>
+    <Elem NameU="Metro curve" Number="2" Name="曲线线路"/>
+    <Elem NameU="Station" Number="5" Name="车站"/>
+    <Elem NameU="Transfer station" Number="4" Name="换乘站"/>
+    <Elem NameU="Cross Station" Number="2" Name="交叉站"/>
+    <Elem NameU="Cross station" Number="2" Name="交叉站"/>
+    <Elem NameU="Label" Number="2" Name="标签"/>
+    <Elem NameU="Subway" Name="地铁"/>
+    <Elem NameU="Airplane" Name="飞机"/>
+    <Elem NameU="Railway Station" Name="铁路"/>
+    <Elem NameU="Bus Station" Name="公交"/>
+</Lib>

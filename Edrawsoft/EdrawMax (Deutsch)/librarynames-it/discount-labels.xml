@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Discount Labels">
+	<Elem NameU="Price Sticker 1" Name="Adesivo Prezzo 1"/>
+	<Elem NameU="Price Sticker 2" Name="Adesivo Prezzo 2"/>
+	<Elem NameU="Price Sticker 3" Name="Adesivo Prezzo 3"/>
+	<Elem NameU="Price Sticker 4" Name="Adesivo Prezzo 4"/>
+	<Elem NameU="Price Sticker 5" Name="Adesivo Prezzo 5"/>
+	<Elem NameU="Price Sticker 6" Name="Adesivo Prezzo 6"/>
+	<Elem NameU="Price Sticker 7" Name="Adesivo Prezzo 7"/>
+	<Elem NameU="Price Sticker 8" Name="Adesivo Prezzo 8"/>
+	<Elem NameU="Price Tag 1" Name="Etichetta Prezzo 1"/>
+	<Elem NameU="Price Tag 2" Name="Etichetta Prezzo 2"/>
+	<Elem NameU="Price Tag 3" Name="Etichetta Prezzo 3"/>
+	<Elem NameU="Price Sticker 9" Name="Adesivo Prezzo 9"/>
+	<Elem NameU="Price Sticker 10" Name="Adesivo Prezzo 10"/>
+	<Elem NameU="Price Sticker 11" Name="Adesivo Prezzo 11"/>
+	<Elem NameU="Price Sticker 12" Name="Adesivo Prezzo 12"/>
+	<Elem NameU="Best Price" Name="Miglior Prezzo"/>
+	<Elem NameU="Price Sticker 13" Name="Adesivo Prezzo 13"/>
+	<Elem NameU="Price Sticker 14" Name="Adesivo Prezzo 14"/>
+	<Elem NameU="Price Sticker 15" Name="Adesivo Prezzo 15"/>
+	<Elem NameU="Price Sticker 16" Name="Adesivo Prezzo 16"/>
+	<Elem NameU="Price Sticker 17" Name="Adesivo Prezzo 17"/>
+	<Elem NameU="Special Offer" Name="Offerta Speciale"/>
+	<Elem NameU="Price Sticker 18" Name="Adesivo Prezzo 18"/>
+	<Elem NameU="FREE" Name="GRATIS"/>
+	<Elem NameU="Price Sticker 19" Name="Adesivo Prezzo 19"/>
+	<Elem NameU="Gift 1" Name="Regalo 1"/>
+	<Elem NameU="Gift 2" Name="Regalo 2"/>
+	<Elem NameU="Thank You Tag" Name="Etichetta di Ringraziamento"/>
+	<Elem NameU="Price Up" Name="Rincaro"/>
+	<Elem NameU="Price Down" Name="Ribasso"/>
+	<Elem NameU="Sale Tag 1" Name="Etichetta Sconti 1"/>
+	<Elem NameU="Sale Tag 2" Name="Etichetta Sconti 2"/>
+	<Elem NameU="Sale Banner" Name="Insegna dei Saldi"/>
+	<Elem NameU="Ribbons 1" Name="Nastri 1"/>
+	<Elem NameU="Ribbons 2" Name="Nastri 2"/>
+	<Elem NameU="Ribbons 3" Name="Nastri 3"/>
+	<Elem NameU="Ribbons 4" Name="Nastri 4"/>
+	<Elem NameU="Ribbons 5" Name="Nastri 5"/>
+	<Elem NameU="Ribbons 6" Name="Nastri 6"/>
+	<Elem NameU="Coupons 1" Name="Coupon 1"/>
+	<Elem NameU="Coupons 2" Name="Coupon 2"/>
+</Lib>

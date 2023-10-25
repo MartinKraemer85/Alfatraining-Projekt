@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Strategy">
+	<Elem NameU="Resource" Name="Ressource"/>
+	<Elem NameU="Capability" Name="Funktion"/>
+	<Elem NameU="Value Stream" Name="Wertstrom"/>
+	<Elem NameU="Course of Action" Name="Vorgehensweise"/>
+</Lib>

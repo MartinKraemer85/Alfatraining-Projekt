@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="UML Deployment Diagram">
+	<Elem NameU="Package" Name="Paket"/>
+	<Elem NameU="Object" Name="Objekt"/>
+	<Elem NameU="Node" Name="Knoten"/>
+	<Elem NameU="Component" Name="Komponente"/>
+	<Elem NameU="Node Instance" Name="Knoteninstanz"/>
+	<Elem NameU="Component Instance" Name="Komponenteninstanz"/>
+	<Elem NameU="Comunication" Name="Komuniziert"/>
+	<Elem NameU="Inheritance" Name="Vererbung"/>
+	<Elem NameU="Note" Name="Hinweis"/>
+	<Elem NameU="Constraint" Name="Einschränkung"/>
+	<Elem NameU="Project" Name="Projekt"/>
+	<Elem NameU="Project Instance" Name="Projektinstanz"/>
+	<Elem NameU="Deployment Specification" Name="Bereitstellungsspezifikation"/>
+	<Elem NameU="Deployment Specification Instance" Name="Bereitstellungsspezifikationsinstanz"/>
+	<Elem NameU="Dependency" Name="Abhängigkeit"/>
+	<Elem NameU="Aggregation" Name="Anhäufung"/>
+	<Elem NameU="Manifest" Name="Manifest"/>
+	<Elem NameU="Deploy" Name="Bereitstellen"/>
+	<Elem NameU="Overview Diagram Container" Name="Übersicht Diagrammcontainer"/>
+</Lib>

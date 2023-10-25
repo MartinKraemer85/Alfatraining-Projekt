@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Azure Enterprise">
+	<Elem NameU="Active Directory Federation Services Proxy" Name="Proxy de Serviços de Federação de Diretório Ativo"/>
+	<Elem NameU="AD FS" Name="AD FS"/>
+	<Elem NameU="Android Phone" Name="Telemóvel Android"/>
+	<Elem NameU="Application (blank for text)" Name="Aplicação (em branco para texto)"/>
+	<Elem NameU="App Generic" Name="App Genérica"/>
+	<Elem NameU="Application Server" Name="Servidor de Aplicações"/>
+	<Elem NameU="Azure Pack" Name="Pacote Azure"/>
+	<Elem NameU="Backup local" Name="Cópia de Segurança local"/>
+	<Elem NameU="Backup Online" Name="Cópia de Segurança Online"/>
+	<Elem NameU="Calendar" Name="Calendário"/>
+	<Elem NameU="Certificate" Name="Certificado"/>
+	<Elem NameU="Client Application" Name="Aplicação de Cliente"/>
+	<Elem NameU="Cloud" Name="Cloud"/>
+	<Elem NameU="Cluster Server" Name="Servidor de Aglomerado"/>
+	<Elem NameU="Code File" Name="Ficheiro de Código"/>
+	<Elem NameU="Connectors" Name="Conectores"/>
+	<Elem NameU="Database Generic" Name="Genérico de Base de Dados"/>
+	<Elem NameU="Database Server" Name="Servidor de Base de Dados"/>
+	<Elem NameU="Database Synchronization" Name="Sincronização de Base de Dados"/>
+	<Elem NameU="Direct Access (feature)" Name="Acesso Direto (funcionalidade)"/>
+	<Elem NameU="Device" Name="Dispositivo"/>
+	<Elem NameU="Document DB File" Name="Documento de Ficheiro de Base de Dados"/>
+	<Elem NameU="Document" Name="Documento"/>
+	<Elem NameU="Domain Controller" Name="Controlador de Domínio"/>
+	<Elem NameU="Enterprise Building" Name="Edifício Corporativo"/>
+	<Elem NameU="File General" Name="Ficheiro Geral"/>
+	<Elem NameU="Filter" Name="Filtro"/>
+	<Elem NameU="Firewall" Name="Firewall"/>
+	<Elem NameU="Folder" Name="Pasta"/>
+	<Elem NameU="Gateway" Name="Porta"/>
+	<Elem NameU="Generic App Named Text" Name="Texto Nomeado de App Genérica"/>
+	<Elem NameU="Generic Code" Name="Código Genérico"/>
+	<Elem NameU="Graph" Name="Gráfico"/>
+	<Elem NameU="Health Monitoring" Name="Monitoramento de Saúde"/>
+	<Elem NameU="Healthy" Name="Saudável"/>
+	<Elem NameU="Import Generic" Name="Importar Genérico"/>
+	<Elem NameU="Internet (hollow)" Name="Internet (oco)"/>
+	<Elem NameU="Internet" Name="Internet"/>
+	<Elem NameU="iPhone" Name="iPhone"/>
+	<Elem NameU="Key Permissions" Name="Permissões Chave"/>
+	<Elem NameU="Keyboard" Name="Teclado"/>
+	<Elem NameU="Laptop Computer" Name="Computador Portátil"/>
+	<Elem NameU="Load Balancer (Generic)" Name="Carregar Balanceador (Genérico)"/>
+	<Elem NameU="Load Testing" Name="A Testar Carregamento"/>
+	<Elem NameU="lock Unlocked Accessible" name=""/>
+	<Elem NameU="Lock Protected" Name="Trinco Protegido"/>
+	<Elem NameU="Maintenance" Name="Manutenção"/>
+	<Elem NameU="Management Console" Name="Consola de Manutenção"/>
+	<Elem NameU="Message" Name="Mensagem"/>
+	<Elem NameU="Monitor Running Rpps" Name="Monitorizar Rpps em Execução"/>
+	<Elem NameU="Monitor" Name="Monitorizar"/>
+	<Elem NameU="Mouse" Name="Rato"/>
+	<Elem NameU="Network Card" Name="Cartão de Rede"/>
+	<Elem NameU="Not Allowed" Name="Não Permitido"/>
+	<Elem NameU="Performance Monitor" Name="Monitor de Performance"/>
+	<Elem NameU="Performance" Name="Performance"/>
+	<Elem NameU="Phone" Name="Telemóvel"/>
+	<Elem NameU="Plug And Play" Name="Ligar E Jogar"/>
+	<Elem NameU="PowerPoint" Name="PowerPoint"/>
+	<Elem NameU="Powershell Script File" Name="Ficheiro de Script Powershell"/>
+	<Elem NameU="Protocol Stack" Name="Conjunto de Protocolos"/>
+	<Elem NameU="Queue General" Name="Fila Geral"/>
+	<Elem NameU="RMS Connector" Name="Conector RMS"/>
+	<Elem NameU="Router" Name="Roteador"/>
+	<Elem NameU="Rpd Remoting File" Name="Ficheiro Remoto Rpd"/>
+	<Elem NameU="Script File" Name="Ficheiro de Script"/>
+	<Elem NameU="Secure Virtual Machine" Name="Máquina Virtual Segura"/>
+	<Elem NameU="Server (blade)" Name="Servidor (lâmina)"/>
+	<Elem NameU="Server (generic)" Name="Servidor (genérico)"/>
+	<Elem NameU="Server Directory" Name="Diretório de Servidor"/>
+	<Elem NameU="Server Farm" Name="Quinta de Servidor"/>
+	<Elem NameU="Server Rack" Name="Rack de Servidor"/>
+	<Elem NameU="Settings" Name="Definições"/>
+	<Elem NameU="Shared Folder" Name="Pasta Partilhado"/>
+	<Elem NameU="Smartcard" Name="Cartão inteligente"/>
+	<Elem NameU="Startup Task" Name="Iniciar Tarefa"/>
+	<Elem NameU="Storage" Name="Armazenamento"/>
+	<Elem NameU="Stored Procedures" Name="Procedimentos Armazenados"/>
+	<Elem NameU="Table" Name="Tabela"/>
+	<Elem NameU="Tablet" Name="Tablet"/>
+	<Elem NameU="Tool" Name="Ferramenta"/>
+	<Elem NameU="Triggers" Name="Acionadores"/>
+	<Elem NameU="Tunnel" Name="Tunel"/>
+	<Elem NameU="UDF Function" Name="Função UDF"/>
+	<Elem NameU="Unhealthy" Name="Doente"/>
+	<Elem NameU="USB" Name="USB"/>
+	<Elem NameU="User -Enterprise" Name="Usuário -Empresa"/>
+	<Elem NameU="User Permissions" Name="Permissões de Usuário"/>
+	<Elem NameU="Video" Name="Vídeo"/>
+	<Elem NameU="Virtual Machine" Name="Máquina Virtual"/>
+	<Elem NameU="Web Server" Name="Servidor Web"/>
+	<Elem NameU="Web" Name="Web"/>
+	<Elem NameU="WebSite (generic)" Name="WebSite (genérico)"/>
+	<Elem NameU="Windows Server" Name="Servidor Windows"/>
+	<Elem NameU="Wireless Connection" Name="Conexão Sem Fios"/>
+	<Elem NameU="Workstation Client" Name="Cliente de Estação de Trabalho"/>
+	<Elem NameU="XML Web Service" Name="Serviço Web XML"/>
+</Lib>

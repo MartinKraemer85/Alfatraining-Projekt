@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Servers">
+	<Elem NameU="Server 1" Name="Servidor 1"/>
+	<Elem NameU="Server 2" Name="Servidor 2"/>
+	<Elem NameU="Server 3" Name="Servidor 3"/>
+	<Elem NameU="Super Computer" Name="Super Computador"/>
+	<Elem NameU="Mainframe" Name="Mainframe"/>
+	<Elem NameU="File Server" Name="Servidor de Ficheiros"/>
+	<Elem NameU="Web Server" Name="Servidor Web"/>
+	<Elem NameU="FTP Server" Name="Servidor FTP"/>
+	<Elem NameU="Email Server" Name="Servidor de Email"/>
+	<Elem NameU="E-Commerce Server" Name="Servidor de E-Commerce"/>
+	<Elem NameU="Database Server" Name="Servidor de Base de Dados"/>
+	<Elem NameU="Communication Server" Name="Servidor de Comunicações"/>
+	<Elem NameU="Proxy Server" Name="Servidor Proxy"/>
+	<Elem NameU="Print Server" Name="Servidor de Impressão"/>
+	<Elem NameU="Management Server" Name="Servidor de Gestão"/>
+	<Elem NameU="Streaming Media Server" Name="Servidor de Streaming de Media"/>
+	<Elem NameU="Directory Server" Name="Servidor de Diretório"/>
+	<Elem NameU="Mobile Information Server" Name="Servidor de Informação Móvel"/>
+	<Elem NameU="Private or Public Access Server" Name="Servidor de Acesso Público ou Privado"/>
+</Lib>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Smart Home">
+	<Elem NameU="Laptop Computer 1" Name="노트북 1"/>
+	<Elem NameU="Laptop Computer 2" Name="노트북 2"/>
+	<Elem NameU="Laptop Computer 3" Name="노트북 3"/>
+	<Elem NameU="Desktop Computer 1" Name="데스크탑 컴퓨터 1"/>
+	<Elem NameU="Desktop Computer 2" Name="데스크탑 컴퓨터 2"/>
+	<Elem NameU="High Definition Television" Name="고화질 티비"/>
+	<Elem NameU="Smart Home System Control Host" Name="스마트 홈 시스템 컨트롤 호스트"/>
+	<Elem NameU="Visual Intercom" Name="비주얼 인터콤"/>
+	<Elem NameU="Home Theater" Name="비주얼 인터콤"/>
+	<Elem NameU="Router" Name="라우터"/>
+	<Elem NameU="Smart Home Control 1" Name="스마트홈 컨트롤 1"/>
+	<Elem NameU="Smart Home Control 2" Name="스마트홈 컨트롤 2"/>
+	<Elem NameU="Projector 1" Name="프로젝터1"/>
+	<Elem NameU="Projector 2" Name="프로젝터2"/>
+	<Elem NameU="Bullet Camera" Name="총알 카메라"/>
+	<Elem NameU="Dome Camera" Name="반구형 카메라"/>
+	<Elem NameU="Telephone Set 1" Name="전화기 1"/>
+	<Elem NameU="Telephone Set 2" Name="전화기 2"/>
+	<Elem NameU="Digital Camera" Name="디지털 카메라"/>
+	<Elem NameU="Mobile Phone 1" Name="핸드폰1"/>
+	<Elem NameU="Mobile Phone 2" Name="핸드폰2"/>
+	<Elem NameU="MP4" Name="MP4"/>
+	<Elem NameU="Digital Remote Control" Name="디지털 리모콘"/>
+	<Elem NameU="Remote Control" Name="리모콘"/>
+	<Elem NameU="Touch Remote Control" Name="터치 리모콘"/>
+	<Elem NameU="Loudspeaker" Name="스피커"/>
+	<Elem NameU="Communication Switching Module" Name="통신 스위치 모듈 "/>
+	<Elem NameU="Network Center Switch" Name="네트워크 센터 스위치"/>
+	<Elem NameU="Set-top Box" Name="셋톱 박스"/>
+	<Elem NameU="DVD" Name="DVD"/>
+	<Elem NameU="Telephone Exchange 1" Name="전화 교환1"/>
+	<Elem NameU="Telephone Exchange 2" Name="전화 교환2"/>
+	<Elem NameU="Range Hoods" Name="레인지후드"/>
+	<Elem NameU="Split AC" Name="분리식 에어컨"/>
+	<Elem NameU="Water Heater 1" Name="온수기 1"/>
+	<Elem NameU="Water Heater 2" Name="온수기 2"/>
+	<Elem NameU="Vertical Air Conditioner" Name="스탠드 에어컨"/>
+	<Elem NameU="Smart Refrigerator" Name="스마트 냉장고"/>
+	<Elem NameU="Front-load Washing Machine" Name="프론트로드 세탁기"/>
+	<Elem NameU="Top-load Washing Machine" Name="탑로드 세탁기"/>
+	<Elem NameU="Air Purifier" Name="공기정화기"/>
+	<Elem NameU="Humidifier" Name="가습기"/>
+	<Elem NameU="Vacuum Cleaner" Name="흡진기"/>
+	<Elem NameU="Heater 1" Name="히터 1"/>
+	<Elem NameU="Heater 2" Name="히터 2"/>
+	<Elem NameU="Window AC" Name="에어컨"/>
+	<Elem NameU="Air System" Name="공기 시스템"/>
+	<Elem NameU="Robotic Vacuum Cleaner 1" Name="로봇 흡진기 1"/>
+	<Elem NameU="Robotic Vacuum Cleaner 2" Name="로봇 흡진기 2"/>
+	<Elem NameU="Printer" Name="인쇄기"/>
+	<Elem NameU="Bulb" Name="전구"/>
+	<Elem NameU="Energy-saving bulb" Name="에너지 절약 전구"/>
+	<Elem NameU="Fluorescent Lamp" Name="일광등(관)"/>
+	<Elem NameU="Ceiling Lamp" Name="천장등"/>
+	<Elem NameU="Bedside lamp" Name="침대 램프"/>
+	<Elem NameU="Light Strips" Name="라이트 스트립"/>
+	<Elem NameU="Smart Switches" Name="스마트 스위치"/>
+	<Elem NameU="Switch" Number="2" Name="스위치"/>
+	<Elem NameU="Electronic Doorbell" Name="전자 벨"/>
+	<Elem NameU="Doorbell" Name="벨"/>
+	<Elem NameU="Shower Head" Name="샤워 헤드"/>
+	<Elem NameU="Sprinkler" Name="스프링클러"/>
+	<Elem NameU="Electronic Door Lock" Name="전자 도어락"/>
+	<Elem NameU="Dishwasher" Name="식기 세척기"/>
+	<Elem NameU="Microwave Oven" Name="전자레인지"/>
+	<Elem NameU="Oven" Name="오븐"/>
+	<Elem NameU="Bread Maker" Number="2" Name="제빵기"/>
+	<Elem NameU="Rice Cooker" Name="쿠커"/>
+	<Elem NameU="Electric Kettle 1" Name="전기 주전자1"/>
+	<Elem NameU="Electric Kettle 2" Name="전기 주전자2"/>
+	<Elem NameU="Smart Juicer 1" Name="스마트 주스기 1"/>
+	<Elem NameU="Smart Juicer 2" Name="스마트 주스기 2"/>
+	<Elem NameU="Intelligent Water Dispenser" Name="지능형 워터 디스펜서"/>
+	<Elem NameU="Milk Dispenser" Name="우유 디스펜서"/>
+	<Elem NameU="Coffee Maker" Name="커피기"/>
+	<Elem NameU="Water Purifier" Name="정수기"/>
+	<Elem NameU="Water Dispenser" Name="정수기"/>
+	<Elem NameU="Fan" Name="팬"/>
+	<Elem NameU="Electric Iron" Name="전기 다리미"/>
+	<Elem NameU="Heated Blanket" Name="가열 담요"/>
+	<Elem NameU="Motorized Curtain" Name="자동 커튼"/>
+	<Elem NameU="Sink" Name="싱크대"/>
+	<Elem NameU="Toilet" Name="화장실"/>
+	<Elem NameU="Smart Thermostat" Name="스마트 서모 스탯 "/>
+	<Elem NameU="Electronic Thermometer" Name="온도 측정기"/>
+	<Elem NameU="PM2.5 Detector" Name="PM2.5 검측기"/>
+	<Elem NameU="Blood Pressure Monitor" Name="혈압 모니터"/>
+	<Elem NameU="Smart Power Plugs" Name="스마트 전원 플러그"/>
+	<Elem NameU="Electric Meter" Name="전기 계량기"/>
+	<Elem NameU="Intelligent Water Meter" Name="스마트 수량 계량기"/>
+	<Elem NameU="Water Meter 1" Name="수량 계량기 1"/>
+	<Elem NameU="Water Meter 2" Name="수량 계량기기 2"/>
+	<Elem NameU="Gas meter" Name="가스 측정기"/>
+	<Elem NameU="Fire Detector 1" Name="화재 탐지기 1"/>
+	<Elem NameU="Fire Detector 2" Name="화재 탐지기 2"/>
+	<Elem NameU="Fire Alarm 1" Name="화재 경보기1"/>
+	<Elem NameU="Fire Alarm 2" Name="화재 경보기2"/>
+	<Elem NameU="Fire Bell" Name="화재 경보"/>
+	<Elem NameU="Mailbox 1" Name="메일 박스 1"/>
+	<Elem NameU="Mailbox 2" Name="메일 박스 2"/>
+</Lib>

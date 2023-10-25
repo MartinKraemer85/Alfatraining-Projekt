@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Booch OOD">
+	<Elem NameU="Class Properties" Name="Proprietà Classe"/>
+	<Elem NameU="Class Relationship" Name="Relazione Classe"/>
+	<Elem NameU="Class" Name="Classe"/>
+	<Elem NameU="Instantiated Class" Name="Classe Istanziata"/>
+	<Elem NameU="Visibility Adomment" Name="Visibilità Commento"/>
+	<Elem NameU="Object Relationship" Name="Relazione Oggetto"/>
+	<Elem NameU="Data Flow" Name="Flusso di Dati"/>
+	<Elem NameU="Synchronous" Name="Sincrono"/>
+	<Elem NameU="Simple" Name="Semplice"/>
+	<Elem NameU="Barking" Name="Complesso"/>
+	<Elem NameU="Asynchronous" Name="Asincrono"/>
+	<Elem NameU="Timeout" Name="Timeout"/>
+	<Elem NameU="Processor/Device" Name="Processore/Dispositivo"/>
+	<Elem NameU="State Icon" Name="Icona di Stato"/>
+	<Elem NameU="Main Module" Name="Modulo Principale"/>
+	<Elem NameU="History" Name="Cronologia"/>
+	<Elem NameU="Subsystem Name" Name="Nome Sottosistema"/>
+	<Elem NameU="Module" Name="Modulo"/>
+	<Elem NameU="OIG Object" Name="Oggetto OIG"/>
+	<Elem NameU="Arrow" Name="Freccia"/>
+	<Elem NameU="CRC: Class Card" Name="CRC: Scheda di Classe"/>
+	<Elem NameU="Message" Name="Messaggio"/>
+	<Elem NameU="Reference" Name="Riferimento"/>
+</Lib>

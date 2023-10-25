@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="User Icons">
+
+<Elem Name="ユーザーの追加" NameU="Add User"/>
+
+<Elem Name="ユーザーの削除" NameU="Delete Users"/>
+
+<Elem Name="ユーザーの削除" NameU="Remove User"/>
+
+<Elem Name="管理者" NameU="Administrator"/>
+
+<Elem Name="ユーザーのエクスポート" NameU="Export User"/>
+
+<Elem Name="ユーザーのインポート" NameU="Import User"/>
+
+<Elem Name="ユーザーのダウンロード" NameU="Download User"/>
+
+<Elem Name="ユーザーのアップロード" NameU="Upload User"/>
+
+<Elem Name="インターネットユーザー" NameU="Internet Users"/>
+
+<Elem Name="ユーザーの警告" NameU="Warning User"/>
+
+<Elem Name="ユーザーの編集" NameU="Edit User"/>
+
+<Elem Name="特別なユーザー" NameU="Special User"/>
+
+<Elem Name="ユーザーのロック" NameU="Lock User"/>
+
+<Elem Name="ユーザーのロック解除" NameU="Unlock User"/>
+
+<Elem Name="メールユーザー" NameU="Mail User"/>
+
+<Elem Name="ユーザーパス" NameU="User Pass"/>
+
+<Elem Name="ユーザーの拒絶" NameU="Reject User"/>
+
+<Elem Name="ユーザーを探しています" NameU="Looking for Users"/>
+
+<Elem Name="スターユーザー" NameU="Star User"/>
+
+<Elem Name="ユーザーの読み込み" NameU="Load User"/>
+
+<Elem Name="未知のユーザー" NameU="Unknown User"/>
+
+<Elem Name="Outlookユーザー" NameU="Outlook User"/>
+
+<Elem Name="CSV ファイル" NameU="CSV File"/>
+
+<Elem Name="クラウドユーザー" NameU="Cloud User"/>
+
+<Elem Name="モバイルユーザー" NameU="Mobile Users"/>
+
+<Elem Name="コミュニケーション" NameU="Communication"/>
+
+<Elem Name="UM ユーザー" NameU="UM User"/>
+
+<Elem Name="応答グループ" NameU="Response Group"/>
+
+<Elem Name="テナント管理" NameU="Tenant Management"/>
+
+<Elem Name="役割のグループ化" NameU="Role Grouping"/>
+
+<Elem Name="動的なコミュニケーショングループ" NameU="Dynamic Communication Group"/>
+
+<Elem Name="ユーザー" NameU="User"/>
+
+<Elem Name="ビジネスVoIPユーザー" NameU="Commercial VoIP User"/>
+
+</Lib>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Project Timeline">
+  <Elem NameU="Time Bar" Name="Barra temporale"/>
+  <Elem NameU="Time Bar" Name="Barra temporale"/>
+  <Elem NameU="Time Bar" Name="Barra temporale"/>
+  <Elem NameU="Time Bar" Name="Barra temporale"/>
+  <Elem NameU="Time Bar" Name="Barra temporale"/>
+  <Elem NameU="Time Bar" Name="Barra temporale"/>
+  <Elem NameU="Interval Description" Name="Descrizione dell'intervallo"/>
+  <Elem NameU="Interval Description" Name="Descrizione dell'intervallo"/>
+  <Elem NameU="Interval Description" Name="Descrizione dell'intervallo"/>
+  <Elem NameU="Interval Description" Name="Descrizione dell'intervallo"/>
+  <Elem NameU="Interval Description" Name="Descrizione dell'intervallo"/>
+  <Elem NameU="Point Mission" Name="Missione a punti"/>
+  <Elem NameU="Multi-style Mission" Name="Missione multistile"/>
+  <Elem NameU="Point Mission" Name="Missione a punti"/>
+  <Elem NameU="Point Mission" Name="Missione a punti"/>
+  <Elem NameU="Point Mission" Name="Missione a punti"/>
+  <Elem NameU="Diamond Milestone" Name="Milestore a diamante"/>
+  <Elem NameU="Triangle Milestone 2" Name="Milestone a triangolo 2"/>
+  <Elem NameU="Circle Milestone" Name="Milestone a cerchio"/>
+  <Elem NameU="Rect Milestone" Name="Milestone retta"/>
+  <Elem NameU="Milestone" Name="Milestone"/>
+  <Elem NameU="Flag Milestone" Name="Milestone a bandiera"/>
+  <Elem NameU="Line Milestone" Name="Malestone lineare"/>
+  <Elem NameU="Side Brace" Name="Sostegno laterale"/>
+</Lib>

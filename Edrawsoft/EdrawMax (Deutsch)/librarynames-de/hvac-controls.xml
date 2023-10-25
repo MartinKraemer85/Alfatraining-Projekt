@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="HVAC Controls">
+
+<Elem Name="Zeitgeber" NameU="Timer"/>
+
+<Elem Name="Ebene" NameU="Level"/>
+
+<Elem Name="Rauch" NameU="Smoke"/>
+
+<Elem Name="Ein-/Ausgabeanschluss" NameU="I/O point"/>
+
+<Elem Name="Stellglied" NameU="Actuator"/>
+
+<Elem Name="Temperatursensor" NameU="Temperature Sensor"/>
+
+<Elem Name="Feuchtigkeitssensor" NameU="Humidity Sensor"/>
+
+<Elem Name="Enthalpiesensor" NameU="Enthalpy Sensor"/>
+
+<Elem Name="Drucksensor" NameU="Pressure Sensor"/>
+
+<Elem Name="Durchflusssensor" NameU="Flow Sensor"/>
+
+<Elem Name="Geschwindigkeitssensor" NameU="Velocity Sensor"/>
+
+<Elem Name="Spannungssensor" NameU="Voltage Sensor"/>
+
+<Elem Name="Allgemeiner Sensor" NameU="General Sensor"/>
+
+<Elem Name="Rotationssensor" NameU="Rotation Sensor"/>
+
+<Elem Name="Lichtsensor" NameU="Light Sensor"/>
+
+<Elem Name="Schwingungssensor" NameU="Vibration Sensor"/>
+
+<Elem Name="Stromsensor" NameU="Current Sensor"/>
+
+<Elem Name="Leistungssensor" NameU="Power Sensor"/>
+
+<Elem Name="Luftqualitätssensor" NameU="Air Quality Sensor"/>
+
+<Elem Name="Endschalter" NameU="End Switch"/>
+
+<Elem Name="Netzanschluss" NameU="Power Connection"/>
+
+<Elem Name="Verdrahtungshinweis" NameU="Wiring Note"/>
+
+</Lib>

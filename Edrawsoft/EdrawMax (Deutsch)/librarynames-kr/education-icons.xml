@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Education Icons">
+    <Elem NameU="Newspaper" Name="신문"/>
+    <Elem NameU="Algorithm" Name="알고리즘"/>
+    <Elem NameU="English Letters" Name="영어문자"/>
+    <Elem NameU="Planetary Motion" Name="행성 운동"/>
+    <Elem NameU="Flask" Name="플라스크"/>
+    <Elem NameU="Cell" Name="세포"/>
+    <Elem NameU="Microscope" Name="현미경"/>
+    <Elem NameU="Globe" Name="지구본"/>
+    <Elem NameU="Notebook" Name="노트북"/>
+    <Elem NameU="History" Name="역사"/>
+    <Elem NameU="Dance" Name="댄스"/>
+    <Elem NameU="Discussion" Name="토론"/>
+    <Elem NameU="Psychology" Name="심리학"/>
+    <Elem NameU="Graduate" Name="졸업생"/>
+    <Elem NameU="Brush Pot" Name="브러시 냄비"/>
+    <Elem NameU="Book" Name="책"/>
+    <Elem NameU="School Bag" Name="백팩"/>
+    <Elem NameU="Open Book" Name="책 열기"/>
+    <Elem NameU="Automatic Pencil" Name="자동 연필"/>
+    <Elem NameU="Paint Box" Name="물감"/>
+    <Elem NameU="Chinese Brush" Name="붓"/>
+    <Elem NameU="Eraser" Name="지우개"/>
+    <Elem NameU="Compasses" Name="컴퍼스"/>
+    <Elem NameU="Glasses" Name="안경"/>
+    <Elem NameU="Blackboard" Name="블랙 보드"/>
+    <Elem NameU="Trencher Cap" Name="학사모"/>
+    <Elem NameU="Testimonials" Name="추천 편지"/>
+    <Elem NameU="School Bus" Name="스쿨 버스"/>
+    <Elem NameU="Glue" Name="접착제"/>
+</Lib>

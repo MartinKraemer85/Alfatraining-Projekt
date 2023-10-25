@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="AWS Business Applications">
+	<Elem NameU="Alexa-For-Business" Name="商业Alexa"/>
+	<Elem NameU="Business-Applications" Name="业务应用"/>
+	<Elem NameU="Chime" Name="风铃"/>
+	<Elem NameU="WorkMail" Name="工作邮件"/>
+</Lib>

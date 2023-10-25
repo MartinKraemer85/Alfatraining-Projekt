@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Alibaba Cloud IOT">
+    <Elem NameU="IOT iotid" Name="IOT设备身份认证"/>
+    <Elem NameU="IOT platform" Name="物联网平台"/>
+    <Elem NameU="IOV cloud platform" Name="智联车管理云平台"/>
+    <Elem NameU="Linking management platform" Name="物联网管理平台"/>
+    <Elem NameU="Smart living link" Name="智能生活开放平台"/>
+</Lib>

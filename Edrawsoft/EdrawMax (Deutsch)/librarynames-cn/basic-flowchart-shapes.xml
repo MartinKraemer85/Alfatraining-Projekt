@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Basic Flowchart Shapes">
+    <Elem NameU="Process" Number="2" Name="流程"/>
+    <Elem NameU="Decision" Name="判定"/>
+    <Elem NameU="Document" Name="文档"/>
+    <Elem NameU="Data" Name="数据"/>
+    <Elem NameU="Start or Terminator" Name="开始或结束"/>
+    <Elem NameU="Sub Process" Name="子流程"/>
+    <Elem NameU="Predefined Process" Name="预定义流程"/>
+    <Elem NameU="Start" Number="2" Name="开始"/>
+    <Elem NameU="People" Number="2" Name="人"/>
+    <Elem NameU="Yes or No" Name="是或否"/>
+    <Elem NameU="Database" Name="数据库"/>
+    <Elem NameU="Stored Data" Name="存储数据"/>
+    <Elem NameU="Internal Storage" Name="内部存储器"/>
+    <Elem NameU="Sequential Data" Name="顺序数据"/>
+    <Elem NameU="Direct Data" Name="直接数据"/>
+    <Elem NameU="Manual Input" Name="手动输入"/>
+    <Elem NameU="Card" Name="卡"/>
+    <Elem NameU="Paper Tape" Name="纸带"/>
+    <Elem NameU="Delay" Name="推迟"/>
+    <Elem NameU="Display" Name="显示内容"/>
+    <Elem NameU="Manual Operation" Name="手动操作"/>
+    <Elem NameU="Preparation" Name="准备"/>
+    <Elem NameU="Parallel Mode" Name="并行模式"/>
+    <Elem NameU="Loop Limit" Name="循环界限"/>
+    <Elem NameU="Terminator" Name="终结符"/>
+    <Elem NameU="On-page Reference" Name="页面内引用"/>
+    <Elem NameU="Off-page Reference" Name="跨页引用"/>
+    <Elem NameU="Control Transfer" Name="控制传递"/>
+    <Elem NameU="Annotation" Name="批注"/>
+    <Elem NameU="Curved Connector" Name="曲线链接线"/>
+	<Elem NameU="Open Brace, Open Curly" Name="左大括号"/>
+	<Elem NameU="Close Brace, Close Curly" Name="右大括号"/>
+</Lib>

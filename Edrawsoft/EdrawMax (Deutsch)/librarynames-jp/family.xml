@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib nameU="Family">
+	<Elem NameU="Father" Name="父"/>
+	<Elem NameU="Mother" Name="母"/>
+	<Elem NameU="Grandfather" Name="祖父"/>
+	<Elem NameU="Grandmother" Name="祖母"/>
+	<Elem NameU="Uncle" Name="おじさん"/>
+	<Elem NameU="Aunt" Name="おばさん"/>
+	<Elem NameU="Son 1" Name="息子 1"/>
+	<Elem NameU="Son 2" Name="息子 2"/>
+	<Elem NameU="Daughter 1" Name="娘 1"/>
+	<Elem NameU="Daughter 2" Name="娘 2"/>
+	<Elem NameU="Baby" Name="赤ちゃん"/>
+	<Elem NameU="Wedding Couple" Name="新郎新婦"/>
+	<Elem NameU="Father and Mother" Name="父と母"/>
+	<Elem NameU="Grandparents" Name="祖父母"/>
+	<Elem NameU="Parents and Kids" Name="親子"/>
+	<Elem NameU="Mother,Baby and Stroller" Name="母、赤ちゃんとベビーカー"/>
+	<Elem NameU="Parents and Kids 2" Name="親子 2"/>
+	<Elem NameU="Grandfather, Father and Son" Name="祖父、父と息子"/>
+	<Elem NameU="Father and Son" Name="父と息子"/>
+	<Elem NameU="Parents and Daughter" Name="親と娘"/>
+	<Elem NameU="Sisters" Name="姉妹"/>
+	<Elem NameU="Brother and Sister" Name="兄と妹"/>
+	<Elem NameU="Sister and Brother" Name="姉と弟"/>
+	<Elem NameU="Brothers" Name="兄弟"/>
+	<Elem NameU="Father and Uncle" Name="父と叔父"/>
+	<Elem NameU="Father and Kids" Name="父と子供"/>
+	<Elem NameU="Mother and Kids" Name="母と子供"/>
+	<Elem NameU="Uncle and Aunt" Name="おじさんとおばさん"/>
+	<Elem NameU="Grandmother and Granddaughter" Name="祖母と孫娘"/>
+	<Elem NameU="Grandfather and Grandson" Name="祖父と孫"/>
+	<Elem NameU="Grandmother, Mother and Daughter" Name="祖母、母と娘"/>
+	<Elem NameU="Parents and Kids 3" Name="親子 3"/>
+	<Elem NameU="Family Group 1" Name="家族 1"/>
+	<Elem NameU="Family Group 2" Name="家族 2"/>
+</Lib>

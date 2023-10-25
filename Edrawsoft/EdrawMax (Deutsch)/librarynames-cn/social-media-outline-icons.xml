@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Social Media Outline Icons">
+    <Elem NameU="500px 1" Name="500像素 1"/>
+    <Elem NameU="Android 1" Name="安卓 1"/>
+    <Elem NameU="Apple 1" Name="苹果 1"/>
+    <Elem NameU="Apple store" Name="苹果商店"/>
+    <Elem NameU="Baidu" Name="百度"/>
+    <Elem NameU="Behance" Name="彼罕思"/>
+    <Elem NameU="Buffer" Name="缓冲器"/>
+    <Elem NameU="Blogger" Name="博客"/>
+    <Elem NameU="Codepen" Name="代码笔"/>
+    <Elem NameU="Creative Market" Name="创意市场"/>
+    <Elem NameU="Delicious" Name="美味书签"/>
+    <Elem NameU="Digg" Name="掘客网"/>
+    <Elem NameU="Douban" Name="豆瓣"/>
+    <Elem NameU="DeviantArt" Name="非正常艺术"/>
+    <Elem NameU="Dribbble" Name="追波网"/>
+    <Elem NameU="Dropbox" Name="坚果云"/>
+    <Elem NameU="Ebay" Name="易贝"/>
+    <Elem NameU="Envato" Name="资源下载"/>
+    <Elem NameU="Evernote" Name="印象笔记"/>
+    <Elem NameU="Facebook" Name="脸书"/>
+    <Elem NameU="Facetime" Name="视频通话"/>
+    <Elem NameU="Feedly" Name="谷歌阅读器"/>
+    <Elem NameU="Flickr" Name="网络相簿"/>
+    <Elem NameU="Gmail" Name="谷歌邮箱"/>
+    <Elem NameU="Github" Name="饭桶中心"/>
+    <Elem NameU="Google Plus" Name="Google Plus"/>
+    <Elem NameU="Instagram" Name="照片墙"/>
+    <Elem NameU="Last fm" Name="最后的调频"/>
+    <Elem NameU="Line" Name="连我"/>
+    <Elem NameU="Linkedin" Name="领英"/>
+    <Elem NameU="Linux" Name="Linux"/>
+    <Elem NameU="Myspace" Name="集友网"/>
+    <Elem NameU="Music" Name="音乐"/>
+    <Elem NameU="Paypal" Name="贝宝"/>
+    <Elem NameU="Periscope" Name="潜望镜"/>
+    <Elem NameU="Pinterest" Name="品趣思"/>
+    <Elem NameU="Product Hunt - square" Name="Product Hunt - square"/>
+    <Elem NameU="Quora" Name="果壳问答网站"/>
+    <Elem NameU="QQ" Name="腾讯即时聊天工具"/>
+    <Elem NameU="Qzone" Name="QQ空间"/>
+    <Elem NameU="Reddit" Name="红迪网"/>
+    <Elem NameU="Renren" Name="人人网"/>
+    <Elem NameU="Shopify 1" Name="独立站 1"/>
+    <Elem NameU="Spotify 2" Name="声田 2"/>
+    <Elem NameU="RSS" Name="简易信息聚合"/>
+    <Elem NameU="Sina" Name="新浪"/>
+    <Elem NameU="Sina weibo" Name="新浪微博"/>
+    <Elem NameU="Skype" Name="因特网通话软件"/>
+    <Elem NameU="SlideShare" Name="幻灯片共享"/>
+    <Elem NameU="Snapchat" Name="色拉布"/>
+    <Elem NameU="SoundCloud" Name="声云"/>
+    <Elem NameU="StumbleUpon" Name="StumbleUpon"/>
+    <Elem NameU="Talk" Name="通话应用程序"/>
+    <Elem NameU="TaoBao" Name="淘宝"/>
+    <Elem NameU="TED" Name="TED"/>
+    <Elem NameU="Trello" Name="日程管理"/>
+    <Elem NameU="Tudou" Name="土豆"/>
+    <Elem NameU="Tumblr" Name="汤博乐"/>
+    <Elem NameU="Twitter" Name="推特"/>
+    <Elem NameU="Viber" Name="维伯"/>
+    <Elem NameU="Vimeo" Name="Vimeo（视频媒体）"/>
+    <Elem NameU="Vine" Name="Vine"/>
+    <Elem NameU="WeChat" Name="微信"/>
+    <Elem NameU="WhatsApp" Name="瓦次艾普"/>
+    <Elem NameU="Windows" Name="视窗操作系统"/>
+    <Elem NameU="Windows store" Name="Windows 商店"/>
+    <Elem NameU="Wordpress" Name="内容管理系统"/>
+    <Elem NameU="Yahoo" Name="雅虎"/>
+    <Elem NameU="Yelp" Name="Yelp"/>
+    <Elem NameU="Youtube" Name="油管"/>
+    <Elem NameU="500px 2" Name="500像素 2"/>
+    <Elem NameU="Android 2" Name="安卓 2"/>
+    <Elem NameU="Apple 2" Name="苹果 2"/>
+    <Elem NameU="Apple store" Name="苹果商店"/>
+    <Elem NameU="Baidu" Name="百度"/>
+    <Elem NameU="Behance" Name="彼罕思"/>
+    <Elem NameU="Blogger" Name="博客"/>
+    <Elem NameU="Buffer" Name="缓冲器"/>
+    <Elem NameU="Creative Market" Name="创意市场"/>
+    <Elem NameU="Codepen" Name="代码笔"/>
+    <Elem NameU="Delicious" Name="美味书签"/>
+    <Elem NameU="DeviantArt" Name="非正常艺术"/>
+    <Elem NameU="Digg" Name="掘客网"/>
+    <Elem NameU="Douban" Name="豆瓣"/>
+    <Elem NameU="Dribbble" Name="追波网"/>
+    <Elem NameU="Dropbox" Name="坚果云"/>
+    <Elem NameU="Ebay" Name="易贝"/>
+    <Elem NameU="Envato" Name="资源下载"/>
+    <Elem NameU="Evernote" Name="印象笔记"/>
+    <Elem NameU="Facebook" Name="脸书"/>
+    <Elem NameU="Facetime" Name="视频通话"/>
+    <Elem NameU="Feedly" Name="谷歌阅读器"/>
+    <Elem NameU="Flickr" Name="网络相簿"/>
+    <Elem NameU="Github" Name="饭桶中心"/>
+    <Elem NameU="Gmail" Name="谷歌邮箱"/>
+    <Elem NameU="Google Plus" Name="Google Plus"/>
+    <Elem NameU="Instagram" Name="照片墙"/>
+    <Elem NameU="Last fm" Name="最后的调频"/>
+    <Elem NameU="Line" Name="连我"/>
+    <Elem NameU="Linkedin" Name="领英"/>
+    <Elem NameU="Linux" Name="Linux"/>
+    <Elem NameU="Myspace" Name="集友网"/>
+    <Elem NameU="Music" Name="音乐"/>
+    <Elem NameU="Paypal" Name="贝宝"/>
+    <Elem NameU="Periscope" Name="潜望镜"/>
+    <Elem NameU="Pinterest" Name="品趣思"/>
+    <Elem NameU="Product Hunt" Name="Product Hunt&#x9;"/>
+    <Elem NameU="Quora" Name="果壳问答网站"/>
+    <Elem NameU="QQ" Name="腾讯即时聊天工具"/>
+    <Elem NameU="Qzone" Name="QQ空间"/>
+    <Elem NameU="Reddit" Name="红迪网"/>
+    <Elem NameU="Renren" Name="人人网"/>
+    <Elem NameU="RSS" Name="简易信息聚合"/>
+    <Elem NameU="Shopify" Name="独立站"/>
+    <Elem NameU="Sina" Name="新浪"/>
+    <Elem NameU="Sina weibo" Name="新浪微博"/>
+    <Elem NameU="Skype" Name="因特网通话软件"/>
+    <Elem NameU="SlideShare" Name="幻灯片共享"/>
+    <Elem NameU="Snapchat" Name="色拉布"/>
+    <Elem NameU="Spotify" Name="声田"/>
+    <Elem NameU="SoundCloud" Name="声云"/>
+    <Elem NameU="Trello" Name="日程管理"/>
+    <Elem NameU="StumbleUpon" Name="StumbleUpon"/>
+    <Elem NameU="Talk" Name="通话应用程序"/>
+    <Elem NameU="TaoBao" Name="淘宝"/>
+    <Elem NameU="TED" Name="TED"/>
+    <Elem NameU="Tudou" Name="土豆"/>
+    <Elem NameU="Tumblr" Name="汤博乐"/>
+    <Elem NameU="Twitter" Name="推特"/>
+    <Elem NameU="Viber" Name="维伯"/>
+    <Elem NameU="Vimeo" Name="Vimeo（视频媒体）"/>
+    <Elem NameU="Vine" Name="Vine"/>
+    <Elem NameU="WeChat" Name="微信"/>
+    <Elem NameU="WhatsApp" Name="瓦次艾普"/>
+    <Elem NameU="Windows" Name="视窗操作系统"/>
+    <Elem NameU="Windows store" Name="Windows 商店"/>
+    <Elem NameU="Wordpress" Name="内容管理系统"/>
+    <Elem NameU="Yahoo" Name="雅虎"/>
+    <Elem NameU="Yelp" Name="Yelp"/>
+    <Elem NameU="Youtube" Name="油管"/>
+    <Elem NameU="500px" Name="500像素 "/>
+    <Elem NameU="Android" Name="安卓 "/>
+    <Elem NameU="Apple" Name="苹果"/>
+    <Elem NameU="Apple store" Name="苹果商店"/>
+    <Elem NameU="Baidu" Name="百度"/>
+    <Elem NameU="Behance" Name="彼罕思"/>
+    <Elem NameU="Blogger" Name="博客"/>
+    <Elem NameU="Buffer" Name="缓冲器"/>
+    <Elem NameU="Creative Market" Name="创意市场"/>
+    <Elem NameU="Codepen" Name="代码笔"/>
+    <Elem NameU="Delicious" Name="美味书签"/>
+    <Elem NameU="DeviantArt" Name="非正常艺术"/>
+    <Elem NameU="Digg" Name="掘客网"/>
+    <Elem NameU="Douban" Name="豆瓣"/>
+    <Elem NameU="Dribbble" Name="追波网"/>
+    <Elem NameU="Dropbox" Name="坚果云"/>
+    <Elem NameU="Ebay" Name="易贝"/>
+    <Elem NameU="Envato" Name="资源下载"/>
+    <Elem NameU="Evernote" Name="印象笔记"/>
+    <Elem NameU="Facebook - square" Name="脸书 -square"/>
+    <Elem NameU="Facetime" Name="视频通话"/>
+    <Elem NameU="Feedly" Name="谷歌阅读器"/>
+    <Elem NameU="Flickr" Name="网络相簿"/>
+    <Elem NameU="Github" Name="饭桶中心"/>
+    <Elem NameU="Gmail" Name="谷歌邮箱"/>
+    <Elem NameU="Google" Name="谷歌"/>
+    <Elem NameU="Google Plus" Name="Google Plus"/>
+    <Elem NameU="Instagram" Name="照片墙"/>
+    <Elem NameU="Last fm" Name="最后的调频"/>
+    <Elem NameU="Line" Name="连我"/>
+    <Elem NameU="Linkedin" Name="领英"/>
+    <Elem NameU="Linux" Name="Linux"/>
+    <Elem NameU="Myspace" Name="集友网"/>
+    <Elem NameU="Music" Name="音乐"/>
+    <Elem NameU="Papal" Name="贝宝"/>
+    <Elem NameU="Periscope" Name="潜望镜"/>
+    <Elem NameU="Pinterest" Name="品趣思"/>
+    <Elem NameU="Product Hunt" Name="Product Hunt&#x9;"/>
+    <Elem NameU="Quora" Name="果壳问答网站"/>
+    <Elem NameU="QQ" Name="腾讯即时聊天工具"/>
+    <Elem NameU="Qzone" Name="QQ空间"/>
+    <Elem NameU="Reddit" Name="红迪网"/>
+    <Elem NameU="Renren" Name="人人网"/>
+    <Elem NameU="RSS" Name="简易信息聚合"/>
+    <Elem NameU="Shopify" Name="独立站"/>
+    <Elem NameU="Spotify" Name="声田"/>
+    <Elem NameU="Sina" Number="2" Name="新浪"/>
+    <Elem NameU="Skype" Name="因特网通话软件"/>
+    <Elem NameU="SlideShare" Name="幻灯片共享"/>
+    <Elem NameU="Snapchat" Name="色拉布"/>
+    <Elem NameU="SoundCloud" Name="声云"/>
+    <Elem NameU="StumbleUpon" Name="StumbleUpon"/>
+    <Elem NameU="Trello - square" Name="日程管理-square"/>
+    <Elem NameU="Talk" Name="通话应用程序"/>
+    <Elem NameU="TaoBao" Name="淘宝"/>
+    <Elem NameU="TED" Name="TED"/>
+    <Elem NameU="Tudou" Name="土豆"/>
+    <Elem NameU="Tumblr - square" Name="汤博乐-square"/>
+    <Elem NameU="Twitter" Name="推特"/>
+    <Elem NameU="Viber" Name="维伯"/>
+    <Elem NameU="Vimeo" Name="Vimeo（视频媒体）"/>
+    <Elem NameU="Vine" Name="Vine"/>
+    <Elem NameU="WeChat" Name="微信"/>
+    <Elem NameU="WhatsApp" Name="瓦次艾普"/>
+    <Elem NameU="Windows" Name="视窗操作系统"/>
+    <Elem NameU="Windows store" Name="Windows 商店"/>
+    <Elem NameU="Wordpress 1" Name="内容管理系统 1"/>
+    <Elem NameU="Wordpress 2" Name="内容管理系统 2"/>
+    <Elem NameU="Yahoo" Name="雅虎"/>
+    <Elem NameU="Yelp" Name="Yelp"/>
+    <Elem NameU="Youtube" Name="油管"/>
+</Lib>

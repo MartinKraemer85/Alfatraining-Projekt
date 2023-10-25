@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Marketing">
+    <Elem NameU="Marketing mix" Name="市场营销组合"/>
+    <Elem NameU="Marketing planning" Name="营销规划"/>
+    <Elem NameU="Content production" Name="内容制作"/>
+    <Elem NameU="Currency conversion" Name="货币兑换"/>
+    <Elem NameU="Data analysis" Name="数据分析"/>
+    <Elem NameU="The statistical figure" Name="统计图"/>
+    <Elem NameU="Loyalty program" Name="忠诚计划"/>
+    <Elem NameU="Internet marketing" Name="互联网营销"/>
+    <Elem NameU="Advertising" Name="广告"/>
+    <Elem NameU="Geo Targeting" Name="地域定向"/>
+    <Elem NameU="Email marketing" Name="邮件营销"/>
+    <Elem NameU="Creative marketing" Name="创意营销"/>
+    <Elem NameU="Direct mail marketing" Name="直邮营销"/>
+    <Elem NameU="Data Marketing" Name="数据营销"/>
+    <Elem NameU="Marketing automation" Name="营销自动化"/>
+    <Elem NameU="Promotion" Name="宣传"/>
+    <Elem NameU="Mobile marketing" Name="移动营销"/>
+    <Elem NameU="Market Monitoring" Name="市场监测"/>
+    <Elem NameU="Target audience" Name="目标受众"/>
+    <Elem NameU="Telemarketing" Name="电话营销"/>
+    <Elem NameU="Training" Name="培训"/>
+    <Elem NameU="Webinars" Name="网路营销会"/>
+    <Elem NameU="Web support" Name="网络支持"/>
+    <Elem NameU="Online PR" Name="网络公关"/>
+    <Elem NameU="Marketing strategy" Name="营销策略"/>
+    <Elem NameU="Affliate marketing" Name="联盟营销"/>
+    <Elem NameU="Search engine optimization" Name="搜索引擎优化"/>
+    <Elem NameU="Customer personal development" Name="客户人格发展"/>
+    <Elem NameU="Customer relationship management" Name="客户关系管理"/>
+    <Elem NameU="Social media marketing" Name="社交媒体营销"/>
+    <Elem NameU="Sales" Name="销售"/>
+</Lib>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Profession">
+	<Elem NameU="Priest" Name="Prete"/>
+	<Elem NameU="Judge" Name="Giudice"/>
+	<Elem NameU="Lawyer"  Name="Legale"/>
+	<Elem NameU="Policeman"  Name="Poliziotto"/>
+	<Elem NameU="Teacher"  Name="Insegnante"/>
+	<Elem NameU="Professor" Name="Professore"/>
+	<Elem NameU="Student"  Name="Studente"/>
+	<Elem NameU="Scholar" Name="Studioso"/>
+	<Elem NameU="Businessman" Name="Uomo d'Affari"/>
+	<Elem NameU="Manager" Name="Manager"/>
+	<Elem NameU="Secretary" Name="Segretario"/>
+	<Elem NameU="Businesswoman" Name="Donna d'Affari"/>
+	<Elem NameU="Programmer" Name="Programmatore"/>
+	<Elem NameU="Artist" Name="Artista"/>
+	<Elem NameU="Musician" Name="Musicista"/>
+	<Elem NameU="Writer" Name="Scrittore"/>
+	<Elem NameU="Nurse" Name="Infermiere"/>
+	<Elem NameU="Dentist" Name="Dentista"/>
+	<Elem NameU="Chef" Name="Chef"/>
+	<Elem NameU="Waiter" Name="Cameriere"/>
+	<Elem NameU="Orator" Name="Oratore"/>
+	<Elem NameU="Male Engineer" Name="Ingegnere"/>
+	<Elem NameU="Female Engineer" Name="Ingegnere donna"/>
+	<Elem NameU="Consultant" Name="Consulente"/>
+	<Elem NameU="Accountant" Name="Contabile"/>
+	<Elem NameU="Hairdresser" Name="Parrucchiere"/>
+</Lib>

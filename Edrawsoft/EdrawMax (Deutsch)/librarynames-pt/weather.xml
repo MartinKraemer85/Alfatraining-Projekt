@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Weather">
+	<Elem NameU="Sunny" Name="Solarengo"/>
+	<Elem NameU="Cloudy" Name="Nublado"/>
+	<Elem NameU="Overcast" Name="Encoberto"/>
+	<Elem NameU="Rainy" Name="Chuvoso"/>
+	<Elem NameU="Drizzle" Name="Chuvisco"/>
+	<Elem NameU="Snowy" Name="Nevoso"/>
+	<Elem NameU="Heavy Snow" Name="Neve Pesado"/>
+	<Elem NameU="Sleet" Name="Granizo"/>
+	<Elem NameU="Hailstone" Name="Granizo"/>
+	<Elem NameU="Hailstone and Snow" Name="Granizo e Neve"/>
+	<Elem NameU="Thunderstorm" Name="Trovoada"/>
+	<Elem NameU="Thunder" Name="Trovão"/>
+	<Elem NameU="Snow and Thunder" Name="Neve e Trovão"/>
+	<Elem NameU="Thunderstorm and Hailstone" Name="Trovoada e Granizo"/>
+	<Elem NameU="Showery Rain" Name="Chuva Pesada"/>
+	<Elem NameU="Showery Snow" Name="Neve Chuvosa"/>
+	<Elem NameU="Clear to Cloudy" Name="Limpo para Nublado"/>
+	<Elem NameU="Foggy and Sun" Name="Nevoeiro e Sol"/>
+	<Elem NameU="Foggy 1" Name="Nevoeiro 1"/>
+	<Elem NameU="Foggy 2" Name="Nevoeiro 2"/>
+	<Elem NameU="Tornado" Name="Tornado"/>
+	<Elem NameU="Windy" Name="Ventoso"/>
+	<Elem NameU="Windy and Dusty" Name="Ventoso e Poeirento"/>
+	<Elem NameU="Floating Dust" Name="Pó Flutuante"/>
+	<Elem NameU="Wind Vane" Name="Cata Vento"/>
+	<Elem NameU="Dust Tester" Name="Testador de Pó"/>
+	<Elem NameU="Rainbow Cloudy" Name="Arco-íris Nublado"/>
+	<Elem NameU="Rainbow Rainy" Name="Rainbow Chuvoso"/>
+	<Elem NameU="Clear at Night" Name="Limpo à Noite"/>
+	<Elem NameU="Cloudy at Night" Name="Nublado à Noite"/>
+	<Elem NameU="Overcast at Night" Name="Encoberto à Noite"/>
+	<Elem NameU="Rainy at Night" Name="Chuvoso à Noite"/>
+	<Elem NameU="Heavy Rain at Night" Name="Chuva Pesada à Noite"/>
+	<Elem NameU="Heavy Snow at Night" Name="Neve Pesada à Noite "/>
+	<Elem NameU="Snowy at Night" Name="Nevoso à Noite"/>
+	<Elem NameU="Thunderstorm at Night" Name="Trovoada à Noite"/>
+	<Elem NameU="Thunder at Night" Name="Trovão à Noite"/>
+	<Elem NameU="Sleet at Night" Name="Granizo à Noite"/>
+	<Elem NameU="Foggy at Night" Name="Nevoeiro à Noite"/>
+	<Elem NameU="Tornado at Night" Name="Tornado de Noite"/>
+	<Elem NameU="Hailstone at Night" Name="Granizo de Noite"/>
+</Lib>

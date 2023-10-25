@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Fashion Items">
+    <Elem NameU="Women Bag 1" Name="女士包 1"/>
+    <Elem NameU="Women Bag 2" Name="女士包 2"/>
+    <Elem NameU="Women Bag 3" Name="女士包 3"/>
+    <Elem NameU="Women Bag 4" Name="女士包 4"/>
+    <Elem NameU="Women Bag 5" Name="女士包 5"/>
+    <Elem NameU="Women Bag 6" Name="女士包 6"/>
+    <Elem NameU="Women Bag 8" Name="女士包 8"/>
+    <Elem NameU="Women Bag 7" Name="女士包 7"/>
+    <Elem NameU="Backpack" Name="双肩背包"/>
+    <Elem NameU="Purse 1" Name="手提袋 1"/>
+    <Elem NameU="Purse 2" Name="手提袋 2"/>
+    <Elem NameU="Men Purse" Name="男士手提袋"/>
+    <Elem NameU="Men Bag 1" Name="男士包 1"/>
+    <Elem NameU="Men Bag 2" Name="男士包 2"/>
+    <Elem NameU="Travelling Bag 1" Name="旅行包 1"/>
+    <Elem NameU="Travelling Bag 2" Name="旅行包 2"/>
+    <Elem NameU="Cap 1" Name="帽子 1"/>
+    <Elem NameU="Cap 2" Name="帽子 2"/>
+    <Elem NameU="Cap 3" Name="帽子 3"/>
+    <Elem NameU="Cap 4" Name="帽子 4"/>
+    <Elem NameU="Cap 5" Name="帽子 5"/>
+    <Elem NameU="Cap 6" Name="帽子 6"/>
+    <Elem NameU="Cap 7" Name="帽子 7"/>
+    <Elem NameU="Cap 8" Name="帽子 8"/>
+    <Elem NameU="Cap 9" Name="帽子 9"/>
+    <Elem NameU="Cap 10" Name="帽子 10"/>
+    <Elem NameU="Cap 11" Name="帽子 11"/>
+    <Elem NameU="glasses 1" Name="眼镜 1"/>
+    <Elem NameU="glasses 2" Name="眼镜 2"/>
+    <Elem NameU="glasses 3" Name="眼镜 3"/>
+    <Elem NameU="glasses 4" Name="眼镜 4"/>
+    <Elem NameU="Ring 1" Name="戒指 1"/>
+    <Elem NameU="Ring 2" Name="戒指 2"/>
+    <Elem NameU="Ring 3" Name="戒指 3"/>
+    <Elem NameU="Earrings 1" Name="耳环 1"/>
+    <Elem NameU="Earrings 2" Name="耳环 2"/>
+    <Elem NameU="Earrings 3" Name="耳环 3"/>
+    <Elem NameU="Earrings 4" Name="耳环 4"/>
+    <Elem NameU="Earrings 5" Name="耳环 5"/>
+    <Elem NameU="Earrings 6" Name="耳环 6"/>
+    <Elem NameU="Earrings 7" Name="耳环 7"/>
+    <Elem NameU="Earrings 8" Name="耳环 8"/>
+    <Elem NameU="Earrings 9" Name="耳环 9"/>
+    <Elem NameU="Earrings 10" Name="耳环 10"/>
+    <Elem NameU="Earrings 11" Name="耳环 11"/>
+    <Elem NameU="Earrings 12" Name="耳环 12"/>
+    <Elem NameU="Earrings 13" Name="耳环 13"/>
+    <Elem NameU="Earrings 14" Name="耳环 14"/>
+    <Elem NameU="Earrings 15" Name="耳环 15"/>
+    <Elem NameU="Earrings 16" Name="耳环 16"/>
+    <Elem NameU="Earrings 17" Name="耳环 17"/>
+    <Elem NameU="Necklace 1" Name="项链 1"/>
+    <Elem NameU="Necklace 2" Name="项链 2"/>
+    <Elem NameU="Necklace 3" Name="项链 3"/>
+    <Elem NameU="Bracelet 1" Name="项链 1"/>
+    <Elem NameU="Bracelet 2" Name="项链 2"/>
+    <Elem NameU="Brooch 1" Name="胸针 1"/>
+    <Elem NameU="Brooch 2" Name="胸针 2"/>
+    <Elem NameU="Brooch 3" Name="胸针 3"/>
+    <Elem NameU="Accessories 1" Name="配饰 1"/>
+    <Elem NameU="Accessories 2" Name="配饰 2"/>
+    <Elem NameU="Scarves" Name="围巾"/>
+    <Elem NameU="Watch 1" Name="手表 1"/>
+    <Elem NameU="Watch 2" Name="手表 2"/>
+    <Elem NameU="Watch 3" Name="手表 3"/>
+    <Elem NameU="Watch 4" Name="手表 4"/>
+    <Elem NameU="Watch 5" Name="手表 5"/>
+    <Elem NameU="Scarf" Name="围巾"/>
+    <Elem NameU="Tie 1" Name="领带 1"/>
+    <Elem NameU="Tie 2" Name="领带 2"/>
+    <Elem NameU="Tie 3" Name="领带 3"/>
+    <Elem NameU="Lipstick" Name="口红"/>
+    <Elem NameU="Eyebrow pencil" Name="眉笔"/>
+    <Elem NameU="Liquid eyeliner" Name="眼线液"/>
+    <Elem NameU="Cosmetic Brush 1" Name="化妆刷 1"/>
+    <Elem NameU="Cosmetic Brush 2" Name="化妆刷2"/>
+    <Elem NameU="Mascara" Name="睫毛膏"/>
+    <Elem NameU="Perfume 1" Name="香水 1"/>
+    <Elem NameU="Perfume 2" Name="香水 2"/>
+    <Elem NameU="Perfume 3" Name="香水 3"/>
+    <Elem NameU="Facial Cleanser" Name="洗面奶"/>
+    <Elem NameU="Skin Care" Name="护肤品"/>
+    <Elem NameU="Body Wash" Name="沐浴露"/>
+    <Elem NameU="Shampoo 1" Name="洗发水 1"/>
+    <Elem NameU="Shampoo 2" Name="洗发水 2"/>
+    <Elem NameU="Leather belt" Name="皮带"/>
+    <Elem NameU="wig 1" Name="假发 1"/>
+    <Elem NameU="wig 2" Name="假发 2"/>
+    <Elem NameU="wig 3" Name="假发 3"/>
+    <Elem NameU="Curling Comb" Name="卷发梳"/>
+    <Elem NameU="Comb 2" Name="梳子 2"/>
+    <Elem NameU="Blower 1" Name="吹风机 1"/>
+    <Elem NameU="Blower 2" Name="吹风机 2"/>
+    <Elem NameU="Manicure 1" Name="美甲 1"/>
+    <Elem NameU="Manicure 2" Name="美甲 2"/>
+    <Elem NameU="Manicure 3" Name="美甲 3"/>
+</Lib>

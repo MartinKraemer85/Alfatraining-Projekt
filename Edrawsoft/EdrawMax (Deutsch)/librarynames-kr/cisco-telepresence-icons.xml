@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Cisco Telepresence Icons">
+    <Elem NameU="Personal Telepresence Endpoint" Name="개인 원거리 영상 회의 엔드포인트 "/>
+    <Elem NameU="Telepresence Endpoint" Name="원거리 영상 회의 엔드포인트"/>
+    <Elem NameU="Telepresence Endpoint With Twin Data Display" Name="트윈 데이터 디스플레이가 있는 원거리 영상회의 엔드포인트"/>
+    <Elem NameU="Telepresence Endpoint With Twin Data Display.4" Name="트윈 데이터 디스플레이가 있는 원거리 영상회의 엔드포인트.4"/>
+    <Elem NameU="Laptop Video Client" Name="노트북 비디오 클라이언트"/>
+    <Elem NameU="Video IP Phone" Name="비디오 IP 전화"/>
+    <Elem NameU="Non-Video IP Phone" Name="음성 IP 전화"/>
+    <Elem NameU="Primary Codec" Name="기본 코덱"/>
+    <Elem NameU="Secondary Codec" Name="보조 코덱"/>
+    <Elem NameU="Video Call Server" Name="영상 통화 서버"/>
+    <Elem NameU="Unified Communications Server" Name="통합 커뮤니케이션 서버"/>
+    <Elem NameU="Meeting Scheduling and Management Server" Name="회의 일정 및 관리 서버"/>
+    <Elem NameU="Multipoint Meeting Server" Name="다 지점 회의 서버"/>
+    <Elem NameU="Content Recording/ Streaming Server" Name="내용 기록/스트리밍 서버"/>
+    <Elem NameU="Video Gateway" Name="비디오 게이트웨이"/>
+    <Elem NameU="IP-Gateway" Name="IP 게이트웨이"/>
+    <Elem NameU="Transcoder" Name="코드 전환기"/>
+    <Elem NameU="Telepresence Exchange" Name="원거리 영상 회의 교환"/>
+</Lib>

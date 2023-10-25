@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Azure Deprecated">
+    <Elem NameU="Azure App Service - Logic App" Name="Azure 로직 앱"/>
+    <Elem NameU="Azure Application Gateway v1 OLD" Name="Azure응용프로그램 게이트웨이(구버전)"/>
+    <Elem NameU="Azure Batch" Name="Azure Batch 클라우드 컴퓨팅 서비스"/>
+    <Elem NameU="Azure Bot" Name="Azure 채팅 로봇"/>
+    <Elem NameU="Azure Content Delivery Network (CDN) v1_OLD" Name="Azure CDN 내용 전송 네트워크(구버전)"/>
+    <Elem NameU="Azure Machine Learning" Name="Azure 머신 러닝"/>
+    <Elem NameU="Azure Notification Hubs- Notification Topic" Name="Azure 알림센터"/>
+    <Elem NameU="Compute" Name="컴퓨팅"/>
+    <Elem NameU="Data Lake BEN" Name="Data Lake BEN"/>
+    <Elem NameU="Datalake Analytics BEN" Name="Datalake 분석 BEN"/>
+    <Elem NameU="Datalake Store BEN" Name="DataLake 저장소 BEN"/>
+    <Elem NameU="Data Services" Name="데이터 서비스"/>
+    <Elem NameU="DataWarehouse" Name="데이터 웨어하우스"/>
+    <Elem NameU="Service Bus Old" Name="Service Bus(구버전)"/>
+    <Elem NameU="Service Bus Queue Old" Name="Service Bus Queue Old"/>
+    <Elem NameU="Service Bus Relay Old" Name="Service Bus Relay Old"/>
+    <Elem NameU="Service Bus Topic Old" Name="Service Bus Topic Old"/>
+    <Elem NameU="Service Package" Name="서비스 패키지"/>
+    <Elem NameU="SQL Data Warehouse" Name="SQL 데이터 웨어하우스"/>
+    <Elem NameU="SQL Reporting" Name="SQL 보고"/>
+    <Elem NameU="SQL Stretch Database (DB)" Name="SQL Stretch Database "/>
+</Lib>

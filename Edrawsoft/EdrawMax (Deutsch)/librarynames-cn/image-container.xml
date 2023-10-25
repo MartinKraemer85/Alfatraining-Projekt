@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Image Container">
+	<Elem NameU="Circle" Name="圆"/>
+	<Elem NameU="Square" Name="正方形"/>
+	<Elem NameU="Rectangle" Name="长方形"/>
+	<Elem NameU="Rounded Square" Name="圆角正方形"/>
+	<Elem NameU="Beveled Rectangle" Name="斜角矩形"/>
+	<Elem NameU="Diamond" Name="菱形"/>
+	<Elem NameU="Design Element" Name="设计元素"/>
+	<Elem NameU="Heart-Shaped" Name="心形"/>
+	<Elem NameU="Bordered Circle" Name="带边框的圆"/>
+	<Elem NameU="Bordered Square" Name="带边框的正方形"/>
+	<Elem NameU="Bordered Rectangle" Name="带边框的长方形"/>
+	<Elem NameU="Rounded rectangle with border" Name="带边框的圆角矩形"/>
+	<Elem NameU="Beveled rectangle with border" Name="带边框的斜角矩形"/>
+	<Elem NameU="Diamond with border" Name="带边框的菱形"/>
+	<Elem NameU="Heart with border" Name="带边框的心形"/>
+	<Elem NameU="Circle with text" Name="带文本的圆形"/>
+	<Elem NameU="Circle with text and no fill" Name="带文字无填充的圆圈"/>
+	<Elem NameU="Straight Connector" Name="关系线"/>
+</Lib>

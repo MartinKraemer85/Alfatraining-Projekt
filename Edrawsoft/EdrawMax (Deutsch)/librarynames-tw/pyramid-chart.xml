@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Pyramid Chart">
+    <Elem NameU="Basic Pyramid" Name="基本金字塔"/>
+    <Elem NameU="Inverted Basic Pyramid" Name="倒基本金字塔"/>
+    <Elem NameU="Pyramid" Name="金字塔"/>
+    <Elem NameU="Pyramid 2" Name="金字塔 2"/>
+    <Elem NameU="Inverted Pyramid" Name="倒金字塔"/>
+    <Elem NameU="Inverted Pyramid 2" Name="倒金字塔 2"/>
+    <Elem NameU="Gradient Pyramid" Name="漸變金字塔"/>
+    <Elem NameU="Pyramid 3" Name="金字塔 3"/>
+    <Elem NameU="3D Pyramid" Name="3D金字塔"/>
+    <Elem NameU="Inverted 3D Pyramid" Name="倒3D金字塔"/>
+    <Elem NameU="3D Pyramid 2" Name="3D 金字塔 2"/>
+    <Elem NameU="3D Pyramid 3" Name="3D金字塔 3"/>
+    <Elem NameU="Pyramid 4" Name="金字塔 4"/>
+    <Elem NameU="Inverted Pyramid 3" Name="倒3D金字塔 3"/>
+    <Elem NameU="Triangle Pyramid" Name="三角形金字塔"/>
+    <Elem NameU="Triangle Pyramid 2" Name="三角形金字塔 2"/>
+    <Elem NameU="Circle Pyramid" Name="圓柱金字塔"/>
+    <Elem NameU="Inverted Circle Pyramid" Name="倒圓柱金字塔"/>
+    <Elem NameU="Custom Pyramid" Name="自定義金字塔"/>
+</Lib>

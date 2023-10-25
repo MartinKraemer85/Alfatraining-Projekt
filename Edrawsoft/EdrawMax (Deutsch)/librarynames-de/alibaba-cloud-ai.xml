@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Alibaba Cloud AI">
+
+<Elem Name="AI Empfehlung" NameU="AI recommendation"/>
+
+<Elem Name="City Vision Engine" NameU="City vision engine"/>
+
+<Elem Name="Gesichtserkennung" NameU="Face recognition"/>
+
+<Elem Name="Bilderkennung" NameU="Image recognition"/>
+
+<Elem Name="Bildersuche" NameU="image search"/>
+
+<Elem Name="Intelligentes Bildverarbeitungssystem" NameU="Intelligent vision system"/>
+
+<Elem Name="Maschinelles Lernen" NameU="Machine learning"/>
+
+<Elem Name="Maschinenübersetzung" NameU="Machine translation"/>
+
+<Elem Name="Multimedia-KI" NameU="Multimedia AI"/>
+
+<Elem Name="NLP-Adressanalyse" NameU="NLP address analysis"/>
+
+<Elem Name="Extraktion von NLP-Informationen" NameU="NLP information extraction"/>
+
+<Elem Name="NLP-Stimmungsanalyse" NameU="NLP sentiment analysis"/>
+
+<Elem Name="NLP-Textklassifizierung" NameU="NLP text classification"/>
+
+<Elem Name="NLP" NameU="NLP"/>
+
+<Elem Name="OCR" NameU="OCR"/>
+
+</Lib>

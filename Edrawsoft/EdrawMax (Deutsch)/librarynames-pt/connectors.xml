@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Connectors">
+	<Elem NameU="Point connector" Name="Conector de apontar"/>
+	<Elem NameU="Oblique connector 2" Name="Conector oblíquo 2"/>
+	<Elem NameU="Multi-tree square" Name="Multi-árvore quadrada"/>
+	<Elem NameU="Multi-tree sloped" Name="Multi-árvore inclinada "/>
+	<Elem NameU="One to many" Name="Um para muitos"/>
+	<Elem NameU="Mid-arrow" Name="Seta-meio"/>
+	<Elem NameU="Jumper" Name="Saltador"/>
+	<Elem NameU="Multi-lines" Name="Multi-linhas"/>
+	<Elem NameU="Straight Connector" Name="Conector Direito"/>
+	<Elem NameU="Arc Connector" Name="Conector em Arco"/>
+	<Elem NameU="Curve Connector" Name="Conector Curvo"/>
+	<Elem NameU="Oblique Connector" Name="Conector Oblíquo"/>
+	<Elem NameU="Angled Connector" Name="Conector em Ângulo"/>
+	<Elem NameU="Double Lines" Name="Duplas Linhas"/>
+	<Elem NameU="Multi-lines Elbow" Name="Cotovelo Multi-linhas"/>
+	<Elem NameU="Top to Bottom" Name="Topo para o Fundo"/>
+	<Elem NameU="Side to Side" Name="Lado para Lado"/>
+	<Elem NameU="Control Transfer" Name="Transferidor de Controle"/>
+	<Elem NameU="Comm-link" Name="Comm-link"/>
+	<Elem NameU="Flow Director" Name="Diretor de Fluxo"/>
+	<Elem NameU="Flexible Arrow" Name="Seta Flexível"/>
+	<Elem NameU="Single Arrow" Name="Seta Única"/>
+	<Elem NameU="Double Arrow" Name="Seta Dupla"/>
+	<Elem NameU="Open-end Arrow" Name="Seta de fim aberto"/>
+	<Elem NameU="Arrow" Name="Seta"/>
+	<Elem NameU="Round Tail Arrow" Name="Seta de Cauda Redonda"/>
+	<Elem NameU="Fancy Arrow" Name="Seta Extravagante"/>
+	<Elem NameU="Arrow with Tail" Name="Seta com Cauda"/>
+	<Elem NameU="Elbow Arrow" Name="Seta Cotovelo"/>
+	<Elem NameU="Bent Arrow" Name="Seta Dobrada"/>
+	<Elem NameU="Dynamic Arrow" Name="Seta Dinâmica"/>
+</Lib>

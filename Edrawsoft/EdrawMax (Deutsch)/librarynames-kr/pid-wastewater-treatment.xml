@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Wastewater Treatment">
+    <Elem NameU="Absorber" Name="흡수기"/>
+    <Elem NameU="Aeration basin 1" Name="폭기조 1"/>
+    <Elem NameU="Aeration basin 2" Name="폭기조 2"/>
+    <Elem NameU="Aeration digester 1" Name="폭기 소화조 1"/>
+    <Elem NameU="Aeration digester 2" Name="폭기 소화조 2"/>
+    <Elem NameU="Air diffuser system" Name="에어 디퓨저 시스템"/>
+    <Elem NameU="Anaerobic sequencing batch reactor" Name="혐기성 시퀀싱 배치 반응기"/>
+    <Elem NameU="Asphalt filter" Name="아스팔트 필터"/>
+    <Elem NameU="Bag filtration system" Name="백 여과 시스템"/>
+    <Elem NameU="Belt filter press" Name="벨트 필터 프레스"/>
+    <Elem NameU="Biological treatment plant" Name="생물학적 처리 공장"/>
+    <Elem NameU="Blue filter" Name="파란색 필터"/>
+    <Elem NameU="Bubble diffuser in sludge tank" Name="슬러지 탱크의 버블 디퓨저"/>
+    <Elem NameU="Carbon absorber" Name="탄소 흡수제"/>
+    <Elem NameU="Chemical feeder" Name="화학 물질 공급기"/>
+    <Elem NameU="Central Water Softener" Name="중앙 연수기"/>
+    <Elem NameU="Central Water Purifier" Name="중앙 정수기"/>
+    <Elem NameU="Civic Tap Water" Name="시민 수돗물"/>
+    <Elem NameU="Chlorinator" Name="염소 화제"/>
+    <Elem NameU="Clarifier (side view)" Name="정화기 (측면보기)"/>
+    <Elem NameU="Clarifier 1" Name="정화기 1"/>
+    <Elem NameU="Clarifier 2" Name="정화기 2"/>
+    <Elem NameU="Clarifier and thickener drive" Name="정화기와 증점제 드라이브"/>
+    <Elem NameU="Clarifier with recarb tank" Name="탱크가 있는 정화기"/>
+    <Elem NameU="Clean water system" Number="2" Name="정수 시스템"/>
+    <Elem NameU="Close-coupled self-primer" Name="밀착형 셀프 프라이머"/>
+    <Elem NameU="Containment basin" Name="저수지"/>
+    <Elem NameU="Covered dome tank" Name="돔형 탱크"/>
+    <Elem NameU="Cooling tower make up" Name="냉각 타워"/>
+    <Elem NameU="Dewatering system" Name="배수 시스템"/>
+    <Elem NameU="Digester" Name="소화지"/>
+    <Elem NameU="Disc and drum filter" Name="디스크 및 드럼 필터"/>
+    <Elem NameU="Dissolved air flotation" Name="용해된 공기 부양"/>
+    <Elem NameU="Drying system" Name="건조 장치"/>
+    <Elem NameU="Digester gas tanks" Name="소화기 가스 탱크"/>
+    <Elem NameU="Elevated tank 1" Name="고가 수조 1"/>
+    <Elem NameU="Elevated tank 2" Name="고가 수조 2"/>
+    <Elem NameU="Elevated tank 3" Name="고가 수조 3"/>
+    <Elem NameU="Elevated tank 4" Name="고가 수조 4"/>
+    <Elem NameU="Environmental gas process" Name="가스 처리"/>
+    <Elem NameU="Explosion-proof enclosure" Name="방폭 인클로저"/>
+    <Elem NameU="Filter housing" Name="필터 하우징"/>
+    <Elem NameU="Filter press" Name="필터 프레스"/>
+    <Elem NameU="Filter" Name="필터"/>
+    <Elem NameU="Filter 2" Name="필터 2"/>
+    <Elem NameU="Filter 3" Name="필터 3"/>
+    <Elem NameU="Filter 4" Name="필터 4"/>
+    <Elem NameU="Flocculators" Name="응집기"/>
+    <Elem NameU="Flow gate" Name="흐름 게이트"/>
+    <Elem NameU="Flume" Name="수로"/>
+    <Elem NameU="Fluted elevated tank" Name="고가 수조"/>
+    <Elem NameU="Giant skeeter" Name="자이언트 스키터"/>
+    <Elem NameU="Gravity belt thickener" Name="중력 벨트 증점제"/>
+    <Elem NameU="Grit chamber" Name="그릿 챔버"/>
+    <Elem NameU="Incinerator" Name="소각로"/>
+    <Elem NameU="Inclined plate clarifier " Name="경사 플레이트 정화기"/>
+    <Elem NameU="Liquid solution feeder" Name="액체 용액 공급기"/>
+    <Elem NameU="Low-speed aerator drive for wastewater treatment" Name="저속 폭기 드라이브 폐수 처리"/>
+    <Elem NameU="Luxury Pipeline Machines" Name="고급 파이프 라인 기계"/>
+    <Elem NameU="Land" Name="지면"/>
+    <Elem NameU="Main Engine of Reverse Osmosis" Name="역삼투 주요 엔진"/>
+    <Elem NameU="Membranes" Name="막"/>
+    <Elem NameU="Micro screen" Name="마이크로 스크린"/>
+    <Elem NameU="Motorized flow gate (closed)" Name="전동식 흐름 게이트 (닫힘)"/>
+    <Elem NameU="Motorized flow gate (open)" Name="전동식 흐름 게이트 (열림)"/>
+    <Elem NameU="Oil skimmer" Name="오일 스키머"/>
+    <Elem NameU="Oil-water separator 1" Name="유수 분리기 1"/>
+    <Elem NameU="Oil-water separator 2" Name="유수 분리기 2"/>
+    <Elem NameU="Oily water separation and recycling system" Name="유수 분리 및 재활용 시스템"/>
+    <Elem NameU="Oxygen generator" Name="산소 발생기"/>
+    <Elem NameU="Paddle dryer" Name="패들 건조기"/>
+    <Elem NameU="Plate clarifier" Name="플레이트 정화기"/>
+    <Elem NameU="Polymer injection system" Name="폴리머 주입 시스템"/>
+    <Elem NameU="Polymer mixing system" Name="폴리머 혼합 시스템"/>
+    <Elem NameU="Precision Filter" Name="정밀 필터"/>
+    <Elem NameU="Pre-filter" Name="사전 필터"/>
+    <Elem NameU="Primary clarifier" Name="주요정화기"/>
+    <Elem NameU="Rotary drum thickener" Name="회전 드럼 농축기"/>
+    <Elem NameU="Screen" Name="스크린"/>
+    <Elem NameU="Screw drive" Name="스크류 드라이브"/>
+    <Elem NameU="Scrubber module" Name="스크러버 모듈"/>
+    <Elem NameU="Simple elevated tank" Name="고가 수조"/>
+    <Elem NameU="Simple evaporator" Name="증발기"/>
+    <Elem NameU="Simple filter 1" Name="필터 5"/>
+    <Elem NameU="Simple filter 2" Name="필터 6"/>
+    <Elem NameU="Sludge digester" Name="슬러지 소화조"/>
+    <Elem NameU="Sludge lagoon" Name="슬러지 라군"/>
+    <Elem NameU="Spherical storage tank 1" Name="구형 저장 탱크 1"/>
+    <Elem NameU="Spherical storage tank 2" Name="구형 저장 탱크 2"/>
+    <Elem NameU="Spigot" Name="마개"/>
+    <Elem NameU="Submersible mixer" Name="잠수정 믹서"/>
+    <Elem NameU="Treatment basin" Name="치료 분지"/>
+    <Elem NameU="Treatment tanks" Name="처리 탱크"/>
+    <Elem NameU="Vacuum filter" Name="진공 필터"/>
+    <Elem NameU="Wash water treatment and recovery system" Name="세척수 처리 및 회수 시스템"/>
+    <Elem NameU="Wastewater evaporator" Name="폐수 증발기"/>
+    <Elem NameU="Wastewater grinder" Name="폐수 연삭기"/>
+    <Elem NameU="Wastewater tank" Name="오수 탱크"/>
+    <Elem NameU="Water filter" Name="필터기"/>
+    <Elem NameU="Water treatment basins (top view)" Name="수처리 수조 (평면도)"/>
+    <Elem NameU="Water treatment plant" Name="정수 처리장"/>
+    <Elem NameU="Water treatment storage" Name="수처리 저장"/>
+    <Elem NameU="Water treatment system" Name="수처리 시스템"/>
+    <Elem NameU="Wet dust collector" Name="습식 집진기"/>
+    <Elem NameU="Bathtub" Name="욕조"/>
+    <Elem NameU="Shower head" Name="샤워 헤드"/>
+    <Elem NameU="Water purifier" Name="정수기"/>
+    <Elem NameU="Sedimentation Basin" Name="침전지"/>
+    <Elem NameU="Settling tank" Name="침전지 2"/>
+    <Elem NameU="Sludge thickener" Name="슬러지 증점제"/>
+    <Elem NameU="Water channel" Name="수로"/>
+    <Elem NameU="Pond" Name="못"/>
+    <Elem NameU="Drain" Name="배수지"/>
+    <Elem NameU="Hydrolysis of grit chamber" Name="그릿 챔버의 가수 분해"/>
+    <Elem NameU="Hydrolyzation &amp; Acidification Pool" Name="가수 분해 &amp; 산성화 풀"/>
+    <Elem NameU="Ash disposal pond" Name="재 처리 연못"/>
+    <Elem NameU="Reservoir" Name="저수지"/>
+    <Elem NameU="Biological reaction tank" Name="생물학적 반응조"/>
+    <Elem NameU="Container" Name="컨테이너"/>
+    <Elem NameU="Hydrocyclone" Name="하이드로 사이클론"/>
+    <Elem NameU="Evaporator" Name="증발기"/>
+    <Elem NameU="Evaporation" Name="증발 장치"/>
+    <Elem NameU="Filling Machine" Name="충전 기계"/>
+    <Elem NameU="Small Bottle" Name="작은 병"/>
+    <Elem NameU="Grille" Name="철제 선반"/>
+</Lib>

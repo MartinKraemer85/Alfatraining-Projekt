@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Easter">
+	<Elem NameU="Easter egg 1" Name="Uovo di pasqua 1"/>
+	<Elem NameU="Easter egg 2" Name="Uovo di pasqua 2"/>
+	<Elem NameU="Easter egg 3" Name="Uovo di pasqua 3"/>
+	<Elem NameU="Easter egg 4" Name="Uovo di pasqua 4"/>
+	<Elem NameU="Easter egg 5" Name="Uovo di pasqua 5"/>
+	<Elem NameU="Easter egg 6" Name="Uovo di pasqua 6"/>
+	<Elem NameU="Easter egg 8" Name="Uovo di pasqua 8"/>
+	<Elem NameU="Easter egg 9" Name="Uovo di pasqua 9"/>
+	<Elem NameU="Easter egg 10" Name="Uovo di pasqua 10"/>
+	<Elem NameU="Easter egg 11" Name="Uovo di pasqua 11"/>
+	<Elem NameU="Easter egg 12" Name="Uovo di pasqua 12"/>
+	<Elem NameU="Rabbit with easter egg" Name="Coniglio e uovo di pasqua"/>
+	<Elem NameU="Rabbit 1" Name="Coniglio 1"/>
+	<Elem NameU="Rabbit 2" Name="Coniglio 2"/>
+	<Elem NameU="Chicken" Name="Gallina"/>
+	<Elem NameU="Meat" Name="Carne"/>
+	<Elem NameU="Chicken Leg 1" Name="Coscia di Pollo 1"/>
+	<Elem NameU="Chicken Leg 2" Name="Coscia di Pollo 2"/>
+	<Elem NameU="Book 1" Name="Libro 1"/>
+	<Elem NameU="Book 2" Name="Libro 2"/>
+	<Elem NameU="Cross" Name="Croce"/>
+	<Elem NameU="Jesus" Name="Gesù"/>
+	<Elem NameU="Cake" Name="Torta"/>
+	<Elem NameU="Candle 1" Name="Candela 1"/>
+	<Elem NameU="Candle 2" Name="Candela 2"/>
+	<Elem NameU="Red Wine Glass" Name="Bicchiere di Vino Rosso"/>
+	<Elem NameU="Red Wine" Name="Vino Rosso"/>
+	<Elem NameU="Basket" Name="Cesto"/>
+	<Elem NameU="Flower" Name="Fiore"/>
+</Lib>

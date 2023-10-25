@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Integrated Circuit Components">
+	<Elem NameU="Horizontal extension" Name="Extensão horizontal"/>
+	<Elem NameU="Vertical extension" Name="Extensão vertical"/>
+	<Elem NameU="IC" Name="IC"/>
+	<Elem NameU="4X Building block-top" Name="Bloco de construção 4X-topo"/>
+	<Elem NameU="4X Building block-base" Name="Bloco de construção 4X-base"/>
+	<Elem NameU="4X Building block-middle" Name="Bloco de construção 4X-meio"/>
+	<Elem NameU="4X Building block-complete" Name="Bloco de construção 4X-completo"/>
+	<Elem NameU="1X Building block" Name="Bloco de construção 1X"/>
+	<Elem NameU="MUX 2" Name="MUX 2"/>
+	<Elem NameU="MUX 4" Name="MUX 4"/>
+	<Elem NameU="MUX 8" Name="MUX 8"/>
+	<Elem NameU="Ground" Name="Terra"/>
+	<Elem NameU="Driver" Name="Condutor"/>
+	<Elem NameU="4-bit a/d converter" Name="Conversor a/d 4-bit"/>
+	<Elem NameU="8-bit a/d converter" Name="Conversor a/d 8-bit"/>
+	<Elem NameU="4-bit d/a converter" Name="Conversor d/a 4-bit"/>
+	<Elem NameU="8-bit d/a converter" Name="Conversor d/a 8-bit"/>
+	<Elem NameU="Voltage converter" Name="Conversor de voltagem"/>
+	<Elem NameU="PWM" Name="PWM"/>
+	<Elem NameU="4-bit register" Name="Registo 4-bit"/>
+	<Elem NameU="8-bit register" Name="Registo 8-bit"/>
+	<Elem NameU="One shot" Name="Um tiro"/>
+	<Elem NameU="4-bit counter" Name="Contador 4-bit"/>
+	<Elem NameU="8-bit counter" Name="Contador 8-bit"/>
+	<Elem NameU="Preload counter 4" Name="Pré-carregar contador 4"/>
+	<Elem NameU="Preload counter 8" Name="Pré-carregar contador 8"/>
+	<Elem NameU="Analog switch 2" Name="Interruptor analógico 2"/>
+	<Elem NameU="Analog switch 4" Name="Interruptor analógico 4"/>
+	<Elem NameU="2-4 decoder" Name="Decodificador 2-4"/>
+	<Elem NameU="3-8 decoder" Name="Decodificador 3-8"/>
+	<Elem NameU="Contact" Name="Contacto"/>
+	<Elem NameU="Contact (N)" Name="Contacto (N)"/>
+	<Elem NameU="Positive Transition-Sensing Contact" Name="Contacto de Transição-Sensoriamento Positivo"/>
+	<Elem NameU="Negative Transition-Sensing Contact" Name="Contacto de Transição-Sensoriamento Negativo"/>
+	<Elem NameU="Output (N)" Name="Saída (N)"/>
+	<Elem NameU="Output" Name="Saída"/>
+	<Elem NameU="Positive Transition-Sensing Coil" Name="Bobina de Transição-Sensoriamento Positivo"/>
+	<Elem NameU="Negative Transition-Sensing Coil" Name="Bobina de Transição-Sensoriamento Negativo"/>
+	<Elem NameU="Set Latch Coil" Name="Configurar Bobina de Trava"/>
+	<Elem NameU="Reset Latch Coil" Name="Reconfigurar Bobina de Trava"/>
+	<Elem NameU="Output 2" Name="Saída 2"/>
+	<Elem NameU="Output (N) 2" Name="Saída (N) 2"/>
+</Lib>

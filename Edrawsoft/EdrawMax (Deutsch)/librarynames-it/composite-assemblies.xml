@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Composite Assemblies">
+	<Elem NameU="Gyro" Name="Giroscopio"/>
+	<Elem NameU="Gyro 2" Name="Giroscopio 2"/>
+	<Elem NameU="Amplifier" Name="Amplificatore"/>
+	<Elem NameU="Magnetic amplifier" Name="Amplificatore magnetico"/>
+	<Elem NameU="Negative impedance both-way amp" Name="Amplificatore  bidirezionale a impedenza negativa"/>
+	<Elem NameU="Amplifier with bypass" Name="Amplificatore con bypass"/>
+	<Elem NameU="Amplifier external DC control" Name="Controllo DC amplificatore esterno"/>
+	<Elem NameU="Rectifier" Name="Raddrizzatore"/>
+	<Elem NameU="Controlled rectifier" Name="Raddrizzatore controllato"/>
+	<Elem NameU="Bridge rectifier" Name="Raddrizzatore ponti"/>
+	<Elem NameU="Proximity sensor" Name="Sensore di prossimità"/>
+	<Elem NameU="Touch sensor" Name="Sensore Tattile"/>
+	<Elem NameU="1-way repeater" Name="Ripetitore a senso unico"/>
+	<Elem NameU="2-way repeater" Name="Ripetitore a doppio senso"/>
+	<Elem NameU="2-way repeater bypass" Name="Ripetitore a doppio senso con bypass"/>
+	<Elem NameU="2-way repeater 4-wire" Name="Ripetitore a doppio senso con 4 fili"/>
+	<Elem NameU="Network low voltage" Name="Rete a basso voltaggio"/>
+	<Elem NameU="Phase shifter" Name="Trasformatore"/>
+	<Elem NameU="Chopper" Name="Chopper"/>
+	<Elem NameU="Demodulator" Name="Demodulatore"/>
+	<Elem NameU="Generator" Name="Generatore"/>
+	<Elem NameU="Position indicator synchro" Name="Sincronizzatore indicatore di posizione"/>
+	<Elem NameU="Position indicator inductor" Name="Induttore indicatore di posizione"/>
+	<Elem NameU="Position transmitter inductor" Name="Induttore trasmettitore di posizione"/>
+	<Elem NameU="Position transmitter Desynn" Name="De-sincronizzatore trasmettitore di posizione"/>
+	<Elem NameU="Fire ext. actuator" Name="Attuatore estintore"/>
+	<Elem NameU="Fire ext. double" Name="Estintore uscita doppia"/>
+	<Elem NameU="Converter" Name="Convertitore"/>
+	<Elem NameU="Inverter" Name="Invertitore"/>
+	<Elem NameU="Rectifier inverter" Name="Invertitore raddrizzatore"/>
+	<Elem NameU="Rectifier bridge" Name="Ponte raddrizzatore"/>
+	<Elem NameU="Galvanic separator" Name="Separatore galvanico"/>
+	<Elem NameU="Combustion heat source" Name="Fonte di combustione"/>
+	<Elem NameU="Heat source" Name="Fonte di calore"/>
+	<Elem NameU="Radioisotope heat source" Name="Fonte di calore radioisotopo"/>
+	<Elem NameU="Thermoelectric generator" Name="Generatore termoelettrico"/>
+</Lib>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Vehicles">
+	<Elem NameU="Electric Scooter" Name="Scooter elétrica"/>
+	<Elem NameU="Bicycle" Name="Bicicleta"/>
+	<Elem NameU="Car 1" Name="Carro 1"/>
+	<Elem NameU="Car 2" Name="Carro 2"/>
+	<Elem NameU="Food Truck" Name="Caminhão Alimentar"/>
+	<Elem NameU="Bus" Name="Ônibus"/>
+	<Elem NameU="MPV" Name="MPV"/>
+	<Elem NameU="Pickup Truck" Name="Caminhão Pickup"/>
+	<Elem NameU="Box Truck" Name="Caminhão de Caixa"/>
+	<Elem NameU="Mini Car" Name="Mini Carro"/>
+	<Elem NameU="Sports Car" Name="Carro Desportivo"/>
+	<Elem NameU="Car 3" Name="Carro 3"/>
+	<Elem NameU="Heavy Truck" Name="Caminhão Pesado"/>
+	<Elem NameU="Jeep" Name="Jeep"/>
+	<Elem NameU="Ambulance" Name="Ambulância"/>
+	<Elem NameU="Fire Truck" Name="Caminhão de Bombeiros"/>
+	<Elem NameU="Taxi" Name="Táxi"/>
+	<Elem NameU="Van" Name="Van"/>
+	<Elem NameU="Crane" Name="Guindaste"/>
+	<Elem NameU="Excavator" Name="Escavadora"/>
+	<Elem NameU="Military Vehicle 1" Name="Veículo Militar 1"/>
+	<Elem NameU="Military Vehicle 2" Name="Veículo Militar 2"/>
+	<Elem NameU="Military Vehicle 3" Name="Veículo Militar 3"/>
+	<Elem NameU="Police Car" Name="Carro da Polícia"/>
+	<Elem NameU="Concrete Mixer" Name="Betoneira"/>
+	<Elem NameU="Forklift" Name="Empilhadeira"/>
+	<Elem NameU="Double-decker Bus" Name="Ônibus Panorâmico"/>
+	<Elem NameU="Motorcycle" Name="Motocicleta"/>
+	<Elem NameU="Tractor" Name="Trator"/>
+	<Elem NameU="Electric Bike" Name="Bicicleta Elétrica"/>
+	<Elem NameU="Tank Truck" Name="Caminhão Tanque"/>
+	<Elem NameU="Train" Name="Comboio"/>
+	<Elem NameU="Subway" Name="Metrô"/>
+	<Elem NameU="Plane 1" Name="Avião 1"/>
+	<Elem NameU="Plane 2" Name="Avião 2"/>
+	<Elem NameU="Plane 3" Name="Avião 3"/>
+	<Elem NameU="Helicopter 1" Name="Helicóptero 1"/>
+	<Elem NameU="Helicopter 2" Name="Helicóptero 2"/>
+	<Elem NameU="Patrol Boat" Name="Barco Patrulha"/>
+	<Elem NameU="Sailboat" Name="Veleiro"/>
+	<Elem NameU="Steamship" Name="Navio a vapor"/>
+	<Elem NameU="Cruise" Name="Cruzeiro"/>
+</Lib>

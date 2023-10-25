@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Jackson">
+    <Elem NameU="Procedure" Name="过程"/>
+    <Elem NameU="Procedure 2" Name="过程 2"/>
+    <Elem NameU="Process" Name="进程"/>
+    <Elem NameU="Process 2" Name="进程 2"/>
+    <Elem NameU="Tree connector" Name="树型连接线"/>
+    <Elem NameU="Logical connector" Name="逻辑连接线"/>
+</Lib>

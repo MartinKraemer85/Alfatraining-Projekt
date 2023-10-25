@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Cisco Safe Capability Icons">
+    <Elem NameU="Access Control Using TrustSec" Name="使用TrustSec訪問控制"/>
+    <Elem NameU="Analysis/Correlation" Name="分析/關係"/>
+    <Elem NameU="Anomaly Detection" Name="異常檢測"/>
+    <Elem NameU="Anti-Malware" Name="移除惡意軟件"/>
+    <Elem NameU="Anti-Spam" Name="反垃圾郵件"/>
+    <Elem NameU="Anti-Virus" Name="殺毒"/>
+    <Elem NameU="Application" Name="應用程式"/>
+    <Elem NameU="Application Visibility Control (AVC)" Name="應用程式可見性控制 (AVC)"/>
+    <Elem NameU="Client Based Security" Name="客戶端安全"/>
+    <Elem NameU="Cloud Web Security" Name="雲網絡安全"/>
+    <Elem NameU="Conference Bridge" Name="會議電話橋分器"/>
+    <Elem NameU="Data Loss Prevention (DLP)" Name="數位光處理 (DLP)"/>
+    <Elem NameU="Database" Name="資料庫"/>
+    <Elem NameU="Distributed Denial of Service Protection" Name="阻斷伺服攻擊"/>
+    <Elem NameU="DNS" Name="DNS伺服器"/>
+    <Elem NameU="Email Encryption" Name="電子郵件加密"/>
+    <Elem NameU="Email Security" Name="電子郵件安全"/>
+    <Elem NameU="Fabric Switching" Name="交換光纖"/>
+    <Elem NameU="Firewall" Name="防火墻"/>
+    <Elem NameU="Virtual Firewall" Name="虛擬防火墻"/>
+    <Elem NameU="Flow Analytics" Name="流量分析"/>
+    <Elem NameU="Identity Authorization" Name="身份授權"/>
+    <Elem NameU="Identity Authorization (ALT)" Name="身份授權 (ALT)"/>
+    <Elem NameU="Intrusion Detection" Name="入侵檢測"/>
+    <Elem NameU="Intrusion Prevention" Name="入侵預防"/>
+    <Elem NameU="L2 Switching" Name="L2轉換"/>
+    <Elem NameU="Virtual L2 switching" Name="虛擬L2轉換"/>
+    <Elem NameU="Policy/Configuration.79" Name="規則/組態"/>
+    <Elem NameU="L2/L3 Network" Name="L2/L3網絡"/>
+    <Elem NameU="L2/L3 Network Virtual" Name="L2/L3虛擬網絡"/>
+    <Elem NameU="L3 Switching" Name="L3轉換"/>
+    <Elem NameU="Load Balancer" Name="負載平衡器"/>
+    <Elem NameU="Logging/Reporting" Name="日誌/報告"/>
+    <Elem NameU="Malware Sandbox" Name="惡意軟件沙盒"/>
+    <Elem NameU="Mobile Device Management (MDM)" Name="移動設備管理(MDM)"/>
+    <Elem NameU="Monitoring" Name="監控"/>
+    <Elem NameU="Policy/Configuration.79" Name="規則/組態"/>
+    <Elem NameU="Posture Assessment" Name="安全態勢評估"/>
+    <Elem NameU="Routing" Name="路由器"/>
+    <Elem NameU="Server Based Security" Name="基於伺服器的安全"/>
+    <Elem NameU="SSL/TLS Offload" Name="SSL/TLS卸載"/>
+    <Elem NameU="Storage" Name="存儲"/>
+    <Elem NameU="Threat Intelligence" Name="威脅情報"/>
+    <Elem NameU="Time Synchronization" Name="時間同步"/>
+    <Elem NameU="User" Name="用戶"/>
+    <Elem NameU="Video" Name="視頻"/>
+    <Elem NameU="Virtual Private Network (VPN)" Name="虛擬個人網絡(VPN)"/>
+    <Elem NameU="VPN Concentrator" Name="VPN連通器"/>
+    <Elem NameU="Virtualized Capability" Name="虛擬化能力"/>
+    <Elem NameU="Voice" Name="音效"/>
+    <Elem NameU="Vulnerability Management" Name="漏洞管理"/>
+    <Elem NameU="Web Application Firewall" Name="網頁應用防火墻"/>
+    <Elem NameU="Web Reputation/Filtering/DCS" Name="網頁信譽度"/>
+    <Elem NameU="Web Security" Name="網頁安全"/>
+    <Elem NameU="Wireless Connection" Name="無線網連接"/>
+    <Elem NameU="Wireless Intrusion Detection System (WIDS)" Name="無線入侵檢測系統(WIDS)"/>
+    <Elem NameU="Wireless Intrusion Prevention System (WIPS)" Name="無線入侵防禦系統(WIPS)"/>
+</Lib>

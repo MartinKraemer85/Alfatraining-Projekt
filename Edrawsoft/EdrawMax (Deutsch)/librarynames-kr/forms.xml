@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Forms">
+    <Elem NameU="H1 Header" Name="H1 제목"/>
+    <Elem NameU="H2 Header" Name="H2 제목"/>
+    <Elem NameU="H3 Header" Name="H3 제목"/>
+    <Elem NameU="12pt Label" Name="12pt 레이블"/>
+    <Elem NameU="10pt Label" Name="10pt 레이블"/>
+    <Elem NameU="9pt Label" Name="9pt 레이블"/>
+    <Elem NameU="Link Text" Name="링크 텍스트"/>
+    <Elem NameU="Basic Table" Name="기본 표"/>
+    <Elem NameU="Logo Placeholder" Name="로고"/>
+    <Elem NameU="Company Address" Name="회사주소"/>
+    <Elem NameU="Primary Business Address" Name="비지니스 주소"/>
+    <Elem NameU="Contact Information" Name="연락처"/>
+    <Elem NameU="Billing Address" Name="청구서 발송지"/>
+    <Elem NameU="Quotation" Name="견적서"/>
+    <Elem NameU="Product, Price, Description" Name="제품, 가격 및 설명"/>
+    <Elem NameU="Statistics" Name="통계"/>
+    <Elem NameU="Information Box" Name="정보 상자"/>
+    <Elem NameU="Information Line" Number="2" Name="정보 라인"/>
+    <Elem NameU="Signature Line with Date" Name="서명과 날짜"/>
+    <Elem NameU="Signature Line" Name="서명란"/>
+    <Elem NameU="Simple Signature Block" Name="서명란"/>
+    <Elem NameU="Comments" Name="주석"/>
+    <Elem NameU="Detail Signature Block" Number="3" Name="서명 디테일"/>
+    <Elem NameU="Check Box" Name="체크박스"/>
+    <Elem NameU="Radio Button" Name="선택 버튼"/>
+    <Elem NameU="Text Block" Name="텍스트 블록"/>
+</Lib>

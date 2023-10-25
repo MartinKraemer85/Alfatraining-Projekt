@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Food Processing">
+    <Elem NameU="Batch fluid bed processor" Name="배치 유동층 프로세서"/>
+    <Elem NameU="Beer bottle" Name="맥주병"/>
+    <Elem NameU="Beer can" Name="맥주캔"/>
+    <Elem NameU="Colloid mill" Name="콜로이드 밀"/>
+    <Elem NameU="Concentrate dispenser" Name="농축 디스펜서"/>
+    <Elem NameU="Cross belt separator" Name="크로스 벨트 분리기"/>
+    <Elem NameU="Drum magnet" Name="드럼 자석"/>
+    <Elem NameU="Fermentation" Name="발효"/>
+    <Elem NameU="Filter system" Name="필터 시스템"/>
+    <Elem NameU="Food processing" Name="식품 가공"/>
+    <Elem NameU="Grain silo 1" Name="곡물 사일로 1"/>
+    <Elem NameU="Grain silo 2" Name="곡물 사일로 2"/>
+    <Elem NameU="Inline mixer emulsifier" Name="인라인 믹서 유화제"/>
+    <Elem NameU="Magnetic liquid trap" Name="자성 액체 트랩"/>
+    <Elem NameU="Micro flowmeter" Name="마이크로 유량 측정기"/>
+    <Elem NameU="Milk carton" Name="우유 카톤"/>
+    <Elem NameU="Mixer" Name="믹서"/>
+    <Elem NameU="Mixing hopper" Name="믹싱 호퍼"/>
+    <Elem NameU="Nitrogen generator" Name="질소 발생기"/>
+    <Elem NameU="Oven system" Name="오븐 시스템"/>
+    <Elem NameU="Power and liquid mixer" Name="전력 및 액체 믹서"/>
+    <Elem NameU="Sanitary air filter" Name="위생 공기 필터"/>
+    <Elem NameU="Sanitary heater" Name="위생 히터"/>
+    <Elem NameU="Sanitary inline mixer" Name="위생 인라인 믹서"/>
+    <Elem NameU="Sanitary transfer pump" Name="위생 전송 펌프"/>
+    <Elem NameU="Screen separator" Name="화면 분리기"/>
+    <Elem NameU="Separator" Name="분리 기호"/>
+    <Elem NameU="Shell and tube heat transfer" Name="쉘 및 튜브 열 전달"/>
+    <Elem NameU="Stainless steel blender (closed)" Name="스테인리스 스틸 블렌더 (닫힘)"/>
+    <Elem NameU="Stainless steel blender（open）" Name="스테인리스 블렌더 (개방)"/>
+    <Elem NameU="Stainless steel hopper" Name="스테인리스 호퍼"/>
+    <Elem NameU="Stainless steel speed reducer1" Name="스테인레스 스틸 감속기 1"/>
+    <Elem NameU="Stainless steel speed reducer2" Name="스테인레스 스틸 감속기 2"/>
+    <Elem NameU="Standard ribbon  mixer" Name="표준 리본 믹서"/>
+    <Elem NameU="Tray sealer" Name="트레이 실러"/>
+    <Elem NameU="Tube in tube heat transfer" Name="튜브 열 전달 튜브"/>
+    <Elem NameU="Turbo emulsifier " Name="터보 유화제"/>
+    <Elem NameU="Vacuum mixer blender" Name="진공 믹서 블렌더"/>
+    <Elem NameU="Vacuum stuffer" Name="진공 충전제"/>
+    <Elem NameU="Vacuum system" Name="진공 시스템"/>
+    <Elem NameU="Vertical blender" Name="수직 블렌더"/>
+    <Elem NameU="Viscosity meter" Name="점도계"/>
+    <Elem NameU="Superfine soybean processing system" Name="극상 대두 가공 시스템"/>
+    <Elem NameU="Hardening and Tempering System" Name="경화 및 템퍼링 시스템"/>
+    <Elem NameU="Lagena" Number="2" Name="Lagena"/>
+    <Elem NameU="Filter unit" Name="필터 장치"/>
+</Lib>

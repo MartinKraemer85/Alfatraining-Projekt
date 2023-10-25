@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="2D Block Diagram">
+    <Elem NameU="Process" Name="Processo"/>
+	<Elem NameU="Decision" Name="Decisão"/>
+	<Elem NameU="Document" Name="Documento"/>
+	<Elem NameU="Data" Name="Dados"/>
+	<Elem NameU="Start or Terminator" Name="Iniciar ou Terminador"/>
+	<Elem NameU="Sub Process" Name="Sub Processo"/>
+	<Elem NameU="Start" Name="Iniciar"/>
+	<Elem NameU="People" Name="Pessoas"/>
+	<Elem NameU="Database" Name="Base de Dados"/>
+	<Elem NameU="Annotation" Name="Anotação"/>
+</Lib>

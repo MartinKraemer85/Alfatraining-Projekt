@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Office">
+	<Elem NameU="Pencil Vase" Name="Portamatite"/>
+	<Elem NameU="Pen" Name="Penna"/>
+	<Elem NameU="Table Lamp" Name="Lampada da Tavolo"/>
+	<Elem NameU="Globe 1" Name="Globo 1"/>
+	<Elem NameU="Globe 2" Name="Globo 2"/>
+	<Elem NameU="Office Chair" Name="Sedia da Ufficio"/>
+	<Elem NameU="Hourglass" Name="Clessidra"/>
+	<Elem NameU="Briefcase 1" Name="Valigetta 1"/>
+	<Elem NameU="Briefcase 2" Name="Valigetta 2"/>
+	<Elem NameU="Briefcase 3" Name="Valigetta 3"/>
+	<Elem NameU="Calculator 1" Name="Calcolatrice 1"/>
+	<Elem NameU="Calculator 2" Name="Calcolatrice 2"/>
+	<Elem NameU="Employee's Card" Name="Cartellino"/>
+	<Elem NameU="File Folders 1" Name="Cartella di Documenti 1"/>
+	<Elem NameU="File Folders 2" Name="Cartella di Documenti 2"/>
+	<Elem NameU="Notebook 1" Name="Blocco Note 1"/>
+	<Elem NameU="Notebook 2" Name="Blocco Note 2"/>
+	<Elem NameU="Notebook 3" Name="Blocco Note 3"/>
+	<Elem NameU="Notebook 4" Name="Blocco Note 4"/>
+	<Elem NameU="Notebook 5" Name="Blocco Note 5"/>
+	<Elem NameU="Tablet" Name="Tavoletta"/>
+	<Elem NameU="Scratchpad" Name="Scratchpad"/>
+	<Elem NameU="Calendar 1" Name="Calendario 1"/>
+	<Elem NameU="Calendar 2" Name="Calendario 2"/>
+	<Elem NameU="Calendar 3" Name="Calendario 3"/>
+	<Elem NameU="Calendar 4" Name="Calendario 4"/>
+	<Elem NameU="Calendar 5" Name="Calendario 5"/>
+	<Elem NameU="Calendar 6" Name="Calendario 6"/>
+	<Elem NameU="Calendar 7" Name="Calendario 7"/>
+	<Elem NameU="Calendar 8" Name="Calendario 8"/>
+	<Elem NameU="Calendar 9" Name="Calendario 9"/>
+	<Elem NameU="Calendar 10" Name="Calendario 10"/>
+	<Elem NameU="Calendar 11" Name="Calendario 11"/>
+	<Elem NameU="Documents Pouch" Name="Portadocumenti"/>
+	<Elem NameU="Address Book" Name="Rubrica Indirizzi"/>
+	<Elem NameU="Printer" Name="Stampante"/>
+	<Elem NameU="USB" Name="USB"/>
+	<Elem NameU="Screen" Name="Schermo"/>
+	<Elem NameU="Router" Name="Router"/>
+	<Elem NameU="Projecter" Name="Proiettore"/>
+	<Elem NameU="Cellphone" Name="Cellulare"/>
+	<Elem NameU="Phone" Name="Telefono"/>
+	<Elem NameU="Note Board" Name="Bacheca"/>
+	<Elem NameU="Scissors" Name="Forbici"/>
+	<Elem NameU="Paper Clip" Name="Graffetta"/>
+	<Elem NameU="Binder Clips" Name="Fermacarte"/>
+	<Elem NameU="Protractor" Name="Goniometro"/>
+	<Elem NameU="Rulers" Name="Righe"/>
+	<Elem NameU="Stapler" Name="Spillatrice"/>
+	<Elem NameU="Cutter 1" Name="Taglierino 1"/>
+	<Elem NameU="Cutter 2" Name="Taglierino 2"/>
+	<Elem NameU="Pencil Sharpener" Name="Temperamatite"/>
+	<Elem NameU="Lock" Name="Lucchetto"/>
+	<Elem NameU="Pencil Compass" Name="Compasso"/>
+	<Elem NameU="Magnifier" Name="Lente di Ingrandimento"/>
+	<Elem NameU="Envelope 1" Name="Busta 1"/>
+	<Elem NameU="Envelope 2" Name="Busta 2"/>
+	<Elem NameU="Seal" Name="Sigillo"/>
+	<Elem NameU="Brush" Name="Pennello"/>
+	<Elem NameU="Clock 1" Name="Orologio 1"/>
+	<Elem NameU="Clock 2" Name="Orologio 2"/>
+	<Elem NameU="Stopwatch" Name="Cronometro"/>
+	<Elem NameU="Bank Card" Name="Bancomat"/>
+	<Elem NameU="Safe" Name="Cassaforte"/>
+	<Elem NameU="Folder" Name="Cartella"/>
+	<Elem NameU="Confidential File" Name="Documento Confidenziale"/>
+	<Elem NameU="Coffee Cup" Name="Tazza di Caffè"/>
+	<Elem NameU="A Cup of Coffee" Name="Una Tazza di Caffè"/>
+	<Elem NameU="Coffee" Name="Caffè"/>
+	<Elem NameU="Report 1" Name="Relazione 1"/>
+	<Elem NameU="Report 2" Name="Relazione 2"/>
+	<Elem NameU="Information" Name="Informazione"/>
+	<Elem NameU="Drawing pin" Name="Puntina da Disegno"/>
+	<Elem NameU="Trash Bin" Name="Cestino"/>
+	<Elem NameU="Headset" Name="Cuffie"/>
+	<Elem NameU="Webcam" Name="Webcam"/>
+	<Elem NameU="Newspaper" Name="Giornale"/>
+	<Elem NameU="iPad" Name="iPad"/>
+	<Elem NameU="Laptop" Name="Laptop"/>
+	<Elem NameU="Desktop" Name="Computer Desktop"/>
+	<Elem NameU="Pencil" Name="Matita"/>
+	<Elem NameU="Desk" Name="Scrivania"/>
+	<Elem NameU="Cabinet" Name="Armadietto"/>
+</Lib>

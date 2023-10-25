@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Marketing Diagrams">
+
+<Elem Name="スッテプ グラフ" NameU="Step Process"/>
+
+<Elem Name="市場分析表" NameU="Market Analysis"/>
+
+<Elem Name="マーケティング ミックス" NameU="Marketing Mix"/>
+
+<Elem Name="範囲 1" NameU="Scope"/>
+
+<Elem Name="採用プロセス" NameU="Adoption Process"/>
+
+<Elem Name="曲線" NameU="Normal Curve"/>
+
+<Elem Name="テキストボックス" NameU="Text Block"/>
+
+<Elem Name="3D 矩形" NameU="3D Box"/>
+
+<Elem Name="3D 円形" NameU="3D Circle"/>
+
+<Elem Name="ファイブフォースモデル" NameU="Five Force Model"/>
+
+<Elem Name="6つの市場モデル" NameU="Six Markets Model"/>
+
+<Elem Name="6つのシグマ" NameU="Six Sigma"/>
+
+<Elem Name="ファンネル" NameU="Funnel"/>
+
+<Elem Name="連続体図" NameU="Continuum Diagram"/>
+
+<Elem Name="リーダーシップの連続体図" NameU="Leadship Continuum Diagram"/>
+
+<Elem Name="製品のライフサイクル" NameU="Product Life Cycle"/>
+
+</Lib>

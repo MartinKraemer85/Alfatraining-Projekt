@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="WorkFlow Steps">
+    <Elem NameU="Entertain" Name="엔터테인"/>
+    <Elem NameU="Request" Name="요청"/>
+    <Elem NameU="Collect Data" Name="데이터 수집"/>
+    <Elem NameU="Analyze" Name="분석"/>
+    <Elem NameU="Research" Name="조사"/>
+    <Elem NameU="Brainstorm" Name="브레인스토밍"/>
+    <Elem NameU="Submit" Name="제출"/>
+    <Elem NameU="Submit 2" Name="제출 2"/>
+    <Elem NameU="Program analysis" Name="프로그램 분석"/>
+    <Elem NameU="Approve" Name="허가"/>
+    <Elem NameU="Refuse" Name="거부"/>
+    <Elem NameU="Schedule" Name="일정"/>
+    <Elem NameU="Prototype Design" Name="프로토타입 디자인"/>
+    <Elem NameU="Task" Name="작업"/>
+    <Elem NameU="Problem" Name="문제"/>
+    <Elem NameU="Meeting" Name="회의"/>
+    <Elem NameU="Present" Name="전시"/>
+    <Elem NameU="Call" Name="전화"/>
+    <Elem NameU="Agreement" Name="협의 달성"/>
+</Lib>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Machines">
+    <Elem NameU="Automatic chucker" Name="자동 척"/>
+    <Elem NameU="Automatic screw machine" Name="자동 스크류 기계"/>
+    <Elem NameU="Automatic universal grinder" Name="자동 그라인더"/>
+    <Elem NameU="Ball mill" Name="볼 제분기"/>
+    <Elem NameU="Bed-type horizontal-spindle production mill" Name="베드 형 수평 스핀들 생산 밀"/>
+    <Elem NameU="Centerless grinder" Name="센터리스연삭기"/>
+    <Elem NameU="CMM" Name="CMM"/>
+    <Elem NameU="CNC chucke" Name="CMM 척"/>
+    <Elem NameU="CNC coordinate measuring" Name="CNC 좌표 측정"/>
+    <Elem NameU="CNC turret punch press" Name="CNC 터렛 펀치 프레스"/>
+    <Elem NameU="CNC vertical machining center" Name="CNC 머시닝 센터"/>
+    <Elem NameU="Compact CNC turning center" Name="소형 CNC 터닝 센터"/>
+    <Elem NameU="Computer-assisted lathe" Name="컴퓨터 보조 선반"/>
+    <Elem NameU="Corrective roller leveler" Name="수정 롤러 레벨러"/>
+    <Elem NameU="Deburring machine" Name="디버링 머신"/>
+    <Elem NameU="Drill bit" Name="드릴 비트"/>
+    <Elem NameU="Drill-tap machine" Name="드릴 탭 머신"/>
+    <Elem NameU="Engine lathe" Name="엔진 선반"/>
+    <Elem NameU="Floor plate" Name="바닥 판"/>
+    <Elem NameU="Gang-tooled turning machine" Name="Gang-tooled 터닝 머신"/>
+    <Elem NameU="Gear" Name="기어"/>
+    <Elem NameU="Grinder" Name="연삭기"/>
+    <Elem NameU="Grinding machine" Name="연삭기"/>
+    <Elem NameU="Grinding mill" Name="연삭기"/>
+    <Elem NameU="Heavy-duty band sawing machine" Name="고강도 밴드 톱질 기계"/>
+    <Elem NameU="High-speed flying optic laser system" Name="高速激光设备"/>
+    <Elem NameU="Hob sharpener" Name="고속 광학 레이저 ​​시스템"/>
+    <Elem NameU="Horizontal hydraulic hone" Name="수평 유압 호네"/>
+    <Elem NameU="Horizontal jig mill" Name="수평 지그 밀"/>
+    <Elem NameU="Horizontal machining center" Name="수평 머시닝 센터"/>
+    <Elem NameU="Horizontal mill" Name="수평 밀"/>
+    <Elem NameU="Horizontal spindle grinder" Name="수평 연삭기"/>
+    <Elem NameU="Hydra-mechanical press brake" Name="Hydra-mechanical 프레스 브레이크"/>
+    <Elem NameU="Hydraulic press brake" Name="유압 프레스 브레이크 2"/>
+    <Elem NameU="Industrial oven" Number="2" Name="산업용 오븐"/>
+    <Elem NameU="Internal grinding machine" Name="내부 연삭기"/>
+    <Elem NameU="Lapping and polishing system" Name="랩핑 및 폴리싱 시스템"/>
+    <Elem NameU="Mechanical ironworker" Name="기계 ironworker"/>
+    <Elem NameU="Mechanical press" Name="기계식 프레스"/>
+    <Elem NameU="Mist collector" Name="미스트 수집기"/>
+    <Elem NameU="Multiple-spindle drill" Number="2" Name="다중 스핀들 드릴"/>
+    <Elem NameU="Parts washer" Name="부품 세척기"/>
+    <Elem NameU="Power metal press" Name="파워 메탈 프레스"/>
+    <Elem NameU="Power squaring shear" Name="파워 스퀘어 링 전단"/>
+    <Elem NameU="Production band saw" Number="2" Name="띠톱 기계"/>
+    <Elem NameU="Punch press" Name="스탬핑 기계"/>
+    <Elem NameU="Radial drill" Name="방사형 드릴링 머신"/>
+    <Elem NameU="Rolling mill" Name="롤링 밀"/>
+    <Elem NameU="Rotary surface grinder" Number="2" Name="회전 표면 연삭기"/>
+    <Elem NameU="Seam welder" Name="심용접기"/>
+    <Elem NameU="Spray nozzle" Name="스프레이 노즐"/>
+    <Elem NameU="Stamping machine" Number="3" Name="스탬핑 기계"/>
+    <Elem NameU="Transfer press" Name="트랜스퍼 프레스"/>
+    <Elem NameU="Universal turning center" Name="터닝 센터"/>
+    <Elem NameU="Vertical automatic cutting tool presetting machine" Name="수직 자동 절삭 공구 사전 설정 기계"/>
+    <Elem NameU="Vertical band saw" Name="수직 밴드 쏘"/>
+    <Elem NameU="Vertical compression hydraulic press bender" Name="수직 압축 유압 프레스 벤더"/>
+    <Elem NameU="Vertical lathe" Name="수직 선반"/>
+    <Elem NameU="Vertical machining center" Name="수직 머시닝 센터心"/>
+    <Elem NameU="Vertical spindle rotary surface grinder" Name="수직 스핀들 회전 표면 연삭기"/>
+    <Elem NameU="Vertical deburring" Number="2" Name="수직 디버링"/>
+    <Elem NameU="Coal mill" Name="석탄 밀"/>
+    <Elem NameU="Yeast molding machine" Name="효모 성형기"/>
+    <Elem NameU="Pulverizer 1" Name="분쇄기 1"/>
+    <Elem NameU="Pulverizer 2" Name="분쇄기 2"/>
+    <Elem NameU="Pulverizer 3" Name="분쇄기 3"/>
+    <Elem NameU="ESP" Name="ES"/>
+    <Elem NameU="Mix" Name="믹서"/>
+    <Elem NameU="Mash preparation" Name="매시 준비"/>
+    <Elem NameU="Wet grains" Name="Wet grains"/>
+    <Elem NameU="Low-level economizer" Name="저수준 이코노마이저"/>
+    <Elem NameU="Homogenization" Name="균질화"/>
+    <Elem NameU="Homogeneous Emulsion" Name="균질 에멀젼"/>
+    <Elem NameU="Jacketed kettle" Name="재킷 주전자"/>
+    <Elem NameU="Fruit washing machine" Name="과일 세척기"/>
+    <Elem NameU="Plate Filter Press" Name="플레이트 필터 프레스"/>
+    <Elem NameU="Pick up the fruit machine" Name="과일 기계 픽업"/>
+    <Elem NameU="Beater" Name="비터"/>
+    <Elem NameU="Can washer" Name="세관기"/>
+    <Elem NameU="Tin seamer" Name="밀봉기"/>
+    <Elem NameU="Steam sterilizer" Name="증기 살균기"/>
+    <Elem NameU="Granulator" Name="과립기"/>
+    <Elem NameU="Ultra high temperature instantaneous sterilization machine" Name="초고온 순간 살균기"/>
+</Lib>

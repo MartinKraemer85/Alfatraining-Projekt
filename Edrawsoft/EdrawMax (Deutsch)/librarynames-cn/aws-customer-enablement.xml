@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="AWS Customer Enablement">
+	<Elem NameU="AWS-IQ" Name="AWS智商"/>
+	<Elem NameU="AWS-Managed-Services" Name="AWS托管服务"/>
+	<Elem NameU="AWS-Professional-Services" Name="AWS专业服务"/>
+	<Elem NameU="AWS-Support" Name="AWS支持"/>
+	<Elem NameU="Customer-Enablement" Name="客户支持"/>
+</Lib>

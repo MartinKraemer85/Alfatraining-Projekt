@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Equipment-Dryers">
+	<Elem NameU="Dryer" Name="Essiccatore"/>
+	<Elem NameU="Fluidized bed dryer" Name="Essiccatore a letto fluido"/>
+	<Elem NameU="Roller conveyor belt dryer" Name="Essiccatore a nastro su rulliera"/>
+	<Elem NameU="Drying oven" Name="Forno di essiccazione"/>
+	<Elem NameU="Rotary drum dryer" Name="Essiccatore rotativo a barilotto"/>
+	<Elem NameU="Drier" Name="Essiccatore"/>
+	<Elem NameU="Heat consumer" Name="Consumatore di Calore"/>
+	<Elem NameU="Spray dryer" Name="Atomizzatore"/>
+	<Elem NameU="Moving shelf dryer" Name="Essiccatore mobile"/>
+</Lib>

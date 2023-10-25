@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<Lib nameU="Communication">
+
+<Elem Name="Package de date cellulaire" NameU="Cellular date package"/>
+
+<Elem Name="Service de messagerie" NameU="Message service"/>
+
+<Elem Name="Service de messages courts" NameU="Short message service"/>
+
+<Elem Name="Service de messagerie vocale" NameU="Voice message service"/>
+
+</Lib>

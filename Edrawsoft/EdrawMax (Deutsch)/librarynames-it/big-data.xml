@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Big Data">
+	<Elem NameU="Add Database" Name="Aggiungi Database"/>
+	<Elem NameU="Accept Database" Name="Accetta Database"/>
+	<Elem NameU="Binary Data Search in Computer" Name="Ricerca Dati Binari nel Computer"/>
+	<Elem NameU="Binary Data Search 1" Name="Ricerca Dati Binari 1"/>
+	<Elem NameU="Binary Data Search 2" Name="Ricerca Dati Binari 2"/>
+	<Elem NameU="Binary Data Search in Phone" Name="Ricerca Dati Binari nel Telefono"/>
+	<Elem NameU="Chat" Name="Chat"/>
+	<Elem NameU="Cloud and Files" Name="Cloud e File"/>
+	<Elem NameU="Cloud Collaboration" Name="Collaborazione Cloud"/>
+	<Elem NameU="Cloud Computing 1" Name="Elaborazione Cloud 1"/>
+	<Elem NameU="Cloud Computing 2" Name="Elaborazione Cloud 2"/>
+	<Elem NameU="Cloud Data Flow" Name="Flusso Dati Cloud"/>
+	<Elem NameU="Cloud Database 1" Name="Database Cloud 1"/>
+	<Elem NameU="Cloud Database 2" Name="Database Cloud 2"/>
+	<Elem NameU="Cloud Data Transfer" Name="Trasferimento Dati Cloud"/>
+	<Elem NameU="Cloud Security" Name="Sicurezza Cloud"/>
+	<Elem NameU="Cloud with People" Name="Cloud con Persone"/>
+	<Elem NameU="Cloud Storage" Name="Archiviazione Cloud"/>
+	<Elem NameU="Computer Data Transfer" Name="Trasferimento Dati sul Computer"/>
+	<Elem NameU="Computer Imput" Name="Input Computer"/>
+	<Elem NameU="Computer Shopping" Name="Shopping Computer"/>
+	<Elem NameU="Computer with Cloud 1" Name="Computer con Cloud 1"/>
+	<Elem NameU="Computer with Cloud 2" Name="Computer con Cloud 2"/>
+	<Elem NameU="Computer Server" Name="Server del Computer"/>
+	<Elem NameU="Connected Cloud" Name="Cloud Connesso"/>
+	<Elem NameU="Connected Email" Name="Email Connessa"/>
+	<Elem NameU="Connected People" Name="Persone Connesse"/>
+	<Elem NameU="Connected Phones" Name="Telefoni Connessi"/>
+	<Elem NameU="Connectivity" Name="Connettività"/>
+	<Elem NameU="Data Analysis 1" Name="Analisi Dati 1"/>
+	<Elem NameU="Data Analysis 2" Name="Analisi Dati 2"/>
+	<Elem NameU="Data Analysis 3" Name="Analisi Dati 3"/>
+	<Elem NameU="Data Analysis 4" Name="Analisi Dati 4"/>
+	<Elem NameU="Data Analysis 5" Name="Analisi Dati 5"/>
+	<Elem NameU="Data Analysis 6" Name="Analisi Dati 6"/>
+	<Elem NameU="Data Analysis 7" Name="Analisi Dati 7"/>
+	<Elem NameU="Data Analysis 8" Name="Analisi Dati 8"/>
+	<Elem NameU="Data Analysis 9" Name="Analisi Dati 9"/>
+	<Elem NameU="Data Analysis 10" Name="Analisi Dati 10"/>
+	<Elem NameU="Data Analysis 11" Name="Analisi Dati 11"/>
+	<Elem NameU="Data Analysis 12" Name="Analisi Dati 12"/>
+	<Elem NameU="Data Analysis Document" Name="Documento per Analisi Dati"/>
+	<Elem NameU="Data Center 1" Name="Centro Dati 1"/>
+	<Elem NameU="Data Center 2" Name="Centro Dati 2"/>
+	<Elem NameU="Data Cloud" Name="Cloud Dati"/>
+	<Elem NameU="Data Consulting" Name="Consultazione Dati"/>
+	<Elem NameU="Data Document" Name="Documento Dati"/>
+	<Elem NameU="Data Files" Name="File di Dati"/>
+	<Elem NameU="Data Filter" Name="Filtro Dati"/>
+	<Elem NameU="Data Flow 1" Name="Flusso di Dati 1"/>
+	<Elem NameU="Data Flow 2" Name="Flusso di Dati 2"/>
+	<Elem NameU="Data Flow 3" Name="Flusso di Dati 3"/>
+	<Elem NameU="Data Flow in Files" Name="Flusso di Dati nei File"/>
+	<Elem NameU="Data to End Devices" Name="Dati a Dispositivi Finali"/>
+	<Elem NameU="Data from Cloud to Computers" Name="Dati da Cloud a Computer"/>
+	<Elem NameU="Data Layers" Name="Livelli di Dati"/>
+	<Elem NameU="Data Location 1" Name="Posizione Dati 1"/>
+	<Elem NameU="Data Location 2" Name="Posizione Dati 2"/>
+	<Elem NameU="Data Management 1" Name="Gestione Dati 1"/>
+	<Elem NameU="Data Management 2" Name="Gestione Dati 2"/>
+	<Elem NameU="Data Management 3" Name="Gestione Dati 3"/>
+	<Elem NameU="Data Security 1" Name="Sicurezza Dati 1"/>
+	<Elem NameU="Data Security 2" Name="Sicurezza Dati 2"/>
+	<Elem NameU="Data Security 3" Name="Sicurezza Dati 3"/>
+	<Elem NameU="Data Transfer 1" Name="Trasferimento Dati 1"/>
+	<Elem NameU="Data Transfer 2" Name="Trasferimento Dati 2"/>
+	<Elem NameU="Data Transfer 3" Name="Trasferimento Dati 3"/>
+	<Elem NameU="Data Transfer 4" Name="Trasferimento Dati 4"/>
+	<Elem NameU="Data Transfer Between Mobile Device" Name="Trasferimento Dati tra Dispositivi Mobili"/>
+	<Elem NameU="Data Variety" Name="Varietà Dati"/>
+	<Elem NameU="Data Warehouse 1" Name="Magazzino Dati 1"/>
+	<Elem NameU="Data Warehouse 2" Name="Magazzino Dati 2"/>
+	<Elem NameU="Database" Name="Database"/>
+	<Elem NameU="Delete Database" Name="Cancella Database"/>
+	<Elem NameU="Disk Array" Name="Matrice Disco"/>
+	<Elem NameU="Document Security" Name="Sicurezza Documento"/>
+	<Elem NameU="Email Transfer" Name="Trasferimento Email"/>
+	<Elem NameU="Email Search" Name="Ricerca Email"/>
+	<Elem NameU="Fast Speed" Name="Velocità Elevata"/>
+	<Elem NameU="Global Communication" Name="Comunicazione Globale"/>
+	<Elem NameU="Global Data 1" Name="Dati Globali 1"/>
+	<Elem NameU="Global Data 2" Name="Dati Globali 2"/>
+	<Elem NameU="Global Data 3" Name="Dati Globali 3"/>
+	<Elem NameU="Global Search 1" Name="Ricerca Globale 1"/>
+	<Elem NameU="Global Search 2" Name="Ricerca Globale 2"/>
+	<Elem NameU="Global Search 3" Name="Ricerca Globale 3"/>
+	<Elem NameU="Innovation" Name="Innovazione"/>
+	<Elem NameU="Mail Management" Name="Gestione Mail"/>
+	<Elem NameU="Mobile Data Transfer" Name="Trasferimento Dati Mobili"/>
+	<Elem NameU="Mobile Devices" Name="Dispositivi Mobili"/>
+	<Elem NameU="Mobile Device Management" Name="Gestione Dispositivi Mobili"/>
+	<Elem NameU="Mobile Phone with Email" Name="Telefono Mobile con Email"/>
+	<Elem NameU="People Network" Name="Rete di Persone"/>
+	<Elem NameU="People Wifi Connection" Name="Connessione Wi-Fi delle Persone"/>
+	<Elem NameU="Phone with Globe" Name="Telefono con Globe"/>
+	<Elem NameU="Phone Shopping" Name="Shopping Telefonico"/>
+	<Elem NameU="Purchase Analysis" Name="Analisi Acquisti"/>
+	<Elem NameU="Satellite" Name="Satellite"/>
+	<Elem NameU="Secure Data" Name="Dati Sicuri"/>
+	<Elem NameU="Search Data 1" Name="Cerca Dati 1"/>
+	<Elem NameU="Search Data 2" Name="Cerca Dati 2"/>
+	<Elem NameU="Search Data 3" Name="Cerca Dati 3"/>
+	<Elem NameU="Search Data 4" Name="Cerca Dati 4"/>
+	<Elem NameU="Search Files" Name="Cerca File"/>
+	<Elem NameU="Search Management" Name="Gestione Ricerca"/>
+	<Elem NameU="Search People" Name="Cerca Persone"/>
+	<Elem NameU="Talking" Name="Parlando"/>
+	<Elem NameU="Target" Name="Target"/>
+	<Elem NameU="Transfer" Name="Trasferimento"/>
+	<Elem NameU="Unavailable Database" Name="Database Non Disponibile"/>
+	<Elem NameU="Veracity" Name="Veracità"/>
+</Lib>

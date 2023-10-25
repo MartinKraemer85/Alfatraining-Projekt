@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Middleware">
+    <Elem NameU="EDAS" Name="企業級分佈式應用服務EDAS"/>
+    <Elem NameU="Global transaction service" Name="全局事務服務GTS"/>
+    <Elem NameU="Kafka" Name="Kafka"/>
+    <Elem NameU="Lightweight distributed application service" Name="輕量級分佈式應用服務"/>
+    <Elem NameU="Message queue" Name="消息隊列"/>
+    <Elem NameU="Message queueMQ" Name="消息隊列MQ"/>
+    <Elem NameU="MQTT" Name="微消息隊列MQTT"/>
+    <Elem NameU="PTS" Name="性能測試PTS"/>
+</Lib>

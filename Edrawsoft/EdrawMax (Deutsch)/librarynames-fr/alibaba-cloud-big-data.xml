@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Alibaba Cloud Big Data">
+
+<Elem Name="ADs" NameU="ADs"/>
+
+<Elem Name="Recommandation AI" NameU="AI recommendation"/>
+
+<Elem Name="BI" NameU="BI"/>
+
+<Elem Name="Intégration des données" NameU="Data integration"/>
+
+<Elem Name="l'analyse de données de lac" NameU="Data lake analytics"/>
+
+<Elem Name="Données V" NameU="Data V"/>
+
+<Elem Name="Données Fonctionne" NameU="Data works"/>
+
+<Elem Name="Hub de données" NameU="Datahub"/>
+
+<Elem Name="Données Phin" NameU="Dataphin"/>
+
+<Elem Name="Profil d'entreprise" NameU="Enterprise profile"/>
+
+<Elem Name="Analyse graphique" NameU="Graph analytics"/>
+
+<Elem Name="IDE" NameU="IDE"/>
+
+<Elem Name="Analyse d'image" NameU="Image analysis"/>
+
+<Elem Name="Iplus I +" NameU="Iplus I+"/>
+
+<Elem Name="ODPS" NameU="ODPS"/>
+
+<Elem Name="Ouvrir annonces" NameU="Open ads"/>
+
+<Elem Name="Open ADs" NameU="Open ADs"/>
+
+<Elem Name="Ouvrir la recherche" NameU="Open search"/>
+
+<Elem Name="Porana" NameU="Porana"/>
+
+<Elem Name="Prophète" NameU="Prophet"/>
+
+<Elem Name="Moteur de recommandation" NameU="Recommendation engine"/>
+
+<Elem Name="Moteur de règles" NameU="Rule engine"/>
+
+<Elem Name="Calcul de flux" NameU="Stream compute"/>
+
+</Lib>

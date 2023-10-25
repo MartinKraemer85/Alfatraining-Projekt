@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Entity Relationship">
+    <Elem NameU="Entity" Name="엔터티"/>
+    <Elem NameU="Entity 2" Name="엔터티 2"/>
+    <Elem NameU="Entity 3" Name="엔터티 3"/>
+    <Elem NameU="View" Name="보기"/>
+    <Elem NameU="Relationship" Name="관계"/>
+    <Elem NameU="Parent to Category" Name="카테고리 상위"/>
+    <Elem NameU="Category" Name="카테고리"/>
+    <Elem NameU="Category to Child" Name="카테고리 하위"/>
+    <Elem NameU="Dynamic Connector" Name="다이나믹 연결선"/>
+    <Elem NameU="Line Connector" Name="라인 커넥터"/>
+    <Elem NameU="Entity 5" Name="엔터티 5"/>
+    <Elem NameU="Strong Entity" Name="강한 엔터티"/>
+    <Elem NameU="Weak Entity" Name="약한 엔터티"/>
+    <Elem NameU="Strong Relationship" Name="강한 관계"/>
+    <Elem NameU="Weak Relationship" Name="약한 관계"/>
+    <Elem NameU="Attribute" Name="속성"/>
+    <Elem NameU="Derived Attribute" Name="파생 속성"/>
+    <Elem NameU="Multi-valued Attribute" Name="다중값 속성"/>
+    <Elem NameU="Constraints" Name="제약 조건"/>
+    <Elem NameU="Cardinality" Name="카디널리티"/>
+    <Elem NameU="Partial" Name="부분"/>
+    <Elem NameU="Weak line" Name="약한 라인"/>
+    <Elem NameU="Participation" Name="참여"/>
+    <Elem NameU="Participation 2" Name="참여 2"/>
+</Lib>

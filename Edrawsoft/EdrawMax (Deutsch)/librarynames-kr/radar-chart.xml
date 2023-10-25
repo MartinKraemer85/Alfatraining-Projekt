@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Radar Chart">
+    <Elem NameU="Spider Chart 1" Name="방사형 차트1"/>
+    <Elem NameU="Spider Chart 2" Name="방사형 차트2"/>
+    <Elem NameU="Spider Chart 3" Name="방사형 차트3"/>
+    <Elem NameU="Spider Chart 4" Name="방사형 차트4"/>
+    <Elem NameU="100% Spider Chart 1" Name="100%방사형 차트 1"/>
+    <Elem NameU="100% Spider Chart 2" Name="100%방사형 차트 2"/>
+</Lib>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Terminals and Connectors">
+    <Elem NameU="Male Contact" Name="M 觸點"/>
+    <Elem NameU="Female Contact" Name="F 觸點"/>
+    <Elem NameU="Male Contact 2" Name="M 觸點"/>
+    <Elem NameU="Female Contact 2" Name="F 觸點 2"/>
+    <Elem NameU="Adapter" Name="適配器"/>
+    <Elem NameU="Cable terminal" Name="電纜終端"/>
+    <Elem NameU="Circuit terminal" Name="電路端子"/>
+    <Elem NameU="Terminal board" Name="端子板"/>
+    <Elem NameU="Cable termination" Name="電纜終端"/>
+    <Elem NameU="2-conductor jack" Name="兩導線插座"/>
+    <Elem NameU="2-conductor plug" Name="兩導線插頭"/>
+    <Elem NameU="Normalled jacks" Name="正常雙向布線的插座"/>
+    <Elem NameU="Normalled jack" Name="正常單向布線的插"/>
+    <Elem NameU="Coaxial outside conductor" Name="同軸外部導體"/>
+    <Elem NameU="Coaxial center conductor" Name="同軸中心導體"/>
+    <Elem NameU="Large D connector" Name="大號 D 連接器"/>
+    <Elem NameU="Small D connector" Name="小號 D 連接器"/>
+    <Elem NameU="C header connector" Name="C 頭連接器"/>
+    <Elem NameU="Shielded jack/plug" Name="屏蔽插座/插頭"/>
+    <Elem NameU="Coaxial jack/plug" Name="同軸插座/插頭"/>
+    <Elem NameU="F/M 2-conductor 1" Name="F/M 2-導線 1"/>
+    <Elem NameU="F/M 2-conductor 2" Name="F/M 2-導線 2"/>
+    <Elem NameU="F/M 2-conductor 3" Name="F/M 2-導線 3"/>
+    <Elem NameU="F/M 3-conductor 1" Name="F/M 3-導線 1"/>
+    <Elem NameU="F/M 3-conductor 2" Name="F/M 3-導線 2"/>
+    <Elem NameU="F/M 3-conductor 3" Name="F/M 3-導線 3"/>
+    <Elem NameU="F/M 3-conductor 4" Name="F/M 3-導線 4"/>
+    <Elem NameU="F/M 3-conductor 5" Name="F/M 3-導線 5"/>
+    <Elem NameU="Mated pair" Name="配磨"/>
+    <Elem NameU="3-conductor plug" Name="三導線插頭"/>
+    <Elem NameU="3-conductor jack" Name="三導線插座"/>
+</Lib>

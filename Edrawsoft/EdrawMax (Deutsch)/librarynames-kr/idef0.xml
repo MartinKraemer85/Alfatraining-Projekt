@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="IDEF0">
+    <Elem NameU="Process box" Name="프로세스 상자"/>
+    <Elem NameU="Title block" Name="제목 블록"/>
+    <Elem NameU="N-type line" Number="2" Name="N형 라인"/>
+    <Elem NameU="Text block" Name="텍스트 블록"/>
+    <Elem NameU="Node" Name="노드"/>
+    <Elem NameU="1 legged connector" Name="단방향 연결선"/>
+    <Elem NameU="IDEF0 connector" Number="2" Name="IDEF0 연결선"/>
+    <Elem NameU="Dynamic connector" Name="다이나믹 연결선"/>
+    <Elem NameU="Side text callout" Name="사이드 설명선"/>
+</Lib>

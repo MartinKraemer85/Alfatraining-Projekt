@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="PID Blowers">
+	<Elem NameU="3-D ISA Blower" Name="Ventilador 3-D ISA"/>
+	<Elem NameU="Air compressor" Name="Compressor de ar"/>
+	<Elem NameU="Blower" Name="Ventilador"/>
+	<Elem NameU="Centrifugal air blower" Name="Ventilador de ar centrífugo"/>
+	<Elem NameU="Fan-powered terminal unit" Name="Unidade terminal a ventoinha"/>
+	<Elem NameU="Fiberglass fan air" Name="Ar de ventoinha de fibra de vidro"/>
+	<Elem NameU="Fume exhauster" Name="Exaustor de fumo"/>
+	<Elem NameU="Gas pump" Name="Bomba de gás"/>
+	<Elem NameU="Gray shaded fan" Name="Ventoinha de sombra cinzenta"/>
+	<Elem NameU="HVAC compressor" Name="Compressor HVAC"/>
+	<Elem NameU="Inline air filter" Name="Filtro de ar em linha"/>
+	<Elem NameU="Mixed flow inline fan" Name="Ventoinha em linha de fluxo misturado"/>
+	<Elem NameU="Plastic blower" Name="Ventilador plástico"/>
+	<Elem NameU="Pressure blower" Name="Ventilador de pressão"/>
+	<Elem NameU="radial fume exhauster" Name="exaustor de fumo radial"/>
+	<Elem NameU="Reciprocating compressor" Name="Compressor alternativo"/>
+	<Elem NameU="Regenerative blower" Name="Ventilador regenerativo"/>
+	<Elem NameU="Simple blower" Name="Ventilador simples"/>
+	<Elem NameU="Turbo blower" Name="Ventilador turbo"/>
+	<Elem NameU="Vaneaxial fan" Name="Ventoinha vaneaxial"/>
+	<Elem NameU="Vortex blower" Name="Ventilador vórtice"/>
+	<Elem NameU="Draught Fan" Name="Ventoinha de Corrente de Ar"/>
+	<Elem NameU="Draught fan" Name="Ventoinha de corrente de ar"/>
+	<Elem NameU="Dilution air blower" Name="Ventilador de ar de diluição"/>
+	<Elem NameU="Airlock" Name="Câmara de vácuo"/>
+	<Elem NameU="Pressure fan" Name="Ventoinha de pressão"/>
+	<Elem NameU="Blower room" Name="Sala de ventilador"/>
+	<Elem NameU="Flue Gas Induced Fan" Name="Ventoinha Induzida a Gás de Combustão"/>
+	<Elem NameU="Compressor" Name="Compressor"/>
+	<Elem NameU="Compressor Unit" Name="Unidade de Compressor"/>
+	<Elem NameU="Filter press" Name="Prensa de filtro"/>
+</Lib>

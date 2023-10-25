@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Animals-Sea Life">
+    <Elem NameU="Goldfish" Name="金魚"/>
+    <Elem NameU="Fish" Name="魚"/>
+    <Elem NameU="Kiss Fish 1" Name="接吻魚1"/>
+    <Elem NameU="Kiss Fish 2" Name="接吻魚2"/>
+    <Elem NameU="Nemo" Name="小丑魚"/>
+    <Elem NameU="Hippocampus 1" Name="海馬1"/>
+    <Elem NameU="Hippocampus 2" Name="海馬2"/>
+    <Elem NameU="Jellyfish 1" Name="水母1"/>
+    <Elem NameU="Jellyfish 2" Name="水母2"/>
+    <Elem NameU="Sea lion 1" Name="海獅1"/>
+    <Elem NameU="Sea lion 2" Name="海獅1"/>
+    <Elem NameU="Dolphin 1" Name="海豚1"/>
+    <Elem NameU="Dolphin 2" Name="海豚2"/>
+    <Elem NameU="Dolphin 3" Name="海豚3"/>
+    <Elem NameU="Penguin 1" Name="企鵝1"/>
+    <Elem NameU="Penguin 2" Name="企鵝2"/>
+    <Elem NameU="Octopus" Name="章魚"/>
+    <Elem NameU="Starfish 1" Name="海星1"/>
+    <Elem NameU="Starfish 2" Name="海星2"/>
+    <Elem NameU="Starfish 3" Name="海星3"/>
+    <Elem NameU="Shark" Name="鯊魚"/>
+    <Elem NameU="Walrus" Name="海象"/>
+    <Elem NameU="Seal 1" Name="海豹1"/>
+    <Elem NameU="Seal 2" Name="海豹2"/>
+    <Elem NameU="Seashell" Name="海貝殼"/>
+    <Elem NameU="Spiral Shell 1" Name="海螺1"/>
+    <Elem NameU="Spiral Shell 2" Name="海螺2"/>
+    <Elem NameU="Spiral Shell 3" Name="海螺3"/>
+</Lib>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Azure VMs by Function">
+	<Elem NameU="Active Directory VM Multi" Name="VM Multiple per Active Directory"/>
+	<Elem NameU="Active Directory VM" Name="VM per Active Directory"/>
+	<Elem NameU="Application Server VM Multi" Name="VM Multiple Server di Applicazione"/>
+	<Elem NameU="Application Server VM" Name="VM Server di Applicazione"/>
+	<Elem NameU="Database Server VM Multi" Name="VM Multiple Server di Database"/>
+	<Elem NameU="Database Server VM" Name="VM Server di Database"/>
+	<Elem NameU="Directory Server VM Multi" Name="VM Multiple Server di Directory"/>
+	<Elem NameU="Directory Server VM" Name="VM Server di Directory"/>
+	<Elem NameU="Domain Server VM" Name="VM Server di Dominio"/>
+	<Elem NameU="File Server VM" Name="VM File Server"/>
+	<Elem NameU="Web Server VM Multi" Name="VM Multiple Server Web"/>
+	<Elem NameU="Web Server VM" Name="VM Server Web"/>
+	<Elem NameU="Windows Server VM Multi" Name="VM Multiple Windows Server"/>
+	<Elem NameU="Windows Server VM" Name="VM Windows Server"/>
+</Lib>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="VHF-UHF-SHF">
+    <Elem NameU="Directional coupler" Name="定向耦合器"/>
+    <Elem NameU="Mode suppressor" Name="波模抑制器"/>
+    <Elem NameU="Mode filter" Name="波模滤波器"/>
+    <Elem NameU="Mode filter indication" Name="模滤波器指示"/>
+    <Elem NameU="Discontinuity" Name="不连续性"/>
+    <Elem NameU="Equivalent series" Name="等效串联"/>
+    <Elem NameU="Equivalent shunt" Name="等效并联"/>
+    <Elem NameU="Capacitive reactance" Name="电容性阻抗"/>
+    <Elem NameU="Inductive reactance" Name="电感性阻抗"/>
+    <Elem NameU="Inductance capacitance" Name="电感电容"/>
+    <Elem NameU="Resistance" Name="电阻"/>
+    <Elem NameU="E-H tuner" Name="E-H 调谐器"/>
+    <Elem NameU="Conductance" Name="电导"/>
+    <Elem NameU="Inductive susceptance" Name="电感性电纳"/>
+    <Elem NameU="Capacitive susceptance" Name="电容性电纳"/>
+    <Elem NameU="Slide screw tuner" Name="滑动旋拧式调谐器"/>
+    <Elem NameU="Multistub tuner" Name="多短线调谐器"/>
+    <Elem NameU="Power divider" Name="功率分配器"/>
+    <Elem NameU="Three-port junction" Name="三端口接线"/>
+    <Elem NameU="Four-port junction" Name="四端口接线"/>
+    <Elem NameU="Rotary joint" Name="旋转接点"/>
+    <Elem NameU="Isolator" Name="隔离器"/>
+    <Elem NameU="Phase shifter" Name="移相器"/>
+    <Elem NameU="Gyrator" Name="回转器"/>
+    <Elem NameU="Circulator fixed" Name="固定循环器"/>
+    <Elem NameU="Circulator reversible" Name="可逆循环器"/>
+    <Elem NameU="Shortcut to Field polarization rotator" Name="场极化转子"/>
+    <Elem NameU="Field polarization amplitude modulator" Name="场极化幅度调制器"/>
+    <Elem NameU="Resonator" Name="谐振器"/>
+    <Elem NameU="Slow-wave coupler" Name="慢波耦合器"/>
+    <Elem NameU="Helical coupler" Name="螺旋耦合器"/>
+    <Elem NameU="Balun" Name="平衡-不平衡变压器"/>
+    <Elem NameU="Frequency filter" Name="频率滤波器"/>
+    <Elem NameU="Phase shifter (matched)" Name="移相器(匹配的)"/>
+    <Elem NameU="Ferrite bead ring" Name="铁珠环"/>
+    <Elem NameU="Line stretcher" Name="线拉伸器"/>
+    <Elem NameU="Maser" Name="微波激射器"/>
+    <Elem NameU="Maser amplifier" Name="微波激射放大器"/>
+    <Elem NameU="Laser" Name="激光"/>
+    <Elem NameU="Laser generator" Name="激光器"/>
+    <Elem NameU="Ruby laser" Name="红宝石激光器"/>
+</Lib>

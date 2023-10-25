@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Security">
+	<Elem NameU="Anti ddos" Name="DDOS"/>
+	<Elem NameU="Antibot" Name="Antibot"/>
+	<Elem NameU="Anti-fraud" Name="사기 방지"/>
+	<Elem NameU="Automated vulnerability detection serivice" Name="취약점 스캐너"/>
+	<Elem NameU="Bastion host" Name="요새 호스트"/>
+	<Elem NameU="Certificates service" Name="증서 서비스"/>
+	<Elem NameU="Cloud authentication" Name="실명 인증"/>
+	<Elem NameU="Cloud firewall" Name="클라우드 방화벽"/>
+	<Elem NameU="Contens security" Name="콘텐츠 보안"/>
+	<Elem NameU="COO" Name="COO"/>
+	<Elem NameU="Data encryption" Name="데이터 암호화"/>
+	<Elem NameU="Database audit" Name="데이터베이스 감사"/>
+	<Elem NameU="DDOS international" Name="DDOS 국제"/>
+	<Elem NameU="DDOS protective package" Name="DDOS 방어 패키지"/>
+	<Elem NameU="DDOS" Name="DDOS"/>
+	<Elem NameU="Encryption service" Name="암호화 서비스"/>
+	<Elem NameU="Game shield" Name="게임 쉴드"/>
+	<Elem NameU="Mobile sercurity" Name="모바일 보안"/>
+	<Elem NameU="Security situation awareness" Name="보안 상태 감지"/>
+	<Elem NameU="Server guard" Name="스마트 가드"/>
+	<Elem NameU="Smart anti-fraud" Name="스마트 사기 방지"/>
+	<Elem NameU="SOS" Name="보안 관리"/>
+	<Elem NameU="SPPC" Name="SPPC"/>
+	<Elem NameU="Web application firewall Web" Name="Web애플리케이션 방화벽 웹"/>
+	<Elem NameU="Yundun hybrid cloud" Name="쉴드 하이브리드 클라우드"/>
+	<Elem NameU="Yundun" Name="Yundun"/>
+</Lib>

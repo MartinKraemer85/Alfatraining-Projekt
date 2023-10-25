@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Pie and Doughnut Charts">
+	<Elem NameU="Pie Chart" Name="円グラフ"/>
+	<Elem NameU="Gradient Pie Chart" Name="グラデーション円グラフ"/>
+	<Elem NameU="Pie Chart 2" Name="円グラフ2"/>
+	<Elem NameU="Pie Chart 3" Name="円グラフ3"/>
+	<Elem NameU="100% Gradient Pie Chart" Name="100％グラデーション円グラフ"/>
+	<Elem NameU="100% Gradient Pie Chart2" Name="100％グラデーション円グラフ 2"/>
+	<Elem NameU="Doughnut Chart 1" Name="ドーナツグラフ1"/>
+	<Elem NameU="100% Gradient Doughnut Chart" Name="100％グラデーションドーナツグラフ"/>
+	<Elem NameU="100% Doughnut Chart" Name="100％グラデーションドーナツグラフ"/>
+	<Elem NameU="Gradient Doughnut Chart 1" Name="グラデーションドーナツグラフ1"/>
+	<Elem NameU="Gradient Doughnut Chart 2" Name="グラデーションドーナツグラフ2"/>
+	<Elem NameU="Gradient Doughnut Chart 3" Name="グラデーションドーナツグラフ3"/>
+	<Elem NameU="Doughnut Chart 2" Name="ドーナツグラフ2"/>
+	<Elem NameU="Doughnut Chart 3" Name="ドーナツグラフ3"/>
+	<Elem NameU="Doughnut Chart 4" Name="ドーナツグラフ4"/>
+	<Elem NameU="Doughnut Chart 5" Name="ドーナツグラフ5"/>
+	<Elem NameU="Rose Chart 1" Name="ローズチャート1"/>
+	<Elem NameU="Rose Chart 2" Name="ローズチャート2"/>
+	<Elem NameU="Gradient Rose Chart 1" Name="グラデーションローズチャート1"/>
+	<Elem NameU="Gradient Rose Chart 2" Name="グラデーションローズチャート2"/>
+	<Elem NameU="Gradient Rose Chart 3" Name="グラデーションローズチャート3"/>
+	<Elem NameU="Rose Chart 3" Name="ローズチャート3"/>
+	<Elem NameU="Gradient Rose Chart 4" Name="グラデーションローズチャート4"/>
+</Lib>

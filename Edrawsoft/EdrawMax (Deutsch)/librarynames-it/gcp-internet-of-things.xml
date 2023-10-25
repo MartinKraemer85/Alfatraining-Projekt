@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="GCP Internet of Things">
+	<Elem NameU="Senior Project" Name="Piano Avanzato"/>
+	<Elem NameU="Cloud task API" Name="API Attività Cloud"/>
+	<Elem NameU="Cloud teaching" Name="Insegnamento Dispositivo Cloud"/>
+	<Elem NameU="Cloud natural language API" Name="API Linguaggio Naturale Cloud"/>
+	<Elem NameU="Cloud speaking API" Name="API Voce Cloud"/>
+	<Elem NameU="Cloud translation API" Name="API Traduzione Cloud"/>
+	<Elem NameU="Cloud vedio intelligence API" Name="API Video Smart Cloud"/>
+	<Elem NameU="Cloud Vision API" Name="API Cloud Vision"/>
+</Lib>

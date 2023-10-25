@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Library Version="10.1.2">
+    <Templates Name="Custom">
+        <Template Path="./custom/collect.edt" Name="collect"/>
+    </Templates>
+</Library>

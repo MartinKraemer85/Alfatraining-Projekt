@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Fault Tree Analysis Shapes">
+    <Elem NameU="AND gate" Name="与门"/>
+    <Elem NameU="OR gate" Name="或门"/>
+    <Elem NameU="Inhibit gate" Name="禁止门"/>
+    <Elem NameU="Priority AND gate" Name="优先与门"/>
+    <Elem NameU="Exclusive OR gate" Name="异或门"/>
+    <Elem NameU="Combination" Name="组合"/>
+    <Elem NameU="Intermediate event" Name="中间事件"/>
+    <Elem NameU="Basic event" Name="基本事件"/>
+    <Elem NameU="Undeveloped event" Name="未开展事件"/>
+    <Elem NameU="Initiating event" Name="初始事件"/>
+    <Elem NameU="Conditional even" Name="条件事件"/>
+    <Elem NameU="Transfer symbol" Name="转移符号"/>
+    <Elem NameU="Curve connector" Name="曲线连接线"/>
+</Lib>

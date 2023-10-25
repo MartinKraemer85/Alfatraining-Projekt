@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Equipment-Centrifuges">
+    <Elem NameU="Centrifugal" Name="離心機"/>
+    <Elem NameU="Centrifugal compressor" Name="離心式壓縮機"/>
+    <Elem NameU="Centrifugal compressor 2" Name="離心式壓縮機 2"/>
+    <Elem NameU="Centrifugal compressor 3" Name="離心式壓縮機 3"/>
+    <Elem NameU="Centrifuge, Screw, Solid Shell" Name="離心機、螺桿、固體外殼"/>
+    <Elem NameU="Centrifuge, Solid shell" Name="離心機、固體外殼"/>
+    <Elem NameU="Centrifuge, High speed" Name="高速離心機"/>
+    <Elem NameU="Centrifuge, Perforated shell" Name="離心機、螺桿、多孔殼"/>
+    <Elem NameU="Centrifuge, Pusher" Name="離心機，推進器"/>
+    <Elem NameU="Centrifuge, Screw, Perforated shell" Name="離心機、螺桿、多孔殼"/>
+    <Elem NameU="Centrifuge, Separator disc" Name="離心機,分離器閥瓣"/>
+    <Elem NameU="Centrifuge, Skimmer" Name="離心機, 撇渣器"/>
+    <Elem NameU="Centrifugal blower" Name="離心式鼓風機"/>
+    <Elem NameU="Centrifugal pump" Name="離心泵"/>
+    <Elem NameU="Centrifugal pump 2" Name="離心泵 2"/>
+    <Elem NameU="Centrifugal pump 3" Name="離心泵 3"/>
+    <Elem NameU="Centrifugal pump 4" Name="離心泵 4"/>
+    <Elem NameU="Centrifugal fan" Name="離心式鼓風機"/>
+    <Elem NameU="Centrifugal pump" Name="離心泵"/>
+    <Elem NameU="Centrifugal fan" Name="離心式鼓風機"/>
+    <Elem NameU="Centrifuge" Name="離心機"/>
+</Lib>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="User">
+	<Elem NameU="Add User" Name="Aggiungi Utente"/>
+	<Elem NameU="Delete User" Name="Elimina Utente"/>
+	<Elem NameU="Remove User" Name="Rimuovi Utente"/>
+	<Elem NameU="Administrator" Name="Amministratore"/>
+	<Elem NameU="Export User" Name="Esporta Utente"/>
+	<Elem NameU="Import User" Name="Importa Utente"/>
+	<Elem NameU="Download User" Name="Scarica Utente"/>
+	<Elem NameU="Upload User" Name="Carica Utente"/>
+	<Elem NameU="Online User" Name="Utente Online"/>
+	<Elem NameU="Warning User" Name="Avvertimento Utente"/>
+	<Elem NameU="Edit User" Name="Modifica Utente"/>
+	<Elem NameU="Like User Profile" Name="Like Profilo Utente"/>
+	<Elem NameU="Locked User" Name="Utente Bloccato"/>
+	<Elem NameU="Unlocked User" Name="Utente Sbloccato"/>
+	<Elem NameU="Mail User" Name="Email all'Utente"/>
+	<Elem NameU="Approve User" Name="Approva Utente"/>
+	<Elem NameU="Denied User" Name="Rifiuta Utente"/>
+	<Elem NameU="Find User" Name="Trova Utente"/>
+	<Elem NameU="Skype Commercial User" Name="Utente Skype Commerciale"/>
+	<Elem NameU="Favorite User" Name="Utente Preferito"/>
+	<Elem NameU="Loading User" Name="Caricamento Utente"/>
+	<Elem NameU="Unknown User" Name="Utente Sconosciuto"/>
+	<Elem NameU="User Store" Name="Negozio Utente"/>
+	<Elem NameU="Outlook User" Name="Utente Outlook"/>
+	<Elem NameU="Csv File" Name="File CSV"/>
+	<Elem NameU="Cloud User" Name="Utente Cloud"/>
+	<Elem NameU="Role Group" Name="Gestione Ruoli"/>
+	<Elem NameU="Mobile User" Name="Utente Mobile"/>
+	<Elem NameU="Home User" Name="Utente Domestico"/>
+	<Elem NameU="Communication" Name="Comunicazione"/>
+	<Elem NameU="UM-Enabled User" Name="Utente con Abilitazione UM"/>
+	<Elem NameU="Response Group" Name="Gruppo di Risposta"/>
+	<Elem NameU="Tenant Admin" Name="Amministratore Utenti"/>
+	<Elem NameU="Dynamic Distribution Group" Name="Gruppo di Distribuzione Dinamico"/>
+	<Elem NameU="Call Center Agent" Name="Agente Call Center"/>
+	<Elem NameU="User" Name="Utente"/>
+	<Elem NameU="Users" Name="Utenti"/>
+	<Elem NameU="Meeting" Name="Riunione"/>
+</Lib>

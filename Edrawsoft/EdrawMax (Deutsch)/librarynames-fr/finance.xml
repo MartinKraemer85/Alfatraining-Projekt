@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Finance">
+
+<Elem Name="Mondiale" NameU="Global"/>
+
+<Elem Name="Recherche" NameU="Research"/>
+
+<Elem Name="International" NameU="International"/>
+
+<Elem Name="Montgolfière" NameU="Hot Air Balloon"/>
+
+<Elem Name="Ville" NameU="City"/>
+
+<Elem Name="Gratte-ciel" NameU="Skyscraper"/>
+
+<Elem Name="Branche" NameU="Branch"/>
+
+<Elem Name="Bureau d'affaires" NameU="Business Office"/>
+
+<Elem Name="Acheter" NameU="Purchase"/>
+
+<Elem Name="Entrepôt" NameU="Warehouse"/>
+
+<Elem Name="Marchandises" NameU="Goods"/>
+
+<Elem Name="Marchandises 2" NameU="Goods 2"/>
+
+<Elem Name="Labour" NameU="Labor"/>
+
+<Elem Name="CEO" NameU="CEO"/>
+
+<Elem Name="CEO 2" NameU="CEO 2"/>
+
+<Elem Name="Communication" NameU="Communication"/>
+
+<Elem Name="Service client" NameU="Customer Service"/>
+
+<Elem Name="Service client 2" NameU="Customer Service 2"/>
+
+<Elem Name="Direction" NameU="Direction"/>
+
+<Elem Name="Concurrence" NameU="Competition"/>
+
+<Elem Name="Travail en équipe" NameU="Team Work"/>
+
+<Elem Name="Contraignant" NameU="Binding"/>
+
+<Elem Name="Facture d'achat" NameU="Invoice"/>
+
+<Elem Name="Lettre" NameU="Letter"/>
+
+<Elem Name="Prix" NameU="Award"/>
+
+<Elem Name="Prix 2" NameU="Award 2"/>
+
+<Elem Name="Revenu" NameU="Income"/>
+
+<Elem Name="Dépenses" NameU="Expenses"/>
+
+<Elem Name="Coût" NameU="Cost"/>
+
+<Elem Name="Impôt" NameU="Tax"/>
+
+<Elem Name="R &amp; D" NameU="R &amp; D"/>
+
+<Elem Name="Caisse enregistreuse" NameU="Cash Register"/>
+
+<Elem Name="Lingot d'or" NameU="Gold Bullion"/>
+
+<Elem Name="Lingots d'argent" NameU="Silver Bullion"/>
+
+<Elem Name="Diamant" NameU="Diamond"/>
+
+<Elem Name="Espèces" NameU="Cash"/>
+
+<Elem Name="Pièce" NameU="Coin"/>
+
+<Elem Name="Dépôt" NameU="Deposit"/>
+
+<Elem Name="Chèque" NameU="Check"/>
+
+<Elem Name="Carte bancaire" NameU="Bank Card"/>
+
+<Elem Name="Carte de crédit" NameU="Credit Card"/>
+
+<Elem Name="Argent" NameU="Money"/>
+
+<Elem Name="Paiement en espèces" NameU="Cash Payment"/>
+
+<Elem Name="Paiement en ligne" NameU="Online Payment"/>
+
+<Elem Name="Paiement mobile" NameU="Mobile Payment"/>
+
+<Elem Name="Paiement par courrier" NameU="Mail Payment"/>
+
+<Elem Name="Comptabilité" NameU="Accounting"/>
+
+<Elem Name="Oeufs d'or" NameU="Golden Eggs"/>
+
+<Elem Name="Investissement" NameU="Investment"/>
+
+<Elem Name="Obligation du Trésor" NameU="Bonds"/>
+
+<Elem Name="Les actions" NameU="Stock"/>
+
+<Elem Name="Données" NameU="Data"/>
+
+<Elem Name="Enchères" NameU="Auction"/>
+
+<Elem Name="Balance 2" NameU="Balance 2"/>
+
+<Elem Name="Antique" NameU="Antique"/>
+
+<Elem Name="Banque" NameU="Bank"/>
+
+<Elem Name="Sûr" NameU="Safe"/>
+
+<Elem Name="Sécurité 1" NameU="Security 1"/>
+
+<Elem Name="Sécurité 2" NameU="Security 2"/>
+
+<Elem Name="Balance 1" NameU="Balance 1"/>
+
+<Elem Name="Roulette" NameU="Roulette"/>
+
+<Elem Name="Choix" NameU="Choice"/>
+
+<Elem Name="Sablier" NameU="Hourglass"/>
+
+<Elem Name="Service" NameU="Service"/>
+
+<Elem Name="Volant" NameU="Steering Wheel"/>
+
+<Elem Name="Pièce d'or" NameU="Gold Coin"/>
+
+<Elem Name="Des économies" NameU="Savings"/>
+
+<Elem Name="Lingots d'or" NameU="Gold Bars"/>
+
+<Elem Name="Lingots d'or" NameU="Gold ingot"/>
+
+<Elem Name="Portefeuille" NameU="Wallet"/>
+
+<Elem Name="Sac d'argent" NameU="Money Bag"/>
+
+<Elem Name="Cash Box" NameU="Cash Box"/>
+
+<Elem Name="Échange de dollars" NameU="Dollar Exchange"/>
+
+<Elem Name="Retour sur investissement" NameU="Return on Investment"/>
+
+<Elem Name="Dollar" NameU="Dollar"/>
+
+<Elem Name="RMB" NameU="RMB"/>
+
+<Elem Name="Cible" NameU="Target"/>
+
+<Elem Name="Marteau de loi" NameU="Law Hammer"/>
+
+<Elem Name="Échelles de justice" NameU="Scales of Justice"/>
+
+<Elem Name="Analyse" NameU="Analysis"/>
+
+<Elem Name="Sécurité en dollars" NameU="Dollar Security"/>
+
+<Elem Name="Rapports" NameU="Reports"/>
+
+<Elem Name="Perte" NameU="Loss"/>
+
+<Elem Name="Profit" NameU="Profit"/>
+
+<Elem Name="Camembert" NameU="Pie Chart"/>
+
+<Elem Name="Échange" NameU="Exchange"/>
+
+<Elem Name="Prêt" NameU="Loan"/>
+
+<Elem Name="Securité" NameU="Security"/>
+
+</Lib>

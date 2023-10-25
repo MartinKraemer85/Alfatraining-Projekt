@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Birthday">
+
+<Elem Name="Kuchen" NameU="Cake"/>
+
+<Elem Name="Hase" NameU="Rabbit"/>
+
+<Elem Name="Cupcake" NameU="Cupcake"/>
+
+<Elem Name="Bär" NameU="Bear"/>
+
+<Elem Name="Geburtstagsgruß" NameU="Birthday Greeting"/>
+
+<Elem Name="Herz" NameU="Heart"/>
+
+<Elem Name="Blume" NameU="Flower"/>
+
+<Elem Name="Diamant" NameU="Diamond"/>
+
+<Elem Name="Herzförmige Schachtel" NameU="Heart Shaped Box"/>
+
+<Elem Name="Kamera" NameU="Camera"/>
+
+<Elem Name="Prost" NameU="Cheers"/>
+
+<Elem Name="Geschenk" NameU="Gift"/>
+
+<Elem Name="Kerze" NameU="Candle"/>
+
+<Elem Name="Ballon" NameU="Balloon"/>
+
+<Elem Name="Ammer" NameU="Bunting"/>
+
+<Elem Name="Weinflasche" NameU="Wine Bottle"/>
+
+<Elem Name="Brief" NameU="Letter"/>
+
+<Elem Name="Gitarre" NameU="Guitar"/>
+
+<Elem Name="Fruchtsaft" NameU="Fruit Juice"/>
+
+<Elem Name="Medaille" NameU="Medal"/>
+
+<Elem Name="Eis" NameU="Ice Cream"/>
+
+<Elem Name="Maske" NameU="Mask"/>
+
+<Elem Name="Krapfen" NameU="Donut"/>
+
+<Elem Name="Geburtstagshut" NameU="Birthday Hat"/>
+
+<Elem Name="Süßigkeiten" NameU="Candy"/>
+
+<Elem Name="Kracher" NameU="Firecracker"/>
+
+<Elem Name="Überraschung" NameU="Surprise"/>
+
+<Elem Name="Zauberstab" NameU="Magic Wand"/>
+
+<Elem Name="Stern" NameU="Star"/>
+
+<Elem Name="Geburtstagskrone" NameU="Birthday Crown"/>
+
+<Elem Name="Schnurrbart" NameU="Moustache"/>
+
+<Elem Name="Kerzengläser" NameU="Candle Glasses"/>
+
+<Elem Name="Schokoladenkuchen" NameU="Chocolate Cake"/>
+
+<Elem Name="Geburtstagskuchen" NameU="Birthday Cake"/>
+
+<Elem Name="Pfirsich" NameU="Peach"/>
+
+<Elem Name="Weinglas" NameU="Wine Glass"/>
+
+<Elem Name="Wein" NameU="Wine"/>
+
+<Elem Name="Lutscher" NameU="Lollipop"/>
+
+<Elem Name="Geburtstagsüberraschung" NameU="Birthday Surprise"/>
+
+<Elem Name="Band" NameU="Ribbon"/>
+
+<Elem Name="Feuerwerk" NameU="Fireworks"/>
+
+<Elem Name="Alles Gute zum Geburtstag" NameU="Happy Birthday"/>
+
+<Elem Name="Kekse" NameU="Biscuits"/>
+
+<Elem Name="Digitale Kerze" NameU="Digital Candle"/>
+
+</Lib>

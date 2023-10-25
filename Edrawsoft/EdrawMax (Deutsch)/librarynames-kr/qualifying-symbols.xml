@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Qualifying Symbols">
+    <Elem NameU="Preset, general" Name="사전 설정, 일반"/>
+    <Elem NameU="Temperature dependence" Name="온도"/>
+    <Elem NameU="Radiation" Name="방사능"/>
+    <Elem NameU="Material" Name="재료"/>
+    <Elem NameU="Pulse" Name="펄스"/>
+    <Elem NameU="Alternating pulse" Name="교체 펄스"/>
+    <Elem NameU="Step function" Name="단계 기능"/>
+    <Elem NameU="Step function 2" Name="단계 기능 2"/>
+    <Elem NameU="Square wave" Name="구형파"/>
+    <Elem NameU="Sawtooth" Name="톱니"/>
+    <Elem NameU="Sawtooch 2" Name="톱니 2"/>
+    <Elem NameU="Sine wave" Name="사인파"/>
+    <Elem NameU="Chopped square wave" Name="구형파"/>
+    <Elem NameU="Square wave" Name="구형파"/>
+    <Elem NameU="Positive polarity" Name="양극성"/>
+    <Elem NameU="Negative polarity" Name="음극성"/>
+    <Elem NameU="Alternating current" Name="교류"/>
+    <Elem NameU="Neutral symbol" Name="중립 기호"/>
+    <Elem NameU="Midware symbol" Name="미드웨어 기호"/>
+    <Elem NameU="Multiple-phase" Name="다상"/>
+    <Elem NameU="3 separate windings" Name="3 개의 개별 권선"/>
+    <Elem NameU="2-phase 3-wire" Name="2상 3선"/>
+    <Elem NameU="2-phase 4-wire" Name="2상 4선"/>
+    <Elem NameU="3-phase (V)" Name="3상(V 형)"/>
+    <Elem NameU="3-Phase (T)" Name="3상(T 형)"/>
+    <Elem NameU="3-phase Delta 1" Name="3상 삼각 1"/>
+    <Elem NameU="3-phase Delta 2" Name="3상 삼각 2"/>
+    <Elem NameU="3-phase Delta 3" Name="3상 삼각 3"/>
+    <Elem NameU="3-phase Delta 4" Name="3상 삼각 4"/>
+    <Elem NameU="3-phase star" Name="3상 성형"/>
+    <Elem NameU="3-phase zigzag" Name="3상 지그재그"/>
+    <Elem NameU="3-phase 4-wire" Name="3상4선"/>
+    <Elem NameU="4-phase" Name="4상"/>
+    <Elem NameU="6-phase double star" Name="6상 이중 성형"/>
+    <Elem NameU="6-phase double delta" Name="6상 이중 삼각"/>
+    <Elem NameU="6-phase hexagonal" Name="6상 6각"/>
+    <Elem NameU="6-phase fork" Name="6상 포크"/>
+    <Elem NameU="One-way signal" Name="단방향 시그널"/>
+    <Elem NameU="Either way signal" Name="임의 방향 시그널"/>
+    <Elem NameU="Both ways signal" Name="양방향 시그널"/>
+    <Elem NameU="Analog signals" Name="아날로그 시그널"/>
+    <Elem NameU="Digital signals" Name="디지털 시그널"/>
+    <Elem NameU="Special connector" Name="특수 연결선"/>
+    <Elem NameU="Coaxial symbol" Name="동축 기호"/>
+    <Elem NameU="Electret" Name="엘렉트릿"/>
+</Lib>

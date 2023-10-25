@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Alarm and Access Control">
+    <Elem NameU="Card access" Name="卡式出入"/>
+    <Elem NameU="Biometric access" Name="生物识别访问"/>
+    <Elem NameU="Keypad device" Name="按键装置"/>
+    <Elem NameU="Card reader with keypad" Name="带小键盘的刷卡器"/>
+    <Elem NameU="Card reader with time" Name="可记录时间的刷卡器"/>
+    <Elem NameU="Smoke detector" Name="烟雾报警器"/>
+    <Elem NameU="Gas detector" Name="气体检测器"/>
+    <Elem NameU="Heat detector" Name="热探测器"/>
+    <Elem NameU="Turnstile" Name="旋转门"/>
+    <Elem NameU="Revolving door" Name="旋转门"/>
+    <Elem NameU="Traffic arm" Name="通信杆"/>
+    <Elem NameU="Vehicle loop detector" Name="机动车线圈探测器"/>
+    <Elem NameU="Electronic lock" Name="电子锁"/>
+    <Elem NameU="Exit device" Name="逃生推杆"/>
+    <Elem NameU="Camera with keypad" Name="带小键盘的摄像机"/>
+    <Elem NameU="Camera with intercom" Name="带刷卡器的摄像机"/>
+    <Elem NameU="Camera with card reader" Name="相机读卡器"/>
+    <Elem NameU="Security window screen" Name="安全窗屏"/>
+    <Elem NameU="Dome camera" Number="3" Name="半球型摄像机"/>
+    <Elem NameU="Bullet camera" Number="5" Name="子弹相机"/>
+    <Elem NameU="CCTV camera" Number="8" Name="CCTV 摄像头"/>
+    <Elem NameU="Emergency battery" Name="备用电池"/>
+    <Elem NameU="Strobe" Name="闸门"/>
+</Lib>

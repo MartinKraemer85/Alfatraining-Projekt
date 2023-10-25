@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Sport Elements">
+	<Elem NameU="Tennis racket" Name="Racchetta da tennis"/>
+	<Elem NameU="Badminton racket" Name="Racchetta da Badminton"/>
+	<Elem NameU="Table tennis bat" Name="Racchetta da tennistavolo"/>
+	<Elem NameU="Racquet-ball Racket" Name="Racchetta da Squash"/>
+	<Elem NameU="Hockey stick" Name="Mazza da Hokey"/>
+	<Elem NameU="Curling broom" Name="Scopa da curling"/>
+	<Elem NameU="Golf clubs 1" Name="Mazze da Golf 1"/>
+	<Elem NameU="Golf clubs 2" Name="Mazze da Golf 2"/>
+	<Elem NameU="Schon cue" Name="Stecca da Schon"/>
+	<Elem NameU="Baseball bat 1" Name="Mazza da Baseball 1"/>
+	<Elem NameU="Baseball Bat 2" Name="Mazza da Baseball 2"/>
+	<Elem NameU="Fencing" Name="Scherma"/>
+	<Elem NameU="Cricket bat" Name="Mazza da Cricket"/>
+	<Elem NameU="Cricket" Name="Cricket"/>
+	<Elem NameU="Tennis" Name="Tennis"/>
+	<Elem NameU="Baseball" Name="Baseball"/>
+	<Elem NameU="Squash 1" Name="Squash 1"/>
+	<Elem NameU="Squash 2" Name="Squash 2"/>
+	<Elem NameU="Hockey ball" Name="Palla da Hockey"/>
+	<Elem NameU="Badminton" Name="Badminton"/>
+	<Elem NameU="Football" Name="Calcio"/>
+	<Elem NameU="Basketball" Name="Basketball"/>
+	<Elem NameU="Volleyball" Name="Pallavolo"/>
+	<Elem NameU="Rugby 1" Name="Rugby 1"/>
+	<Elem NameU="Rugby 2" Name="Rugby 2"/>
+	<Elem NameU="Curling" Name="Curling"/>
+	<Elem NameU="Bowling pin" Name="Birillo da bowling"/>
+	<Elem NameU="Bowling" Name="Bowling"/>
+	<Elem NameU="Billiard Balls 1" Name="Palle da Biliardo 1"/>
+	<Elem NameU="Billiard Balls 2" Name="Palle da Biliardo 2"/>
+	<Elem NameU="Cue Sports 1" Name="Biliardo 1"/>
+	<Elem NameU="Cue Sports 2" Name="Biliardo 2"/>
+	<Elem NameU="Shuttlecock" Name="Volano"/>
+	<Elem NameU="Helmet" Name="Elmetto"/>
+	<Elem NameU="Skating shoes" Name="Scarpe da Skate"/>
+	<Elem NameU="Skis stick" Name="Bastone da sci"/>
+	<Elem NameU="Skis board" Name="Tavola da sci"/>
+	<Elem NameU="Boxing glove" Name="Guanti da Boxe"/>
+	<Elem NameU="Goal" Name="Goal"/>
+	<Elem NameU="Whistle" Name="Fischietto"/>
+	<Elem NameU="Small Flags" Name="Bandierine"/>
+	<Elem NameU="Trumpet" Name="Trombetta"/>
+	<Elem NameU="Bow And Arrow" Name="Arco e Frecce"/>
+	<Elem NameU="Medals" Name="Medaglie"/>
+	<Elem NameU="Trophies 1" Name="Trofei 1"/>
+	<Elem NameU="Trophies 2" Name="Trofei 2"/>
+	<Elem NameU="Life Buoy" Name="Salvagente"/>
+	<Elem NameU="Submersible" Name="Immersioni"/>
+	<Elem NameU="Fins" Name="Pinne"/>
+	<Elem NameU="Swimming Glasses" Name="Occhialini da Nuoto"/>
+	<Elem NameU="Backboard 1" Name="Tabellone 1"/>
+	<Elem NameU="Backboard 2" Name="Tabellone 2"/>
+</Lib>

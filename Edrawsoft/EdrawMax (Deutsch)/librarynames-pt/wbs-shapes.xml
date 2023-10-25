@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="WBS Shapes">
+	<Elem NameU="Task Card" Name="Cartão de Tarefa"/>
+	<Elem NameU="Task Card 2" Name="Cartão de Tarefa 2"/>
+	<Elem NameU="Task Card 3" Name="Cartão de Tarefa 3"/>
+	<Elem NameU="Task Card 4" Name="Cartão de Tarefa 4"/>
+	<Elem NameU="Task Card 5" Name="Cartão de Tarefa 5"/>
+	<Elem NameU="Task Bar" Name="Barra de Tarefas"/>
+	<Elem NameU="Main task" Name="Tarefa principal"/>
+	<Elem NameU="Main task 2" Name="Tarefa principal 2"/>
+	<Elem NameU="Main task 3" Name="Tarefa principal 3"/>
+	<Elem NameU="Main task 4" Name="Tarefa principal 4"/>
+	<Elem NameU="Main task 5" Name="Tarefa principal 5"/>
+	<Elem NameU="Right Angle Connector" Name="Conector de Ângulo Direito"/>
+	<Elem NameU="Line Connector" Name="Conector em Linha"/>
+	<Elem NameU="Dynamical Connector" Name="Conector Dinâmico"/>
+</Lib>

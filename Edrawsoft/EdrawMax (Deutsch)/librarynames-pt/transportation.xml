@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Transportation">
+	<Elem NameU="Road 1" Name="Estrada 1"/>
+	<Elem NameU="Road 2" Name="Estrada 2"/>
+	<Elem NameU="Road 3" Name="Estrada 3"/>
+	<Elem NameU="Road 4" Name="Estrada 4"/>
+	<Elem NameU="Police Car" Name="Carro da Polícia"/>
+	<Elem NameU="Police" Name="Polícia"/>
+	<Elem NameU="Traffic Police" Name="Polícia de Trânsito"/>
+	<Elem NameU="Bus" Name="Ônibus"/>
+	<Elem NameU="Car 1" Name="Carro 1"/>
+	<Elem NameU="Car 2" Name="Carro 2"/>
+	<Elem NameU="Taxi" Name="Táxi"/>
+	<Elem NameU="Motorcycle" Name="Motocicleta"/>
+	<Elem NameU="Train" Name="Comboio"/>
+	<Elem NameU="Ship Rudder" Name="Leme do Barco"/>
+	<Elem NameU="Bicycle" Name="Bicicleta"/>
+	<Elem NameU="Sailing Boat" Name="Barco à Vela"/>
+	<Elem NameU="Excavator" Name="Escavadora"/>
+	<Elem NameU="Truck" Name="Caminhão"/>
+	<Elem NameU="Cement Truck" Name="Caminhão de Cimento"/>
+	<Elem NameU="Tank Truck" Name="Caminhão Tanque"/>
+	<Elem NameU="Man" Name="Homem"/>
+	<Elem NameU="Woman" Name="Mulher"/>
+	<Elem NameU="Pedestrian 1" Name="Pedestre 1"/>
+	<Elem NameU="Pedestrian 2" Name="Pedestre 2"/>
+	<Elem NameU="Zebra crossing" Name="Passadeira"/>
+	<Elem NameU="Traffic Light 1" Name="Semáforo 1"/>
+	<Elem NameU="Traffic Light 2" Name="Semáforo 2"/>
+	<Elem NameU="Speed Camera" Name="Radar"/>
+	<Elem NameU="Road Sign" Name="Sinal de Trânsito"/>
+	<Elem NameU="Footway" Name="Passeio"/>
+	<Elem NameU="No Smoking" Name="Proibido Fumar"/>
+	<Elem NameU="Do Not Enter Sign" Name="Proibido Entrar"/>
+	<Elem NameU="Stop Sign" Name="Sinal de Parar"/>
+	<Elem NameU="No Fire" Name="Proibido Foguear"/>
+	<Elem NameU="No Horn" Name="Proibido Buzinar"/>
+	<Elem NameU="Bus Sign" Name="Sinal de Ônibus"/>
+	<Elem NameU="Parking 1" Name="Estacionamento 1"/>
+	<Elem NameU="Parking 2" Name="Estacionamento 2"/>
+	<Elem NameU="No parking" Name="Proibido Estacionar"/>
+	<Elem NameU="Circular Intersection" Name="Interseção Circular"/>
+	<Elem NameU="No Taxi" Name="Proibido a Táxis"/>
+	<Elem NameU="No Straight Nor Right Turn" Name="Proibido Seguir em Frente e Virar à Direita"/>
+	<Elem NameU="No Straight Nor Left Turn" Name="Proibido Seguir em Frente e Virar à Esquerda"/>
+	<Elem NameU="No U-Turn" Name="Proibido Inverter Sentido da Marcha"/>
+	<Elem NameU="No Left Turn" Name="Proibido Virar à Esquerda"/>
+	<Elem NameU="No Right Turn" Name="Proibido Virar à Direita"/>
+	<Elem NameU="No Pedestrians" Name="Proibido a Peões"/>
+	<Elem NameU="No Overtaking" Name="Proibido Ultrapassar"/>
+	<Elem NameU="No Entry" Name="Proibido Entrar"/>
+	<Elem NameU="No Left Nor Right Turn" Name="Probido Virar à Direita ou Esquerda"/>
+	<Elem NameU="No Bicycles" Name="Proibido a Bicicletas"/>
+	<Elem NameU="No Cars" Name="Proibido a Carros"/>
+	<Elem NameU="No Trucks" Name="Proibido a Caminhões"/>
+	<Elem NameU="Two-Way Traffic" Name="Tráfego nos Dois Sentidos"/>
+	<Elem NameU="Crossroad Ahead" Name="Cruzamento à Frente"/>
+	<Elem NameU="Side Road (Right)" Name="Estrada Secundária (Direita)"/>
+	<Elem NameU="Side Road (Left)" Name="Estrada Secundária (Esquerda)"/>
+	<Elem NameU="Traffic Signal Ahead" Name="Sinal de Trânsito à Frente"/>
+	<Elem NameU="Overhead Electric Cable" Name="Cabo Elétrico à Frente"/>
+	<Elem NameU="T Intersection Ahead" Name="Interseção T à Frente"/>
+	<Elem NameU="Y Intersection Ahead" Name="Interseção Y à Frente"/>
+	<Elem NameU="Hump Bridge Ahead" Name="Ponte com Lomba à Frente"/>
+	<Elem NameU="Dangerous" Name="Perigo"/>
+	<Elem NameU="Caution Drop Down" Name="Atenção Pendente"/>
+	<Elem NameU="Caution No Motor Vehicle" Name="Atenção Proibido a Veículos Motores"/>
+	<Elem NameU="Barricade 1" Name="Barreira 1"/>
+	<Elem NameU="Barricade 2" Name="Barreira 2"/>
+	<Elem NameU="Floor Stand Sign" Name="Sinal de Pé"/>
+	<Elem NameU="Red Pylon" Name="Torre Vermelha"/>
+	<Elem NameU="Yellow Warning Stipe" Name="Tiras Amarelas de Aviso"/>
+	<Elem NameU="OSHA tape (red-white striped)" Name="Fita OSHA (tiras vermelhas e brancas)"/>
+	<Elem NameU="OSHA tape (yellow-black checked)" Name="Fita OSHA (xadrez amarelo e preto)"/>
+	<Elem NameU="OSHA tape (yellow-black striped)" Name="Fita OSHA (tiras amarelas e pretas)"/>
+	<Elem NameU="Green Light 1" Name="Sinal Verde 1"/>
+	<Elem NameU="Red Light 1" Name="Sinal Vermelho 1"/>
+	<Elem NameU="Yellow Light 1" Name="Sinal Amarelo 1"/>
+	<Elem NameU="Green Light 2" Name="Sinal Verde 2"/>
+	<Elem NameU="Red Light 2" Name="Sinal Vermelho 2"/>
+	<Elem NameU="Yellow Light 2" Name="Sinal Amarelo 2"/>
+	<Elem NameU="Green Light 3" Name="Sinal Verde 3"/>
+	<Elem NameU="Red Light 3" Name="Sinal Vermelho 3"/>
+	<Elem NameU="Yellow Light 3" Name="Sinal Amarelo 3"/>
+	<Elem NameU="Red Light 4" Name="Sinal Vermelho 4"/>
+	<Elem NameU="Gas-station" Name="Posto de Abastecimento"/>
+	<Elem NameU="Street lamp 1" Name="Lâmpada de rua 1"/>
+	<Elem NameU="Street lamp 2" Name="Lâmpada de rua 2"/>
+	<Elem NameU="Instrument" Name="Instrumento"/>
+	<Elem NameU="Steering Wheel 1" Name="Volante 1"/>
+	<Elem NameU="Steering Wheel 2" Name="Volante 2"/>
+	<Elem NameU="Direction 1" Name="Direção 1"/>
+	<Elem NameU="Direction 2" Name="Direção 2"/>
+	<Elem NameU="Direction 3" Name="Direção 3"/>
+	<Elem NameU="Trumpet" Name="Trombeta"/>
+	<Elem NameU="Ban on the horn" Name="Proibição de Buzinar"/>
+	<Elem NameU="Mansion" Name="Mansão"/>
+	<Elem NameU="School" Name="Escola"/>
+	<Elem NameU="Shop" Name="Loja"/>
+	<Elem NameU="Tree 1" Name="Árvore 1"/>
+	<Elem NameU="Tree 2" Name="Árvore 2"/>
+</Lib>

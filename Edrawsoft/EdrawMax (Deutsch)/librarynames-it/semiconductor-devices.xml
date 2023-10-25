@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Semiconductor Devices">
+	<Elem NameU="Transistor PNP" Name="Transistor PNP"/>
+	<Elem NameU="Transistor NPN" Name="Transistor NPN"/>
+	<Elem NameU="JFET(PNP)" Name="JEET (PNP)"/>
+	<Elem NameU="JFET(NPN)" Name="JEET (NPN)"/>
+	<Elem NameU="MOSFET(P)" Name="MOSFET(P)"/>
+	<Elem NameU="MOSFET(N)" Name="MOSFET"/>
+	<Elem NameU="MOSFET Inductive Channel (N)" Name="Canale Induttivo MOSFET (N)"/>
+	<Elem NameU="MOSFET Inductive Channel (P)" Name="Canale Induttivo MOSFET (P)"/>
+	<Elem NameU="MOSFET No Bulk (N)" Name="MOSFET No Bulk (N)"/>
+	<Elem NameU="MOSFET No Bulk (P)" Name="MOSFET No Bulk (P)"/>
+	<Elem NameU="Gual Gate MOSFET (P)" Name="MOSFET Gate Gual (P)"/>
+	<Elem NameU="Gual Gate MOSFET (N)" Name="Gual Gate MOSFET (N)"/>
+	<Elem NameU="Diode" Name="Diodo"/>
+	<Elem NameU="Diode 2" Name="Diodo 2"/>
+	<Elem NameU="Transistor PNP 2" Name="Transistor PNP 2"/>
+	<Elem NameU="Transistor PNP Photo" Name="Transistor PNP Immagine"/>
+	<Elem NameU="Transistor NPN 2" Name="Transistor NPN 2"/>
+	<Elem NameU="Transistor NPN Photo" Name="Transistor NPN Immagine"/>
+	<Elem NameU="Four layer diode" Name="Diodo a quattro strati"/>
+	<Elem NameU="MOSFET" Name="MOSFET"/>
+	<Elem NameU="Diac" Name="Diac"/>
+	<Elem NameU="Triac" Name="Triac"/>
+	<Elem NameU="Junction - P Channel" Name="Giunto - Canale P"/>
+	<Elem NameU="Junction - N Channel" Name="Giunto - Canale N"/>
+	<Elem NameU="Transverse" Name="Trasversale"/>
+	<Elem NameU="Ohmic" Name="Ohmico"/>
+	<Elem NameU="Unijunction" Name="Uni ngiunzione"/>
+	<Elem NameU="Darlington" Name="Darlington"/>
+	<Elem NameU="Latch" Name="Latch"/>
+	<Elem NameU="IGFET N-Type" Name="IGFET Tipo N"/>
+	<Elem NameU="IGFET P-Type" Name="IGFET Tipo P"/>
+	<Elem NameU="Gunn diode" Name="Diodo Gunn"/>
+	<Elem NameU="Breakdown" Name="Rottura"/>
+	<Elem NameU="Varactor varicap" Name="Diodo Varactor o Varicap"/>
+	<Elem NameU="Tunnel diode" Name="Diodo a tunnel"/>
+	<Elem NameU="Backward diode" Name="Diodo backward"/>
+	<Elem NameU="Schottky diode" Name="Diodo Schottky"/>
+	<Elem NameU="Zener diode" Name="Diodo Zener"/>
+	<Elem NameU="Varactor" Name="Diodo Varactor"/>
+	<Elem NameU="Transorb" Name="Transorbitale"/>
+	<Elem NameU="Transorb 2" Name="Transorbitale 2"/>
+	<Elem NameU="Controlled switch" Name="Interruttore controllato"/>
+	<Elem NameU="Controlled rectifier" Name="Raddrizzatore controllato"/>
+	<Elem NameU="Turn off rectifier" Name="Raddrizzatore di spegnimento"/>
+	<Elem NameU="Photodiode" Name="Fotodiodo"/>
+	<Elem NameU="Breakdown diode" Name="Diodo di rottura"/>
+	<Elem NameU="Tube diode" Name="Diodo a tubo"/>
+	<Elem NameU="Tube triode" Name="Triodo a tubo"/>
+	<Elem NameU="Tube tetrode" Name="Tetrodo a tubo"/>
+	<Elem NameU="Tube pentode" Name="Pentodo a tubo"/>
+	<Elem NameU="Turn-off triode" Name="Triodo di spegnimento"/>
+	<Elem NameU="Diode vacuum tubes" Name="Diodo tubi a vuoto"/>
+	<Elem NameU="Double diode" Name="Diodo doppio"/>
+	<Elem NameU="Double triode" Name="Triodo doppio"/>
+	<Elem NameU="Tetrode" Name="Tetrodo"/>
+	<Elem NameU="Pentode" Name="Pentodo"/>
+	<Elem NameU="Photocell" Name="Fotocellula"/>
+</Lib>

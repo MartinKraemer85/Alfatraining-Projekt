@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Monitoring and Management">
+    <Elem NameU="Application configuration management" Name="애플리케이션 구성 관리"/>
+    <Elem NameU="Application real-time monitoring service" Name="실시간 업무 모니터링 서비스 ARMS"/>
+    <Elem NameU="Cloud monitoring system" Name="클라우드 모니터링 시스템"/>
+    <Elem NameU="Resource access management" Name="접근 통제"/>
+</Lib>

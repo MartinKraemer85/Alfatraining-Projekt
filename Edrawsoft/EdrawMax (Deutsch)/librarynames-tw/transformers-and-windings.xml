@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Transformers and Windings">
+    <Elem NameU="Magnetic core" Name="磁芯"/>
+    <Elem NameU="Inductor" Name="電感器"/>
+    <Elem NameU="Inductor (Air core)" Name="電感器（空心） "/>
+    <Elem NameU="Inductor (Air core) 2" Name="電感器（空心） 2"/>
+    <Elem NameU="Inductor (Air core) 3" Name="電感器（空心） 3"/>
+    <Elem NameU="Variable inductor" Name="可變電感線圈"/>
+    <Elem NameU="Choke" Name="扼流圈"/>
+    <Elem NameU="Magnetic-core inductor" Name="磁芯電感器"/>
+    <Elem NameU="Magnetic core inductor" Name="磁芯電感器 2"/>
+    <Elem NameU="Magnetic inductor" Name="電磁感應器"/>
+    <Elem NameU="Magnetic with gap" Name="磁隙"/>
+    <Elem NameU="Variometer" Name="可變電感器"/>
+    <Elem NameU="Coaxial choke" Name="同軸扼流圈"/>
+    <Elem NameU="Transductor" Name="飽和電抗器"/>
+    <Elem NameU="Transformer" Name="變壓器"/>
+    <Elem NameU="Transformer 2" Name="變壓器 2"/>
+    <Elem NameU="Saturation transformer" Name="飽和變壓器"/>
+    <Elem NameU="Adjustable transformer" Name="可調變壓器"/>
+    <Elem NameU="Transformer 3" Name="變壓器 3"/>
+    <Elem NameU="Mutual inductor" Name="互感器"/>
+    <Elem NameU="1-phase induction volt.reg." Name="一相感應電壓調整器"/>
+    <Elem NameU="Triplex induction volt.reg." Name="三芯感應電壓調整器"/>
+    <Elem NameU="Induction voltage regulator" Name="感應電壓調整器"/>
+    <Elem NameU="Current transformer" Name="電流變壓器"/>
+    <Elem NameU="Current transformer 2" Name="電流變壓器 2"/>
+    <Elem NameU="Current transformer 3" Name="電流變壓器 3"/>
+    <Elem NameU="Polyphase transformer" Name="多相變壓器"/>
+    <Elem NameU="Polyphase transformer 2" Name="多相變壓器 2"/>
+    <Elem NameU="3-winding transformer" Name="三繞組變壓器"/>
+    <Elem NameU="Potential transformer" Name="儀錶用變壓器"/>
+    <Elem NameU="Potential transformer 2" Name="儀錶用變壓器 2"/>
+    <Elem NameU="Transformer (Iron Core)" Name="變壓器（铁心）"/>
+    <Elem NameU="Transformer (Iron Core) 2" Name="變壓器（铁心）2"/>
+    <Elem NameU="Pot. trans. 3 windings" Name="三繞組變壓器"/>
+    <Elem NameU="Outdoor metering device" Name="戶外測量設備"/>
+    <Elem NameU="Linear coupler" Name="線性耦合器"/>
+    <Elem NameU="Ferrite core" Name="鐵氧體磁心"/>
+    <Elem NameU="Iron Core" Name="鐵芯"/>
+</Lib>

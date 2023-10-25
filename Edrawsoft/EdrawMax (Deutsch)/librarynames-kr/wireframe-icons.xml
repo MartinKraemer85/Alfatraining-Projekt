@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Wireframe Icons">
+    <Elem NameU="Sad" Name="슬픔"/>
+    <Elem NameU="Happy" Name="기쁨"/>
+    <Elem NameU="Clock" Name="시계"/>
+    <Elem NameU="Microphone" Name="마이크로폰"/>
+    <Elem NameU="Wifi" Name="와이파이"/>
+    <Elem NameU="Bluetooth" Name="블루투스"/>
+    <Elem NameU="Battery Half" Name="하프 배터리"/>
+    <Elem NameU="Battery Full" Name="풀 배터리"/>
+    <Elem NameU="Battery Empty" Name="배터리 없음"/>
+    <Elem NameU="Battery" Name="배터리"/>
+    <Elem NameU="Warning" Name="경고"/>
+    <Elem NameU="Computer" Name="컴퓨터"/>
+    <Elem NameU="Share" Name="공유"/>
+    <Elem NameU="List" Name="리스트"/>
+    <Elem NameU="Star 1" Name="별 1"/>
+    <Elem NameU="Star 2" Name="별 2"/>
+    <Elem NameU="Add" Name="추가"/>
+    <Elem NameU="Add 2" Name="추가 2"/>
+    <Elem NameU="Flag 1" Name="플래그 1"/>
+    <Elem NameU="Flag 2" Name="플래그 2"/>
+    <Elem NameU="Female" Name="여성"/>
+    <Elem NameU="Male" Name="남성"/>
+    <Elem NameU="Apple" Name="사과"/>
+    <Elem NameU="Android" Name="안드로이드"/>
+    <Elem NameU="User 1" Name="사용자 1"/>
+    <Elem NameU="User 2" Name="사용자 2"/>
+    <Elem NameU="Users 1" Name="사용자 3"/>
+    <Elem NameU="Users 2" Name="사용자 4"/>
+    <Elem NameU="Person Add 1" Name="인수 추가1"/>
+    <Elem NameU="Person Add 2" Name="인수 추가2"/>
+    <Elem NameU="Remove Person 1" Name="인수 제거1"/>
+    <Elem NameU="Remove Person 2" Name="인수 제거2"/>
+    <Elem NameU="Sun 1" Name="태양 1"/>
+    <Elem NameU="Sun 2" Name="태양 2"/>
+    <Elem NameU="Cloud 1" Name="구름 1"/>
+    <Elem NameU="Cloud 2" Name="구름 2"/>
+    <Elem NameU="Sun with Cloud 1" Name="구름과 태양1"/>
+    <Elem NameU="Sun with Cloud 2" Name="구름과 태양2"/>
+    <Elem NameU="Cloudy" Name="구름 많음"/>
+    <Elem NameU="Cloudy 2" Name="구름 많음2"/>
+    <Elem NameU="Thunderstorm" Name="뇌우"/>
+    <Elem NameU="Snowflake" Name="눈꽃"/>
+    <Elem NameU="Rainy 1" Name="비옴 1"/>
+    <Elem NameU="Rainy 2" Name="비옴 2"/>
+    <Elem NameU="Upload To Cloud" Name="클라우드에 업로드"/>
+    <Elem NameU="Cloud Download" Name="클라우드에 다운로드"/>
+    <Elem NameU="Moon 1" Name="달 1"/>
+    <Elem NameU="Moon 2" Name="달 2"/>
+    <Elem NameU="Moon 3" Name="달 3"/>
+    <Elem NameU="Moon 4" Name="달 4"/>
+    <Elem NameU="Phone 1" Name="전화 1"/>
+    <Elem NameU="Phone 2" Name="전화 2"/>
+    <Elem NameU="Chat Bubbles 1" Name="채팅 버블 1"/>
+    <Elem NameU="Chat Bubbles 2" Name="채팅 버블 2"/>
+    <Elem NameU="Chat Bubble" Name="채팅 버블"/>
+    <Elem NameU="Arrow" Name="화살표"/>
+    <Elem NameU="Timer 1" Name="시간 1"/>
+    <Elem NameU="Timer 2" Name="시간 2"/>
+    <Elem NameU="Stopwatch" Name="스톱워치"/>
+    <Elem NameU="World" Name="지구"/>
+    <Elem NameU="Icon" Name="기호"/>
+    <Elem NameU="Navigate 1" Name="탐색 1"/>
+    <Elem NameU="Navigate 2" Name="탐색 2"/>
+    <Elem NameU="Navigate 3" Name="탐색 3"/>
+    <Elem NameU="location" Name="위치"/>
+    <Elem NameU="Search 1" Name="검색 1"/>
+    <Elem NameU="Search 2" Name="검색 2"/>
+    <Elem NameU="Icon" Number="2" Name="기호"/>
+    <Elem NameU="Gear 1" Name="기어 1"/>
+    <Elem NameU="Gear 2" Name="기어 2"/>
+    <Elem NameU="Video Cam" Number="2" Name="비디오 카메라"/>
+    <Elem NameU="Camera" Name="카메라"/>
+    <Elem NameU="Picture" Name="이미지"/>
+    <Elem NameU="Keyboard 1" Name="키보드 1"/>
+    <Elem NameU="Keyboard 2" Name="키보드 2"/>
+    <Elem NameU="Time 2" Number="2" Name="시간 2"/>
+    <Elem NameU="Notifications 1" Name="알림 1"/>
+    <Elem NameU="Notifications 2" Name="알림 2"/>
+    <Elem NameU="APP Windows 1" Name="앱 창 1"/>
+    <Elem NameU="APP Windows 2" Name="앱 창 2"/>
+    <Elem NameU="Volume Up 1" Name="볼륨 업1"/>
+    <Elem NameU="Volume Up 2" Name="볼륨 업2"/>
+    <Elem NameU="Mute" Name="음소거"/>
+    <Elem NameU="Folder 1" Name="폴더1"/>
+    <Elem NameU="Folder 2" Name="폴더2"/>
+    <Elem NameU="folder" Name="폴더"/>
+    <Elem NameU="Add Folder" Name="폴더 추가"/>
+    <Elem NameU="Delete Folder" Name="폴더 삭제"/>
+    <Elem NameU="Add Folder" Name="폴더 추가"/>
+    <Elem NameU="Delete Folder" Name="폴더 삭제"/>
+    <Elem NameU="Find File" Name="파일 찾기"/>
+    <Elem NameU="File" Name="파일"/>
+    <Elem NameU="Checkmark 1" Name="확인 표시 1"/>
+    <Elem NameU="Checkmark 2" Name="확인 표시 2"/>
+    <Elem NameU="Icon" Number="2" Name="아이콘"/>
+    <Elem NameU="Music 1" Name="음악 1"/>
+    <Elem NameU="Music 2" Name="음악 2"/>
+    <Elem NameU="Music 3" Name="음악 3"/>
+    <Elem NameU="Music Add" Name="음악 추가"/>
+    <Elem NameU="Remove Music" Name="음악 삭제"/>
+    <Elem NameU="Earphone" Name="이어폰"/>
+    <Elem NameU="Speech" Name="스피치"/>
+    <Elem NameU="Notification" Name="알림"/>
+    <Elem NameU="Notification Off" Name="알림끄기"/>
+    <Elem NameU="Icon" Number="2" Name="아이콘"/>
+    <Elem NameU="Document 1" Name="파일1"/>
+    <Elem NameU="Document 2" Name="파일2"/>
+    <Elem NameU="Documents 1" Name="파일1"/>
+    <Elem NameU="Documents 2" Name="파일1"/>
+    <Elem NameU="File 1" Name="파일1"/>
+    <Elem NameU="File 2" Name="파일2"/>
+    <Elem NameU="Add File" Name="파일 추가"/>
+    <Elem NameU="Delete File" Name="파일 삭제"/>
+    <Elem NameU="Switch 1" Name="스위치 1"/>
+    <Elem NameU="Switch 2" Name="스위치 2"/>
+    <Elem NameU="Power 1" Name="전원 1"/>
+    <Elem NameU="Power 2" Name="전원 2"/>
+    <Elem NameU="Information 1" Name="메시지 1"/>
+    <Elem NameU="Information 2" Name="메시지 2"/>
+    <Elem NameU="Contrast" Name="대비"/>
+    <Elem NameU="Eye" Name="눈"/>
+    <Elem NameU="Book 1" Name="책 1"/>
+    <Elem NameU="Book 2" Name="책 2"/>
+    <Elem NameU="Heart 1" Name="하트 1"/>
+    <Elem NameU="Heart 2" Name="하트 2"/>
+    <Elem NameU="Add" Name="추가"/>
+    <Elem NameU="Delete" Name="삭제"/>
+    <Elem NameU="Correct" Name="정확함"/>
+    <Elem NameU="Close" Name="닫기"/>
+    <Elem NameU="Right" Name="오른쪽"/>
+    <Elem NameU="Left" Name="왼쪽"/>
+    <Elem NameU="Down" Name="아래로"/>
+    <Elem NameU="Up" Name="위로"/>
+    <Elem NameU="Left" Name="왼쪽"/>
+    <Elem NameU="Right" Name="오른쪽"/>
+    <Elem NameU="Up" Name="위로"/>
+    <Elem NameU="Down" Name="아래로"/>
+    <Elem NameU="Icon" Number="2" Name="아이콘"/>
+    <Elem NameU="Left" Name="왼쪽"/>
+    <Elem NameU="Right" Name="오른쪽"/>
+    <Elem NameU="Up" Name="위로"/>
+    <Elem NameU="Down" Name="아래로"/>
+    <Elem NameU="Right" Name="오른쪽"/>
+    <Elem NameU="Left" Name="왼쪽"/>
+    <Elem NameU="Up" Name="위로"/>
+    <Elem NameU="Down" Name="아래로"/>
+    <Elem NameU="Download" Name="다운로드"/>
+    <Elem NameU="UPLOAD" Name="업로드"/>
+    <Elem NameU="Icon" Number="2" Name="아이콘"/>
+    <Elem NameU="Bar Chart 1" Name="바 차트1"/>
+    <Elem NameU="Bar Chart 2" Name="바 차트2"/>
+    <Elem NameU="Pause 1" Name="정지1"/>
+    <Elem NameU="Pause 2" Name="정지2"/>
+    <Elem NameU="Check Square" Name="체크 스퀘어"/>
+    <Elem NameU="Download" Name="다운로드"/>
+    <Elem NameU="Upload" Name="업로드"/>
+    <Elem NameU="Icon" Number="4" Name="아이콘"/>
+    <Elem NameU="Calculator" Name="계산기"/>
+    <Elem NameU="Trash Bin" Name="휴지통"/>
+    <Elem NameU="FlashLight" Name="손전등"/>
+    <Elem NameU="Bulb" Name="전구"/>
+    <Elem NameU="Home" Name="하우스"/>
+    <Elem NameU="Trash" Name="휴지통"/>
+    <Elem NameU="Wall" Name="벽"/>
+    <Elem NameU="Gift" Name="선물"/>
+    <Elem NameU="Glasses" Name="유리병"/>
+    <Elem NameU="Jigsaw" Name="퍼즐"/>
+    <Elem NameU="Hourglasses" Name="모래 시계"/>
+    <Elem NameU="Water Drop" Name="물방울"/>
+    <Elem NameU="Plug" Name="플러그"/>
+    <Elem NameU="Keyboard" Name="키보드"/>
+    <Elem NameU="Windows" Name="창"/>
+    <Elem NameU="Film 1" Name="영화1"/>
+    <Elem NameU="Film 2" Name="영화2"/>
+    <Elem NameU="Projector" Name="프로젝터"/>
+    <Elem NameU="Radio" Name="라디오"/>
+    <Elem NameU="Shopping Cart" Name="쇼핑 카트"/>
+    <Elem NameU="Calendar" Name="달력"/>
+    <Elem NameU="Airplane" Name="비행기"/>
+    <Elem NameU="Plane" Name="비행기"/>
+    <Elem NameU="Rocket" Name="로켓"/>
+    <Elem NameU="Hand" Name="손"/>
+    <Elem NameU="Thumb Up" Name="엄지"/>
+    <Elem NameU="Thumb Down" Name="엄지 아래방향"/>
+    <Elem NameU="Wrench" Name="렌치"/>
+    <Elem NameU="Icon" Name="아이콘"/>
+    <Elem NameU="Attachment" Name="첨부 파일"/>
+    <Elem NameU="Navigation" Name="탐색"/>
+    <Elem NameU="Icon" Name="아이콘"/>
+    <Elem NameU="Apps" Name="앱"/>
+    <Elem NameU="Options" Name="옵션"/>
+    <Elem NameU="Menu 1" Name="메뉴 1"/>
+    <Elem NameU="Menu 2" Name="메뉴 2"/>
+    <Elem NameU="Menu 3" Name="메뉴 3"/>
+    <Elem NameU="Email" Name="이메일"/>
+    <Elem NameU="lock 1" Name="잠금 1"/>
+    <Elem NameU="lock 2" Name="잠금 2"/>
+    <Elem NameU="Compose" Name="작성"/>
+    <Elem NameU="Sent" Name="발송"/>
+    <Elem NameU="Personal Hotspot" Name="개인 핫스팟"/>
+    <Elem NameU="Link" Name="링크"/>
+    <Elem NameU="Icon" Name="아이콘"/>
+    <Elem NameU="Left" Name="왼쪽"/>
+    <Elem NameU="Synchronize" Name="동기화"/>
+    <Elem NameU="Refresh" Name="새로 고침"/>
+    <Elem NameU="Icon" Name="아이콘"/>
+    <Elem NameU="Orientation Lock" Name="방향 잠금"/>
+    <Elem NameU="Sorting" Name="정렬"/>
+    <Elem NameU="Data Sharing" Name="데이터 공유"/>
+    <Elem NameU="Arrow Swap 3" Name="화살표 스왑3"/>
+    <Elem NameU="Repeat" Name="중복"/>
+    <Elem NameU="Sorting" Name="정렬"/>
+    <Elem NameU="Data Sharing" Name="데이터 공유"/>
+    <Elem NameU="Shuffle" Name="혼합"/>
+    <Elem NameU="Icon" Number="2" Name="아이콘"/>
+    <Elem NameU="Undo" Name="실행 취소"/>
+    <Elem NameU="Redo" Name="다시 실행"/>
+    <Elem NameU="Graph" Name="그래프"/>
+    <Elem NameU="Icon" Name="아이콘"/>
+    <Elem NameU="Thermometer" Name="온도계"/>
+    <Elem NameU="Icon" Name="아이콘"/>
+    <Elem NameU="Expand 1" Name="확장 1"/>
+    <Elem NameU="Expand 2" Name="확장 2"/>
+    <Elem NameU="Crop" Name="자르기"/>
+    <Elem NameU="Quotation marks" Name="인용"/>
+    <Elem NameU="Icon" Name="아이콘"/>
+    <Elem NameU="at" Name="at"/>
+    <Elem NameU="Facebook" Name="페이스북"/>
+    <Elem NameU="Skype" Name="Skype"/>
+    <Elem NameU="Icon" Number="2" Name="아이콘"/>
+    <Elem NameU="Google" Name="구글"/>
+    <Elem NameU="Yahoo" Name="야후"/>
+    <Elem NameU="Target" Name="타깃"/>
+</Lib>

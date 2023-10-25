@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Education">
+    <Elem NameU="Book" Name="書"/>
+    <Elem NameU="School Bus" Number="2" Name="校車"/>
+    <Elem NameU="Alarm Clock" Name="鬧鐘"/>
+    <Elem NameU="Graduate" Name="畢業"/>
+    <Elem NameU="Bell" Name="鈴"/>
+    <Elem NameU="Table Lamp" Number="2" Name="檯燈"/>
+    <Elem NameU="Gene Map" Name="基因圖"/>
+    <Elem NameU="A Stack of Books" Name="一疊書"/>
+    <Elem NameU="Folder" Name="資料夾"/>
+    <Elem NameU="Pen Holder" Name="筆筒"/>
+    <Elem NameU="Pen" Name="鋼筆"/>
+    <Elem NameU="School" Name="學校"/>
+    <Elem NameU="Flask" Number="2" Name="燒瓶"/>
+    <Elem NameU="Beaker" Number="2" Name="燒杯"/>
+    <Elem NameU="Test Tube" Name="試管"/>
+    <Elem NameU="Triangle Ruler" Name="三角尺"/>
+    <Elem NameU="Angle Flat" Name="平角"/>
+    <Elem NameU="Ruler" Name="尺子"/>
+    <Elem NameU="Sun" Name="太陽"/>
+    <Elem NameU="Trophy" Name="獎品"/>
+    <Elem NameU="Calculator" Name="計算器"/>
+    <Elem NameU="Book" Name="書"/>
+    <Elem NameU="Academic Cap" Name="學術上限"/>
+    <Elem NameU="Laptop" Name="手提電腦"/>
+    <Elem NameU="Desktop PC" Name="臺式電腦"/>
+    <Elem NameU="Thumbtack" Name="圖釘"/>
+    <Elem NameU="Pencil Sharpener" Name="卷筆刀"/>
+    <Elem NameU="Paperclip" Name="回形針"/>
+    <Elem NameU="Pencil" Name="鉛筆"/>
+    <Elem NameU="Pen" Name="鋼筆"/>
+    <Elem NameU="Ballpoint Pen" Name="圓珠筆"/>
+    <Elem NameU="Color Lead" Name="彩色鉛筆"/>
+    <Elem NameU="Watercolor Pen" Number="4" Name="水彩筆"/>
+    <Elem NameU="Fan Pen" Name="電扇筆"/>
+    <Elem NameU="Brush" Name="刷子"/>
+    <Elem NameU="Magnifier" Name="放大鏡"/>
+    <Elem NameU="Writing Brush" Name="毛筆"/>
+    <Elem NameU="Marker" Name="記號筆"/>
+    <Elem NameU="Compasses" Name="羅盤"/>
+    <Elem NameU="Glasses" Name="眼鏡"/>
+    <Elem NameU="Telescope" Name="望遠鏡"/>
+    <Elem NameU="Glue" Name="膠水"/>
+    <Elem NameU="Lecturer" Name="講師"/>
+    <Elem NameU="Certificate" Name="證書"/>
+    <Elem NameU="Painting Board" Name="繪畫板"/>
+    <Elem NameU="Blackboard" Name="黑板"/>
+    <Elem NameU="Ball" Name="球"/>
+    <Elem NameU="Football" Number="2" Name="足球"/>
+    <Elem NameU="Scissors" Name="剪刀"/>
+    <Elem NameU="Tennis" Name="網球"/>
+    <Elem NameU="Music" Name="音樂"/>
+    <Elem NameU="History" Name="歷史"/>
+    <Elem NameU="Geography" Name="地理"/>
+    <Elem NameU="Mathematics" Name="數學"/>
+    <Elem NameU="English" Name="英語"/>
+    <Elem NameU="Biological" Name="生物"/>
+    <Elem NameU="Magnet" Name="磁鐵"/>
+    <Elem NameU="Abacus" Name="算盤"/>
+    <Elem NameU="Timer" Name="計時器"/>
+    <Elem NameU="Hourglass" Name="沙漏"/>
+    <Elem NameU="Folder" Name="資料夾"/>
+    <Elem NameU="Microscope" Name="顯微鏡"/>
+    <Elem NameU="Rubber" Name="橡皮"/>
+    <Elem NameU="Molecular Structure" Name="分子結構"/>
+    <Elem NameU="Information" Name="信息"/>
+    <Elem NameU="Paint Tray" Name="油漆盤"/>
+    <Elem NameU="File Holder" Name="檔案夾"/>
+    <Elem NameU="Telescope" Name="望遠鏡"/>
+    <Elem NameU="Medal" Name="勛章"/>
+    <Elem NameU="School Bag" Name="書包"/>
+    <Elem NameU="Electric Light" Name="電燈"/>
+    <Elem NameU="Puzzle" Name="謎題"/>
+    <Elem NameU="Aims" Name="目標"/>
+    <Elem NameU="Apple" Name="蘋果"/>
+    <Elem NameU="Alcohol Lamp" Number="2" Name="酒精燈"/>
+    <Elem NameU="Pigment" Name="顏料"/>
+    <Elem NameU="Palette" Name="調色板"/>
+</Lib>

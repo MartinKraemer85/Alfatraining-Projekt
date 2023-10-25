@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Process Cooling">
+    <Elem NameU="Absorption chiller" Name="흡수식 냉각기"/>
+    <Elem NameU="Chiller 1" Name="냉각기 1"/>
+    <Elem NameU="Chiller 2" Name="냉각기 2"/>
+    <Elem NameU="Chiller 3" Name="냉각기 3"/>
+    <Elem NameU="Chiller 4" Name="냉각기 4"/>
+    <Elem NameU="Chiller 5" Name="냉각기 5"/>
+    <Elem NameU="Chiller 6" Name="냉각기 6"/>
+    <Elem NameU="Cold generator chiller" Name="저온 발전기 냉각기"/>
+    <Elem NameU="Cooling tower 1" Name="냉각탑 1"/>
+    <Elem NameU="Cooling tower 2" Name="냉각탑 2"/>
+    <Elem NameU="Cooling tower 3" Name="냉각탑 3"/>
+    <Elem NameU="Cooling tower 4" Name="냉각탑 4"/>
+    <Elem NameU="Cooling Tower Make-up" Name="냉각탑"/>
+    <Elem NameU="Comfort cooler" Name="냉각탑"/>
+    <Elem NameU="Engine driven chiller" Name="엔진 구동 냉각기"/>
+    <Elem NameU="Explosion-proof industrial refrigerator-freezer" Name="방폭형 산업용 냉동고"/>
+    <Elem NameU="Large portable chiller" Name="대형 휴대용 냉각기"/>
+    <Elem NameU="Natural gas refrigeration system" Name="천연 가스 냉동 시스템"/>
+    <Elem NameU="Reactor product cooler" Name="반응 제품 냉각기"/>
+    <Elem NameU="Simple cooling tower" Name="간단한 냉각탑"/>
+    <Elem NameU="Temperature control unit" Name="온도 컨트롤 장치"/>
+    <Elem NameU="Water-cooled chiller" Name="수냉식 냉각기"/>
+</Lib>

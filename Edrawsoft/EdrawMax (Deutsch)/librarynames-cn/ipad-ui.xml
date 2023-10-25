@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="iPad UI">
+    <Elem NameU="iPad" Name="iPad"/>
+    <Elem NameU="Horizontal iPad" Name="水平iPad"/>
+    <Elem NameU="Frame" Name="框架"/>
+    <Elem NameU="Status bar 1" Name="状态栏 1"/>
+    <Elem NameU="Status bar 2" Name="状态栏 2"/>
+    <Elem NameU="Status bar 3" Name="状态栏 3"/>
+    <Elem NameU="Status bar 4" Name="状态栏 4"/>
+    <Elem NameU="Status bar 5" Name="状态栏 5"/>
+    <Elem NameU="Basic Menu Bar 1" Name="基本菜单栏1"/>
+    <Elem NameU="Basic Menu Bar 2" Name="基本菜单栏2"/>
+    <Elem NameU="Basic Menu Bar 3" Name="基本菜单栏3"/>
+    <Elem NameU="Basic Menu Bar 4" Name="基本菜单栏4"/>
+    <Elem NameU="Basic Menu Bar 5" Name="基本菜单栏5"/>
+    <Elem NameU="Keyboard Control" Number="2" Name="键盘控制"/>
+    <Elem NameU="Text" Name="文本"/>
+    <Elem NameU="Button" Number="4" Name="按钮"/>
+    <Elem NameU="Back" Name="背部"/>
+    <Elem NameU="Type your text here" Name="在此处键入文本"/>
+    <Elem NameU="Search Box" Name="搜索框"/>
+    <Elem NameU="Three Buttons Control" Name="三按钮控制"/>
+    <Elem NameU="Four Buttons Control" Name="四按钮控制"/>
+    <Elem NameU="Slider" Name="滑块"/>
+    <Elem NameU="Field Name" Name="字段名"/>
+    <Elem NameU="Two Buttons Alert" Name="两个按钮警报"/>
+    <Elem NameU="Time Picker" Number="2" Name="时间选择"/>
+    <Elem NameU="Login Activity" Name="登录活动"/>
+    <Elem NameU="App Icon" Name="图标应用程序"/>
+    <Elem NameU="Block" Name="阻塞"/>
+    <Elem NameU="Open button" Name="打开按钮"/>
+    <Elem NameU="On/Off Switch" Number="2" Name="开/关开关"/>
+    <Elem NameU="Circular Progress View" Number="2" Name="循环进度视图"/>
+    <Elem NameU="Button" Name="按钮"/>
+    <Elem NameU="Two Buttons Control" Name="两个按钮控件"/>
+    <Elem NameU="Label" Name="标签"/>
+    <Elem NameU="Radio button" Name="单选按钮"/>
+    <Elem NameU="Text Selection Frame" Name="文本选择框"/>
+    <Elem NameU="Selection Frame" Name="选择框"/>
+</Lib>

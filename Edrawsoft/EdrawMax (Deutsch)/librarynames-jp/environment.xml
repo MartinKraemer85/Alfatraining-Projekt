@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Environment">
+
+<Elem Name="じょうろ" NameU="Watering Can"/>
+
+<Elem Name="部屋" NameU="House"/>
+
+<Elem Name="木" NameU="Tree"/>
+
+<Elem Name="省エネ車" NameU="Energy-Saving Car"/>
+
+<Elem Name="環境保護" NameU="Environmental Protection"/>
+
+<Elem Name="緑の苗" NameU="Green Seedling"/>
+
+<Elem Name="プラグ" NameU="插头"/>
+
+<Elem Name="環境ラベル" NameU="Environmental Label"/>
+
+<Elem Name="太陽エネルギー" NameU="太阳能"/>
+
+<Elem Name="拡大鏡" NameU="Magnifier"/>
+
+<Elem Name="バタフライ" NameU="Butterfly"/>
+
+<Elem Name="省エネランプ" NameU="Energy Saving Lamp"/>
+
+<Elem Name="ごみ箱" NameU="Trash Can"/>
+
+<Elem Name="電池" NameU="Battery"/>
+
+<Elem Name="手紙" NameU="Letter"/>
+
+<Elem Name="ノートブック" NameU="Notebook"/>
+
+<Elem Name="水を節約" NameU="Conserve Water"/>
+
+<Elem Name="工場" NameU="Factory"/>
+
+<Elem Name="環境保護のロゴ" NameU="Environmental Protection Logo"/>
+
+<Elem Name="ガス" NameU="Gas"/>
+
+<Elem Name="ガソリン" NameU="Gasoline"/>
+
+<Elem Name="地球を守る" NameU="Protect the Earth"/>
+
+<Elem Name="大気温" NameU="Air Temperature"/>
+
+<Elem Name="風力エネルギー" NameU="Wind Energy"/>
+
+<Elem Name="花" NameU="Flower"/>
+
+<Elem Name="太陽" NameU="Sun"/>
+
+<Elem Name="車" NameU="Car"/>
+
+<Elem Name="自転車" NameU="Bicycle"/>
+
+<Elem Name="発電所" NameU="Power Station"/>
+
+<Elem Name="電灯" NameU="Electric Light"/>
+
+<Elem Name="水" NameU="Water"/>
+
+<Elem Name="リンゴ" NameU="Apple"/>
+
+<Elem Name="傘" NameU="Umbrella"/>
+
+<Elem Name="飲み物" NameU="Drink"/>
+
+<Elem Name="火" NameU="Fire"/>
+
+<Elem Name="環境を守る" NameU="Protect Environment"/>
+
+<Elem Name="煙突" NameU="Chimney"/>
+
+<Elem Name="高圧送電線鉄塔" NameU="High Voltage Power Line Tower"/>
+
+<Elem Name="エコバッグ" NameU="Eco Bag"/>
+
+<Elem Name="カクタス" NameU="Cactus"/>
+
+<Elem Name="雷" NameU="Thunder"/>
+
+<Elem Name="雪" NameU="Snowflake"/>
+
+<Elem Name="緑の葉" NameU="Green Leaf"/>
+
+<Elem Name="自然を守る" NameU="Protect Nature"/>
+
+<Elem Name="工場" NameU="Plant"/>
+
+<Elem Name="杉" NameU="Cedar"/>
+
+<Elem Name="太陽エネルギー" NameU="Solar Energy"/>
+
+<Elem Name="森" NameU="Forest"/>
+
+<Elem Name="風" NameU="Wind"/>
+
+<Elem Name="バッジ" NameU="Badge"/>
+
+<Elem Name="ワインボトル" NameU="Wine Bottle"/>
+
+<Elem Name="環境に優しいカートン" NameU="Environmentally Friendly Carton"/>
+
+<Elem Name="節水" NameU="Cconserve Water"/>
+
+<Elem Name="環境保護アイコン" NameU="Environmental Protection Icon"/>
+
+<Elem Name="紙" NameU="Paper"/>
+
+<Elem Name="道路標識" NameU="Road Sign"/>
+
+<Elem Name="熱気球" NameU="Hot Air Balloon"/>
+
+<Elem Name="雲" NameU="Cloud"/>
+
+<Elem Name="メダル" NameU="Medal"/>
+
+<Elem Name="水資源" NameU="Water Resources"/>
+
+<Elem Name="地球" NameU="Earth"/>
+
+<Elem Name="月" NameU="Moon"/>
+
+<Elem Name="鳥" NameU="Bird"/>
+
+<Elem Name="イルカ" NameU="Dolphin"/>
+
+<Elem Name="天気" NameU="Weather"/>
+
+<Elem Name="沈む" NameU="Sink"/>
+
+<Elem Name="環境保護意識" NameU="Environmental Awareness"/>
+
+<Elem Name="風車" NameU="Windmill"/>
+
+<Elem Name="地球カー" NameU="Earth Car"/>
+
+<Elem Name="温度計" NameU="Thermometer"/>
+
+<Elem Name="ガソリンバレル" NameU="Barrels of Gasoline"/>
+
+<Elem Name="白熊" NameU="Polar Bear"/>
+
+<Elem Name="足跡" NameU="Footprint"/>
+
+<Elem Name="開削" NameU="Digging"/>
+
+<Elem Name="ゴミ回収" NameU="Garbage Collection"/>
+
+<Elem Name="種蒔き" NameU="Sowing"/>
+
+<Elem Name="缶" NameU="Cans"/>
+
+<Elem Name="山" NameU="Mountain"/>
+
+<Elem Name="鯨" NameU="Whale"/>
+
+<Elem Name="氷山" NameU="Iceberg"/>
+
+<Elem Name="葉" NameU="Leaves"/>
+
+<Elem Name="雨" NameU="Rain"/>
+
+</Lib>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="WBS Shapes">
+    <Elem NameU="Task Card" Name="任务框"/>
+    <Elem NameU="Task Card 2" Name="任务框 2"/>
+    <Elem NameU="Task Card 3" Name="任务框 3"/>
+    <Elem NameU="Task Card 4" Name="任务框 4"/>
+    <Elem NameU="Task Card 5" Name="任务框 5"/>
+    <Elem NameU="Task Bar" Name="任务条"/>
+    <Elem NameU="Main task" Name="主任务"/>
+    <Elem NameU="Main task 2" Name="主任务 2"/>
+    <Elem NameU="Main task 3" Name="主任务 3"/>
+    <Elem NameU="Main task 4" Name="主任务 4"/>
+    <Elem NameU="Main task 5" Name="主任务 5"/>
+    <Elem NameU="Right Angle Connector" Name="直角连接线"/>
+    <Elem NameU="Line Connector" Name="直线接线"/>
+    <Elem NameU="Dynamical Connector" Name="动态连接线"/>
+</Lib>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Tables and Chairs">
+    <Elem NameU="Chair" Number="14" Name="의자"/>
+    <Elem NameU="Stool" Name="의자"/>
+    <Elem NameU="Chair" Number="5" Name="의자"/>
+    <Elem NameU="Recliner" Name="안락 의자"/>
+    <Elem NameU="Sling chair" Name="슬링 체어"/>
+    <Elem NameU="Lounge chair" Name="라운지 의자"/>
+    <Elem NameU="Table with Chairs" Name="테이블과 의자"/>
+    <Elem NameU="Style Station" Number="7" Name="테이블과 의자"/>
+    <Elem NameU="lounge chair" Name="라운지 의자"/>
+    <Elem NameU="Lounge Chair" Number="4" Name="라운지 의자"/>
+    <Elem NameU="Bar Counter" Number="6" Name="바 카운터"/>
+    <Elem NameU="The Chair and Table" Number="2" Name="테이블과 의자"/>
+    <Elem NameU="Sofa and Sofa Table" Number="2" Name="소파와 테이블"/>
+    <Elem NameU="Double table" Name="2인용 테이블"/>
+    <Elem NameU="Circular dining table for four" Name="4인용 식탁"/>
+    <Elem NameU="Eight people circular dining table" Name="8인용 식탁"/>
+    <Elem NameU="Oval dining table" Number="2" Name="타원형 식탁"/>
+    <Elem NameU="Double square table" Name="2인용 사각 테이블"/>
+    <Elem NameU="Square table" Name="사각 테이블"/>
+    <Elem NameU="Oblong dining table" Name="직사각형 테이블"/>
+    <Elem NameU="Square dining table" Name="사각 식탁"/>
+    <Elem NameU="Dining table" Name="식탁"/>
+    <Elem NameU="Circular table" Number="3" Name="둥근 식탁"/>
+    <Elem NameU="Oval table" Name="타원 테이블"/>
+    <Elem NameU="Square table" Name="사각 식탁"/>
+    <Elem NameU="Lounge chair" Number="2" Name="라운지 의자"/>
+    <Elem NameU="Circular table" Name="둥근 테이블"/>
+    <Elem NameU="Oval table" Name="타원 테이블"/>
+    <Elem NameU="Conference table" Number="3" Name="회의 테이블"/>
+    <Elem NameU="Rectangle table" Name="사각형 테이블"/>
+    <Elem NameU="Diamond table" Number="2" Name="육각형 테이블"/>
+    <Elem NameU="Corner table" Name="둥근 테이블"/>
+    <Elem NameU="Semicircle table" Name="반원 테이블"/>
+    <Elem NameU="The fan table" Name="부채모양 테이블"/>
+    <Elem NameU="Ping-pong table" Name="탁구 테이블"/>
+    <Elem NameU="Desk" Number="4" Name="사무실 테이블"/>
+    <Elem NameU="Dressing table" Name="화장대"/>
+</Lib>

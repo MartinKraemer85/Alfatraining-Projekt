@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="UML Sequence Diagram">
+
+<Elem Name="オブジェクトのライフライン" NameU="Object Lifeline"/>
+
+<Elem Name="ライフライン" NameU="Lifeline"/>
+
+<Elem Name="メッセージ" NameU="Message"/>
+
+<Elem Name="メッセージの返信" NameU="Message Return"/>
+
+<Elem Name="オブジェクトの削除" NameU="Object Deletion"/>
+
+<Elem Name="自己委譲" NameU="Self Delegation"/>
+
+<Elem Name="注意" NameU="Note"/>
+
+<Elem Name="拘束" NameU="Constraint"/>
+
+<Elem Name="アクター" NameU="Actor"/>
+
+<Elem Name="アクターのライフライン" NameU="Actor Lifeline"/>
+
+<Elem Name="シーケンスオブジェクト" NameU="Sequence Object"/>
+
+<Elem Name="有効化" NameU="Activation"/>
+
+<Elem Name="有効化(中断)" NameU="Activation(break)"/>
+
+<Elem Name="パッケージ" NameU="Package"/>
+
+<Elem Name="代替フラグメント" NameU="Alternative Fragment"/>
+
+<Elem Name="ループフラグメント" NameU="Loop Fragment"/>
+
+<Elem Name="実体" NameU="Entity"/>
+
+<Elem Name="境界" NameU="Boundary"/>
+
+<Elem Name="コントロール" NameU="Control"/>
+
+<Elem Name="非同期メッセージ" NameU="Asynchronous Message"/>
+
+<Elem Name="曲線の自己委譲" NameU="Curve Self Delegation"/>
+
+<Elem Name="選択の断片" NameU="Choice Fragment"/>
+
+<Elem Name="終点" NameU="End Point"/>
+
+</Lib>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Vegetable">
+	<Elem NameU="Hamburger" Name="Hamburger"/>
+	<Elem NameU="Hot Dog" Name="Hot Dog"/>
+	<Elem NameU="Pizza" Name="Pizza"/>
+	<Elem NameU="Pizza piece" Name="Fetta di pizza"/>
+	<Elem NameU="Pizza dinner" Name="Cena con pizza"/>
+	<Elem NameU="Spaghetti" Name="Spaghetti"/>
+	<Elem NameU="Sushi 1" Name="Sushi 1"/>
+	<Elem NameU="Sushi 2" Name="Sushi 2"/>
+	<Elem NameU="Sushi 3" Name="Sushi 3"/>
+	<Elem NameU="Sausage" Name="Salsiccia"/>
+	<Elem NameU="Chicken" Name="Pillo"/>
+	<Elem NameU="Drumstick" Name="Coscia"/>
+	<Elem NameU="Chicken Drumstick" Name="Coscia di Pollo"/>
+	<Elem NameU="Meat" Name="Carne"/>
+	<Elem NameU="Egg" Name="Uovo"/>
+	<Elem NameU="Crab" Name="Granchio"/>
+	<Elem NameU="Fish" Name="Pesce"/>
+	<Elem NameU="Escargots" Name="Lumache"/>
+	<Elem NameU="Lobster" Name="Aragosta"/>
+	<Elem NameU="Octopus" Name="Polpo"/>
+	<Elem NameU="Tomato 1" Name="Pomodoro 1"/>
+	<Elem NameU="Tomato 2" Name="Pomodoro 2"/>
+	<Elem NameU="Tomato 3" Name="Pomodoro 3"/>
+	<Elem NameU="Carrot" Name="Carota"/>
+	<Elem NameU="Chinese Cabbage" Name="Cavolo Cinese"/>
+	<Elem NameU="Cauliflower" Name="Cavolfiore"/>
+	<Elem NameU="Radish" Name="Radicchio"/>
+	<Elem NameU="Red Radish" Name="Radicchio Rosso"/>
+	<Elem NameU="Kidney beans" Name="Fagioli rossi"/>
+	<Elem NameU="Onion" Name="Cipolla"/>
+	<Elem NameU="Luffa" Name="Luffa"/>
+	<Elem NameU="Pumpkin" Name="Zucca"/>
+	<Elem NameU="Eggplant" Name="Melanzana"/>
+	<Elem NameU="Bell Pepper" Name="Peperone"/>
+	<Elem NameU="Mushrooms 1" Name="Funghi 1"/>
+	<Elem NameU="Mushrooms 2" Name="Funghi 2"/>
+	<Elem NameU="Myrcia" Name="Myrcia"/>
+	<Elem NameU="Peanut" Name="Nocciolina"/>
+	<Elem NameU="Corn" Name="Pannocchia"/>
+	<Elem NameU="Green Onion" Name="Scalogno"/>
+	<Elem NameU="Garlic" Name="Aglio"/>
+	<Elem NameU="A Clove of Garlic" Name="Spicchio d'Aglio"/>
+	<Elem NameU="Ginger" Name="Zenzero"/>
+	<Elem NameU="Orange" Name="Arancia"/>
+	<Elem NameU="Strawberry" Name="Fragola"/>
+	<Elem NameU="Banana" Name="Banana"/>
+	<Elem NameU="Peeled Banana" Name="Banana Sbucciata"/>
+	<Elem NameU="Cherry" Name="Ciliegia"/>
+	<Elem NameU="Grape" Name="Uva"/>
+	<Elem NameU="Lemon" Name="Limone"/>
+	<Elem NameU="Peach" Name="Pesca"/>
+	<Elem NameU="Apple" Name="Mela"/>
+	<Elem NameU="Star Fruit" Name="Carambola"/>
+	<Elem NameU="Watermelon" Name="Anguria"/>
+	<Elem NameU="Watermelon Slice" Name="Fetta di Anguria"/>
+	<Elem NameU="Pear" Name="Pera"/>
+	<Elem NameU="Lychee" Name="Litchi"/>
+	<Elem NameU="Papaya" Name="Papaia"/>
+	<Elem NameU="Pineapple" Name="Ananas"/>
+	<Elem NameU="Ice-cream cone" Name="Cono gelato"/>
+	<Elem NameU="Lollipop" Name="Lecca Lecca"/>
+	<Elem NameU="Macaron" Name="Macaron"/>
+	<Elem NameU="Doughnut" Name="Ciambella"/>
+	<Elem NameU="Oreo" Name="Oreo"/>
+	<Elem NameU="Chocolate" Name="Cioccolata"/>
+	<Elem NameU="Milk" Name="Latte"/>
+	<Elem NameU="A Bow of Rice" Name="Ciotola di Riso"/>
+	<Elem NameU="A Glass of Beer 1" Name="Bicchiere di Birra 1"/>
+	<Elem NameU="A Glass of Beer 2" Name="Bicchiere di Birra 2"/>
+</Lib>

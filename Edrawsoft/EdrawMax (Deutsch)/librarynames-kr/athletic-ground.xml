@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Athletic Ground">
+    <Elem NameU="Basketball court" Name="농구장"/>
+    <Elem NameU="Football field" Name="축구장"/>
+    <Elem NameU="Playground" Number="2" Name="운동장"/>
+</Lib>

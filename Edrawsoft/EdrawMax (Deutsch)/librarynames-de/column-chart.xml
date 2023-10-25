@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Column Chart">
+	<Elem NameU="Simple Column" Name="Säulendiagramm"/>
+	<Elem NameU="Column1" Name="Säulendiagramm"/>
+	<Elem NameU="Gradient Column" Name="Gradient Säulendiagramm"/>
+	<Elem NameU="Single Series Column" Name="Einzelne Serie Säulendiagramm"/>
+	<Elem NameU="Single Series Column 2" Name="Einzelne Serie Säulendiagramm 2"/>
+	<Elem NameU="Single Series Column 3" Name="Einzelne Serie Säulendiagramm 3"/>
+	<Elem NameU="Clustered Column" Name="Säulendiagramm Glomeratus"/>
+	<Elem NameU="Clustered Column 2" Name="Säulendiagramm Glomeratus 2"/>
+	<Elem NameU="Clustered Column 3" Name="Säulendiagramm Glomeratus 3"/>
+	<Elem NameU="Stacked Column 3" Name="Gestapeltes Säulendiagramm 3"/>
+	<Elem NameU="Stacked Column 2" Name="Gestapeltes Säulendiagramm 2"/>
+	<Elem NameU="100% Stacked Column 2" Name="100% Gestapeltes Säulendiagramm 2"/>
+	<Elem NameU="100% Stacked Column" Name="100% Gestapeltes Säulendiagramm"/>
+	<Elem NameU="100% Single Stacked Column" Name="100% Gestapeltes Säulendiagramm"/>
+	<Elem NameU="Gradient Single Column" Name="Gradient Einzelnes Säulendiagramm"/>
+</Lib>

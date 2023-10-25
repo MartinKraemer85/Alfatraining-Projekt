@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Cisco Safe Architectural Icons">
+    <Elem NameU="ACI Controller" Name="ACI控制器"/>
+    <Elem NameU="ACI Leaf Switch" Name="ACI轉換"/>
+    <Elem NameU="ACI Spine Switch" Name="ACI轉換2"/>
+    <Elem NameU="Adaptive Security Appliance" Name="自適應安全設備"/>
+    <Elem NameU="Automated System" Name="自動系統"/>
+    <Elem NameU="Blade Server" Name="刀鋒伺服器"/>
+    <Elem NameU="Catalyst Switch" Name="Catalyst轉換"/>
+    <Elem NameU="Corporate Device" Name="組合設備"/>
+    <Elem NameU="Email Security" Name="郵件安全"/>
+    <Elem NameU="Fabric Switch" Name="交換光纖"/>
+    <Elem NameU="Firepower Appliance" Name="防火墻功能"/>
+    <Elem NameU="Firewall" Name="防火墻"/>
+    <Elem NameU="Generic Appliance" Name="通用設備"/>
+    <Elem NameU="Intrusion Detection" Name="入侵檢測"/>
+    <Elem NameU="Load Balancer" Name="負載平衡器"/>
+    <Elem NameU="Nexus Switch" Name="Nexus交換"/>
+    <Elem NameU="Nexus Data Center Switch" Name="Nexus資料中心交換"/>
+    <Elem NameU="Nexus Fabric Switch" Name="Nexus交換光纖"/>
+    <Elem NameU="Nexus 1kv" Name="Nexus流量1kv"/>
+    <Elem NameU="Phone" Name="電話"/>
+    <Elem NameU="Router" Name="路徑"/>
+    <Elem NameU="Stacked Switch" Name="堆疊轉換"/>
+    <Elem NameU="Secure Server" Name="安全伺服器"/>
+    <Elem NameU="Server" Name="伺服器"/>
+    <Elem NameU="Storage" Name="存儲"/>
+    <Elem NameU="Switch" Name="轉換"/>
+    <Elem NameU="L3 Switch" Name="L3轉換"/>
+    <Elem NameU="TLS Appliance" Name="TLS設備"/>
+    <Elem NameU="Unified Access Switch" Name="統一接入交換"/>
+    <Elem NameU="Web Application Firewall" Name="網頁應用防火墻"/>
+    <Elem NameU="Web Security" Name="網頁安全"/>
+    <Elem NameU="Wide Area Application Engine (WAE)" Name="廣域應用程式(WAE)"/>
+    <Elem NameU="Wireless Access Point" Name="無限連通點"/>
+    <Elem NameU="Wireless LAN Controller" Name="無限LAN控制器"/>
+</Lib>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Video and Audio Ports">
+    <Elem NameU="RCA Plug" Name="RCA 플러그"/>
+    <Elem NameU="RCA Plug 2" Name="RCA 플러그 2"/>
+    <Elem NameU="RCA Plug 3" Number="2" Name="RCA 플러그 3"/>
+    <Elem NameU="RCA Plug 4" Name="RCA 플러그 4"/>
+    <Elem NameU="RCA Jack" Name="RCA 플러그"/>
+    <Elem NameU="Cable Jack" Name="케이블 플러그"/>
+    <Elem NameU="Cable Plug" Name="케이블 플러그"/>
+    <Elem NameU="RCA Jack 2" Name="RCA 잭 2"/>
+    <Elem NameU="Digital input" Name="디지털 입력"/>
+    <Elem NameU="Digital input 2" Name="디지털 입력 2"/>
+    <Elem NameU="VGA Plug" Name="VGA 플러그"/>
+    <Elem NameU="VGA Jack" Name="VGA 플러그"/>
+    <Elem NameU="Jack 2" Name="플러그 2"/>
+    <Elem NameU="Video input" Name="비디오 입력"/>
+    <Elem NameU="HDMI Plug" Name="HDMI 플러그"/>
+    <Elem NameU="HDMI Jack" Name="HDMI 플러그"/>
+    <Elem NameU="USB Plug" Name="USB 플러그"/>
+    <Elem NameU="S terminal Jack" Name="S 터미널 잭"/>
+    <Elem NameU="S terminal Plug" Name="S 터미널 플러그"/>
+    <Elem NameU="DVI-I(Single Link)" Name="DVI-I(싱글 링크)"/>
+    <Elem NameU="DVI-I(Dual Link)" Name="DVI-I(듀얼 링크)"/>
+    <Elem NameU="DVI-D(Single Link)" Name="DVI-D(싱글 링크)"/>
+    <Elem NameU="DVI-D(Dual Link)" Name="DVI-D(듀얼 링크)"/>
+    <Elem NameU="DVI-A" Name="DVI-A"/>
+    <Elem NameU="Coaxial TV" Number="4" Name="동축 TV"/>
+    <Elem NameU="XLR Neutrik" Name="XLR Neutrik"/>
+    <Elem NameU="Display" Name="디스플레이"/>
+    <Elem NameU="Mini Display" Name="미니 디스플레이"/>
+    <Elem NameU="F Connector" Name="F 커넥터"/>
+    <Elem NameU="DFP" Name="DFP"/>
+    <Elem NameU="DFP Jack" Name="DFP 플러그"/>
+    <Elem NameU="SUPER VGA" Name="SUPER VGA"/>
+    <Elem NameU="Mini Display Jack" Name="미니 디스플레이"/>
+    <Elem NameU="USB Jack" Number="2" Name="USB 플러그"/>
+    <Elem NameU="Display Jack" Name="디스플레이 플러그"/>
+    <Elem NameU="Jack" Name="플러그"/>
+    <Elem NameU="Coaxial TV Jack" Name="동축 TV 플러그"/>
+    <Elem NameU="Jack" Number="3" Name="플러그"/>
+    <Elem NameU="TV" Name="티비"/>
+    <Elem NameU="Computer" Name="컴퓨터"/>
+    <Elem NameU="Devices" Number="6" Name="장비"/>
+</Lib>

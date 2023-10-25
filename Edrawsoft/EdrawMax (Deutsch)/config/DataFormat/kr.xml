@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DataFormats>
+	<DTUnits>
+			<Unit NameU="Year" Local="년"></Unit>
+			<Unit NameU="Quarter" Local="분기"></Unit>
+			<Unit NameU="Month" Local="월"></Unit>
+			<Unit NameU="Week" Local="주"></Unit>
+			<Unit NameU="Day" Local="일"></Unit>
+			<Unit NameU="Hour" Local="시"></Unit>
+			<Unit NameU="Minute"	Local="분"></Unit>
+			<Unit NameU="Second"	Local="초"></Unit>			
+	</DTUnits>		
+	<Strings>
+		<String Show="TRUE" NameU="Normal"	Local="보통"></String>
+		<String Show="TRUE" NameU="Uppercase"	Local="대문자"></String>
+		<String Show="TRUE" NameU="Lowercase"	Local="소문자"></String>
+	</Strings>
+	<Durations>
+		<Unit Show="TRUE" NameU="Week"	Local="주"></Unit>
+		<Unit Show="TRUE" NameU="Day"	Local="일"></Unit>		
+		<Unit Show="TRUE" NameU="Hour"	Local="시간"></Unit>
+		<Unit Show="TRUE" NameU="Minute"	Local="분"></Unit>
+		<Unit Show="TRUE" NameU="Second"	Local="초"></Unit>
+		<Unit Show="TRUE" NameU="Hour&amp;Minute"	Local="시간:분"></Unit>
+		<Unit Show="TRUE" NameU="Minute&amp;Second"	Local="분:초"></Unit>	
+	</Durations>
+	<Dates Default="0">
+		<Date Show="TRUE" Format="yyyy-MM-dd"></Date>
+		<Date Show="TRUE" Format="yyyy/M/d"></Date>
+		<Date Show="TRUE" Format="M/d/yyyy"></Date>
+		<Date Show="TRUE" Format="M/d/yy"></Date>
+		<Date Show="TRUE" Format="d/M/yyyy"></Date>
+		<Date Show="TRUE" Format="d/M/yy"></Date>
+		<Date Show="TRUE" Format="M.d.yyyy"></Date>
+		<Date Show="TRUE" Format="d.M.yyyy"></Date>
+		<Date Show="TRUE" Format="yy-M-d"></Date>	
+		<Date Show="TRUE" Format="yy-MM-dd"></Date>
+		<Date Show="TRUE" Format="MM-dd-yy"></Date>		
+		<Date Show="TRUE" Format="MMMM d,yyyy"></Date>
+		<Date Show="TRUE" Format="dddd,MMMM dd,yyyy"></Date>
+		<Date Show="TRUE" Format="d MMMM yyyy"></Date>	
+		<Date Show="TRUE" Format="d-MMM-yy"></Date>	
+		<Date Show="TRUE" Format="MMM.d,yy"></Date>
+		<Date Show="TRUE" Format="MMMM yy"></Date>
+		<Date Show="TRUE" Format="MMM-yy"></Date>
+		<Date Show="TRUE" Format="yyyy"></Date>		
+		<Date Show="TRUE" Format="MMM"></Date>
+		<Date Show="TRUE" Format="M/d/yyyy h:mm:ss ap"></Date>
+		<Date Show="TRUE" Format="M/d/yyyy h:mm ap"></Date>
+		<Date Show="TRUE" Format="d/M/yyyy h:mm:ss ap"></Date>
+		<Date Show="TRUE" Format="d/M/yyyy h:mm ap"></Date>	
+		<Date Show="TRUE" Format="h:mm ap"></Date>
+		<Date Show="TRUE" Format="h:mm:ss ap"></Date>
+		<Date Show="TRUE" Format="hh:mm"></Date>	
+		<Date Show="TRUE" Format="hh:mm:ss"></Date>
+	  <Date Show="TRUE" Format="hh"></Date>
+	  <Date Show="TRUE" Format="mm"></Date>
+	  <Date Show="TRUE" Format="ss"></Date>
+	</Dates>
+	<Units Default="0">
+		<Unit Show="TRUE" NameU="None" Flag="None" Local="없음"></Unit>
+		<Unit Show="TRUE" NameU="kilometre" Flag="km" Local="킬로미터"></Unit>
+		<Unit Show="TRUE" NameU="hectometre" Flag="hm" Local="헤크토미터"></Unit>
+		<Unit Show="TRUE" NameU="decametre" Flag="dam" Local="데카미터"></Unit>
+		<Unit Show="TRUE" NameU="metre" Flag="m" Local="미터"></Unit>		
+		<Unit Show="TRUE" NameU="decimetre" Flag="dm" Local="데시미터"></Unit>
+		<Unit Show="TRUE" NameU="centimetre" Flag="cm" Local="센티미터"></Unit>
+		<Unit Show="TRUE" NameU="millimetre" Flag="mm" Local="밀리미터"></Unit>
+		<Unit Show="TRUE" NameU="decimillimetre" Flag="dmm" Local="데시밀리미터"></Unit>
+		<Unit Show="TRUE" NameU="centimillimetre" Flag="cmm" Local="센티밀리미터"></Unit>
+		<Unit Show="TRUE" NameU="micrometre" Flag="um" Local="마이크로미터"></Unit>
+		<Unit Show="TRUE" NameU="nautical mile" Flag="n.m" Local="해리"></Unit>
+		<Unit Show="TRUE" NameU="mile" Flag="mi" Local="마일"></Unit>
+		<Unit Show="TRUE" NameU="yard" Flag="yd" Local="야드"></Unit>
+		<Unit Show="TRUE" NameU="foot" Flag="ft" Local="피트"></Unit>
+		<Unit Show="TRUE" NameU="inch" Flag="in" Local="인치"></Unit>
+		<Unit Show="TRUE" NameU="square kilometre" Flag="sq.km" Local="평방 킬로미터"></Unit>
+		<Unit Show="TRUE" NameU="hectare" Flag="ha" Local="헥타르"></Unit>
+		<Unit Show="TRUE" NameU="are" Flag="a" Local="아르"></Unit>		
+		<Unit Show="TRUE" NameU="square metre" Flag="sq.m" Local="평방미터"></Unit>
+		<Unit Show="TRUE" NameU="square centimetre" Flag="sq.cm" Local="평방센티미터"></Unit>
+		<Unit Show="TRUE" NameU="square mile" Flag="sq.mi" Local="평방마일"></Unit>
+		<Unit Show="TRUE" NameU="acre" Flag="ac" Local="에이커"></Unit>
+		<Unit Show="TRUE" NameU="square yard" Flag="sq.yd" Local="평방 야드"></Unit>
+		<Unit Show="TRUE" NameU="square foot" Flag="sq.ft" Local="평방 피트"></Unit>
+		<Unit Show="TRUE" NameU="square inch" Flag="sq.in" Local="평방 인치"></Unit>
+		<Unit Show="TRUE" NameU="tonne" Flag="t" Local="톤"></Unit>
+		<Unit Show="TRUE" NameU="quintal" Flag="q" Local="퀸탈"></Unit>
+		<Unit Show="TRUE" NameU="kilogram" Flag="kg" Local="킬로그램"></Unit>
+		<Unit Show="TRUE" NameU="hectogramme" Flag="hg" Local="헥토그램"></Unit>
+		<Unit Show="TRUE" NameU="decagramme" Flag="dag" Local="데카그램"></Unit>
+		<Unit Show="TRUE" NameU="gramme" Flag="g" Local="그램"></Unit>
+		<Unit Show="TRUE" NameU="decigramme" Flag="dg" Local="데시그램"></Unit>
+		<Unit Show="TRUE" NameU="centigramme" Flag="cg" Local="센티그램"></Unit>
+		<Unit Show="TRUE" NameU="milligramme" Flag="mg" Local="밀리그램"></Unit>
+		<Unit Show="TRUE" NameU="microgramme" Flag="ug" Local="마이크로그램"></Unit>
+		<Unit Show="TRUE" NameU="long ton" Flag="l.t" Local="영국톤"></Unit>
+		<Unit Show="TRUE" NameU="short ton" Flag="s.t" Local="미국톤"></Unit>
+		<Unit Show="TRUE" NameU="hundredweight" Flag="cwt" Local="백중량"></Unit>
+		<Unit Show="TRUE" NameU="stone" Flag="stone" Local="스톤"></Unit>
+		<Unit Show="TRUE" NameU="pound" Flag="lb" Local="파운드"></Unit>
+		<Unit Show="TRUE" NameU="ounce" Flag="oz" Local="온스"></Unit>
+		<Unit Show="TRUE" NameU="dram" Flag="dr" Local="디램"></Unit>
+		<Unit Show="TRUE" NameU="grain" Flag="gr" Local="그레인"></Unit>	
+		<Unit Show="TRUE" NameU="kilolitre" Flag="kl" Local="킬로리터"></Unit>
+		<Unit Show="TRUE" NameU="hectolitre" Flag="hl" Local="헥토리터"></Unit>
+		<Unit Show="TRUE" NameU="decalitre" Flag="dal" Local="데카리터"></Unit>
+		<Unit Show="TRUE" NameU="litre" Flag="l" Local="리터"></Unit>
+		<Unit Show="TRUE" NameU="decilitre" Flag="dl" Local="데시리터"></Unit>
+		<Unit Show="TRUE" NameU="centilitre" Flag="cl" Local="센티리터"></Unit>
+		<Unit Show="TRUE" NameU="millilitre" Flag="ml" Local="밀리리터"></Unit>	
+		<Unit Show="TRUE" NameU="microlitre" Flag="ul" Local="마이크로리터"></Unit>
+		<Unit Show="TRUE" NameU="bushel" Flag="bsh" Local="부셸"></Unit>
+		<Unit Show="TRUE" NameU="peck" Flag="pk" Local="펙"></Unit>
+		<Unit Show="TRUE" NameU="gallon" Flag="gal" Local="갤런"></Unit>
+		<Unit Show="TRUE" NameU="quart" Flag="qt" Local="쿼트"></Unit>
+		<Unit Show="TRUE" NameU="pint" Flag="p" Local="파인트"></Unit>
+		<Unit Show="TRUE" NameU="ampere" Flag="A" Local="암페어"></Unit>
+		<Unit Show="TRUE" NameU="kelvin" Flag="K" Local="켈빈"></Unit>
+		<Unit Show="TRUE" NameU="mole" Flag="mol" Local="두더지"></Unit>
+		<Unit Show="TRUE" NameU="candela" Flag="cd" Local="칸델라"></Unit>
+		<Unit Show="TRUE" NameU="second" Flag="s" Local="초"></Unit>
+		<Unit Show="TRUE" NameU="hertz" Flag="Hz" Local="헤르츠"></Unit>
+		<Unit Show="TRUE" NameU="pascal" Flag="Pa" Local="파스칼"></Unit>
+		<Unit Show="TRUE" NameU="newton" Flag="N" Local="뉴턴"></Unit>
+		<Unit Show="TRUE" NameU="joule" Flag="J" Local="줄"></Unit>
+		<Unit Show="TRUE" NameU="watt" Flag="W" Local="와트"></Unit>
+		<Unit Show="TRUE" NameU="coulomb" Flag="C" Local="쿨롱"></Unit>
+		<Unit Show="TRUE" NameU="volt" Flag="V" Local="볼트"></Unit>
+		<Unit Show="TRUE" NameU="ohm" Flag="Ω" Local="옴"></Unit>
+		<Unit Show="TRUE" NameU="farad" Flag="F" Local="패럿"></Unit>
+		<Unit Show="TRUE" NameU="henry" Flag="H" Local="헨리"></Unit>	
+		<Unit Show="TRUE" NameU="centigrade" Flag="°C" Local="섭씨"></Unit>
+		<Unit Show="TRUE" NameU="radian" Flag="rad" Local="라디안"></Unit>
+		<Unit Show="TRUE" NameU="steradian" Flag="sr" Local="스테라디안"></Unit>
+		<Unit Show="TRUE" NameU="Custom" Flag="Custom" Local="사용자 지정"></Unit>
+	</Units>	
+	<Currency Default="8">
+		<Cur Show="TRUE" Country="없음" CountryU="None" Flag="None" NewFlag="None" Local="无"></Cur>		
+		<Cur Show="TRUE" Country="아르헨티나" CountryU="Argentina" Flag="Arg.p." NewFlag="ARP" Local="ARP"></Cur>	
+		<Cur Show="TRUE" Country="호주" CountryU="Australia" Flag="$A." NewFlag="AUD" Local="AUD"></Cur>
+		<Cur Show="TRUE" Country="오스트리아" CountryU="Austria" Flag="Sch." NewFlag="ATS" Local="ATS"></Cur>		
+		<Cur Show="TRUE" Country="벨기에" CountryU="Belgium" Flag="B.Fr." NewFlag="BEF" Local="BEF"></Cur>		
+		<Cur Show="TRUE" Country="브라질" CountryU="Brazil" Flag="Gr.$" NewFlag="BRC" Local="BRC"></Cur>		
+		<Cur Show="TRUE" Country="캐나다" CountryU="Canada" Flag="$" NewFlag="CAD" Local="CAD"></Cur>		
+		<Cur Show="TRUE" Country="칠레" CountryU="Chile" Flag="P." NewFlag="CLP" Local="CLP"></Cur>
+		<Cur Show="TRUE" Country="중국" CountryU="China" Flag="￥" NewFlag="CNY" Local="위안"></Cur>
+		<Cur Show="TRUE" Country="중국 홍콩" CountryU="China Hongkong" Flag="HK$" NewFlag="HKD" Local="홍콩 달러"></Cur>		
+		<Cur Show="TRUE" Country="중국 대만" CountryU="China Taiwan" Flag="NT$" NewFlag="TWD" Local="TWD"></Cur>	
+		<Cur Show="TRUE" Country="중국 마카오" CountryU="China Macao" Flag="P." NewFlag="MOP" Local="MOP"></Cur>		
+		<Cur Show="TRUE" Country="체코" CountryU="Czech Republic" Flag="Kcs." NewFlag="CSK" Local="CSK"></Cur>
+		<Cur Show="TRUE" Country="덴마크" CountryU="Denmark" Flag="D.Kr." NewFlag="DKK" Local="DKK"></Cur>		
+		<Cur Show="TRUE" Country="이집트" CountryU="Egypt" Flag="£E." NewFlag="EGP" Local="EGP"></Cur>		
+		<Cur Show="TRUE" Country="유럽 연합 (EU)" CountryU="European Union" Flag="€" NewFlag="EUR" Local="EUR"></Cur>			
+		<Cur Show="TRUE" Country="피지" CountryU="Fiji" Flag="F.$" NewFlag="FJD" Local="FJD"></Cur>
+		<Cur Show="TRUE" Country="핀란드" CountryU="Finland" Flag="FMK." NewFlag="FIM" Local="FIM"></Cur>
+		<Cur Show="TRUE" Country="프랑스" CountryU="France" Flag="F.F." NewFlag="FRF" Local="FRF"></Cur>		
+		<Cur Show="TRUE" Country="가봉" CountryU="Gabon" Flag="CFAF" NewFlag="XAF" Local="XAF"></Cur>		
+		<Cur Show="TRUE" Country="독일" CountryU="Germany" Flag="DM." NewFlag="DEM" Local="DEM"></Cur>		
+		<Cur Show="TRUE" Country="그리스" CountryU="Greece" Flag="Dr." NewFlag="GRD" Local="GRD"></Cur>		
+		<Cur Show="TRUE" Country="헝가리" CountryU="Hungary" Flag="FT." NewFlag="HUF" Local="HUF"></Cur>
+		<Cur Show="TRUE" Country="아이슬란드" CountryU="Iceland" Flag="I.Kr." NewFlag="ISK" Local="ISK"></Cur>
+		<Cur Show="TRUE" Country="인도" CountryU="India" Flag="Re." NewFlag="INR" Local="INR"></Cur>
+		<Cur Show="TRUE" Country="인도네시아" CountryU="Indonesia" Flag="Rps." NewFlag="IDR" Local="IDR"></Cur>
+		<Cur Show="TRUE" Country="이란" CountryU="Iran" Flag="RI." NewFlag="IRR" Local="IRR"></Cur>		
+		<Cur Show="TRUE" Country="아일랜드" CountryU="Ireland" Flag="£" NewFlag="IEP" Local="IEP"></Cur>
+		<Cur Show="TRUE" Country="이탈리아" CountryU="Italy" Flag="Lit." NewFlag="ITL" Local="ITL"></Cur>
+		<Cur Show="TRUE" Country="일본" CountryU="Japan" Flag="¥" NewFlag="JPY" Local="엔"></Cur>			
+		<Cur Show="TRUE" Country="한국" CountryU="Korea" Flag="" NewFlag="KRW" Local="원"></Cur>
+		<Cur Show="TRUE" Country="룩셈부르크" CountryU="Luxembourg" Flag="Lux.F." NewFlag="LUF" Local="LUF"></Cur>
+		<Cur Show="TRUE" Country="말레이시아" CountryU="Malaysia" Flag="M.$" NewFlag="MYR" Local="MYR"></Cur>
+		<Cur Show="TRUE" Country="몰타" CountryU="Malta" Flag="£.M." NewFlag="MTP" Local="MTP"></Cur>
+		<Cur Show="TRUE" Country="모리셔스" CountryU="Mauritius" Flag="Maur. Rp." NewFlag="MUR" Local="MUR"></Cur>
+		<Cur Show="TRUE" Country="멕시코" CountryU="Mexico" Flag="$" NewFlag="MXP" Local="MXP"></Cur>
+		<Cur Show="TRUE" Country="모로코" CountryU="Morocco" Flag="DH." NewFlag="MAD" Local="MAD"></Cur>
+		<Cur Show="TRUE" Country="네더리앤드" CountryU="Netheriands" Flag="Gs." NewFlag="NLG" Local="NLG"></Cur>
+		<Cur Show="TRUE" Country="뉴질랜드" CountryU="New Zealand" Flag="$NZ." NewFlag="NZD" Local="NZD"></Cur>
+		<Cur Show="TRUE" Country="노르웨이" CountryU="Norway" Flag="N.Kr." NewFlag="NOK" Local="NOK"></Cur>
+		<Cur Show="TRUE" Country="필리핀" CountryU="Philippines" Flag="Ph.Pes." NewFlag="PHP" Local="PHP"></Cur>
+		<Cur Show="TRUE" Country="폴란드" CountryU="Poland" Flag="ZL." NewFlag="PLZ" Local="PLZ"></Cur>
+		<Cur Show="TRUE" Country="포르투갈" CountryU="Portugal" Flag="ESC." NewFlag="PTE" Local="PTE"></Cur>
+		<Cur Show="TRUE" Country="루마니아" CountryU="Romania" Flag="L." NewFlag="ROL" Local="ROL"></Cur>
+		<Cur Show="TRUE" Country="러시아" CountryU="Russia" Flag="Rbs. Rbl." NewFlag="SUR" Local="SUR"></Cur>
+		<Cur Show="TRUE" Country="사우디아라비아" CountryU="Saudi Arabia" Flag="S.R." NewFlag="SAR" Local="SAR"></Cur>
+		<Cur Show="TRUE" Country="세이셸" CountryU="Seychelles" Flag="S.RP" NewFlag="SCR" Local="SCR"></Cur>
+		<Cur Show="TRUE" Country="싱가폴" CountryU="Singapore" Flag="S.$" NewFlag="SGD" Local="SGD"></Cur>		
+		<Cur Show="TRUE" Country="솔로몬 제도" CountryU="Solomon Islands" Flag="SL.$" NewFlag="SBD" Local="SBD"></Cur>
+		<Cur Show="TRUE" Country="남아프리카 공화국" CountryU="South Africa" Flag="R." NewFlag="ZAR" Local="ZAR"></Cur>
+		<Cur Show="TRUE" Country="스페인" CountryU="Spain" Flag="Pts." NewFlag="ESP" Local="ESP"></Cur>	
+		<Cur Show="TRUE" Country="스웨덴" CountryU="Sweden" Flag="S.Kr." NewFlag="SEK" Local="SEK"></Cur>
+		<Cur Show="TRUE" Country="스위스" CountryU="Switzerland" Flag="SFr." NewFlag="CHF" Local="CHF"></Cur>	
+		<Cur Show="TRUE" Country="태국" CountryU="Thailand" Flag="BT." NewFlag="THP" Local="THP"></Cur>
+		<Cur Show="TRUE" Country="터키" CountryU="Turkey" Flag="£T." NewFlag="TRL" Local="TRL"></Cur>
+		<Cur Show="TRUE" Country="영국" CountryU="United Kiongdom" Flag="£" NewFlag="GBP" Local="GBP"></Cur>
+		<Cur Show="TRUE" Country="미국" CountryU="United States" Flag="$" NewFlag="USD" Local="USD"></Cur>	
+		<Cur Show="TRUE" Country="베네수엘라" CountryU="Venezuela" Flag="B" NewFlag="VEB" Local="VEB"></Cur>
+		<Cur Show="TRUE" Country="베트남" CountryU="Vietnam" Flag="D." NewFlag="VND" Local="VND"></Cur>
+		<Cur Show="TRUE" Country="유고슬라비아" CountryU="Yugoslavia" Flag="Din.Dr." NewFlag="YUD" Local="YUD"></Cur>
+		<Cur Show="TRUE" Country="사용자 지정" CountryU="Custom" Flag="Custom" NewFlag="Custom" Local="사용자 지정"></Cur>	
+	</Currency>
+</DataFormats>

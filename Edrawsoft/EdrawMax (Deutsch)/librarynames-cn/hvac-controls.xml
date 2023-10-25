@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="HVAC Controls">
+    <Elem NameU="Temperature Sensor" Name="温度传感器"/>
+    <Elem NameU="Humidity Sensor" Name="湿度传感器"/>
+    <Elem NameU="Enthalpy  Sensor" Name="热焓传感器"/>
+    <Elem NameU="Pressure Sensor" Name="压力传感器"/>
+    <Elem NameU="Flow Sensor" Name="流传感器"/>
+    <Elem NameU="Velocity Sensor" Name="速度传感器"/>
+    <Elem NameU="Voltage  Sensor" Name="电压传感器"/>
+    <Elem NameU="General  Sensor" Name="通用传感器"/>
+    <Elem NameU="Rotation Sensor" Name="旋转传感器"/>
+    <Elem NameU="Light  Sensor" Name="光传感器"/>
+    <Elem NameU="Vibration Sensor" Name="振动传感器"/>
+    <Elem NameU="Current Sensor" Name="电流传感器"/>
+    <Elem NameU="Power Sensor" Name="力传感器"/>
+    <Elem NameU="Air Quality Sensor" Name="气体质量传感器"/>
+    <Elem NameU="Timer" Name="定时器"/>
+    <Elem NameU="Level" Name="水平"/>
+    <Elem NameU="End Switch" Name="端传感器"/>
+    <Elem NameU="Smoke" Name="烟"/>
+    <Elem NameU="Power Connection" Name="接电源"/>
+    <Elem NameU="I/O point" Name="I / O点"/>
+    <Elem NameU="Actuator" Name="促动器"/>
+    <Elem NameU="Wiring Note" Name="布线标注"/>
+</Lib>

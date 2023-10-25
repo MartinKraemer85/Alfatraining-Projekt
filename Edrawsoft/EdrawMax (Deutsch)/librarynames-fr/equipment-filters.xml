@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Equipment-Filters">
+	<Elem NameU="Mode filter" Name="Filtre de mode"/>
+	<Elem NameU="Mode filter indication" Name="Indication du mode de filtre"/>
+	<Elem NameU="Frequency filter" Name="Filtre de fréquence"/>
+	<Elem NameU="Filter" Name="Filtre"/>
+	<Elem NameU="Filter 2" Name="Filtre 2"/>
+	<Elem NameU="Highpass filter" Name="Filtre passe-haut"/>
+	<Elem NameU="Lowpass filter" Name="Filtre passe-bas"/>
+	<Elem NameU="Bandpass filter" Name="Filtre passe-bande"/>
+	<Elem NameU="Gas filter" Name="Filtre à gaz"/>
+	<Elem NameU="Cartridge gas filter" Name="Filtre à gaz de la cartouche"/>
+	<Elem NameU="Roll air filter" Name="Filtre à air du rouleau"/>
+	<Elem NameU="Fixed bed air filter" Name="Filtre à air à lit fixe"/>
+	<Elem NameU="HEPA gas filter" Name="Filtre HEPA à gaz"/>
+	<Elem NameU="Liquid filter" Name="Filtre à liquide"/>
+	<Elem NameU="Fixed bed liquid filter" Name="Filtre de liquide de lit fixe"/>
+	<Elem NameU="Rotary liquid filter" Name="Filtre à liquide rotative"/>
+	<Elem NameU="Biological filter" Name="Filtre biologique"/>
+	<Elem NameU="Ionexchanger filter" Name="Filtre d'échangeur d'ions"/>
+	<Elem NameU="Press filter" Name="Filtre-presse"/>
+	<Elem NameU="Air filter" Name="Filtre à air"/>
+	<Elem NameU="Air filter 2" Name="Filtre à air 2"/>
+	<Elem NameU="The filter" Name="Filtre"/>
+	<Elem NameU="High efficiency filter" Name="Filtre à haute efficacité"/>
+	<Elem NameU="Primary filter、 Mid-effect fiher" Name="Filtre primaire、 Filtre mi-effet"/>
+	<Elem NameU="Oxygen-enriched filter" Name="Filtre enrichi en oxygène"/>
+	<Elem NameU="Rotary filter" Name="Filtre rotatif"/>
+	<Elem NameU="Suction filter" Name="Filtre d'aspiration"/>
+</Lib>

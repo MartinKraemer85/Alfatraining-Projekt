@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="SDL Diagram">
+    <Elem NameU="Start" Name="起始"/>
+    <Elem NameU="Variable start" Name="可变起始点"/>
+    <Elem NameU="Procedure" Name="过程"/>
+    <Elem NameU="Variable procedure" Name="可变过程"/>
+    <Elem NameU="Create request" Name="创建请求"/>
+    <Elem NameU="Alternative" Name="替代项"/>
+    <Elem NameU="Return" Name="返回"/>
+    <Elem NameU="Decision" Number="2" Name="判定"/>
+    <Elem NameU="Message from user" Name="来自用户的消息"/>
+    <Elem NameU="Message to user" Name="给用户的消息"/>
+    <Elem NameU="Primitive from call control" Name="来自调用控制的原语"/>
+    <Elem NameU="Primitive to call control" Name="给调用控制的原语"/>
+    <Elem NameU="Save" Name="保存"/>
+    <Elem NameU="Document" Name="文档"/>
+    <Elem NameU="Multi Document" Name="多文档"/>
+    <Elem NameU="Disk storage" Name="磁盘存储"/>
+    <Elem NameU="Divided process" Name="分隔的进程"/>
+    <Elem NameU="Divided event" Name="分开的事件"/>
+    <Elem NameU="Terminator" Name="终结符"/>
+    <Elem NameU="On-page reference" Name="页内引用"/>
+    <Elem NameU="Off-page reference" Name="跨页引用"/>
+    <Elem NameU="Curve Connector" Name="曲线连接线"/>
+</Lib>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Safety">
+    <Elem NameU="Barricade 1" Name="路障1"/>
+    <Elem NameU="Barricade 2" Name="路障2"/>
+    <Elem NameU="Do not enter sign" Name="禁止进入"/>
+    <Elem NameU="Lockout tag background" Name="锁定标签背景"/>
+    <Elem NameU="Lockout tag" Name="锁定标签"/>
+    <Elem NameU="Long-haired freaky people need not apply" Name="长发怪人不用申请"/>
+    <Elem NameU="Orange diamond caution sign" Name="橙色菱形警告标志"/>
+    <Elem NameU="Orange pylon" Name="橙色塔架"/>
+    <Elem NameU="Orange warning sign" Name="橙色警告标志"/>
+    <Elem NameU="OSHA tape (black-white checked)" Name="OSHA胶带（黑白格子）"/>
+    <Elem NameU="OSHA tape (black-white striped)" Name="OSHA胶带（黑白条纹）"/>
+    <Elem NameU="OSHA tape (red-white checked)" Name="OSHA胶带（红白格子）"/>
+    <Elem NameU="OSHA tape (red-white striped)" Name="OSHA胶带（红白条纹）"/>
+    <Elem NameU="OSHA tape (yellow-black checked)" Name="OSHA胶带（黄黑格子）"/>
+    <Elem NameU="OSHA tape (yellow-black striped)" Name="OSHA胶带（黄黑条纹）"/>
+    <Elem NameU="Small caution sign" Name="小警告标志"/>
+    <Elem NameU="Small danger sign" Name="小危险标志"/>
+    <Elem NameU="Small warning sign" Name="小警示牌"/>
+    <Elem NameU="Stop sign" Name="停车标志"/>
+    <Elem NameU="White danger sign" Name="白色危险标志"/>
+    <Elem NameU="White floor stand sign" Name="白色标志牌"/>
+    <Elem NameU="Yellow caution sign" Name="黄色警告标志"/>
+    <Elem NameU="Yellow diamond caution sign" Name="黄色菱形警告标志"/>
+    <Elem NameU="Yellow floor stand sign" Name="黄色标志牌"/>
+    <Elem NameU="Yellow pylon" Name="黄色塔架"/>
+    <Elem NameU="Yellow warning stripe" Name="黄色警戒线"/>
+    <Elem NameU="Yield sign" Name="让路标志"/>
+</Lib>

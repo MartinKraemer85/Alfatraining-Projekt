@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Yourdon and Coad">
+    <Elem NameU="Class and Object" Name="类和对象"/>
+    <Elem NameU="Class" Name="类"/>
+    <Elem NameU="Object State" Name="对象状态"/>
+    <Elem NameU="Gen-spec Structure" Name="一般/特殊结构"/>
+    <Elem NameU="Whole-part Structure" Name="总分结构"/>
+    <Elem NameU="Condition" Name="条件"/>
+    <Elem NameU="Loop" Name="循环"/>
+    <Elem NameU="External Interactor" Name="外部交互"/>
+    <Elem NameU="Data Process" Name="数据进程"/>
+    <Elem NameU="Multiple Process" Name="多步进程"/>
+    <Elem NameU="State" Name="状态"/>
+    <Elem NameU="Multiple State" Name="多步状态"/>
+    <Elem NameU="Stop State" Name="停止状态"/>
+    <Elem NameU="Stop State 2" Name="停止状态 2"/>
+    <Elem NameU="Process" Name="进程"/>
+    <Elem NameU="Center to Center" Name="中心到中心"/>
+    <Elem NameU="Loop on Center" Name="循环到中心"/>
+    <Elem NameU="Data Store" Name="数据存储"/>
+    <Elem NameU="Connector" Name="连接线"/>
+    <Elem NameU="Semicircle" Name="半圆"/>
+</Lib>

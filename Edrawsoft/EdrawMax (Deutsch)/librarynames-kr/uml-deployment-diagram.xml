@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="UML Deployment Diagram">
+    <Elem NameU="Package" Name="패키지"/>
+    <Elem NameU="Object" Number="2" Name="개체"/>
+    <Elem NameU="Component" Name="구성 요소"/>
+    <Elem NameU="Component Instance" Name="구성 요소 인스턴스"/>
+    <Elem NameU="Component" Name="구성 요소"/>
+    <Elem NameU="Component Instance" Name="구성 요소 인스턴스"/>
+    <Elem NameU="Project" Name="프로젝트"/>
+    <Elem NameU="Project Instance" Name="프로젝트 인스턴스"/>
+    <Elem NameU="Node" Name="노드"/>
+    <Elem NameU="Node Instance" Number="2" Name="노드 인스턴스"/>
+    <Elem NameU="Deployment Specification" Name="배포 설명"/>
+    <Elem NameU="Deployment Specification Instance" Name="배포 설명 인스턴스"/>
+    <Elem NameU="Constraint" Name="제약 조건"/>
+    <Elem NameU="Note" Name="주석"/>
+    <Elem NameU="Overview Diagram Container" Name="개요 다이어그램 컨테이너"/>
+    <Elem NameU="Comunication" Name="통신"/>
+    <Elem NameU="Inheritance" Name="상속"/>
+    <Elem NameU="Dependency" Name="의존 관계"/>
+    <Elem NameU="Aggregation" Name="집합"/>
+    <Elem NameU="Manifest" Name="매니페스트"/>
+    <Elem NameU="Deploy" Name="배포"/>
+</Lib>

@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="CCTV Equipment">
+
+<Elem Name="Casque d'écoute Bluetooth" NameU="Bluetooth Headset"/>
+
+<Elem Name="Caméra" NameU="Camera"/>
+
+<Elem Name="Caméra 2" NameU="Camera 2"/>
+
+<Elem Name="Lecteur CD" NameU="CD Player"/>
+
+<Elem Name="Ecouteur" NameU="Earphone"/>
+
+<Elem Name="Manette de jeu" NameU="Gamepad"/>
+
+<Elem Name="Lunettes Google" NameU="Google Glass"/>
+
+<Elem Name="iPad" NameU="iPad"/>
+
+<Elem Name="iPhone" NameU="iPhone"/>
+
+<Elem Name="iPod shuffle" NameU="iPod Shuffle"/>
+
+<Elem Name="iPod" NameU="iPod"/>
+
+<Elem Name="" NameU="Joystick"/>
+
+<Elem Name="Manette" NameU="Mobile Power"/>
+
+<Elem Name="Navigateur" NameU="Navigator"/>
+
+<Elem Name="Pad" NameU="Pad"/>
+
+<Elem Name="PSP" NameU="PSP"/>
+
+<Elem Name="Montre intelligente" NameU="SmartWatch"/>
+
+<Elem Name="Téléphone intelligent" NameU="Smartphone"/>
+
+<Elem Name="Tablette Ordinateur" NameU="Tablet Computer"/>
+
+<Elem Name="Caméra vidéo" NameU="Video Camera"/>
+
+<Elem Name="XBox" NameU="XBox"/>
+
+<Elem Name="Moniteur noir" NameU="Black monitor"/>
+
+<Elem Name="Moniteur blanc" NameU="White monitor"/>
+
+<Elem Name="Caméra de surveillance" NameU="Security camera"/>
+
+<Elem Name="Caméra dôme" NameU="Dome Camera"/>
+
+<Elem Name="Machine de boule" NameU="Ball Machine"/>
+
+<Elem Name="Lumière infrarouge 1" NameU="Infrared light 1"/>
+
+<Elem Name="Lumière infrarouge 2" NameU="Infrared light 2"/>
+
+<Elem Name="IPC" NameU="IPC"/>
+
+<Elem Name="Alarme" NameU="Alarm"/>
+
+<Elem Name="Alarme 2" NameU="Alarm 2"/>
+
+<Elem Name="Détecteur de fumée" NameU="Smoke alarm"/>
+
+<Elem Name="Moniteur" NameU="Monitor"/>
+
+<Elem Name="DVR" NameU="DVR"/>
+
+<Elem Name="DVR 2" NameU="DVR 2"/>
+
+<Elem Name="Périphériques de sécurité 1" NameU="Security Peripherals 1"/>
+
+<Elem Name="Périphériques de sécurité 2" NameU="Security Peripherals 2"/>
+
+<Elem Name="ATM" NameU="ATM"/>
+
+<Elem Name="Moniteurs" NameU="Monitors"/>
+
+<Elem Name="Mural TV" NameU="TV wall"/>
+
+</Lib>

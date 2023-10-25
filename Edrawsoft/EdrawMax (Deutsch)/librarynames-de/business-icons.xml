@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Business Icons">
+
+<Elem Name="Adressbuch" NameU="Address Book"/>
+
+<Elem Name="Medaille" NameU="Medal"/>
+
+<Elem Name="Schild" NameU="Shield"/>
+
+<Elem Name="Gewinn" NameU="Profit"/>
+
+<Elem Name="Verlust" NameU="Loss"/>
+
+<Elem Name="Rechner" NameU="Calculator"/>
+
+<Elem Name="Uhr" NameU="Clock"/>
+
+<Elem Name="Wecker" NameU="Alarm Clock"/>
+
+<Elem Name="Cloud" NameU="Cloud"/>
+
+<Elem Name="Datenbank" NameU="Database"/>
+
+<Elem Name="Kamera" NameU="Camera"/>
+
+<Elem Name="Bravo" NameU="Thumb Up"/>
+
+<Elem Name="Daumen runter" NameU="Thumb Down"/>
+
+<Elem Name="Radiowelle" NameU="Radio Wave"/>
+
+<Elem Name="Lautsprecher" NameU="Loudspeaker"/>
+
+<Elem Name="Akku" NameU="Battery"/>
+
+<Elem Name="Einkaufswagen" NameU="Cart"/>
+
+<Elem Name="Kaffee" NameU="Coffee"/>
+
+<Elem Name="Aktentasche" NameU="Briefcase"/>
+
+<Elem Name="At" NameU="At"/>
+
+<Elem Name="Apertur" NameU="Aperture"/>
+
+<Elem Name="Pfeil - Zirkular" NameU="Arrow - Circular"/>
+
+<Elem Name="Auto" NameU="Car"/>
+
+<Elem Name="Sprechblase - Arbeit" NameU="Chatbubble - Working"/>
+
+<Elem Name="Sprechblase" NameU="Chat Bubbles"/>
+
+<Elem Name="Cogs" NameU="Cogs"/>
+
+<Elem Name="Getriebe" NameU="Gear"/>
+
+<Elem Name="Glühbirne" NameU="Bulb"/>
+
+<Elem Name="Welt" NameU="World"/>
+
+<Elem Name="Gehen" NameU="Walk"/>
+
+<Elem Name="Sehen" NameU="Watch"/>
+
+<Elem Name="Volume - niedrig" NameU="Volume - Low"/>
+
+<Elem Name="Volume - Medium" NameU="Volume - Medium"/>
+
+<Elem Name="Volume - höhe" NameU="Volume - High"/>
+
+<Elem Name="Geldbeutel" NameU="Money Bag"/>
+
+<Elem Name="Taxi" NameU="Taxi"/>
+
+<Elem Name="Target" NameU="Target"/>
+
+<Elem Name="Shuffle" NameU="Shuffle"/>
+
+<Elem Name="Kraft" NameU="Power"/>
+
+<Elem Name="Preisschild" NameU="Price Tag"/>
+
+<Elem Name="Pin" NameU="Pin"/>
+
+<Elem Name="Menschen" NameU="People"/>
+
+<Elem Name="Person" NameU="Person"/>
+
+<Elem Name="Mikrofon" NameU="Microphone"/>
+
+<Elem Name="Standort" NameU="Location"/>
+
+<Elem Name="E-Mail" NameU="Email"/>
+
+<Elem Name="E-Mail - öffnen" NameU="Email - Open"/>
+
+<Elem Name="Kette" NameU="Chain"/>
+
+<Elem Name="Navigieren" NameU="Navigate"/>
+
+<Elem Name="Basketball" NameU="Basketball"/>
+
+<Elem Name="Baseball" NameU="Baseball"/>
+
+<Elem Name="Tennisball" NameU="Tennis Ball"/>
+
+<Elem Name="Zyklus" NameU="Cycle"/>
+
+<Elem Name="Herz" NameU="Heart"/>
+
+<Elem Name="Musik" NameU="Music"/>
+
+<Elem Name="Teilen" NameU="Share"/>
+
+<Elem Name="Stern" NameU="Star"/>
+
+<Elem Name="Schneeflocke" NameU="Snowflake"/>
+
+<Elem Name="Sonne" NameU="Sun"/>
+
+<Elem Name="Flugzeug" NameU="Plane"/>
+
+<Elem Name="Kreis" NameU="Pie"/>
+
+<Elem Name="Straßenschild" NameU="Road Sign"/>
+
+<Elem Name="Zwischenablage" NameU="Clipboard"/>
+
+<Elem Name="Prüfen" NameU="Check"/>
+
+<Elem Name="Buch" NameU="Book"/>
+
+<Elem Name="Lesezeichen" NameU="Bookmark"/>
+
+<Elem Name="Boot" NameU="Boat"/>
+
+<Elem Name="Cloud - Upload" NameU="Cloud - Upload"/>
+
+<Elem Name="Cloud - Download" NameU="Cloud - Download"/>
+
+<Elem Name="Trophäe" NameU="Trophy"/>
+
+<Elem Name="Thermometer" NameU="Thermometer"/>
+
+<Elem Name="Wifi" NameU="Wifi"/>
+
+<Elem Name="Werkzeug" NameU="Tool"/>
+
+<Elem Name="Dia" NameU="Slide"/>
+
+<Elem Name="Haus" NameU="Home"/>
+
+<Elem Name="Bild" NameU="Image"/>
+
+<Elem Name="Geschenk" NameU="Gift"/>
+
+<Elem Name="Kopfhörer" NameU="Earphone"/>
+
+<Elem Name="Laptop" NameU="Laptop"/>
+
+<Elem Name="Papier" NameU="Paper"/>
+
+<Elem Name="Monitor" NameU="Monitor"/>
+
+<Elem Name="Phon" NameU="Phone"/>
+
+<Elem Name="Film" NameU="Movie"/>
+
+<Elem Name="Ordner" NameU="Folder"/>
+
+<Elem Name="Mann" NameU="Man"/>
+
+<Elem Name="Frau" NameU="Woman"/>
+
+<Elem Name="Steckschlüssel" NameU="Wrench"/>
+
+<Elem Name="Mülleimer" NameU="Trash Bin"/>
+
+<Elem Name="Schirm" NameU="Umbrella"/>
+
+<Elem Name="Restaurant" NameU="Restaurant"/>
+
+<Elem Name="Puls" NameU="Pulse"/>
+
+<Elem Name="Büroklammer" NameU="Paperclip"/>
+
+<Elem Name="Stift" NameU="Pencil"/>
+
+<Elem Name="Verbandkasten" NameU="Medical Kit"/>
+
+<Elem Name="Spiel-Controller" NameU="Game Controller"/>
+
+<Elem Name="Drucker" NameU="Printer"/>
+
+<Elem Name="USB-Stick" NameU="USB Flash Drive"/>
+
+<Elem Name="Lupe" NameU="Magnifier"/>
+
+<Elem Name="kalendar" NameU="Calendar"/>
+
+<Elem Name="iPhone" NameU="iPhone"/>
+
+<Elem Name="Mappe" NameU="Map"/>
+
+<Elem Name="Sanduhr" NameU="Hourglass"/>
+
+<Elem Name="Zusammenarbeit" NameU="Cooperation"/>
+
+<Elem Name="U.S. Dollar" NameU="U.S. Dollar"/>
+
+<Elem Name="Euro" NameU="Euro"/>
+
+<Elem Name="RMB" NameU="RMB"/>
+
+<Elem Name="Fehler" NameU="Bug"/>
+
+<Elem Name="Ersparnisse" NameU="Savings"/>
+
+<Elem Name="Diamant" NameU="Diamond"/>
+
+<Elem Name="Bank" NameU="Bank"/>
+
+<Elem Name="Law Hammer" NameU="Law Hammer"/>
+
+<Elem Name="Waage der Gerechtigkeit" NameU="Scales of Justice"/>
+
+</Lib>

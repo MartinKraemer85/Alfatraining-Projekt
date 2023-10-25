@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Carnival">
+    <Elem NameU="Mask" Name="마스크"/>
+    <Elem NameU="Feather" Name="깃털"/>
+    <Elem NameU="Fireworks" Name="폭죽"/>
+    <Elem NameU="Clown Hat" Name="광대 모자"/>
+    <Elem NameU="Bunting" Name="채색기"/>
+    <Elem NameU="Fruit Juice" Name="주스"/>
+    <Elem NameU="Sand Hammer" Name="샌드 해머"/>
+    <Elem NameU="Ice Cream" Name="아이스크림"/>
+    <Elem NameU="Fireworks" Name="폭죽"/>
+    <Elem NameU="Flip Flop" Name="플립플롭"/>
+    <Elem NameU="Coconut Tree" Name="코코넛 나무"/>
+    <Elem NameU="Mask" Name="마스크"/>
+    <Elem NameU="Hat" Name="모자"/>
+    <Elem NameU="Clown" Name="광대"/>
+    <Elem NameU="Tent" Name="텐트"/>
+    <Elem NameU="Fireworks" Name="폭죽"/>
+    <Elem NameU="Sand Hammer" Name="샌드 해머"/>
+    <Elem NameU="Fireworks" Name="폭죽"/>
+    <Elem NameU="Mask" Name="마스크"/>
+    <Elem NameU="Balloon" Name="풍선"/>
+    <Elem NameU="Lollipop" Name="롤리팝"/>
+    <Elem NameU="Fireworks" Name="폭죽"/>
+    <Elem NameU="Horse" Name="말"/>
+    <Elem NameU="Hot Air Balloon" Name="열기구"/>
+    <Elem NameU="Float" Name="채색차"/>
+    <Elem NameU="Ferris Wheel" Name="관람차"/>
+    <Elem NameU="Tent" Name="텐트"/>
+    <Elem NameU="Clown" Name="광대"/>
+    <Elem NameU="Magic Hat" Name="마술 모자"/>
+    <Elem NameU="Amusement Park Facilities" Name="놀이 공원"/>
+    <Elem NameU="Drum" Name="드럼"/>
+    <Elem NameU="Dining Car" Name="식당차"/>
+    <Elem NameU="Balloon" Name="풍선"/>
+    <Elem NameU="Horn" Name="나팔"/>
+    <Elem NameU="Mask" Name="마스크"/>
+    <Elem NameU="Drum" Name="드럼"/>
+    <Elem NameU="Fireworks" Name="폭죽"/>
+    <Elem NameU="Mask" Name="마스크"/>
+    <Elem NameU="Small" Name="스몰"/>
+    <Elem NameU="Mask" Name="마스크"/>
+    <Elem NameU="Drum" Name="드럼"/>
+    <Elem NameU="Mask" Name="마스크"/>
+    <Elem NameU="Musical Instrument" Name="악기"/>
+    <Elem NameU="Eyes and Beard" Name="눈과 수염"/>
+    <Elem NameU="Firecracker" Name="폭죽"/>
+    <Elem NameU="Mask" Name="마스크"/>
+    <Elem NameU="Clown Hat" Name="광대 모자"/>
+    <Elem NameU="Parrot" Name="앵무새"/>
+    <Elem NameU="Carousel" Name="회전 목마"/>
+    <Elem NameU="Paper Windmills" Name="종이 풍차"/>
+    <Elem NameU="Elephant" Name="코끼리"/>
+    <Elem NameU="Fire" Name="불"/>
+    <Elem NameU="Dancing People" Name="춤추는 사람"/>
+    <Elem NameU="Playing Person" Name="역할 맡은 사람"/>
+    <Elem NameU="Dancing People" Number="2" Name="춤추는 사람"/>
+    <Elem NameU="Performer" Number="2" Name="연출자"/>
+    <Elem NameU="Store" Name="쇼핑몰"/>
+    <Elem NameU="Clown" Name="광대"/>
+    <Elem NameU="Rotating Flying Chair" Name="회전 의자"/>
+    <Elem NameU="Coconut Tree" Name="코코넛 나무"/>
+    <Elem NameU="Sun" Name="태양"/>
+    <Elem NameU="Mask" Number="2" Name="마스크"/>
+    <Elem NameU="Performing Acrobatics" Name="곡예 공연"/>
+    <Elem NameU="Trophy" Name="트로피"/>
+    <Elem NameU="Bunting" Name="채색기"/>
+</Lib>

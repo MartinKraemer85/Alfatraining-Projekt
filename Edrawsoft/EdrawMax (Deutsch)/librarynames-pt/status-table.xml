@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Status Table">
+	<Elem NameU="Blank Status Table" Name="Tabela de Estado em Branco"/>
+	<Elem NameU="Blank Status Table - Green" Name="Tabela de Estado em Branco - Verde"/>
+	<Elem NameU="Blank Status Table - Dark Red" Name="Tabela de Estado em Branco - Vermelho Escuro"/>
+	<Elem NameU="Status Table" Name="Tabela de Estado"/>
+	<Elem NameU="Status Table 2" Name="Tabela de Estado 2"/>
+	<Elem NameU="Task Status" Name="Estado de Tarefa"/>
+	<Elem NameU="Yes/No" Name="Sim/Não"/>
+	<Elem NameU="Check Box" Name="Caixa de Verificação"/>
+	<Elem NameU="Progress" Name="Progresso"/>
+	<Elem NameU="Progress 2" Name="Progresso 2"/>
+	<Elem NameU="Progress 3" Name="Progresso 3"/>
+	<Elem NameU="Priority" Name="Prioridade"/>
+	<Elem NameU="4-State Priority" Name="Prioridade de 4-Estados"/>
+	<Elem NameU="3-State Alert" Name="Alerta de 3-Estados"/>
+	<Elem NameU="6-State Status" Name="Estado de 6-Estados"/>
+	<Elem NameU="4-Direction Arrow" Name="Seta de 4-Direções"/>
+	<Elem NameU="4-Direction Arrow 2" Name="Seta de 4-Direções 2"/>
+	<Elem NameU="Progress Status" Name="Estado do Progresso"/>
+	<Elem NameU="Trafic Light" Name="Semáforo"/>
+	<Elem NameU="Rating" Name="Avaliação"/>
+	<Elem NameU="Quality" Name="Qualidade"/>
+	<Elem NameU="Lock/UnLock" Name="Trancar/Destrancar"/>
+	<Elem NameU="10-State Flag" Name="Bandeira de 10-Estados"/>
+	<Elem NameU="12-State Flag" Name="Bandeira de 12-Estados"/>
+	<Elem NameU="Numbering" Name="Numeração"/>
+	<Elem NameU="Message" Name="Mensagem"/>
+	<Elem NameU="Message 2" Name="Mensagem 2"/>
+	<Elem NameU="Spacing Bar" Name="Barra de Espaçamento"/>
+</Lib>

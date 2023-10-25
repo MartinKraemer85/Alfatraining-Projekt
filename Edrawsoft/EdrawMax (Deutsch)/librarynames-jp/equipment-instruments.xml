@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Equipment-Instruments">
+	<Elem NameU="Indicator" Name="インジケーター"/>
+	<Elem NameU="Behind Control Panel" Name="コントロールパネルの後に"/>
+	<Elem NameU="On Central Control Panel" Name="中央コントロールパネルに"/>
+	<Elem NameU="On Local Control Pane" Name="ローカルコントロールパネル"/>
+	<Elem NameU="Behind a Local Control Panel" Name="ローカルコントロールパネルの後ろに"/>
+	<Elem NameU="Indicator 2" Name="インジケーター 2"/>
+	<Elem NameU="Indicator 3" Name="インジケーター 3"/>
+	<Elem NameU="Indicator 4" Name="インジケーター 4"/>
+	<Elem NameU="Indicator 5" Name="インジケーター 5"/>
+	<Elem NameU="Odometer" Name="オドメーター"/>
+	<Elem NameU="Pressure gauge" Name="圧力計"/>
+	<Elem NameU="Flowmeter" Name="流量計"/>
+	<Elem NameU="Thermometer" Name="温度計"/>
+	<Elem NameU="Shared Indicator" Name="CRT"/>
+	<Elem NameU="Displayed configurable device" Name="設定可能な表示デバイス"/>
+	<Elem NameU="Shared Indicator 2" Name="CRT 2"/>
+	<Elem NameU="Computer Indicator" Name="コンピュータのインジケータ"/>
+	<Elem NameU="Programmable Indicator" Name="PLC"/>
+	<Elem NameU="Displayed programmable device" Name="プログラマブル可能な表示デバイス"/>
+	<Elem NameU="Computer" Name="コンピューター"/>
+	<Elem NameU="Unit control panel" Name="ユニットのコントロールパネル"/>
+	<Elem NameU="Temp Indicator" Name="温度計"/>
+	<Elem NameU="Temp Transmitter" Name="温度トランスミッタ"/>
+	<Elem NameU="Temp Recorder" Name="温度レコーダー"/>
+	<Elem NameU="Temp Controller" Name="温度調節器"/>
+	<Elem NameU="Flow Indicator" Name="フローインジケーター "/>
+	<Elem NameU="Flow Transmitter" Name="フロートランスミッタ"/>
+	<Elem NameU="Flow Recorder" Name="フローレコーダー"/>
+	<Elem NameU="Flow Controller" Name="フロー調節器"/>
+	<Elem NameU="Level Indicator" Name="レベル・インジケーター"/>
+	<Elem NameU="Pressure Indicator" Name="圧力計"/>
+	<Elem NameU="Level Transmitter" Name="レベル トランスミッタ"/>
+	<Elem NameU="Level Recorder" Name="レベル　レコーダー"/>
+	<Elem NameU="Level Controller" Name="レベルコントローラー"/>
+	<Elem NameU="Pressure Transmitter" Name="圧力 トランスミッタ"/>
+	<Elem NameU="Pressure Recorder" Name="圧力レコーダー"/>
+	<Elem NameU="Pressure Controller" Name="圧力制御装置"/>
+	<Elem NameU="Pressure Indicating" Name="圧力　表示"/>
+	<Elem NameU="Pressure Recording" Name="圧力　記録"/>
+	<Elem NameU="Level Alarm" Name="レベル報知器"/>
+	<Elem NameU="Flow Element" Name="フロー要素"/>
+	<Elem NameU="Temperature Element" Name="温度素子"/>
+	<Elem NameU="Level Gauge" Name="レベルゲージ"/>
+	<Elem NameU="Analyzer Transmitter" Name="アナライザトランスミッタ"/>
+	<Elem NameU="Transducer" Name="センサー"/>
+	<Elem NameU="Specialty item" Name="特製品"/>
+	<Elem NameU="Sampler" Name="サンプラー"/>
+	<Elem NameU="Straightening vanes" Name="整流板"/>
+	<Elem NameU="Diaphragm meter" Name="ダイヤフラム式計器"/>
+	<Elem NameU="Rotary meter" Name="回転式レベル計"/>
+	<Elem NameU="Magnetic" Name="磁気"/>
+	<Elem NameU="Pitot tube type flow element" Name="ピトー管式流量エレメント"/>
+	<Elem NameU="Pitot tube" Name="ピトー管"/>
+	<Elem NameU="Wedge meter" Name="ウェッジ流量計"/>
+	<Elem NameU="Target meter" Name="標的式流量計"/>
+	<Elem NameU="Weir meter" Name="堰式流量計"/>
+	<Elem NameU="Ultrasonic meter" Name="超音波計測器"/>
+	<Elem NameU="V-cone meter" Name="V-コーン式流量計"/>
+	<Elem NameU="Venturi meter" Name="ベンチュリ計"/>
+	<Elem NameU="Quick change orifice fitting" Name="早変わり口装置"/>
+	<Elem NameU="Turbine meter" Name="プロベラ計器"/>
+	<Elem NameU="Rotometer" Name="浮き式流量計"/>
+	<Elem NameU="Double" Name="ダブル"/>
+	<Elem NameU="Steam traced" Name="蒸気加熱"/>
+	<Elem NameU="Venturi" Name="ベンチュリ"/>
+	<Elem NameU="Vortex sensor" Name="渦流形センサー"/>
+	<Elem NameU="And gate" Name="論理積素子"/>
+	<Elem NameU="Or gate" Name="論理和素子"/>
+	<Elem NameU="Not gate" Name="否定素子"/>
+	<Elem NameU="Correcting element" Name="訂正エレメント"/>
+	<Elem NameU="Diamond" Name="菱形"/>
+	<Elem NameU="Pressure gauges" Name="圧力計"/>
+	<Elem NameU="Thermometers" Name="温度計"/>
+	<Elem NameU="Averaging pitot tube" Name="等速ピトー管流量計"/>
+	<Elem NameU="Level meter" Name="レベル計"/>
+	<Elem NameU="Coriolis flow sensor" Name="コリオリ流量センサ"/>
+	<Elem NameU="Flow nozzle meter" Name="フローノズルメーター"/>
+	<Elem NameU="Flume meter" Name="水槽計"/>
+	<Elem NameU="Manhole" Name="マンホール"/>
+	<Elem NameU="Socket, Connection Nozzle" Name="ソケット、ノズル接続"/>
+	<Elem NameU="Support bracket" Name="支え"/>
+	<Elem NameU="Support leg" Name="支え　2"/>
+	<Elem NameU="Support ring" Name="支え　3"/>
+	<Elem NameU="Support skirt" Name="支え　4"/>
+</Lib>

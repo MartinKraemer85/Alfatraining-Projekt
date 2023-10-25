@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Lighting">
+	<Elem NameU="Luminaire ceiling mount" Name="Lume con montaggio a soffitto"/>
+	<Elem NameU="Encl ceiling lum" Name="Lume a soffitto circoscritto"/>
+	<Elem NameU="Wall light" Name="Luce a parete"/>
+	<Elem NameU="Downlight" Name="Luce da incasso"/>
+	<Elem NameU="Outdoor lighting" Name="Luce da esterno"/>
+	<Elem NameU="Multi-light bar" Name="Barra multi-luce"/>
+	<Elem NameU="Batten fluores" Name="Fluorescenti da soffitto"/>
+	<Elem NameU="Modular fluores" Name="Fluorescenti modulari"/>
+	<Elem NameU="Emerg. light" Name="Luce di emergenza"/>
+	<Elem NameU="Emerg. sign" Name="Segnale di emergenza"/>
+	<Elem NameU="Light" Name="Luce"/>
+	<Elem NameU="Ceiling Light Outlet" Name="Uscita Luce da Soffitto"/>
+	<Elem NameU="Recessed ceiling light" Name="Luce a soffitto incassata"/>
+	<Elem NameU="Ceiling fan" Name="Ventilatore da soffitto"/>
+	<Elem NameU="Weatherproof landscape light" Name="Luce paesaggistica impermeabile"/>
+	<Elem NameU="Ceiling light with pull cord" Name="Luce a soffitto con cordicella"/>
+	<Elem NameU="Emergency battery unit with two light" Name="Unità batteria d'emergenza con due luci"/>
+	<Elem NameU="Spotlight" Name="Faretto"/>
+	<Elem NameU="Exit sign" Name="Segnale di uscita"/>
+	<Elem NameU="Roadway light" Name="Luce stradale"/>
+	<Elem NameU="Twin lights" Name="Doppia luce"/>
+	<Elem NameU="Lights" Name="Luci"/>
+	<Elem NameU="Integrated  Light" Name="Luce integrata"/>
+	<Elem NameU="Night Light" Name="Luce notturna"/>
+	<Elem NameU="Louvers" Name="Feritoia"/>
+</Lib>

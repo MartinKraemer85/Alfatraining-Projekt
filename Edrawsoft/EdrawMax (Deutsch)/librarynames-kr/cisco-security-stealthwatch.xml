@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Cisco Security Stealthwatch">
+    <Elem NameU="Agent" Name="에이전트"/>
+    <Elem NameU="Aggregator" Name="집계"/>
+    <Elem NameU="Cisco Stealthwatch Learning Network License" Name="Cisco 네트워크 라이선스"/>
+    <Elem NameU="Cisco Stealthwatch UDP Director" Name="Cisco UDP 디렉터"/>
+    <Elem NameU="Cloud" Name="클라우드"/>
+    <Elem NameU="Cloud License" Name="클라우드 라이선스"/>
+    <Elem NameU="Concentrator" Name="집선 장치"/>
+    <Elem NameU="Database Storage Array" Name="데이터베이스 저장소 배열"/>
+    <Elem NameU="Desktop/Client" Name="데스크탑/클라이언트"/>
+    <Elem NameU="Firewall" Name="방화벽"/>
+    <Elem NameU="Flow Collector Management" Name="플로우 수집기 관리"/>
+    <Elem NameU="Flow Sensor" Name="플로우 센서"/>
+    <Elem NameU="Laptop" Name="노트북"/>
+    <Elem NameU="Learning Agent" Name="학습 에이전트"/>
+    <Elem NameU="Legacy Server" Name="레거시 서버"/>
+    <Elem NameU="Management Console" Name="관리 콘솔"/>
+    <Elem NameU="Phone" Name="폰"/>
+    <Elem NameU="Proxy License" Name="프록시 라이선스"/>
+    <Elem NameU="Router" Name="경로"/>
+    <Elem NameU="Server" Name="서버"/>
+    <Elem NameU="Switch" Name="스위치"/>
+    <Elem NameU="Tablet" Name="태블릿"/>
+    <Elem NameU="Threat Feed" Name="위험 경고"/>
+    <Elem NameU="User" Name="사용자"/>
+    <Elem NameU="Virtual Machine" Name="가상 머신"/>
+    <Elem NameU="Web Proxy" Name="웹 프록시"/>
+    <Elem NameU="Wifi / WAP" Name="와이파이/WAP"/>
+    <Elem NameU="Wireless Controller" Name="무선 컨트롤러"/>
+</Lib>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Fashion">
+    <Elem NameU="Dress with Collar" Name="원피스1"/>
+    <Elem NameU="Strapless Dress" Number="2" Name="원피스2"/>
+    <Elem NameU="One Strap Dress" Name="스트랩 원피스"/>
+    <Elem NameU="Sleeveless Dress" Name="소매 없는 원피스"/>
+    <Elem NameU="Off Shoulder Dress" Name="핑크 원피스"/>
+    <Elem NameU="Pegged Skirt" Name="페그 스커트"/>
+    <Elem NameU="Gored Skirt" Name="고어드 스커트"/>
+    <Elem NameU="Sleeveless Skirt" Name="민소매 스커트"/>
+    <Elem NameU="Underwaist" Name="나시"/>
+    <Elem NameU="Layered Skirt" Name="레이어드 스커트"/>
+    <Elem NameU="Women Coat 1" Name="여성 코트 1"/>
+    <Elem NameU="Women Coat 2" Name="여성 코트 2"/>
+    <Elem NameU="Women Coat 3" Name="여성 코트 3"/>
+    <Elem NameU="Women Jacket" Name="여성 자켓"/>
+    <Elem NameU="Women Blazer" Name="여성 블레이저"/>
+    <Elem NameU="Women Blazer 2" Name="여성 블레이저 2"/>
+    <Elem NameU="Women Blazer 3" Name="여성 블레이저 3"/>
+    <Elem NameU="Women Short Sleeve Shirt" Name="여성 반팔 셔츠"/>
+    <Elem NameU="Men Shirt" Name="남성 셔츠"/>
+    <Elem NameU="Men Shirt 2" Name="남성 셔츠 2"/>
+    <Elem NameU="Men T-shirt 1" Name="남성 티셔츠 1"/>
+    <Elem NameU="Men T-shirt 2" Name="남성 티셔츠 2"/>
+    <Elem NameU="Men T-shirt 3" Name="남성 티셔츠 3"/>
+    <Elem NameU="Jeans" Name="청바지"/>
+    <Elem NameU="Breeches" Name="승마바지"/>
+    <Elem NameU="Overalls" Name="멜빵 바지"/>
+    <Elem NameU="Breeches" Name="승마바지"/>
+    <Elem NameU="Short Pants" Number="2" Name="숏팬츠"/>
+    <Elem NameU="Superman Costume" Name="슈퍼맨옷"/>
+    <Elem NameU="Children T-Shirt" Name="어린이 티셔츠"/>
+    <Elem NameU="Girl Vest" Name="소녀 조끼"/>
+    <Elem NameU="Girl Jacket" Name="소녀 자켓"/>
+    <Elem NameU="Children T-shirt and Pants" Name="어린이 티셔츠와 바지"/>
+    <Elem NameU="Children T-shirt" Name="어린이 티셔츠"/>
+    <Elem NameU="Sock 1" Name="양말 1"/>
+    <Elem NameU="Sock 2" Name="양말 2"/>
+    <Elem NameU="Sock 3" Name="양말 3"/>
+    <Elem NameU="Sock 4" Name="양말 4"/>
+    <Elem NameU="Men Boot" Name="남성 부츠"/>
+    <Elem NameU="Men Boat Shoe" Name="보트슈즈"/>
+    <Elem NameU="High-heeled Shoes" Name="하이힐"/>
+    <Elem NameU="High-heeled Shoes 2" Name="하이힐 2"/>
+    <Elem NameU="Boot" Name="부츠"/>
+    <Elem NameU="Women Bag" Name="여성 숄더백"/>
+    <Elem NameU="Women Bag 2" Name="여성 숄더백 2"/>
+    <Elem NameU="Women Bag 3" Name="여성 숄더백 3"/>
+    <Elem NameU="Men Bag" Name="남성 백"/>
+    <Elem NameU="Women Bag 4" Name="여성 숄더백 4"/>
+    <Elem NameU="Men Purse" Name="남자 지갑"/>
+    <Elem NameU="Purse" Name="지갑"/>
+    <Elem NameU="Cap" Name="모자"/>
+    <Elem NameU="Cap 2" Name="모자 2"/>
+    <Elem NameU="Travelling Bag 1" Name="여행 가방 1"/>
+    <Elem NameU="Travelling Bag 2" Name="여행 가방 2"/>
+</Lib>

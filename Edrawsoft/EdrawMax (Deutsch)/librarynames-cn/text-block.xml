@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Text Block">
+    <Elem NameU="Text Block" Number="50" Name="文本设计"/>
+    <Elem NameU="Creative Box" Name="创意文本"/>
+    <Elem NameU="Creative Box 2" Name="创意文本"/>
+    <Elem NameU="Creative Box 3" Name="创意文本"/>
+    <Elem NameU="Creative Box 4" Name="创意文本"/>
+    <Elem NameU="Creative Box 5" Name="创意文本"/>
+    <Elem NameU="Creative Box 6" Name="创意文本"/>
+    <Elem NameU="Creative Box 7" Name="创意文本"/>
+    <Elem NameU="Creative Box 8" Name="创意文本"/>
+    <Elem NameU="Creative Box 9" Name="创意文本"/>
+    <Elem NameU="Creative Box 10" Name="创意文本"/>
+    <Elem NameU="Creative Box 11" Name="创意文本"/>
+    <Elem NameU="Creative Box 12" Name="创意文本"/>
+    <Elem NameU="Creative Box 13" Name="创意文本"/>
+    <Elem NameU="Creative Box 14" Name="创意文本"/>
+    <Elem NameU="Creative Box 15" Name="创意文本"/>
+    <Elem NameU="Text Box" Name="文本框"/>
+    <Elem NameU="Text Box 2" Name="文本框 2"/>
+    <Elem NameU="Text Box 3" Name="文本框 3"/>
+    <Elem NameU="Text Box 4" Name="文本框 4"/>
+    <Elem NameU="Text Box 5" Name="文本框 5"/>
+    <Elem NameU="Text Box 6" Name="文本框 6"/>
+    <Elem NameU="Text Box 7" Name="文本框 7"/>
+    <Elem NameU="Text Box 8" Name="文本框 8"/>
+    <Elem NameU="Text Box 9" Name="文本框 9"/>
+    <Elem NameU="Text Box 10" Name="文本框 10"/>
+    <Elem NameU="Text Box 11" Name="文本框 11"/>
+    <Elem NameU="Text Box 12" Name="文本框 12"/>
+    <Elem NameU="Multi-Style Rectangle" Name="多样式文本框"/>
+    <Elem NameU="Multi-Style Rectangle 2" Name="多样式文本框 2"/>
+    <Elem NameU="Arc Rectangle" Name="圆角长方形"/>
+    <Elem NameU="Box" Name="文本框"/>
+    <Elem NameU="Hexagon" Name="六边形"/>
+    <Elem NameU="Trapezoid" Name="台形"/>
+    <Elem NameU="Trapeziod 2" Name="台形 2"/>
+    <Elem NameU="Trapeziod 3" Name="台形 3"/>
+    <Elem NameU="Hexagon" Name="六边形"/>
+    <Elem NameU="Circle" Name="圆形"/>
+    <Elem NameU="Circle 2" Name="圆形 2"/>
+    <Elem NameU="Circle 3" Name="圆形 3"/>
+    <Elem NameU="Basic Circle" Name="基本圆形"/>
+    <Elem NameU="Circle" Name="圆形"/>
+    <Elem NameU="Circle 2" Name="圆形 2"/>
+    <Elem NameU="Circle 3" Name="圆形 3"/>
+    <Elem NameU="Circle 4" Name="圆形 4"/>
+    <Elem NameU="Circle 5" Name="圆形 5"/>
+    <Elem NameU="Circle 6" Name="圆形 6"/>
+    <Elem NameU="Circle 7" Name="圆形 7"/>
+    <Elem NameU="Circle 8" Name="圆形 8"/>
+    <Elem NameU="Circle 9" Name="圆形 9"/>
+    <Elem NameU="Circle 10" Name="圆形 10"/>
+    <Elem NameU="Circle 11" Name="圆形 11"/>
+    <Elem NameU="Circle 12" Name="圆形 12"/>
+    <Elem NameU="Circle 13" Name="圆形 13"/>
+    <Elem NameU="Ball" Name="球"/>
+    <Elem NameU="Water-drop" Name="水滴"/>
+    <Elem NameU="Diamond" Name="菱形"/>
+    <Elem NameU="3D Diamond" Name="3D 菱形"/>
+    <Elem NameU="3D Diamond 2" Name="3D 菱形 2"/>
+    <Elem NameU="Round Rectangle" Name="圆角长方形"/>
+    <Elem NameU="Basic Rectangle" Name="基本长方形"/>
+    <Elem NameU="Rectangle" Name="长方形"/>
+    <Elem NameU="Rectangle 3" Name="长方形 3"/>
+    <Elem NameU="Rectangle 4" Name="长方形 4"/>
+    <Elem NameU="Rectangle 5" Name="长方形 5"/>
+    <Elem NameU="Rectangle 6" Name="长方形 6"/>
+    <Elem NameU="Rectangle 7" Name="长方形 7"/>
+    <Elem NameU="3D Rectangle 2" Name="3D 长方形 2"/>
+    <Elem NameU="Triangle" Name="三角形"/>
+    <Elem NameU="Triangle 2" Name="三角形 2"/>
+    <Elem NameU="Triangle 3" Name="三角形 3"/>
+    <Elem NameU="Triangle 4" Name="三角形 4"/>
+</Lib>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib nameU="Object Relationship"><Elem NameU="Entity" Name="実体"/><Elem NameU="Relationship" Name="関係"/><Elem NameU="View" Name="ビュー"/><Elem NameU="Parent to category" Name="親から子へ"/><Elem NameU="Category" Name="カテゴリ"/><Elem NameU="Data store" Name="データストア"/><Elem NameU="Category to child" Name="カテゴリから子へ"/><Elem NameU="Table inheritance" Name="テーブルの継承"/><Elem NameU="Type" Name="型"/><Elem NameU="Type inheritance" Name="型の継承"/><Elem NameU="Dynamic connector" Name="動的なコネクタ"/></Lib>

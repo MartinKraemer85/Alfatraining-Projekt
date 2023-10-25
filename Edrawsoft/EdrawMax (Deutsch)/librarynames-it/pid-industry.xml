@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="PID Industry">
+	<Elem NameU="Asphalt Mixture Tank" Name="Cisterna Conglomerato Bituminoso"/>
+	<Elem NameU="Asphalt Expansion Tank" Name="Cisterna Dilatazione Asfalto"/>
+	<Elem NameU="Animal manure lagoon" Name="Bacino concime animale"/>
+	<Elem NameU="The chariot liquid slag pool" Name="Pozza di scorie"/>
+	<Elem NameU="Blow tank" Name="Serbatoio soffiante"/>
+	<Elem NameU="Cycle of intelligent control" Name="Circuito di controllo intelligente"/>
+	<Elem NameU="Dry yeast powder storehouse" Name="Magazzino lievito essiccato in polvere"/>
+	<Elem NameU="High Efficiency Steam Turbine" Name="Turbina a Vapore ad Alta Efficienza"/>
+	<Elem NameU="Hopper" Name="Tramoggia"/>
+	<Elem NameU="Hydrocyclone" Name="Idrociclone"/>
+	<Elem NameU="Mother liquor tank" Name="Cisterna acque madri"/>
+	<Elem NameU="Mother liquor" Name="Acque madri"/>
+	<Elem NameU="Methylal Metering Tank" Name="Cisterna Misurazione Metilale"/>
+	<Elem NameU="Maturity" Name="Maturazione"/>
+	<Elem NameU="Limestone powder storehouse" Name="Magazzino polvere calcarea"/>
+	<Elem NameU="Level 3 high-speed shearing machine" Name="Tosatrice di livello 3 ad alta velocità"/>
+	<Elem NameU="Shearer" Name="Tosatrice"/>
+	<Elem NameU="Sintering machine" Name="Sintetizzatore"/>
+	<Elem NameU="Finished Products Tank" Name="Cisterna Prodotti Finali"/>
+	<Elem NameU="Points bin" Name="Raccoglitore Punti"/>
+	<Elem NameU="Stock bin" Name="Raccoglitore Scorte"/>
+	<Elem NameU="Smoke Abatement Pipe" Name="Tubo per Abbattimento Fumi"/>
+	<Elem NameU="Conveyor" Name="Trasportatore"/>
+	<Elem NameU="Thin stillage" Name="Distillazione fine"/>
+	<Elem NameU="Turbine" Name="Turbina"/>
+	<Elem NameU="Set" Name="Macchina completa"/>
+	<Elem NameU="Main Stem Pipeline" Name="Tubatura principale"/>
+</Lib>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Equipment-Filters">
+    <Elem NameU="Mode filter" Name="모드 필터"/>
+    <Elem NameU="Mode filter indication" Name="모드 필터 표시"/>
+    <Elem NameU="Frequency filter" Name="주파수 필터기"/>
+    <Elem NameU="Filter" Name="필터기"/>
+    <Elem NameU="Filter 2" Name="필터기 2"/>
+    <Elem NameU="Highpass filter" Name="하이 패스 필터"/>
+    <Elem NameU="Lowpass filter" Name="로우패스 필터"/>
+    <Elem NameU="Bandpass filter" Name="밴드패스 필터"/>
+    <Elem NameU="Filter" Name="필터기"/>
+    <Elem NameU="Filter 2" Name="필터기 2"/>
+    <Elem NameU="Gas filter" Name="가스 필터기"/>
+    <Elem NameU="Cartridge gas filter" Name="카트리지 가스 필터기"/>
+    <Elem NameU="Roll air filter" Name="회전식 공기 필터기"/>
+    <Elem NameU="Fixed bed air filter" Name="고정 침대 공기 필터기"/>
+    <Elem NameU="HEPA gas filter" Name="HEPA 가스 필터기"/>
+    <Elem NameU="Liquid filter" Name="액체 필터기"/>
+    <Elem NameU="Fixed bed liquid filter" Name="고정 침대 공기 필터기"/>
+    <Elem NameU="Rotary liquid filter" Name="회전식 액체 필터기"/>
+    <Elem NameU="Biological filter" Name="바이오 필터기"/>
+    <Elem NameU="Ionexchanger filter" Name="이온교환기 필터기"/>
+    <Elem NameU="Press filter" Name="프레스 필터"/>
+    <Elem NameU="Air filter" Name="공기 필터기"/>
+    <Elem NameU="Air filter 2" Name="공기 필터기 2"/>
+    <Elem NameU="The filter" Name="필터기"/>
+    <Elem NameU="High efficiency filter" Name="고효율 필터기"/>
+    <Elem NameU="Primary filter、 Mid-effect fiher" Name="기본 필터기、 보통 필터기"/>
+    <Elem NameU="Oxygen-enriched filter" Name="산소 필터기"/>
+    <Elem NameU="Filter" Name="필터기"/>
+    <Elem NameU="Filter 2" Name="필터기 2"/>
+    <Elem NameU="Rotary filter" Name="회전식 필터기"/>
+    <Elem NameU="Suction filter" Name="석션 필터"/>
+</Lib>

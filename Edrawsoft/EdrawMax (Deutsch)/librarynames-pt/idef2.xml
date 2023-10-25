@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="IDEF2">
+	<Elem NameU="Process box" Name="Caixa de processo"/>
+	<Elem NameU="Title block" Name="Bloco de título"/>
+	<Elem NameU="N-type line" Name="Linha tipo-N"/>
+	<Elem NameU="Text block" Name="Bloco de texto"/>
+	<Elem NameU="1 legged connector" Name="Conetor de 1 perna"/>
+	<Elem NameU="Forking connector" Name="Conetor bifurcar"/>
+	<Elem NameU="Side text callout" Name="Chamada de texto lateral"/>
+	<Elem NameU="Dynamic connector" Name="Conector dinâmico"/>
+</Lib>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Plumbing">
+	<Elem NameU="Boiler" Name="Caldeira"/>
+	<Elem NameU="Boiler 2" Name="Caldeira 2"/>
+	<Elem NameU="Heat exchanges" Name="Trocas de calor"/>
+	<Elem NameU="Heating / cooling coil" Name="Bobina de aquecimento / arrefecimento"/>
+	<Elem NameU="Pump" Name="Bomba"/>
+	<Elem NameU="Pump 2" Name="Bomba 2"/>
+	<Elem NameU="Heater /  cooler" Name="Aquecedor / arrefecedor"/>
+	<Elem NameU="Heater / cooler horizontal" Name="Aquecedor / arrefecedor horizontal"/>
+	<Elem NameU="Radiator" Name="Radiador"/>
+	<Elem NameU="Convector" Name="Convetor"/>
+	<Elem NameU="Radiant panel" Name="Painel radiante"/>
+	<Elem NameU="Radiant panel 2" Name="Painel radiante 2"/>
+	<Elem NameU="Open tank" Name="Tanque aberto"/>
+	<Elem NameU="Closed tank" Name="Tanque fechado"/>
+	<Elem NameU="Water surface" Name="Superfície de água"/>
+	<Elem NameU="Pipe coils" Name="Bobinas de tubo"/>
+	<Elem NameU="Sink" Name="Pia"/>
+	<Elem NameU="Basin" Name="Bacia"/>
+	<Elem NameU="Toilet" Name="Banheiro"/>
+	<Elem NameU="Bath" Name="Banho"/>
+	<Elem NameU="Basin (side)" Name="Bacia (lado)"/>
+	<Elem NameU="Toilet (side)" Name="Banheiro (lado)"/>
+	<Elem NameU="Bath (side)" Name="Banho (lado)"/>
+	<Elem NameU="End view" Name="Vista final"/>
+	<Elem NameU="Shower head" Name="Cabeça de chuveiro"/>
+	<Elem NameU="Towel rail" Name="Suporte de toalhas"/>
+</Lib>

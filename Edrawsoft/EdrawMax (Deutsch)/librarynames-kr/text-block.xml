@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Text Block">
+    <Elem NameU="Text Block" Number="50" Name="텍스트 블록"/>
+    <Elem NameU="Creative Box" Name="크리에이티브 박스"/>
+    <Elem NameU="Creative Box 2" Name="크리에이티브 박스"/>
+    <Elem NameU="Creative Box 3" Name="크리에이티브 박스"/>
+    <Elem NameU="Creative Box 4" Name="크리에이티브 박스"/>
+    <Elem NameU="Creative Box 5" Name="크리에이티브 박스"/>
+    <Elem NameU="Creative Box 6" Name="크리에이티브 박스"/>
+    <Elem NameU="Creative Box 7" Name="크리에이티브 박스"/>
+    <Elem NameU="Creative Box 8" Name="크리에이티브 박스"/>
+    <Elem NameU="Creative Box 9" Name="크리에이티브 박스"/>
+    <Elem NameU="Creative Box 10" Name="크리에이티브 박스"/>
+    <Elem NameU="Creative Box 11" Name="크리에이티브 박스"/>
+    <Elem NameU="Creative Box 12" Name="크리에이티브 박스"/>
+    <Elem NameU="Creative Box 13" Name="크리에이티브 박스"/>
+    <Elem NameU="Creative Box 14" Name="크리에이티브 박스"/>
+    <Elem NameU="Creative Box 15" Name="크리에이티브 박스"/>
+    <Elem NameU="Text Box" Name="텍스트 박스"/>
+    <Elem NameU="Text Box 2" Name="텍스트 박스 2"/>
+    <Elem NameU="Text Box 3" Name="텍스트 박스 3"/>
+    <Elem NameU="Text Box 4" Name="텍스트 박스 4"/>
+    <Elem NameU="Text Box 5" Name="텍스트 박스 5"/>
+    <Elem NameU="Text Box 6" Name="텍스트 박스 6"/>
+    <Elem NameU="Text Box 7" Name="텍스트 박스 7"/>
+    <Elem NameU="Text Box 8" Name="텍스트 박스 8"/>
+    <Elem NameU="Text Box 9" Name="텍스트 박스 9"/>
+    <Elem NameU="Text Box 10" Name="텍스트 박스 10"/>
+    <Elem NameU="Text Box 11" Name="텍스트 박스 11"/>
+    <Elem NameU="Text Box 12" Name="텍스트 박스 12"/>
+    <Elem NameU="Multi-Style Rectangle" Name="다종 텍스트 박스"/>
+    <Elem NameU="Multi-Style Rectangle 2" Name="다종 텍스트 박스 2"/>
+    <Elem NameU="Arc Rectangle" Name="아치 사각형"/>
+    <Elem NameU="Box" Name="텍스트 박스"/>
+    <Elem NameU="Hexagon" Name="육각형"/>
+    <Elem NameU="Trapezoid" Name="사다리꼴"/>
+    <Elem NameU="Trapeziod 2" Name="사다리꼴 2"/>
+    <Elem NameU="Trapeziod 3" Name="사다리꼴 3"/>
+    <Elem NameU="Hexagon" Name="육각형"/>
+    <Elem NameU="Circle" Name="원형"/>
+    <Elem NameU="Circle 2" Name="원형 2"/>
+    <Elem NameU="Circle 3" Name="원형 3"/>
+    <Elem NameU="Basic Circle" Name="기본 원형"/>
+    <Elem NameU="Circle" Name="원형"/>
+    <Elem NameU="Circle 2" Name="원형 2"/>
+    <Elem NameU="Circle 3" Name="원형 3"/>
+    <Elem NameU="Circle 4" Name="원형 4"/>
+    <Elem NameU="Circle 5" Name="원형 5"/>
+    <Elem NameU="Circle 6" Name="원형 6"/>
+    <Elem NameU="Circle 7" Name="원형 7"/>
+    <Elem NameU="Circle 8" Name="원형 8"/>
+    <Elem NameU="Circle 9" Name="원형 9"/>
+    <Elem NameU="Circle 10" Name="원형 10"/>
+    <Elem NameU="Circle 11" Name="원형 11"/>
+    <Elem NameU="Circle 12" Name="원형 12"/>
+    <Elem NameU="Circle 13" Name="원형 13"/>
+    <Elem NameU="Ball" Name="공"/>
+    <Elem NameU="Water-drop" Name="물방울"/>
+    <Elem NameU="Diamond" Name="마름모"/>
+    <Elem NameU="3D Diamond" Name="3D 마름모"/>
+    <Elem NameU="3D Diamond 2" Name="3D 마름모 2"/>
+    <Elem NameU="Round Rectangle" Name="둥근 직사각형"/>
+    <Elem NameU="Basic Rectangle" Name="기본 직사각형"/>
+    <Elem NameU="Rectangle" Name="직사각형"/>
+    <Elem NameU="Rectangle 3" Name="직사각형 3"/>
+    <Elem NameU="Rectangle 4" Name="직사각형 4"/>
+    <Elem NameU="Rectangle 5" Name="직사각형 5"/>
+    <Elem NameU="Rectangle 6" Name="직사각형 6"/>
+    <Elem NameU="Rectangle 7" Name="직사각형 7"/>
+    <Elem NameU="3D Rectangle 2" Name="3D 직사각형 2"/>
+    <Elem NameU="Triangle" Name="삼각형"/>
+    <Elem NameU="Triangle 2" Name="삼각형 2"/>
+    <Elem NameU="Triangle 3" Name="삼각형 3"/>
+    <Elem NameU="Triangle 4" Name="삼각형 4"/>
+</Lib>

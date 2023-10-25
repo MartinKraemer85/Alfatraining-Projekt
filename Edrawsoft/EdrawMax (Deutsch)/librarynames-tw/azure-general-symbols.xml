@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Azure General Symbols">
+    <Elem NameU="Number" Name="數字"/>
+    <Elem NameU="Attachment" Name="附件"/>
+    <Elem NameU="Audio" Name="音頻"/>
+    <Elem NameU="Bug" Name="錯誤"/>
+    <Elem NameU="Cable Settop TV Box" Name="有線電視機頂盒"/>
+    <Elem NameU="Calendar" Name="日曆"/>
+    <Elem NameU="Chart" Name="圖表"/>
+    <Elem NameU="Checkmark Success" Name="檢查標記成功"/>
+    <Elem NameU="Continous Cycle Circle" Name="連續循環圈"/>
+    <Elem NameU="Crossout failure" Name="刪除錯誤"/>
+    <Elem NameU="Cut And Paste" Name="剪下和貼上"/>
+    <Elem NameU="Favorite" Name="喜好"/>
+    <Elem NameU="Folder" Name="資料夾"/>
+    <Elem NameU="Game Controller" Name="遊戲遙控器"/>
+    <Elem NameU="Gears" Name="齒輪"/>
+    <Elem NameU="Like" Name="喜歡"/>
+    <Elem NameU="Not Allowed" Name="禁止"/>
+    <Elem NameU="Premium Star" Name="高級星"/>
+    <Elem NameU="Slider Bar Horizontal" Name="水平滑桿"/>
+    <Elem NameU="Slider Bar Vertical" Name="垂直滑桿"/>
+    <Elem NameU="Task List Or Backlog" Name="任務清單"/>
+    <Elem NameU="Graph" Name="圖片"/>
+    <Elem NameU="Tasks" Name="任務"/>
+    <Elem NameU="Tunnel" Name="途徑"/>
+    <Elem NameU="User" Name="用戶"/>
+    <Elem NameU="Video" Name="視頻"/>
+</Lib>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Marketing Shapes">
+    <Elem NameU="Target" Name="타깃"/>
+    <Elem NameU="Target 2" Name="타깃 2"/>
+    <Elem NameU="Dart" Name="다트"/>
+    <Elem NameU="Hit the Target" Name="타깃 명중"/>
+    <Elem NameU="Global" Name="글로벌"/>
+    <Elem NameU="Check Box" Name="체크박스"/>
+    <Elem NameU="Check or Cross" Name="완료 또는 취소"/>
+    <Elem NameU="Money" Name="돈"/>
+    <Elem NameU="Money Bag" Name="돈지갑"/>
+    <Elem NameU="Sign Post" Name="표지판"/>
+    <Elem NameU="Thermometer" Name="온도계"/>
+    <Elem NameU="Extend Hand" Name="손을 뻗다"/>
+    <Elem NameU="Shake Hands" Name="악수"/>
+    <Elem NameU="Man" Name="남자"/>
+    <Elem NameU="Female" Name="여자"/>
+    <Elem NameU="Meeting" Name="회의"/>
+    <Elem NameU="Scales" Name="배율"/>
+    <Elem NameU="Umbrella" Name="우산"/>
+    <Elem NameU="Pencil" Name="연필"/>
+    <Elem NameU="Glasses" Name="안경"/>
+    <Elem NameU="Flower" Name="꽃"/>
+    <Elem NameU="Flower 2" Name="꽃 2"/>
+    <Elem NameU="Tree" Name="나무"/>
+    <Elem NameU="Factory" Name="공장"/>
+    <Elem NameU="Warehouse" Name="창고"/>
+    <Elem NameU="Wholesaler" Name="도매상"/>
+    <Elem NameU="Bank" Name="은행"/>
+    <Elem NameU="Hotel" Name="호텔"/>
+    <Elem NameU="Building" Name="건축"/>
+    <Elem NameU="Oil Well" Name="기름 저장소"/>
+    <Elem NameU="Cylinder" Name="원통형"/>
+    <Elem NameU="Documents" Name="파일"/>
+    <Elem NameU="Papers" Name="종이"/>
+    <Elem NameU="Dog" Name="Dog"/>
+    <Elem NameU="Money Box" Name="현금"/>
+    <Elem NameU="Star" Name="별"/>
+    <Elem NameU="Question Mark" Name="물음표"/>
+    <Elem NameU="Full Box" Name="풀 박스"/>
+    <Elem NameU="Empty Box" Name="빈 박스"/>
+    <Elem NameU="Wooden Barrel" Name="나무통"/>
+    <Elem NameU="Oil barrel" Name="기름통"/>
+    <Elem NameU="Airplane" Name="비행기"/>
+    <Elem NameU="Bus" Name="버스"/>
+    <Elem NameU="Train" Name="기차"/>
+    <Elem NameU="Truck" Name="트럭"/>
+    <Elem NameU="Ship" Name="선박"/>
+    <Elem NameU="Shopping Cart" Name="쇼핑 카트"/>
+    <Elem NameU="Shopping Cart 2" Name="쇼핑 카트 2"/>
+    <Elem NameU="Cup" Name="트로피"/>
+    <Elem NameU="Award" Name="상"/>
+    <Elem NameU="Award 2" Name="상2"/>
+    <Elem NameU="Award 3" Name="상3"/>
+    <Elem NameU="Medal" Name="메달"/>
+    <Elem NameU="Stop Sign" Name="정지 표시"/>
+    <Elem NameU="No Sign" Name="금지 표시"/>
+    <Elem NameU="Warning Sign" Name="경고 표시"/>
+    <Elem NameU="Puzzle Whole" Name="퍼즐 완성"/>
+    <Elem NameU="Puzzle 1" Name="퍼즐 1"/>
+    <Elem NameU="Puzzle 2" Name="퍼즐 2"/>
+    <Elem NameU="Puzzle 3" Name="퍼즐 3"/>
+    <Elem NameU="Puzzle 4" Name="퍼즐 4"/>
+    <Elem NameU="Puzzle 5" Name="퍼즐 5"/>
+    <Elem NameU="Puzzle 6" Name="퍼즐 6"/>
+    <Elem NameU="Puzzle 7" Name="퍼즐 7"/>
+    <Elem NameU="Puzzle 8" Name="퍼즐 8"/>
+    <Elem NameU="Puzzle 9" Name="퍼즐 9"/>
+    <Elem NameU="Puzzle 10" Name="퍼즐 10"/>
+</Lib>

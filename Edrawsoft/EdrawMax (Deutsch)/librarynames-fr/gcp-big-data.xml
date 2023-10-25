@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="GCP Big Data">
+
+<Elem Name="Logiciel Google BigQuery" NameU="Google software BigQuery"/>
+
+<Elem Name="Flux de données cloud" NameU="Cloud data flow"/>
+
+<Elem Name="Base de données cloud" NameU="Cloud database"/>
+
+<Elem Name="Données Cloud" NameU="Cloud data"/>
+
+<Elem Name="Service de données cloud" NameU="Cloud data service"/>
+
+<Elem Name="Cloud logiciel Google PubSub" NameU="Google software cloud PubSub"/>
+
+<Elem Name="Studio de données" NameU="Data studio"/>
+
+<Elem Name="Génomique" NameU="Genomics"/>
+
+</Lib>

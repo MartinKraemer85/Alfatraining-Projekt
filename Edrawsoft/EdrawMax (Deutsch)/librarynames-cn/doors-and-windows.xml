@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Doors and Windows">
+    <Elem NameU="Window" Name="窗户"/>
+    <Elem NameU="Open Window" Number="4" Name="敞开窗户"/>
+    <Elem NameU="Glider Window" Name="滑窗"/>
+    <Elem NameU="Casement Window" Name="门式窗"/>
+    <Elem NameU="Bay window" Name="凸窗"/>
+    <Elem NameU="Double Casement Window" Name="双门式窗"/>
+    <Elem NameU="Opening" Name="敞开"/>
+    <Elem NameU="Door" Name="门"/>
+    <Elem NameU="Double Hung Door" Name="双挂门"/>
+    <Elem NameU="Double Door" Name="双门"/>
+    <Elem NameU="Uneven Door" Name="非平衡门"/>
+    <Elem NameU="Opposing Door" Name="对着的门"/>
+    <Elem NameU="Revolving Door" Name="旋转门"/>
+    <Elem NameU="Folding Door " Name="折叠门"/>
+    <Elem NameU="Sliding Door" Name="滑动门"/>
+    <Elem NameU="Double Sliding Door" Name="双滑轨门"/>
+    <Elem NameU="By-pass Door" Name="旁通门"/>
+    <Elem NameU="Bi-fold Door" Name="双褶门"/>
+    <Elem NameU="Double Bi-fold Door" Name="两个双褶门"/>
+    <Elem NameU="Sliding Glass Door" Name="滑动玻璃门"/>
+    <Elem NameU="Overhead Door" Name="升降门"/>
+    <Elem NameU="Garden Window" Name="花园窗户"/>
+</Lib>

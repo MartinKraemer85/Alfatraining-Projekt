@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="AWS Management &amp; Governance">
+	<Elem NameU="CloudWatch" Name="云观察"/>
+	<Elem NameU="CloudWatch_Alarm" Name="云观察警报"/>
+	<Elem NameU="CloudWatch_Event-Event-Based" Name="云观察基于事件的事件"/>
+	<Elem NameU="CloudWatch_Event-Time-Based" Name="基于云观察事件时间"/>
+	<Elem NameU="CloudWatch_Rule" Name="云观察规则"/>
+	<Elem NameU="AWS-App-Config" Name="AWS应用程序配置"/>
+	<Elem NameU="AWS-Auto-Scaling" Name="AWS自动缩放"/>
+	<Elem NameU="AWS-CloudFormation" Name="AWS云形成"/>
+	<Elem NameU="AWS-CloudTrail" Name="AWS云追踪"/>
+	<Elem NameU="AWS-CloudFormation_Change-Set" Name="AWS云形成变更集"/>
+	<Elem NameU="AWS-CloudFormation_Stack" Name="AWS云形成堆栈"/>
+	<Elem NameU="AWS-CloudFormation_Template" Name="AWS云编队模板"/>
+	<Elem NameU="AWS-Command-Line-Interface" Name="AWS命令行界面"/>
+	<Elem NameU="AWS-Config" Name="AWS配置"/>
+	<Elem NameU="AWS-Control-Tower" Name="AWS控制塔"/>
+	<Elem NameU="AWS-License-Manager" Name="AWS许可证管理器"/>
+	<Elem NameU="AWS-Managed-Services" Name="AWS托管服务"/>
+	<Elem NameU="AWS-Management-Console" Name="AWS管理控制台"/>
+	<Elem NameU="AWS-OpsWorks" Name="AWS OpsWorks"/>
+	<Elem NameU="AWS-OpsWorks_Apps" Name="AWS OpsWorks应用"/>
+	<Elem NameU="AWS-OpsWorks_Deployments" Name="AWS OpsWorks部署"/>
+	<Elem NameU="AWS-OpsWorks_Instances" Name="AWS OpsWorks实例"/>
+	<Elem NameU="AWS-OpsWorks_Layers" Name="AWS OpsWorks图层"/>
+	<Elem NameU="AWS-OpsWorks_Monitoring" Name="AWS OpsWorks监控"/>
+	<Elem NameU="AWS-OpsWorks_Permissions" Name="AWS OpsWorks权限"/>
+	<Elem NameU="AWS-OpsWorks_Resources" Name="AWS OpsWorks资源"/>
+	<Elem NameU="AWS-OpsWorks_Stack2" Name="AWS OpsWorks堆栈2"/>
+	<Elem NameU="AWS-Organizations_Account" Name="AWS组织账户"/>
+	<Elem NameU="AWS-Organizations_Organizational-unit" Name="AWS 组织单位"/>
+	<Elem NameU="AWS-Organizations" Name="AWS组织"/>
+	<Elem NameU="AWS-Personal-Health-Dashboard" Name="AWS个人健康仪表板"/>
+	<Elem NameU="AWS-Service-Catalog" Name="AWS服务目录"/>
+	<Elem NameU="AWS-Systems-Manager" Name="AWS系统管理员"/>
+	<Elem NameU="AWS-Trusted-Advisor" Name="AWS信任顾问"/>
+	<Elem NameU="AWS-Systems-Manager_Automation" Name="AWS系统管理员自动化"/>
+	<Elem NameU="AWS-Systems-Manager_Documents" Name="AWS系统管理员文档"/>
+	<Elem NameU="AWS-Systems-Manager_Inventory" Name="AWS系统管理员库存"/>
+	<Elem NameU="AWS-Systems-Manager_Maintenance-Windows" Name="AWS系统管理员维护窗口"/>
+	<Elem NameU="AWS-Systems-Manager_Parameter-Store" Name="AWS系统管理员参数存储"/>
+	<Elem NameU="AWS-Systems-Manager_Patch-Manager" Name="AWS系统管理员补丁程序管理器"/>
+	<Elem NameU="AWS-Systems-Manager_Run-Command" Name="AWS系统管理员运行命令"/>
+	<Elem NameU="AWS-Systems-Manager_State-Manager" Name="AWS系统管理员状态管理器"/>
+	<Elem NameU="AWS-Trusted-Advisor_Checklist" Name="AWS可信顾问清单"/>
+	<Elem NameU="AWS-Trusted-Advisor_Checklist-Cost" Name="AWS可信顾问清单成本"/>
+	<Elem NameU="AWS-Trusted-Advisor_Checklist-Fault-Tolerant" Name="AWS可信顾问清单容错"/>
+	<Elem NameU="AWS-Trusted-Advisor_Checklist-Performance" Name="AWS可信顾问清单性能"/>
+	<Elem NameU="AWS-Trusted-Advisor_Checklist-Security" Name="AWS可信顾问清单安全性"/>
+	<Elem NameU="AWS-Well-Architected-Tool" Name="AWS完善的工具"/>
+	<Elem NameU="Management-and-Governance" Name="管理与治理"/>
+	<Elem NameU="Systems-Manager_OpsCenter" Name="系统管理员OpsCenter"/>
+</Lib>

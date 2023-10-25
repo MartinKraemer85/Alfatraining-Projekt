@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Business Scene 2">
+    <Elem NameU="People" Name="사람"/>
+    <Elem NameU="Meeting" Name="회의"/>
+    <Elem NameU="Global Cooperation" Name="글로벌 협업"/>
+    <Elem NameU="Board meeting" Name="이사회"/>
+    <Elem NameU="Work report" Name="작업 보고서"/>
+    <Elem NameU="Late for work" Name="지각"/>
+    <Elem NameU="Overseas call" Name="해외 전화"/>
+    <Elem NameU="Business travel" Name="출장"/>
+    <Elem NameU="Creative work" Name="창작"/>
+    <Elem NameU="Wifi" Name="와이파이"/>
+    <Elem NameU="Speech" Name="강연"/>
+    <Elem NameU="Fax" Name="팩스"/>
+    <Elem NameU="Answer the phone" Name="전화 받기"/>
+    <Elem NameU="Rainy days off work" Name="비오는날 퇴근"/>
+    <Elem NameU="Take a taxi" Name="택시 타기"/>
+    <Elem NameU="Cross the road" Name="길 건너기"/>
+    <Elem NameU="Spare time" Name="여유 시간"/>
+    <Elem NameU="Ranking" Name="순위"/>
+    <Elem NameU="Problem Solving" Name="문제 해결"/>
+    <Elem NameU="Global partners" Name="글로벌 파트너"/>
+    <Elem NameU="Pleasant cooperation" Name="즐거운 협업"/>
+    <Elem NameU="Work exchange" Name="업무 커뮤니케이션"/>
+    <Elem NameU="Sorting 1" Name="정리1"/>
+    <Elem NameU="Sorting 2" Name="정리2"/>
+    <Elem NameU="Sorting 3" Name="정리3"/>
+    <Elem NameU="How" Name="어떻게"/>
+    <Elem NameU="Confused" Name="혼란스러음"/>
+    <Elem NameU="Receive mail" Name="메일 받기"/>
+    <Elem NameU="Data analysis" Name="데이터 분석"/>
+    <Elem NameU="Data processing" Name="데이터 프로세스"/>
+    <Elem NameU="Quality certification" Name="질량 인증"/>
+    <Elem NameU="EU" Name="EU"/>
+    <Elem NameU="Deadline" Name="마감 날짜"/>
+    <Elem NameU="Announcer" Name="연사"/>
+    <Elem NameU="Analysis" Name="분석"/>
+    <Elem NameU="Idea" Name="아이디어"/>
+    <Elem NameU="Profit" Name="이윤"/>
+    <Elem NameU="Search" Name="탐색"/>
+    <Elem NameU="Dialogue" Name="대화"/>
+    <Elem NameU="Bulletin board" Name="게시판"/>
+    <Elem NameU="Crisis" Name="위기"/>
+    <Elem NameU="Praise" Name="찬양"/>
+    <Elem NameU="Flag" Name="기"/>
+    <Elem NameU="Propaganda" Name="홍보"/>
+    <Elem NameU="Announcement" Name="공고"/>
+    <Elem NameU="Cleaning" Name="청결"/>
+    <Elem NameU="Photograph" Name="사진"/>
+    <Elem NameU="Location" Name="위치"/>
+    <Elem NameU="Mobile calls" Name="모바일 전화"/>
+    <Elem NameU="Team" Name="팀"/>
+</Lib>

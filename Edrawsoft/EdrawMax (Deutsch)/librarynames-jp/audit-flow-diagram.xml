@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Audit Flow Diagram">
+
+<Elem Name="プロセクス" NameU="Process"/>
+
+<Elem Name="判断" NameU="Decision"/>
+
+<Elem Name="I/O" NameU="I/O"/>
+
+<Elem Name="ターミネーター" NameU="Terminator"/>
+
+<Elem Name="表示" NameU="Display"/>
+
+<Elem Name="延期" NameU="Delay"/>
+
+<Elem Name="イエスかノーか" NameU="Yes or No"/>
+
+<Elem Name="書類（線付き）" NameU="Lined document"/>
+
+<Elem Name="複数書類" NameU="Multi documents"/>
+
+<Elem Name="ディスク記憶装置" NameU="Disk storage"/>
+
+<Elem Name="データベース" NameU="Database"/>
+
+<Elem Name="イベント" NameU="Event"/>
+
+<Elem Name="タグ付きプロセス" NameU="Tagged Process"/>
+
+<Elem Name="タグ付きドキュメント" NameU="Tagged Document"/>
+
+<Elem Name="マニュアル操作" NameU="Manual Operation"/>
+
+<Elem Name="マニュアルファイル" NameU="Manual File"/>
+
+<Elem Name="オンページ参照" NameU="On-page Reference"/>
+
+<Elem Name="オフページ参照" NameU="Off-page Reference"/>
+
+<Elem Name="分割されたプロセス" NameU="Divided Process"/>
+
+<Elem Name="Multi Proc/doc" NameU="Multi Proc/doc"/>
+
+<Elem Name="裏地付きプロセス" NameU="Lined-shaded Process"/>
+
+<Elem Name="ディスケット" NameU="Diskette"/>
+
+<Elem Name="磁気テープ" NameU="Magnetic Tape"/>
+
+<Elem Name="データ通信" NameU="Data Transmission"/>
+
+<Elem Name="手動入力" NameU="Manual Input"/>
+
+<Elem Name="チェック（監査）" NameU="Check (Audit)"/>
+
+<Elem Name="比较" NameU="Compare"/>
+
+<Elem Name="分割されたイベント" NameU="Divided Event"/>
+
+<Elem Name="表題欄" NameU="Title Block"/>
+
+<Elem Name="注釈" NameU="Note"/>
+
+<Elem Name="基準点" NameU="Reference Point"/>
+
+<Elem Name="曲線コネクター" NameU="Curve connector"/>
+
+</Lib>

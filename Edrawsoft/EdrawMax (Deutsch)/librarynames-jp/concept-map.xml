@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Concept Map">
+
+<Elem Name="長方形" NameU="Rectangle"/>
+
+<Elem Name="角丸長方形" NameU="Rounded rectangle"/>
+
+<Elem Name="楕円" NameU="Ellipse"/>
+
+<Elem Name="角丸長方形 2" NameU="Round head rectangle"/>
+
+<Elem Name="菱形" NameU="Diamond"/>
+
+<Elem Name="円" NameU="Circle"/>
+
+<Elem Name="星" NameU="Star"/>
+
+<Elem Name="動的星形" NameU="Dynamic Star"/>
+
+<Elem Name="平行四辺形" NameU="Parallellogram"/>
+
+<Elem Name="六角形" NameU="Hexagon"/>
+
+<Elem Name="バクダン　吹き出し 1" NameU="Wow"/>
+
+<Elem Name="バクダン　吹き出し 2" NameU="KABOOM"/>
+
+<Elem Name="クラウド" NameU="Cloud"/>
+
+<Elem Name="表" NameU="Table"/>
+
+<Elem Name="吹き出し-楕円形　1" NameU="Ellipse balloon"/>
+
+<Elem Name="吹き出し-長方形" NameU="Rect balloon"/>
+
+<Elem Name="矢印" NameU="Arrow"/>
+
+</Lib>

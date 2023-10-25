@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Electrical Instruments">
+	<Elem NameU="Ampermeter" Name="전류계"/>
+	<Elem NameU="Galvanometer" Name="전류계"/>
+	<Elem NameU="Oscilloscope" Name="오실로스코프"/>
+	<Elem NameU="Signal generator" Name="신호 발생기"/>
+	<Elem NameU="Motor" Name="모터"/>
+	<Elem NameU="Ammeter" Name="전류계"/>
+	<Elem NameU="Voltmeter" Name="전압계"/>
+	<Elem NameU="Generator" Name="발전기"/>
+	<Elem NameU="Varmeter" Name="무효 전력계"/>
+	<Elem NameU="HZ" Name="HZ"/>
+	<Elem NameU="Thermometer" Name="온도계"/>
+	<Elem NameU="Hourmeter" Name="시간계"/>
+	<Elem NameU="Quantizer" Name="양화기"/>
+	<Elem NameU="Delta" Name="델타 함수"/>
+	<Elem NameU="Function" Name="함수"/>
+	<Elem NameU="Integrator" Name="적분기"/>
+	<Elem NameU="Multipier" Name="Multipier"/>
+	<Elem NameU="Sum" Name="총수"/>
+	<Elem NameU="Summation point" Name="합산점"/>
+</Lib>

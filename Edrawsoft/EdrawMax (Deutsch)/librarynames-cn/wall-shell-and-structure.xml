@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Wall Shell and Structure">
+    <Elem NameU="Room" Number="3" Name="房间"/>
+    <Elem NameU="Space" Name="空间"/>
+    <Elem NameU="L Space" Name="L 空间"/>
+    <Elem NameU="T Space" Name="T 空间"/>
+    <Elem NameU="Wall" Name="墙"/>
+    <Elem NameU="Vertical Wall" Name="垂直墙"/>
+    <Elem NameU="Curved Wall" Name="弯曲墙"/>
+    <Elem NameU="Outer Wall" Name="外墙"/>
+    <Elem NameU="Vertical Outer Wall" Name="垂直外墙"/>
+    <Elem NameU="Curved Outer Wall" Name="弧形外墙"/>
+    <Elem NameU="Curtain Wall" Name="幕墙"/>
+    <Elem NameU="Window Wall" Name="玻璃墙"/>
+    <Elem NameU="Pilaster" Name="壁柱"/>
+    <Elem NameU="Corner Pilaster" Name="角落壁柱"/>
+    <Elem NameU="Rectanglar Column" Name="矩形支柱"/>
+    <Elem NameU="Circular Column" Name="圆形支柱"/>
+    <Elem NameU="Beam" Name="横梁"/>
+    <Elem NameU="Grid Origin" Name="网格起点"/>
+    <Elem NameU="Grid Line" Name="网格线"/>
+</Lib>

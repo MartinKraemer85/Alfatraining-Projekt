@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="HOQ and QFD">
+    <Elem NameU="Main Matrix" Name="主矩陣"/>
+    <Elem NameU="Single Column" Name="單列"/>
+    <Elem NameU="Single Row" Name="帶垂直文本的單行"/>
+    <Elem NameU="Right Matrix" Name="右側矩陣"/>
+    <Elem NameU="Bottom Matrix" Name="底部矩陣"/>
+    <Elem NameU="Roof Matrix" Name="屋頂矩陣"/>
+    <Elem NameU="Left Roof Matrix" Name="左側矩陣"/>
+    <Elem NameU="Simple QFD" Name="簡單QFD"/>
+    <Elem NameU="QFD" Name="QFD"/>
+    <Elem NameU="HOQ" Name="HOQ"/>
+    <Elem NameU="Text Block" Name="文本塊"/>
+    <Elem NameU="Legend" Name="符號表"/>
+    <Elem NameU="Legend 2" Name="圖例 2"/>
+    <Elem NameU="12-Role Flag" Name="12種變形標誌"/>
+    <Elem NameU="10-Role Flag" Name="10種變形標誌"/>
+    <Elem NameU="Flag" Name="旗幟"/>
+    <Elem NameU="Arrow Flag" Name="箭頭旗幟"/>
+</Lib>

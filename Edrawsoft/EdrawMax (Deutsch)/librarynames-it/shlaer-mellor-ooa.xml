@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Shlaer-Mellor OOA">
+	<Elem NameU="Class Box" Name="Casella di Classe"/>
+	<Elem NameU="Small Class Box" Name="Casella di Classe Piccola"/>
+	<Elem NameU="Published Operation" Name="Operazione Pubblicata"/>
+	<Elem NameU="Defering Operation" Name="Operazione Rinviata"/>
+	<Elem NameU="Logical Component" Name="Componente Logico"/>
+	<Elem NameU="Conditional Parameter" Name="Parametro Condizionale"/>
+	<Elem NameU="Basis Marker" Name="Indicatore"/>
+	<Elem NameU="Exception" Name="Eccezione"/>
+	<Elem NameU="Exception Handler" Name="Gestore Eccezioni"/>
+	<Elem NameU="Parameter List" Name="Elenco Parametri"/>
+	<Elem NameU="Module" Name="Modulo"/>
+	<Elem NameU="Instance Data" Name="Dati Istanza"/>
+	<Elem NameU="Foreign Module" Name="Modulo Estraneo"/>
+</Lib>

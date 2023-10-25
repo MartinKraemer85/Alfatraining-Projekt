@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Equipment-Instruments">
+    <Elem NameU="Indicator" Name="표시기"/>
+    <Elem NameU="Behind Control Panel" Name="컨트롤 패널 뒤"/>
+    <Elem NameU="On Central Control Panel" Name="중앙 컨트롤 패널 위"/>
+    <Elem NameU="On Local Control Pane" Name="로컬 컨트롤 패널 위"/>
+    <Elem NameU="Behind a Local Control Panel" Name="로컬 컨트롤 패널 뒤"/>
+    <Elem NameU="Indicator 2" Name="표시기 2"/>
+    <Elem NameU="Indicator 3" Name="표시기 3"/>
+    <Elem NameU="Indicator 4" Name="표시기 4"/>
+    <Elem NameU="Indicator 5" Name="표시기 5"/>
+    <Elem NameU="Odometer" Name="주행 거리계"/>
+    <Elem NameU="Pressure gauge" Name="압력계"/>
+    <Elem NameU="Flowmeter" Name="유량계"/>
+    <Elem NameU="Thermometer" Name="온도계"/>
+    <Elem NameU="Shared Indicator" Name="공유 표시기"/>
+    <Elem NameU="Displayed configurable device" Name="표시된 구성 가능 장치"/>
+    <Elem NameU="Shared Indicator 2" Name="공유 표시기 2"/>
+    <Elem NameU="Computer Indicator" Name="컴퓨터 표시기"/>
+    <Elem NameU="Programmable Indicator" Name="프로그래밍 가능 표시기"/>
+    <Elem NameU="Displayed programmable device" Name="프로그래밍 가능 디스플레이 장치"/>
+    <Elem NameU="Computer" Name="컴퓨터"/>
+    <Elem NameU="Unit control panel" Name="유닛 컨트롤 패널"/>
+    <Elem NameU="Temp Indicator" Name="온도계"/>
+    <Elem NameU="Temp Transmitter" Name="온도 송신기"/>
+    <Elem NameU="Temp Recorder" Name="온도 자동 레코더"/>
+    <Elem NameU="Temp Controller" Name="온도 컨트롤러"/>
+    <Elem NameU="Flow Indicator" Name="유량 표시기"/>
+    <Elem NameU="Flow Transmitter" Name="유량 송신기"/>
+    <Elem NameU="Flow Recorder" Name="유량 레코더"/>
+    <Elem NameU="Flow Controller" Name="유량 컨트롤러"/>
+    <Elem NameU="Level Indicator" Name="레벨 표시기"/>
+    <Elem NameU="Pressure Indicator" Name="압력 표시기"/>
+    <Elem NameU="Level Transmitter" Name="레벨 송신기"/>
+    <Elem NameU="Level Recorder" Name="레벨 레코더"/>
+    <Elem NameU="Level Controller" Name="레벨 컨트롤러"/>
+    <Elem NameU="Pressure Transmitter" Name="압력 송신기"/>
+    <Elem NameU="Pressure Recorder" Name="압력 레코더"/>
+    <Elem NameU="Pressure Controller" Name="압력 컨트롤러"/>
+    <Elem NameU="Pressure Indicating" Name="압력 표시"/>
+    <Elem NameU="Pressure Recording" Name="압력 레코더"/>
+    <Elem NameU="Level Alarm" Name="레벨 경보"/>
+    <Elem NameU="Flow Element" Name="Flow Element"/>
+    <Elem NameU="Temperature Element" Name="온도 요소"/>
+    <Elem NameU="Level Gauge" Name="레벨 게이지"/>
+    <Elem NameU="Analyzer Transmitter" Name="분석기 송신기"/>
+    <Elem NameU="Transducer" Name="변환기"/>
+    <Elem NameU="Specialty item" Name="전문 아이템"/>
+    <Elem NameU="Sampler" Name="샘플러"/>
+    <Elem NameU="Straightening vanes" Name="베인"/>
+    <Elem NameU="Diaphragm meter" Name="다이어프램 측정기"/>
+    <Elem NameU="Rotary meter" Name="회전 측정기"/>
+    <Elem NameU="Magnetic" Name="자기형"/>
+    <Elem NameU="Pitot tube type flow element" Name="피토관 flow element"/>
+    <Elem NameU="Pitot tube" Name="피토관"/>
+    <Elem NameU="Wedge meter" Name="쐐기형 측정기"/>
+    <Elem NameU="Target meter" Name="목표 측정기"/>
+    <Elem NameU="Weir meter" Name="둑 측정기"/>
+    <Elem NameU="Ultrasonic meter" Name="초음파 측정기"/>
+    <Elem NameU="V-cone meter" Name="V형 측정기"/>
+    <Elem NameU="Venturi meter" Name="벤투리 측정기"/>
+    <Elem NameU="Quick change orifice fitting" Name="퀵 체인지 오리피스 피팅"/>
+    <Elem NameU="Turbine meter" Name="터빈 측정기"/>
+    <Elem NameU="Rotometer" Name="Rotometer"/>
+    <Elem NameU="Double" Name="더블"/>
+    <Elem NameU="Steam traced" Name="스팀 흔적"/>
+    <Elem NameU="Venturi" Name="벤투리"/>
+    <Elem NameU="Flowmeter" Name="Flowmeter"/>
+    <Elem NameU="Vortex sensor" Name="소용돌이 센서"/>
+    <Elem NameU="And gate" Name="AND 게이트"/>
+    <Elem NameU="Or gate" Name="Or 게이트"/>
+    <Elem NameU="Not gate" Name="Not 게이트"/>
+    <Elem NameU="Correcting element" Name="수정 요소"/>
+    <Elem NameU="Diamond" Name="다이아몬드"/>
+    <Elem NameU="Pressure gauges" Name="압력계"/>
+    <Elem NameU="Thermometers" Name="온도계"/>
+    <Elem NameU="Averaging pitot tube" Name="평균 피토관"/>
+    <Elem NameU="Level meter" Name="수준 측정기"/>
+    <Elem NameU="Coriolis flow sensor" Name="코리올리 유량 센서"/>
+    <Elem NameU="Flow nozzle meter" Name="유량 노즐 측정기"/>
+    <Elem NameU="Flume meter" Name="수로 측정기"/>
+    <Elem NameU="Manhole" Name="맨홀"/>
+    <Elem NameU="Socket, Connection Nozzle" Name="소켓, 연결 노즐"/>
+    <Elem NameU="Support bracket" Name="서포트 브래킷"/>
+    <Elem NameU="Support leg" Name="서포트 "/>
+    <Elem NameU="Support ring" Name="서포트 링"/>
+    <Elem NameU="Support skirt" Name="서포트 스커트"/>
+</Lib>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Website Wireframe 1">
+    <Elem NameU="Label" Name="레이블"/>
+    <Elem NameU="Label 2" Name="레이블 2"/>
+    <Elem NameU="Logo" Name="로고"/>
+    <Elem NameU="Rounded Rect" Name="둥근 사각형"/>
+    <Elem NameU="Panel/Rect" Name="패널"/>
+    <Elem NameU="Group" Name="그룹"/>
+    <Elem NameU="Frame" Name="프레임"/>
+    <Elem NameU="Vertical Seperator" Name="수직 분리기"/>
+    <Elem NameU="Horizontal Seperator" Name="수평 분리기"/>
+    <Elem NameU="Browser" Name="브라우저"/>
+    <Elem NameU="Window/Dialog" Name="대화 상자"/>
+    <Elem NameU="Image Placeholder" Name="이미지 자리 표시자"/>
+    <Elem NameU="Image Placeholder 2" Name="이미지 자리 표시자 2"/>
+    <Elem NameU="Text Field" Name="텍스트 구역"/>
+    <Elem NameU="Text" Name="텍스트"/>
+    <Elem NameU="Hyperlink Text" Name="하이퍼링크 텍스트"/>
+    <Elem NameU="Text Block" Name="텍스트 블록"/>
+    <Elem NameU="Text Block 2" Name="텍스트 블록 2"/>
+    <Elem NameU="Button" Name="버튼"/>
+    <Elem NameU="Button 2" Name="버튼 2"/>
+    <Elem NameU="Button 3" Name="버튼 3"/>
+    <Elem NameU="Button 4" Name="버튼 4"/>
+    <Elem NameU="Check Box" Name="체크 박스"/>
+    <Elem NameU="Check Box Group" Name="체크 박스 그룹"/>
+    <Elem NameU="Radio Button" Name="라디오 단추"/>
+    <Elem NameU="Radio Group" Name="라디오 그룹"/>
+    <Elem NameU="Combox" Name="콤보 상자"/>
+    <Elem NameU="Tabs" Name="레이블"/>
+    <Elem NameU="Vertical Tabs" Name="수직  레이블"/>
+    <Elem NameU="Menu Bar" Name="메뉴바"/>
+    <Elem NameU="Menu Bar 2" Name="메뉴바 2"/>
+    <Elem NameU="Date picker" Name="날짜 선택"/>
+    <Elem NameU="Spin Control" Name="Spin 컨트롤"/>
+    <Elem NameU="Search Box" Name="검색창"/>
+    <Elem NameU="Search Box 2" Name="검색창 2"/>
+    <Elem NameU="Menu items" Name="메뉴 항목"/>
+    <Elem NameU="List" Name="목록"/>
+    <Elem NameU="Slider" Name="슬라이더"/>
+    <Elem NameU="Vertical Slider" Name="수직  슬라이더"/>
+    <Elem NameU="Progress Bar" Name="진행률바"/>
+    <Elem NameU="Progress Bar 2" Name="진행률바 2"/>
+    <Elem NameU="Horizontal Scrollbar" Name="수평 스크롤 바"/>
+    <Elem NameU="Vertical Scollbar" Name="수직 스크롤 바"/>
+    <Elem NameU="Webcam" Name="웹캠"/>
+    <Elem NameU="Video Player" Name="비디오 플레이어"/>
+    <Elem NameU="Color Picker" Name="색상 선택"/>
+    <Elem NameU="Help Button" Name="도움말 버튼"/>
+    <Elem NameU="Collapse" Name="축소"/>
+    <Elem NameU="Expand" Name="확장"/>
+    <Elem NameU="Star Ratings" Name="별점"/>
+    <Elem NameU="Line Graph Placeholder" Name="선 그래프 자리 표시자"/>
+    <Elem NameU="Pie Chart Placeholder" Name="파이 차트 자리 표시자"/>
+    <Elem NameU="Bar Chart Placeholder" Name="막대 차트 자리 표시자"/>
+    <Elem NameU="Calendar placeholder" Name="달력 자리 표시자"/>
+    <Elem NameU="Grid Placeholder" Name="눈금 자리 표시자"/>
+    <Elem NameU="Code placeholder" Name="코드 자리 표시자"/>
+    <Elem NameU="Map Placeholder" Name="지도 자리 표시자"/>
+    <Elem NameU="Tag Cloud" Name="태그 클라우드"/>
+</Lib>

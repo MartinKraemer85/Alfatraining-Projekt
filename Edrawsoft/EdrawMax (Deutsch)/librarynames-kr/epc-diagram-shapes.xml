@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="EPC Diagram Shapes">
+    <Elem NameU="Event" Name="이벤트"/>
+    <Elem NameU="Function" Name="기능"/>
+    <Elem NameU="Process Path" Name="프로세스 경로"/>
+    <Elem NameU="XOR" Name="XOR"/>
+    <Elem NameU="OR" Name="또는"/>
+    <Elem NameU="AND" Name="와(과)"/>
+    <Elem NameU="Joint" Name="연결"/>
+    <Elem NameU="Yes/No" Name="예/아니요"/>
+    <Elem NameU="Organizational Unit" Name="조직 단위"/>
+    <Elem NameU="Informational or Material" Name="정보/재료"/>
+    <Elem NameU="Information Box" Number="2" Name="정보 박스"/>
+    <Elem NameU="Main Process" Name="메인 프로세스"/>
+    <Elem NameU="Component" Name="구성"/>
+    <Elem NameU="Enterprise Area" Name="기업 영역"/>
+    <Elem NameU="Process Group" Name="프로세스 그룹"/>
+    <Elem NameU="Document" Name="파일"/>
+    <Elem NameU="Database" Name="데이터베이스"/>
+    <Elem NameU="Curve Connector" Name="곡선 연결선"/>
+</Lib>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Smart Home">
+	<Elem NameU="Laptop Computer 1" Name="Computer Portatile 1"/>
+	<Elem NameU="Laptop Computer 2" Name="Computer Portatile 2"/>
+	<Elem NameU="Laptop Computer 3" Name="Computer Portatile 3"/>
+	<Elem NameU="Desktop Computer 1" Name="Computer Fisso 1"/>
+	<Elem NameU="Desktop Computer 2" Name="Computer Fisso 2"/>
+	<Elem NameU="High Definition Television" Name="Televisore ad Alta Definizione"/>
+	<Elem NameU="Smart Home System Control Host" Name="Host Sistema di Controllo Smart Home"/>
+	<Elem NameU="Visual Intercom" Name="Videocitofono"/>
+	<Elem NameU="Home Theater" Name="Home Theater"/>
+	<Elem NameU="Router" Name="Router"/>
+	<Elem NameU="Smart Home Control 1" Name="Controllo Smart Home 1"/>
+	<Elem NameU="Smart Home Control 2" Name="Controllo Smart Home 2"/>
+	<Elem NameU="Projector 1" Name="Proiettore 1"/>
+	<Elem NameU="Projector 2" Name="Proiettore 2"/>
+	<Elem NameU="Bullet Camera" Name="Telecamera a Proiettile"/>
+	<Elem NameU="Dome Camera" Name="Telecamera Dome"/>
+	<Elem NameU="Telephone Set 1" Name="Telefono 1"/>
+	<Elem NameU="Telephone Set 2" Name="Telefono 2"/>
+	<Elem NameU="Digital Camera" Name="Fotocamera Digitale"/>
+	<Elem NameU="Mobile Phone 1" Name="Cellulare 1"/>
+	<Elem NameU="Mobile Phone 2" Name="Cellulare 2"/>
+	<Elem NameU="MP4" Name="MP4"/>
+	<Elem NameU="Digital Remote Control" Name="Controllo Remoto Digitale"/>
+	<Elem NameU="Remote Control" Name="Controllo Remoto"/>
+	<Elem NameU="Touch Remote Control" Name="Controllo Remote Touch"/>
+	<Elem NameU="Loudspeaker" Name="Altoparlante"/>
+	<Elem NameU="Communication Switching Module" Name="Modulo di Commutazione"/>
+	<Elem NameU="Network Center Switch" Name="Interruttore Centro di Rete"/>
+	<Elem NameU="Set-top Box" Name="Decoder"/>
+	<Elem NameU="DVD" Name="DVD"/>
+	<Elem NameU="Telephone Exchange 1" Name="Scambio Telefonico 1"/>
+	<Elem NameU="Telephone Exchange 2" Name="Scambio Telefonico 2"/>
+	<Elem NameU="Range Hoods" Name="Cappe Aspiranti"/>
+	<Elem NameU="Split AC" Name="Condizionatore"/>
+	<Elem NameU="Water Heater 1" Name="Scaldabagno 1"/>
+	<Elem NameU="Water Heater 2" Name="Scaldabagno 2"/>
+	<Elem NameU="Vertical Air Conditioner" Name="Condizionatore Verticale"/>
+	<Elem NameU="Smart Refrigerator" Name="Frigorifero Intelligente"/>
+	<Elem NameU="Front-load Washing Machine" Name="Lavatrice a Carico Frontale"/>
+	<Elem NameU="Top-load Washing Machine" Name="Lavatrice a Carico Superiore"/>
+	<Elem NameU="Air Purifier" Name="Depuratore d'Aria"/>
+	<Elem NameU="Humidifier" Name="Deumidificatore"/>
+	<Elem NameU="Vacuum Cleaner" Name="Aspirapolvere"/>
+	<Elem NameU="Heater 1" Name="Caldaia 1"/>
+	<Elem NameU="Heater 2" Name="Caldaia 2"/>
+	<Elem NameU="Window AC" Name="Condizionatore a Finestra"/>
+	<Elem NameU="Air System" Name="Sistema di Areazione"/>
+	<Elem NameU="Robotic Vacuum Cleaner 1" Name="Robot Aspirapolvere 1"/>
+	<Elem NameU="Robotic Vacuum Cleaner 2" Name="Robot Aspirapolvere 2"/>
+	<Elem NameU="Printer" Name="Stampante"/>
+	<Elem NameU="Bulb" Name="Lampadina"/>
+	<Elem NameU="Energy-saving bulb" Name="Lampadina a Risparmio Energetico"/>
+	<Elem NameU="Fluorescent Lamp" Name="Lampadina Fluorescente"/>
+	<Elem NameU="Ceiling Lamp" Name="Lampada da Soffitto"/>
+	<Elem NameU="Bedside lamp" Name="Lampada da Letto"/>
+	<Elem NameU="Light Strips" Name="Strisce Luminose"/>
+	<Elem NameU="Smart Switches" Name="Interruttori Intelligenti"/>
+	<Elem NameU="Switch" Name="Interruttore"/>
+	<Elem NameU="Electronic Doorbell" Name="Campanello Elettronico"/>
+	<Elem NameU="Doorbell" Name="Campanello"/>
+	<Elem NameU="Shower Head" Name="Soffione"/>
+	<Elem NameU="Sprinkler" Name="Irrigatore"/>
+	<Elem NameU="Electronic Door Lock" Name="Serratura Elettronica"/>
+	<Elem NameU="Dishwasher" Name="Lavastoviglie"/>
+	<Elem NameU="Microwave Oven" Name="Forno a Microonde"/>
+	<Elem NameU="Oven" Name="Forno"/>
+	<Elem NameU="Bread Maker" Name="Impastatrice"/>
+	<Elem NameU="Rice Cooker" Name="Cuoci-riso"/>
+	<Elem NameU="Electric Kettle 1" Name="Bollitore Elettrico 1"/>
+	<Elem NameU="Electric Kettle 2" Name="Bollitore Elettrico 2"/>
+	<Elem NameU="Smart Juicer 1" Name="Spremiagrumi Intelligente 1"/>
+	<Elem NameU="Smart Juicer 2" Name="Spremiagrumi Intelligente 2"/>
+	<Elem NameU="Intelligent Water Dispenser" Name="Distributore d'Acqua Intelligente"/>
+	<Elem NameU="Milk Dispenser" Name="Distributore di Latte"/>
+	<Elem NameU="Coffee Maker" Name="Macchina per Caffè"/>
+	<Elem NameU="Water Purifier" Name="Depuratore di Acqua"/>
+	<Elem NameU="Water Dispenser" Name="Distributore d'Acqua"/>
+	<Elem NameU="Fan" Name="Ventilatore"/>
+	<Elem NameU="Electric Iron" Name="Ferro Elettrico"/>
+	<Elem NameU="Heated Blanket" Name="Coperta Riscaldata"/>
+	<Elem NameU="Motorized Curtain" Name="Tende Automatiche"/>
+	<Elem NameU="Sink" Name="Lavandino"/>
+	<Elem NameU="Toilet" Name="Water"/>
+	<Elem NameU="Smart Thermostat" Name="Termostato Intelligente"/>
+	<Elem NameU="Electronic Thermometer" Name="Termometro Elettronico"/>
+	<Elem NameU="PM2.5 Detector" Name="Rilevatore PM2.5"/>
+	<Elem NameU="Blood Pressure Monitor" Name="Rilevatore Pressione Sanguigna"/>
+	<Elem NameU="Smart Power Plugs" Name="Prese di Corrente Intelligenti"/>
+	<Elem NameU="Electric Meter" Name="Misuratore Elettrico"/>
+	<Elem NameU="Intelligent Water Meter" Name="Contatore dell'Acqua Intelligente"/>
+	<Elem NameU="Water Meter 1" Name="Contatore dell'Acqua 1"/>
+	<Elem NameU="Water Meter 2" Name="Contatore dell'Acqua 2"/>
+	<Elem NameU="Gas meter" Name="Contatore del Gas"/>
+	<Elem NameU="Fire Detector 1" Name="Rilevatore Antincendio 1"/>
+	<Elem NameU="Fire Detector 2" Name="Rilevatore Antincendio 2"/>
+	<Elem NameU="Fire Alarm 1" Name="Allarme Antincendio 1"/>
+	<Elem NameU="Fire Alarm 2" Name="Allarme Antincendio 2"/>
+	<Elem NameU="Fire Bell" Name="Pulsante Antincendio"/>
+	<Elem NameU="Mailbox 1" Name="Cassetta della Posta 1"/>
+	<Elem NameU="Mailbox 2" Name="Cassetta della Posta 2"/>
+</Lib>

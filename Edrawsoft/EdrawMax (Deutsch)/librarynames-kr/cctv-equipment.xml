@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="CCTV Equipment">
+    <Elem NameU="Black monitor" Name="블랙 모니터"/>
+    <Elem NameU="White monitor" Name="화이트 모니터"/>
+    <Elem NameU="Security camera" Name="보안 카메라"/>
+    <Elem NameU="Dome Camera" Name="반원형 카메라"/>
+    <Elem NameU="Ball Machine" Name="구형 카메라"/>
+    <Elem NameU="Infrared light 1" Name="적외선 1"/>
+    <Elem NameU="Infrared light 2" Name="적외선 2"/>
+    <Elem NameU="IPC" Name="IPC"/>
+    <Elem NameU="Alarm" Name="경보기"/>
+    <Elem NameU="Alarm 2" Name="경보기 2"/>
+    <Elem NameU="Smoke alarm" Name="연기"/>
+    <Elem NameU="Monitor" Name="화재 경보기"/>
+    <Elem NameU="DVR" Name="DVR"/>
+    <Elem NameU="DVR 2" Name="DVR 2"/>
+    <Elem NameU="Security Peripherals 1" Name="보안 주변장치 1"/>
+    <Elem NameU="Security Peripherals 2" Name="보안 주변장치 2"/>
+    <Elem NameU="ATM" Name="ATM"/>
+    <Elem NameU="Monitors" Name="모니터"/>
+    <Elem NameU="TV wall" Name="TV 벽"/>
+</Lib>

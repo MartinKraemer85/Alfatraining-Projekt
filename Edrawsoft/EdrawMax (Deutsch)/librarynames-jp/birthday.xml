@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Birthday">
+
+<Elem Name="ケーキ" NameU="Cake"/>
+
+<Elem Name="ウサギ" NameU="Rabbit"/>
+
+<Elem Name="カップケーキ" NameU="Cupcake"/>
+
+<Elem Name="熊" NameU="Bear"/>
+
+<Elem Name="誕生日の挨拶" NameU="Birthday Greeting"/>
+
+<Elem Name="ハート" NameU="Heart"/>
+
+<Elem Name="花" NameU="Flower"/>
+
+<Elem Name="ダイアモンド" NameU="Diamond"/>
+
+<Elem Name="ハート型のボックス" NameU="Heart Shaped Box"/>
+
+<Elem Name="カメラ" NameU="Camera"/>
+
+<Elem Name="乾杯" NameU="Cheers"/>
+
+<Elem Name="ギフト" NameU="Gift"/>
+
+<Elem Name="キャンドル" NameU="Candle"/>
+
+<Elem Name="風船" NameU="Balloon"/>
+
+<Elem Name="ホオジロ" NameU="Bunting"/>
+
+<Elem Name="ワインボトル" NameU="Wine Bottle"/>
+
+<Elem Name="手紙" NameU="Letter"/>
+
+<Elem Name="ギター" NameU="Guitar"/>
+
+<Elem Name="フルーツジュース" NameU="Fruit Juice"/>
+
+<Elem Name="メダル" NameU="Medal"/>
+
+<Elem Name="アイスクリーム" NameU="Ice Cream"/>
+
+<Elem Name="マスク" NameU="Mask"/>
+
+<Elem Name="ドーナツ" NameU="Donut"/>
+
+<Elem Name="バースデーハット" NameU="Birthday Hat"/>
+
+<Elem Name="お飴" NameU="Candy"/>
+
+<Elem Name="爆竹" NameU="Firecracker"/>
+
+<Elem Name="サプライズ" NameU="Surprise"/>
+
+<Elem Name="魔法の杖" NameU="Magic Wand"/>
+
+<Elem Name="星" NameU="Star"/>
+
+<Elem Name="バースデークラウン" NameU="Birthday Crown"/>
+
+<Elem Name="口ひげ" NameU="Moustache"/>
+
+<Elem Name="キャンドルグラス" NameU="Candle Glasses"/>
+
+<Elem Name="チョコレートケーキ" NameU="Chocolate Cake"/>
+
+<Elem Name="誕生日ケーキ" NameU="Birthday Cake"/>
+
+<Elem Name="桃" NameU="Peach"/>
+
+<Elem Name="ワイングラス" NameU="Wine Glass"/>
+
+<Elem Name="ワイン" NameU="Wine"/>
+
+<Elem Name="ロリポップ" NameU="Lollipop"/>
+
+<Elem Name="誕生日サプライズ" NameU="Birthday Surprise"/>
+
+<Elem Name="リボン" NameU="Ribbon"/>
+
+<Elem Name="花火" NameU="Fireworks"/>
+
+<Elem Name="お誕生日おめでとうございます" NameU="Happy Birthday"/>
+
+<Elem Name="ビスケット" NameU="Biscuits"/>
+
+<Elem Name="デジタルキャンドル" NameU="Digital Candle"/>
+
+</Lib>

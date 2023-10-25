@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="BPMN-Shapes">
+    <Elem NameU="Task" Name="작업"/>
+    <Elem NameU="Gateway" Name="게이트웨이"/>
+    <Elem NameU="Start" Name="시작"/>
+    <Elem NameU="Intermediate" Name="중간 사건"/>
+    <Elem NameU="End" Name="종료"/>
+    <Elem NameU="Start Message" Name="시작 메세지"/>
+    <Elem NameU="Start Message 2" Name="시작 메세지 2"/>
+    <Elem NameU="Intermediate Message" Name="중간 메세지"/>
+    <Elem NameU="Intermediate Message 2" Name="중간 메세지 2"/>
+    <Elem NameU="Throwing Message" Name="투척 메세지"/>
+    <Elem NameU="End Message" Name="종료 메세지"/>
+    <Elem NameU="Start Timer" Name="시작 타이머"/>
+    <Elem NameU="Start Timer 2" Name="시작 타이머 2"/>
+    <Elem NameU="Intermediate Timer" Name="중간 타이머"/>
+    <Elem NameU="Intermediate Timer 2" Name="중간 타이머 2"/>
+    <Elem NameU="Start Escalation" Name="시작 에스컬레이션"/>
+    <Elem NameU="Start Escalation 2" Name="시작 에스컬레이션 2"/>
+    <Elem NameU="Intermediate Escalation" Name="중간 에스컬레이션"/>
+    <Elem NameU="Intermediate Escalation 2" Name="중간 에스컬레이션 2"/>
+    <Elem NameU="Intermediate Escalation 3" Name="중간 에스컬레이션 3"/>
+    <Elem NameU="End Escalation" Name="종료 에스컬레이션"/>
+    <Elem NameU="Start Error" Name="시작 오류"/>
+    <Elem NameU="Intermediate Error" Name="중간 오류"/>
+    <Elem NameU="End Error" Name="종료 오류"/>
+    <Elem NameU="Start Condition" Name="시작 조건"/>
+    <Elem NameU="Start Condition 2" Name="시작 조건 2"/>
+    <Elem NameU="Intermediate Condition" Name="중간 조건"/>
+    <Elem NameU="Intermediate Condition 2" Name="중간 조건 2"/>
+    <Elem NameU="Cancel" Name="취소"/>
+    <Elem NameU="Cancel 2" Name="취소 2"/>
+    <Elem NameU="Start Link" Name="시작 링크"/>
+    <Elem NameU="Intermediate Link" Name="중간 링크"/>
+    <Elem NameU="Intermediate Link 2" Name="중간 링크 2"/>
+    <Elem NameU="End Link" Name="종료 링크"/>
+    <Elem NameU="Compensation" Name="보상"/>
+    <Elem NameU="Compensation 2" Name="보상 2"/>
+    <Elem NameU="Compensation 3" Name="보상 3"/>
+    <Elem NameU="Compensation 4" Name="보상 4"/>
+    <Elem NameU="Signal Event" Name="시그널 이벤트"/>
+    <Elem NameU="Signal Event 2" Name="시그널 이벤트 2"/>
+    <Elem NameU="Signal Event 3" Name="시그널 이벤트 3"/>
+    <Elem NameU="Signal Event 4" Name="시그널 이벤트 4"/>
+    <Elem NameU="Signal Event 5" Name="시그널 이벤트 5"/>
+    <Elem NameU="Signal Event 6" Name="시그널 이벤트 6"/>
+    <Elem NameU="Multiple Event" Name="다중 이벤트"/>
+    <Elem NameU="Multiple Event 2" Name="다중 이벤트 2"/>
+    <Elem NameU="Multiple Event 3" Name="다중 이벤트 3"/>
+    <Elem NameU="Multiple Event 4" Name="다중 이벤트 4"/>
+    <Elem NameU="Multiple Event 5" Name="다중 이벤트 5"/>
+    <Elem NameU="Multiple Event 6" Name="다중 이벤트 6"/>
+    <Elem NameU="Parallel Multiple Event" Name="병렬 다중 이벤트"/>
+    <Elem NameU="Parallel Multiple Event 2" Name="병렬 다중 이벤트 2"/>
+    <Elem NameU="Parallel Multiple Event 3" Name="병렬 다중 이벤트 3"/>
+    <Elem NameU="Parallel Multiple Event 4" Name="병렬 다중 이벤트 4"/>
+    <Elem NameU="Pool Title" Name="풀"/>
+    <Elem NameU="Pool" Name="풀"/>
+    <Elem NameU="Pools Block" Name="풀 블록"/>
+    <Elem NameU="Collapsed Sub-Process" Name="축소된 하위 프로세스"/>
+    <Elem NameU="Loop Process" Name="순환 프로세스"/>
+    <Elem NameU="Loop - Parallel Multi-Instance" Name="순환 - 여러 병렬 인스턴스"/>
+    <Elem NameU="Loop - Sequential Multi-Instance" Name="순환 - 여러 순서 인스턴스"/>
+    <Elem NameU="Compensation" Name="보상"/>
+    <Elem NameU="Ad-Hoc Process" Name="Ad-Hoc 프로세스"/>
+    <Elem NameU="Loop Sub-Process" Name="순환 서브 프로세스"/>
+    <Elem NameU="Multiple Instance" Name="다중 인스턴스"/>
+    <Elem NameU="Compensation Sub-Process" Name="보상 서브 프로세스"/>
+    <Elem NameU="Ad-Hoc Sub-Process" Name="Ad-Hoc 서브 프로세스"/>
+    <Elem NameU="Transaction" Name="거래"/>
+    <Elem NameU="Event Sub-Process" Name="이벤트 서브 프로세스"/>
+    <Elem NameU="Call Activity" Name="통화 활동"/>
+    <Elem NameU="Conversation" Name="대화"/>
+    <Elem NameU="Collapsed Conversation" Name="접힌 대화"/>
+    <Elem NameU="Call Conversation" Name="콜 대화"/>
+    <Elem NameU="Collapsed Call Conversation" Name="접힌 콜 대화"/>
+    <Elem NameU="Group" Name="그룹"/>
+    <Elem NameU="Choreography Task" Name="Choreography 작업"/>
+    <Elem NameU="Sub-Choreography" Name="서브 Choreography"/>
+    <Elem NameU="Call Choreography" Name="콜 Choreography"/>
+    <Elem NameU="Data Object" Name="데이터 개체"/>
+    <Elem NameU="Collection Data Object" Name="수집 데이터 개체"/>
+    <Elem NameU="Input Data" Name="입력 데이터"/>
+    <Elem NameU="Output Data" Name="출처 데이터"/>
+    <Elem NameU="Data Store" Name="데이터 저장"/>
+    <Elem NameU="Exclusive Gateway with Marker" Name="마커가 있는 독점 게이트웨이"/>
+    <Elem NameU="Event-Based Gateway" Name="이벤트 기반 게이트웨이"/>
+    <Elem NameU="Exclusive Event-based Gateway" Name="독점 이벤트 게이트웨이"/>
+    <Elem NameU="Parallel Event-based Gateway" Name="병렬 이벤트 게이트웨이"/>
+    <Elem NameU="Parallel Gateway" Name="병렬 게이트웨이"/>
+    <Elem NameU="Inclusive Gateway" Name="포용적인 게이트웨이"/>
+    <Elem NameU="Complex Gateway" Name="복잡 게이트웨이"/>
+    <Elem NameU="Sequence Flow" Name="순서 흐름"/>
+    <Elem NameU="Sequence Flow Right-angle" Name="직각 순서 흐름"/>
+    <Elem NameU="Message Flow" Name="메세지 플로우"/>
+    <Elem NameU="Message Flow Right-angle" Name="직각 메세지 흐름"/>
+    <Elem NameU="Data Association" Name="데이터 연관"/>
+    <Elem NameU="Association" Name="연관"/>
+    <Elem NameU="Association Right-angle" Name="직각 연합"/>
+    <Elem NameU="Process Marker" Name="프로세스 표기"/>
+    <Elem NameU="Loop Marker" Name="순환 표기"/>
+    <Elem NameU="Parallel MI Marker" Name="병렬 MI 표시"/>
+    <Elem NameU="Sequential MI Marker" Name="순서 MI 표시"/>
+    <Elem NameU="Ad-Hoc Marker" Name="Ad-Hoc 표시"/>
+    <Elem NameU="Compensation Marker" Name="보상 표시"/>
+    <Elem NameU="Send Task" Name="보내기 작업"/>
+    <Elem NameU="Receive Task" Name="접수 작업"/>
+    <Elem NameU="User Task" Name="사용자 작업"/>
+    <Elem NameU="Manual Task" Name="수동 작업"/>
+    <Elem NameU="Business Rule Task" Name="업무 규칙 작업"/>
+    <Elem NameU="Service Task" Name="서비스 작업"/>
+    <Elem NameU="Script Task" Name="스크립트 작업"/>
+    <Elem NameU="Rectangle balloon" Name="직사각형 풍선"/>
+    <Elem NameU="Annotation" Name="주석"/>
+</Lib>

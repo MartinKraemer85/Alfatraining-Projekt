@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Conceptual Website Shapes">
+	<Elem NameU="Main page" Name="Página principal"/>
+	<Elem NameU="Page" Name="Página"/>
+	<Elem NameU="Pages" Name="Páginas"/>
+	<Elem NameU="External page" Name="Página externa"/>
+	<Elem NameU="Page element" Name="Elemento de página"/>
+	<Elem NameU="Page elements" Name="Elementos de página"/>
+	<Elem NameU="External page element" Name="Elemento de página externa"/>
+	<Elem NameU="Service" Name="Serviço"/>
+	<Elem NameU="Database" Name="Base de dados"/>
+	<Elem NameU="Popup" Name="Popup"/>
+	<Elem NameU="Form" Name="Formulário"/>
+	<Elem NameU="Cloud" Name="Cloud"/>
+	<Elem NameU="Related pages" Name="Páginas relacionadas"/>
+	<Elem NameU="Dynamic connector" Name="Conector dinâmico"/>
+	<Elem NameU="Home page" Name="Página inicial"/>
+	<Elem NameU="Page jump" Name="Saltar página"/>
+	<Elem NameU="Gateway" Name="Porta"/>
+	<Elem NameU="Keypath" Name="Caminho chave"/>
+</Lib>

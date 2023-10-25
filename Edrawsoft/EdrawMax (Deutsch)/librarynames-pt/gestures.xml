@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Gestures">
+	<Elem NameU="Shake hands" Name="Apertar as mãos"/>
+	<Elem NameU="Gesture 1" Name="Gesto 1"/>
+	<Elem NameU="Gesture 2" Name="Gesto 2"/>
+	<Elem NameU="Gesture 3" Name="Gesto 3"/>
+	<Elem NameU="Gesture 4" Name="Gesto 4"/>
+	<Elem NameU="Gesture 5" Name="Gesto 5"/>
+	<Elem NameU="Gesture 6" Name="Gesto 6"/>
+	<Elem NameU="Gesture 7" Name="Gesto 7"/>
+	<Elem NameU="Gesture 8" Name="Gesto 8"/>
+	<Elem NameU="Gesture 9" Name="Gesto 9"/>
+	<Elem NameU="Gesture 10" Name="Gesto 10"/>
+	<Elem NameU="Gesture 11" Name="Gesto 11"/>
+	<Elem NameU="Gesture 12" Name="Gesto 12"/>
+	<Elem NameU="Gesture 13" Name="Gesto 13"/>
+	<Elem NameU="Gesture 14" Name="Gesto 14"/>
+	<Elem NameU="Gesture 15" Name="Gesto 15"/>
+	<Elem NameU="Gesture 16" Name="Gesto 16"/>
+	<Elem NameU="Gesture 17" Name="Gesto 17"/>
+	<Elem NameU="Gesture 18" Name="Gesto 18"/>
+	<Elem NameU="Gesture 19" Name="Gesto 19"/>
+	<Elem NameU="Gesture 20" Name="Gesto 20"/>
+	<Elem NameU="Gesture 21" Name="Gesto 21"/>
+	<Elem NameU="Gesture 22" Name="Gesto 22"/>
+	<Elem NameU="Gesture 23" Name="Gesto 23"/>
+	<Elem NameU="Gesture 24" Name="Gesto 24"/>
+	<Elem NameU="Gesture 25" Name="Gesto 25"/>
+	<Elem NameU="Gesture 26" Name="Gesto 26"/>
+	<Elem NameU="Gesture 27" Name="Gesto 27"/>
+	<Elem NameU="Gesture 28" Name="Gesto 28"/>
+	<Elem NameU="Gesture 29" Name="Gesto 29"/>
+	<Elem NameU="Gesture 30" Name="Gesto 30"/>
+	<Elem NameU="Cooperation" Name="Cooperação"/>
+	<Elem NameU="Competition" Name="Competição"/>
+	<Elem NameU="Gesture" Name="Gesto"/>
+</Lib>

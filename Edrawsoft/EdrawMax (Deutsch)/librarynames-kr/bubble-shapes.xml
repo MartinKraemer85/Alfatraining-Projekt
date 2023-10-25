@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Bubble Shapes">
+    <Elem NameU="Main idea" Name="주제"/>
+    <Elem NameU="Circle" Name="원"/>
+    <Elem NameU="Ellipse" Name="타원"/>
+    <Elem NameU="Cloud" Name="클라우드"/>
+    <Elem NameU="Main idea" Name="메인 아이디어"/>
+    <Elem NameU="Connector" Name="연결선"/>
+</Lib>

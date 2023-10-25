@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="School Life">
+    <Elem NameU="School Bus" Name="학교 버스"/>
+    <Elem NameU="Blackboard" Name="칠판"/>
+    <Elem NameU="Platform" Name="플랫폼"/>
+    <Elem NameU="Male Teacher" Name="남자 선생님"/>
+    <Elem NameU="Female Teacher" Name="여자 선생님"/>
+    <Elem NameU="Student Sitting 1" Name="앉아있는 학생 1"/>
+    <Elem NameU="Student Sitting 2" Name="앉아있는 학생 2"/>
+    <Elem NameU="Student Sitting 3" Name="앉아있는 학생 3"/>
+    <Elem NameU="Student Sitting 4" Name="앉아있는 학생 4"/>
+    <Elem NameU="Girl Writing" Name="공부하는 여자애"/>
+    <Elem NameU="Boy Writing" Name="공부하는 남자애"/>
+    <Elem NameU="Painting" Name="페인팅"/>
+    <Elem NameU="Girl Reading 1" Name="책 읽는 여자애 1"/>
+    <Elem NameU="Girl Reading 2" Name="책 읽는 여자애 2"/>
+    <Elem NameU="Boy Reading" Name="책 읽는 남자애"/>
+    <Elem NameU="Student Standing 1" Name="서있는 학생 1"/>
+    <Elem NameU="Student Standing 2" Name="서있는 학생2"/>
+    <Elem NameU="Student Standing 3" Name="서있는 학생3"/>
+    <Elem NameU="Student Standing 4" Name="서있는 학생4"/>
+    <Elem NameU="Student Singing" Name="노래 부르는 학생"/>
+    <Elem NameU="Student Dancing" Name="춤추는 학생"/>
+    <Elem NameU="Student with Football" Name="축가하는 학생"/>
+    <Elem NameU="Student Raising Dumbbells" Name="아령"/>
+    <Elem NameU="Student with Trophy" Name="트로피 가진 학생"/>
+    <Elem NameU="Students on the Podium" Name="연단에 오른 학생"/>
+    <Elem NameU="Cleaning Desk" Name="책상 청소"/>
+    <Elem NameU="Weeping Floor" Name="바닥 청소"/>
+    <Elem NameU="Worried Student" Name="걱정 많은 학생"/>
+    <Elem NameU="Teacher Talking with Student" Name="학생과 얘기하는 선생님"/>
+    <Elem NameU="School Bullying" Name="학교 폭력"/>
+    <Elem NameU="Students with Good Grades" Name="성적 좋은 학생"/>
+    <Elem NameU="Student with Poor Grades" Name="성적 좋지 않은 학생 "/>
+    <Elem NameU="Student Jumping Rope" Name="줄넘기"/>
+    <Elem NameU="Classmate" Name="학생"/>
+    <Elem NameU="Tug of War" Name="바줄 당기기"/>
+    <Elem NameU="Student Playing Basketball" Name="농구하는 학생"/>
+    <Elem NameU="Student Playing Baseball" Name="야구하는 학생"/>
+    <Elem NameU="Student Playing Football" Name="축구하는 학생"/>
+    <Elem NameU="Students" Name="학생"/>
+    <Elem NameU="I Love School" Name="학교를 사랑합니다"/>
+</Lib>

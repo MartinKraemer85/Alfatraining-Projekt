@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Kids Sports">
+    <Elem NameU="Taekwondo 1" Name="跆拳道 1"/>
+    <Elem NameU="Taekwondo 2" Name="跆拳道 2"/>
+    <Elem NameU="Playing Tennis" Name="打網球"/>
+    <Elem NameU="Playing Badminton" Name="打羽毛球"/>
+    <Elem NameU="Playing Table Tennis" Name="打乒乓球"/>
+    <Elem NameU="Playing Baseball" Name="打棒球"/>
+    <Elem NameU="Playing Football" Name="踢足球"/>
+    <Elem NameU="Playing Basketball" Name="打籃球"/>
+    <Elem NameU="Playing Rugby" Name="打橄欖球"/>
+    <Elem NameU="Playing Volleyball" Name="打排球"/>
+    <Elem NameU="Playing Golf" Name="打高爾夫球"/>
+    <Elem NameU="Playing Shot Put" Name="推鉛球"/>
+    <Elem NameU="Inline Skating" Name="滑輪"/>
+    <Elem NameU="Running" Name="跑步"/>
+    <Elem NameU="Rope Skipping" Name="跳繩"/>
+    <Elem NameU="Rock Climbing" Name="攀岩"/>
+    <Elem NameU="Long Jump" Name="跳遠"/>
+    <Elem NameU="Twirling Hula Hoop" Name="轉呼啦圈"/>
+    <Elem NameU="Skiing" Name="滑雪"/>
+    <Elem NameU="Skateboarding" Name="玩滑板"/>
+    <Elem NameU="Surfing" Name="衝浪"/>
+    <Elem NameU="Cheerleading Dance" Name="跳啦啦操"/>
+    <Elem NameU="Doing Gymnastics" Name="體操"/>
+    <Elem NameU="Swimming" Name="游泳"/>
+    <Elem NameU="Hurdling" Name="跨欄"/>
+    <Elem NameU="Weightlifting" Name="舉重"/>
+    <Elem NameU="Doing Pommel Horse" Name="跳馬"/>
+    <Elem NameU="Doing Horizontal Bar" Name="單杠運動"/>
+    <Elem NameU="Playing Archery" Name="射箭"/>
+</Lib>

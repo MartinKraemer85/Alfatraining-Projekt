@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="SSADM">
+    <Elem NameU="Entity Type" Name="實體類型"/>
+    <Elem NameU="External Entity" Name="擴展實體"/>
+    <Elem NameU="Relationships" Name="關係"/>
+    <Elem NameU="Process Box" Name="處理盒"/>
+    <Elem NameU="DFD Process" Name="DFD 處理"/>
+    <Elem NameU="DFD Datastore" Name="DFD 資料存儲"/>
+    <Elem NameU="DFD Flow" Name="DFD 流"/>
+    <Elem NameU="Entity Life History" Name="實體生命歷程"/>
+    <Elem NameU="Entity Description" Name="實體描述"/>
+    <Elem NameU="Overview" Name="縱覽"/>
+    <Elem NameU="Resource Flow" Name="資源流"/>
+    <Elem NameU="Transition" Name="轉換"/>
+</Lib>

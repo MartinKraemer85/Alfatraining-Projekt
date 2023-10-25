@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Nassi-Shneiderman">
+    <Elem NameU="Definitions or Actions" Name="정의 또는 조치"/>
+    <Elem NameU="Decision" Name="정의"/>
+    <Elem NameU="Decision (if-then-else)" Name="정의(if-then-else)"/>
+    <Elem NameU="Decision 2 (if-then-else)" Name="정의 2 (if-then-else)"/>
+    <Elem NameU="Decision with Steps" Name="단계 있는 정의"/>
+    <Elem NameU="Decision with Steps 2" Name="단계 있는 정의 2"/>
+    <Elem NameU="Decision with Step 3" Name="단계 있는 정의 3"/>
+    <Elem NameU="Selection (case)" Name="선택 (case)"/>
+    <Elem NameU="Single Step" Name="단일 절차"/>
+    <Elem NameU="Iteration (While)" Name="순환 (While)"/>
+    <Elem NameU="Iteration (Repeat-Until)" Name="반복(Repeat-Until)"/>
+    <Elem NameU="Frame 1" Name="프레임1"/>
+    <Elem NameU="Frame 2" Name="프레임2"/>
+    <Elem NameU="Procedure Steps" Name="절차"/>
+    <Elem NameU="Multiple Steps" Name="다중 절차"/>
+    <Elem NameU="2-D Word Balloon" Name="2D 텍스트 풍선"/>
+</Lib>

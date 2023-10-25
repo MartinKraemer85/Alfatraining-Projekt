@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Text">
+    <Elem NameU="H1 Header" Name="H1 標題"/>
+    <Elem NameU="H2 Header" Name="H2 標題"/>
+    <Elem NameU="H3 Header" Name="H3 標題"/>
+    <Elem NameU="12pt Label" Name="12pt 標籤"/>
+    <Elem NameU="10pt Label" Name="10pt 標籤"/>
+    <Elem NameU="9pt Label" Name="9pt 標籤"/>
+    <Elem NameU="Text Block" Number="2" Name="文本塊"/>
+    <Elem NameU="Text Block （Solid Frame)" Name="帶外框的文本塊"/>
+    <Elem NameU="Bullet Text" Name="項目文本"/>
+</Lib>

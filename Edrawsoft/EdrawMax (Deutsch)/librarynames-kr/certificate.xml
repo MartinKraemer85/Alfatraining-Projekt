@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Certificate">
+    <Elem NameU="Head 1" Name="제목 1"/>
+    <Elem NameU="Head 2" Name="제목 2"/>
+    <Elem NameU="Head 3" Name="제목 3"/>
+    <Elem NameU="Head 4" Number="2" Name="제목 4"/>
+    <Elem NameU="Head 5" Name="제목 5"/>
+    <Elem NameU="Head 6" Name="제목 6"/>
+    <Elem NameU="Head 7" Name="제목 7"/>
+    <Elem NameU="Head 8" Name="제목 8"/>
+    <Elem NameU="Head 9" Name="제목 9"/>
+    <Elem NameU="Head 10" Name="제목 10"/>
+    <Elem NameU="Head 11" Name="제목 11"/>
+    <Elem NameU="Head 12" Name="제목 12"/>
+    <Elem NameU="Element 1" Name="패턴 1"/>
+    <Elem NameU="Element 2" Name="패턴 2"/>
+    <Elem NameU="Element 3" Name="패턴 3"/>
+    <Elem NameU="Element 4" Name="패턴 4"/>
+    <Elem NameU="Element 5" Name="패턴 5"/>
+    <Elem NameU="Element 6" Name="패턴 6"/>
+    <Elem NameU="Element 7" Name="패턴 7"/>
+    <Elem NameU="Element 9" Name="패턴 9"/>
+    <Elem NameU="Element 10" Name="패턴 10"/>
+    <Elem NameU="Element 12" Name="패턴 12"/>
+    <Elem NameU="Element 13" Name="패턴 13"/>
+    <Elem NameU="Element 14" Name="패턴 14"/>
+    <Elem NameU="Element 15" Name="패턴 15"/>
+    <Elem NameU="Element 16" Name="패턴 16"/>
+    <Elem NameU="Element 17" Name="패턴 17"/>
+    <Elem NameU="Element 18" Name="패턴 18"/>
+    <Elem NameU="Element 19" Name="패턴 19"/>
+    <Elem NameU="Element 20" Name="패턴 20"/>
+    <Elem NameU="Element 21" Name="패턴 21"/>
+    <Elem NameU="Element 22" Name="패턴 22"/>
+    <Elem NameU="Element 23" Name="패턴 23"/>
+    <Elem NameU="Element 24" Name="패턴 24"/>
+    <Elem NameU="Element 25" Name="패턴 25"/>
+    <Elem NameU="Element 26" Name="패턴 26"/>
+    <Elem NameU="Element 27" Name="패턴 27"/>
+    <Elem NameU="Element 28" Name="패턴 28"/>
+    <Elem NameU="Element 29" Name="패턴 29"/>
+    <Elem NameU="Element 30" Name="패턴 30"/>
+    <Elem NameU="Element 31" Name="패턴 31"/>
+    <Elem NameU="Element 32" Name="패턴 32"/>
+    <Elem NameU="Corner 1" Name="코너 패턴 1"/>
+    <Elem NameU="Corner 2" Name="코너 패턴 2"/>
+    <Elem NameU="Corner 3" Name="코너 패턴 3"/>
+    <Elem NameU="Corner 4" Name="코너 패턴 4"/>
+    <Elem NameU="Corner 5" Name="코너 패턴 5"/>
+    <Elem NameU="Corner 6" Name="코너 패턴 6"/>
+    <Elem NameU="Corner 7" Name="코너 패턴 7"/>
+    <Elem NameU="Corner 8" Name="코너 패턴 8"/>
+    <Elem NameU="Corner 9" Name="코너 패턴 9"/>
+    <Elem NameU="Corner 10" Name="코너 패턴 10"/>
+    <Elem NameU="Corner 11" Name="코너 패턴 11"/>
+    <Elem NameU="Corner 12" Name="코너 패턴 12"/>
+    <Elem NameU="Corner 13" Name="코너 패턴 13"/>
+    <Elem NameU="Corner 14" Name="코너 패턴 14"/>
+    <Elem NameU="Corner 15" Name="코너 패턴 15"/>
+    <Elem NameU="Corner 16" Name="코너 패턴 16"/>
+    <Elem NameU="Corner 17" Name="코너 패턴 17"/>
+    <Elem NameU="Corner 18" Name="코너 패턴 18"/>
+    <Elem NameU="Corner 19" Name="코너 패턴 19"/>
+    <Elem NameU="Line 1" Name="라인 1"/>
+    <Elem NameU="Line 2" Name="라인 2"/>
+    <Elem NameU="Line 3" Name="라인 3"/>
+    <Elem NameU="Line 4" Name="라인 4"/>
+    <Elem NameU="Line 5" Name="라인 5"/>
+</Lib>

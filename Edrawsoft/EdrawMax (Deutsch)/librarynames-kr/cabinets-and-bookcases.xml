@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Cabinets and Bookcases">
+    <Elem NameU="Work surface" Name="작업대"/>
+    <Elem NameU="Corner surface" Number="4" Name="코너 작업대"/>
+    <Elem NameU="Island" Name="섬"/>
+    <Elem NameU="Corner counter" Name="코너 카운터"/>
+    <Elem NameU="Platter counter" Name="플래터 카운터"/>
+    <Elem NameU="Bevel counter" Name="사선 카운터"/>
+    <Elem NameU="Bent counter" Name="굽은 카운터"/>
+    <Elem NameU="Work peninsula" Name="반도형 작업대"/>
+    <Elem NameU="Base" Number="2" Name="밑부분"/>
+    <Elem NameU="Base end-shelf" Name="하단 끝 선반"/>
+    <Elem NameU="Base corner" Name="하단 코너"/>
+    <Elem NameU="Base blind corner" Name="하단 블라인드 코너"/>
+    <Elem NameU="Base end angle" Name="각진 하단 끝"/>
+    <Elem NameU="Drawer" Number="2" Name="서랍"/>
+    <Elem NameU="Bookcase" Number="2" Name="책장"/>
+    <Elem NameU="Cabinet" Number="2" Name="캐비닛"/>
+    <Elem NameU="Cabinet 2 drawers" Number="2" Name="이층 서랍"/>
+    <Elem NameU="Peninsula end-shelf" Name="반도형 선반 끝"/>
+    <Elem NameU="Base peninsula" Number="2" Name="반도형 하단"/>
+    <Elem NameU="Wall end-shelf" Name="벽 끝 선반"/>
+    <Elem NameU="Wall corner" Name="벽 코너"/>
+    <Elem NameU="Wall angle cabinet" Name="각진 벽 캐비닛1"/>
+    <Elem NameU="Track end-bevel" Name="트랙 끝 - 사선"/>
+    <Elem NameU="Track 45 deg." Name="트랙(45도)"/>
+    <Elem NameU="Track corner" Name="트랙 코너"/>
+    <Elem NameU="Tray track" Name="트레이 트랙"/>
+    <Elem NameU="Locker" Name="락커"/>
+    <Elem NameU="Handle" Number="5" Name="핸들"/>
+</Lib>

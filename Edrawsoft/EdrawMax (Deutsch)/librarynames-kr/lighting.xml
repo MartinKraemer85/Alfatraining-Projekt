@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Lighting">
+    <Elem NameU="Luminaire ceiling mount" Name="천장등"/>
+    <Elem NameU="Encl ceiling lum" Name="천장등"/>
+    <Elem NameU="Wall light" Name="벽등"/>
+    <Elem NameU="Downlight" Name="다운라이트"/>
+    <Elem NameU="Outdoor lighting" Name="옥외 조명"/>
+    <Elem NameU="Multi-light bar" Name="욕실등"/>
+    <Elem NameU="Batten fluores" Name="형광등"/>
+    <Elem NameU="Modular fluores" Name="모듈형 형광"/>
+    <Elem NameU="Emerg. light" Name="긴급 라이트"/>
+    <Elem NameU="Emerg. sign" Name="긴급 표시"/>
+    <Elem NameU="Light" Name="등"/>
+    <Elem NameU="Ceiling Light Outlet" Name="천장등 콘센트"/>
+    <Elem NameU="Recessed ceiling light" Name="리세스 천장등"/>
+    <Elem NameU="Ceiling fan" Name="천장팬"/>
+    <Elem NameU="Weatherproof landscape light" Name="비바람에 견디는 경관 조명"/>
+    <Elem NameU="Ceiling light with pull cord" Name="풀 코드가 있는 천장 조명"/>
+    <Elem NameU="Emergency battery unit with two light" Name="두 개의 조명이 있는 비상 배터리 장치"/>
+    <Elem NameU="Spotlight" Name="스포트라이트"/>
+    <Elem NameU="Exit sign" Name="출구 표시"/>
+    <Elem NameU="Light" Name="등"/>
+    <Elem NameU="Roadway light" Name="도로 등"/>
+    <Elem NameU="Twin lights" Name="트윈 라이트"/>
+    <Elem NameU="Light" Name="등"/>
+    <Elem NameU="Lights" Name="등"/>
+    <Elem NameU="Integrated  Light" Name="통합 조명"/>
+    <Elem NameU="Night Light" Name="야간 조명"/>
+    <Elem NameU="Louvers" Name="루버"/>
+</Lib>

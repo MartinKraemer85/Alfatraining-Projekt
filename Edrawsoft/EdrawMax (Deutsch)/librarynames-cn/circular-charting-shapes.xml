@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Circular Charting Shapes">
+    <Elem NameU="Circular Motion" Number="3" Name="环形箭头"/>
+    <Elem NameU="Circle" Number="3" Name="无箭头环形"/>
+    <Elem NameU="Trapezoid Ring" Name="梯形环"/>
+    <Elem NameU="Basic Loop" Name="基本循环"/>
+    <Elem NameU="Basic Loop 2" Name="基本循环 2"/>
+    <Elem NameU="Block Loop" Name="块循环"/>
+    <Elem NameU="Circle Arrow Loop" Name="圆形环绕"/>
+    <Elem NameU="Divergent Circle" Name="圆形放射"/>
+    <Elem NameU="Divergent Blocks" Name="块型放射"/>
+    <Elem NameU="Circle Arrow Loop 2" Name="圆形环绕 2"/>
+    <Elem NameU="Divergent Circle 2" Name="圆形放射 2"/>
+    <Elem NameU="Highlight Circle" Name="高光环"/>
+    <Elem NameU="Circles" Name="多圆维恩图"/>
+    <Elem NameU="Stack Circles" Name="圆形层叠"/>
+    <Elem NameU="Gradient Circle" Name="色彩梯度"/>
+    <Elem NameU="Circle Sector" Name="扇形分割"/>
+    <Elem NameU="Idea Wheel" Name="概念环"/>
+    <Elem NameU="Circle Pie" Name="扇形圆"/>
+    <Elem NameU="Circle" Name="无箭头环形"/>
+    <Elem NameU="Variable Radian Pie" Name="可改变角度扇形图"/>
+    <Elem NameU="Variable Radian Doughnut" Name="可改变角度环形图"/>
+    <Elem NameU="Bevel-style Circle Pie" Name="多扇形圆"/>
+    <Elem NameU="Bevel-style Circle" Name="多扇形圆"/>
+    <Elem NameU="Circle 5" Name="圆形 5"/>
+    <Elem NameU="Bevel-style Circle 2" Name="多扇形图 2"/>
+    <Elem NameU="Circle 6" Name="圆形 6"/>
+    <Elem NameU="Circle 7" Name="圆形 7"/>
+    <Elem NameU="Bevel-style Circle 3" Name="多扇形图 3"/>
+    <Elem NameU="Circle 8" Name="圆形 8"/>
+    <Elem NameU="Circle 9" Name="圆形 9"/>
+    <Elem NameU="Sector Rings" Name="多扇形环"/>
+    <Elem NameU="Trapezoid Rings" Name="多梯形环"/>
+    <Elem NameU="Venn Cycle" Name="维恩图循环"/>
+    <Elem NameU="Multi-arrow Circle" Name="多箭头圆"/>
+    <Elem NameU="Arrow Circle" Name="箭头环形"/>
+    <Elem NameU="Annulus" Name="单环"/>
+</Lib>

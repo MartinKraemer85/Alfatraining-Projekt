@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="UML Deployment Diagram">
+
+<Elem Name="パッケージ" NameU="Package"/>
+
+<Elem Name="オブジェクト" NameU="Object"/>
+
+<Elem Name="節点" NameU="Node"/>
+
+<Elem Name="コンポーネント" NameU="Component"/>
+
+<Elem Name="ノードインスタンス" NameU="Node Instance"/>
+
+<Elem Name="コンポーネントの実例" NameU="Component Instance"/>
+
+<Elem Name="コミュニケーション" NameU="Comunication"/>
+
+<Elem Name="継承" NameU="Inheritance"/>
+
+<Elem Name="注意" NameU="Note"/>
+
+<Elem Name="拘束" NameU="Constraint"/>
+
+<Elem Name="プロジェクト" NameU="Project"/>
+
+<Elem Name="プロジェクトの実例" NameU="Project Instance"/>
+
+<Elem Name="配備仕様" NameU="Deployment Specification"/>
+
+<Elem Name="配備仕様の実例" NameU="Deployment Specification Instance"/>
+
+<Elem Name="依存" NameU="Dependency"/>
+
+<Elem Name="集計" NameU="Aggregation"/>
+
+<Elem Name="マニフェスト" NameU="Manifest"/>
+
+<Elem Name="配置" NameU="Deploy"/>
+
+<Elem Name="概要図コンテナー" NameU="Overview Diagram Container"/>
+
+</Lib>

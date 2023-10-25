@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Kitchen (Elevation)">
+	<Elem NameU="Refrigerator 1" Name="冰箱 1"/>
+	<Elem NameU="Refrigerator 2" Name="冰箱 2"/>
+	<Elem NameU="Refrigerator 3" Name="冰箱 3"/>
+	<Elem NameU="Refrigerator 4" Name="冰箱 4"/>
+	<Elem NameU="Refrigerator 5" Name="冰箱 5"/>
+	<Elem NameU="Refrigerator 6" Name="冰箱 6"/>
+	<Elem NameU="Refrigerator 7" Name="冰箱 7"/>
+	<Elem NameU="Refrigerator 8" Name="冰箱 8"/>
+	<Elem NameU="Two-door refrigerator" Name="双开门冰箱"/>
+	<Elem NameU="kitchen ventilator 1" Name="抽油烟机 1"/>
+	<Elem NameU="kitchen ventilator 2" Name="抽油烟机 2"/>
+	<Elem NameU="kitchen ventilator 3" Name="抽油烟机 3"/>
+	<Elem NameU="Kitchen ventilator 4" Name="抽油烟机 4"/>
+	<Elem NameU="Microwave oven" Number="2" Name="微波炉"/>
+	<Elem NameU="Turner" Name="锅铲"/>
+	<Elem NameU="Truner" Name="锅铲"/>
+	<Elem NameU="Soup ladle" Name="汤勺"/>
+	<Elem NameU="kitchen ware" Name="厨具"/>
+	<Elem NameU="Teapot" Name="茶壶"/>
+	<Elem NameU="Teacup" Number="3" Name="茶杯"/>
+	<Elem NameU="kettle" Name="水壶"/>
+	<Elem NameU="Steamer" Name="蒸笼"/>
+	<Elem NameU="Frying pan" Name="煎锅"/>
+	<Elem NameU="Chafing dish" Name="保暖锅"/>
+	<Elem NameU="Saucepan" Name="炖锅"/>
+	<Elem NameU="Gas cooker" Name="煤气炉"/>
+	<Elem NameU="Disinfection cabinet" Name="消毒柜"/>
+	<Elem NameU="Disinfection cabinet 2" Name="消毒柜 2"/>
+	<Elem NameU="Range hood" Name="抽油烟机"/>
+	<Elem NameU="Washer" Number="2" Name="洗衣机"/>
+	<Elem NameU="Detergent" Number="3" Name="清洁剂"/>
+	<Elem NameU="Shampoo" Name="洗发水"/>
+	<Elem NameU="Shower Cream" Name="沐浴露"/>
+	<Elem NameU="Chicken grill machine" Name="电烤鸡炉"/>
+	<Elem NameU="Doner kebab machine" Name="烤肉机"/>
+	<Elem NameU="1 flamming grill" Name="单盘烤炉"/>
+	<Elem NameU="2 flamming grill" Name="双盘烤炉"/>
+	<Elem NameU="Water bath" Name="洗涤机"/>
+	<Elem NameU="Food display cabinet" Name="食物展示柜"/>
+	<Elem NameU="Gas lava rock grill" Name="燃气熔岩烤架"/>
+</Lib>

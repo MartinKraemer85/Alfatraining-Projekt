@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="UML Sequence Diagram">
+    <Elem NameU="Object Lifeline" Name="개체 생명선"/>
+    <Elem NameU="Lifeline" Name="생명선"/>
+    <Elem NameU="Sequence Object" Name="시퀀스 개체"/>
+    <Elem NameU="Activation" Name="활성화"/>
+    <Elem NameU="Activation(break)" Name="활성화 중단"/>
+    <Elem NameU="Package" Name="패키지"/>
+    <Elem NameU="Alternative Fragment" Name="대체 조각"/>
+    <Elem NameU="Loop Fragment" Name="루프 조각"/>
+    <Elem NameU="Choice Fragment" Name="선택 조각"/>
+    <Elem NameU="Object Deletion" Name="개체 삭제"/>
+    <Elem NameU="Actor" Name="배우"/>
+    <Elem NameU="Actor Lifeline" Name="배우 생명선"/>
+    <Elem NameU="Entity" Name="엔터티"/>
+    <Elem NameU="Boundary" Name="테두리"/>
+    <Elem NameU="Control" Name="컨트롤"/>
+    <Elem NameU="Constraint" Name="제한 조건"/>
+    <Elem NameU="End Point" Name="엔드 포인트"/>
+    <Elem NameU="Note" Name="주석"/>
+    <Elem NameU="Message" Name="메시지"/>
+    <Elem NameU="Message Return" Name="과도 1"/>
+    <Elem NameU="Asynchronous Message" Name="동기 메시지"/>
+    <Elem NameU="Self Delegation" Name="체 위임"/>
+    <Elem NameU="Curve Self Delegation" Name="곡선 자체 위임"/>
+</Lib>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="PID Material Handling">
+	<Elem NameU="Advanced classification system" Name="Advanced classification system"/>
+	<Elem NameU="Hero-mechanical conveyor 1" Name="Hero-mechanical conveyor 1"/>
+	<Elem NameU="Hero-mechanical conveyor 2" Name="Hero-mechanical conveyor 2"/>
+	<Elem NameU="Hero-mechanical conveyor 3" Name="Hero-mechanical conveyor 3"/>
+	<Elem NameU="Hero-mechanical conveyor 4" Name="Hero-mechanical conveyor 4"/>
+	<Elem NameU="Hero-mechanical conveyor 5" Name="Hero-mechanical conveyor 5"/>
+	<Elem NameU="Hero-mechanical conveyor 6" Name="Hero-mechanical conveyor 6"/>
+	<Elem NameU="Hero-mechanical conveyor 7" Name="Hero-mechanical conveyor 7"/>
+	<Elem NameU="Hero-mechanical conveyor 8" Name="Hero-mechanical conveyor 8"/>
+	<Elem NameU="AGI mixer" Name="AGI mixer"/>
+	<Elem NameU="Air swept pulverizer" Name="Air swept pulverizer"/>
+	<Elem NameU="Airswept tubular dryer" Name="Airswept tubular dryer"/>
+	<Elem NameU="Bag dump station" Name="Bag dump station"/>
+	<Elem NameU="Baghouse dust collector" Name="Baghouse dust collector"/>
+	<Elem NameU="Ball mill" Name="Ball mill"/>
+	<Elem NameU="Bulk bag discharger" Name="Bulk bag discharger"/>
+	<Elem NameU="Bulk bag feeder" Name="Bulk bag feeder"/>
+	<Elem NameU="Bulk bag filler" Name="Bulk bag filler"/>
+	<Elem NameU="Bulk bag filling station" Name="Bulk bag filling station"/>
+	<Elem NameU="Bulk bag loader" Name="Bulk bag loader"/>
+	<Elem NameU="Bulk railcar" Name="Bulk railcar"/>
+	<Elem NameU="Cartridge dust collector" Name="Cartridge dust collector"/>
+	<Elem NameU="Centrifugal type sifter" Name="Centrifugal type sifter"/>
+	<Elem NameU="Centrifuge" Name="Centrifuge"/>
+	<Elem NameU="Clarifier" Name="Clarifier"/>
+	<Elem NameU="Colloid mixer" Name="Colloid mixer"/>
+	<Elem NameU="Compact spray dryer" Name="Compact spray dryer"/>
+	<Elem NameU="Cone crusher" Name="Cone crusher"/>
+	<Elem NameU="Conical screw processor" Name="Conical screw processor"/>
+	<Elem NameU="Cyclone1" Name="Cyclone1"/>
+	<Elem NameU="Cyclone2" Name="Cyclone2"/>
+	<Elem NameU="Disc pulverizer1" Name="Disc pulverizer1"/>
+	<Elem NameU="Disc pulverizer2" Name="Disc pulverizer2"/>
+	<Elem NameU="Double roll crusher" Name="Double roll crusher"/>
+	<Elem NameU="Dryer cooler" Name="Dryer cooler"/>
+	<Elem NameU="Dust collector1" Name="Dust collector1"/>
+	<Elem NameU="Dust collector2" Name="Dust collector2"/>
+	<Elem NameU="Dust collector3" Name="Dust collector3"/>
+	<Elem NameU="Dust collector4" Name="Dust collector4"/>
+	<Elem NameU="Dust collector5" Name="Dust collector5"/>
+	<Elem NameU="Dust collector6" Name="Dust collector6"/>
+	<Elem NameU="Dust reclaim" Name="Dust reclaim"/>
+	<Elem NameU="Elevator for powders and pellets" Name="Elevator for powders and pellets"/>
+	<Elem NameU="Feeder" Name="Feeder"/>
+	<Elem NameU="Flow meter" Name="Flow meter"/>
+	<Elem NameU="Fluidizing conveyor" Name="Fluidizing conveyor"/>
+	<Elem NameU="Gravimetric feeder1" Name="Gravimetric feeder1"/>
+	<Elem NameU="Gravimetric feeder2" Name="Gravimetric feeder2"/>
+	<Elem NameU="Grinder" Name="Grinder"/>
+	<Elem NameU="Grinding mill" Name="Grinding mill"/>
+	<Elem NameU="Hammer mill 1" Name="Hammer mill 1"/>
+	<Elem NameU="Hammer mill 2" Name="Hammer mill 2"/>
+	<Elem NameU="High vacuum conveyer" Name="High vacuum conveyer"/>
+	<Elem NameU="Homomixer" Name="Homomixer"/>
+	<Elem NameU="Hopper1" Name="Hopper1"/>
+	<Elem NameU="Hopper2" Name="Hopper2"/>
+	<Elem NameU="Hopper3" Name="Hopper3"/>
+	<Elem NameU="Loss in weight feeder" Name="Loss in weight feeder"/>
+	<Elem NameU="Mill classification system" Name="Mill classification system"/>
+	<Elem NameU="Modular feeder" Name="Modular feeder"/>
+	<Elem NameU="Particles" Name="Particles"/>
+	<Elem NameU="Pipeline mixer" Name="Pipeline mixer"/>
+	<Elem NameU="Plant vacuum system" Name="Plant vacuum system"/>
+	<Elem NameU="Powder mixer" Name="Powder mixer"/>
+	<Elem NameU="Refiner" Name="Refiner"/>
+	<Elem NameU="Rotary airlock feeder1" Name="Rotary airlock feeder1"/>
+	<Elem NameU="Rubber granulator" Name="Rubber granulator"/>
+	<Elem NameU="Self-dumping hopper" Name="Self-dumping hopper"/>
+	<Elem NameU="Shredder" Name="Shredder"/>
+	<Elem NameU="Silo" Name="Silo"/>
+	<Elem NameU="Simple agglomeration" Name="Simple agglomeration"/>
+	<Elem NameU="Simple air classifier" Name="Simple air classifier"/>
+	<Elem NameU="Simple centrifugal scalper" Name="Simple centrifugal scalper"/>
+	<Elem NameU="Simple classifier mill" Name="Simple classifier mill"/>
+	<Elem NameU="Simple dyna-slide feeder" Name="Simple dyna-slide feeder"/>
+	<Elem NameU="Simple feeder" Name="Simple feeder"/>
+	<Elem NameU="Simple filter" Name="Simple filter"/>
+	<Elem NameU="Simple fine grinding mill" Name="Simple fine grinding mill"/>
+	<Elem NameU="Simple hammermill" Name="Simple hammermill"/>
+	<Elem NameU="Simple hopper with material" Name="Simple hopper with material"/>
+	<Elem NameU="Simple roller mill" Name="Simple roller mill"/>
+	<Elem NameU="Simple rotary airlock feeder" Name="Simple rotary airlock feeder"/>
+	<Elem NameU="Simple screener" Name="Simple screener"/>
+	<Elem NameU="Simple shredder" Name="Simple shredder"/>
+	<Elem NameU="Simple silo" Name="Simple silo"/>
+	<Elem NameU="Simple solids processing" Name="Simple solids processing"/>
+	<Elem NameU="Simple transporter" Name="Simple transporter"/>
+	<Elem NameU="Simple vibrating screen" Name="Simple vibrating screen"/>
+	<Elem NameU="Simple weigh hopper" Name="Simple weigh hopper"/>
+	<Elem NameU="Spiral conveyor with hopper" Name="Spiral conveyor with hopper"/>
+	<Elem NameU="Stainless steel heavy-duty mixer" Name="Stainless steel heavy-duty mixer"/>
+	<Elem NameU="Three stage wet collector" Name="Three stage wet collector"/>
+	<Elem NameU="Truck loader" Name="Truck loader"/>
+	<Elem NameU="Truck" Name="Truck"/>
+	<Elem NameU="Vacuum boost" Name="Vacuum boost"/>
+	<Elem NameU="Vacuum pressure unloader" Name="Vacuum pressure unloader"/>
+	<Elem NameU="Vertical shaft impactor" Name="Vertical shaft impactor"/>
+	<Elem NameU="Vibrating bin discharger with dual outlets" Name="Vibrating bin discharger with dual outlets"/>
+	<Elem NameU="Volumetric feeder machine" Name="Volumetric feeder machine"/>
+	<Elem NameU="Volumetric feeder" Name="Volumetric feeder"/>
+	<Elem NameU="Wire mesh container" Name="Wire mesh container"/>
+</Lib>

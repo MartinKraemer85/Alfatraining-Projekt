@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Tourism">
+	<Elem NameU="The Grand Palace" Name="O Grand Palace"/>
+	<Elem NameU="London Eye" Name="London Eye"/>
+	<Elem NameU="Statue of Liberty" Name="Estátua da Liberdade"/>
+	<Elem NameU="Rome Colosseum" Name="Coliseu de Roma"/>
+	<Elem NameU="Great Wall" Name="Grande Muralha da China"/>
+	<Elem NameU="Sydney Opera House" Name="Opera de Sydney"/>
+	<Elem NameU="The Pyramids" Name="As Pirâmides"/>
+	<Elem NameU="Church" Name="Igreja"/>
+	<Elem NameU="Leaning Tower of Pisa" Name="Torre de Pisa"/>
+	<Elem NameU="Eiffel Tower" Name="Torre Eiffel"/>
+	<Elem NameU="The Louvre" Name="O Louvre"/>
+	<Elem NameU="Merloin" Name="Merloin"/>
+	<Elem NameU="Big Ben" Name="Big Ben"/>
+	<Elem NameU="Triumphal Arch" Name="Arco do Triunfo"/>
+	<Elem NameU="Burj Al Arab Hotel" Name="Hotel Burj Al Arab"/>
+	<Elem NameU="Dutch Windmill" Name="Moinho Alemão"/>
+	<Elem NameU="Taj Mahal" Name="Taj Mahal"/>
+	<Elem NameU="British Museum" Name="Museu Britânico"/>
+	<Elem NameU="Chichen Itza" Name="Chichen Itza"/>
+	<Elem NameU="Parliament House" Name="Casa do Parlamento"/>
+	<Elem NameU="The White House" Name="A Casa Branca"/>
+	<Elem NameU="Pavilion" Name="Pavilhão"/>
+	<Elem NameU="Water Villa" Name="Water Villa"/>
+	<Elem NameU="Waterfall 1" Name="Cascata 1"/>
+	<Elem NameU="Waterfall 2" Name="Cascata 2"/>
+	<Elem NameU="Fountain" Name="Fonte"/>
+	<Elem NameU="Telephone Booth" Name="Cabine Telefónica"/>
+	<Elem NameU="Pillar box" Name="Caixa de pilar"/>
+	<Elem NameU="Direction Board" Name="Direção"/>
+	<Elem NameU="Travel Suitcase" Name="Mala de Viagem"/>
+	<Elem NameU="Luggage" Name="Bagagem"/>
+	<Elem NameU="Person with Suitcase" Name="Pessoa com Mala"/>
+	<Elem NameU="Brother and Sister" Name="Irmão e Irmã"/>
+	<Elem NameU="Couple Walking" Name="Casal a Caminhar"/>
+	<Elem NameU="People with Camera" Name="Pessoas com Câmeras"/>
+	<Elem NameU="Family" Name="Família"/>
+	<Elem NameU="Surfboard" Name="Prancha de Surf"/>
+	<Elem NameU="Beach Umbrella" Name="Guarda-Sol de Praia"/>
+	<Elem NameU="Liqueur" Name="Licor"/>
+	<Elem NameU="Coconut Palm" Name="Coqueiro"/>
+	<Elem NameU="Dolphin" Name="Golfinho"/>
+	<Elem NameU="Starfish" Name="Estrela do Mar"/>
+	<Elem NameU="Seashell" Name="Concha do Mar"/>
+	<Elem NameU="Spiral Shell 1" Name="Concha Espiral 1"/>
+	<Elem NameU="Spiral Shell 2" Name="Concha Espiral 2"/>
+	<Elem NameU="Spiral Shell 3" Name="Concha Espiral 3"/>
+	<Elem NameU="Shark" Name="Tubarão"/>
+	<Elem NameU="Fish" Name="Peixe"/>
+	<Elem NameU="Giraffe" Name="Girafa"/>
+	<Elem NameU="Swim goggles" Name="Óculos de Mergulho"/>
+	<Elem NameU="Sunglasses 1" Name="Óculos de Sol 1"/>
+	<Elem NameU="Sunglasses 2" Name="Óculos de Sol 2"/>
+	<Elem NameU="Cap 1" Name="Chapéu 1"/>
+	<Elem NameU="Cap 2" Name="Chapéu 2"/>
+	<Elem NameU="Bikini" Name="Bikini"/>
+	<Elem NameU="Packet" Name="Pacote"/>
+	<Elem NameU="Beach shoes" Name="Chinelos de praia"/>
+	<Elem NameU="Beach chair 1" Name="Cadeira de praia 1"/>
+	<Elem NameU="Beach chair 2" Name="Cadeira de praia 2"/>
+	<Elem NameU="The beach area" Name="A zona de praia"/>
+	<Elem NameU="Bank Card" Name="Cartão Bancário"/>
+	<Elem NameU="Cloud" Name="Nuvem"/>
+	<Elem NameU="Aircraft 1" Name="Aeronave 1"/>
+	<Elem NameU="Aircraft 2" Name="Aeronave 2"/>
+	<Elem NameU="Aircraft 3" Name="Aeronave 3"/>
+	<Elem NameU="Car" Name="Carro"/>
+	<Elem NameU="Bus" Name="Ônibus"/>
+	<Elem NameU="Double Decker Bus" Name="Ônibus Panorâmico"/>
+	<Elem NameU="Family Car" Name="Carro Familiar"/>
+	<Elem NameU="Cruise Ship" Name="Cruzeiro"/>
+	<Elem NameU="Sailing" Name="Navegação"/>
+	<Elem NameU="Sunny" Name="Solarengo"/>
+	<Elem NameU="Cloudy" Name="Nublado"/>
+	<Elem NameU="Overcast" Name="Encoberto"/>
+	<Elem NameU="Rainy" Name="Chuvoso"/>
+	<Elem NameU="Thunderstorm" Name="Tempestade"/>
+	<Elem NameU="Thunder" Name="Relâmpago"/>
+	<Elem NameU="Heavy Snow" Name="Neve Pesada"/>
+	<Elem NameU="Rain and Snow" Name="Chuva e Neve"/>
+	<Elem NameU="Umbrella" Name="Sombrinha"/>
+	<Elem NameU="Location Mark" Name="Marca de Localização"/>
+	<Elem NameU="Compass" Name="Bússola"/>
+	<Elem NameU="People" Name="Pessoas"/>
+</Lib>

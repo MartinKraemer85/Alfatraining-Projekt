@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Business Scene 1">
+    <Elem NameU="White Collar" Name="화이트 칼라"/>
+    <Elem NameU="Sign the contact" Name="계약 맺음"/>
+    <Elem NameU="Conference" Name="회의"/>
+    <Elem NameU="Sorting files" Name="파일 찾기"/>
+    <Elem NameU="Meeting 1" Name="미팅1"/>
+    <Elem NameU="Talking" Name="대화"/>
+    <Elem NameU="Meeting 2" Name="미팅2"/>
+    <Elem NameU="Working" Name="일"/>
+    <Elem NameU="Employee" Name="직원"/>
+    <Elem NameU="Speech" Name="강연"/>
+    <Elem NameU="Manager sign files" Name="파일 싸인"/>
+    <Elem NameU="Discuss" Name="토론"/>
+    <Elem NameU="Negotiation" Name="담판"/>
+    <Elem NameU="Awards ceremony" Name="시상식"/>
+    <Elem NameU="Globalization" Name="글로벌화"/>
+    <Elem NameU="Reception" Name="리셉션"/>
+    <Elem NameU="Video conference" Name="화상 회의"/>
+    <Elem NameU="Three people meeting" Name="3인 미팅"/>
+    <Elem NameU="Two people discuss" Name="일대일 토론"/>
+    <Elem NameU="Training" Name="트레이닝"/>
+    <Elem NameU="Report work" Name="보고"/>
+    <Elem NameU="Sign contract" Name="계약 싸인"/>
+    <Elem NameU="Group meeting" Name="그룹 미팅"/>
+    <Elem NameU="Payment" Name="지급"/>
+    <Elem NameU="Secretary" Name="프론트 데스크"/>
+    <Elem NameU="Timing" Name="시간"/>
+    <Elem NameU="New idea 1" Name="뉴 아이디어1"/>
+    <Elem NameU="The horn propaganda" Name="경적 홍보"/>
+    <Elem NameU="New idea 2" Name="뉴 아이디어2"/>
+    <Elem NameU="Reporting" Name="보고"/>
+    <Elem NameU="New idea 3" Name="뉴 아이디어3"/>
+    <Elem NameU="Presentation" Name="강연"/>
+    <Elem NameU="New idea 4" Name="뉴 아이디어4"/>
+    <Elem NameU="Goal Setting" Name="목표 설정"/>
+    <Elem NameU="Checking" Name="검사"/>
+    <Elem NameU="Shopping" Name="쇼핑"/>
+    <Elem NameU="Deadline" Name="마감 날짜"/>
+    <Elem NameU="Purchase" Name="쇼핑"/>
+    <Elem NameU="Make Profit" Name="이윤 창출"/>
+    <Elem NameU="Pathway" Name="좁은 길"/>
+    <Elem NameU="Unemployment" Name="해고"/>
+    <Elem NameU="Ride a bike" Name="자전거 타기"/>
+    <Elem NameU="Business Trip" Name="출장"/>
+    <Elem NameU="Coffee time" Name="커피 타임"/>
+    <Elem NameU="By train" Name="기차 타기"/>
+    <Elem NameU="By Bus" Name="버스 타기"/>
+    <Elem NameU="By airplane" Name="비행기 타기"/>
+    <Elem NameU="Firm Framework 1" Name="회사 프레임1"/>
+    <Elem NameU="Firm Framework 2" Name="회사 프레임2"/>
+    <Elem NameU="Firm Framework 3" Name="회사 프레임3"/>
+    <Elem NameU="Firm Framework 4" Name="회사 프레임4"/>
+    <Elem NameU="Firm Framework 5" Name="회사 프레임5"/>
+    <Elem NameU="Firm Framework 6" Name="회사 프레임6"/>
+    <Elem NameU="Firm Framework 7" Name="회사 프레임7"/>
+    <Elem NameU="Firm Framework 8" Name="회사 프레임8"/>
+</Lib>

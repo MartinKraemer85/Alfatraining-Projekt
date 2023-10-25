@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Relationships">
+	<Elem NameU="Assignment" Name="指派"/>
+	<Elem NameU="Realization" Name="實現"/>
+	<Elem NameU="Triggering" Name="觸發"/>
+	<Elem NameU="Serving" Name="伺服"/>
+	<Elem NameU="Association" Name="關聯"/>
+	<Elem NameU="Provide" Name="提供"/>
+	<Elem NameU="Read Access" Name="讀取存取"/>
+	<Elem NameU="Aggregation" Name="彙總"/>
+	<Elem NameU="Composition" Name="合成"/>
+	<Elem NameU="Specialization" Name="專長"/>
+	<Elem NameU="Flow" Name="流程"/>
+	<Elem NameU="Location" Name="位置"/>
+	<Elem NameU="Grouping" Name="群組"/>
+	<Elem NameU="And Junction" Name="「及」接合"/>
+	<Elem NameU="Or Junction" Name="「或」接合"/>
+</Lib>

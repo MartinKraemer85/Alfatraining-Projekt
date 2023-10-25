@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="PPT Illustration">
+	<Elem NameU="Working" Name="工作"/>
+	<Elem NameU="Idea" Name="主意"/>
+	<Elem NameU="Recording" Name="記錄"/>
+	<Elem NameU="Exercise" Name="鍛煉"/>
+	<Elem NameU="Pressure" Name="壓力"/>
+	<Elem NameU="Checklist" Name="清單"/>
+	<Elem NameU="Wander" Name="漫步"/>
+	<Elem NameU="Running" Name="跑步"/>
+	<Elem NameU="Depressed" Name="鬱悶"/>
+	<Elem NameU="Learning" Name="學習"/>
+	<Elem NameU="Thinking" Name="思考"/>
+	<Elem NameU="Success" Name="成功"/>
+	<Elem NameU="Brainstorming" Name="腦力激盪"/>
+	<Elem NameU="Discussing" Name="討論"/>
+	<Elem NameU="Collaborate" Name="合作"/>
+	<Elem NameU="Search" Name="搜索"/>
+	<Elem NameU="Communicate" Name="交流"/>
+	<Elem NameU="Presentation" Name="介紹"/>
+	<Elem NameU="Nervours" Name="緊張"/>
+	<Elem NameU="Shopping" Name="購物"/>
+	<Elem NameU="Decision" Name="決定"/>
+	<Elem NameU="Alarm Clock" Name="鬧鐘"/>
+	<Elem NameU="Object" Name="目的"/>
+	<Elem NameU="Analyze" Name="分析"/>
+	<Elem NameU="Conversion" Name="轉換"/>
+	<Elem NameU="Calculate" Name="計算"/>
+	<Elem NameU="Plant" Name="植物"/>
+	<Elem NameU="Trophy" Name="獎杯"/>
+	<Elem NameU="Coffee" Name="咖啡"/>
+	<Elem NameU="Sand Clock" Name="沙漏"/>
+	<Elem NameU="Cup" Name="杯子"/>
+	<Elem NameU="Gear" Name="齒輪"/>
+	<Elem NameU="Trash Bin" Name="垃圾桶"/>
+	<Elem NameU="Computer" Name="計算機"/>
+	<Elem NameU="Lamp" Name="燈"/>
+	<Elem NameU="Globe" Name="地球"/>
+	<Elem NameU="Dog" Name="狗"/>
+	<Elem NameU="Puppy" Name="小狗"/>
+	<Elem NameU="Note Book" Name="筆記本"/>
+	<Elem NameU="Calendar" Name="日曆"/>
+	<Elem NameU="Cactus" Name="仙人掌"/>
+	<Elem NameU="404" Name="404"/>
+	<Elem NameU="Upward" Name="向上"/>
+	<Elem NameU="Deal" Name="交易"/>
+	<Elem NameU="Book" Name="書"/>
+</Lib>

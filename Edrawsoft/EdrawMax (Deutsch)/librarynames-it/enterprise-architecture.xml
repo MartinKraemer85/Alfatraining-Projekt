@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Enterprise Architecture">
+	<Elem NameU="Box" Name="Scatola"/>
+	<Elem NameU="Rounded Box" Name="Scatola Arrotondata"/>
+	<Elem NameU="Application" Name="Applicazione"/>
+	<Elem NameU="Component" Name="Componente"/>
+	<Elem NameU="Document" Name="Documento"/>
+	<Elem NameU="Document 2" Name="Documento 2"/>
+	<Elem NameU="App Service" Name="Servizio App"/>
+	<Elem NameU="Form" Name="Modulo"/>
+	<Elem NameU="System" Name="Sistema"/>
+	<Elem NameU="Report" Name="Rapporto"/>
+	<Elem NameU="Datebase" Name="Database"/>
+	<Elem NameU="HW Server" Name="Server HW"/>
+	<Elem NameU="Email" Name="Email"/>
+	<Elem NameU="ETL Job" Name="Lavoro ETL"/>
+	<Elem NameU="Person" Name="Persona"/>
+	<Elem NameU="Org Unit" Name="Unità Org"/>
+	<Elem NameU="Role" Name="Ruolo"/>
+	<Elem NameU="Contract" Name="Contratto"/>
+	<Elem NameU="Network" Name="Rete"/>
+	<Elem NameU="Site" Name="Sito"/>
+	<Elem NameU="Workstation" Name="Stazione di Lavoro"/>
+	<Elem NameU="Mobile Device" Name="Dispositivo Mobile"/>
+	<Elem NameU="Deployment Instace" Name="Istanza di Distribuzione"/>
+	<Elem NameU="Network Node" Name="Nodo di Rete"/>
+	<Elem NameU="Project" Name="Progetto"/>
+	<Elem NameU="Business Flow" Name="Flusso Aziendale"/>
+	<Elem NameU="Program" Name="Programma"/>
+	<Elem NameU="Goal" Name="Obiettivo"/>
+	<Elem NameU="Impact" Name="Impatto"/>
+	<Elem NameU="Role Association" Name="Associazione di Ruolo"/>
+	<Elem NameU="Fulfillment" Name="Soddisfazione"/>
+	<Elem NameU="Enterprise Container" Name="Contenitore Aziendale"/>
+	<Elem NameU="Business Model Container" Name="Contenitore Modello Aziendale"/>
+	<Elem NameU="Container" Name="Contenitore"/>
+	<Elem NameU="Governance Container" Name="Contenitore Amministrazione"/>
+</Lib>

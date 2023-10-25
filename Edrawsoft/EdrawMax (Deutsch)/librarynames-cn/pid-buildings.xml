@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Buildings">
+    <Elem NameU="Arch-style building" Name="拱式建筑"/>
+    <Elem NameU="Commercial building 1" Name="商业建筑 1"/>
+    <Elem NameU="Commercial building 2" Name="商业建筑 2"/>
+    <Elem NameU="Factory 1" Name="工厂 1"/>
+    <Elem NameU="Factory 2" Name="工厂 2"/>
+    <Elem NameU="Factory 3" Name="工厂 3"/>
+    <Elem NameU="Industrial building 1" Name="工业建筑 1"/>
+    <Elem NameU="Industrial building 2" Name="工业建筑 2"/>
+    <Elem NameU="Industrial building 3" Name="工业建筑 3"/>
+    <Elem NameU="Industrial building 4" Name="工业建筑 4"/>
+    <Elem NameU="Industrial building 5" Name="工业建筑 5"/>
+    <Elem NameU="Industrial building 6" Name="工业建筑 6"/>
+    <Elem NameU="Industrial building 7" Name="工业建筑 7"/>
+    <Elem NameU="Industrial building with slanted roof" Name="屋顶倾斜的工业建筑"/>
+    <Elem NameU="Industrial building with stack" Name="有烟囱的工业建筑"/>
+    <Elem NameU="Modular office 1" Name="模块化办公室 1"/>
+    <Elem NameU="Modular office 2" Name="模块化办公室 2"/>
+    <Elem NameU="Outdoor enclosure" Name="室外围栏"/>
+    <Elem NameU="Shelter" Name="住所"/>
+    <Elem NameU="Utility building (gray)" Name="公用事业设施建筑物（灰色）"/>
+    <Elem NameU="Utility building (green)" Name="公用事业设施建筑物（绿色）"/>
+    <Elem NameU="Pig and Bull House" Name="牲畜屋"/>
+</Lib>

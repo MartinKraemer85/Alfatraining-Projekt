@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Android UI">
+    <Elem NameU="Android Phone 1" Name="安卓手機1"/>
+    <Elem NameU="Android Phone 2" Name="安卓手機2"/>
+    <Elem NameU="Status Bar 1" Name="狀態欄1"/>
+    <Elem NameU="Status Bar 2" Name="狀態欄2"/>
+    <Elem NameU="Navigation Bar" Number="9" Name="導航欄"/>
+    <Elem NameU="Search bar" Number="2" Name="搜索欄"/>
+    <Elem NameU="Google" Name="谷歌"/>
+    <Elem NameU="Two Buttons Control" Name="兩個按鈕控件"/>
+    <Elem NameU="Three Buttons Control" Number="2" Name="三個按鈕控件"/>
+    <Elem NameU="Four Buttons Control" Name="四個按鈕控件"/>
+    <Elem NameU="Menu bar" Number="2" Name="菜單欄"/>
+    <Elem NameU="Menu Bar" Number="8" Name="菜單欄"/>
+    <Elem NameU="Search bar" Name="搜索欄"/>
+    <Elem NameU="Menu Bar" Number="2" Name="菜單欄"/>
+    <Elem NameU="Message Bar" Name="信息欄"/>
+    <Elem NameU="Slider" Number="2" Name="滑塊"/>
+    <Elem NameU="SlideUnlock 1" Name="滑鎖1"/>
+    <Elem NameU="SlideUnlock 2" Name="滑鎖2"/>
+    <Elem NameU="SlideUnlock" Number="2" Name="滑動解鎖"/>
+    <Elem NameU="LockMe Widget" Name="ockMe小部件"/>
+    <Elem NameU="Progress bar" Name="進度條"/>
+    <Elem NameU="Circular Progress View" Name="循環進度視圖"/>
+    <Elem NameU="Weather" Name="天氣"/>
+    <Elem NameU="Two Buttons Alert" Number="2" Name="兩個按鈕警報"/>
+    <Elem NameU="APP Options" Name="應用程式選項"/>
+    <Elem NameU="Options" Number="2" Name="選項"/>
+    <Elem NameU="LOG ON-OFF" Name="登錄-註銷"/>
+    <Elem NameU="Option menu" Name="選項菜單"/>
+    <Elem NameU="Option button" Name="選項按鈕"/>
+    <Elem NameU="Phone buttons" Name="電話按鈕"/>
+    <Elem NameU="Keyboard Control" Number="2" Name="鍵盤控制"/>
+    <Elem NameU="Number Keyboard" Name="數字鍵盤"/>
+    <Elem NameU="Landscape Keyboard" Name="橫向鍵盤"/>
+    <Elem NameU="Function set" Name="函數集"/>
+    <Elem NameU="App Icon" Name="圖標應用程式"/>
+    <Elem NameU="Turn On" Name="打開"/>
+    <Elem NameU="Turn Off" Name="關掉"/>
+    <Elem NameU="Button" Number="3" Name="按鈕"/>
+    <Elem NameU="Option button" Number="3" Name="選項按鈕"/>
+    <Elem NameU="Number Pad" Name="數字鍵盤"/>
+    <Elem NameU="Navigation Bar" Name="導航欄"/>
+    <Elem NameU="MENU" Name="菜單"/>
+    <Elem NameU="Time" Name="時間"/>
+    <Elem NameU="Button Bar" Name="按鈕欄"/>
+    <Elem NameU="Calendar" Name="日曆"/>
+    <Elem NameU="Delete program" Name="刪除程式"/>
+    <Elem NameU="Android" Name="安卓"/>
+    <Elem NameU="Voice Message" Number="2" Name="語音留言"/>
+    <Elem NameU="Text" Name="文本"/>
+    <Elem NameU="Phone number of the input field" Name="輸入字段的電話號碼"/>
+    <Elem NameU="Message bar" Name="信息欄"/>
+    <Elem NameU="Navigation Dots 1" Name="導航點1"/>
+    <Elem NameU="Navigation Dots 2" Name="導航點2"/>
+</Lib>

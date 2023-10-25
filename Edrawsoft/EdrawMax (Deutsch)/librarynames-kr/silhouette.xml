@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Silhouette">
+    <Elem NameU="Woman 1" Name="여자1"/>
+    <Elem NameU="Woman 2" Name="여자2"/>
+    <Elem NameU="Woman 3" Name="여자3"/>
+    <Elem NameU="Woman 4" Name="여자4"/>
+    <Elem NameU="Woman 5" Name="여자5"/>
+    <Elem NameU="Woman 6" Name="여자6"/>
+    <Elem NameU="Woman 7" Name="여자7"/>
+    <Elem NameU="Woman 8" Name="여자8"/>
+    <Elem NameU="Woman 9" Name="여자9"/>
+    <Elem NameU="Man 1" Name="남자1"/>
+    <Elem NameU="Man 2" Name="남자2"/>
+    <Elem NameU="Man 3" Name="남자3"/>
+    <Elem NameU="Man 4" Name="남자4"/>
+    <Elem NameU="Man 5" Name="남자5"/>
+    <Elem NameU="Man 6" Name="남자6"/>
+    <Elem NameU="Man 8" Name="남자8"/>
+    <Elem NameU="Man 7" Name="남자7"/>
+    <Elem NameU="Shake Hands 1" Name="악수1"/>
+    <Elem NameU="Shake Hands 2" Name="악수2"/>
+    <Elem NameU="Woman Go to Work" Name="출근하는 여자"/>
+    <Elem NameU="Woman Walking" Name="걷는 여자"/>
+    <Elem NameU="Man Go to Work" Name="걷는 남자"/>
+    <Elem NameU="Talk" Name="얘기"/>
+    <Elem NameU="Rest" Name="휴식"/>
+    <Elem NameU="Man Play Computer" Name="컴퓨터 사용하는 남자"/>
+    <Elem NameU="Man Business Travel" Name="비지니스 여행 중인 남자"/>
+    <Elem NameU="On the Phone" Name="전화중"/>
+    <Elem NameU="Talk on the Phone 1" Name="전화중"/>
+    <Elem NameU="Talk on the Phone 2" Name="전화중"/>
+    <Elem NameU="Call Someone" Name="전화 하다"/>
+    <Elem NameU="Talk with Loudspeaker" Name="스피커로 얘기하다"/>
+    <Elem NameU="Woman with Trophy" Name="트로피 받은 여자"/>
+    <Elem NameU="Man with Trophy" Name="트로피 받은 남자"/>
+    <Elem NameU="Thinking 1" Name="사고 1"/>
+    <Elem NameU="Thinking 2" Name="사고 2"/>
+    <Elem NameU="Cheers" Name="건배"/>
+    <Elem NameU="Man Celebrating" Name="축하하는 남자"/>
+    <Elem NameU="Business Talk" Name="비지니스 토크"/>
+    <Elem NameU="Shake Hands 3" Name="악수 3"/>
+    <Elem NameU="Working" Name="일"/>
+    <Elem NameU="Cheering" Name="건배"/>
+    <Elem NameU="People Cheering" Name="건배하는 사람들"/>
+    <Elem NameU="Girl Reading" Name="책 읽는 여자"/>
+    <Elem NameU="Reading with Friend" Name="친구와 책 읽다"/>
+    <Elem NameU="School Boy" Name="남자애"/>
+    <Elem NameU="School Girl" Name="여자애"/>
+    <Elem NameU="Champion" Name="챔피언"/>
+    <Elem NameU="Shopping" Number="3" Name="쇼핑"/>
+    <Elem NameU="Business Travel" Name="출장"/>
+    <Elem NameU="Shopping" Number="2" Name="쇼핑"/>
+    <Elem NameU="Shopping Together" Name="함께 쇼핑"/>
+    <Elem NameU="Shopping with Friends" Number="2" Name="친구와 쇼핑"/>
+    <Elem NameU="Shopping with Cart" Name="쇼핑 카트"/>
+    <Elem NameU="Shopping" Name="쇼핑"/>
+    <Elem NameU="Playing Drums" Name="드럼치다"/>
+    <Elem NameU="Playing Piano" Name="피아노 치다"/>
+    <Elem NameU="Playing Violin" Name="바이올린"/>
+    <Elem NameU="Man Playing Violin" Name="바이올린 연주하는 남자"/>
+    <Elem NameU="Playing Flute" Name="플루트 연주"/>
+    <Elem NameU="Woman Singer" Name="여가수"/>
+    <Elem NameU="Man Singer" Name="남가수"/>
+    <Elem NameU="Playing Saxophone" Name="섹소폰 연주"/>
+    <Elem NameU="Ballet Dancer" Name="발레리노"/>
+    <Elem NameU="Interview" Name="인터뷰"/>
+    <Elem NameU="Taking a Photo" Number="3" Name="사진"/>
+    <Elem NameU="Go Travelling" Name="여행"/>
+    <Elem NameU="Brothers" Name="형제"/>
+    <Elem NameU="Couple" Name="커플"/>
+    <Elem NameU="Travel Alone" Name="혼자 여행"/>
+    <Elem NameU="Happy Family" Name="행복한 가정"/>
+</Lib>

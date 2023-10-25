@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Transmission Path">
+	<Elem NameU="Wire" Name="Cavo"/>
+	<Elem NameU="Straight bus" Name="Bus dritto"/>
+	<Elem NameU="Junction" Name="Giunzione"/>
+	<Elem NameU="Junction/ crossing" Name="Giunzione / attraversamento"/>
+	<Elem NameU="Terminal" Name="Terminale"/>
+	<Elem NameU="Terminal list" Name="Elenco terminale"/>
+	<Elem NameU="Terminal block" Name="Blocco terminale"/>
+	<Elem NameU="Terminal 3-phase" Name="Terminale a 3 fasi"/>
+	<Elem NameU="Test point" Name="Punto di prova"/>
+	<Elem NameU="Label" Name="Etichetta"/>
+	<Elem NameU="Transmission path" Name="Percorso di trasmissione"/>
+	<Elem NameU="Left direction flow" Name="Flusso direzionale sinistro"/>
+	<Elem NameU="Right direction flow" Name="Flusso direzionale destro"/>
+	<Elem NameU="Outware flow" Name="Flusso esterno"/>
+	<Elem NameU="Inware flow" Name="Flusso interno"/>
+	<Elem NameU="Line / Cable" Name="Linea / Cavo"/>
+	<Elem NameU="Underground cable" Name="Cavo sottoterra"/>
+	<Elem NameU="Submarine cable" Name="Cavo sottomarino"/>
+	<Elem NameU="Loaded cable" Name="Cavo carico"/>
+	<Elem NameU="Cable termination" Name="Terminazione cavo"/>
+	<Elem NameU="Lead group" Name="Gruppo terminale"/>
+	<Elem NameU="2 conductors cable" Name="cavo a 2 conduttori"/>
+	<Elem NameU="Cable group" Name="Gruppo di cavi"/>
+	<Elem NameU="Anticreepage device" Name="Dispositivo anti-filtrazione"/>
+	<Elem NameU="Line concentrator" Name="Concentratore"/>
+	<Elem NameU="Overground enclosure" Name="Involucro sopra suolo"/>
+	<Elem NameU="Optical cable" Name="Cavo ottico"/>
+	<Elem NameU="Telephone line" Name="Linea telefonica"/>
+	<Elem NameU="Telegraphy line" Name="Linea telegrafica"/>
+	<Elem NameU="Video line" Name="Linea video"/>
+	<Elem NameU="Two-wire line" Name="Linea a due cavi"/>
+	<Elem NameU="Four-wire line" Name="Linea a 4 cavi"/>
+	<Elem NameU="Bus width" Name="Spessore bus"/>
+	<Elem NameU="Multi-line bus" Name="Bus multi-linea"/>
+	<Elem NameU="Multi-line bus elbow" Name="Bus curvo multi-linea"/>
+	<Elem NameU="Elbow bus" Name="Bus curvo"/>
+</Lib>

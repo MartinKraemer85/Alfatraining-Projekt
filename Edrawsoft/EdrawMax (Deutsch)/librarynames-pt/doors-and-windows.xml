@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Doors and Windows">
+	<Elem NameU="Window" Name="Janela"/>
+	<Elem NameU="Open Window" Name="Abrir Janela"/>
+	<Elem NameU="Glider Window" Name="Janela Planadora"/>
+	<Elem NameU="Casement Window" Name="Janela de Caixilho"/>
+	<Elem NameU="Bay window" Name="Janela de baía"/>
+	<Elem NameU="Double Casement Window" Name="Janela de Caixilho Duplo"/>
+	<Elem NameU="Opening" Name="Abertura"/>
+	<Elem NameU="Door" Name="Porta"/>
+	<Elem NameU="Double Hung Door" Name="Porta de Duas Folhas"/>
+	<Elem NameU="Double Door" Name="Porta Dupla"/>
+	<Elem NameU="Uneven Door" Name="Porta Desigual"/>
+	<Elem NameU="Opposing Door" Name="Porta Oposta"/>
+	<Elem NameU="Revolving Door" Name="Porta Rotativa"/>
+	<Elem NameU="Sliding Door" Name="Porta de Correr"/>
+	<Elem NameU="Double Sliding Door" Name="Porta de Correr Dupla"/>
+	<Elem NameU="By-pass Door" Name="Porta de Passar"/>
+	<Elem NameU="Bi-fold Door" Name="Porta de Dupla dobra"/>
+	<Elem NameU="Double Bi-fold Door" Name="Porta de Dupla dobra Dupla"/>
+	<Elem NameU="Sliding Glass Door" Name="Porta de Correr de Vidro"/>
+	<Elem NameU="Overhead Door" Name="Porta Suspensa"/>
+	<Elem NameU="Garden Window" Name="Janela de Jardim"/>
+	<Elem NameU="Folding Door " Name="Porta de Dobrar"/>
+</Lib>

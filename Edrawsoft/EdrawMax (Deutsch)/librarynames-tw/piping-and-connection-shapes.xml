@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Piping and Connection Shapes">
+    <Elem NameU="Major pipeline" Name="主管道"/>
+    <Elem NameU="Connect pipeline" Name="副管道"/>
+    <Elem NameU="Major Straight line pipe" Name="主管線"/>
+    <Elem NameU="Straight line pipe" Name="直管線"/>
+    <Elem NameU="Process connection" Name="過程連接"/>
+    <Elem NameU="Future line" Name="未來線"/>
+    <Elem NameU="Battery limit line" Name="電池極限線"/>
+    <Elem NameU="Electronic serial" Name="電子序列"/>
+    <Elem NameU="Heat trace" Name="熱軌道"/>
+    <Elem NameU="Side by side" Name="並排"/>
+    <Elem NameU="Top-bottom" Name="從上到下"/>
+    <Elem NameU="One-to-many" Name="一對多"/>
+    <Elem NameU="Traced line" Name="追蹤線"/>
+    <Elem NameU="Multi-lines" Name="多線"/>
+    <Elem NameU="Mid arrow" Name="箭頭"/>
+    <Elem NameU="Multi-lines elbow" Name="多線彎線"/>
+    <Elem NameU="Top to top" Name="頂到頂"/>
+    <Elem NameU="Electrical signal" Name="電信號"/>
+    <Elem NameU="Sonic signal" Name="聲波信號"/>
+    <Elem NameU="Nuclear" Name="原子信號"/>
+    <Elem NameU="Pneumatic control" Name="氣動控制"/>
+    <Elem NameU="Pneumatic binary signal line" Name="氣動二進制信號線"/>
+    <Elem NameU="Electric signal line" Name="電信號線"/>
+    <Elem NameU="Electric binary signal line" Number="2" Name="電動二進制信號線"/>
+    <Elem NameU="Hydraulic signal line" Name="液壓信號線"/>
+    <Elem NameU="Sleeve joint" Name="套接"/>
+    <Elem NameU="General joint" Name="常規節點"/>
+    <Elem NameU="Butt weld" Name="對接焊接"/>
+    <Elem NameU="Welded connection" Name="焊接連接"/>
+    <Elem NameU="Mechanical Link" Name="機械連桿"/>
+    <Elem NameU="Soldered/ Solvent" Name="焊料/溶劑"/>
+    <Elem NameU="Double Containment" Name="雙重密封"/>
+    <Elem NameU="Flange" Name="帶法蘭/用螺栓固定"/>
+    <Elem NameU="End caps" Name="端帽"/>
+    <Elem NameU="End caps 2" Name="端帽 2"/>
+    <Elem NameU="Breather" Name="排氣管"/>
+    <Elem NameU="Drip pan elbow" Name="盛液盤"/>
+    <Elem NameU="Flange" Name="帶法蘭/用螺栓固定"/>
+    <Elem NameU="Union" Name="聯合"/>
+    <Elem NameU="Socket weld" Name="承插焊"/>
+    <Elem NameU="Screwed connection" Name="螺紋連接"/>
+    <Elem NameU="Orifice plate" Name="孔板"/>
+    <Elem NameU="Flanged dummy cover" Name="法蘭假蓋"/>
+    <Elem NameU="Electrical Bounded" Name="電子分界"/>
+    <Elem NameU="Slope requirements line" Name="斜率的要求"/>
+    <Elem NameU="Reducer" Name="減管徑"/>
+    <Elem NameU="Electrically insulated" Name="電絕緣"/>
+    <Elem NameU="In-line mixer" Name="流入線上混合器"/>
+    <Elem NameU="Separator" Name="分離器"/>
+    <Elem NameU="Bursting disc" Name="防爆膜"/>
+    <Elem NameU="Flame arrester" Name="滅火器"/>
+    <Elem NameU="Drain silencer" Name="排水管消音器"/>
+    <Elem NameU="Exhaust silencer" Name="排氣消聲器"/>
+    <Elem NameU="Strainer" Name="過濾器"/>
+    <Elem NameU="Exhaust head" Name="排氣頭"/>
+    <Elem NameU="Triangle separator" Name="三角形分離器"/>
+    <Elem NameU="Triangle separator 2" Name="三角形分離器 2"/>
+    <Elem NameU="Tundish" Name="澆注盤"/>
+    <Elem NameU="Open vent" Name="敞口式通風管"/>
+    <Elem NameU="Syphon drain" Name="彎管排水管"/>
+    <Elem NameU="Hydrant" Name="消防栓"/>
+    <Elem NameU="Swivel joint" Name="旋轉接頭"/>
+    <Elem NameU="Expansion joint" Name="伸縮接頭"/>
+    <Elem NameU="Hose" Name="軟管"/>
+    <Elem NameU="Flexible hose" Name="撓性軟管"/>
+    <Elem NameU="Flow indicator" Name="水流指示器"/>
+    <Elem NameU="Bell mouth" Name="喇叭口"/>
+    <Elem NameU="Removable spool" Name="可拆卸短管"/>
+    <Elem NameU="Basket strainer" Name="篮式粗滤器"/>
+    <Elem NameU="Breather" Name="排氣管"/>
+    <Elem NameU="Damper" Name="阻尼器"/>
+    <Elem NameU="Breakthrough" Name="擊穿"/>
+    <Elem NameU="Orifice" Name="孔口"/>
+    <Elem NameU="Clamped flange coupling" Name="夾式法蘭接頭"/>
+    <Elem NameU="Compensate" Name="補償"/>
+    <Elem NameU="Coupling" Name="耦合"/>
+    <Elem NameU="Y-type strainer" Name="Y型過濾器"/>
+    <Elem NameU="Y-strainer" Name="Y型過濾器"/>
+    <Elem NameU="Diverter valve" Name="分流閥"/>
+    <Elem NameU="Blind disc" Name="盲盤"/>
+    <Elem NameU="Spectacle blind" Name="帶雙圈的盲板"/>
+    <Elem NameU="Interchangeable blind" Name="可互換盲點"/>
+    <Elem NameU="Open disc" Name="圓盤"/>
+    <Elem NameU="Orifice plate" Name="孔板"/>
+    <Elem NameU="Pulsation dampener" Name="脈動阻尼器"/>
+    <Elem NameU="Duplex strainer" Name="複式過濾器"/>
+    <Elem NameU="Vent silencer" Name="通風口消音器"/>
+    <Elem NameU="Basket strainer" Name="籃式粗濾器"/>
+    <Elem NameU="Cone strainer" Name="圓錐過濾器"/>
+    <Elem NameU="Detonation arrestor" Name="防爆器"/>
+    <Elem NameU="Flame arrestor" Name="滅火器 2"/>
+    <Elem NameU="In-line silencer" Name="流入線消音器"/>
+    <Elem NameU="Steam trap" Name="疏水閥"/>
+    <Elem NameU="Desuperheater" Name="減熱器"/>
+    <Elem NameU="Ejector or eductor" Name="噴射器/排泄器"/>
+    <Elem NameU="Exhaust head" Name="排氣頭"/>
+    <Elem NameU="Rotary valve" Name="旋轉閥"/>
+    <Elem NameU="Expansion joint 2" Name="伸縮縫 2"/>
+    <Elem NameU="Bursting disc" Name="防爆膜"/>
+    <Elem NameU="Electrically insulated" Name="電絕緣"/>
+    <Elem NameU="Flame arrestor" Name="滅火器 2"/>
+    <Elem NameU="Explosion-Proof flame arrestor" Name="防爆阻火器1"/>
+    <Elem NameU="Detonation-Proof flame arrestor" Name="防爆阻火器2"/>
+    <Elem NameU="Fire-Resistant flame arrestor" Name="防火阻火器"/>
+    <Elem NameU="Fire-Resistant, Explosion-Proof flame arrestor" Name="防火防爆阻火器"/>
+    <Elem NameU="Pilot operated relief valve with renote sensor" Name="先導式安全閥"/>
+    <Elem NameU="Valve manifold" Name="閥組"/>
+</Lib>

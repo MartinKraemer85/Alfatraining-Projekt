@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="AWS Application Integration">
+	<Elem NameU="Application-Integration" Name="Integrazione Applicazione"/>
+	<Elem NameU="AWS-Console-Mobile-Application" Name="Applicazione mobile della console AWS"/>
+	<Elem NameU="AWS-Express-Workflows" Name="Flussi di lavoro AWS Express"/>
+	<Elem NameU="AWS-Step-Functions" Name="Funzioni AWS Step"/>
+	<Elem NameU="AppSync" Name="AppSync"/>
+	<Elem NameU="EventBridge" Name="EventBridge"/>
+	<Elem NameU="EventBridge_Custom-event-bus_resource-icon" Name="EventBridge Icona risorsa bus eventi personalizzati"/>
+	<Elem NameU="EventBridge_Default-event-bus_resource-icon" Name="EventBridge Icona risorsa bus eventi predefinita"/>
+	<Elem NameU="EventBridge_Saas-Partner-event-bus_resource-icon" Name="Icona risorsa bus eventi EventBridge Saas Partner"/>
+	<Elem NameU="MQ" Name="MQ"/>
+	<Elem NameU="Simple-Notification-Service-SNS" Name="Servizio di notifica semplice SNS  "/>
+	<Elem NameU="Simple-Notification-Service-SNS_Email-Notification" Name="Notifica email SNS del servizio di notifica semplice"/>
+	<Elem NameU="Simple-Notification-Service-SNS_HTTP-Notification" Name="Notifica HTTP del servizio di notifica semplice SNS"/>
+	<Elem NameU="Simple-Notification-Service-SNS_Topic" Name="Argomento SNS del servizio di notifica semplice"/>
+	<Elem NameU="Simple-Queue-Service-SQS" Name="Simple Queue Service SQS"/>
+	<Elem NameU="Simple-Queue-Service-SQS_Message" Name="Informazioni SQS sul servizio di coda semplice"/>
+	<Elem NameU="Simple-Queue-Service-SQS_Queue" Name="Coda SQS del servizio di coda semplice"/>
+	<Elem NameU="Application-Integration_Event_Resource" Name="Risorse per attività di integrazione delle applicazioni"/>
+</Lib>

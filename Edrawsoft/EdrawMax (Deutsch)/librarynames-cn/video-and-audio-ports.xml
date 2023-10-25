@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Video and Audio Ports">
+    <Elem NameU="RCA Plug" Name="RCA 接口"/>
+    <Elem NameU="RCA Plug 2" Name="RCA 接口 2"/>
+    <Elem NameU="RCA Plug 3" Number="2" Name="RCA 接口 3"/>
+    <Elem NameU="RCA Plug 4" Name="RCA 接口 4"/>
+    <Elem NameU="RCA Jack" Name="RCA 接口"/>
+    <Elem NameU="Cable Jack" Name="电缆盘接口"/>
+    <Elem NameU="Cable Plug" Name="电缆接口"/>
+    <Elem NameU="RCA Jack 2" Name="RCA插口 2"/>
+    <Elem NameU="Digital input" Name="数字输入"/>
+    <Elem NameU="Digital input 2" Name="数字输入 2"/>
+    <Elem NameU="VGA Plug" Name="VGA 接口"/>
+    <Elem NameU="VGA Jack" Name="VGA 接口"/>
+    <Elem NameU="Jack 2" Name="接口 2"/>
+    <Elem NameU="Video input" Name="视频输入"/>
+    <Elem NameU="HDMI Plug" Name="HDMI 接口"/>
+    <Elem NameU="HDMI Jack" Name="HDMI 接口"/>
+    <Elem NameU="USB Plug" Name="USB 接口"/>
+    <Elem NameU="S terminal Jack" Name="S 端子"/>
+    <Elem NameU="S terminal Plug" Name="S 端子接口"/>
+    <Elem NameU="DVI-I(Single Link)" Name="DVI-I(单段链路)"/>
+    <Elem NameU="DVI-I(Dual Link)" Name="DVI-I(双链路)"/>
+    <Elem NameU="DVI-D(Single Link)" Name="DVI-D(单段链路)"/>
+    <Elem NameU="DVI-D(Dual Link)" Name="DVI-D(双链路)"/>
+    <Elem NameU="DVI-A" Name="DVI-A"/>
+    <Elem NameU="Coaxial TV" Number="4" Name="同轴 TV"/>
+    <Elem NameU="XLR Neutrik" Name="XLR Neutrik"/>
+    <Elem NameU="Display" Name="显示器接头"/>
+    <Elem NameU="Mini Display" Name="迷你显示器接头"/>
+    <Elem NameU="F Connector" Name="F 接头"/>
+    <Elem NameU="DFP" Name="DFP"/>
+    <Elem NameU="DFP Jack" Name="DFP 接口"/>
+    <Elem NameU="SUPER VGA" Name="超级视频图形适配器"/>
+    <Elem NameU="Mini Display Jack" Name="迷你显示器接头"/>
+    <Elem NameU="USB Jack" Number="2" Name="USB 接口"/>
+    <Elem NameU="Display Jack" Name="显示器接口"/>
+    <Elem NameU="Jack" Name="接口"/>
+    <Elem NameU="Coaxial TV Jack" Name="同轴 TV 接口"/>
+    <Elem NameU="Jack" Number="3" Name="接口"/>
+    <Elem NameU="TV" Name="电视"/>
+    <Elem NameU="Computer" Name="电脑"/>
+    <Elem NameU="Devices" Number="6" Name="设备"/>
+</Lib>

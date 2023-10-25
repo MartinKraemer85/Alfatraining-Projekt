@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Cisco Safe Capability Icons">
+	<Elem NameU="Access Control Using TrustSec" Name="Controllo degli Accessi con TrustSec"/>
+	<Elem NameU="Analysis/Correlation" Name="Analisi/Correlazione"/>
+	<Elem NameU="Anomaly Detection" Name="Rilevamento Anomalie"/>
+	<Elem NameU="Anti-Malware" Name="Anti-Malware"/>
+	<Elem NameU="Anti-Spam" Name="Anti-Spam"/>
+	<Elem NameU="Anti-Virus" Name="Anti-Virus"/>
+	<Elem NameU="Application" Name="Applicazione"/>
+	<Elem NameU="Application Visibility Control (AVC)" Name="Controllo Visibilità Applicazione (AVC)"/>
+	<Elem NameU="Client Based Security" Name="Sicurezza Basata su Client"/>
+	<Elem NameU="Cloud Web Security" Name="Sicurezza Cloud Web"/>
+	<Elem NameU="Conference Bridge" Name="Ponte di Conferenza"/>
+	<Elem NameU="Data Loss Prevention (DLP)" Name="Prevenzione Perdita Dati (DLP)"/>
+	<Elem NameU="Database" Name="Database"/>
+	<Elem NameU="Distributed Denial of Service Protection" Name="Protezione per Negazione Distribuita del Servizio"/>
+	<Elem NameU="DNS" Name="DNS"/>
+	<Elem NameU="Email Encryption" Name="Cifratura Email"/>
+	<Elem NameU="Email Security" Name="Sicurezza Email"/>
+	<Elem NameU="Fabric Switching" Name="Switching Fabric"/>
+	<Elem NameU="Firewall" Name="Muro di fuoco"/>
+	<Elem NameU="Virtual Firewall" Name="Firewall Virtuale"/>
+	<Elem NameU="Flow Analytics" Name="Analisi Flusso"/>
+	<Elem NameU="Identity Authorization" Name="Autorizzazione Identità"/>
+	<Elem NameU="Identity Authorization (ALT)" Name="Autorizzazione Identità (ALT)"/>
+	<Elem NameU="Intrusion Detection" Name="Rilevamento Intrusione"/>
+	<Elem NameU="Intrusion Prevention" Name="Prevenzione Intrusione"/>
+	<Elem NameU="L2 Switching" Name="Switch L2"/>
+	<Elem NameU="Virtual L2 switching" Name="Switch L2 Virtuale"/>
+	<Elem NameU="Policy/Configuration.79" Name="Politica/Configurazione.79"/>
+	<Elem NameU="L2/L3 Network" Name="Rete L2/L3"/>
+	<Elem NameU="L2/L3 Network Virtual" Name="Rete Virtuale L2/L3"/>
+	<Elem NameU="L3 Switching" Name="Switch L3"/>
+	<Elem NameU="Load Balancer" Name="Equilibratore di Carico"/>
+	<Elem NameU="Logging/Reporting" Name="Registrazione/Generazione di Report"/>
+	<Elem NameU="Malware Sandbox" Name="Sandbox per Malware"/>
+	<Elem NameU="Mobile Device Management (MDM)" Name="Gestione Dispositivi Mobili (MDM)"/>
+	<Elem NameU="Monitoring" Name="Monitoraggio"/>
+	<Elem NameU="Posture Assessment" Name="Verifica Posturale"/>
+	<Elem NameU="Routing" Name="Routing"/>
+	<Elem NameU="Server Based Security" Name="Sicurezza Basata su Server"/>
+	<Elem NameU="SSL/TLS Offload" Name="Scarico SSL/TLS"/>
+	<Elem NameU="Storage" Name="Archiviazione"/>
+	<Elem NameU="Threat Intelligence" Name="Intelligenza della Minaccia"/>
+	<Elem NameU="Time Synchronization" Name="Sincronizzazione Oraria"/>
+	<Elem NameU="User" Name="Utente"/>
+	<Elem NameU="Video" Name="Video"/>
+	<Elem NameU="Virtual Private Network (VPN)" Name="Network Virtuale Privato (VPN)"/>
+	<Elem NameU="VPN Concentrator" Name="Concentratore VPN"/>
+	<Elem NameU="Virtualized Capability" Name="Capacità Virtualizzata"/>
+	<Elem NameU="Voice" Name="Voce"/>
+	<Elem NameU="Vulnerability Management" Name="Gestione Vulnerabilità"/>
+	<Elem NameU="Web Application Firewall" Name="Firewall per Applicazione Web"/>
+	<Elem NameU="Web Reputation/Filtering/DCS" Name="Filtro Reputazione/DCS Web"/>
+	<Elem NameU="Web Security" Name="Sicurezza Web"/>
+	<Elem NameU="Wireless Connection" Name="Connessione Wireless"/>
+	<Elem NameU="Wireless Intrusion Detection System (WIDS)" Name="Sistema per il Rilevamento di Intrusioni Wireless (WIDS)"/>
+	<Elem NameU="Wireless Intrusion Prevention System (WIPS)" Name="Sistema per la Prevenzione di Intrusioni Wireless (WIPS)"/>
+</Lib>

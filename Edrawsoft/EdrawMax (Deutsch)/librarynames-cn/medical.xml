@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Medical">
+    <Elem NameU="Woman" Name="女人"/>
+    <Elem NameU="Man" Name="男人"/>
+    <Elem NameU="Molecular Structure" Name="分子结构"/>
+    <Elem NameU="Cerebrum" Name="大脑"/>
+    <Elem NameU="Heart" Name="心脏"/>
+    <Elem NameU="DNA" Name="基因"/>
+    <Elem NameU="Electrocardiogram" Name="心电图"/>
+    <Elem NameU="Baby" Name="婴儿"/>
+    <Elem NameU="Family" Name="家庭"/>
+    <Elem NameU="Analysis" Name="分析"/>
+    <Elem NameU="Report" Name="报告"/>
+    <Elem NameU="Ambulance" Name="救护车"/>
+    <Elem NameU="Medical box" Name="急救箱"/>
+    <Elem NameU="Respirator" Name="呼吸器"/>
+    <Elem NameU="Stethoscope" Name="听诊器"/>
+    <Elem NameU="Heart with Cross" Name="红十字会"/>
+    <Elem NameU="Pill" Name="药丸"/>
+    <Elem NameU="Capsule" Name="胶囊"/>
+    <Elem NameU="Hospital" Name="医院"/>
+    <Elem NameU="Microscope" Name="显微镜"/>
+    <Elem NameU="Thermometer" Name="体温计"/>
+    <Elem NameU="Test" Name="测试"/>
+    <Elem NameU="Test 2" Name="测试"/>
+    <Elem NameU="Rehabilitation Equipment" Name="康复设备"/>
+    <Elem NameU="Walking Stick" Name="拐杖"/>
+    <Elem NameU="Walking Stick 2" Name="拐杖"/>
+    <Elem NameU="Wheelchair" Name="轮椅"/>
+    <Elem NameU="Rehab Equipment" Name="康复设备"/>
+    <Elem NameU="Rehab Equipment 1" Name="康复设备"/>
+    <Elem NameU="Rehab Equipment 2" Name="康复设备"/>
+    <Elem NameU="Rehab Equipment 3" Name="康复设备"/>
+    <Elem NameU="Rehab Equipment 4" Name="康复设备"/>
+    <Elem NameU="Hospital Bed 1" Name="病床"/>
+    <Elem NameU="Hospital Bed 2" Name="病床"/>
+    <Elem NameU="Hospital Bed 3" Name="病床"/>
+    <Elem NameU="Operating table" Name="手术台"/>
+    <Elem NameU="Scale" Name="秤"/>
+    <Elem NameU="Hazard Warning Sign" Name="有害警告标志"/>
+    <Elem NameU="Handicap Sign" Name="障碍人士通道"/>
+    <Elem NameU="Plastic Infusion Bag" Name="塑料输液袋"/>
+    <Elem NameU="Nurse Cap" Name="护士帽"/>
+    <Elem NameU="Injector" Name="注射器"/>
+    <Elem NameU="Tooth" Name="牙齿"/>
+    <Elem NameU="Liver" Name="肝"/>
+    <Elem NameU="Lung" Name="肺"/>
+    <Elem NameU="Stomach" Name="胃"/>
+    <Elem NameU="Spleen" Name="脾"/>
+    <Elem NameU="Ear" Name="耳朵"/>
+    <Elem NameU="Intestines" Name="肠"/>
+    <Elem NameU="X-ray Film" Name="X光片"/>
+    <Elem NameU="X-ray Film (Broken Bone)" Name="X光片（骨折)"/>
+    <Elem NameU="Doctor" Name="医生"/>
+    <Elem NameU="Nurse" Name="护士"/>
+    <Elem NameU="Pills" Name="药丸"/>
+    <Elem NameU="Medicine Bottle" Name="药瓶"/>
+    <Elem NameU="Virus 1" Name="病毒"/>
+    <Elem NameU="Virus 2" Name="病毒"/>
+    <Elem NameU="Heart-shaped electrocardiogram (ecg)" Name="心形心电图"/>
+    <Elem NameU="Drinking" Name="喝"/>
+</Lib>

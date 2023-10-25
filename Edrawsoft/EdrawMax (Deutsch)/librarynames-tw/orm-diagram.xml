@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="ORM Diagram">
+    <Elem NameU="Entity" Name="實體"/>
+    <Elem NameU="Value" Name="值"/>
+    <Elem NameU="Unary" Name="一元"/>
+    <Elem NameU="Binary" Name="两元"/>
+    <Elem NameU="Vertical binary" Name="垂直兩元"/>
+    <Elem NameU="Ternay" Name="三元"/>
+    <Elem NameU="Quaternary" Name="四元"/>
+    <Elem NameU="Exclusion constraint" Name="排斥約束"/>
+    <Elem NameU="Ext.Freq.constraint" Name="外部頻率約束"/>
+    <Elem NameU="Frequency constraint" Name="頻率約束"/>
+    <Elem NameU="Index annotation" Name="索引批註"/>
+    <Elem NameU="Ext.P constraint" Name="外部主要約束"/>
+    <Elem NameU="Mandatory constraint" Name="強制約束"/>
+    <Elem NameU="Ext.Mand constraint" Name="外部強制約束"/>
+    <Elem NameU="Ext.Uniq constraint" Name="外部唯一約束"/>
+    <Elem NameU="constraint connector" Name="約束連接線"/>
+    <Elem NameU="Equality constraint" Name="等式約束"/>
+    <Elem NameU="P constraint" Name="主要約束"/>
+    <Elem NameU="Ring constraint" Name="循環約束"/>
+    <Elem NameU="Subset constraint" Name="子集約束"/>
+    <Elem NameU="Mand.Role connector" Name="強制角色連接線"/>
+    <Elem NameU="Role connector" Name="角色連接線"/>
+    <Elem NameU="Subtype connector" Name="子類型連接線"/>
+    <Elem NameU="Left uniqueness constranit" Name="左唯一性約束"/>
+    <Elem NameU="Uniqueness constraint" Name="唯一性約束"/>
+    <Elem NameU="Middle uniqueness constraint" Name="中間唯一性約束"/>
+    <Elem NameU="Right uniqueness constraint" Name="右唯一性约束"/>
+</Lib>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Cause and Effect Diagram">
+    <Elem NameU="Fish frame" Name="생선 프레임"/>
+    <Elem NameU="Fishbone" Name="생선뼈"/>
+    <Elem NameU="Thick Mainframe" Name="메인 프레임"/>
+    <Elem NameU="Effect" Number="3" Name="효과"/>
+    <Elem NameU="Category" Number="2" Name="카테고리"/>
+    <Elem NameU="Rectangle Category" Number="2" Name="사각형 카테고리"/>
+    <Elem NameU="Primary Cause" Number="2" Name="주요 원인"/>
+    <Elem NameU="Secondary Cause" Number="6" Name="보조 원인"/>
+    <Elem NameU="Ellipse" Name="타원"/>
+    <Elem NameU="Rectangle" Name="사각형"/>
+    <Elem NameU="Fishbone Node" Name="생선뼈 노드"/>
+</Lib>

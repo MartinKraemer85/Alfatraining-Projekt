@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Doors and Windows">
+    <Elem NameU="Window" Name="창문"/>
+    <Elem NameU="Open Window" Number="4" Name="열린 창문"/>
+    <Elem NameU="Glider Window" Name="미닫이 창"/>
+    <Elem NameU="Casement Window" Name="여닫이 창"/>
+    <Elem NameU="Bay window" Name="베이 창"/>
+    <Elem NameU="Double Casement Window" Name="더블 케이스 윈도우"/>
+    <Elem NameU="Opening" Name="열림"/>
+    <Elem NameU="Door" Name="문"/>
+    <Elem NameU="Double Hung Door" Name="더블 헝 도어"/>
+    <Elem NameU="Double Door" Name="Double Door"/>
+    <Elem NameU="Uneven Door" Name="고르지 않은 문"/>
+    <Elem NameU="Opposing Door" Name="반대문"/>
+    <Elem NameU="Revolving Door" Name="회전문"/>
+    <Elem NameU="Folding Door " Name="접문"/>
+    <Elem NameU="Sliding Door" Name="슬라이딩 도어"/>
+    <Elem NameU="Double Sliding Door" Name="더블 슬라이딩 도어"/>
+    <Elem NameU="By-pass Door" Name="바이 패스 도어"/>
+    <Elem NameU="Bi-fold Door" Name="이중 접이식 도어"/>
+    <Elem NameU="Double Bi-fold Door" Name="더블 이중 접이식 도어"/>
+    <Elem NameU="Sliding Glass Door" Name="슬라이딩 글래스 도어"/>
+    <Elem NameU="Overhead Door" Name="밀어올림식 문"/>
+    <Elem NameU="Garden Window" Name="가든 창문"/>
+</Lib>

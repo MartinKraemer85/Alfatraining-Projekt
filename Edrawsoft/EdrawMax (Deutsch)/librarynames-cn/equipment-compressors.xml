@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Equipment-Compressors">
+    <Elem NameU="Compressor" Name="压缩机"/>
+    <Elem NameU="Compressor 2" Name="压缩机 2"/>
+    <Elem NameU="Compressor, Vacuum pump" Name="压缩机,真空泵"/>
+    <Elem NameU="Centrifugal compressor" Name="离心式压缩机"/>
+    <Elem NameU="Diaphragm compressor" Name="膜片压缩机"/>
+    <Elem NameU="Ejector compressor" Name="喷射式压缩机"/>
+    <Elem NameU="Piston compressor" Name="活塞式压缩机"/>
+    <Elem NameU="Ring compressor" Name="活塞环压缩器"/>
+    <Elem NameU="Roller vane compressor" Name="滚筒叶片式压缩机"/>
+    <Elem NameU="Reciprocating compressor" Name="往复式压缩机"/>
+    <Elem NameU="Reciprocating compressor 2" Name="往复式压缩机 2"/>
+    <Elem NameU="Reciprocating compressor 3" Name="往复式压缩机 3"/>
+    <Elem NameU="Compressor silencers" Name="压缩机消声器"/>
+    <Elem NameU="Rotary compressor" Name="回转式压缩机"/>
+    <Elem NameU="Rotary compressor 2" Name="回转式压缩机 2"/>
+    <Elem NameU="Rotory compressor 3" Name="回转式压缩机 3"/>
+    <Elem NameU="Rotory compressor and silencers" Name="回转式压缩机和消声器"/>
+    <Elem NameU="Liquid ring compressor" Name="水环式压缩机"/>
+    <Elem NameU="Centrifugal compressor" Name="离心式压缩机"/>
+    <Elem NameU="Centrifugal compressor 2" Name="离心式压缩机 2"/>
+    <Elem NameU="Centrifugal compressor 3" Name="离心式压缩机 3"/>
+    <Elem NameU="Selectable compressor" Name="可选式压缩机"/>
+    <Elem NameU="Axial compressor" Name="轴流式压缩机"/>
+    <Elem NameU="Air compressor" Name="空气压缩机"/>
+    <Elem NameU="AC air compressor" Name="空压机"/>
+    <Elem NameU="Screw compressor" Name="螺杆式压缩机"/>
+    <Elem NameU="Turbo compressor" Name="涡轮压缩器"/>
+</Lib>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Boilers">
+    <Elem NameU="Boiler" Name="보일러"/>
+    <Elem NameU="Boiler 2" Name="보일러 2"/>
+    <Elem NameU="Boiler 3" Name="보일러 3"/>
+    <Elem NameU="Boiler 4" Name="보일러 4"/>
+    <Elem NameU="Boiler 5" Name="보일러 5"/>
+    <Elem NameU="Boiler 6" Name="보일러 6"/>
+    <Elem NameU="Boiler 7" Name="보일러 7"/>
+    <Elem NameU="Boiler 8" Name="보일러 8"/>
+    <Elem NameU="Boiler 9" Name="보일러 9"/>
+    <Elem NameU="Boiler 10" Name="보일러 10"/>
+    <Elem NameU="Boiler 11" Name="보일러 11"/>
+    <Elem NameU="Boiler 12" Name="보일러 12"/>
+    <Elem NameU="Boiler 13" Name="보일러 13"/>
+    <Elem NameU="Boiler 14" Name="보일러 14"/>
+    <Elem NameU="Boiler with flames and pipe" Name="화염 파이브식 보일러"/>
+    <Elem NameU="Boiler with flames" Name="화염 보일러"/>
+    <Elem NameU="Boiler with small fire" Name="작은 불 보일러"/>
+    <Elem NameU="Blast furnace" Name="송풍식 용광로"/>
+    <Elem NameU="Electric hot water and steam boiler" Name="증기 보일러"/>
+    <Elem NameU="Boiler control" Name="보일러 컨트롤"/>
+    <Elem NameU="Firebox boiler" Name="화실 보일러"/>
+    <Elem NameU="Heating furnace" Name="가열로"/>
+    <Elem NameU="Hot blast heater" Name="열풍 히터"/>
+    <Elem NameU="Low emission boiler" Name="저공해 보일러"/>
+    <Elem NameU="Boiler symbol" Name="보일러 기호"/>
+    <Elem NameU="Firebox" Name="화실"/>
+    <Elem NameU="Flexible water tube boiler" Name="수관식 보일러"/>
+    <Elem NameU="Oil fired boiler" Name="석유 연소 보일러"/>
+    <Elem NameU="Packaged firetube boiler" Name="포장된 화관 보일러"/>
+    <Elem NameU="Pulse combustion boiler" Name="펄스 연소 보일러"/>
+    <Elem NameU="Skid-mounted boiler" Name="스키드 장착형 보일러"/>
+    <Elem NameU="Steam boiler" Name="증기 보일러"/>
+    <Elem NameU="Superheater" Name="과열기"/>
+</Lib>

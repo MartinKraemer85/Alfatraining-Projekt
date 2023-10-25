@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Maps and Charts">
+    <Elem NameU="Generating station" Name="发电站"/>
+    <Elem NameU="Elec/heat station" Name="发电/供热站"/>
+    <Elem NameU="Hydroelectric station" Name="水力发电站"/>
+    <Elem NameU="Run of river" Name="水流"/>
+    <Elem NameU="With storage" Name="电站"/>
+    <Elem NameU="With pumped storage" Name="抽水蓄能电站"/>
+    <Elem NameU="Thermoelectric station" Name="热电站"/>
+    <Elem NameU="Coal fueled station" Name="燃煤发电厂"/>
+    <Elem NameU="Oil or gas fueled" Name="石油或天然气燃料"/>
+    <Elem NameU="Nuclear-energy fueled" Name="核燃料"/>
+    <Elem NameU="Geothermic" Name="地热"/>
+    <Elem NameU="Solar generating station" Name="太阳能发电站"/>
+    <Elem NameU="Gas-fueled turbine" Name="天然气为燃料的涡轮"/>
+    <Elem NameU="Reciprocating Engine" Name="往复式发动机"/>
+    <Elem NameU="Radio station 1" Name="无线电站 1"/>
+    <Elem NameU="Radio station 2" Name="无线电站 2"/>
+    <Elem NameU="Portable station" Name="便携式无线电站"/>
+    <Elem NameU="Mobile station" Name="移动台"/>
+    <Elem NameU="Direction finding" Name="定向"/>
+    <Elem NameU="Controlling station" Name="控制台"/>
+    <Elem NameU="Radio relay station" Name="无线电中继站"/>
+    <Elem NameU="Passive relay" Name="无源中继"/>
+    <Elem NameU="Space station" Name="空间站"/>
+    <Elem NameU="Earth tracking station" Name="地球跟踪站"/>
+    <Elem NameU="Telegraph repeater" Name="电报中继器"/>
+    <Elem NameU="Telegraph repeater qualifiers" Name="电报中继器限定符"/>
+    <Elem NameU="Telegraph equipment" Name="电报设备"/>
+    <Elem NameU="Telegraph equipment qualifiers" Name="电报设备限定符"/>
+    <Elem NameU="Substation" Name="变电所"/>
+    <Elem NameU="Rectifier substation" Name="整流变电所"/>
+    <Elem NameU="Substation" Name="变电所"/>
+    <Elem NameU="Wind station" Name="风力发电站"/>
+    <Elem NameU="Prime mover" Name="原动机"/>
+    <Elem NameU="Converting station" Name="换流变电所"/>
+    <Elem NameU="Switching station" Name="配电站"/>
+    <Elem NameU="Plasma Generating Station" Name="等离子电站"/>
+</Lib>

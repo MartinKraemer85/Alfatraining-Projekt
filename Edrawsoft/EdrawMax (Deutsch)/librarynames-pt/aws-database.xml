@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="AWS-Database">
+	<Elem NameU="Aurora" Name="aurora"/>
+	<Elem NameU="DocumentDB-_with-MongoDB-compatibility" Name="Documento do banco de dados com compatibilidade com MongoDB"/>
+	<Elem NameU="DynamoDB" Name="DynamoDB"/>
+	<Elem NameU="ElastiCache" Name="ElastiCache"/>
+	<Elem NameU="Managed-Apache-Cassandra-Service" Name="Serviço Apache de gerenciamento Cassandra"/>
+	<Elem NameU="Neptune" Name="Netuno"/>
+	<Elem NameU="Quantum-Ledger-_Database_QLDB" Name="Banco de dados de registro quântica QLDB"/>
+	<Elem NameU="RDS" Name="RDS"/>
+	<Elem NameU="RDS-on-VMware" Name="RDS em VMware"/>
+	<Elem NameU="DynamoDB_Attribute" Name="Atributo DynamoDB"/>
+	<Elem NameU="DynamoDB_Attributes" Name="Atributos do DynamoDB"/>
+	<Elem NameU="DynamoDB_DAX" Name="DynamoDB DAX"/>
+	<Elem NameU="DynamoDB_Global-Secondary-Index" Name="Índice Secundário Global DynamoDB"/>
+	<Elem NameU="DynamoDB_Item" Name="Item DynamoDB"/>
+	<Elem NameU="DynamoDB_Items" Name="Itens do DynamoDB"/>
+	<Elem NameU="DynamoDB_Table" Name="Mesa DynamoDB"/>
+	<Elem NameU="ElastiCache_Cache-Node" Name="Nó de cache ElastiCache"/>
+	<Elem NameU="ElastiCache_For-Memcached" Name="ElastiCache para Memcached"/>
+	<Elem NameU="ElastiCache_For-Redis" Name="ElastiCache para Redis"/>
+	<Elem NameU="RDS_Aurora_instance" Name="Instância RDS Aurora"/>
+	<Elem NameU="RDS_Aurora_instance-alt" Name="Alt instância RDS Aurora"/>
+	<Elem NameU="RDS_RDS_instance" Name="Instância RDS RDS"/>
+	<Elem NameU="RDS_RDS_instance-alt" Name="RDS RDS instância alt"/>
+	<Elem NameU="RDS_MariaDB_instance" Name="Instância RDS MariaDB"/>
+	<Elem NameU="RDS_MariaDB_instance-alt" Name="Instância RDS MariaDB alt"/>
+	<Elem NameU="RDS_MySQL_instance" Name="Instância RDS MySQL"/>
+	<Elem NameU="RDS_MySQL_instance-alt" Name="Instância RDS MySQL alt"/>
+	<Elem NameU="RDS_Oracle_instance" Name="Instância RDS Oracle"/>
+	<Elem NameU="RDS_Oracle_instance-alt" Name="Instância RDS Oracle alt"/>
+	<Elem NameU="RDS_PIOP" Name="RDS POOP"/>
+	<Elem NameU="RDS_PIOPS" Name="RDS_PIOPS"/>
+	<Elem NameU="RDS_PostgreSQL_instance" Name="Instância RDS_PostgreSQL"/>
+	<Elem NameU="RDS_PostgreSQL_instance-alt" Name="Substituição de instância RDS_PostgreSQL"/>
+	<Elem NameU="RDS_SQL-Server_instance" Name="Instância do servidor RDS_SQL"/>
+	<Elem NameU="RDS_SQL-Server_instance-alt" Name="Substituição da instância do servidor RDS_SQL"/>
+	<Elem NameU="AWS-Database-Migration-Service_Database-Migration-Workflow" Name="Fluxo de trabalho de migração de banco de dados do serviço de migração de banco de dados AWS"/>
+	<Elem NameU="Redshift_Dense-Compute-Node" Name="Nó de computação intensiva Redshift"/>
+	<Elem NameU="Redshift_Dense-Storage-Node" Name="Nó de armazenamento intensivo Redshift"/>
+	<Elem NameU="Redshift" Name="Redshift"/>
+	<Elem NameU="Timestream" Name="Fluxo de tempo"/>
+	<Elem NameU="AWS-Database-Migration-Service" Name="Serviço de migração de banco de dados AWS"/>
+	<Elem NameU="Database" Name="base de dados"/>
+</Lib>

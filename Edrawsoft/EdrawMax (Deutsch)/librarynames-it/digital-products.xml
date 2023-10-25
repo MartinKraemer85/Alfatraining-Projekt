@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Digital Products">
+	<Elem NameU="Bluetooth Headset" Name="Cuffie Bluetooth"/>
+	<Elem NameU="Camera" Name="Fotocamera"/>
+	<Elem NameU="Camera 2" Name="Fotocamera 2"/>
+	<Elem NameU="CD Player" Name="Lettore CD"/>
+	<Elem NameU="Earphone" Name="Auricolari"/>
+	<Elem NameU="Gamepad" Name="Controller di Gioco"/>
+	<Elem NameU="Google Glass" Name="Occhiali Google"/>
+	<Elem NameU="iPad" Name="iPad"/>
+	<Elem NameU="iPhone" Name="iPhone"/>
+	<Elem NameU="iPod Shuffle" Name="iPod Shuffle"/>
+	<Elem NameU="iPod" Name="iPod"/>
+	<Elem NameU="Joystick" Name="Joystick"/>
+	<Elem NameU="Mobile Power" Name="Alimentatore Portatile"/>
+	<Elem NameU="Navigator" Name="Navigatore"/>
+	<Elem NameU="Pad" Name="Pad"/>
+	<Elem NameU="PSP" Name="PSP"/>
+	<Elem NameU="SmartWatch" Name="SmartWatch"/>
+	<Elem NameU="Smartphone" Name="Smartphone"/>
+	<Elem NameU="Tablet Computer" Name="Computer Tablet"/>
+	<Elem NameU="Video Camera" Name="Videocamera"/>
+	<Elem NameU="XBox" Name="XBox"/>
+</Lib>

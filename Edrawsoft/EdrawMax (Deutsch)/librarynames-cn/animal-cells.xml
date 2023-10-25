@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Animal Cells">
+    <Elem NameU="Cell Structure" Name="细胞结构"/>
+    <Elem NameU="Paramecium" Number="2" Name="草履虫"/>
+    <Elem NameU="Frog skin" Name="青蛙皮"/>
+    <Elem NameU="Squamous cell" Name="鳞状细胞"/>
+    <Elem NameU="Cell division" Name="细胞分裂"/>
+    <Elem NameU="Cell division1" Name="细胞分裂1"/>
+    <Elem NameU="Bacteria" Name="细菌"/>
+    <Elem NameU="cell membrane" Name="细胞膜"/>
+    <Elem NameU="Eggs" Name="卵细胞"/>
+    <Elem NameU="Sperm" Name="精子"/>
+    <Elem NameU="Zygote" Name="受精卵"/>
+    <Elem NameU="Cell, animal_ An animal cell with inte" Name="细胞, 动物_ 动物细胞"/>
+    <Elem NameU="Lactobacillus" Name="乳酸菌"/>
+    <Elem NameU="SARS" Name="SARS"/>
+    <Elem NameU="Tobacco mosaic virus" Name="烟草花叶病病毒"/>
+    <Elem NameU="Adenovirus" Name="腺病毒"/>
+    <Elem NameU="Coliphage" Name="大肠杆菌噬菌体"/>
+    <Elem NameU="Herpesvirus" Name="孢疹病毒"/>
+    <Elem NameU="Poxvirus" Name="痘病毒"/>
+    <Elem NameU="Influenza virus" Name="流感病毒"/>
+    <Elem NameU="AIDS" Name="AIDS"/>
+    <Elem NameU="Hepatitis B virus" Name="乙型肝炎病毒"/>
+    <Elem NameU="Mumps" Name="流行性腮腺炎"/>
+    <Elem NameU="Ebora" Name="埃博拉病毒"/>
+    <Elem NameU="Gastric cancer virus" Name="胃癌病毒"/>
+    <Elem NameU="Squamous cell" Name="鳞状细胞"/>
+</Lib>

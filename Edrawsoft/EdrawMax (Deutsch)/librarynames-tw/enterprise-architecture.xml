@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Enterprise Architecture">
+    <Elem NameU="Enterprise Container" Number="3" Name="企業容器"/>
+    <Elem NameU="Business Model Container" Number="3" Name="商業模式容器"/>
+    <Elem NameU="Container" Name="容器"/>
+    <Elem NameU="Governance Container" Name="管理容器"/>
+    <Elem NameU="Box" Name="盒子"/>
+    <Elem NameU="Rounded Box" Name="圓角盒子"/>
+    <Elem NameU="Application" Name="應用程式"/>
+    <Elem NameU="Component" Name="組件"/>
+    <Elem NameU="Document" Name="文檔"/>
+    <Elem NameU="Document 2" Name="文檔 2"/>
+    <Elem NameU="App Service" Name="App服務"/>
+    <Elem NameU="Form" Name="表格"/>
+    <Elem NameU="System" Name="系統"/>
+    <Elem NameU="Report" Name="報告"/>
+    <Elem NameU="Datebase" Name="資料庫"/>
+    <Elem NameU="HW Server" Name="HW伺服器"/>
+    <Elem NameU="Email" Name="郵件"/>
+    <Elem NameU="ETL Job" Name="ETL任務"/>
+    <Elem NameU="Person" Name="人"/>
+    <Elem NameU="Org Unit" Name="單位"/>
+    <Elem NameU="Role" Name="角色"/>
+    <Elem NameU="Contract" Name="合同"/>
+    <Elem NameU="Network" Name="網絡"/>
+    <Elem NameU="Site" Name="地址"/>
+    <Elem NameU="Workstation" Name="工作站"/>
+    <Elem NameU="Mobile Device" Name="移動設備"/>
+    <Elem NameU="Deployment Instace" Name="展開"/>
+    <Elem NameU="Network Node" Name="網絡節點"/>
+    <Elem NameU="Project" Name="項目"/>
+    <Elem NameU="Business Flow" Number="2" Name="業務流程"/>
+    <Elem NameU="Program" Name="程式"/>
+    <Elem NameU="Goal" Name="目標"/>
+    <Elem NameU="Impact" Name="影響"/>
+    <Elem NameU="Role Association" Name="角色關聯"/>
+    <Elem NameU="Fulfillment" Name="實踐"/>
+</Lib>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Composite Assemblies">
+	<Elem NameU="Gyro" Name="Giroscópio"/>
+	<Elem NameU="Gyro 2" Name="Giroscópio 2"/>
+	<Elem NameU="Amplifier" Name="Amplificador"/>
+	<Elem NameU="Magnetic amplifier" Name="Amplificador magnético"/>
+	<Elem NameU="Negative impedance both-way amp" Name="Amp de dupla-via com impedância negativa"/>
+	<Elem NameU="Amplifier with bypass" Name="Amplificador com bypass"/>
+	<Elem NameU="Amplifier external DC control" Name="Controle DC externo de amplificador"/>
+	<Elem NameU="Rectifier" Name="Retificador"/>
+	<Elem NameU="Controlled rectifier" Name="Retificador controlado"/>
+	<Elem NameU="Bridge rectifier" Name="Retificador de ponte"/>
+	<Elem NameU="Proximity sensor" Name="Sensor de proximidade"/>
+	<Elem NameU="Touch sensor" Name="Sensor de toque"/>
+	<Elem NameU="1-way repeater" Name="Repetidor de 1-via"/>
+	<Elem NameU="2-way repeater" Name="Repetidor de 2-via"/>
+	<Elem NameU="2-way repeater bypass" Name="Bypass repetidor de 2-vias"/>
+	<Elem NameU="2-way repeater 4-wire" Name="Repetidor de 2-vias de 4-fios"/>
+	<Elem NameU="Network low voltage" Name="Baixa voltagem de rede"/>
+	<Elem NameU="Phase shifter" Name="Alavanca de fase"/>
+	<Elem NameU="Chopper" Name="Picador"/>
+	<Elem NameU="Demodulator" Name="Desmodulador"/>
+	<Elem NameU="Generator" Name="Gerador"/>
+	<Elem NameU="Position indicator synchro" Name="Indicador de posição síncrono"/>
+	<Elem NameU="Position indicator inductor" Name="Indutor indicador de posição"/>
+	<Elem NameU="Position transmitter inductor" Name="Indutor transmissor de posição"/>
+	<Elem NameU="Position transmitter Desynn" Name="Transmissor de posição não síncrono"/>
+	<Elem NameU="Fire ext. actuator" Name="Extintor atuador"/>
+	<Elem NameU="Fire ext. double" Name="Extintor duplo"/>
+	<Elem NameU="Converter" Name="Conversor"/>
+	<Elem NameU="Inverter" Name="Inversor"/>
+	<Elem NameU="Rectifier inverter" Name="Inversor retificador"/>
+	<Elem NameU="Rectifier bridge" Name="Ponte retificadora"/>
+	<Elem NameU="Galvanic separator" Name="Separador galvânico"/>
+	<Elem NameU="Combustion heat source" Name="Fonte de calor de combustão"/>
+	<Elem NameU="Heat source" Name="Fonte de calor"/>
+	<Elem NameU="Radioisotope heat source" Name="Fonte de calor de radioisótopo"/>
+	<Elem NameU="Thermoelectric generator" Name="Gerador termoelétrico"/>
+</Lib>

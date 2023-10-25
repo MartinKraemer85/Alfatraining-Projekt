@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Carnival">
+	<Elem NameU="Mask" Name="Máscara"/>
+	<Elem NameU="Feather" Name="Pena"/>
+	<Elem NameU="Fireworks" Name="Fogos de Artifício"/>
+	<Elem NameU="Clown Hat" Name="Chapéu de Palhaço"/>
+	<Elem NameU="Bunting" Name="Bandeirinhas"/>
+	<Elem NameU="Fruit Juice" Name="Sumo de Frutas"/>
+	<Elem NameU="Sand Hammer" Name="Martelo de Areia"/>
+	<Elem NameU="Ice Cream" Name="Gelado"/>
+	<Elem NameU="Flip Flop" Name="Chinelo"/>
+	<Elem NameU="Coconut Tree" Name="Coqueiro"/>
+	<Elem NameU="Hat" Name="Chapéu"/>
+	<Elem NameU="Clown" Name="Palhaço"/>
+	<Elem NameU="Tent" Name="Tenda"/>
+	<Elem NameU="Balloon" Name="Balão"/>
+	<Elem NameU="Lollipop" Name="Chupa-chupa"/>
+	<Elem NameU="Horse" Name="Cavalo"/>
+	<Elem NameU="Hot Air Balloon" Name="Balão de Ar Quente"/>
+	<Elem NameU="Float" Name="Flutuar"/>
+	<Elem NameU="Ferris Wheel" Name="Roda-gigante"/>
+	<Elem NameU="Magic Hat" Name="Chapéu Mágico"/>
+	<Elem NameU="Amusement Park Facilities" Name="Instalações de Parque de Diversões"/>
+	<Elem NameU="Drum" Name="Tambor"/>
+	<Elem NameU="Dining Car" Name="Carro de Jantar"/>
+	<Elem NameU="Horn" Name="Buzina"/>
+	<Elem NameU="Small" Name="Pequeno"/>
+	<Elem NameU="Musical Instrument" Name="Instrumento Musical"/>
+	<Elem NameU="Eyes and Beard" Name="Olhos e Barba"/>
+	<Elem NameU="Firecracker" Name="Fogo de Artifício"/>
+	<Elem NameU="Parrot" Name="Papagaio"/>
+	<Elem NameU="Carousel" Name="Carrossel"/>
+	<Elem NameU="Paper Windmills" Name="Moinhos de Vento de Papel"/>
+	<Elem NameU="Elephant" Name="Elefante"/>
+	<Elem NameU="Fire" Name="Fogo"/>
+	<Elem NameU="Dancing People" Name="Pessoas a Dançar"/>
+	<Elem NameU="Playing Person" Name="Pessoa a Tocar"/>
+	<Elem NameU="Performer" Name="Performer"/>
+	<Elem NameU="Store" Name="Loja"/>
+	<Elem NameU="Rotating Flying Chair" Name="Cadeira Voadora Rotativa"/>
+	<Elem NameU="Sun" Name="Sol"/>
+	<Elem NameU="Performing Acrobatics" Name="Performance de Acrobacias"/>
+	<Elem NameU="Trophy" Name="Troféu"/>
+</Lib>

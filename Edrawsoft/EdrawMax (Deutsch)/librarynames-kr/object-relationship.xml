@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Object Relationship">
+    <Elem NameU="Entity" Name="엔터티"/>
+    <Elem NameU="Relationship" Name="관계"/>
+    <Elem NameU="View" Name="보기"/>
+    <Elem NameU="Parent to category" Name="카테고리 상위"/>
+    <Elem NameU="Category" Name="카테고리"/>
+    <Elem NameU="Data store" Name="데이터 저장"/>
+    <Elem NameU="Category to child" Name="카테고리 하위"/>
+    <Elem NameU="Table inheritance" Name="표 상속"/>
+    <Elem NameU="Type" Name="유형"/>
+    <Elem NameU="Type inheritance" Name="유형 상속"/>
+    <Elem NameU="Dynamic connector" Name="동적 커넥터"/>
+</Lib>

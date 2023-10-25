@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Dining Room (Elevation)">
+	<Elem NameU="Bottle 1" Name="Garrafa 1"/>
+	<Elem NameU="Bottle 2" Name="Garrafa 2"/>
+	<Elem NameU="Bottle 3" Name="Garrafa 3"/>
+	<Elem NameU="Bottle 4" Name="Garrafa 4"/>
+	<Elem NameU="Bottle 5" Name="Garrafa 5"/>
+	<Elem NameU="Bottle 6" Name="Garrafa 6"/>
+	<Elem NameU="Bottle 7" Name="Garrafa 7"/>
+	<Elem NameU="Glass 1" Name="Copo 1"/>
+	<Elem NameU="Glass 2" Name="Copo 2"/>
+	<Elem NameU="Glass 3" Name="Copo 3"/>
+	<Elem NameU="Glass 4" Name="Copo 4"/>
+	<Elem NameU="Glass 5" Name="Copo 5"/>
+	<Elem NameU="Glass 6" Name="Copo 6"/>
+	<Elem NameU="Glass 7" Name="Copo 7"/>
+	<Elem NameU="Glass-bottle" Name="Copo-garrafa"/>
+	<Elem NameU="Barrel" Name="Barril"/>
+</Lib>

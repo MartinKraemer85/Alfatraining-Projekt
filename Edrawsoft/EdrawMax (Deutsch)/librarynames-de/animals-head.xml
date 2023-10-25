@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib nameU="Animals-Head">
+	<Elem NameU="Cow" Name="Kuh"/>
+	<Elem NameU="Sheep" Name="Schaf"/>
+	<Elem NameU="Hippopotamus" Name=""/>
+	<Elem NameU="Rabbit" Name="Hase"/>
+	<Elem NameU="Deer" Name="Hirsch"/>
+	<Elem NameU="Fox 1" Name=""/>
+	<Elem NameU="Fox 2" Name=""/>
+	<Elem NameU="Mouse 1" Name=""/>
+	<Elem NameU="Mouse 2" Name=""/>
+	<Elem NameU="Fish" Name=""/>
+	<Elem NameU="Horse" Name="Pferd"/>
+	<Elem NameU="Panda" Name=""/>
+	<Elem NameU="Elephant" Name="Elefant"/>
+	<Elem NameU="Dog 1" Name=""/>
+	<Elem NameU="Dog 2" Name="Hund 2"/>
+	<Elem NameU="Dog 3" Name=""/>
+	<Elem NameU="Monkey" Name=""/>
+	<Elem NameU="Hedgehog" Name=""/>
+	<Elem NameU="Duck" Name=""/>
+	<Elem NameU="Pig" Name="Schwein"/>
+	<Elem NameU="Koala" Name=""/>
+	<Elem NameU="Rhinoceros" Name="Nashorn"/>
+	<Elem NameU="Lion" Name="Lion"/>
+	<Elem NameU="Tiger" Name="Tiger"/>
+	<Elem NameU="Giraffe" Name="Giraffe"/>
+	<Elem NameU="Zebra" Name=""/>
+	<Elem NameU="Octopus" Name=""/>
+	<Elem NameU="Goat" Name=""/>
+	<Elem NameU="Bird" Name=""/>
+	<Elem NameU="Owl" Name="Eule"/>
+</Lib>

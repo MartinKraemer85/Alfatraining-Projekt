@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="PPT Illustration">
+	<Elem NameU="Working" Name="仕事 "/>
+	<Elem NameU="Idea" Name="アイディア "/>
+	<Elem NameU="Recording" Name="記録 "/>
+	<Elem NameU="Exercise" Name="エクササイズ "/>
+	<Elem NameU="Pressure" Name="プレッシャー "/>
+	<Elem NameU="Checklist" Name="チェックリスト "/>
+	<Elem NameU="Wander" Name="散歩 "/>
+	<Elem NameU="Running" Name="ランニング "/>
+	<Elem NameU="Depressed" Name="ショック "/>
+	<Elem NameU="Learning" Name="勉強 "/>
+	<Elem NameU="Thinking" Name="考える "/>
+	<Elem NameU="Success" Name="成功"/>
+	<Elem NameU="Brainstorming" Name="ブレーンストーミング "/>
+	<Elem NameU="Discussing" Name="議論"/>
+	<Elem NameU="Collaborate" Name="コラボレーション "/>
+	<Elem NameU="Search" Name="検索"/>
+	<Elem NameU="Communicate" Name="コミュニケーション"/>
+	<Elem NameU="Presentation" Name="プレゼンテーション"/>
+	<Elem NameU="Nervours" Name="ナーバス"/>
+	<Elem NameU="Shopping" Name="買い物 "/>
+	<Elem NameU="Decision" Name="選択"/>
+	<Elem NameU="Alarm Clock" Name="目覚まし時計"/>
+	<Elem NameU="Object" Name="ターゲット"/>
+	<Elem NameU="Analyze" Name="分析"/>
+	<Elem NameU="Conversion" Name="ビジネス成功"/>
+	<Elem NameU="Calculate" Name="計算機"/>
+	<Elem NameU="Plant" Name="植物"/>
+	<Elem NameU="Trophy" Name="賞品"/>
+	<Elem NameU="Coffee" Name="コーヒー"/>
+	<Elem NameU="Sand Clock" Name="砂時計"/>
+	<Elem NameU="Cup" Name="カップ"/>
+	<Elem NameU="Gear" Name="歯車"/>
+	<Elem NameU="Trash Bin" Name="ごみ箱"/>
+	<Elem NameU="Computer" Name="コンピューター "/>
+	<Elem NameU="Lamp" Name="ランプ "/>
+	<Elem NameU="Globe" Name="地球儀"/>
+	<Elem NameU="Dog" Name="ビーグル"/>
+	<Elem NameU="Puppy" Name="ダルメシアン"/>
+	<Elem NameU="Note Book" Name="手帳"/>
+	<Elem NameU="Calendar" Name="カレンダー "/>
+	<Elem NameU="Cactus" Name="サボテン "/>
+	<Elem NameU="404" Name="404"/>
+	<Elem NameU="Upward" Name="上昇"/>
+	<Elem NameU="Deal" Name="判決"/>
+	<Elem NameU="Book" Name="本"/>
+</Lib>

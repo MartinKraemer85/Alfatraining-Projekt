@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Rack Equipment">
+    <Elem NameU="Rack" Name="랙"/>
+    <Elem NameU="1U Patch Panel" Name="1U 패치 패널"/>
+    <Elem NameU="2U Patch Panel" Name="2U 패치 패널"/>
+    <Elem NameU="1U Switch" Name="1U 교환기"/>
+    <Elem NameU="2U Switch" Name="2U 교환기"/>
+    <Elem NameU="Router" Name="라우터"/>
+    <Elem NameU="Raid" Name="RAID"/>
+    <Elem NameU="4U Server" Name="4U 서버"/>
+    <Elem NameU="2U Server" Name="2U 서버"/>
+    <Elem NameU="UPS" Name="UPS"/>
+    <Elem NameU="Bridge" Name="브리지"/>
+    <Elem NameU="6U Monitor" Name="6U 모니터"/>
+    <Elem NameU="Tape Drive" Name="테이프 드라이브"/>
+    <Elem NameU="Keyboard" Name="키보드"/>
+    <Elem NameU="Power Strip" Name="파워 스트립"/>
+    <Elem NameU="1U Shelf" Name="1U 선반"/>
+    <Elem NameU="2U Shelf" Name="2U 선반"/>
+    <Elem NameU="Alternative Device" Name="대체 장치"/>
+    <Elem NameU="Alternative Device 2" Name="대체 장치 2"/>
+    <Elem NameU="Switch" Number="4" Name="스위치"/>
+    <Elem NameU="1U Switch" Number="2" Name="1U 교환기"/>
+    <Elem NameU="2u ethernet switch" Name="2u 이더넷 교환기"/>
+    <Elem NameU="Switch (ws-c2960-24tc-l)" Name="스위치 (ws-c2960-24tc-l)"/>
+    <Elem NameU="Switch (ws-c3560-24ps-s)" Name="스위치 (ws-c3560-24ps-s)"/>
+    <Elem NameU="Switch (ws-c3560-48ps-s)" Name="스위치 (ws-c3560-48ps-s)"/>
+    <Elem NameU="Switch (ws-c2960-48tc-l)" Name="스위치 (ws-c2960-48tc-l)"/>
+    <Elem NameU="Server" Number="8" Name="서버"/>
+    <Elem NameU="X Server" Name="X서버"/>
+    <Elem NameU="X Server RAID" Name="X서버 RAID"/>
+    <Elem NameU="Server" Number="2" Name="서버"/>
+    <Elem NameU="Server pc" Name="서버 pc"/>
+    <Elem NameU="Rack mount lcd monitor" Name="랙 마운트 LCD 모니터"/>
+    <Elem NameU="Fibre Patch Panel(Type A)" Name="섬유 패치 패널 (A유형)"/>
+    <Elem NameU="Fibre Patch Panel(Type B)" Name="섬유 패치 패널 (B유형)"/>
+    <Elem NameU="Fibre Patch Panel(Type C)" Name="섬유 패치 패널 (C유형)"/>
+    <Elem NameU="1U Spacer" Name="1U스페이서"/>
+    <Elem NameU="1U Tray" Name="1U 트레이"/>
+    <Elem NameU="2U RAID Array" Name="2U RAID 어레이"/>
+    <Elem NameU="3U RAID Array" Name="3U RAID 어레이"/>
+    <Elem NameU="Managed UPS" Name="관리 UPS"/>
+    <Elem NameU="UPS" Number="3" Name="UPS"/>
+    <Elem NameU="Rack" Name="랙"/>
+    <Elem NameU="1U Cable Management" Name="1U케이블 관리"/>
+    <Elem NameU="2U Cable Management" Name="2U케이블 관리"/>
+    <Elem NameU="Rack" Number="3" Name="랙"/>
+</Lib>

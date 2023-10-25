@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Maintenance Symbol">
+	<Elem NameU="Flow" Name="Flusso"/>
+	<Elem NameU="Signal generator" Name="Generatore di segnale"/>
+	<Elem NameU="Linear element" Name="Elemento lineare"/>
+	<Elem NameU="Linear element 2" Name="Elemento lineare"/>
+	<Elem NameU="Relay contacts" Name="Contatti relè"/>
+	<Elem NameU="Relay coil" Name="Bobina relè"/>
+	<Elem NameU="Switch" Name="Interruttore"/>
+	<Elem NameU="Composite circuit" Name="Circuito composito"/>
+	<Elem NameU="Amplifier" Name="Amplificatore"/>
+	<Elem NameU="Signal code" Name="Codice segnale"/>
+	<Elem NameU="Reference signal" Name="Segnale di riferimento"/>
+	<Elem NameU="Energize relay signal" Name="Segnale contatore di energia"/>
+	<Elem NameU="Transmitter pulse" Name="Impulso trasmettitore"/>
+	<Elem NameU="Test signal" Name="Segnale di prova"/>
+	<Elem NameU="Feedback" Name="Feedback"/>
+</Lib>

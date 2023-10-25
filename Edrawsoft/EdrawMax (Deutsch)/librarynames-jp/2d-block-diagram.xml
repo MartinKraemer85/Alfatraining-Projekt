@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib nameU="2D Block Diagram">
+	<Elem NameU="Triangle" Name="三角形"/>
+	<Elem NameU="Isosceles Triangle" Name="二等辺三角形"/>
+	<Elem NameU="Regular Triangle" Name="正三角形"/>
+	<Elem NameU="Right Angled Triangle" Name="直角三角形"/>
+	<Elem NameU="Rectangle" Name="長方形"/>
+	<Elem NameU="Rounded Rectangle" Name="角丸長方形 1"/>
+	<Elem NameU="Rounded Square" Name="角丸正方形"/>
+	<Elem NameU="Circle" Name="円"/>
+	<Elem NameU="Oval" Name="楕円"/>
+	<Elem NameU="Parallelogram" Name="平行四辺形"/>
+	<Elem NameU="Pentagon" Name="五角形"/>
+	<Elem NameU="Hexagon" Name="六角形"/>
+	<Elem NameU="Trapezoid" Name="台形"/>
+	<Elem NameU="Rhombus" Name="ひし形（菱形）"/>
+	<Elem NameU="Half Circle" Name="半円"/>
+	<Elem NameU="Diamond" Name="ダイヤモンド"/>
+	<Elem NameU="Circle with Wavy Edge" Name="円（波型エッジ）"/>
+	<Elem NameU="Candy Shape" Name="キャンディ"/>
+	<Elem NameU="Broken Corner Rectangle" Name="角を切り取った四角形"/>
+	<Elem NameU="Arch" Name="円弧"/>
+	<Elem NameU="Funnel" Name="漏斗"/>
+	<Elem NameU="Round Head Rectangle" Name="角丸長方形 2"/>
+	<Elem NameU="Triangle - Long" Name="三角形－長"/>
+	<Elem NameU="Snip Corner Triangle" Name="角を切り取った三角形"/>
+	<Elem NameU="Trapezoid - Vertical" Name="台形－垂直"/>
+	<Elem NameU="Trapezoid - Horizontal" Name="台形-水平"/>
+	<Elem NameU="Inverted Trapezoid" Name="逆台形"/>
+	<Elem NameU="Hexagon - Long" Name="六角形－長"/>
+	<Elem NameU="Curve Head Rectangle" Name="曲がった四角形"/>
+	<Elem NameU="Pointed Left Rectangle" Name="左が尖った長四角形"/>
+	<Elem NameU="Flat Banner 1" Name="平面バナー 1"/>
+	<Elem NameU="Flat Banner 2" Name="平面バナー 2"/>
+	<Elem NameU="Rounded Right Rectangle" Name="右角丸四角形"/>
+	<Elem NameU="Circle with Rectangle" Name="円付き四角形"/>
+	<Elem NameU="Irregular Shape" Name="不規則"/>
+	<Elem NameU="Snip One Side Triangle" Name="片側を切り取った三角形"/>
+	<Elem NameU="Corner Shape" Name="コーナー"/>
+	<Elem NameU="Curve Shape with Right Angle" Name="曲線形状（直角）"/>
+	<Elem NameU="Snip One Side Rectangle" Name="片側を切り取った四角形"/>
+	<Elem NameU="Irregular Rectangle" Name="不規則な四角形"/>
+	<Elem NameU="L Shape" Name="L形"/>
+	<Elem NameU="Snip Diagonal Corner Rectangle" Name="対角を切り取った四角形"/>
+	<Elem NameU="Regular Rhombus" Name="ひし形（菱形）"/>
+	<Elem NameU="Badge" Name="バッジ"/>
+	<Elem NameU="4-Point Star" Name="四角星"/>
+	<Elem NameU="Cloud with One Side Flat" Name="雲－片面フラット"/>
+	<Elem NameU="Bar with Wavy Edge" Name="バッジ（波形エッジ）"/>
+	<Elem NameU="Irregular Bar" Name="不規則なバー"/>
+	<Elem NameU="Chevron" Name="V型矢印"/>
+	<Elem NameU="Chevron Group" Name="複数のV型矢印"/>
+	<Elem NameU="6-Point Star - Hollow" Name="六角星－中空"/>
+	<Elem NameU="Special Shape" Name="変形"/>
+	<Elem NameU="3 Rhombuses" Name="3ひし形"/>
+	<Elem NameU="Stacked Pentagons" Name="積み上げ五角形"/>
+	<Elem NameU="Stacked Squares" Name="積み上げ正方形"/>
+	<Elem NameU="Stacked Triangles" Name="積み上げ三角形"/>
+	<Elem NameU="Hollow Cloud" Name="雲－中空"/>
+	<Elem NameU="Cloud" Name="雲"/>
+	<Elem NameU="6-Point Star" Name="六角星"/>
+	<Elem NameU="Flower 1" Name="花 1"/>
+	<Elem NameU="Flower 2" Name="花 2"/>
+	<Elem NameU="Flower 3" Name="花 3"/>
+	<Elem NameU="Royal Style Block" Name="皇室スタイルのブロック"/>
+	<Elem NameU="5-Point Star" Name="五角星"/>
+	<Elem NameU="5-Point Star with Circle" Name="円付き五角星"/>
+	<Elem NameU="4-Point Star with Circle" Name="円付き四角星"/>
+	<Elem NameU="Heart" Name="ハート"/>
+	<Elem NameU="Teardrop" Name="涙"/>
+	<Elem NameU="Hexagon with Triange" Name="三角形付きの六角形"/>
+	<Elem NameU="Petals" Name="花びら"/>
+	<Elem NameU="Windmill" Name="風車"/>
+	<Elem NameU="Three Cicles" Name="三つの円"/>
+	<Elem NameU="Circular" Name="円"/>
+	<Elem NameU="Four Sections Circle" Name="4セクション円"/>
+	<Elem NameU="Flower" Name="花"/>
+	<Elem NameU="Trees" Name="木"/>
+	<Elem NameU="Maple Leaf" Name="楓の葉"/>
+	<Elem NameU="Ginkgo Leaf" Name="イチョウの葉"/>
+	<Elem NameU="Leaf" Name="葉"/>
+	<Elem NameU="Location" Name="ロケーション"/>
+	<Elem NameU="Chess" Name="チェス"/>
+	<Elem NameU="Jelly Fish" Name="クラゲ"/>
+	<Elem NameU="Incomplete Circle" Name="不完全な円"/>
+	<Elem NameU="Puzzle" Name="パズル"/>
+	<Elem NameU="Tree" Name="木"/>
+	<Elem NameU="Hot-Air Balloon" Name="熱気球"/>
+	<Elem NameU="Balloon" Name="風船"/>
+	<Elem NameU="Chain" Name="チェーン"/>
+	<Elem NameU="World" Name="世界"/>
+</Lib>

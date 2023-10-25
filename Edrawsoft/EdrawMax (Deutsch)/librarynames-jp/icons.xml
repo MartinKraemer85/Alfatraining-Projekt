@@ -1,0 +1,637 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="Icons">
+
+<Elem Name="住所録" NameU="Address - Book"/>
+
+<Elem Name="住所カード" NameU="Address - Card"/>
+
+<Elem Name="目覚まし時計" NameU="Alarm Clock"/>
+
+<Elem Name="警告" NameU="Alert"/>
+
+<Elem Name="アンカー" NameU="Anchor"/>
+
+<Elem Name="絞り" NameU="Aperture"/>
+
+<Elem Name="At" NameU="At"/>
+
+<Elem Name="Android" NameU="Android"/>
+
+<Elem Name="Apple" NameU="Apple"/>
+
+<Elem Name="アプリ" NameU="Apps"/>
+
+<Elem Name="矢印" NameU="Arrow"/>
+
+<Elem Name="矢印 - 円形" NameU="Arrow - Circular"/>
+
+<Elem Name="矢印 - 双方向" NameU="Arrow - Double Head"/>
+
+<Elem Name="トレンド矢印-下げる" NameU="Arrow - Down"/>
+
+<Elem Name="矢印 - 拡大" NameU="Arrow - Expand"/>
+
+<Elem Name="トレンド矢印-成長" NameU="Arrow Growth"/>
+
+<Elem Name="矢印 - 戻る" NameU="Arrow - Return"/>
+
+<Elem Name="矢印 - 縮む" NameU="Arrow - Shrink"/>
+
+<Elem Name="袋" NameU="Bag"/>
+
+<Elem Name="縦棒グラフ" NameU="Bar"/>
+
+<Elem Name="野球" NameU="Baseball"/>
+
+<Elem Name="バスケットボール" NameU="Basketball"/>
+
+<Elem Name="バス" NameU="Bath"/>
+
+<Elem Name="充電中" NameU="Battery Charging"/>
+
+<Elem Name="完全に放電した" NameU="Battery Empty"/>
+
+<Elem Name="100%" NameU="Battery Full"/>
+
+<Elem Name="50%" NameU="Battery Half"/>
+
+<Elem Name="電力不足" NameU="Battery Low"/>
+
+<Elem Name="ビール" NameU="Beer"/>
+
+<Elem Name="自転車" NameU="Bicycle"/>
+
+<Elem Name="双眼鏡" NameU="Binocular"/>
+
+<Elem Name="お誕生日" NameU="Birthday"/>
+
+<Elem Name="ビットコイン" NameU="Bitcoin"/>
+
+<Elem Name="盲人" NameU="Blind"/>
+
+<Elem Name="ブルートゥース" NameU="Bluetooth"/>
+
+<Elem Name="船" NameU="Boat"/>
+
+<Elem Name="爆弾" NameU="Bomb"/>
+
+<Elem Name="本 1" NameU="Book 1"/>
+
+<Elem Name="本 2" NameU="Book 2"/>
+
+<Elem Name="しおり" NameU="Bookmark"/>
+
+<Elem Name="蝶ネクタイ" NameU="Bowtie"/>
+
+<Elem Name="書類カバン" NameU="Briefcase 1"/>
+
+<Elem Name="書類カバン" NameU="Briefcase 2"/>
+
+<Elem Name="書類カバン" NameU="Briefcase 3"/>
+
+<Elem Name="トコジラミ" NameU="Bug"/>
+
+<Elem Name="ビル" NameU="Building"/>
+
+<Elem Name="電球" NameU="Bulb"/>
+
+<Elem Name="電球 - ついている" NameU="Bulb - Luminous"/>
+
+<Elem Name="バス" NameU="Bus"/>
+
+<Elem Name="計算器" NameU="Calculator"/>
+
+<Elem Name="カレンダー" NameU="Calendar"/>
+
+<Elem Name="カレンダー チェック" NameU="Calendar-Check"/>
+
+<Elem Name="カレンダー ばつ印" NameU="Calendar-Times"/>
+
+<Elem Name="カメラ" NameU="Camera"/>
+
+<Elem Name="キャンセル" NameU="Cancel"/>
+
+<Elem Name="キャンセル（円枠付き）" NameU="Cancel with Circle"/>
+
+<Elem Name="キャンドル" NameU="Candle"/>
+
+<Elem Name="車" NameU="Car"/>
+
+<Elem Name="カート" NameU="Cart"/>
+
+<Elem Name="カート" NameU="Cart-Allow-Down"/>
+
+<Elem Name="カート" NameU="Cart-Plus"/>
+
+<Elem Name="人参" NameU="Carrot"/>
+
+<Elem Name="チェーン" NameU="Chain"/>
+
+<Elem Name="チャットバブル" NameU="Chat Bubble"/>
+
+<Elem Name="チャットバブル - 2" NameU="Chat Bubble - 2"/>
+
+<Elem Name="チャットバブル（複数）" NameU="Chat Bubbles"/>
+
+<Elem Name="チャットバブル - 話し中" NameU="Chatbubble - Working"/>
+
+<Elem Name="チャットバブル - 円形" NameU="Chat Bubble - Round"/>
+
+<Elem Name="チャットバブル - 話し中2" NameU="Chatbubble - Working2"/>
+
+<Elem Name="チェック" NameU="Check"/>
+
+<Elem Name="チェック（方形枠付き）" NameU="Check-Square-O"/>
+
+<Elem Name="チェック（円枠付き）" NameU="Check with Circle"/>
+
+<Elem Name="子供" NameU="Child"/>
+
+<Elem Name="円形" NameU="Circle"/>
+
+<Elem Name="クリップボード 1" NameU="Clipboard 1"/>
+
+<Elem Name="クリップボード 2" NameU="Clipboard 2"/>
+
+<Elem Name="時計" NameU="Clock"/>
+
+<Elem Name="クロック 1" NameU="Clock - 1"/>
+
+<Elem Name="クローン" NameU="Clone"/>
+
+<Elem Name="クラウド - 1" NameU="Cloud - 1"/>
+
+<Elem Name="クラウド - 2" NameU="Cloud - 2"/>
+
+<Elem Name="クラウド- アップロード" NameU="Cloud - Upload"/>
+
+<Elem Name="クラウド- アップロード　2" NameU="Cloud - Upload2"/>
+
+<Elem Name="クラウド- ダウンロード" NameU="Cloud - Download"/>
+
+<Elem Name="クラウド- ダウンロード　2" NameU="Cloud - Download2"/>
+
+<Elem Name="クラウド- 完了" NameU="Cloud - Done"/>
+
+<Elem Name="カクテル" NameU="Cocktail"/>
+
+<Elem Name="コーヒー" NameU="Coffee"/>
+
+<Elem Name="ギヤ" NameU="Cogs"/>
+
+<Elem Name="カラーフィルター" NameU="Color Filter"/>
+
+<Elem Name="コンパス" NameU="Compass"/>
+
+<Elem Name="作文" NameU="Compose"/>
+
+<Elem Name="契約" NameU="Contract"/>
+
+<Elem Name="トリム" NameU="Crop"/>
+
+<Elem Name="立方体" NameU="Cube"/>
+
+<Elem Name="循環" NameU="Cycle"/>
+
+<Elem Name="ダイアモンド" NameU="Diamond"/>
+
+<Elem Name="書類" NameU="Document"/>
+
+<Elem Name="書類 2" NameU="Documents"/>
+
+<Elem Name="完了" NameU="Done"/>
+
+<Elem Name="ダウンロード" NameU="Download"/>
+
+<Elem Name="イヤホン" NameU="Earphone"/>
+
+<Elem Name="教育" NameU="Education"/>
+
+<Elem Name="メール" NameU="Email"/>
+
+<Elem Name="メール - 既読" NameU="Email - Open"/>
+
+<Elem Name="拡大" NameU="Expand"/>
+
+<Elem Name="ユーロ" NameU="Euro"/>
+
+<Elem Name="目" NameU="Eye"/>
+
+<Elem Name="Facebook" NameU="Facebook"/>
+
+<Elem Name="女性" NameU="Female"/>
+
+<Elem Name="映画" NameU="Film"/>
+
+<Elem Name="火" NameU="Fire"/>
+
+<Elem Name="フラッグ" NameU="Flag"/>
+
+<Elem Name="炎" NameU="Flame"/>
+
+<Elem Name="フラッシュ" NameU="Flash"/>
+
+<Elem Name="フラッシュ - 2" NameU="Flash - 2"/>
+
+<Elem Name="フラッシュ禁止" NameU="Flash Off"/>
+
+<Elem Name="フラスコ" NameU="Flask"/>
+
+<Elem Name="花" NameU="Flower"/>
+
+<Elem Name="フォルダ" NameU="Folder"/>
+
+<Elem Name="サッカー" NameU="Football"/>
+
+<Elem Name="漏斗" NameU="Funnel"/>
+
+<Elem Name="ゲームコントローラー" NameU="Game Controller"/>
+
+<Elem Name="メガネ" NameU="Glasses"/>
+
+<Elem Name="ギヤ" NameU="Gear"/>
+
+<Elem Name="ギヤ - 2" NameU="Gear - 2"/>
+
+<Elem Name="ギヤ - 3" NameU="Gear - 3"/>
+
+<Elem Name="地球儀" NameU="Globe"/>
+
+<Elem Name="Google" NameU="Google"/>
+
+<Elem Name="Google+" NameU="Google Plus"/>
+
+<Elem Name="金槌" NameU="Hammer"/>
+
+<Elem Name="手" NameU="Hand"/>
+
+<Elem Name="握手" NameU="Handshake"/>
+
+<Elem Name="嬉しい" NameU="Happy"/>
+
+<Elem Name="ハート" NameU="Heart"/>
+
+<Elem Name="ホーム" NameU="Home"/>
+
+<Elem Name="アイスクリーム" NameU="Icecream"/>
+
+<Elem Name="画像" NameU="Image"/>
+
+<Elem Name="画像" NameU="Images"/>
+
+<Elem Name="入る" NameU="In"/>
+
+<Elem Name="無限" NameU="Infinite"/>
+
+<Elem Name="情報" NameU="Information"/>
+
+<Elem Name="Instagram" NameU="Instagram"/>
+
+<Elem Name="iPad" NameU="iPad"/>
+
+<Elem Name="iPhone" NameU="iPhone"/>
+
+<Elem Name="iPod" NameU="iPod"/>
+
+<Elem Name="鍵" NameU="Key"/>
+
+<Elem Name="キーボード" NameU="Key Board"/>
+
+<Elem Name="Linkedin" NameU="Linkedin"/>
+
+<Elem Name="リスト" NameU="List"/>
+
+<Elem Name="読み込み中 - 1" NameU="Load - 1"/>
+
+<Elem Name="読み込み中 - 2" NameU="Load - 2"/>
+
+<Elem Name="読み込み中 - 3" NameU="Load - 3"/>
+
+<Elem Name="現在地" NameU="location"/>
+
+<Elem Name="現在地 - 2" NameU="Location - 2"/>
+
+<Elem Name="ロック" NameU="Locked"/>
+
+<Elem Name="ロック解除" NameU="Lock - Unlocked"/>
+
+<Elem Name="ラッパ" NameU="Loudspeaker"/>
+
+<Elem Name="ノートパソコン" NameU="Laptop"/>
+
+<Elem Name="拡大鏡" NameU="Magnifier"/>
+
+<Elem Name="男性" NameU="Male"/>
+
+<Elem Name="男子" NameU="Man"/>
+
+<Elem Name="地図" NameU="Map"/>
+
+<Elem Name="メダル - 1" NameU="Medal - 1"/>
+
+<Elem Name="メダル - 2" NameU="Medal - 2"/>
+
+<Elem Name="救急箱" NameU="Medical Kit"/>
+
+<Elem Name="マージ" NameU="Merge"/>
+
+<Elem Name="マイク - 1" NameU="Microphone - 1"/>
+
+<Elem Name="マイク - 2" NameU="Microphone - 2"/>
+
+<Elem Name="マイク - 3" NameU="Microphone - 3"/>
+
+<Elem Name="マイク - 4" NameU="Microphone - 4"/>
+
+<Elem Name="マイク - オフ" NameU="Microphone - Off"/>
+
+<Elem Name="マイナス記号" NameU="Minus"/>
+
+<Elem Name="マイナス記号（円枠付き）" NameU="Minus with Circle"/>
+
+<Elem Name="モニター" NameU="Monitor"/>
+
+<Elem Name="月" NameU="Moon"/>
+
+<Elem Name="月と雲" NameU="Moon and Cloud"/>
+
+<Elem Name="音楽" NameU="Music"/>
+
+<Elem Name="ミュート" NameU="Mute"/>
+
+<Elem Name="ナビゲーション" NameU="Navigate"/>
+
+<Elem Name="ナビゲーション - 2" NameU="Navigate - 2"/>
+
+<Elem Name="タバコ禁止" NameU="No Smoking"/>
+
+<Elem Name="通知" NameU="Notification"/>
+
+<Elem Name="通知提示-オフ" NameU="Notification Off"/>
+
+<Elem Name="開く" NameU="Open"/>
+
+<Elem Name="オプション" NameU="Options"/>
+
+<Elem Name="退出" NameU="Out"/>
+
+<Elem Name="コンセント" NameU="Outlet"/>
+
+<Elem Name="絵筆" NameU="Paint Brush"/>
+
+<Elem Name="パレット" NameU="Palette"/>
+
+<Elem Name="紙" NameU="Paper"/>
+
+<Elem Name="紙飛行機" NameU="Paper Airplane"/>
+
+<Elem Name="ペーパークリップ" NameU="Paperclip"/>
+
+<Elem Name="足" NameU="Paw"/>
+
+<Elem Name="鉛筆" NameU="Pencil"/>
+
+<Elem Name="人（複数）" NameU="People"/>
+
+<Elem Name="人" NameU="Person"/>
+
+<Elem Name="人 - 2" NameU="Person - 2"/>
+
+<Elem Name="人の記号（円枠付き）" NameU="Person in Circle"/>
+
+<Elem Name="連絡先の追加" NameU="Person Add"/>
+
+<Elem Name="電話" NameU="Phone"/>
+
+<Elem Name="電話 - 2" NameU="Phone - 2"/>
+
+<Elem Name="写真" NameU="Photos"/>
+
+<Elem Name="円グラフ" NameU="Pie"/>
+
+<Elem Name="円グラフ - 2" NameU="Pie - 2"/>
+
+<Elem Name="ピン" NameU="Pin"/>
+
+<Elem Name="ピンポイント" NameU="Pinpoint"/>
+
+<Elem Name="Pinterest" NameU="Pinterest"/>
+
+<Elem Name="飛行機" NameU="Plane"/>
+
+<Elem Name="惑星" NameU="Planet"/>
+
+<Elem Name="プラス記号" NameU="Plus"/>
+
+<Elem Name="プラス記号（円枠付き）" NameU="Plus with Circle"/>
+
+<Elem Name="表彰台" NameU="Podium"/>
+
+<Elem Name="電力" NameU="Power"/>
+
+<Elem Name="値札" NameU="Price Tag"/>
+
+<Elem Name="値札" NameU="Price Tags"/>
+
+<Elem Name="プリンタ－" NameU="Printer"/>
+
+<Elem Name="パルス" NameU="Pulse"/>
+
+<Elem Name="疑問符" NameU="Question Mark"/>
+
+<Elem Name="疑問符 - 2" NameU="Question Mark - 2"/>
+
+<Elem Name="参照" NameU="Quote"/>
+
+<Elem Name="電波" NameU="Radio Wave"/>
+
+<Elem Name="雨" NameU="Rainy"/>
+
+<Elem Name="やり直し" NameU="Redo"/>
+
+<Elem Name="レストラン" NameU="Restaurant"/>
+
+<Elem Name="リボン" NameU="Ribbon"/>
+
+<Elem Name="R-商標" NameU="R-Trademark"/>
+
+<Elem Name="悲しい" NameU="Sad"/>
+
+<Elem Name="砂時計" NameU="Sand Timer"/>
+
+<Elem Name="規模" NameU="Scale"/>
+
+<Elem Name="スキャナ" NameU="Scanner"/>
+
+<Elem Name="ハサミ" NameU="Scissors"/>
+
+<Elem Name="設置" NameU="Setting"/>
+
+<Elem Name="共有" NameU="Share"/>
+
+<Elem Name="ショッピング" NameU="Shopping"/>
+
+<Elem Name="シャッフル" NameU="Shuffle"/>
+
+<Elem Name="Skype" NameU="Skype"/>
+
+<Elem Name="雪" NameU="Snowflake"/>
+
+<Elem Name="速度計" NameU="Speed Meter"/>
+
+<Elem Name="星" NameU="Star"/>
+
+<Elem Name="太陽" NameU="Sun"/>
+
+<Elem Name="太陽と雲" NameU="Sun with Cloud"/>
+
+<Elem Name="ターゲット" NameU="Target"/>
+
+<Elem Name="タクシー" NameU="Taxi"/>
+
+<Elem Name="Temblr" NameU="Temblr"/>
+
+<Elem Name="テニス" NameU="Tennis Ball"/>
+
+<Elem Name="温度計" NameU="Thermometer"/>
+
+<Elem Name="ナイス" NameU="Thumb Up"/>
+
+<Elem Name="そう思わない" NameU="Thumb Down"/>
+
+<Elem Name="雷雨" NameU="Thunderstorm"/>
+
+<Elem Name="時間" NameU="Time"/>
+
+<Elem Name="タイマー" NameU="Timer"/>
+
+<Elem Name="スイッチ" NameU="Toggle"/>
+
+<Elem Name="電車" NameU="Train"/>
+
+<Elem Name="トランスジェンダー" NameU="Transgender"/>
+
+<Elem Name="ゴミ箱" NameU="Trash Bin"/>
+
+<Elem Name="優勝カップ" NameU="Trophy"/>
+
+<Elem Name="Tシャツ" NameU="T-Shirt"/>
+
+<Elem Name="Twitter" NameU="Twitter"/>
+
+<Elem Name="傘" NameU="Umbrella"/>
+
+<Elem Name="アンドゥ" NameU="Undo"/>
+
+<Elem Name="大学" NameU="University"/>
+
+<Elem Name="アップロード" NameU="Upload"/>
+
+<Elem Name="USB" NameU="USB"/>
+
+<Elem Name="USD 1" NameU="USD 1"/>
+
+<Elem Name="USD 2" NameU="USD 2"/>
+
+<Elem Name="ユーザー" NameU="User"/>
+
+<Elem Name="ユーザー 円形" NameU="User - Circle"/>
+
+<Elem Name="ビデオカメラ" NameU="Video Cam"/>
+
+<Elem Name="ボリューム - 低" NameU="Volume - Low"/>
+
+<Elem Name="ボリューム - 中等" NameU="Volume - Medium"/>
+
+<Elem Name="ボリューム - 高" NameU="Volume - High"/>
+
+<Elem Name="ボリューム - ミュート" NameU="Volume - Mute"/>
+
+<Elem Name="歩き" NameU="Walk"/>
+
+<Elem Name="魔法の杖" NameU="Wand"/>
+
+<Elem Name="腕時計" NameU="Watch"/>
+
+<Elem Name="Whatsapp" NameU="Whatsapp"/>
+
+<Elem Name="Wi-Fi" NameU="Wifi"/>
+
+<Elem Name="Windows" NameU="Windows"/>
+
+<Elem Name="ワイングラス" NameU="Wineglass"/>
+
+<Elem Name="女性" NameU="Woman"/>
+
+<Elem Name="Wordpress" NameU="Wordpress"/>
+
+<Elem Name="世界" NameU="World"/>
+
+<Elem Name="レンチ" NameU="Wrench"/>
+
+<Elem Name="日本円" NameU="Yen"/>
+
+<Elem Name="陰陽" NameU="Yin Yang"/>
+
+<Elem Name="Youtube" NameU="Youtube"/>
+
+<Elem Name="主導権" NameU="Initiative"/>
+
+<Elem Name="ギフト" NameU="Gift"/>
+
+<Elem Name="RMB" NameU="RMB"/>
+
+<Elem Name="財布" NameU="Wallet"/>
+
+<Elem Name="輸送" NameU="Transport"/>
+
+<Elem Name="活動" NameU="Activities"/>
+
+<Elem Name="チーム" NameU="Team"/>
+
+<Elem Name="ツールボックス" NameU="Toolbox"/>
+
+<Elem Name="信号" NameU="Signal"/>
+
+<Elem Name="収入源" NameU="Revenue Streams"/>
+
+<Elem Name="道路標識 NameU="Road Sign"/>
+
+<Elem Name="結果" NameU="Result"/>
+
+<Elem Name="" NameU="Work Quality"/>
+
+<Elem Name="お気に入り" NameU="Favorite"/>
+
+<Elem Name="主要な指標" NameU="Key Metrics"/>
+
+<Elem Name="ラベル" NameU="Label"/>
+
+<Elem Name="リスク" NameU="Risks"/>
+
+<Elem Name="デザイン" NameU="Design"/>
+
+<Elem Name="協力" NameU="Cooperation"/>
+
+<Elem Name="質" NameU="Quality"/>
+
+<Elem Name="プロジェクト" NameU="Project"/>
+
+<Elem Name="リポジトリ" NameU="Repositories"/>
+
+<Elem Name="プラン" NameU="Plan"/>
+
+<Elem Name="スケージュール" NameU="Schedule"/>
+
+<Elem Name="目的分析" NameU="Goal Analysis"/>
+
+<Elem Name="望ましくない結果" NameU="Undesired Outcomes"/>
+
+<Elem Name="主な結果" NameU="Key Results"/>
+
+<Elem Name="双方向矢印" NameU="Two-way Arrow"/>
+
+<Elem Name="ロケット" NameU="Rocket"/>
+
+</Lib>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Tourism">
+    <Elem NameU="The Grand Palace" Name="泰國大皇宮"/>
+    <Elem NameU="London Eye" Name="倫敦眼"/>
+    <Elem NameU="Statue of Liberty" Name="自由女神像"/>
+    <Elem NameU="Rome Colosseum" Name="羅馬鬥獸場"/>
+    <Elem NameU="Great Wall" Name="長城"/>
+    <Elem NameU="Sydney Opera House" Name="悉尼歌劇院"/>
+    <Elem NameU="The Pyramids" Name="金字塔"/>
+    <Elem NameU="Church" Name="教堂"/>
+    <Elem NameU="Leaning Tower of Pisa" Name="比薩斜塔"/>
+    <Elem NameU="Eiffel Tower" Name="埃菲爾鐵塔"/>
+    <Elem NameU="The Louvre" Name="盧浮宮"/>
+    <Elem NameU="Merloin" Name="魚尾獅"/>
+    <Elem NameU="Big Ben" Name="大本鐘"/>
+    <Elem NameU="Triumphal Arch" Name="凱旋門"/>
+    <Elem NameU="Burj Al Arab Hotel" Name="帆船酒店"/>
+    <Elem NameU="Dutch Windmill" Name="荷蘭風車"/>
+    <Elem NameU="Taj Mahal" Name="泰姬陵"/>
+    <Elem NameU="British Museum" Name="不列顛博物館"/>
+    <Elem NameU="Chichen Itza" Name="奇琴伊察"/>
+    <Elem NameU="Parliament House" Name="國會大廈"/>
+    <Elem NameU="The White House" Name="白宮"/>
+    <Elem NameU="Pavilion" Name="亭子"/>
+    <Elem NameU="Water Villa" Name="水榭"/>
+    <Elem NameU="Waterfall 1" Name="瀑布 1"/>
+    <Elem NameU="Waterfall 2" Name="瀑布 2"/>
+    <Elem NameU="Fountain" Name="噴泉"/>
+    <Elem NameU="Telephone Booth" Name="電話亭"/>
+    <Elem NameU="Pillar box" Name="信筒"/>
+    <Elem NameU="Direction Board" Name="指示牌"/>
+    <Elem NameU="Travel Suitcase" Name="旅行箱"/>
+    <Elem NameU="Luggage" Name="行李"/>
+    <Elem NameU="Person with Suitcase" Name="帶行李箱的人"/>
+    <Elem NameU="Brother and Sister" Name="兄弟"/>
+    <Elem NameU="Couple Walking" Name="情侶散步"/>
+    <Elem NameU="People with Camera" Name="帶相機旅行"/>
+    <Elem NameU="Family" Name="家庭"/>
+    <Elem NameU="Surfboard" Name="衝浪板"/>
+    <Elem NameU="Beach Umbrella" Name="遮陽傘"/>
+    <Elem NameU="Liqueur" Name="利口酒"/>
+    <Elem NameU="Coconut Palm" Name="椰樹"/>
+    <Elem NameU="Dolphin" Name="海豚"/>
+    <Elem NameU="Starfish" Name="海星"/>
+    <Elem NameU="Seashell" Name="貝殼"/>
+    <Elem NameU="Spiral Shell 1" Name="海螺1"/>
+    <Elem NameU="Spiral Shell 2" Name="海螺2"/>
+    <Elem NameU="Spiral Shell 3" Name="海螺3"/>
+    <Elem NameU="Shark" Name="鯊魚"/>
+    <Elem NameU="Fish" Name="魚"/>
+    <Elem NameU="Giraffe" Name="長頸鹿"/>
+    <Elem NameU="Swim goggles" Name="游泳護目鏡"/>
+    <Elem NameU="Sunglasses 1" Name="太陽鏡1"/>
+    <Elem NameU="Sunglasses 2" Name="太陽鏡2"/>
+    <Elem NameU="Cap 1" Name="帽子1"/>
+    <Elem NameU="Cap 2" Name="帽子2"/>
+    <Elem NameU="Bikini" Name="比基尼"/>
+    <Elem NameU="Packet" Name="袋子"/>
+    <Elem NameU="Beach shoes" Name="沙灘鞋"/>
+    <Elem NameU="Beach chair 1" Name="沙灘椅1"/>
+    <Elem NameU="Beach chair 2" Name="沙灘椅2"/>
+    <Elem NameU="The beach area" Name="海灘區"/>
+    <Elem NameU="Bank Card" Name="銀行卡"/>
+    <Elem NameU="Cloud" Name="雲"/>
+    <Elem NameU="Aircraft 1" Name="飛機1"/>
+    <Elem NameU="Aircraft 2" Name="飛機2"/>
+    <Elem NameU="Aircraft 3" Name="飛機3"/>
+    <Elem NameU="Car" Name="汽車"/>
+    <Elem NameU="Bus" Name="公共汽車"/>
+    <Elem NameU="Double Decker Bus" Name="雙層巴士"/>
+    <Elem NameU="Family Car" Name="家庭轎車"/>
+    <Elem NameU="Cruise Ship" Name="油輪"/>
+    <Elem NameU="Sailing" Name="航行"/>
+    <Elem NameU="Sunny" Name="晴朗"/>
+    <Elem NameU="Cloudy" Name="多雲"/>
+    <Elem NameU="Overcast" Name="陰"/>
+    <Elem NameU="Rainy" Name="下雨"/>
+    <Elem NameU="Thunderstorm" Name="雷雨"/>
+    <Elem NameU="Thunder" Name="雷"/>
+    <Elem NameU="Heavy Snow" Name="大雪"/>
+    <Elem NameU="Rain and Snow" Name="雨夾雪"/>
+    <Elem NameU="Umbrella" Name="雨傘"/>
+    <Elem NameU="Location Mark" Name="定位標記"/>
+    <Elem NameU="Compass" Name="指南針"/>
+    <Elem NameU="People" Name="人"/>
+</Lib>

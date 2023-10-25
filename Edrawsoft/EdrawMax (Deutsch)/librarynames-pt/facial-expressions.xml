@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Facial Expressions">
+	<Elem NameU="Man Laugh" Name="Homem Rir"/>
+	<Elem NameU="Man Happy" Name="Homem Feliz"/>
+	<Elem NameU="Man Surprised" Name="Homem Surpreendido"/>
+	<Elem NameU="Man Wink" Name="Homem Piscar o Olho"/>
+	<Elem NameU="Man Pleased" Name="Homem Agradado"/>
+	<Elem NameU="Man Indifferent" Name="Homem Indiferente"/>
+	<Elem NameU="Man Despise" Name="Homem Desprezo"/>
+	<Elem NameU="Man Angry 2" Name="Homem Irritado 2"/>
+	<Elem NameU="Man Angry 1" Name="Homem Irritado 1"/>
+	<Elem NameU="Man in Love" Name="Homem Apaixonado"/>
+	<Elem NameU="Man Dissatisfied" Name="Homem Insatisfeito"/>
+	<Elem NameU="Man Sad" Name="Homem Triste"/>
+	<Elem NameU="Man Disappointed" Name="Homem Desapontado"/>
+	<Elem NameU="Man Uneasy" Name="Homem Desconfortável"/>
+	<Elem NameU="Man Awkward" Name="Homem Constrangedor"/>
+	<Elem NameU="Man Cute" Name="Homem Fofo"/>
+	<Elem NameU="Man Greedy" Name="Homem Ganancioso"/>
+	<Elem NameU="Man Crying" Name="Homem a Chorar"/>
+	<Elem NameU="Man Disgusted" Name="Homem Enojado"/>
+	<Elem NameU="Man Scared" Name="Homem Assutado"/>
+	<Elem NameU="Woman Normal" Name="Mulher Normal"/>
+	<Elem NameU="Woman Pleased" Name="Mulher Agradada"/>
+	<Elem NameU="Woman Happy" Name="Mulher Feliz"/>
+	<Elem NameU="Woman Surprised" Name="Mulher Surpreendida"/>
+	<Elem NameU="Woman One Eye Blink" Name="Mulher Piscar Um Olho"/>
+	<Elem NameU="Woman Indifference" Name="Mulher Indiferença"/>
+	<Elem NameU="Woman Dissatisfied" Name="Mulher Insatisfeita"/>
+	<Elem NameU="Woman In Love" Name="Mulher Apaixonada"/>
+	<Elem NameU="Woman Angry 1" Name="Mulher Irritada 1"/>
+	<Elem NameU="Woman Angry 2" Name="Mulher Irritada 2"/>
+	<Elem NameU="Woman Despise" Name="Mulher Desprezo"/>
+	<Elem NameU="Woman Sad" Name="Mulher Triste"/>
+	<Elem NameU="Woman Uneasy" Name="Mulher Desconfortável"/>
+	<Elem NameU="Woman Disappointed" Name="Mulher Desapontada"/>
+	<Elem NameU="Woman Awkward" Name="Mulher Contrangedora"/>
+	<Elem NameU="Woman Greedy" Name="Mulher Gananciosa"/>
+	<Elem NameU="Woman Cute" Name="Mulher Fofa"/>
+	<Elem NameU="Woman Crying" Name="Mulher A Chorar"/>
+	<Elem NameU="Woman Disgusted" Name="Mulher Enojada"/>
+	<Elem NameU="Woman Scared" Name="Mulher Assustada"/>
+</Lib>

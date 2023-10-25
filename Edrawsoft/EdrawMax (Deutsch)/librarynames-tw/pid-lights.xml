@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Lights">
+    <Elem NameU="Light1- green" Name="燈1- 綠色"/>
+    <Elem NameU="Light1- orange" Name="燈1- 橙色"/>
+    <Elem NameU="Light1- red" Name="燈1- 紅色"/>
+    <Elem NameU="Light2- green" Name="燈2- 綠色"/>
+    <Elem NameU="Light2- orange" Name="燈2- 橙色"/>
+    <Elem NameU="Light2- red" Name="燈2- 紅色"/>
+    <Elem NameU="Light3- green" Name="燈3- 綠色"/>
+    <Elem NameU="Light3- red" Name="燈3- 紅色"/>
+    <Elem NameU="Light3- yellow" Name="燈3- 黃色"/>
+    <Elem NameU="Light4- green" Name="燈4- 綠色"/>
+    <Elem NameU="Light4- red" Name="燈4- 紅色"/>
+    <Elem NameU="Light4- yellow" Name="燈4- 黃色"/>
+    <Elem NameU="Light5- green" Name="燈5- 綠色"/>
+    <Elem NameU="Light5- orange" Name="燈5- 橙色"/>
+    <Elem NameU="Light5- red" Name="燈5- 紅色"/>
+    <Elem NameU="Light6- green" Name="燈6- 綠色"/>
+    <Elem NameU="Light6- red" Name="燈6- 紅色"/>
+    <Elem NameU="Light6- yellow" Name="燈6- 黃色"/>
+    <Elem NameU="Light7- green" Name="燈7- 綠色"/>
+    <Elem NameU="Light7- orange" Name="燈7- 橙色"/>
+    <Elem NameU="Light7- red" Name="燈7- 紅色"/>
+    <Elem NameU="Light8- green" Name="燈8- 綠色"/>
+    <Elem NameU="Light8- red" Name="燈8- 紅色"/>
+    <Elem NameU="Light8- yellow" Name="燈8- 黃色"/>
+    <Elem NameU="Light9- green" Name="燈9- 綠色"/>
+    <Elem NameU="Light9- red" Name="燈9- 紅色"/>
+    <Elem NameU="Light9- yellow" Name="燈9- 黃色"/>
+    <Elem NameU="Light10- green" Name="燈10- 綠色"/>
+    <Elem NameU="Light10- red" Name="燈10- 紅色"/>
+    <Elem NameU="Light10- yellow" Name="燈10- 黃色"/>
+    <Elem NameU="Light11- green" Name="燈11- 綠色"/>
+    <Elem NameU="Light11- red" Name="燈11- 紅色"/>
+    <Elem NameU="Light11- yellow" Name="燈11- 黃色"/>
+    <Elem NameU="Light12- green" Name="燈12- 綠色"/>
+    <Elem NameU="Light12- red" Name="燈12- 紅色"/>
+    <Elem NameU="Light12- yellow" Name="燈12- 黃色"/>
+</Lib>

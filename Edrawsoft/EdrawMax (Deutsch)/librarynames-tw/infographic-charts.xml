@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Infographic Charts">
+    <Elem NameU="Bar Chart" Number="6" Name="條形圖"/>
+    <Elem NameU="Column Chart" Number="3" Name="柱狀圖"/>
+    <Elem NameU="Pie" Name="餅圖"/>
+    <Elem NameU="Rose Pie" Name="玫瑰餅圖"/>
+    <Elem NameU="Doughnut" Number="2" Name="圓環圖"/>
+    <Elem NameU="Circle Indicator" Number="23" Name="圓形指示器"/>
+    <Elem NameU="Semicircular Indicator" Name="半圓形指示器"/>
+    <Elem NameU="Bar Indicator" Number="2" Name="條形指示器"/>
+    <Elem NameU="Column Indicator" Name="柱狀指示器"/>
+    <Elem NameU="Battery Indicator" Number="2" Name="電池指示器"/>
+    <Elem NameU="Percentage Indicator" Number="9" Name="百分比指示器"/>
+    <Elem NameU="Clock Chart" Name="鐘形錶"/>
+    <Elem NameU="Woman" Name="女人"/>
+    <Elem NameU="Man" Name="男人"/>
+    <Elem NameU="Men" Name="男人們"/>
+    <Elem NameU="Women" Name="女人們"/>
+    <Elem NameU="People" Name="人物"/>
+    <Elem NameU="Test Tube Chart" Number="2" Name="試管圖"/>
+    <Elem NameU="Water Drop Chart" Name="水滴圖"/>
+    <Elem NameU="Column Chart" Name="柱狀圖"/>
+    <Elem NameU="Bar Chart" Name="條形圖"/>
+    <Elem NameU="Up Arrow" Name="向上箭頭"/>
+    <Elem NameU="Like Thumb" Name="拇指點讚"/>
+    <Elem NameU="Data Analysis Table" Number="2" Name="資料分析表"/>
+    <Elem NameU="Scale Map" Name="比例圖"/>
+    <Elem NameU="Stacked Circle Chart" Name="堆積圓形"/>
+</Lib>

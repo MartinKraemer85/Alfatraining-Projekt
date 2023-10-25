@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Road Signs">
+    <Elem NameU="Roundabout" Name="环形交叉"/>
+    <Elem NameU="Road narrows on both sides ahead" Name="两侧变窄"/>
+    <Elem NameU="Hump Back Bridge" Name="驼峰桥"/>
+    <Elem NameU="Horse Riders" Name="注意骑马的人"/>
+    <Elem NameU="Height restriction warning" Name="高度限制警告"/>
+    <Elem NameU="Falling Rocks" Name="注意落石"/>
+    <Elem NameU="Slippery Road" Name="易滑"/>
+    <Elem NameU="Children Crossing" Name="注意儿童"/>
+    <Elem NameU="Sheep" Name="注意牲畜-羊"/>
+    <Elem NameU="Cattle" Name="注意牲畜-牛"/>
+    <Elem NameU="Cattle Grid" Name="拦畜木栅"/>
+    <Elem NameU="Steep hill downwards" Name="下陡坡"/>
+    <Elem NameU="Steep hill upwards" Name="上陡坡"/>
+    <Elem NameU="Danger place" Name="注意危险"/>
+    <Elem NameU="Intersection 1" Name="交叉道路"/>
+    <Elem NameU="Intersection 2" Name="干路先行"/>
+    <Elem NameU="Bend" Name="弯路"/>
+    <Elem NameU="Double bend" Name="连续弯路"/>
+    <Elem NameU="Two ways traffic" Name="双行道标志"/>
+    <Elem NameU="Mobile bridge" Name="渡口"/>
+    <Elem NameU="Traffic Lights" Name="注意信号灯"/>
+    <Elem NameU="Pedestrian crossing" Name="注意行人"/>
+    <Elem NameU="Road work" Name="道路施工"/>
+    <Elem NameU="Back up" Name="后备"/>
+    <Elem NameU="Give way" Name="减速让行"/>
+    <Elem NameU="Crossing" Name="叉形符号"/>
+    <Elem NameU="Stop" Name="停车让行"/>
+    <Elem NameU="Roundable" Name="环岛行驶"/>
+    <Elem NameU="Cycle track" Name="非机动车行驶"/>
+    <Elem NameU="Pass this side" Name="靠右侧道路行驶"/>
+    <Elem NameU="Direction to be followed" Name="向右转弯"/>
+    <Elem NameU="One way street" Name="单行路向左或向右"/>
+    <Elem NameU="No entry" Name="禁止驶入"/>
+    <Elem NameU="No entry both directions" Name="禁止通行"/>
+    <Elem NameU="No pedestrians" Name="禁止行人通行"/>
+    <Elem NameU="No vehicles designed to carry more than 8 passengers (excluding driver) or local buses" Name="禁止载客超过8人的车辆通行（包括司机）"/>
+    <Elem NameU="No towed caravans" Name="禁止拖/挂车通行"/>
+    <Elem NameU="No goods vehicles exceeding maximum gross weight shown (in tonnes)" Name="禁止载重超过图示重量的货车通行 (公吨制)"/>
+    <Elem NameU="Maximum length (imperial only)" Name="限制车长（英尺制）"/>
+    <Elem NameU="No cycling" Name="禁止非机动车通行"/>
+    <Elem NameU="No motorcycles" Name="禁止摩托车通行"/>
+    <Elem NameU="No horse-drawn vehicles" Name="禁止畜力车通行"/>
+    <Elem NameU="No motor vehicles except solo motorcycles" Name="禁止机动车通行-单人摩托车除外"/>
+    <Elem NameU="No motor vehicles" Name="禁止机动车通行"/>
+    <Elem NameU="No Overtaking" Name="禁止超车"/>
+    <Elem NameU="No vehicles carrying explosives" Name="禁止运输危险品驶入"/>
+    <Elem NameU="No U-turns" Name="禁止掉头"/>
+    <Elem NameU="No articulated vehicles" Name="禁止拖挂车通行"/>
+    <Elem NameU="No Stopping" Name="禁止停车"/>
+    <Elem NameU="No left turn" Name="禁止向左转弯"/>
+    <Elem NameU="No right turn" Name="禁止向右转弯"/>
+    <Elem NameU="Maximum height (imperial only)" Name="限制高度（英尺制）"/>
+    <Elem NameU="Maximum height (metric and imperial)" Name="限制高度（公尺和英尺）"/>
+    <Elem NameU="Maximum width (imperial only)" Name="限制宽度 （英尺制）"/>
+    <Elem NameU="Maximum width (metric and imperial)" Name="限制宽度 （公尺和英尺）"/>
+    <Elem NameU="Minimum speed" Name="最低限速"/>
+    <Elem NameU="Maximum speed" Name="最高限速"/>
+    <Elem NameU="National speed limit" Name="全国车速限制"/>
+    <Elem NameU="Shared cycle" Name="行人与非机动车共用车道"/>
+    <Elem NameU="Segregated cycle 1" Name="行人与非机动车分离车道1"/>
+    <Elem NameU="Segregated cycle 2" Name="行人与非机动车分离车道2"/>
+    <Elem NameU="Entering 20mph zone" Name="进入20英里区域"/>
+    <Elem NameU="Maximum weight" Name="限制重量"/>
+    <Elem NameU="Speed Camera in Operation" Name="注意超速摄像头"/>
+    <Elem NameU="Unsuitable for motor vehicles warning" Name="不适合机动车行驶警示"/>
+    <Elem NameU="Escape lane 1" Name="应急逃生车道1"/>
+    <Elem NameU="Escape lane 2" Name="应急逃生车道2"/>
+    <Elem NameU="SOS Point" Name="紧急电话"/>
+    <Elem NameU="No through road" Name="此路不通"/>
+    <Elem NameU="Parking" Name="泊车"/>
+    <Elem NameU="No passing without stopping" Name="禁止穿过"/>
+    <Elem NameU="No parking" Name="禁止车辆长时停放"/>
+    <Elem NameU="Speed limit" Name="限制速度"/>
+    <Elem NameU="Heigh limit" Name="限制高度"/>
+    <Elem NameU="Width limit" Name="限制宽度"/>
+    <Elem NameU="Weight limit" Name="限制质量"/>
+    <Elem NameU="Priority over oncoming traffic" Name="交通优先权"/>
+    <Elem NameU="Streetcar or regular buses" Name="有轨电车或班车点"/>
+    <Elem NameU="Taxi status" Name="禁止出租车"/>
+    <Elem NameU="Speed 30-zone" Name="限速30区域"/>
+    <Elem NameU="End speed 30-zone" Name="限速30区域结束"/>
+    <Elem NameU="Pedestrian crossing 2" Name="人行横道 2"/>
+    <Elem NameU="Police" Name="警察局"/>
+    <Elem NameU="Hotel" Name="旅馆"/>
+    <Elem NameU="Restaurant" Name="餐饮"/>
+    <Elem NameU="Break down service" Name="维修服务"/>
+    <Elem NameU="P+R" Name="转乘停车场"/>
+    <Elem NameU="Restroom" Name="盥洗室"/>
+    <Elem NameU="Fuel" Name="加油站"/>
+    <Elem NameU="Telephone" Name="电话"/>
+    <Elem NameU="Recommended speed" Name="推荐速度"/>
+    <Elem NameU="Nodal point of motorway" Name="告诉公路节点"/>
+    <Elem NameU="Motorway" Name="高速公路"/>
+    <Elem NameU="End motorway" Name="高速公路终点"/>
+    <Elem NameU="Populated zone" Name="行人密集区"/>
+    <Elem NameU="End populated zone" Name="行人密集区结束"/>
+    <Elem NameU="Parking with clock" Name="计时停车"/>
+    <Elem NameU="Number sign" Name="数字牌"/>
+    <Elem NameU="Number sign (federal highway)" Name="数字牌(高速路)"/>
+    <Elem NameU="Exit" Name="出口"/>
+    <Elem NameU="Direction to place" Name="路标"/>
+    <Elem NameU="Board of announcement of exit" Name="出口告示牌"/>
+    <Elem NameU="Speed Camera Sign" Name="区间测速"/>
+</Lib>

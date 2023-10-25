@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Laboratory Equipment">
+    <Elem NameU="Dropper" Number="2" Name="스포이트"/>
+    <Elem NameU="Dropping Liquid" Name="액체 스포이트"/>
+    <Elem NameU="Gas Jar" Number="2" Name="가스 용기"/>
+    <Elem NameU="Beaker" Name="Beaker"/>
+    <Elem NameU="Trough" Name="물통"/>
+    <Elem NameU="Flask" Name="플라스크"/>
+    <Elem NameU="Flat Bottomed Flask" Name="평평한 플라스크"/>
+    <Elem NameU="Flask" Name="플라스크"/>
+    <Elem NameU="Conical Flask" Name="원추형 플라스크"/>
+    <Elem NameU="Conical Flask 2" Name="원추형 플라스크 2"/>
+    <Elem NameU="Y Tube" Name="Y형 튜브"/>
+    <Elem NameU="Small Test Tube" Name="작은 테스트 튜브"/>
+    <Elem NameU="Test Tube" Name="테스트 튜브"/>
+    <Elem NameU="U Tube" Number="2" Name="U형 튜브"/>
+    <Elem NameU="Pear-Shaped Flask" Number="2" Name="배모양 플라스크"/>
+    <Elem NameU="Suction Flask" Name="흡입 플라스크"/>
+    <Elem NameU="Canula" Name="캐뉼라"/>
+    <Elem NameU="Liebig Condenser" Name="Liebig콘덴서"/>
+    <Elem NameU="Measuring Cylinder" Name="눈금 실린더"/>
+    <Elem NameU="Acid Burette" Name="산성 뷰렛"/>
+    <Elem NameU="Alkaline Burette" Name="알칼리 뷰렛"/>
+    <Elem NameU="Condenser" Number="2" Name="콘덴서"/>
+    <Elem NameU="Kipp's Apparatus" Name="Kipp's Apparatus"/>
+    <Elem NameU="Kipp's Apparatus 2" Name="Kipp's Apparatus2"/>
+    <Elem NameU="Separator Funnel" Name="분리 깔때기"/>
+    <Elem NameU="Funnel" Number="3" Name="깔때기"/>
+    <Elem NameU="Büchner Funnel" Name="Büchner 깔때기"/>
+    <Elem NameU="Desiccator" Name="건조기"/>
+    <Elem NameU="Bidirectional Tube" Name="양방향 튜브"/>
+    <Elem NameU="Thermometer" Name="온도계"/>
+    <Elem NameU="Iron Stage" Name="아이언 스테이지"/>
+    <Elem NameU="Iron Stage Clamp" Name="아이언 스테이지 집게"/>
+    <Elem NameU="Glass Rod" Name="유리 막대"/>
+    <Elem NameU="Ladle" Name="국자"/>
+    <Elem NameU="Crucible" Name="도가니"/>
+    <Elem NameU="Evaporation Dish" Name="증발 용기"/>
+    <Elem NameU="Watch Glass" Name="관찰경"/>
+    <Elem NameU="Rubber Tube" Name="고무 튜브"/>
+    <Elem NameU="Right Rubber Tube" Name="오른쪽 고무 튜브"/>
+    <Elem NameU="Bend Rubber Tube" Name="벤드 고무 튜브"/>
+    <Elem NameU="Flexible Rubber Tube" Name="유연한 고무 튜브"/>
+    <Elem NameU="Rubber Plug" Name="고무 플러그"/>
+    <Elem NameU="Small Rubber Plug" Name="작은 고무 플러그"/>
+    <Elem NameU="Glass Plug" Number="2" Name="유리 플러그"/>
+    <Elem NameU="Pipe Orifice" Name="파이프 오리피스"/>
+    <Elem NameU="Switch" Name="스위치"/>
+    <Elem NameU="Glass Tube" Number="2" Name="유리관"/>
+    <Elem NameU="Glass Delivery Tube" Number="2" Name="유리 수송관"/>
+    <Elem NameU="Flexible Glass Tube" Number="2" Name="유연한 유리관"/>
+    <Elem NameU="U Tube" Name="U형 튜브"/>
+    <Elem NameU="Glass Delivery Tube" Name="유리 수송관"/>
+    <Elem NameU="T-shaped Tube" Number="3" Name="T형관"/>
+    <Elem NameU="Alcohol Burner" Name="알콜등"/>
+    <Elem NameU="Flame" Name="불꽃"/>
+    <Elem NameU="Flame 1" Name="불꽃1"/>
+    <Elem NameU="Flame 2" Name="불꽃2"/>
+    <Elem NameU="Balloon" Number="2" Name="풍선"/>
+    <Elem NameU="Dripping" Name="방울"/>
+    <Elem NameU="Bubble" Name="버블"/>
+    <Elem NameU="Shine" Number="2" Name="발광"/>
+    <Elem NameU="Spray" Name="스프레이"/>
+    <Elem NameU="Smoke" Number="3" Name="연기"/>
+    <Elem NameU="Fog" Name="안개"/>
+    <Elem NameU="Solid" Name="고체"/>
+    <Elem NameU="Particle" Name="과립"/>
+    <Elem NameU="Solid" Name="고체"/>
+    <Elem NameU="Diamond" Name="다이아몬드"/>
+    <Elem NameU="Dry Ice" Name="드라이 아이스"/>
+    <Elem NameU="Ferric Sulfate" Name="황산철"/>
+    <Elem NameU="Graphite" Name="석묵"/>
+    <Elem NameU="Sodium Hydroxide" Name="수산화 나트륨"/>
+    <Elem NameU="Copper Sheet" Name="구리 시트"/>
+    <Elem NameU="Cotton" Name="면"/>
+    <Elem NameU="Stopcock" Number="2" Name="마개"/>
+    <Elem NameU="Wood Block" Name="나무 블록"/>
+    <Elem NameU="Balance" Name="균횽"/>
+    <Elem NameU="Weight" Name="무게"/>
+    <Elem NameU="Wood Block" Name="나무 블록"/>
+    <Elem NameU="Three-necked Bottle" Name="Three-necked Bottle"/>
+    <Elem NameU="Two Mouth Pear-shaped Flask " Name="Two Mouth Pear-shaped Flask "/>
+    <Elem NameU="Pear-shaped Flask" Number="2" Name="배모양 플라스크"/>
+    <Elem NameU="Round-bottom Flask" Name="둥근 플라스크"/>
+    <Elem NameU="Pear-shaped Fractional Distillation Flask" Name="배 모양 분획 증류 플라스크"/>
+    <Elem NameU="Measuring Bottle" Name="계량병"/>
+    <Elem NameU="Iodin flask" Number="2" Name="요오드 플라스크"/>
+    <Elem NameU="Drying Tube" Name="건조 튜브"/>
+    <Elem NameU="U Tube" Number="2" Name="U형 튜브"/>
+    <Elem NameU="Kjeldahl Distilling Head" Name="Kjeldahl 증류 헤드"/>
+    <Elem NameU="Distilling Head" Name="증류 헤드"/>
+    <Elem NameU="Triangle Thiele Tube" Name="삼각형 Thiele 튜브"/>
+    <Elem NameU="Dryer" Name="건조기"/>
+    <Elem NameU="Culture Dish" Name="배양접시"/>
+    <Elem NameU="Flat-bottom Evaporating Dish" Name="바닥 증발 접시"/>
+    <Elem NameU="Crucible" Name="도가니"/>
+    <Elem NameU="Crucible Tongs" Name="도가니 집게"/>
+    <Elem NameU="Medicine Spoon" Name="약 스푼"/>
+    <Elem NameU="Tweezer" Name="핀셋"/>
+    <Elem NameU="Asbestosed Wire Gauze" Name="석면 와이어 거즈"/>
+    <Elem NameU="Glass Sheet" Name="유리판"/>
+    <Elem NameU="Jar" Number="2" Name="항아리"/>
+    <Elem NameU="Weighing Bottle" Number="2" Name="무게병"/>
+    <Elem NameU="medicine bottle" Name="약병"/>
+    <Elem NameU="Conical Graduated" Name="원추형 눈금"/>
+    <Elem NameU="Injector" Name="인젝터"/>
+    <Elem NameU="Iron Wire" Name="철선"/>
+    <Elem NameU="Magnesium Ribbon" Name="마그네슘 리본"/>
+    <Elem NameU="Match" Number="2" Name="성냥"/>
+    <Elem NameU="Candle" Name="촛불"/>
+    <Elem NameU="Tripod" Name="삼각대"/>
+    <Elem NameU="Test Tube Clamp" Name="시험관 집게"/>
+    <Elem NameU="U-Tube piezometer" Name="U형 피에조미터"/>
+    <Elem NameU="Microscope" Name="현미경"/>
+</Lib>

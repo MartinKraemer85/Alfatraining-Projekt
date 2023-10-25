@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Pyramid Chart">
+	<Elem NameU="Basic Pyramid" Name="Pirâmide Básica"/>
+	<Elem NameU="Inverted Basic Pyramid" Name="Pirâmide Básica Invertida"/>
+	<Elem NameU="Pyramid" Name="Pirâmide"/>
+	<Elem NameU="Pyramid 2" Name="Pirâmide 2"/>
+	<Elem NameU="Inverted Pyramid" Name="Pirâmide Invertida"/>
+	<Elem NameU="Inverted Pyramid 2" Name="Pirâmide Invertida 2"/>
+	<Elem NameU="Gradient Pyramid" Name="Pirâmide de Gradiente"/>
+	<Elem NameU="Pyramid 3" Name="Pirâmide 3"/>
+	<Elem NameU="3D Pyramid" Name="Pirâmide 3D"/>
+	<Elem NameU="Inverted 3D Pyramid" Name="Pirâmide 3D Invertida"/>
+	<Elem NameU="3D Pyramid 2" Name="Pirâmide 3D 2"/>
+	<Elem NameU="3D Pyramid 3" Name="Pirâmide 3D 3"/>
+	<Elem NameU="Pyramid 4" Name="Pirâmide 4"/>
+	<Elem NameU="Inverted Pyramid 3" Name="Pirâmide Invertida 3"/>
+	<Elem NameU="Triangle Pyramid" Name="Pirâmide Triangular"/>
+	<Elem NameU="Triangle Pyramid 2" Name="Pirâmide Triangular 2"/>
+	<Elem NameU="Circle Pyramid" Name="Pirâmide Círculo"/>
+	<Elem NameU="Inverted Circle Pyramid" Name="Pirâmide Circulo Invertida"/>
+	<Elem NameU="Custom Pyramid" Name="Pirâmide Personalizada"/>
+</Lib>

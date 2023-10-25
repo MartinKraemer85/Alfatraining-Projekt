@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Equipment-Crushers">
+	<Elem NameU="Crusher" Name="Triturador"/>
+	<Elem NameU="Coarse crushers" Name="Trituradores grossos"/>
+	<Elem NameU="Medium crushers" Name="Trituradores médios"/>
+	<Elem NameU="Fine crushers" Name="Trituradores finos"/>
+	<Elem NameU="Various crushers" Name="Vários trituradores"/>
+	<Elem NameU="Hammer crusher" Name="Triturador martelo"/>
+	<Elem NameU="Impact crusher" Name="Triturador de impacto"/>
+	<Elem NameU="Jaw crusher" Name="Triturador de mandíbulas"/>
+	<Elem NameU="Roller crusher" Name="Triturador de rolo"/>
+	<Elem NameU="Cone crusher" Name="Triturador de cone"/>
+	<Elem NameU="Vibration crusher" Name="Triturador de vibração"/>
+</Lib>

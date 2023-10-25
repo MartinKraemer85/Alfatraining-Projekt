@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Business Scene 2">
+    <Elem NameU="People" Name="人"/>
+    <Elem NameU="Meeting" Name="會議"/>
+    <Elem NameU="Global Cooperation" Name="全球合作"/>
+    <Elem NameU="Board meeting" Name="董事會議"/>
+    <Elem NameU="Work report" Name="工作報告"/>
+    <Elem NameU="Late for work" Name="上班遲到"/>
+    <Elem NameU="Overseas call" Name="越洋電話"/>
+    <Elem NameU="Business travel" Name="出差"/>
+    <Elem NameU="Creative work" Name="創作"/>
+    <Elem NameU="Wifi" Name="無線網絡"/>
+    <Elem NameU="Speech" Name="演講"/>
+    <Elem NameU="Fax" Name="傳真"/>
+    <Elem NameU="Answer the phone" Name="接電話"/>
+    <Elem NameU="Rainy days off work" Name="雨天下班"/>
+    <Elem NameU="Take a taxi" Name="坐出租車"/>
+    <Elem NameU="Cross the road" Name="過馬路"/>
+    <Elem NameU="Spare time" Name="業餘時間"/>
+    <Elem NameU="Ranking" Name="排名"/>
+    <Elem NameU="Problem Solving" Name="解決問題"/>
+    <Elem NameU="Global partners" Name="全球合作夥伴"/>
+    <Elem NameU="Pleasant cooperation" Name="合作愉快"/>
+    <Elem NameU="Work exchange" Name="業務交流"/>
+    <Elem NameU="Sorting 1" Name="整理1"/>
+    <Elem NameU="Sorting 2" Name="整理2"/>
+    <Elem NameU="Sorting 3" Name="整理3"/>
+    <Elem NameU="How" Name="如何"/>
+    <Elem NameU="Confused" Name="迷惑的"/>
+    <Elem NameU="Receive mail" Name="收到郵件"/>
+    <Elem NameU="Data analysis" Name="資料分析"/>
+    <Elem NameU="Data processing" Name="資料處理"/>
+    <Elem NameU="Quality certification" Name="質量認證"/>
+    <Elem NameU="EU" Name="歐盟"/>
+    <Elem NameU="Deadline" Name="截止日期"/>
+    <Elem NameU="Announcer" Name="演講者"/>
+    <Elem NameU="Analysis" Name="分析"/>
+    <Elem NameU="Idea" Name="想法"/>
+    <Elem NameU="Profit" Name="利潤"/>
+    <Elem NameU="Search" Name="搜索"/>
+    <Elem NameU="Dialogue" Name="對話"/>
+    <Elem NameU="Bulletin board" Name="佈告欄"/>
+    <Elem NameU="Crisis" Name="危機"/>
+    <Elem NameU="Praise" Name="讚揚"/>
+    <Elem NameU="Flag" Name="旗"/>
+    <Elem NameU="Propaganda" Name="宣傳"/>
+    <Elem NameU="Announcement" Name="公告"/>
+    <Elem NameU="Cleaning" Name="清潔"/>
+    <Elem NameU="Photograph" Name="照片"/>
+    <Elem NameU="Location" Name="定位"/>
+    <Elem NameU="Mobile calls" Name="移動電話"/>
+    <Elem NameU="Team" Name="團隊"/>
+</Lib>

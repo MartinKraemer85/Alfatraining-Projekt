@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lib nameU="SDL Diagram">
+
+<Elem Name="開始" NameU="Start"/>
+
+<Elem Name="可変型開始" NameU="Variable start"/>
+
+<Elem Name="進行" NameU="Procedure"/>
+
+<Elem Name="可変型処理" NameU="Variable procedure"/>
+
+<Elem Name="要求作成" NameU="Create request"/>
+
+<Elem Name="代替" NameU="Alternative"/>
+
+<Elem Name="復帰" NameU="Return"/>
+
+<Elem Name="ユーザーからの書信" NameU="Message from user"/>
+
+<Elem Name="ユーザーへの書信" NameU="Message to user"/>
+
+<Elem Name="呼び出し制御へのプリミティブ" NameU="Primitive to call control"/>
+
+<Elem Name="保存" NameU="Save"/>
+
+<Elem Name="書類" NameU="Document"/>
+
+<Elem Name="ディスク記憶装置" NameU="Disk storage"/>
+
+<Elem Name="分割処理" NameU="Divided process"/>
+
+<Elem Name="分割イベント" NameU="Divided event"/>
+
+<Elem Name="端子" NameU="Terminator"/>
+
+<Elem Name="ヘージ上参照" NameU="On-page reference"/>
+
+<Elem Name="外部ページ参照" NameU="Off-page reference"/>
+
+<Elem Name="決定" NameU="Decision"/>
+
+<Elem Name="呼び出し制御からのプリミティブ" NameU="Primitive from call control"/>
+
+<Elem Name="マルチドキュメント" NameU="Multi Document"/>
+
+<Elem Name="曲線コネクタ" NameU="Curve Connector"/>
+
+</Lib>

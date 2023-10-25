@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Six Sigma">
+	<Elem NameU="Six Matrix" Name="六西格瑪"/>
+	<Elem NameU="Six Matrix 2" Name="六西格瑪 2"/>
+	<Elem NameU="Six Matrix with Name" Name="帶名字的六西格瑪"/>
+	<Elem NameU="Flags" Name="符號"/>
+	<Elem NameU="Flags 2" Name="符號 2"/>
+	<Elem NameU="12-Role Flag" Name="12種變形旗幟"/>
+	<Elem NameU="Complete or Cancel" Name="完成或取消"/>
+	<Elem NameU="Numbering" Name="數字"/>
+	<Elem NameU="Dynamic Progress" Name="可變進度"/>
+</Lib>

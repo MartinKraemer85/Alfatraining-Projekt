@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Mechanics">
+	<Elem NameU="Rest" Name="Rest"/>
+	<Elem NameU="Weight" Name="무게"/>
+	<Elem NameU="Ball" Name="공"/>
+	<Elem NameU="Staircase" Name="계단"/>
+	<Elem NameU="Balance" Number="2" Name="천평"/>
+	<Elem NameU="leverage" Name="지레"/>
+	<Elem NameU="Steelyard" Name="저울"/>
+	<Elem NameU="Spring" Name="용수철"/>
+	<Elem NameU="Stub" Name="그루터기"/>
+	<Elem NameU="Stick" Name="스틱"/>
+	<Elem NameU="Spring Balance" Name="용수철 균형"/>
+	<Elem NameU="Weight 2" Name="무게"/>
+    <Elem NameU="Weight 3" Name="무게"/>
+	<Elem NameU="Flume" Name="수로"/>
+	<Elem NameU="Mathematical Pendulum" Name="수학적 추"/>
+	<Elem NameU="Block" Name="블록"/>
+	<Elem NameU="Pulley Block" Name="Pulley Block"/>
+	<Elem NameU="Crown Block" Name="크라운 블록"/>
+	<Elem NameU="Travelling Block 1" Name="블록 1"/>
+	<Elem NameU="Travelling Block 2" Name="블록 2"/>
+	<Elem NameU="Travelling Block 3" Name="블록 3"/>
+	<Elem NameU="Travelling Bulley Block 1" Name="Bulley 블록 1"/>
+	<Elem NameU="Travelling Bulley Block 2" Name="Bulley 블록 2"/>
+	<Elem NameU="Elevator" Name="엘리베이터"/>
+	<Elem NameU="Vector" Name="벡터"/>
+	<Elem NameU="Angle" Name="앵글"/>
+	<Elem NameU="Parabolic Motion Path" Name="포물선 운동 경로"/>
+	<Elem NameU="Elliptical Motion Path" Name="타원 운동 경로"/>
+	<Elem NameU="Line Motion Path" Name="직선 운동 경로"/>
+	<Elem NameU="Bevel" Name="사각"/>
+	<Elem NameU="Semi-Circle Slot Vehicle" Name="반원 슬롯 차량"/>
+	<Elem NameU="1/4 Circle Slot Vehicle" Name="1/4 원 슬롯 차량"/>
+	<Elem NameU="Trailer" Name="Trailer"/>
+	<Elem NameU="Flat Vehicle" Name="플랫 차량"/>
+	<Elem NameU="Transmittal Strap" Name="전송 스트랩"/>
+	<Elem NameU="Push" Name="밀다"/>
+	<Elem NameU="Pull" Number="2" Name="당기다"/>>
+	<Elem NameU="Earth" Name="지구"/>
+	<Elem NameU="Electroscope" Name="Electroscope"/>
+	<Elem NameU="Beaker" Name="Beaker"/>
+	<Elem NameU="Measuring Cylinder" Name="눈금 실린더"/>
+	<Elem NameU="Weight" Number="3" Name="무게"/>
+	<Elem NameU="weight beam" Name="웨이트 빔"/>
+	<Elem NameU="caliper" Name="캘리퍼스"/>
+	<Elem NameU="Simple Pendulum" Name="추"/>
+	<Elem NameU="Rest" Number="5" Name="Rest"/>
+	<Elem NameU="Coordinates" Number="2" Name="좌표"/>
+	<Elem NameU="Magnet" Number="6" Name="자석"/>
+	<Elem NameU="Electromagnetic Relay" Name="전자기 릴레이"/>
+	<Elem NameU="Ticker-Tape Timer" Name="티커 테이프 타이머"/>
+	<Elem NameU="Slide block" Name="슬라이드 블록"/>
+	<Elem NameU="Cantilever Beam" Number="6" Name="캔틸레버 빔"/>
+	<Elem NameU="Simply Supported Beam" Name="간단하게 지지되는 빔"/>
+	<Elem NameU="Overhanging Beam" Name="돌출 빔"/>
+	<Elem NameU="Concentrated Load" Name="집중하중"/>
+	<Elem NameU="Uniformly Distributed Load" Name="균일하게 분산된 하중"/>
+	<Elem NameU="Triangular Load" Name="삼각하중"/>
+</Lib>

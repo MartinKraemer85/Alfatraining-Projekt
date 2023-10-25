@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Drink">
+    <Elem NameU="Cocktail 1" Name="칵테일 1"/>
+    <Elem NameU="Cocktail 2" Name="칵테일 2"/>
+    <Elem NameU="Champagne" Name="샴페인"/>
+    <Elem NameU="Juice" Name="주스"/>
+    <Elem NameU="Orange Juice" Name="오렌지주스"/>
+    <Elem NameU="Milk Tea" Name="밀크티"/>
+    <Elem NameU="Slush" Name="슬러시"/>
+    <Elem NameU="Lemon Mint Beverage" Name="레몬 민트 음료"/>
+    <Elem NameU="Margaritas" Name="마가리타"/>
+    <Elem NameU="Cola 1" Name="콜라 1"/>
+    <Elem NameU="Cola 2" Name="콜라 2"/>
+    <Elem NameU="Coffee 1" Name="커피 1"/>
+    <Elem NameU="Coffee cup" Name="커피잔"/>
+    <Elem NameU="Tea Cup" Name=차잔/>
+    <Elem NameU="Teapot" Name="티포트"/>
+    <Elem NameU="Beer 1" Name="맥주 1"/>
+    <Elem NameU="Beer 2" Name="맥주 2"/>
+    <Elem NameU="Coconut Drink" Name="코코넛 주스"/>
+    <Elem NameU="Wine" Name="와인"/>
+    <Elem NameU="Champagne" Name="샴페인"/>
+    <Elem NameU="Red Wine" Name="와인"/>
+    <Elem NameU="Soda 1" Name="소다 1"/>
+    <Elem NameU="Soda 2" Name="소다 2"/>
+    <Elem NameU="Liqueur" Name="리큐어"/>
+</Lib>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Outdoor Scene">
+	<Elem NameU="Reference Point" Name="Referenzpunkt"/>
+	<Elem NameU="Hedge" Name="Hecke"/>
+	<Elem NameU="Cactus" Name="Kaktus"/>
+	<Elem NameU="Shrub" Name="Strauch"/>
+	<Elem NameU="Potted Plant" Name="Topfpflanze"/>
+	<Elem NameU="Wooden Fence" Name="Holzzaun"/>
+	<Elem NameU="Metal Fence" Name="Metallzaun"/>
+	<Elem NameU="Lamp Post" Name="Lichtmast"/>
+	<Elem NameU="Street" Name="Straße"/>
+	<Elem NameU="Junction" Name="Kreuzung"/>
+	<Elem NameU="Road Lane Divider" Name="Fahrbahnteilung"/>
+	<Elem NameU="Police Car" Name="Polizei"/>
+	<Elem NameU="Police Car (Top)" Name="Polizeiauto (von oben)"/>
+	<Elem NameU="Mid-Size Coupe" Name="Mittelgroßes Coupé"/>
+	<Elem NameU="Mid-Size Car" Name="Mittelgroßer Wagen"/>
+	<Elem NameU="Compact Car" Name="Kompaktwagen"/>
+	<Elem NameU="Compact Car (Top)" Name="Kompaktwagen (von oben)"/>
+	<Elem NameU="Sports Utility Vehicle" Name="SUV"/>
+	<Elem NameU="Sports Utility Vehicle (Top)" Name="SUV (von oben)"/>
+	<Elem NameU="Compass" Name="Kompass"/>
+	<Elem NameU="Small-Size Pickup Truck" Name="Kleiner Pickup-Truck"/>
+</Lib>

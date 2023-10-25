@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="ROOM">
+    <Elem NameU="Actor Class" Name="参与者类"/>
+    <Elem NameU="Actor Reference" Name="参与者引用"/>
+    <Elem NameU="Modified Actor Ref." Name="已修改的参与者引用"/>
+    <Elem NameU="Relay Ports" Name="中继端口"/>
+    <Elem NameU="End Ports" Name="终点端口"/>
+    <Elem NameU="Reference Ports" Name="引用端口"/>
+    <Elem NameU="Binding" Name="绑定"/>
+    <Elem NameU="Layer or Export Connections" Name="层/导出连接"/>
+    <Elem NameU="State Context" Name="状态环境"/>
+    <Elem NameU="State" Name="状态"/>
+    <Elem NameU="Transition" Name="转换"/>
+    <Elem NameU="Texture Definitions" Name="文字定义"/>
+    <Elem NameU="Transition Points" Name="转换点"/>
+    <Elem NameU="Choice Point" Name="选择点"/>
+    <Elem NameU="Transition to History" Name="转换为过程记录"/>
+    <Elem NameU="Group Transition" Name="组合转换"/>
+    <Elem NameU="Internal Self-Transition" Name="内部自转换"/>
+</Lib>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Value Chain">
+    <Elem NameU="Basic Value Chain" Number="2" Name="基本價值鏈"/>
+    <Elem NameU="Value List" Name="價值鏈"/>
+    <Elem NameU="Value List 2" Name="價值鏈 2"/>
+    <Elem NameU="Value List 3" Name="價值鏈 3"/>
+    <Elem NameU="Value List 4" Name="價值鏈 4"/>
+    <Elem NameU="Value List" Name="價值鏈"/>
+    <Elem NameU="Arrow" Name="箭頭"/>
+    <Elem NameU="Arrow 2" Name="箭頭 2"/>
+    <Elem NameU="Arrow Axis" Name="箭頭軸"/>
+    <Elem NameU="Chevron" Name="V型箭頭"/>
+</Lib>

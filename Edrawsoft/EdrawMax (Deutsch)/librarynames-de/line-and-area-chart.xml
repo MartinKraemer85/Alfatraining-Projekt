@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="Line and Area Chart">
+	<Elem NameU="line chart" Name="Liniendiagramm"/>
+	<Elem NameU="line chart2" Name="Liniendiagramm2"/>
+	<Elem NameU="line chart3" Name="Liniendiagramm3"/>
+	<Elem NameU="Ladder diagram" Name="Kontaktplan"/>
+	<Elem NameU="Ladder diagram2" Name="Kontaktplan2"/>
+	<Elem NameU="Percent line chart2" Name="Prozentdiagramm2"/>
+	<Elem NameU="Area chart" Name="Flächendiagramm"/>
+	<Elem NameU="Percentage area chart3" Name="Prozentuales Flächendiagramm3"/>
+	<Elem NameU="Percentage area chart" Name="Prozentuales Flächendiagramm"/>
+	<Elem NameU="Collective area chart2" Name="Sammelflächendiagramm2"/>
+	<Elem NameU="Collective area chart" Name="Sammelflächendiagramm"/>
+</Lib>

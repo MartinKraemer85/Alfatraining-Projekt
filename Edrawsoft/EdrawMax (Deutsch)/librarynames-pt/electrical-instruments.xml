@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Electrical Instruments">
+	<Elem NameU="Ampermeter" Name="Aperímetro"/>
+	<Elem NameU="Galvanometer" Name="Galvanômetro"/>
+	<Elem NameU="Oscilloscope" Name="Osciloscópio"/>
+	<Elem NameU="Signal generator" Name="Gerador de sinal"/>
+	<Elem NameU="Motor" Name="Motor"/>
+	<Elem NameU="Ammeter" Name="Amperímetro"/>
+	<Elem NameU="Voltmeter" Name="Voltímetro"/>
+	<Elem NameU="Generator" Name="Gerador"/>
+	<Elem NameU="Varmeter" Name="Varímetro"/>
+	<Elem NameU="HZ" Name="HZ"/>
+	<Elem NameU="Thermometer" Name="Termómetro"/>
+	<Elem NameU="Hourmeter" Name="Horímetro"/>
+	<Elem NameU="Quantizer" Name="Quantizer"/>
+	<Elem NameU="Delta" Name="Delta"/>
+	<Elem NameU="Function" Name="Função"/>
+	<Elem NameU="Integrator" Name="Integrador"/>
+	<Elem NameU="Multipier" Name="Multiplicador"/>
+	<Elem NameU="Sum" Name="Soma"/>
+	<Elem NameU="Summation point" Name="Ponto de compactação"/>
+</Lib>

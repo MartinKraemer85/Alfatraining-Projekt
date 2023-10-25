@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Kids Transportation">
+    <Elem NameU="Plane" Name="飛機"/>
+    <Elem NameU="Helicopter" Name="直升機"/>
+    <Elem NameU="Rocket" Name="火箭"/>
+    <Elem NameU="Spacecraft" Name="航天器"/>
+    <Elem NameU="Ship" Name="船"/>
+    <Elem NameU="Sailboat" Name="帆船"/>
+    <Elem NameU="Submarine" Name="潛艇"/>
+    <Elem NameU="Speed Boat" Name="快艇"/>
+    <Elem NameU="Bus" Name="公共汽車"/>
+    <Elem NameU="Train" Name="火車"/>
+    <Elem NameU="Metro" Name="地鐵"/>
+    <Elem NameU="Pickup" Name="小貨車"/>
+    <Elem NameU="Mini Bus" Name="迷你公共汽車"/>
+    <Elem NameU="Car" Name="車"/>
+    <Elem NameU="Taxi" Name="出租車"/>
+    <Elem NameU="Police Car" Name="警車"/>
+    <Elem NameU="Ambulance" Name="救護車"/>
+    <Elem NameU="Fire Engine" Name="消防車"/>
+    <Elem NameU="Street Sprinkler" Name="街道灑水車"/>
+    <Elem NameU="Truck" Name="卡車"/>
+    <Elem NameU="Street Sweeper" Name="街道清理車"/>
+    <Elem NameU="Mixer Truck" Name="攪拌車"/>
+    <Elem NameU="Tank Truck" Name="油罐車"/>
+    <Elem NameU="Road Roller" Name="壓路機"/>
+    <Elem NameU="Excavator" Name="挖掘機"/>
+    <Elem NameU="Crane" Name="起重機"/>
+    <Elem NameU="Forklift" Name="鏟車"/>
+    <Elem NameU="Electric Scooter" Name="電動踏板車"/>
+    <Elem NameU="Motorbike" Name="摩托車"/>
+    <Elem NameU="Bicycle" Name="自行車"/>
+    <Elem NameU="Segway" Name="代步機"/>
+    <Elem NameU="Bike" Name="自行車"/>
+    <Elem NameU="Swing Car" Name="周轉車"/>
+    <Elem NameU="Swing Scooter" Name="搖擺滑板車"/>
+</Lib>

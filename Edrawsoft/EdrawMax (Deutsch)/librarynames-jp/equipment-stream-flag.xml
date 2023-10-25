@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib nameU="Equipment - Stream Flag"><Elem NameU="Stream ID" Name="ストリームID"/><Elem NameU="Temperature" Name="温度"/><Elem NameU="Pressure" Name="压力"/><Elem NameU="Liquid Flowrate" Name="液体流量"/><Elem NameU="Gas Flowrate" Name="ガス流量"/><Elem NameU="Molar Flowrate" Name="モル流量"/><Elem NameU="Mass Flowrate" Name="質量流量"/><Elem NameU="Process Input" Name="プロセス入力"/><Elem NameU="Process Output" Name="プロセス出力"/><Elem NameU="Module" Name="モジュール"/></Lib>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Food Processing">
+    <Elem NameU="Batch fluid bed processor" Name="批處理流化床處理器"/>
+    <Elem NameU="Beer bottle" Name="啤酒瓶"/>
+    <Elem NameU="Beer can" Name="啤酒罐"/>
+    <Elem NameU="Colloid mill" Name="膠體磨"/>
+    <Elem NameU="Concentrate dispenser" Name="濃縮物分配器"/>
+    <Elem NameU="Cross belt separator" Name="交叉帶分隔符"/>
+    <Elem NameU="Drum magnet" Name="鼓形磁鐵"/>
+    <Elem NameU="Fermentation" Name="發酵"/>
+    <Elem NameU="Filter system" Name="過濾系統"/>
+    <Elem NameU="Food processing" Name="食品加工"/>
+    <Elem NameU="Grain silo 1" Name="谷糧倉 1"/>
+    <Elem NameU="Grain silo 2" Name="谷糧倉 2"/>
+    <Elem NameU="Inline mixer emulsifier" Name="內聯攪拌機乳化器"/>
+    <Elem NameU="Magnetic liquid trap" Name="漿料除鐵器"/>
+    <Elem NameU="Micro flowmeter" Name="微流量計"/>
+    <Elem NameU="Milk carton" Name="奶瓶用紙板"/>
+    <Elem NameU="Mixer" Name="攪拌器"/>
+    <Elem NameU="Mixing hopper" Name="混台漏斗"/>
+    <Elem NameU="Nitrogen generator" Name="制氮機"/>
+    <Elem NameU="Oven system" Name="固化爐系統"/>
+    <Elem NameU="Power and liquid mixer" Name="粉液攪拌機"/>
+    <Elem NameU="Sanitary air filter" Name="清潔空氣過濾器"/>
+    <Elem NameU="Sanitary heater" Name="衛生加熱器"/>
+    <Elem NameU="Sanitary inline mixer" Name="衛生內聯混合器"/>
+    <Elem NameU="Sanitary transfer pump" Name="衛生輸送泵"/>
+    <Elem NameU="Screen separator" Name="篩選機"/>
+    <Elem NameU="Separator" Name="分離器"/>
+    <Elem NameU="Shell and tube heat transfer" Name="殼管換熱器"/>
+    <Elem NameU="Stainless steel blender (closed)" Name="不鏽鋼攪拌機 (關)"/>
+    <Elem NameU="Stainless steel blender（open）" Name="不鏽鋼攪拌機（開）"/>
+    <Elem NameU="Stainless steel hopper" Name="不鏽鋼料斗"/>
+    <Elem NameU="Stainless steel speed reducer1" Name="不鏽鋼減速機 1"/>
+    <Elem NameU="Stainless steel speed reducer2" Name="不鏽鋼減速機 2"/>
+    <Elem NameU="Standard ribbon  mixer" Name="標準絲帶攪拌機"/>
+    <Elem NameU="Tray sealer" Name="托盤封口機"/>
+    <Elem NameU="Tube in tube heat transfer" Name="管傳熱器中的管"/>
+    <Elem NameU="Turbo emulsifier " Name="渦輪乳化劑"/>
+    <Elem NameU="Vacuum mixer blender" Name="真空攪拌混合機"/>
+    <Elem NameU="Vacuum stuffer" Name="真空填充機"/>
+    <Elem NameU="Vacuum system" Name="真空系統"/>
+    <Elem NameU="Vertical blender" Name="立式攪拌機"/>
+    <Elem NameU="Viscosity meter" Name="粘度計"/>
+    <Elem NameU="Superfine soybean processing system" Name="超細大豆處理系統"/>
+    <Elem NameU="Hardening and Tempering System" Name="淬火和回火系統"/>
+    <Elem NameU="Lagena" Number="2" Name="細頸瓶"/>
+    <Elem NameU="Filter unit" Name="過濾裝置"/>
+</Lib>

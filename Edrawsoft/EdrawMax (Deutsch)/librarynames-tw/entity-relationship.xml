@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Entity Relationship">
+    <Elem NameU="Entity" Name="實體"/>
+    <Elem NameU="Entity 2" Name="實體 2"/>
+    <Elem NameU="Entity 3" Name="實體 3"/>
+    <Elem NameU="View" Name="視圖"/>
+    <Elem NameU="Relationship" Name="關係"/>
+    <Elem NameU="Parent to Category" Name="父表與類別"/>
+    <Elem NameU="Category" Name="類別"/>
+    <Elem NameU="Category to Child" Name="類別與子類"/>
+    <Elem NameU="Dynamic Connector" Name="動態鏈接線"/>
+    <Elem NameU="Line Connector" Name="指示"/>
+    <Elem NameU="Entity 5" Name="實體 5"/>
+    <Elem NameU="Strong Entity" Name="強實體"/>
+    <Elem NameU="Weak Entity" Name="弱實體"/>
+    <Elem NameU="Strong Relationship" Name="強關係"/>
+    <Elem NameU="Weak Relationship" Name="弱關係"/>
+    <Elem NameU="Attribute" Name="屬性"/>
+    <Elem NameU="Derived Attribute" Name="衍生屬性"/>
+    <Elem NameU="Multi-valued Attribute" Name="多值屬性"/>
+    <Elem NameU="Constraints" Name="約束條件"/>
+    <Elem NameU="Cardinality" Name="基數"/>
+    <Elem NameU="Partial" Name="部分"/>
+    <Elem NameU="Weak line" Name="弱連線"/>
+    <Elem NameU="Participation" Name="參與"/>
+    <Elem NameU="Participation 2" Name="參與 2"/>
+</Lib>

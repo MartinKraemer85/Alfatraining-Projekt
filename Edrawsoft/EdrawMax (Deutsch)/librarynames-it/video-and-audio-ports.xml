@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Video and Audio Ports">
+	<Elem NameU="RCA Plug" Name="Porta RCA"/>
+	<Elem NameU="RCA Plug 2" Name="Porta RCA 2"/>
+	<Elem NameU="RCA Plug 3" Name="Porta RCA 3"/>
+	<Elem NameU="RCA Plug 4" Name="Porta RCA 4"/>
+	<Elem NameU="RCA Jack" Name="Jack RCA"/>
+	<Elem NameU="Cable Jack" Name="Connettore Jack"/>
+	<Elem NameU="Cable Plug" Name="Spina Cavo"/>
+	<Elem NameU="RCA Jack 2" Name="Jack RCA 2"/>
+	<Elem NameU="Digital input" Name="Input digitale"/>
+	<Elem NameU="Digital input 2" Name="Input digitale 2"/>
+	<Elem NameU="VGA Plug" Name="Presa VGA"/>
+	<Elem NameU="VGA Jack" Name="Jack VGA"/>
+	<Elem NameU="Jack 2" Name="Jack 2"/>
+	<Elem NameU="Video input" Name="Input video"/>
+	<Elem NameU="HDMI Plug" Name="Presa HDMI"/>
+	<Elem NameU="HDMI Jack" Name="Jack HDMI"/>
+	<Elem NameU="USB Plug" Name="Presa USB"/>
+	<Elem NameU="S terminal Jack" Name="Jack terminale S"/>
+	<Elem NameU="S terminal Plug" Name="Presa terminale S"/>
+	<Elem NameU="DVI-I(Single Link)" Name="DVI-I(Collegamento Singolo)"/>
+	<Elem NameU="DVI-I(Dual Link)" Name="DVI-I(Collegamento Doppio)"/>
+	<Elem NameU="DVI-D(Single Link)" Name="DVI-D(Collegamento Singolo)"/>
+	<Elem NameU="DVI-D(Dual Link)" Name="DVI-D(Collegamento Doppio)"/>
+	<Elem NameU="DVI-A" Name="DVI-A"/>
+	<Elem NameU="Coaxial TV" Name="TV Coassiale"/>
+	<Elem NameU="XLR Neutrik" Name="Neutrik XLR"/>
+	<Elem NameU="Display" Name="Schermo"/>
+	<Elem NameU="Mini Display" Name="MiniSchermo"/>
+	<Elem NameU="F Connector" Name="Connettore F"/>
+	<Elem NameU="DFP" Name="DFP"/>
+	<Elem NameU="DFP Jack" Name="Jack DEP"/>
+	<Elem NameU="SUPER VGA" Name="SUPER VHA"/>
+	<Elem NameU="Mini Display Jack" Name="Jack MiniSchermo"/>
+	<Elem NameU="USB Jack" Name="Jack USB"/>
+	<Elem NameU="Display Jack" Name="Jack Schermo"/>
+	<Elem NameU="Jack" Name="Jack"/>
+	<Elem NameU="Coaxial TV Jack" Name="Jack TV Coassiale"/>
+	<Elem NameU="TV" Name="TV"/>
+	<Elem NameU="Computer" Name="Computer"/>
+	<Elem NameU="Devices" Name="Dispositivi"/>
+</Lib>

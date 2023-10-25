@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Android UI">
+	<Elem NameU="Android Phone 1" Name="Telemóvel Android 1"/>
+	<Elem NameU="Android Phone 2" Name="Telemóvel Android 2"/>
+	<Elem NameU="Status Bar 1" Name="Barra de Estado 1"/>
+	<Elem NameU="Status Bar 2" Name="Barra de Estado 2"/>
+	<Elem NameU="Navigation Bar" Name="Barra de Navegação"/>
+	<Elem NameU="Search bar" Name="Barra de pesquisa"/>
+	<Elem NameU="Google" Name="Google"/>
+	<Elem NameU="Two Buttons Control" Name="Controle de Dois Butões"/>
+	<Elem NameU="Three Buttons Control" Name="Controle de Três Butões"/>
+	<Elem NameU="Four Buttons Control" Name="Controle de Quatro Butões"/>
+	<Elem NameU="Menu bar" Name="Barra de mnu"/>
+	<Elem NameU="Menu Bar" Name="Barra de Menu"/>
+	<Elem NameU="Message Bar" Name="Barra de Mensagem"/>
+	<Elem NameU="Slider" Name="Deslizador"/>
+	<Elem NameU="SlideUnlock 1" Name="Desbloquear com Deslizador 1"/>
+	<Elem NameU="SlideUnlock 2" Name="Desbloquear com Deslizador 2"/>
+	<Elem NameU="SlideUnlock" Name="Desbloquear com Deslizador"/>
+	<Elem NameU="LockMe Widget" Name="Dispositivo LockMe"/>
+	<Elem NameU="Progress bar" Name="Barra de progresso"/>
+	<Elem NameU="Circular Progress View" Name="Vista de Progresso Circular"/>
+	<Elem NameU="Weather" Name="Tempo"/>
+	<Elem NameU="Two Buttons Alert" Name="Alerta de Dois Botões"/>
+	<Elem NameU="APP Options" Name="Opções da APP"/>
+	<Elem NameU="Options" Name="Opções"/>
+	<Elem NameU="LOG ON-OFF" Name="LOG ON-OFF"/>
+	<Elem NameU="Option menu" Name="Menu de opções"/>
+	<Elem NameU="Option button" Name="Botão de opções"/>
+	<Elem NameU="Phone buttons" Name="Botões de Telemóvel"/>
+	<Elem NameU="Keyboard Control" Name="Controle de Teclado"/>
+	<Elem NameU="Number Keyboard" Name="Teclado de Números"/>
+	<Elem NameU="Landscape Keyboard" Name="Teclado Panorama"/>
+	<Elem NameU="Function set" Name="Conjunto da função"/>
+	<Elem NameU="App Icon" Name="Ícone da App"/>
+	<Elem NameU="Turn On" Name="Ligar"/>
+	<Elem NameU="Turn Off" Name="Desligar"/>
+	<Elem NameU="Button" Name="Botão"/>
+	<Elem NameU="Number Pad" Name="Teclado de Números"/>
+	<Elem NameU="MENU" Name="MENU"/>
+	<Elem NameU="Time" Name="Tempo"/>
+	<Elem NameU="Button Bar" Name="Barra de Botões"/>
+	<Elem NameU="Calendar" Name="Calendário"/>
+	<Elem NameU="Delete program" Name="Apagar programa"/>
+	<Elem NameU="Android" Name="Android"/>
+	<Elem NameU="Voice Message" Name="Mensagem de Voz"/>
+	<Elem NameU="Text" Name="Texto"/>
+	<Elem NameU="Phone number of the input field" Name="Número de telefone do campo de entrada"/>
+	<Elem NameU="Message bar" Name="Barra de mensagem"/>
+	<Elem NameU="Navigation Dots 1" Name="Pontos de Navegação 1"/>
+	<Elem NameU="Navigation Dots 2" Name="Pontos de Navegação 2"/>
+</Lib>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="Building Core">
+	<Elem NameU="North" Name="Norte"/>
+	<Elem NameU="Direction" Name="Direção"/>
+	<Elem NameU="Arrow" Name="Seta"/>
+	<Elem NameU="Air-conditioned location" Name="Localização de ar-condicionado"/>
+	<Elem NameU="Solid walls" Name="Paredes sólidas"/>
+	<Elem NameU="Step" Name="Passo"/>
+	<Elem NameU="Ornamental stair" Name="Escada ornamental"/>
+	<Elem NameU="Scissor staircase" Name="Escada em tesoura"/>
+	<Elem NameU="Straight staircase" Name="Escada direta"/>
+	<Elem NameU="Curved staircase" Name="Escada curva"/>
+	<Elem NameU="Winding staircase" Name="Escada em caracol"/>
+	<Elem NameU="Z-shaped stairs" Name="Escada em forma de Z"/>
+	<Elem NameU="Divided return stairs" Name="Escada de regresso dividido"/>
+	<Elem NameU="Pocket door" Name="Porta de correr"/>
+	<Elem NameU="Double pocket door" Name="Porta de correr dupla"/>
+	<Elem NameU="Left spiral staircase" Name="Escada em espiral à esquerda"/>
+	<Elem NameU="Right spiral staircase" Name="Escada em espiral à direita"/>
+	<Elem NameU="Corner landing" Name="Patamar de canto"/>
+	<Elem NameU="Stair landing" Name="Patamar de escada"/>
+	<Elem NameU="Escalator" Name="Escada rolante"/>
+	<Elem NameU="Ramp" Name="Rampa"/>
+	<Elem NameU="Handrail" Name="Corrimão"/>
+	<Elem NameU="Corner handrail" Name="Corrimão de canto"/>
+	<Elem NameU="Toilet" Name="Banheiro"/>
+	<Elem NameU="Multi sink" Name="Pia múltpla"/>
+	<Elem NameU="Multi urinal" Name="Urinol múltiplo"/>
+	<Elem NameU="Multi stall" Name="Box múltipla"/>
+	<Elem NameU="Countertop sink" Name="Pia de bancada"/>
+	<Elem NameU="Toilet stall" Name="Box de banheiro"/>
+	<Elem NameU="Elevator" Name="Elevador"/>
+	<Elem NameU="Freight elevator" Name="Elevador de carga"/>
+	<Elem NameU="Chute" Name="Calha"/>
+</Lib>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="PID HVAC">
+	<Elem NameU="Actuator" Name="Attuatore"/>
+	<Elem NameU="Air cleaner" Name="Filtro d'aria"/>
+	<Elem NameU="Air conditioner" Name="Condizionatore d'aria"/>
+	<Elem NameU="Air conditioner 2" Name="Condizionatore d'aria 2"/>
+	<Elem NameU="Air conditioner 3" Name="Condizionatore d'aria 3"/>
+	<Elem NameU="Air curtain" Name="Cortina d'aria"/>
+	<Elem NameU="Air handling unit" Name="Unità per il trattamento dell'aria"/>
+	<Elem NameU="Btu totalizer" Name="Totalizzatore Btu"/>
+	<Elem NameU="Building chiller" Name="Raffreddatore edifici"/>
+	<Elem NameU="Building heat make-up unit" Name="Unità di riscaldamento"/>
+	<Elem NameU="Carbon filter" Name="Filtro di carbone"/>
+	<Elem NameU="Chilled water cooling coils" Name="Serpentine di raffreddamento dell'acqua"/>
+	<Elem NameU="Chiller system" Name="Sistema di raffreddamento"/>
+	<Elem NameU="Chiller" Name="Raffreddatore"/>
+	<Elem NameU="Chiller-heater" Name="Raffreddatore-Riscaldatore"/>
+	<Elem NameU="Commercial storage tank" Name="Serbatoio di stoccaggio commerciale"/>
+	<Elem NameU="Condenser" Name="Condensatore"/>
+	<Elem NameU="Containment barrier" Name="Barriera di contenimento"/>
+	<Elem NameU="Deaerator" Name="Disaeratore"/>
+	<Elem NameU="Dehumidifier" Name="Deumidificatore"/>
+	<Elem NameU="Diffuser" Name="Diffusore"/>
+	<Elem NameU="Double damper 1" Name="Smorzatore doppio 1"/>
+	<Elem NameU="Double damper 2" Name="Smorzatore doppio 2"/>
+	<Elem NameU="Electronic flow hood" Name="Cappa a flusso elettronica"/>
+	<Elem NameU="Energy-recovery ventilator" Name="Ventilatore recupero energetico"/>
+	<Elem NameU="Exhaust fan" Name="Ventola di scarico"/>
+	<Elem NameU="Expansion joint" Name="Giunto di dilatazione"/>
+	<Elem NameU="Furnace" Name="Fornace"/>
+	<Elem NameU="Gas-electric wall-mount" Name="Registratore elettricità-gas a muro"/>
+	<Elem NameU="Gas-fired infrared heater" Name="Riscaldatore infrarossi a gas"/>
+	<Elem NameU="Grilled heat exchanger" Name="Scambiatore di calore"/>
+	<Elem NameU="Heat pump" Name="Pompa termica"/>
+	<Elem NameU="Heater damper" Name="Smorzatore termico"/>
+	<Elem NameU="Heating coil" Name="Batteria di riscaldamento"/>
+	<Elem NameU="Heating and cooling unit" Name="Unità di termo-refrigerazione"/>
+	<Elem NameU="Heavy-duty water heater" Name="Boiler robusto"/>
+	<Elem NameU="High-velocity exhaust system" Name="Sistema di scarico ad alta velocità"/>
+	<Elem NameU="HVAC unit" Name="Unità HVAC"/>
+	<Elem NameU="Indirect fired industrial heater" Name="Riscaldatore industriale a combustione indiretta"/>
+	<Elem NameU="Portable air conditioner" Name="Condizionatore d'aria portatile"/>
+	<Elem NameU="Pressurization unit" Name="Unità pressurizzante"/>
+	<Elem NameU="Radiator coil" Name="Bobina del radiatore"/>
+	<Elem NameU="Roof vent" Name="Oblò tetto"/>
+	<Elem NameU="Rooftop air conditioner" Name="Condizionatore d'aria sul tetto"/>
+	<Elem NameU="Rooftop unit" Name="Unità sul tetto"/>
+	<Elem NameU="Round damper" Name="Smorzatore rotondo"/>
+	<Elem NameU="Simple air handing unit" Name="Unità per il trattamento dell'aria semplice"/>
+	<Elem NameU="Simple filter" Name="Filtro semplice"/>
+	<Elem NameU="Single damper" Name="Smorzatore singolo"/>
+	<Elem NameU="Thermal purge unit" Name="Unità epurazione termica"/>
+	<Elem NameU="Triple damper" Name="Smorzatore triplo"/>
+	<Elem NameU="Triple damper with circular opening" Name="Smorzatore triplo con apertura circolare"/>
+	<Elem NameU="Unit ventilator" Name="Unità di ventilazione"/>
+	<Elem NameU="Vent hood" Name="Cappa"/>
+	<Elem NameU="Ventilation system" Name="Sistema di ventilazione"/>
+	<Elem NameU="Ventilator" Name="Ventilatore"/>
+	<Elem NameU="Water heater" Name="Boiler"/>
+	<Elem NameU="Window air conditioner" Name="Condizionatore a finestra"/>
+	<Elem NameU="Coiler" Name="Avvolgitore"/>
+	<Elem NameU="Coil fan" Name="Ventilo-convettore"/>
+	<Elem NameU="Fan" Name="Ventola"/>
+	<Elem NameU="Smoke extractor exhaust fan" Name="Ventola di scarico con estrazione dei fumi"/>
+	<Elem NameU="Air handling system" Name="Sistema per il trattamento dell'aria"/>
+	<Elem NameU="Main Freezing Engine" Name="Motore di Refrigerazione principale"/>
+	<Elem NameU="Fan coil unit " Name="Unità ventilo-convettrice"/>
+	<Elem NameU="Frequency control" Name="Controllo frequenza"/>
+	<Elem NameU="Smart Temperature Controller" Name="Controllo Intelligente della Temperatura"/>
+</Lib>

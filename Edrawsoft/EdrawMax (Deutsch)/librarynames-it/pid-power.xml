@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lib NameU="PID Power">
+	<Elem NameU="3-phase switching enclosure" Name="Alloggio con smistamento a 3 fasi"/>
+	<Elem NameU="AC drive" Name="Drive AC"/>
+	<Elem NameU="Bushing" Name="Rivestimento isolante"/>
+	<Elem NameU="Car battery" Name="Batteria automobile"/>
+	<Elem NameU="Circuit breaker" Name="Interruttore di circuito"/>
+	<Elem NameU="Combustion turbine" Name="Turbina di combustione"/>
+	<Elem NameU="DC power supply" Name="Alimentatore DC"/>
+	<Elem NameU="Diesel backed UPS system" Name="Sistema Diesel UPS"/>
+	<Elem NameU="Diesel generator" Name="Generatore Diesel"/>
+	<Elem NameU="Generator" Name="Generatore"/>
+	<Elem NameU="Insulator" Name="Isolatore"/>
+	<Elem NameU="Meter gauge" Name="Calibro misuratore"/>
+	<Elem NameU="Meter" Name="Misuratore"/>
+	<Elem NameU="Nuclear power plant" Name="Centrale nucleare"/>
+	<Elem NameU="Socket" Name="Presa"/>
+	<Elem NameU="Pad-mounted gear" Name="Ingranaggio con supporto"/>
+	<Elem NameU="Pedestal" Name="Piedistallo"/>
+	<Elem NameU="Porcelain insulator" Name="Isolatore di porcellana"/>
+	<Elem NameU="Power monitor" Name="Monitoraggio alimentazione"/>
+	<Elem NameU="Nuclear reactors" Name="Reattori nucleari"/>
+	<Elem NameU="Power plant" Name="Centrale energetica"/>
+	<Elem NameU="Industrial wind generators 1" Name="Generatori eolici industriali 1"/>
+	<Elem NameU="Industrial wind generators 2" Name="Generatori eolici industriali 2"/>
+	<Elem NameU="Industrial wind generators 3" Name="Generatori eolici industriali 3"/>
+	<Elem NameU="Concentrated Solar plants 1" Name="Impianti Solari Concentrati 1"/>
+	<Elem NameU="Concentrated Solar plants 2" Name="Impianti Solari Concentrati 2"/>
+	<Elem NameU="Recloser" Name="Recloser"/>
+	<Elem NameU="Rectifier 1" Name="Raddrizzatore 1"/>
+	<Elem NameU="Rectifier 2" Name="Raddrizzatore 2"/>
+	<Elem NameU="SCR assembly" Name="Assemblaggio SCR"/>
+	<Elem NameU="Simple motor drive" Name="Motorizzatore semplice"/>
+	<Elem NameU="Simple recloser" Name="Recloser semplice"/>
+	<Elem NameU="Simple substation" Name="Sottostazione semplice"/>
+	<Elem NameU="Simple power panel" Name="Pannello di alimentazione semplice"/>
+	<Elem NameU="Splice box" Name="Box di giunzione"/>
+	<Elem NameU="Starter" Name="Starter"/>
+	<Elem NameU="Surge arrestor" Name="Scaricatore di sovratensione"/>
+	<Elem NameU="Transformer" Name="Trasformatore"/>
+	<Elem NameU="Transformer component" Name="Componente trasformatore"/>
+	<Elem NameU="Transformer monitor" Name="Schermo trasformatore"/>
+	<Elem NameU="Transmission tower" Name="Torre trasformatore"/>
+	<Elem NameU="Uninterruptable power supply" Name="Alimentazione ininterrotta"/>
+	<Elem NameU="Utility pole 1" Name="Palo di servizio 1"/>
+	<Elem NameU="Utility pole 2" Name="Palo di servizio 2"/>
+	<Elem NameU="Utility pole 3" Name="Palo di servizio 3"/>
+	<Elem NameU="Utility pole 4" Name="Palo di servizio 4"/>
+	<Elem NameU="Utility pole 5" Name="Palo di servizio 5"/>
+	<Elem NameU="Utility pole with cables" Name="Palo di servizio con cavi"/>
+	<Elem NameU="Utility pole with two sets of cables" Name="Palo di servizio con due set di cavi"/>
+	<Elem NameU="Vacuum switch" Name="Vacuostato"/>
+	<Elem NameU="Variable-speed drive" Name="Motovariatore"/>
+	<Elem NameU="Biogas power generation" Name="Generatore di alimentazione a biogas"/>
+	<Elem NameU="Cogeneration Unit" Name="Unità di cogenerazione"/>
+	<Elem NameU="Dynamo" Name="Dinamo"/>
+	<Elem NameU="Temperature Measurement Resistor" Name="Resistore per Misurazione Temperatura"/>
+	<Elem NameU="Electrolyzer" Name="Elettrolizzatore"/>
+	<Elem NameU="Control system" Name="Sistema di controllo"/>
+</Lib>

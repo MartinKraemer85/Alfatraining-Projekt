@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib nameU="3D Network Diagram Shapes">
+	<Elem NameU="Oblique connector" Name="오브리크 커넥터"/>
+	<Elem NameU="Oblique connector 2" Name="오브리크 커넥터 2"/>
+	<Elem NameU="Flexi connector" Name="유연 커넥터"/>
+	<Elem NameU="Line connector" Name="선 커넥터"/>
+	<Elem NameU="1U Server" Name="1U 서버"/>
+	<Elem NameU="1U Server Stack" Name="1U 서버 묶음"/>
+	<Elem NameU="2U Server" Name="2U 서버"/>
+	<Elem NameU="2U Server Stack" Name="2U 서버 묶음"/>
+	<Elem NameU="Switch" Name="전환"/>
+	<Elem NameU="Switch Pool" Name="전환 풀"/>
+	<Elem NameU="Modem Pool" Name="모뎀 풀"/>
+	<Elem NameU="Terminal Server" Name="터미널 서버"/>
+	<Elem NameU="PC" Name="PC"/>
+	<Elem NameU="PC 2" Name="PC 2"/>
+	<Elem NameU="Laptop" Name="노트북"/>
+	<Elem NameU="Server" Name="서버"/>
+	<Elem NameU="Server 2" Name="서버 2"/>
+	<Elem NameU="Computer Lab" Name="컴퓨터 랩"/>
+	<Elem NameU="Computer Lab 2" Name="컴퓨터 랩 2"/>
+	<Elem NameU="Switch Symbol" Name="전환 표시"/>
+	<Elem NameU="ISDN Switch" Name="ISDN 전환"/>
+	<Elem NameU="Router" Name="라우터"/>
+	<Elem NameU="CDDI-FDDI concentrator" Name="CDDI-FDDI 집선 장치"/>
+	<Elem NameU="Bridge" Name="브릿지"/>
+	<Elem NameU="Hub" Name="허브"/>
+	<Elem NameU="Gateway" Name="게이트웨이"/>
+	<Elem NameU="WAN" Name="WAN"/>
+	<Elem NameU="Host" Name="호스트"/>
+	<Elem NameU="Office" Number="3" Name="Office"/>
+	<Elem NameU="Firewall" Number="2" Name="방화벽"/>
+	<Elem NameU="Ring" Name="링"/>
+	<Elem NameU="Internet" Name="인터넷"/>
+	<Elem NameU="Internet Cloud" Name="인터넷 클라우드"/>
+	<Elem NameU="Hacker" Name="해커"/>
+	<Elem NameU="No hackers" Name="해커 없음"/>
+	<Elem NameU="Network security system" Name="네크워크 보안 시스템"/>
+	<Elem NameU="Network Planning" Name="네트워크 계획"/>
+	<Elem NameU="Curved Connector" Name="곡선 연결선"/>
+	<Elem NameU="Token Ring" Name="토큰 링"/>
+	<Elem NameU="Arrow 1" Name="화살표 1"/>
+	<Elem NameU="Arrow 2" Name="화살표 2"/>
+	<Elem NameU="Arrow 3" Name="화살표 3"/>
+	<Elem NameU="Arrow 4" Name="화살표 4"/>
+	<Elem NameU="Center drag circle" Name="원(중심 끌어 크기 조정)"/>
+	<Elem NameU="Center drag circle 2" Name="원(중심 끌어 크기 조정) 2"/>
+</Lib>
