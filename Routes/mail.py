@@ -1,6 +1,7 @@
 from flask import Blueprint
 from Helper.DbHelper import DbHelper
 from Services.mail import test_mail
+from config_ import engine
 
 mail = Blueprint('mail', __name__)
 

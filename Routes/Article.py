@@ -1,6 +1,6 @@
 from flask import Blueprint
 from Helper.DbHelper import DbHelper
-
+from config_ import engine
 article = Blueprint('article', __name__)
 
 
@@ -13,5 +13,5 @@ def get_article() -> str:
     :rtype: str[json]
     """
     # TODO: Filter Kram
-    db_helper = DbHelper()
+    db_helper = DbHelper(engine)
     return db_helper.select("record", ["artist", "title"], "where artist is not null")

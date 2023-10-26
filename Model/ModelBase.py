@@ -1,5 +1,6 @@
 from dataclasses import dataclass, field, asdict
 from typing import List
+from datetime import time
 from sqlalchemy import Column, Integer, String, Boolean, Numeric, Time, ForeignKey
 from sqlalchemy.orm import relationship, DeclarativeBase, Mapped, mapped_column
 from Helper.GeneralHelper import generate_classinstance

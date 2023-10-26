@@ -1,12 +1,13 @@
 from flask import Flask
 from sqlalchemy.orm import Session
 
+
 from Model.Vinyl.Record import Record
 from Routes.Article import article
 from Routes.mail import mail
 from decouple import config
 import sqlalchemy as db
-
+from config_ import engine
 app = Flask(__name__)
 
 app.register_blueprint(article)
@@ -19,12 +20,18 @@ Requirement Kram:
 pip freeze > requirements.txt
 """
 
-engine = db.create_engine(f"mssql://@{config('SERVER')}/{config('DATABASE')}?driver={config('ODBC')}")
 
-if __name__ == '__main__':
-    app.run(host='0.0.0.0')
+# if __name__ == '__main__':
+#     app.run(host='0.0.0.0')
 
 #---- testing stuff ------------
+
+from Helper.GeneralHelper import create_pwd
+# print(create_pwd())
+
+from Helper.DDL_generator import create_ddl
+
+create_ddl()
 # from Helper.DbHelper import DbHelper
 # test = DbHelper(engine)
 

@@ -1,16 +1,15 @@
-from sqlalchemy import Integer, String
-
 from .Track import Track
 from ..ModelBase import *
 
 
 @dataclass()
-class Record(Base, ModelBase):
+class Record(ModelBase, Base):
     """
     A class that holds the Article properties
 
     """
     __tablename__ = 'record'
+    __table_args__ = {'extend_existing': True}
 
     id: Mapped[int] = mapped_column(primary_key=True)
     title: Mapped[str] = mapped_column(String(100))
