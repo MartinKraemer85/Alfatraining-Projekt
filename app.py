@@ -21,8 +21,8 @@ pip freeze > requirements.txt
 """
 
 
-# if __name__ == '__main__':
-#     app.run(host='0.0.0.0')
+if __name__ == '__main__':
+    app.run(host='0.0.0.0')
 
 #---- testing stuff ------------
 
@@ -31,7 +31,10 @@ from Helper.GeneralHelper import create_pwd
 
 from Helper.DDL_generator import create_ddl
 
-create_ddl()
+# create_ddl()
+
+
+
 # from Helper.DbHelper import DbHelper
 # test = DbHelper(engine)
 
@@ -54,3 +57,5 @@ create_ddl()
 
 # print(test.delete({"objectPath": "Model.Vinyl.Record.Record",
 #                    "ids": [i for i in range(20, 100)]}))
+
+#TODO: Routen mit parameter, time bei tracks, authentifizierung

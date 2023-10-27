@@ -18,19 +18,18 @@ class DbHelper:
     __conn: Connection = None
     __metadata_obj = MetaData()
 
-    def select(self, table_name: str, columns: list, where: str = "") -> str:
+    def select(self, table_name: str, columns: list, where: str = "") -> list[dict]:
         """
         Returns the rows for a query in a dictionary string.
 
         :param table_name: Table to query
         :param columns: columns to query
         :param where: where condition if needed
-        :return: The result as string
+        :return: The result as a list of dictionary's
         """
         query = f'SELECT {",".join(columns)} FROM {table_name} {where};'
         conn = self.engine.connect()
-        ret = [dict(zip(columns, row)) for row in conn.execute(text(query)).fetchall()]
-        return json.dumps(ret, indent=2)
+        return [dict(zip(columns, row)) for row in conn.execute(text(query)).fetchall()]
 
     def db_update(self, values: dict) -> int:
         """

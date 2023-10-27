@@ -6,7 +6,7 @@ from config_ import engine
 
 def create_ddl() -> None:
     """
-    Create the ddl for all model classes and append changes, if any are made.
+    Create the ddl for all model classes and emmit changes, if any are made.
 
     :return: None
     """
