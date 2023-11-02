@@ -27,15 +27,6 @@ class Record(ModelBase, Base):
                 for track in value:
                     self.tracks.append(generate_classinstance("Model.Vinyl.Track.Track", track))
 
-    def dict(self) -> dict:
-        """
-        Return the record in a dictionary
-
-        :return: the current record
-        :rtype: dict
-        """
-        return asdict(self)
-
     def add_track(self, track: Track):
         """
         Add a new track to the list

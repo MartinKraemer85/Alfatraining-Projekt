@@ -16,8 +16,7 @@ class Base(DeclarativeBase):
 
 
 @dataclass()
-class ModelBase():
-    # TODO: Tu es!
+class ModelBase:
 
     def set_properties(self, properties: dict) -> None:
         """

@@ -20,23 +20,27 @@ Requirement Kram:
 pip freeze > requirements.txt
 """
 
+# create db if needed
+from Helper.DDL_generator import create_ddl
 
-if __name__ == '__main__':
-    app.run(host='0.0.0.0')
+create_ddl()
+
+#
+# if __name__ == '__main__':
+#     app.run(host='0.0.0.0')
 
 #---- testing stuff ------------
 
 from Helper.GeneralHelper import create_pwd
 # print(create_pwd())
 
-from Helper.DDL_generator import create_ddl
-
-# create_ddl()
 
 
 
+# Zum rumspielen / testen
 # from Helper.DbHelper import DbHelper
 # test = DbHelper(engine)
+
 
 # test.db_update({"objectPath": "Model.Vinyl.Record.Record",
 #                 "attributes": [
@@ -58,4 +62,3 @@ from Helper.DDL_generator import create_ddl
 # print(test.delete({"objectPath": "Model.Vinyl.Record.Record",
 #                    "ids": [i for i in range(20, 100)]}))
 
-#TODO: Routen mit parameter, time bei tracks, authentifizierung

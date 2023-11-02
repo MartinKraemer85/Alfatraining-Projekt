@@ -1,3 +1,5 @@
+from datetime import datetime
+
 from Model.ModelBase import *
 
 
@@ -15,17 +17,11 @@ class Track(ModelBase, Base):
     # title of the vinyl record
     name: Mapped[str] = mapped_column(String(100))
     # the artist of the vinyl record
-    length: Mapped[str] = mapped_column(String(50))
+    length: Mapped[Time] = mapped_column(Time)
 
     def set_properties(self, properties: dict) -> None:
         for key, value in properties.items():
-            setattr(self, key, value)
-
-    def dict(self) -> dict:
-        """
-        Return the record in a dictionary
-
-        :return: the current record
-        :rtype: dict
-        """
-        return asdict(self)
+            if key == "length":
+                setattr(self, key, datetime.strptime(value, '%M:%S').time())
+            else:
+                setattr(self, key, value)

@@ -13,7 +13,7 @@ def create_ddl() -> None:
     root_dir = "Model"
     file_list = []
 
-    # iterate the model directorie recursive, extract all model files while ignoring the cashed stuff
+    # iterate the model directories recursive, extract all model files while ignoring the cashed stuff
     for dir_path, dir_name, files in os.walk('Model'):
         for file_name in files:
             if "__init__" in file_name or "ModelBase" in file_name or file_name.endswith(".pyc"):
@@ -24,6 +24,7 @@ def create_ddl() -> None:
 
     file_list = [re.sub('\\\\', '.', file) for file in file_list]
     for file in file_list:
+        # finally emmit the ddl for every model class
         get_class(file).metadata.create_all(engine)
 
 

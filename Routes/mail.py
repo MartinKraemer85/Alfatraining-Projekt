@@ -22,7 +22,7 @@ def send_mail() -> Any:
         json = request.json
         if not json.get("mail_adress"):
             return "Bad Request", 400
-        test_mail(to= json.get("mail_adress"))
+        test_mail(receiver= json.get("mail_adress"))
         return "passt"
     else:
         return 'Content-Type not supported', 400

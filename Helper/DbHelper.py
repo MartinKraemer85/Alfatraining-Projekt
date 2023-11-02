@@ -1,11 +1,9 @@
-import json
 from dataclasses import dataclass
 from sqlalchemy import Engine, text, Connection, update, Table, MetaData, select
 from sqlalchemy.exc import ProgrammingError, InternalError, DataError, IntegrityError, ArgumentError
 from sqlalchemy.orm import Session
 from sqlalchemy.orm.exc import UnmappedInstanceError
 from Helper.GeneralHelper import generate_classinstance, get_class
-from Model.Vinyl.Record import Record
 
 
 @dataclass()
@@ -97,6 +95,7 @@ class DbHelper:
         """
 
         insert_obj = generate_classinstance(values.get("objectPath"), values)
+
         with Session(self.engine) as session:
             try:
                 session.add(insert_obj)

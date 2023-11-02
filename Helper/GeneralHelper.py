@@ -43,8 +43,8 @@ def create_pwd():
     pwd = []
     for i in range(0, 3):
         pwd.append(random.choice(string.digits))
-        pwd.append( random.choice(string.ascii_letters.lower()))
-        pwd.append( random.choice(string.ascii_letters.upper()))
-        pwd.append( random.choice(string.punctuation))
+        pwd.append(random.choice(string.ascii_letters.lower()))
+        pwd.append(random.choice(string.ascii_letters.upper()))
+        pwd.append(random.choice(string.punctuation))
     random.shuffle(pwd)
     return "".join(pwd)
