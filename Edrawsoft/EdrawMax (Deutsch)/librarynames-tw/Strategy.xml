@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Lib NameU="Strategy">
-	<Elem NameU="Resource" Name="資源"/>
-	<Elem NameU="Capability" Name="功能"/>
-	<Elem NameU="Value Stream" Name="價值流"/>
-	<Elem NameU="Course of Action" Name="動作方針"/>
-</Lib>

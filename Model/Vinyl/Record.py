@@ -27,7 +27,7 @@ class Record(ModelBase, Base):
                 for track in value:
                     self.tracks.append(generate_classinstance("Model.Vinyl.Track.Track", track))
 
-    def add_track(self, track: Track):
+    def add_track(self, track: Track) -> None:
         """
         Add a new track to the list
 

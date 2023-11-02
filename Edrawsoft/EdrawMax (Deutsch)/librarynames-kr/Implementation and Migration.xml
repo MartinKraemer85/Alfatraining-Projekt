@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Lib NameU="Implementation and Migration">
-	<Elem NameU="Plateau" Name="정체"/>
-	<Elem NameU="Gap" Name="간격"/>
-	<Elem NameU="Deliverable" Name="결과물"/>
-	<Elem NameU="Work Package" Name="작업 패키지"/>
-	<Elem NameU="Implementation Event" Name="구현 이벤트"/>
-</Lib>

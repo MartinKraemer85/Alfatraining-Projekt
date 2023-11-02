@@ -1,1 +1,0 @@
-EdrawMax.exe /UPGRADE="upgrade"

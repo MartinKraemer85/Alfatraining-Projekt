@@ -1,5 +1,6 @@
 from flask_httpauth import HTTPBasicAuth
 from config_ import engine
+
 auth = HTTPBasicAuth()
 
 
@@ -12,5 +13,5 @@ def verify_password(username: str, password: str) -> bool:
     :param password: The actual password
     :return: Authentication succeeded or not
     """
-    # TODO: just do it!
+    # TODO: passwort verification + session?
     return None

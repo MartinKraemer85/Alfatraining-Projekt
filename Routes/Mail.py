@@ -18,14 +18,13 @@ def send_mail() -> Any:
 
     :return: Error / "success"
     """
-    # TODO: Filter Kram
+    # TODO: What shall be returned?
     content_type = request.headers.get('Content-Type')
     if content_type == 'application/json':
         json = request.json
         if not json.get("mail_adress"):
             return "Bad Request", 400
-        test_mail(receiver= json.get("mail_adress"))
+        test_mail(receiver=json.get("mail_adress"))
         return "success"
     else:
         return 'Content-Type not supported', 400
-
