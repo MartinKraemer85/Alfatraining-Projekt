@@ -33,12 +33,12 @@ def get_class(class_path: str) -> object:
     return locate(class_path)
 
 
-def create_pwd():
+def create_pwd() -> str:
     """
     | Generates a pwd with the length of 12.
     | Contains 3 letter / upper letter, digits and punctuations.
 
-    :return:
+    :return: pwd string
     """
     pwd = []
     for i in range(0, 3):

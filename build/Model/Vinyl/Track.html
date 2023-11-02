@@ -46,7 +46,7 @@
 <li class="toctree-l2"><a class="reference internal" href="Record.html">Model: Record</a></li>
 <li class="toctree-l2 current"><a class="current reference internal" href="#">Model: Track</a><ul>
 <li class="toctree-l3"><a class="reference internal" href="#Model.Vinyl.Track.Track"><code class="docutils literal notranslate"><span class="pre">Track</span></code></a><ul>
-<li class="toctree-l4"><a class="reference internal" href="#Model.Vinyl.Track.Track.dict"><code class="docutils literal notranslate"><span class="pre">Track.dict()</span></code></a></li>
+<li class="toctree-l4"><a class="reference internal" href="#Model.Vinyl.Track.Track.set_properties"><code class="docutils literal notranslate"><span class="pre">Track.set_properties()</span></code></a></li>
 </ul>
 </li>
 </ul>
@@ -88,18 +88,37 @@
 <p>The list of tracks for an record.</p>
 <span class="target" id="module-Model.Vinyl.Track"></span><dl class="py class">
 <dt class="sig sig-object py" id="Model.Vinyl.Track.Track">
-<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">Model.Vinyl.Track.</span></span><span class="sig-name descname"><span class="pre">Track</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="o"><span class="pre">**</span></span><span class="n"><span class="pre">kwargs</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../../_modules/Model/Vinyl/Track.html#Track"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#Model.Vinyl.Track.Track" title="Permalink to this definition"></a></dt>
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">Model.Vinyl.Track.</span></span><span class="sig-name descname"><span class="pre">Track</span></span><a class="reference internal" href="../../_modules/Model/Vinyl/Track.html#Track"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#Model.Vinyl.Track.Track" title="Permalink to this definition"></a></dt>
 <dd><p>A class that holds the Article properties</p>
 <dl class="py method">
-<dt class="sig sig-object py" id="Model.Vinyl.Track.Track.dict">
-<span class="sig-name descname"><span class="pre">dict</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">dict</span></span></span><a class="reference internal" href="../../_modules/Model/Vinyl/Track.html#Track.dict"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#Model.Vinyl.Track.Track.dict" title="Permalink to this definition"></a></dt>
-<dd><p>Return the record in a dictionary</p>
+<dt class="sig sig-object py" id="Model.Vinyl.Track.Track.set_properties">
+<span class="sig-name descname"><span class="pre">set_properties</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">properties</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">dict</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">None</span></span></span><a class="reference internal" href="../../_modules/Model/Vinyl/Track.html#Track.set_properties"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#Model.Vinyl.Track.Track.set_properties" title="Permalink to this definition"></a></dt>
+<dd><div class="line-block">
+<div class="line">Set the properties of an instance via dictionary.</div>
+<div class="line">As Example a Record dictionary:</div>
+<div class="line">{“objectType”: “Model.Vinyl.Record.Record”,</div>
+<div class="line-block">
+<div class="line">“object”:</div>
+<div class="line-block">
+<div class="line">{“title”: “test”, “artist”: “cameltoe”,</div>
+<div class="line-block">
+<div class="line">“Model.Vinyl.Track.Track”: [</div>
+<div class="line-block">
+<div class="line">{“name”: “schnupp”, “length”: “5:23”},</div>
+<div class="line">{“name”: “schnarr”, “length”: “4:23”}</div>
+</div>
+<div class="line">]},</div>
+</div>
+</div>
+<div class="line">}+</div>
+</div>
+</div>
 <dl class="field-list simple">
-<dt class="field-odd">Returns</dt>
-<dd class="field-odd"><p>the current record</p>
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><p><strong>properties</strong> – Dictionary of properties</p>
 </dd>
-<dt class="field-even">Return type</dt>
-<dd class="field-even"><p>dict</p>
+<dt class="field-even">Returns</dt>
+<dd class="field-even"><p>None</p>
 </dd>
 </dl>
 </dd></dl>

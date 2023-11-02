@@ -11,10 +11,12 @@ mail = Blueprint('mail', __name__)
 @mail.route('/mail', methods=['POST'])
 def send_mail() -> Any:
     """
-    Get an existing article
+    | Send a mail to the given destination.
+    | Route:  http://192.168.0.2:5000/mail
+    | Content-Type: application/json
+    | Content-Length: <calculated when request is sent>
 
-    :return: Article
-    :rtype: str
+    :return: Error / "success"
     """
     # TODO: Filter Kram
     content_type = request.headers.get('Content-Type')
@@ -23,7 +25,7 @@ def send_mail() -> Any:
         if not json.get("mail_adress"):
             return "Bad Request", 400
         test_mail(receiver= json.get("mail_adress"))
-        return "passt"
+        return "success"
     else:
         return 'Content-Type not supported', 400
 

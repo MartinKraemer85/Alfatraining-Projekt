@@ -4,7 +4,7 @@
   <meta charset="utf-8" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Routes: Auth &mdash; Plattenfreude - documentation</title>
+  <title>Helper: DDL generator &mdash; Plattenfreude - documentation</title>
       <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
       <link rel="stylesheet" href="../_static/css/theme.css" type="text/css" />
   <!--[if lt IE 9]>
@@ -20,8 +20,8 @@
     <script src="../_static/js/theme.js"></script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
-    <link rel="next" title="Routes: Mail" href="Mail.html" />
-    <link rel="prev" title="Routes: Article" href="Article.html" /> 
+    <link rel="next" title="Helper: General Helper" href="GeneralHelper.html" />
+    <link rel="prev" title="Helper: DbHelper" href="DbHelper.html" /> 
 </head>
 
 <body class="wy-body-for-nav"> 
@@ -41,18 +41,18 @@
         </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
               <p class="caption" role="heading"><span class="caption-text">Contents:</span></p>
 <ul class="current">
-<li class="toctree-l1 current"><a class="reference internal" href="../Routes.html">Route documentation</a><ul class="current">
-<li class="toctree-l2"><a class="reference internal" href="Article.html">Routes: Article</a></li>
-<li class="toctree-l2 current"><a class="current reference internal" href="#">Routes: Auth</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="#Routes.Auth.verify_password"><code class="docutils literal notranslate"><span class="pre">verify_password()</span></code></a></li>
-</ul>
-</li>
-<li class="toctree-l2"><a class="reference internal" href="Mail.html">Routes: Mail</a></li>
-</ul>
-</li>
+<li class="toctree-l1"><a class="reference internal" href="../Routes.html">Route documentation</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../Model.html">Model documentation</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../HowToDocu.html">How to - Docu</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../Helper.html">Helper Documentation</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="../Helper.html">Helper Documentation</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="DbHelper.html">Helper: DbHelper</a></li>
+<li class="toctree-l2 current"><a class="current reference internal" href="#">Helper: DDL generator</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#Helper.DDL_generator.create_ddl"><code class="docutils literal notranslate"><span class="pre">create_ddl()</span></code></a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="GeneralHelper.html">Helper: General Helper</a></li>
+</ul>
+</li>
 <li class="toctree-l1"><a class="reference internal" href="../Flow.html">The general workflow of the application</a></li>
 </ul>
 
@@ -70,10 +70,10 @@
           <div role="navigation" aria-label="Page navigation">
   <ul class="wy-breadcrumbs">
       <li><a href="../index.html" class="icon icon-home"></a></li>
-          <li class="breadcrumb-item"><a href="../Routes.html">Route documentation</a></li>
-      <li class="breadcrumb-item active">Routes: Auth</li>
+          <li class="breadcrumb-item"><a href="../Helper.html">Helper Documentation</a></li>
+      <li class="breadcrumb-item active">Helper: DDL generator</li>
       <li class="wy-breadcrumbs-aside">
-            <a href="../_sources/Routes/Auth.rst.txt" rel="nofollow"> View page source</a>
+            <a href="../_sources/Helper/DDL_generator.rst.txt" rel="nofollow"> View page source</a>
       </li>
   </ul>
   <hr/>
@@ -81,22 +81,16 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
            <div itemprop="articleBody">
              
-  <section id="routes-auth">
-<h1>Routes: Auth<a class="headerlink" href="#routes-auth" title="Permalink to this heading"></a></h1>
-<p>A route for authentication purposes.</p>
-<span class="target" id="module-Routes.Auth"></span><dl class="py function">
-<dt class="sig sig-object py" id="Routes.Auth.verify_password">
-<span class="sig-prename descclassname"><span class="pre">Routes.Auth.</span></span><span class="sig-name descname"><span class="pre">verify_password</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">username</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">str</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">password</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">str</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">bool</span></span></span><a class="reference internal" href="../_modules/Routes/Auth.html#verify_password"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#Routes.Auth.verify_password" title="Permalink to this definition"></a></dt>
-<dd><p>Password verification</p>
+  <section id="helper-ddl-generator">
+<h1>Helper: DDL generator<a class="headerlink" href="#helper-ddl-generator" title="Permalink to this heading"></a></h1>
+<p>This function will create the database and all the tables from the model classes.</p>
+<span class="target" id="module-Helper.DDL_generator"></span><dl class="py function">
+<dt class="sig sig-object py" id="Helper.DDL_generator.create_ddl">
+<span class="sig-prename descclassname"><span class="pre">Helper.DDL_generator.</span></span><span class="sig-name descname"><span class="pre">create_ddl</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">None</span></span></span><a class="reference internal" href="../_modules/Helper/DDL_generator.html#create_ddl"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#Helper.DDL_generator.create_ddl" title="Permalink to this definition"></a></dt>
+<dd><p>Create the ddl for all model classes and emmit changes, if any are made.</p>
 <dl class="field-list simple">
-<dt class="field-odd">Parameters</dt>
-<dd class="field-odd"><ul class="simple">
-<li><p><strong>username</strong> – Name of the user</p></li>
-<li><p><strong>password</strong> – The actual password</p></li>
-</ul>
-</dd>
-<dt class="field-even">Returns</dt>
-<dd class="field-even"><p>Authentication succeeded or not</p>
+<dt class="field-odd">Returns</dt>
+<dd class="field-odd"><p>None</p>
 </dd>
 </dl>
 </dd></dl>
@@ -107,8 +101,8 @@
            </div>
           </div>
           <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
-        <a href="Article.html" class="btn btn-neutral float-left" title="Routes: Article" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
-        <a href="Mail.html" class="btn btn-neutral float-right" title="Routes: Mail" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+        <a href="DbHelper.html" class="btn btn-neutral float-left" title="Helper: DbHelper" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="GeneralHelper.html" class="btn btn-neutral float-right" title="Helper: General Helper" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
     </div>
 
   <hr/>

@@ -70,14 +70,12 @@
            <div itemprop="articleBody">
              
   <h1>Source code for Helper.DbHelper</h1><div class="highlight"><pre>
-<span></span><span class="kn">import</span> <span class="nn">json</span>
-<span class="kn">from</span> <span class="nn">dataclasses</span> <span class="kn">import</span> <span class="n">dataclass</span>
+<span></span><span class="kn">from</span> <span class="nn">dataclasses</span> <span class="kn">import</span> <span class="n">dataclass</span>
 <span class="kn">from</span> <span class="nn">sqlalchemy</span> <span class="kn">import</span> <span class="n">Engine</span><span class="p">,</span> <span class="n">text</span><span class="p">,</span> <span class="n">Connection</span><span class="p">,</span> <span class="n">update</span><span class="p">,</span> <span class="n">Table</span><span class="p">,</span> <span class="n">MetaData</span><span class="p">,</span> <span class="n">select</span>
 <span class="kn">from</span> <span class="nn">sqlalchemy.exc</span> <span class="kn">import</span> <span class="n">ProgrammingError</span><span class="p">,</span> <span class="n">InternalError</span><span class="p">,</span> <span class="n">DataError</span><span class="p">,</span> <span class="n">IntegrityError</span><span class="p">,</span> <span class="n">ArgumentError</span>
 <span class="kn">from</span> <span class="nn">sqlalchemy.orm</span> <span class="kn">import</span> <span class="n">Session</span>
 <span class="kn">from</span> <span class="nn">sqlalchemy.orm.exc</span> <span class="kn">import</span> <span class="n">UnmappedInstanceError</span>
 <span class="kn">from</span> <span class="nn">Helper.GeneralHelper</span> <span class="kn">import</span> <span class="n">generate_classinstance</span><span class="p">,</span> <span class="n">get_class</span>
-<span class="kn">from</span> <span class="nn">Model.Vinyl.Record</span> <span class="kn">import</span> <span class="n">Record</span>
 
 
 <div class="viewcode-block" id="DbHelper"><a class="viewcode-back" href="../../Helper/DbHelper.html#Helper.DbHelper.DbHelper">[docs]</a><span class="nd">@dataclass</span><span class="p">()</span>
@@ -90,19 +88,18 @@
     <span class="n">__conn</span><span class="p">:</span> <span class="n">Connection</span> <span class="o">=</span> <span class="kc">None</span>
     <span class="n">__metadata_obj</span> <span class="o">=</span> <span class="n">MetaData</span><span class="p">()</span>
 
-<div class="viewcode-block" id="DbHelper.select"><a class="viewcode-back" href="../../Helper/DbHelper.html#Helper.DbHelper.DbHelper.select">[docs]</a>    <span class="k">def</span> <span class="nf">select</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">table_name</span><span class="p">:</span> <span class="nb">str</span><span class="p">,</span> <span class="n">columns</span><span class="p">:</span> <span class="nb">list</span><span class="p">,</span> <span class="n">where</span><span class="p">:</span> <span class="nb">str</span> <span class="o">=</span> <span class="s2">&quot;&quot;</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="nb">str</span><span class="p">:</span>
+<div class="viewcode-block" id="DbHelper.select"><a class="viewcode-back" href="../../Helper/DbHelper.html#Helper.DbHelper.DbHelper.select">[docs]</a>    <span class="k">def</span> <span class="nf">select</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">table_name</span><span class="p">:</span> <span class="nb">str</span><span class="p">,</span> <span class="n">columns</span><span class="p">:</span> <span class="nb">list</span><span class="p">,</span> <span class="n">where</span><span class="p">:</span> <span class="nb">str</span> <span class="o">=</span> <span class="s2">&quot;&quot;</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="nb">list</span><span class="p">[</span><span class="nb">dict</span><span class="p">]:</span>
 <span class="w">        </span><span class="sd">&quot;&quot;&quot;</span>
 <span class="sd">        Returns the rows for a query in a dictionary string.</span>
 
 <span class="sd">        :param table_name: Table to query</span>
 <span class="sd">        :param columns: columns to query</span>
 <span class="sd">        :param where: where condition if needed</span>
-<span class="sd">        :return: The result as string</span>
+<span class="sd">        :return: The result as a list of dictionary&#39;s</span>
 <span class="sd">        &quot;&quot;&quot;</span>
         <span class="n">query</span> <span class="o">=</span> <span class="sa">f</span><span class="s1">&#39;SELECT </span><span class="si">{</span><span class="s2">&quot;,&quot;</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">columns</span><span class="p">)</span><span class="si">}</span><span class="s1"> FROM </span><span class="si">{</span><span class="n">table_name</span><span class="si">}</span><span class="s1"> </span><span class="si">{</span><span class="n">where</span><span class="si">}</span><span class="s1">;&#39;</span>
         <span class="n">conn</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">engine</span><span class="o">.</span><span class="n">connect</span><span class="p">()</span>
-        <span class="n">ret</span> <span class="o">=</span> <span class="p">[</span><span class="nb">dict</span><span class="p">(</span><span class="nb">zip</span><span class="p">(</span><span class="n">columns</span><span class="p">,</span> <span class="n">row</span><span class="p">))</span> <span class="k">for</span> <span class="n">row</span> <span class="ow">in</span> <span class="n">conn</span><span class="o">.</span><span class="n">execute</span><span class="p">(</span><span class="n">text</span><span class="p">(</span><span class="n">query</span><span class="p">))</span><span class="o">.</span><span class="n">fetchall</span><span class="p">()]</span>
-        <span class="k">return</span> <span class="n">json</span><span class="o">.</span><span class="n">dumps</span><span class="p">(</span><span class="n">ret</span><span class="p">,</span> <span class="n">indent</span><span class="o">=</span><span class="mi">2</span><span class="p">)</span></div>
+        <span class="k">return</span> <span class="p">[</span><span class="nb">dict</span><span class="p">(</span><span class="nb">zip</span><span class="p">(</span><span class="n">columns</span><span class="p">,</span> <span class="n">row</span><span class="p">))</span> <span class="k">for</span> <span class="n">row</span> <span class="ow">in</span> <span class="n">conn</span><span class="o">.</span><span class="n">execute</span><span class="p">(</span><span class="n">text</span><span class="p">(</span><span class="n">query</span><span class="p">))</span><span class="o">.</span><span class="n">fetchall</span><span class="p">()]</span></div>
 
 <div class="viewcode-block" id="DbHelper.db_update"><a class="viewcode-back" href="../../Helper/DbHelper.html#Helper.DbHelper.DbHelper.db_update">[docs]</a>    <span class="k">def</span> <span class="nf">db_update</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">values</span><span class="p">:</span> <span class="nb">dict</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="nb">int</span><span class="p">:</span>
 <span class="w">        </span><span class="sd">&quot;&quot;&quot;</span>
@@ -170,6 +167,7 @@
 <span class="sd">        &quot;&quot;&quot;</span>
 
         <span class="n">insert_obj</span> <span class="o">=</span> <span class="n">generate_classinstance</span><span class="p">(</span><span class="n">values</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s2">&quot;objectPath&quot;</span><span class="p">),</span> <span class="n">values</span><span class="p">)</span>
+
         <span class="k">with</span> <span class="n">Session</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">engine</span><span class="p">)</span> <span class="k">as</span> <span class="n">session</span><span class="p">:</span>
             <span class="k">try</span><span class="p">:</span>
                 <span class="n">session</span><span class="o">.</span><span class="n">add</span><span class="p">(</span><span class="n">insert_obj</span><span class="p">)</span>

@@ -70,23 +70,40 @@
            <div itemprop="articleBody">
              
   <h1>Source code for Routes.Article</h1><div class="highlight"><pre>
-<span></span><span class="kn">from</span> <span class="nn">flask</span> <span class="kn">import</span> <span class="n">Blueprint</span>
+<span></span><span class="kn">from</span> <span class="nn">typing</span> <span class="kn">import</span> <span class="n">Any</span>
+<span class="kn">from</span> <span class="nn">flask</span> <span class="kn">import</span> <span class="n">Blueprint</span><span class="p">,</span> <span class="n">request</span><span class="p">,</span> <span class="n">jsonify</span>
 <span class="kn">from</span> <span class="nn">Helper.DbHelper</span> <span class="kn">import</span> <span class="n">DbHelper</span>
+<span class="kn">from</span> <span class="nn">config_</span> <span class="kn">import</span> <span class="n">engine</span>
+<span class="n">article</span> <span class="o">=</span> <span class="n">Blueprint</span><span class="p">(</span><span class="s1">&#39;get_article&#39;</span><span class="p">,</span> <span class="vm">__name__</span><span class="p">)</span>
 
-<span class="n">article</span> <span class="o">=</span> <span class="n">Blueprint</span><span class="p">(</span><span class="s1">&#39;article&#39;</span><span class="p">,</span> <span class="vm">__name__</span><span class="p">)</span>
 
-
-<div class="viewcode-block" id="get_article"><a class="viewcode-back" href="../../Routes/Article.html#Routes.Article.get_article">[docs]</a><span class="nd">@article</span><span class="o">.</span><span class="n">route</span><span class="p">(</span><span class="s1">&#39;/article&#39;</span><span class="p">,</span> <span class="n">methods</span><span class="o">=</span><span class="p">[</span><span class="s1">&#39;GET&#39;</span><span class="p">])</span>
-<span class="k">def</span> <span class="nf">get_article</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="nb">str</span><span class="p">:</span>
+<div class="viewcode-block" id="get_article"><a class="viewcode-back" href="../../Routes/Article.html#Routes.Article.get_article">[docs]</a><span class="nd">@article</span><span class="o">.</span><span class="n">route</span><span class="p">(</span><span class="s1">&#39;/get_article&#39;</span><span class="p">,</span> <span class="n">methods</span><span class="o">=</span><span class="p">[</span><span class="s1">&#39;POST&#39;</span><span class="p">])</span>
+<span class="k">def</span> <span class="nf">get_article</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="n">Any</span><span class="p">:</span>
 <span class="w">    </span><span class="sd">&quot;&quot;&quot;</span>
-<span class="sd">    Get an existing article</span>
+<span class="sd">    | Get an existing article. Post because it would be a hassle to create and parse the url.</span>
+<span class="sd">    | Route: http://192.168.0.2:5000/get_article</span>
+<span class="sd">    | Content-Type: application/json</span>
+<span class="sd">    | Content-Length: &lt;calculated when request is sent&gt;</span>
+<span class="sd">    | raw data example:</span>
+<span class="sd">    | {</span>
+<span class="sd">    | &quot;table&quot;: &quot;record&quot;,</span>
+<span class="sd">    | &quot;fields&quot;: [&quot;artist&quot;, &quot;title&quot;],</span>
+<span class="sd">    | &quot;where&quot;: &quot;where artist is not null&quot;</span>
+<span class="sd">    | }</span>
 
-<span class="sd">    :return: Article</span>
-<span class="sd">    :rtype: str[json]</span>
+<span class="sd">    :return: Article / Error</span>
 <span class="sd">    &quot;&quot;&quot;</span>
-    <span class="c1"># TODO: Filter Kram</span>
-    <span class="n">db_helper</span> <span class="o">=</span> <span class="n">DbHelper</span><span class="p">()</span>
-    <span class="k">return</span> <span class="n">db_helper</span><span class="o">.</span><span class="n">select</span><span class="p">(</span><span class="s2">&quot;record&quot;</span><span class="p">,</span> <span class="p">[</span><span class="s2">&quot;artist&quot;</span><span class="p">,</span> <span class="s2">&quot;title&quot;</span><span class="p">],</span> <span class="s2">&quot;where artist is not null&quot;</span><span class="p">)</span></div>
+    <span class="n">content_type</span> <span class="o">=</span> <span class="n">request</span><span class="o">.</span><span class="n">headers</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">&#39;Content-Type&#39;</span><span class="p">)</span>
+    <span class="k">if</span> <span class="n">content_type</span> <span class="o">==</span> <span class="s1">&#39;application/json&#39;</span><span class="p">:</span>
+        <span class="n">json</span> <span class="o">=</span> <span class="n">request</span><span class="o">.</span><span class="n">json</span>
+        <span class="k">if</span> <span class="ow">not</span> <span class="n">json</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s2">&quot;table&quot;</span><span class="p">)</span> <span class="ow">or</span> <span class="ow">not</span> <span class="n">json</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s2">&quot;fields&quot;</span><span class="p">):</span>
+            <span class="k">return</span> <span class="s2">&quot;Bad request, fool!&quot;</span><span class="p">,</span> <span class="mi">400</span>
+        <span class="n">db_helper</span> <span class="o">=</span> <span class="n">DbHelper</span><span class="p">(</span><span class="n">engine</span><span class="p">)</span>
+        <span class="k">return</span> <span class="n">jsonify</span><span class="p">(</span><span class="n">db_helper</span><span class="o">.</span><span class="n">select</span><span class="p">(</span><span class="n">json</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s2">&quot;table&quot;</span><span class="p">),</span> <span class="n">json</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s2">&quot;fields&quot;</span><span class="p">),</span> <span class="n">json</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s2">&quot;where&quot;</span><span class="p">)))</span>
+    <span class="k">else</span><span class="p">:</span>
+        <span class="k">return</span> <span class="s1">&#39;Content-Type not supported&#39;</span><span class="p">,</span> <span class="mi">400</span></div>
+
+
 </pre></div>
 
            </div>

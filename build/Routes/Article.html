@@ -47,6 +47,7 @@
 </ul>
 </li>
 <li class="toctree-l2"><a class="reference internal" href="Auth.html">Routes: Auth</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Mail.html">Routes: Mail</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="../Model.html">Model documentation</a></li>
@@ -85,14 +86,22 @@
 <p>A route to filter or manipulate articles.</p>
 <span class="target" id="module-Routes.Article"></span><dl class="py function">
 <dt class="sig sig-object py" id="Routes.Article.get_article">
-<span class="sig-prename descclassname"><span class="pre">Routes.Article.</span></span><span class="sig-name descname"><span class="pre">get_article</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">str</span></span></span><a class="reference internal" href="../_modules/Routes/Article.html#get_article"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#Routes.Article.get_article" title="Permalink to this definition"></a></dt>
-<dd><p>Get an existing article</p>
+<span class="sig-prename descclassname"><span class="pre">Routes.Article.</span></span><span class="sig-name descname"><span class="pre">get_article</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">Any</span></span></span><a class="reference internal" href="../_modules/Routes/Article.html#get_article"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#Routes.Article.get_article" title="Permalink to this definition"></a></dt>
+<dd><div class="line-block">
+<div class="line">Get an existing article. Post because it would be a hassle to create and parse the url.</div>
+<div class="line">Route: <a class="reference external" href="http://192.168.0.2:5000/get_article">http://192.168.0.2:5000/get_article</a></div>
+<div class="line">Content-Type: application/json</div>
+<div class="line">Content-Length: &lt;calculated when request is sent&gt;</div>
+<div class="line">raw data example:</div>
+<div class="line">{</div>
+<div class="line">“table”: “record”,</div>
+<div class="line">“fields”: [“artist”, “title”],</div>
+<div class="line">“where”: “where artist is not null”</div>
+<div class="line">}</div>
+</div>
 <dl class="field-list simple">
 <dt class="field-odd">Returns</dt>
-<dd class="field-odd"><p>Article</p>
-</dd>
-<dt class="field-even">Return type</dt>
-<dd class="field-even"><p>str[json]</p>
+<dd class="field-odd"><p>Article / Error</p>
 </dd>
 </dl>
 </dd></dl>

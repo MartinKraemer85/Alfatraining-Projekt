@@ -8,3 +8,4 @@ Route documentation
 
    Routes/Article
    Routes/Auth
+   Routes/Mail

@@ -7,3 +7,5 @@ Helper Documentation
    :caption: Helper
 
    Helper/DbHelper
+   Helper/DDL_generator
+   Helper/GeneralHelper
