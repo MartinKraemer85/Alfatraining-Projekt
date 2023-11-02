@@ -29,7 +29,7 @@ class ModelBase:
         |                    {"name": "schnupp", "length": "5:23"},
         |                    {"name": "schnarr", "length": "4:23"}
         |                ]},
-        |           }+
+        |           }
 
         :param properties: Dictionary of properties
         :return: None

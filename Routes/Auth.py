@@ -14,4 +14,4 @@ def verify_password(username: str, password: str) -> bool:
     :return: Authentication succeeded or not
     """
     # TODO: passwort verification + session?
-    return None
+    return False
