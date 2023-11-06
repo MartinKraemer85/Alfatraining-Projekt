@@ -10,6 +10,8 @@ def get_article() -> Any:
     """
     | Get an existing article. Post because it would be a hassle to create and parse the url.
     | Route: http://192.168.0.2:5000/get_article
+    | Method: POST
+    | Header-content:
     | Content-Type: application/json
     | Content-Length: <calculated when request is sent>
     | raw data example:

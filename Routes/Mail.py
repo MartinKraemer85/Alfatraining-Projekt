@@ -13,6 +13,8 @@ def send_mail() -> Any:
     """
     | Send a mail to the given destination.
     | Route:  http://192.168.0.2:5000/mail
+    | Method: POST
+    | Header-content:
     | Content-Type: application/json
     | Content-Length: <calculated when request is sent>
 
