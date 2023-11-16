@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Titel</title>
+    <style>
+        button {
+            position: relative;
+            width: 100%;
+            height: 100%;
+            -webkit-border-radius: 1px 1px 1px 1px;
+            border-radius: 1px 1px 1px 1px;
+        }
+    </style>
+
+    <script type="module">
+        'use strict';
+        import { get } from './Helper/CRUD.js';
+        // KONSTANTEN / VARIABLEN
+        const elements = {};
+        const clickEvent = () => {
+            get({
+                url: "http://192.168.0.2:5000/get_article", body: {
+                    "table": "record",
+                    "fields": ["artist", "title"],
+                    "where": "where artist = 'sdh'"
+                }
+            });
+        }
+
+
+        // FUNKTIONEN
+        const domMapping = () => {
+
+        }
+
+        const appendEventlisteners = () => {
+            const el = document.querySelector('#request');
+            el.addEventListener('click', clickEvent)
+        }
+
+        const handleInput = evt => {
+            let input = evt.target.value
+            console.log(input);
+        }
+        
+        const init = () => {
+            domMapping();
+            appendEventlisteners();
+            const inEl = document.querySelector("#test");
+            inEl.addEventListener("input", handleInput);
+
+        }
+
+        // INIT
+        document.addEventListener('DOMContentLoaded', init)
+
+
+    </script>
+</head>
+
+<body>
+    <div>
+
+        <button id="request" >Get Something</button>
+    </div>
+    <input id="test" type="text">
+</body>
+
+</html>

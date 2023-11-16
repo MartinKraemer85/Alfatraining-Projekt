@@ -1,3 +1,5 @@
+from sqlalchemy import Float
+
 from .Track import Track
 from ..ModelBase import *
 
@@ -14,8 +16,13 @@ class Record(ModelBase, Base):
     id: Mapped[int] = mapped_column(primary_key=True)
     title: Mapped[str] = mapped_column(String(100))
     artist: Mapped[str] = mapped_column(String(100))
+    type: Mapped[str] = mapped_column(String(100))
+    year: Mapped[int] = mapped_column()
+    price: Mapped[float] = mapped_column(Float(2))
 
+    #todo: reviews?
     tracks: Mapped[List['Track']] = relationship("Track", cascade="all, delete-orphan")
+    reviews: Mapped[List['Review']] = relationship("Review", cascade="all, delete-orphan")
 
     def set_properties(self, properties: dict) -> None:
         for key, value in properties.get("attributes").items():

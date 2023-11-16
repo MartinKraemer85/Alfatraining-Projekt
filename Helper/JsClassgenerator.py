@@ -1,13 +1,12 @@
 import os
 import re
-
 from Helper.GeneralHelper import get_class
 from config_ import engine
 
 
-def create_ddl() -> None:
+def create_js() -> None:
     """
-    Create the ddl for all model classes as long as they don't exist.
+    Create the js classes for all model classes.
 
     :return: None
     """
@@ -25,6 +24,7 @@ def create_ddl() -> None:
 
     file_list = [re.sub('\\\\', '.', file) for file in file_list]
     for file in file_list:
+        # finally emmit the ddl for every model class
         get_class(file).metadata.create_all(engine)
 
 

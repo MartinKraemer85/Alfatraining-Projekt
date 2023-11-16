@@ -6,8 +6,8 @@ from Helper.GeneralHelper import create_pwd
 # only for evaluation so flask is not needed
 
 # create db if needed
-# from Helper.DDL_generator import create_ddl
-# create_ddl()
+from Helper.DDLGenerator import create_ddl
+create_ddl()
 
 from Helper.DbHelper import DbHelper
 test = DbHelper(engine)
