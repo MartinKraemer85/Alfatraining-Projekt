@@ -17,9 +17,12 @@ Docu Kram:
 sphinx-build -b html source build
 Requirement Kram:
 pip freeze > requirements.txt
+pip install -r requirements.txt
 """
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0')
 
 # fastapi
+
+# todo: amount, haendler, verpackung?

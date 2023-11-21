@@ -1,18 +1,172 @@
 <!DOCTYPE html>
 <html lang="de">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <title>Titel</title>
-        <style></style>
-        
-        <script>
-            'use strict';
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Titel</title>
+    <style>
+        .left {
+            width: 20%;
+            float: left;
+        }
+
+        .closeBtn {
+            width: 100%;
+            color: blue;
+        }
+    </style>
+
+    <script type="module">
+        'use strict';
+        import { get } from './Helper/CRUD.js';
+
+        // KONSTANTEN / VARIABLEN
+        const navElements = { Genre: ["Elektro", "Classic", "Rock", "Metal"], Stil: ["Black Metal", "Death Metal"], Format: ["Cd", "Vinyl"] };
+        const filter = []
+        let tableData = {}
+
+        // FUNKTIONEN
+        const domMapping = () => {
+        }
+
+        const deleteFilter = evt => {
+            const index = filter.indexOf(evt.currentTarget.innerText);
+            const x = filter.splice(index, 1);
+            evt.currentTarget.remove();
+        }
+
+        const addFilter = evt => {
+            if (!filter.includes(evt.currentTarget.innerText)) {
+                // add to Filter array
+                filter.push(evt.currentTarget.innerText);
+
+                // get the Filter div / create a new button
+                const filterEl = document.querySelector("#filter");
+                const filterBtn = document.createElement("button");
+
+                // set properties and add button to the div 
+                filterBtn.classList.add("closeBtn");
+                filterBtn.innerHTML = evt.currentTarget.innerText;
+                filterBtn.addEventListener('click', deleteFilter)
+                filterEl.append(filterBtn)
+            }
+        }
+
+
+        const clickEvent = () => {
+            setTableData()
+            fillTable()
+        }
+
+        const appendEventlisteners = () => {
+            const el = document.querySelector('#request');
+            el.addEventListener('click', clickEvent)
+            for (const el of Array.from(document.querySelectorAll("li"))) {
+                console.log(el);
+                el.addEventListener('click', addFilter);
+            }
+        }
+
+        const fillNav = () => {
+            const nav = document.querySelector("#nav")
+            for (const el in navElements) {
+                console.log(el);
+                const header = document.createElement("h2");
+                header.innerText = el;
+                nav.append(header)
+                navElements[el].forEach(style => {
+                    console.log(style);
+                    let item = document.createElement("li");
+                    item.innerText = style;
+                    nav.append(item)
+                });
+
+            }
+        }
+
+
+        const setTableData = async () => {
+            tableData = await get({
+                url: "http://192.168.0.2:5000/get_article", body: {
+                    "table": "record",
+                    "fields": ["*"],
+                    "where": ""
+                }
+            });
+        }
+
+        const addToTable = ({tr, row, value="", head=false} = {}) => {
+            const tableEl = head? document.querySelector("#head") : document.querySelector("#body");
+
+            for (const key in tableData[row]) {
+                console.log(key);
+                const thtd = document.createElement(head ? "th" : "td");
+                thtd.innerHTML = head ? key :  tableData[row][key]
+                tr.append(thtd);
+                tableEl.append(tr);
+            }
+        }
+
+        const removeElements = (el) =>{
+            while (el.firstChild) {
+                el.removeChild(el.firstChild);
+            }
+        }
+
+        const fillTable = () => {
+            // 
+            let count = 0;
+            removeElements(document.querySelector("#head")); 
+            removeElements(document.querySelector("#body")); 
+            let tr = document.createElement("tr");
             
-        </script>
-    </head>
-    <body>
-    
-    </body>
+            for (const row in tableData) {
+
+                if (!count) {
+                    addToTable({tr, row, head:true})
+                }
+                tr = document.createElement("tr");
+                
+                addToTable({tr, row, head:false})
+                
+                count++;
+            }
+        }
+
+        const init = () => {
+            domMapping();
+            fillNav();
+            appendEventlisteners();
+            setTableData(fillTable)
+        }
+
+        // INIT
+        document.addEventListener('DOMContentLoaded', init)
+        // todo: Tabelle nur x viele Daten anzeigen
+        // button der unten an der Tabelle klebt
+        // Anderes design fuer die nav Filter Geschichte
+    </script>
+</head>
+
+<body>
+    <div>
+        <button id="request">Get Something</button>
+    </div>
+
+    <div class="left">
+        <div class="left" id="filter"></div>
+        <ul id="nav">
+
+        </ul>
+    </div>
+    <div>
+        <table>
+            <thead id="head"></thead>
+            <tbody id="body"></tbody>
+        </table>
+    </div>
+</body>
+
 </html>

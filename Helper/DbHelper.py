@@ -25,9 +25,10 @@ class DbHelper:
         :param where: where condition if needed
         :return: The result as a list of dictionary's
         """
-        query = f'SELECT {",".join(columns)} FROM {table_name} {where};'
+        query = f'SELECT { "*" if "*" in columns else ",".join(columns)} FROM {table_name} {where};'
         conn = self.engine.connect()
-        return [dict(zip(columns, row)) for row in conn.execute(text(query)).fetchall()]
+        result = conn.execute(text(query))
+        return [dict(zip(result.keys(), row)) for row in result.fetchall()]
 
     def db_update(self, values: dict) -> int:
         """
@@ -95,7 +96,7 @@ class DbHelper:
         """
 
         insert_obj = generate_classinstance(values.get("objectPath"), values)
-
+        print(insert_obj)
         with Session(self.engine) as session:
             try:
                 session.add(insert_obj)
