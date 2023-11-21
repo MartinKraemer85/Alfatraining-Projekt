@@ -25,4 +25,7 @@ if __name__ == '__main__':
 
 # fastapi
 
-# todo: amount, haendler, verpackung?
+# todo: amount, haendler, verpackung? many to many insert? Bulk Insert?
+
+
+# DROP TABLE track, record_sub_genre, record_genre, genre , sub_genre, review, record ;

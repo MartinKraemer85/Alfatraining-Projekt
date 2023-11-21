@@ -1,7 +1,9 @@
 from sqlalchemy import Float
-
 from .Track import Track
 from ..ModelBase import *
+from .Associations import AscSubGenre, AscGenre
+
+# from .Genre import Genre, SubGenre
 
 
 @dataclass()
@@ -18,13 +20,13 @@ class Record(ModelBase, Base):
     artist: Mapped[str] = mapped_column(String(100))
     type: Mapped[str] = mapped_column(String(100))
     year: Mapped[int] = mapped_column()
-    genre: Mapped[str] = mapped_column(String(20))
-    sub_genre: Mapped[str] = mapped_column(String(20))
     state: Mapped[int] = mapped_column()
     price: Mapped[float] = mapped_column(Float(2))
-
-    #todo: reviews?
-    tracks: Mapped[List['Track']] = relationship("Track", cascade="all, delete-orphan")
+    # todo: reviews?
+    tracks: Mapped[List[Track]] = relationship("Track",
+                                               cascade="all, delete-orphan")
+    sub_genres: Mapped[List[AscSubGenre]] = relationship()
+    genres: Mapped[List[AscGenre]] = relationship()
     # reviews: Mapped[List['Review']] = relationship("Review", cascade="all, delete-orphan")
 
     def set_properties(self, properties: dict) -> None:
@@ -45,3 +47,8 @@ class Record(ModelBase, Base):
         :return: None
         """
         self.tracks.append(track)
+
+
+
+
+

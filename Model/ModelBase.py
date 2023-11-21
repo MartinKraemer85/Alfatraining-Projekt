@@ -1,7 +1,7 @@
 from dataclasses import dataclass, field, asdict
 from typing import List
 from datetime import time
-from sqlalchemy import Column, Integer, String, Boolean, Numeric, Time, ForeignKey
+from sqlalchemy import Column, Integer, String, Boolean, Numeric, Time, ForeignKey,Table
 from sqlalchemy.orm import relationship, DeclarativeBase, Mapped, mapped_column
 from Helper.GeneralHelper import generate_classinstance
 
@@ -34,4 +34,6 @@ class ModelBase:
         :param properties: Dictionary of properties
         :return: None
         """
-        pass
+        for key, value in properties.get("attributes").items():
+            print(key, value)
+            setattr(self, key, value)

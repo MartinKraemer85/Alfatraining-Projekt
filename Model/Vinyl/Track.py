@@ -17,7 +17,7 @@ class Track(ModelBase, Base):
 
     track_number: Mapped[int] = mapped_column()
     # title of the vinyl record
-    #name: Mapped[str] = mapped_column(String(100))
+    title: Mapped[str] = mapped_column(String(100))
     # the artist of the vinyl record
     length: Mapped[Time] = mapped_column(Time)
 
