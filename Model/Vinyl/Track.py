@@ -27,3 +27,8 @@ class Track(ModelBase, Base):
                 setattr(self, key, datetime.strptime(value, '%M:%S').time())
             else:
                 setattr(self, key, value)
+
+    def to_dict(self) -> dict:
+        ret = dict((f.name, getattr(self, f.name)) for f in fields(self) if f.name not in ['length'])
+        ret['length'] = str(self.length)
+        return ret

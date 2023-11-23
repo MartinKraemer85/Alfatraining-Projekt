@@ -7,13 +7,13 @@ from Helper.DbHelper import DbHelper
 test = DbHelper(engine)
 
 # print(test.select("record", ["*"], "where artist = 'Leichenzug'"))
-# muh = test.select_all("Model.Vinyl.Record.Record")
-# print("----------")
-# print(muh)
-# print("----------")
+muh = test.select_all("Model.Vinyl.Record.Record")
+print("----------")
+print(muh)
+print("----------")
 # ---- testing stuff ------------
 # create db if needed
-if True:
+if False:
     create_ddl()
 
     test.db_insert({"objectPath": "Model.Vinyl.Genre.Genre",

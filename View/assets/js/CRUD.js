@@ -10,11 +10,8 @@ const get = async ({ url = "/",
         body: JSON.stringify(body)
     })
     const json = await response.json()
-    console.log(json)
     return json;
 }
-
-
 
 // exporting variables and function
 export { get };

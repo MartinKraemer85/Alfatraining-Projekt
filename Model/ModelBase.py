@@ -44,6 +44,4 @@ class ModelBase:
 
         :return: object dict
         """
-        for f in fields(self):
-            print(f)
         return dict((f.name, getattr(self, f.name)) for f in fields(self))

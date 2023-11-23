@@ -1,4 +1,6 @@
 from dataclasses import dataclass
+
+from flask import jsonify
 from sqlalchemy import Engine, text, Connection, update, Table, MetaData, select
 from sqlalchemy.exc import ProgrammingError, InternalError, DataError, IntegrityError, ArgumentError
 from sqlalchemy.orm import Session
@@ -26,6 +28,7 @@ class DbHelper:
         :return: The result as a list of dictionary's
         """
         query = f'SELECT { "*" if "*" in columns else ",".join(columns)} FROM {table_name} {where};'
+        print(query)
         conn = self.engine.connect()
         result = conn.execute(text(query))
         return [dict(zip(result.keys(), row)) for row in result.fetchall()]
@@ -43,8 +46,7 @@ class DbHelper:
             result = session.execute(select(select_obj)).unique()
             for row in result.scalars().all():
                 res.append(row.to_dict())
-                break
-        return res
+        return jsonify(res)
 
     def db_update(self, values: dict) -> int:
         """

@@ -16,6 +16,20 @@
             width: 100%;
             color: blue;
         }
+        .highlight {
+            background-color: rgb(255, 233, 225);
+            border: 2px solid rgb(205, 50, 50);
+            padding: 5px;
+        }
+
+        li {
+            cursor: pointer;
+        }
+
+        li:not(.highlight):hover {
+            background: rgba(0,0,0,.05);            
+        }
+
     </style>
 
     <script type="module">
@@ -23,13 +37,10 @@
         import { get } from './assets/js/CRUD.js';
 
         // KONSTANTEN / VARIABLEN
-        const navElements = { Genre: ["Elektro", "Classic", "Rock", "Metal"], Stil: ["Black Metal", "Death Metal"], Format: ["Cd", "Vinyl"] };
-        const filter = []
-        let tableData = {}
-
-        // FUNKTIONEN
-        const domMapping = () => {
-        }
+        const elements = {}
+        const genres = []
+        const subGenres = []
+        let filters = []
 
         const deleteFilter = evt => {
             const index = filter.indexOf(evt.currentTarget.innerText);
@@ -38,108 +49,154 @@
         }
 
         const addFilter = evt => {
-            if (!filter.includes(evt.currentTarget.innerText)) {
+            const target = evt.currentTarget;
+            target.classList.toggle('highlight')
+            console.log(target.classList);
+            if(target.classList.contains('highlight') && 
+                !filters.includes(evt.currentTarget.innerText)){
                 // add to Filter array
-                filter.push(evt.currentTarget.innerText);
-
-                // get the Filter div / create a new button
-                const filterEl = document.querySelector("#filter");
-                const filterBtn = document.createElement("button");
-
-                // set properties and add button to the div 
-                filterBtn.classList.add("closeBtn");
-                filterBtn.innerHTML = evt.currentTarget.innerText;
-                filterBtn.addEventListener('click', deleteFilter)
-                filterEl.append(filterBtn)
+                filters.push(evt.currentTarget.innerText);
+            } else{
+                filters = filters.filter(el => {el == evt.currentTarget.innerText ? 0 : 1})
             }
+            fillTable()
         }
 
 
         const clickEvent = () => {
-            setTableData()
             fillTable()
         }
 
         const appendEventlisteners = () => {
-            const el = document.querySelector('#request');
-            el.addEventListener('click', clickEvent)
+            /**
+             * add the Eventlistener like the filter function for the genre / subegenre navbar
+             * */
+
+            // Genre / SubGenre click event
             for (const el of Array.from(document.querySelectorAll("li"))) {
-                console.log(el);
                 el.addEventListener('click', addFilter);
             }
         }
 
-        const fillNav = () => {
+        const createFilter = ({headerText = "Genre", bulletPoints} = {}) => {
+            /**
+             * Appends the genre / sub genre filter to the navigation
+             * */
             const nav = document.querySelector("#nav")
-            for (const el in navElements) {
-                console.log(el);
-                const header = document.createElement("h2");
-                header.innerText = el;
-                nav.append(header)
-                navElements[el].forEach(style => {
-                    console.log(style);
-                    let item = document.createElement("li");
-                    item.innerText = style;
-                    nav.append(item)
-                });
-
-            }
+            const head = document.createElement("h2");
+            head.innerText = headerText;
+            nav.append(head)
+            bulletPoints.forEach((el) => {
+                let item = document.createElement("li");
+                item.innerText = el;
+                nav.append(item)
+            });     
         }
 
 
-        const setTableData = async () => {
-            tableData = await get({
-                url: "http://192.168.0.2:5000/get_article", body: {
-                    "table": "record",
-                    "fields": ["*"],
-                    "where": ""
-                }
-            });
-        }
-
-        const addToTable = ({tr, row, value="", head=false} = {}) => {
-            const tableEl = head? document.querySelector("#head") : document.querySelector("#body");
-
-            for (const key in tableData[row]) {
-                console.log(key);
+        const addToTable = ({ tr, tableRow, head = false } = {}) => {
+            /** 
+             * Iterates over the given table row 
+             * @tr {tableRow} 
+             * @tableRow {object} 
+             * @head {bool}  
+            */
+            const tableEl = head ? document.querySelector("#head") : document.querySelector("#body");
+            
+            for (const [key, value] of Object.entries(tableRow)) {
+                // Ignore relationships like the genre and ignore the article id also
+                if (typeof value =='object') continue;
+                if (key.match('id')) continue;
+   
                 const thtd = document.createElement(head ? "th" : "td");
-                thtd.innerHTML = head ? key :  tableData[row][key]
+                thtd.innerHTML = head ? key : value
                 tr.append(thtd);
                 tableEl.append(tr);
             }
         }
 
-        const removeElements = (el) =>{
+        const removeElements = (el) => {
             while (el.firstChild) {
                 el.removeChild(el.firstChild);
             }
         }
 
-        const fillTable = () => {
-            // 
-            let count = 0;
-            removeElements(document.querySelector("#head")); 
-            removeElements(document.querySelector("#body")); 
-            let tr = document.createElement("tr");
+        const filterData = () => {
+            /** 
+             * A function for article filter purposes.
+             * First, iterate over the articles via filter, check if article has a genre.
+             * If this is the case, check if the filters array includes the genre name
+            */
             
-            for (const row in tableData) {
+            return filters.length ? elements.Articles.filter(article =>{
+                const ret = 0;
+                return article.genres.some(genre => {
+                    //console.log(filters.includes(el.genre.name))
+                    return filters.some(filter => {
+                        if (genre.genre.name == filter) return true
+                        return false;
+                    });
 
+                }) 
+                //return ret;
+            } ) : elements.Articles
+   
+        }
+
+        const fillTable = () => {
+            removeElements(document.querySelector("#head"));
+            removeElements(document.querySelector("#body"));
+            let tr = document.createElement("tr");
+            const filterdArticles = ""
+            let count = 0;
+            for (const article of filterData()) {
+        
                 if (!count) {
-                    addToTable({tr, row, head:true})
+                    addToTable({ tr, tableRow: article, head: true })
                 }
                 tr = document.createElement("tr");
-                
-                addToTable({tr, row, head:false})
-                
-                count++;
+
+                addToTable({ tr, tableRow: article, head: false })
+                count ++;
             }
         }
 
-        const init = () => {
-            domMapping();
-            fillNav();
+        
+        const loadData = async () => {
+            /**
+             * First, load all the data we need
+             */
+
+            elements.Articles = await get({
+                url: "http://192.168.0.2:5000/select_all_articles", 
+                body: "Model.Vinyl.Record.Record"
+            });
+            
+            elements.genre = await get({
+                url: "http://192.168.0.2:5000/select", 
+                body: {
+                    "table": "genre",
+                    "fields": ["name"]
+                }
+            });
+
+            elements.subGenre = await get({
+                url: "http://192.168.0.2:5000/select", 
+                body: {
+                    "table": "sub_genre",
+                    "fields": ["name"]
+                }
+            });
+            elements.genre.map((el) => genres.push(el.name))
+            elements.subGenre.map((el) => subGenres.push(el.name))
+        }
+
+        const init = async () => {
+            await loadData();
+            createFilter({bulletPoints: genres});
+            createFilter({headerText: "Sub Genre", bulletPoints: genres});
             appendEventlisteners();
-            setTableData(fillTable)
+            fillTable()
         }
 
         // INIT
@@ -151,10 +208,6 @@
 </head>
 
 <body>
-    <div>
-        <button id="request">Get Something</button>
-    </div>
-
     <div class="left">
         <div class="left" id="filter"></div>
         <ul id="nav">
