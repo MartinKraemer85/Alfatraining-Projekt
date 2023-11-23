@@ -4,14 +4,17 @@ from Helper.GeneralHelper import create_pwd
 from Helper.DDLGenerator import create_ddl
 from Helper.DbHelper import DbHelper
 
+test = DbHelper(engine)
+
+# print(test.select("record", ["*"], "where artist = 'Leichenzug'"))
+muh = test.select_all("Model.Vinyl.Record.Record")
+print("----------")
+print(muh)
+print("----------")
 # ---- testing stuff ------------
 # create db if needed
-create_ddl()
-test = DbHelper(engine)
-#
-
-
-if True:
+if False:
+    create_ddl()
 
     test.db_insert({"objectPath": "Model.Vinyl.Genre.Genre",
                     "attributes": {"name": "Rock"},
@@ -90,8 +93,6 @@ if True:
                          "artist": "Mokturnal Mortum",
                          "type": "Vinyl",
                          "year": 2008,
-                         "genre": "Metal",
-                         "stile": "Black Metal",
                          "state": 2,
                          "price": 20.99,
                          "Model.Vinyl.Track.Track": [
@@ -107,8 +108,6 @@ if True:
                          "artist": "Leichenzug",
                          "type": "Vinyl",
                          "year": 2008,
-                         "genre": "Metal",
-                         "stile": "Black Metal",
                          "state": 2,
                          "price": 16.99,
                          "Model.Vinyl.Track.Track": [
@@ -124,8 +123,6 @@ if True:
                          "artist": "Black Magic SS",
                          "type": "Vinyl",
                          "year": 2008,
-                         "genre": "Rock",
-                         "stile": "Black Metal",
                          "state": 2,
                          "price": 18.99,
                          "Model.Vinyl.Track.Track": [
@@ -141,8 +138,6 @@ if True:
                          "artist": "Mokturnal Mortum",
                          "type": "Vinyl",
                          "year": 2008,
-                         "genre": "Metal",
-                         "stile": "Black Metal",
                          "state": 2,
                          "price": 5.99,
                          "Model.Vinyl.Track.Track": [
@@ -152,7 +147,7 @@ if True:
                          ]},
                     })
 
-    # print(test.select("record", ["*"], ""))
+
 # test.db_update({"objectPath": "Model.Vinyl.Record.Record",
 #                 "attributes": [
 #                     {"id": "13", "title": "updat1", "artist": "addd"},

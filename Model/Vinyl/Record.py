@@ -23,10 +23,12 @@ class Record(ModelBase, Base):
     state: Mapped[int] = mapped_column()
     price: Mapped[float] = mapped_column(Float(2))
     # todo: reviews?
-    tracks: Mapped[List[Track]] = relationship("Track",
-                                               cascade="all, delete-orphan")
-    sub_genres: Mapped[List[AscSubGenre]] = relationship()
-    genres: Mapped[List[AscGenre]] = relationship()
+    # lazy = "joined" : each Parent will also have its children collection populated
+    tracks: Mapped[List[Track]] = relationship("Track", cascade="all, "
+                                               "delete-orphan",
+                                               lazy="joined")
+    sub_genres: Mapped[List[AscSubGenre]] = relationship(lazy="joined")
+    genres: Mapped[List[AscGenre]] = relationship(lazy="joined")
     # reviews: Mapped[List['Review']] = relationship("Review", cascade="all, delete-orphan")
 
     def set_properties(self, properties: dict) -> None:
@@ -47,8 +49,4 @@ class Record(ModelBase, Base):
         :return: None
         """
         self.tracks.append(track)
-
-
-
-
 

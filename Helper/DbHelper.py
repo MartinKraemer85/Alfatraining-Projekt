@@ -30,6 +30,22 @@ class DbHelper:
         result = conn.execute(text(query))
         return [dict(zip(result.keys(), row)) for row in result.fetchall()]
 
+    def select_all(self, object_path: str) -> any:
+        """
+        Select all rows + relationships of a table.
+
+        :param object_path: The object we want to select (i.e. "Model.Vinyl.Record.Record")
+        :return: object of the given path
+        """
+        select_obj = get_class(object_path)
+        res = []
+        with Session(self.engine) as session:
+            result = session.execute(select(select_obj)).unique()
+            for row in result.scalars().all():
+                res.append(row.to_dict())
+                break
+        return res
+
     def db_update(self, values: dict) -> int:
         """
         | Perform an update with a dictionary that holds the list of changes.

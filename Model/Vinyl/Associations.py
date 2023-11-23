@@ -9,7 +9,7 @@ class AscGenre(ModelBase, Base):
 
     record_id: Mapped[int] = mapped_column(ForeignKey("record.id"), primary_key=True)
     genre_id: Mapped[int] = mapped_column(ForeignKey("genre.id"), primary_key=True)
-    genre: Mapped[Genre] = relationship()
+    genre: Mapped[Genre] = relationship(lazy="joined")
 
 
 @dataclass()
@@ -19,4 +19,4 @@ class AscSubGenre(ModelBase, Base):
 
     record_id: Mapped[int] = mapped_column(ForeignKey("record.id"), primary_key=True)
     sub_genre_id: Mapped[int] = mapped_column(ForeignKey("sub_genre.id"), primary_key=True)
-    sub_genre: Mapped['SubGenre'] = relationship()
+    sub_genre: Mapped['SubGenre'] = relationship(lazy="joined")

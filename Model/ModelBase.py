@@ -1,4 +1,4 @@
-from dataclasses import dataclass, field, asdict
+from dataclasses import dataclass, field, asdict, fields
 from typing import List
 from datetime import time
 from sqlalchemy import Column, Integer, String, Boolean, Numeric, Time, ForeignKey,Table
@@ -37,3 +37,11 @@ class ModelBase:
         for key, value in properties.get("attributes").items():
             print(key, value)
             setattr(self, key, value)
+
+    def to_dict(self) -> dict:
+        """
+        Create a dictionary out of an object instance
+
+        :return: object dict
+        """
+        return dict((f.name, getattr(self, f.name)) for f in fields(self))
