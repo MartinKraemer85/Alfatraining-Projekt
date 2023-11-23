@@ -65,7 +65,7 @@ class DbHelper:
                  6 - IntegrityError
                  7 - ArgumentError
         """
-
+        # todo: errorhandling
         with Session(self.engine) as session:
             try:
                 session.execute(

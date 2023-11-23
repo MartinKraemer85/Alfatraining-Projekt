@@ -3,6 +3,7 @@ from .Track import Track
 from ..ModelBase import *
 from .Associations import AscSubGenre, AscGenre
 
+
 # from .Genre import Genre, SubGenre
 
 
@@ -25,10 +26,11 @@ class Record(ModelBase, Base):
     # todo: reviews?
     # lazy = "joined" : each Parent will also have its children collection populated
     tracks: Mapped[List[Track]] = relationship("Track", cascade="all, "
-                                               "delete-orphan",
+                                                                "delete-orphan",
                                                lazy="joined")
-    sub_genres: Mapped[List[AscSubGenre]] = relationship(lazy="joined")
     genres: Mapped[List[AscGenre]] = relationship(lazy="joined")
+    sub_genres: Mapped[List[AscSubGenre]] = relationship(lazy="joined")
+
     # reviews: Mapped[List['Review']] = relationship("Review", cascade="all, delete-orphan")
 
     def set_properties(self, properties: dict) -> None:
@@ -50,3 +52,16 @@ class Record(ModelBase, Base):
         """
         self.tracks.append(track)
 
+    def to_dict(self) -> dict:
+        """
+        Create a dictionary out of an object instance
+
+        :return: object dict
+        """
+        # Since we want the relationships converted to a dict too, ignore them at first and add them separately
+        # otherwise they would be added as Class object list
+        ret = dict((f.name, getattr(self, f.name)) for f in fields(self) if f.name not in ['tracks', 'sub_genres', 'genres'])
+        ret['tracks'] = [ track.to_dict() for track in self.tracks]
+        ret['genres'] = [ track.to_dict() for track in self.genres]
+        ret['sub_genres'] = [ track.to_dict() for track in self.sub_genres]
+        return ret
