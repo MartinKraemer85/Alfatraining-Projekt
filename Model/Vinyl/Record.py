@@ -35,13 +35,24 @@ class Record(ModelBase, Base):
 
     def set_properties(self, properties: dict) -> None:
         for key, value in properties.get("attributes").items():
-            if key != "Model.Vinyl.Track.Track":
-                setattr(self, key, value)
-                continue
+
+            # also append the tracklist / genre / subgenre if exists
             if key == "Model.Vinyl.Track.Track":
-                # also append the tracklist if exists
                 for track in value:
                     self.tracks.append(generate_classinstance("Model.Vinyl.Track.Track", track))
+                continue
+
+            if key == "Model.Vinyl.Associations.AscGenre":
+                for genre in value:
+                    self.genres.append(generate_classinstance("Model.Vinyl.Associations.AscGenre", genre))
+                continue
+
+            if key == "Model.Vinyl.Associations.AscSubGenre":
+                for sub_genre in value:
+                    self.sub_genres.append(generate_classinstance("Model.Vinyl.Associations.AscSubGenre", sub_genre))
+                continue
+
+            setattr(self, key, value)
 
     def add_track(self, track: Track) -> None:
         """

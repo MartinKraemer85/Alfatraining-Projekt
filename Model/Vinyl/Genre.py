@@ -9,6 +9,9 @@ class Genre(ModelBase, Base):
     id: Mapped[int] = mapped_column(primary_key=True)
     name: Mapped[str] = mapped_column(String(100), unique=True)
 
+    def set_properties(self, properties: dict) -> None:
+        for key, value in properties.get("attributes").items():
+            setattr(self, key, value)
 
 @dataclass()
 class SubGenre(ModelBase, Base):
@@ -17,3 +20,7 @@ class SubGenre(ModelBase, Base):
 
     id: Mapped[int] = mapped_column(primary_key=True)
     name: Mapped[str] = mapped_column(String(100), unique=True)
+
+    def set_properties(self, properties: dict) -> None:
+        for key, value in properties.get("attributes").items():
+            setattr(self, key, value)

@@ -114,7 +114,12 @@ class DbHelper:
         """
 
         insert_obj = generate_classinstance(values.get("objectPath"), values)
+        print(insert_obj)
+
         with Session(self.engine) as session:
+            session.add(insert_obj)
+            session.flush()
+            session.commit()
             try:
                 session.add(insert_obj)
                 session.flush()

@@ -17,9 +17,8 @@
             color: blue;
         }
         .highlight {
-            background-color: rgb(255, 233, 225);
-            border: 2px solid rgb(205, 50, 50);
-            padding: 5px;
+            font-style: italic;
+            border: 2px solid rgb(32, 18, 18);
         }
 
         li {
@@ -35,36 +34,36 @@
     <script type="module">
         'use strict';
         import { get } from './assets/js/CRUD.js';
+        import { table, rowAmounts,currentRowAmount } from './assets/js/Table.js';
 
         // KONSTANTEN / VARIABLEN
         const elements = {}
-        const genres = []
-        const subGenres = []
         let filters = []
+        let filterElements = []
 
-        const deleteFilter = evt => {
-            const index = filter.indexOf(evt.currentTarget.innerText);
-            const x = filter.splice(index, 1);
-            evt.currentTarget.remove();
-        }
-
-        const addFilter = evt => {
+        const addFilter = (evt) => {
             const target = evt.currentTarget;
             target.classList.toggle('highlight')
-            console.log(target.classList);
             if(target.classList.contains('highlight') && 
-                !filters.includes(evt.currentTarget.innerText)){
+            !filters.includes(evt.currentTarget.innerText)){
                 // add to Filter array
                 filters.push(evt.currentTarget.innerText);
             } else{
                 filters = filters.filter(el => {el == evt.currentTarget.innerText ? 0 : 1})
             }
-            fillTable()
+            console.log(filters);
+            table(elements.tableHead, elements.tableBody, elements.Articles, filters)
         }
 
 
         const clickEvent = () => {
-            fillTable()
+            table(elements.tableHead, elements.tableBody, elements.Articles, filters)
+        }
+
+
+
+        // FUNKTIONEN
+        const domMapping = () => {
         }
 
         const appendEventlisteners = () => {
@@ -88,79 +87,10 @@
             nav.append(head)
             bulletPoints.forEach((el) => {
                 let item = document.createElement("li");
-                item.innerText = el;
+                item.innerText = el.name;
                 nav.append(item)
             });     
-        }
-
-
-        const addToTable = ({ tr, tableRow, head = false } = {}) => {
-            /** 
-             * Iterates over the given table row 
-             * @tr {tableRow} 
-             * @tableRow {object} 
-             * @head {bool}  
-            */
-            const tableEl = head ? document.querySelector("#head") : document.querySelector("#body");
-            
-            for (const [key, value] of Object.entries(tableRow)) {
-                // Ignore relationships like the genre and ignore the article id also
-                if (typeof value =='object') continue;
-                if (key.match('id')) continue;
-   
-                const thtd = document.createElement(head ? "th" : "td");
-                thtd.innerHTML = head ? key : value
-                tr.append(thtd);
-                tableEl.append(tr);
-            }
-        }
-
-        const removeElements = (el) => {
-            while (el.firstChild) {
-                el.removeChild(el.firstChild);
-            }
-        }
-
-        const filterData = () => {
-            /** 
-             * A function for article filter purposes.
-             * First, iterate over the articles via filter, check if article has a genre.
-             * If this is the case, check if the filters array includes the genre name
-            */
-            
-            return filters.length ? elements.Articles.filter(article =>{
-                const ret = 0;
-                return article.genres.some(genre => {
-                    //console.log(filters.includes(el.genre.name))
-                    return filters.some(filter => {
-                        if (genre.genre.name == filter) return true
-                        return false;
-                    });
-
-                }) 
-                //return ret;
-            } ) : elements.Articles
-   
-        }
-
-        const fillTable = () => {
-            removeElements(document.querySelector("#head"));
-            removeElements(document.querySelector("#body"));
-            let tr = document.createElement("tr");
-            const filterdArticles = ""
-            let count = 0;
-            for (const article of filterData()) {
-        
-                if (!count) {
-                    addToTable({ tr, tableRow: article, head: true })
-                }
-                tr = document.createElement("tr");
-
-                addToTable({ tr, tableRow: article, head: false })
-                count ++;
-            }
-        }
-
+        }   
         
         const loadData = async () => {
             /**
@@ -187,16 +117,22 @@
                     "fields": ["name"]
                 }
             });
-            elements.genre.map((el) => genres.push(el.name))
-            elements.subGenre.map((el) => subGenres.push(el.name))
-        }
+            // set the genre / subgenres for the bulletpoints
+
+            // also create an array with all genres so the filtering is easier 
+            // (only one array instead of both genre and subgenre array)
+            elements.tableHead = document.querySelector("#head")
+            elements.tableBody = document.querySelector("#body")
+            console.log(elements);
+          }
 
         const init = async () => {
+            domMapping()
             await loadData();
-            createFilter({bulletPoints: genres});
-            createFilter({headerText: "Sub Genre", bulletPoints: genres});
+            createFilter({bulletPoints: elements.genre});
+            createFilter({headerText: "Sub Genre", bulletPoints: elements.subGenre});
             appendEventlisteners();
-            fillTable()
+            table(elements.tableHead, elements.tableBody, elements.Articles, filters)
         }
 
         // INIT
@@ -219,7 +155,9 @@
             <thead id="head"></thead>
             <tbody id="body"></tbody>
         </table>
+        <div class="tableBtn"> </div>
     </div>
+
 </body>
 
 </html>
