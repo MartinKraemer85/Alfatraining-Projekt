@@ -13,6 +13,7 @@ class Genre(ModelBase, Base):
         for key, value in properties.get("attributes").items():
             setattr(self, key, value)
 
+
 @dataclass()
 class SubGenre(ModelBase, Base):
     __tablename__ = "sub_genre"
