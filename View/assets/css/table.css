@@ -9,15 +9,36 @@
     width: 70%;
 }
 
-.tableBtnLeft {
-    float:left;
-    padding-left:10px;
+.dataTable {
+    table-layout: auto;
+    width: 100%;
+}
 
+
+/*
+    style ideas from: 
+    https://divtable.com/table-styler/
+*/
+
+tr:nth-child(even) { 
+    background-color: #D1D1CB; 
+} 
+
+th{
+    color: white;
+    background: #19154B;
+    background: -moz-linear-gradient(top, #5b5f78 0%, #3a3f5d 66%, #19154B 100%);
+    background: -webkit-linear-gradient(top, #5b5f78 0%, #3a3f5d 66%, #19154B 100%);
+    background: linear-gradient(to bottom, #5b5f78 0%, #3a3f5d 66%, #19154B 100%);
+    border-bottom: 2px solid #444444;
+
+}
+
+.tableBtnLeft {
+    text-align:left;
 }
 
 .tableBtnRight {
-    float:left;
-    padding-right:10px;
     text-align:right;
-
 }
+

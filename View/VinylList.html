@@ -5,11 +5,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    
     <link rel="stylesheet" href="./assets/css/table.css">
     <title>Titel</title>
     <style>
-
-
         .left {
             width: 20%;
             float: left;
@@ -19,6 +18,7 @@
             width: 100%;
             color: blue;
         }
+
         .highlight {
             font-style: italic;
             border: 2px solid rgb(32, 18, 18);
@@ -29,40 +29,48 @@
         }
 
         li:not(.highlight):hover {
-            background: rgba(0,0,0,.05);            
+            background: rgba(0, 0, 0, .05);
         }
 
+        .container {
+            position: relative;
+            display: block;
+            padding: 5px;
+            margin: 5px;
+            background: #eee;
+            border: 1px solid #aaa;
+            border-radius: 5px;
+        }
     </style>
-
+    <script src="./assets/js/jquery-3.7.1.js"></script>
     <script type="module">
         'use strict';
         import { get } from './assets/js/CRUD.js';
-        import { table, rowAmounts,currentRowAmount } from './assets/js/Table.js';
+        import { table } from './assets/js/Table.js';
 
         // KONSTANTEN / VARIABLEN
         const elements = {}
-        let filters = []
 
-        const addFilter = (evt) => {
+
+        const filterClick = (evt) => {
+            /**
+             *  Click event for the filter button. Adding an highlight class to the filter dom element
+             *  on the navbar. Also or removes the clicked filter from the filter array.
+             * */
             const target = evt.currentTarget;
             target.classList.toggle('highlight')
-            if(target.classList.contains('highlight') && 
-            !filters.includes(evt.currentTarget.innerText)){
+            if (target.classList.contains('highlight') &&
+                !elements.filterArr.includes(evt.currentTarget.innerText)) {
                 // add to Filter array
-                filters.push(evt.currentTarget.innerText);
-            } else{
-                filters = filters.filter(el => {el == evt.currentTarget.innerText ? 0 : 1})
+                elements.filterArr.push(evt.currentTarget.innerText);
+            } else {
+                // removing from the filters array
+                elements.filterArr = elements.filterArr.filter(el => { console.log(el);
+                    el == evt.currentTarget.innerText ? 0 : 1 })
             }
-            console.log(filters);
-            table(elements.tableHead, elements.tableBody, elements.Articles, filters)
+            // render the table with the applied filters
+            table(elements.tableHead, elements.tableBody,elements.tableFoot, elements.Articles, elements.filterArr)
         }
-
-
-        const clickEvent = () => {
-            table(elements.tableHead, elements.tableBody, elements.Articles, filters)
-        }
-
-
 
         // FUNKTIONEN
         const domMapping = () => {
@@ -75,11 +83,11 @@
 
             // Genre / SubGenre click event
             for (const el of Array.from(document.querySelectorAll("li"))) {
-                el.addEventListener('click', addFilter);
+                el.addEventListener('click', filterClick);
             }
         }
 
-        const createFilter = ({headerText = "Genre", bulletPoints} = {}) => {
+        const createFilter = ({ headerText = "Genre", bulletPoints } = {}) => {
             /**
              * Appends the genre / sub genre filter to the navigation
              * */
@@ -91,21 +99,21 @@
                 let item = document.createElement("li");
                 item.innerText = el.name;
                 nav.append(item)
-            });     
-        }   
-        
+            });
+        }
+
         const loadData = async () => {
             /**
              * First, load all the data we need
              */
 
             elements.Articles = await get({
-                url: "http://192.168.0.2:5000/select_all_articles", 
+                url: "http://192.168.0.2:5000/select_all_articles",
                 body: "Model.Vinyl.Record.Record"
             });
-            
+
             elements.genre = await get({
-                url: "http://192.168.0.2:5000/select", 
+                url: "http://192.168.0.2:5000/select",
                 body: {
                     "table": "genre",
                     "fields": ["name"]
@@ -113,7 +121,7 @@
             });
 
             elements.subGenre = await get({
-                url: "http://192.168.0.2:5000/select", 
+                url: "http://192.168.0.2:5000/select",
                 body: {
                     "table": "sub_genre",
                     "fields": ["name"]
@@ -125,16 +133,17 @@
             // (only one array instead of both genre and subgenre array)
             elements.tableHead = document.querySelector("#head")
             elements.tableBody = document.querySelector("#body")
-            console.log(elements);
-          }
+            elements.tableFoot = document.querySelector("#foot")
+            elements.filterArr = []
+        }
 
         const init = async () => {
             domMapping()
             await loadData();
-            createFilter({bulletPoints: elements.genre});
-            createFilter({headerText: "Sub Genre", bulletPoints: elements.subGenre});
+            createFilter({ bulletPoints: elements.genre });
+            createFilter({ headerText: "Sub Genre", bulletPoints: elements.subGenre });
             appendEventlisteners();
-            table(elements.tableHead, elements.tableBody, elements.Articles, filters)
+            table(elements.tableHead, elements.tableBody, elements.tableFoot, elements.Articles, elements.filterArr)
         }
 
         // INIT
@@ -146,25 +155,18 @@
 </head>
 
 <body>
-    <div class="left">
+    <div class="left container">
         <div class="left" id="filter"></div>
         <ul id="nav">
 
         </ul>
     </div>
     <div class="tableContainer">
-        <table>
+        <table class = "dataTable">
             <thead id="head"></thead>
             <tbody id="body"></tbody>
-            <tfoot id="foot">
-                <tr>
-                    <th scope="row">Totals</th>
-                    <td>21,000</td>
-                  </tr>
-            </tfoot>
+            <tfoot id="foot"></tfoot>
         </table>
     </div>
-
 </body>
-
 </html>
