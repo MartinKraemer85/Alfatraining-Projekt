@@ -56,24 +56,26 @@ const removeElements = (el) => {
 }
 
 
-const addButtonDiv = (tableBody) => {
-    const tr = document.createElement("tr");
+const addButtonDiv = (tableBody, tr, cssClass="tableBtnLeft") => {
     const buttonDiv = document.createElement('div')
-    buttonDiv.style.position = "absolute";
+    buttonDiv.classList.add(cssClass)
     tr.append(buttonDiv)
     tableBody.append(tr)
     return buttonDiv;
 }
 
 const addTableFooter = (tableHead, tableBody, tableData, filter) => {
+    // create a new tr where the divs go in
+    const tr = document.createElement("tr");
     // the buttons for the table amount (display 5,10,xx at once)
     // create a new table row first, and place the buttons within the row
-    const amountDiv = addButtonDiv(tableBody)
+    const amountDiv = addButtonDiv(tableBody, tr)
     rowAmounts.forEach(value => {
         const tableBtn = document.createElement('button')
 
         tableBtn.innerText = value
         tableBtn.addEventListener('click', (event) => {
+            // Delete the current amount of rows displayed
             currentRowAmount.pop()
             currentRowAmount.push(Number(event.target.innerText))
             table(tableHead, tableBody, tableData, filter)
@@ -81,27 +83,19 @@ const addTableFooter = (tableHead, tableBody, tableData, filter) => {
         amountDiv.append(tableBtn)
     })
 
-    const numberBtnDiv = addButtonDiv(tableBody)
+    const numberBtnDiv = addButtonDiv(tableBody, tr, "tableBtnRight")
     numberBtnDiv.style.right = '0px';
     
     for (let i =1; i<=Math.ceil(tableData.length/ currentRowAmount); i++){
         const tableBtn = document.createElement('button')
         tableBtn.innerText = i
-        //tableBtn.style.position =  "absolute";
-        //tableBtn.style.right = "100px"
         tableBtn.addEventListener('click', (event) => {
             table(tableHead, tableBody, tableData, filter)
         })
         numberBtnDiv.append(tableBtn)
     }
-    console.log(Math.ceil(tableData.length/ currentRowAmount));
-    /*
-    
-    .right {
-        position: absolute;
-        right: 0px;
-    }
-    */
+
+
 }
 
 const table = (tableHead, tableBody, tableData, filterArr) => {

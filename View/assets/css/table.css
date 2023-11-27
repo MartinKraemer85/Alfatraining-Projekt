@@ -1,0 +1,23 @@
+.tableContainer {
+    float:left;
+    display: block;
+    padding: 5px;
+    margin: 5px;
+    background: #eee;
+    border: 1px solid #aaa;
+    border-radius: 5px;
+    width: 70%;
+}
+
+.tableBtnLeft {
+    float:left;
+    padding-left:10px;
+
+}
+
+.tableBtnRight {
+    float:left;
+    padding-right:10px;
+    text-align:right;
+
+}
