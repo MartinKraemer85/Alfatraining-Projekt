@@ -25,10 +25,10 @@ const addTrackInfo = (head, data, tableElement) =>{
         console.log(tableElement);
         const row = document.createElement('tr')
         const td = document.createElement('td')
-        td.colSpan = elements.colspan;
         const infoContainer = document.createElement('p')
         const trackList = document.createElement('ul')
         
+        td.colSpan = elements.colspan;
         row.hidden = true
         //infoContainer.classList.add("pTag")
         data.tracks.forEach(track => {
@@ -36,9 +36,9 @@ const addTrackInfo = (head, data, tableElement) =>{
             liTrack.innerText = `${track.title} (${track.length})`
             trackList.append(liTrack)
         })
+
         infoContainer.append(trackList)
         td.append(infoContainer)
-
         row.append(td)
         tableElement.append(row)
     }
