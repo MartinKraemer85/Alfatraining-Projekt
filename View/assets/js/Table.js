@@ -10,12 +10,38 @@ elements.paginationData = []
 
 const tableRowClick = (evt) => {
     const target = evt.currentTarget;
+    // convert to jQuery for the usage of slideUp /Down
     const pTag = $(target.nextSibling);
 
-    $(pTag).is(":visible") ? $(pTag).slideUp()  :  $(pTag).slideDown()
+    $(pTag).is(":visible") ? $(pTag).slideUp('fast')  :  $(pTag).slideDown('fast')
     
     //pTag.hidden = false;
 
+}
+
+const addTrackInfo = (head, data, tableElement) =>{
+    // ignore the head data, obviously
+    if (!head){
+        console.log(tableElement);
+        const row = document.createElement('tr')
+        const td = document.createElement('td')
+        td.colSpan = elements.colspan;
+        const infoContainer = document.createElement('p')
+        const trackList = document.createElement('ul')
+        
+        row.hidden = true
+        //infoContainer.classList.add("pTag")
+        data.tracks.forEach(track => {
+            const liTrack = document.createElement("li")
+            liTrack.innerText = `${track.title} (${track.length})`
+            trackList.append(liTrack)
+        })
+        infoContainer.append(trackList)
+        td.append(infoContainer)
+
+        row.append(td)
+        tableElement.append(row)
+    }
 }
 
 const addRowToTable = ({ tr, data, head = false, tableElement } = {}) => {
@@ -39,17 +65,15 @@ const addRowToTable = ({ tr, data, head = false, tableElement } = {}) => {
 
         thtd.innerHTML = head ? key : value
 
-
         tr.append(thtd);
         tableElement.append(tr);
     }
 
-    if (!head){
-        const infoContainer = document.createElement('p')
-        infoContainer.hidden = true
-        infoContainer.innerHTML = "Hier kommen Daten herein"
-        tr.after(infoContainer)
-    }
+    // Add the tracklist and maybe other information to an slidable
+    // <p> tag
+
+    addTrackInfo(head, data, tableElement)
+
 }
 
 const filterData = (filterArr, tableData) => {
@@ -84,9 +108,9 @@ const removeElements = (el) => {
     }
 }
 
-const addRowAmount = (tableHead, tableBody, tableFoot, tableData, filter, tr, colspan) => {
+const addRowAmount = (tableHead, tableBody, tableFoot, tableData, filter, tr) => {
     const tdLeft = document.createElement("td")
-    tdLeft.colSpan= Math.floor(colspan / 2);
+    tdLeft.colSpan= Math.floor(elements.colspan / 2);
     tdLeft.classList.add("tableBtnLeft")
     tr.append(tdLeft)
     
@@ -107,9 +131,9 @@ const addRowAmount = (tableHead, tableBody, tableFoot, tableData, filter, tr, co
     })    
 }
 
-const addPagination = (tableHead, tableBody, tableFoot, tableData, filter, tr, colspan) => {
+const addPagination = (tableHead, tableBody, tableFoot, tableData, filter, tr) => {
     const tdRight = document.createElement("td")
-    tdRight.colSpan = Math.ceil(colspan / 2);
+    tdRight.colSpan = Math.ceil(elements.colspan / 2);
     tdRight.classList.add("tableBtnRight")
     tr.append(tdRight)
 
@@ -144,11 +168,10 @@ const addTableFooter = (tableHead, tableBody, tableFoot, tableData, filter) => {
     // this way we can make sure that the buttons in the footer 
     // are in the correct place aka the row amount buttons left,
     // the pagination right, since we have only 2 rows over the whole table this way.
-    const colspan = tableHead.rows[0].cells.length;
 
     // the buttons for the table amount (display 5,10,xx at once)
-    addRowAmount(tableHead, tableBody, tableFoot, tableData, filter, tr, colspan)
-    addPagination(tableHead, tableBody, tableFoot, tableData, filter, tr, colspan)
+    addRowAmount(tableHead, tableBody, tableFoot, tableData, filter, tr)
+    addPagination(tableHead, tableBody, tableFoot, tableData, filter, tr)
 
 }
 
@@ -234,7 +257,7 @@ const table = (tableHead, tableBody, tableFoot, tableData, filterArr) => {
     // Data depends on the page and row amount displayed
     const from = (elements.page-1) * elements.currentRowAmount
     const to = elements.page * elements.currentRowAmount
-    const pageData = tableData.slice(from,to)
+    const pageData = filteredData.slice(from,to)
 
     for (const article of pageData) {
         // only render the amount the user has set
@@ -242,14 +265,15 @@ const table = (tableHead, tableBody, tableFoot, tableData, filterArr) => {
         if (!count) {
             const tr = document.createElement("tr");
             addRowToTable({ tr, data: article, head: true, tableElement: tableHead })
+            // set the max cols we have in the table
+            elements.colspan = tableHead.rows[0].cells.length;
         }
         const tr = document.createElement("tr");
 
         addRowToTable({ tr, data: article, head: false, tableElement: tableBody })
         count++;
     }
-    console.log(tableData);
-    addTableFooter(tableHead, tableBody, tableFoot, tableData, filterArr)
+    addTableFooter(tableHead, tableBody, tableFoot, filteredData, filterArr)
 }
 
 

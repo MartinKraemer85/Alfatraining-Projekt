@@ -10,6 +10,7 @@
 }
 
 .dataTable {
+    position: relative;
     table-layout: auto;
     width: 100%;
 }
@@ -19,10 +20,35 @@
     style ideas from: 
     https://divtable.com/table-styler/
 */
+ul {
+    margin-top: 0px;
+    height: 100%;
+}
 
-tr:nth-child(even) { 
+tr:nth-of-type(4n + 3) { 
     background-color: #D1D1CB; 
 } 
+
+tr:nth-of-type(4n +4) { 
+    background-color: #D1D1CB; 
+} 
+
+td{
+    padding-left: 3px;
+}
+
+.pTag:nth-of-type(4n + 3) { 
+    margin: 0px;
+    padding: 0px;
+    background-color: #D1D1CB; 
+} 
+p {
+    column-span: all;
+}
+
+table{
+    border-spacing: 0; 
+}
 
 th{
     color: white;
