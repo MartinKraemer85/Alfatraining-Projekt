@@ -264,6 +264,7 @@ const addTableFooter = (tableHead, tableBody, tableFoot, tableData, filter) => {
     // the pagination right, since we have only 2 rows over the whole table this way.
 
     // the buttons for the table amount (display 5,10,xx at once)
+    tr.classList.add("foot")
     addRowAmount(tableHead, tableBody, tableFoot, tableData, filter, tr)
     addPagination(tableHead, tableBody, tableFoot, tableData, filter, tr)
 

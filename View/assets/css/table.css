@@ -99,9 +99,18 @@ th {
     background: -webkit-linear-gradient(top, #5b5f78 0%, #3a3f5d 66%, #19154B 100%);
     background: linear-gradient(to bottom, #5b5f78 0%, #3a3f5d 66%, #19154B 100%);
     border-bottom: 2px solid #444444;
-
+    height: 2em;
+    text-align: left;
+    padding-left: 1em;
 }
 
+.foot{
+    height: 2em;
+}
+
+td{
+    padding-left: 1em;
+}
 .tableBtnLeft {
     text-align: left;
 }
