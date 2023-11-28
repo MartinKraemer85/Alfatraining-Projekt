@@ -1,6 +1,8 @@
 
 
 'use strict';
+import { addToCard } from './cart.js'
+
 const elements = {}
 elements.rowAmounts = [5, 10, 25]
 elements.currentRowAmount = 10
@@ -29,7 +31,11 @@ const tableRowClick = (evt) => {
 }
 
 const addToCartClick = (evt) => {
-    console.log("muh");
+    // first parent is the td, second parent is the tr
+    const tr = evt.currentTarget.parentElement.parentElement;
+    const articleId = Number(tr.querySelector("#articleId").innerText)
+    const article = elements.tableData.filter(article => article.id == articleId)
+    addToCard(article[0])
 }
 
 const addToCartButton = (tr, head) => {
@@ -146,7 +152,10 @@ const addRowToTable = ({ tr, data, head = false, tableElement } = {}) => {
 
         const thtd = document.createElement(head ? "th" : "td");
 
-        if (key.match('id')) thtd.hidden = true;
+        if (key.match('id')) {
+            thtd.hidden = true;
+            thtd.id = "articleId"
+        } 
 
         thtd.innerHTML = head ? key : value
 
@@ -343,7 +352,7 @@ const table = (tableHead, tableBody, tableFoot, tableData, filterArr) => {
     removeElements(tableHead);
     removeElements(tableBody);
     removeElements(tableFoot);
-
+    elements.tableData = tableData;
 
     let count = 0;
     const filteredData = filterData(filterArr, tableData)

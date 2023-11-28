@@ -5,7 +5,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">    <link rel="stylesheet" href="./assets/css/table.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="./assets/css/table.css">
+    <link rel="stylesheet" href="./assets/css/cart.css">
+
     <title>Titel</title>
     <style>
         .left {
@@ -20,7 +23,8 @@
 
         .highlight {
             font-style: italic;
-            border: 2px solid rgb(32, 18, 18);
+            color: rgba(14, 14, 103, 0.48);
+            font-weight: bolder;
         }
 
         li {
@@ -41,12 +45,13 @@
             border-radius: 5px;
         }
     </style>
+    <script src="./assets/js/cart.js"></script>
     <script src="./assets/js/jquery-3.7.1.js"></script>
     <script type="module">
         'use strict';
         import { get } from './assets/js/CRUD.js';
         import { table } from './assets/js/Table.js';
-
+        import { initCart } from './assets/js/cart.js'
         // KONSTANTEN / VARIABLEN
         const elements = {}
 
@@ -64,11 +69,13 @@
                 elements.filterArr.push(evt.currentTarget.innerText);
             } else {
                 // removing from the filters array
-                elements.filterArr = elements.filterArr.filter(el => { console.log(el);
-                    el == evt.currentTarget.innerText ? 0 : 1 })
+                elements.filterArr = elements.filterArr.filter(el => {
+                    console.log(el);
+                    el == evt.currentTarget.innerText ? 0 : 1
+                })
             }
             // render the table with the applied filters
-            table(elements.tableHead, elements.tableBody,elements.tableFoot, elements.Articles, elements.filterArr)
+            table(elements.tableHead, elements.tableBody, elements.tableFoot, elements.articles, elements.filterArr)
         }
 
         // FUNKTIONEN
@@ -106,7 +113,7 @@
              * First, load all the data we need
              */
 
-            elements.Articles = await get({
+            elements.articles = await get({
                 url: "http://192.168.0.2:5000/select_all_articles",
                 body: "Model.Vinyl.Record.Record"
             });
@@ -142,7 +149,8 @@
             createFilter({ bulletPoints: elements.genre });
             createFilter({ headerText: "Sub Genre", bulletPoints: elements.subGenre });
             appendEventlisteners();
-            table(elements.tableHead, elements.tableBody, elements.tableFoot, elements.Articles, elements.filterArr)
+            table(elements.tableHead, elements.tableBody, elements.tableFoot, elements.articles, elements.filterArr)
+            initCart(document, elements.articles)
         }
 
         // INIT
@@ -150,10 +158,37 @@
         // todo: Tabelle nur x viele Daten anzeigen
         // button der unten an der Tabelle klebt
         // Anderes design fuer die nav Filter Geschichte
+
+
+
     </script>
 </head>
 
 <body>
+
+    <div class="cardContainer">
+        <header>
+            <div class="shopping">
+                <img src="./assets/images/bag.svg">
+                <span class="quantity">0</span>
+            </div>
+        </header>
+
+        <div class="list">
+
+        </div>
+    </div>
+    <div class="card">
+        <h1>Card</h1>
+        <ul class="listCard">
+        </ul>
+        <div class="checkOut">
+            <div class="total">0</div>
+            <div class="closeShopping">Close</div>
+        </div>
+    </div>
+
+
     <div class="left container">
         <div class="left" id="filter"></div>
         <ul id="nav">
@@ -161,12 +196,12 @@
         </ul>
     </div>
     <div class="tableContainer">
-        <table class = "dataTable">
+        <table class="dataTable">
             <thead id="head"></thead>
             <tbody id="body"></tbody>
             <tfoot id="foot"></tfoot>
         </table>
     </div>
-
 </body>
+
 </html>
