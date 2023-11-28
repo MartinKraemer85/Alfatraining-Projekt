@@ -18,12 +18,18 @@ elements.images = [
 const createNumber = (min, max) => ~~(Math.random() * (max - min + 1) + min);
 
 const tableRowClick = (evt) => {
+
+    if(evt.target.tagName.toLowerCase().match("button|i")) return
     const target = evt.currentTarget;
     // convert to jQuery for the usage of slideUp /Down
     const pTag = $(target.nextSibling);
 
     $(pTag).is(":visible") ? $(pTag).slideUp('fast') : $(pTag).slideDown('fast')
 
+}
+
+const addToCartClick = (evt) => {
+    console.log("muh");
 }
 
 const addToCartButton = (tr, head) => {
@@ -41,13 +47,11 @@ const addToCartButton = (tr, head) => {
     const td = document.createElement("td")
     const btn = document.createElement("button")
     const iTag = document.createElement("i")
-        
+    td.style.textAlign = "center";
     iTag.classList.add("fa")
     iTag.classList.add("fa-shopping-cart")
-    //iTag.classList.add("fa")
-    //iTag.classList.add("fa-home")
     btn.classList.add("addtocartBtn")
-
+    btn.addEventListener("click", addToCartClick)
 
     btn.append(iTag)
     td.append(btn)
@@ -70,6 +74,7 @@ const addCover = (tr, td, data, tableElement) => {
 
     // for now, random image from an array, later on from the data object
     img.src = elements.images[createNumber(0, elements.images.length - 1)]
+    img.alt = "alt"
     img.classList.add("cover")
     infoContainer.classList.add("infoDiv")
     infoContainer.append(img)
