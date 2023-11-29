@@ -3,15 +3,18 @@ body{
     font-family: system-ui;
 }
 .cardContainer{
-    width: 1000px;
+    width: 10%;
     margin: auto;
     transition: 0.5s;
+    margin-right: 1em ;
+    height: 3em;
 }
 header{
     display: grid;
-    grid-template-columns: 1fr 50px;
-    margin-top: 50px;
+    grid-template-columns: 1em 2em;
+    margin-top: 1em;
 }
+
 header .shopping{
     position: relative;
     text-align: right;

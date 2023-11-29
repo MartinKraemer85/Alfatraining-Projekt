@@ -8,6 +8,7 @@ elements.rowAmounts = [5, 10, 25]
 elements.currentRowAmount = 10
 elements.page = 1
 elements.paginationData = []
+const createEl = (el) => document.createElement(el)
 
 // covers not implemented in the backend yet, so just take some piggi pics
 elements.images = [
@@ -17,11 +18,12 @@ elements.images = [
     "./assets/images/momo.jpg",
     "./assets/images/momo2.jpg",
 ]
+
 const createNumber = (min, max) => ~~(Math.random() * (max - min + 1) + min);
 
 const tableRowClick = (evt) => {
 
-    if(evt.target.tagName.toLowerCase().match("button|i")) return
+    if (evt.target.tagName.toLowerCase().match("button|i")) return
     const target = evt.currentTarget;
     // convert to jQuery for the usage of slideUp /Down
     const pTag = $(target.nextSibling);
@@ -38,45 +40,48 @@ const addToCartClick = (evt) => {
     addToCard(article[0])
 }
 
-const addToCartButton = (tr, head) => {
-    /** 
- * Takes the current row (if not the head) and adds the to cart button
- * @tr {domObject} the current table row we want to fill / add
- * @head {bool}  determines if head or body element 
- * */
-    if (head) {
-        tr.append(document.createElement("th"))
+const addToCartButton = /**
+    * Takes the current row (if not the head) and adds the to cart button
+    * @date 11/29/2023 - 5:37:45 AM
+    *
+    * @param {object} tr the current table row we want to fill / add
+    * @param {Boolean} head determines if head or body element
+    */
+    (tr, head) => {
+        if (head) {
+            tr.append(createEl("th"))
 
-        return
-    };
+            return
+        };
 
-    const td = document.createElement("td")
-    const btn = document.createElement("button")
-    const iTag = document.createElement("i")
-    td.style.textAlign = "center";
-    iTag.classList.add("fa")
-    iTag.classList.add("fa-shopping-cart")
-    btn.classList.add("addtocartBtn")
-    btn.addEventListener("click", addToCartClick)
+        const td = createEl("td")
+        const btn = createEl("button")
+        const iTag = createEl("i")
+        td.style.textAlign = "center";
+        iTag.classList.add("fa")
+        iTag.classList.add("fa-shopping-cart")
+        btn.classList.add("addtocartBtn")
+        btn.addEventListener("click", addToCartClick)
 
-    btn.append(iTag)
-    td.append(btn)
-    tr.append(td)
+        btn.append(iTag)
+        td.append(btn)
+        tr.append(td)
 
-}
+    }
 
 const addCover = (tr, td, data, tableElement) => {
-    /** 
-     * Adding a cover to the info Box
-     *  
+    /**
+     * Add the article cover to the hidden table row
+     * @date 11/29/2023 - 5:40:00 AM
+     *
      * @tr {domObject} the current table row we want to fill / add to
      * @td {domObject} the currend td, with colSpan = header items
      * @data {object} the data object like an article i.e. {"artist" : "a artist", "year": "a year"}
      * @tableElement {domObject} the element where to append the row to(tableHead/tableBody)
-    */
-    const infoContainer = document.createElement('div')
+     */
+    const infoContainer = createEl('div')
     infoContainer.classList.add("infoDiv");
-    const img = document.createElement("img")
+    const img = createEl("img")
 
     // for now, random image from an array, later on from the data object
     img.src = elements.images[createNumber(0, elements.images.length - 1)]
@@ -93,19 +98,20 @@ const addTrackInfo = (tr, td, data, tableElement) => {
     /** 
      * Iterate the element.tracks objects and add them to a table row that will be appended
      * after the actual row is appended
-     *  
+     * 
+     * @date 11/29/2023 - 5:40:53 AM
+     *
      * @tr {domObject} the current table row we want to fill / add to
      * @td {domObject} the currend td, with colSpan = header items
      * @data {object} the data object like an article i.e. {"artist" : "a artist", "year": "a year"}
      * @tableElement {domObject} the element where to append the row to(tableHead/tableBody)
-    */
-
-    const infoContainer = document.createElement('div')
-    const trackList = document.createElement('ul')
+     */
+    const infoContainer = createEl('div')
+    const trackList = createEl('ul')
 
     infoContainer.classList.add("infoDiv")
     data.tracks.forEach(track => {
-        const liTrack = document.createElement("li")
+        const liTrack = createEl("li")
         liTrack.innerText = `${track.title} (${track.length})`
         trackList.append(liTrack)
     })
@@ -127,7 +133,7 @@ const addVendorInfo = (tr, td, data, tableElement) => {
      * @data {object} the data object like an article i.e. {"artist" : "a artist", "year": "a year"}
      * @tableElement {domObject} the element where to append the row to(tableHead/tableBody)
     */
-    const infoContainer = document.createElement('div')
+    const infoContainer = createEl('div')
     infoContainer.classList.add("infoDiv")
     infoContainer.innerText = "todo: Händerfreude"
     td.append(infoContainer)
@@ -150,15 +156,16 @@ const addRowToTable = ({ tr, data, head = false, tableElement } = {}) => {
         if (typeof value == 'object') continue;
         if (key.match('state')) continue;
 
-        const thtd = document.createElement(head ? "th" : "td");
+        const thtd = createEl(head ? "th" : "td");
 
         if (key.match('id')) {
             thtd.hidden = true;
             thtd.id = "articleId"
-        } 
+        }
 
         thtd.innerHTML = head ? key : value
-
+        if (!head) tr.classList.add("hover")
+        tr.classList.add()
         tr.append(thtd);
         tableElement.append(tr);
     }
@@ -168,9 +175,9 @@ const addRowToTable = ({ tr, data, head = false, tableElement } = {}) => {
     // InfoRow:
     // Add the tracklist and maybe other information to an slidable
     // <p> tag
-    const infoRow = document.createElement('tr')
+    const infoRow = createEl('tr')
     infoRow.classList.add("infoTr")
-    const td = document.createElement('td')
+    const td = createEl('td')
     td.colSpan = elements.colspan;
     infoRow.hidden = true
 
@@ -211,8 +218,19 @@ const removeElements = (el) => {
     }
 }
 
-const addRowAmount = (tableHead, tableBody, tableFoot, tableData, filter, tr) => {
-    const tdLeft = document.createElement("td")
+const addRowAmountBtn = (tableHead, tableBody, tableFoot, tableData, filter, tr) => {
+    /** 
+     * Appends the row amount buttons to the left of the footer tr
+     * 
+     * @tabbleHead {domElement} the table head where the table should be append to
+     * @tableBody {domElement} the table body element where the table should be append to
+     * @tableFoot {domElement} the table footer element where the table should be append to
+     * @tableData {Array[dict]} the data to fill the table
+     * @filter {Array} the data to fill the table
+     * @tr {Array} the footer table row
+     * */
+
+    const tdLeft = createEl("td")
     tdLeft.colSpan = Math.floor(elements.colspan / 2);
     tdLeft.classList.add("tableBtnLeft")
     tr.append(tdLeft)
@@ -221,21 +239,31 @@ const addRowAmount = (tableHead, tableBody, tableFoot, tableData, filter, tr) =>
     // iterate over the row amounts array (how many rows are displayed in the table)
     // for each entrie, add an button + event listener
     elements.rowAmounts.forEach(value => {
-        const tableBtn = document.createElement('button')
+        const tableBtn = createEl('button')
         tableBtn.innerText = value
         tableBtn.addEventListener('click', (event) => {
             // set the new row amount 
             elements.currentRowAmount = Number(event.target.innerText)
             // also reset the page
             elements.page = 1
-            table(tableHead, tableBody, tableFoot, tableData, filter)
+            initTable(tableHead, tableBody, tableFoot, tableData, filter)
         })
         tdLeft.append(tableBtn)
     })
 }
 
-const addPagination = (tableHead, tableBody, tableFoot, tableData, filter, tr) => {
-    const tdRight = document.createElement("td")
+const addPaginationBtn = (tableHead, tableBody, tableFoot, tableData, filter, tr) => {
+    /** 
+     * Appends the pagination buttons to the right of the footer tr
+     * 
+     * @tabbleHead {domElement} the table head where the table should be append to
+     * @tableBody {domElement} the table body element where the table should be append to
+     * @tableFoot {domElement} the table footer element where the table should be append to
+     * @tableData {Array[dict]} the data to fill the table
+     * @filter {Array} the data to fill the table
+     * @tr {Array} the footer table row
+     * */
+    const tdRight = createEl("td")
     tdRight.colSpan = Math.ceil(elements.colspan / 2);
     tdRight.classList.add("tableBtnRight")
     tr.append(tdRight)
@@ -248,14 +276,14 @@ const addPagination = (tableHead, tableBody, tableFoot, tableData, filter, tr) =
     for (let i = 1; i <= paginationAmount; i++) {
         // create the pagination buttons and add them to the right column of the 
         // table footer element
-        const paginationBtn = document.createElement('button')
+        const paginationBtn = createEl('button')
         paginationBtn.innerText = i
         paginationBtn.addEventListener('click', (event) => {
             elements.pagination = Number(event.target.innerHTML)
 
             elements.page = Number(event.target.innerHTML)
             //render table again, but only use the data from the given page
-            table(tableHead, tableBody, tableFoot, tableData, filter)
+            initTable(tableHead, tableBody, tableFoot, tableData, filter)
         })
         tdRight.append(paginationBtn)
     }
@@ -263,29 +291,39 @@ const addPagination = (tableHead, tableBody, tableFoot, tableData, filter, tr) =
 }
 
 const addTableFooter = (tableHead, tableBody, tableFoot, tableData, filter) => {
+    /** 
+ * Appends the tablefooter, constisting of the pagination and the row amount buttons
+ * 
+ * @tabbleHead {domElement} the table head where the table should be append to
+ * @tableBody {domElement} the table body element where the table should be append to
+ * @tableFoot {domElement} the table footer element where the table should be append to
+ * @tableData {Array[dict]} the data to fill the table
+ * @filter {Array} the data to fill the table
+ * */
     // create a new table row first, and place the buttons within the row later on
-    const tr = document.createElement("tr");
+    const tr = createEl("tr");
 
 
     // What we also need to do is setting the coolspan.
     // this way we can make sure that the buttons in the footer 
-    // are in the correct place aka the row amount buttons left,
-    // the pagination right, since we have only 2 rows over the whole table this way.
+    // are in the correct place. 
+    // --> row amount buttons left,
+    // --> pagination buttons right
 
     // the buttons for the table amount (display 5,10,xx at once)
     tr.classList.add("foot")
-    addRowAmount(tableHead, tableBody, tableFoot, tableData, filter, tr)
-    addPagination(tableHead, tableBody, tableFoot, tableData, filter, tr)
+    addRowAmountBtn(tableHead, tableBody, tableFoot, tableData, filter, tr)
+    addPaginationBtn(tableHead, tableBody, tableFoot, tableData, filter, tr)
 
 }
 
-const table = (tableHead, tableBody, tableFoot, tableData, filterArr) => {
+const initTable = (tableHead, tableBody, tableFoot, tableData, filterArr) => {
     /** 
      * Appends a table to a table head / body tag, and fills the table with the given data
      * 
      * @tabbleHead {domElement} the table head where the table should be append to
      * @tableBody {domElement} the table body element where the table should be append to
-     * @tableFooter {domElement} the table footer element where the table should be append to
+     * @tableFoot {domElement} the table footer element where the table should be append to
      * @tableData {Array[dict]} the data to fill the table
      * @filter {Array} the data to fill the table
      * i.e. [{
@@ -367,12 +405,12 @@ const table = (tableHead, tableBody, tableFoot, tableData, filterArr) => {
         // only render the amount the user has set
         if (count == elements.currentRowAmount) break
         if (!count) {
-            const tr = document.createElement("tr");
+            const tr = createEl("tr");
             addRowToTable({ tr, data: article, head: true, tableElement: tableHead })
             // set the max cols we have in the table
             elements.colspan = tableHead.rows[0].cells.length;
         }
-        const tr = document.createElement("tr");
+        const tr = createEl("tr");
 
         addRowToTable({ tr, data: article, head: false, tableElement: tableBody })
         count++;
@@ -382,4 +420,4 @@ const table = (tableHead, tableBody, tableFoot, tableData, filterArr) => {
 
 
 
-export { table };
+export { initTable };

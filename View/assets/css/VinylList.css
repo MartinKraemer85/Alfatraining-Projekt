@@ -1,36 +1,33 @@
+.left {
+    width: 15%;
+    float: left;
+}
 
-:root {
-    --c1: rgb(75, 92, 86);
-    --c1a: rgba(75, 92, 86, .55);
-    --c2: rgb(241, 241, 238);
-    --c2a: rgba(241, 241, 238, .45);
-    --c3: rgb(37, 37, 36);
-    --c4: rgb(255, 128, 10);
-    --c4a: rgb(255, 128, 10, .55);
-    }
+.closeBtn {
+    width: 100%;
+    color: blue;
+}
 
-    body {
-        background-color: var(--c2);
-        font-family: prim-font;
-        margin: 0;
-        }
+.highlight {
+    font-style: italic;
+    color: rgba(14, 14, 103, 0.48);
+    font-weight: bolder;
+}
 
-        .schiebediv {
-            background-color: aqua;
-            display: flex;
-            justify-content: space-between;
-            width: 20vw;
-            margin: 1rem 0 0 2rem;
-            padding: 5px;
-            }
-            
-            .schiebediv img {
-            height: 3rem;
-            }
+li {
+    cursor: pointer;
+}
 
-            <div class="schiebediv">
-<img src="img/abc.png" alt="stern">
-<h1>
-SLIDER
-</h1>
-</div>
+li:not(.highlight):hover {
+    background: rgba(0, 0, 0, .05);
+}
+
+.container {
+    position: relative;
+    display: block;
+    padding: 5px;
+    margin: 5px;
+    background: #eee;
+    border: 1px solid #aaa;
+    border-radius: 5px;
+}

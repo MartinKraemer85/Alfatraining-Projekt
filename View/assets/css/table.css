@@ -6,7 +6,7 @@
     background: #eee;
     border: 1px solid #aaa;
     border-radius: 5px;
-    width: 70%;
+    width: 75%;
 }
 
 .dataTable {
@@ -23,6 +23,12 @@
 ul {
     margin-top: 0px;
     height: 100%;
+}
+
+.hover:hover {background-color: coral !important;}
+
+.tableBtnLeft button:hover:not(.active) {
+    background-color: #ddd;
 }
 
 th:first-child {
@@ -104,21 +110,57 @@ th {
     padding-left: 1em;
 }
 
-.foot{
+.foot {
     height: 2em;
 }
 
-td{
+td {
     padding-left: 1em;
 }
+
 .tableBtnLeft {
     text-align: left;
+    padding: 0.4em 0px 0.4em 0px;
 }
+
+.tableBtnLeft button {
+    color: black;
+    padding: 8px 16px;
+    text-decoration: none;
+    border: 0px solid #aaa;
+}
+
+.tableBtnLeft button:hover:not(.active) {
+    background-color: #ddd;
+}
+
+.tableBtnLeft button.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
 
 .tableBtnRight {
     text-align: right;
+    padding: 0.4em 0px 0.4em 0px;
 }
 
+.tableBtnRight button:hover:not(.active) {
+    background-color: #ddd;
+}
+
+.tableBtnRight button.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.tableBtnRight button {
+
+    color: black;
+    padding: 8px 16px;
+    text-decoration: none;
+    border: 0px solid #aaa;
+}
 
 .addtocartBtn {
     background-color: DodgerBlue;

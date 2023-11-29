@@ -8,49 +8,16 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="./assets/css/table.css">
     <link rel="stylesheet" href="./assets/css/cart.css">
+    <link rel="stylesheet" href="./assets/css/VinylList.css">
 
     <title>Titel</title>
-    <style>
-        .left {
-            width: 20%;
-            float: left;
-        }
-
-        .closeBtn {
-            width: 100%;
-            color: blue;
-        }
-
-        .highlight {
-            font-style: italic;
-            color: rgba(14, 14, 103, 0.48);
-            font-weight: bolder;
-        }
-
-        li {
-            cursor: pointer;
-        }
-
-        li:not(.highlight):hover {
-            background: rgba(0, 0, 0, .05);
-        }
-
-        .container {
-            position: relative;
-            display: block;
-            padding: 5px;
-            margin: 5px;
-            background: #eee;
-            border: 1px solid #aaa;
-            border-radius: 5px;
-        }
-    </style>
+    <style></style>
     <script src="./assets/js/cart.js"></script>
     <script src="./assets/js/jquery-3.7.1.js"></script>
     <script type="module">
         'use strict';
         import { get } from './assets/js/CRUD.js';
-        import { table } from './assets/js/Table.js';
+        import { initTable } from './assets/js/Table.js';
         import { initCart } from './assets/js/cart.js'
         // KONSTANTEN / VARIABLEN
         const elements = {}
@@ -75,7 +42,7 @@
                 })
             }
             // render the table with the applied filters
-            table(elements.tableHead, elements.tableBody, elements.tableFoot, elements.articles, elements.filterArr)
+            initTable(elements.tableHead, elements.tableBody, elements.tableFoot, elements.articles, elements.filterArr)
         }
 
         // FUNKTIONEN
@@ -143,18 +110,18 @@
             elements.filterArr = []
         }
 
-        const init = async () => {
+        const initVinyl = async () => {
             domMapping()
             await loadData();
             createFilter({ bulletPoints: elements.genre });
             createFilter({ headerText: "Sub Genre", bulletPoints: elements.subGenre });
             appendEventlisteners();
-            table(elements.tableHead, elements.tableBody, elements.tableFoot, elements.articles, elements.filterArr)
-            initCart(document, elements.articles)
+            initTable(elements.tableHead, elements.tableBody, elements.tableFoot, elements.articles, elements.filterArr)
+            initCart(elements.articles)
         }
 
         // INIT
-        document.addEventListener('DOMContentLoaded', init)
+        document.addEventListener('DOMContentLoaded', initVinyl)
         // todo: Tabelle nur x viele Daten anzeigen
         // button der unten an der Tabelle klebt
         // Anderes design fuer die nav Filter Geschichte
