@@ -3,11 +3,15 @@
 const elements = {}
 
 elements.images = [
+    "./assets/images/b&b.jpg",
     "./assets/images/bertram.jpg",
     "./assets/images/bocchi.jpg",
     "./assets/images/bocchi2.jpg",
+    "./assets/images/essen.jpg",
+    "./assets/images/geisterbocchi.jpg",
     "./assets/images/momo.jpg",
     "./assets/images/momo2.jpg",
+    "./assets/images/tunnelmomo.jpg",
 ]
 const createEl = (el) => document.createElement(el)
 const selectEl = (el) => document.querySelector(el)
@@ -132,6 +136,5 @@ const reloadCard = /**
         elements.total.innerText = totalPrice;
         elements.quantity.innerText = count;
     }
-
 
 export { initCart, addToCard }

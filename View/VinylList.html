@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="./assets/css/table.css">
     <link rel="stylesheet" href="./assets/css/cart.css">
     <link rel="stylesheet" href="./assets/css/VinylList.css">
+    <link rel="stylesheet" href="./assets/css/general.css">
 
     <title>Titel</title>
     <style></style>
@@ -19,6 +20,7 @@
         import { get } from './assets/js/CRUD.js';
         import { initTable } from './assets/js/Table.js';
         import { initCart } from './assets/js/cart.js'
+        import { createFooter } from './assets/js/footer.js'
         // KONSTANTEN / VARIABLEN
         const elements = {}
 
@@ -43,10 +45,6 @@
             }
             // render the table with the applied filters
             initTable(elements.tableHead, elements.tableBody, elements.tableFoot, elements.articles, elements.filterArr)
-        }
-
-        // FUNKTIONEN
-        const domMapping = () => {
         }
 
         const appendEventlisteners = () => {
@@ -111,13 +109,14 @@
         }
 
         const initVinyl = async () => {
-            domMapping()
             await loadData();
             createFilter({ bulletPoints: elements.genre });
             createFilter({ headerText: "Sub Genre", bulletPoints: elements.subGenre });
             appendEventlisteners();
             initTable(elements.tableHead, elements.tableBody, elements.tableFoot, elements.articles, elements.filterArr)
             initCart(elements.articles)
+            document.querySelector(".cardContainer").append(createFooter())
+            
         }
 
         // INIT
@@ -132,8 +131,7 @@
 </head>
 
 <body>
-
-    <div class="cardContainer">
+    <div class="body cardContainer">
         <header>
             <div class="shopping">
                 <img src="./assets/images/bag.svg">
@@ -169,6 +167,7 @@
             <tfoot id="foot"></tfoot>
         </table>
     </div>
+
 </body>
 
 </html>

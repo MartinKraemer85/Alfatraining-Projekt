@@ -5,18 +5,21 @@ import { addToCard } from './cart.js'
 
 const elements = {}
 elements.rowAmounts = [5, 10, 25]
-elements.currentRowAmount = 10
 elements.page = 1
 elements.paginationData = []
 const createEl = (el) => document.createElement(el)
 
 // covers not implemented in the backend yet, so just take some piggi pics
 elements.images = [
+    "./assets/images/b&b.jpg",
     "./assets/images/bertram.jpg",
     "./assets/images/bocchi.jpg",
     "./assets/images/bocchi2.jpg",
+    "./assets/images/essen.jpg",
+    "./assets/images/geisterbocchi.jpg",
     "./assets/images/momo.jpg",
     "./assets/images/momo2.jpg",
+    "./assets/images/tunnelmomo.jpg",
 ]
 
 const createNumber = (min, max) => ~~(Math.random() * (max - min + 1) + min);
@@ -34,6 +37,7 @@ const tableRowClick = (evt) => {
 
 const addToCartClick = (evt) => {
     // first parent is the td, second parent is the tr
+    // TODO: rausfinden wie man vom aktuellen element das naechst hoehere x element sucht?!
     const tr = evt.currentTarget.parentElement.parentElement;
     const articleId = Number(tr.querySelector("#articleId").innerText)
     const article = elements.tableData.filter(article => article.id == articleId)
@@ -217,6 +221,19 @@ const removeElements = (el) => {
         el.removeChild(el.firstChild);
     }
 }
+const getCurrentRowAmount = () => {
+    const rowAmount = Number(localStorage.getItem('currentRowAmount'))
+    if (!rowAmount) return 10
+    return rowAmount
+}
+
+const setTablePadding = () => {
+    // if there are 25 or more rows displayed, set the table padding so the footer isnt preventing
+    // clicking on the menue
+    const tableContainer = document.querySelector(".tableContainer");
+    if (getCurrentRowAmount() >= 25) tableContainer.style.paddingBottom = "10em"
+    else tableContainer.style.paddingBottom = "0em";
+}
 
 const addRowAmountBtn = (tableHead, tableBody, tableFoot, tableData, filter, tr) => {
     /** 
@@ -234,18 +251,24 @@ const addRowAmountBtn = (tableHead, tableBody, tableFoot, tableData, filter, tr)
     tdLeft.colSpan = Math.floor(elements.colspan / 2);
     tdLeft.classList.add("tableBtnLeft")
     tr.append(tdLeft)
-
+    setTablePadding()
     // Displayed row amount:
     // iterate over the row amounts array (how many rows are displayed in the table)
     // for each entrie, add an button + event listener
     elements.rowAmounts.forEach(value => {
+        console.log("?");
         const tableBtn = createEl('button')
         tableBtn.innerText = value
         tableBtn.addEventListener('click', (event) => {
             // set the new row amount 
-            elements.currentRowAmount = Number(event.target.innerText)
+            localStorage.setItem('currentRowAmount', event.target.innerText)
+
             // also reset the page
             elements.page = 1
+
+
+
+
             initTable(tableHead, tableBody, tableFoot, tableData, filter)
         })
         tdLeft.append(tableBtn)
@@ -272,7 +295,7 @@ const addPaginationBtn = (tableHead, tableBody, tableFoot, tableData, filter, tr
     // First, get the pagination amount by dividing the tabledata with the current amount of displayed
     // items. 
     // Use ceil to allways round up
-    const paginationAmount = Math.ceil(tableData.length / elements.currentRowAmount)
+    const paginationAmount = Math.ceil(tableData.length / getCurrentRowAmount())
     for (let i = 1; i <= paginationAmount; i++) {
         // create the pagination buttons and add them to the right column of the 
         // table footer element
@@ -397,13 +420,13 @@ const initTable = (tableHead, tableBody, tableFoot, tableData, filterArr) => {
 
     // calcualte the displayed data, since we only need to iterate over the data we want to display
     // Data depends on the page and row amount displayed
-    const from = (elements.page - 1) * elements.currentRowAmount
-    const to = elements.page * elements.currentRowAmount
+    const from = (elements.page - 1) * getCurrentRowAmount()
+    const to = elements.page * getCurrentRowAmount()
     const pageData = filteredData.slice(from, to)
 
     for (const article of pageData) {
         // only render the amount the user has set
-        if (count == elements.currentRowAmount) break
+        if (count == getCurrentRowAmount()) break
         if (!count) {
             const tr = createEl("tr");
             addRowToTable({ tr, data: article, head: true, tableElement: tableHead })
