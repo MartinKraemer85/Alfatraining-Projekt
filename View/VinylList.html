@@ -13,7 +13,6 @@
 
     <title>Titel</title>
     <style></style>
-    <script src="./assets/js/cart.js"></script>
     <script src="./assets/js/jquery-3.7.1.js"></script>
     <script type="module">
         'use strict';
@@ -39,10 +38,13 @@
             } else {
                 // removing from the filters array
                 elements.filterArr = elements.filterArr.filter(el => {
-                    console.log(el);
                     el == evt.currentTarget.innerText ? 0 : 1
                 })
+
+                // if the filterarray is empty, reset the currentRowAmount to 10
+                if(!elements.filterArr.length) localStorage.setItem('currentRowAmount', "10")  
             }
+
             // render the table with the applied filters
             initTable(elements.tableHead, elements.tableBody, elements.tableFoot, elements.articles, elements.filterArr)
         }

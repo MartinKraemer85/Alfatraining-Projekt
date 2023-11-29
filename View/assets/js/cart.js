@@ -13,6 +13,7 @@ elements.images = [
     "./assets/images/momo2.jpg",
     "./assets/images/tunnelmomo.jpg",
 ]
+
 const createEl = (el) => document.createElement(el)
 const selectEl = (el) => document.querySelector(el)
 
@@ -61,6 +62,7 @@ const addToCard =
         reloadCard();
 
     }
+    
 const createNumber = (min, max) => ~~(Math.random() * (max - min + 1) + min);
 
 const append = /**

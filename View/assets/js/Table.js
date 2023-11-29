@@ -231,7 +231,7 @@ const setTablePadding = () => {
     // if there are 25 or more rows displayed, set the table padding so the footer isnt preventing
     // clicking on the menue
     const tableContainer = document.querySelector(".tableContainer");
-    if (getCurrentRowAmount() >= 25) tableContainer.style.paddingBottom = "10em"
+    if (getCurrentRowAmount() >= 20) tableContainer.style.paddingBottom = "10em"
     else tableContainer.style.paddingBottom = "0em";
 }
 
@@ -256,7 +256,6 @@ const addRowAmountBtn = (tableHead, tableBody, tableFoot, tableData, filter, tr)
     // iterate over the row amounts array (how many rows are displayed in the table)
     // for each entrie, add an button + event listener
     elements.rowAmounts.forEach(value => {
-        console.log("?");
         const tableBtn = createEl('button')
         tableBtn.innerText = value
         tableBtn.addEventListener('click', (event) => {
@@ -265,10 +264,6 @@ const addRowAmountBtn = (tableHead, tableBody, tableFoot, tableData, filter, tr)
 
             // also reset the page
             elements.page = 1
-
-
-
-
             initTable(tableHead, tableBody, tableFoot, tableData, filter)
         })
         tdLeft.append(tableBtn)
@@ -423,7 +418,14 @@ const initTable = (tableHead, tableBody, tableFoot, tableData, filterArr) => {
     const from = (elements.page - 1) * getCurrentRowAmount()
     const to = elements.page * getCurrentRowAmount()
     const pageData = filteredData.slice(from, to)
-
+    
+    // if data is filtered, take this for the currentRow amount. 
+    // This is needed to prevent setting unnesseary padding 
+    // (if there are mor than 20 rows displayed, set padding the tableContainer 
+    // to ensure the footer is not overwritten)
+    if(filteredData.length < getCurrentRowAmount()) localStorage.setItem('currentRowAmount', filteredData.length)
+    
+    
     for (const article of pageData) {
         // only render the amount the user has set
         if (count == getCurrentRowAmount()) break
