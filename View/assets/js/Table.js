@@ -221,6 +221,7 @@ const removeElements = (el) => {
         el.removeChild(el.firstChild);
     }
 }
+
 const getCurrentRowAmount = () => {
     const rowAmount = Number(localStorage.getItem('currentRowAmount'))
     if (!rowAmount) return 10
