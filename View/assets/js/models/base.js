@@ -1,6 +1,6 @@
 'use strict';
 
-import { dom } from '../assets/js/dom.js'
+import { dom } from '../dom.js'
 
 class Base {
 

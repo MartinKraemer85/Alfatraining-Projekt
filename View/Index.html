@@ -18,12 +18,13 @@
     <script type="module">
         'use strict';
         import { get } from './assets/js/CRUD.js';
+        import { elements } from './assets/js/data.js';
         import { initTable } from './assets/js/Table.js';
         import { initCart } from './assets/js/cart.js'
-        import { createFooter } from './assets/js/footer.js'
-        import { Article } from './models/article.js'
+        import { createFooter } from './assets/js/components/footer.js'
+        import { Article } from './assets/js/models/article.js'
         // KONSTANTEN / VARIABLEN
-        const elements = {}
+
         elements.articles = []
 
 
@@ -45,7 +46,7 @@
                 })
 
                 // if the filterarray is empty, reset the currentRowAmount to 10
-                if(!elements.filterArr.length) localStorage.setItem('currentRowAmount', "10")  
+                if (!elements.filterArr.length) localStorage.setItem('currentRowAmount', "10")
             }
 
             // render the table with the applied filters
@@ -87,9 +88,10 @@
                 url: "http://192.168.0.2:5000/select_all_articles",
                 body: "Model.Vinyl.Record.Record"
             });
-            
+
             articles.forEach(article => elements.articles.push(new Article(article)))
-            
+
+
             elements.genre = await get({
                 url: "http://192.168.0.2:5000/select",
                 body: {
@@ -105,11 +107,8 @@
                     "fields": ["name"]
                 }
             });
-            console.log(elements.articles);
 
-            
             // set the genre / subgenres for the bulletpoints
-
             // also create an array with all genres so the filtering is easier 
             // (only one array instead of both genre and subgenre array)
             elements.tableHead = document.querySelector("#head")
@@ -126,7 +125,7 @@
             initTable(elements.tableHead, elements.tableBody, elements.tableFoot, elements.articles, elements.filterArr)
             initCart(elements.articles)
             document.querySelector(".cardContainer").append(createFooter())
-            
+
         }
 
         // INIT
