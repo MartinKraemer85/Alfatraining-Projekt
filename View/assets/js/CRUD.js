@@ -1,3 +1,4 @@
+'use strict';
 
 const get = async ({ url = "/",
     method = "post",

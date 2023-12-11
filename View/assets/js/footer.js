@@ -1,4 +1,5 @@
 'use strict';
+
 const createFooter = () => {
     /**
      * It doesnt make sense to create the footer for other pages again, 

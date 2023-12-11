@@ -21,8 +21,10 @@
         import { initTable } from './assets/js/Table.js';
         import { initCart } from './assets/js/cart.js'
         import { createFooter } from './assets/js/footer.js'
+        import { Article } from './models/article.js'
         // KONSTANTEN / VARIABLEN
         const elements = {}
+        elements.articles = []
 
 
         const filterClick = (evt) => {
@@ -81,11 +83,13 @@
              * First, load all the data we need
              */
 
-            elements.articles = await get({
+            const articles = await get({
                 url: "http://192.168.0.2:5000/select_all_articles",
                 body: "Model.Vinyl.Record.Record"
             });
-
+            
+            articles.forEach(article => elements.articles.push(new Article(article)))
+            
             elements.genre = await get({
                 url: "http://192.168.0.2:5000/select",
                 body: {
@@ -102,6 +106,8 @@
                 }
             });
             console.log(elements.articles);
+
+            
             // set the genre / subgenres for the bulletpoints
 
             // also create an array with all genres so the filtering is easier 

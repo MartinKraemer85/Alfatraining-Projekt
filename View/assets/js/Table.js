@@ -1,6 +1,5 @@
-
-
 'use strict';
+
 import { addToCard } from './cart.js'
 
 const elements = {}
@@ -154,8 +153,9 @@ const addRowToTable = ({ tr, data, head = false, tableElement } = {}) => {
      * @tableElement {domObject} the element where to append the row to(tableHead/tableBody)
     */
     tr.addEventListener('click', tableRowClick)
-
+    console.log(data);
     for (const [key, value] of Object.entries(data)) {
+        
         // Ignore relationships like the genre
         if (typeof value == 'object') continue;
         if (key.match('state')) continue;
@@ -419,14 +419,14 @@ const initTable = (tableHead, tableBody, tableFoot, tableData, filterArr) => {
     const from = (elements.page - 1) * getCurrentRowAmount()
     const to = elements.page * getCurrentRowAmount()
     const pageData = filteredData.slice(from, to)
-    
+
     // if data is filtered, take this for the currentRow amount. 
     // This is needed to prevent setting unnesseary padding 
     // (if there are mor than 20 rows displayed, set padding the tableContainer 
     // to ensure the footer is not overwritten)
-    if(filteredData.length < getCurrentRowAmount()) localStorage.setItem('currentRowAmount', filteredData.length)
-    
-    
+    if (filteredData.length < getCurrentRowAmount()) localStorage.setItem('currentRowAmount', filteredData.length)
+
+
     for (const article of pageData) {
         // only render the amount the user has set
         if (count == getCurrentRowAmount()) break

@@ -42,6 +42,7 @@ class DbHelper:
         """
         select_obj = get_class(object_path)
         res = []
+        #             select_ = select(select_obj).limit(10).offset(pageSize*page)
         with Session(self.engine) as session:
             result = session.execute(select(select_obj)).unique()
             for row in result.scalars().all():
@@ -114,7 +115,6 @@ class DbHelper:
         """
 
         insert_obj = generate_classinstance(values.get("objectPath"), values)
-        print(insert_obj)
 
         with Session(self.engine) as session:
             session.add(insert_obj)
