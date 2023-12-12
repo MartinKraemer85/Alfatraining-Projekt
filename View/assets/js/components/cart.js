@@ -86,30 +86,32 @@ const reloadCard = /**
                 type: "div",
                 parent: newArticle
             })
-            const img = create({
+            create({
                 type: "img",
                 attr: { src: images[rndNumber(0, images.length - 1)] },
                 parent: imageContainer
             })
-            const artist = create({
+            create({
                 content: `${article.artist} - ${article.title}`,
                 type: "div",
                 parent: newArticle
             })
-            const price = create({
+            create({
                 content: `${article.price.toLocaleString()}€`,
                 type: "div",
                 parent: newArticle
             })
+
+
+            // --------------------- Bottom stuff ------------------------
+            // set button listener to increase / decrease the amount a user want to buy
+
             const quantityContainer = create({
                 type: "div",
                 parent: newArticle
             })
 
-            // --------------------- Bottom stuff ------------------------
-            // set button listener to increase / decrease the amount a user want to buy
-
-            const buttonDecrease = create({
+            create({
                 content: "-",
                 type: "button",
                 listeners: {
