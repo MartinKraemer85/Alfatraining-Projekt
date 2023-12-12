@@ -184,12 +184,7 @@ class Article {
             parent: btn,
             classes: ["fa", "fa-shopping-cart"]
         });
-
-
-
     }
-
-
 }
 
 export { Article };

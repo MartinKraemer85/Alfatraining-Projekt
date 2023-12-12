@@ -187,7 +187,7 @@ const initTable = (tableHead, tableBody, tableFoot, tableData, filterArr) => {
      * @tableBody {domElement} the table body element where the table should be append to
      * @tableFoot {domElement} the table footer element where the table should be append to
      * @tableData {Array[dict]} the data to fill the table
-     * @filter {Array} the data to fill the table
+     * @filterArr {Array} the data to fill the table
      * i.e. [{
             "artist": "Mokturnal Mortum",
             "genres": [
