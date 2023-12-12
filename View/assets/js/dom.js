@@ -35,3 +35,6 @@ const dom = {
 }
 
 export { dom }
+export let create = dom.create
+export let $ = dom.$
+export let $$ = dom.$$

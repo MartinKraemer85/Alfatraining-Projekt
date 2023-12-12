@@ -3,7 +3,7 @@
 import { get } from './CRUD.js';
 import { elements } from './data.js';
 import { initTable } from './Table.js';
-import { initCart } from './cart.js'
+import { initCart } from './components/cart.js'
 import { createFooter } from './components/footer.js'
 import { Article } from './models/article.js'
 import { createFilter } from './components/filter.js'
@@ -99,6 +99,7 @@ const init = async () => {
     appendEventlisteners();
     initTable(elements.tableHead, elements.tableBody, elements.tableFoot, elements.articles, elements.filterArr)
     initCart(elements.articles)
+    console.log(elements.articles);
     document.querySelector(".cardContainer").append(createFooter())
 
 }

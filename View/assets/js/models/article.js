@@ -1,25 +1,13 @@
 'use strict';
 
 import { dom } from '../dom.js'
-import { addToCard } from '../cart.js'
+import { addToCard } from '../components/cart.js'
 import { createNumber } from '../helper.js'
+import { images } from '../data.js';
 
 class Article {
     genres = []
     sub_genres = []
-
-    // only for testing 
-    #images = [
-        "./assets/images/b&b.jpg",
-        "./assets/images/bertram.jpg",
-        "./assets/images/bocchi.jpg",
-        "./assets/images/bocchi2.jpg",
-        "./assets/images/essen.jpg",
-        "./assets/images/geisterbocchi.jpg",
-        "./assets/images/momo.jpg",
-        "./assets/images/momo2.jpg",
-        "./assets/images/tunnelmomo.jpg",
-    ]
 
     constructor(obj) {
         Object.assign(this, obj);
@@ -102,7 +90,7 @@ class Article {
         dom.create({
             type: "img",
             classes: ["cover"],
-            attr: { alt: true, src: this.#images[createNumber(0, this.#images.length - 1)] },
+            attr: { alt: true, src: images[createNumber(0, images.length - 1)] },
             parent: infoContainer
         })
 

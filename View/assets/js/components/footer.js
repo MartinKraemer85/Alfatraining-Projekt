@@ -8,7 +8,7 @@ const createFooter = () => {
      * so create it in a fucntion
      */
     return dom.create({
-        content:  `<h1>Hier kommen Footer Daten herein, welche auch immer das sein werden</h1>`,
+        content: `<h1>Hier kommen Footer Daten herein, welche auch immer das sein werden</h1>`,
         type: "footer",
     })
 }

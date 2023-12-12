@@ -6,7 +6,6 @@ const elements = {}
 elements.rowAmounts = [5, 10, 25]
 elements.page = 1
 elements.paginationData = []
-const createEl = (el) => document.createElement(el)
 
 
 const addRowToTable = ({ data, head = false, tableElement } = {}) => {
@@ -82,7 +81,7 @@ const addRowAmountBtn = (tableHead, tableBody, tableFoot, tableData, filter, tr)
     const tdLeft = dom.create({
         type: "td",
         classes: ["tableBtnLeft"],
-        attr: {colSpan: Math.floor(elements.colspan / 2)},
+        attr: { colSpan: Math.floor(elements.colspan / 2) },
         parent: tr
     })
 
@@ -94,15 +93,17 @@ const addRowAmountBtn = (tableHead, tableBody, tableFoot, tableData, filter, tr)
         dom.create({
             type: "button",
             classes: ["tableBtnLeft"],
-            content:  value,
-            listeners: {"click" : (event) => {
-                // set the new row amount 
-                localStorage.setItem('currentRowAmount', event.target.innerText)
-    
-                // also reset the page
-                elements.page = 1
-                initTable(tableHead, tableBody, tableFoot, tableData, filter)
-            }},
+            content: value,
+            listeners: {
+                "click": (event) => {
+                    // set the new row amount 
+                    localStorage.setItem('currentRowAmount', event.target.innerText)
+
+                    // also reset the page
+                    elements.page = 1
+                    initTable(tableHead, tableBody, tableFoot, tableData, filter)
+                }
+            },
             parent: tdLeft
         });
     })
@@ -122,7 +123,7 @@ const addPaginationBtn = (tableHead, tableBody, tableFoot, tableData, filter, tr
     const td = dom.create({
         type: "td",
         classes: ["tableBtnRight"],
-        attr: {colSpan: Math.ceil(elements.colspan / 2)},
+        attr: { colSpan: Math.ceil(elements.colspan / 2) },
         parent: tr
     })
 
@@ -134,16 +135,18 @@ const addPaginationBtn = (tableHead, tableBody, tableFoot, tableData, filter, tr
     for (let i = 1; i <= paginationAmount; i++) {
         // create the pagination buttons and add them to the right column of the 
         // table footer element
-        const paginationBtn = 		dom.create({
+        const paginationBtn = dom.create({
             type: "button",
             classes: ["tableBtnLeft"],
-            content:  i,
-            listeners: {"click" : (event) => {
-                elements.pagination = Number(event.target.innerHTML)
-                elements.page = Number(event.target.innerHTML)
-                //render table again, but only use the data from the given page
-                initTable(tableHead, tableBody, tableFoot, tableData, filter)
-            }},
+            content: i,
+            listeners: {
+                "click": (event) => {
+                    elements.pagination = Number(event.target.innerHTML)
+                    elements.page = Number(event.target.innerHTML)
+                    //render table again, but only use the data from the given page
+                    initTable(tableHead, tableBody, tableFoot, tableData, filter)
+                }
+            },
             parent: td
         });
 
@@ -274,13 +277,13 @@ const initTable = (tableHead, tableBody, tableFoot, tableData, filterArr) => {
         // only render the amount the user has set
         if (count == getCurrentRowAmount()) break
         if (!count) {
-            
+
             addRowToTable({ data: article, head: true, tableElement: tableHead })
             // set the max cols we have in the table
             elements.colspan = tableHead.rows[0].cells.length;
         }
 
-        addRowToTable({data: article, head: false, tableElement: tableBody })
+        addRowToTable({ data: article, head: false, tableElement: tableBody })
         count++;
     }
     addTableFooter(tableHead, tableBody, tableFoot, filteredData, filterArr)
