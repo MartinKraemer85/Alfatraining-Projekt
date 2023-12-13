@@ -69,8 +69,11 @@ const loadData = async () => {
         body: { "initial": true }
     });
 
-    articles.forEach(article => elements.articles.push(new Article(article)))
     console.log(articles);
+
+    articles.forEach(article => elements.articles.push(new Article(article)))
+    console.log(elements.articles);
+
     // set the genre / subgenres for the bulletpoints
     // also create an array with all genres so the filtering is easier 
     // (only one array instead of both genre and subgenre array)
@@ -97,13 +100,16 @@ const loadData = async () => {
 const init = async () => {
     domMapping();
     await loadData();
+
     createFilter({ bulletPoints: elements.genre });
     createFilter({ headerText: "Sub Genre", bulletPoints: elements.subGenre });
     appendEventlisteners();
     initTable(elements.tableHead, elements.tableBody, elements.tableFoot, elements.articles, elements.filterArr)
     initCart(elements.articles)
     $(".cardContainer").append(createFooter())
-    /*
+
+
+
     const worker = new Worker('./assets/js/workers/initialFullLoad.js', { type: "module" })
 
     worker.postMessage(JSON.parse(JSON.stringify(elements)));
@@ -111,7 +117,7 @@ const init = async () => {
         console.log(msg.data);
 
     }
-    */
+
 }
 
 // INIT

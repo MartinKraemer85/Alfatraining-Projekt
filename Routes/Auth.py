@@ -1,5 +1,5 @@
 from flask_httpauth import HTTPBasicAuth
-from config_ import engine
+from settings import engine
 
 auth = HTTPBasicAuth()
 

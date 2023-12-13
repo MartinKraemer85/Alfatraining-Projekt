@@ -1,5 +1,5 @@
 import sqlalchemy as db
-from config_ import engine
+from settings import engine
 from Helper.GeneralHelper import create_pwd
 from Helper.DDLGenerator import create_ddl
 from Helper.DbHelper import DbHelper
@@ -12,8 +12,9 @@ db_ = DbHelper(engine)
 # ---- testing stuff ------------
 # create db if needed
 
-
-if True:
+# test = db_.select_all("Model.Vinyl.Record.Record", False)
+# print(test)
+if False:
     create_ddl()
     genres = ["Rock", "Pop", "Metal", "Black Metal", "Death Metal"]
     sub_genres = ["DBM", "Raw", "Folk", "Symphonischer Black Metal", "Ambient Black Metal"]

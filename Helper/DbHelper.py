@@ -32,7 +32,7 @@ class DbHelper:
         result = conn.execute(text(query))
         return [dict(zip(result.keys(), row)) for row in result.fetchall()]
 
-    def select_all(self, object_path: str, initial: bool) -> Response:
+    def select_all(self, object_path: str, initial: True) -> Response:
         """
         Select all rows + relationships of a table.
 
@@ -40,18 +40,28 @@ class DbHelper:
         :param initial: for the initial select, limit to 50 (?)
         :return: object of the given path
         """
-        select_obj = get_class(object_path)
         res = []
-        # select_ = select(select_obj).limit(10).offset(pageSize*page)
+        select_obj = get_class(object_path)
         with Session(self.engine) as session:
+            session.expire_on_commit = False
             if initial:
-                result = session.execute(select(select_obj).limit(50)).unique()
+                result = session.execute(select(select_obj).limit(2)).unique()
             else:
                 result = session.execute(select(select_obj)).unique()
 
             for row in result.scalars().all():
                 res.append(row.to_dict())
-        return jsonify(res)
+        return res
+
+        select_obj = get_class(object_path)
+        # select_ = select(select_obj).limit(10).offset(pageSize*page)
+        with Session(self.engine) as session:
+            if initial:
+                result = session.execute(select(select_obj).limit(1)).unique()
+            else:
+                result = session.execute(select(select_obj).limit(1)).unique()
+
+            return result.scalars().all()
 
     def db_update(self, values: dict) -> int:
         """

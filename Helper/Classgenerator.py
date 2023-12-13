@@ -1,7 +1,7 @@
 import os
 import re
 from Helper.GeneralHelper import get_class
-from config_ import engine
+from settings import engine
 
 
 def create_js() -> None:
