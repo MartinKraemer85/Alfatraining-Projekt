@@ -44,10 +44,8 @@ class DbHelper:
         res = []
         # select_ = select(select_obj).limit(10).offset(pageSize*page)
         with Session(self.engine) as session:
-            print(initial)
             if initial:
-                print("?")
-                result = session.execute(select(select_obj).limit(2)).unique()
+                result = session.execute(select(select_obj).limit(50)).unique()
             else:
                 result = session.execute(select(select_obj)).unique()
 
