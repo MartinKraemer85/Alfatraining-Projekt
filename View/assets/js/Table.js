@@ -1,6 +1,6 @@
 'use strict';
 
-import { dom } from './dom.js'
+import { dom } from './helper/dom.js'
 
 const elements = {}
 elements.rowAmounts = [5, 10, 25]

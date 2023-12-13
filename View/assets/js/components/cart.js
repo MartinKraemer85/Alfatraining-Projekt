@@ -1,6 +1,6 @@
 'use strict';
-import { create, $ } from "../dom.js"
-import { rndNumber, images } from "../data.js";
+import { create, $ } from "../helper/dom.js"
+import { rndNumber, images } from "../settings.js";
 
 // KONSTANTEN / VARIABLEN
 const elements = {};

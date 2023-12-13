@@ -1,7 +1,7 @@
 'use strict';
 
-import { get } from './CRUD.js';
-import { elements } from './data.js';
+import { get } from './helper/CRUD.js';
+import { elements } from './settings.js';
 import { initTable } from './Table.js';
 import { initCart } from './components/cart.js'
 import { createFooter } from './components/footer.js'

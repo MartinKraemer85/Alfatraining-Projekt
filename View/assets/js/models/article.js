@@ -1,9 +1,9 @@
 'use strict';
 
-import { dom } from '../dom.js'
+import { dom } from '../helper/dom.js'
 import { addToCard } from '../components/cart.js'
-import { createNumber } from '../helper.js'
-import { images } from '../data.js';
+import { createNumber } from '../helper/generalHelper.js'
+import { images } from '../settings.js';
 
 class Article {
     genres = []

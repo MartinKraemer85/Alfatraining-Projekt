@@ -1,5 +1,5 @@
 'use strict';
-import { dom } from "../dom.js"
+import { dom } from "../helper/dom.js"
 
 
 const createFilter = ({ headerText = "Genre", bulletPoints } = {}) => {
