@@ -14,5 +14,6 @@ const get = async ({ url = "/",
     return json;
 }
 
+
 // exporting variables and function
 export { get };

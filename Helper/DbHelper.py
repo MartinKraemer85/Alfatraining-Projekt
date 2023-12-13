@@ -1,6 +1,6 @@
 from dataclasses import dataclass
 
-from flask import jsonify
+from flask import jsonify, Response
 from sqlalchemy import Engine, text, Connection, update, Table, MetaData, select
 from sqlalchemy.exc import ProgrammingError, InternalError, DataError, IntegrityError, ArgumentError
 from sqlalchemy.orm import Session
@@ -27,24 +27,30 @@ class DbHelper:
         :param where: where condition if needed
         :return: The result as a list of dictionary's
         """
-        query = f'SELECT { "*" if "*" in columns else ",".join(columns)} FROM {table_name} {where};'
-        print(query)
+        query = f'SELECT {"*" if "*" in columns else ",".join(columns)} FROM {table_name} {where};'
         conn = self.engine.connect()
         result = conn.execute(text(query))
         return [dict(zip(result.keys(), row)) for row in result.fetchall()]
 
-    def select_all(self, object_path: str) -> any:
+    def select_all(self, object_path: str, initial: bool) -> Response:
         """
         Select all rows + relationships of a table.
 
         :param object_path: The object we want to select (i.e. "Model.Vinyl.Record.Record")
+        :param initial: for the initial select, limit to 50 (?)
         :return: object of the given path
         """
         select_obj = get_class(object_path)
         res = []
-        #             select_ = select(select_obj).limit(10).offset(pageSize*page)
+        # select_ = select(select_obj).limit(10).offset(pageSize*page)
         with Session(self.engine) as session:
-            result = session.execute(select(select_obj)).unique()
+            print(initial)
+            if initial:
+                print("?")
+                result = session.execute(select(select_obj).limit(2)).unique()
+            else:
+                result = session.execute(select(select_obj)).unique()
+
             for row in result.scalars().all():
                 res.append(row.to_dict())
         return jsonify(res)
@@ -176,4 +182,3 @@ class DbHelper:
                 return 6
             except ArgumentError:
                 return 7
-

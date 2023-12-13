@@ -7,6 +7,7 @@ import { initCart } from './components/cart.js'
 import { createFooter } from './components/footer.js'
 import { Article } from './models/article.js'
 import { createFilter } from './components/filter.js'
+import { dom, $ } from './helper/dom.js';
 
 // KONSTANTEN / VARIABLEN
 elements.articles = []
@@ -28,6 +29,8 @@ const appendEventlisteners = () => {
     for (const el of Array.from(document.querySelectorAll("li"))) {
         el.addEventListener('click', filterClick);
     }
+
+
 }
 
 
@@ -63,11 +66,11 @@ const loadData = async () => {
 
     const articles = await get({
         url: "http://192.168.0.2:5000/select_all_articles",
-        body: "Model.Vinyl.Record.Record"
+        body: { "initial": true }
     });
 
     articles.forEach(article => elements.articles.push(new Article(article)))
-
+    console.log(articles);
     // set the genre / subgenres for the bulletpoints
     // also create an array with all genres so the filtering is easier 
     // (only one array instead of both genre and subgenre array)
@@ -99,10 +102,18 @@ const init = async () => {
     appendEventlisteners();
     initTable(elements.tableHead, elements.tableBody, elements.tableFoot, elements.articles, elements.filterArr)
     initCart(elements.articles)
-    console.log(elements.articles);
-    document.querySelector(".cardContainer").append(createFooter())
+    $(".cardContainer").append(createFooter())
+    /*
+    const worker = new Worker('./assets/js/workers/initialFullLoad.js', { type: "module" })
 
+    worker.postMessage(JSON.parse(JSON.stringify(elements)));
+    worker.onmessage = (msg) => {
+        console.log(msg.data);
+
+    }
+    */
 }
 
 // INIT
 init();
+

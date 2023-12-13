@@ -12,7 +12,6 @@ const domMapping = () => {
     elements.closeShopping = $('.closeShopping');
     elements.list = $('.list');
     elements.listCard = $('.listCard');
-    console.log(elements.listCard);
     elements.body = $('body');
     elements.total = $('.total');
     elements.quantity = $('.quantity');
