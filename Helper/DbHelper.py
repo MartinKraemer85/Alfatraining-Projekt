@@ -45,7 +45,7 @@ class DbHelper:
         with Session(self.engine) as session:
             session.expire_on_commit = False
             if initial:
-                result = session.execute(select(select_obj).limit(2)).unique()
+                result = session.execute(select(select_obj).limit(50)).unique()
             else:
                 result = session.execute(select(select_obj)).unique()
 

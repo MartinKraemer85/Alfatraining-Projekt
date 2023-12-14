@@ -7,16 +7,18 @@ import { initCart } from './components/cart.js'
 import { createFooter } from './components/footer.js'
 import { Article } from './models/article.js'
 import { createFilter } from './components/filter.js'
-import { dom, $ } from './helper/dom.js';
+import { table } from './components/table/table.js';
+import { $ } from './helper/dom.js';
 
 // KONSTANTEN / VARIABLEN
 elements.articles = []
 
 // FUNKTIONEN
 const domMapping = () => {
-    elements.tableHead = document.querySelector("#head")
-    elements.tableBody = document.querySelector("#body")
-    elements.tableFoot = document.querySelector("#foot")
+    elements.main = $("main")
+    elements.tableHead = $("#head")
+    elements.tableBody = $("#body")
+    elements.tableFoot = $("#foot")
     elements.filterArr = []
 }
 
@@ -104,7 +106,8 @@ const init = async () => {
     createFilter({ bulletPoints: elements.genre });
     createFilter({ headerText: "Sub Genre", bulletPoints: elements.subGenre });
     appendEventlisteners();
-    initTable(elements.tableHead, elements.tableBody, elements.tableFoot, elements.articles, elements.filterArr)
+    elements.main.append(table(elements.articles))
+    //initTable(elements.tableHead, elements.tableBody, elements.tableFoot, elements.articles, elements.filterArr)
     initCart(elements.articles)
     $(".cardContainer").append(createFooter())
 
