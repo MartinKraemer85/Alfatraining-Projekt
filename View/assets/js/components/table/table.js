@@ -3,7 +3,7 @@
 import { create, $ } from "../../helper/dom.js";
 import { footer } from "./footer.js";
 import { row } from "./row/row.js";
-import { getCurrentRowAmount } from "../../helper/generalHelper.js";
+import { getCurrentRowAmount, getCurrentPage } from "../../helper/generalHelper.js";
 
 const elements = {}
 
@@ -11,7 +11,6 @@ const removeElements = (el) => {
     while (el.firstChild) {
         el.removeChild(el.firstChild);
     }
-    console.log(el);
 }
 
 const createTableStructure = () => {
@@ -122,14 +121,16 @@ const table = (tableData, cartButton = true, infoRow = true) => {
     // and create the table structure
     createTableStructure()
 
+    const currentRowAmount = getCurrentRowAmount()
+    const currentPage = getCurrentPage()
+    const from = (currentPage - 1) * currentRowAmount
+    const to = currentPage * currentRowAmount
+    const pageData = tableData.slice(from, to)
+
     let count = 0;
-    console.log("-------------------");
-    console.log(tableData);
-    console.log(getCurrentRowAmount());
-    console.log("-------------------");
-    for (const obj of tableData) {
+    for (const obj of pageData) {
         // only render the amount the user has set
-        if (count == getCurrentRowAmount()) break
+        if (count == currentRowAmount) break
 
         // row == 0 -> head row
         if (!count) {

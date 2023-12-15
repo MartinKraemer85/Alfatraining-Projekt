@@ -253,10 +253,6 @@ const initTable = (tableHead, tableBody, tableFoot, tableData, filterArr) => {
         }]
     */
 
-    console.log("???");
-    removeElements(tableHead);
-    removeElements(tableBody);
-    removeElements(tableFoot);
     elements.tableData = tableData;
 
     let count = 0;

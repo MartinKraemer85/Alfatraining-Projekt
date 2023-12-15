@@ -2,11 +2,10 @@
 
 import { create, $ } from "../../helper/dom.js";
 import { table } from "./table.js";
-import { getCurrentRowAmount } from "../../helper/generalHelper.js";
+import { getCurrentPage, getCurrentRowAmount, setLocalStorage } from "../../helper/generalHelper.js";
 
 const elements = {}
 elements.rowAmounts = [5, 10, 25]
-elements.page = 1
 elements.paginationData = []
 
 const setTablePadding = () => {
@@ -51,9 +50,9 @@ const addRowAmountBtn = (tableData, tr) => {
             listeners: {
                 "click": (event) => {
                     // set the new row amount 
-                    localStorage.setItem('currentRowAmount', event.target.innerText)
+                    setLocalStorage({ key: 'currentRowAmount', value: event.target.innerText })
                     // also reset the page
-                    elements.page = 1
+                    setLocalStorage({ key: 'currentPage', value: 1 })
                     table(tableData)
                 }
             },
@@ -95,8 +94,9 @@ const addPaginationBtn = (tableData, tr) => {
             content: i,
             listeners: {
                 "click": (event) => {
-                    elements.pagination = Number(event.target.innerHTML)
-                    elements.page = Number(event.target.innerHTML)
+                    setLocalStorage({ key: 'currentPage', value: event.target.innerText })
+                    console.log("innerhtml", event.target.innerText);
+                    console.log("page?", getCurrentPage());
                     //render table again, but only use the data from the given page
                     table(tableData)
                 }
@@ -122,7 +122,7 @@ const footer = ({ tableData, columns = 6 } = {}) => {
         type: "tr",
         classes: ["foot"]
     })
-
+    console.log(tableData);
     // What we also need to do is setting the coolspan.
     // this way we can make sure that the buttons in the footer 
     // are in the correct place. 
@@ -130,7 +130,6 @@ const footer = ({ tableData, columns = 6 } = {}) => {
     // --> pagination buttons right
 
     // the buttons for the table amount (display 5,10,xx at once)
-    console.log(tableData);
     addRowAmountBtn(tableData, tr)
     addPaginationBtn(tableData, tr)
     return tr

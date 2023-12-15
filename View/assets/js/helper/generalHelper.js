@@ -8,4 +8,17 @@ const getCurrentRowAmount = () => {
     return rowAmount
 }
 
-export { createNumber, getCurrentRowAmount }
+const getCurrentPage = () => {
+    const page = Number(localStorage.getItem('currentPage'))
+    console.log(page);
+    if (!page) return 1
+    return page
+}
+
+const setLocalStorage = ({ key = 'currentRowAmount', value = 10 }) => {
+    console.log("value:", value);
+    console.log("key:", key);
+    localStorage.setItem(key, value)
+}
+
+export { createNumber, getCurrentRowAmount, setLocalStorage, getCurrentPage }
