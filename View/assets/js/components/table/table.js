@@ -123,6 +123,8 @@ const table = (tableData, cartButton = true, infoRow = true) => {
 
     const currentRowAmount = getCurrentRowAmount()
     const currentPage = getCurrentPage()
+
+    // calculate the rows we're displaying
     const from = (currentPage - 1) * currentRowAmount
     const to = currentPage * currentRowAmount
     const pageData = tableData.slice(from, to)

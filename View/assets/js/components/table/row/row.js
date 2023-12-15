@@ -40,7 +40,7 @@ const row = ({ head = false, data, addCartButton = true, addInfoRow = true, tbod
             parent: tr
         });
     }
-    if (addCartButton) tr.append(cartButton(head))
+    if (addCartButton) tr.append(cartButton({ head: head, data: data }))
     if (addInfoRow) tbody.append(infoRow({ head: head, tracks: data.tracks }))
     return tr
 }

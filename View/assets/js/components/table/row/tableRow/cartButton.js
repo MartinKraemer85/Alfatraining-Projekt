@@ -1,8 +1,10 @@
 'use strict';
 
 import { dom } from "../../../../helper/dom.js";
+import { addToCard } from "../../../cart.js";
 
-const cartButton = (head) => {
+
+const cartButton = ({ head, data = [] } = {}) => {
     /**
     * Takes the current row (if not the head) and adds the to cart button
     * @date 11/29/2023 - 5:37:45 AM
@@ -28,8 +30,10 @@ const cartButton = (head) => {
         parent: td,
         classes: ["addtocartBtn"],
         listeners: {
-            "click": () => {
-                addToCard(this)
+            "click": (evt) => {
+                // first parent is the td, second parent is the tr
+                // TODO: rausfinden wie man vom aktuellen element das naechst hoehere x element sucht?!
+                addToCard(data)
             }
         }
     });

@@ -12,7 +12,9 @@ class Article {
     constructor(obj) {
         Object.assign(this, obj);
     }
-
+    getId() {
+        return this.id
+    }
     createTableRow(head = false, tableElement) {
         /**
          * Description placeholder
