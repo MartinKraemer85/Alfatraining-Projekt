@@ -71,10 +71,7 @@ const loadData = async () => {
         body: { "initial": true }
     });
 
-    console.log(articles);
-
     articles.forEach(article => elements.articles.push(new Article(article)))
-    console.log(elements.articles);
 
     // set the genre / subgenres for the bulletpoints
     // also create an array with all genres so the filtering is easier 
@@ -109,7 +106,7 @@ const init = async () => {
     elements.main.append(table(elements.articles))
     //initTable(elements.tableHead, elements.tableBody, elements.tableFoot, elements.articles, elements.filterArr)
     initCart(elements.articles)
-    $(".cardContainer").append(createFooter())
+    //$(".cardContainer").append(createFooter())
 
 
 
@@ -117,7 +114,6 @@ const init = async () => {
 
     worker.postMessage(JSON.parse(JSON.stringify(elements)));
     worker.onmessage = (msg) => {
-        console.log(msg.data);
 
     }
 

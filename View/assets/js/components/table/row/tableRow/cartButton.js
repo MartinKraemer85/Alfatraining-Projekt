@@ -2,7 +2,7 @@
 
 import { dom } from "../../../../helper/dom.js";
 
-const cartButton = (tr, head) => {
+const cartButton = (head) => {
     /**
     * Takes the current row (if not the head) and adds the to cart button
     * @date 11/29/2023 - 5:37:45 AM
@@ -12,7 +12,7 @@ const cartButton = (tr, head) => {
     */
 
     if (head) {
-        // just create an empty header column
+        // just create an empty header columnx
         return dom.create({
             type: "th",
         })
@@ -21,7 +21,6 @@ const cartButton = (tr, head) => {
     const td = dom.create({
         type: "td",
         styles: { textAlign: "center" },
-        parent: tr
     });
 
     const btn = dom.create({
@@ -41,7 +40,7 @@ const cartButton = (tr, head) => {
         classes: ["fa", "fa-shopping-cart"]
     });
 
-    return tr
+    return td
 }
 
 export { cartButton }

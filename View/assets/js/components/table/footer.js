@@ -52,7 +52,6 @@ const addRowAmountBtn = (tableData, tr) => {
                 "click": (event) => {
                     // set the new row amount 
                     localStorage.setItem('currentRowAmount', event.target.innerText)
-
                     // also reset the page
                     elements.page = 1
                     table(tableData)
@@ -89,6 +88,7 @@ const addPaginationBtn = (tableData, tr) => {
     for (let i = 1; i <= paginationAmount; i++) {
         // create the pagination buttons and add them to the right column of the 
         // table footer element
+
         create({
             type: "button",
             classes: ["tableBtnLeft"],
@@ -98,7 +98,7 @@ const addPaginationBtn = (tableData, tr) => {
                     elements.pagination = Number(event.target.innerHTML)
                     elements.page = Number(event.target.innerHTML)
                     //render table again, but only use the data from the given page
-                    initTable(tableData, tr)
+                    table(tableData)
                 }
             },
             parent: td

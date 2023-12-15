@@ -2,7 +2,7 @@ import { dom } from "../../../helper/dom.js"
 import { infoRow } from "./infoRow/infoRow.js";
 import { cartButton } from "./tableRow/cartButton.js";
 
-const row = ({ head = false, data, addCartButton = true, addInfoRow = true } = {}) => {
+const row = ({ head = false, data, addCartButton = true, addInfoRow = true, tbody } = {}) => {
     /**
      * Description placeholder
      * @date 12/11/2023 - 9:55:06 AM
@@ -40,8 +40,8 @@ const row = ({ head = false, data, addCartButton = true, addInfoRow = true } = {
             parent: tr
         });
     }
-    if (addCartButton) cartButton(tr, head)
-    if (addInfoRow) infoRow({ head: head, tracks: data.tracks })
+    if (addCartButton) tr.append(cartButton(head))
+    if (addInfoRow) tbody.append(infoRow({ head: head, tracks: data.tracks }))
     return tr
 }
 

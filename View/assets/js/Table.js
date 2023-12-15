@@ -252,6 +252,8 @@ const initTable = (tableHead, tableBody, tableFoot, tableData, filterArr) => {
             "year": 2008
         }]
     */
+
+    console.log("???");
     removeElements(tableHead);
     removeElements(tableBody);
     removeElements(tableFoot);
@@ -270,10 +272,11 @@ const initTable = (tableHead, tableBody, tableFoot, tableData, filterArr) => {
     // This is needed to prevent setting unnesseary padding 
     // (if there are mor than 20 rows displayed, set padding the tableContainer 
     // to ensure the footer is not overwritten)
-    if (filteredData.length < getCurrentRowAmount()) localStorage.setItem('currentRowAmount', filteredData.length)
-
+    //if (filteredData.length < getCurrentRowAmount()) localStorage.setItem('currentRowAmount', filteredData.length)
+    console.log(pageData);
 
     for (const article of pageData) {
+
         // only render the amount the user has set
         if (count == getCurrentRowAmount()) break
         if (!count) {

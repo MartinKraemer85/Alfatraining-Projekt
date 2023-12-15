@@ -5,8 +5,8 @@ from decouple import config
 
 # make the engine available for all modules that need it
 from flask import jsonify
-
-engine = db.create_engine(f"mssql://@{config('SERVER')}/{config('DATABASE')}?driver={config('ODBC')}")
+# https://docs.sqlalchemy.org/en/20/core/pooling.html#pool-events
+engine = db.create_engine(f"mssql://@{config('SERVER')}/{config('DATABASE')}?driver={config('ODBC')}", pool_pre_ping=True)
 current_data = {}
 
 

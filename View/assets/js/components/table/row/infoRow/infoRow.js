@@ -9,7 +9,7 @@ const infoRow = ({ head = false, tracks = {}, vendor = {}, colsSpan = 6 } = {}) 
     const tr = dom.create({
         type: "tr",
         classes: ["infoTr"],
-        attr: { hidden: true }
+        attr: { hidden: false }
     })
 
     const infoTd = dom.create({

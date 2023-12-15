@@ -51,6 +51,7 @@ class DbHelper:
 
             for row in result.scalars().all():
                 res.append(row.to_dict())
+            session.commit()
         return res
 
         select_obj = get_class(object_path)

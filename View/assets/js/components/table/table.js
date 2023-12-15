@@ -11,20 +11,16 @@ const removeElements = (el) => {
     while (el.firstChild) {
         el.removeChild(el.firstChild);
     }
-    el.remove()
+    console.log(el);
 }
 
 const createTableStructure = () => {
-    elements.container = create({
-        type: "table",
-        classes: ["tableContainer"]
-    })
 
     elements.table = create({
         type: "table",
         attr: { id: "table" },
         classes: ["dataTable"],
-        parent: elements.container
+        parent: elements.tableContainer
     })
 
     elements.thead = create({
@@ -44,6 +40,9 @@ const createTableStructure = () => {
         attr: { id: "foot" },
         parent: elements.table
     })
+}
+const domMapping = () => {
+    elements.tableContainer = $(".tableContainer")
 }
 
 const table = (tableData, cartButton = true, infoRow = true) => {
@@ -118,11 +117,16 @@ const table = (tableData, cartButton = true, infoRow = true) => {
     */
 
     // first, clear the old tabledata
+    domMapping()
     removeElements($(".tableContainer"))
     // and create the table structure
     createTableStructure()
 
     let count = 0;
+    console.log("-------------------");
+    console.log(tableData);
+    console.log(getCurrentRowAmount());
+    console.log("-------------------");
     for (const obj of tableData) {
         // only render the amount the user has set
         if (count == getCurrentRowAmount()) break
@@ -130,15 +134,14 @@ const table = (tableData, cartButton = true, infoRow = true) => {
         // row == 0 -> head row
         if (!count) {
 
-            elements.thead.append(row({ data: obj, head: true }))
+            elements.thead.append(row({ data: obj, head: true, tbody: elements.tbody }))
             // set the max cols we have in the table
             elements.colspan = elements.thead.rows[0].cells.length;
         }
 
-        elements.tbody.append(row({ data: obj, head: false }))
+        elements.tbody.append(row({ data: obj, head: false, tbody: elements.tbody }))
         count++;
     }
-    console.log(tableData);
     elements.tfoot.append(footer({ tableData: tableData }))
     return elements.container
 }
