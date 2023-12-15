@@ -42,7 +42,6 @@ const filterData = (filterArr, tableData) => {
             });
         })
     }) : tableData
-
 }
 
 

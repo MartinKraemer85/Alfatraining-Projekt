@@ -1,6 +1,7 @@
 from dataclasses import dataclass
 
 from flask import jsonify, Response
+from flask_sqlalchemy import SQLAlchemy
 from sqlalchemy import Engine, text, Connection, update, Table, MetaData, select
 from sqlalchemy.exc import ProgrammingError, InternalError, DataError, IntegrityError, ArgumentError
 from sqlalchemy.orm import Session
@@ -14,7 +15,7 @@ class DbHelper:
     This class holds all the needed functions to query the database.
 
     """
-    engine: Engine
+    db: SQLAlchemy
     __conn: Connection = None
     __metadata_obj = MetaData()
 
@@ -28,11 +29,11 @@ class DbHelper:
         :return: The result as a list of dictionary's
         """
         query = f'SELECT {"*" if "*" in columns else ",".join(columns)} FROM {table_name} {where};'
-        conn = self.engine.connect()
-        result = conn.execute(text(query))
+
+        result = self.db.session.execute(text(query))
         return [dict(zip(result.keys(), row)) for row in result.fetchall()]
 
-    def select_all(self, object_path: str, initial: True) -> Response:
+    def select_all(self, object_path: str, initial: True) -> list:
         """
         Select all rows + relationships of a table.
 
@@ -40,29 +41,14 @@ class DbHelper:
         :param initial: for the initial select, limit to 50 (?)
         :return: object of the given path
         """
-        res = []
         select_obj = get_class(object_path)
-        with Session(self.engine) as session:
-            session.expire_on_commit = False
-            if initial:
-                result = session.execute(select(select_obj).limit(50)).unique()
-            else:
-                result = session.execute(select(select_obj)).unique()
 
-            for row in result.scalars().all():
-                res.append(row.to_dict())
-            session.commit()
-        return res
+        if initial:
+            result = self.db.session.execute(select(select_obj).limit(50)).unique().scalars()
+        else:
+            result = self.db.session.execute(select(select_obj)).unique().scalars()
 
-        select_obj = get_class(object_path)
-        # select_ = select(select_obj).limit(10).offset(pageSize*page)
-        with Session(self.engine) as session:
-            if initial:
-                result = session.execute(select(select_obj).limit(1)).unique()
-            else:
-                result = session.execute(select(select_obj).limit(1)).unique()
-
-            return result.scalars().all()
+        return [row.to_dict() for row in result]
 
     def db_update(self, values: dict) -> int:
         """
@@ -84,7 +70,7 @@ class DbHelper:
                  7 - ArgumentError
         """
         # todo: errorhandling
-        with Session(self.engine) as session:
+        with Session(self.db) as session:
             try:
                 session.execute(
                     update(get_class(values.get("objectPath"))),
@@ -131,7 +117,7 @@ class DbHelper:
 
         insert_obj = generate_classinstance(values.get("objectPath"), values)
 
-        with Session(self.engine) as session:
+        with Session(self.db) as session:
             session.add(insert_obj)
             session.flush()
             session.commit()
@@ -169,7 +155,7 @@ class DbHelper:
                  6 - IntegrityError
                  7 - ArgumentError
         """
-        with Session(self.engine) as session:
+        with Session(self.db) as session:
             try:
                 delete_obj = get_class(values.get("objectPath"))
                 for id_ in values.get("ids"):

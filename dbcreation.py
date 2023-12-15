@@ -12,8 +12,9 @@ db_ = DbHelper(engine)
 # ---- testing stuff ------------
 # create db if needed
 
-# test = db_.select_all("Model.Vinyl.Record.Record", False)
-# print(test)
+test = db_.select_all("Model.Vinyl.Record.Record", False)
+set_current_data(test)
+
 if False:
     create_ddl()
     genres = ["Rock", "Pop", "Metal", "Black Metal", "Death Metal"]

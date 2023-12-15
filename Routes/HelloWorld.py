@@ -1,8 +1,6 @@
-from flask import Blueprint
-
-hello_world = Blueprint('hello_world', __name__)
+from settings import app
 
 
-@hello_world.route('/hello_world', methods=['GET'])
-def verify_password() -> str:
+@app.route('/hello_world', methods=['GET'])
+def hello_world() -> str:
     return "Hello World"

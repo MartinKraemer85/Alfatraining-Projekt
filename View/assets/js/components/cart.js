@@ -150,7 +150,7 @@ const reloadCard = /**
         elements.quantity.innerText = count;
     }
 
-const initCart = (articles) => {
+const cart = (articles) => {
     /* Init the cart elements
     * @param {*} articles The article list we've got from the get request
     */
@@ -159,4 +159,4 @@ const initCart = (articles) => {
     elements.org_articles = articles
 }
 
-export { initCart, addToCard }
+export { cart, addToCard }

@@ -2,11 +2,9 @@
 
 import { get } from './helper/CRUD.js';
 import { elements } from './settings.js';
-import { initTable } from './Table.js';
-import { initCart } from './components/cart.js'
-import { createFooter } from './components/footer.js'
+import { cart } from './components/cart.js'
 import { Article } from './models/article.js'
-import { createFilter } from './components/filter.js'
+import { createFilter } from './components/articleFilter.js'
 import { table } from './components/table/table.js';
 import { $ } from './helper/dom.js';
 
@@ -22,45 +20,6 @@ const domMapping = () => {
     elements.filterArr = []
 }
 
-const appendEventlisteners = () => {
-    /**
-     * add the Eventlistener like the filter function for the genre / subegenre navbar
-     * */
-
-    // Genre / SubGenre click event
-    for (const el of Array.from(document.querySelectorAll("li"))) {
-        el.addEventListener('click', filterClick);
-    }
-
-
-}
-
-
-const filterClick = (evt) => {
-    /**
-     *  Click event for the filter button. Adding an highlight class to the filter dom element
-     *  on the navbar. Also or removes the clicked filter from the filter array.
-     * */
-    const target = evt.currentTarget;
-    target.classList.toggle('highlight')
-    if (target.classList.contains('highlight') &&
-        !elements.filterArr.includes(evt.currentTarget.innerText)) {
-        // add to Filter array
-        elements.filterArr.push(evt.currentTarget.innerText);
-    } else {
-        // removing from the filters array
-        elements.filterArr = elements.filterArr.filter(el => {
-            el == evt.currentTarget.innerText ? 0 : 1
-        })
-
-        // if the filterarray is empty, reset the currentRowAmount to 10
-        if (!elements.filterArr.length) localStorage.setItem('currentRowAmount', "10")
-    }
-
-    // render the table with the applied filters
-    initTable(elements.tableHead, elements.tableBody, elements.tableFoot, elements.articles, elements.filterArr)
-}
-
 const loadData = async () => {
     /**
      * First, load all the data we need
@@ -70,9 +29,11 @@ const loadData = async () => {
         url: "http://192.168.0.2:5000/select_all_articles",
         body: { "initial": true }
     });
-
+    console.log(articles);
     articles.forEach(article => elements.articles.push(new Article(article)))
-
+    let test = elements.articles.map(article => article.filterGenre("Black Metal")
+    );
+    console.log("test", test);
     // set the genre / subgenres for the bulletpoints
     // also create an array with all genres so the filtering is easier 
     // (only one array instead of both genre and subgenre array)
@@ -102,10 +63,9 @@ const init = async () => {
 
     createFilter({ bulletPoints: elements.genre });
     createFilter({ headerText: "Sub Genre", bulletPoints: elements.subGenre });
-    appendEventlisteners();
     elements.main.append(table(elements.articles))
     //initTable(elements.tableHead, elements.tableBody, elements.tableFoot, elements.articles, elements.filterArr)
-    initCart(elements.articles)
+    cart(elements.articles)
     //$(".cardContainer").append(createFooter())
 
 

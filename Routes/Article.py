@@ -1,11 +1,12 @@
-from typing import Any, List, Tuple
+from typing import Any
 from flask import Blueprint, request, jsonify
 from Helper.DbHelper import DbHelper
-from settings import engine, get_current_data
-article = Blueprint('get_article', __name__)
+# from app import app
+from settings import engine, get_current_data, app, db
+# article = Blueprint('get_article', __name__)
 
 
-@article.route('/select', methods=['POST'])
+@app.route('/select', methods=['POST'])
 def select() -> tuple[str, int] | Any:
     """
     | Get an existing article. Post because it would be a hassle to create and parse the url.
@@ -28,24 +29,19 @@ def select() -> tuple[str, int] | Any:
         json = request.json
         if not json.get("table") or not json.get("fields"):
             return "Bad request, fool!", 400
-        db_helper = DbHelper(engine)
+        db_helper = DbHelper(db)
         return jsonify(db_helper.select(json.get("table"), json.get("fields"), json.get("where")))
     else:
         return 'Content-Type not supported', 400
 
 
-@article.route('/select_all_articles', methods=['POST'])
+@app.route('/select_all_articles', methods=['POST'])
 def select_all_articles() -> tuple[str, int] | Any:
     content_type = request.headers.get('Content-Type')
     if content_type == 'application/json':
-        #
-        # json = request.json
-        # db_helper = DbHelper(engine)
-        #
-        # # return db_helper.select_all("Model.Vinyl.Record.Record", json.get("initial"))
-        # print("--------------------------------")
-        # print(get_current_data())
-        # print("--------------------------------")
-        return get_current_data()
+        json = request.json
+        db_helper = DbHelper(db)
+        return db_helper.select_all("Model.Vinyl.Record.Record", json.get("initial"))
     else:
         return 'Content-Type not supported', 400
+
