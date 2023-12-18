@@ -1,8 +1,10 @@
 from typing import Any
-from flask import Blueprint, request, jsonify
+from flask import request, jsonify
 from Helper.DbHelper import DbHelper
 # from app import app
-from settings import engine, get_current_data, app, db
+from settings import app, db
+
+
 # article = Blueprint('get_article', __name__)
 
 
@@ -44,4 +46,3 @@ def select_all_articles() -> tuple[str, int] | Any:
         return db_helper.select_all("Model.Vinyl.Record.Record", json.get("initial"))
     else:
         return 'Content-Type not supported', 400
-
