@@ -6,8 +6,8 @@ import { createNumber } from '../helper/generalHelper.js'
 import { images } from '../settings.js';
 
 class Article {
-    //genres = []
-    //sub_genres = []
+    genres = []
+    sub_genres = []
 
     constructor(obj) {
         Object.assign(this, obj);
@@ -17,15 +17,15 @@ class Article {
     }
 
     filterGenre(filter = []) {
-        console.log(filter);
-
         return this.genres.filter((genre) => {
             return filter.includes(genre.genre.name)
         }) ? this : {}
     }
 
     filterSubGenre(filter = []) {
-        this.sub_genres.filter((subGenre) => filter.includes(subGenre.subGenre.name)) ? this : {}
+        this.sub_genres.filter((subGenre) => {
+            return filter.includes(subGenre.subGenre.name)
+        }) ? this : {}
     }
 }
 
