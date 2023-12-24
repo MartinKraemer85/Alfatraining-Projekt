@@ -1,0 +1,218 @@
+.tableContainer {
+    float: left;
+    display: block;
+
+    margin: 5px;
+    background: #eee;
+    border: 1px solid #aaa;
+    border-radius: 5px;
+    width: 75%;
+}
+
+.dataTable {
+    position: relative;
+    table-layout: auto;
+    width: 100%;
+}
+
+
+/*
+    style ideas from: 
+    https://divtable.com/table-styler/
+*/
+ul {
+    margin-top: 0px;
+    height: 100%;
+}
+
+.hover:hover {
+    background-color: coral !important;
+}
+
+.tableBtnLeft button:hover:not(.active) {
+    background-color: #ddd;
+}
+
+th:first-child {
+    border-radius: 10px 0 0 10px;
+}
+
+th:last-child {
+    border-radius: 0 10px 10px 0;
+}
+
+tr:nth-of-type(4n + 3) :first-child {
+    border-radius: 10px 0 0 0;
+}
+
+tr:nth-of-type(4n + 3) :last-child {
+    border-radius: 0 10px 0 0;
+}
+
+tr:nth-of-type(4n + 4) :last-child {
+    border-radius: 0 0 10px 10px;
+}
+
+tr:nth-of-type(4n + 3) {
+    background-color: #D1D1CB;
+}
+
+tr:nth-of-type(4n +4) {
+    background-color: #D1D1CB;
+}
+
+.infoTr {
+    height: 30px;
+}
+
+.cover {
+    width: 70%;
+    height: auto;
+    border-radius: 50% !important;
+}
+
+.infoDiv {
+    display: flex;
+    justify-content: space-between;
+    width: 33%;
+    height: 10rem;
+    float: left;
+}
+
+td {
+    padding-left: 3px;
+}
+
+.pTag:nth-of-type(4n + 3) {
+    margin: 0px;
+    padding: 0px;
+    background-color: #D1D1CB;
+}
+
+p {
+    column-span: all;
+}
+
+table {
+    table-layout: fixed;
+    border-spacing: 0;
+}
+
+
+
+th {
+    color: white;
+    background: #19154B;
+    background: -moz-linear-gradient(top, #5b5f78 0%, #3a3f5d 66%, #19154B 100%);
+    background: -webkit-linear-gradient(top, #5b5f78 0%, #3a3f5d 66%, #19154B 100%);
+    background: linear-gradient(to bottom, #5b5f78 0%, #3a3f5d 66%, #19154B 100%);
+    border-bottom: 2px solid #444444;
+    height: 2em;
+    text-align: left;
+    padding-left: 1em;
+}
+
+.foot {
+    height: 2em;
+}
+
+td {
+    padding-left: 1em;
+}
+
+.tableBtnLeft {
+    text-align: left;
+    padding: 0.4em 0px 0.4em 0px;
+}
+
+.tableBtnLeft button {
+    color: black;
+    padding: 8px 16px;
+    text-decoration: none;
+    border: 0px solid #aaa;
+}
+
+.tableBtnLeft button:hover:not(.active) {
+    background-color: #ddd;
+}
+
+.tableBtnLeft button.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+
+.tableBtnRight {
+    text-align: right;
+    padding: 0.4em 0px 0.4em 0px;
+}
+
+.tableBtnRight button:hover:not(.active) {
+    background-color: #ddd;
+}
+
+.tableBtnRight button.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.tableBtnRight button {
+
+    color: black;
+    padding: 8px 16px;
+    text-decoration: none;
+    border: 0px solid #aaa;
+}
+
+.addtocartBtn {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 16px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 50% !important;
+}
+
+.addtocartBtn:hover {
+    background-color: RoyalBlue;
+}
+
+.cartImg {
+    height: auto;
+    width: auto;
+}
+
+.left {
+    width: 15%;
+    float: left;
+}
+
+.closeBtn {
+    width: 100%;
+    color: blue;
+}
+
+.highlight {
+    font-style: italic;
+    color: rgba(14, 14, 103, 0.48);
+    font-weight: bolder;
+}
+
+li {
+    cursor: pointer;
+}
+
+li:not(.highlight):hover {
+    background: rgba(0, 0, 0, .05);
+}
+
+.container {
+    position: relative;
+    display: block;
+    padding: 5px;
+    margin: 5px;
+    background: #eee;
+    border: 1px solid #aaa;
+    border-radius: 5px;
+}

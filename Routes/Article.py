@@ -1,11 +1,7 @@
 from typing import Any
 from flask import request, jsonify
 from Helper.DbHelper import DbHelper
-# from app import app
 from settings import app, db
-
-
-# article = Blueprint('get_article', __name__)
 
 
 @app.route('/select', methods=['POST'])
@@ -32,7 +28,7 @@ def select() -> tuple[str, int] | Any:
         if not json.get("table") or not json.get("fields"):
             return "Bad request, fool!", 400
         db_helper = DbHelper(db)
-        return jsonify(db_helper.select(json.get("table"), json.get("fields"), json.get("where")))
+        return db_helper.select(json.get("table"), json.get("fields"), json.get("where"))
     else:
         return 'Content-Type not supported', 400
 

@@ -1,0 +1,204 @@
+.Article {
+    box-shadow: 0 15px 30px 1px grey;
+    background: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    border-radius: 5px;
+    overflow: hidden;
+    margin: 5em auto;
+    height: 350px;
+    width: 700px;
+}
+
+.Article .Details {
+    position: relative;
+    text-align: left;
+    overflow: hidden;
+    padding: 30px;
+    height: 100%;
+    float: left;
+    width: 40%;
+
+}
+
+.Article .Details h1 {
+    font-family: 'Serif';
+    display: inline-block;
+    position: relative;
+    font-size: 30px;
+    color: #344055;
+    margin: 0;
+
+}
+
+.Article .Details h1:before {
+    position: absolute;
+    content: '';
+    right: 0%;
+    top: 0%;
+    transform: translate(25px, -15px);
+    font-family: 'Serif';
+    display: inline-block;
+    background: #ffe6e6;
+    border-radius: 5px;
+    font-size: 14px;
+    padding: 5px;
+    color: white;
+    margin: 0;
+    animation: chan-sh 6s ease infinite;
+
+}
+
+
+.Article .Details>p {
+    font-family: 'Serif';
+    text-align: left;
+    font-size: 18px;
+    color: #7d7d7d;
+
+}
+
+.Article .BuyBtn {
+    position: absolute;
+    bottom: 20%;
+    left: 20%;
+}
+
+.Article .Btn {
+    transform: translateY(0px);
+    transition: 0.3s linear;
+    background: #809fff;
+    border-radius: 5px;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    color: #eee;
+    padding: 0;
+    margin: 0;
+}
+
+.Article .Btn:hover {
+    transform: translateY(-6px);
+    background: #1a66ff;
+}
+
+.Article .Btn span {
+    font-family: 'Serif';
+    transition: transform 0.3s;
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 1.2em;
+    margin: 0;
+
+}
+
+.Article .Btn .Price,
+.Article .Shopping-cart {
+    background: #333;
+    border: 0;
+    margin: 0;
+}
+
+.Article .Shopping-cart img {}
+
+.Article .Btn .Price {
+    transform: translateX(-10%);
+    padding-right: 15px;
+    z-index: 2;
+}
+
+.Article .Btn .Shopping-cart {
+    transform: translateX(-100%);
+    position: absolute;
+    background: #333;
+    z-index: 1;
+    left: 0;
+    top: 0;
+}
+
+
+
+.Article .Btn .Buy {
+    z-index: 3;
+    font-weight: bolder;
+}
+
+.Article .Btn:hover .Price {
+    /* price dissapears */
+    transform: translateX(-110%);
+}
+
+.Article .Btn:hover .Shopping-cart {
+    /* cart wird reingeschobene */
+    transform: translateX(0%);
+}
+
+.Article .Cover {
+    transition: all 0.3s ease-out;
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+    height: 100%;
+    width: 100%;
+    display: inline-block;
+}
+
+.Article .Cover-image {
+    transition: all 0.3s ease-out;
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+    height: 100%;
+    float: right;
+    width: 45%;
+    display: inline-block;
+}
+
+.Article .CoverImg {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
+.Article .Info {
+    background: rgba(27, 26, 26, 0.9);
+    font-family: 'Serif';
+    transition: all 0.3s ease-out;
+    transform: translateX(-100%);
+    position: absolute;
+    line-height: 1.8;
+    text-align: left;
+    font-size: 105%;
+    cursor: no-drop;
+    color: #FFF;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+}
+
+.Info h2 {
+    text-align: center
+}
+
+.Cover-image:hover .Info {
+    transform: translateX(0);
+}
+
+.Info ul li {
+    transition: 0.3s ease;
+}
+
+.Info ul li:hover {
+    transform: translateX(50px) scale(1.3);
+}
+
+.Cover-image:hover img {
+    transition: all 0.3s ease-out;
+}
+
+.Cover-image:hover img {
+    transform: scale(1.2, 1.2);
+}
