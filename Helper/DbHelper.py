@@ -33,20 +33,20 @@ class DbHelper:
         result = self.db.session.execute(text(query))
         return [dict(zip(result.keys(), row)) for row in result.fetchall()]
 
-    def select_all(self, object_path: str, initial: True) -> list:
+    def select_all_where(self, object_path: str, where: "", initial: True) -> list:
         """
         Select all rows + relationships of a table.
 
         :param object_path: The object we want to select (i.e. "Model.Vinyl.Record.Record")
+        :param where: The where clause
         :param initial: for the initial select, limit to 50 (?)
         :return: object of the given path
         """
         select_obj = get_class(object_path)
-
-        if initial:
-            result = self.db.session.execute(select(select_obj).limit(50)).unique().scalars()
+        if where:
+            result = self.db.session.query(select_obj).filter(text(where))
         else:
-            result = self.db.session.execute(select(select_obj)).unique().scalars()
+            result = self.db.session.query(select_obj)
 
         return [row.to_dict() for row in result]
 

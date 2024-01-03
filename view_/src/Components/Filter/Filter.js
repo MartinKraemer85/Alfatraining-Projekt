@@ -1,49 +1,24 @@
-import React, { useState, useEffect } from 'react';
-import { post } from '../../helper/CRUD.js';
+import React from 'react';
 import './Filter.css'
 
-const Filter = () => {
-    const [genre, setGenre] = useState([]);
+import { CheckBox } from '../CheckBox/CheckBox.js'
+const Filter = ({ genre, subGenre, filterList, setFilterList }) => {
 
-    useEffect(() => {
-        post({
-            url: "/select",
-            body: {
-                "table": "genre",
-                "fields": ["name"]
-            }
-        }).then(res => res.json()
-        ).then(data => {
-            setGenre(data)
-        })
-
-    }, []);
-
-    const [subGenre, setSubGenre] = useState([]);
-
-    useEffect(() => {
-        post({
-            url: "/select",
-            body: {
-                "table": "sub_genre",
-                "fields": ["name"]
-            }
-        }).then(res => res.json()
-        ).then(data => {
-            setSubGenre(data)
-        })
-
-    }, []);
-
-    const createList = (data) => data.map((genre, index) => <li key={index}>{genre.name}</li>)
-
+    const handleOnChange = (event, item) => {
+        const itemId = filterList.indexOf(item)
+        item.isChecked = !(item.isChecked)
+        // add item if it doesn't allready exist in the array, and the item state is checked
+        // remove an item from the filter list if item is not checked and doesn't exist
+        // We need a copy so a change will be detected by the setFilterList method from the app.js
+        const newFilter = [...filterList]
+        itemId === -1 && item.isChecked ? newFilter.push(item) : newFilter.splice(itemId, 1);
+        setFilterList(newFilter)
+    };
 
     return (
         <div className="Filter">
-            <h2>Genre </h2>
-            {createList(genre)}
-            <h2>Sub Genre </h2>
-            {createList(subGenre)}
+            <CheckBox list={genre} type={"genre"} onChange={handleOnChange} />
+            <CheckBox list={subGenre} type={"subGenre"} onChange={handleOnChange} />
         </div>
     )
 

@@ -1,6 +1,7 @@
 .Filter {
-    width: 15%;
-    float: left;
-    height: 100%;
-    padding-left: 2em;
+    margin-top: 5em;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    background-color: #fff;
+    color: #444;
 }

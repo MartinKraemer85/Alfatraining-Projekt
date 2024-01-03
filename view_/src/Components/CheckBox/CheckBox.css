@@ -1,0 +1,39 @@
+body {
+    --brand: lime;
+    accent-color: var(--brand);
+}
+
+fieldset {
+    border-color: var(--brand);
+
+    grid-template-columns: 2em 1fr;
+}
+
+legend {
+    border: thin solid var(--brand);
+    border-radius: 1em;
+    padding: 0.2em 0.5em;
+    font-weight: 700;
+}
+
+fieldset>*+* {
+    margin-top: 0.5rem;
+    float: left;
+}
+
+form>*+* {
+    margin-top: 1.5rem;
+}
+
+input[type="checkbox"],
+input[type="radio"] {
+    width: 1.5em;
+    height: 1.5em;
+    margin-right: 0.65rem;
+}
+
+input[type="range"],
+progress {
+    margin-left: auto;
+    flex: 0 1 50%;
+}

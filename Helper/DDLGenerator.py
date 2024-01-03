@@ -1,8 +1,7 @@
 import os
 import re
-
 from Helper.GeneralHelper import get_class
-from settings import engine
+from settings import db
 
 
 def create_ddl() -> None:
@@ -29,7 +28,7 @@ def create_ddl() -> None:
     file_list = [re.sub('\\\\', '.', file) for file in file_list]
     for file in file_list:
         print(file)
-        get_class(file).metadata.create_all(engine)
+        get_class(file).metadata.create_all(db)
 
 
 

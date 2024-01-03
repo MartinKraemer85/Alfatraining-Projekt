@@ -39,6 +39,9 @@ def select_all_articles() -> tuple[str, int] | Any:
     if content_type == 'application/json':
         json = request.json
         db_helper = DbHelper(db)
-        return db_helper.select_all("Model.Vinyl.Record.Record", json.get("initial"))
+        print(json)
+        return db_helper.select_all_where(object_path="Model.Vinyl.Record.Record",
+                                          initial=json.get("initial"),
+                                          where=json.get("where"))
     else:
         return 'Content-Type not supported', 400

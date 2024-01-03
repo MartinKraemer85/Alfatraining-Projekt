@@ -1,20 +1,23 @@
-import sqlalchemy as db
-from settings import engine
+
 from Helper.GeneralHelper import create_pwd
 from Helper.DDLGenerator import create_ddl
+from decouple import config
 from Helper.DbHelper import DbHelper
+from settings import db, app
+
 import random
 
-db_ = DbHelper(engine)
 
 # print(test.select("record", ["*"], "where artist = 'Leichenzug'"))
 
 # ---- testing stuff ------------
 # create db if needed
-
-test = db_.select_all("Model.Vinyl.Record.Record", False)
-set_current_data(test)
-
+with app.app_context():
+    db_helper = DbHelper(db)
+    test = db_helper.select_all_where(object_path="Model.Vinyl.Record.Record",
+                                      where="genre_1.name = 'Black Metal'",
+                                      initial=True)
+    print(test)
 if False:
     create_ddl()
     genres = ["Rock", "Pop", "Metal", "Black Metal", "Death Metal"]
