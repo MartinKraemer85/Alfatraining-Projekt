@@ -24,7 +24,7 @@ def generate_classinstance(class_path: str, properties: dict = None) -> any:
     return class_instance
 
 
-def get_class(class_path: str) -> object:
+def get_class(class_path: str) -> any:
     """
     Get the class by path.
 

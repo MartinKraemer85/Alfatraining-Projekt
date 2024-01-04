@@ -1,6 +1,7 @@
 from settings import app
 from Routes import Article
 from Routes import Mail
+from Routes import Customer
 from threading import Thread
 import time
 

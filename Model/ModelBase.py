@@ -34,7 +34,7 @@ class ModelBase:
         :param properties: Dictionary of properties
         :return: None
         """
-        for key, value in properties.items():
+        for key, value in properties.get("attributes").items():
             setattr(self, key, value)
 
     def to_dict(self) -> dict:

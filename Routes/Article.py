@@ -1,5 +1,5 @@
 from typing import Any
-from flask import request, jsonify
+from flask import request
 from Helper.DbHelper import DbHelper
 from settings import app, db
 

@@ -4,37 +4,59 @@ import { post } from '../../helper/CRUD.js';
 
 const UserProfile = () => {
 
-    const [formData, setFormData] = useState({ lastname: "", firstName: "", mail: "", subject: "", issue: "" });
+    const [formData, setFormData] = useState({
+        id: -1, username: "", pwd: "",
+        first_name: "", last_name: "", mail: ""
+    });
+
+    useEffect(() => {
+        post({
+            url: "/select",
+            body: {
+                "table": "customer",
+                "fields": ["*"],
+                "where": "where first_name = 'Bertram'"
+            }
+        }).then(res => res.json()
+        ).then(data => {
+            setFormData(...data)
+            console.log(formData);
+        })
+        // Line 26:8:  React Hook useEffect has a missing dependency: 'formData'. Either include it or remove the dependency array
+        // with this useEffect we set the formData. If we add formData to the dependency array, it will loop endlessly
+        // eslint-disable-next-line react-hooks/exhaustive-deps
+    }, []);
+
+    const handleClick = (e) => {
+        console.log(formData);
+        e.preventDefault()
+    }
 
     return (
-        <div className="Contact">
-            <form className='contact-form' >
+        <div className="UserProfile">
+            <form className='profile-form' >
+                <p><b>Hallo {formData.username}</b> </p>
                 <label htmlFor="fname">First Name</label>
-                <input type="text" id="fname" name="firstname" placeholder="Name (*)"
-                    value={formData.firstName}
+                <input type="text" id="fname" name="firstname"
+                    value={formData.first_name}
                     onChange={(e) => setFormData({ ...formData, firstName: e.target.value })} />
 
                 <label htmlFor="lname">Last Name</label>
-                <input type="text" id="lname" name="lastname" placeholder="Last name (*)"
-                    value={formData.lastname}
+                <input type="text" id="lname" name="lastname"
+                    value={formData.last_name}
                     onChange={(e) => setFormData({ ...formData, lastname: e.target.value })} />
 
                 <label htmlFor="mail">Mailadress</label>
-                <input type="text" id="mail" name="lastname" placeholder="Subject (*)"
+                <input type="text" id="mail" name="mail"
                     value={formData.mail}
                     onChange={(e) => setFormData({ ...formData, mail: e.target.value })} />
 
                 <label htmlFor="subject">Subject</label>
-                <input type="text" id="subject" name="lastname" placeholder="Subject (*)"
-                    value={formData.subject}
+                <input type="text" id="pwd" name="pwd"
+                    value={formData.pwd}
                     onChange={(e) => setFormData({ ...formData, subject: e.target.value })} />
 
-
-                <label htmlFor="issue">Issue</label>
-                <textarea id="issue" name="issue" placeholder="Your issue (*)"
-                    value={formData.issue}
-                    onChange={(e) => setFormData({ ...formData, issue: e.target.value })} />
-                <input type="Submit"></input>
+                <input type="Submit" value={"Save"} onClick={handleClick}></input>
             </form>
         </div>
 

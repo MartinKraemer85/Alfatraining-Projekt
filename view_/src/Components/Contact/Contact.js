@@ -1,5 +1,5 @@
 import './Contact.css';
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import { post } from '../../helper/CRUD.js';
 
 const Contact = () => {
@@ -37,12 +37,12 @@ const Contact = () => {
                     onChange={(e) => setFormData({ ...formData, lastname: e.target.value })} />
 
                 <label htmlFor="mail">Mailadress</label>
-                <input type="text" id="mail" name="lastname" placeholder="Subject (*)"
+                <input type="text" id="mail" name="mail" placeholder="Subject (*)"
                     value={formData.mail}
                     onChange={(e) => setFormData({ ...formData, mail: e.target.value })} />
 
                 <label htmlFor="subject">Subject</label>
-                <input type="text" id="subject" name="lastname" placeholder="Subject (*)"
+                <input type="text" id="subject" name="subject" placeholder="Subject (*)"
                     value={formData.subject}
                     onChange={(e) => setFormData({ ...formData, subject: e.target.value })} />
 
@@ -51,7 +51,7 @@ const Contact = () => {
                 <textarea id="issue" name="issue" placeholder="Your issue (*)"
                     value={formData.issue}
                     onChange={(e) => setFormData({ ...formData, issue: e.target.value })} />
-                <input type="Submit"></input>
+                <input type="Submit" value={"Send"}></input>
             </form>
         </div>
 

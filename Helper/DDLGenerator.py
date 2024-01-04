@@ -1,10 +1,9 @@
 import os
 import re
 from Helper.GeneralHelper import get_class
-from settings import db
 
 
-def create_ddl() -> None:
+def create_ddl(engine) -> None:
     """
     Create the ddl for all model classes as long as they don't exist.
 
@@ -28,8 +27,4 @@ def create_ddl() -> None:
     file_list = [re.sub('\\\\', '.', file) for file in file_list]
     for file in file_list:
         print(file)
-        get_class(file).metadata.create_all(db)
-
-
-
-
+        get_class(file).metadata.create_all(engine)
