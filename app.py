@@ -1,5 +1,6 @@
 from settings import app
 from Routes import Article
+from Routes import Mail
 from threading import Thread
 import time
 
@@ -9,6 +10,13 @@ sphinx-build -b html source build
 Requirement Kram:
 pip freeze > requirements.txt
 pip install -r requirements.txt
+npm i --save @fortawesome/fontawesome-svg-core
+npm i --save @fortawesome/free-solid-svg-icons
+npm i --save @fortawesome/free-regular-svg-icons
+npm i --save @fortawesome/free-brands-svg-icons
+npm i --save @fortawesome/react-fontawesome@latest
+package json -->   "proxy": "http://localhost:5000"
+npm install rimraf -g  | rimraf node_modules # delete node modules
 """
 
 

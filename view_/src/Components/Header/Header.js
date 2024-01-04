@@ -1,17 +1,21 @@
 /* eslint-disable jsx-a11y/accessible-emoji */
 import React from "react";
 import "./Header.css";
+import { UserMenu } from "./UserMenu/UserMenu";
+import {
+    Link
+} from 'react-router-dom';
+
 
 const Header = () => {
     return (
         <header className="Header">
-            <img src={"./images/bocchi2.jpg"} className="Logo" alt="logo" />
-            <nav className="Nav">
-                <a href="/">Add Article</a>
-                <a href="/">Wer weiß was noch</a>
-                <a href="/">Impressum?</a>
-                <button>Logout</button>
-            </nav>
+            <div className="navbar">
+                <Link className="active navLink" to="/" ><i className="fa fa-fw fa-home"></i> Home</Link>
+                <Link className="navLink" to="/Search"><i className="fa fa-fw fa-search"></i> Search</Link>
+                <Link className="navLink" to='/Contact'><i className="fa fa-fw fa-envelope"></i> Contact</Link>
+                <UserMenu />
+            </div>
         </header>
     );
 }

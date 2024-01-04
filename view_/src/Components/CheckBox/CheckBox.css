@@ -1,5 +1,5 @@
 body {
-    --brand: lime;
+    --brand: #2e0249;
     accent-color: var(--brand);
 }
 

@@ -1,14 +1,10 @@
 from typing import Any
-
-from flask import Blueprint, request, jsonify
-from Helper.DbHelper import DbHelper
-from Services.Mail import test_mail
-from settings import engine
-
-mail = Blueprint('mail', __name__)
+from flask import request
+from Services.Mail import mail
+from settings import app
 
 
-@mail.route('/mail', methods=['POST'])
+@app.route('/mail', methods=['POST'])
 def send_mail() -> Any:
     """
     | Send a mail to the given destination.
@@ -20,13 +16,18 @@ def send_mail() -> Any:
 
     :return: Error / "success"
     """
-    # TODO: What shall be returned?
+
     content_type = request.headers.get('Content-Type')
     if content_type == 'application/json':
         json = request.json
-        if not json.get("mail_adress"):
+        if not json.get("mail_address"):
             return "Bad Request", 400
-        test_mail(receiver=json.get("mail_adress"))
-        return "success"
+        mail(first_name=json.get("first_name"),
+                  last_name=json.get("last_name"),
+                  mail_address=json.get("mail_address"),
+                  subject=json.get("subject"),
+                  issue=json.get("issue"))
+        # maybe safe the mails?
+        return "success", 200
     else:
         return 'Content-Type not supported', 400
