@@ -23,14 +23,24 @@ if False:
 
 with app.app_context():
     db_helper = DbHelper(db)
-    db_helper.db_insert({"objectPath": "Model.CustomerDetails.Customer.Customer",
-                         "attributes": {"username": "test",
-                                        "pwd": "miau",
-                                        "first_name": "miau",
-                                        "last_name": "schnarr",
-                                        "mail": "mail@bla.de"},
+    db_helper.db_insert({"objectPath": "Model.Vinyl.Record.Record",
+                         "attributes":
+                             {"title": "Band ohne Namen",
+                              "artist": "Band ohne Namen",
+                              "type": "Vinyl",
+                              "year": 2010,
+                              "state": 5,
+                              "price": 5,
+                              "Model.Vinyl.Track.Track": [
+                                  {"track_number": 1, "title": "track1", "length": "5:23"},
+                                  {"track_number": 2, "title": "track2", "length": "5:23"},
+                                  {"track_number": 3, "title": "track3", "length": "5:23"},
+                              ], "Model.Vinyl.Associations.AscGenre": [
+                                 {"genre_id": 5}
+                             ], "Model.Vinyl.Associations.AscSubGenre": [
+                                 {"sub_genre_id": 5}
+                             ]}
                          })
-
 if False:
 
     genres = ["Rock", "Pop", "Metal", "Black Metal", "Death Metal"]

@@ -41,7 +41,19 @@ def select_all_articles() -> tuple[str, int] | Any:
         db_helper = DbHelper(db)
         print(json)
         return db_helper.select_all_where(object_path="Model.Vinyl.Record.Record",
-                                          initial=json.get("initial"),
                                           where=json.get("where"))
+    else:
+        return 'Content-Type not supported', 400
+
+
+@app.route('/add_article', methods=['POST'])
+def add_article() -> tuple[str, int] | Any:
+    content_type = request.headers.get('Content-Type')
+    if content_type == 'application/json':
+        json = request.json
+        db_helper = DbHelper(db)
+        db_helper.db_insert(json)
+
+        return "success", 200
     else:
         return 'Content-Type not supported', 400

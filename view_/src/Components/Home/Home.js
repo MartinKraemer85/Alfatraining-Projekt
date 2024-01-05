@@ -1,43 +1,12 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useContext } from 'react';
 import { Filter } from "../Filter/Filter.js";
 import { Article } from "../Article/Article.js";
 import { Footer } from "../Footer/Footer.js"
-import { post } from '../../helper/CRUD.js';
+import { GenreContext } from '../../contexts/genre.js';
 
 const Home = () => {
-    const [genre, setGenre] = useState([]);
-    const [subGenre, setSubGenre] = useState([]);
+    const { genre, subGenre } = useContext(GenreContext)
     const [filterList, setFilterList] = useState([])
-
-    useEffect(() => {
-        post({
-            url: "/select",
-            body: {
-                "table": "genre",
-                "fields": ["name", "0 as 'isChecked'"]
-            }
-        }).then(res => res.json()
-        ).then(data => {
-            setGenre(data)
-        })
-
-    }, []);
-
-
-    useEffect(() => {
-        post({
-            url: "/select",
-            body: {
-                "table": "sub_genre",
-                "fields": ["name", "0 as 'isChecked'"]
-            }
-        }).then(res => res.json()
-        ).then(data => {
-            setSubGenre(data)
-        })
-
-    }, []);
-
 
     return (
         <>

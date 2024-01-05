@@ -20,7 +20,6 @@ const UserProfile = () => {
         }).then(res => res.json()
         ).then(data => {
             setFormData(...data)
-            console.log(formData);
         })
         // Line 26:8:  React Hook useEffect has a missing dependency: 'formData'. Either include it or remove the dependency array
         // with this useEffect we set the formData. If we add formData to the dependency array, it will loop endlessly
@@ -28,35 +27,47 @@ const UserProfile = () => {
     }, []);
 
     const handleClick = (e) => {
-        console.log(formData);
-        e.preventDefault()
+
+        post({
+            url: "/update_customer",
+            body: {
+                "objectPath": "Model.CustomerDetails.Customer.Customer",
+                "attributes": {
+                    "id": formData.id,
+                    "pwd": formData.pwd,
+                    "first_name": formData.first_name,
+                    "last_name": formData.last_name,
+                    "mail": formData.mail
+                }
+            }
+        }).then(res => console.log(res.status))
     }
 
     return (
         <div className="UserProfile">
             <form className='profile-form' >
-                <p><b>Hallo {formData.username}</b> </p>
+                <p><b>Hello {formData.username}!</b> </p>
                 <label htmlFor="fname">First Name</label>
-                <input type="text" id="fname" name="firstname"
+                <input type="text" id="fname" name="firstname" required
                     value={formData.first_name}
-                    onChange={(e) => setFormData({ ...formData, firstName: e.target.value })} />
+                    onChange={(e) => setFormData({ ...formData, first_name: e.target.value })} />
 
                 <label htmlFor="lname">Last Name</label>
-                <input type="text" id="lname" name="lastname"
+                <input type="text" id="lname" name="lastname" required
                     value={formData.last_name}
-                    onChange={(e) => setFormData({ ...formData, lastname: e.target.value })} />
+                    onChange={(e) => setFormData({ ...formData, last_name: e.target.value })} />
 
                 <label htmlFor="mail">Mailadress</label>
-                <input type="text" id="mail" name="mail"
+                <input type="text" id="mail" name="mail" required
                     value={formData.mail}
                     onChange={(e) => setFormData({ ...formData, mail: e.target.value })} />
 
-                <label htmlFor="subject">Subject</label>
-                <input type="text" id="pwd" name="pwd"
+                <label htmlFor="subject">Password</label>
+                <input type="text" id="pwd" name="pwd" required
                     value={formData.pwd}
-                    onChange={(e) => setFormData({ ...formData, subject: e.target.value })} />
+                    onChange={(e) => setFormData({ ...formData, pwd: e.target.value })} />
 
-                <input type="Submit" value={"Save"} onClick={handleClick}></input>
+                <input type="Submit" value={"Save"} onClick={handleClick} readOnly />
             </form>
         </div>
 

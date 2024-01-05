@@ -16,6 +16,8 @@ npm i --save @fortawesome/free-solid-svg-icons
 npm i --save @fortawesome/free-regular-svg-icons
 npm i --save @fortawesome/free-brands-svg-icons
 npm i --save @fortawesome/react-fontawesome@latest
+npm i --save react-select
+
 package json -->   "proxy": "http://localhost:5000"
 npm install rimraf -g  | rimraf node_modules # delete node modules
 """

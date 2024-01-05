@@ -51,7 +51,7 @@ const Contact = () => {
                 <textarea id="issue" name="issue" placeholder="Your issue (*)"
                     value={formData.issue}
                     onChange={(e) => setFormData({ ...formData, issue: e.target.value })} />
-                <input type="Submit" value={"Send"}></input>
+                <input type="Submit" value={"Send"} readOnly />
             </form>
         </div>
 
