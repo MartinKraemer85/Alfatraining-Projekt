@@ -26,7 +26,7 @@ def select() -> tuple[str, int] | Any:
     if content_type == 'application/json':
         json = request.json
         if not json.get("table") or not json.get("fields"):
-            return "Bad request, fool!", 400
+            return "Bad request", 400
         db_helper = DbHelper(db)
         return db_helper.select(json.get("table"), json.get("fields"), json.get("where"))
     else:
@@ -39,7 +39,6 @@ def select_all_articles() -> tuple[str, int] | Any:
     if content_type == 'application/json':
         json = request.json
         db_helper = DbHelper(db)
-        print(json)
         return db_helper.select_all_where(object_path="Model.Vinyl.Record.Record",
                                           where=json.get("where"))
     else:

@@ -4,7 +4,7 @@ const Footer = props => {
     return (
         <div className="Footer">
             <footer>
-                <p>Hier kommt was rein aus der db</p>
+                <p>Impressum?</p>
             </footer>
         </div>
     )

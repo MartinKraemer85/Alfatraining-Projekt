@@ -20,35 +20,34 @@ const Contact = () => {
         }).then(res => { console.log(res.status) }// hier was machen wenn fehler
         )
 
-        e.preventDefault();
     }
 
     return (
         <div className="Contact">
             <form className='contact-form' onSubmit={(e) => handleSubmit(e)}>
                 <label htmlFor="fname">First Name</label>
-                <input type="text" id="fname" name="firstname" placeholder="Name (*)"
+                <input type="text" id="fname" name="firstname" placeholder="Name (*)" required
                     value={formData.firstName}
                     onChange={(e) => setFormData({ ...formData, firstName: e.target.value })} />
 
                 <label htmlFor="lname">Last Name</label>
-                <input type="text" id="lname" name="lastname" placeholder="Last name (*)"
+                <input type="text" id="lname" name="lastname" placeholder="Last name (*)" required
                     value={formData.lastname}
                     onChange={(e) => setFormData({ ...formData, lastname: e.target.value })} />
 
                 <label htmlFor="mail">Mailadress</label>
-                <input type="text" id="mail" name="mail" placeholder="Subject (*)"
+                <input type="text" id="mail" name="mail" placeholder="Subject (*)" required
                     value={formData.mail}
                     onChange={(e) => setFormData({ ...formData, mail: e.target.value })} />
 
                 <label htmlFor="subject">Subject</label>
-                <input type="text" id="subject" name="subject" placeholder="Subject (*)"
+                <input type="text" id="subject" name="subject" placeholder="Subject (*)" required
                     value={formData.subject}
                     onChange={(e) => setFormData({ ...formData, subject: e.target.value })} />
 
 
                 <label htmlFor="issue">Issue</label>
-                <textarea id="issue" name="issue" placeholder="Your issue (*)"
+                <textarea id="issue" name="issue" placeholder="Your issue (*)" required
                     value={formData.issue}
                     onChange={(e) => setFormData({ ...formData, issue: e.target.value })} />
                 <input type="Submit" value={"Send"} readOnly />

@@ -1,7 +1,7 @@
-import React, { useState, useEffect, useContext } from 'react';
+import React, { useState, useContext } from 'react';
 import { post } from '../../../helper/CRUD';
 import { GenreContext } from '../../../contexts/genre';
-import Select, { StylesConfig } from 'react-select'
+import Select from 'react-select'
 
 const AddArticle = () => {
     const { genre, subGenre } = useContext(GenreContext)
@@ -56,8 +56,6 @@ const AddArticle = () => {
         })
 
     }
-
-
 
     return (
         <>

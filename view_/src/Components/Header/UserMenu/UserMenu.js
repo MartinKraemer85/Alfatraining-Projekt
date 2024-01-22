@@ -1,5 +1,5 @@
 import "./UserMenu.css"
-import React, { useRef, useState } from "react";
+import React, { useRef } from "react";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faUser } from "@fortawesome/free-regular-svg-icons"
 import { Link } from "react-router-dom";
