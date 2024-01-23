@@ -1,10 +1,10 @@
 import React from 'react';
 import './Filter.css'
-
 import { CheckBox } from '../CheckBox/CheckBox.js'
-const Filter = ({ genre, subGenre, filterList, setFilterList }) => {
 
-    const handleOnChange = (event, item) => {
+export function Filter({ genre, subGenre, filterList, setFilterList }) {
+
+    function handleOnChange(event, item) {
         const itemId = filterList.indexOf(item)
         item.isChecked = !(item.isChecked)
         // add item if it doesn't allready exist in the array, and the item state is checked
@@ -24,4 +24,3 @@ const Filter = ({ genre, subGenre, filterList, setFilterList }) => {
 
 }
 
-export { Filter }

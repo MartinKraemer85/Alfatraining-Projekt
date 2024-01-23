@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faUser } from "@fortawesome/free-regular-svg-icons"
 import { Link } from "react-router-dom";
 
-const UserMenu = () => {
+export function UserMenu() {
     const menu = useRef()
 
     const handleClick = () => {
@@ -29,5 +29,3 @@ const UserMenu = () => {
         </div>
     )
 }
-
-export { UserMenu }

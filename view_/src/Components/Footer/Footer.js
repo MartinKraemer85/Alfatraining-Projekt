@@ -1,6 +1,6 @@
 import "./Footer.css"
 
-const Footer = props => {
+export function Footer(props) {
     return (
         <div className="Footer">
             <footer>
@@ -9,5 +9,3 @@ const Footer = props => {
         </div>
     )
 }
-
-export { Footer }

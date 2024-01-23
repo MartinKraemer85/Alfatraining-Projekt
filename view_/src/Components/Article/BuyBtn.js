@@ -1,6 +1,6 @@
 //import "./Article.css"
 
-const BuyBtn = props => {
+export function BuyBtn(props) {
 
     return (
         <div className="BuyBtn">
@@ -13,5 +13,3 @@ const BuyBtn = props => {
     )
 
 }
-
-export { BuyBtn }

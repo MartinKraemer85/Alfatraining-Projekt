@@ -4,7 +4,7 @@ import { Article } from "../Article/Article.js";
 import { Footer } from "../Footer/Footer.js"
 import { GenreContext } from '../../contexts/genre.js';
 
-const Home = () => {
+export function Home() {
     const { genre, subGenre } = useContext(GenreContext)
     const [filterList, setFilterList] = useState([])
 
@@ -16,5 +16,3 @@ const Home = () => {
         </>
     )
 }
-
-export { Home }

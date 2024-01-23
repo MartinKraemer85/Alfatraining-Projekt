@@ -2,11 +2,11 @@ import './Contact.css';
 import React, { useState } from 'react';
 import { post } from '../../helper/CRUD.js';
 
-const Contact = () => {
+export function Contact() {
 
     const [formData, setFormData] = useState({ lastname: "", firstName: "", mail: "", subject: "", issue: "" });
 
-    const handleSubmit = (e) => {
+    function handleSubmit(e) {
         console.log(formData.firstName);
         post({
             url: "/mail",
@@ -56,5 +56,3 @@ const Contact = () => {
 
     )
 }
-
-export { Contact };

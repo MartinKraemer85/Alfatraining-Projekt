@@ -102,14 +102,10 @@ class DbHelper:
                  7 - ArgumentError
         """
         insert_obj = generate_classinstance(values.get("objectPath"), values)
-        print(values)
         try:
-            print(insert_obj)
-
             self.db.session.add(insert_obj)
             self.db.session.flush()
             self.db.session.commit()
-            print("?")
             return 1
         except ProgrammingError:
             return 2

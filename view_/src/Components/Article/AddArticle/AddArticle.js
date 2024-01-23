@@ -3,7 +3,7 @@ import { post } from '../../../helper/CRUD';
 import { GenreContext } from '../../../contexts/genre';
 import Select from 'react-select'
 
-const AddArticle = () => {
+export function AddArticle() {
     const { genre, subGenre } = useContext(GenreContext)
     const currentYear = new Date().getFullYear();
 
@@ -26,7 +26,7 @@ const AddArticle = () => {
         ]
     });
 
-    const handleClick = (e) => {
+    function handleClick(e) {
         post({
             url: "/add_article",
             body: {
@@ -50,11 +50,10 @@ const AddArticle = () => {
         }).then(res => console.log(res))
     }
 
-    const createOptions = (arr) => {
+    function createOptions(arr) {
         return arr.map((el) => {
             return { "value": el.id, "label": el.name }
         })
-
     }
 
     return (
@@ -107,5 +106,3 @@ const AddArticle = () => {
         </>
     )
 }
-
-export { AddArticle }

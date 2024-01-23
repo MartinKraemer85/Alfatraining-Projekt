@@ -7,7 +7,7 @@ import {
 } from 'react-router-dom';
 
 
-const Header = () => {
+export function Header() {
     return (
         <header className="Header">
             <div className="navbar">
@@ -20,6 +20,6 @@ const Header = () => {
     );
 }
 
-export { Header };
+
 
 // https://codesandbox.io/p/sandbox/responsive-animated-top-navigation-bar-with-react-forked-032o8o?file=%2Fsrc%2Fcomponents%2FHeader.css%3A1%2C1-148%2C1

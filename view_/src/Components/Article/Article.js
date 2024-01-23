@@ -5,7 +5,7 @@ import { Details } from './Details.js';
 import { BuyBtn } from './BuyBtn.js'
 import "./Article.css"
 
-const Article = ({ filterList }) => {
+export function Article({ filterList }) {
     const [articles, setArticle] = useState([])
     const [filter, setFilter] = useState([...filterList]);
 
@@ -48,7 +48,7 @@ const Article = ({ filterList }) => {
         // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [filter]);
 
-    const createWhere = () => {
+    function createWhere() {
         let where = ""
         // create the where clause, genre_1 / sub_genre_1 is because of the way sqlalchemie builds joined querys
         filter.forEach((genre) => where ? where += ` AND (genre_1.name = '${genre.name}' OR sub_genre_1.name = '${genre.name}')` :
@@ -59,9 +59,7 @@ const Article = ({ filterList }) => {
 
     const rndNumber = (min, max) => ~~(Math.random() * (max - min + 1) + min);
 
-    const getPicture = () => {
-        return `./images/${images[rndNumber(0, images.length - 1)]}`;
-    }
+    const getPicture = () => `./images/${images[rndNumber(0, images.length - 1)]}`;
 
     return (
         <div className='articleWrapper'>
@@ -87,4 +85,3 @@ const Article = ({ filterList }) => {
     )
 }
 
-export { Article }

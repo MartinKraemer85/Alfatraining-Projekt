@@ -1,6 +1,6 @@
 import React from 'react';
 import "./CheckBox.css"
-const CheckBox = ({ list, type, onChange }) => {
+export function CheckBox({ list, type, onChange }) {
 
     return (
         <fieldset>
@@ -21,4 +21,3 @@ const CheckBox = ({ list, type, onChange }) => {
         </fieldset>
     );
 };
-export { CheckBox };

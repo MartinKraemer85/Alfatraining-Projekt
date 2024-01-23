@@ -1,4 +1,4 @@
-const Tracks = props => {
+export function Tracks(props) {
 
     const createTrackList = (data) => data.map((tracks, index) => <li key={index}>{tracks.title}:{tracks.length}</li>)
 
@@ -15,5 +15,3 @@ const Tracks = props => {
     )
 
 }
-
-export { Tracks }

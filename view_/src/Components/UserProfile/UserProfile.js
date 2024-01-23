@@ -2,7 +2,7 @@ import './UserProfile.css';
 import React, { useState, useEffect } from 'react';
 import { post } from '../../helper/CRUD.js';
 
-const UserProfile = () => {
+export function UserProfile() {
 
     const [formData, setFormData] = useState({
         id: -1, username: "", pwd: "",
@@ -26,7 +26,7 @@ const UserProfile = () => {
         // eslint-disable-next-line react-hooks/exhaustive-deps
     }, []);
 
-    const handleClick = (e) => {
+    function handleClick(e) {
 
         post({
             url: "/update_customer",
@@ -73,5 +73,3 @@ const UserProfile = () => {
 
     )
 }
-
-export { UserProfile };

@@ -25,6 +25,15 @@ def create_ddl(engine) -> None:
             file_list.append(rel_file)
 
     file_list = [re.sub('\\\\', '.', file) for file in file_list]
+
+    # cascade deleting not working as expected so run the drop stuff twice
+    # (1. delete everything that is related to 2. Now delete the rest)
+    for i in range(2):
+        for file in file_list:
+            try:
+                get_class(file).metadata.drop_all(engine)
+            except:
+                pass
+
     for file in file_list:
-        print(file)
         get_class(file).metadata.create_all(engine)

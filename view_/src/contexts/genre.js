@@ -2,7 +2,7 @@ import React, { createContext, useState, useEffect } from 'react'
 import { post } from '../helper/CRUD';
 export const GenreContext = createContext()
 
-const GenreContextProvider = (props) => {
+export function GenreContextProvider(props) {
     const [genre, setGenre] = useState([]);
     const [subGenre, setSubGenre] = useState([]);
 
@@ -44,5 +44,3 @@ const GenreContextProvider = (props) => {
         </GenreContext.Provider>
     )
 }
-
-export { GenreContextProvider }
