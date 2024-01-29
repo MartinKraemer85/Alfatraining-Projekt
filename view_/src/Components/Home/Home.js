@@ -1,18 +1,17 @@
-import React, { useState, useContext } from 'react';
+import React, { useContext } from 'react';
 import { Filter } from "../Filter/Filter.js";
 import { Article } from "../Article/Article.js";
-import { Footer } from "../Footer/Footer.js"
 import { GenreContext } from '../../contexts/genre.js';
+import { useArticle } from '../../Hooks/useArticle.js';
 
 export function Home() {
     const { genre, subGenre } = useContext(GenreContext)
-    const [filterList, setFilterList] = useState([])
+    const { articles, filterList, setFilterList } = useArticle()
 
     return (
         <>
             <Filter genre={genre} subGenre={subGenre} filterList={filterList} setFilterList={setFilterList} />
-            <Article filterList={filterList} />
-            <Footer />
+            <Article articles={articles} />
         </>
     )
 }

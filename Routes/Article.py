@@ -51,7 +51,7 @@ def add_article() -> tuple[str, int] | Any:
     if content_type == 'application/json':
         json = request.json
         db_helper = DbHelper(db)
-        db_helper.db_insert(json)
+        db_helper.insert(json)
 
         return "success", 200
     else:

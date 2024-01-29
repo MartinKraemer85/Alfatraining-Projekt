@@ -1,10 +1,7 @@
 from sqlalchemy import Float
 from .Track import Track
 from ..ModelBase import *
-from .Associations import AscSubGenre, AscGenre
-
-
-# from .Genre import Genre, SubGenre
+from .Associations import AscSubGenre, AscGenre, AscDealerRecord
 
 
 @dataclass()
@@ -21,15 +18,12 @@ class Record(ModelBase, Base):
     artist: Mapped[str] = mapped_column(String(100))
     type: Mapped[str] = mapped_column(String(100))
     year: Mapped[int] = mapped_column()
-    state: Mapped[int] = mapped_column()
-    price: Mapped[float] = mapped_column(Float(2))
     # todo: reviews?
     # lazy = "joined" : each Parent will also have its children collection populated
-    tracks: Mapped[List[Track]] = relationship("Track", cascade="all, "
-                                                                "delete-orphan",
-                                               lazy="joined")
+    tracks: Mapped[List[Track]] = relationship("Track", cascade="all, " "delete-orphan", lazy="joined")
     genres: Mapped[List[AscGenre]] = relationship(lazy="joined")
     sub_genres: Mapped[List[AscSubGenre]] = relationship(lazy="joined")
+    customer: Mapped[List[AscDealerRecord]] = relationship(lazy="joined")
 
     # reviews: Mapped[List['Review']] = relationship("Review", cascade="all, delete-orphan")
 
@@ -39,17 +33,17 @@ class Record(ModelBase, Base):
             # also append the tracklist / genre / subgenre if exists
             if key == "Model.Vinyl.Track.Track":
                 for track in value:
-                    self.tracks.append(generate_classinstance("Model.Vinyl.Track.Track", track))
+                    self.tracks.append(generate_classinstance(key, track))
                 continue
 
             if key == "Model.Vinyl.Associations.AscGenre":
                 for genre in value:
-                    self.genres.append(generate_classinstance("Model.Vinyl.Associations.AscGenre", genre))
+                    self.genres.append(generate_classinstance(key, genre))
                 continue
 
             if key == "Model.Vinyl.Associations.AscSubGenre":
                 for sub_genre in value:
-                    self.sub_genres.append(generate_classinstance("Model.Vinyl.Associations.AscSubGenre", sub_genre))
+                    self.sub_genres.append(generate_classinstance(key, sub_genre))
                 continue
 
             setattr(self, key, value)

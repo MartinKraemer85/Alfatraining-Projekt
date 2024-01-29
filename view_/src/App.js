@@ -11,8 +11,8 @@ import { Home } from "./Components/Home/Home.js";
 import { UserProfile } from './Components/UserProfile/UserProfile.js';
 import { AddArticle } from './Components/Article/AddArticle/AddArticle.js';
 import { GenreContextProvider } from './contexts/genre.js';
-
-
+import { ArticleOverview } from './Components/ArticleOverview/ArticleOverview.js';
+import { Footer } from "./Components/Footer/Footer.js";
 
 function App() {
 
@@ -31,7 +31,9 @@ function App() {
             <GenreContextProvider>
               <AddArticle />
             </GenreContextProvider>} />
+          <Route path="/Article" element={<ArticleOverview />} />
         </Routes>
+        <Footer />
       </BrowserRouter >
     </>
 

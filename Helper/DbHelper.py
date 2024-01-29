@@ -80,7 +80,7 @@ class DbHelper:
 
         return 1
 
-    def db_insert(self, values: dict) -> int:
+    def insert(self, values: dict) -> int:
         """
         | Insert a new row with the given dictionary. I.e.:
         |
@@ -102,10 +102,14 @@ class DbHelper:
                  7 - ArgumentError
         """
         insert_obj = generate_classinstance(values.get("objectPath"), values)
+
+        self.db.session.add(insert_obj)
+        self.db.session.flush()
+        self.db.session.commit()
         try:
-            self.db.session.add(insert_obj)
-            self.db.session.flush()
-            self.db.session.commit()
+            # self.db.session.add(insert_obj)
+            # self.db.session.flush()
+            # self.db.session.commit()
             return 1
         except ProgrammingError:
             return 2
