@@ -1,7 +1,6 @@
-from sqlalchemy import Float
 from .Track import Track
 from ..ModelBase import *
-from .Associations import AscSubGenre, AscGenre, AscDealerRecord
+from .Associations import AscSubGenre, AscGenre, AscSellerRecord
 
 
 @dataclass()
@@ -20,10 +19,10 @@ class Record(ModelBase, Base):
     year: Mapped[int] = mapped_column()
     # todo: reviews?
     # lazy = "joined" : each Parent will also have its children collection populated
-    tracks: Mapped[List[Track]] = relationship("Track", cascade="all, " "delete-orphan", lazy="joined")
-    genres: Mapped[List[AscGenre]] = relationship(lazy="joined")
-    sub_genres: Mapped[List[AscSubGenre]] = relationship(lazy="joined")
-    customer: Mapped[List[AscDealerRecord]] = relationship(lazy="joined")
+    tracks: Mapped[List[Track]] = relationship("Track", lazy="joined", cascade="all, delete")
+    genres: Mapped[List[AscGenre]] = relationship(lazy="joined", cascade="all, delete")
+    sub_genres: Mapped[List[AscSubGenre]] = relationship(lazy="joined", cascade="all, delete")
+    seller: Mapped[List[AscSellerRecord]] = relationship(lazy="joined", cascade="all, delete")
 
     # reviews: Mapped[List['Review']] = relationship("Review", cascade="all, delete-orphan")
 
@@ -44,6 +43,12 @@ class Record(ModelBase, Base):
             if key == "Model.Vinyl.Associations.AscSubGenre":
                 for sub_genre in value:
                     self.sub_genres.append(generate_classinstance(key, sub_genre))
+                continue
+
+            if key == "Model.Vinyl.Associations.AscSellerRecord":
+                for seller in value:
+                    self.seller.append(generate_classinstance(key, seller))
+                    print(self.seller)
                 continue
 
             setattr(self, key, value)

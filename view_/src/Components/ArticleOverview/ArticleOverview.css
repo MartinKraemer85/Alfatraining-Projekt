@@ -1,0 +1,33 @@
+/* DivTable.com */
+.divTable {
+    box-shadow: 0 15px 30px 1px grey;
+    background: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    border-radius: 5px;
+    margin: 5em auto;
+    width: 90%;
+}
+
+
+.overViewWrapper {
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    font-size: 20px;
+}
+
+.overviewColumn {
+    height: 100%;
+}
+
+.addtocartBtn {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 16px;
+    font-size: 16px;
+    cursor: pointer;
+    width: 30%;
+    border-radius: 20% !important;
+}

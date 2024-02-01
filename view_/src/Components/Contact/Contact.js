@@ -53,6 +53,5 @@ export function Contact() {
                 <input type="Submit" value={"Send"} readOnly />
             </form>
         </div>
-
     )
 }

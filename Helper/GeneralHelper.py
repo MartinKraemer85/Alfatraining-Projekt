@@ -17,7 +17,7 @@ def generate_classinstance(class_path: str, properties: dict = None) -> any:
         class_instance = class_()
     except TypeError:
         return object()
-    print(properties)
+
     if properties:
         class_instance.set_properties(properties)
 

@@ -1,6 +1,5 @@
-from Model.ModelBase import *
-from Model.AddressDetails import City, Country, District,State, Street
-
+from ..ModelBase import *
+from .District import District
 
 @dataclass()
 class Address(ModelBase, Base):
@@ -8,8 +7,6 @@ class Address(ModelBase, Base):
     __table_args__ = {'extend_existing': True}
 
     id: Mapped[int] = mapped_column(primary_key=True)
-    # tracks: Mapped[List[City]] = relationship(lazy="immediate")
-    # genres: Mapped[List[Country]] = relationship(lazy="immediate")
-    # sub_genres: Mapped[List[District]] = relationship(lazy="immediate")
-    # customer: Mapped[List[State]] = relationship(lazy="immediate")
-    # customer: Mapped[List[Street]] = relationship(lazy="immediate")
+    number: Mapped[str] = mapped_column(String(10))
+    name: Mapped[str] = mapped_column(String(70))
+    district_id: Mapped[int] = mapped_column(ForeignKey("district.id"))

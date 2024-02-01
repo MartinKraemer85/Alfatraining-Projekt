@@ -1,6 +1,5 @@
-from Model.AddressDetails.Street import Street
-from Model.ModelBase import *
-
+from ..ModelBase import *
+from .City import City
 
 @dataclass()
 class District(ModelBase, Base):
@@ -11,12 +10,12 @@ class District(ModelBase, Base):
     name: Mapped[str] = mapped_column(String(200))
     zip_code: Mapped[str] = mapped_column(String(9))
     city_id: Mapped[int] = mapped_column(ForeignKey("city.id"))
-    streets: Mapped[List[Street]] = relationship("Street", lazy="joined")
+    addresses: Mapped[List["Address"]] = relationship(lazy="joined", cascade="all, delete")
 
     def set_properties(self, properties: dict) -> None:
         for key, value in properties.items():
-            if key == "Model.AddressDetails.Street.Street":
-                for street in value:
-                    self.streets.append(generate_classinstance(key, street))
+            if key == "Model.AddressDetails.Address.Address":
+                for address in value:
+                    self.addresses.append(generate_classinstance(key, address))
                 continue
             setattr(self, key, value)

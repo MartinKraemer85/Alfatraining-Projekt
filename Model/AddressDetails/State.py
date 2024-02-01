@@ -1,6 +1,5 @@
-from Model.AddressDetails.City import City
-from Model.ModelBase import *
-
+from ..ModelBase import *
+from .Country import Country
 
 @dataclass()
 class State(ModelBase, Base):
@@ -11,7 +10,7 @@ class State(ModelBase, Base):
     state_name: Mapped[str] = mapped_column(String(30))
     state_initials: Mapped[str] = mapped_column(String(3))
     country_id: Mapped[int] = mapped_column(ForeignKey("country.id"))
-    cities: Mapped[List[City]] = relationship("City", lazy="joined")
+    cities: Mapped[List["City"]] = relationship(lazy="joined", cascade="all, delete")
 
     def set_properties(self, properties: dict) -> None:
         for key, value in properties.items():

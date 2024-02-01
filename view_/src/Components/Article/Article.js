@@ -24,7 +24,7 @@ export function Article({ articles }) {
     const getPicture = () => `./images/${images[rndNumber(0, images.length - 1)]}`;
 
     return (
-        <div className='articleWrapper'>
+        <>
             {articles?.map((article, index) => (
                 <div className="Article" key={index} onClick={() => navigate("/Article", { state: { article: article, } })}>
                     <div className="Details">
@@ -41,8 +41,7 @@ export function Article({ articles }) {
                     </div>
                 </div>
             ))}
-        </div>
-
+        </>
     )
 }
 

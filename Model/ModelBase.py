@@ -1,7 +1,7 @@
 from dataclasses import dataclass, field, asdict, fields
 from typing import List
 from datetime import time
-from sqlalchemy import Column, Integer, String, Boolean, Numeric, Time, ForeignKey,Table
+from sqlalchemy import Column, Integer, String, Boolean, Numeric, Time, ForeignKey, Table
 from sqlalchemy.orm import relationship, DeclarativeBase, Mapped, mapped_column
 from Helper.GeneralHelper import generate_classinstance
 
@@ -35,8 +35,7 @@ class ModelBase:
         :return: None
         """
         attributes = properties.get("attributes")
-        for key, value in attributes if attributes else properties.items():
-
+        for key, value in attributes.items() if attributes else properties.items():
             setattr(self, key, value)
 
     def to_dict(self) -> dict:

@@ -30,7 +30,7 @@ class DbHelper:
         result = self.db.session.execute(text(query))
         return [dict(zip(result.keys(), row)) for row in result.fetchall()]
 
-    def select_all_where(self, object_path: str, where: "") -> list:
+    def select_all_where(self, object_path: str, where="") -> list:
         """
         Select all rows + relationships of a table.
 
@@ -44,7 +44,7 @@ class DbHelper:
         else:
             result = self.db.session.query(select_obj)
 
-        return [row.to_dict() for row in result]
+        return [row for row in result]
 
     def update(self, object_path: str, values: dict) -> int:
         """
@@ -103,13 +103,10 @@ class DbHelper:
         """
         insert_obj = generate_classinstance(values.get("objectPath"), values)
 
-        self.db.session.add(insert_obj)
-        self.db.session.flush()
-        self.db.session.commit()
         try:
-            # self.db.session.add(insert_obj)
-            # self.db.session.flush()
-            # self.db.session.commit()
+            self.db.session.add(insert_obj)
+            self.db.session.flush()
+            self.db.session.commit()
             return 1
         except ProgrammingError:
             return 2

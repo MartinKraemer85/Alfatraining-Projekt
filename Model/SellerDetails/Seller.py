@@ -2,8 +2,8 @@ from Model.ModelBase import *
 
 
 @dataclass()
-class Dealer(ModelBase, Base):
-    __tablename__ = 'dealer'
+class Seller(ModelBase, Base):
+    __tablename__ = 'seller'
     __table_args__ = {'extend_existing': True}
 
     id: Mapped[int] = mapped_column(primary_key=True)
@@ -12,5 +12,5 @@ class Dealer(ModelBase, Base):
     first_name: Mapped[str] = mapped_column(String(100))
     last_name: Mapped[str] = mapped_column(String(100))
     mail: Mapped[str] = mapped_column(String(100))
-    address_id: Mapped[int] = mapped_column(ForeignKey("address.id"))
+    address: Mapped[int] = mapped_column(ForeignKey("address.id"))
 

@@ -19,7 +19,7 @@ class Track(ModelBase, Base):
     # title of the vinyl record
     title: Mapped[str] = mapped_column(String(100))
     # the artist of the vinyl record
-    length: Mapped[Time] = mapped_column(Time)
+    length: Mapped[str] = mapped_column(String(100))
 
     def set_properties(self, properties: dict) -> None:
         for key, value in properties.items():
