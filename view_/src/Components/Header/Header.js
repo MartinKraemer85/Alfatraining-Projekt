@@ -8,6 +8,9 @@ import {
 
 
 export function Header() {
+
+
+
     return (
         <header className="Header">
             <div className="navbar">
@@ -15,9 +18,10 @@ export function Header() {
                 <Link className="navLink" to="/AddArticle"><i className='far fa-edit'></i>Add Article</Link>
                 <Link className="navLink" to='/Contact'><i className="fa fa-fw fa-envelope"></i> Contact</Link>
                 <UserMenu />
+                <button className="buyBtn" onClick={() => document.querySelector('body').classList.toggle('active')}>
+                    <i className="fa fa-shopping-cart" />
+                </button>
             </div>
         </header>
     );
 }
-
-// https://codesandbox.io/p/sandbox/responsive-animated-top-navigation-bar-with-react-forked-032o8o?file=%2Fsrc%2Fcomponents%2FHeader.css%3A1%2C1-148%2C1

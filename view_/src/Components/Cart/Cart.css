@@ -1,0 +1,87 @@
+.cartContainer {
+    width: 100%;
+    margin: auto;
+    transition: 0.5s;
+    margin-right: 1em;
+    height: 3em;
+}
+
+.cart {
+    position: fixed;
+    top: 0;
+    left: 100%;
+    width: 500px;
+    background-color: #E3E7E8;
+    height: 100vh;
+    transition: 0.5s;
+    z-index: 5;
+}
+
+.active .cart {
+    left: calc(100% - 500px);
+}
+
+.active .cardContainer {
+    transform: translateX(-200px);
+}
+
+
+.cart-item {
+    border: 1px solid #ddd;
+    padding: 1em;
+    margin-bottom: 10px;
+}
+
+.cart-header {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+.product-details {
+    width: auto;
+}
+
+.counter {
+    display: flex;
+    align-items: center;
+}
+
+.counter button {
+    padding: 5px;
+}
+
+.counter span {
+    margin: 0 10px;
+}
+
+.price-section {
+    /* Styling for price section */
+    font-size: 16px;
+    color: #333;
+    margin-top: 10px;
+    /* Додано відступ зверху для кращого розташування */
+}
+
+.checkout-section {
+    border-top: 1px solid #ddd;
+
+    padding-left: 1em;
+}
+
+.checkout-section .checkoutBtn {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.checkout-section .closeBtn {
+    padding: 10px 20px;
+    margin-left: 10px;
+    background-color: red;
+    color: white;
+    border: none;
+    cursor: pointer;
+}

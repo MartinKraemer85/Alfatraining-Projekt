@@ -33,3 +33,18 @@ Header .active {
         display: block;
     }
 }
+
+.buyBtn {
+    font-size: 16px;
+    color: white;
+    border: none;
+    outline: none;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+
+.buyBtn:hover {
+    background-color: #000;
+}

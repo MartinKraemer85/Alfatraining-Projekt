@@ -27,7 +27,7 @@ class AscSubGenre(ModelBase, Base):
 
 @dataclass()
 class AscSellerRecord(ModelBase, Base):
-    __tablename__ = 'record_seller'
+    __tablename__ = 'exemplar'
     __table_args__ = {'extend_existing': True}
 
     seller_id: Mapped[int] = mapped_column(ForeignKey("seller.id", ondelete="CASCADE"), primary_key=True)

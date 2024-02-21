@@ -1,4 +1,4 @@
-import React, { Fragment } from 'react';
+import React, { useState } from 'react';
 import './App.css';
 import { Header } from './Components/Header/Header.js';
 import {
@@ -10,16 +10,22 @@ import { Contact } from "./Components/Contact/Contact.js";
 import { Home } from "./Components/Home/Home.js";
 import { UserProfile } from './Components/UserProfile/UserProfile.js';
 import { AddArticle } from './Components/Article/AddArticle/AddArticle.js';
-import { GenreContextProvider } from './contexts/genre.js';
+import { GenreContextProvider } from './contexts/GenreList.js';
 import { ArticleOverview } from './Components/ArticleOverview/ArticleOverview.js';
 import { Footer } from "./Components/Footer/Footer.js";
+import { Cart } from './Components/Cart/Cart.js';
 
 function App() {
+  const [cartList, setCartList] = useState([]);
 
   return (
     <>
       <BrowserRouter >
         <Header />
+        <Cart
+          cartList={cartList}
+          setCartList={setCartList}
+        />
         <Routes>
           <Route path="/" element={
             <GenreContextProvider>
@@ -31,7 +37,13 @@ function App() {
             <GenreContextProvider>
               <AddArticle />
             </GenreContextProvider>} />
-          <Route path="/Article" element={<ArticleOverview />} />
+          <Route path="/Article" element={
+            <ArticleOverview
+              cartList={cartList}
+              setCartList={setCartList}
+            />
+          }
+          />
         </Routes>
         <Footer />
       </BrowserRouter >

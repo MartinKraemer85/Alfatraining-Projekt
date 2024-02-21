@@ -1,6 +1,6 @@
 import React, { useState, useContext } from 'react';
 import { post } from '../../../helper/CRUD';
-import { GenreContext } from '../../../contexts/genre';
+import { GenreContext } from '../../../contexts/GenreList';
 import Select from 'react-select'
 
 export function AddArticle() {

@@ -1,6 +1,7 @@
 from ..ModelBase import *
 from .District import District
 
+
 @dataclass()
 class Address(ModelBase, Base):
     __tablename__ = 'address'
